@@ -1,0 +1,33 @@
+
+  .AnswerInput {
+    flex-grow: 1;
+    border-radius: 10px;
+    border: 2px solid #e5e5e5;
+    background-color: #f7f7f7;
+    color: #3c3c3c;
+    resize: none;
+    font: 400 13.3333px Arial;
+    margin: 0px 0px 10px 0px;
+  }
+  
+
+  .DivInsideMiddle {
+    margin: auto 25%;
+    max-width: 600px;
+    max-height: 450px;
+    height: 100%;
+    width: 100%;
+    text-align: left;
+  }
+ 
+  .DivInsideMiddle h1 {
+    color: #3c3c3c;
+    font-family:sans-serif;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 40px;
+  }
+   
+  .DivInsideMiddle p {
+    font-size: 20px;
+  }
