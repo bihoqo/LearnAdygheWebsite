@@ -30,7 +30,7 @@ const Question = (props) => {
                 >{optionValue}</button>
             });
             return (
-                <div className={classes.buttonContainer}>
+                <div className={classes.buttonGripContainer}>
                     {optionsToChoose}
                 </div>
             )

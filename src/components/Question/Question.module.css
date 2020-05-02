@@ -9,31 +9,41 @@
   margin: 0px 0px 10px 0px;
 }
 
-.buttonContainer {
+.buttonGripContainer {
   display: grid;
   grid-template-columns: auto auto;
   padding: 10px;
 }
 
 .buttonItem {
+  padding: 4px;
   margin: 3px 10px;
   border-radius: 6px;
-  background-color: #1cb0f6;
-  color: #fff;
-  border: 1px solid rgba(0, 0, 0, 0.8);
+  background-color: #fff;
+  border-color: #e5e5e5;
+  color: #4b4b4b;
+  border: 1.5px solid #4b4b4b;
   font-size: 15px;
   text-align: center;
+  font: 500 17px/20px sans-serif;
 }
 
 .buttonItem:hover {
-  background-color: #78d2fc;
+  border: 1.5px solid #bebebe;
+  color: #bebebe;
+}
+
+.buttonItem:focus {
+  outline: 0;
 }
 
 .selectedButtonItem {
-  background-color: #2fcf5f;
+  color: #1cb0f6;
+  border-color: #1cb0f6;
 }
 .selectedButtonItem:hover {
-  background-color: #6be991;
+  color: #60c8f8;
+  border-color: #60c8f8;
 }
 
 .DivInsideMiddle {
