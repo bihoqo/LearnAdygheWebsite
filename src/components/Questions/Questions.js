@@ -27,11 +27,9 @@ const Questions = (props) => {
                 }
             });
         }
-
         setShowAnswerState(!showAnswerState);
-        
         return isAnswerCorrent;
-    } // end checkQuestionAndShowAnswer
+    }
 
     return (
         <div>

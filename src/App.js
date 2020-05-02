@@ -1,6 +1,6 @@
 
 import React, { Component } from 'react';
-import Question from './components/Questions/Questions.js';
+import Questions from './components/Questions/Questions.js';
 import './App.css';
 
 class App extends Component {
@@ -11,7 +11,15 @@ class App extends Component {
   // Questions
   questions = [
     {
-      type: 'toEnglish',
+      type: 'toEnglishMultichoice',
+      questionText: 'What is кӏалэ',
+      answerOptions: ['boy', 'man', 'woman', 'girl'],
+      correntAnswers: [
+        'boy'
+      ]
+    },
+    {
+      type: 'toEnglishFree',
       questionText: '1+1',
       answerOptions: null,
       correntAnswers: [
@@ -19,7 +27,7 @@ class App extends Component {
       ]
     },
     {
-      type: 'toEnglish',
+      type: 'toEnglishFree',
       questionText: '1*1',
       answerOptions: null,
       correntAnswers: [
@@ -27,7 +35,7 @@ class App extends Component {
       ]
     },
     {
-      type: 'toEnglish',
+      type: 'toEnglishFree',
       questionText: 'к1алэр унэм ихьагъ',
       answerOptions: null,
       correntAnswers: [
@@ -36,7 +44,7 @@ class App extends Component {
       ]
     },
     {
-      type: 'toEnglish',
+      type: 'toEnglishFree',
       questionText: 'к1алэр унэм икӏыгъ',
       answerOptions: null,
       correntAnswers: [
@@ -59,10 +67,10 @@ class App extends Component {
         <div id='header'>
           <h1>Question {this.state.questionIndexState + 1}</h1>
         </div>
-        <Question
+        <Questions
           questionObject={this.questions[this.state.questionIndexState]}
           nextQuestionOnClickButton={this.showNextQuestion}>
-        </Question>
+        </Questions>
       </div>
     );
   };
