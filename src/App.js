@@ -19,6 +19,14 @@ class App extends Component {
       ]
     },
     {
+      type: 'toEnglishMultichoice',
+      questionText: 'What is пшъашъэ',
+      answerOptions: ['boy', 'man', 'woman', 'girl'],
+      correntAnswers: [
+        'girl'
+      ]
+    },
+    {
       type: 'toEnglishFree',
       questionText: '1+1',
       answerOptions: null,

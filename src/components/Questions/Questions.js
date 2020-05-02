@@ -36,6 +36,7 @@ const Questions = (props) => {
             <Question
                 questionObject={props.questionObject}
                 answerInputChanged={handleAnswerInputChangeValue}
+                answerInputClicked={handleAnswerInputChangeValue}
                 currentValue={insertedAnswerState}>
             </Question>
             <Footer

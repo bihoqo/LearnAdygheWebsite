@@ -9,24 +9,35 @@
   margin: 0px 0px 10px 0px;
 }
 
-.gridContainer {
+.buttonContainer {
   display: grid;
   grid-template-columns: auto auto;
-  background-color: #2196F3;
   padding: 10px;
 }
 
-.gridItem {
-  background-color: rgba(255, 255, 255, 0.8);
+.buttonItem {
+  margin: 3px 10px;
+  border-radius: 6px;
+  background-color: #1cb0f6;
+  color: #fff;
   border: 1px solid rgba(0, 0, 0, 0.8);
-  padding: 1px;
-  font-size: 30px;
+  font-size: 15px;
   text-align: center;
 }
 
+.buttonItem:hover {
+  background-color: #78d2fc;
+}
+
+.selectedButtonItem {
+  background-color: #2fcf5f;
+}
+.selectedButtonItem:hover {
+  background-color: #6be991;
+}
+
 .DivInsideMiddle {
-    margin: auto 25%;
-    max-width: 600px;
+    margin: auto auto;
     max-height: 450px;
     height: 100%;
     width: 100%;

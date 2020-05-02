@@ -2,7 +2,6 @@ import React from 'react';
 import classes from './Question.module.css';
 
 const Question = (props) => {
-
     const displayQuestionType = () => {
         const questionType = props.questionObject.type;
         if (questionType === 'toEnglishFree') {
@@ -18,14 +17,21 @@ const Question = (props) => {
                 </div>
             )
         } else if (questionType === 'toEnglishMultichoice') {
+            console.log(props.currentValue);
+            const optionsToChoose = props.questionObject.answerOptions.map((optionValue) => {
+                let buttonCssAttributes = [classes.buttonItem];
+                if (props.currentValue === optionValue) {
+                    buttonCssAttributes.push(classes.selectedButtonItem);
+                }
+                return <button
+                className={buttonCssAttributes.join(' ')}
+                onClick={props.answerInputClicked}
+                value={optionValue}
+                >{optionValue}</button>
+            });
             return (
-                <div className={classes.gridContainer}>
-                    <div className={classes.gridItem}>1</div>
-                    <div className={classes.gridItem}>2</div>
-                    <div className={classes.gridItem}>3</div>
-                    <div className={classes.gridItem}>4</div>
-                    <div className={classes.gridItem}>5</div>
-                    <div className={classes.gridItem}>6</div>
+                <div className={classes.buttonContainer}>
+                    {optionsToChoose}
                 </div>
             )
         } else {
