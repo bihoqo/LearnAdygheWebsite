@@ -1,10 +1,11 @@
 import React from 'react';
 import classes from './Question.module.css';
+import QuestionTypes from '../../consts/QuestionTypes.js';
 
 const Question = (props) => {
     const displayQuestionType = () => {
         const questionType = props.questionObject.type;
-        if (questionType === 'toEnglishFree') {
+        if (questionType === QuestionTypes.ToEnglishFree) {
             return (
                 <div>
                     <textarea
@@ -16,8 +17,7 @@ const Question = (props) => {
                     </textarea>
                 </div>
             )
-        } else if (questionType === 'toEnglishMultichoice') {
-            console.log(props.currentValue);
+        } else if (questionType === QuestionTypes.ToEnglishMultichoice) {
             const optionsToChoose = props.questionObject.answerOptions.map((optionValue) => {
                 let buttonCssAttributes = [classes.buttonItem];
                 if (props.currentValue === optionValue) {

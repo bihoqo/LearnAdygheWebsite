@@ -1,6 +1,7 @@
 
 import React, { Component } from 'react';
 import Questions from './components/Questions/Questions.js';
+import QuestionTypes from './consts/QuestionTypes.js';
 import './App.css';
 
 class App extends Component {
@@ -11,7 +12,7 @@ class App extends Component {
   // Questions
   questions = [
     {
-      type: 'toEnglishMultichoice',
+      type: QuestionTypes.ToEnglishMultichoice,
       questionText: 'What is кӏалэ',
       answerOptions: ['boy', 'man', 'woman', 'girl'],
       correntAnswers: [
@@ -19,7 +20,7 @@ class App extends Component {
       ]
     },
     {
-      type: 'toEnglishMultichoice',
+      type: QuestionTypes.ToEnglishMultichoice,
       questionText: 'What is пшъашъэ',
       answerOptions: ['boy', 'man', 'woman', 'girl'],
       correntAnswers: [
@@ -27,7 +28,7 @@ class App extends Component {
       ]
     },
     {
-      type: 'toEnglishFree',
+      type: QuestionTypes.ToEnglishFree,
       questionText: '1+1',
       answerOptions: null,
       correntAnswers: [
@@ -35,7 +36,7 @@ class App extends Component {
       ]
     },
     {
-      type: 'toEnglishFree',
+      type: QuestionTypes.ToEnglishFree,
       questionText: '1*1',
       answerOptions: null,
       correntAnswers: [
@@ -43,7 +44,7 @@ class App extends Component {
       ]
     },
     {
-      type: 'toEnglishFree',
+      type: QuestionTypes.ToEnglishFree,
       questionText: 'к1алэр унэм ихьагъ',
       answerOptions: null,
       correntAnswers: [
@@ -52,7 +53,7 @@ class App extends Component {
       ]
     },
     {
-      type: 'toEnglishFree',
+      type: QuestionTypes.ToEnglishFree,
       questionText: 'к1алэр унэм икӏыгъ',
       answerOptions: null,
       correntAnswers: [
