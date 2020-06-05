@@ -15,51 +15,43 @@ class App extends Component {
       type: QuestionTypes.ToEnglishMultichoice,
       questionText: 'What is кӏалэ',
       answerOptions: ['boy', 'man', 'woman', 'girl'],
-      correntAnswers: [
-        'boy'
-      ]
+      correntAnswers: ['boy']
     },
     {
       type: QuestionTypes.ToEnglishMultichoice,
       questionText: 'What is пшъашъэ',
       answerOptions: ['boy', 'man', 'woman', 'girl'],
-      correntAnswers: [
-        'girl'
-      ]
+      correntAnswers: ['girl']
+    },
+    {
+      type: QuestionTypes.ToEnglishMultichoice,
+      questionText: 'What is 1+1',
+      answerOptions: ['0', '1', '2', '3', '4', '5'],
+      correntAnswers: ['2']
     },
     {
       type: QuestionTypes.ToEnglishFree,
       questionText: '1+1',
       answerOptions: null,
-      correntAnswers: [
-        '2'
-      ]
+      correntAnswers: ['2']
     },
     {
       type: QuestionTypes.ToEnglishFree,
       questionText: '1*1',
       answerOptions: null,
-      correntAnswers: [
-        '1'
-      ]
+      correntAnswers: ['1']
     },
     {
       type: QuestionTypes.ToEnglishFree,
       questionText: 'к1алэр унэм ихьагъ',
       answerOptions: null,
-      correntAnswers: [
-        'the boy entered the house',
-        'the boy went inside the house'
-      ]
+      correntAnswers: ['the boy entered the house', 'the boy went inside the house']
     },
     {
       type: QuestionTypes.ToEnglishFree,
       questionText: 'к1алэр унэм икӏыгъ',
       answerOptions: null,
-      correntAnswers: [
-        'the boy exited the house',
-        'the boy went out the house'
-      ]
+      correntAnswers: ['the boy exited the house', 'the boy went out the house']
     }
   ];
 
