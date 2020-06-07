@@ -12,8 +12,14 @@ class App extends Component {
   // Questions
   questions = [
     {
+      type: QuestionTypes.ToCircassianCompletion,
+      questionText: 'What is к1алэр унэм ихьагъ',
+      answerOptions: ['the', 'boy', 'entered', 'the', 'house', 'asd', 'asd2', 'asd3'],
+      correntAnswers: ['the boy entered the house']
+    },
+    {
       type: QuestionTypes.ToEnglishMultichoice,
-      questionText: 'What is кӏалэ',
+      questionText: 'What is к1алэ',
       answerOptions: ['boy', 'man', 'woman', 'girl'],
       correntAnswers: ['boy']
     },

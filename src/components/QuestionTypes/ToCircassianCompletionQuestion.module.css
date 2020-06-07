@@ -1,0 +1,51 @@
+
+/* Selectable options */
+.selectableButtonItem {
+    padding: 4px;
+    margin: 3px 10px;
+    border-radius: 6px;
+    background-color: #fff;
+    border-color: #e5e5e5;
+    color: #4b4b4b;
+    border: 1.5px solid #4b4b4b;
+    font-size: 15px;
+    text-align: center;
+    font: 500 17px/20px sans-serif;
+}
+  
+.selectableButtonItem:hover {
+    border: 1.5px solid #bebebe;
+    color: #bebebe;
+}
+  
+.selectableButtonItem:focus {
+    outline: 0;
+}
+
+.selectableOptionsGripContainer {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+}
+
+/* Selected options */
+.selectedButtonItem {
+    padding: 4px;
+    margin: 3px 2px;
+    border-radius: 6px;
+    background-color: #fff;
+    border-color: #e5e5e5;
+    color: #4b4b4b;
+    border: 1.5px solid #4b4b4b;
+    font-size: 15px;
+    text-align: center;
+    font: 500 17px/20px sans-serif;
+}
+ 
+.selectedButtonItem:hover {
+    border: 1.5px solid #bebebe;
+    color: #bebebe;
+}
+  
+.selectedButtonItem:focus {
+    outline: 0;
+}

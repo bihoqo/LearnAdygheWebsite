@@ -1,7 +1,8 @@
 
 const QuestionTypes = {
-    ToEnglishFree: "toEnglishFree",
-    ToEnglishMultichoice: "toEnglishMultichoice"
+    ToEnglishFree: 0,
+    ToEnglishMultichoice: 1,
+    ToCircassianCompletion: 2
 }
 
 export default QuestionTypes;

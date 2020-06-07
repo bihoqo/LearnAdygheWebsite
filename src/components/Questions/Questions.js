@@ -8,8 +8,13 @@ const Questions = (props) => {
     const [showAnswerState, setShowAnswerState] = useState(false);
     const [insertedAnswerState, setInsertedAnswerState] = useState('');
 
-    const handleAnswerInputChangeValue = (event) => {
+    const handleInsertedAnswerValueEventType = (event) => {
         setInsertedAnswerState(event.target.value);
+    }
+
+    const handleInsertedAnswerValueStringType = (newAnswerValue) => {
+        setInsertedAnswerState(newAnswerValue);
+        console.log(newAnswerValue);
     }
 
     const showNextQuestion = () => {
@@ -35,8 +40,9 @@ const Questions = (props) => {
         <div>
             <Question
                 questionObject={props.questionObject}
-                answerInputChanged={handleAnswerInputChangeValue}
-                answerInputClicked={handleAnswerInputChangeValue}
+                answerInputChangedEvent={handleInsertedAnswerValueEventType}
+                answerInputClickedEvent={handleInsertedAnswerValueEventType}
+                answerInputChangedString={handleInsertedAnswerValueStringType}
                 currentValue={insertedAnswerState}>
             </Question>
             <Footer

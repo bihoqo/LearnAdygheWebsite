@@ -1,6 +1,7 @@
-import React from 'react';
+import React, { useState } from 'react';
 import classes from './Question.module.css';
 import QuestionTypes from '../../consts/QuestionTypes.js';
+import ToCircassianCompletionQuestion from '../QuestionTypes/ToCircassianCompletionQuestion.js';
 
 const Question = (props) => {
     const displayQuestionType = () => {
@@ -10,6 +11,8 @@ const Question = (props) => {
                 return toEnglishFreeQuestion();
             case QuestionTypes.ToEnglishMultichoice:
                 return toEnglishMultichoiceQuestion();
+            case QuestionTypes.ToCircassianCompletion:
+                return toCircassianCompletionQuestion();
             default:
                 return exceptionQuestion();
         }
@@ -22,7 +25,7 @@ const Question = (props) => {
                     id='answerInput'
                     className={classes.AnswerInput}
                     placeholder="Type in English" rows="6" cols="50"
-                    onChange={props.answerInputChanged}
+                    onChange={props.answerInputChangedEvent}
                     value={props.currentValue}>
                 </textarea>
             </div>
@@ -30,6 +33,7 @@ const Question = (props) => {
     }
 
     const toEnglishMultichoiceQuestion = () => {
+        // make each answer option to selectable rectangle button
         const optionsToChoose = props.questionObject.answerOptions.map((optionValue) => {
             let buttonCssAttributes = [classes.buttonItem];
             if (props.currentValue === optionValue) {
@@ -37,10 +41,11 @@ const Question = (props) => {
             }
             return <button
                 className={buttonCssAttributes.join(' ')}
-                onClick={props.answerInputClicked}
+                onClick={props.answerInputClickedEvent}
                 value={optionValue}
             >{optionValue}</button>
         });
+
         return (
             <div className={classes.buttonGripContainer}>
                 {optionsToChoose}
@@ -48,9 +53,19 @@ const Question = (props) => {
         )
     }
 
+    const toCircassianCompletionQuestion = () => {
+        return (
+            <ToCircassianCompletionQuestion
+                selectableOptionsList={props.questionObject.answerOptions}
+                onChange={props.answerInputChangedString}>
+            </ToCircassianCompletionQuestion>
+        )
+    }
+
     const exceptionQuestion = () => {
         return (
             <div>
+                <p>Error, invalid question type.</p>
             </div>
         )
     }
