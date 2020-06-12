@@ -21,7 +21,7 @@ const Questionnaire = (props) => {
     const checkQuestionAndShowAnswer = () => {
         let isAnswerCorrent = false;
         if (insertedAnswerState) {
-            props.questionObject.correntAnswers.map((answer) => {
+            props.questionObject.correctAnswers.map((answer) => {
                 if (insertedAnswerState.toLowerCase() === answer.toLowerCase()) {
                     isAnswerCorrent = true;
                 }
@@ -39,9 +39,9 @@ const Questionnaire = (props) => {
                 currentValue={insertedAnswerState}>
             </Question>
             <Footer
-            showAnswer={showAnswerState}
-            checkButtonClicked={checkQuestionAndShowAnswer}
-            continueButtonClicked={showNextQuestion}>
+                showAnswer={showAnswerState}
+                checkButtonClicked={checkQuestionAndShowAnswer}
+                continueButtonClicked={showNextQuestion}>
             </Footer>
         </div>
     )

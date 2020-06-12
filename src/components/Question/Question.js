@@ -4,23 +4,26 @@ import QuestionTypes from '../../consts/QuestionTypes.js';
 import ToCircassianCompletionQuestion from '../QuestionTypes/ToCircassianCompletionQuestion.js';
 import ToEnglishFreeQuestion from '../QuestionTypes/ToEnglishFreeQuestion.js';
 import ToEnglishMultichoiceQuestion from '../QuestionTypes/ToEnglishMultichoiceQuestion.js';
+import ToCircassianMultichoicePictureQuestion from '../QuestionTypes/ToCircassianMultichoicePictureQuestion.js';
 
 const Question = (props) => {
     const displayQuestionType = () => {
         const questionType = props.questionObject.type;
         switch (questionType) {
             case QuestionTypes.ToEnglishFree:
-                return toEnglishFreeQuestion();
+                return getToEnglishFreeQuestion();
             case QuestionTypes.ToEnglishMultichoice:
-                return toEnglishMultichoiceQuestion();
+                return getToEnglishMultichoiceQuestion();
             case QuestionTypes.ToCircassianCompletion:
-                return toCircassianCompletionQuestion();
+                return getToCircassianCompletionQuestion();
+            case QuestionTypes.ToCircassianMultichoicePictureQuestion:
+                return getToCircassianMultichoicePictureQuestion();
             default:
                 return exceptionQuestion();
         }
     };
 
-    const toEnglishFreeQuestion = () => {
+    const getToEnglishFreeQuestion = () => {
         return (
             <ToEnglishFreeQuestion
                 onAnswerChange={props.answerInputChangedString}>
@@ -28,7 +31,7 @@ const Question = (props) => {
         )
     }
 
-    const toEnglishMultichoiceQuestion = () => {
+    const getToEnglishMultichoiceQuestion = () => {
         return (
             <ToEnglishMultichoiceQuestion
                 currentValue={props.currentValue}
@@ -38,12 +41,23 @@ const Question = (props) => {
         )
     }
 
-    const toCircassianCompletionQuestion = () => {
+    const getToCircassianCompletionQuestion = () => {
         return (
             <ToCircassianCompletionQuestion
                 selectableOptionsList={props.questionObject.answerOptions}
                 onAnswerChange={props.answerInputChangedString}>
             </ToCircassianCompletionQuestion>
+        )
+    }
+
+    const getToCircassianMultichoicePictureQuestion = () => {
+        return (
+            <ToCircassianMultichoicePictureQuestion
+                currentValue={props.currentValue}
+                picturesToDisplay={props.questionObject.pictures}
+                selectableOptionsList={props.questionObject.answerOptions}
+                onAnswerChange={props.answerInputChangedString}>
+            </ToCircassianMultichoicePictureQuestion>
         )
     }
 

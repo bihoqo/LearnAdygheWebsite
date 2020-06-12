@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import classes from './ToEnglishMultichoiceQuestion.module.css';
+import classes from './ToCircassianMultichoicePictureQuestion.module.css';
 
-const ToEnglishMultichoiceQuestion = (props) => {
+const ToCircassianMultichoicePictureQuestion = (props) => {
     // a funciton that returns the new inserted answer
     const activeChangeAnswerValueEvent = (event) => {
         props.onAnswerChange(event.target.value);
@@ -17,14 +17,17 @@ const ToEnglishMultichoiceQuestion = (props) => {
             className={buttonCssAttributes.join(' ')}
             onClick={activeChangeAnswerValueEvent}
             value={optionValue}
-            >{optionValue}</button>
+        >{optionValue}</button>
     });
 
     return (
-        <div className={classes.buttonGripContainer}>
+        <div>
+            <img src={props.picturesToDisplay[0]}></img>
+            <div className={classes.buttonGripContainer}>
             {optionsToChoose}
+            </div>
         </div>
     )
 }
 
-export default ToEnglishMultichoiceQuestion;
+export default ToCircassianMultichoicePictureQuestion;

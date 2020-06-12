@@ -12,40 +12,47 @@ class App extends Component {
   // Questions
   questions = [
     {
+      type: QuestionTypes.ToCircassianMultichoicePictureQuestion,
+      questionText: 'What is in the picture?',
+      pictures: ['https://i.ibb.co/6rLFFPr/noun-Woman-1392261.png'],
+      answerOptions: ['к1алэ', 'пшъашъэ', 'шъуз', 'л1ы'],
+      correctAnswers: ['шъуз']
+    },
+    {
       type: QuestionTypes.ToEnglishMultichoice,
       questionText: 'What is 1+1',
       answerOptions: ['0', '1', '2', '3', '4', '5'],
-      correntAnswers: ['2']
+      correctAnswers: ['2']
     },
     {
       type: QuestionTypes.ToEnglishFree,
       questionText: 'к1алэр унэм ихьагъ',
       answerOptions: null,
-      correntAnswers: ['the boy entered the house', 'the boy went inside the house']
+      correctAnswers: ['the boy entered the house', 'the boy went inside the house']
     },
     {
       type: QuestionTypes.ToCircassianCompletion,
       questionText: 'What is к1алэр унэм ихьагъ',
       answerOptions: ['the', 'boy', 'entered', 'the', 'house', 'asd', 'asd2', 'asd3'],
-      correntAnswers: ['the boy entered the house']
+      correctAnswers: ['the boy entered the house']
     },
     {
       type: QuestionTypes.ToEnglishMultichoice,
       questionText: 'What is к1алэ',
       answerOptions: ['boy', 'man', 'woman', 'girl'],
-      correntAnswers: ['boy']
+      correctAnswers: ['boy']
     },
     {
       type: QuestionTypes.ToEnglishMultichoice,
       questionText: 'What is пшъашъэ',
       answerOptions: ['boy', 'man', 'woman', 'girl'],
-      correntAnswers: ['girl']
+      correctAnswers: ['girl']
     },
     {
       type: QuestionTypes.ToEnglishFree,
       questionText: '1+1',
       answerOptions: null,
-      correntAnswers: ['2']
+      correctAnswers: ['2']
     },
     {
       type: QuestionTypes.ToEnglishFree,
