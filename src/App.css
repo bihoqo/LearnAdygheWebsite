@@ -18,6 +18,11 @@
   text-align: center;
 }
 
-#header {
-  text-align: center;
+#headerDiv {
+  width: 100%;
+}
+
+#headerDiv h1 {
+  text-align:center;
+  float: center;
 }

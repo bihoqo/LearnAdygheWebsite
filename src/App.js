@@ -1,6 +1,6 @@
 
 import React, { Component } from 'react';
-import Questions from './components/Questions/Questions.js';
+import Questionnaire from './components/Questionnaire/Questionnaire.js';
 import QuestionTypes from './consts/QuestionTypes.js';
 import './App.css';
 
@@ -11,6 +11,18 @@ class App extends Component {
 
   // Questions
   questions = [
+    {
+      type: QuestionTypes.ToEnglishMultichoice,
+      questionText: 'What is 1+1',
+      answerOptions: ['0', '1', '2', '3', '4', '5'],
+      correntAnswers: ['2']
+    },
+    {
+      type: QuestionTypes.ToEnglishFree,
+      questionText: 'к1алэр унэм ихьагъ',
+      answerOptions: null,
+      correntAnswers: ['the boy entered the house', 'the boy went inside the house']
+    },
     {
       type: QuestionTypes.ToCircassianCompletion,
       questionText: 'What is к1алэр унэм ихьагъ',
@@ -30,12 +42,6 @@ class App extends Component {
       correntAnswers: ['girl']
     },
     {
-      type: QuestionTypes.ToEnglishMultichoice,
-      questionText: 'What is 1+1',
-      answerOptions: ['0', '1', '2', '3', '4', '5'],
-      correntAnswers: ['2']
-    },
-    {
       type: QuestionTypes.ToEnglishFree,
       questionText: '1+1',
       answerOptions: null,
@@ -46,12 +52,6 @@ class App extends Component {
       questionText: '1*1',
       answerOptions: null,
       correntAnswers: ['1']
-    },
-    {
-      type: QuestionTypes.ToEnglishFree,
-      questionText: 'к1алэр унэм ихьагъ',
-      answerOptions: null,
-      correntAnswers: ['the boy entered the house', 'the boy went inside the house']
     },
     {
       type: QuestionTypes.ToEnglishFree,
@@ -71,13 +71,13 @@ class App extends Component {
   render() {
     return (
       <div id='app'>
-        <div id='header'>
+        <div id='headerDiv'>
           <h1>Question {this.state.questionIndexState + 1}</h1>
         </div>
-        <Questions
+        <Questionnaire
           questionObject={this.questions[this.state.questionIndexState]}
           nextQuestionOnClickButton={this.showNextQuestion}>
-        </Questions>
+        </Questionnaire>
       </div>
     );
   };

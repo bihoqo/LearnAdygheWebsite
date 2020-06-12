@@ -1,0 +1,11 @@
+.answerInput {
+    flex-grow: 1;
+    border-radius: 10px;
+    border: 2px solid #e5e5e5;
+    background-color: #f7f7f7;
+    color: #3c3c3c;
+    resize: none;
+    font: 400 13.3333px Arial;
+    margin: 0px 0px 10px 0px;
+  }
+  

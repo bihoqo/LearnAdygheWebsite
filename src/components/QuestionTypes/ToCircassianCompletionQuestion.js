@@ -29,7 +29,7 @@ const ToCircassianCompletionQuestion = (props) => {
         const newAnswersAsStrList = newAnswersAsObjs.map((optionValue) => {
             return optionValue.value;
         });
-        props.onChange(newAnswersAsStrList.join(' '));
+        props.onAnswerChange(newAnswersAsStrList.join(' '));
     }
 
     // add id to each option and convert options string list to object list
@@ -64,10 +64,10 @@ const ToCircassianCompletionQuestion = (props) => {
 
     return (
         <div>
-            <div>
+            <div className={classes.x}>
                 {selectedOptionsButtons}
             </div>
-            <p>--------------------------------------------------</p>
+            <hr/>
             <div className={classes.selectableOptionsGripContainer}>
                 {selectableOptionsButtons}
             </div>

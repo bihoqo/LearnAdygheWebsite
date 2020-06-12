@@ -1,52 +1,6 @@
-.AnswerInput {
-  flex-grow: 1;
-  border-radius: 10px;
-  border: 2px solid #e5e5e5;
-  background-color: #f7f7f7;
-  color: #3c3c3c;
-  resize: none;
-  font: 400 13.3333px Arial;
-  margin: 0px 0px 10px 0px;
-}
 
-.buttonGripContainer {
-  display: grid;
-  grid-template-columns: auto auto;
-  padding: 10px;
-}
 
-.buttonItem {
-  padding: 4px;
-  margin: 3px 10px;
-  border-radius: 6px;
-  background-color: #fff;
-  border-color: #e5e5e5;
-  color: #4b4b4b;
-  border: 1.5px solid #4b4b4b;
-  font-size: 15px;
-  text-align: center;
-  font: 500 17px/20px sans-serif;
-}
-
-.buttonItem:hover {
-  border: 1.5px solid #bebebe;
-  color: #bebebe;
-}
-
-.buttonItem:focus {
-  outline: 0;
-}
-
-.selectedButtonItem {
-  color: #1cb0f6;
-  border-color: #1cb0f6;
-}
-.selectedButtonItem:hover {
-  color: #60c8f8;
-  border-color: #60c8f8;
-}
-
-.DivInsideMiddle {
+.divInsideMiddle {
     margin: auto auto;
     max-height: 450px;
     height: 100%;
@@ -54,7 +8,7 @@
     text-align: left;
 }
  
-.DivInsideMiddle h1 {
+.divInsideMiddle h1 {
     color: #3c3c3c;
     font-family:sans-serif;
     font-weight: bold;
@@ -62,6 +16,6 @@
     line-height: 40px;
 }
    
-.DivInsideMiddle p {
+.divInsideMiddle p {
     font-size: 20px;
 }
