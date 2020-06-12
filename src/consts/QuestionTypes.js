@@ -1,9 +1,9 @@
 
 const QuestionTypes = {
-    ToEnglishFree: 0,
-    ToEnglishMultichoice: 1,
-    ToCircassianCompletion: 2,
-    ToCircassianMultichoicePictureQuestion: 3
+    Open: 0,
+    Multichoice: 1,
+    Completion: 2,
+    MultichoicePicture: 3
 }
 
 export default QuestionTypes;

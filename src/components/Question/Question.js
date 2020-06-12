@@ -1,63 +1,63 @@
 import React, { useState } from 'react';
 import classes from './Question.module.css';
 import QuestionTypes from '../../consts/QuestionTypes.js';
-import ToCircassianCompletionQuestion from '../QuestionTypes/ToCircassianCompletionQuestion.js';
-import ToEnglishFreeQuestion from '../QuestionTypes/ToEnglishFreeQuestion.js';
-import ToEnglishMultichoiceQuestion from '../QuestionTypes/ToEnglishMultichoiceQuestion.js';
-import ToCircassianMultichoicePictureQuestion from '../QuestionTypes/ToCircassianMultichoicePictureQuestion.js';
+import CompletionQuestion from '../QuestionTypes/CompletionQuestion.js';
+import OpenQuestion from '../QuestionTypes/OpenQuestion.js';
+import MultichoiceQuestion from '../QuestionTypes/MultichoiceQuestion.js';
+import MultichoicePictureQuestion from '../QuestionTypes/MultichoicePictureQuestion.js';
 
 const Question = (props) => {
     const displayQuestionType = () => {
         const questionType = props.questionObject.type;
         switch (questionType) {
-            case QuestionTypes.ToEnglishFree:
-                return getToEnglishFreeQuestion();
-            case QuestionTypes.ToEnglishMultichoice:
-                return getToEnglishMultichoiceQuestion();
-            case QuestionTypes.ToCircassianCompletion:
-                return getToCircassianCompletionQuestion();
-            case QuestionTypes.ToCircassianMultichoicePictureQuestion:
-                return getToCircassianMultichoicePictureQuestion();
+            case QuestionTypes.Open:
+                return getOpenQuestion();
+            case QuestionTypes.Multichoice:
+                return getMultichoiceQuestion();
+            case QuestionTypes.Completion:
+                return getCompletionQuestion();
+            case QuestionTypes.MultichoicePictureQuestion:
+                return getMultichoicePictureQuestion();
             default:
                 return exceptionQuestion();
         }
     };
 
-    const getToEnglishFreeQuestion = () => {
+    const getOpenQuestion = () => {
         return (
-            <ToEnglishFreeQuestion
+            <OpenQuestion
                 onAnswerChange={props.answerInputChangedString}>
-            </ToEnglishFreeQuestion>
+            </OpenQuestion>
         )
     }
 
-    const getToEnglishMultichoiceQuestion = () => {
+    const getMultichoiceQuestion = () => {
         return (
-            <ToEnglishMultichoiceQuestion
+            <MultichoiceQuestion
                 currentValue={props.currentValue}
                 selectableOptionsList={props.questionObject.answerOptions}
                 onAnswerChange={props.answerInputChangedString}>
-            </ToEnglishMultichoiceQuestion>
+            </MultichoiceQuestion>
         )
     }
 
-    const getToCircassianCompletionQuestion = () => {
+    const getCompletionQuestion = () => {
         return (
-            <ToCircassianCompletionQuestion
+            <CompletionQuestion
                 selectableOptionsList={props.questionObject.answerOptions}
                 onAnswerChange={props.answerInputChangedString}>
-            </ToCircassianCompletionQuestion>
+            </CompletionQuestion>
         )
     }
 
-    const getToCircassianMultichoicePictureQuestion = () => {
+    const getMultichoicePictureQuestion = () => {
         return (
-            <ToCircassianMultichoicePictureQuestion
+            <MultichoicePictureQuestion
                 currentValue={props.currentValue}
                 picturesToDisplay={props.questionObject.pictures}
                 selectableOptionsList={props.questionObject.answerOptions}
                 onAnswerChange={props.answerInputChangedString}>
-            </ToCircassianMultichoicePictureQuestion>
+            </MultichoicePictureQuestion>
         )
     }
 

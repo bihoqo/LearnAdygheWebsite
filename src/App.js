@@ -12,56 +12,56 @@ class App extends Component {
   // Questions
   questions = [
     {
-      type: QuestionTypes.ToCircassianMultichoicePictureQuestion,
+      type: QuestionTypes.MultichoicePictureQuestion,
       questionText: 'What is in the picture?',
       pictures: ['https://i.ibb.co/6rLFFPr/noun-Woman-1392261.png'],
       answerOptions: ['к1алэ', 'пшъашъэ', 'шъуз', 'л1ы'],
       correctAnswers: ['шъуз']
     },
     {
-      type: QuestionTypes.ToEnglishMultichoice,
+      type: QuestionTypes.Multichoice,
       questionText: 'What is 1+1',
       answerOptions: ['0', '1', '2', '3', '4', '5'],
       correctAnswers: ['2']
     },
     {
-      type: QuestionTypes.ToEnglishFree,
+      type: QuestionTypes.Open,
       questionText: 'к1алэр унэм ихьагъ',
       answerOptions: null,
       correctAnswers: ['the boy entered the house', 'the boy went inside the house']
     },
     {
-      type: QuestionTypes.ToCircassianCompletion,
+      type: QuestionTypes.Completion,
       questionText: 'What is к1алэр унэм ихьагъ',
       answerOptions: ['the', 'boy', 'entered', 'the', 'house', 'asd', 'asd2', 'asd3'],
       correctAnswers: ['the boy entered the house']
     },
     {
-      type: QuestionTypes.ToEnglishMultichoice,
+      type: QuestionTypes.Multichoice,
       questionText: 'What is к1алэ',
       answerOptions: ['boy', 'man', 'woman', 'girl'],
       correctAnswers: ['boy']
     },
     {
-      type: QuestionTypes.ToEnglishMultichoice,
+      type: QuestionTypes.Multichoice,
       questionText: 'What is пшъашъэ',
       answerOptions: ['boy', 'man', 'woman', 'girl'],
       correctAnswers: ['girl']
     },
     {
-      type: QuestionTypes.ToEnglishFree,
+      type: QuestionTypes.Open,
       questionText: '1+1',
       answerOptions: null,
       correctAnswers: ['2']
     },
     {
-      type: QuestionTypes.ToEnglishFree,
+      type: QuestionTypes.Open,
       questionText: '1*1',
       answerOptions: null,
       correntAnswers: ['1']
     },
     {
-      type: QuestionTypes.ToEnglishFree,
+      type: QuestionTypes.Open,
       questionText: 'к1алэр унэм икӏыгъ',
       answerOptions: null,
       correntAnswers: ['the boy exited the house', 'the boy went out the house']
