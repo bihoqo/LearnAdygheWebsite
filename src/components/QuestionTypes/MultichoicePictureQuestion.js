@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import classes from './MultichoicePictureQuestion.module.css';
 
 const MultichoicePictureQuestion = (props) => {

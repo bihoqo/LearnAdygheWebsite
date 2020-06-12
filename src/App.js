@@ -12,7 +12,14 @@ class App extends Component {
   // Questions
   questions = [
     {
-      type: QuestionTypes.MultichoicePictureQuestion,
+      type: QuestionTypes.OpenPicture,
+      questionText: 'What is in the picture?',
+      pictures: ['https://i.ibb.co/6rLFFPr/noun-Woman-1392261.png'],
+      answerOptions: null,
+      correctAnswers: ['шъуз']
+    },
+    {
+      type: QuestionTypes.MultichoicePicture,
       questionText: 'What is in the picture?',
       pictures: ['https://i.ibb.co/6rLFFPr/noun-Woman-1392261.png'],
       answerOptions: ['к1алэ', 'пшъашъэ', 'шъуз', 'л1ы'],

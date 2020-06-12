@@ -1,10 +1,11 @@
-import React, { useState } from 'react';
+import React from 'react';
 import classes from './Question.module.css';
 import QuestionTypes from '../../consts/QuestionTypes.js';
 import CompletionQuestion from '../QuestionTypes/CompletionQuestion.js';
 import OpenQuestion from '../QuestionTypes/OpenQuestion.js';
 import MultichoiceQuestion from '../QuestionTypes/MultichoiceQuestion.js';
 import MultichoicePictureQuestion from '../QuestionTypes/MultichoicePictureQuestion.js';
+import OpenPictureQuestion from '../QuestionTypes/OpenPictureQuestion.js';
 
 const Question = (props) => {
     const displayQuestionType = () => {
@@ -16,8 +17,10 @@ const Question = (props) => {
                 return getMultichoiceQuestion();
             case QuestionTypes.Completion:
                 return getCompletionQuestion();
-            case QuestionTypes.MultichoicePictureQuestion:
+            case QuestionTypes.MultichoicePicture:
                 return getMultichoicePictureQuestion();
+            case QuestionTypes.OpenPicture:
+                return getOpenPictureQuestion();
             default:
                 return exceptionQuestion();
         }
@@ -58,6 +61,16 @@ const Question = (props) => {
                 selectableOptionsList={props.questionObject.answerOptions}
                 onAnswerChange={props.answerInputChangedString}>
             </MultichoicePictureQuestion>
+        )
+    }
+
+    const getOpenPictureQuestion = () => {
+        return (
+            <OpenPictureQuestion
+                currentValue={props.currentValue}
+                picturesToDisplay={props.questionObject.pictures}
+                onAnswerChange={props.answerInputChangedString}>
+            </OpenPictureQuestion>
         )
     }
 
