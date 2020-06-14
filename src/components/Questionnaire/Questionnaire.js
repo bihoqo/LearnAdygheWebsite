@@ -9,6 +9,7 @@ const Questionnaire = (props) => {
     const [insertedAnswerState, setInsertedAnswerState] = useState('');
 
     const handleInsertedAnswerValueStringType = (newAnswerValue) => {
+        console.log(newAnswerValue);
         setInsertedAnswerState(newAnswerValue);
     }
 

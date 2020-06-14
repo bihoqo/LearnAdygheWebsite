@@ -12,6 +12,14 @@ class App extends Component {
   // Questions
   questions = [
     {
+      type: QuestionTypes.MultichoicePictures,
+      questionText: 'What is woman?',
+      pictures: ['https://i.ibb.co/6rLFFPr/noun-Woman-1392261.png', 'https://i.ibb.co/6rLFFPr/noun-Woman-1392261.png',
+        'https://i.ibb.co/6rLFFPr/noun-Woman-1392261.png', 'https://i.ibb.co/6rLFFPr/noun-Woman-1392261.png'],
+      answerOptions: ['к1алэ', 'пшъашъэ', 'шъуз', 'л1ы'],
+      correctAnswers: ['шъуз']
+    },
+    {
       type: QuestionTypes.OpenPicture,
       questionText: 'What is in the picture?',
       pictures: ['https://i.ibb.co/6rLFFPr/noun-Woman-1392261.png'],
@@ -19,7 +27,7 @@ class App extends Component {
       correctAnswers: ['шъуз']
     },
     {
-      type: QuestionTypes.MultichoicePicture,
+      type: QuestionTypes.MultichoiceWordsPicture,
       questionText: 'What is in the picture?',
       pictures: ['https://i.ibb.co/6rLFFPr/noun-Woman-1392261.png'],
       answerOptions: ['к1алэ', 'пшъашъэ', 'шъуз', 'л1ы'],

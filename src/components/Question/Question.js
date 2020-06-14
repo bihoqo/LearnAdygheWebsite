@@ -4,8 +4,9 @@ import QuestionTypes from '../../consts/QuestionTypes.js';
 import CompletionQuestion from '../QuestionTypes/CompletionQuestion.js';
 import OpenQuestion from '../QuestionTypes/OpenQuestion.js';
 import MultichoiceQuestion from '../QuestionTypes/MultichoiceQuestion.js';
-import MultichoicePictureQuestion from '../QuestionTypes/MultichoicePictureQuestion.js';
+import MultichoiceWordsPictureQuestion from '../QuestionTypes/MultichoiceWordsPictureQuestion.js';
 import OpenPictureQuestion from '../QuestionTypes/OpenPictureQuestion.js';
+import MultichoicePicturesQuestion from '../QuestionTypes/MultichoicePicturesQuestion.js';
 
 const Question = (props) => {
     const displayQuestionType = () => {
@@ -17,10 +18,12 @@ const Question = (props) => {
                 return getMultichoiceQuestion();
             case QuestionTypes.Completion:
                 return getCompletionQuestion();
-            case QuestionTypes.MultichoicePicture:
-                return getMultichoicePictureQuestion();
+            case QuestionTypes.MultichoiceWordsPicture:
+                return getMultichoiceWordsPictureQuestion();
             case QuestionTypes.OpenPicture:
                 return getOpenPictureQuestion();
+            case QuestionTypes.MultichoicePictures:
+                return getMultichoicePicturesQuestion();
             default:
                 return exceptionQuestion();
         }
@@ -53,14 +56,14 @@ const Question = (props) => {
         )
     }
 
-    const getMultichoicePictureQuestion = () => {
+    const getMultichoiceWordsPictureQuestion = () => {
         return (
-            <MultichoicePictureQuestion
+            <MultichoiceWordsPictureQuestion
                 currentValue={props.currentValue}
                 picturesToDisplay={props.questionObject.pictures}
                 selectableOptionsList={props.questionObject.answerOptions}
                 onAnswerChange={props.answerInputChangedString}>
-            </MultichoicePictureQuestion>
+            </MultichoiceWordsPictureQuestion>
         )
     }
 
@@ -71,6 +74,17 @@ const Question = (props) => {
                 picturesToDisplay={props.questionObject.pictures}
                 onAnswerChange={props.answerInputChangedString}>
             </OpenPictureQuestion>
+        )
+    }
+
+    const getMultichoicePicturesQuestion = () => {
+        return (
+            <MultichoicePicturesQuestion
+                currentValue={props.currentValue}
+                picturesToDisplay={props.questionObject.pictures}
+                selectableOptionsList={props.questionObject.answerOptions}
+                onAnswerChange={props.answerInputChangedString}>
+            </MultichoicePicturesQuestion>
         )
     }
 
