@@ -2,6 +2,7 @@
 import React, { useState } from 'react';
 import Question from '../Question/Question.js';
 import AnswerDialog from '../AnswerDialog/AnswerDialog.js'
+import { Button } from '@material-ui/core';
 
 const Questionnaire = (props) => {
     // States 
@@ -15,7 +16,7 @@ const Questionnaire = (props) => {
     }
 
     const showNextQuestion = () => {
-        props.nextQuestionOnClickButton();
+        props.nextQuestionOnClickButton(insertedAnswerCorrectnessState);
         setShowAnswerDialogState(false);
         setInsertedAnswerState('');
     }
@@ -42,7 +43,7 @@ const Questionnaire = (props) => {
                 currentValue={insertedAnswerState}>
             </Question>
             <div id='footer'>
-                <button onClick={checkQuestionAndShowAnswer}>Check</button>
+                <Button onClick={checkQuestionAndShowAnswer}>Check</Button>
                 <AnswerDialog
                     toShow={showAnswerDialogState}
                     toHide={showNextQuestion}

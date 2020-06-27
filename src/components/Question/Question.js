@@ -99,7 +99,7 @@ const Question = (props) => {
     return (
         <div id='content'>
             <div className={classes.divInsideMiddle}>
-                <h1 id='taskText'>Write this in English</h1>
+                <h1 id='taskText'>Translate to {props.questionObject.translateTo}</h1>
                 <p>{props.questionObject.questionText}</p>
                 {displayQuestionType()}
             </div>

@@ -1,92 +1,63 @@
-
 import React, { Component } from 'react';
 import Questionnaire from './components/Questionnaire/Questionnaire.js';
 import QuestionTypes from './consts/QuestionTypes.js';
+import ProgressBar from 'react-bootstrap/ProgressBar';
 import './App.css';
 
 class App extends Component {
   state = {
-    questionIndexState: 0
+    currentQuestionIndexState: 0
   };
+
+  questionOrder = [0, 1, 2, 3];
+  currentQuestionIndex = 0;
 
   // Questions
   questions = [
     {
-      type: QuestionTypes.MultichoicePictures,
-      questionText: 'What is woman?',
-      pictures: ['https://i.ibb.co/6rLFFPr/noun-Woman-1392261.png', 'https://i.ibb.co/6rLFFPr/noun-Woman-1392261.png',
-        'https://i.ibb.co/6rLFFPr/noun-Woman-1392261.png', 'https://i.ibb.co/6rLFFPr/noun-Woman-1392261.png'],
-      answerOptions: ['к1алэ', 'пшъашъэ', 'шъуз', 'л1ы'],
-      correctAnswers: ['шъуз']
-    },
-    {
-      type: QuestionTypes.OpenPicture,
-      questionText: 'What is in the picture?',
-      pictures: ['https://i.ibb.co/6rLFFPr/noun-Woman-1392261.png'],
-      answerOptions: null,
-      correctAnswers: ['шъуз']
-    },
-    {
-      type: QuestionTypes.MultichoiceWordsPicture,
-      questionText: 'What is in the picture?',
-      pictures: ['https://i.ibb.co/6rLFFPr/noun-Woman-1392261.png'],
-      answerOptions: ['к1алэ', 'пшъашъэ', 'шъуз', 'л1ы'],
-      correctAnswers: ['шъуз']
+      type: QuestionTypes.Multichoice,
+      questionText: 'What is 0',
+      answerOptions: ['1', '2', '3', '4', '5', '0'],
+      correctAnswers: ['0'],
+      translateTo: 'English'
     },
     {
       type: QuestionTypes.Multichoice,
-      questionText: 'What is 1+1',
+      questionText: 'What is 1',
       answerOptions: ['1', '2', '3', '4', '5', '6'],
-      correctAnswers: ['2']
-    },
-    {
-      type: QuestionTypes.Open,
-      questionText: 'к1алэр унэм ихьагъ',
-      answerOptions: null,
-      correctAnswers: ['the boy entered the house', 'the boy went inside the house']
-    },
-    {
-      type: QuestionTypes.Completion,
-      questionText: 'What is к1алэр унэм ихьагъ',
-      answerOptions: ['the', 'boy', 'entered', 'the', 'house', 'asd', 'asd2', 'asd3'],
-      correctAnswers: ['the boy entered the house']
+      correctAnswers: ['1'],
+      translateTo: 'Circassian'
     },
     {
       type: QuestionTypes.Multichoice,
-      questionText: 'What is к1алэ',
-      answerOptions: ['boy', 'man', 'woman', 'girl'],
-      correctAnswers: ['boy']
+      questionText: 'What is 2',
+      answerOptions: ['1', '2', '3', '4', '5', '6'],
+      correctAnswers: ['2'],
+      translateTo: 'English'
     },
     {
       type: QuestionTypes.Multichoice,
-      questionText: 'What is пшъашъэ',
-      answerOptions: ['boy', 'man', 'woman', 'girl'],
-      correctAnswers: ['girl']
-    },
-    {
-      type: QuestionTypes.Open,
-      questionText: '1+1',
-      answerOptions: null,
-      correctAnswers: ['2']
-    },
-    {
-      type: QuestionTypes.Open,
-      questionText: '1*1',
-      answerOptions: null,
-      correntAnswers: ['1']
-    },
-    {
-      type: QuestionTypes.Open,
-      questionText: 'к1алэр унэм икӏыгъ',
-      answerOptions: null,
-      correntAnswers: ['the boy exited the house', 'the boy went out the house']
+      questionText: 'What is 3',
+      answerOptions: ['1', '2', '3', '4', '5', '6'],
+      correctAnswers: ['3'],
+      translateTo: 'Turkish'
     }
   ];
 
-  showNextQuestion = () => {
-    const currentIndex = this.state.questionIndexState;
+  currentLoadingBarPercentage = (this.currentQuestionIndex + 1) / this.questions.length * 100;
+
+  showNextQuestion = (wasQuestionPassed) => {
+    if (wasQuestionPassed) {
+      this.currentQuestionIndex++;
+      this.currentLoadingBarPercentage = (this.currentQuestionIndex + 1) / this.questions.length * 100;
+    } else {
+      const failedQuesitonIndex = this.questionOrder[this.currentQuestionIndex];
+      const lastQuestionIndex = this.questionOrder[this.questionOrder.length - 1];
+      this.questionOrder[this.currentQuestionIndex] = lastQuestionIndex;
+      this.questionOrder[this.questionOrder.length - 1] = failedQuesitonIndex;
+    }
     this.setState({
-      questionIndexState: currentIndex + 1
+      currentQuestionIndexState: this.questionOrder[this.currentQuestionIndex]
     })
   }
 
@@ -94,10 +65,12 @@ class App extends Component {
     return (
       <div id='app'>
         <div id='headerDiv'>
-          <h1>Question {this.state.questionIndexState + 1}</h1>
+          <div id='myProgress'>
+            <ProgressBar now={this.currentLoadingBarPercentage}/>
+          </div>
         </div>
         <Questionnaire
-          questionObject={this.questions[this.state.questionIndexState]}
+          questionObject={this.questions[this.state.currentQuestionIndexState]}
           nextQuestionOnClickButton={this.showNextQuestion}>
         </Questionnaire>
       </div>
