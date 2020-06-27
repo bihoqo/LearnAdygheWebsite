@@ -1,0 +1,15 @@
+
+.dialogStyle h5 {
+    align-self: center;
+    margin-top: 5px;
+}
+
+.dialogStyle div {
+    border-top: 1px solid rgba(0, 0, 0, 0.12);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+    padding: 0px 10px;
+}
+
+.dialogStyle p {
+    margin: 7px;
+}

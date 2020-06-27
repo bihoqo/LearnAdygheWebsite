@@ -14,12 +14,12 @@ const MultichoicePicturesQuestion = (props) => {
             buttonCssAttributes.push(classes.selectedButtonItem);
         }
         return <button
-                className={buttonCssAttributes.join(' ')}
-                onClick={() => activeChangeAnswerValueEvent(optionValue)}
-                value={optionValue}>
-                <img src={props.picturesToDisplay[index]}></img>
-                {optionValue}
-                </button>
+            className={buttonCssAttributes.join(' ')}
+            onClick={() => activeChangeAnswerValueEvent(optionValue)}
+            value={optionValue}>
+            <img src={props.picturesToDisplay[index]}></img>
+            {optionValue}
+        </button>
     });
 
     return (

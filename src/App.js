@@ -36,7 +36,7 @@ class App extends Component {
     {
       type: QuestionTypes.Multichoice,
       questionText: 'What is 1+1',
-      answerOptions: ['0', '1', '2', '3', '4', '5'],
+      answerOptions: ['1', '2', '3', '4', '5', '6'],
       correctAnswers: ['2']
     },
     {

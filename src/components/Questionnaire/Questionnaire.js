@@ -1,12 +1,13 @@
 
 import React, { useState } from 'react';
-import Footer from '../Footer/Footer.js';
 import Question from '../Question/Question.js';
+import AnswerDialog from '../AnswerDialog/AnswerDialog.js'
 
 const Questionnaire = (props) => {
     // States 
-    const [showAnswerState, setShowAnswerState] = useState(false);
+    const [showAnswerDialogState, setShowAnswerDialogState] = useState(false);
     const [insertedAnswerState, setInsertedAnswerState] = useState('');
+    const [insertedAnswerCorrectnessState, setInsertedAnswerCorrectnessState] = useState(false);
 
     const handleInsertedAnswerValueStringType = (newAnswerValue) => {
         console.log(newAnswerValue);
@@ -15,12 +16,13 @@ const Questionnaire = (props) => {
 
     const showNextQuestion = () => {
         props.nextQuestionOnClickButton();
-        setShowAnswerState(false);
+        setShowAnswerDialogState(false);
         setInsertedAnswerState('');
     }
 
     const checkQuestionAndShowAnswer = () => {
         let isAnswerCorrent = false;
+        // check if one of the possible correct answers matches the user's inserted answer
         if (insertedAnswerState) {
             props.questionObject.correctAnswers.map((answer) => {
                 if (insertedAnswerState.toLowerCase() === answer.toLowerCase()) {
@@ -28,8 +30,8 @@ const Questionnaire = (props) => {
                 }
             });
         }
-        setShowAnswerState(!showAnswerState);
-        return isAnswerCorrent;
+        setShowAnswerDialogState(true);
+        setInsertedAnswerCorrectnessState(isAnswerCorrent);
     }
 
     return (
@@ -39,11 +41,16 @@ const Questionnaire = (props) => {
                 answerInputChangedString={handleInsertedAnswerValueStringType}
                 currentValue={insertedAnswerState}>
             </Question>
-            <Footer
-                showAnswer={showAnswerState}
-                checkButtonClicked={checkQuestionAndShowAnswer}
-                continueButtonClicked={showNextQuestion}>
-            </Footer>
+            <div id='footer'>
+                <button onClick={checkQuestionAndShowAnswer}>Check</button>
+                <AnswerDialog
+                    toShow={showAnswerDialogState}
+                    toHide={showNextQuestion}
+                    insertedAnswer={insertedAnswerState}
+                    isAnswerCorrect={insertedAnswerCorrectnessState}
+                    correctAnswers={props.questionObject.correctAnswers}>
+                </AnswerDialog>
+            </div>
         </div>
     )
 }
