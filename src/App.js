@@ -9,9 +9,6 @@ class App extends Component {
     currentQuestionIndexState: 0
   };
 
-  questionOrder = [0, 1, 2, 3];
-  currentQuestionIndex = 0;
-
   // Questions
   questions = [
     {
@@ -44,6 +41,8 @@ class App extends Component {
     }
   ];
 
+  questionOrder = [...Array(this.questions.length).keys()];
+  currentQuestionIndex = 0;
   currentLoadingBarPercentage = (this.currentQuestionIndex + 1) / this.questions.length * 100;
 
   showNextQuestion = (wasQuestionPassed) => {
@@ -51,10 +50,10 @@ class App extends Component {
       this.currentQuestionIndex++;
       this.currentLoadingBarPercentage = (this.currentQuestionIndex + 1) / this.questions.length * 100;
     } else {
+      // place failed question to last
       const failedQuesitonIndex = this.questionOrder[this.currentQuestionIndex];
-      const lastQuestionIndex = this.questionOrder[this.questionOrder.length - 1];
-      this.questionOrder[this.currentQuestionIndex] = lastQuestionIndex;
-      this.questionOrder[this.questionOrder.length - 1] = failedQuesitonIndex;
+      this.questionOrder.splice(this.currentQuestionIndex, 1);
+      this.questionOrder.push(failedQuesitonIndex);
     }
     this.setState({
       currentQuestionIndexState: this.questionOrder[this.currentQuestionIndex]
