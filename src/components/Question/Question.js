@@ -1,6 +1,6 @@
 import React from 'react';
 import classes from './Question.module.css';
-import QuestionTypes from '../../consts/QuestionTypes.js';
+import { QuestionTypes } from '../../consts/QuestionPack.js';
 import CompletionQuestion from '../QuestionTypes/CompletionQuestion.js';
 import OpenQuestion from '../QuestionTypes/OpenQuestion.js';
 import MultichoiceQuestion from '../QuestionTypes/MultichoiceQuestion.js';
