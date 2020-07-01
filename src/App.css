@@ -3,3 +3,56 @@
   height: 100%;
   text-align: center;
 }
+
+#exercisesContainer {
+  margin: auto 40%;
+}
+
+.exerciseButtonStyle li {
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+  padding: 15px 50px;
+  font-size: 14px;
+  margin: 5px auto;
+  text-shadow: 0px 0.7px 0px rgba(0,0,0,.5);
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 0px;
+}
+
+.colorBlue {
+  background-color: #538fbe;
+  -webkit-box-shadow: 0px 2px 0px #2b638f, 0px 3px 3px rgba(0,0,0,.4);
+  -moz-box-shadow: 0px 2px 0px #2b638f, 0px 3px 3px rgba(0,0,0,.4);
+  box-shadow: 0px 2px 0px #2b638f, 0px 3px 3px rgba(0,0,0,.4);
+}
+
+.colorYellow {
+  background-color: #bcbe53;
+  -webkit-box-shadow: 0px 2px 0px #808f2b, 0px 3px 3px rgba(0,0,0,.4);
+  -moz-box-shadow: 0px 2px 0px #808f2b, 0px 3px 3px rgba(0,0,0,.4);
+  box-shadow: 0px 2px 0px #808f2b, 0px 3px 3px rgba(0,0,0,.4);
+}
+
+.colorOrange {
+  background-color: #c09554;
+  -webkit-box-shadow: 0px 2px 0px #8f602b, 0px 3px 3px rgba(0,0,0,.4);
+  -moz-box-shadow: 0px 2px 0px #8f602b, 0px 3px 3px rgba(0,0,0,.4);
+  box-shadow: 0px 2px 0px #8f602b, 0px 3px 3px rgba(0,0,0,.4);
+}
+
+.colorRed {
+  background-color: #be5353;
+  -webkit-box-shadow: 0px 2px 0px #8f2b2b, 0px 3px 3px rgba(0,0,0,.4);
+  -moz-box-shadow: 0px 2px 0px #8f2b2b, 0px 3px 3px rgba(0,0,0,.4);
+  box-shadow: 0px 2px 0px #8f2b2b, 0px 3px 3px rgba(0,0,0,.4);
+}
+
+.colorGreen {
+  background-color: #53be58;
+  -webkit-box-shadow: 0px 2px 0px #378f2b, 0px 3px 3px rgba(0,0,0,.4);
+  -moz-box-shadow: 0px 2px 0px #378f2b, 0px 3px 3px rgba(0,0,0,.4);
+  box-shadow: 0px 2px 0px #378f2b, 0px 3px 3px rgba(0,0,0,.4);
+}

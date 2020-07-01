@@ -1,5 +1,5 @@
 
-const QuestionTypes = {
+export const QuestionTypes = {
     Open: 0,
     Multichoice: 1,
     Completion: 2,
@@ -8,7 +8,7 @@ const QuestionTypes = {
     MultichoicePictures: 5
 }
 
-const exerciseQuesitons_1 = [
+export const exerciseQuesitons_1 = [
     {
         type: QuestionTypes.Multichoice,
         questionText: 'What is 0',
@@ -39,7 +39,7 @@ const exerciseQuesitons_1 = [
     }
 ];
 
-const exerciseQuesitons_2 = [
+export const exerciseQuesitons_2 = [
     {
         type: QuestionTypes.Multichoice,
         questionText: 'What is 5',
@@ -69,5 +69,3 @@ const exerciseQuesitons_2 = [
         translateTo: 'Turkish'
     }
 ];
-
-export { QuestionTypes, exerciseQuesitons_1, exerciseQuesitons_2 };
