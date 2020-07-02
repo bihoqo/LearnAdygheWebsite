@@ -2,9 +2,9 @@ import React, { Component } from 'react';
 import Questionnaire from '../Questionnaire/Questionnaire.js';
 import ProgressBar from 'react-bootstrap/ProgressBar';
 import { Link } from 'react-router-dom';
-import './Exercise.css';
+import './ExercisePage.css';
 
-class Exercise extends Component {
+class ExercisePage extends Component {
     state = {
         currentQuestionIndexState: 0
     };
@@ -49,4 +49,4 @@ class Exercise extends Component {
     };
 }
 
-export default Exercise;
+export default ExercisePage;
