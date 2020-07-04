@@ -14,7 +14,7 @@ const LessonPage = (props) => {
     return (
         <div id='lessonPageDiv'>
             <h3>{exerciseName}</h3>
-            <Link to='/excercisesHome'>
+            <Link to='/exercisesHome'>
                 <Button>Go back</Button>
             </Link>
             <Link to={{ pathname: `/${excercisePagePath}`, state: { questions: questionsObj } }}>

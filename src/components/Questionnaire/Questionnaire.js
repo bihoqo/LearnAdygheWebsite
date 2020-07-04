@@ -2,7 +2,8 @@
 import React, { useState } from 'react';
 import Question from '../Question/Question.js';
 import AnswerDialog from '../AnswerDialog/AnswerDialog.js'
-import { Button } from '@material-ui/core';
+import { Button } from 'react-bootstrap';
+import './Questionnaire.css';
 
 const Questionnaire = (props) => {
     // States 
@@ -11,7 +12,6 @@ const Questionnaire = (props) => {
     const [insertedAnswerCorrectnessState, setInsertedAnswerCorrectnessState] = useState(false);
 
     const handleInsertedAnswerValueStringType = (newAnswerValue) => {
-        console.log(newAnswerValue);
         setInsertedAnswerState(newAnswerValue);
     }
 

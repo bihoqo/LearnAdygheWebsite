@@ -3,7 +3,7 @@ import React from 'react';
 import { exerciseQuesitons_1, exerciseQuesitons_2 } from '../consts/QuestionPack';
 import { Link } from 'react-router-dom';
 
-const ExcercisesHomepage = () => (
+const ExercisesHomepage = () => (
     <div id='exercisesContainer'>
         <h1>Exercises</h1>
         <ExerciseButtonLink lessonPagePath='Lesson_1' excercisePagePath='exerciseQuestions1'
@@ -31,4 +31,4 @@ const ExerciseButtonLink = (props) => {
     )
 }
 
-export default ExcercisesHomepage
+export default ExercisesHomepage

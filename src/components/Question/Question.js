@@ -105,7 +105,6 @@ const Question = (props) => {
             </div>
         </div>
     )
-
 }
 
 export default Question;

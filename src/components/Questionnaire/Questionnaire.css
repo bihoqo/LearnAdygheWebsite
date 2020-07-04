@@ -1,0 +1,25 @@
+  
+  #footer {
+    border-top: 2px solid #e5e5e5;
+    width: 100%;
+    text-align: center;
+    padding: 15px 40%;
+  }
+  
+  #footer button {
+    font-size: larger;
+    border-radius: 2px;
+    color: #fff;
+    min-width: 150px;
+    position: relative;
+    width: auto;
+  }
+  
+  #content { 
+    max-height: 450px;
+    max-width: 400px;
+    height: 100%;
+    width: 100%;
+    margin: 2% auto;
+  }
+  
