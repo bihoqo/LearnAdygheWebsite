@@ -1,5 +1,5 @@
 import React from 'react';
-import './ExcerciseInfo.css'
+import './Lesson.css'
 
 
 export default () => {

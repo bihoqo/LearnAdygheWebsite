@@ -1,13 +1,13 @@
 import React, { Suspense, lazy } from 'react';
 import { Link } from 'react-router-dom';
 
-const InfoPage = (props) => {
+const LessonPage = (props) => {
     const exerciseName = props.location.state.exerciseName; // get excercise name (excercise header title)
     const excercisePagePath = props.location.state.excercisePagePath; // get current exercise page path
     const questionsObj = props.location.state.questionsObj; // get the current exercise questions
-    const excerciseInfoFileName = props.location.state.excerciseInfoFileName;
+    const lessonPagePath = props.location.state.lessonPagePath;
 
-    const ExcerciseInfoComponent = lazy(() => import(`../../ExcerciseInfoPages/${excerciseInfoFileName}.js`));
+    const ExcerciseInfoComponent = lazy(() => import(`../../lessons/${lessonPagePath}.js`));
 
     return (
         <div>
@@ -30,4 +30,4 @@ const InfoPage = (props) => {
     );
 }
 
-export default InfoPage;
+export default LessonPage;
