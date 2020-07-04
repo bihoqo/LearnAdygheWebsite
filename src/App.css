@@ -4,6 +4,10 @@
   text-align: center;
 }
 
+#homeDiv {
+  margin: auto 200px;
+}
+
 #exercisesContainer {
   margin: auto 40%;
 }

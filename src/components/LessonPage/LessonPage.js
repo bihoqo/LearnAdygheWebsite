@@ -1,5 +1,7 @@
 import React, { Suspense, lazy } from 'react';
 import { Link } from 'react-router-dom';
+import { Button } from 'react-bootstrap';
+import './LessonPage.css';
 
 const LessonPage = (props) => {
     const exerciseName = props.location.state.exerciseName; // get excercise name (excercise header title)
@@ -7,25 +9,21 @@ const LessonPage = (props) => {
     const questionsObj = props.location.state.questionsObj; // get the current exercise questions
     const lessonPagePath = props.location.state.lessonPagePath;
 
-    const ExcerciseInfoComponent = lazy(() => import(`../../lessons/${lessonPagePath}.js`));
+    const LessonInfoComponent = lazy(() => import(`../../lessons/${lessonPagePath}.js`));
 
     return (
-        <div>
+        <div id='lessonPageDiv'>
             <h3>{exerciseName}</h3>
-            <Link to='/'>
-                <p>Go to homepage</p>
+            <Link to='/excercisesHome'>
+                <Button>Go back</Button>
             </Link>
             <Link to={{ pathname: `/${excercisePagePath}`, state: { questions: questionsObj } }}>
-                <p>Go to exercise</p>
+                <Button>Start practice</Button>
             </Link>
             <hr />
             <Suspense fallback={<div>Loading...</div>}>
-                <ExcerciseInfoComponent />
+                <LessonInfoComponent />
             </Suspense>
-            <hr />
-            <Link to={{ pathname: `/${excercisePagePath}`, state: { questions: questionsObj } }}>
-                <p>Go to exercise</p>
-            </Link>
         </div>
     );
 }

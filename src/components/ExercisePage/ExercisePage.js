@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import Questionnaire from '../Questionnaire/Questionnaire.js';
 import ProgressBar from 'react-bootstrap/ProgressBar';
-import { Link } from 'react-router-dom';
 import './ExercisePage.css';
 
 class ExercisePage extends Component {
@@ -32,9 +31,6 @@ class ExercisePage extends Component {
     render() {
         return (
             <div id='exerciseDiv'>
-                <Link to='/'>
-                    Go to homepage
-                </Link>
                 <div id='headerDiv'>
                     <div id='myProgress'>
                         <ProgressBar now={this.currentLoadingBarPercentage} />

@@ -17,10 +17,10 @@ export const exerciseQuesitons_1 = [
         translateTo: 'English'
     },
     {
-        type: QuestionTypes.Multichoice,
-        questionText: 'What is 1',
-        answerOptions: ['1', '2', '3', '4', '5', '6'],
-        correctAnswers: ['1'],
+        type: QuestionTypes.Completion,
+        questionText: 'What is к1алэм унэм къихьагъ',
+        answerOptions: ['the', 'boy', 'went', 'inside', 'the', 'house', 'bla', 'bla2'],
+        correctAnswers: ['the boy went inside the house'],
         translateTo: 'Circassian'
     },
     {

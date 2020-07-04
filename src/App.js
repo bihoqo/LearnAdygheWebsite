@@ -1,48 +1,53 @@
 import React from 'react';
 import ExercisePage from './components/ExercisePage/ExercisePage.js';
 import LessonPage from './components/LessonPage/LessonPage.js';
-import { exerciseQuesitons_1, exerciseQuesitons_2 } from './consts/QuestionPack.js';
-import { BrowserRouter, Switch, Route, Link } from 'react-router-dom';
+import ExcercisesHomepage from './pages/ExerciseHomepage.js'
+import { BrowserRouter, Route } from 'react-router-dom';
+import { Navbar, Nav, Button } from 'react-bootstrap';
 import './App.css';
 
 function App() {
   return (
     <BrowserRouter>
+      <TopNavBar></TopNavBar>
       <div id='app'>
         <Route path='/' exact component={Home} />
+        <Route path='/excercisesHome' exact component={ExcercisesHomepage} />
         <Route path='/exerciseQuestions1' component={ExercisePage} />
         <Route path='/exerciseQuestions2' component={ExercisePage} />
-        <Route path='/exerciseInfo' component={LessonPage} />
+        <Route path='/lesson' component={LessonPage} />
       </div>
     </BrowserRouter>
   );
 }
 
-const ExerciseButtonLink = (props) => {
-  const infoPageParameters = {
-    questionsObj: props.questionsObj,
-    excercisePagePath: props.excercisePagePath,
-    exerciseName: props.exerciseName,
-    lessonPagePath: props.lessonPagePath
-  };
+const TopNavBar = () => {
   return (
-    <Link to={{ pathname: `/exerciseInfo`, state: infoPageParameters }}>
-      <section className='exerciseButtonStyle'>
-        <li className={props.colorStyle}>
-          <span>{props.exerciseName}</span>
-        </li>
-      </section>
-    </Link>
+    <Navbar bg="light" variant="light">
+      <Navbar.Brand href="/">Learn Adyghe</Navbar.Brand>
+      <Nav className="mr-auto">
+        <Nav.Link href="/">Home</Nav.Link>
+        <Nav.Link href="/excercisesHome">Excercises</Nav.Link>
+        <Nav.Link href="/dictionary">Dictionary</Nav.Link>
+      </Nav>
+    </Navbar>
   )
 }
 
 const Home = () => (
-  <div id='exercisesContainer'>
-    <h1>Exercises</h1>
-    <ExerciseButtonLink lessonPagePath='Lesson_1' excercisePagePath='exerciseQuestions1'
-      exerciseName='Exercise 1' colorStyle='colorBlue' questionsObj={exerciseQuesitons_1} />
-    <ExerciseButtonLink lessonPagePath='Lesson_2' excercisePagePath='exerciseQuestions2'
-      exerciseName='Exercise 2' colorStyle='colorYellow' questionsObj={exerciseQuesitons_2} />
+  <div id='homeDiv'>
+    <h1>Home page</h1>
+    <h3>Excercises</h3>
+    <p>
+      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+    </p>
+    <Button href="/excercisesHome">Go to excercises page</Button>
+    <hr/>
+    <h3>Dictionary</h3>
+    <p>
+      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+    </p>
+    <Button href="/dictionary">Go to dicitonary page</Button>
   </div>
 );
 
