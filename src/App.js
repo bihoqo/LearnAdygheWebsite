@@ -22,7 +22,8 @@ const ExerciseButtonLink = (props) => {
   const infoPageParameters = {
     questionsObj: props.questionsObj,
     excercisePagePath: props.excercisePagePath,
-    exerciseName: props.exerciseName
+    exerciseName: props.exerciseName,
+    excerciseInfoFileName: props.excerciseInfoFileName
   };
   return (
     <Link to={{ pathname: `/exerciseInfo`, state: infoPageParameters }}>
@@ -38,10 +39,10 @@ const ExerciseButtonLink = (props) => {
 const Home = () => (
   <div id='exercisesContainer'>
     <h1>Exercises</h1>
-    <ExerciseButtonLink excercisePagePath='exerciseQuestions1'
-      exerciseName='Exercise 1' colorStyle='colorBlue' questionsObj={exerciseQuesitons_1} />
-    <ExerciseButtonLink excercisePagePath='exerciseQuestions2'
-      exerciseName='Exercise 2' colorStyle='colorYellow' questionsObj={exerciseQuesitons_2} />
+    <ExerciseButtonLink excercisePagePath='exerciseQuestions1' exerciseName='Exercise 1'
+      colorStyle='colorBlue' questionsObj={exerciseQuesitons_1} excerciseInfoFileName='ExcerciseInfo1' />
+    <ExerciseButtonLink excercisePagePath='exerciseQuestions2' exerciseName='Exercise 2'
+      colorStyle='colorYellow' questionsObj={exerciseQuesitons_2} excerciseInfoFileName='ExcerciseInfo2' />
   </div>
 );
 
