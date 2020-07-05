@@ -1,4 +1,3 @@
-
 export const QuestionTypes = {
     Open: 0,
     Multichoice: 1,
@@ -11,61 +10,63 @@ export const QuestionTypes = {
 export const exerciseQuesitons_1 = [
     {
         type: QuestionTypes.Multichoice,
-        questionText: 'What is 0',
-        answerOptions: ['1', '2', '3', '4', '5', '0'],
-        correctAnswers: ['0'],
+        questionText: 'What is woman',
+        answerOptions: ['к1алэ', 'л1ы', 'шъуз', 'пшъашъэ'],
+        correctAnswers: ['шъуз'],
+        translateTo: 'Circassian'
+    },
+    {
+        type: QuestionTypes.Completion,
+        questionText: 'What is к1алэм унэм ихьагъ',
+        answerOptions: ['the', 'boy', 'entered', 'the', 'house', 'inside', 'moved', 'man'],
+        correctAnswers: ['the boy entered the house'],
+        translateTo: 'English'
+    },
+    {
+        type: QuestionTypes.Multichoice,
+        questionText: 'What is girl',
+        answerOptions: ['к1алэ', 'л1ы', 'шъуз', 'пшъашъэ'],
+        correctAnswers: ['пшъашъэ'],
         translateTo: 'English'
     },
     {
         type: QuestionTypes.Completion,
-        questionText: 'What is к1алэм унэм къихьагъ',
-        answerOptions: ['the', 'boy', 'went', 'inside', 'the', 'house', 'bla', 'bla2'],
-        correctAnswers: ['the boy went inside the house'],
+        questionText: 'What is "the boy is going"',
+        answerOptions: ['мачъэ', 'л1ыр', 'к1алэр', 'мак1о'],
+        correctAnswers: ['к1алэр мак1о'],
         translateTo: 'Circassian'
-    },
-    {
-        type: QuestionTypes.Multichoice,
-        questionText: 'What is 2',
-        answerOptions: ['1', '2', '3', '4', '5', '6'],
-        correctAnswers: ['2'],
-        translateTo: 'English'
-    },
-    {
-        type: QuestionTypes.Multichoice,
-        questionText: 'What is 3',
-        answerOptions: ['1', '2', '3', '4', '5', '6'],
-        correctAnswers: ['3'],
-        translateTo: 'Turkish'
     }
 ];
 
 export const exerciseQuesitons_2 = [
     {
-        type: QuestionTypes.Multichoice,
-        questionText: 'What is 5',
-        answerOptions: ['1', '2', '3', '4', '5', '0'],
-        correctAnswers: ['5'],
-        translateTo: 'English'
+        type: QuestionTypes.Open,
+        questionText: 'What is "the boy is going" (Pss the answer is к1алэр мак1о)',
+        answerOptions: null,
+        correctAnswers: ['к1алэр мак1о'],
+        translateTo: 'Circassian'
     },
     {
-        type: QuestionTypes.Multichoice,
-        questionText: 'What is 6',
-        answerOptions: ['1', '2', '3', '4', '5', '6'],
-        correctAnswers: ['6'],
+        type: QuestionTypes.MultichoiceWordsPicture,
+        questionText: 'What is in the picture?',
+        pictures: ['https://i.ibb.co/6rLFFPr/noun-Woman-1392261.png'],
+        answerOptions: ['к1алэ', 'пшъашъэ', 'сабый', 'л1ы'],
+        correctAnswers: ['пшъашъэ'],
+        translateTo: 'Circassian'
+    },
+    {
+        type: QuestionTypes.OpenPicture,
+        questionText: 'What is in the picture? (Pss the answer is пшъашъэ)',
+        pictures: ['https://i.ibb.co/6rLFFPr/noun-Woman-1392261.png'],
+        answerOptions: null,
+        correctAnswers: ['пшъашъэ'],
         translateTo: 'Circassian'
     },
     {
         type: QuestionTypes.Multichoice,
-        questionText: 'What is 7',
-        answerOptions: ['1', '2', '3', '4', '5', '6'],
-        correctAnswers: ['7'],
+        questionText: 'What is к1алэ',
+        answerOptions: ['boy', 'man', 'girl', 'woman'],
+        correctAnswers: ['boy'],
         translateTo: 'English'
-    },
-    {
-        type: QuestionTypes.Multichoice,
-        questionText: 'What is 8',
-        answerOptions: ['1', '2', '3', '4', '5', '6'],
-        correctAnswers: ['8'],
-        translateTo: 'Turkish'
     }
 ];
