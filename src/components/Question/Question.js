@@ -7,6 +7,7 @@ import MultichoiceQuestion from '../QuestionTypes/MultichoiceQuestion.js';
 import MultichoiceWordsPictureQuestion from '../QuestionTypes/MultichoiceWordsPictureQuestion.js';
 import OpenPictureQuestion from '../QuestionTypes/OpenPictureQuestion.js';
 import MultichoicePicturesQuestion from '../QuestionTypes/MultichoicePicturesQuestion.js';
+import MultichoiceAudioQuestion from '../QuestionTypes/MultichoiceAudioQuestion.js';
 
 const Question = (props) => {
     const displayQuestionType = () => {
@@ -24,6 +25,8 @@ const Question = (props) => {
                 return getOpenPictureQuestion();
             case QuestionTypes.MultichoicePictures:
                 return getMultichoicePicturesQuestion();
+            case QuestionTypes.MultichoiceAudio:
+                return getMultichoiceAudioQuestion();
             default:
                 return exceptionQuestion();
         }
@@ -85,6 +88,17 @@ const Question = (props) => {
                 selectableOptionsList={props.questionObject.answerOptions}
                 onAnswerChange={props.answerInputChangedString}>
             </MultichoicePicturesQuestion>
+        )
+    }
+
+    const getMultichoiceAudioQuestion = () => {
+        return (
+            <MultichoiceAudioQuestion
+                currentValue={props.currentValue}
+                questionAudioSample={props.questionObject.soundSample}
+                selectableOptionsList={props.questionObject.answerOptions}
+                onAnswerChange={props.answerInputChangedString}>
+            </MultichoiceAudioQuestion>
         )
     }
 

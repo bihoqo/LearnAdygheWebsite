@@ -24,9 +24,14 @@ export default () => {
                     <th>Age</th>
                 </tr>
                 <tr>
-                    <td>Jill</td>
-                    <td>Smith</td>
-                    <td>50</td>
+                    <td>Jill 2</td>
+                    <td>Smith 2</td>
+                    <td>100</td>
+                </tr>
+                <tr>
+                    <td>Jill 3</td>
+                    <td>Smith 3</td>
+                    <td>100</td>
                 </tr>
             </table>
         </div>

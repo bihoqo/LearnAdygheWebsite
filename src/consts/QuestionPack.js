@@ -4,23 +4,24 @@ export const QuestionTypes = {
     Completion: 2,
     MultichoiceWordsPicture: 3,
     OpenPicture: 4,
-    MultichoicePictures: 5
+    MultichoicePictures: 5,
+    MultichoiceAudio: 6
 }
 
 export const exerciseQuesitons_1 = [
+    {
+        type: QuestionTypes.Completion,
+        questionText: 'What is к1алэр унэм ихьагъ',
+        answerOptions: ['the', 'boy', 'entered', 'the', 'house', 'inside', 'moved', 'man'],
+        correctAnswers: ['the boy entered the house'],
+        translateTo: 'English'
+    },
     {
         type: QuestionTypes.Multichoice,
         questionText: 'What is woman',
         answerOptions: ['к1алэ', 'л1ы', 'шъуз', 'пшъашъэ'],
         correctAnswers: ['шъуз'],
         translateTo: 'Circassian'
-    },
-    {
-        type: QuestionTypes.Completion,
-        questionText: 'What is к1алэм унэм ихьагъ',
-        answerOptions: ['the', 'boy', 'entered', 'the', 'house', 'inside', 'moved', 'man'],
-        correctAnswers: ['the boy entered the house'],
-        translateTo: 'English'
     },
     {
         type: QuestionTypes.Multichoice,
@@ -40,11 +41,12 @@ export const exerciseQuesitons_1 = [
 
 export const exerciseQuesitons_2 = [
     {
-        type: QuestionTypes.Open,
-        questionText: 'What is "the boy is going" (Pss the answer is к1алэр мак1о)',
-        answerOptions: null,
-        correctAnswers: ['к1алэр мак1о'],
-        translateTo: 'Circassian'
+        type: QuestionTypes.MultichoiceAudio,
+        questionText: 'what letter has this sound?',
+        soundSample: ['https://upload.wikimedia.org/wikipedia/commons/a/af/Voiced_uvular_fricative.ogg'],
+        answerOptions: ['г', 'гъ', 'хъ', 'р'],
+        correctAnswers: ['гъ'],
+        translateTo: 'English'
     },
     {
         type: QuestionTypes.MultichoiceWordsPicture,
@@ -52,6 +54,13 @@ export const exerciseQuesitons_2 = [
         pictures: ['https://i.ibb.co/6rLFFPr/noun-Woman-1392261.png'],
         answerOptions: ['к1алэ', 'пшъашъэ', 'сабый', 'л1ы'],
         correctAnswers: ['пшъашъэ'],
+        translateTo: 'Circassian'
+    },
+    {
+        type: QuestionTypes.Open,
+        questionText: 'What is "the boy is going" (Pss the answer is к1алэр мак1о)',
+        answerOptions: null,
+        correctAnswers: ['к1алэр мак1о'],
         translateTo: 'Circassian'
     },
     {
