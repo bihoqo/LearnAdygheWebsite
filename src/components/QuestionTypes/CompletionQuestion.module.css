@@ -6,7 +6,8 @@ hr {
     margin: 10px;
 }
 
-.x {
+.selectedOptionsGripContainer {
+    display: flexbox;
     height: auto;
     padding: 0px;
     min-height: 34px;
@@ -36,8 +37,7 @@ hr {
 }
 
 .selectableOptionsGripContainer {
-    display: grid;
-    grid-template-columns: auto auto auto auto auto;
+    display: flexbox;
 }
 
 /* Selected options */

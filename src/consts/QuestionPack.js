@@ -12,9 +12,16 @@ export const exerciseQuesitons_1 = [
     {
         type: QuestionTypes.Completion,
         questionText: 'What is к1алэр унэм ихьагъ',
-        answerOptions: ['the', 'boy', 'entered', 'the', 'house', 'inside', 'moved', 'man'],
+        answerOptions: ['the', 'boy', 'entered', 'the', 'house', 'inside', 'moved', 'man', 'houseentrance'],
         correctAnswers: ['the boy entered the house'],
         translateTo: 'English'
+    },
+    {
+        type: QuestionTypes.Completion,
+        questionText: 'What is "the boy is going"',
+        answerOptions: ['мачъэ', 'л1ыр', 'к1алэр', 'мак1о'],
+        correctAnswers: ['к1алэр мак1о'],
+        translateTo: 'Circassian'
     },
     {
         type: QuestionTypes.Multichoice,
@@ -29,13 +36,6 @@ export const exerciseQuesitons_1 = [
         answerOptions: ['к1алэ', 'л1ы', 'шъуз', 'пшъашъэ'],
         correctAnswers: ['пшъашъэ'],
         translateTo: 'English'
-    },
-    {
-        type: QuestionTypes.Completion,
-        questionText: 'What is "the boy is going"',
-        answerOptions: ['мачъэ', 'л1ыр', 'к1алэр', 'мак1о'],
-        correctAnswers: ['к1алэр мак1о'],
-        translateTo: 'Circassian'
     }
 ];
 

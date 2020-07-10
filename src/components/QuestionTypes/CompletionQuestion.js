@@ -1,9 +1,15 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import classes from './CompletionQuestion.module.css';
 
 const CompletionQuestion = (props) => {
     const [selectedOptionsState, setSelectedOptionsState] = useState([]);
     let idGenerator = 0;
+
+    // only re-run the effect if the selectable options list changes,
+    // this is to reset the selected options after changing the question
+    useEffect(() => {
+        setSelectedOptionsState([]);
+    }, [props.selectableOptionsList]);
 
     // a function that adds selected options to list
     const addOptionToSelectedOptionsList = (newOptionObj) => {
@@ -23,7 +29,7 @@ const CompletionQuestion = (props) => {
         }
         activeChangeAnswerValueEvent(selectedOptions);
     }
-    
+
     // a funciton that returns the new inserted answer
     const activeChangeAnswerValueEvent = (newAnswersAsObjs) => {
         const newAnswersAsStrList = newAnswersAsObjs.map((optionValue) => {
@@ -40,7 +46,7 @@ const CompletionQuestion = (props) => {
     // take all selectable options and using filter remove already selected options
     const filteredSelectableOptionsObjects = selectableOptionsObject.filter((optionObj) => {
         let selectedObjectsIds = [];
-        selectedOptionsState.forEach((o) => selectedObjectsIds.push(o.id));
+        selectedOptionsState.forEach((obj) => selectedObjectsIds.push(obj.id));
         return !selectedObjectsIds.includes(optionObj.id);
     });
 
@@ -64,10 +70,10 @@ const CompletionQuestion = (props) => {
 
     return (
         <div>
-            <div className={classes.x}>
+            <div className={classes.selectedOptionsGripContainer}>
                 {selectedOptionsButtons}
             </div>
-            <hr/>
+            <hr />
             <div className={classes.selectableOptionsGripContainer}>
                 {selectableOptionsButtons}
             </div>
