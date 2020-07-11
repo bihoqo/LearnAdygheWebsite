@@ -43,15 +43,22 @@ export const exerciseQuesitons_2 = [
     {
         type: QuestionTypes.MultichoiceAudio,
         questionText: 'what letter has this sound?',
-        soundSample: ['https://upload.wikimedia.org/wikipedia/commons/a/af/Voiced_uvular_fricative.ogg'],
+        soundSample: ['Voiced_uvular_fricative.ogg'],
         answerOptions: ['г', 'гъ', 'хъ', 'р'],
         correctAnswers: ['гъ'],
         translateTo: 'English'
     },
     {
+        type: QuestionTypes.MultichoicePictures,
+        questionText: 'What is girl?',
+        pictures: ['girl.png', 'girl.png', 'girl.png', 'girl.png'],
+        answerOptions: ['к1алэ', 'пшъашъэ', 'шъуз', 'л1ы'],
+        correctAnswers: ['пшъашъэ']
+    },
+    {
         type: QuestionTypes.MultichoiceWordsPicture,
         questionText: 'What is in the picture?',
-        pictures: ['https://i.ibb.co/6rLFFPr/noun-Woman-1392261.png'],
+        pictures: ['girl.png'],
         answerOptions: ['к1алэ', 'пшъашъэ', 'сабый', 'л1ы'],
         correctAnswers: ['пшъашъэ'],
         translateTo: 'Circassian'
@@ -66,7 +73,7 @@ export const exerciseQuesitons_2 = [
     {
         type: QuestionTypes.OpenPicture,
         questionText: 'What is in the picture? (Pss the answer is пшъашъэ)',
-        pictures: ['https://i.ibb.co/6rLFFPr/noun-Woman-1392261.png'],
+        pictures: ['girl.png'],
         answerOptions: null,
         correctAnswers: ['пшъашъэ'],
         translateTo: 'Circassian'

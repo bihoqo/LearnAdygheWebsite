@@ -2,6 +2,8 @@ import React from 'react';
 import classes from './MultichoicePicturesQuestion.module.css';
 
 const MultichoicePicturesQuestion = (props) => {
+    const imageFolder = require.context('questionAssets/image/', true);
+
     // a funciton that returns the new inserted answer
     const activeChangeAnswerValueEvent = (newAnswer) => {
         props.onAnswerChange(newAnswer);
@@ -13,11 +15,13 @@ const MultichoicePicturesQuestion = (props) => {
         if (props.currentValue === optionValue) {
             buttonCssAttributes.push(classes.selectedButtonItem);
         }
+
+        let imageFilePath = imageFolder('./' + props.picturesToDisplay[index]);
         return <button
             className={buttonCssAttributes.join(' ')}
             onClick={() => activeChangeAnswerValueEvent(optionValue)}
             value={optionValue}>
-            <img src={props.picturesToDisplay[index]}></img>
+            <img src={imageFilePath}></img>
             {optionValue}
         </button>
     });

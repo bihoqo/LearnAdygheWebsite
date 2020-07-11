@@ -4,6 +4,8 @@ import { Button } from 'react-bootstrap';
 
 const MultichoiceAudioQuestion = (props) => {
     let audioPlayer;
+    const audioFolder = require.context('questionAssets/audio/', true);
+    const audioFilePath = audioFolder('./' + props.questionAudioSample);
 
     // a funciton that returns the new inserted answer
     const activeChangeAnswerValueEvent = (newAnswer) => {
@@ -28,7 +30,7 @@ const MultichoiceAudioQuestion = (props) => {
         if (audioPlayer != null) {
             audioPlayer.pause();
         }
-        audioPlayer = new Audio(props.questionAudioSample);
+        audioPlayer = new Audio(audioFilePath);
         audioPlayer.play();
     }
 

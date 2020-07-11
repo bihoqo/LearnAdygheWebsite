@@ -32,6 +32,7 @@ const Question = (props) => {
         }
     };
 
+    // a question in which, you insert a full textual answer
     const getOpenQuestion = () => {
         return (
             <OpenQuestion
@@ -40,6 +41,7 @@ const Question = (props) => {
         )
     }
 
+    // a question in which, you pick from N options what's the correct one
     const getMultichoiceQuestion = () => {
         return (
             <MultichoiceQuestion
@@ -50,6 +52,7 @@ const Question = (props) => {
         )
     }
 
+    // a question with a picture in which, you pick the right sentence strcuture & order by cliking on button words
     const getCompletionQuestion = () => {
         return (
             <CompletionQuestion
@@ -59,6 +62,7 @@ const Question = (props) => {
         )
     }
 
+    // a question with a picture in which, you pick from N options what's the correct one
     const getMultichoiceWordsPictureQuestion = () => {
         return (
             <MultichoiceWordsPictureQuestion
@@ -70,6 +74,7 @@ const Question = (props) => {
         )
     }
 
+    // a question with a picture in which, you insert the word you see in the picture
     const getOpenPictureQuestion = () => {
         return (
             <OpenPictureQuestion
@@ -80,6 +85,7 @@ const Question = (props) => {
         )
     }
 
+    // a question with in which, you pick the right picture out of N possible answers
     const getMultichoicePicturesQuestion = () => {
         return (
             <MultichoicePicturesQuestion
@@ -91,6 +97,7 @@ const Question = (props) => {
         )
     }
 
+    // a question with in which, you listen to the audio, then select the right option
     const getMultichoiceAudioQuestion = () => {
         return (
             <MultichoiceAudioQuestion
