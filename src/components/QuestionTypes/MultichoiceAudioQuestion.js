@@ -13,7 +13,7 @@ const MultichoiceAudioQuestion = (props) => {
     }
 
     // make each answer option to selectable rectangle button
-    const optionsToChoose = props.selectableOptionsList.map((optionValue, index) => {
+    const optionsToChoose = props.selectableOptionsList.map((optionValue) => {
         let buttonCssAttributes = [classes.buttonItem];
         if (props.currentValue === optionValue) {
             buttonCssAttributes.push(classes.selectedButtonItem);

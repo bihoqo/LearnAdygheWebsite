@@ -6,20 +6,30 @@ import './LessonPage.css';
 const LessonPage = (props) => {
     const exerciseName = props.location.state.exerciseName; // get excercise name (excercise header title)
     const excercisePagePath = props.location.state.excercisePagePath; // get current exercise page path
-    const questionsObj = props.location.state.questionsObj; // get the current exercise questions
-    const lessonPagePath = props.location.state.lessonPagePath;
+    const lessonExcercises = props.location.state.lessonExcercises; // get all current lesson's exercises
+    const lessonPagePath = props.location.state.lessonPagePath; // get file path that contains lesson explnation
 
     const LessonInfoComponent = lazy(() => import(`../../lessons/${lessonPagePath}.js`));
+
+    const buttonsForLessonExcercises = lessonExcercises.map((excercise, index) => {
+        return (
+            <div>
+                <Link to={{ pathname: `/${excercisePagePath}`, state: { questions: excercise } }}>
+                    <Button>Start excercise {index + 1}</Button>
+                </Link>
+            </div>
+        );
+    });
 
     return (
         <div id='lessonPageDiv'>
             <h3>{exerciseName}</h3>
-            <Link to='/exercisesHome'>
-                <Button>Go back</Button>
-            </Link>
-            <Link to={{ pathname: `/${excercisePagePath}`, state: { questions: questionsObj } }}>
-                <Button>Start practice</Button>
-            </Link>
+            <div>
+                <Link to='/exercisesHome'>
+                    <Button>Go back</Button>
+                </Link>
+            </div>
+            {buttonsForLessonExcercises}
             <hr />
             <Suspense fallback={<div>Loading...</div>}>
                 <LessonInfoComponent />

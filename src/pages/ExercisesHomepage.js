@@ -1,21 +1,21 @@
 
 import React from 'react';
-import { exerciseQuesitons_1, exerciseQuesitons_2 } from '../consts/QuestionPack';
+import { exercises_1, exercises_2 } from '../consts/QuestionPack';
 import { Link } from 'react-router-dom';
 
 const ExercisesHomepage = () => (
     <div id='exercisesContainer'>
         <h1>Exercises</h1>
-        <ExerciseButtonLink lessonPagePath='Lesson_1' excercisePagePath='exerciseQuestions1'
-            exerciseTitle='Lesson 1' exerciseSubtitle='Demo 1' colorStyle='colorBlue' questionsObj={exerciseQuesitons_1} />
-        <ExerciseButtonLink lessonPagePath='Lesson_2' excercisePagePath='exerciseQuestions2'
-            exerciseTitle='Lesson 2' exerciseSubtitle='Demo 2' colorStyle='colorYellow' questionsObj={exerciseQuesitons_2} />
+        <LessonButtonLink lessonPagePath='Lesson_1' excercisePagePath='exerciseQuestions1'
+            exerciseTitle='Lesson 1' exerciseSubtitle='Demo 1' colorStyle='colorBlue' lessonExcercises={exercises_1} />
+        <LessonButtonLink lessonPagePath='Lesson_2' excercisePagePath='exerciseQuestions2'
+            exerciseTitle='Lesson 2' exerciseSubtitle='Demo 2' colorStyle='colorYellow' lessonExcercises={exercises_2} />
     </div>
 );
 
-const ExerciseButtonLink = (props) => {
+const LessonButtonLink = (props) => {
     const infoPageParameters = {
-        questionsObj: props.questionsObj,
+        lessonExcercises: props.lessonExcercises,
         excercisePagePath: props.excercisePagePath,
         exerciseTitle: props.exerciseTitle,
         exerciseSubtitle: props.exerciseSubtitle,
