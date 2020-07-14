@@ -1,0 +1,36 @@
+
+
+#searchResultsId {
+    text-align: left;
+    margin: 0px 30%;
+}
+
+#searchResultsId h1 {
+    margin-top: 30px;
+    margin-bottom: -10px;
+}
+
+#searchInputDiv {
+    padding: 0px 30%;
+}
+
+#dictionaryDiv {
+    font: 16px Arial,sans-serif;
+}
+
+#definitionDiv li {
+    margin: 10px auto;
+}
+
+#definitionDiv .sentence {
+    color: #1a1a1a;
+    font-size: 16px;
+}
+
+#definitionDiv .trasnlation {
+    color: #4a4a4a;
+    display: block;
+    font-size: 14px;
+    font-style: italic;
+    margin: 5px;
+}

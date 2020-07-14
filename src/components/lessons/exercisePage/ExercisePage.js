@@ -49,7 +49,7 @@ class ExercisePage extends Component {
             }
             return (
                 <div className={answerStyle.join(' ')}>
-                    <h6>Question: {questionObj.questionText}</h6>
+                    <h6>{index+1}. Question: {questionObj.questionText}</h6>
                     <p>Answer: {questionObj.correctAnswers}</p>
                 </div>
             )

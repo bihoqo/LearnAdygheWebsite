@@ -2,6 +2,7 @@ import React from 'react';
 import ExercisePage from './components/lessons/exercisePage/ExercisePage.js';
 import LessonPage from './components/lessons/lessonPage/LessonPage.js';
 import LessonsHomepage from './components/lessons/lessonsHomepage/LessonsHomepage.js';
+import DictionaryPage from './components/dictionary/dictionaryPage/DictionaryPage.js';
 import { BrowserRouter, Route } from 'react-router-dom';
 import { Navbar, Nav, Button } from 'react-bootstrap';
 import './App.css';
@@ -15,6 +16,7 @@ function App() {
         <Route path='/lessonsHome' exact component={LessonsHomepage} />
         <Route path='/exercise' component={ExercisePage} />
         <Route path='/lesson' component={LessonPage} />
+        <Route path='/dictionary' component={DictionaryPage} />
       </div>
     </BrowserRouter>
   );
