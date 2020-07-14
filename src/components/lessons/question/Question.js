@@ -1,13 +1,13 @@
 import React from 'react';
 import classes from './Question.module.css';
-import { QuestionTypes } from '../../consts/QuestionPack.js';
-import CompletionQuestion from '../QuestionTypes/CompletionQuestion.js';
-import OpenQuestion from '../QuestionTypes/OpenQuestion.js';
-import MultichoiceQuestion from '../QuestionTypes/MultichoiceQuestion.js';
-import MultichoiceWordsPictureQuestion from '../QuestionTypes/MultichoiceWordsPictureQuestion.js';
-import OpenPictureQuestion from '../QuestionTypes/OpenPictureQuestion.js';
-import MultichoicePicturesQuestion from '../QuestionTypes/MultichoicePicturesQuestion.js';
-import MultichoiceAudioQuestion from '../QuestionTypes/MultichoiceAudioQuestion.js';
+import { QuestionTypes } from '../../../consts/QuestionPack.js';
+import CompletionQuestion from '../questionTypes/CompletionQuestion.js';
+import OpenQuestion from '../questionTypes/OpenQuestion.js';
+import MultichoiceQuestion from '../questionTypes/MultichoiceQuestion.js';
+import MultichoiceWordsPictureQuestion from '../questionTypes/MultichoiceWordsPictureQuestion.js';
+import OpenPictureQuestion from '../questionTypes/OpenPictureQuestion.js';
+import MultichoicePicturesQuestion from '../questionTypes/MultichoicePicturesQuestion.js';
+import MultichoiceAudioQuestion from '../questionTypes/MultichoiceAudioQuestion.js';
 
 const Question = (props) => {
     const displayQuestionType = () => {

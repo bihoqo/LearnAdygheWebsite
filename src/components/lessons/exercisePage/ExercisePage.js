@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Questionnaire from '../Questionnaire/Questionnaire.js';
+import Questionnaire from '../questionnaire/Questionnaire.js';
 import ProgressBar from 'react-bootstrap/ProgressBar';
 import { Button } from 'react-bootstrap';
 import { Link } from 'react-router-dom';

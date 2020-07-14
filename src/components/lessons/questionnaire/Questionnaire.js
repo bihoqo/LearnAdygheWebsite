@@ -1,7 +1,7 @@
 
 import React, { useState } from 'react';
-import Question from '../Question/Question.js';
-import AnswerDialog from '../AnswerDialog/AnswerDialog.js'
+import Question from '../question/Question.js';
+import AnswerDialog from '../answerDialog/AnswerDialog.js'
 import { Button } from 'react-bootstrap';
 import './Questionnaire.css';
 

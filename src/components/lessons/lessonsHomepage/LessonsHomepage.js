@@ -1,11 +1,11 @@
 
 import React from 'react';
-import { exercises_1, exercises_2 } from '../consts/QuestionPack';
+import { exercises_1, exercises_2 } from '../../../consts/QuestionPack.js';
 import { Link } from 'react-router-dom';
 
-const ExercisesHomepage = () => (
+const LessonsHomepage = () => (
     <div id='exercisesContainer'>
-        <h1>Exercises</h1>
+        <h1>Lessons</h1>
         <LessonButtonLink lessonPagePath='Lesson_1' excercisePagePath='exerciseQuestions1'
             exerciseTitle='Lesson 1' exerciseSubtitle='Demo 1' colorStyle='colorBlue' lessonExcercises={exercises_1} />
         <LessonButtonLink lessonPagePath='Lesson_2' excercisePagePath='exerciseQuestions2'
@@ -33,4 +33,4 @@ const LessonButtonLink = (props) => {
     )
 }
 
-export default ExercisesHomepage
+export default LessonsHomepage

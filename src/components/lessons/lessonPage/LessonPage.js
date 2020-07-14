@@ -9,7 +9,7 @@ const LessonPage = (props) => {
     const lessonExcercises = props.location.state.lessonExcercises; // get all current lesson's exercises
     const lessonPagePath = props.location.state.lessonPagePath; // get file path that contains lesson explnation
 
-    const LessonInfoComponent = lazy(() => import(`../../lessons/${lessonPagePath}.js`));
+    const LessonInfoComponent = lazy(() => import(`../../../lessons/${lessonPagePath}.js`));
 
     const buttonsForLessonExcercises = lessonExcercises.map((excercise, index) => {
         return (

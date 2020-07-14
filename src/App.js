@@ -1,7 +1,7 @@
 import React from 'react';
-import ExercisePage from './components/ExercisePage/ExercisePage.js';
-import LessonPage from './components/LessonPage/LessonPage.js';
-import ExercisesHomepage from './pages/ExercisesHomepage.js';
+import ExercisePage from './components/lessons/exercisePage/ExercisePage.js';
+import LessonPage from './components/lessons/lessonPage/LessonPage.js';
+import LessonsHomepage from './components/lessons/lessonsHomepage/LessonsHomepage.js';
 import { BrowserRouter, Route } from 'react-router-dom';
 import { Navbar, Nav, Button } from 'react-bootstrap';
 import './App.css';
@@ -12,7 +12,7 @@ function App() {
       <TopNavBar></TopNavBar>
       <div id='app'>
         <Route path='/' exact component={Home} />
-        <Route path='/exercisesHome' exact component={ExercisesHomepage} />
+        <Route path='/lessonsHome' exact component={LessonsHomepage} />
         <Route path='/exerciseQuestions1' component={ExercisePage} />
         <Route path='/exerciseQuestions2' component={ExercisePage} />
         <Route path='/lesson' component={LessonPage} />
@@ -27,7 +27,7 @@ const TopNavBar = () => {
       <Navbar.Brand href="/">Learn Adyghe</Navbar.Brand>
       <Nav className="mr-auto">
         <Nav.Link href="/">Home</Nav.Link>
-        <Nav.Link href="/exercisesHome">Exercises</Nav.Link>
+        <Nav.Link href="/lessonsHome">Lessons</Nav.Link>
         <Nav.Link href="/dictionary">Dictionary</Nav.Link>
       </Nav>
     </Navbar>
@@ -36,11 +36,11 @@ const TopNavBar = () => {
 
 const Home = () => (
   <div id='homeDiv'>
-    <h3>Exercises</h3>
+    <h3>Lessons</h3>
     <p>
       Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
     </p>
-    <Button href="/exercisesHome">Go to excercises page</Button>
+    <Button href="/lessonsHome">Go to lesosns page</Button>
     <hr />
     <h3>Dictionary</h3>
     <p>
