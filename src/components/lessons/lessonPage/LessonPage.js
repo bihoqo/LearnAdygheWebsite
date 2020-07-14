@@ -4,8 +4,8 @@ import { Button } from 'react-bootstrap';
 import './LessonPage.css';
 
 const LessonPage = (props) => {
-    const exerciseName = props.location.state.exerciseName; // get excercise name (excercise header title)
-    const excercisePagePath = props.location.state.excercisePagePath; // get current exercise page path
+    const lessonTitle = props.location.state.lessonTitle; // get lesson name (excercise header title)
+    const lessonSubtitle = props.location.state.lessonSubtitle; // get lesson subtitle name
     const lessonExcercises = props.location.state.lessonExcercises; // get all current lesson's exercises
     const lessonPagePath = props.location.state.lessonPagePath; // get file path that contains lesson explnation
 
@@ -14,7 +14,7 @@ const LessonPage = (props) => {
     const buttonsForLessonExcercises = lessonExcercises.map((excercise, index) => {
         return (
             <div>
-                <Link to={{ pathname: `/${excercisePagePath}`, state: { questions: excercise } }}>
+                <Link to={{ pathname: `/exercise`, state: { questions: excercise } }}>
                     <Button>Start excercise {index + 1}</Button>
                 </Link>
             </div>
@@ -23,9 +23,10 @@ const LessonPage = (props) => {
 
     return (
         <div id='lessonPageDiv'>
-            <h3>{exerciseName}</h3>
+            <h1>{lessonTitle}</h1>
+            <h3>{lessonSubtitle}</h3>
             <div>
-                <Link to='/exercisesHome'>
+                <Link to='/lessonsHome'>
                     <Button>Go back</Button>
                 </Link>
             </div>

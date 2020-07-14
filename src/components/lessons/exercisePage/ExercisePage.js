@@ -57,7 +57,7 @@ class ExercisePage extends Component {
         return (
             <div>
                 {answersDiv}
-                <Link to='/exercisesHome'>
+                <Link to='/lessonsHome'>
                     <Button>Go back to excercises</Button>
                 </Link>
             </div>

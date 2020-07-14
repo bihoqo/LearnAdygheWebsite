@@ -13,8 +13,7 @@ function App() {
       <div id='app'>
         <Route path='/' exact component={Home} />
         <Route path='/lessonsHome' exact component={LessonsHomepage} />
-        <Route path='/exerciseQuestions1' component={ExercisePage} />
-        <Route path='/exerciseQuestions2' component={ExercisePage} />
+        <Route path='/exercise' component={ExercisePage} />
         <Route path='/lesson' component={LessonPage} />
       </div>
     </BrowserRouter>

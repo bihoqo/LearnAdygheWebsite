@@ -6,27 +6,26 @@ import { Link } from 'react-router-dom';
 const LessonsHomepage = () => (
     <div id='exercisesContainer'>
         <h1>Lessons</h1>
-        <LessonButtonLink lessonPagePath='Lesson_1' excercisePagePath='exerciseQuestions1'
-            exerciseTitle='Lesson 1' exerciseSubtitle='Demo 1' colorStyle='colorBlue' lessonExcercises={exercises_1} />
-        <LessonButtonLink lessonPagePath='Lesson_2' excercisePagePath='exerciseQuestions2'
-            exerciseTitle='Lesson 2' exerciseSubtitle='Demo 2' colorStyle='colorYellow' lessonExcercises={exercises_2} />
+        <LessonButtonLink lessonPagePath='Lesson_1' lessonTitle='Lesson 1'
+            lessonSubtitle='Demo 1' colorStyle='colorBlue' lessonExcercises={exercises_1} />
+        <LessonButtonLink lessonPagePath='Lesson_2' lessonTitle='Lesson 2'
+            lessonSubtitle='Demo 2' colorStyle='colorYellow' lessonExcercises={exercises_2} />
     </div>
 );
 
 const LessonButtonLink = (props) => {
     const infoPageParameters = {
         lessonExcercises: props.lessonExcercises,
-        excercisePagePath: props.excercisePagePath,
-        exerciseTitle: props.exerciseTitle,
-        exerciseSubtitle: props.exerciseSubtitle,
+        lessonTitle: props.lessonTitle,
+        lessonSubtitle: props.lessonSubtitle,
         lessonPagePath: props.lessonPagePath
     };
     return (
         <Link to={{ pathname: `/lesson`, state: infoPageParameters }}>
             <section className='exerciseButtonStyle'>
                 <li className={props.colorStyle}>
-                    <h3>{props.exerciseTitle}</h3>
-                    <span>{props.exerciseSubtitle}</span>
+                    <h3>{props.lessonTitle}</h3>
+                    <span>{props.lessonSubtitle}</span>
                 </li>
             </section>
         </Link>
