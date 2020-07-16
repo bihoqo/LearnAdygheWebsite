@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import { definitions } from '../../../consts/DictionaryPack.js';
-import { Button } from 'react-bootstrap';
 import DefinitionComponent from './../definitionComponent/DefinitionComponent.js';
 import { Typeahead } from 'react-bootstrap-typeahead';
 import './DictionaryPage.css';
@@ -31,7 +30,9 @@ const DictionaryPage = () => {
     if (!isEmpty(searchedWordObj)) {
         results = (
             <div id='searchResultsId'>
-                <h1>{searchedWordObj.word}</h1>
+                <div>
+                    <h1>{searchedWordObj.word}<span id='ipa'> [{searchedWordObj.ipa}]</span><span> ({searchedWordObj.type})</span></h1>
+                </div>
                 <hr />
                 <DefinitionComponent definitionObj={searchedWordObj} />
             </div>

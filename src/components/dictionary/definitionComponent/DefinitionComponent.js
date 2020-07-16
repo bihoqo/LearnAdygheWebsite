@@ -4,6 +4,8 @@ const DefinitionComponent = (props) => {
     const defObj = props.definitionObj;
     let counter = 1;
     let synonymsDiv = <div></div>;
+    let cognateDiv = <div></div>;
+    let showLine = false;
 
     const highlightTextBetweenQuotes = (text) => {
         const split = text.split("'''");
@@ -34,12 +36,19 @@ const DefinitionComponent = (props) => {
     });
 
     if (defObj.synonyms != null) {
-        const synonymsList = defObj.synonyms.map(sys => sys.word);
-        const synonymsText = synonymsList.join('; ');
+        showLine = true;
         synonymsDiv = (
-            <div>
-                <hr />
-                <span><strong>Synonyms: </strong>{synonymsText}</span>
+            <div className='suggestionWords'>
+                <span><strong>Synonyms: </strong>{defObj.synonyms.join('; ')}</span>
+            </div>
+        )
+    }
+
+    if (defObj.cognate != null) {
+        showLine = true;
+        cognateDiv = (
+            <div className='suggestionWords'>
+                <span><strong>Kabardian: </strong>{defObj.cognate}</span>
             </div>
         )
     }
@@ -47,7 +56,9 @@ const DefinitionComponent = (props) => {
     return (
         <div>
             {wordMeanings}
+            {showLine ? <hr /> : <div></div>}
             {synonymsDiv}
+            {cognateDiv}
         </div>
     );
 }
