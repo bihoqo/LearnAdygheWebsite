@@ -443,7 +443,7 @@
           "Kfar Kama Shapsug dialect"
         ]
       },
-	  {
+      {
         "meaning": "(dialectal) he; she; it; that (in ergative case)",
         "examples": []
       }
@@ -498,7 +498,7 @@
     "type": "name"
   },
   {
-	"cognate": "адыгэбзэ",
+    "cognate": "адыгэбзэ",
     "word": "ун",
     "lang": "Adyghe",
     "definitions": [
@@ -972,7 +972,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "pain",
         "examples": []
       }
@@ -1378,7 +1378,7 @@
         "meaning": "face",
         "examples": []
       },
-	  {
+      {
         "meaning": "honor (social face)",
         "examples": []
       }
@@ -1577,7 +1577,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "loud voice (мэкъэ 1этыгъ)",
         "examples": [
           {
@@ -1718,7 +1718,7 @@
     "synonyms": [
       "1эпапц1э"
     ],
-	"cognate": "1эпэпц1ий"
+    "cognate": "1эпэпц1ий",
     "type": "noun",
     "ipa": "ʔapapsʼəj"
   },
@@ -2168,14 +2168,14 @@
         "meaning": "melon",
         "examples": []
       },
-	  {
+      {
         "meaning": "(dialectal) watermelon",
         "examples": []
       }
     ],
     "synonyms": [
       "хъырбыдз",
-	  "къэпраз"
+      "къэпраз"
     ],
     "cognate": "нащэ",
     "type": "noun",
@@ -2272,7 +2272,7 @@
         "meaning": "cucumber",
         "examples": []
       }
-    ]
+    ],
     "type": "noun",
     "ipa": "naʃabaɡʷ"
   },
@@ -2374,7 +2374,7 @@
         "meaning": "bullet",
         "examples": []
       }
-    ],,
+    ],
     "synonyms": [
       "щэзэн (Shapsug)"
     ],
@@ -2987,11 +2987,11 @@
         "meaning": "the sound with which to call turkeys",
         "examples": []
       },
-	  {
+      {
         "meaning": "the sound a turkey makes",
         "examples": []
       },
-	  {
+      {
         "meaning": "(informal) turkey",
         "examples": []
       }
@@ -3006,7 +3006,7 @@
     "word": "цык1аф",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "Scolymus maculatus (plant)",
         "examples": []
       }
@@ -3018,7 +3018,7 @@
     "word": "кур-кур уцы",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "Malva (plant)",
         "examples": []
       }
@@ -3030,7 +3030,7 @@
     "word": "джыдамышх",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "Rumex",
         "examples": []
       }
@@ -3042,7 +3042,7 @@
     "word": "мэмау",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "(childish) cat",
         "examples": []
       }
@@ -3073,7 +3073,7 @@
         "meaning": "cockroach",
         "examples": []
       },
-	  {
+      {
         "meaning": "black-beetle",
         "examples": []
       }
@@ -3210,7 +3210,7 @@
         "meaning": "untrue",
         "examples": []
       }
-    ]
+    ],
     "type": "noun",
     "ipa": "məʂəpqa"
   },
@@ -3242,7 +3242,7 @@
         "meaning": "(Shapsug) jug",
         "examples": []
       },
-	  {
+      {
         "meaning": "(Shapsug) flowerpot",
         "examples": []
       }
@@ -3534,15 +3534,15 @@
       {
         "meaning": "rheum (dried mucus in or around the eyes)",
         "examples": []
-      }
+      },
       {
         "meaning": "stye (bacterial infection of the eyelash or eyelid)",
         "examples": []
-      }
+      },
       {
         "meaning": "barley (annual temperate grasses of the species Hordeum vulgare)",
         "examples": []
-      }
+      },
       {
         "meaning": "barley (the grain of annual temperate grasses of the species Hordeum vulgare, used in making beer and whisky and for soups, puddings, etc.)",
         "examples": []
@@ -3680,7 +3680,7 @@
         "meaning": "woman",
         "examples": []
       },
-	  {
+      {
         "meaning": "human female",
         "examples": []
       }
@@ -3697,7 +3697,7 @@
         "meaning": "man",
         "examples": []
       },
-	  {
+      {
         "meaning": "human male",
         "examples": []
       }
@@ -3803,7 +3803,7 @@
         "meaning": "day",
         "examples": []
       },
-	  {
+      {
         "meaning": "fortunate, lucky, happy, blessed",
         "examples": []
       }
@@ -4229,7 +4229,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"щэджагъо\"",,
+        "meaning": "alternative form of \"щэджагъо\"",
         "examples": []
       }
     ],
@@ -4580,7 +4580,7 @@
         "meaning": "sour",
         "examples": []
       },
-	  {
+      {
         "meaning": "strong-willed",
         "examples": []
       }
@@ -4588,7 +4588,7 @@
     "synonyms": [
       "ш1о1у",
       "зэхэш1о1ухьан",
-	  "гъэпц1агъэ"
+      "гъэпц1агъэ"
     ],
     "type": "adj",
     "ipa": "xaːfa"
@@ -4604,8 +4604,8 @@
     ],
     "synonyms": [
       "хафэ",
-	  "зэхэш1о1ухьан",
-	  "гъэпц1агъэ"
+      "зэхэш1о1ухьан",
+      "гъэпц1агъэ"
     ],
     "type": "adj",
     "ipa": "ʃʷʼaʔʷ"
@@ -4945,7 +4945,7 @@
         "meaning": "large, big",
         "examples": []
       },
-	  {
+      {
         "meaning": "giant (usually written as иныжъ)",
         "examples": []
       }
@@ -5160,7 +5160,7 @@
         "meaning": "kind",
         "examples": []
       },
-	  {
+      {
         "meaning": "race (a group of sentient beings, particularly people, distinguished by common ancestry, heritage or characteristics)",
         "examples": []
       }
@@ -5403,11 +5403,11 @@
       {
         "meaning": "river",
         "examples": [
-		          {
-            "sentence":"'''Уипсыхъохэм''' афэдэ дунаим темыт, Адыгееу сигупсэу сикIас - Адыгееу сигупс (усэ).",
+          {
+            "sentence": "'''Уипсыхъохэм''' афэдэ дунаим темыт, Адыгееу сигупсэу сикIас - Адыгееу сигупс (усэ).",
             "translation": "To your '''rivers''' there are no match in this world, Adygea soul of my heart - Адыгееу сигупс (poem)."
           }
-		]
+        ]
       }
     ],
     "type": "noun",
@@ -5457,11 +5457,11 @@
       {
         "meaning": "silver",
         "examples": [
-		 {
-            "sentence":"Къафкъас къушъхьэшхомэ анахь лъагэм, '''тыжьын''' осэпсыхэр къыщетэкъух гущи, оуи. - Абрэдж Нухь иорэд",
+          {
+            "sentence": "Къафкъас къушъхьэшхомэ анахь лъагэм, '''тыжьын''' осэпсыхэр къыщетэкъух гущи, оуи. - Абрэдж Нухь иорэд",
             "translation": "Silver dew falls upon the highest of the great mountaints of the Caucasus - Abredj Nouh (Song)"
           }
-		]
+        ]
       }
     ],
     "cognate": "дыжьын",
