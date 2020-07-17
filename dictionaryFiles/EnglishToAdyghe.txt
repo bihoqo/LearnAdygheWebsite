@@ -9,6 +9,21 @@
     "y'all": "шъо"
   },
   {
+    "to castrate": "сэкӏын"
+  },
+  {
+    "bull": "быгъу (breeding bull); цу (ox, bullock)"
+  },
+  {
+    "castrated": "сэкӏыгъ"
+  },
+  {
+    "eunuch": "сэкӏыгъ"
+  },
+  {
+    "uncastrated": "мысэкӏыгъ"
+  },
+  {
     "weather": "о; ожьы; ошӏу (peaceful weather); уае (stormy weather)"
   },
   {
