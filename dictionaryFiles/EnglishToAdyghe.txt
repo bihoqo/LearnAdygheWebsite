@@ -711,9 +711,6 @@
     "eagle": "бгъэ"
   },
   {
-    "chest": "бгъэ"
-  },
-  {
     "sterile mare": "бгъэ"
   },
   {
@@ -1537,9 +1534,6 @@
   },
   {
     "slice": "налъэ (unit)"
-  },
-  {
-    "piece": "налъэ (unit)"
   },
   {
     "king": "пачъыхь"
@@ -3498,9 +3492,6 @@
     "to split in half": "зэгогъэк1ын"
   },
   {
-    "piece": "такъыр"
-  },
-  {
     "good morning": "пчэдыжь ш1у"
   },
   {
@@ -3537,19 +3528,10 @@
     "which": "тары"
   },
   {
-    "arab": "лъэкъуапц1"
-  },
-  {
-    "alternative form of \"нэз\"": "нэзы"
-  },
-  {
-    "piece": "1эбгъу"
+    "piece": "1эбгъу; такъыр; налъэ (single piece); парчъэ"
   },
   {
     "loosed": "лалэ"
-  },
-  {
-    "meat": "лалэ"
   },
   {
     "boiling water": "псыжъо"
@@ -3790,9 +3772,6 @@
   },
   {
     "tailor's cutter": "бзак1о"
-  },
-  {
-    "dumb": "бзако (unable to speak)"
   },
   {
     "mute": "бзако (unable to speak)"
@@ -4191,9 +4170,6 @@
     "sample": "бзыпхъэ"
   },
   {
-    "to trim": "бзытэн"
-  },
-  {
     "small bird": "бзыужъый; бзыуц1ык1у"
   },
   {
@@ -4227,16 +4203,22 @@
     "bird-snarer": "бзыуубыт"
   },
   {
-    "to catch": "убытын / къэубытын"
+    "to hold with strength": "пытэу убытын; пытэу 1ыгъэх"
   },
   {
-    "to hold with strength, to grip": "убытын"
+    "to capture": "убытын; ш1оубытын (to capture from); къытехын (to capture from)"
   },
   {
-    "to capture, to make something yours (Like a room, house, territory, vehicle, animal, any object)": "убытын"
+    "quiet": "шъэфы"
   },
   {
-    "quiet, silence": "шъэфы"
+    "silence": "шъэфы"
+  },
+  {
+    "soundless": "макъэнчъэ"
+  },
+  {
+    "voiceless": "макъэнчъэ"
   },
   {
     "mountain": "къушъхьэ"
@@ -4245,124 +4227,127 @@
     "friendship": "зэкъошныгъ"
   },
   {
-    "field": "шъофы"
+    "field": "шъофы (field outisde vilage); хьасэ (field for agriculture); хъуп1э (field with livestock); губгъо (wild field); лэжьыгъэш1апэ (working field)"
   },
   {
-    "village": "къуаджэ"
+    "century": "л1эш1эгъу"
   },
   {
-    "alternative form of \"шъхьэфитынгъэ\"": "шъхьафитныгъ"
+    "100 years": "л1эш1эгъу"
   },
   {
-    "century (100 years)": "л1эш1эгъу"
+    "hundred years": "л1эш1эгъу"
   },
   {
-    "Lark (a bird)": "бзыухьакуаку"
+    "lark": "бзыухьакуаку"
   },
   {
     "young bird": "бзыушыр"
   },
   {
-    "linden (plant)": "бзыфы"
+    "linden": "бзыфы"
   },
   {
-    "to trim (the edges)": "бзыхьан"
+    "to trim": "бзыхьан; бзытэн; упхъон; ук1эпхъэн"
   },
   {
-    "clip (of paper), cuttings,": "бзыхьаф"
+    "rag": "бзыхьаф (piece of cloth)"
   },
   {
-    "integrated, Not needy, Self sufficient,": "бзыхьафынчъ"
+    "shred": "бзыхьаф"
+  },
+  {
+    "cloth scrap": "бзыхьаф"
+  },
+  {
+    "scrap": "пыз-нэз; бзыхьаф (cloth scrap)"
+  },
+  {
+    "self sufficient": "емыпхыгъэ; шъхьафит"
+  },
+  {
+    "self-sufficient": "емыпхыгъэ; шъхьафит"
+  },
+  {
+    "independent": "емыпхыгъэ"
+  },
+  {
+    "dependent": "епхыгъэ"
   },
   {
     "to warble": "бзэбзэн"
   },
   {
-    "to modulate": "бзэбзэн"
+    "to tweet": "бзэбзэн; чэчэн"
   },
   {
-    "uvula": "бзэгужъый"
+    "to chirr": "чэчэн (of forty bird); ц1ырыун (of grasshopper)"
   },
   {
-    "alternative form of \"бзэгухь\"": "бзэгохь"
+    "uvula": "бзэгужъый; бзэгу ц1ык1у"
   },
   {
-    "to make someone or something late, to delay": "гъэлъэжъон"
+    "to late": "гъэлъэжъон"
   },
   {
-    "chest": "губгъэ"
+    "to delay": "гъэлъэжъон"
   },
   {
-    "smell": "гъуамэ"
+    "to slow down": "жъажъэу хъун; гъэжъэжъэн; зыгъэжъэжъэн"
   },
   {
-    "stench, stink": "шъумэ"
+    "to hurry up": "зыгъэпсынк1эн; гъэпсынк1эн"
   },
   {
-    "16 dunam": "хъэдз"
+    "stench": "шъумэ"
   },
   {
-    "to envy": "хъопсэн"
+    "stink": "шъумэ"
   },
   {
-    "to lust": "хъопсэн"
+    "to envy": "ехъопсэн; ешхъогъон; шъугъон"
+  },
+  {
+    "to lust": "ехъопсэн; енэц1ын (look lustfully)"
   },
   {
     "to look lustfully": "енэц1ын"
   },
   {
-    "to look with a lot of desire": "енэц1ын"
+    "to long for": "к1эхъопсын (to miss someone); енэц1ын (to desire)"
   },
   {
-    "to look enviously": "енэц1ын"
+    "to touch": "нэсын; те1эн (to touch with hand); те1эбэн (to touch); е1эн (to touch with hand); те1эбэхьан (to touch all over something)"
   },
   {
-    "to long for": "енэц1ын"
+    "to reach": "нэсын (to successfully reach); лъы1эбэн (to attempt to reach)"
   },
   {
-    "alternative form of \"нэгъуч1ыцэ\"": "нэгъуч1ыц"
-  },
-  {
-    "to touch": "нэсын"
-  },
-  {
-    "to reach": "нэсын"
-  },
-  {
-    "alternative form of \"стын\"": "мэстын"
-  },
-  {
-    "to burn, to make something burn": "гъэстын"
-  },
-  {
-    "alternative form of \"гъэпск1ын\"": "гъэпсык1ын"
+    "to arrive": "къэсын"
   },
   {
     "harm": "ягъэ"
   },
   {
-    "to harm someone, to disturb someone, to get in someone's way, to annoy someone": "ягъэ егъэк1ын"
+    "to harm": "ягъэ егъэк1ын"
   },
   {
-    "to interrupt, to interfere with, to annoy": "ягъэ къэгъэк1он"
+    "to disturb": "ягъэ егъэк1ын"
   },
   {
-    "to ask someone": "еупчын"
+    "to get in the way": "ягъэ егъэк1ын; гъэохъун; пэ1ууцон (to stand in front of someone)"
   },
   {
-    "(dialectal) alternative spelling of \"пчъын\"": "пчын"
+    "to annoy": "ягъэ егъэк1ын"
   },
   {
-    "bat": "хъэпрашъо"
+    "to interrupt": "зэпыгъэун"
   },
   {
-    "to trim": "ук1эпхъэн"
+    "to ask": "упч1эн; еупчӏын (to ask someone); к1эупч1эн (to ask around)"
   },
   {
-    "dumb, Foreigner that does not speak Circassian,": "бзэмы1у"
-  },
-  {
-    "dumb person, Foreigner that does not speak Circassian,": "бзэмы1у"
+    "dumb": "бзако (unable to speak); бзэмы1у (unable to communicate due to language barrier)"
   },
   {
     "to plan": "гъэпсын"
@@ -11868,9 +11853,6 @@
     "to make someone hear something": "егъэ1ун"
   },
   {
-    "to long for, to miss someone (To feel the absence of someone or something)": "к1эхъопсын"
-  },
-  {
     "to have a dream to look forward to": "к1эхъопсын"
   },
   {
@@ -18790,9 +18772,6 @@
   },
   {
     "boyfriend": "гъусэ к1алэ"
-  },
-  {
-    "to trim": "упхъон"
   },
   {
     "to clip, to crop (usually of hair)": "упхъон"

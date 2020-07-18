@@ -17635,7 +17635,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Lark (a bird)",
+        "meaning": "lark (a bird); skylark",
         "examples": []
       }
     ],
@@ -17691,7 +17691,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "clip (of paper), cuttings,",
+        "meaning": "rag (a piece of old cloth; a tattered piece of cloth; a shred, a tatter)",
+        "examples": []
+      },
+	  {
+        "meaning": "cloth scrap",
         "examples": []
       }
     ],
@@ -17703,7 +17707,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "integrated, Not needy, Self sufficient,",
+        "meaning": "self-sufficient, not in need",
         "examples": []
       }
     ],
@@ -17716,10 +17720,6 @@
     "definitions": [
       {
         "meaning": "to warble",
-        "examples": []
-      },
-      {
-        "meaning": "to modulate",
         "examples": []
       }
     ],
@@ -17735,8 +17735,26 @@
         "examples": []
       }
     ],
+    "synonyms": [
+      "бзэгу ц1ык1у"
+    ],
     "type": "noun",
     "ipa": "bzaɡʷʐəj"
+  },
+  {
+    "word": "бзэгу ц1ык1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "uvula",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "бзэгужъый"
+    ],
+    "type": "noun",
+    "ipa": "bzaɡʷ t͡sʼəkʷʼ"
   },
   {
     "word": "бзэгохь",
@@ -17815,18 +17833,6 @@
     "ipa": "ʂʷəːma"
   },
   {
-    "word": "хъэдз",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "16 dunam",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "χad͡z"
-  },
-  {
     "word": "хъопсэн",
     "lang": "Adyghe",
     "definitions": [
@@ -17858,7 +17864,7 @@
         "meaning": "to look lustfully",
         "examples": [
           {
-            "sentence": "Тигъунэгъум ыпшъашъэ '''сенэцIы'''",
+            "sentence": "Тигъунэгъум ыпшъашъэ '''сенэц1ы'''",
             "translation": "'''I am lusting for ''' my neighbor's daughter."
           }
         ]
@@ -17891,6 +17897,18 @@
     ],
     "type": "verb",
     "ipa": "janat͡sʼən"
+  },
+  {
+    "word": "нэц1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"енэц1ын\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "nat͡sʼən"
   },
   {
     "word": "нэгъуч1ыц",
@@ -18065,23 +18083,19 @@
     "ipa": "jaːʁa qaʁakʷʼan"
   },
   {
-    "word": "еупчын",
+    "word": "еупч1ын",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to ask someone",
         "examples": [
           {
-            "sentence": "к1алэр пшъашъэм '''еупчэгъ''' дэк1рагъомэ",
-            "translation": "the boy '''asked''' the girl if she wanted to go out."
+            "sentence": "к1алэр пшъашъэм '''еупч1ыгъ''' дэк1ынэу фаемэ",
+            "translation": "the boy '''asked''' the girl if she wants to go out."
           },
           {
-            "sentence": "'''уысэупчы''' сыд уиц1э",
-            "translation": "'''I am asking you''' what your name is"
-          },
-          {
-            "sentence": "'''уыкъчэмыупч''' тэдэ так1о",
-            "translation": "'''don't ask''' where we are going"
+            "sentence": "'''усэупч1ы''' сыд пц1э",
+            "translation": "'''I am asking you''' what your is your name"
           }
         ]
       }
@@ -18103,18 +18117,6 @@
       }
     ],
     "type": "verb"
-  },
-  {
-    "word": "хъэпрашъо",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "bat",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "χapraːʂʷa"
   },
   {
     "word": "ук1эпхъэн",
@@ -18184,8 +18186,44 @@
         "examples": []
       }
     ],
+    "synonyms": [
+      "план зэхэлъхьан",
+      "план гъэуцун"
+    ],
     "type": "verb",
     "ipa": "ʁapsən"
+  },
+  {
+    "word": "план гъэуцун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to plan",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "гъэпсын",
+      "план зэхэлъхьан"
+    ],
+    "type": "verb",
+    "ipa": "pɮaːn ʁawt͡ʃʷən"
+  },
+  {
+    "word": "план зэхэлъхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to plan",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "гъэпсын",
+      "план гъэуцун"
+    ],
+    "type": "verb",
+    "ipa": "pɮaːn zaxaɬħaːn"
   },
   {
     "word": "зэ1эхын",
@@ -27109,7 +27147,7 @@
     "ipa": "mazətħa"
   },
   {
-    "word": "Пэкъуэ",
+    "word": "Пэкъо",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -36603,38 +36641,39 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to ask",
+        "meaning": "alternative form of \"к1эупч1эн\"",
+        "examples": []
+      }
+    ],
+    "cognate": "щ1эупщ1эн",
+    "type": "verb",
+    "ipa": "t͡ʃʼawpt͡ʃʼan"
+  },
+  {
+    "word": "к1эупч1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to ask around",
         "examples": [
           {
-            "sentence": "к1алэр пшъашъэм '''еупк1ы''' сыд ыц1э",
-            "translation": "The boy '''is asking''' the girl what her name is?"
-          },
-          {
-            "sentence": "к1алэр л1ыхэмэ '''яупк1ы''' рсы фаехэмэ",
-            "translation": "The boy is '''asking''' the men of they want water."
-          },
-          {
-            "sentence": "'''к1эупк1''' сыд к1алэм ыц1э",
-            "translation": "'''Ask''' what the boy's name."
-          },
-          {
-            "sentence": "'''уcэупк1ы''' тэдэ ок1о",
-            "translation": "'''I am asking you''' where are you going."
-          },
-          {
-            "sentence": "'''къык1эупк1''' л1ыхэр рсы фаехэмэ",
+            "sentence": "'''къык1эупч1''' л1ыхэр псы фаехэмэ",
             "translation": "'''Ask''' if the men want water."
           },
+		  {
+            "sentence": "к1алэр '''к1аупч1э''' тыдэ щы1 мэш1окур",
+            "translation": "The boy '''asks around''' where is the train."
+          },
           {
-            "sentence": "'''укъсэмыупк1''' тэщтэу шытэгъ тестэр",
-            "translation": "'''Don't ask me''' how was the test."
+            "sentence": "'''укъык1эмыупч1''' тыдэ тэк1о",
+            "translation": "'''Don't ask''' where we are going."
           }
         ]
       }
     ],
     "cognate": "щ1эупщ1эн",
     "type": "verb",
-    "ipa": "t͡ʃʼawpt͡ʃʼan"
+    "ipa": "t͡ʃʼawpt͡ʂʼan"
   },
   {
     "word": "усын",
@@ -41413,6 +41452,18 @@
     "ipa": "ʁawaχʷən"
   },
   {
+    "word": "гъэохъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "obstacle",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʁawaχʷ"
+  },
+  {
     "word": "нахьыш1у",
     "lang": "Adyghe",
     "definitions": [
@@ -44275,16 +44326,16 @@
             "translation": "'''I am asking you''' what you want?"
           },
           {
-            "sentence": "Томэр '''къысэупч1эгъ''' шыдгъо сыдак1ы",
-            "translation": "Tom '''asked''' me when i am going out."
+            "sentence": "Томэр '''къысэупч1ыгъ''' сыдигъо тыдэк1ы",
+            "translation": "Tom '''asked''' me when we are going out."
           },
           {
-            "sentence": "Пшъашъэм '''сеупч1ырагъу''' сырик1асэмэ",
+            "sentence": "Пшъашъэм '''сеупч1ынэу''' сыфай сырик1асэмэ",
             "translation": "'''I wanna ask''' the girl if she likes me."
           },
           {
-            "sentence": "'''еупч1ы''' мэшхэтмэ",
-            "translation": "'''Ask''' if he gonna eat."
+            "sentence": "'''еупч1ы''' къытдэшхэщтымэ",
+            "translation": "'''Ask''' him/her if (s)he is going to eat with us."
           }
         ]
       }
@@ -60283,6 +60334,25 @@
     "ipa": "ʃʷəχʷaʁʷan"
   },
   {
+    "word": "ешхъогъон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"шхъогъон\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "хъопсэн",
+      "шхъогъон",
+      "ешъугъун",
+      "шъугъон",
+      "ехьагъушъугъун"
+    ],
+    "type": "verb",
+    "ipa": "jaʃχʷaʁʷan"
+  },
+  {
     "word": "мэшъухъогъон",
     "lang": "Adyghe",
     "definitions": [
@@ -69202,7 +69272,7 @@
         ]
       },
 	  {
-        "meaning": "to seize something from someone and take control of (ex. ball, base, land, place)",
+        "meaning": "to capture from; to seize something from someone and take control of (ex. ball, base, land, place)",
         "examples": [
           {
             "sentence": "К1алэм торыр '''къыстехы'''",
@@ -69232,6 +69302,10 @@
     "definitions": [
       {
         "meaning": "to take hold of something against the owner's interest or will",
+        "examples": []
+      },
+	  {
+        "meaning": "to capture from",
         "examples": []
       }
     ],
@@ -77023,7 +77097,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "fabric",
+        "meaning": "alternative form of \"шэк1ы\"",
         "examples": []
       }
     ],
@@ -83808,10 +83882,10 @@
         ]
       },
       {
-        "meaning": "field",
+        "meaning": "field (field for agriculture such as crop field)",
         "examples": [
           {
-            "sentence": "'''хьасэм''' Iоф щышIэн",
+            "sentence": "'''хьасэм''' Iоф щыш1эн",
             "translation": "To work in the '''field'''."
           }
         ]
@@ -93898,6 +93972,10 @@
       {
         "meaning": "to mow, to cut",
         "examples": []
+      },
+	  {
+        "meaning": "alternative form of \"упч1эн\"",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -96676,7 +96754,7 @@
         "examples": []
       }
     ],
-    "type": "adj",
+    "type": "noun",
     "ipa": "qərəjkʷʼaʁʷ"
   },
   {
@@ -96688,7 +96766,7 @@
         "examples": []
       }
     ],
-    "type": "adj",
+    "type": "noun",
     "ipa": "maqʷaːwa"
   },
   {
@@ -96700,7 +96778,125 @@
         "examples": []
       }
     ],
-    "type": "adj",
+    "type": "verb",
     "ipa": "zapəʁafan"
+  },
+  {
+    "word": "шэк1ы",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "material, cloth, fabric",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃat͡ʃʼə"
+  },
+  {
+    "word": "пыз-нэз",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "waste products; scrap (a small piece; a fragment; a detached, incomplete portion)",
+        "examples": [
+		  {
+            "sentence": "Гъуч1 '''пыз-нэз'''",
+            "translation": "Metal '''scrap'''."
+          }
+		]
+      }
+    ],
+    "type": "noun",
+    "ipa": "pəz-naz"
+  },
+  {
+    "word": "чэчэн",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "to chirr (of insects)",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "t͡ʃat͡ʃan"
+  },
+  {
+    "word": "чэчэн",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "to chirr (of birds)",
+        "examples": []
+      },
+	  {
+        "meaning": "to bleat",
+        "examples": []
+      },
+	  {
+        "meaning": "to tweet",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "t͡ʃat͡ʃan"
+  },
+  {
+    "word": "орэд къы1он",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "to sing a song",
+        "examples": []
+      },
+	  {
+        "meaning": "to tweet",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "warad qəʔʷan"
+  },
+  {
+    "word": "ц1ырыун",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "to chirr (of grasshopper)",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "t͡sʼərəwən"
+  },
+  {
+    "word": "къанджэ",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "forty (bird)",
+        "examples": []
+      },
+	  {
+        "meaning": "magpie (bird)",
+        "examples": []
+      }
+    ],
+	"cognate": "къанжэ"
+    "type": "verb",
+    "ipa": "qaːnʒa"
+  },
+  {
+    "word": "план",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "plan",
+        "examples": []
+      },
+    ],
+    "type": "noun",
+    "ipa": "plan"
   }
 ]
