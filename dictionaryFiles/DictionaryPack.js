@@ -1118,8 +1118,7 @@
       }
     ],
     "synonyms": [
-      "натыф",
-      "хьамц1ый"
+      "натыф"
     ],
     "cognate": "нартыху",
     "type": "noun",
@@ -8761,6 +8760,18 @@
     "ipa": "bzəwt͡səf"
   },
   {
+    "word": "бзыуцыфуц",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "Cotton (plant)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "bzəwt͡səfwət͡s"
+  },
+  {
     "word": "ныбжь",
     "lang": "Adyghe",
     "definitions": [
@@ -14257,23 +14268,16 @@
     "ipa": "ʐʷatχʷ"
   },
   {
-    "word": "белэ",
+    "word": "байлэ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "haybale",
         "examples": []
-      },
-      {
-        "meaning": "hay",
-        "examples": []
       }
     ],
-    "synonyms": [
-      "мэкъу"
-    ],
     "type": "noun",
-    "ipa": "bajla"
+    "ipa": "baːjla"
   },
   {
     "word": "бетэман",
@@ -16517,9 +16521,6 @@
         "examples": []
       }
     ],
-    "synonyms": [
-      "натрыф"
-    ],
     "type": "noun",
     "ipa": "ħaːmt͡sˤʼəj"
   },
@@ -16528,7 +16529,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "bay",
+        "meaning": "bay (horse)",
         "examples": []
       }
     ],
@@ -16756,7 +16757,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "dark",
+        "meaning": "dark blue",
         "examples": []
       }
     ],
@@ -16780,24 +16781,33 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "ball",
+        "meaning": "ball; clew (of thread)",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "χʷət͡ʃaːna"
+    "ipa": "χʷət͡ʂʼaːna"
   },
   {
     "word": "пчъагъэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "date",
-        "examples": []
-      },
-      {
         "meaning": "number",
         "examples": []
+      },
+	  {
+        "meaning": "multitude (great amount or number)",
+        "examples": [
+          {
+            "sentence": "Мэзэ '''пчъагъэ''' хъугъи чылэм сыщылажьэ",
+            "translation": "I have been working in the village '''for several''' months."
+          },
+		  {
+            "sentence": "Сыхьат '''пчъагъэ''' хъугъи ц1ыфым тыпаплъэ",
+            "translation": "We have been waiting for the person '''for several''' hours."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -16838,17 +16848,6 @@
     ],
     "type": "noun",
     "ipa": "ɡʷaːpa"
-  },
-  {
-    "word": "губчъо",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "field",
-        "examples": []
-      }
-    ],
-    "type": "noun"
   },
   {
     "word": "щагу",
@@ -16927,47 +16926,35 @@
     "ipa": "kʷaːma"
   },
   {
-    "word": "анэбзэ",
+    "word": "ныдэлъфыбзэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "mother's language",
+        "meaning": "mother's tongue; first language",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "aːnabza"
+    "ipa": "nədaɬfəbza"
   },
   {
-    "word": "анэдэлъфыбзэ",
+    "word": "лы шъэжъые",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "mother's language",
+        "meaning": "cleaver",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "aːnadaɬfəbza"
-  },
-  {
-    "word": "бзыгъ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "bread crumb, notch,",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "bzəʁ"
+    "ipa": "ɮə ʂaʐəja"
   },
   {
     "word": "бзын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to cut (with scissors, knife or sword), to slice",
+        "meaning": "to cut (with scissors, knife or sword)",
         "examples": [
           {
             "sentence": "К1алэм '''ебзы''' тхылъып1эр",
@@ -16976,7 +16963,12 @@
           {
             "sentence": "К1алэм псынк1эу лыр '''ебзы'''",
             "translation": "The boy '''cuts''' the meat fast."
-          },
+          }
+        ]
+      },
+	  {
+        "meaning": "to slice",
+        "examples": [
           {
             "sentence": "Мы къуаер '''бзы'''",
             "translation": "'''Slice''' this cheese."
@@ -16992,7 +16984,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Golden red",
+        "meaning": "bright red",
         "examples": []
       }
     ],
@@ -17016,23 +17008,37 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "beam, feather, plume, quill,",
+        "meaning": "feather; plume",
         "examples": []
       }
     ],
+    "synonyms": [
+      "къамзый"
+    ],
     "type": "noun",
     "ipa": "bzəj"
+  },
+  {
+    "word": "къамзый",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "feather; plume",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "бзый"
+    ],
+    "type": "noun",
+    "ipa": "qaːmzəj"
   },
   {
     "word": "бзэгуп",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "peninsula",
-        "examples": []
-      },
-      {
-        "meaning": "tongue tip",
+        "meaning": "tip of the tongue",
         "examples": []
       }
     ],
@@ -17044,7 +17050,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Speaks with difficulty, tongue-tied",
+        "meaning": "someome who speaks with difficulty, tongue-tied",
         "examples": []
       }
     ],
@@ -17056,15 +17062,18 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "evil, harmful, playful, quarrelsome",
+        "meaning": "devilish child, naughty boy (mischievous child)",
         "examples": []
       }
+    ],
+    "synonyms": [
+      "ш1ык1ай"
     ],
     "type": "adj",
     "ipa": "bzad͡ʒaːj"
   },
   {
-    "word": "бзэджап1э",
+    "word": "къэхьыпап1э",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -17073,7 +17082,19 @@
       }
     ],
     "type": "noun",
-    "ipa": "bzad͡ʒaːpˤʼa"
+    "ipa": "qaħəpaːpʼa"
+  },
+  {
+    "word": "къэхьыпэ ун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "brothel",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "qaħəpa wən"
   },
   {
     "word": "бзэджаш1э",
@@ -17105,11 +17126,15 @@
         ]
       },
       {
-        "meaning": "to frolic, to play about, to fool around, to get up to monkey tricks",
+        "meaning": "to play pranks",
         "examples": []
       },
       {
         "meaning": "to horse around",
+        "examples": []
+      },
+      {
+        "meaning": "to do evil work",
         "examples": []
       }
     ],
@@ -17144,7 +17169,7 @@
     "ipa": "bzad͡ʒaːtajɬħaːpˤʼ"
   },
   {
-    "word": "хьэпс",
+    "word": "хьапс",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -17153,22 +17178,22 @@
       }
     ],
     "type": "noun",
-    "ipa": "ħaps"
+    "ipa": "ħaːps"
   },
   {
-    "word": "бзэил",
+    "word": "бзэяк1о",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "lap, lick",
+        "meaning": "licker",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "bzajəl"
+    "ipa": "bzajaːkʷʼa"
   },
   {
-    "word": "бзэмкъэш1эныгъ",
+    "word": "бзэш1эныгъ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -17177,14 +17202,14 @@
       }
     ],
     "type": "noun",
-    "ipa": "bzamqaʃʼanəʁ"
+    "ipa": "bzazaʃʼanəʁ"
   },
   {
     "word": "бзэмай",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Talk with difficulty (adj)",
+        "meaning": "a person that talks with difficulty",
         "examples": []
       }
     ],
@@ -17192,7 +17217,7 @@
     "ipa": "bzamaːj"
   },
   {
-    "word": "1этэчэн",
+    "word": "1этек1эн",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -17201,26 +17226,34 @@
       }
     ],
     "type": "noun",
-    "ipa": "ʔatat͡ʃan"
+    "ipa": "ʔatajt͡ʃʼan"
   },
   {
-    "word": "тхьауысхако",
+    "word": "тхьаусхак1о",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "wake; in Adyghe culture, the practice of visiting a person's house on three nights following his death.",
+        "meaning": "wake; the gathering that is done after a person's death, to condole with the deceased person's family",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "tħaːwəsxaːkʷa"
+    "ipa": "tħaːwəsxaːkʼʷa"
   },
   {
     "word": "бзыпхъэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "arrangement, Cut (dress), example, model, order, pattern, sample,",
+        "meaning": "pattern (template for making clothes)",
+        "examples": []
+      },
+	  {
+        "meaning": "cutting out (of patterns or shapes)",
+        "examples": []
+      },
+	  {
+        "meaning": "sample",
         "examples": []
       }
     ],
@@ -17232,11 +17265,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "trim",
+        "meaning": "to trim edges",
         "examples": []
       }
     ],
-    "type": "noun",
+    "type": "verb",
     "ipa": "bzətan"
   },
   {
@@ -24561,6 +24594,10 @@
         "meaning": "handle",
         "examples": []
       },
+	  {
+        "meaning": "door-handle",
+        "examples": []
+      },
       {
         "meaning": "knob",
         "examples": []
@@ -28359,42 +28396,20 @@
     "ipa": "tajman"
   },
   {
-    "word": "хъуп1э",
+    "word": "мэкъуп1э",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "meadow",
+        "meaning": "grassland",
         "examples": []
       },
-      {
-        "meaning": "grassland",
+	  {
+        "meaning": "meadow",
         "examples": []
       }
     ],
-    "synonyms": [
-      "мэкъуп1"
-    ],
     "type": "noun",
-    "ipa": "χʷəpʼa"
-  },
-  {
-    "word": "мэкъуп1",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "meadow",
-        "examples": []
-      },
-      {
-        "meaning": "grassland",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "хъуп1э"
-    ],
-    "type": "noun",
-    "ipa": "maqʷpʼ"
+    "ipa": "maqʷpʼa"
   },
   {
     "word": "губгъо",
@@ -31556,27 +31571,49 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "ball",
+        "meaning": "ball (object, generally spherical, used for playing games)",
         "examples": []
       }
     ],
     "synonyms": [
-      "п1ырагу"
+      "п1ырагу", 
+	  "топ"
     ],
     "type": "noun",
     "ipa": "ʔaɡʷaːw"
+  },
+  {
+    "word": "топ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "ball (object, generally spherical, used for playing games)",
+        "examples": []
+      },
+	  {
+        "meaning": "cannonball",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "1эгуау",
+	  "п1ырагу"
+    ],
+    "type": "noun",
+    "ipa": "top"
   },
   {
     "word": "п1ырагу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "ball",
+        "meaning": "ball (object, generally spherical, used for playing games)",
         "examples": []
       }
     ],
     "synonyms": [
-      "1эгуау"
+      "1эгуау",
+	  "топ"
     ],
     "type": "noun",
     "ipa": "pʼəraːɡʷ"
@@ -37866,26 +37903,22 @@
     "ipa": "ʁaʐan"
   },
   {
-    "word": "матхъэжьын",
+    "word": "мэтхъэжьын",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to be happy",
         "examples": [
           {
-            "sentence": "к1алэр '''матхъажьы'''",
+            "sentence": "к1алэр '''мэтхъэжьы'''",
             "translation": "The boy '''is happy'''."
           },
           {
-            "sentence": "к1алэр '''мэчтхъэжьэгъ''', пшъашъэр '''мэтхъэжьыт'''",
-            "translation": "The boy '''was happy''', the girl '''will be happy'''."
-          },
-          {
-            "sentence": "Иропым '''ушытхъэжьыт'''",
+            "sentence": "Иропым '''ущытхъэжьыщт'''",
             "translation": "'''You will be happy''' in Europa."
           },
           {
-            "sentence": "'''утхъэжьрэба?'''",
+            "sentence": "'''утхъэжьырэба?'''",
             "translation": "'''Aren't you happy?'''"
           }
         ]
@@ -37906,7 +37939,7 @@
             "translation": "The boy '''is making''' the girl '''happy'''."
           },
           {
-            "sentence": "К1алэц1ык1ор '''гъэтхъэжь'''",
+            "sentence": "К1алэц1ык1ур '''гъэтхъэжь'''",
             "translation": "'''Make''' the little boy '''happy'''."
           },
           {
@@ -42258,16 +42291,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "tasty (having a pleasant flavor)",
-        "examples": [
-          {
-            "sentence": "Мыр '''гохьэп'''",
-            "translation": "That '''doesn’t taste good'''."
-          }
-        ]
-      },
-      {
-        "meaning": "pleasant, charming",
+        "meaning": "pleasant",
         "examples": [
           {
             "sentence": "Мэ '''гохь'''",
@@ -44506,7 +44530,7 @@
         "meaning": "to take a haircut",
         "examples": [
           {
-            "sentence": "Сшъхьац '''къысфыкIэупхъухьан''' плъэкIыщта?",
+            "sentence": "Сшъхьац '''къысфык1эупхъухьан''' плъэкIыщта?",
             "translation": "Can you '''cut''' my hair?"
           },
           {
@@ -47920,18 +47944,6 @@
     "ipa": "ztaʁat͡ʃan"
   },
   {
-    "word": "мэтхъэжьын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"тхъэжьын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "matχaʑən"
-  },
-  {
     "word": "гъэлыджын",
     "lang": "Adyghe",
     "definitions": [
@@ -48379,7 +48391,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to rejoice",
+        "meaning": "to rejoice (to be very happy, be delighted, exult; to feel joy)",
         "examples": [
           {
             "sentence": "К1алэр '''мэгуш1о'''",
@@ -52296,6 +52308,18 @@
     "ipa": "mabzajən"
   },
   {
+    "word": "бзэин",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"бзэен\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "bzajən"
+  },
+  {
     "word": "мэбыбын",
     "lang": "Adyghe",
     "definitions": [
@@ -55509,12 +55533,12 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "bay, inlet",
+        "meaning": "bay (in coast), inlet",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "xəbləɡʷə"
+    "ipa": "xəbləɡʷ"
   },
   {
     "word": "къошъоч1эгъаз",
@@ -60598,7 +60622,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "joy, happiness",
+        "meaning": "delight",
         "examples": []
       },
       {
@@ -62256,7 +62280,7 @@
         "examples": [
           {
             "sentence": "1офэу сш1эгъэмк1э '''учэфа'''?",
-            "translation": "'''Are you pleased''' with the word I done?"
+            "translation": "'''Are you pleased''' with the work I done?"
           }
         ]
       }
@@ -63084,9 +63108,12 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "mischievous, naughty, prankish",
+        "meaning": "naughty boy (mischievous child); prankish; troublesome",
         "examples": []
       }
+    ],
+    "synonyms": [
+      "бзэджай"
     ],
     "type": "adj",
     "ipa": "ʃʼət͡ʃʼaːj"
@@ -68636,7 +68663,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to cut off (hair, tree)",
+        "meaning": "to cut off (hair, tree branches)",
         "examples": [
           {
             "sentence": "К1алэм хьалыгъу такъыр '''пеупк1ы'''",
@@ -69988,7 +70015,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to misbehave; to get naughty",
+        "meaning": "to misbehave; to get naughty; to do trouble",
         "examples": [
           {
             "sentence": "'''Умыш1ык1ай'''.",
@@ -70518,7 +70545,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "a naughty person, a person with a bad behavior",
+        "meaning": "a person who behaves badly; a person who misbehaves",
+        "examples": []
+      },
+	  {
+        "meaning": "mannerless (literally); unmannered; ill-mannered",
         "examples": []
       }
     ],
@@ -71540,7 +71571,7 @@
         ]
       },
       {
-        "meaning": "to outrun, to [outdistance",
+        "meaning": "to outrun, to outdistance",
         "examples": [
           {
             "sentence": "Руслъан Асхьадэ течъыгъ",
@@ -71561,11 +71592,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to cut down",
+        "meaning": "to cut down; to fell",
         "examples": [
           {
             "sentence": "К1алэм чъыгыр '''риупк1ыгъ'''",
-            "translation": "The boy '''cut down''' the tree."
+            "translation": "The boy '''felled''' the tree."
           },
           {
             "sentence": "Чъыгыр сэрэ орэ '''итыупк1ыщт'''",
@@ -71584,6 +71615,18 @@
     ],
     "type": "adj",
     "ipa": "jəwpt͡ʃʼən"
+  },
+  {
+    "word": "гоупк1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to cut sideways",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "ɡʷawpt͡ʃʼən"
   },
   {
     "word": "ны1эп",
@@ -78648,7 +78691,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to amuse someone, to entertain someone",
+        "meaning": "to amuse someone; to entertain someone; to make someone joyful",
         "examples": [
           {
             "sentence": "К1алэм пшъашъэр '''егъатхъэ'''",
@@ -78674,7 +78717,7 @@
         ]
       },
       {
-        "meaning": "to be having fun",
+        "meaning": "to be having fun; to be enjoying",
         "examples": []
       }
     ],
@@ -80560,16 +80603,46 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to knife, to carve up; to butcher",
+        "meaning": "to slice; to slit",
         "examples": []
       },
       {
-        "meaning": "to kill by cutting.",
+        "meaning": "to kill by slicing.",
         "examples": []
       }
     ],
     "type": "verb",
     "ipa": "ʃʷʼabzən"
+  },
+  {
+    "word": "лыщэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "butcher",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "къэсапыш1"
+    ],
+    "type": "verb",
+    "ipa": "ɮəɕa"
+  },
+  {
+    "word": "къэсапыш1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "butcher",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "лыщэ"
+    ],
+    "type": "verb",
+    "ipa": "qasaːpəʃʼ"
   },
   {
     "word": "гъэбыяун",
@@ -81380,9 +81453,6 @@
         "meaning": "hay",
         "examples": []
       }
-    ],
-    "synonyms": [
-      "белэ"
     ],
     "type": "noun",
     "ipa": "maqʷ"
@@ -83036,8 +83106,8 @@
         "meaning": "behavior",
         "examples": []
       },
-      {
-        "meaning": "characteristic",
+	  {
+        "meaning": "manner",
         "examples": []
       }
     ],
@@ -87064,7 +87134,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "clever",
+        "meaning": "cleaver",
         "examples": []
       }
     ],
@@ -91288,6 +91358,31 @@
     "ipa": "tχaʑən"
   },
   {
+    "word": "хэтхъык1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to enjoy something",
+        "examples": [
+          {
+            "sentence": "К1алэр бирэм '''хэтхъык1ы'''",
+            "translation": "The young man '''is enjoying''' beer."
+          },
+          {
+            "sentence": "Сычъэным '''сыхэтхъык1'''",
+            "translation": "'''I enjoy''' running."
+          },
+          {
+            "sentence": "Спортым '''сыхэтхъык1ырэп'''",
+            "translation": "'''I do not enjoy''' sports."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "xatχat͡ʃʼən"
+  },
+  {
     "word": "тегъэт1ысхьан",
     "lang": "Adyghe",
     "definitions": [
@@ -92489,7 +92584,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "cut",
+        "meaning": "slice",
         "examples": []
       }
     ],
@@ -92663,8 +92758,8 @@
     "word": "тхьагъэпц1",
     "lang": "Adyghe",
     "definitions": [
-      {
-        "meaning": "dishonest",
+	  {
+        "meaning": "sly, cunning, artful",
         "examples": []
       },
       {
@@ -93623,6 +93718,23 @@
       {
         "meaning": "to mow, to cut",
         "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "wəpt͡ʃʼan"
+  },
+  {
+    "word": "упхъун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to cut (hair, fur, grass, etc.), to shear, to clip, to trim",
+        "examples": [
+          {
+            "sentence": "К1алэм ышъхьацы '''еупхъу'''",
+            "translation": "The boy '''cuts''' his '''hair'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -96331,15 +96443,48 @@
     "ipa": "χʷəpʼa"
   },
   {
-    "word": "ш1уц1эжъ",
+    "word": "джыгъэ",
     "lang": "Adyghe",
     "definitions": [
 	  {
-        "meaning": "cockroach",
+        "meaning": "yarn (fiber strand for knitting or weaving)",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "ʃʷʼət͡sʼəʐ"
+    "ipa": "d͡ʒəʁa"
+  },
+  {
+    "word": "тхъагъо",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "fun; enjoyable; joyful",
+        "examples": [
+          {
+            "sentence": "Ц1ыф '''тхъагъу'''",
+            "translation": "'''Fun''' person."
+          },
+		  {
+            "sentence": "Си1оф '''тхъагъо'''",
+            "translation": "My work '''is fun'''."
+          }
+        ]
+      }
+    ],
+    "type": "adj",
+    "ipa": "tχaːʁʷa"
+  },
+  {
+    "word": "мэкъуао",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "mower, hay-maker",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "maqʷaːwa"
   }
 ]
