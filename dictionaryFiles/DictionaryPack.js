@@ -16108,8 +16108,44 @@
         ]
       }
     ],
+    "synonyms": [
+      "былым1ус",
+      "былым 1ус"
+    ],
     "type": "noun",
     "ipa": "ʔʷəs"
+  },
+  {
+    "word": "былым1ус",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "food for animals; fodder",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "1ус",
+      "былым 1ус"
+    ],
+    "type": "noun",
+    "ipa": "bəɮəmʔʷəs"
+  },
+  {
+    "word": "былым 1ус",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "food for animals; fodder",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "1ус"
+      "былым1ус"
+    ],
+    "type": "noun",
+    "ipa": "bəɮəm ʔʷəs"
   },
   {
     "word": "кугъачъ",
@@ -17277,12 +17313,30 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "small bird",
+        "meaning": "small bird; birdie; little bird; birdling",
         "examples": []
       }
     ],
+    "synonyms": [
+      "бзыуц1ык1у"
+    ],
     "type": "noun",
     "ipa": "bzəwʐəj"
+  },
+  {
+    "word": "бзыуц1ык1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "small bird; birdie; little bird; birdling",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "бзыужъый"
+    ],
+    "type": "noun",
+    "ipa": "bzəwt͡sʼkʷʼ"
   },
   {
     "word": "кукунэгъэплъ",
@@ -17345,7 +17399,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Chick-peas (wild plant),",
+        "meaning": "wild chickpeas (plant)",
         "examples": []
       }
     ],
@@ -17369,7 +17423,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Bird hunter, Bird trap,",
+        "meaning": "fowler; bird-catcher; bird-snarer",
         "examples": []
       }
     ],
@@ -18138,24 +18192,24 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to organize",
+        "meaning": "to put things in order/place (to organize; to arrange)",
         "examples": [
           {
             "sentence": "к1алэм иунэ '''зэ1ехы'''",
             "translation": "The boy '''is organizing''' his house."
           },
           {
-            "sentence": "к1алэм унэр '''зэ1ихэгъ'''",
+            "sentence": "к1алэм унэр '''зэ1ихыгъ'''",
             "translation": "The boy '''is organized''' the house."
           }
         ]
       },
       {
-        "meaning": "to clean and organize",
+        "meaning": "to tidy up; to clean up",
         "examples": [
           {
             "sentence": "уиунэ '''зэ1эх'''",
-            "translation": "'''Clean and organize''' your room."
+            "translation": "'''Clean up''' your room."
           }
         ]
       },
@@ -18225,15 +18279,7 @@
         ]
       },
       {
-        "meaning": "to engineer",
-        "examples": []
-      },
-      {
-        "meaning": "to beautify",
-        "examples": []
-      },
-      {
-        "meaning": "to organize,",
+        "meaning": "to put things in place/order (to organize; to arrange)",
         "examples": [
           {
             "sentence": "К1алэм унэр '''зегъафэ'''",
@@ -47674,7 +47720,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "To make something dirty.",
+        "meaning": "еo make something dirty.",
         "examples": [
           {
             "sentence": "Джанэр '''умыгъэуш1ой'''",
@@ -47704,11 +47750,11 @@
     "ipa": "ʁawʂʷajən"
   },
   {
-    "word": "иуш1оин",
+    "word": "уш1оин",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "To dirty.",
+        "meaning": "to dirty.",
         "examples": [
           {
             "sentence": "лъым джанэ '''еуш1ои'''",
@@ -47727,6 +47773,18 @@
     ],
     "type": "verb",
     "ipa": "jəwʃʷajən"
+  },
+  {
+    "word": "тегъэуш1ойк1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to wipe off by erasing",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "tajʁawʃʷʼajt͡ʃʼən"
   },
   {
     "word": "дэфэн",
@@ -52524,16 +52582,16 @@
     "ipa": "jawban"
   },
   {
-    "word": "уш1оин",
+    "word": "ыуш1оин",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to dirty",
+        "meaning": "alternative form of \"уш1оин\"",
         "examples": []
       }
     ],
     "type": "verb",
-    "ipa": "wəʃʷajən"
+    "ipa": "əwəʃʷajən"
   },
   {
     "word": "езбэрэу",
@@ -56616,6 +56674,18 @@
     ],
     "type": "verb",
     "ipa": "ɡʷəxaʁat͡ʃʼən"
+  },
+  {
+    "word": "ыгу хэгъэк1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"гу хэгъэк1ын\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "əɡʷə xaʁat͡ʃʼən"
   },
   {
     "word": "1онтагъ",
@@ -63785,7 +63855,7 @@
         ]
       },
       {
-        "meaning": "to speak bad on something hurt its reputation",
+        "meaning": "to speak bad on something to hurt its reputation",
         "examples": [
           {
             "sentence": "Тхьэл1ык1ум яц1ыфымэ ятхьэхэр '''ригъэчъэхыгъэх'''",
@@ -63828,6 +63898,30 @@
     ],
     "type": "verb",
     "ipa": "jaʁat͡ʂaxən"
+  },
+  {
+    "word": "хьайнапэу ш1ыжьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"хьайнапэу ш1ын\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ħaːjnaːpaw ʃʼəʑən"
+  },
+  {
+    "word": "хьайнапэу ш1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to disgrace",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ħaːjnaːpaw ʃʼən"
   },
   {
     "word": "ет1эрэхын",
@@ -69044,37 +69138,105 @@
     "ipa": "ɬaqʷapt͡sʼaːna"
   },
   {
-    "word": "къы1эпхъотэн",
+    "word": "къэпхъотэн",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to snatch",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "пхъотэн",
+      "зы1эк1эубытэн",
+      "етхъон",
+      "убытын"
+    ],
+    "type": "verb",
+    "ipa": "qapχʷatan"
+  },
+  {
+    "word": "ш1опхъотэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"къыш1опхъотэн\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʃʷʼapχʷatan"
+  },
+  {
+    "word": "къыш1опхъотэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to snatch something from someone",
         "examples": [
           {
-            "sentence": "К1алэм джэгуалъэр пшъашъэм '''къы1ипхъотагъ'''",
+            "sentence": "К1алэм джэгуалъэр пшъашъэм '''къыш1уипхъотагъ'''",
             "translation": "The boy '''snatched''' the toy from the girl."
           },
           {
-            "sentence": "К1алэм джэгуалъэр '''къэс1епхъотэ'''",
+            "sentence": "К1алэм джэгуалъэр '''къэсш1уипхъотэ'''",
             "translation": "The boy '''snatched''' the toy '''from me'''."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "qəʔapχʷatan"
+    "ipa": "qəʃʷʼapχʷatan"
   },
   {
-    "word": "1эпхъотэн",
+    "word": "къытехын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"къы1эпхъотэн\"",
+        "meaning": "to take off; to remove an object from above something",
+        "examples": [
+          {
+            "sentence": "К1алэм джэгуалъэр 1анэм '''трехы'''",
+            "translation": "The boy '''takes off''' the toy from the table."
+          }
+        ]
+      },
+	  {
+        "meaning": "to seize something from someone and take control of (ex. ball, base, land, place)",
+        "examples": [
+          {
+            "sentence": "К1алэм торыр '''къыстехы'''",
+            "translation": "The boy '''seized''' the ball from me."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "qətajxən"
+  },
+  {
+    "word": "техын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"къытехын\"",
         "examples": []
       }
     ],
     "type": "verb",
-    "ipa": "ʔapχʷatan"
+    "ipa": "tajxən"
+  },
+  {
+    "word": "ш1оубытын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to take hold of something against the owner's interest or will",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʃʷʼawbətən"
   },
   {
     "word": "лэгъунэ",
@@ -78702,6 +78864,23 @@
     ],
     "type": "verb",
     "ipa": "ʁatχan"
+  },
+  {
+    "word": "зыгъэтхъэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to enjoy oneself; to have fun",
+        "examples": [
+          {
+            "sentence": "К1алэм '''зегъатхъэ'''",
+            "translation": "The boy '''is having fun'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zəʁatχan"
   },
   {
     "word": "тхъэн",
@@ -92809,11 +92988,12 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to grasp, to grab, to seize, to snap, to snatch, to catch, to catch hold of",
+        "meaning": "to snatch",
         "examples": []
       }
     ],
     "synonyms": [
+      "къэпхъотэн",
       "зы1эк1эубытэн",
       "етхъон",
       "убытын"
@@ -96476,6 +96656,30 @@
     "ipa": "tχaːʁʷa"
   },
   {
+    "word": "насыпыш1у",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "fortuned; lucky",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "naːsəpəʃʷʼə"
+  },
+  {
+    "word": "къырик1огъу",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "iteration",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "qərəjkʷʼaʁʷ"
+  },
+  {
     "word": "мэкъуао",
     "lang": "Adyghe",
     "definitions": [
@@ -96486,5 +96690,17 @@
     ],
     "type": "adj",
     "ipa": "maqʷaːwa"
+  },
+  {
+    "word": "зэпыгъэфэн",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "to arrange plans/deals/meetings",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "zapəʁafan"
   }
 ]

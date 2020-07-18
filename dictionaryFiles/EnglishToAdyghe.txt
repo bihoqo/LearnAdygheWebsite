@@ -291,7 +291,7 @@
     "to pay": "тын; ахъщэ тын"
   },
   {
-    "chickpeas": "лэблэбый; лэблэб; хьумус"
+    "chickpeas": "лэблэбый; лэблэб; хьумус; бзыулъахъ (wild chickpeas)"
   },
   {
     "corn": "натрыф; натыф (Shapsug)"
@@ -2244,7 +2244,28 @@
     "to sell": "щэн"
   },
   {
-    "to take: "щэн (to take/lead someone to somewhere); хьын (to take something to carry); штэн / къэштэн (to grab something to take)"
+    "to take": "щэн (to take/lead someone to somewhere); хьын (to take something to carry); штэн / къэштэн (to grab something to take); ш1охьын (to take something from someone against his interest or will); 1ыхын / къы1эхын (to take something from someone by hand)"
+  },
+  {
+    "to grasp": "убытын; зы1эк1эубытэн"
+  },
+  {
+    "to grip": "убытын; зы1эк1эубытэн; пытэу 1ыгъэн (to grip tightly)"
+  },
+  {
+    "to grab": "убытын; зы1эк1эубытэн"
+  },
+  {
+    "to seize": "ш1оубытын (to seize from someone); къытехын (to seize ball, base, land, place)"
+  },
+  {
+    "to snatch": "пхъотэн; къыш1опхъотэн (to snatch from someone)"
+  },
+  {
+    "to catch hold of": "щэн"
+  },
+  {
+    "to hold": "1ыгъэн"
   },
   {
     "to lead": "щэн"
@@ -2254,6 +2275,15 @@
   },
   {
     "to get upset": "нэшхъэеу хъугъэ; зэгожъын"
+  },
+  {
+    "to get offended": "гухэк1ын; гу къеон"
+  },
+  {
+    "to offend": "ыгу хэгъэк1ын; шъхьак1о ехын; шъхьак1ун; егъэчъэхын (to speak bad about someone)"
+  },
+  {
+    "to disgrace": "хьайнапэу ш1ыжьын"
   },
   {
     "toilet": "псыунэ"
@@ -3543,19 +3573,31 @@
     "thin": "псыгъо (small width); п1уак1э (small thickness)"
   },
   {
-    "to brush": "лъэк1ын"
+    "to brush": "лъэк1ын (to wash); жьын (to brush hair)"
   },
   {
-    "to wipe off": "лъэк1ын"
+    "to wipe off": "лъэк1ын; тегъэстык1ын (to wipe off by fire); тегъэуш1оин (to erase)"
   },
   {
     "to be able to": "лъэк1ын"
   },
   {
-    "to manage to do": "лъэк1ын"
+    "to manage": "лъэк1ын (to manage to do); зэпыгъэфэн (to arrange)"
   },
   {
-    "to be capable of doing": "лъэк1ын"
+    "to arrange": "зэпыгъэфэн (to arrange plans/deals/meetings); зэгъэфэн (to put things in place/order); зэ1эхын (to clean up)"
+  },
+  {
+    "to organize": "зэгъэфэн (to put things in place/order); зэ1эхын (to clean up)"
+  },
+  {
+    "to clean up": "укъэбзын; угъэкъэбзэн; зэ1эхын (to put things in place/order)"
+  },
+  {
+    "to clean": "укъэбзын; угъэкъэбзэн"
+  },
+  {
+    "to be capable": "лъэк1ын (to be capable of doing)"
   },
   {
     "can": "лъэк1ын"
@@ -3690,10 +3732,10 @@
     "ugly": "1ае"
   },
   {
-    "bad-looking": "теплъэнчъэ, теплъаджэ, шъончъэ; бжьыго (homely)"
+    "bad-looking": "теплъэ зимы1эр; теплъэнчъэ; теплъаджэ; шъончъэ; бжьыго (homely); 1ае (ugly); мыдахэ (not beautiful)"
   },
   {
-    "unattractive": "теплъэнчъэ, теплъаджэ, шъончъэ; бжьыго (homely)"
+    "unattractive": "теплъэ зимы1эр; теплъаджэ; шъончъэ; бжьыго (homely); 1ае (ugly); мыдахэ (not beautiful)"
   },
   {
     "homely": "бжьыго"
@@ -3777,7 +3819,10 @@
     "whore": "къэхьыпэ; шъуз ш1ой; шъузэу ыпкъ зищэжьырэр"
   },
   {
-    "big": "джадэ; ины; шхо"
+    "large": "джадэ; ины; -шхо (suffix)"
+  },
+  {
+    "big": "джадэ; ины; -шхо (suffix)"
   },
   {
     "gigantic": "ин дэд, шъэджашъэ"
@@ -3789,10 +3834,10 @@
     "to love": "ш1у лъэгъун; ш1улъэгъун"
   },
   {
-    "food for animals": "1ус"
+    "food for animals": "1ус; былым1ус"
   },
   {
-    "fodder": "1ус"
+    "fodder": "1ус; былым1ус"
   },
   {
     "driver": "кугъачъ; куф; зефак1о; кузеф; кушъхьа1ыгъ; шыкуау"
@@ -3826,12 +3871,6 @@
   },
   {
     "woodpecker": "пхъэу1у"
-  },
-  {
-    "work": "1офы"
-  },
-  {
-    "job": "1офы"
   },
   {
     "problem": "1офы; 1офыгъу; проблэм; бырсыр (trouble)"
@@ -3975,6 +4014,21 @@
     "enjoyment": "хэтхъык1ыныр"
   },
   {
+    "to enjoy": "зыгъэтхъэн"
+  },
+  {
+    "joyful": "чэфы (to feel joy); тхъагъо (fun, enjoyable)"
+  },
+  {
+    "fortuned": "насыпыш1у"
+  },
+  {
+    "lucky": "насыпыш1у; насып зи1эр"
+  },
+  {
+    "successful": "гъэхъагъэ зи1э"
+  },
+  {
     "bush": "куандэ"
   },
   {
@@ -4029,7 +4083,7 @@
     "soul": "псэ"
   },
   {
-    "quill,": "къамзый; бзый"
+    "quill": "къамзый; бзый"
   },
   {
     "plume": "къамзый; бзый"
@@ -4089,6 +4143,9 @@
     "criminal": "бзэджаш1э"
   },
   {
+    "iteration": "къырик1огъу"
+  },
+  {
     "rogue": "бзэджаш1э"
   },
   {
@@ -4137,13 +4194,19 @@
     "to trim": "бзытэн"
   },
   {
-    "small bird": "бзыужъый"
+    "small bird": "бзыужъый; бзыуц1ык1у"
   },
   {
-    "alternative form of \"кукунэгъэбылъ\"": "кукунэгъэплъ"
+    "little bird": "бзыужъый; бзыуц1ык1у"
   },
   {
-    "redstart (a bird)": "бзыук1эплъ"
+    "birdie": "бзыужъый; бзыуц1ык1у"
+  },
+  {
+    "birdling": "бзыужъый; бзыуц1ык1у"
+  },
+  {
+    "redstart": "бзыук1эплъ"
   },
   {
     "parrot": "бзыукъолэн"
@@ -4152,16 +4215,19 @@
     "rose mallow,": "бзыукъуай"
   },
   {
-    "Chick-peas (wild plant),": "бзыулъахъ"
-  },
-  {
     "blackbird": "бзыупц1"
   },
   {
-    "Bird hunter, Bird trap,": "бзыуубыт"
+    "fowler": "бзыуубыт"
   },
   {
-    "to catch": "убытын"
+    "bird-catcher": "бзыуубыт"
+  },
+  {
+    "bird-snarer": "бзыуубыт"
+  },
+  {
+    "to catch": "убытын / къэубытын"
   },
   {
     "to hold with strength, to grip": "убытын"
@@ -17415,13 +17481,7 @@
     "to humiliate, to abase": "шъхьак1о ехын"
   },
   {
-    "to offend": "шъхьак1о ехын"
-  },
-  {
     "to humiliate": "шъхьак1ун"
-  },
-  {
-    "to offend": "шъхьак1ун"
   },
   {
     "praise": "щытхъу"
