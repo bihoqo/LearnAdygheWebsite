@@ -50098,19 +50098,24 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to greet someone; to welcome someone; to receive someone",
+        "meaning": "to greet someone; to welcome someone; to receive someone (as a host)",
         "examples": [
           {
-            "sentence": "Тихьак1эхэр унэм къэсыхэмэ '''япэгъок1'''",
+            "sentence": "Тихьак1эхэр унэм къэсыхэмэ '''апэгъок1'''",
             "translation": "When our guests arrive our house, '''greet them'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "to approach someone (to greet)",
+        "examples": [
+          {
+            "sentence": "К1алэр тучаным ыдэжь къэспэгъок1ыгъ",
+            "translation": "The boy '''approuched me''' near the shop."
           },
           {
-            "sentence": "Мэзым сыхэлъадэм нэгъук1ыцэжъ '''къэспэгъок1эгъ'''",
-            "translation": "When I ran into the forest, a witch '''greeted me'''."
-          },
-          {
-            "sentence": "Чылэ къэтык1охьэу '''къэтпэгъок1ыгъэх''' тиныбджэгъухэр",
-            "translation": "When we were walking around in the village '''we were greeted by''' our friends."
+            "sentence": "Чылэр къэтык1охьэу '''къэтпэгъок1ыгъэх''' тиныбджэгъухэр",
+            "translation": "When we were walking around the village '''we were approuched by''' our friends."
           }
         ]
       }

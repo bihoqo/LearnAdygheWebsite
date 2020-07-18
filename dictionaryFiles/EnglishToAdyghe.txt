@@ -1827,7 +1827,19 @@
     "to drop": "къеткӏухын (to drip from); 1эк1эзын (to let go, to let slip); 1эпызын (to drop unintentionally); 1эпэт1эрын (to let slip unintentionally); къытезын (to drop from); къыпызын (to drop off a tree), къыпытэкъун (to drop from the tree around it); зэтефэн (to drop on each other); зэхэфэн (to drop into each other)"
   },
   {
-    "to meet": "тефэн (to come across; to encounter); 1ук1эн (to meet); пэгъок1ын (to welcome)"
+    "to meet": "тефэн (to come across; to encounter); 1ук1эн (to meet); пэгъок1ын (to welcome; to approach)"
+  },
+  {
+    "to come across": "тефэн"
+  },
+  {
+    "to encounter": "тефэн"
+  },
+  {
+    "to welcome": "пэгъок1ын (to welcome someone as a host)"
+  },
+  {
+    "to receive": "пэгъок1ын (to welcome someone as a host); къы1ук1эхьан (to receive something)"
   },
   {
     "grape leaf": "сэнэтхьапэ"
