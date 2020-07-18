@@ -291,7 +291,7 @@
     "to pay": "тын; ахъщэ тын"
   },
   {
-    "chickpeas": "лэблэбый"
+    "chickpeas": "лэблэбый; лэблэб; хьумус"
   },
   {
     "corn": "натрыф; натыф (Shapsug)"
@@ -333,7 +333,7 @@
     "water": "псы"
   },
   {
-    "liquid": "псы"
+    "liquid": "псышъо"
   },
   {
     "fire": "машӏо"
@@ -441,9 +441,6 @@
     "joint of hand": "ӏэшъхьэ"
   },
   {
-    "wrist": "ӏэгу"
-  },
-  {
     "heel": "ӏэдакъэ (hand); лъэдакъэ (leg)"
   },
   {
@@ -477,13 +474,16 @@
     "waist": "бгы"
   },
   {
-    "high ground": "бгы"
+    "eminence": "бгы"
+  },
+  {
+    "cliff": "къушъхьэ дыс; бгы дыс"
   },
   {
     "highland": "бгы; бгылъэ; ӏошъхьэлъэ"
   },
   {
-    "lowland": "лъэгуан; чӏыох"
+    "lowland": "лъэгуан; чӏыох; кӏэй (valley)"
   },
   {
     "navel": "ныбыдж"
@@ -504,13 +504,16 @@
     "butt-cheek": "шъутыпашъо"
   },
   {
-    "knee": "лъэгуанджэ"
+    "knee": "лъэгуанджэ; лъэгуаджэ (Shapsug)"
   },
   {
-    "leg": "лъакъо"
+    "leg": "лъакъо; лъэ (uncommon)"
   },
   {
-    "ankle": "лъашъхьэ"
+    "ankle": "лъэкӏэн"
+  },
+  {
+    "ankle": "лъашъхьэ; лъэкӏэн"
   },
   {
     "foot": "лъапэ"
@@ -1812,13 +1815,19 @@
     "to paint": "лэн"
   },
   {
-    "to hit": "еон (to hit someone/something), тефэн (to hit the mark; the impact of a hit)"
+    "to hit": "еон (to hit someone/something), тефэн (to hit the mark; the impact of a hit); хэон / жэхэон (to hit someone's face); пыохьан (to beat someone by hitting)"
   },
   {
-    "to fall on": "тефэн"
+    "to fall on": "тефэн (the impact caused by hitting something from the fall); тебэджэн (to fall on by slipping); тет1эрэн (to drop on)"
   },
   {
-    "to meet": "тефэн (to meet by chance)"
+    "to fall": "ебэджын (to fall on the ground); тебэджэн (to fall on something by slipping); ефэхын / къефэхын (to fall downward); едзыхын / къедзыхын (to fall downward); ет1эрэхын / къет1эрэхын (to drop downward); тет1эрын (to drop from); зэтефэн (to drop on each other); зэхэфэн (to drop into each other)"
+  },
+  {
+    "to drop": "къеткӏухын (to drip from); 1эк1эзын (to let go, to let slip); 1эпызын (to drop unintentionally); 1эпэт1эрын (to let slip unintentionally); къытезын (to drop from); къыпызын (to drop off a tree), къыпытэкъун (to drop from the tree around it); зэтефэн (to drop on each other); зэхэфэн (to drop into each other)"
+  },
+  {
+    "to meet": "тефэн (to come across; to encounter); 1ук1эн (to meet); пэгъок1ын (to welcome)"
   },
   {
     "grape leaf": "сэнэтхьапэ"
@@ -1827,7 +1836,7 @@
     "saw (tool)": "пхъэх"
   },
   {
-    "saw": "пхъэх (tool)"
+    "saw": "пхъэх (tool); ылъэгъугъ (to see)"
   },
   {
     "nagger": "пхъэх (tool)"
@@ -2199,7 +2208,7 @@
     "sack": "дзыо"
   },
   {
-    "wrist": "ӏапшъэ"
+    "wrist": "ӏапшъэ (arm); лъашъхьэ (leg)"
   },
   {
     "carpus": "ӏапшъэ"
@@ -6852,22 +6861,16 @@
     "elbow": "ӏэнтэгъу"
   },
   {
-    "wrist": "ӏапшъ"
-  },
-  {
     "ankle": "лъэкӏэн"
   },
   {
-    "poor (A person with little/no money or possessions)": "тхьамыкӏ"
+    "poor": "тхьамыкӏ; тхьамыщкӏ (Shapsug)"
   },
   {
-    "poor (A person or animal to be pitied)": "тхьамыкӏ"
+    "witch": "уды; нэгъучӏыцэ"
   },
   {
-    "alternative form of \"тхьамыкӏ\"": "тхьэмыщкӏь"
-  },
-  {
-    "witch": "уды"
+    "sorceress": "уды; нэгъучӏыцэ"
   },
   {
     "sorcerer": "уды"
@@ -6879,64 +6882,112 @@
     "wizard": "уды"
   },
   {
-    "myopic (having bad eye-sight)": "набгъэ"
+    "myopic": "набгъэ"
   },
   {
-    "medlar": "напсэ"
+    "weak-sighted": "набгъэ"
   },
   {
-    "to be angry": "ебгъэн"
+    "to take offense": "ебгъэн; зыгъэгусэн, гукъао шӏын; шъхьакӏо шӏын"
   },
   {
-    "to take offense at": "ебгъэн"
+    "to permit": "дэн"
   },
   {
-    "to permit, to accept, to consent, to assent": "дэн"
+    "to assent": "дэн (to permit, accept); дэштэн (to agree with)"
   },
   {
-    "to sew": "дэн"
+    "to accept": "дэн"
   },
   {
-    "tin": "цэф"
+    "to consent": "дэн (to permit, accept); дэштэн (to agree with)"
+  },
+  {
+    "to sew": "дэн (to be sewing); дын (to sew something)"
+  },
+  {
+    "tin": "къэлай; цэф (tin (plate))"
   },
   {
     "ploughshare": "цуабзэ"
   },
   {
-    "share": "цуабзэ"
+    "share": "цуабзэ (ploughshare); ӏахь (someons's part, portion or share)"
+  },
+  {
+    "to share": "гощын; угощын; дэугощын (to share with); фэугощын (to share for)"
   },
   {
     "slave": "пщылӏы"
   },
   {
-    "to bow down to": "пщылӏын"
+    "to bow down": "шъхьащэ фэшӏын"
+  },
+  {
+    "to worship": "фэпщылӏын"
   },
   {
     "bubble": "псыбыб"
   },
   {
-    "Circassian male traditional clothes, Chokha": "цые"
+    "Chokha": "цые"
   },
   {
-    "Circassian female traditional clothes": "пцае"
+    "to dance": "къэшъон; къешӏэн; уджын"
   },
   {
-    "to dance": "къэшъон"
+    "to tie": "пхын (to tie); егъэпхын (to tie to something); зэк1оц1ыпхэн (to tie together), зэтепхэн (to tie one to the other), зэкъодзэн (to tie up, to fasten)"
   },
   {
-    "to tie": "пхын"
+    "to tie up": "зэкъодзэн"
+  },
+  {
+    "to chain": "пышӏэн"
+  },
+  {
+    "chain": "пшъэхъу"
+  },
+  {
+    "chainlet": "блэрыпс; пшъэхъужъый"
+  },
+  {
+    "to connect": "пышӏэн; зэпыш1эн (to connect together)"
   },
   {
     "kite": "жьыгъэбыб"
   },
   {
-    "boaster, braggart": "жьыгъэбыу"
+    "braggart": "жьыгъэбыу; шъхьэщытхъужь; гъакъ; баф"
   },
   {
-    "cheater, deceiver, fraud, faker, trickster": "гъэпцӏакӏо"
+    "boaster": "жьыгъэбыу; шъхьэщытхъужь; гъакъ; баф"
   },
   {
-    "bellflower": "жьыгъэшъуй"
+    "show-off": "жьыгъэбыу; шъхьэщытхъужь; гъакъ; баф"
+  },
+  {
+    "cheater": "гъэпцӏакӏо"
+  },
+  {
+    "trickster": "гъэпцӏакӏо"
+  },
+  {
+    "deceiver": "гъэпцӏакӏо"
+  },
+  {
+    "fraud": "гъэпцӏакӏо"
+  },
+  {
+    "faker": "гъэпцӏакӏо"
+  },
+  {
+    "to make someone lost": "гъэгъощэн; гъэплъэхъун"
+  },
+  {
+    "to mislead": "гъэгъощэн; гъэплъэхъун"
+  },
+  {
+    "bellflower": "жьыгъэшъуй; одыджын ц1ык1у, одыджынжъый"
   },
   {
     "air filter": "жьызалъ"
@@ -6945,130 +6996,130 @@
     "air current": "жьызэпеу"
   },
   {
-    "air flow": "жьызэпеу"
+    "draught": "жьызэпеу (a current of air, usually coming into a room or vehicle)"
   },
   {
-    "draft": "жьызэпеу"
+    "draft": "жьызэпеу (a current of air, usually coming into a room or vehicle)"
   },
   {
-    "antenna": "жьыкорен"
+    "whirlwind": "жьыкорен; жьыхьарзэ"
   },
   {
-    "tornado": "жьыкорен"
-  },
-  {
-    "tornado": "жьыхьарз"
-  },
-  {
-    "tornado": "жьыхъырз"
-  },
-  {
-    "antenna": "мэкъэкъащ"
-  },
-  {
-    "atmospheric pressure": "жьыкъуз"
+    "tornado": "жьыкорен; жьыхьарзэ"
   },
   {
     "air pressure": "жьыкъуз"
   },
   {
-    "ship": "къохь"
+    "ship": "къухьэ; къохь (Shapsug)"
   },
   {
-    "ship": "жьыкъухь"
+    "sailing ship": "жьыкъухь"
   },
   {
-    "Sail boat": "жьыкъухь"
+    "sail ship": "жьыкъухь"
   },
   {
-    "exhalation": "жьыкъыдэгъэкӏын"
+    "exhalation": "жьы къыдэгъэкӏын"
   },
   {
-    "to exhale": "жьыкъыдэгъэкӏын"
+    "to exhale": "жьы къыдэгъэун, жьы къыдэгъэк1ын"
   },
   {
-    "to suffice, to be sufficient / enough": "икъун"
+    "to be sufficient": "икъун"
   },
   {
-    "to be of that amount": "икъун"
+    "to suffice": "икъун"
   },
   {
-    "inhalation": "жьыкъэщэн"
+    "enough": "икъун"
   },
   {
-    "to inhale": "жьыкъэщэн"
+    "inhalation": "жьы къэщэн"
   },
   {
-    "asthma": "жьыкъэщэуз"
+    "to inhale": "жьы къэщэн; фэпщэн (Shapsug)"
   },
   {
-    "asthma": "жьыуз"
+    "to breathe": "жьы къэщэн; фэпщэн (Shapsug)"
   },
   {
-    "to ripen": "мэтӏыгъон"
+    "asthma": "астмэ; жьыкъэщэуз"
+  },
+  {
+    "respiratory distress": "астмэ; жьыуз"
+  },
+  {
+    "to ripen": "т1ыргъон; т1ыгъон (Shapsug)"
   },
   {
     "to comb": "жьын"
   },
   {
-    "Air front": "жьынэӏу"
+    "to brush hair": "жьын"
   },
   {
-    "Wind front,": "жьынэӏу"
+    "air front": "жьынэӏу"
   },
   {
-    "Air front": "жьыпэ"
+    "wind front,": "жьынэӏу"
   },
   {
-    "Riser (early)": "жьырытэдж"
+    "windward": "жьыуапӏэ"
   },
   {
-    "windward place": "жьыуапӏэ"
-  },
-  {
-    "fan": "жьыф"
-  },
-  {
-    "alternative form of \"лъынтфэ\"": "лъытфэ"
-  },
-  {
-    "alternative form of \"пӏуакӏэ\"": "пӏакӏэ"
-  },
-  {
-    "alternative form of \"пӏун\"": "пӏын"
+    "fan": "жьыфы"
   },
   {
     "fir": "псэи"
   },
   {
-    "evergreen": "псэи"
+    "rich": "бае"
   },
   {
-    "rich, wealthy": "бае"
+    "wealthy": "бае"
   },
   {
-    "foam": "тхъубэ къегъэхын"
+    "foam": "тхъурбэ"
+  },
+  {
+    "to foam": "тхъурбэн"
   },
   {
     "emerald": "налкъут"
   },
   {
-    "martyr (бэлахь зытелъыр)": "бэлахь"
+    "misfortune": "бэлахь"
   },
   {
-    "ordeal (бэлахь хэтыныр)": "бэлахь"
+    "exceptional": "бэлахь"
   },
   {
-    "straight, just (good person)": "зафэ"
+    "straight": "занк1э (straight); зафэ (a straight person)"
   },
   {
-    "to be arguing": "нэкъокъон"
+    "just": "ны1эп (only); къодый (simply, merely); зафэ (a just person)"
   },
   {
-    "to sit down": "тӏысын"
+    "only": "ны1эп"
   },
   {
-    "insect": "хьацэпӏацэ"
+    "merely": "ны1эп (only); къодый (simply)"
+  },
+  {
+    "to argue": "нэкъокъон; зэнэкъокъун / зэдэон (to argue with each other)"
+  },
+  {
+    "to compete": "зэпэчъэн; нэкъокъон; зэпеон"
+  },
+  {
+    "to sit down": "тӏысын; тетӏысхьан (to sit on); 1утӏысхьан (to sit near)"
+  },
+  {
+    "to sit": "тӏысын (to sit down); щысын (to be sitting); тетӏысхьан (to sit on); 1утӏысхьан (to sit near); теӏыстэн (dialectal)"
+  },
+  {
+    "insect": "хьац1э-п1ац1э"
   },
   {
     "to bow": "шъхьащэ фэшӏын"
@@ -7077,19 +7128,7 @@
     "school": "еджапӏэ"
   },
   {
-    "alternative form of \"еджапӏэ\"": "егьапӏэ"
-  },
-  {
-    "teacher": "кӏэлэегъадж"
-  },
-  {
-    "alternative form of \"кӏэлэегъадж\"": "кӏэлэегъагь"
-  },
-  {
-    "to hit someone's head": "жэхэон"
-  },
-  {
-    "to hit someone's face": "хэон"
+    "teacher": "кӏэлэегъадж; егъэджак1о"
   },
   {
     "messenger": "лӏыкӏо"

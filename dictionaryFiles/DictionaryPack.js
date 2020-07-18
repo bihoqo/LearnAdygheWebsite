@@ -22,6 +22,23 @@
     "ipa": "wa"
   },
   {
+    "word": "зытет",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "state",
+        "examples": [
+          {
+            "sentence": "'Ом '''изытет''' 1ае",
+            "translation": "The weather's '''state''' is bad."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "zətajt"
+  },
+  {
     "word": "а",
     "lang": "Adyghe",
     "definitions": [
@@ -1655,7 +1672,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "hand",
+        "meaning": "hand (more specifically: upper surface of the hand)",
         "examples": []
       }
     ],
@@ -1771,15 +1788,11 @@
         "examples": []
       },
       {
-        "meaning": "high ground",
+        "meaning": "highland",
         "examples": []
       },
       {
-        "meaning": "plateau",
-        "examples": []
-      },
-      {
-        "meaning": "hill",
+        "meaning": "eminence; an elevated land area or a hill",
         "examples": []
       }
     ],
@@ -1858,11 +1871,23 @@
     "ipa": "ɬaːqʷa"
   },
   {
-    "word": "лъашъхьэ",
+    "word": "лъэк1эн",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "ankle",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ɬat͡ʃʼan"
+  },
+  {
+    "word": "лъашъхьэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "top of the foot, wrist of the foot",
         "examples": []
       }
     ],
@@ -1874,7 +1899,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "foot",
+        "meaning": "foot (more specifically: upper surface of the foot)",
         "examples": []
       }
     ],
@@ -1894,7 +1919,7 @@
         "examples": []
       },
       {
-        "meaning": "vale, dale",
+        "meaning": "valley; vale, dale",
         "examples": []
       }
     ],
@@ -6958,7 +6983,14 @@
       {
         "meaning": "hairbrush",
         "examples": []
+      },
+	  {
+        "meaning": "comb",
+        "examples": []
       }
+    ],
+    "synonyms": [
+      "шъхьэмажь"
     ],
     "type": "noun",
     "ipa": "maːʑa"
@@ -16600,7 +16632,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to fall on the ground",
+        "meaning": "to fall on the ground (usaully by slipping)",
         "examples": [
           {
             "sentence": "К1алэр '''ебэджэгъ'''",
@@ -16611,7 +16643,23 @@
             "translation": "The little boy '''is falling on the ground'''."
           },
           {
-            "sentence": "Джыхашъо ц1ашъутэм '''утэбэджэт'''",
+            "sentence": "Джэхашъо ц1ашъутэм '''утебэджэщт'''",
+            "translation": "'''You will fall''' on the slip floor."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "jabad͡ʒən"
+  }{
+    "word": "тебэджэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to fall on something (usaully by slipping)",
+        "examples": [
+          {
+            "sentence": "Джэхашъо ц1ашъутэм '''утебэджэщт'''",
             "translation": "'''You will fall''' on the slip floor."
           }
         ]
@@ -29099,7 +29147,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "poor (A person with little/no money or possessions)",
+        "meaning": "poor (a person with little/no money or possessions)",
         "examples": [
           {
             "sentence": "Ахъщэ ч1этыфэу '''тхьамык1эу''' тыхъужьыщт",
@@ -29112,7 +29160,7 @@
         ]
       },
       {
-        "meaning": "poor (A person or animal to be pitied)",
+        "meaning": "poor (a person or animal to be pitied)",
         "examples": [
           {
             "sentence": "Л1ыжъы нэшъор '''зытхьамык1'''",
@@ -29179,7 +29227,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "myopic (having bad eye-sight)",
+        "meaning": "weak-sighted; myopic; a person having bad eye-sight",
         "examples": []
       }
     ],
@@ -29191,7 +29239,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "medlar",
+        "meaning": "medlar (tree)",
         "examples": []
       }
     ],
@@ -29203,11 +29251,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be angry",
-        "examples": []
-      },
-      {
-        "meaning": "to take offense at",
+        "meaning": "to take offence (at), to be offended (by), to feel hurt (by), to resent",
         "examples": []
       }
     ],
@@ -29264,7 +29308,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "tin",
+        "meaning": "tin (plate), sheet metal",
         "examples": []
       }
     ],
@@ -29442,7 +29486,10 @@
       }
     ],
     "synonyms": [
-      "шъхьэщытхъужь"
+      "шъхьащытхъужь",
+      "гъакъ",
+      "зыш1ош1ыжьын",
+	  "баф"
     ],
     "type": "noun",
     "ipa": "ʑəʁabəw"
@@ -29464,6 +29511,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "kind of plant",
+        "examples": []
+      },
+	  {
         "meaning": "bellflower",
         "examples": []
       }
@@ -29472,11 +29523,27 @@
     "ipa": "ʑəʁaʂʷəj"
   },
   {
-    "word": "жьызалъ",
+    "word": "одыджынжъый",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "air filter",
+        "meaning": "little bell",
+        "examples": []
+      },
+	  {
+        "meaning": "bellflower",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "wadəd͡ʒənʐəj"
+  },
+  {
+    "word": "жьызалъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "air filter; polluted air purifier",
         "examples": []
       }
     ],
@@ -29488,17 +29555,9 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "air current",
+        "meaning": "draught; draft; a current of air, usually coming into a room or vehicle",
         "examples": []
       },
-      {
-        "meaning": "air flow",
-        "examples": []
-      },
-      {
-        "meaning": "draft",
-        "examples": []
-      }
     ],
     "type": "noun",
     "ipa": "ʑəzapajw"
@@ -29508,18 +29567,12 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "antenna",
-        "examples": []
-      },
-      {
-        "meaning": "tornado",
+        "meaning": "whirlwind",
         "examples": []
       }
     ],
     "synonyms": [
-      "мэкъэкъащ",
-      "жьыхъырз",
-      "жьыхьарз"
+      "жьыхьарз",
     ],
     "type": "noun",
     "ipa": "ʑəkʷarajn"
@@ -29529,23 +29582,67 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "tornado",
+        "meaning": "alternative form of \"жьыхьарзэ\"",
         "examples": []
       }
     ],
     "synonyms": [
-      "жьыкорен",
-      "жьыхъырз"
+      "жьыкорен"
     ],
     "type": "noun",
     "ipa": "ʑəħaːrz"
+  },
+  {
+    "word": "жьыхьарзэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "whirlwind",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "жьыкорен"
+    ],
+    "type": "noun",
+    "ipa": "ʑəħaːrza"
+  },
+  {
+    "word": "жьы хьарз",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "whirlwind",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "жьыкорен"
+    ],
+    "type": "noun",
+    "ipa": "ʑə ħaːrz"
+  },
+  {
+    "word": "жьы корен",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "whirlwind",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "жьыхьарз"
+    ],
+    "type": "noun",
+    "ipa": "ʑə kʷarajn"
   },
   {
     "word": "жьыхъырз",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "tornado",
+        "meaning": "air cyclone",
         "examples": []
       }
     ],
@@ -29557,38 +29654,27 @@
     "ipa": "ʑəχərz"
   },
   {
-    "word": "мэкъэкъащ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "antenna",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "жьыкорен"
-    ],
-    "type": "noun",
-    "ipa": "maqaqaːɕ"
-  },
-  {
     "word": "жьыкъуз",
     "lang": "Adyghe",
     "definitions": [
-      {
-        "meaning": "atmospheric pressure",
-        "examples": []
-      },
       {
         "meaning": "air pressure",
         "examples": []
       }
     ],
-    "synonyms": [
-      "жьыкъузалъ"
-    ],
     "type": "noun",
     "ipa": "ʑəqʷəz"
+  }{
+    "word": "жьыкъузалъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "air compressor",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʑəqʷəzaːɬa"
   },
   {
     "word": "къохь",
@@ -29612,19 +29698,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "ship",
-        "examples": []
-      },
-      {
-        "meaning": "Sail boat",
+        "meaning": "sailing ship (a ship with masts and sails, powered by the wind)",
         "examples": []
       }
     ],
-    "synonyms": [
-      "къухьэ",
-      "къохь"
-    ],
-    "cognate": "кхъухь",
     "type": "noun",
     "ipa": "ʑəqʷəħ"
   },
@@ -29639,6 +29716,30 @@
     ],
     "type": "verb",
     "ipa": "ʑəqədaʁat͡ʃən"
+  },
+  {
+    "word": "жьы къыдэгъэун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to exhale",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʑə qədaʁawən"
+  },
+  {
+    "word": "жьы къыдэгъэк1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to exhale",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʑə qədaʁat͡ʃən"
   },
   {
     "word": "икъун",
@@ -29735,7 +29836,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to inhale; to breathe",
+        "meaning": "alternative form of \"жьы къэщэн\"",
         "examples": []
       }
     ],
@@ -29764,6 +29865,10 @@
       {
         "meaning": "asthma",
         "examples": []
+      },
+	  {
+        "meaning": "respiratory distress",
+        "examples": []
       }
     ],
     "synonyms": [
@@ -29790,6 +29895,10 @@
     "definitions": [
       {
         "meaning": "to comb",
+        "examples": []
+      },
+	  {
+        "meaning": "to brush hair",
         "examples": []
       }
     ],
@@ -29829,7 +29938,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Riser (early)",
+        "meaning": "getting up early in the morning",
         "examples": []
       }
     ],
@@ -29841,12 +29950,52 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "windward place",
+        "meaning": "windward",
+        "examples": []
+      },
+	  {
+        "meaning": "a place where wind blows",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "ʑəwaːpʼa"
+  },
+  {
+    "word": "1эмэ-псым",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "instrument",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʔama-psəm"
+  },
+  {
+    "word": "пхъэш1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to work as a carpenter; to do woodworking",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "pχaʃʼan"
+  },
+  {
+    "word": "пхъаш1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "carpenter",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "pχaːʃʼa"
   },
   {
     "word": "жьыф",
@@ -29904,10 +30053,6 @@
       {
         "meaning": "fir",
         "examples": []
-      },
-      {
-        "meaning": "evergreen",
-        "examples": []
       }
     ],
     "cognate": "псей",
@@ -29940,7 +30085,18 @@
     "ipa": "baːja"
   },
   {
-    "word": "тхъубэ къегъэхын",
+    "word": "тхъурбэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to foam",
+        "examples": []
+      }
+    ],
+    "type": "verb"
+  },
+  {
+    "word": "тхъурбэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -29967,11 +30123,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "martyr (бэлахь зытелъыр)",
+        "meaning": "misfortune",
         "examples": []
       },
       {
-        "meaning": "ordeal (бэлахь хэтыныр)",
+        "meaning": "exceptional (often: exceptionally good)",
         "examples": []
       }
     ],
@@ -30028,6 +30184,10 @@
             "translation": "One day the sun and the moon '''argued'''"
           }
         ]
+      },
+	  {
+        "meaning": "to compete (with in), to rival (in), to vie (with in)",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -30078,7 +30238,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to bow",
+        "meaning": "to bow down to",
         "examples": [
           {
             "sentence": "шъо '''шъхьащэ зыфэшъуш1ырэм''' сэ '''шъхьащэ фэсш1ыщтэп'''",
@@ -30132,6 +30292,9 @@
         "meaning": "teacher",
         "examples": []
       }
+    ],
+    "synonyms": [
+      "егъэджак1о"
     ],
     "type": "noun",
     "ipa": "t͡ʃʼaɮaʁaːd͡ʒ"
@@ -38515,7 +38678,7 @@
     "ipa": "ʁawət͡ʃʷən"
   },
   {
-    "word": "дэщтэн",
+    "word": "дэштэн",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -38540,6 +38703,7 @@
         ]
       }
     ],
+	"congate": "дэщтэн",
     "type": "verb",
     "ipa": "daɕtan"
   },
@@ -41489,7 +41653,7 @@
         "meaning": "to meet",
         "examples": [
           {
-            "sentence": "Неущ '''тызэ1ук1эта?'''",
+            "sentence": "Неущ '''тызэ1ук1эщта?'''",
             "translation": "'''Will we meet''' tomorrow?"
           },
           {
@@ -41501,41 +41665,37 @@
             "translation": "I '''met''' the girl."
           },
           {
-            "sentence": "Л1ым итхьэмамэ '''1ок1э'''",
+            "sentence": "Л1ым итхьэматэ '''1ок1э'''",
             "translation": "The man '''is meeting''' with his boss."
           },
           {
-            "sentence": "Докторым '''сы1ук1эшъутэп'''",
-            "translation": "'''I can't meet''' the doctor."
+            "sentence": "Докторым '''сы1ук1эн''' фай",
+            "translation": "'''I need to meet''' the doctor."
           },
           {
             "sentence": "Докторым '''сы1ук1эшъурэп'''",
-            "translation": "'''I can't meet''' the doctor. (Present)"
+            "translation": "'''I can't meet''' the doctor."
           }
         ]
       },
       {
-        "meaning": "to overtake, to sidestep, To catch up with someone but not pass",
+        "meaning": "to catch up with someone (before it is too late)",
         "examples": [
           {
             "sentence": "К1алэр пшъашъэм '''1ук1агъ'''",
             "translation": "The boy '''caught up''' with the girl."
           },
           {
-            "sentence": "Нэхь псынч1эу сычъэмэ '''ус1ук1эт'''",
-            "translation": "If i will run faster '''i will overtake''' you."
+            "sentence": "Нахь псынк1эу сычъэмэ '''ус1ук1эщт'''",
+            "translation": "If i will run faster '''I will catch up to''' you."
           },
           {
-            "sentence": "К1элэц1ык1ор '''къэс1ук1эшъурэп'''",
+            "sentence": "К1элэц1ык1ур '''къэс1ук1эшъурэп'''",
             "translation": "The little boy '''can't catch up''' with me."
           },
           {
             "sentence": "Ливилк1э Томэр '''къэс1ук1агъ'''",
             "translation": "Tom '''caught up''' with me with the level."
-          },
-          {
-            "sentence": "Ливилк1э Томым '''с1ук1агъ'''",
-            "translation": "'''I caught up''' with Tom with the level."
           }
         ]
       }
@@ -41543,6 +41703,40 @@
     "type": "verb",
     "ipa": "ʔʷət͡ʃan"
   },
+  {
+    "word": "тефэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to come across; to encounter; to meet someone usually coincidentally",
+        "examples": [
+          {
+            "sentence": "К1алэм пшъашъэр '''тефагъ'''",
+            "translation": "The boy '''came across''' the girl."
+          },
+          {
+            "sentence": "Пшъашъэр '''къэстефагъ'''",
+            "translation": "I '''came across''' the girl."
+          },
+          {';
+            "sentence": "Л1ым итхьэматэ урамым '''тефагъ'''",
+            "translation": "The man '''encountered''' his boss on the street."
+          }
+        ]
+      },
+      {
+        "meaning": "to hit something (the impact of hitting by falling/dropping)",
+        "examples": [
+          {
+            "sentence": "Мыжъор унэм '''тефагъ'''",
+            "translation": "The rock '''hit''' the house."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "tajfan"
+  }
   {
     "word": "тэчъын",
     "lang": "Adyghe",
@@ -42863,9 +43057,16 @@
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "hairbrush",
+        "examples": []
+      },
+	  {
         "meaning": "comb",
         "examples": []
       }
+    ],
+    "synonyms": [
+      "мажь"
     ],
     "type": "noun",
     "ipa": "ʂħamaːʑa"
@@ -45495,17 +45696,21 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "facade, frontage, front",
+        "meaning": "front of; facade",
         "examples": [
           {
             "sentence": "'''Синэ1у''' ик1",
             "translation": "Move away '''from my sight'''."
           },
           {
-            "sentence": "'''Синэ1у''' илъ бананэ",
-            "translation": "The banana '''is in my front'''."
+            "sentence": "'''Синэ1у''' илъ мы1эрысыр",
+            "translation": "The apple '''is in front of me'''."
           }
         ]
+      },
+	  {
+        "meaning": "face",
+		"examples": []
       }
     ],
     "type": "noun",
@@ -45739,16 +45944,28 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "bold, brave, hard",
+        "meaning": "courageous, brave, gutsy",
         "examples": []
       },
       {
-        "meaning": "rough, coarse, surface with high friction (opposite of soft)",
+        "meaning": "rough, gruff, surface with high friction (opposite of soft)",
         "examples": []
       }
     ],
     "type": "adj",
     "ipa": "pχaːʃa"
+  },
+  {
+    "word": "чэтэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "linen (linen is a textile made from the fibers of the flax plant)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃatan"
   },
   {
     "word": "къэущын",
@@ -48287,7 +48504,7 @@
             "translation": "'''Don't give''' the fork to the little boy."
           },
           {
-            "sentence": "Л1ым тхьэмык1эмэ ахъщэ '''яреты'''",
+            "sentence": "Л1ым тхьамык1эмэ ахъщэ '''яреты'''",
             "translation": "The man '''gives''' the poor money."
           },
           {
@@ -49881,7 +50098,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to greet someone",
+        "meaning": "to greet someone; to welcome someone; to receive someone",
         "examples": [
           {
             "sentence": "Тихьак1эхэр унэм къэсыхэмэ '''япэгъок1'''",
@@ -57300,11 +57517,11 @@
     "ipa": "ʁaχʷəʑən"
   },
   {
-    "word": "зыш1ош1ужьын",
+    "word": "зыш1ош1ыжьын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be arrogant; to be haughty, to think full of oneself",
+        "meaning": "to be arrogant (more specifically: to think full of oneself)",
         "examples": [
           {
             "sentence": "К1алэр '''зыш1ош1ужьы'''",
@@ -57316,6 +57533,12 @@
           }
         ]
       }
+    ],
+    "synonyms": [
+      "шъхьащытхъужь",
+      "гъакъ",
+	  "баф",
+	  "жьыгъэбыу"
     ],
     "type": "verb",
     "ipa": "zəʃʷʼəʃʷʼaʑən"
@@ -57469,7 +57692,7 @@
         "meaning": "to feel sorry for; to feel pity for; to pity",
         "examples": [
           {
-            "sentence": "Тхьэмык1эхэр '''сигуегъух'''.",
+            "sentence": "Тхьамык1эхэр '''сигуегъух'''.",
             "translation": "'''I feel sorry for''' the poor people."
           },
           {
@@ -59671,16 +59894,20 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "valley",
+        "meaning": "deep valley",
         "examples": [
           {
             "sentence": "Уинэ1э зытэгъэтыжь, '''къоладжым''' уимыш1ахэу уифэщт",
-            "translation": "Take care of yourself (Be careful), you will fall into '''the valley''' accidentally."
+            "translation": "Take care of yourself (Be careful), you will fall into '''the deep valley''' accidentally."
           }
         ]
       },
-      {
-        "meaning": "chasm, abyss",
+	  {
+        "meaning": "chasm",
+        "examples": []
+      },
+	  {
+        "meaning": "abyss",
         "examples": []
       }
     ],
@@ -65710,7 +65937,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to breathe",
+        "meaning": "to inhale; to breathe",
         "examples": []
       }
     ],
@@ -68780,7 +69007,7 @@
             "translation": "The boy '''cares for''' the girl."
           },
           {
-            "sentence": "К1алэр иянэ тхьэмык1эм '''фегъапэ'''",
+            "sentence": "К1алэр иянэ тхьамык1эм '''фегъапэ'''",
             "translation": "The boy '''cares''' for his poor mother."
           }
         ]
@@ -71289,7 +71516,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "only (No more than; just)",
+        "meaning": "only (no more than; just)",
         "examples": [
           {
             "sentence": "Зы маф '''ны1эп''' сызеджагъэр",
@@ -72256,6 +72483,34 @@
     ],
     "type": "verb",
     "ipa": "tajʁanan"
+  },
+  {
+    "word": "егъэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "endurant; durable",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "jaʁan"
+  },
+  {
+    "word": "хъырахъишъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "embellishment",
+        "examples": []
+      },
+	  {
+        "meaning": "something that is made exquisitely",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "jaʁan"
   },
   {
     "word": "тенэн",
@@ -74198,15 +74453,15 @@
         "examples": [
           {
             "sentence": "К1элэц1ык1ум '''зегъэгусэ''' иянэ 1эш1ухэр къыритрэхэпи ары",
-            "translation": "t=The little boys '''resented''' because his mother doesn't give him sweets."
+            "translation": "The little boys '''resented''' because his mother doesn't give him sweets."
           },
           {
             "sentence": "К1алэм сехъоным '''зигъэгусагъ'''",
-            "translation": "t=The boy '''took offense''' when I cursed him."
+            "translation": "The boy '''took offense''' when I cursed him."
           },
           {
             "sentence": "'''Зымыгъэгус''', ори уисырэ къэсыщт",
-            "translation": "t='''Don't feel hurt''', your turn will arrive."
+            "translation": "'''Don't feel hurt''', your turn will arrive."
           }
         ]
       }
@@ -78148,15 +78403,11 @@
     "ipa": "ɡʷəxat͡ʃʼ"
   },
   {
-    "word": "гукъау",
+    "word": "гукъао",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "grief, distress, sadness",
-        "examples": []
-      },
-      {
-        "meaning": "misfortune, disaster",
         "examples": []
       }
     ],
@@ -78165,7 +78416,7 @@
       "нэшхъэигъу"
     ],
     "type": "noun",
-    "ipa": "ɡʷəqaːw"
+    "ipa": "ɡʷəqaːwa"
   },
   {
     "word": "нэшхъэигъу",
@@ -81590,6 +81841,54 @@
     "ipa": "qʷəd͡ʒər"
   },
   {
+    "word": "къое-ч1ай",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "precipice, abyss, chasm",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "qʷaja-t͡ʂʼaːj"
+  },
+  {
+    "word": "къушъхьэбг",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "upper part of a mountain",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "noun"
+  },
+  {
+    "word": "къушъхьэ дыс",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "cliff",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "noun"
+  },
+  {
+    "word": "бгы дыс",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "cliff",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "noun"
+  },
+  {
     "word": "къыухьан",
     "lang": "Adyghe",
     "definitions": [
@@ -84357,7 +84656,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to compete with each other; to contend with each other",
+        "meaning": "to compete with each other",
         "examples": []
       },
       {
@@ -85415,7 +85714,7 @@
         ]
       },
       {
-        "meaning": "to connect someone with",
+        "meaning": "to connect something with",
         "examples": []
       }
     ],
@@ -88282,7 +88581,10 @@
       }
     ],
     "synonyms": [
-      "жьыгъэбыу"
+      "гъакъ",
+      "зыш1ош1ыжьын",
+	  "баф",
+	  "жьыгъэбыу"
     ],
     "type": "noun",
     "ipa": "ʂħaɕətəχəʑ"
@@ -89438,12 +89740,22 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to stand near something",
-        "examples": []
+        "meaning": "to stand near/by",
+        "examples": [
+			{
+            "sentence": "Пкъэум еуц1ол1эн",
+            "translation": "'''To stand near''' the pillar."
+            },
+		]
       },
       {
-        "meaning": "to come to terms with; to give in",
-        "examples": []
+        "meaning": "to come to terms with; to put up with something",
+        "examples": [
+			{
+            "sentence": "Л1ыхэр 1офым '''къытегущы1эхэу''' зэхэсыхыгъ",
+            "translation": "I heard the men '''talk about''' the job."
+            },
+		]
       }
     ],
     "type": "verb",
@@ -95447,5 +95759,332 @@
     ],
     "type": "noun",
     "ipa": "dabʐəqʷ"
+  },
+  {
+    "word": "гукъау",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"гукъао\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "гухэк1"
+    ],
+    "type": "noun",
+    "ipa": "ɡʷəqaːw"
+  },
+  {
+    "word": "къэлай",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "tin",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "qaɮaːj"
+  },
+  {
+    "word": "лыдын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to shine a little, to shine sometimes",
+        "examples": [
+          {
+            "sentence": "жъуагъор '''мэлыды'''",
+            "translation": "the star '''glitters'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ɮəd"
+  },
+  {
+    "word": "лыд",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "shine; glitter",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ɮəd"
+  },
+  {
+    "word": "шъхьащэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "bow (gesture made by bending forward at the waist); bow down",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʂħaːɕa"
+  },
+  {
+    "word": "гъакъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "braggart, boaster; someone who showoffs",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "шъхьащытхъужь",
+      "зыш1ош1ыжьын",
+	  "баф",
+	  "жьыгъэбыу"
+    ],
+    "type": "adj",
+    "ipa": "ʁaːq"
+  },
+  {
+    "word": "шъхьащытхъужь",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"шъхьэщытхъужь\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "гъакъ",
+      "зыш1ош1ыжьын",
+	  "баф",
+	  "жьыгъэбыу"
+    ],
+    "type": "adj",
+    "ipa": "ʁaːq"
+  },
+  {
+    "word": "пшъэхъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "chain",
+        "examples": [
+          {
+            "sentence": "хьэр пшъэхъук1э епхыгъ",
+            "translation": "the dog is tied with '''chains'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "pʂaχʷ"
+  },
+  {
+    "word": "пшъэхъужъый",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "chainlet",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "pʂaχʷʐəj"
+  },
+  {
+    "word": "блэрыпс",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "chainlet; a chain of silver or braided gold",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "bɮarəps"
+  },
+  {
+    "word": "пыш1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to connect",
+        "examples": [
+          {
+            "sentence": "Пшъэхъур кум '''пыш1'''",
+            "translation": "'''Connect''' the chain to the car."
+          },
+		  {
+            "sentence": "Машинэ къутагъэр тракторым '''пыш1агъ'''",
+            "translation": "The destroyed car '''is connected''' to the tractor."
+          },
+		  {
+            "sentence": "К1апсэ ц1ык1ухэр '''зэпыш1эх'''",
+            "translation": "'''Connect''' the little ropes '''together'''."
+          },
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "pəʃʼan"
+  },
+  {
+    "word": "зэпыш1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to connect together",
+        "examples": [
+          {
+            "sentence": "К1апсэ ц1ык1ухэр зэпыш1эх",
+            "translation": "'''Connect''' the little ropes '''together'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "to connect oneself to",
+        "examples": [
+		  {
+            "sentence": "К1алэм (ежь) 1интернетым зыпеш1э",
+            "translation": "The boy '''is connecting himself''' to the internet"
+          },
+		  {
+            "sentence": "Зыкъэспэмыш1",
+            "translation": "'''Don't connect yourself to me'''"
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "zapəʃʼan"
+  },
+  {
+    "word": "гъэплъэхъун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to mislead",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "гъэгъощэн"
+    ],
+    "type": "noun",
+    "ipa": "ʁapɬaχʷən"
+  },
+  {
+    "word": "гъэгъощэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to mislead; to make someone lost",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "гъэплъэхъун"
+    ],
+    "type": "noun",
+    "ipa": "ʁaʁʷaɕan"
+  },
+  {
+    "word": "зэпеон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to compete among oneselves",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "zapajwan"
+  },
+  {
+    "word": "зэдэон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to dispute; to argue",
+        "examples": []
+      },
+	  {
+        "meaning": "bargain among themselves",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "zadawan"
+  },
+  {
+    "word": "тет1ысхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to sit down on",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "tajtʼəsħaːn"
+  },
+  {
+    "word": "1ут1ысхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to sit near",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʔʷətʼəsħaːn"
+  },
+  {
+    "word": "егъэджак1о",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "teacher",
+        "examples": []
+      },
+	  {
+        "meaning": "tutor",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "к1элэегъадж"
+    ],
+    "type": "noun",
+    "ipa": "ʁad͡ʒaːkʷʼa"
+  },
+  {
+    "word": "тет1эрэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to drop on",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "tajtʼaran"
+  },
+  {
+    "word": "къыхидзын",
+    "lang": "Adyghe",
+    "definitions": [
+		"meaning": "to drizzle, to rain lightly",
+        "examples": [
+          {
+            "sentence": "ощх '''къыхедзы'''",
+            "translation": "The rain drizzles."
+          }
+    ],
+    "type": "noun",
+    "ipa": "qəxəjd͡zən"
   }
 ]
