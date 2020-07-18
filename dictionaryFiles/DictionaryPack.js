@@ -2753,7 +2753,7 @@
         "examples": []
       },
       {
-        "meaning": "sterile mare",
+        "meaning": "falcon",
         "examples": []
       }
     ],
@@ -7752,7 +7752,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Eurasian lynx",
+        "meaning": "lynx",
         "examples": []
       }
     ],
@@ -7764,7 +7764,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Phragmites",
+        "meaning": "to thatch (to cover the roof with straw, sedge, reed, leaves, etc.)",
         "examples": []
       }
     ],
@@ -7808,18 +7808,6 @@
     "ipa": "d͡ʒanajtaː"
   },
   {
-    "word": "дзэлыкъуэбгъэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "Old World vulture",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "dzaləqʷabʁa"
-  },
-  {
     "word": "домбай",
     "lang": "Adyghe",
     "definitions": [
@@ -7829,18 +7817,6 @@
       }
     ],
     "type": "noun"
-  },
-  {
-    "word": "елэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "marbled polecat",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "jalan"
   },
   {
     "word": "къазмакъбзыу",
@@ -8941,7 +8917,10 @@
       }
     ],
     "synonyms": [
-      "хы 1ушъу"
+      "хы1ушъу",
+      "1ушъо",
+      "псы1ушъо",
+      "хыгъунэ"
     ],
     "type": "noun",
     "ipa": "xəʁʷəna"
@@ -9203,6 +9182,18 @@
     ],
     "type": "verb",
     "ipa": "psəfaːɬʼa ɬʼan"
+  },
+  {
+    "word": "псыфал1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "thirst",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "psəfaːɬʼ"
   },
   {
     "word": "фабэ пэн",
@@ -12998,18 +12989,6 @@
     "ipa": "ʃazʁa"
   },
   {
-    "word": "гъычгъэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"гык1ыгъэ\"",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ʁət͡ʃʁa"
-  },
-  {
     "word": "гъуч11унэ",
     "lang": "Adyghe",
     "definitions": [
@@ -13053,9 +13032,16 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "arrogant",
+        "meaning": "smug; complacent",
         "examples": []
       }
+    ],
+    "synonyms": [
+      "зыш1ош1ыжьын",
+      "шъхьащытхъужь",
+      "гъакъ",
+	  "баф",
+	  "жьыгъэбыу"
     ],
     "type": "adj",
     "ipa": "bʁaːqa"
@@ -13077,10 +13063,6 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "falcon",
-        "examples": []
-      },
-      {
         "meaning": "hawk",
         "examples": []
       }
@@ -13096,7 +13078,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "prairie, steppe",
+        "meaning": "prairie, steppe (an extensive area of relatively flat grassland with few trees)",
         "examples": []
       }
     ],
@@ -16272,7 +16254,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "work",
+        "meaning": "work; job",
         "examples": [
           {
             "sentence": "Иджы '''1офы''' бэ сыш1эн фай",
@@ -16289,6 +16271,18 @@
           {
             "sentence": "'''1офы''' бэм тыхэбдзагъ о",
             "translation": "You gave us a lot of '''work'''"
+          },
+          {
+            "sentence": "'''1офым''' сык1ощт",
+            "translation": "I will go to '''work'''"
+          },
+		  {
+            "sentence": "Сэ '''1офы''' сылъэхъу",
+            "translation": "I am looking for a '''job'''."
+          },
+          {
+            "sentence": "Илъэс хъугъэ '''1офы''' зысымыгъотрэр",
+            "translation": "It have already been a year since I couldn't find a '''job'''."
           }
         ]
       },
@@ -17481,15 +17475,32 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "field",
+        "meaning": "field (the fields outside the village and town)",
         "examples": []
       }
     ],
     "synonyms": [
-      "губгъо"
+      "губгъо",
+	  "лэжьыгъэш1апэ"
     ],
     "type": "noun",
     "ipa": "ʂʷafə"
+  },
+  {
+    "word": "лъэжьап1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "workplace; worksite",
+        "examples": []
+      },
+	  {
+        "meaning": "factory",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ɮaʑaːpʼa"
   },
   {
     "word": "къуаджэ",
@@ -17684,7 +17695,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "chest",
+        "meaning": "alternative form of \"губгъо\"",
         "examples": []
       }
     ],
@@ -28390,15 +28401,32 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "wild",
+        "meaning": "wild (fields)",
         "examples": []
       }
     ],
     "synonyms": [
-      "шъофы"
+      "шъофы",
+	  "лэжьыгъэш1апэ"
     ],
-    "type": "adj",
+    "type": "noun",
     "ipa": "ɡʷəbʁʷa"
+  },
+  {
+    "word": "лэжьыгъэш1апэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "a workplace in the fields",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "шъофы",
+	  "губгъо"
+    ],
+    "type": "noun",
+    "ipa": "ɮaʑəʁaʃʼaːpʼa"
   },
   {
     "word": "шъхьалы",
@@ -28438,6 +28466,30 @@
     ],
     "type": "noun",
     "ipa": "xə ʔʷəʂʷ"
+  },
+  {
+    "word": "псы 1ушъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"псы1ушъу\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "psə ʔʷəʂʷ"
+  },
+  {
+    "word": "хы гъун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"хыгъунэ\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "xəʁʷəna"
   },
   {
     "word": "мыжъуак1э",
@@ -29489,7 +29541,8 @@
       "шъхьащытхъужь",
       "гъакъ",
       "зыш1ош1ыжьын",
-	  "баф"
+	  "баф",
+	  "бгъакъэ"
     ],
     "type": "noun",
     "ipa": "ʑəʁabəw"
@@ -40783,6 +40836,22 @@
     "ipa": "tħat͡ʃən"
   },
   {
+    "word": "лъэсын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to rinse",
+        "examples": []
+      },
+	  {
+        "meaning": "to wash something thoroughly",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɬasən"
+  },
+  {
     "word": "кушъхьэфачъэ",
     "lang": "Adyghe",
     "definitions": [
@@ -41708,7 +41777,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to come across; to encounter; to meet someone usually coincidentally",
+        "meaning": "to come across; to encounter coincidentally; to meet someone coincidentally",
         "examples": [
           {
             "sentence": "К1алэм пшъашъэр '''тефагъ'''",
@@ -41815,7 +41884,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "beach",
+        "meaning": "shore",
         "examples": []
       }
     ],
@@ -43800,20 +43869,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "work; job",
-        "examples": [
-          {
-            "sentence": "Сэ '''1офш1эн сылъэхъу'''",
-            "translation": "I am looking for a '''job'''."
-          },
-          {
-            "sentence": "Илъэс хъугъэ 1офш1эн зысымыгъотрэр",
-            "translation": "It have already been a year since I couldn't find a '''job'''."
-          }
-        ]
-      },
-      {
-        "meaning": "assignment, task",
+        "meaning": "assignment, task, work to do",
         "examples": [
           {
             "sentence": "К1алэм '''и1офш1эн''' ыгъэцэк1агъ",
@@ -48167,7 +48223,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "assets, stuff, goods, property, wealth",
+        "meaning": "goods, property, wealth, riches, fortune",
         "examples": []
       }
     ],
@@ -50107,7 +50163,7 @@
         ]
       },
 	  {
-        "meaning": "to approach someone (to greet)",
+        "meaning": "to approach someone (to greet or to talk); to encounter someone intentionally",
         "examples": [
           {
             "sentence": "К1алэр тучаным ыдэжь къэспэгъок1ыгъ",
@@ -57534,7 +57590,7 @@
           },
           {
             "sentence": "'''Узыш1омыш1ужьы'''",
-            "translation": "'''Don't be haughty'''."
+            "translation": "'''Don't be an arrogant'''."
           }
         ]
       }
@@ -57543,10 +57599,11 @@
       "шъхьащытхъужь",
       "гъакъ",
 	  "баф",
-	  "жьыгъэбыу"
+	  "жьыгъэбыу",
+	  "бгъакъэ"
     ],
     "type": "verb",
-    "ipa": "zəʃʷʼəʃʷʼaʑən"
+    "ipa": "zəʃʷʼəʃʼəʑən"
   },
   {
     "word": "1эш1эх",
@@ -60597,12 +60654,24 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "hunger",
+        "meaning": "starvation",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "ʁaːbɮa"
+  },
+  {
+    "word": "гъаблэм ыгъэл1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to starve",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʁabɮan əʁaɬʼan"
   },
   {
     "word": "гъажъо",
@@ -88589,7 +88658,8 @@
       "гъакъ",
       "зыш1ош1ыжьын",
 	  "баф",
-	  "жьыгъэбыу"
+	  "жьыгъэбыу",
+	  "бгъакъэ"
     ],
     "type": "noun",
     "ipa": "ʂħaɕətəχəʑ"
@@ -95846,7 +95916,8 @@
       "шъхьащытхъужь",
       "зыш1ош1ыжьын",
 	  "баф",
-	  "жьыгъэбыу"
+	  "жьыгъэбыу",
+	  "бгъакъэ"
     ],
     "type": "adj",
     "ipa": "ʁaːq"
@@ -95864,7 +95935,8 @@
       "гъакъ",
       "зыш1ош1ыжьын",
 	  "баф",
-	  "жьыгъэбыу"
+	  "жьыгъэбыу",
+	  "бгъакъэ"
     ],
     "type": "adj",
     "ipa": "ʁaːq"
@@ -96082,14 +96154,192 @@
     "word": "къыхидзын",
     "lang": "Adyghe",
     "definitions": [
+      {
+        "meaning": "to be melted",
+        "examples": [
+          {
+            "sentence": "ощх '''къыхедзы'''",
+            "translation": "The rain drizzles."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "qəxəjd͡zən"
+  },
+  {
+    "word": "къыхидзын",
+    "lang": "Adyghe",
+    "definitions": [
 		"meaning": "to drizzle, to rain lightly",
         "examples": [
           {
             "sentence": "ощх '''къыхедзы'''",
             "translation": "The rain drizzles."
           }
+		]
     ],
     "type": "noun",
     "ipa": "qəxəjd͡zən"
+  },
+  {
+    "word": "лъэхъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "lynx",
+        "examples": []
+      },
+	  {
+        "meaning": "shackles, manacles, gyves, fetters, irons (paired wrist or ankle restraints)",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "мэзкъатыхъу",
+      "чэтыу шыумыш",
+	  "мэзчэтыу"
+    ],
+    "type": "noun",
+    "ipa": "ɬaχʷ"
+  },
+  {
+    "word": "мэзкъатыхъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "lynx",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "лъэхъу",
+      "чэтыу шыумыш",
+	  "мэзчэтыу"
+    ],
+    "type": "noun",
+    "ipa": "mazqaːtəχʷ"
+  },
+  {
+    "word": "чэтыу шыумыш",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "lynx",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "лъэхъу",
+      "мэзкъатыхъу",
+	  "мэзчэтыу"
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃatəw ʃəwməʃ"
+  },
+  {
+    "word": "чэтыушыумыш",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"чэтыу шыумыш\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "лъэхъу",
+      "мэзкъатыхъу",
+	  "мэзчэтыу"
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃatəwʃəwməʃ"
+  },
+  {
+    "word": "теп1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"теп1он\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "tajpʼan"
+  },
+  {
+    "word": "теп1он",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to cover",
+        "examples": []
+      },
+	  {
+        "meaning": "to lid",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "tajpʷʼan"
+  },
+  {
+    "word": "зэтеп1он",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "to lid",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "zatajpʷʼan"
+  },
+  {
+    "word": "мэзыцу",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "wild ox; bison",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "mazət͡ʃʷ"
+  },
+  {
+    "word": "огъу",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "drought",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "waʁʷ"
+  },
+  {
+    "word": "хъуп1э",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "pasture (an open field, on which livestock is kept for feeding)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "χʷəpʼa"
+  },
+  {
+    "word": "ш1уц1эжъ",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "cockroach",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷʼət͡sʼəʐ"
   }
 ]

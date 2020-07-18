@@ -765,12 +765,6 @@
     "fly": "бадзэ (housefly)"
   },
   {
-    "ox": "быгъу"
-  },
-  {
-    "bull": "быгъу"
-  },
-  {
     "steer": "быгъу"
   },
   {
@@ -1827,7 +1821,7 @@
     "to drop": "къеткӏухын (to drip from); 1эк1эзын (to let go, to let slip); 1эпызын (to drop unintentionally); 1эпэт1эрын (to let slip unintentionally); къытезын (to drop from); къыпызын (to drop off a tree), къыпытэкъун (to drop from the tree around it); зэтефэн (to drop on each other); зэхэфэн (to drop into each other)"
   },
   {
-    "to meet": "тефэн (to come across; to encounter); 1ук1эн (to meet); пэгъок1ын (to welcome; to approach)"
+    "to meet": "тефэн (to come across, to encounter coincidentally); 1ук1эн (to meet); пэгъок1ын (to welcome, to approach, to encounter intentionally)"
   },
   {
     "to come across": "тефэн"
@@ -1911,37 +1905,25 @@
     "infant": "наныу"
   },
   {
-    "Eurasian lynx": "былътырыку"
+    "lynx": "мэзкъатыхъу; лъэхъу; мэзчэтыу; чэтыу шыумыш"
   },
   {
-    "Phragmites": "бгъэн"
-  },
-  {
-    "griffin": "дзэлыкъуэбгъэ"
-  },
-  {
-    "gryphon": "дзэлыкъуэбгъэ"
+    "cover": "бгъэн (to thatch); техъон (to lay to cover); теп1он (to lit)"
   },
   {
     "bison": "домбай; мэзыцу"
   },
   {
-    "forest bull": "мэзыцу"
+    "wild ox": "мэзыцу"
   },
   {
-    "marbled polecat": "елэн"
-  },
-  {
-    "plants": "къэкӏырэхэр"
+    "plants": "къэк1ырэ; къэк1ырэхэр"
   },
   {
     "blackberry": "мэракӏуапцӏэ"
   },
   {
     "cherry-plum": "пхъэгулъ"
-  },
-  {
-    "prunus spinosa": "пыжъ"
   },
   {
     "badger": "чӏыкъу"
@@ -1968,13 +1950,10 @@
     "burglar": "тыгъуакӏо"
   },
   {
-    "band": "тыгъуакӏо"
-  },
-  {
     "lie": "пцӏы"
   },
   {
-    "swing": "кӏэрхъон"
+    "swing": "кӏэрхъон (Shapsug); хъэрен"
   },
   {
     "prince.": "пщы"
@@ -1986,10 +1965,10 @@
     "pacifier": "хьэшъобыдз; хьашъобыдз"
   },
   {
-    "sleeve (of a shirt)": "ӏэгъуапэ"
+    "sleeve (of a shirt)": "ӏэгъуапэ; гъопэкӏыхь (long-sleeved)"
   },
   {
-    "sleeve": "ӏэгъуапэ  of a shirt)"
+    "sleeve": "ӏэгъуапэ (of a shirt); гъопэкӏыхь (long-sleeved)"
   },
   {
     "long-sleeved shirt": "гъопэкӏыхь"
@@ -2151,10 +2130,10 @@
     "blind": "нэшъу"
   },
   {
-    "short": "кӏэко"
+    "short": "кӏако"
   },
   {
-    "beach": "хыгъунэ"
+    "beach": "хы 1ушъо; хы гъунэ"
   },
   {
     "correct": "тэрэз"
@@ -2169,7 +2148,7 @@
     "long time": "бэрэ"
   },
   {
-    "often": "бэрэ"
+    "often": "бэрэ; заулэрэ"
   },
   {
     "after": "ыужырэ"
@@ -2181,7 +2160,7 @@
     "late": "кӏасэ; лъэжъуагъ"
   },
   {
-    "right": "джабгъо (direction)"
+    "right": "джабгъо (direction); тэрэз (correct)"
   },
   {
     "left": "сэмэгу"
@@ -2217,7 +2196,7 @@
     "paper bag": "ӏалъмэкъ"
   },
   {
-    "sack": "дзыо"
+    "sack": "дзыо; щэуалэ (Shapsug)"
   },
   {
     "wrist": "ӏапшъэ (arm); лъашъхьэ (leg)"
@@ -2232,31 +2211,49 @@
     "to be thirsty": "псыфалӏэ лӏэн"
   },
   {
+    "thirsty": "псыфалӏ (thirst); псыфалӏэ лӏэн (to be thirsty)"
+  },
+  {
+    "thirst": "псыфалӏ (thirst); псыфалӏэ лӏэн (to be thirsty)"
+  },
+  {
+    "hungry": "мэлак1э (hunger); мэлак1э лӏэн (to be hungry)"
+  },
+  {
+    "hunger: "мэлак1э (hunger); мэлак1э лӏэн (to be hungry)"
+  },
+  {
+    "starvation": "гъаблэ"
+  },
+  {
+    "to starve": "гъаблэм ыгъэл1эн"
+  },
+  {
     "to feel hot": "фабэ пэн"
   },
   {
-    "to die": "лӏыкӏын (to die off something)"
+    "to die": "л1эн; лӏыкӏын (to die off something)"
   },
   {
     "wisp": "ӏоталъ"
   },
   {
-    "oath": "ӏуагъэж гущыӏэ пыт"
+    "oath": "ӏуагъэ; гущыӏэ пыт"
   },
   {
     "to sell": "щэн"
   },
   {
-    "to take: "щэн (to take someone to)"
+    "to take: "щэн (to take/lead someone to somewhere); хьын (to take something to carry); штэн / къэштэн (to grab something to take)"
   },
   {
     "to lead": "щэн"
   },
   {
-    "to get sad": "зэгожъын"
+    "to get sad": "нэшхъэеу хъугъэ; зэгожъын"
   },
   {
-    "to get upset": "зэгожъын"
+    "to get upset": "нэшхъэеу хъугъэ; зэгожъын"
   },
   {
     "toilet": "псыунэ"
@@ -2424,7 +2421,7 @@
     "prophet": "тхьэлӏыкӏо"
   },
   {
-    "orphan": "ибэ"
+    "orphan": "ибэ; ечы (Shapsug)"
   },
   {
     "most": "ибэ"
@@ -3045,10 +3042,7 @@
     "plague": "емынэ"
   },
   {
-    "ox": "цу"
-  },
-  {
-    "bull": "цу"
+    "ox": "цу; мэзыцу (wild ox); быгъу (breeding bull)"
   },
   {
     "buffalo": "цу"
@@ -3069,7 +3063,13 @@
     "yoghurt": "шэзгъэ; щэгъапцӏэ"
   },
   {
-    "laundry": "гъычгъэ"
+    "laundry": "гык1ап1э (wash-house); гык1ыгъэ (laundries)"
+  },
+  {
+    "to launder": "гык1эн (to do laundry), гык1ын (to launder something)"
+  },
+  {
+    "to wash": "тхьак1ын (to wash something); лъэсын (to rinse); гык1эн (to do laundry), гык1ын (to launder something)"
   },
   {
     "self-satisfied": "бгъакъэ"
@@ -3084,7 +3084,7 @@
     "blouse": "бгъалъэ"
   },
   {
-    "falcon": "бгъашхъо"
+    "falcon": "бгъэ"
   },
   {
     "hawk": "бгъашхъо"
@@ -3093,7 +3093,28 @@
     "prairie": "бгъодж"
   },
   {
+    "work": "1офы (work, job); лъэжьап1э (workplace, worksite); 1офш1эн (work to do, tasks)"
+  },
+  {
+    "job": "1офы"
+  },
+  {
+    "to work": "1офы ш1эн; лъэжьэн"
+  },
+  {
+    "workplace": "лъэжьап1э"
+  },
+  {
+    "worksite": "лъэжьап1э"
+  },
+  {
+    "factory": "лъэжьап1э; фабрикэ"
+  },
+  {
     "steppe": "бгъодж"
+  },
+  {
+    "pasture": "хъуп1э"
   },
   {
     "chatty": "баӏо; гущыӏэрый; гущыӏал"
@@ -3105,16 +3126,22 @@
     "almond": "бадэ"
   },
   {
-    "fortune": "байныгъ"
+    "fortune": "мылъку"
   },
   {
-    "wealth": "байныгъ"
+    "wealth": "мылъку"
   },
   {
-    "riches": "байныгъ"
+    "riches": "мылъку"
   },
   {
-    "cockroach": "байкъогъуз"
+    "belongings": "мылъку"
+  },
+  {
+    "property": "мылъку"
+  },
+  {
+    "cockroach": "ш1уц1эжъ"
   },
   {
     "full": "бакъмэр (having eaten enough)"
@@ -6934,9 +6961,6 @@
   },
   {
     "to bow down": "шъхьащэ фэшӏын"
-  },
-  {
-    "to worship": "фэпщылӏын"
   },
   {
     "bubble": "псыбыб"
