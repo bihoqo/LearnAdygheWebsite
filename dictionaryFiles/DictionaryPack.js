@@ -10339,7 +10339,7 @@
       }
     ],
     "synonyms": [
-      "щалъ"
+      "щалъэ"
     ],
     "type": "noun",
     "ipa": "qʷaːwa"
@@ -20086,14 +20086,14 @@
     "ipa": "ʁatarazən"
   },
   {
-    "word": "мэуэн",
+    "word": "мэон",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to be hitting",
         "examples": [
           {
-            "sentence": "к1алэр '''мауэ'''",
+            "sentence": "к1алэр '''мао'''",
             "translation": "the boy '''is hitting'''."
           }
         ]
@@ -20102,7 +20102,7 @@
         "meaning": "to be destroyed, to be ruined.",
         "examples": [
           {
-            "sentence": "унэр '''мауэ'''",
+            "sentence": "унэр '''мао'''",
             "translation": "I house '''is getting''' ruined."
           }
         ]
@@ -20111,11 +20111,11 @@
         "meaning": "to play music",
         "examples": [
           {
-            "sentence": "кIалэр гитарым '''къеуэ'''",
+            "sentence": "кIалэр гитарым '''къео'''",
             "translation": "the boy is playing the guitar"
           },
           {
-            "sentence": "пяноуым '''шъукъеуа'''",
+            "sentence": "пяноуым '''шъукъео'''",
             "translation": "do you (plural) play the piano?"
           }
         ]
@@ -20124,7 +20124,7 @@
         "meaning": "to shoot",
         "examples": [
           {
-            "sentence": "к1алэр к1эрахъомк1э '''мауэ'''",
+            "sentence": "к1алэр к1эрахъомк1э '''мао'''",
             "translation": "the boy is '''shooting''' with the gun."
           }
         ]
@@ -28390,7 +28390,7 @@
     "ipa": "pχantʼakʷʼ"
   },
   {
-    "word": "щалъ",
+    "word": "щалъэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -56784,7 +56784,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to spill liquid on",
+        "meaning": "to spill liquid on (intensively)",
         "examples": [
           {
             "sentence": "Псы '''къыптесэк1эщт'''",
@@ -56802,7 +56802,7 @@
       }
     ],
     "synonyms": [
-      "тек1ьэн"
+      "тек1утэн"
     ],
     "type": "verb",
     "ipa": "tajt͡ʃʼan"
@@ -63043,21 +63043,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to compress, to press forcefully something against a solid thing",
-        "examples": [
-          {
-            "sentence": "Мыщ пхъэхэр '''ефыц1ых'''",
-            "translation": "This thing '''compress''' woods."
-          },
-          {
-            "sentence": "К1алэм бадзэр '''ифыц1эгъ'''",
-            "translation": "The boy '''compressed''' the fly."
-          },
-          {
-            "sentence": "Мащинэ къуптапк1ьэмэ '''уифыц1ыт'''",
-            "translation": "If the car will run over you, it '''will compress''' you."
-          }
-        ]
+        "meaning": "alternative form of \"ц1ыц1ын\"",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -63102,21 +63089,59 @@
           {
             "sentence": "К1алэм тхылъып1эр '''ец1ыц1ы'''",
             "translation": "The boy is '''crumpling''' the paper."
-          }
+          }         
+        ]
+      },
+	  {
+        "meaning": "to wrinkle paper",
+        "examples": [
+          {
+            "sentence": "К1алэм тхылъып1эр '''ец1ыц1ы'''",
+            "translation": "The boy is '''wrinkles''' the paper."
+          }         
         ]
       },
       {
-        "meaning": "to compress something, to press forcefully something against a solid thing",
+        "meaning": "to squeeze; to squash; to squish; to apply (intensive) pressure",
         "examples": [
           {
             "sentence": "К1алэм и1эр пчъэм '''дэц1ыц1агъ'''",
-            "translation": "The boy's arm '''was compressed''' by the door."
+            "translation": "The boy's arm '''was squeezed''' between the door."
+          },
+          {
+            "sentence": "К1алэм бадзэр '''ыц1ыц1ыгъ'''",
+            "translation": "The boy '''squashed''' the fly."
+          },
+          {
+            "sentence": "Ку къыптепк1эмэ бадзэм фэдэу '''уц1ыц1ыщт'''",
+            "translation": "If a car runs over you, it '''will squash''' you like a fly."
           }
         ]
       }
     ],
     "type": "verb",
     "ipa": "t͡sʼət͡sʼən"
+  },
+  {
+    "word": "зэхэц1ыц1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to compress",
+        "examples": [
+		  {
+            "sentence": "Мыщ пхъэхэр '''зэхец1ыц1эх'''",
+            "translation": "This thing '''compresses''' woods."
+          },
+          {
+            "sentence": "Кур дэпкъым жэхахьи, зэхэц1ыц1агъ",
+            "translation": "The car crashed into the wall, and it got compressed."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaxat͡sʼət͡sʼən"
   },
   {
     "word": "нэ1уасэ",
@@ -73652,11 +73677,31 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to drip on (To let fall in drops), to spill small amount of liquid on",
+        "meaning": "to spill liquid on",
         "examples": [
           {
-            "sentence": "Анэм псы '''тэбэк1утэ!'''",
-            "translation": "'''You are dripping''' water on the table!"
+            "sentence": "1анэм псы '''тебэк1утэ!'''",
+            "translation": "'''You are spilling''' water on the table!"
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "тек1эн"
+    ],
+    "type": "verb",
+    "ipa": "tajkʷʼətan"
+  },
+  {
+    "word": "тетк1он",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to drip on (to let fall in drops)",
+        "examples": [
+          {
+            "sentence": "1анэм псы '''тетк1о'''",
+            "translation": "Water '''is dripping''' on the table."
           }
         ]
       }
@@ -97493,5 +97538,89 @@
     ],
     "type": "verb",
     "ipa": "qatad͡ʒən"
+  },
+  {
+    "word": "ик1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to pour/fill in intensivly",
+        "examples": [
+		  {
+            "sentence": "К1элэр псыр щалъэм '''рек1э'''",
+            "translation": "The boy '''pours''' water into the bucket."
+          }
+		]
+      }
+    ],
+    "type": "verb",
+    "ipa": "jət͡ʃʼan"
+  },
+  {
+    "word": "узэдын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"узэндын\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "wəzandən"
+  },
+  {
+    "word": "узэндын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to load",
+        "examples": [
+		  {
+            "sentence": "Видиор '''къеузэнды'''",
+            "translation": "The video '''is loading'''."
+          },
+		  {
+            "sentence": "Дзыор мы1эпыск1э '''сыузэндыгъ'''",
+            "translation": "'''I loaded''' the sack with apples."
+          },
+		  {
+            "sentence": "Дзак1ом к1эрахъор '''еузэнды'''",
+            "translation": "The soldier '''loads''' the gun."
+          }
+		]
+      },
+	  {
+        "meaning": "to fill",
+        "examples": [
+		  {
+            "sentence": "Щалъэр псык1э '''узэнд'''",
+            "translation": "'''Fill''' the bucket with water."
+          },
+		  {
+            "sentence": "'''Сыузэндыгъ'''",
+            "translation": "'''I am filled'''."
+          },
+		  {
+            "sentence": "Гъогур ц1ыфык1э '''узэндыгъ'''",
+            "translation": "The road '''is filled''' with people."
+          },
+		  {
+            "sentence": "Ощхым сиунэ псык1э ыузэндыгъ",
+            "translation": "The rain '''filled''' my house in water."
+          }
+		]
+      },
+	  {
+        "meaning": "to charge",
+        "examples": [
+		  {
+            "sentence": "Симобил '''узэндыгъ'''",
+            "translation": "My mobile '''is charged."
+          }
+		]
+      }
+    ],
+    "type": "verb",
+    "ipa": "wəzandən"
   }
 ]

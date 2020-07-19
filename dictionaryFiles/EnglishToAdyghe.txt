@@ -4761,6 +4761,39 @@
     "to spread": "тифэхьын"
   },
   {
+    "to spill": "тек1эн (intensive); тек1утэн"
+  },
+  {
+    "to wrinkle": "ц1ыц1ын"
+  },
+  {
+    "wrinkle": "ц1ыц1ыгъэ"
+  },
+  {
+    "to pour": "игъэхъон; ик1эн (intensive)"
+  },
+  {
+    "to fill in": "игъэхъон; ик1эн (intensive)"
+  },
+  {
+    "to drip on": "тетк1он; тегъэтк1он (to make something drip on)"
+  },
+  {
+    "to compress": "хэц1ыц1ын; зэхэц1ыц1ын"
+  },
+  {
+    "to squish": "ц1ыц1ын"
+  },
+  {
+    "to squeeze": "ц1ыц1ын"
+  },
+  {
+    "to squash": "ц1ыц1ын"
+  },
+  {
+    "to apply pressure": "ц1ыц1ын"
+  },
+  {
     "to spill, to pour": "тик1эн"
   },
   {
@@ -18388,9 +18421,6 @@
   },
   {
     "to patch": "тегъэпк1эн"
-  },
-  {
-    "to drip on": "тегъэтк1он"
   },
   {
     "to attempt to do something as perfect as possible": "мэстэ гъуанэм ригъэк1ын"
