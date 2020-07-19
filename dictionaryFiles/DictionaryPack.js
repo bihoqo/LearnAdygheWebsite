@@ -18552,7 +18552,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Center of bow string",
+        "meaning": "middle part of bowstring",
         "examples": []
       }
     ],
@@ -18581,7 +18581,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Bow string, chord",
+        "meaning": "bowstring",
         "examples": []
       },
       {
@@ -18589,12 +18589,24 @@
         "examples": []
       },
       {
-        "meaning": "Hypotenuse (in a triangle),",
+        "meaning": "hypotenuse (in a triangle),",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "bzaps"
+  },
+  {
+    "word": "бзэпсы",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"бзэпс\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "bzapsə"
   },
   {
     "word": "бзэрэбзэн",
@@ -18617,7 +18629,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "deer",
+        "meaning": "huge deer",
         "examples": []
       },
       {
@@ -18876,11 +18888,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "fallow deer",
+        "meaning": "fallow-deer",
         "examples": []
       },
-      {
-        "meaning": "moose",
+	  {
+        "meaning": "doe",
         "examples": []
       },
       {
@@ -24192,7 +24204,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "stag",
+        "meaning": "very large deer",
         "examples": []
       }
     ],
@@ -32901,7 +32913,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be dehydrate; to dry out",
+        "meaning": "to dry out; to wither; to fade",
         "examples": [
           {
             "sentence": "Уцым псы емытымэ '''гъущт'''",
@@ -32913,6 +32925,9 @@
           }
         ]
       }
+    ],
+    "synonyms": [
+      "гъонлэн"
     ],
     "type": "verb",
     "ipa": "ʁʷən"
@@ -38366,7 +38381,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to make something dry (something that should not be wet such as clothes, roads, body parts).",
+        "meaning": "to make something dry (something that should not be wet such as clothes, roads, body parts); to dehydrate",
         "examples": [
           {
             "sentence": "Джанэр '''гъэгъушъ'''",
@@ -56878,7 +56893,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to dry (something that should not be wet such as clothes, roads, body parts); to dry up",
+        "meaning": "to dry (something that should not be wet such as clothes, roads, body parts); to dry up; to dehydrate",
         "examples": [
           {
             "sentence": "Джанэр '''гъушъыгъ'''",
@@ -56895,6 +56910,10 @@
           {
             "sentence": "Гык1ыгъэхэр '''гъушъынэу''' ежьагъэх",
             "translation": "The laundries are starting '''to dry out'''."
+          },
+          {
+            "sentence": "'''Сыгъушъыгъ''",
+            "translation": "'''I got dehydrated'''."
           }
         ]
       }
@@ -64542,15 +64561,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "deer",
+        "meaning": "roe deer",
         "examples": []
       },
       {
         "meaning": "roebuck",
-        "examples": []
-      },
-      {
-        "meaning": "mountain goat",
         "examples": []
       }
     ],
@@ -97056,5 +97071,65 @@
     ],
     "type": "noun",
     "ipa": "plan"
+  },
+  {
+    "word": "лэучэц1",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "wild animals hunted for food such as deers and does",
+        "examples": []
+      },
+    ],
+    "type": "noun",
+    "ipa": "ɮawt͡sat͡s"
+  },
+  {
+    "word": "къобэбжъаб",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "branchy; boughy",
+        "examples": []
+      },
+    ],
+    "type": "adj",
+    "ipa": "qʷababʐaːb"
+  },
+  {
+    "word": "мыщыугъэ",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "sweet, fresh (water)",
+        "examples": [
+          {
+            "sentence": "Псы '''мыщыгъу'''",
+            "translation": "'''Sweet''' water."
+          }
+        ]
+      },
+	  {
+        "meaning": "unsalty",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "məɕəʁʷʁa"
+  },
+  {
+    "word": "гъонлэн",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "to wither, to shrivel, to fade, to dry up (shrivel, droop, dry up, e.g. of flowers)",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "гъун"
+    ],
+    "type": "verb",
+    "ipa": "ʁʷanɮan"
   }
 ]

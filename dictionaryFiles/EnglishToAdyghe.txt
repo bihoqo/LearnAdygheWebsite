@@ -765,12 +765,6 @@
     "steer": "быгъу"
   },
   {
-    "deer": "бжъабгъу"
-  },
-  {
-    "stag": "бжъау"
-  },
-  {
     "lamb": "гъэлъэхъу"
   },
   {
@@ -4422,40 +4416,67 @@
     "fitting": "ек1у"
   },
   {
+    "disgrace": "хьайнап"
+  },
+  {
     "shameful": "хьайнап"
   },
   {
-    "to be suitable for, to suit": "ек1ун"
+    "shamefulness": "хьайнап"
   },
   {
-    "Center of bow string": "бзэныб"
+    "disgraceful": "хьайнап"
   },
   {
-    "Bow string, chord": "бзэпс"
+    "to be suitable for": "ек1ун"
+  },
+  {
+    "center of bow string": "бзэныб"
+  },
+  {
+    "bowstring": "бзэпс"
+  },
+  {
+    "bow-string": "бзэпс"
   },
   {
     "chord": "бзэпс"
   },
   {
-    "Hypotenuse (in a triangle),": "бзэпс"
+    "hypotenuse": "бзэпс"
   },
   {
     "chirp": "бзэрэбзэн"
   },
   {
-    "Sing (a bird),": "бзэрэбзэн"
+    "to sing": "орэд къэ1он; орэды1он; бзэрэбзэн (to chirp)"
   },
   {
-    "deer": "бзэу"
+    "deer": "шъыхьэ; бзэу; бжъэу; бжъабгъу; мэзпчэн (roe deer)"
   },
   {
-    "stag": "бзэу"
+    "fallow-deer": "шъыхьэ; бланэ"
+  },
+  {
+    "doe": "шъыхьэ; бланэ"
+  },
+  {
+    "roe deer": "мэзпчэн"
+  },
+  {
+    "reindeer": "шъыхьэ"
   },
   {
     "grammar": "бзэхабзэ"
   },
   {
-    "to disappear, to vanish; to fade": "бзэхын"
+    "to disappear": "бзэхын; к1одын"
+  },
+  {
+    "to fade": "бзэхын; к1одын; гъонлэн / гъун (to fate, to dry out)"
+  },
+  {
+    "to vanish": "бзэхын; к1одын"
   },
   {
     "to faint, to pass out, to swoon, to keel over": "мэмэхын"
@@ -5725,9 +5746,6 @@
   },
   {
     "monkey": "маймун"
-  },
-  {
-    "stag": "бжъэу"
   },
   {
     "alternative form of \"мэзпчэн\"": "мэзыпчэн"
@@ -13674,9 +13692,6 @@
     "alternative form of \"щэчын\"": "къэщэчын"
   },
   {
-    "deer": "мэзпчэн"
-  },
-  {
     "roebuck": "мэзпчэн"
   },
   {
@@ -14896,9 +14911,6 @@
   },
   {
     "singer": "орэды1у"
-  },
-  {
-    "to sing": "орэды1он"
   },
   {
     "to boil (milk)": "гъэпщтын"
@@ -16312,9 +16324,6 @@
   },
   {
     "reindeer": "шъыхьэ"
-  },
-  {
-    "deer": "шъыхьэ"
   },
   {
     "to whistle": "шъуин"
