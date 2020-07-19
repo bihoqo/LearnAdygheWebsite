@@ -85200,8 +85200,23 @@
         "examples": []
       }
     ],
+    "synonyms": [
+      "шхонкь (Shapsug)"
+    ],
     "type": "noun",
     "ipa": "ʃxʷant͡ʃ"
+  },
+  {
+    "word": "шхонкь",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"шхонч\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃxʷankʲ"
   },
   {
     "word": "шхончау",
@@ -89662,6 +89677,10 @@
         "meaning": "to make something appear inside something",
         "examples": []
       }
+    ],
+    "synonyms": [
+      "ик1эн",
+	  "ик1утэн"
     ],
     "type": "verb",
     "ipa": "əʁaχʷan"
@@ -97544,14 +97563,39 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to pour/fill in intensivly",
+        "meaning": "to pour/fill in (intensivly)",
         "examples": [
 		  {
-            "sentence": "К1элэр псыр щалъэм '''рек1э'''",
+            "sentence": "К1алэр псыр щалъэм '''рек1э'''",
             "translation": "The boy '''pours''' water into the bucket."
           }
 		]
       }
+    ],
+    "synonyms": [
+      "ик1утэн",
+	  "игъэхъон"
+    ],
+    "type": "verb",
+    "ipa": "jət͡ʃʼan"
+  },
+  {
+    "word": "ик1утэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to pour/fill in (slightly intensivly)",
+        "examples": [
+		  {
+            "sentence": "К1алэр псыр апчым '''рек1утэ'''",
+            "translation": "The boy '''pours''' water into the glass."
+          }
+		]
+      }
+    ],
+    "synonyms": [
+      "ик1эн",
+	  "игъэхъон"
     ],
     "type": "verb",
     "ipa": "jət͡ʃʼan"

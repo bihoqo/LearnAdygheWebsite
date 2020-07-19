@@ -4770,16 +4770,19 @@
     "wrinkle": "ц1ыц1ыгъэ"
   },
   {
-    "to pour": "игъэхъон; ик1эн (intensive)"
+    "to pour": "игъэхъон; ик1эн (intensive); ик1утэн (slightly intensive)"
   },
   {
-    "to fill in": "игъэхъон; ик1эн (intensive)"
+    "to fill": "игъэхъон (liquid); ик1утэн (liquid, slightly intensive); ик1эн (liquid, intensive); узэндын (to load); изэу ш1ын (to make full)"
+  },
+  {
+    "to fill in": "игъэхъон; ик1эн (intensive); ик1утэн (slightly intensive); узэндын (to load); изэу ш1ын (to make full)"
   },
   {
     "to drip on": "тетк1он; тегъэтк1он (to make something drip on)"
   },
   {
-    "to compress": "хэц1ыц1ын; зэхэц1ыц1ын"
+    "to compress": "хэц1ыц1эн; зэхэц1ыц1эн"
   },
   {
     "to squish": "ц1ыц1ын"
