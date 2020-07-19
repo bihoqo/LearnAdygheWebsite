@@ -435,9 +435,6 @@
     "high": "1этыгъ"
   },
   {
-    "forearm": "1элджанэ"
-  },
-  {
     "joint of hand": "1эшъхьэ"
   },
   {
@@ -1564,9 +1561,6 @@
   },
   {
     "son-in-law": "малъхъо; малъхъэ; махълъэ; махъулъэ"
-  },
-  {
-    "mother": "ны"
   },
   {
     "grandma": "нэнэжъ; янэжъ"
@@ -3375,7 +3369,7 @@
     "to abandon": "бгынэн"
   },
   {
-    "to leave": "бгынэн (to abandon/desert); ик1ын (to go out); ик1ыжьын (to leave the house/family); пык1ыжьын (to divorce)"
+    "to leave": "бгынэн (to abandon/desert); ик1ын (to go out); ик1ыжьын (to leave the house/family); пык1ыжьын (to divorce); хэк1ын (to leave a company or group)"
   },
   {
     "to desert": "бгынэн"
@@ -4398,7 +4392,7 @@
     "to come towards": "ек1ун"
   },
   {
-    "to approach": "ек1ун; ек1ол1эн; еблэгъэн (to get closer); ыдэжь к1он (to go near)"
+    "to approach": "ек1ун; ек1ол1эн; еблэгъэн (to get closer); 1ухьан"
   },
   {
     "to be appropriate": "ек1ун"
@@ -4470,64 +4464,64 @@
     "grammar": "бзэхабзэ"
   },
   {
-    "to disappear": "бзэхын; к1одын"
+    "to disappear": "бзэхын; к1одын; ш1ок1одын (to disappear for someone)"
+  },
+  {
+    "to appear": "къэлъэгъон (to be visible; to start to appear); къыхэк1ын (to appear in); къы1ухъон (to appear from nowhere); щы1эу хъун (to start to exist)"
   },
   {
     "to fade": "бзэхын; к1одын; гъонлэн / гъун (to fate, to dry out)"
   },
   {
-    "to vanish": "бзэхын; к1одын"
+    "to vanish": "бзэхын; к1одын; ш1ок1одын (to vanish for someone)"
   },
   {
     "to faint, to pass out, to swoon, to keel over": "мэмэхын"
   },
   {
-    "to puke, to vomit": "къэжьын"
+    "to puke": "къэжьын"
+  },
+  {
+    "to vomit": "къэжьын"
   },
   {
     "to rain": "къешхын"
   },
   {
-    "to vote": "мэтэн"
+    "to vote": "мэтэн; шъэф хэдзын; шъхьэихыгъэ хэдзын; макъэ етын (to give one's vote to)"
   },
   {
-    "to pay": "мэтэн"
+    "vote": "макъэ"
   },
   {
-    "language science; linguistics": "бзэш1эныгъ"
+    "secret": "шъэфы"
   },
   {
     "linguist": "бзэш1эныгъэл1"
   },
   {
-    "Linotype, literature": "бзэшэн"
+    "Linotype, literature": "бзэшэн; литератур"
   },
   {
-    "Scale of fish": "блабжъ"
+    "scale": "блабжъ (fish and snakes)"
   },
   {
-    "Skin of snake": "блабжъ"
+    "dragon": "блэгъожъ"
   },
   {
-    "dragon": "благъо"
+    "to get close": "еблэгъэн"
   },
   {
-    "to go near, to get close": "еблэгъэн"
+    "to go near": "еблэгъэн; 1ухьан; ыдэжь к1он"
   },
   {
-    "forearm (for animals)": "блантхъэ"
+    "bold": "л1ыхъужъ; л1эблан; бланэ; гушхо"
   },
   {
-    "bold": "бланэ"
+    "brave": "л1ыхъужь; л1ыгъэ зыхэлъ; л1эблан"
   },
   {
-    "brave": "бланэ"
-  },
-  {
-    "gazelle": "бланэ"
-  },
-  {
-    "moose": "бланэ"
+    "courageous": "л1ыхъужь; л1ыгъэ зыхэлъ; л1эблан"
   },
   {
     "one seventh": "бланэ"
@@ -4548,12 +4542,6 @@
     "one eighth": "янэ"
   },
   {
-    "mother": "янэ"
-  },
-  {
-    "father": "ятэ"
-  },
-  {
     "one ninth": "бгъуанэ"
   },
   {
@@ -4563,10 +4551,13 @@
     "black snake": "блапц1э"
   },
   {
-    "Shoulder blade base,": "блахэ"
+    "grass snake": "блапц1э"
   },
   {
-    "Poisonous snake": "блашхъо"
+    "shoulder-blade": "блэгъу"
+  },
+  {
+    "gray snake": "блашхъо"
   },
   {
     "snake skin": "блашъо"
@@ -4575,43 +4566,34 @@
     "snake head": "блашъхьэ"
   },
   {
-    "Sea shell": "блашъхьэ"
+    "snakehead": "блашъхьэ"
   },
   {
-    "alternative form of \"блэгъэзык1ын\"": "блегъэзык1ын"
+    "to loose": "гъэлэлэн; т1упщын"
   },
   {
-    "alternative form of \"блэгъэк1ын\"": "блегъэк1ын"
+    "to let loose": "гъэлэлэн; т1упщын"
   },
   {
-    "alternative form of \"блэдзын\"": "бледзын"
+    "to free": "гъэлэлэн; т1упщын"
   },
   {
-    "to loose, to let loose (to free)": "гъэлэлэн"
-  },
-  {
-    "to release": "т1упщын"
+    "to release": "гъэлэлэн; т1упщын"
   },
   {
     "to launch": "т1упщын"
   },
   {
-    "to set free; to let go": "т1упщын"
+    "to set free": "гъэлэлэн; т1упщын"
   },
   {
-    "to leave someone (from harm or annoyance)": "т1упщын"
-  },
-  {
-    "alternative form of \"блэфын\"": "блефын"
+    "to let go": "гъэлэлэн; т1упщын"
   },
   {
     "to pass quickly and unnoticed, to slip by": "блехын"
   },
   {
     "to take something pass something": "блехын"
-  },
-  {
-    "alternative form of \"блэщын\"": "блещын"
   },
   {
     "armpit root": "блыгуч1"
@@ -4663,9 +4645,6 @@
   },
   {
     "basket": "матэ"
-  },
-  {
-    "to pay": "итын"
   },
   {
     "to work": "лэжьэн"
@@ -4884,7 +4863,10 @@
     "upper arm": "блыпкъ"
   },
   {
-    "forearm": "1элджанэ"
+    "forearm": "1элджанэ; блантхъэ (for animals)"
+  },
+  {
+    "front thigh": "блантхъэ (for animals)"
   },
   {
     "collarbone": "блыпкъыжъый"
@@ -17350,9 +17332,6 @@
   },
   {
     "to go besides": "бгъодэхьан"
-  },
-  {
-    "to go near": "1ухьан"
   },
   {
     "to go behind": "къохьан"

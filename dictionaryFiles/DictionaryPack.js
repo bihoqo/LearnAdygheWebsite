@@ -17527,6 +17527,10 @@
             "translation": "Eat '''quietly'''."
           }
         ]
+      },
+	  {
+        "meaning": "secret",
+        "examples": []
       }
     ],
     "cognate": "щэху",
@@ -18731,23 +18735,27 @@
     "ipa": "qaʑən"
   },
   {
-    "word": "къешхын",
+    "word": "къещхын",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to rain",
         "examples": [
           {
-            "sentence": "'''къешхы'''",
+            "sentence": "'''Къещхы'''",
             "translation": "'''It is raining'''."
           },
           {
-            "sentence": "нэушы '''къешхыт'''",
+            "sentence": "Неущы '''къещхыщт'''",
             "translation": "Tomorrow '''will rain'''."
           },
           {
-            "sentence": "унэм '''къешхэ'''",
-            "translation": "It is raining in the house (The rain is entering the house)."
+            "sentence": "Унэм '''къещхэ'''",
+            "translation": "It is raining in the house (the rain is entering the house)."
+          },
+		  {
+            "sentence": "Ощх '''къещхы'''",
+            "translation": "It is '''raining''' rain."
           }
         ]
       }
@@ -18817,13 +18825,9 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Scale of fish",
+        "meaning": "scales (fish and snakes)",
         "examples": []
       },
-      {
-        "meaning": "Skin of snake",
-        "examples": []
-      }
     ],
     "type": "noun",
     "ipa": "blaːbʐ"
@@ -18877,6 +18881,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "front thigh (for animals)",
+        "examples": []
+      },
+	  {
         "meaning": "forearm (for animals)",
         "examples": []
       }
@@ -18908,13 +18916,25 @@
     "word": "л1ыблан",
     "lang": "Adyghe",
     "definitions": [
+	  {
+        "meaning": "courageous; brave",
+        "examples": []
+      },
+    ],
+    "type": "noun",
+    "ipa": "ɬʼəbɮaːn"
+  },
+  {
+    "word": "л1эблан",
+    "lang": "Adyghe",
+    "definitions": [
       {
-        "meaning": "hero",
+        "meaning": "courageous; brave",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "ɬʼəbɮaːn"
+    "ipa": "ɬʼabɮaːn"
   },
   {
     "word": "пл1анэ",
@@ -19019,6 +19039,10 @@
       {
         "meaning": "black snake",
         "examples": []
+      },
+	  {
+        "meaning": "grass snake",
+        "examples": []
       }
     ],
     "type": "noun",
@@ -19029,7 +19053,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Shoulder blade base,",
+        "meaning": "lower part of the scapula",
         "examples": []
       }
     ],
@@ -19037,11 +19061,23 @@
     "ipa": "blaːxa"
   },
   {
-    "word": "блашхъо",
+    "word": "блэгъу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Poisonous snake",
+        "meaning": "shoulder-blade",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "blaʁʷ"
+  },
+  {
+    "word": "блашхъо",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "gray snake",
         "examples": []
       }
     ],
@@ -19053,7 +19089,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "snake skin",
+        "meaning": "snake skin; snakeskin",
         "examples": []
       }
     ],
@@ -19068,11 +19104,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "snake head",
+        "meaning": "snake head; snakehead",
         "examples": []
       },
       {
-        "meaning": "Sea shell",
+        "meaning": "shiny seashell",
         "examples": []
       }
     ],
@@ -26333,6 +26369,15 @@
           {
             "sentence": "Пшынэм '''имакъэ''' дахэ",
             "translation": "The accordion '''sound''' is beautiful."
+          }
+        ]
+      },
+      {
+        "meaning": "vote",
+        "examples": [
+          {
+            "sentence": "'''Макъэ''' етын",
+            "translation": "To give a '''vote'''."
           }
         ]
       }
@@ -40772,23 +40817,6 @@
     ],
     "type": "verb",
     "ipa": "qesən"
-  },
-  {
-    "word": "къещхын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to rain",
-        "examples": [
-          {
-            "sentence": "Ощх '''къещхы'''",
-            "translation": "It is '''raining''' rain."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "qeɕxən"
   },
   {
     "word": "тыгъэпсы",
@@ -64323,11 +64351,11 @@
         "meaning": "to cause, to occur, to be so that",
         "examples": [
           {
-            "sentence": "Тэущтэу '''къэфышъущт''' к1элэегъаджэм тызрегъэджэн фаер имыш1эу",
+            "sentence": "Тэущтэу '''къэфышъущт''' к1элэегъаджэм тызрегъэджэн фаер ымыш1эу",
             "translation": "How '''can it be caused''' so that the teacher know what to teach us."
           },
           {
-            "sentence": "Непэ къещхынэу '''къифагъ''' мафэ купэмк1э",
+            "sentence": "Непэ къещхынэу '''къифагъ''' мафэхэмк1э",
             "translation": "'''It happens to be''' raining today from all the days."
           }
         ]
@@ -97135,5 +97163,47 @@
     ],
     "type": "verb",
     "ipa": "ʁʷanɮan"
+  },
+  {
+    "word": "къэлъэгъон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to be visible; to be in sight",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "qaɬaʁʷan"
+  },
+  {
+    "word": "къыхэк1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to appear in",
+        "examples": [
+          {
+            "sentence": "Нартыхэр тхыдэжъымэ '''къахэк1ых'''",
+            "translation": "The Narts '''appear''' in the old stories."
+          },
+		  {
+            "sentence": "Экзамыным упч1э къины зы '''къыхэк1ыщт'''",
+            "translation": "One hard question '''will appear''' in the exam."
+          }
+        ]
+      },
+	  {
+        "meaning": "to occur among several occasions",
+        "examples": [
+          {
+            "sentence": "Мафэм мазэ къэлъагъоу '''къыхэк1ыгъ''' мы тхьэмафэм",
+            "translation": "The moon was visible in this week."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "qaɬaʁʷan"
   }
 ]
