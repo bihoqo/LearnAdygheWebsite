@@ -2634,7 +2634,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "goat",
+        "meaning": "goat, she-goat",
         "examples": []
       }
     ],
@@ -12356,12 +12356,24 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "billy goat",
+        "meaning": "goat, he-goat, billygoat",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "aːtʂa"
+  },
+  {
+    "word": "пчэныхъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "he-goat",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "pt͡ʃanəχʷ"
   },
   {
     "word": "ачъэгъашъу",
@@ -14634,12 +14646,8 @@
         "meaning": "to split something or something, to separate",
         "examples": [
           {
-            "sentence": "к1алэр анэр '''зэгуигъэк1эгъ''' т1у",
+            "sentence": "К1алэм 1анэр '''зэгуигъэк1ыгъ''' т1оу",
             "translation": "The boy '''split''' the table into two."
-          },
-          {
-            "sentence": "л1эм к1алит1у зэзауэхэрэ '''зэгуигъэк1ыжьгъэх'''",
-            "translation": "The man '''separated''' the two boy that were fighting."
           }
         ]
       },
@@ -14647,11 +14655,11 @@
         "meaning": "to make someone to go mad, to make someone to go crazy",
         "examples": [
           {
-            "sentence": "мэ к1алэцыкухэмэ '''зэгуагъэк1ы'''",
+            "sentence": "Мы к1элэц1к1ухэмэ '''сызэгуагъэк1ы'''",
             "translation": "Those little boys '''are making me go mad'''."
           },
           {
-            "sentence": "к1алэм л1эр '''зэгуегъэк1ы'''",
+            "sentence": "К1алэм л1ыр '''зэгуегъэк1ы'''",
             "translation": "The boy '''is making''' the man '''to go mad'''."
           }
         ]
@@ -14659,6 +14667,27 @@
     ],
     "type": "verb",
     "ipa": "zaɡʷaʁat͡ʃʼən"
+  },
+  {
+    "word": "зэпыгъэк1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to split something or something, to separate",
+        "examples": [
+          {
+            "sentence": "К1алэр 1анэр '''зэпигъэк1ыгъ''' т1оу",
+            "translation": "The boy '''split''' the table into two."
+          },
+          {
+            "sentence": "Л1ым к1алит1у зэзаохэрэр '''зэгуигъэк1ыжьыгъэх'''",
+            "translation": "The man '''separated''' the two boy that were fighting."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaзʁat͡ʃʼən"
   },
   {
     "word": "такъыр",
@@ -17110,28 +17139,16 @@
     "ipa": "bzad͡ʒaːj"
   },
   {
-    "word": "къэхьыпап1э",
+    "word": "къэхьыпэ унэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "brothel",
+        "meaning": "brothel; a house of prostitution",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "qaħəpaːpʼa"
-  },
-  {
-    "word": "къэхьыпэ ун",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "brothel",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "qaħəpa wən"
+    "ipa": "qaħəpa wəna"
   },
   {
     "word": "бзэджаш1э",
@@ -19334,7 +19351,8 @@
       }
     ],
     "synonyms": [
-      "жъажъэ"
+      "жъажъэ",
+	  "т1эи"
     ],
     "type": "adj",
     "ipa": "tʼatʼaj"
@@ -19541,18 +19559,6 @@
     "ipa": "kʷəraʐəj"
   },
   {
-    "word": "пшагъо",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "fog",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "pʃaːʁʷa"
-  },
-  {
     "word": "матэ",
     "lang": "Adyghe",
     "definitions": [
@@ -19726,11 +19732,11 @@
     "ipa": "t͡ʂʼabən"
   },
   {
-    "word": "хэук1эхьэн",
+    "word": "хэук1ыхьан",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to die (among other people) (For example in a car accident, war, etc).",
+        "meaning": "to die (in a war, forest, accident)",
         "examples": [
           {
             "sentence": "к1алэр зауэм '''хэук1эхьагъ'''",
@@ -19740,7 +19746,7 @@
       }
     ],
     "type": "verb",
-    "ipa": "xawt͡taħan"
+    "ipa": "xawt͡ʃʼaħaːn"
   },
   {
     "word": "мэл1эн",
@@ -19954,31 +19960,31 @@
     "ipa": "ʃəfan"
   },
   {
-    "word": "шифэн",
+    "word": "тифэхьын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to smear, to rub in, to daub",
+        "meaning": "to smear; to rub in",
         "examples": [
           {
-            "sentence": "тхьэмгъупчъэм рсы '''шэсафэ'''",
-            "translation": "'''I am rubbing''' the windows with water."
+            "sentence": "к1алэм псыжъ иджанэ '''тифэхьыгъ'''",
+            "translation": "The child '''smeared''' mud on his shirt."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "ʃifan"
+    "ipa": "tifaħən"
   },
   {
-    "word": "тифэхьын",
+    "word": "тефэхьан",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to spread, to smear",
+        "meaning": "to smear; to rub in",
         "examples": [
           {
-            "sentence": "к1алэм псыжъ иджанэ '''тифэхьэгъ'''",
+            "sentence": "к1алэм псыжъ иджанэ '''тифэхьыгъ'''",
             "translation": "The child '''smeared''' mud on his shirt."
           }
         ]
@@ -20016,7 +20022,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to spill, to pour",
+        "meaning": "alternative form of \"тек1эн\"",
         "examples": []
       }
     ],
@@ -20617,10 +20623,36 @@
       }
     ],
     "synonyms": [
-      "т1эт1эй"
+      "т1эт1эй",
+	  "т1эи"
     ],
     "type": "adj",
     "ipa": "ʐaːʐa"
+  },
+  {
+    "word": "т1эи",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "slow",
+        "examples": [
+          {
+            "sentence": "л1ыжъэр '''т1эи'''",
+            "translation": "The old-man '''is slow'''."
+          },
+          {
+            "sentence": "л1ыжъэр '''т1эеу''' мак1о",
+            "translation": "The old-man is walking '''slowly'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "т1эт1эй",
+	  "жъажъэ"
+    ],
+    "type": "adj",
+    "ipa": "tʼajə"
   },
   {
     "word": "блыгуч1ад",
@@ -32650,21 +32682,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to stand up",
-        "examples": [
-          {
-            "sentence": "к1элэр '''мэтэджы'''",
-            "translation": "The boy '''is standing'''."
-          },
-          {
-            "sentence": "'''къэтэдж'''",
-            "translation": "'''Stand'''."
-          },
-          {
-            "sentence": "л1ыжъэр'''мэтэджышъурэп'''",
-            "translation": "The old man '''can't stand'''."
-          }
-        ]
+        "meaning": "alternative form of \"къэтэджын\"",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -54409,18 +54428,6 @@
     "ipa": "d͡ʒəxapkʲʼan"
   },
   {
-    "word": "къэсшъхьэпк1ьэтын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"къэсшъхьэпк1этын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "qasʂħapkʲʼatən"
-  },
-  {
     "word": "гъэл1эн",
     "lang": "Adyghe",
     "definitions": [
@@ -56780,7 +56787,7 @@
         "meaning": "to spill liquid on",
         "examples": [
           {
-            "sentence": "Псы '''къуптеск1эт'''",
+            "sentence": "Псы '''къыптесэк1эщт'''",
             "translation": "'''I will spill''' water '''on you'''."
           },
           {
@@ -56788,7 +56795,7 @@
             "translation": "The boy '''is spilling''' water on the car."
           },
           {
-            "sentence": "К1алэхэмэ псы '''зтак1эжьы'''",
+            "sentence": "К1алэхэмэ псы '''зытак1эжьы'''",
             "translation": "The boys '''are spilling''' water on each other."
           }
         ]
@@ -63735,7 +63742,32 @@
     "ipa": "taʃʼəkʲʼən"
   },
   {
-    "word": "тэш1ык1ын",
+    "word": "1эк1э теш1ык1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(vulgar slang) to masturbate off something",
+        "examples": [
+          {
+            "sentence": "К1алэр фылым ш1оимэ '''атеш1ык1ы'''",
+            "translation": "The boy '''is masturbating off''' dirty films."
+          },
+          {
+            "sentence": "Таущтэу мощ '''тешъош1ык1ы'''",
+            "translation": "How '''are you (plural) masturbating off''' that."
+          }
+        ],
+        "tags": [
+          "vulgar",
+          "slang"
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "taʃʼət͡ʃʼən"
+  },
+  {
+    "word": "теш1ык1ын",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -63748,20 +63780,12 @@
         ]
       },
       {
-        "meaning": "(vulgar slang) to masturbate watching someone",
+        "meaning": "to construct/make something based on",
         "examples": [
           {
-            "sentence": "К1алэр фылым ш1оимэ '''ятеш1ык1ы'''",
-            "translation": "The boy '''is masturbating on''' dirty films."
-          },
-          {
-            "sentence": "Тэщтэу ущ '''тэшъош1ык1ы'''",
-            "translation": "How '''are you (plural) masturbating on''' that."
+            "sentence": "Мы джанэр джэнэ жъымэ атеш1ык1ыгъ",
+            "translation": "'''The making of''' this shirt '''is based on''' the old ones."
           }
-        ],
-        "tags": [
-          "vulgar",
-          "slang"
         ]
       }
     ],
@@ -63769,7 +63793,7 @@
       "тэш1ык1ьын"
     ],
     "type": "verb",
-    "ipa": "taʃʼət͡ʃʼən"
+    "ipa": "tajʃʼət͡ʃʼən"
   },
   {
     "word": "хьэшъуты убат",
@@ -64698,39 +64722,6 @@
     ],
     "type": "verb",
     "ipa": "qət͡ʃʼaʁakʲʼən"
-  },
-  {
-    "word": "къэсшъхьэпк1этын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to get up quickly",
-        "examples": [
-          {
-            "sentence": "К1алэм сытэкуом '''къэсшъхьэпк1этэгъ'''",
-            "translation": "When I yelled at the boy '''he got up quickly'''."
-          },
-          {
-            "sentence": "'''къэсшъхьэпк1эти''' еджап1эм к1о",
-            "translation": "'''Get up quickly''' and go to school."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "qasʂħapkʲʼatən"
-  },
-  {
-    "word": "сшъхьэпк1этын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"къэсшъхьэпк1этын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "sʂħapkʲʼatən"
   },
   {
     "word": "к1ыин",
@@ -68387,12 +68378,45 @@
           {
             "sentence": "'''Сишъхьацышъо огъэтэджы'''",
             "translation": "'''You give me the chills'''."
+          },
+		  {
+            "sentence": "К1алэм ышъхьацышъо '''къэгъэтэджын'''",
+            "translation": "The boy '''gives''' him '''chills'''."
           }
         ]
       }
     ],
     "type": "verb",
     "ipa": "ʂħaːt͡səʃʷa matad͡ʒən"
+  },
+  {
+    "word": "шъхьацышъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "scalp",
+        "examples": [
+          {
+            "sentence": "Ышъхьацышъо '''къэгъэтэджын'''",
+            "translation": "To '''give chills'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʂħaːt͡səʃʷa matad͡ʒən"
+  },
+  {
+    "word": "шъутыцы",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "asshair; arsehair; the hair on one's buttocks",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʃʷətət͡sə"
   },
   {
     "word": "дыин",
@@ -87666,7 +87690,7 @@
     "ipa": "ʃəħaːtaw wətajwət͡ʃʷan"
   },
   {
-    "word": "нэш1у шыфэн",
+    "word": "нэш1у щыфэн",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -87675,7 +87699,7 @@
       }
     ],
     "type": "verb",
-    "ipa": "naʃʷʼ ʃəfan"
+    "ipa": "naʃʷʼ ɕəfan"
   },
   {
     "word": "фэрэзэн",
@@ -92993,7 +93017,7 @@
             "translation": "'''Smear''' hot water on your leg."
           },
           {
-            "sentence": "К1алэм ыпкъы '''шефэ''' крем",
+            "sentence": "К1алэм ыпкъы '''щефэ''' крем",
             "translation": "The boy is '''smearing''' cream on his body."
           }
         ]
@@ -97307,5 +97331,167 @@
     ],
     "type": "verb",
     "ipa": "qaɬaʁʷan"
+  },
+  {
+    "word": "къэхьыпаш1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "brothel; a house of prostitution",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "qaħəpaːʼʃʼa"
+  },
+  {
+    "word": "пытэу убыт",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "bite me; eat me; a taunting phrase, essentially meaning I don't care",
+        "examples": []
+      }
+    ],
+    "type": "intj",
+    "ipa": "pətaw wəbət"
+  },
+  {
+    "word": "мэнашъхьэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "tip of the penis",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "manaːʂħa"
+  },
+  {
+    "word": "игъэзэхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to stick something forcefully in a hole",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "jəʁazaħaːn"
+  },
+  {
+    "word": "шъутык1э гъэк1он",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(vulgar) to exhaust someone (usaully due to hard work)",
+        "examples": []
+      },
+	  {
+        "meaning": "(vulgar) to beat",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷʼtət͡ʃʼa ʁakʷʼan"
+  },
+  {
+    "word": "шъутык1э 1этын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(vulgar) to exhaust someone (usaully due to hard work)",
+        "examples": []
+      },
+	  {
+        "meaning": "(vulgar) to beat",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷʼtət͡ʃʼa ʔatən"
+  },
+  {
+    "word": "1ак1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "wrist",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʔaːt͡ʃʼa"
+  },
+  {
+    "word": "пхырыбын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to fall through, to come down",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "pxərəbən"
+  },
+  {
+    "word": "къэгъэтэджын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to stand up something; to bring something up and set it into a standing position",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "qaʁatad͡ʒən"
+  },
+  {
+    "word": "къызшъхьапк1этын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to stand up instantly; to leap up instantly",
+        "examples": [
+          {
+            "sentence": "К1алэм сытэкуом '''къызшъхьапк1этыгъ'''",
+            "translation": "When I yelled at the boy '''he got up instantly'''."
+          },
+          {
+            "sentence": "'''къызшъхьапк1эти''' еджап1эм к1о",
+            "translation": "'''Stand up instantly''' and go to school."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "qəzʂħaːpt͡ʃʼatən"
+  },
+  {
+    "word": "къэтэджын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to stand up",
+        "examples": [
+		  {
+            "sentence": "к1элэр '''мэтэджы'''",
+            "translation": "The boy '''is standing'''."
+          },
+          {
+            "sentence": "'''къэтэдж'''",
+            "translation": "'''Stand'''."
+          },
+          {
+            "sentence": "л1ыжъэр'''мэтэджышъурэп'''",
+            "translation": "The old man '''can't stand'''."
+          }
+		]
+      }
+    ],
+    "type": "verb",
+    "ipa": "qatad͡ʒən"
   }
 ]

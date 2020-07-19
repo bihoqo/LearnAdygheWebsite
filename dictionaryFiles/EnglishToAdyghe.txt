@@ -1776,9 +1776,6 @@
     "to run": "чъэн; телъэдэн (to go up something running)"
   },
   {
-    "to die": "л1эн"
-  },
-  {
     "to swear": "хъонэн"
   },
   {
@@ -4101,7 +4098,7 @@
     "to get naughty": "ш1ык1эен; бзэджэн"
   },
   {
-    "brothel": "къэхьыпап1э; къэхьыпэ ун"
+    "brothel": "къэхьыпэ унэ; къэхьыпаш1э"
   },
   {
     "criminal": "бзэджаш1э"
@@ -4617,7 +4614,7 @@
     "washed": "л1эк1ыгъ"
   },
   {
-    "slow": "жъажъэ; т1эт1эй"
+    "slow": "жъажъэ; т1эт1эй; т1эи"
   },
   {
     "strong": "к1уач1э"
@@ -4647,6 +4644,18 @@
     "to evaporate": "гъушъын; гъэгъушъын"
   },
   {
+    "billygoat": "ачъэ"
+  },
+  {
+    "he-goat": "ачъэ; пчэныхъу"
+  },
+  {
+    "she-goat": "пчэны"
+  },
+  {
+    "goat": "ачъэ (he-goat); пчэны (she-goat)"
+  },
+  {
     "to wither": "гъун"
   },
   {
@@ -4656,13 +4665,13 @@
     "to heat": "плъын (to be heated); гъэплъын (to heat something)"
   },
   {
-    "isolated": "пыдзэгъ"
+    "isolated": "пыдзыгъ"
   },
   {
-    "loner": "пыдзэгъ"
+    "loner": "пыдзыгъ"
   },
   {
-    "to separate": "зэпедзын"
+    "to separate": "зэгогъэк1ын; зэпыгъэк1ын; фзэпедзын"
   },
   {
     "liar": "пц1ыус; пц1ырый"
@@ -4692,88 +4701,64 @@
     "desert": "шъоф нэк1ы"
   },
   {
-    "fog": "пшагъо"
-  },
-  {
     "basket": "матэ"
   },
   {
-    "to work": "лэжьэн"
+    "to function": "лэжьэн"
   },
   {
-    "to function, to work": "лэжьэн"
-  },
-  {
-    "alternative form of \"бэон\"": "ебэун"
-  },
-  {
-    "to kill": "ук1ын"
+    "to kill": "ук1ын; гъэл1эн (to cause to die); хэук1ыхьан (to kill in a war/forest); (dialectal) гъэк1одын"
   },
   {
     "to drown": "ч1эбын"
   },
   {
-    "to sink": "ч1эбын"
+    "to sink": "ч1эбын; (псым) ч1илъэшъон (to be dragged down); (псым) ч1ихьан (to push down)"
   },
   {
-    "to die (among other people) (For example in a car accident, war, etc).": "хэук1эхьэн"
+    "to get dizzy": "прэзэн"
   },
   {
-    "alternative form of \"л1эн\"": "мэл1эн"
+    "dizzy": "мэпразэ"
   },
   {
-    "alternative form of \"унэзэн\"": "мэунэзэн"
-  },
-  {
-    "to get dizzy": "мэпрэзэн"
+    "to be dizzy": "прэзэн"
   },
   {
     "to drink": "ешъон"
   },
   {
-    "alternative form of \"чэрэзын\"": "мэчэрэзын"
+    "to pick up": "штэн / къэштэн; къэ1этын (to lift); техын (to pick up from)"
   },
   {
-    "alternative form of \"гуш1он\"": "мэгуш1он"
+    "to lift": "къэ1этын; къэштэн (to pick up); къэгъэтэджын (to stand up something)"
   },
   {
-    "alternative form of \"щыгуш1ук1ын\"": "щыгуш1ук1ьын"
+    "to stand up": "къэтэджын (to stand up); къэгъэтэджын (to stand up something); къызшъхьапк1этын (to stand up instantly)"
   },
   {
-    "to pick up": "штэн"
+    "scalp": "шъхьацышъо"
   },
   {
-    "to conquer": "штэн"
+    "murder": "ук1ак1о"
   },
   {
-    "alternative form of \"щынэн\"": "мэщынэн"
+    "killer": "ук1ак1о"
   },
   {
-    "alternative form of \"мэлыджын\"": "мэлыгьын"
+    "to jump aside": "гопк1эн"
   },
   {
-    "alternative form of \"гъэлыджын\"": "гъэлыгьын"
+    "to smear": "щыфэн"
   },
   {
-    "to jump on the side of": "гопк1эн"
+    "to daub": "щыфэн"
   },
   {
-    "alternative form of \"джэгун\"": "гьэгун"
+    "to rub in": "щыфэн; тефэхьан; теуц1элэн"
   },
   {
-    "to smear, to rub in, to daub": "шыфэн"
-  },
-  {
-    "to smear, to rub in, to daub": "шифэн"
-  },
-  {
-    "to spread, to smear": "тифэхьын"
-  },
-  {
-    "alternative form of \"псынжъы\"": "псыжъ"
-  },
-  {
-    "alternative form of \"псынжъы\"": "псыжъы"
+    "to spread": "тифэхьын"
   },
   {
     "to spill, to pour": "тик1эн"
