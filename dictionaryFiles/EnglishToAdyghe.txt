@@ -411,9 +411,6 @@
     "wing": "тамэ"
   },
   {
-    "armpit": "блыгу; блыгу ч1эгъ (under armpit)"
-  },
-  {
     "angle": "къуапэ; къогъо"
   },
   {
@@ -4590,55 +4587,109 @@
     "to let go": "гъэлэлэн; т1упщын"
   },
   {
-    "to pass quickly and unnoticed, to slip by": "блехын"
+    "to pass quickly": "псынк1эу блэк1ын; блихын"
   },
   {
-    "to take something pass something": "блехын"
+    "to slip by": "блехын"
   },
   {
-    "armpit root": "блыгуч1"
+    "armpit": "блыгу; блыгу ч1эгъ (under armpit); блыгуч1"
+  },
+  {
+    "underarm": "блыгу; блыгуч1"
+  },
+  {
+    "shoulder joint": "блыпкъышъхьэ"
+  },
+  {
+    "upper arm": "блыпкъ"
+  },
+  {
+    "brachium": "блыпкъ"
+  },
+  {
+    "humerus": "блыпкъ"
   },
   {
     "clean": "къабзэ"
   },
   {
-    "alternative form of \"1онтагъ\"": "1урт1агъ"
+    "washed": "л1эк1ыгъ"
   },
   {
-    "slow": "т1эт1эй"
+    "slow": "жъажъэ; т1эт1эй"
   },
   {
     "strong": "к1уач1э"
   },
   {
-    "a way a person walks (a person that walks while his right foot point right and left foot left).": "абакъэ"
+    "powerful": "лъэшы; к1уач1э (strong)"
+  },
+  {
+    "great": "лъэшы"
+  },
+  {
+    "greatly": "лъэшэу"
   },
   {
     "wet": "ц1ынэ"
   },
   {
-    "to dry": "мэгъушъыжъын"
+    "soggy": "ц1ынэ"
   },
   {
-    "to be heated": "мэплъын"
+    "moist": "ц1ынэ"
   },
   {
-    "to heat": "гъэплъын"
+    "to dry": "гъушъын / гъэгъушъын (clothes, objects and body parts); гъун / гъэгъун (plants); гъонлэн"
   },
   {
-    "isolated, loner": "пыдзэгъ"
+    "to evaporate": "гъушъын; гъэгъушъын"
   },
   {
-    "to separate (a group to singles)": "зэпедзын"
+    "to wither": "гъун"
   },
   {
-    "liar": "пц1ырый"
+    "to be heated": "плъын"
+  },
+  {
+    "to heat": "плъын (to be heated); гъэплъын (to heat something)"
+  },
+  {
+    "isolated": "пыдзэгъ"
+  },
+  {
+    "loner": "пыдзэгъ"
+  },
+  {
+    "to separate": "зэпедзын"
+  },
+  {
+    "liar": "пц1ыус; пц1ырый"
   },
   {
     "hippopotamus": "псышъонт"
   },
   {
-    "cart, cart for babies": "к1урэжъый"
+    "baby carriage": "курэжъый"
+  },
+  {
+    "pram": "курэжъый"
+  },
+  {
+    "perambulator": "курэжъый"
+  },
+  {
+    "stroller": "курэжъый"
+  },
+  {
+    "spoiled": "к1одыгъэ"
+  },
+  {
+    "wasteland": "ч1ып1э нэк1; бгынэгъэ ч1ып1; шъоф нэк1ы"
+  },
+  {
+    "desert": "шъоф нэк1ы"
   },
   {
     "fog": "пшагъо"
@@ -4834,9 +4885,6 @@
   },
   {
     "to get wounded": "мэу1эн"
-  },
-  {
-    "slow": "жъажъэ"
   },
   {
     "sluggish": "жъажъэ"

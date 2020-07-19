@@ -13583,7 +13583,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "lonely",
+        "meaning": "alternative form of \"пыдзыгъ\"",
         "examples": []
       }
     ],
@@ -19278,12 +19278,24 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "armpit root",
+        "meaning": "armpit; underarm",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "bləɡʷt͡ʃ"
+  },
+  {
+    "word": "блыпкъышъхьэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "shoulder joint",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "bləqəʂħa"
   },
   {
     "word": "къабзэ",
@@ -19388,21 +19400,33 @@
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "alternative form of \"плъын\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "mapɬən"
+  },
+  {
+    "word": "плъын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
         "meaning": "to be heated",
         "examples": [
           {
-            "sentence": "Гъуч1эр '''мэплъы'''",
+            "sentence": "Гъуч1ыр '''мэплъы'''",
             "translation": "The iron '''is heating up'''."
           },
           {
-            "sentence": "Шхынэр '''мэплъыгъа?'''",
+            "sentence": "Шхынэр '''плъыгъа?'''",
             "translation": "'''Did''' the food '''heated up?'''"
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "mapɬən"
+    "ipa": "pɬən"
   },
   {
     "word": "гъэплъын",
@@ -19426,14 +19450,31 @@
     "ipa": "ʁapɬən"
   },
   {
-    "word": "пыдзэгъ",
+    "word": "пыдзыгъ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "isolated, loner",
+        "meaning": "located far away",
+        "examples": []
+      },
+	  {
+        "meaning": "isolated",
         "examples": [
           {
-            "sentence": "К1алэр '''пыдзэгъ'''",
+            "sentence": "Тичылэ '''пыдзыгъ'''",
+            "translation": "Our village is '''isolated'''."
+          },
+          {
+            "sentence": "Исландияр хэгъэгу '''пыдзыгъ'''",
+            "translation": "Iceland is '''an isolated''' country."
+          }
+        ]
+      },
+	  {
+        "meaning": "loner",
+        "examples": [
+          {
+            "sentence": "К1алэр '''пыдзыгъ'''",
             "translation": "The boy is a '''loner'''."
           }
         ]
@@ -19447,17 +19488,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to separate (a group to singles)",
-        "examples": [
-          {
-            "sentence": "к1алэхэр '''зэпысдзыгъэх'''",
-            "translation": "'''I separated''' the boys."
-          },
-          {
-            "sentence": "л1ым к1алэхэр '''зэпидзыгъэх'''",
-            "translation": "The man '''separated''' the boys."
-          }
-        ]
+        "meaning": "alternative form of \"зэпыдзын\"",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -19497,16 +19529,16 @@
     "ipa": "psəʂʷant"
   },
   {
-    "word": "к1урэжъый",
+    "word": "курэжъый",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "cart, cart for babies",
+        "meaning": "baby carriage, stroller, perambulator, pram",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "kʷʼəraʐəj"
+    "ipa": "kʷəraʐəj"
   },
   {
     "word": "пшагъо",
@@ -20654,7 +20686,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "upper arm",
+        "meaning": "upper arm; brachium; humerus",
         "examples": []
       }
     ],
@@ -32960,7 +32992,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to dry out; to wither; to fade",
+        "meaning": "to dry (plants); to wither; to fade",
         "examples": [
           {
             "sentence": "Уцым псы емытымэ '''гъущт'''",
@@ -36720,6 +36752,15 @@
             "translation": "My beautiful pencil '''got lost'''."
           }
         ]
+      },
+	  {
+        "meaning": "to get spoiled",
+        "examples": [
+          {
+            "sentence": "Щэр '''к1одыгъ'''",
+            "translation": "The milk '''got spoiled'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -38428,7 +38469,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to make something dry (something that should not be wet such as clothes, roads, body parts); to dehydrate",
+        "meaning": "to make something unwet; to dry something that is wet (usaully to clothes, objects and body parts)",
         "examples": [
           {
             "sentence": "Джанэр '''гъэгъушъ'''",
@@ -38436,17 +38477,26 @@
           },
           {
             "sentence": "К1алэм джанэр '''егъэгъушъы'''",
-            "translation": "The boy is '''drying out''' the shirt."
+            "translation": "The boy is '''drying''' the shirt."
           },
           {
-            "sentence": "Джанэр япэу '''гъэгъушъ'''",
+            "sentence": "Джанэр апэу '''гъэгъушъ'''",
             "translation": "'''Dry''' the shirt first."
           },
           {
-            "sentence": "Хьапшэрэ дезертымк1э тык1от? '''тыпгъэгъушъыта?'''",
+            "sentence": "Тхьапшэрэ шъоф нэк1ым тыщык1ощт? '''тыбгъэгъушъыщта?'''",
             "translation": "How much are we gonna walk in the desert? '''are you gonna dry us out'''?"
           }
         ]
+      },
+	  {
+        "meaning": "to evaporate",
+        "examples": [
+          {
+            "sentence": "Тыгъэм псыхъор '''ыгъушъыгъ'''",
+            "translation": "The sun '''evaporated the river."
+          }
+		]
       }
     ],
     "type": "verb",
@@ -50769,7 +50819,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to dehydrate; to dry out; to remove water content from an object, plant or a living thing",
+        "meaning": "to dehydrate; to dry (plants); to remove water content from a plant",
         "examples": [
           {
             "sentence": "Уцым псы есымтэу '''сыгъэгъогъ'''",
@@ -56923,29 +56973,34 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to dry (something that should not be wet such as clothes, roads, body parts); to dry up; to dehydrate",
+        "meaning": "to become unwet; to dry up (after being wet, usaully said about clothes, objects and body parts)",
         "examples": [
           {
             "sentence": "Джанэр '''гъушъыгъ'''",
-            "translation": "The shirt '''dried out'''."
+            "translation": "The shirt '''dried up'''."
           },
           {
             "sentence": "Джанэр '''мэгъушъы'''",
-            "translation": "The shirt '''is drying out'''."
+            "translation": "The shirt '''is drying up'''."
           },
           {
             "sentence": "'''Сыгъушъыгъ'''",
-            "translation": "'''I am dehydrated'''."
+            "translation": "'''I got dehydrated'''."
           },
           {
             "sentence": "Гык1ыгъэхэр '''гъушъынэу''' ежьагъэх",
-            "translation": "The laundries are starting '''to dry out'''."
-          },
-          {
-            "sentence": "'''Сыгъушъыгъ''",
-            "translation": "'''I got dehydrated'''."
+            "translation": "The laundries are starting '''to dry up'''."
           }
         ]
+      },
+	  {
+        "meaning": "to evaporate",
+        "examples": [
+          {
+            "sentence": "Псыхъор '''гъушъыгъэ'''",
+            "translation": "The river '''evaporated."
+          }
+		]
       }
     ],
     "type": "verb",
@@ -65517,34 +65572,29 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to separate into singles",
+        "meaning": "to separate into singles/sub groups",
         "examples": [
           {
-            "sentence": "Л1ым зырзырэу '''тызэпидзэгъ'''",
+            "sentence": "Л1ым зырзырэу '''тызэпидзыгъ'''",
             "translation": "The man '''separated''' us '''into''' singles."
           },
           {
             "sentence": "Ц1ыфыхэр '''зэпыдзых'''",
-            "translation": "'''Separate''' the people '''to singles'''."
+            "translation": "'''Separate''' the people '''to sub groups'''."
+          },
+		  {
+            "sentence": "Топ плъыжьыхэмрэ шхъуант1эхмрэ '''зэпэсэдзых'''",
+            "translation": "'''I am separating''' between the red and blue balls."
+          },
+          {
+            "sentence": "Л1ым к1алэхэр '''зэпидзыгъэх'''",
+            "translation": "The man '''separated''' the boys."
           }
         ]
       },
       {
         "meaning": "to isolate",
-        "examples": [
-          {
-            "sentence": "Л1ыр '''зэпыдзэгъ'''",
-            "translation": "The man '''is isolated'''."
-          },
-          {
-            "sentence": "Исландияр хэгъэгу '''зэпыдзэгъ'''",
-            "translation": "Iceland is '''an isolated''' country."
-          },
-          {
-            "sentence": "X гъэбылъгъэр '''зэпыдзыгъэу''' къэгъан",
-            "translation": "Leave the X variable '''isolated'''."
-          }
-        ]
+        "examples": []
       }
     ],
     "type": "verb",
@@ -96257,7 +96307,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "be queen",
+        "meaning": "bee queen",
         "examples": []
       }
     ],
@@ -97175,6 +97225,58 @@
     ],
     "type": "verb",
     "ipa": "qaɬaʁʷan"
+  },
+  {
+    "word": "шъоф нэк1ы",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "desert; wasteland",
+        "examples": []
+      },
+	  {
+        "meaning": "wilderness",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷaf nat͡ʃʼə"
+  },
+  {
+    "word": "ч1ык1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "tselina; virgin lands, virgin soil",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʂʼət͡ʃʼa"
+  },
+  {
+    "word": "ч1ып1э нэк1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "wasteland",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʂʼəpʼa nat͡ʃʼ"
+  },
+  {
+    "word": "бгынэгъэ ч1ып1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "wasteland",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "bɣənaʁa t͡ʂʼəpʼ"
   },
   {
     "word": "къыхэк1ын",
