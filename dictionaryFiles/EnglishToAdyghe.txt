@@ -4350,88 +4350,79 @@
     "dumb": "бзако (unable to speak); бзэмы1у (unable to communicate due to language barrier)"
   },
   {
-    "to plan": "гъэпсын"
+    "to plan": "гъэпсын; план гъэуцун, план зэхэлъхьан"
   },
   {
-    "to aim": "гъэпсын"
+    "to aim": "гъэпсын (to start aiming); тегъэпсыхьан (to aim at)"
   },
   {
-    "to arrange, to organize": "гъэпсын"
+    "to fit out": "зэгъэпэшын"
   },
   {
-    "to organize": "зэ1эхын"
+    "to equip": "зэгъэпэшын"
   },
   {
-    "to clean and organize": "зэ1эхын"
+    "to outfit": "зэгъэпэшын"
   },
   {
-    "to change hands": "зэ1эхын"
-  },
-  {
-    "to Cut (sacrifice)": "зэ1эхын"
-  },
-  {
-    "to organize": "зэгъэпэшын"
-  },
-  {
-    "to arrange": "зэгъэпэшын"
-  },
-  {
-    "to engineer": "зэгъэпэшын"
-  },
-  {
-    "to prepare": "зэгъэпэшын"
+    "to prepare": "гъэхьазырын"
   },
   {
     "to suit": "зэгъэпэшын"
   },
   {
-    "to arrange": "зэгъэфэгъэн"
+    "to pretty up": "зэгъэфэн"
   },
   {
-    "to pretty up (to make oneself or someone else look better by dressing up, for example)": "зэгъэфэн"
+    "to fit": "ек1ун; фэш1оу ш1ын (to adjust clothes to fit someone); егъэк1ун (to make it fit for someone); хэзэгъэн (to fit in a group); щыфэн (to fit clothes); щыхьан (to fit clothes on body)"
   },
   {
-    "to engineer": "зэгъэфэн"
+    "to adjust": "фэш1оу пш1ыныр (to adjust to one's needs)"
   },
   {
     "to beautify": "зэгъэфэн"
   },
   {
-    "to organize,": "зэгъэфэн"
+    "to straighten": "узэнк1ын; узэпкъын; узэфын"
   },
   {
-    "to arrange": "еузэпкъын"
-  },
-  {
-    "to educate": "еузэпкъын"
-  },
-  {
-    "to change": "еузэпкъын"
-  },
-  {
-    "to arrange": "еузэнк1ын"
-  },
-  {
-    "to make something straight": "еузэнк1ын"
-  },
-  {
-    "to make something or someone fit (Can be in some group or place)": "егъэк1ун"
-  },
-  {
-    "to make something suitable": "егъэк1ун"
+    "to make straight": "узэнк1ын; узэпкъын; узэфын"
   },
   {
     "to put in place": "егъэк1ун"
   },
   {
-    "to come up to, to come towards, to approach": "ек1ун"
+    "to come up to": "ек1ун"
   },
   {
-    "to fit": "ек1ун"
+    "to come up with": "къыч1эхын; къэгупшысын; зэхэлъхьан"
+  },
+  {
+    "to invent": "къыч1эхын; къэгупшысын; зэхэлъхьан"
+  },
+  {
+    "to come towards": "ек1ун"
+  },
+  {
+    "to approach": "ек1ун; ек1ол1эн; еблэгъэн (to get closer); ыдэжь к1он (to go near)"
   },
   {
     "to be appropriate": "ек1ун"
+  },
+  {
+    "appropriate": "ек1у; дахэ"
+  },
+  {
+    "inappropriate": "емык1у; хьайнап (shameful); дахэп; 1ае"
+  },
+  {
+    "unfitting": "емык1у"
+  },
+  {
+    "fitting": "ек1у"
+  },
+  {
+    "shameful": "хьайнап"
   },
   {
     "to be suitable for, to suit": "ек1ун"
@@ -4717,9 +4708,6 @@
   },
   {
     "alternative form of \"джэгун\"": "гьэгун"
-  },
-  {
-    "to fit": "шыфэн"
   },
   {
     "to smear, to rub in, to daub": "шыфэн"
@@ -16615,9 +16603,6 @@
   },
   {
     "to wrap": "щыхьан"
-  },
-  {
-    "to fit (on the body)": "щыхьан"
   },
   {
     "to scream or shout or yell angrily at": "щыхьан"

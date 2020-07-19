@@ -18252,12 +18252,12 @@
         ]
       },
       {
-        "meaning": "to change hands",
-        "examples": []
-      },
-      {
-        "meaning": "to Cut (sacrifice)",
-        "examples": []
+        "meaning": "to take from each other",
+        "examples": [
+          {
+            "sentence": "джэгуалъэр к1элэц1ык1умэ ''''зэ1ахыжьы''",
+            "translation": "The boy are '''seizing''' the toy '''from each other'''"
+          }
       }
     ],
     "type": "verb",
@@ -18268,19 +18268,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to organize",
-        "examples": []
-      },
-      {
-        "meaning": "to arrange",
-        "examples": []
-      },
-      {
-        "meaning": "to engineer",
-        "examples": []
-      },
-      {
-        "meaning": "to prepare",
+        "meaning": "to fit out, to equip, to outfit",
         "examples": []
       },
       {
@@ -18342,47 +18330,105 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to arrange",
-        "examples": []
-      },
-      {
-        "meaning": "to educate",
-        "examples": []
-      },
-      {
-        "meaning": "to change",
+        "meaning": "alternative form of \"узэпкъын\"",
         "examples": []
       }
     ],
+    "synonyms": [
+      "узэпкъын",
+      "узэфын",
+      "узэнк1ын"
+    ],
     "type": "verb",
     "ipa": "jawzapqən"
+  },
+  {
+    "word": "узэфын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to unbend, to straighten",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "узэпкъын",
+      "узэнк1ын"
+    ],
+    "type": "verb",
+    "ipa": "wəzafən"
+  },
+  {
+    "word": "узэпкъын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to make something straight; to straighten",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "узэфын",
+      "узэнк1ын"
+    ],
+    "type": "verb",
+    "ipa": "wəzapqən"
   },
   {
     "word": "еузэнк1ын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to arrange",
-        "examples": []
-      },
-      {
-        "meaning": "to make something straight",
+        "meaning": "alternative form of \"узэнк1ын\"",
         "examples": []
       }
     ],
+    "synonyms": [
+      "узэпкъын",
+      "узэфын",
+      "узэнк1ын"
+    ],
     "type": "verb",
-    "ipa": "jawzant͡ʃən"
+    "ipa": "jawzant͡ʃʼən"
+  },
+  {
+    "word": "узэнк1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to make something straight; to straighten",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "узэпкъын",
+      "узэфын"
+    ],
+    "type": "verb",
+    "ipa": "wəzant͡ʃʼən"
   },
   {
     "word": "егъэк1ун",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to make something or someone fit (Can be in some group or place)",
+        "meaning": "to make something fit in place",
+        "examples": []
+      },
+	  {
+        "meaning": "to make something fit for someone",
+        "examples": []
+      },
+	  {
+        "meaning": "to find someone similar in appearance with",
+        "examples": []
+      },
+	  {
+        "meaning": "to find something fitting with",
         "examples": []
       },
       {
-        "meaning": "to make something suitable",
+        "meaning": "to make something suitable/fitting",
         "examples": []
       },
       {
@@ -18392,6 +18438,38 @@
     ],
     "type": "verb",
     "ipa": "jaʁakʷʼən"
+  },
+  {
+    "word": "гъэфедэн",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "to find someone similar in appearance with",
+        "examples": []
+      },
+	  {
+        "meaning": "to find something similar with",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʁafajdan"
+  },
+  {
+    "word": "фэш1оу ш1ын",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "to adjust something to one's needs",
+        "examples": []
+      },
+	  {
+        "meaning": "to adjust something (usaully clothes) to fit someone",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "faʃʷʼaw ʃʼən"
   },
   {
     "word": "ек1ун",
@@ -18418,8 +18496,16 @@
             "translation": "The shirt '''fits''' the boy."
           },
           {
-            "sentence": "Костюмэр сэ къысэкIурэп, сш1оин",
-            "translation": "The suit '''does not fit''' me, it's too large for me."
+            "sentence": "Джанэр сэ къысэк1урэп, сш1оин",
+            "translation": "The shirt '''does not fit''' me, it's too large for me."
+          },
+          {
+            "sentence": "Мо шъхьацыр '''къыок1у'''",
+            "translation": "This hair (stlye) '''fits''' you."
+          },
+          {
+            "sentence": "О '''къыок1у''' сомпыютэр уеджэнэ",
+            "translation": "Studying computers '''fits''' you."
           }
         ]
       },
@@ -18472,6 +18558,23 @@
     ],
     "type": "noun",
     "ipa": "bzanəb"
+  },
+  {
+    "word": "хэзэгъэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to fit in a group or a specific environemnt",
+        "examples": []
+      },
+	  {
+        "meaning": "to get along with the people of a group or environemnt",
+        "meaning": "to get along with the people of a group or environemnt",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "xazaʁan"
   },
   {
     "word": "бзэпс",
@@ -18732,7 +18835,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to go near, to get close",
+        "meaning": "to go near to, to get close to",
         "examples": [
           {
             "sentence": "к1алэр пшъашъэм '''еблагъэ'''",
@@ -19762,26 +19865,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to fit",
-        "examples": [
-          {
-            "sentence": "к1алэр джанэр '''шэфэ'''",
-            "translation": "The shirt '''is fitting''' the boy."
-          }
-        ]
-      },
-      {
-        "meaning": "to smear, to rub in, to daub",
-        "examples": [
-          {
-            "sentence": "псы фабэ уилъакъо '''шыф'''",
-            "translation": "'''Smear''' hot water on your leg."
-          },
-          {
-            "sentence": "к1алэм ипкъы '''шефэ'''",
-            "translation": "The boy is '''smearing''' on his body."
-          }
-        ]
+        "meaning": "alternative form of \"щыфэн\"",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -63982,18 +64067,6 @@
     "ipa": "ħaːjnaːpaw ʃʼəʑən"
   },
   {
-    "word": "хьайнапэу ш1ын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to disgrace",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "ħaːjnaːpaw ʃʼən"
-  },
-  {
     "word": "ет1эрэхын",
     "lang": "Adyghe",
     "definitions": [
@@ -73908,28 +73981,28 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "shame",
+        "meaning": "shame; shameful; shamefulness",
         "examples": [
           {
             "sentence": "'''Хьаинап''' уш1эрэба",
-            "translation": "Don't you know '''Shame'''?."
+            "translation": "Don't you know '''shame'''?."
           }
         ]
       },
       {
-        "meaning": "disgrace",
+        "meaning": "disgrace; discraceful",
         "examples": [
           {
-            "sentence": "'''Хьаинап''' пц1анэу удэк1нэ",
-            "translation": "'''It's disgrace''' to go out naked."
+            "sentence": "'''Хьаинап''' пц1анэу удэк1ынэ",
+            "translation": "'''It's a disgrace''' to go out naked."
           },
           {
             "sentence": "'''Хьаинапэ''' къэхьын",
-            "translation": "to be '''dishonored'''."
+            "translation": "To be '''discraceful'''."
           },
-          {
-            "sentence": "'''Хьаинапэ''' шIын",
-            "translation": "to '''shame'''."
+		  {
+            "sentence": "'''Хьаинап''' пш1агъэр",
+            "translation": "What you did was '''disgrace'''."
           }
         ]
       }
@@ -73943,11 +74016,26 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to shame",
+        "meaning": "alternative form of \"напэ техын\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "хьайнапэу ш1ын"
+    ],
+    "type": "verb",
+    "ipa": "naːpar tajxən"
+  },
+  {
+    "word": "напэ техын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to shame someone; to disgrace someone",
         "examples": [
           {
-            "sentence": "О уиятэ и '''папэр темыхы'''",
-            "translation": "'''Don't shame''' your father."
+            "sentence": "О уиятэ '''ыпапэр темых'''",
+            "translation": "'''Don't disgrace''' your father."
           }
         ]
       }
@@ -73963,7 +74051,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to shame",
+        "meaning": "to shame someone; to disgrace someone",
         "examples": [
           {
             "sentence": "О уиятэ '''хьайнапэу умыш1'''",
@@ -77417,9 +77505,27 @@
         "examples": []
       }
     ],
-    "cognate": "емык1у",
+    "synonyms": [
+      "емык1у"
+    ],
     "type": "noun",
     "ipa": "ɡʷəbʁan"
+  },
+  {
+    "word": "емык1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "inappropriate",
+        "examples": []
+      },
+	  {
+        "meaning": "unfitting",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "jaməkʷʼ"
   },
   {
     "word": "шъхьае",
@@ -77955,7 +78061,7 @@
       }
     ],
     "type": "verb",
-    "ipa": "qajt͡ʃʼaxəm"
+    "ipa": "qajt͡ʃʼaxən"
   },
   {
     "word": "ек1эхын",
@@ -77967,7 +78073,19 @@
       }
     ],
     "type": "verb",
-    "ipa": "jat͡ʃʼaxəm"
+    "ipa": "jat͡ʃʼaxən"
+  },
+  {
+    "word": "к1эхын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"ч1эхын\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "t͡ʃʼaxən"
   },
   {
     "word": "езэщын",
@@ -79488,7 +79606,12 @@
     "definitions": [
       {
         "meaning": "to wrap",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм тутыныр ещэхьы",
+            "translation": "The boy '''wraps''' the cigarette."
+          }
+        ]
       },
       {
         "meaning": "to fit (on the body)",
@@ -79683,8 +79806,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"фэш1у\"",
-        "examples": []
+        "meaning": "fit",
+        "examples": [
+          {
+            "sentence": "Пшъашъэм цуакъэр '''фэш1у'''",
+            "translation": "The shoes '''fit''' the girl."
+          }
+        ]
       }
     ],
     "cognate": "хуэф1",
@@ -87162,6 +87290,18 @@
     "ipa": "tajʁapsəħaːn"
   },
   {
+    "word": "тегъэпсэхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"тегъэпсыхьан\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "tajʁapsaħaːn"
+  },
+  {
     "word": "тедэжьын",
     "lang": "Adyghe",
     "definitions": [
@@ -92738,18 +92878,36 @@
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "to fit (clothes)",
+        "examples": [
+          {
+            "sentence": "К1алэм джанэр '''щэфэ'''",
+            "translation": "The shirt '''is fitting''' the boy."
+          }
+        ]
+      },
+	  {
         "meaning": "to spread (on), to smear (with), to daub (with)",
         "examples": [
           {
             "sentence": "Крем цуакъэм '''щыфэн'''",
             "translation": "'''To smear''' cream on the shoe."
+          },
+		  {
+            "sentence": "Псы фабэ улъакъо '''щыф'''",
+            "translation": "'''Smear''' hot water on your leg."
+          },
+          {
+            "sentence": "К1алэм ыпкъы '''шефэ''' крем",
+            "translation": "The boy is '''smearing''' cream on his body."
           }
         ]
       }
     ],
     "synonyms": [
-      "тефэхьын",
-      "тец1элэн"
+      "фэш1у хъун (to fit)",
+      "тефэхьын (to smear)",
+      "тец1элэн (to smear)"
     ],
     "type": "verb",
     "ipa": "ɕəfan"
