@@ -6983,7 +6983,7 @@
         "meaning": "hairbrush",
         "examples": []
       },
-	  {
+      {
         "meaning": "comb",
         "examples": []
       }
@@ -13051,8 +13051,8 @@
       "зыш1ош1ыжьын",
       "шъхьащытхъужь",
       "гъакъ",
-	  "баф",
-	  "жьыгъэбыу"
+      "баф",
+      "жьыгъэбыу"
     ],
     "type": "adj",
     "ipa": "bʁaːqa"
@@ -16141,7 +16141,7 @@
       }
     ],
     "synonyms": [
-      "1ус"
+      "1ус",
       "былым1ус"
     ],
     "type": "noun",
@@ -16316,7 +16316,7 @@
             "sentence": "'''1офым''' сык1ощт",
             "translation": "I will go to '''work'''"
           },
-		  {
+          {
             "sentence": "Сэ '''1офы''' сылъэхъу",
             "translation": "I am looking for a '''job'''."
           },
@@ -16682,7 +16682,8 @@
     ],
     "type": "verb",
     "ipa": "jabad͡ʒən"
-  }{
+  },
+  {
     "word": "тебэджэн",
     "lang": "Adyghe",
     "definitions": [
@@ -16832,14 +16833,14 @@
         "meaning": "number",
         "examples": []
       },
-	  {
+      {
         "meaning": "multitude (great amount or number)",
         "examples": [
           {
             "sentence": "Мэзэ '''пчъагъэ''' хъугъи чылэм сыщылажьэ",
             "translation": "I have been working in the village '''for several''' months."
           },
-		  {
+          {
             "sentence": "Сыхьат '''пчъагъэ''' хъугъи ц1ыфым тыпаплъэ",
             "translation": "We have been waiting for the person '''for several''' hours."
           }
@@ -17002,7 +17003,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to slice",
         "examples": [
           {
@@ -17284,11 +17285,11 @@
         "meaning": "pattern (template for making clothes)",
         "examples": []
       },
-	  {
+      {
         "meaning": "cutting out (of patterns or shapes)",
         "examples": []
       },
-	  {
+      {
         "meaning": "sample",
         "examples": []
       }
@@ -17568,7 +17569,7 @@
     ],
     "synonyms": [
       "губгъо",
-	  "лэжьыгъэш1апэ"
+      "лэжьыгъэш1апэ"
     ],
     "type": "noun",
     "ipa": "ʂʷafə"
@@ -17581,7 +17582,7 @@
         "meaning": "workplace; worksite",
         "examples": []
       },
-	  {
+      {
         "meaning": "factory",
         "examples": []
       }
@@ -17694,7 +17695,7 @@
         "meaning": "rag (a piece of old cloth; a tattered piece of cloth; a shred, a tatter)",
         "examples": []
       },
-	  {
+      {
         "meaning": "cloth scrap",
         "examples": []
       }
@@ -18258,6 +18259,7 @@
             "sentence": "джэгуалъэр к1элэц1ык1умэ ''''зэ1ахыжьы''",
             "translation": "The boy are '''seizing''' the toy '''from each other'''"
           }
+        ]
       }
     ],
     "type": "verb",
@@ -18415,15 +18417,15 @@
         "meaning": "to make something fit in place",
         "examples": []
       },
-	  {
+      {
         "meaning": "to make something fit for someone",
         "examples": []
       },
-	  {
+      {
         "meaning": "to find someone similar in appearance with",
         "examples": []
       },
-	  {
+      {
         "meaning": "to find something fitting with",
         "examples": []
       },
@@ -18443,11 +18445,11 @@
     "word": "гъэфедэн",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "to find someone similar in appearance with",
         "examples": []
       },
-	  {
+      {
         "meaning": "to find something similar with",
         "examples": []
       }
@@ -18459,11 +18461,11 @@
     "word": "фэш1оу ш1ын",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "to adjust something to one's needs",
         "examples": []
       },
-	  {
+      {
         "meaning": "to adjust something (usaully clothes) to fit someone",
         "examples": []
       }
@@ -18567,8 +18569,7 @@
         "meaning": "to fit in a group or a specific environemnt",
         "examples": []
       },
-	  {
-        "meaning": "to get along with the people of a group or environemnt",
+      {
         "meaning": "to get along with the people of a group or environemnt",
         "examples": []
       }
@@ -18891,7 +18892,7 @@
         "meaning": "fallow-deer",
         "examples": []
       },
-	  {
+      {
         "meaning": "doe",
         "examples": []
       },
@@ -24775,7 +24776,7 @@
         "meaning": "handle",
         "examples": []
       },
-	  {
+      {
         "meaning": "door-handle",
         "examples": []
       },
@@ -28584,7 +28585,7 @@
         "meaning": "grassland",
         "examples": []
       },
-	  {
+      {
         "meaning": "meadow",
         "examples": []
       }
@@ -28603,7 +28604,7 @@
     ],
     "synonyms": [
       "шъофы",
-	  "лэжьыгъэш1апэ"
+      "лэжьыгъэш1апэ"
     ],
     "type": "noun",
     "ipa": "ɡʷəbʁʷa"
@@ -28619,7 +28620,7 @@
     ],
     "synonyms": [
       "шъофы",
-	  "губгъо"
+      "губгъо"
     ],
     "type": "noun",
     "ipa": "ɮaʑəʁaʃʼaːpʼa"
@@ -29737,8 +29738,8 @@
       "шъхьащытхъужь",
       "гъакъ",
       "зыш1ош1ыжьын",
-	  "баф",
-	  "бгъакъэ"
+      "баф",
+      "бгъакъэ"
     ],
     "type": "noun",
     "ipa": "ʑəʁabəw"
@@ -29763,7 +29764,7 @@
         "meaning": "kind of plant",
         "examples": []
       },
-	  {
+      {
         "meaning": "bellflower",
         "examples": []
       }
@@ -29779,7 +29780,7 @@
         "meaning": "little bell",
         "examples": []
       },
-	  {
+      {
         "meaning": "bellflower",
         "examples": []
       }
@@ -29806,7 +29807,7 @@
       {
         "meaning": "draught; draft; a current of air, usually coming into a room or vehicle",
         "examples": []
-      },
+      }
     ],
     "type": "noun",
     "ipa": "ʑəzapajw"
@@ -29821,7 +29822,7 @@
       }
     ],
     "synonyms": [
-      "жьыхьарз",
+      "жьыхьарз"
     ],
     "type": "noun",
     "ipa": "ʑəkʷarajn"
@@ -29913,7 +29914,8 @@
     ],
     "type": "noun",
     "ipa": "ʑəqʷəz"
-  }{
+  },
+  {
     "word": "жьыкъузалъэ",
     "lang": "Adyghe",
     "definitions": [
@@ -30115,7 +30117,7 @@
         "meaning": "asthma",
         "examples": []
       },
-	  {
+      {
         "meaning": "respiratory distress",
         "examples": []
       }
@@ -30146,7 +30148,7 @@
         "meaning": "to comb",
         "examples": []
       },
-	  {
+      {
         "meaning": "to brush hair",
         "examples": []
       }
@@ -30202,7 +30204,7 @@
         "meaning": "windward",
         "examples": []
       },
-	  {
+      {
         "meaning": "a place where wind blows",
         "examples": []
       }
@@ -30434,7 +30436,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to compete (with in), to rival (in), to vie (with in)",
         "examples": []
       }
@@ -31757,8 +31759,8 @@
       }
     ],
     "synonyms": [
-      "п1ырагу", 
-	  "топ"
+      "п1ырагу",
+      "топ"
     ],
     "type": "noun",
     "ipa": "ʔaɡʷaːw"
@@ -31771,14 +31773,14 @@
         "meaning": "ball (object, generally spherical, used for playing games)",
         "examples": []
       },
-	  {
+      {
         "meaning": "cannonball",
         "examples": []
       }
     ],
     "synonyms": [
       "1эгуау",
-	  "п1ырагу"
+      "п1ырагу"
     ],
     "type": "noun",
     "ipa": "top"
@@ -31794,7 +31796,7 @@
     ],
     "synonyms": [
       "1эгуау",
-	  "топ"
+      "топ"
     ],
     "type": "noun",
     "ipa": "pʼəraːɡʷ"
@@ -36760,7 +36762,7 @@
             "sentence": "'''къык1эупч1''' л1ыхэр псы фаехэмэ",
             "translation": "'''Ask''' if the men want water."
           },
-		  {
+          {
             "sentence": "к1алэр '''к1аупч1э''' тыдэ щы1 мэш1окур",
             "translation": "The boy '''asks around''' where is the train."
           },
@@ -38974,7 +38976,7 @@
         ]
       }
     ],
-	"congate": "дэщтэн",
+    "congate": "дэщтэн",
     "type": "verb",
     "ipa": "daɕtan"
   },
@@ -41061,7 +41063,7 @@
         "meaning": "to rinse",
         "examples": []
       },
-	  {
+      {
         "meaning": "to wash something thoroughly",
         "examples": []
       }
@@ -42017,7 +42019,7 @@
             "sentence": "Пшъашъэр '''къэстефагъ'''",
             "translation": "I '''came across''' the girl."
           },
-          {';
+          {
             "sentence": "Л1ым итхьэматэ урамым '''тефагъ'''",
             "translation": "The man '''encountered''' his boss on the street."
           }
@@ -42035,7 +42037,7 @@
     ],
     "type": "verb",
     "ipa": "tajfan"
-  }
+  },
   {
     "word": "тэчъын",
     "lang": "Adyghe",
@@ -43350,7 +43352,7 @@
         "meaning": "hairbrush",
         "examples": []
       },
-	  {
+      {
         "meaning": "comb",
         "examples": []
       }
@@ -45985,9 +45987,9 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "face",
-		"examples": []
+        "examples": []
       }
     ],
     "type": "noun",
@@ -50383,7 +50385,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to approach someone (to greet or to talk); to encounter someone intentionally",
         "examples": [
           {
@@ -57847,9 +57849,9 @@
     "synonyms": [
       "шъхьащытхъужь",
       "гъакъ",
-	  "баф",
-	  "жьыгъэбыу",
-	  "бгъакъэ"
+      "баф",
+      "жьыгъэбыу",
+      "бгъакъэ"
     ],
     "type": "verb",
     "ipa": "zəʃʷʼəʃʼəʑən"
@@ -60213,11 +60215,11 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "chasm",
         "examples": []
       },
-	  {
+      {
         "meaning": "abyss",
         "examples": []
       }
@@ -69359,7 +69361,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to capture from; to seize something from someone and take control of (ex. ball, base, land, place)",
         "examples": [
           {
@@ -69392,7 +69394,7 @@
         "meaning": "to take hold of something against the owner's interest or will",
         "examples": []
       },
-	  {
+      {
         "meaning": "to capture from",
         "examples": []
       }
@@ -70872,7 +70874,7 @@
         "meaning": "a person who behaves badly; a person who misbehaves",
         "examples": []
       },
-	  {
+      {
         "meaning": "mannerless (literally); unmannered; ill-mannered",
         "examples": []
       }
@@ -72945,7 +72947,7 @@
         "meaning": "embellishment",
         "examples": []
       },
-	  {
+      {
         "meaning": "something that is made exquisitely",
         "examples": []
       }
@@ -74015,7 +74017,7 @@
             "sentence": "'''Хьаинапэ''' къэхьын",
             "translation": "To be '''discraceful'''."
           },
-		  {
+          {
             "sentence": "'''Хьаинап''' пш1агъэр",
             "translation": "What you did was '''disgrace'''."
           }
@@ -77534,7 +77536,7 @@
         "meaning": "inappropriate",
         "examples": []
       },
-	  {
+      {
         "meaning": "unfitting",
         "examples": []
       }
@@ -83502,7 +83504,7 @@
         "meaning": "behavior",
         "examples": []
       },
-	  {
+      {
         "meaning": "manner",
         "examples": []
       }
@@ -89135,9 +89137,9 @@
     "synonyms": [
       "гъакъ",
       "зыш1ош1ыжьын",
-	  "баф",
-	  "жьыгъэбыу",
-	  "бгъакъэ"
+      "баф",
+      "жьыгъэбыу",
+      "бгъакъэ"
     ],
     "type": "noun",
     "ipa": "ʂħaɕətəχəʑ"
@@ -90295,20 +90297,20 @@
       {
         "meaning": "to stand near/by",
         "examples": [
-			{
+          {
             "sentence": "Пкъэум еуц1ол1эн",
             "translation": "'''To stand near''' the pillar."
-            },
-		]
+          }
+        ]
       },
       {
         "meaning": "to come to terms with; to put up with something",
         "examples": [
-			{
+          {
             "sentence": "Л1ыхэр 1офым '''къытегущы1эхэу''' зэхэсыхыгъ",
             "translation": "I heard the men '''talk about''' the job."
-            },
-		]
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -92901,14 +92903,14 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to spread (on), to smear (with), to daub (with)",
         "examples": [
           {
             "sentence": "Крем цуакъэм '''щыфэн'''",
             "translation": "'''To smear''' cream on the shoe."
           },
-		  {
+          {
             "sentence": "Псы фабэ улъакъо '''щыф'''",
             "translation": "'''Smear''' hot water on your leg."
           },
@@ -93184,7 +93186,7 @@
     "word": "тхьагъэпц1",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "sly, cunning, artful",
         "examples": []
       },
@@ -94146,7 +94148,7 @@
         "meaning": "to mow, to cut",
         "examples": []
       },
-	  {
+      {
         "meaning": "alternative form of \"упч1эн\"",
         "examples": []
       }
@@ -96458,9 +96460,9 @@
     "synonyms": [
       "шъхьащытхъужь",
       "зыш1ош1ыжьын",
-	  "баф",
-	  "жьыгъэбыу",
-	  "бгъакъэ"
+      "баф",
+      "жьыгъэбыу",
+      "бгъакъэ"
     ],
     "type": "adj",
     "ipa": "ʁaːq"
@@ -96477,9 +96479,9 @@
     "synonyms": [
       "гъакъ",
       "зыш1ош1ыжьын",
-	  "баф",
-	  "жьыгъэбыу",
-	  "бгъакъэ"
+      "баф",
+      "жьыгъэбыу",
+      "бгъакъэ"
     ],
     "type": "adj",
     "ipa": "ʁaːq"
@@ -96536,14 +96538,14 @@
             "sentence": "Пшъэхъур кум '''пыш1'''",
             "translation": "'''Connect''' the chain to the car."
           },
-		  {
+          {
             "sentence": "Машинэ къутагъэр тракторым '''пыш1агъ'''",
             "translation": "The destroyed car '''is connected''' to the tractor."
           },
-		  {
+          {
             "sentence": "К1апсэ ц1ык1ухэр '''зэпыш1эх'''",
             "translation": "'''Connect''' the little ropes '''together'''."
-          },
+          }
         ]
       }
     ],
@@ -96563,14 +96565,14 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to connect oneself to",
         "examples": [
-		  {
+          {
             "sentence": "К1алэм (ежь) 1интернетым зыпеш1э",
             "translation": "The boy '''is connecting himself''' to the internet"
           },
-		  {
+          {
             "sentence": "Зыкъэспэмыш1",
             "translation": "'''Don't connect yourself to me'''"
           }
@@ -96630,7 +96632,7 @@
         "meaning": "to dispute; to argue",
         "examples": []
       },
-	  {
+      {
         "meaning": "bargain among themselves",
         "examples": []
       }
@@ -96670,7 +96672,7 @@
         "meaning": "teacher",
         "examples": []
       },
-	  {
+      {
         "meaning": "tutor",
         "examples": []
       }
@@ -96714,13 +96716,15 @@
     "word": "къыхидзын",
     "lang": "Adyghe",
     "definitions": [
-		"meaning": "to drizzle, to rain lightly",
+      {
+        "meaning": "to drizzle, to rain lightly",
         "examples": [
           {
             "sentence": "ощх '''къыхедзы'''",
             "translation": "The rain drizzles."
           }
-		]
+        ]
+      }
     ],
     "type": "noun",
     "ipa": "qəxəjd͡zən"
@@ -96733,7 +96737,7 @@
         "meaning": "lynx",
         "examples": []
       },
-	  {
+      {
         "meaning": "shackles, manacles, gyves, fetters, irons (paired wrist or ankle restraints)",
         "examples": []
       }
@@ -96741,7 +96745,7 @@
     "synonyms": [
       "мэзкъатыхъу",
       "чэтыу шыумыш",
-	  "мэзчэтыу"
+      "мэзчэтыу"
     ],
     "type": "noun",
     "ipa": "ɬaχʷ"
@@ -96758,7 +96762,7 @@
     "synonyms": [
       "лъэхъу",
       "чэтыу шыумыш",
-	  "мэзчэтыу"
+      "мэзчэтыу"
     ],
     "type": "noun",
     "ipa": "mazqaːtəχʷ"
@@ -96775,7 +96779,7 @@
     "synonyms": [
       "лъэхъу",
       "мэзкъатыхъу",
-	  "мэзчэтыу"
+      "мэзчэтыу"
     ],
     "type": "noun",
     "ipa": "t͡ʃatəw ʃəwməʃ"
@@ -96792,7 +96796,7 @@
     "synonyms": [
       "лъэхъу",
       "мэзкъатыхъу",
-	  "мэзчэтыу"
+      "мэзчэтыу"
     ],
     "type": "noun",
     "ipa": "t͡ʃatəwʃəwməʃ"
@@ -96817,7 +96821,7 @@
         "meaning": "to cover",
         "examples": []
       },
-	  {
+      {
         "meaning": "to lid",
         "examples": []
       }
@@ -96829,7 +96833,7 @@
     "word": "зэтеп1он",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "to lid",
         "examples": []
       }
@@ -96841,7 +96845,7 @@
     "word": "мэзыцу",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "wild ox; bison",
         "examples": []
       }
@@ -96853,7 +96857,7 @@
     "word": "огъу",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "drought",
         "examples": []
       }
@@ -96865,7 +96869,7 @@
     "word": "хъуп1э",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "pasture (an open field, on which livestock is kept for feeding)",
         "examples": []
       }
@@ -96877,7 +96881,7 @@
     "word": "джыгъэ",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "yarn (fiber strand for knitting or weaving)",
         "examples": []
       }
@@ -96889,14 +96893,14 @@
     "word": "тхъагъо",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "fun; enjoyable; joyful",
         "examples": [
           {
             "sentence": "Ц1ыф '''тхъагъу'''",
             "translation": "'''Fun''' person."
           },
-		  {
+          {
             "sentence": "Си1оф '''тхъагъо'''",
             "translation": "My work '''is fun'''."
           }
@@ -96910,7 +96914,7 @@
     "word": "насыпыш1у",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "fortuned; lucky",
         "examples": []
       }
@@ -96922,7 +96926,7 @@
     "word": "къырик1огъу",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "iteration",
         "examples": []
       }
@@ -96934,7 +96938,7 @@
     "word": "мэкъуао",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "mower, hay-maker",
         "examples": []
       }
@@ -96946,7 +96950,7 @@
     "word": "зэпыгъэфэн",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "to arrange plans/deals/meetings",
         "examples": []
       }
@@ -96958,7 +96962,7 @@
     "word": "шэк1ы",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "material, cloth, fabric",
         "examples": []
       }
@@ -96970,14 +96974,14 @@
     "word": "пыз-нэз",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "waste products; scrap (a small piece; a fragment; a detached, incomplete portion)",
         "examples": [
-		  {
+          {
             "sentence": "Гъуч1 '''пыз-нэз'''",
             "translation": "Metal '''scrap'''."
           }
-		]
+        ]
       }
     ],
     "type": "noun",
@@ -96987,7 +96991,7 @@
     "word": "чэчэн",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "to chirr (of insects)",
         "examples": []
       }
@@ -96999,15 +97003,15 @@
     "word": "чэчэн",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "to chirr (of birds)",
         "examples": []
       },
-	  {
+      {
         "meaning": "to bleat",
         "examples": []
       },
-	  {
+      {
         "meaning": "to tweet",
         "examples": []
       }
@@ -97019,11 +97023,11 @@
     "word": "орэд къы1он",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "to sing a song",
         "examples": []
       },
-	  {
+      {
         "meaning": "to tweet",
         "examples": []
       }
@@ -97035,7 +97039,7 @@
     "word": "ц1ырыун",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "to chirr (of grasshopper)",
         "examples": []
       }
@@ -97047,16 +97051,16 @@
     "word": "къанджэ",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "forty (bird)",
         "examples": []
       },
-	  {
+      {
         "meaning": "magpie (bird)",
         "examples": []
       }
     ],
-	"cognate": "къанжэ"
+    "cognate": "къанжэ",
     "type": "verb",
     "ipa": "qaːnʒa"
   },
@@ -97064,10 +97068,10 @@
     "word": "план",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "plan",
         "examples": []
-      },
+      }
     ],
     "type": "noun",
     "ipa": "plan"
@@ -97076,10 +97080,10 @@
     "word": "лэучэц1",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "wild animals hunted for food such as deers and does",
         "examples": []
-      },
+      }
     ],
     "type": "noun",
     "ipa": "ɮawt͡sat͡s"
@@ -97088,10 +97092,10 @@
     "word": "къобэбжъаб",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "branchy; boughy",
         "examples": []
-      },
+      }
     ],
     "type": "adj",
     "ipa": "qʷababʐaːb"
@@ -97100,7 +97104,7 @@
     "word": "мыщыугъэ",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "sweet, fresh (water)",
         "examples": [
           {
@@ -97109,7 +97113,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "unsalty",
         "examples": []
       }
@@ -97121,7 +97125,7 @@
     "word": "гъонлэн",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "to wither, to shrivel, to fade, to dry up (shrivel, droop, dry up, e.g. of flowers)",
         "examples": []
       }
