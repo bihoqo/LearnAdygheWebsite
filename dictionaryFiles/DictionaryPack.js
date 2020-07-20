@@ -23612,6 +23612,30 @@
     "ipa": "pʼasχan"
   },
   {
+    "word": "стхъэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to become callous",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "stχan"
+  },
+  {
+    "word": "схъэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"стхъэн\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "sχan"
+  },
+  {
     "word": "шу",
     "lang": "Adyghe",
     "definitions": [
@@ -24262,17 +24286,6 @@
     "type": "noun"
   },
   {
-    "word": "къурмэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "dates (fruit)",
-        "examples": []
-      }
-    ],
-    "type": "qʷərma"
-  },
-  {
     "word": "чэщ щыгъын",
     "lang": "Adyghe",
     "definitions": [
@@ -24407,18 +24420,18 @@
     "ipa": "jabz"
   },
   {
-    "word": "хьэлъэбэкъищ",
+    "word": "хьалъэбэкъуищ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "three steps (said to places that are very close)",
         "examples": [
           {
-            "sentence": "Тиунэ '''хьэлъэбэкъищ''', псынк1эу к1о",
-            "translation": "My house is '''three steps close (very close)''', go quickly."
+            "sentence": "Тиунэ '''хьалъэбэкъуищ''', псынк1эу к1о",
+            "translation": "My house is '''three steps close''', go quickly."
           },
           {
-            "sentence": "Яунэ к1о псынк1эу. Яунэ '''хьэлъэбэкъищ''' нэ1э",
+            "sentence": "Яунэ к1о псынк1эу. Яунэ '''хьалъэбэкъуищ''' ны1эп",
             "translation": "Go to their house quickly, their house is only '''three steps close'''."
           }
         ]
@@ -24432,17 +24445,29 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "cooled, chilled",
+        "meaning": "cold (a common, usually harmless, viral illness, usually with congestion of the nasal passages and sometimes fever)",
         "examples": [
           {
             "sentence": "'''спэпскъик1'''",
-            "translation": "'''I am cooled'''."
+            "translation": "'''I have cold'''."
           }
         ]
       }
     ],
     "type": "adj",
     "ipa": "papsqit͡ʃ"
+  },
+  {
+    "word": "чъы1этагъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "coolness (the state of being cool)",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "t͡ʂəʔataːʁ"
   },
   {
     "word": "к1элъыун",
@@ -24525,14 +24550,22 @@
       {
         "meaning": "cruel",
         "examples": []
-      },
-      {
-        "meaning": "unjust",
-        "examples": []
       }
     ],
     "type": "adj",
     "ipa": "ʐaːləm"
+  },
+  {
+    "word": "нэджэ-1уджэжъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "monster",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "nad͡ʒa-ʔʷəd͡ʒaʐ"
   },
   {
     "word": "сыд",
@@ -24649,6 +24682,18 @@
     "ipa": "pχə"
   },
   {
+    "word": "таущтэу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "how",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "taːwəɕtaw"
+  },
+  {
     "word": "къэбастхъэ",
     "lang": "Adyghe",
     "definitions": [
@@ -24666,6 +24711,10 @@
     "definitions": [
       {
         "meaning": "zucchini",
+        "examples": []
+      },
+	  {
+        "meaning": "pumpkin, gourd",
         "examples": []
       },
       {
@@ -24697,6 +24746,46 @@
     "ipa": "qʷanə"
   },
   {
+    "word": "хэубэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to trample into",
+        "examples": []
+      },
+	  {
+        "meaning": "to mash and pound in",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "xawban"
+  },
+  {
+    "word": "хэулъэгон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to trample into",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "xawɬagʷan"
+  },
+  {
+    "word": "хэщыт1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to press (into)",
+        "examples": []
+      },
+    ],
+    "type": "noun",
+    "ipa": "xaɕəʔan"
+  },
+  {
     "word": "бэрэт1ин",
     "lang": "Adyghe",
     "definitions": [
@@ -24721,11 +24810,23 @@
     "ipa": "t͡ʃˈərəkʷˈ"
   },
   {
+    "word": "ехьщыр",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "portable",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "jaħɕər"
+  },
+  {
     "word": "къэбыпц1э",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "eggplant",
+        "meaning": "eggplant; aubergine",
         "examples": []
       }
     ],
@@ -24798,18 +24899,6 @@
     "ipa": "t͡ʃʷəmpa"
   },
   {
-    "word": "пчэдыгъо",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "cherry",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "pt͡ʃadəʁʷa"
-  },
-  {
     "word": "хъурмэ",
     "lang": "Adyghe",
     "definitions": [
@@ -24824,6 +24913,42 @@
     ],
     "type": "noun",
     "ipa": "χʷərma"
+  },
+  {
+    "word": "пырэжъый",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "sloe, blackthorn (fruit and shrub), raspberry",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "pəraʐəj"
+  },
+  {
+    "word": "марк1о",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "blackberry",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "maːrkʷʼa"
+  },
+  {
+    "word": "къэцмарк1о",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "blackberry, raspberry",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "qat͡smaːrkʷʼa"
   },
   {
     "word": "къо1ус",
@@ -24842,7 +24967,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "plum",
+        "meaning": "plum (fruit or tree)",
         "examples": []
       }
     ],
@@ -24855,6 +24980,10 @@
     "definitions": [
       {
         "meaning": "pomegranate",
+        "examples": []
+      },
+	  {
+        "meaning": "anecdote; funny story",
         "examples": []
       }
     ],
@@ -24893,16 +25022,24 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "apricot",
-        "examples": []
-      },
-      {
-        "meaning": "apricot tree",
+        "meaning": "apricot (tree or fruit)",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "zandaːla"
+  },
+  {
+    "word": "плъыжь ч1апц1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "crimson",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "pɬəʑ t͡ʂʼaːpt͡sʼ"
   },
   {
     "word": "хьэкъухъ",
@@ -24945,12 +25082,24 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "cheetah",
+        "meaning": "leopard",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "maːχʷəʃat͡ʃatəw"
+  },
+  {
+    "word": "махъшэчэтыу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "leopard",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "maːχəʃat͡ʃatəw"
   },
   {
     "word": "бэджэшъ",
@@ -30006,7 +30155,7 @@
     "ipa": "pəwət"
   },
   {
-    "word": "к1ышъу",
+    "word": "к1ышъо",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -30016,10 +30165,14 @@
       {
         "meaning": "crust (of Earth)",
         "examples": []
+      },
+      {
+        "meaning": "bark (of trees)",
+        "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "t͡ʃəʂʷ"
+    "ipa": "t͡ʃʼəʂʷa"
   },
   {
     "word": "шъхьацы",
@@ -57950,6 +58103,18 @@
     "ipa": "ɬapawan"
   },
   {
+    "word": "ш1онэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to stumble (over)",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʃʷʼanan"
+  },
+  {
     "word": "лъэпэш1оон",
     "lang": "Adyghe",
     "definitions": [
@@ -74223,18 +74388,6 @@
     "ipa": "stəɬʼan"
   },
   {
-    "word": "нэк1ьышъо",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"нэк1ышъо\"",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "nakʼəʃʷa"
-  },
-  {
     "word": "нэгушъо",
     "lang": "Adyghe",
     "definitions": [
@@ -74284,30 +74437,6 @@
     ],
     "type": "noun",
     "ipa": "waʃʷaɬaːpsa"
-  },
-  {
-    "word": "нэк1ышъо етын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"нэгушъо етын\"",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "nakʼəʃʷa"
-  },
-  {
-    "word": "нэк1ышъо",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"нэгушъо\"",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "nakʼəʃʷa"
   },
   {
     "word": "нэгушъоутын",
@@ -74944,6 +75073,14 @@
             "translation": "A '''simple''' belt is on his waist."
           }
         ]
+      },
+	  {
+        "meaning": "narrowish",
+        "examples": []
+      },
+	  {
+        "meaning": "with difficulty",
+        "examples": []
       }
     ],
     "type": "adj",
