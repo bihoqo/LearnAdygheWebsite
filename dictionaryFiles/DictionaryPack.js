@@ -14808,6 +14808,30 @@
     "ipa": "pt͡ʃadəʑ ʃʷʼə"
   },
   {
+    "word": "къат",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "layer (stratum)"
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "qaːt"
+  },
+  {
+    "word": "къат-къатэу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "layer (stratum)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "qaːt-qaːtaw"
+  },
+  {
     "word": "пчыхьэ ш1у",
     "lang": "Adyghe",
     "definitions": [
@@ -16633,6 +16657,9 @@
         "meaning": "marten",
         "examples": []
       }
+    ],
+    "synonyms": [
+      "чъыгышъхьэцыз"
     ],
     "cognate": "дзыдзэ",
     "type": "noun",
@@ -25106,7 +25133,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "[]",
+        "meaning": "jackal",
         "examples": []
       }
     ],
@@ -25190,10 +25217,6 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "leopard",
-        "examples": []
-      },
-      {
         "meaning": "wildcat",
         "examples": []
       }
@@ -25218,7 +25241,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "beaver",
+        "meaning": "mink",
         "examples": []
       }
     ],
@@ -25231,6 +25254,10 @@
     "definitions": [
       {
         "meaning": "elephant seal",
+        "examples": []
+      },
+	  {
+        "meaning": "walrus",
         "examples": []
       }
     ],
@@ -25250,6 +25277,18 @@
     "ipa": "psət͡sʷa"
   },
   {
+    "word": "хьарэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "water buffalo",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ħaːra"
+  },
+  {
     "word": "хьэдэпчэмы1у",
     "lang": "Adyghe",
     "definitions": [
@@ -25264,6 +25303,22 @@
     "cognate": "шылъэгу",
     "type": "noun",
     "ipa": "ħadapt͡ʃaməʔʷ"
+  },
+  {
+    "word": "хьадэпк1эмы1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "turtle",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "хьэнчэмы1у"
+    ],
+    "cognate": "шылъэгу",
+    "type": "noun",
+    "ipa": "ħadapt͡ʃʼaməʔʷ"
   },
   {
     "word": "хымац1",
@@ -25331,7 +25386,7 @@
     "ipa": "kʷəkʷəw"
   },
   {
-    "word": "махъчэбзу",
+    "word": "махъшэбзыу",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -25340,10 +25395,10 @@
       }
     ],
     "type": "noun",
-    "ipa": "maːχt͡ʃabzəw"
+    "ipa": "maːχʃabzəw"
   },
   {
-    "word": "махъушэбзу",
+    "word": "махъушэбзыу",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -25355,7 +25410,7 @@
     "ipa": "maːχʷʃabzəw"
   },
   {
-    "word": "хыбзу",
+    "word": "хыбзыу",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -25383,7 +25438,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "swan (Bird)",
+        "meaning": "alternative form of \"хьарзэ\"",
         "examples": []
       }
     ],
@@ -25415,11 +25470,11 @@
     "ipa": "ʒaʁʷəwlaːl"
   },
   {
-    "word": "бзушхъу",
+    "word": "бзыушхъу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "[]",
+        "meaning": "blackbird",
         "examples": []
       }
     ],
@@ -25427,11 +25482,19 @@
     "ipa": "bzəwʃχʷ"
   },
   {
-    "word": "бзудэгу",
+    "word": "бзыудэгу",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "grouse",
+        "examples": []
+      },
+	  {
+        "meaning": "western capercaillie",
+        "examples": []
+      },
+	  {
+        "meaning": "wood grouse",
         "examples": []
       }
     ],
@@ -25443,11 +25506,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Black partridge (bird)",
-        "examples": []
-      },
-      {
-        "meaning": "pheasant",
+        "meaning": "pheasant (chicken)",
         "examples": []
       }
     ],
@@ -25456,11 +25515,11 @@
     "ipa": "mazt͡ʃat"
   },
   {
-    "word": "хьэбзу",
+    "word": "хьэбзыу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "[]",
+        "meaning": "hook (bird)",
         "examples": []
       }
     ],
@@ -25468,11 +25527,23 @@
     "ipa": "ħabzəw"
   },
   {
-    "word": "бзук1эзэгох",
+    "word": "1эмэ-псым",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Bird with split tail,",
+        "meaning": "tool",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʔama-psəm"
+  },
+  {
+    "word": "бзыук1эзэгох",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "slotted tail (rocky bird)",
         "examples": []
       }
     ],
@@ -25484,7 +25555,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "peafowl (Bird)",
+        "meaning": "peafowl; peacock",
         "examples": []
       }
     ],
@@ -25520,6 +25591,10 @@
     "definitions": [
       {
         "meaning": "bug",
+        "examples": []
+      },
+	  {
+        "meaning": "bed-bug; bedbug",
         "examples": []
       }
     ],
@@ -25623,7 +25698,7 @@
     "ipa": "pt͡ʃaːw"
   },
   {
-    "word": "ц1ы1ргъ",
+    "word": "ц1ыргъ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -25800,7 +25875,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "gum (The flesh round the teeth.)",
+        "meaning": "gum (the flesh round the teeth)",
         "examples": []
       }
     ],
@@ -25923,45 +25998,52 @@
     "ipa": "məɡʲər"
   },
   {
+    "word": "хъунк1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to rob, to sack, to loot, to plunder",
+        "examples": []
+      },
+    ],
+    "type": "verb",
+    "ipa": "χʷənt͡ʃʼən"
+  },
+  {
+    "word": "хъунк1ак1о",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "robber; burglar",
+        "examples": []
+      },
+    ],
+    "type": "noun",
+    "ipa": "χʷənt͡ʃʼaːkʷʼa"
+  },
+  {
+    "word": "сыджы",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "anvil",
+        "examples": []
+      },
+    ],
+    "type": "noun",
+    "ipa": "sənd͡ʒ"
+  },
+  {
     "word": "ехъунк1ын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to rip off",
+        "meaning": "alternative form of \"хъунк1эн\"",
         "examples": []
       },
-      {
-        "meaning": "to steal",
-        "examples": []
-      }
     ],
     "type": "verb",
-    "ipa": "jaχʷənt͡ʃən"
-  },
-  {
-    "word": "мэт1ыгъо",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "comb",
-        "examples": []
-      },
-      {
-        "meaning": "Curly (become) (hair)",
-        "examples": []
-      },
-      {
-        "meaning": "ripen",
-        "examples": [
-          {
-            "sentence": "бэнанэр '''мэтIыгъо'''",
-            "translation": "the banana is ripen."
-          }
-        ]
-      }
-    ],
-    "type": "adj",
-    "ipa": "matˈəʁʷa"
+    "ipa": "jaχʷənt͡ʃʼən"
   },
   {
     "word": "джэгу",
@@ -26277,7 +26359,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "fast",
+        "meaning": "fast; quick",
         "examples": [
           {
             "sentence": "Жьым фэдэу '''псынк1э'''",
@@ -26290,13 +26372,12 @@
         "examples": []
       },
       {
-        "meaning": "light (Of low weight; not heavy)",
+        "meaning": "light; lightweight",
         "examples": []
       }
     ],
     "synonyms": [
-      "псык1э",
-      "к1ык1ьай"
+      "псык1э"
     ],
     "cognate": "псынщ1э",
     "type": "adj",
@@ -26348,15 +26429,6 @@
         ]
       },
       {
-        "meaning": "to grow plants (to make plants \"appear\")",
-        "examples": [
-          {
-            "sentence": "К1алэм къэгъагъэхэр '''егъэхъух'''",
-            "translation": "The boy '''is growing''' the flowers."
-          }
-        ]
-      },
-      {
         "meaning": "to herd",
         "examples": [
           {
@@ -26372,12 +26444,29 @@
             "translation": "'''To herd''' a herd of cows"
           }
         ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʁaχʷən"
+  },
+  {
+    "word": "къэгъэхъун",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "to grow plants (to make plants \"appear\")",
+        "examples": [
+          {
+            "sentence": "К1алэм къэгъагъэхэр '''къегъэхъух'''",
+            "translation": "The boy '''is growing''' the flowers."
+          }
+        ]
       },
       {
         "meaning": "to create from nothing (usually by God)",
         "examples": [
           {
-            "sentence": "Тхьэм дунаир мэфихык1э '''къыгъэхъугъ'''",
+            "sentence": "Тхьэм дунаир мэфихык1э '''къигъэхъугъ'''",
             "translation": "God '''has created''' the world in six days."
           }
         ]
@@ -26393,14 +26482,39 @@
       }
     ],
     "type": "verb",
-    "ipa": "ʁaχʷən"
+    "ipa": "qaʁaχʷən"
+  },
+  {
+    "word": "къигъэш1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to create from nothing (usually by God)",
+        "examples": [
+          {
+            "sentence": "Тхьэм дунаир мэфихык1э '''къигъэш1ыгъ'''",
+            "translation": "God '''has created''' the world in six days."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "qaʁaχʷən"
   },
   {
     "word": "1умпэм",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "A person that doesn't eat",
+        "meaning": "squeamish, fastidious",
+        "examples": []
+      },
+	  {
+        "meaning": "neglect, disregard",
+        "examples": []
+      },
+	  {
+        "meaning": "scorn, disdain (feeling of contempt or scorn)",
         "examples": []
       }
     ],
@@ -26418,6 +26532,18 @@
     ],
     "type": "noun",
     "ipa": "mazkʲat"
+  },
+  {
+    "word": "1умыл",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "ice-covered ground, black ice",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʔʷməɮ"
   },
   {
     "word": "лъащэ",
@@ -26501,7 +26627,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "bell, Bell (small), cowbell",
+        "meaning": "handbell",
+        "examples": []
+      },
+	  {
+        "meaning": "cowbell",
         "examples": []
       }
     ],
@@ -26551,7 +26681,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "candelabra",
+        "meaning": "constellation",
         "examples": []
       }
     ],
@@ -26569,6 +26699,19 @@
     ],
     "type": "noun",
     "ipa": "ʐʷaʁʷat͡ʃat͡ʃaːħ"
+  },
+  {
+    "word": "жъуагъондж",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "comet",
+        "examples": []
+      }
+    ],
+	"cognate": "вагъуэнж"
+    "type": "noun",
+    "ipa": "ʐʷaʁʷand͡ʒ"
   },
   {
     "word": "жъогъопл1эн",
@@ -26607,16 +26750,16 @@
     "ipa": "ʐʷaʁʷarəpɬ"
   },
   {
-    "word": "жъогъофах",
+    "word": "жъогъохэчъ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "meteor",
+        "meaning": "meteor; falling star",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "ʐʷaʁʷafaːx"
+    "ipa": "ʐʷaʁʷaxat͡ʂ"
   },
   {
     "word": "жъогъош1у",
@@ -26635,7 +26778,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Plowing comrade",
+        "meaning": "plowing partner",
         "examples": []
       }
     ],
@@ -26716,7 +26859,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "cultivation, culture, training",
+        "meaning": "training",
         "examples": []
       }
     ],
@@ -26724,23 +26867,23 @@
     "ipa": "ʁasanəʁa"
   },
   {
-    "word": "жъонак1у",
+    "word": "жъонак1о",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "plower",
+        "meaning": "plower; plowman",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "ʐʷanaːkʷˈ"
+    "ipa": "ʐʷanaːkʷʼa"
   },
   {
     "word": "жъоныгъу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Farming season",
+        "meaning": "plowing time",
         "examples": []
       }
     ],
@@ -26752,7 +26895,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "End of farming season",
+        "meaning": "end of plowing time",
         "examples": []
       }
     ],
@@ -26764,7 +26907,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "reddish brown",
+        "meaning": "burgundy red",
         "examples": []
       }
     ],
@@ -26776,7 +26919,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Daughter of foster mother,",
+        "meaning": "the biological daughter of an adopted child's foster mother",
         "examples": []
       }
     ],
@@ -26869,7 +27012,6 @@
       }
     ],
     "synonyms": [
-      "чъуакъо",
       "щырыкъу"
     ],
     "cognate": "вакъэ",
@@ -26896,8 +27038,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "noise",
-        "examples": []
+        "meaning": "joy, fun, merriment",
+        "examples": [
+          {
+            "sentence": "Жъотым хэтхэу гъэр '''агъэк1уагъ'''",
+            "translation": "The passed the year '''in merriment'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -35894,7 +36041,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Red ember",
+        "meaning": "hot coals",
         "examples": []
       }
     ],
@@ -61248,10 +61395,14 @@
             "translation": "The old-man '''is gossiping''' the whole day."
           }
         ]
+      },
+	  {
+        "meaning": "to pound, to crush, to grind (to make smaller by breaking with a device)",
+        "examples": []
       }
     ],
     "type": "verb",
-    "ipa": "wəbə"
+    "ipa": "wəbən"
   },
   {
     "word": "къамыщ",
@@ -62856,7 +63007,12 @@
           {
             "sentence": "Нашэр '''т1ыргъуагъэ'''",
             "translation": "The melon '''was ripen'''."
+          },
+          {
+            "sentence": "Нашэр '''мэт1ыгъо'''",
+            "translation": "the melon is ripen."
           }
+        ]
         ]
       }
     ],
@@ -77857,7 +78013,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "squirrel",
+        "meaning": "alternative form of \"цызэ\"",
         "examples": []
       }
     ],
@@ -84978,13 +85134,25 @@
     "word": "чэфын",
     "lang": "Adyghe",
     "definitions": [
-      {
+	  {
         "meaning": "shroud (dress for the dead)",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "t͡ʃafən"
+  },
+  {
+    "word": "чэфэу щытын",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "to be happy",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "t͡ʃafaw ɕətən"
   },
   {
     "word": "щэгъэпц1агъэ",
@@ -91218,6 +91386,18 @@
     ],
     "type": "verb",
     "ipa": "pχatapaməħə ʃʼən"
+  },
+  {
+    "word": "пхъэтэпэмыхьы",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "ignoring; disregarding",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "pχatapaməħə"
   },
   {
     "word": "едэхэш1эн",

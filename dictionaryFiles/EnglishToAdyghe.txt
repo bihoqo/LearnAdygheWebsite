@@ -138,9 +138,6 @@
     "burrow": "бы; гъу"
   },
   {
-    "nest": "набгъо"
-  },
-  {
     "thousand": "мин"
   },
   {
@@ -738,10 +735,10 @@
     "ostrich": "махъшэбзыу"
   },
   {
-    "turtle": "хьэнчэмы1у"
+    "turtle": "хьадэпчэмы1у; (Shapsug) хьэнчэмы1у"
   },
   {
-    "turkey": "тхьэк1эт"
+    "turkey": "тхьэчэт"
   },
   {
     "housefly": "бадзэ"
@@ -774,7 +771,10 @@
     "pickax": "къазмэ"
   },
   {
-    "shovel": "хьанцэ"
+    "mattock": "къазмэ"
+  },
+  {
+    "shovel": "хьанцэ; хьацэ (Shapsug)"
   },
   {
     "hoe": "ш1уанэ"
@@ -783,13 +783,13 @@
     "hammer": "уатэ"
   },
   {
-    "axe": "майтэ"
+    "axe": "отыч; майтэ (Shapsug); обзэгъу; ощы"
   },
   {
-    "ax": "майтэ"
+    "ax": "отыч; майтэ (Shapsug); обзэгъу; ощы"
   },
   {
-    "sickle": "гъупчъ"
+    "sickle": "гъупчъэ"
   },
   {
     "key": "1унк1ыбзэ"
@@ -804,7 +804,7 @@
     "sheatfish": "джае"
   },
   {
-    "camel": "махъшэ"
+    "camel": "махъшэ; махъушэ"
   },
   {
     "red": "плъыжьы"
@@ -816,13 +816,19 @@
     "bone": "къупышъхьэ"
   },
   {
-    "blood vessel": "лъынтфэ"
+    "blood vessel": "лъынтфэ; лъытфэ (Shapsug)"
   },
   {
-    "vein.": "лъынтфэ"
+    "vein.": "лъынтфэ; лъытфэ (Shapsug)"
   },
   {
-    "sinew": "лъынтфэ"
+    "sinew": "лъынтфэ; лъытфэ (Shapsug)"
+  },
+  {
+    "layer": "пцум; къат-къатэу (stratum)"
+  },
+  {
+    "stratum": "къат; къат-къатэу"
   },
   {
     "beard": "жак1э"
@@ -1080,9 +1086,6 @@
     "hot": "фабэ"
   },
   {
-    "warm": "фабэ"
-  },
-  {
     "fever": "плъыр"
   },
   {
@@ -1293,12 +1296,6 @@
     "song": "орэд"
   },
   {
-    "ax": "отыч"
-  },
-  {
-    "axe": "отыч"
-  },
-  {
     "good weather": "ош1у"
   },
   {
@@ -1392,10 +1389,10 @@
     "island": "хыгъэхъун"
   },
   {
-    "butterfly": "хьамп1ырашъу"
+    "butterfly": "хьамп1ырашъу; (dialectal) хьэнт1эрэп1ый; хьэт1рэп1ый (Shapsug)"
   },
   {
-    "moth": "хьамп1ырашъу"
+    "moth": "хьамп1ырашъу; (dialectal) хьэнт1эрэп1ый; хьэт1рэп1ый (Shapsug)"
   },
   {
     "swan": "хьарзэ"
@@ -1459,9 +1456,6 @@
   },
   {
     "bow": "к1уснэщаб"
-  },
-  {
-    "nest": "набгъо"
   },
   {
     "flower": "нэкъыгъэ (Shapsug)"
@@ -1866,9 +1860,6 @@
     "infant": "наныу"
   },
   {
-    "lynx": "мэзкъатыхъу; лъэхъу; мэзчэтыу; чэтыу шыумыш"
-  },
-  {
     "cover": "бгъэн (to thatch); техъон (to lay to cover); теп1он (to lit)"
   },
   {
@@ -1906,12 +1897,6 @@
   },
   {
     "thief": "тыгъуак1о"
-  },
-  {
-    "robber": "тыгъуак1о"
-  },
-  {
-    "burglar": "тыгъуак1о"
   },
   {
     "lie": "пц1ы"
@@ -2373,7 +2358,7 @@
     "all night": "чэщым реныу"
   },
   {
-    "always": "ренэу; сыд щыгъок1и"
+    "always": "ренэу; сыд щыгъок1и; енэу (Shapsug)"
   },
   {
     "whenever": "сыдигъок1и"
@@ -3159,9 +3144,6 @@
     "property": "мылъку"
   },
   {
-    "cockroach": "ш1уц1эжъ"
-  },
-  {
     "full": "изы; шхэк1ын (having eaten to satisfaction)"
   },
   {
@@ -3229,9 +3211,6 @@
   },
   {
     "kerchief": "платыку, шъхьэтехъу"
-  },
-  {
-    "root": "лъапсэ"
   },
   {
     "shoelaces": "лъапсэ"
@@ -3970,9 +3949,6 @@
   },
   {
     "pleasant": "гохьы; рэхьат (comfortable)"
-  },
-  {
-    "fun": "тхъагъо"
   },
   {
     "enjoyable": "тхъагъо"
@@ -4965,7 +4941,10 @@
     "little": "ц1ык1у; жъый"
   },
   {
-    "small": "ц1ык1у; жъый"
+    "small": "ц1ык1у; жъый; жъгъэй; шъхъэ (Shapsug); шъхъэи; щэндж; тешъо; чэндж; ц1ык1уинт1э; ц1ык1унау (Shapsug)"
+  },
+  {
+    "small thing": "жъгъэй; шъхъэ (Shapsug)"
   },
   {
     "tiny": "жъый; ц1ык1ужъый"
@@ -5235,7 +5214,7 @@
     "greedy": "тхьацэ; хьацэ; былымыпс"
   },
   {
-    "miser": "тхьацэ; хьацэ; былымыпс; ахъщапс"
+    "miser": "тхьацэ; хьацэ; былымыпс; ахъщапс; хьацэгъуй"
   },
   {
     "spouse": "шъхьэгъусэ"
@@ -6135,16 +6114,16 @@
     "monkey": "маймун"
   },
   {
-    "alternative form of \"мэзпчэн\"": "мэзыпчэн"
-  },
-  {
     "rhino": "тхыцэ"
   },
   {
     "bobcat": "чэтыушыумыш"
   },
   {
-    "leopard": "мэзчэтыу"
+    "lynx": "мэзкъатыхъу; лъэхъу; чэтыу шыумыш; чэтыушыумыш"
+  },
+  {
+    "wild cat": "мэзчэтыу"
   },
   {
     "wildcat": "мэзчэтыу"
@@ -6153,73 +6132,73 @@
     "rat": "шъуае"
   },
   {
-    "beaver": "псысамыр"
+    "mink": "псысамыр"
   },
   {
     "elephant seal": "хыкъохъу"
   },
   {
-    "water buffalo": "псыцу"
+    "walrus": "хыкъохъу"
   },
   {
-    "turtle": "хьэдэпчэмы1у"
+    "water buffalo": "псыцу; хьарэ"
+  },
+  {
+    "buffalo": "псыцу (water buffalo)"
   },
   {
     "lobster": "хымац1"
   },
   {
-    "shark": "хытыгъужъ"
+    "shark": "хыхьэ; хытыгъужъ; акул (Russian)"
   },
   {
     "mule": "къатыр"
   },
   {
-    "squirrel": "чъыгшъхьацыз"
+    "squirrel": "чъыгшъхьацыз; цызэ"
   },
   {
     "cuckoo": "кукуу"
   },
   {
-    "ostrich": "махъчэбзу"
+    "ostrich": "махъушэбзыу; махъшэбзыу"
   },
   {
-    "ostrich": "махъушэбзу"
+    "albatross": "хыбзыу"
   },
   {
-    "albatross": "хыбзу"
+    "stork": "къэрэу"
   },
   {
-    "stork (bird)": "къэрэу"
-  },
-  {
-    "swan (Bird)": "хьарз"
-  },
-  {
-    "swan (Bird)": "хьэдэкъаз"
+    "swan": "хьарз; хьэдэкъаз"
   },
   {
     "pelican": "жэгъуулал"
   },
   {
-    "[]": "бзушхъу"
+    "blackbird": "бзыушхъу"
   },
   {
-    "grouse": "бзудэгу"
+    "grouse": "бзыудэгу"
   },
   {
-    "Black partridge (bird)": "мэзчэт"
+    "pheasant": "мэзчэт (bird)"
   },
   {
-    "pheasant": "мэзчэт"
+    "tool": "1эмэ-псым"
   },
   {
-    "[]": "хьэбзу"
+    "hook": "хьэбзыу (bird)"
   },
   {
-    "Bird with split tail,": "бзук1эзэгох"
+    "slotted tail": "бзук1эзэгох"
   },
   {
-    "peafowl (Bird)": "дышъэчэт"
+    "peafowl": "дышъэчэт (bird)"
+  },
+  {
+    "peacock": "дышъэчэт (bird)"
   },
   {
     "duck": "псычэт"
@@ -6228,7 +6207,13 @@
     "bug": "пхъац1э"
   },
   {
-    "[]": "чъыгы шъуамп1"
+    "bed-bug": "пхъац1э"
+  },
+  {
+    "bedbug": "пхъац1э"
+  },
+  {
+    "chinch": "пхъац1э"
   },
   {
     "locust": "мац1э"
@@ -6237,64 +6222,58 @@
     "cricket": "мац1э"
   },
   {
-    "butterfly": "хьэнт1эрэп1ый"
+    "hornet": "къэцыгъуан; щыбжьэдум"
   },
   {
-    "hornet": "щыбжьэдум"
+    "wasp": "къэцыгъуан; щыбжьэдум"
   },
   {
     "spider": "бэджы"
   },
   {
-    "cockroach": "п1эст1эк1эшып"
+    "cockroach": "ш1уц1эжъ; п1эст1эк1эшып"
   },
   {
     "grasshopper": "пк1ау"
   },
   {
-    "snail": "ц1ы1ргъ"
+    "snail": "ц1ыргъ"
   },
   {
-    "frog": "хьант1аркъу"
+    "helix": "ц1ыргъ"
   },
   {
-    "lizard, chameleon": "хьамплъыжь"
+    "frog": "хьант1аркъу; хьантыкъуакъу (Shapsug)"
   },
   {
-    "a person that works a lot, a person that works hard": "лэжьак1у"
+    "lizard": "хьамплъыжь"
   },
   {
-    "a person that works a lot, a person that works hard": "лэжьак1у"
+    "chameleon": "хьамплъыжь"
   },
   {
-    "alternative form of \"лэгъупэкъопс\"": "лэгъупкъопс"
+    "worker": "лэжьак1о"
   },
   {
-    "rainbow": "щыуанкъопс"
+    "rainbow": "лэгъупэкъопс; щыуанкъопс"
   },
   {
-    "handle": "къопс"
+    "handle": "къопс; 1эубытып1э; дакъэ"
   },
   {
-    "handle": "дакъэ"
+    "root": "лъапсэ; дакъэ"
   },
   {
-    "root": "дакъэ"
+    "spade": "къазгъыр"
   },
   {
-    "spade, shovel": "къазгъыр"
+    "gum": "цэлы (flesh round the teeth); сакъыз (gum to chew)"
   },
   {
-    "gum (The flesh round the teeth.)": "цэлы"
+    "people": "ц1ыфхэр"
   },
   {
-    "(Literary) few": "мак1э"
-  },
-  {
-    "people": "ц1ыфхэ"
-  },
-  {
-    "nest": "ныбгъэ"
+    "nest": "набгъо"
   },
   {
     "introvert": "мыджыр"
@@ -6306,106 +6285,70 @@
     "unripe": "мыджыр"
   },
   {
-    "alternative form of \"мыджыр\"": "мыгьыр"
+    "to rob": "тыгъон; ш1отыгъон; хъунк1эн; ехъунк1ын"
   },
   {
-    "to rip off": "ехъунк1ын"
+    "robber": "тыгъуак1о; хъунк1ак1о"
   },
   {
-    "to steal": "ехъунк1ын"
+    "burglar": "тыгъуак1о; хъунк1ак1о"
   },
   {
-    "comb": "мэт1ыгъо"
+    "to sack": "хъунк1эн; ехъунк1ын"
   },
   {
-    "Curly (become) (hair)": "мэт1ыгъо"
+    "to loot": "хъунк1эн; ехъунк1ын"
   },
   {
-    "ripen": "мэт1ыгъо"
+    "to plunder": "хъунк1эн; ехъунк1ын"
   },
   {
-    "Djagu (a Circassian dance party)": "джэгу"
+    "anvil": "сыджы"
+  },
+  {
+    "ripen": "т1ыгъуагъэ"
+  }
+  {
+    "to ripen": "т1ыргъон; т1ыгъон (Shapsug); игъо хъун"
   },
   {
     "game": "джэгу"
   },
   {
-    "alternative form of \"джэгу\"": "гьэгу"
-  },
-  {
     "toy": "джэгуалъэ"
   },
   {
-    "to become ripen": "игъо хъун"
-  },
-  {
-    "darkness": "мэзахэ"
+    "to become ripen": "т1ыргъон; т1ыгъон (Shapsug); игъо хъун"
   },
   {
     "infidel": "джаур"
   },
   {
-    "alternative form of \"сымаджэ\"": "сымагьэ"
-  },
+    "sick": "сымаджэ"
+  }
   {
-    "sick, ill": "сымаджэ"
-  },
-  {
-    "alternative form of \"пц1ырый\"": "пс1ырый"
-  },
-  {
-    "alternative form of \"пц1ырый\"": "пс1ырый"
-  },
-  {
-    "alternative form of \"ц1э\"": "с1э"
-  },
-  {
-    "alternative form of \"ш1уц1э\"": "ш1ус1э"
-  },
-  {
-    "alternative form of \"ш1уц1э\"": "ш1ус1э"
-  },
-  {
-    "always": "ренэу"
-  },
-  {
-    "alternative form of \"1ашэ\"": "ашэ"
-  },
-  {
-    "that is": "джары"
+    "ill": "сымаджэ"
   },
   {
     "ash": "яжьэ"
   },
   {
-    "(Shapsug) alternative form of \"чэты\"": "кьэт"
+    "cat": "чэтыу; кьэтыу (Shapsug)"
   },
   {
-    "alternative form of \"к1эрахъо\"": "к1ьэрахъо"
+    "fast": "псынк1э; (dialectal) чъык1ай; псык1э (Shapsug)"
   },
   {
-    "alternative form of \"к1апсэ\"": "к1ьапсэ"
+    "quick": "псынк1э; (dialectal) чъык1ай; псык1э (Shapsug)"
   },
   {
-    "alternative form of \"к1ыхьэ\"": "к1ьэхьы"
+    "lightweight": "псынк1э; псык1э (Shapsug)"
   },
   {
-    "cat": "кьэтыу"
+    "nimble": "псынк1э; псык1э (Shapsug)"
   },
   {
-    "alternative form of \"пк1эн\"": "пк1ьэн"
-  },
-  {
-    "alternative form of \"к1энк1э\"": "к1ьак1ьэ"
-  },
-  {
-    "fast": "псынк1э"
-  },
-  {
-    "nimble": "псынк1э"
-  },
-  {
-    "light (Of low weight; not heavy)": "псынк1э"
+    "light": "псынк1э; псык1э (Shapsug)"
   },
   {
     "firebrand": "жъоку"
@@ -6414,124 +6357,109 @@
     "ember": "жъоку"
   },
   {
-    "to turn someone/something to; to make someone/something become": "гъэхъун"
+    "hot coals": "жъокужъоустхъу"
   },
   {
-    "to grow plants (to make plants \"appear\")": "гъэхъун"
+    "to turn smth to": "гъэхъун"
+  },
+  {
+    "to grow plants": "гъэхъун"
   },
   {
     "to herd": "гъэхъун"
   },
   {
-    "to create from nothing (usually by God)": "гъэхъун"
+    "to create": "ш1ын (to make); къигъэш1ын (to create from nothing); къэгъэхъун (to make something appear)"
   },
   {
-    "to make someone/something appear from nowhere": "гъэхъун"
+    "squeamish": "1умпэм"
   },
   {
-    "A person that doesn't eat": "1умпэм"
+    "fastidious": "1умпэм"
   },
   {
-    "alternative form of \"мэзчэт\"": "мэзкьэт"
+    "ice-covered": "1умыл"
   },
   {
+    "black ice": "1умыл"
+  },
+  { 
     "lame": "лъащэ"
   },
   {
     "copper": "гъуаплъэ"
   },
   {
-    "lung": "жъагъ"
+    "lung": "тхьабыл; жъагъ"
   },
   {
-    "fried, grilled": "жъагъэ"
+    "fried": "жъагъэ"
   },
   {
-    "Smell of frying, Smell of grilling,": "жъамэ"
+    "grilled": "жъагъэ"
   },
   {
-    "Sound of smack or hitting": "жъанч"
+    "handbell": "жъгъырыу"
   },
   {
-    "bell, Bell (small), cowbell": "жъгъырыу"
+    "cowbell": "жъгъырыу"
   },
   {
-    "small, tiny": "жъгъэй"
+    "astronomer": "жъогъо щы1эныгъэл1"
   },
   {
-    "coin": "жъгъэй"
+    "constellation": "жъогъобын"
   },
   {
-    "metal (scrap)": "жъгъэй"
-  },
-  {
-    "astronomer": "жъогъо ш11эныгъэл1"
-  },
-  {
-    "candelabra": "жъогъобын"
-  },
-  {
-    "comet": "жъогъок1эк1ахь"
+    "comet": "жъогъок1эк1ахь; жъуагъондж"
   },
   {
     "astrology": "жъогъопл1эн"
   },
   {
-    "planet": "жъогъозек1у"
+    "planet": "планета; жъогъозек1у"
   },
   {
-    "telescope": "жъогъорыплъ"
+    "telescope": "телескоп; жъогъорыплъ"
   },
   {
-    "meteor": "жъогъофах"
+    "meteor": "метеор; жъогъохэчъ"
   },
   {
-    "Easy to boil, Farmable land": "жъогъош1у"
-  },
-  {
-    "Plowing comrade": "жъогъу"
-  },
-  {
-    "Difficult to boil, Unfarmable land,": "жъогъуае"
+    "falling star": "метеор; жъогъохэчъ"
   },
   {
     "astrologer": "жъогъуаплъэ"
   },
   {
-    "Plowed land": "жъогъэжъ"
+    "to plow": "жъон; гъэжъон"
   },
   {
-    "to plow, to plough": "жъон"
+    "to plough": "жъон; гъэжъон"
   },
   {
-    "to boil": "жъон"
+    "to boil": "жъон; гъэжъон"
   },
   {
-    "(slang) to grind (to repeat a task a large number of times in a row to achieve a specific goal)": "жъон"
+    "to grind": "хьаджын; убын"
   },
   {
-    "cultivation, culture, training": "гъэсэныгъэ"
+    "training": "гъэсэныгъэ"
   },
   {
-    "plower": "жъонак1у"
+    "plower": "жъонак1о"
   },
   {
-    "Farming season": "жъоныгъу"
+    "plowman": "жъонак1о"
   },
   {
-    "End of farming season": "жъоныгъуак1"
+    "warm": "фабэ; жъоркъ (warm weather)"
   },
   {
-    "reddish brown": "жъоплъ"
+    "hot air": "жъоркъ"
   },
   {
-    "Daughter of foster mother,": "жъопхъу"
-  },
-  {
-    "warm (weather)": "жъоркъ"
-  },
-  {
-    "hot air, hot weather, hot spell": "жъоркъ"
+    "hot weather": "жъоркъ"
   },
   {
     "and": "ык1и"
@@ -6540,31 +6468,19 @@
     "by the way": "ык1и"
   },
   {
-    "alternative form of \"щэджэгъоуж\"": "щэгьэгъожь"
-  },
-  {
     "shoes": "цуакъэ"
   },
   {
     "footwear": "цуакъэ"
   },
   {
-    "alternative form of \"ык1и\"": "гьи"
+    "joy": "жъот"
   },
   {
-    "miser, stingy person": "хьэцэ1ук1"
+    "merriment": "жъот"
   },
   {
-    "stingy, miserly": "хьэцэ1ук1"
-  },
-  {
-    "miser, stingy person": "хьэцэ1укь"
-  },
-  {
-    "stingy, miserly": "хьэцэ1укь"
-  },
-  {
-    "noise": "жъот"
+    "fun": "тхъагъо; жъот"
   },
   {
     "to be happy": "жъотын"
@@ -6637,9 +6553,6 @@
   },
   {
     "painting": "сурэт"
-  },
-  {
-    "cat": "чэтыу"
   },
   {
     "(Literary) chicken": "чэты"
@@ -6744,9 +6657,6 @@
     "alternative form of \"лъэгуанджэ\"": "лъэгуаджэ"
   },
   {
-    "miser, greed": "хьацэ"
-  },
-  {
     "shovel (Shapsug)": "хьацэ"
   },
   {
@@ -6775,12 +6685,6 @@
   },
   {
     "alternative form of \"пчык1э\"": "пк1ык1э"
-  },
-  {
-    "frog": "хьантыкъуакъу"
-  },
-  {
-    "butterfly": "хьэт1рэп1ый"
   },
   {
     "alternative form of \"пц1анэ\"": "пс1анэ"
@@ -7272,9 +7176,6 @@
     "hind": "шъыхь"
   },
   {
-    "nest": "набгъу"
-  },
-  {
     "quail": "набгъу"
   },
   {
@@ -7315,18 +7216,6 @@
   },
   {
     "money box": "коны"
-  },
-  {
-    "hornet": "къэцыгъуан"
-  },
-  {
-    "wasp": "къэцыгъуан"
-  },
-  {
-    "shark": "хыхьэ"
-  },
-  {
-    "shark": "акул"
   },
   {
     "dolphin": "псыкъу"
@@ -7378,9 +7267,6 @@
   },
   {
     "alternative form of \"жэк1апэ\"": "жэк1ьапэ"
-  },
-  {
-    "lung": "тхьабыл"
   },
   {
     "intestine": "к1эт1эй"
@@ -7818,12 +7704,6 @@
     "knife": "шъэжъые"
   },
   {
-    "ax": "обзэгъу"
-  },
-  {
-    "ax": "ощы"
-  },
-  {
     "weather": "ожьы"
   },
   {
@@ -8104,9 +7984,6 @@
   },
   {
     "gloomy": "ш1унк1ы"
-  },
-  {
-    "darkness": "ш1унк1ы"
   },
   {
     "haze": "ш1унк1ы"
@@ -10104,9 +9981,6 @@
     "place": "т1эк1у"
   },
   {
-    "fast": "к1ык1ьай"
-  },
-  {
     "gas station": "бензин игъэхъоп1э"
   },
   {
@@ -10186,9 +10060,6 @@
   },
   {
     "boot": "щазымэ"
-  },
-  {
-    "shoe": "щырыкъу"
   },
   {
     "handkerchiefs": "1эплъэк1жъые"
@@ -11271,9 +11142,6 @@
     "small money": "ахъщэжъгъэй"
   },
   {
-    "coin": "ахъщэжъгъэй"
-  },
-  {
     "stock market": "ахъщэбэдзэр"
   },
   {
@@ -11290,9 +11158,6 @@
   },
   {
     "wallet, purse": "ахъщалъ"
-  },
-  {
-    "miser, stingy person": "ахъщапс"
   },
   {
     "capital": "ахъщашъхь"
@@ -11661,9 +11526,6 @@
     "meek": "шъабэ"
   },
   {
-    "rainbow": "лэгъупэкъопс"
-  },
-  {
     "great copper boiler": "лэгъупышху"
   },
   {
@@ -11833,12 +11695,6 @@
   },
   {
     "Asian": "нэзэжъу"
-  },
-  {
-    "miser, greed": "хьацэгъуй"
-  },
-  {
-    "miser, stingy": "тхьацэ"
   },
   {
     "to fight": "зэон"
@@ -12574,9 +12430,6 @@
   },
   {
     "alternative form of \"тек1эн\"": "тек1ьэн"
-  },
-  {
-    "turtle": "хьадэпчэмы1у"
   },
   {
     "to get hurt (emotionally)": "гухэк1ын"
@@ -16989,9 +16842,6 @@
     "alternative form of \"фэш1у\"": "фэш1у"
   },
   {
-    "layer": "пцум"
-  },
-  {
     "alternative form of \"к1ыин\"": "к1ьыин"
   },
   {
@@ -18270,12 +18120,6 @@
     "thorn": "къэцы"
   },
   {
-    "alternative form of \"къопс\"": "1эпэпс"
-  },
-  {
-    "handle": "1эубытып1э"
-  },
-  {
     "shoelace": "лъэпс"
   },
   {
@@ -18874,9 +18718,6 @@
   },
   {
     "wreckage, debris (scattered remains of something destroyed)": "къутаф"
-  },
-  {
-    "small, tiny": "шъхъэи"
   },
   {
     "to accuse, to charge, to blame": "гъэмысэн"
