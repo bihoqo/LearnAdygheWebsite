@@ -14628,11 +14628,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be split (caused by something or someone)",
+        "meaning": "to part; to separate; to break off",
         "examples": [
           {
-            "sentence": "Ч1ыгур т1у '''зэгок1ыгъ'''",
+            "sentence": "Ч1ыгур т1оу '''зэгок1ыгъ'''",
             "translation": "The earth '''got split''' into two."
+          },
+		  {
+            "sentence": "Пчъэхэр щы1эх т1оу '''зэгок1ыхэу'''",
+            "translation": "There are doors that '''split'''."
           }
         ]
       },
@@ -20284,17 +20288,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be completely broken, to be destroyed, to be shattered,",
-        "examples": [
-          {
-            "sentence": "анэр '''мэубэтагъ'''",
-            "translation": "The table '''is destroyed'''."
-          },
-          {
-            "sentence": "анэр '''мэубатэ'''",
-            "translation": "The table '''is being destroyed'''."
-          }
-        ]
+        "meaning": "alternative form of \"убэтэн\"",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -20305,10 +20300,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to tear off (something from itself); to break off",
+        "meaning": "to tear off; to break off",
         "examples": [
           {
-            "sentence": "К1апсэр '''зэпытхъэгъ'''",
+            "sentence": "К1апсэр '''зэпытхъыгъ'''",
             "translation": "The rope '''is torn'''."
           },
           {
@@ -20325,6 +20320,27 @@
     "type": "verb",
     "ipa": "zapətχən"
   },
+  {
+    "word": "зэхэтхъын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to tear apart",
+        "examples": [
+          {
+            "sentence": "К1апсэр '''зэхэтхъыгъ'''",
+            "translation": "The rope '''tore apart'''."
+          },
+          {
+            "sentence": "К1алэм джанэр '''зэхетхъы'''",
+            "translation": "The boy '''is tearing apart''' the shirt."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaxətχən"
+  }
   {
     "word": "зэпитхъын",
     "lang": "Adyghe",
@@ -20438,11 +20454,15 @@
         ]
       },
       {
-        "meaning": "to get over",
+        "meaning": "to cross",
         "examples": [
           {
-            "sentence": "Гъогур к1алэм '''зэпычыгъ'''",
-            "translation": "The boy '''passed over''' the road."
+            "sentence": "Гъогур к1алэм '''зэпичыгъ'''",
+            "translation": "The boy '''crossed''' the road."
+          },
+		  {
+            "sentence": "Л1ым шъофыр '''зэпичыгъ'''",
+            "translation": "The man '''crossed''' the field."
           }
         ]
       },
@@ -20940,7 +20960,7 @@
         ]
       },
       {
-        "meaning": "to get out within a mass (liquid, gas or solid)",
+        "meaning": "to come out of a situation, object, gas or a liquid",
         "examples": [
           {
             "sentence": "К1алэр псым '''хэк1ыгъ'''",
@@ -31981,14 +32001,66 @@
       {
         "meaning": "to become stuck (unable to progress)",
         "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʔʷənan"
+  },
+  {
+    "word": "къы1унэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to stay behind, to remain",
+        "examples": [
+          {
+            "sentence": "К1алэр '''къы1унагъ''' иныбжьэгъу''' паплъэу",
+            "translation": "The boy '''stayed behind''' waiting for his friend."
+          }
+        ]
       },
       {
-        "meaning": "to stay, remain (usually the prefix къы- /qə-/ is added)",
-        "examples": []
-      },
+        "meaning": "to leave someone behind",
+        "examples": [
+          {
+            "sentence": "К1алэр иныбжьэгъу '''къы1уинагъ''' изакъоу",
+            "translation": "The boy '''left''' his friend alone."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "qəʔʷənan"
+  },
+  {
+    "word": "къы1угъэнэн",
+    "lang": "Adyghe",
+    "definitions": [
       {
-        "meaning": "to leave someone",
-        "examples": []
+        "meaning": "to leave someone/something behind",
+        "examples": [
+          {
+            "sentence": "Мыдэ пхъэнт1эк1у мак1э '''къы1угъан'''",
+            "translation": "'''Leave''' some few chairs here."
+          }
+        ] 
+      }
+    ],
+    "type": "verb",
+    "ipa": "qəʔʷəʁanan"
+  },
+  {
+    "word": "къыфэгъэнэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to leave behind for",
+        "examples": [
+          {
+            "sentence": "Ахъщэ т1эк1у '''къэтфэгъан'''",
+            "translation": "'''Leave''' us some money."
+          }
+        ] 
       }
     ],
     "type": "verb",
@@ -32225,11 +32297,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "far",
+        "meaning": "far; far away",
         "examples": [
           {
             "sentence": "Сиунэ '''чыжьэ'''",
-            "translation": "The house is '''far'''."
+            "translation": "The house is '''far away'''."
+          },
+		  {
+            "sentence": "К1алэм '''чыжьэу''' 1ут",
+            "translation": "The boy is standing'''far away'''."
           },
           {
             "sentence": "Мэзыр зыш1у '''чыжьэ'''",
@@ -32595,7 +32671,7 @@
             "translation": "The USB '''doesn't come off''' the computer."
           }
         ]
-      },
+      ,
       {
         "meaning": "to divorce from",
         "examples": [
@@ -32604,6 +32680,10 @@
             "translation": "That man '''divorced from''' his wife."
           }
         ]
+      },
+      {
+        "meaning": "to come off",
+        "examples": []
       }
     ],
     "synonyms": [
@@ -36297,27 +36377,35 @@
     "ipa": "qavqaːz"
   },
   {
-    "word": "дэж",
+    "word": "дэжь",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "near",
         "examples": [
           {
-            "sentence": "к1алэм '''идэж''' к1о",
+            "sentence": "К1алэм '''ыдэж''' к1о",
             "translation": "Go '''near''' the boy."
           },
           {
-            "sentence": "унэм '''идэж''' 1ухь",
+            "sentence": "Унэм '''ыдэж''' 1ухь",
             "translation": "Go '''near''' the house."
           },
           {
-            "sentence": "'''шъуидэж''' мыр къэсхьыт",
-            "translation": "I will bring this '''near you (plural)'''."
+            "sentence": "'''Садэжы''' 1ук1",
+            "translation": "Go away '''from (near) me'''."
+          },
+		  {
+            "sentence": "К1алэм '''ыдэжь''' къак1у",
+            "translation": "Come '''near''' the boy."
           },
           {
-            "sentence": "'''садэжы''' 1ук1",
-            "translation": "Go away '''from (near) me'''."
+            "sentence": "Унэм '''ыдэжь''' 1ут",
+            "translation": "(S)he is standing '''near''' the house."
+          },
+          {
+            "sentence": "Тэ '''тадэжь''' къак1у",
+            "translation": "Come '''near''' us."
           }
         ]
       },
@@ -36325,11 +36413,11 @@
         "meaning": "one's place",
         "examples": [
           {
-            "sentence": "к1алэм '''идэж''' к1о",
+            "sentence": "К1алэм '''ыдэж''' к1о",
             "translation": "Go '''to''' the boy's '''place'''."
           },
           {
-            "sentence": "'''шъуидэж''' мыр къэсхьыт",
+            "sentence": "'''Шъуидэжь''' мыр къэсхьыщт",
             "translation": "I will bring this '''to your place (plural)'''."
           }
         ]
@@ -40396,35 +40484,6 @@
     ],
     "type": "noun",
     "ipa": "ʁapsafaːkʷʼa"
-  },
-  {
-    "word": "дэжь",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "near",
-        "examples": [
-          {
-            "sentence": "к1алэм '''идэжь''' къак1у",
-            "translation": "Come '''near''' the boy."
-          },
-          {
-            "sentence": "унэм '''идэжь''' 1ут",
-            "translation": "He/it is standing '''near''' the house."
-          },
-          {
-            "sentence": "тэ '''тадэжь''' къак1у",
-            "translation": "Come '''near''' us."
-          },
-          {
-            "sentence": "тэ '''тадэжь''' о усхьыт",
-            "translation": "I will take you '''near us'''."
-          }
-        ]
-      }
-    ],
-    "type": "adj",
-    "ipa": "daʑ"
   },
   {
     "word": "оды",
@@ -56372,7 +56431,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to leave something (To cause or allow (something) to remain as available)",
+        "meaning": "to leave something (to cause or allow (something) to remain as available)",
         "examples": [
           {
             "sentence": "К1алэм псы '''къегъанэ'''",
@@ -65834,7 +65893,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to snap; to fracture or break apart suddenly",
+        "meaning": "to snap; to fracture or break apart",
      1   "examples": [
           {
             "sentence": "Пхъэр '''зэпык1ыгъ'''",
@@ -65853,6 +65912,10 @@
       },
       {
         "meaning": "alternative form of \"пык1ын\" (to divorce; to separate from)",
+        "examples": []
+      },
+      {
+        "meaning": "to come off",
         "examples": []
       }
     ],
@@ -97961,5 +98024,116 @@
     ],
     "type": "verb",
     "ipa": "zaʔətχən"
+  },
+  {
+    "word": "пэблагъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "close",
+        "examples": [
+          {
+            "sentence": "Тиунэ к1алэм иунэ '''пэблагъ'''",
+            "translation": "My house '''is close to''' the boy's house."
+          },
+		  {
+            "sentence": "А к1алэр '''къэспэблагъ'''",
+            "translation": "That boy '''is close to me'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "not far off",
+        "examples": [
+          {
+            "sentence": "Уиджэуап тэрэзым '''пэблагъ'''",
+            "translation": "Your answer is '''not far off''' from the correct one."
+          }
+		]
+      },
+	  {
+        "meaning": "nearby",
+        "examples": []
+      },
+	  {
+        "meaning": "relative to",
+        "examples": [
+			{
+            "sentence": "А к1алэр '''къэспэблагъ'''",
+            "translation": "That boy '''is my relative'''."
+          }
+		]
+      }
+    ],
+    "synonyms": [
+      "пэгъунэгъу"
+    ],
+    "type": "adj",
+    "ipa": "pablaːʁ"
+  },
+  {
+    "word": "пэчыжь",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "far from; far away from",
+        "examples": [
+          {
+            "sentence": "Тиунэ к1алэм иунэ '''пэчыжь'''",
+            "translation": "My house '''is far from''' the boy's house."
+          },
+		  {
+            "sentence": "А к1алэр '''къэспэчыжь'''",
+            "translation": "That boy '''is far from me'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "far off",
+        "examples": [
+          {
+            "sentence": "Уиджэуап тэрэзым '''пэчыжь'''",
+            "translation": "Your answer is '''far off''' from the correct one."
+          }
+		]
+      },
+	  {
+        "meaning": "far away",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "пэгъунэгъу"
+    ],
+    "type": "adj",
+    "ipa": "pablaːʁ"
+  },
+  {
+    "word": "пэгъунэгъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "close; adjacent",
+        "examples": [
+          {
+            "sentence": "Тиунэ к1алэм иунэ '''пэгъунэгъу'''",
+            "translation": "My house '''is close to''' the boy's house."
+          },
+		  {
+            "sentence": "А к1алэр '''къэспэгъунэгъу'''",
+            "translation": "That boy '''is close to me'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "neighboring",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "пэблагъ"
+    ],
+    "type": "adj",
+    "ipa": "paʁʷnaʁʷ"
   }
 ]

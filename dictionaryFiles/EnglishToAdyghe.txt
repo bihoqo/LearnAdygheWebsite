@@ -2472,7 +2472,40 @@
     "hole": "гъуанэ"
   },
   {
-    "near": "благъэ"
+    "near": "благъэ; ыдэжь; пэблагъ (close to); пэгъунэгъу (close to)"
+  },
+  {
+    "close": "благъэ; пэблагъ (close to); пэгъунэгъу (close to)"
+  },
+  {
+    "not far": "пэчыжьэп"
+  },
+  {
+    "far": "чыжьэ; пэчыжь (far from)"
+  },
+  {
+    "far from": "пэчыжь"
+  },
+  {
+    "far away": "чыжьэ; пэчыжь (far away from)"
+  },
+  {
+    "far away from": "пэчыжь"
+  },
+  {
+    "not far off": "пэблагъ"
+  },
+  {
+    "nearby": "пэблагъ"
+  },
+  {
+    "adjacent": "пэгъунэгъу"
+  },
+  {
+    "neighboring": "пэгъунэгъу"
+  },
+  {
+    "close to": "пэблагъ (close to); пэгъунэгъу (close to)"
   },
   {
     "close friend": "благъэ"
@@ -4839,22 +4872,31 @@
     "to snap": "зэпык1ын"
   },
   {
-    "to tear off": "хэтхъын / пытхъын (to tear off from); зэхэтхъын / зэпытхъын (to tear off from itself)"
+    "to tear off": "хэтхъын / пытхъын (to tear off from); зэпытхъын (to tear off from itself)"
+  },
+  {
+    "to tear apart": "зэхэтхъын"
   },
   {
     "to rip away": "хэтхъын; пытхъын"
   },
   {
-    "to pull off": "хэтхъын; пытхъын; пычын"
+    "to pull off": "хэтхъын; пытхъын; пычын (to pick)"
+  },
+  {
+    "to break": "зэпык1ын (to snap); убэтэн (to destroy); къутэн (to destroy)"
   },
   {
     "to fracture": "зэпык1ын"
   },
   {
+    "to come off": "пык1ын"
+  },
+  {
     "to break off": "пытхъын (to break off from); зэпытхъын (to break off from itself)"
   },
   {
-    "to tear": "пычын (to pick); хэтхъын / пытхъын (to tear off from); зэхэтхъын / зэпытхъын (to tear off from itself); къыпышъунк1ык1ын"
+    "to tear": "пычын (to pick); хэтхъын / пытхъын (to tear off from); зэхэтхъын / зэпытхъын (to tear off from itself); къыпышъунк1ык1ын; 1утхъын (to tear off)"
   },
   {
     "to tear to shreds": "чэтхъэн"
@@ -4953,22 +4995,25 @@
     "shoulder blade": "блэбгъу"
   },
   {
-    "shoulder bone tip": "блэбгъуп"
+    "scapula tip": "блэбгъуп"
   },
   {
-    "astrologer (uses the shoulder bone for astrology)": "блэбгъуплъ"
+    "astrologer": "блэбгъуплъ"
   },
   {
-    "to pass something, to bypass, to cross": "блэк1ын"
+    "to pass": "блэк1ын; блэхъушъутын; блэшъутын (Shapsug)"
   },
   {
-    "to get through, to go through": "хэк1ын"
+    "to bypass": "блэк1ын"
   },
   {
-    "to get out within a mass (liquid, gas or solid)": "хэк1ын"
+    "to cross": "блэк1ын; зэпычын"
   },
   {
-    "to leave a group, to come out from a group.": "хэк1ын"
+    "to get through": "хэк1ын"
+  },
+  {
+    "to go through": "хэк1ын"
   },
   {
     "to emerge": "хэк1ын"
@@ -4977,10 +5022,16 @@
     "to get decreased": "хэк1ын"
   },
   {
-    "to fly past something": "блэбыбык1ын"
+    "to decrease": "хэк1ын; нахь мак1эу хъун"
   },
   {
-    "nearness": "блэгъагъ"
+    "to fly past": "блэбыбык1ын"
+  },
+  {
+    "nearness": "блэгъэныгъэ"
+  },
+  {
+    "nearness": "блэгъэ"
   },
   {
     "family related": "блэгъагъ"
@@ -7644,7 +7695,10 @@
     "to stay, remain (usually the prefix къы- /qə-/ is added)": "1унэн"
   },
   {
-    "to leave someone": "1унэн"
+    "to stay behind": "къы1унэн"
+  },
+  {
+    "to leave behind": "къы1унэн / къы1угъэнэн"
   },
   {
     "to become stuck (trapped and unable to move)": "хэнэн"
@@ -8661,9 +8715,6 @@
     "Caucasus, Kavkaz": "къэвкъаз"
   },
   {
-    "near": "дэж"
-  },
-  {
     "one's place": "дэж"
   },
   {
@@ -9379,9 +9430,6 @@
   },
   {
     "vacation": "гъэпсэфак1о"
-  },
-  {
-    "near": "дэжь"
   },
   {
     "slim": "оды"
@@ -13915,9 +13963,6 @@
   },
   {
     "alternative form of \"пык1ьын\"": "зэпык1ьын"
-  },
-  {
-    "to break": "зэпык1ын"
   },
   {
     "alternative form of \"пык1ын\" (to divorce; to separate from)": "зэпык1ын"
