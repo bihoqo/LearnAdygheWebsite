@@ -6839,14 +6839,6 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "fence",
-        "examples": []
-      },
-      {
-        "meaning": "rail",
-        "examples": []
-      },
-      {
         "meaning": "wall",
         "examples": [
           {
@@ -20714,14 +20706,6 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "fence",
-        "examples": []
-      },
-      {
-        "meaning": "rail",
-        "examples": []
-      },
-      {
         "meaning": "wall",
         "examples": []
       }
@@ -20749,12 +20733,24 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "pavement",
+        "meaning": "bench",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "blənət͡ʃ"
+    "ipa": "blənət͡ʃʼ"
+  },
+  {
+    "word": "пхъэнт1эк1у к1ыхь",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "bench",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "pχantʼakʷʼ t͡ʃʼəħ"
   },
   {
     "word": "блыпкъ",
@@ -20785,7 +20781,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "collarbone",
+        "meaning": "collarbone; collar-bone; clavicle",
         "examples": []
       }
     ],
@@ -20800,7 +20796,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "collarbone",
+        "meaning": "collarbone; collar-bone; clavicle",
         "examples": []
       }
     ],
@@ -20823,23 +20819,11 @@
     "ipa": "ʐəj"
   },
   {
-    "word": "блыпкъышъхь",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "upper arm bone tip",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "bləpqəʂħ"
-  },
-  {
     "word": "блыпкъыщ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "shoulder (slanting),",
+        "meaning": "bunglesome, butterfingered, club-handed",
         "examples": []
       }
     ],
@@ -20875,7 +20859,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "shoulder bone tip",
+        "meaning": "scapula tip",
         "examples": []
       }
     ],

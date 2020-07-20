@@ -1650,9 +1650,6 @@
     "fence": "ш1ыхьагъэ; дэпкъы (wall); чэу (wattle fence)"
   },
   {
-    "wall": "дэпкъы"
-  },
-  {
     "to drape": "пэ1ухъон"
   },
   {
@@ -4911,22 +4908,10 @@
     "wadding": "блыгуч1ад"
   },
   {
-    "fence": "блыны"
+    "wall": "дэпкъы; блыны"
   },
   {
-    "rail": "блыны"
-  },
-  {
-    "wall": "блыны"
-  },
-  {
-    "alternative form of \"гъэсэпэтхыдэ\"": "гъэсэфытхыдэ"
-  },
-  {
-    "pavement": "блынык1"
-  },
-  {
-    "upper arm": "блыпкъ"
+    "bench": "блынык1; пхъэнт1эк1у к1ыхь"
   },
   {
     "forearm": "1элджанэ; блантхъэ (for animals)"
@@ -4935,25 +4920,37 @@
     "front thigh": "блантхъэ (for animals)"
   },
   {
-    "collarbone": "блыпкъыжъый"
+    "collarbone": "блыпкъыжъый; тэмэжъый"
   },
   {
-    "collarbone": "тэмэжъый"
+    "collar-bone": "блыпкъыжъый; тэмэжъый"
   },
   {
-    "small, tiny": "жъый"
+    "clavicle": "блыпкъыжъый; тэмэжъый"
   },
   {
-    "upper arm bone tip": "блыпкъышъхь"
+    "little": "ц1ык1у; жъый"
   },
   {
-    "shoulder (slanting),": "блыпкъыщ"
+    "small": "ц1ык1у; жъый"
   },
   {
-    "seven by seven": "блырыбл"
+    "tiny": "жъый; ц1ык1ужъый"
   },
   {
-    "shoulder bone": "блэбгъу"
+    "few": "мак1э; т1эк1у"
+  },
+  {
+    "bunglesome": "блыпкъыщ"
+  },
+  {
+    "butterfingered": "блыпкъыщ"
+  },
+  {
+    "club-handed": "блыпкъыщ"
+  },
+  {
+    "shoulder blade": "блэбгъу"
   },
   {
     "shoulder bone tip": "блэбгъуп"
