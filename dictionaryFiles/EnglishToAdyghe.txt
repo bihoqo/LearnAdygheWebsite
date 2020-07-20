@@ -1968,9 +1968,6 @@
     "necklace": "джэгъуч1элъ"
   },
   {
-    "boots": "цокъок1ыхь"
-  },
-  {
     "umbrella": "щэтыр, щамсый"
   },
   {
@@ -2137,9 +2134,6 @@
   },
   {
     "pocket": "джыбэ"
-  },
-  {
-    "boots": "чызмэ"
   },
   {
     "tongs": "1адэ"
@@ -5853,10 +5847,13 @@
     "geology": "ч1ымэтх"
   },
   {
-    "Natural ambience, nature": "ч1ыопс"
+    "nature": "ч1ыопс"
   },
   {
     "metaphysics": "ч1ыопс к1ыб"
+  },
+  {
+    "supernatural": "ч1ыопс к1ыб"
   },
   {
     "beet": "ч1ыплъ"
@@ -5865,64 +5862,82 @@
     "beet": "гыныплъ"
   },
   {
-    "geodesy": "ч1ыпчъынш1эныгъэр"
+    "geodesy": "ч1ыпчъын ш1эныгъэ"
   },
   {
     "coordinates": "ч1ытхъыцэхэр"
   },
   {
-    "code": "ч1ыгъык1элъыбз"
-  },
-  {
-    "alternative form of \"чъыгы\"": "чъыг"
-  },
-  {
     "buttonhole": "чы1ун"
   },
   {
-    "Iron cable, Iron wire": "чыдан"
+    "iron cable": "чыдан"
   },
   {
-    "boots": "лъэецуакъо"
+    "iron wire": "чыдан"
+  },
+  {
+    "metal wire": "чыдан"
+  },
+  {
+    "boots": "лъэецуакъэ; чызмэ (Arabic); цокъок1ыхь"
   },
   {
     "resident": "чылэдэс"
   },
   {
-    "village dweller, villager": "чылэдэс"
+    "villager": "чылэдэс; къоджэдэс"
   },
   {
-    "Jewish": "чыфыт"
+    "village dweller": "чылэдэс; къоджэдэс"
   },
   {
-    "barracks, kiosk": "чэл"
+    "kefir": "чыфыр"
   },
   {
-    "shelter": "чэл"
+    "hut": "чэл; бгъэнышъхьэун"
   },
   {
-    "dusk": "чэпзэхэогъу"
+    "asylum": "шъхьэегъэзып1"
   },
   {
-    "caravan": "чэрэуан"
+    "hideout": "гъэбылъып1э (place); зыщыгъэбылъып1э (place); ч1эухъумэныр; гъэбылъыныр; ушъэфыныр"
   },
   {
-    "cotton cloth, Print cloth, White gauze,": "чэсэй"
+    "shelter": "зыщыухъумап1э; ухъумап1э"
   },
   {
-    "dates, palm": "чэц1ыбжъ"
+    "dusk": "чэпзэхэогъу; пщэпэ зэхэогъу; пщэпэ зэхэогъухэр"
+  },
+  {
+    "twilight": "чэпзэхэогъу; пщэпэ зэхэогъу; пщэпэ зэхэогъухэр"
+  },
+  {
+    "caravan": "караван"
+  },
+  {
+    "madapolam": "чэсэй"
+  },
+  {
+    "dates": "къурмэ"
   },
   {
     "pajamas": "чэщ щыгъын"
   },
   {
-    "tendon (tough band of inelastic fibrous tissue that connects a muscle with its bony attachment)": "фэ"
+    "sleepwear": "чэщ щыгъын"
   },
   {
-    "money": "нэгъэц1ыу"
+    "tendon": "фэ"
   },
   {
-    "candy": "шэкэрхафэ"
+    "money": "ахъщэ; парэ; нэгъэц1ыу; хъурыш1э"
+  },
+  {
+    "currency": "ахъщэ; парэ; нэгъэц1ыу; хъурыш1э"
+  },
+  {
+    "candy": "(Kfar Kama dialect) шэкэрхафэ"
   },
   {
     "rick": "хьандзу"
@@ -5940,7 +5955,13 @@
     "waste": "ебз"
   },
   {
-    "dung, manure (fertilizer)": "ебз"
+    "dung": "ебз"
+  },
+  {
+    "manure": "ебз"
+  },
+  {
+    "fertilizer": "ч1ыгур гъэш1уныр; ч1ыгъэш1у хэлъхьаныр; ебз (manure, dung)"
   },
   {
     "three steps (Said to places that are very close)": "хьэлъэбэкъищ"
@@ -6763,12 +6784,6 @@
   },
   {
     "fat or oil from the body of an animal": "шэ"
-  },
-  {
-    "money": "ахъщэ"
-  },
-  {
-    "currency": "ахъщэ"
   },
   {
     "fund": "ахъщэ"
@@ -7768,9 +7783,6 @@
   },
   {
     "prophet": "бегъымбар"
-  },
-  {
-    "money": "парэ"
   },
   {
     "grave": "хъэ"

@@ -24005,16 +24005,20 @@
     "ipa": "t͡ʃətχət͡saxar"
   },
   {
-    "word": "ч1ыгъык1элъыбз",
+    "word": "ч1ыгъэш1у",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "code",
+        "meaning": "fertilization (the process of fertilizing)",
+        "examples": []
+      },
+	  {
+        "meaning": "fertilizer, manure",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "t͡ʃəʁət͡ʃaɬəbz"
+    "ipa": "t͡ʂʼʁaʃʷʼ"
   },
   {
     "word": "чъыг",
@@ -24035,10 +24039,30 @@
       {
         "meaning": "buttonhole",
         "examples": []
+      },
+	  {
+        "meaning": "loop (length of thread, line or rope, a shape produced by a curve)",
+        "examples": []
       }
     ],
     "type": "noun",
     "ipa": "t͡ʃəʔʷən"
+  },
+  {
+    "word": "лъэт1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "noose",
+        "examples": []
+      },
+	  {
+        "meaning": "loop",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ɬatʼan"
   },
   {
     "word": "чыдан",
@@ -24053,7 +24077,7 @@
     "ipa": "t͡ʃədaːn"
   },
   {
-    "word": "лъэецуакъо",
+    "word": "лъэецуакъэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -24065,7 +24089,7 @@
       "чызмэ"
     ],
     "type": "noun",
-    "ipa": "ɬajat͡sʷaːqʷa"
+    "ipa": "ɬajat͡sʷaːqa"
   },
   {
     "word": "чылэдэс",
@@ -24088,11 +24112,11 @@
     "ipa": "t͡ʃəɮadas"
   },
   {
-    "word": "чыфыт",
+    "word": "чыфыр",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Jewish",
+        "meaning": "kefir",
         "examples": []
       }
     ],
@@ -24107,11 +24131,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "barracks, kiosk",
-        "examples": []
-      },
-      {
-        "meaning": "shelter",
+        "meaning": "hut",
         "examples": []
       }
     ],
@@ -24119,11 +24139,87 @@
     "ipa": "t͡ʃal"
   },
   {
-    "word": "чэпзэхэогъу",
+    "word": "бгъэнышъхьэун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "hut",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃal"
+  },гъэбылъыпIэ
+  {
+    "word": "шъхьэегъэзып1a",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "asylum",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʂħajaʁazəpʼa"
+  },
+  {
+    "word": "гъэбылъып1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "hideout",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʁabəɬəpʼa"
+  },
+  {
+    "word": "ухъумап1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "shelter",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "wəχʷəmaːpʼa"
+  },
+  {
+    "word": "зыщыухъумап1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "shelter",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "zəɕəwχʷəmaːpʼa"
+  },
+  {
+    "word": "зыщыгъэбылъып1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "hideout",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "zəɕəʁabəɬəpʼa"
+  },
+  {
+    "word": "чэпэзэхэогъу",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "dusk",
+        "examples": []
+      },
+	  {
+        "meaning": "twilight",
         "examples": []
       }
     ],
@@ -24147,7 +24243,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "cotton cloth, Print cloth, White gauze,",
+        "meaning": "madapolam",
         "examples": []
       }
     ],
@@ -24159,23 +24255,58 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "dates, palm",
+        "meaning": "dates  (fruit)",
         "examples": []
       }
     ],
     "type": "noun"
   },
   {
+    "word": "къурмэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "dates (fruit)",
+        "examples": []
+      }
+    ],
+    "type": "qʷərma"
+  },
+  {
     "word": "чэщ щыгъын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "pajamas",
+        "meaning": "pajamas; sleepwear",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "t͡ʃaɕ ɕəʁən"
+  },
+  {
+    "word": "чапыч",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "kopek, kopeck; also copeck (one 100th of ruble, the monetary unit of Russia)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃaːpət͡ʃ"
+  },
+  {
+    "word": "ахъщац1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "currency name",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "aːχɕaːt͡sʼa"
   },
   {
     "word": "фэ",
@@ -24226,7 +24357,7 @@
         "examples": []
       },
       {
-        "meaning": "stack",
+        "meaning": "(hay) stack",
         "examples": []
       }
     ],
