@@ -4338,13 +4338,7 @@
     "to harm": "ягъэ егъэк1ын"
   },
   {
-    "to disturb": "ягъэ егъэк1ын"
-  },
-  {
     "to get in the way": "ягъэ егъэк1ын; гъэохъун; пэ1ууцон (to stand in front of someone)"
-  },
-  {
-    "to annoy": "ягъэ егъэк1ын"
   },
   {
     "to interrupt": "зэпыгъэун"
@@ -5742,16 +5736,31 @@
     "longsuffering": "бэщы1"
   },
   {
-    "Heavy body, Heavy weight, patient,": "бэщэч"
+    "Kabartay": "къэбэртай"
   },
   {
-    "Kabartay (a Circassian clan tribe)": "къэбэртай"
+    "Kabardian": "къэбэртай"
   },
   {
-    "a Kabardian person": "къэбэртай"
+    "to contradict": "пэш1оон; зэпэш1оон (to contradict each other)"
   },
   {
-    "beggar (A poor person who begs for money)": "лъэ1уак1о"
+    "to pester": "пынэн; пэш1онэн"
+  },
+  {
+    "to bother": "ягъэ егъэк1ын; пынэн; пэш1онэн"
+  },
+  {
+    "to harass": "тебэнэн; пынэн; пэш1онэн; гъэгумэк1ын"
+  },
+  {
+    "to annoy": "ягъэ егъэк1ын; пшъэбы дэсын; шъхьэ тесын"
+  },
+  {
+    "to disturb": "ягъэ егъэк1ын"
+  },
+  {
+    "beggar": "лъэ1уак1о"
   },
   {
     "flea": "хьэбадзэ"

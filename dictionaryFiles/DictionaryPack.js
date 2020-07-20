@@ -18161,26 +18161,38 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to harm someone, to disturb someone, to get in someone's way, to annoy someone",
+        "meaning": "to harm someone",
         "examples": [
-          {
-            "sentence": "к1алэм '''ягъэ''' пшъашъэм '''регъэк1ы'''",
-            "translation": "the boy '''is harming''' the girl."
-          },
           {
             "sentence": "к1алэм '''ягъэ ебэгъэк1ы'''",
             "translation": "you '''are harming''' the boy."
           },
           {
-            "sentence": "к1алэм '''ягъэ езгъэк1рэп'''",
+            "sentence": "к1алэм '''ягъэ езгъэк1ырэп'''",
             "translation": "I '''am not harming''' the boy."
+          }
+        ]
+      },
+	  {
+        "meaning": "to bother, to disturb someone",
+        "examples": [
+          {
+            "sentence": "к1алэм '''ягъэ''' пшъашъэм '''регъэк1ы'''",
+            "translation": "the boy '''is bothering''' the girl."
           },
           {
             "sentence": "'''ягъэ''' к1алэхэмэ '''ямгък1'''",
-            "translation": "'''don't harm''' the kids."
+            "translation": "'''don't bother''' the kids."
           }
         ]
+      },
+	  {
+        "meaning": "to get in someone's way",
+        "examples": []
       }
+    ],
+    "synonyms": [
+      "къин егъэк1ын"
     ],
     "type": "verb",
     "ipa": "jaːʁa jaʁakʲən"
@@ -18202,6 +18214,34 @@
           }
         ]
       }
+    ],
+    "type": "verb",
+    "ipa": "jaːʁa qaʁakʷʼan"
+  },
+  {
+    "word": "къин егъэк1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to harm; to bother; to disturb",
+        "examples": [
+          {
+            "sentence": "к1алэм '''къин''' пшъашъэм  '''регъэк1ы'''",
+            "translation": "the boy '''is bothering''' the girl"
+          },
+          {
+            "sentence": "'''къин къамыкъак1у''', к1алэр еджэн ео",
+            "translation": "'''do not disturb''', the boy is trying to learn."
+          },
+		  {
+            "sentence": "к1алэм '''къин регъэк1ы'''",
+            "translation": "the boy '''is harimg him'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "ягъэ егъэк1ын"
     ],
     "type": "verb",
     "ipa": "jaːʁa qaʁakʷʼan"
@@ -23348,7 +23388,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "heavy weight",
+        "meaning": "heavyweight",
         "examples": []
       },
 	  {
@@ -23357,6 +23397,54 @@
       }
     ],
     "type": "adj"
+  },
+  {
+    "word": "зы1эжэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to abstain from something, to restrain oneself, to control oneself, to pull oneself together",
+        "examples": []
+      }
+    ],
+    "type": "adj"
+    "ipa": "zəʔaʒan"
+  },
+  {
+    "word": "зы1эжын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"зы1эжэн\"",
+        "examples": []
+      }
+    ],
+    "type": "adj"
+    "ipa": "zəʔaʒan"
+  },
+  {
+    "word": "зы1эжэжьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"зы1эжэн\"",
+        "examples": []
+      }
+    ],
+    "type": "adj"
+    "ipa": "zəʔaʒaʑən"
+  },
+  {
+    "word": "зэпэш1оон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to contradict each other",
+        "examples": []
+      }
+    ],
+    "type": "adj"
+    "ipa": "zəʔaʒaʑən"
   },
   {
     "word": "къэбэртай",
@@ -57675,6 +57763,74 @@
     ],
     "type": "verb",
     "ipa": "ɬapawan"
+  },
+  {
+    "word": "лъэпэш1оон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to stumble someone",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɬapaʃʷʼawan"
+  },
+  {
+    "word": "пэш1онэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to pester (to bother, harass, or annoy persistently)",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "paʃʷʼanan"
+  },
+  {
+    "word": "пынэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to pester (to bother, harass, or annoy persistently)",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "pənan"
+  },
+  {
+    "word": "пшъэбы дэсын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to annoy; to bother",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "шъхьэ тесын",
+      "ягъэ егъэк1ын"
+    ],
+    "type": "verb",
+    "ipa": "pʂabə dasən"
+  },
+  {
+    "word": "шъхьэ тесын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to annoy; to bother",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "пшъэбы дэсын",
+      "ягъэ егъэк1ын"
+    ],
+    "type": "verb",
+    "ipa": "ʂħa tajsən"
   },
   {
     "word": "есэпэон",
