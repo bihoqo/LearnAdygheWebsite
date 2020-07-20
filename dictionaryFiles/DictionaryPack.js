@@ -8504,6 +8504,25 @@
     "ipa": "təʁanaʁʷənd͡ʒa"
   },
   {
+    "word": "тыгъэнэстыр",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "blazing sun",
+        "examples": []
+      },
+	  {
+        "meaning": "sun's heat",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "тыгъэстыр"
+    ],
+    "type": "noun",
+    "ipa": "təʁanastər"
+  },
+  {
     "word": "къэптан",
     "lang": "Adyghe",
     "definitions": [
@@ -10731,7 +10750,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "diligent, well-behaved; industrious",
+        "meaning": "diligent; industrious",
         "examples": [
           {
             "sentence": "уикъо '''нэутх'''1",
@@ -16668,6 +16687,10 @@
       {
         "meaning": "twig",
         "examples": []
+      },
+	  {
+        "meaning": "brushwood",
+        "examples": []
       }
     ],
     "type": "noun",
@@ -18724,21 +18747,20 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to faint, to pass out, to swoon, to keel over",
-        "examples": [
-          {
-            "sentence": "к1алэр '''мэмахы'''",
-            "translation": "The boy '''is passing out'''."
-          },
-          {
-            "sentence": "к1алэр '''мэмэхэгъ'''",
-            "translation": "The boy '''passed out'''."
-          },
-          {
-            "sentence": "'''укъэмэхыт''' уэр уыщхымэ",
-            "translation": "'''You will pass out''' if you eat that."
-          }
-        ]
+        "meaning": "alternative form of \"къэмэхын\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "mamaxən"
+  },
+  {
+    "word": "мэмэхын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"мэхын\"",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -21060,31 +21082,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "cloth friend",
+        "meaning": "longtime friend; old friend",
         "examples": []
-      },
-      {
-        "meaning": "old friend",
-        "examples": []
+      }
       }
     ],
     "type": "noun",
     "ipa": "blaʁaʐ"
-  },
-  {
-    "word": "блэгьан",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "snake skin",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "блашъо"
-    ],
-    "type": "noun",
-    "ipa": "blaɡʲaːn"
   },
   {
     "word": "блэлъэтын",
@@ -21108,7 +21112,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "snake (non-poisonous)",
+        "meaning": "non-poisonous snake; harmless snake",
         "examples": []
       }
     ],
@@ -21170,24 +21174,12 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Stag calf",
+        "meaning": "fawn; young deer; deer yearling",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "blanaːʃkʼa"
-  },
-  {
-    "word": "блэнэукъ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "grass fodder",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "blanawq"
   },
   {
     "word": "блэнэуц",
@@ -21200,6 +21192,18 @@
     ],
     "type": "noun",
     "ipa": "blanawt͡s"
+  },
+  {
+    "word": "фыкъуадэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "pimple, spot, pustule",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "fəqʷaːda"
   },
   {
     "word": "блэплъын",
@@ -21242,18 +21246,6 @@
     ],
     "type": "noun",
     "ipa": "blapt͡ʃaʐəj"
-  },
-  {
-    "word": "блэрыпс",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "chain (braided silver or gold)",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "blarəps"
   },
   {
     "word": "блэун",
@@ -21301,7 +21293,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "hedge",
+        "meaning": "hedge; fence out of plants",
         "examples": []
       }
     ],
@@ -21309,11 +21301,48 @@
     "ipa": "blawt͡s"
   },
   {
+    "word": "пчэгъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "stake, spicket, pale",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃaʁʷ"
+  },
+  {
+    "word": "нэмыплъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "inattention",
+        "examples": []
+      },
+	  {
+        "meaning": "disregard, negligence",
+        "examples": [
+          {
+            "sentence": "'''нэмыплъ''' етын",
+            "translation": "To fail to notice."
+          },
+		  {
+            "sentence": "'''нэмыплъ''' ехын",
+            "translation": "To disregard someone."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "naməpɬ"
+  },
+  {
     "word": "блэхъушъутын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to run past, to run through",
+        "meaning": "to run past, to run through; to rush past",
         "examples": [
           {
             "sentence": "конторам '''блэхъушъутын'''",
@@ -21333,7 +21362,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to despise, to underrate, to disregard, to look down on",
+        "meaning": "to underrate, to disregard, to look down on",
         "examples": [
           {
             "sentence": "К1алэр л1ым '''ехъушъутао'''",
@@ -21354,7 +21383,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "snake (non-poisonous)",
+        "meaning": "non-poisonous snake; harmless snake",
         "examples": []
       }
     ],
@@ -44856,11 +44885,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "girlfriend",
+        "meaning": "girlfriend (not necessarily in a romantic way)",
         "examples": [
           {
             "sentence": "'''пшъэшъэгъу''' уи1а?",
             "translation": "Do you have a '''girlfriend'''?"
+          },
+		  {
+            "sentence": "'''Сипшъэшъэгъу''' къыдэсэк1охьы чылэр",
+            "translation": "I am walking around the village with '''my friend'''"
           }
         ]
       }
@@ -53907,14 +53940,14 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be a part of a group of some kind, to be belong to a group",
+        "meaning": "to be from; to be a part of a group of some kind; to be belong to",
         "examples": [
           {
-            "sentence": "Томэр Адыгэмэ '''ящыщ'''.",
+            "sentence": "Томэр Адыгэмэ '''ащыщ'''.",
             "translation": "'''He is one of''' the Adyghe people."
           },
           {
-            "sentence": "К1алэр къашъохэмэ '''ящыщагъэ'''.",
+            "sentence": "К1алэр къашъохэмэ '''ащыщагъэ'''.",
             "translation": "The boy '''was belong to''' the dancers."
           },
           {
@@ -53926,7 +53959,7 @@
             "translation": "'''If you are''' truly '''one of us''' come with us."
           },
           {
-            "sentence": "Мыер пхъэшъхьэмышъхьэхэмэ '''ящыщ'''.",
+            "sentence": "Мыер пхъэшъхьэмышъхьэхэмэ '''ащыщ'''.",
             "translation": "The apple '''is belong to''' the fruits."
           },
           {
@@ -53938,15 +53971,15 @@
             "translation": "That boy's behavior '''doesn't belong''' to anything."
           },
           {
-            "sentence": "У к1алэр '''къэтщыщ''', ау у пшъашъэр '''къэтщыщэп'''.",
+            "sentence": "Мо к1алэр '''къэтщыщ''', ау мо пшъашъэр '''къэтщыщэп'''.",
             "translation": "That boy '''is one of us''', but that girl '''is not one of us'''."
           },
           {
-            "sentence": "У л1ыр шъуук1, Ор къытэзаохэмэ '''ящыщ'''.",
+            "sentence": "У л1ыр шъуук1, Ор къытэзаохэмэ '''ащыщ'''.",
             "translation": "Kill that man (said to plural), he '''is one of''' the people that are attacking us."
           },
           {
-            "sentence": "'''Шъусщыщэнэу''' сыфе.",
+            "sentence": "'''Шъусщыщэнэу''' сыфай.",
             "translation": "I wanna '''be one of you guys'''."
           }
         ]
@@ -74911,16 +74944,28 @@
         "meaning": "to faint, to pass out",
         "examples": [
           {
-            "sentence": "Бэрэ сычъагъэ нэмы1эк1э '''сыкъэмэхы''' пэтыгъ",
+            "sentence": "Бэрэ счъагъэ нэмы1эк1э '''сыкъэмэхы''' пэтыгъ",
             "translation": "I ran so much that I almost '''fainted'''."
           },
           {
-            "sentence": "Мы мафэм джыри такъэ сыхэтымэ, '''сыкъэмэхыщт'''",
-            "translation": "If I stay one more minute in this heat, I will pass out."
+            "sentence": "Мы тыгъэ фабэм джыри такъэ сыхэтымэ, '''сыкъэмэхыщт'''",
+            "translation": "If I stay one more minute in this sun heat, I will pass out."
           },
           {
             "sentence": "Л1ыр ащ инахэ хауи '''ыгъэмэхыгъ'''",
             "translation": "The man hit him in the face and '''made him pass out'''."
+          },
+		  {
+            "sentence": "К1алэр '''мэмэхы'''",
+            "translation": "The boy '''is passing out'''."
+          },
+          {
+            "sentence": "К1алэр '''мэмэхыгъ'''",
+            "translation": "The boy '''passed out'''."
+          },
+          {
+            "sentence": "'''Укъэмэхыщт''' мор ушхымэ",
+            "translation": "'''You will pass out''' if you eat that."
           }
         ]
       }
@@ -89409,7 +89454,7 @@
     "ipa": "t͡ʃʼaɮa ʁʷəsa"
   },
   {
-    "word": "гъусэ пшъашъэ",
+    "word": "гъусэпшъашъэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -89421,14 +89466,44 @@
       "пшъэшъэгъу"
     ],
     "type": "noun",
+    "ipa": "ʁʷəsapʂaːʂa"
+  },
+  {
+    "word": "гъусэ пшъашъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"гъусэпшъашъэ\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "пшъэшъэгъу"
+    ],
+    "type": "noun",
     "ipa": "ʁʷəsa pʂaːʂa"
+  },
+  {
+    "word": "гъусэк1алэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "boyfriend",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "шъэогъу"
+    ],
+    "type": "noun",
+    "ipa": "ʁʷəsat͡ʃʼaːɮa"
   },
   {
     "word": "гъусэ к1алэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "boyfriend",
+        "meaning": "alternative form of \"гъусэк1алэ\"",
         "examples": []
       }
     ],
@@ -89571,14 +89646,14 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "friend",
+        "meaning": "boyfriend (not necessarily in a romantic way)",
         "examples": []
       }
     ],
     "synonyms": [
-      "ныбджэгъу"
+      "ныбджэгъу", 
+	  "гъусэк1алэ"
     ],
-    "cognate": "гъусэ",
     "type": "noun",
     "ipa": "ʂawaʁʷ"
   },
@@ -98007,6 +98082,44 @@
     ],
     "type": "verb",
     "ipa": "mat͡ʃʼa dad"
+  },
+  {
+    "word": "тыгъэстыр",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "sun's heat",
+        "examples": []
+      },
+	  {
+        "meaning": "blazing sun",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "тыгъэнэстыр"
+    ],
+    "type": "noun",
+    "ipa": "təʁastər"
+  },
+  {
+    "word": "тыгъэнэбзый",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "sunray",
+        "examples": []
+      },
+	  {
+        "meaning": "sunbeam",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "тыгъэнэстыр"
+    ],
+    "type": "noun",
+    "ipa": "təʁanabzəj"
   },
   {
     "word": "зэ1ытхъын",

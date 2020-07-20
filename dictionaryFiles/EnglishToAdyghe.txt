@@ -1647,7 +1647,7 @@
     "small pitcher": "гогонжъый"
   },
   {
-    "fence": "ш1ыхьагъэ; дэпкъы (wall); чэу (wattle fence)"
+    "fence": "ш1ыхьагъэ; дэпкъы (wall); чэу (wattle fence); блэуц (fence out of plant)"
   },
   {
     "to drape": "пэ1ухъон"
@@ -2514,7 +2514,7 @@
     "relative": "благъэ; 1ахьыл"
   },
   {
-    "friend": "гъусэ (Kfar Kama dialect)"
+    "friend": "ныбджэгъу; шъэогъу (boyfriend); пшъэшъэгъу (girlfriend); гъусэ (Kfar Kama dialect); гъусэк1алэ (Kfar Kama dialect, boyfriend); гъусэпшъагъэ (Kfar Kama dialect, girlfriend)"
   },
   {
     "associate": "гъусэ"
@@ -2530,9 +2530,6 @@
   },
   {
     "companion": "гъусэ"
-  },
-  {
-    "fellow)": "гъусэ"
   },
   {
     "fellow": "гъусэ"
@@ -2553,13 +2550,13 @@
     "neighbor": "гъунэгъу"
   },
   {
-    "well-behaved": "нэутх"
-  },
-  {
-    "well-behaved": "нэутх"
+    "well-behaved": "1асэ; гъэсагъ"
   },
   {
     "industrious": "нэутх"
+  }
+  {
+    "diligent": "нэутх"
   },
   {
     "most": "анахь; янахь (Dialectal)"
@@ -4500,7 +4497,25 @@
     "to vanish": "бзэхын; к1одын; ш1ок1одын (to vanish for someone)"
   },
   {
-    "to faint, to pass out, to swoon, to keel over": "мэмэхын"
+    "to faint": "мэмэхын"
+  },
+  {
+    "to pass out": "мэхын"
+  },
+  {
+    "sunburn": "тыгъэм ыстыгъэ к1ышъор"
+  },
+  {
+    "sun's heat": "тыгъэнэстыр"
+  },
+  {
+    "blazing sun": "тыгъэнэстыр"
+  },
+  {
+    "sunray": "тыгъэнэбзый"
+  },
+  {
+    "sunbeam": "тыгъэнэбзый"
   },
   {
     "to puke": "къэжьын"
@@ -5031,52 +5046,73 @@
     "nearness": "блэгъэныгъэ"
   },
   {
-    "nearness": "блэгъэ"
-  },
-  {
     "family related": "блэгъагъ"
   },
   {
     "dragon": "блэгъожъ"
   },
   {
-    "cloth friend": "блэгъэжъ"
+    "longtime friend": "блэгъэжъ"
   },
   {
     "old friend": "блэгъэжъ"
   },
   {
-    "snake skin": "блэгьан"
+    "to cross quickly": "псынк1эу зэпычын"
   },
   {
-    "to cross quickly, to pass quickly; to rush past": "блэлъэтын"
+    "to rush past": "псынк1эу блэк1ын; блэшъутын (Shapsug); блэхъушъутын"
   },
   {
-    "snake (non-poisonous)": "блэмыу"
+    "to pass quickly": "псынк1эу блэк1ын; блэшъутын (Shapsug); блэхъушъутын"
   },
   {
-    "to glow (a fire or a lamp)": "блэн"
+    "harmless snake": "блэмыу"
   },
   {
-    "to braid, to weave together, intertwine (strands of fibers, ribbons, hair, etc.)": "блэн"
+    "non-poisonous snake": "блэмыу"
   },
   {
-    "boldness": "блэнагъ"
+    "to glow": "къэпсэн; къэблэн"
   },
   {
-    "courage": "блэнагъ"
+    "to braid": "блэн"
   },
   {
-    "Stag calf": "блэнашк1э"
+    "to intertwine": "блэн"
   },
   {
-    "grass fodder": "блэнэукъ"
+    "to weave together": "блэн"
   },
   {
-    "thyme (a plant)": "блэнэуц"
+    "boldness": "блэнагъ; л1ыгъэ"
   },
   {
-    "to look over something; to look past": "блэплъын"
+    "courage": "блэнагъ; л1ыгъэ"
+  },
+  {
+    "fawn": "блэнашк1э"
+  },
+  {
+    "young deer": "блэнашк1э"
+  },
+  {
+    "deer yearling: "блэнашк1э"
+  },
+  {
+    "thyme": "блэнэуц"
+  },
+  {
+    "to look over": "блэплъын; шъхьадэплъын"
+  },
+  {
+    "to look past": "блэплъын"
+  },
+  {
+    "to put a blind eye": "блэплъын"
+  },
+  {
+    "to look through": "хэплъын; пхырыплъын"
   },
   {
     "to overlook": "блэплъын"
@@ -5085,19 +5121,64 @@
     "eel": "блэпцэжъый"
   },
   {
-    "chain (braided silver or gold)": "блэрыпс"
+    "pustule": "фыкъуадэ"
   },
   {
-    "to miss a target (to fail to hit)": "блэун"
+    "pimple": "къыхэчъыгъ, къыхиутыгъ (к1ышъом); фыкъуадэ"
+  },
+  {
+    "spot": "бжьыгъ; фыкъуадэ (pimple)"
+  },
+  {
+    "to miss a target": "блэун"
+  },
+  {
+    "to fail to hit": "блэун"
+  },
+  {
+    "to miss": "блэун (to miss a target); к1эхъосын (to long for); шӏок1он (to miss an opportunity)"
   },
   {
     "hedge": "блэуц"
   },
   {
-    "to run past, to run through": "блэхъушъутын"
+    "brushwood": "чы"
   },
   {
-    "to despise, to underrate, to disregard, to look down on": "ехъушъутэон"
+    "stake": "чэгъу"
+  },
+  {
+    "spicket": "чэгъу"
+  },
+  {
+    "pale": "чэгъу"
+  },
+  {
+    "to run past": "блэхъушъутын; блэшъутын (Shapsug)"
+  },
+  {
+    "to run through": "хэхъушъутын; хэшъутын (Shapsug)"
+  },
+  {
+    "to despise": "ехъушъутэон; зэмыпэсын; нэмыплъ ехын"
+  },
+  {
+    "to look down on": "ехъушъутэон; зэмыпэсын; нэмыплъ ехын"
+  },
+  {
+    "to underrate": "ехъушъутэон; зэмыпэсын; нэмыплъ ехын"
+  },
+  {
+    "to disregard": "ехъушъутэон; зэмыпэсын; нэмыплъ ехын"
+  },
+  {
+    "disregard": "нэмыплъ"
+  },
+  {
+    "disregard": "нэмыплъ"
+  },
+  {
+    "negligence": "inattention"
   },
   {
     "snake (non-poisonous)": "блэхьадж"
@@ -6684,9 +6765,6 @@
     "the Kabardian language": "къэбэртайбзэ"
   },
   {
-    "well-behaved": "1асэ"
-  },
-  {
     "tamed": "1асэ"
   },
   {
@@ -6823,9 +6901,6 @@
   },
   {
     "dry": "гъушъы"
-  },
-  {
-    "fence": "ш1ыхьагъэ"
   },
   {
     "chimney": "джэныкъохьаку"
@@ -7155,7 +7230,10 @@
     "weak-sighted": "набгъэ"
   },
   {
-    "to take offense": "ебгъэн; зыгъэгусэн, гукъао ш1ын; шъхьак1о ш1ын"
+    "to take offense": "губгъэн фэлъэгъун; ебгъэн; зыгъэгусэн, гукъао ш1ын; шъхьак1о ш1ын"
+  },
+  {
+    "to hold a grudge": "губгъэн фэлъэгъун"
   },
   {
     "to permit": "дэн"
@@ -9472,9 +9550,6 @@
   },
   {
     "much": "фэдиз"
-  },
-  {
-    "friend": "ныбджэгъу"
   },
   {
     "party": "чэщдэс"
@@ -18874,9 +18949,6 @@
   },
   {
     "cane; walking stick": "лъэсыбэщ"
-  },
-  {
-    "friend": "шъэогъу"
   },
   {
     "secondary, minor, of less importance": "гуадз"
