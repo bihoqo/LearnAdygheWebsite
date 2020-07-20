@@ -15361,8 +15361,39 @@
         ]
       }
     ],
+    "synonyms": [
+      "пк1э"
+    ],
     "type": "noun",
     "ipa": "waːsa"
+  },
+  {
+    "word": "пк1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "value; worth",
+        "examples": [
+          {
+            "sentence": "К1алэм '''ыпк1э''' ритыгъ",
+            "translation": "(S)he gave its '''worth''' to the boy"
+          },
+          {
+            "sentence": "'''Ыпк1эк1э''' езэгъыгъ",
+            "translation": "He was okay with its worth."
+          }
+        ]
+      },
+	  {
+        "meaning": "significance",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "уасэ"
+    ],
+    "type": "noun",
+    "ipa": "pt͡ʃʼa"
   },
   {
     "word": "бэхьал",
@@ -22150,7 +22181,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Very sad",
+        "meaning": "someone who sulks often",
         "examples": []
       }
     ],
@@ -22199,24 +22230,45 @@
     "ipa": "baɣən"
   },
   {
-    "word": "бэджак1",
+    "word": "бэджак1э",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Tobacco leaves bundle",
+        "meaning": "foxtail; fox tail",
+        "examples": []
+      },
+	  {
+        "meaning": "tobacco leaves bundle",
+        "examples": []
+      },
+	  {
+        "meaning": "milfoil, yarrow",
         "examples": []
       }
     ],
     "type": "noun"
   },
   {
-    "word": "бэджыджэн",
+    "word": "гъэпл1эн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to rock (from time to time)",
-        "examples": []
-      },
+        "meaning": "to compress",
+        "examples": [
+          {
+            "sentence": "Тутыныр ыгъэпл1агъ",
+            "translation": "To compress (the tobacco in) a cigarette."
+          }
+        ]
+      }
+    ],
+    "type": "verb"
+    "ipa": "ʁapɬʼan"
+  },
+  {
+    "word": "бэджыджэн",
+    "lang": "Adyghe",
+    "definitions": [
       {
         "meaning": "to stagger, to reel, to sway on one's feet",
         "examples": [
@@ -22270,7 +22322,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "lease, rent",
+        "meaning": "alternative form of \"бэджэнд\"",
         "examples": []
       }
     ],
@@ -22278,11 +22330,27 @@
     "ipa": "bad͡ʒaːnd"
   },
   {
+    "word": "бэджэнд",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "lease",
+        "examples": []
+      },
+	  {
+        "meaning": "rent",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "bad͡ʒand"
+  },
+  {
     "word": "бэджэндыку",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Rent car",
+        "meaning": "rent car",
         "examples": []
       }
     ],
@@ -22306,7 +22374,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "jackal",
+        "meaning": "baby fox",
         "examples": []
       }
     ],
@@ -22318,19 +22386,94 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Fly whisk",
+        "meaning": "flyswatter",
         "examples": []
       }
     ],
+    "synonyms": [
+      "бэдзэеуалъэ"
+    ],
     "type": "noun",
-    "ipa": "bad͡aːw"
+    "ipa": "bad͡zaːw"
+  },
+  {
+    "word": "бэдзэеуалъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "flyswatter",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "бэдзау"
+    ],
+    "type": "noun",
+    "ipa": "bad͡zajawaːɬ"
+  },
+  {
+    "word": "бэдзэ еуалъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"бэдзэеуалъэ\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "бэдзау"
+    ],
+    "type": "noun",
+    "ipa": "bad͡za jawaːɬ"
   },
   {
     "word": "бэдзэгъал1э",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Fly killer (a plant), insecticide",
+        "meaning": "fly agaric",
+        "examples": []
+      },
+	  {
+        "meaning": "fly killer machine",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "бэдзэубыт"
+    ],
+    "type": "noun",
+    "ipa": "bad͡zaʁaːɬʼa"
+  },
+  {
+    "word": "сатыуш1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "dealer",
+        "examples": []
+      },
+      {
+        "meaning": "merchant",
+        "examples": []
+      },
+      {
+        "meaning": "trader",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "бэдзэрык1у"
+    ],
+    "type": "noun",
+    "ipa": "sətəwəʃʼ"
+  },
+  {
+    "word": "к1эмгуябз",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "stereotypical Chemgui",
         "examples": []
       }
     ],
@@ -22358,7 +22501,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "mosquito, stinging",
+        "meaning": "midge (a kind of gnat or gnatlike fly)",
         "examples": []
       }
     ],
@@ -22366,15 +22509,57 @@
     "ipa": "bad͡zanaʂʷ"
   },
   {
+    "word": "бэдзэжъый",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "midge (a kind of gnat or gnatlike fly)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "bad͡zaʐəj"
+  },
+  {
+    "word": "сатыу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "trade",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "щэн–щэфэн"
+    ],
+    "type": "noun",
+    "ipa": "saːtəw"
+  },
+  {
+    "word": "щэн–щэфэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "trade",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "сатыу"
+    ],
+    "type": "noun",
+    "ipa": "saːtəw"
+  },
+  {
     "word": "бэдзэр",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "bazaar, market",
+        "meaning": "bazaar; souq; street market; market; marketplace",
         "examples": [
           {
             "sentence": "'''Бэдзэрыр''' тыдэ щы1?",
-            "translation": "Where is '''the market'''?"
+            "translation": "Where is '''the marketplace'''?"
           }
         ]
       }
@@ -22399,6 +22584,9 @@
         "examples": []
       }
     ],
+    "synonyms": [
+      "сатыуш1"
+    ],
     "type": "noun",
     "ipa": "bad͡zarəkʷʼ"
   },
@@ -22407,9 +22595,16 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Insectivore (bird), Insectivorous (bird),",
+        "meaning": "fly agaric",
+        "examples": []
+      },
+	  {
+        "meaning": "fly killer machine",
         "examples": []
       }
+    ],
+    "synonyms": [
+      "бэдзэгъал1э"
     ],
     "type": "noun",
     "ipa": "bad͡zawbət"
@@ -22447,11 +22642,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "abundant, kinda very much, kinda a lot",
+        "meaning": "comparatively much",
         "examples": [
           {
-            "sentence": "к1алэ '''бэк1айэ''' сиунэ къэк1уагъ",
-            "translation": "'''A lot''' boys came to my house."
+            "sentence": "К1алэ '''бэк1ае''' сиунэ къэк1уагъ",
+            "translation": "'''A lot of''' boys came to my house."
+          },
+		  {
+            "sentence": "Зэ1ук1эм ц1ыф '''бэк1ае''' къек1ол1агъ",
+            "translation": "'''A lot''' of people came to the meeting."
           }
         ]
       }
@@ -22460,10 +22659,26 @@
     "ipa": "bakʲaːj"
   },
   {
+    "word": "илъэсыбэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "many years",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "jəɬasəba"
+  },
+  {
     "word": "бэк1ы",
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "of many years, long-term",
+        "examples": []
+      },
+	  {
         "meaning": "long living plant",
         "examples": []
       }
@@ -61657,6 +61872,18 @@
     "ipa": "qʷat͡ʃʼəpʼa"
   },
   {
+    "word": "к1ып1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "fold",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃʼəpʼa"
+  },
+  {
     "word": "къуалъхьэ",
     "lang": "Adyghe",
     "definitions": [
@@ -75346,19 +75573,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to take offense, to be offended, to feel hurt, to resent",
+        "meaning": "to sulk; to express offence by remaining sullenly silent or withdrawn",
         "examples": [
           {
-            "sentence": "К1элэц1ык1ум '''зегъэгусэ''' иянэ 1эш1ухэр къыритрэхэпи ары",
-            "translation": "The little boys '''resented''' because his mother doesn't give him sweets."
+            "sentence": "К1элэц1ык1ум '''зегъэгусэ''' иянэ 1эш1ухэр къыритхэрэпи ары",
+            "translation": "The little boy '''sulks''' because his mother doesn't give him sweets."
           },
           {
             "sentence": "К1алэм сехъоным '''зигъэгусагъ'''",
-            "translation": "The boy '''took offense''' when I cursed him."
+            "translation": "The boy '''sulked''' when I cursed him."
           },
           {
-            "sentence": "'''Зымыгъэгус''', ори уисырэ къэсыщт",
-            "translation": "'''Don't feel hurt''', your turn will arrive."
+            "sentence": "'''Зымыгъэгус''', ори уичэзыу къэсыщт",
+            "translation": "'''Don't sulk''', your turn will arrive."
           }
         ]
       }
@@ -76669,18 +76896,6 @@
     "ipa": "pʼa"
   },
   {
-    "word": "зэ1ук1ап1э",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "place of meeting",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "zaʔʷət͡ʃʼaːpʼa"
-  },
-  {
     "word": "зэ1ук1эн",
     "lang": "Adyghe",
     "definitions": [
@@ -76695,6 +76910,38 @@
     ],
     "type": "verb",
     "ipa": "zaʔʷət͡ʃʼan"
+  },
+  {
+    "word": "зэ1ук1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "meeting",
+        "examples": []
+      },
+	  {
+        "meaning": "gathering",
+        "examples": []
+      },
+	  {
+        "meaning": "congress",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaʔʷət͡ʃʼa"
+  },
+  {
+    "word": "зэ1ук1ап1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "meeting place",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaʔʷət͡ʃʼaːpʼa"
   },
   {
     "word": "дэлъын",
@@ -85479,7 +85726,7 @@
             "translation": "He made himself see hardship '''in vain'''."
           },
           {
-            "sentence": "Сыд хэпIухьэми '''хьаулый'''",
+            "sentence": "Сыд хэп1ухьэми '''хьаулый'''",
             "translation": "Whatever you say about it, it '''is in vain'''."
           }
         ]

@@ -5379,31 +5379,43 @@
     "to spawn": "бэгъон"
   },
   {
-    "Very sad": "бэгъэгус"
+    "to sulk": "зыгъэгусэн"
   },
   {
-    "angry": "бэгыгъэ"
+    "swelled": "бэгыгъэ; пщыгъэ"
   },
   {
-    "swelled": "бэгыгъэ"
+    "inflation": "бэгыгъэ; пщыгъэ"
   },
   {
-    "inflation": "бэгыгъэ"
+    "inflated": "бэгыгъэ; пщыгъэ"
   },
   {
     "tumor": "бэгыгъэ"
   },
   {
-    "to swell": "бэгын"
+    "to swell": "бэгын; пщын"
   },
   {
-    "Tobacco leaves bundle": "бэджак1"
+    "tobacco leaves": "бэджак1"
   },
   {
-    "to rock (from time to time)": "бэджыджэн"
+    "foxtail": "бэджак1э"
   },
   {
-    "to stagger, to reel, to sway on one's feet": "бэджыджэн"
+    "milfoil": "бэджак1э"
+  },
+  {
+    "yarrow": "бэджак1э"
+  },
+  {
+    "to reel": "бэджыджэн"
+  },
+  {
+    "to stagger": "бэджыджэн"
+  },
+  {
+    "to sway on one's feet": "бэджыджэн"
   },
   {
     "to oscillate": "бэджыджэн"
@@ -5418,58 +5430,115 @@
     "fox den": "бэджэбы"
   },
   {
-    "lease, rent": "бэджанд"
+    "lease": "бэджэнд"
   },
   {
-    "Rent car": "бэджэндыку"
+    "rent": "бэджэнд"
   },
   {
-    "to rent": "бэджэндэутын"
+    "worth": "пк1э; уасэ (cost)"
   },
   {
-    "jackal": "бэджэщыр"
+    "value": "пк1э (worth); уасэ (cost)"
   },
   {
-    "Fly whisk": "бэдзау"
+    "rent car": "бэджэндыку"
   },
   {
-    "Fly killer (a plant), insecticide": "бэдзэгъал1э"
+    "to lease": "бэджэндэутын"
   },
   {
-    "to grow": "бэдзэжьын"
+    "baby fox": "бэджэщыр"
   },
   {
-    "to increase": "бэдзэжьын"
+    "flyswatter": "бэдзэеуалъэ; бэдзау"
   },
   {
-    "mosquito, stinging": "бэдзэнэшъу"
+    "fly swatter": "бэдзэеуалъэ; бэдзау"
   },
   {
-    "bazaar, market": "бэдзэр"
+    "fly agaric": "бэдзэгъал1э; бэдзэубыт"
   },
   {
-    "dealer": "бэдзэрык1у"
+    "fly killer": "бэдзэгъал1э / бэдзэубыт (machine)"
   },
   {
-    "merchant": "бэдзэрык1у"
+    "to grow": "хэхъон"
   },
   {
-    "trader": "бэдзэрык1у"
+    "growth": "хэхъуагъэ; хэхъоныгъ"
   },
   {
-    "Insectivore (bird), Insectivorous (bird),": "бэдзэубыт"
+    "to increase": "хэхъон"
   },
   {
-    "Fly killing tool": "бэдзэук1"
+    "midge": "бэдзэнэшъу"
+  },
+  {
+    "bazaar": "бэдзэр"
+  },
+  {
+    "marketplace": "бэдзэр"
+  },
+  {
+    "street market": "бэдзэр"
+  },
+  {
+    "souq": "бэдзэр"
+  },
+  {
+    "market": "бэдзэр"
+  },
+  {
+    "trade": "сатыу; щэн–щэфэн"
+  },
+  {
+    "sale": "сатыу; щэн–щэфэн"
+  },
+  {
+    "commerce": "сатыу; щэн–щэфэн"
+  },
+  {
+    "dealer": "сатыуш1; бэдзэрык1у"
+  },
+  {
+    "merchant": "сатыуш1; бэдзэрык1у"
+  },
+  {
+    "trader": "сатыуш1; бэдзэрык1у"
   },
   {
     "thick body": "бэжъу"
   },
   {
-    "abundant, kinda very much, kinda a lot": "бэк1ай"
+    "abundant": "бэк1ай"
+  },
+  {
+    "congress": "зэ1ук1э"
+  },
+  {
+    "gathering": "зэ1ук1э"
+  },
+  {
+    "meeting": "зэ1ук1э"
+  },
+  {
+    "meeting place": "зэ1ук1ап1э"
   },
   {
     "long living plant": "бэк1ы"
+  },
+  {
+    "long-term": "бэк1ы"
+  },
+  {
+    "longterm": "бэк1ы"
+  },
+  {
+    "long term": "бэк1ы"
+  },
+  {
+    "of many years": "бэк1ы"
   },
   {
     "more than": "бэк1э"
