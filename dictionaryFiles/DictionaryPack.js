@@ -5893,6 +5893,18 @@
     "ipa": "ħaːbləw"
   },
   {
+    "word": "хьаблэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "aul (a village encampment in the Caucasus, Central Asia or the Southern Urals)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ħaːbla"
+  },
+  {
     "word": "хьамп1ырашъу",
     "lang": "Adyghe",
     "definitions": [
@@ -11973,7 +11985,9 @@
         "examples": []
       }
     ],
-    "cognate": "къэрал",
+    "synonyms": [
+      "къэрал"
+    ],
     "type": "noun",
     "ipa": "xaʁaɡʷ"
   },
@@ -23781,7 +23795,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "petroleum",
+        "meaning": "oil, earth oil, petroleum",
         "examples": []
       }
     ],
@@ -23797,7 +23811,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "petroleum",
+        "meaning": "oil, earth oil, petroleum",
         "examples": []
       }
     ],
@@ -23813,7 +23827,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "petroleum",
+        "meaning": "oil, earth oil, petroleum",
         "examples": []
       }
     ],
@@ -23825,11 +23839,15 @@
     "ipa": "ʂʷataɣən"
   },
   {
-    "word": "ч1ык1ухьныкъу",
+    "word": "ч1ык1ухь ныкъу",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "longitude",
+        "examples": []
+      },
+	  {
+        "meaning": "meridian",
         "examples": []
       }
     ],
@@ -23837,16 +23855,16 @@
     "ipa": "t͡ʃəkʷˈəħnəqʷ"
   },
   {
-    "word": "ч1ылъэныкъу",
+    "word": "ч1ык1ухь",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "district, province, territory",
+        "meaning": "latitude",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "t͡ʃəɬanəqʷ"
+    "ipa": "t͡ʃəkʷˈəħnəqʷ"
   },
   {
     "word": "лъэныкъу",
@@ -23864,6 +23882,19 @@
       {
         "meaning": "side",
         "examples": []
+      },
+      {
+        "meaning": "district; region; area",
+        "examples": []
+      },
+      {
+        "meaning": "one (of a pair)",
+        "examples": [
+          {
+            "sentence": "Ылъэкъо лъэныкъо '''ыу1эжьыгъ'''",
+            "translation": "He injured '''one''' of his legs."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -23898,7 +23929,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Natural ambience, nature",
+        "meaning": "nature",
         "examples": []
       }
     ],
@@ -23910,7 +23941,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "metaphysics",
+        "meaning": "supernatural",
         "examples": []
       }
     ],
@@ -23921,7 +23952,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "beet",
+        "meaning": "beet (the root plant Beta vulgaris)",
         "examples": []
       }
     ],
@@ -23938,6 +23969,10 @@
       {
         "meaning": "beet",
         "examples": []
+      },
+	  {
+        "meaning": "beetroot",
+        "examples": []
       }
     ],
     "synonyms": [
@@ -23947,7 +23982,7 @@
     "ipa": "ɣənəpɬ"
   },
   {
-    "word": "ч1ыпчъынш1эныгъэр",
+    "word": "ч1ыпчъын ш1эныгъэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -30076,6 +30111,18 @@
     "cognate": "тхьэмыщк1э",
     "type": "adj",
     "ipa": "tħaməɕkʲʼ"
+  },
+  {
+    "word": "фэмыф",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "lazybones, loafer, idler, slacker, sluggard",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "faməf"
   },
   {
     "word": "уды",
@@ -47526,7 +47573,7 @@
     "ipa": "saːkʷa"
   },
   {
-    "word": "дэщыен",
+    "word": "дэщэен",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -47541,6 +47588,18 @@
     ],
     "type": "verb",
     "ipa": "daɕəjan"
+  },
+  {
+    "word": "1ут1эны",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "plague",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʔʷətʼanə"
   },
   {
     "word": "къык1ышын",
@@ -51422,7 +51481,7 @@
     "ipa": "jasan"
   },
   {
-    "word": "де1этаен",
+    "word": "дэ1этэен",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -51431,7 +51490,7 @@
       }
     ],
     "type": "verb",
-    "ipa": "deʔataːjan"
+    "ipa": "deʔatajan"
   },
   {
     "word": "дебзын",
@@ -62427,16 +62486,16 @@
     "ipa": "pʼaːsta"
   },
   {
-    "word": "п1этын",
+    "word": "къэ1этын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to raise",
+        "meaning": "alternative form of \"1этын\"",
         "examples": []
       }
     ],
     "type": "verb",
-    "ipa": "pʼatən"
+    "ipa": "qaʔatən"
   },
   {
     "word": "п1этедзэ",
@@ -63670,17 +63729,12 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "country",
-        "examples": []
-      },
-      {
         "meaning": "state",
         "examples": []
       }
     ],
     "synonyms": [
-      "хэгъэгу",
-      "----"
+      "хэгъэгу"
     ],
     "type": "noun",
     "ipa": "qaraːɮ"
@@ -85116,11 +85170,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(Kfar Kama dialect) surrounding area (of a village or city)",
-        "examples": [],
-        "tags": [
-          "Kfar Kama dialect"
-        ]
+        "meaning": "surrounding area (of a village or city)",
+        "examples": []
       }
     ],
     "type": "noun",
@@ -85172,11 +85223,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"къэрал\"",
+        "meaning": "state",
         "examples": []
       }
     ],
-    "cognate": "къэрал",
+    "synonyms": [
+      "къэрал"
+    ],
     "type": "noun",
     "ipa": "qaraːɮəʁʷ"
   },
@@ -92655,6 +92708,30 @@
     "ipa": "parəwaχʷ"
   },
   {
+    "word": "пэрыохъу фэхъун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to hinder",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "parəwaχʷ faχʷən"
+  },
+  {
+    "word": "тебэнэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to harass",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "tajbanan"
+  },
+  {
     "word": "гъэсымэджэн",
     "lang": "Adyghe",
     "definitions": [
@@ -96077,6 +96154,18 @@
     "ipa": "ʃxaːpʼa"
   },
   {
+    "word": "хап1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "steading; farmstead; homestead; a house together with surrounding land and buildings, especially on a farm; the property comprising these",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "xaːpʼa"
+  },
+  {
     "word": "щысып1э",
     "lang": "Adyghe",
     "definitions": [
@@ -96900,7 +96989,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "wild (animal)",
+        "meaning": "wild (animal); untamed",
         "examples": []
       }
     ],
@@ -96915,7 +97004,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "wild (animal)",
+        "meaning": "wild (animal); untamed",
         "examples": []
       }
     ],
@@ -97065,7 +97154,7 @@
     "ipa": "mənarəɬaʁʷ"
   },
   {
-    "word": "гу къыдэщыен",
+    "word": "гу къыдэщэен",
     "lang": "Adyghe",
     "definitions": [
       {

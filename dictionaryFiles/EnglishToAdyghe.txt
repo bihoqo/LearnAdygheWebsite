@@ -3648,9 +3648,6 @@
     "fist": "бжымы; 1эбжымы"
   },
   {
-    "flea": "бжыдзэ (an insect)"
-  },
-  {
     "flea killer": "бжыдзэгъал1э"
   },
   {
@@ -5751,6 +5748,12 @@
     "to bother": "ягъэ егъэк1ын; пынэн; пэш1онэн; къин егъэхъун"
   },
   {
+    "to hinder": "пэ1ууцон; гъэохъун; пэрыохъу уфэхъун"
+  },
+  {
+    "to be an obstacle": "пэ1ууцон; гъэохъун; пэрыохъу уфэхъун"
+  },
+  {
     "to harass": "тебэнэн; пынэн; пэш1онэн; гъэгумэк1ын"
   },
   {
@@ -5766,73 +5769,61 @@
     "beggar": "лъэ1уак1о"
   },
   {
-    "flea": "хьэбадзэ"
+    "flea": "бжыдзэ; хьэбадзэ"
   },
   {
-    "alternative form of \"папц1э\"": "папс1э"
-  },
+    "to adopt": "п1ун"
+  }
   {
-    "thin": "п1уак1э"
-  },
-  {
-    "to raise, to adopt": "п1ун"
+    "to raise": "п1ун (to adopt); дэщэен; дэ1этэен; 1этын; чӏыхын (Shapsug); ч1ыгъэк1ын (Shapsug); дэхьыен"
   },
   {
     "mat": "п1уаблэ"
   },
   {
-    "pupil": "п1ур"
+    "pupil": "п1ур; к1элэеджак1о; еджак1о"
   },
   {
-    "alternative form of \"п1уак1э\"": "п1уанк1э"
+    "to scratch": "п1эстхъэн; п1эсхъэн (Shapsug)"
   },
   {
-    "to scratch (With fingernails or foot-nails)": "п1эстхъэн"
+    "to train": "мэсэн (to be trained); гъэсэн (to train someone); зыгъэсэн (to train)"
   },
   {
-    "alternative form of \"п1эстхъэн\"": "п1эсхъэн"
-  },
-  {
-    "alternative form of \"шыу\"": "шу"
-  },
-  {
-    "alternative form of \"тк1ун\"": "мэтк1ун"
-  },
-  {
-    "to be trained": "мэсэн"
-  },
-  {
-    "to be taught how to behave well.": "мэсэн"
-  },
-  {
-    "alternative form of \"ш1ык1эен\"": "мэш1ык1эен"
+    "to practice": "гъэсэн (to practice someone); зыгъэсэн (to practice)"
   },
   {
     "exist": "щы1"
   },
   {
+    "to exist": "щы1эн"
+  },
+  {
     "to know": "ш1эн"
   },
   {
-    "to do (an action)": "ш1эн"
+    "to do": "ш1эн"
   },
   {
-    "tiger": "къаплъэн"
+    "tiger": "къэплъан"
   },
   {
-    "petroleum": "ч1ыдагъ"
+    "oil": "тхъу; ч1ыдагъ (earth oil)"
   },
   {
-    "petroleum": "кудэ"
+    "earth oil": "ч1ыдагъ; кудэ; шъотэгын; "
   },
   {
-    "petroleum": "шъотэгын"
+    "petroleum": "ч1ыдагъ; кудэ; шъотэгын"
   },
   {
-    "longitude": "ч1ык1ухьныкъу"
+    "longitude": "ч1ык1ухь ныкъу"
   },
   {
-    "district, province, territory": "ч1ылъэныкъу"
+    "meridian": "ч1ык1ухь ныкъу"
+  },
+  {
+    "latitude": "ч1ык1ухь"
   },
   {
     "one side of": "лъэныкъу"
@@ -5841,7 +5832,22 @@
     "side": "лъэныкъу"
   },
   {
-    "landscape, territory": "ч1ылъэтеплъ"
+    "district": "лъэныкъу"
+  },
+  {
+    "region": "ч1ып1э"
+  },
+  {
+    "surrounding": "1энэгъунэ"
+  },
+  {
+    "area": "ч1ып1э"
+  },
+  {
+    "landscape": "ч1ылъэтеплъ"
+  },
+  {
+    "territory": "ч1ылъэтеплъ"
   },
   {
     "geology": "ч1ымэтх"
@@ -7356,7 +7362,10 @@
     "ankle": "лъэк1эн"
   },
   {
-    "poor": "тхьамык1; тхьамыщк1 (Shapsug)"
+    "poor": "тхьамык1; тхьамыщк1 (Shapsug); къулайцыз"
+  },
+  {
+    "helpless": "тхьамык1; тхьамыщк1 (Shapsug); къулайцыз"
   },
   {
     "witch": "уды; нэгъуч1ыцэ"
@@ -10680,9 +10689,6 @@
     "jacket; coat": "сако"
   },
   {
-    "to raise": "дэщыен"
-  },
-  {
     "to raise, to hold higher": "къык1ышын"
   },
   {
@@ -11383,9 +11389,6 @@
   },
   {
     "to close": "есэн"
-  },
-  {
-    "to raise": "де1этаен"
   },
   {
     "to cut with, to split with": "дебзын"
@@ -13453,9 +13456,6 @@
   },
   {
     "porridge": "п1астэ"
-  },
-  {
-    "to raise": "п1этын"
   },
   {
     "coverlet": "п1этедзэ"
