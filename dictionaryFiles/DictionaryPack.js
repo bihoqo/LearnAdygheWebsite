@@ -216,15 +216,15 @@
       {
         "meaning": "to be destroyed; to be ruined",
         "examples": [
-		  {
+          {
             "sentence": "К1алэм иплан '''уагъэ'''",
             "translation": "The boy's plan '''got ruined'''."
           },
-		  {
+          {
             "sentence": "Унэр '''мао'''",
             "translation": "The house '''is being destroyed'''."
           }
-		]
+        ]
       },
       {
         "meaning": "to sting",
@@ -8523,7 +8523,7 @@
         "meaning": "blazing sun",
         "examples": []
       },
-	  {
+      {
         "meaning": "sun's heat",
         "examples": []
       }
@@ -14683,7 +14683,7 @@
             "sentence": "Ч1ыгур т1оу '''зэгок1ыгъ'''",
             "translation": "The earth '''got split''' into two."
           },
-		  {
+          {
             "sentence": "Пчъэхэр щы1эх т1оу '''зэгок1ыхэу'''",
             "translation": "There are doors that '''split'''."
           }
@@ -15396,7 +15396,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "significance",
         "examples": []
       }
@@ -16749,7 +16749,7 @@
         "meaning": "twig",
         "examples": []
       },
-	  {
+      {
         "meaning": "brushwood",
         "examples": []
       }
@@ -17647,7 +17647,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "secret",
         "examples": []
       }
@@ -18173,7 +18173,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to bother, to disturb someone",
         "examples": [
           {
@@ -18186,7 +18186,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to get in someone's way",
         "examples": []
       }
@@ -18202,14 +18202,14 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to interrupt, to interfere with, to annoy",
+        "meaning": "to interfere with; to bring harm",
         "examples": [
           {
             "sentence": "к1алэм '''ягъэ къегъэк1о'''",
             "translation": "the boy '''is bringing harm'''"
           },
           {
-            "sentence": "'''ягъэ къэмгъак1у''', к1алэр еджэн е1уэ",
+            "sentence": "'''ягъэ къэмыгъак1у''', к1алэр еджэн е1уэ",
             "translation": "'''do not disturb''', the boy is trying to learn."
           }
         ]
@@ -18219,23 +18219,19 @@
     "ipa": "jaːʁa qaʁakʷʼan"
   },
   {
-    "word": "къин егъэк1ын",
+    "word": "къин егъэхъун",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to harm; to bother; to disturb",
         "examples": [
           {
-            "sentence": "к1алэм '''къин''' пшъашъэм  '''регъэк1ы'''",
+            "sentence": "к1алэм '''къин''' пшъашъэм  '''регъэхъу'''",
             "translation": "the boy '''is bothering''' the girl"
           },
           {
-            "sentence": "'''къин къамыкъак1у''', к1алэр еджэн ео",
-            "translation": "'''do not disturb''', the boy is trying to learn."
-          },
-		  {
-            "sentence": "к1алэм '''къин регъэк1ы'''",
-            "translation": "the boy '''is harimg him'''."
+            "sentence": "к1алэм '''къин регъэхъу'''",
+            "translation": "(s)he '''is harimg him/her'''."
           }
         ]
       }
@@ -18911,7 +18907,7 @@
             "sentence": "Унэм '''къещхэ'''",
             "translation": "It is raining in the house (the rain is entering the house)."
           },
-		  {
+          {
             "sentence": "Ощх '''къещхы'''",
             "translation": "It is '''raining''' rain."
           }
@@ -18985,7 +18981,7 @@
       {
         "meaning": "scales (fish and snakes)",
         "examples": []
-      },
+      }
     ],
     "type": "noun",
     "ipa": "blaːbʐ"
@@ -19042,7 +19038,7 @@
         "meaning": "front thigh (for animals)",
         "examples": []
       },
-	  {
+      {
         "meaning": "forearm (for animals)",
         "examples": []
       }
@@ -19074,10 +19070,10 @@
     "word": "л1ыблан",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "courageous; brave",
         "examples": []
-      },
+      }
     ],
     "type": "noun",
     "ipa": "ɬʼəbɮaːn"
@@ -19198,7 +19194,7 @@
         "meaning": "black snake",
         "examples": []
       },
-	  {
+      {
         "meaning": "grass snake",
         "examples": []
       }
@@ -19234,7 +19230,7 @@
     "word": "блашхъо",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "gray snake",
         "examples": []
       }
@@ -19493,7 +19489,7 @@
     ],
     "synonyms": [
       "жъажъэ",
-	  "т1эи"
+      "т1эи"
     ],
     "type": "adj",
     "ipa": "tʼatʼaj"
@@ -19616,7 +19612,7 @@
         "meaning": "located far away",
         "examples": []
       },
-	  {
+      {
         "meaning": "isolated",
         "examples": [
           {
@@ -19629,7 +19625,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "loner",
         "examples": [
           {
@@ -20301,7 +20297,6 @@
         ]
       }
     ],
-    ],
     "synonyms": [
       "фетеон"
     ],
@@ -20463,7 +20458,7 @@
     ],
     "type": "verb",
     "ipa": "zaxətχən"
-  }
+  },
   {
     "word": "зэпитхъын",
     "lang": "Adyghe",
@@ -20567,7 +20562,7 @@
     "word": "зэпычын",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "to rend; to tear",
         "examples": [
           {
@@ -20583,7 +20578,7 @@
             "sentence": "Гъогур к1алэм '''зэпичыгъ'''",
             "translation": "The boy '''crossed''' the road."
           },
-		  {
+          {
             "sentence": "Л1ым шъофыр '''зэпичыгъ'''",
             "translation": "The man '''crossed''' the field."
           }
@@ -20736,7 +20731,7 @@
             "sentence": "Си1э '''у1агъ'''",
             "translation": "My hand '''was wounded'''."
           },
-		  {
+          {
             "sentence": "К1алэм л1ыр '''ыу1агъ'''",
             "translation": "The boy '''wounded''' the man."
           },
@@ -20802,7 +20797,7 @@
     ],
     "synonyms": [
       "т1эт1эй",
-	  "т1эи"
+      "т1эи"
     ],
     "type": "adj",
     "ipa": "ʐaːʐa"
@@ -20827,7 +20822,7 @@
     ],
     "synonyms": [
       "т1эт1эй",
-	  "жъажъэ"
+      "жъажъэ"
     ],
     "type": "adj",
     "ipa": "tʼajə"
@@ -21186,7 +21181,6 @@
         "meaning": "longtime friend; old friend",
         "examples": []
       }
-      }
     ],
     "type": "noun",
     "ipa": "blaʁaʐ"
@@ -21418,14 +21412,14 @@
         "meaning": "inattention",
         "examples": []
       },
-	  {
+      {
         "meaning": "disregard, negligence",
         "examples": [
           {
             "sentence": "'''нэмыплъ''' етын",
             "translation": "To fail to notice."
           },
-		  {
+          {
             "sentence": "'''нэмыплъ''' ехын",
             "translation": "To disregard someone."
           }
@@ -21968,7 +21962,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "(Kfar Kama dialect) hairy",
         "examples": []
       }
@@ -22095,7 +22089,7 @@
         "meaning": "humpy",
         "examples": []
       },
-	  {
+      {
         "meaning": "humpbacked; hunchbacked",
         "examples": []
       }
@@ -22171,11 +22165,11 @@
         "meaning": "purulent scabs from scabies",
         "examples": []
       },
-	  {
+      {
         "meaning": "scabies, itch",
         "examples": []
       },
-      { 
+      {
         "meaning": "scabby",
         "examples": []
       },
@@ -22195,7 +22189,7 @@
         "meaning": "very-long-lived person",
         "examples": []
       },
-	  {
+      {
         "meaning": "centenarian",
         "examples": []
       }
@@ -22289,11 +22283,11 @@
         "meaning": "foxtail; fox tail",
         "examples": []
       },
-	  {
+      {
         "meaning": "tobacco leaves bundle",
         "examples": []
       },
-	  {
+      {
         "meaning": "milfoil, yarrow",
         "examples": []
       }
@@ -22314,7 +22308,7 @@
         ]
       }
     ],
-    "type": "verb"
+    "type": "verb",
     "ipa": "ʁapɬʼan"
   },
   {
@@ -22389,7 +22383,7 @@
         "meaning": "lease",
         "examples": []
       },
-	  {
+      {
         "meaning": "rent",
         "examples": []
       }
@@ -22486,7 +22480,7 @@
         "meaning": "fly agaric",
         "examples": []
       },
-	  {
+      {
         "meaning": "fly killer machine",
         "examples": []
       }
@@ -22650,7 +22644,7 @@
         "meaning": "fly agaric",
         "examples": []
       },
-	  {
+      {
         "meaning": "fly killer machine",
         "examples": []
       }
@@ -22716,7 +22710,7 @@
             "sentence": "К1алэ '''бэк1ае''' сиунэ къэк1уагъ",
             "translation": "'''A lot of''' boys came to my house."
           },
-		  {
+          {
             "sentence": "Зэ1ук1эм ц1ыф '''бэк1ае''' къек1ол1агъ",
             "translation": "'''A lot''' of people came to the meeting."
           }
@@ -22746,7 +22740,7 @@
         "meaning": "of many years, long-term",
         "examples": []
       },
-	  {
+      {
         "meaning": "long living plant",
         "examples": []
       }
@@ -22832,7 +22826,7 @@
         "meaning": "fertile (woman)",
         "examples": []
       },
-	  {
+      {
         "meaning": "a woman that gave birth to a lot of children",
         "examples": []
       }
@@ -23188,7 +23182,7 @@
         "meaning": "finding",
         "examples": []
       },
-	  {
+      {
         "meaning": "loot",
         "examples": []
       }
@@ -23391,7 +23385,7 @@
         "meaning": "heavyweight",
         "examples": []
       },
-	  {
+      {
         "meaning": "forbearing",
         "examples": []
       }
@@ -23407,7 +23401,7 @@
         "examples": []
       }
     ],
-    "type": "adj"
+    "type": "adj",
     "ipa": "zəʔaʒan"
   },
   {
@@ -23419,7 +23413,7 @@
         "examples": []
       }
     ],
-    "type": "adj"
+    "type": "adj",
     "ipa": "zəʔaʒan"
   },
   {
@@ -23431,7 +23425,7 @@
         "examples": []
       }
     ],
-    "type": "adj"
+    "type": "adj",
     "ipa": "zəʔaʒaʑən"
   },
   {
@@ -23443,7 +23437,7 @@
         "examples": []
       }
     ],
-    "type": "adj"
+    "type": "adj",
     "ipa": "zəʔaʒaʑən"
   },
   {
@@ -27315,7 +27309,7 @@
         "meaning": "dog hair",
         "examples": []
       },
-	  {
+      {
         "meaning": "miser; greedy",
         "examples": []
       }
@@ -32528,7 +32522,7 @@
             "sentence": "Мыдэ пхъэнт1эк1у мак1э '''къы1угъан'''",
             "translation": "'''Leave''' some few chairs here."
           }
-        ] 
+        ]
       }
     ],
     "type": "verb",
@@ -32545,7 +32539,7 @@
             "sentence": "Ахъщэ т1эк1у '''къэтфэгъан'''",
             "translation": "'''Leave''' us some money."
           }
-        ] 
+        ]
       }
     ],
     "type": "verb",
@@ -32788,7 +32782,7 @@
             "sentence": "Сиунэ '''чыжьэ'''",
             "translation": "The house is '''far away'''."
           },
-		  {
+          {
             "sentence": "К1алэм '''чыжьэу''' 1ут",
             "translation": "The boy is standing'''far away'''."
           },
@@ -33156,7 +33150,7 @@
             "translation": "The USB '''doesn't come off''' the computer."
           }
         ]
-      ,
+      },
       {
         "meaning": "to divorce from",
         "examples": [
@@ -33208,13 +33202,13 @@
             "sentence": "к1алэхэмэ '''шъукъадж'''",
             "translation": "'''Call''' the boys (Said to plural)"
           },
-		  {
+          {
             "sentence": "тик1алэ Томк1э '''теджэщт'''",
             "translation": "We will '''call''' our boy Tom."
           }
         ]
       },
-	  {
+      {
         "meaning": "to summon; to ask someone to come",
         "examples": [
           {
@@ -36879,7 +36873,7 @@
             "sentence": "'''Садэжы''' 1ук1",
             "translation": "Go away '''from (near) me'''."
           },
-		  {
+          {
             "sentence": "К1алэм '''ыдэжь''' къак1у",
             "translation": "Come '''near''' the boy."
           },
@@ -37400,7 +37394,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to get spoiled",
         "examples": [
           {
@@ -38720,7 +38714,7 @@
             "sentence": "К1алэм кур '''егъао'''",
             "translation": "The boy '''destroys''' the car."
           },
-		  {
+          {
             "sentence": "К1алэм иплан '''угъэуагъ'''",
             "translation": "You '''ruined''' the boy's plan."
           },
@@ -38836,7 +38830,7 @@
           {
             "sentence": "Унэр '''къызэхэубытэ'''",
             "translation": "The house '''is being destroyed'''."
-          },
+          }
         ]
       }
     ],
@@ -39219,14 +39213,14 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to evaporate",
         "examples": [
           {
             "sentence": "Тыгъэм псыхъор '''ыгъушъыгъ'''",
             "translation": "The sun '''evaporated the river."
           }
-		]
+        ]
       }
     ],
     "type": "verb",
@@ -45346,7 +45340,7 @@
             "sentence": "'''пшъэшъэгъу''' уи1а?",
             "translation": "Do you have a '''girlfriend'''?"
           },
-		  {
+          {
             "sentence": "'''Сипшъэшъэгъу''' къыдэсэк1охьы чылэр",
             "translation": "I am walking around the village with '''my friend'''"
           }
@@ -51178,7 +51172,8 @@
       }
     ],
     "synonyms": [
-      "едэхэш1эн"
+      "едэхэш1эн",
+      "1э щыфэн"
     ],
     "type": "verb",
     "ipa": "ʁaʃʷʼan"
@@ -57714,14 +57709,14 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to evaporate",
         "examples": [
           {
             "sentence": "Псыхъор '''гъушъыгъэ'''",
             "translation": "The river '''evaporated."
           }
-		]
+        ]
       }
     ],
     "type": "verb",
@@ -63895,16 +63890,16 @@
           {
             "sentence": "К1алэм тхылъып1эр '''ец1ыц1ы'''",
             "translation": "The boy is '''crumpling''' the paper."
-          }         
+          }
         ]
       },
-	  {
+      {
         "meaning": "to wrinkle paper",
         "examples": [
           {
             "sentence": "К1алэм тхылъып1эр '''ец1ыц1ы'''",
             "translation": "The boy is '''wrinkles''' the paper."
-          }         
+          }
         ]
       },
       {
@@ -63935,7 +63930,7 @@
       {
         "meaning": "to compress",
         "examples": [
-		  {
+          {
             "sentence": "Мыщ пхъэхэр '''зэхец1ыц1эх'''",
             "translation": "This thing '''compresses''' woods."
           },
@@ -66404,7 +66399,7 @@
             "sentence": "Ц1ыфыхэр '''зэпыдзых'''",
             "translation": "'''Separate''' the people '''to sub groups'''."
           },
-		  {
+          {
             "sentence": "Топ плъыжьыхэмрэ шхъуант1эхмрэ '''зэпэсэдзых'''",
             "translation": "'''I am separating''' between the red and blue balls."
           },
@@ -66474,13 +66469,12 @@
     "definitions": [
       {
         "meaning": "to snap; to fracture or break apart",
-     1   "examples": [
+        "examples": [
           {
             "sentence": "Пхъэр '''зэпык1ыгъ'''",
             "translation": "The wood '''is snapped'''."
           },
-		  ,
-		  {
+          {
             "sentence": "К1алэм пхъэр '''зэпик1ыгъ'''",
             "translation": "The boy '''snapped''' the wood."
           },
@@ -66561,7 +66555,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to get stuck from something sticky, to become or remain attached; to adhere, to stick",
         "examples": [
           {
@@ -69240,7 +69234,7 @@
             "sentence": "'''Сишъхьацышъо огъэтэджы'''",
             "translation": "'''You give me the chills'''."
           },
-		  {
+          {
             "sentence": "К1алэм ышъхьацышъо '''къэгъэтэджын'''",
             "translation": "The boy '''gives''' him '''chills'''."
           }
@@ -75525,7 +75519,7 @@
             "sentence": "Л1ыр ащ инахэ хауи '''ыгъэмэхыгъ'''",
             "translation": "The man hit him in the face and '''made him pass out'''."
           },
-		  {
+          {
             "sentence": "К1алэр '''мэмэхы'''",
             "translation": "The boy '''is passing out'''."
           },
@@ -77254,11 +77248,11 @@
         "meaning": "meeting",
         "examples": []
       },
-	  {
+      {
         "meaning": "gathering",
         "examples": []
       },
-	  {
+      {
         "meaning": "congress",
         "examples": []
       }
@@ -83754,7 +83748,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to say things about",
         "examples": [
           {
@@ -83764,7 +83758,7 @@
           {
             "sentence": "Сыд филымым '''еп1уал1эрэр'''?",
             "translation": "What '''you say about''' the film?"
-          },
+          }
         ]
       }
     ],
@@ -86313,7 +86307,7 @@
       "къухьэбыб",
       "ошъоку",
       "къухьэлъат",
-      "быбылъ",
+      "быбылъ"
     ],
     "type": "noun",
     "ipa": "ʁʷət͡ʂʼəbzəw"
@@ -90244,8 +90238,8 @@
       }
     ],
     "synonyms": [
-      "ныбджэгъу", 
-	  "гъусэк1алэ"
+      "ныбджэгъу",
+      "гъусэк1алэ"
     ],
     "type": "noun",
     "ipa": "ʂawaʁʷ"
@@ -90596,7 +90590,7 @@
     ],
     "synonyms": [
       "ик1эн",
-	  "ик1утэн"
+      "ик1утэн"
     ],
     "type": "verb",
     "ipa": "əʁaχʷan"
@@ -90918,7 +90912,8 @@
       }
     ],
     "synonyms": [
-      "гъэш1он"
+      "гъэш1он",
+      "1э щыфэн"
     ],
     "type": "verb",
     "ipa": "jadaxaʃʼan"
@@ -98238,7 +98233,7 @@
         "meaning": "desert; wasteland",
         "examples": []
       },
-	  {
+      {
         "meaning": "wilderness",
         "examples": []
       }
@@ -98293,13 +98288,13 @@
             "sentence": "Нартыхэр тхыдэжъымэ '''къахэк1ых'''",
             "translation": "The Narts '''appear''' in the old stories."
           },
-		  {
+          {
             "sentence": "Экзамыным упч1э къины зы '''къыхэк1ыщт'''",
             "translation": "One hard question '''will appear''' in the exam."
           }
         ]
       },
-	  {
+      {
         "meaning": "to occur among several occasions",
         "examples": [
           {
@@ -98368,7 +98363,7 @@
         "meaning": "(vulgar) to exhaust someone (usaully due to hard work)",
         "examples": []
       },
-	  {
+      {
         "meaning": "(vulgar) to beat",
         "examples": []
       }
@@ -98384,7 +98379,7 @@
         "meaning": "(vulgar) to exhaust someone (usaully due to hard work)",
         "examples": []
       },
-	  {
+      {
         "meaning": "(vulgar) to beat",
         "examples": []
       }
@@ -98456,7 +98451,7 @@
       {
         "meaning": "to stand up",
         "examples": [
-		  {
+          {
             "sentence": "к1элэр '''мэтэджы'''",
             "translation": "The boy '''is standing'''."
           },
@@ -98468,7 +98463,7 @@
             "sentence": "л1ыжъэр'''мэтэджышъурэп'''",
             "translation": "The old man '''can't stand'''."
           }
-		]
+        ]
       }
     ],
     "type": "verb",
@@ -98481,16 +98476,16 @@
       {
         "meaning": "to pour/fill in (intensivly)",
         "examples": [
-		  {
+          {
             "sentence": "К1алэр псыр щалъэм '''рек1э'''",
             "translation": "The boy '''pours''' water into the bucket."
           }
-		]
+        ]
       }
     ],
     "synonyms": [
       "ик1утэн",
-	  "игъэхъон"
+      "игъэхъон"
     ],
     "type": "verb",
     "ipa": "jət͡ʃʼan"
@@ -98502,16 +98497,16 @@
       {
         "meaning": "to pour/fill in (slightly intensivly)",
         "examples": [
-		  {
+          {
             "sentence": "К1алэр псыр апчым '''рек1утэ'''",
             "translation": "The boy '''pours''' water into the glass."
           }
-		]
+        ]
       }
     ],
     "synonyms": [
       "ик1эн",
-	  "игъэхъон"
+      "игъэхъон"
     ],
     "type": "verb",
     "ipa": "jət͡ʃʼan"
@@ -98583,49 +98578,49 @@
       {
         "meaning": "to load",
         "examples": [
-		  {
+          {
             "sentence": "Видиор '''къеузэнды'''",
             "translation": "The video '''is loading'''."
           },
-		  {
+          {
             "sentence": "Дзыор мы1эпыск1э '''сыузэндыгъ'''",
             "translation": "'''I loaded''' the sack with apples."
           },
-		  {
+          {
             "sentence": "Дзак1ом к1эрахъор '''еузэнды'''",
             "translation": "The soldier '''loads''' the gun."
           }
-		]
+        ]
       },
-	  {
+      {
         "meaning": "to fill",
         "examples": [
-		  {
+          {
             "sentence": "Щалъэр псык1э '''узэнд'''",
             "translation": "'''Fill''' the bucket with water."
           },
-		  {
+          {
             "sentence": "'''Сыузэндыгъ'''",
             "translation": "'''I am filled'''."
           },
-		  {
+          {
             "sentence": "Гъогур ц1ыфык1э '''узэндыгъ'''",
             "translation": "The road '''is filled''' with people."
           },
-		  {
+          {
             "sentence": "Ощхым сиунэ псык1э ыузэндыгъ",
             "translation": "The rain '''filled''' my house in water."
           }
-		]
+        ]
       },
-	  {
+      {
         "meaning": "to charge",
         "examples": [
-		  {
+          {
             "sentence": "Симобил '''узэндыгъ'''",
             "translation": "My mobile '''is charged."
           }
-		]
+        ]
       }
     ],
     "type": "verb",
@@ -98684,7 +98679,7 @@
         "meaning": "sun's heat",
         "examples": []
       },
-	  {
+      {
         "meaning": "blazing sun",
         "examples": []
       }
@@ -98703,7 +98698,7 @@
         "meaning": "sunray",
         "examples": []
       },
-	  {
+      {
         "meaning": "sunbeam",
         "examples": []
       }
@@ -98742,33 +98737,33 @@
             "sentence": "Тиунэ к1алэм иунэ '''пэблагъ'''",
             "translation": "My house '''is close to''' the boy's house."
           },
-		  {
+          {
             "sentence": "А к1алэр '''къэспэблагъ'''",
             "translation": "That boy '''is close to me'''."
           }
         ]
       },
-	  {
+      {
         "meaning": "not far off",
         "examples": [
           {
             "sentence": "Уиджэуап тэрэзым '''пэблагъ'''",
             "translation": "Your answer is '''not far off''' from the correct one."
           }
-		]
+        ]
       },
-	  {
+      {
         "meaning": "nearby",
         "examples": []
       },
-	  {
+      {
         "meaning": "relative to",
         "examples": [
-			{
+          {
             "sentence": "А к1алэр '''къэспэблагъ'''",
             "translation": "That boy '''is my relative'''."
           }
-		]
+        ]
       }
     ],
     "synonyms": [
@@ -98788,22 +98783,22 @@
             "sentence": "Тиунэ к1алэм иунэ '''пэчыжь'''",
             "translation": "My house '''is far from''' the boy's house."
           },
-		  {
+          {
             "sentence": "А к1алэр '''къэспэчыжь'''",
             "translation": "That boy '''is far from me'''."
           }
         ]
       },
-	  {
+      {
         "meaning": "far off",
         "examples": [
           {
             "sentence": "Уиджэуап тэрэзым '''пэчыжь'''",
             "translation": "Your answer is '''far off''' from the correct one."
           }
-		]
+        ]
       },
-	  {
+      {
         "meaning": "far away",
         "examples": []
       }
@@ -98825,13 +98820,13 @@
             "sentence": "Тиунэ к1алэм иунэ '''пэгъунэгъу'''",
             "translation": "My house '''is close to''' the boy's house."
           },
-		  {
+          {
             "sentence": "А к1алэр '''къэспэгъунэгъу'''",
             "translation": "That boy '''is close to me'''."
           }
         ]
       },
-	  {
+      {
         "meaning": "neighboring",
         "examples": []
       }
@@ -98841,5 +98836,25 @@
     ],
     "type": "adj",
     "ipa": "paʁʷnaʁʷ"
+  },
+  {
+    "word": "1э щыфэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to caress (touch, kiss or stroke lovingly)",
+        "examples": []
+      },
+      {
+        "meaning": "to fondle",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "едэхэш1эн",
+      "гъэш1он"
+    ],
+    "type": "verb",
+    "ipa": "ʔa ɕəfan"
   }
 ]
