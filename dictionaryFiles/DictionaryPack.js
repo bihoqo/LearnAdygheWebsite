@@ -9039,14 +9039,32 @@
             "translation": "Today they will make us work '''early'''."
           },
           {
-            "sentence": "'''пасэ''' дэхьэ",
-            "translation": "It's still '''early'''."
+            "sentence": "'''пасэ'''",
+            "translation": "It's '''early'''."
           }
         ]
       }
     ],
+    "synonyms": [
+      "жьэу"
+    ],
     "type": "adv",
     "ipa": "paːca"
+  },
+  {
+    "word": "пасэу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"пасэ\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "жьэу"
+    ],
+    "type": "adv",
+    "ipa": "paːcaw"
   },
   {
     "word": "лъэжъуагъ",
@@ -21619,7 +21637,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "turnip",
+        "meaning": "turnip (from vegetables)",
         "examples": []
       }
     ],
@@ -21634,7 +21652,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Cattle theft",
+        "meaning": "theft of livestock; cattle theft",
         "examples": []
       }
     ],
@@ -21649,6 +21667,9 @@
         "meaning": "to steal",
         "examples": []
       }
+    ],
+    "synonyms": [
+      "тыгъон"
     ],
     "type": "verb",
     "ipa": "təʁʷən"
@@ -21669,11 +21690,14 @@
             "translation": "'''Don't steal'''."
           },
           {
-            "sentence": "шъоптыгъумэ къушъуатыгъут",
-            "translation": "If you steal from him, they will steal from you."
+            "sentence": "аш1оптыгъумэ, къыпш1отыгъужьыщтых",
+            "translation": "If you steal from them, they will steal back from you."
           }
         ]
       }
+    ],
+    "synonyms": [
+      "тыгъун"
     ],
     "type": "verb",
     "ipa": "təʁʷan"
@@ -21683,7 +21707,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "pestilence, plague",
+        "meaning": "cattle plague; plague (in relation to animals)",
         "examples": []
       }
     ],
@@ -21754,7 +21778,7 @@
     "ipa": "bənənt͡ʃa"
   },
   {
-    "word": "быныуын",
+    "word": "быныун",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -21766,11 +21790,23 @@
     "ipa": "bənəwən"
   },
   {
+    "word": "шъхьагъусэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"шъхьэгъусэ\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʂħaːʁʷəsa"
+  },
+  {
     "word": "быраб",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "curly, Frizzled (the hair)",
+        "meaning": "curly hair; frizzy",
         "examples": []
       }
     ],
@@ -21798,7 +21834,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "slave (fugitive)",
+        "meaning": "fugitive slave; runaway slave",
         "examples": []
       }
     ],
@@ -21848,6 +21884,10 @@
             "translation": "The cat's hair is '''fluffy'''."
           }
         ]
+      },
+	  {
+        "meaning": "(Kfar Kama dialect) hairy",
+        "examples": []
       }
     ],
     "type": "adj",
@@ -21858,15 +21898,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "coarse",
-        "examples": []
-      },
-      {
-        "meaning": "crude",
-        "examples": []
-      },
-      {
-        "meaning": "rough",
+        "meaning": "rough road; not smooth; uneven",
         "examples": []
       }
     ],
@@ -21878,11 +21910,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "rough",
-        "examples": []
-      },
-      {
-        "meaning": "rugged",
+        "meaning": "bumpy",
         "examples": []
       }
     ],
@@ -21921,8 +21949,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "curly, folded",
-        "examples": []
+        "meaning": "curly; folded",
+        "examples": [
+          {
+            "sentence": "К1эпхыныр зэгъэлъагъэ",
+            "translation": "The skirt is ''''curly''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -21972,23 +22005,15 @@
     "ipa": "bəsəm"
   },
   {
-    "word": "бытхъэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "flimsy, insignificant, ragged",
-        "examples": []
-      }
-    ],
-    "type": "adj",
-    "ipa": "bətχa"
-  },
-  {
     "word": "быты",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "arch, arched, bow, convex, hunchback,",
+        "meaning": "humpy",
+        "examples": []
+      },
+	  {
+        "meaning": "humpbacked; hunchbacked",
         "examples": []
       }
     ],
@@ -22000,24 +22025,12 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "moo, roar,",
+        "meaning": "too moo",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "bəwən"
-  },
-  {
-    "word": "быяуп1",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "Quiet place, refuge,",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "bəjaːwpʼ"
   },
   {
     "word": "быяужьын",
@@ -22048,7 +22061,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Be lost, disappear",
+        "meaning": "disappear / got lost (said to children)",
+        "examples": []
+      }
+    ],
+    "type": "intj",
+    "ipa": "babaːħ"
+  },
+  {
+    "word": "бахь",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "disappear / got lost (said to children)",
         "examples": []
       }
     ],
@@ -22060,11 +22085,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "itch, mange",
+        "meaning": "purulent scabs from scabies",
+        "examples": []
+      },
+	  {
+        "meaning": "scabies, itch",
+        "examples": []
+      },
+      { 
+        "meaning": "scabby",
         "examples": []
       },
       {
-        "meaning": "scabby",
+        "meaning": "scab",
         "examples": []
       }
     ],
@@ -22076,7 +22109,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "long-lived",
+        "meaning": "very-long-lived person",
+        "examples": []
+      },
+	  {
+        "meaning": "centenarian",
         "examples": []
       }
     ],
@@ -22394,7 +22431,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "fat",
+        "meaning": "chunky body",
         "examples": []
       },
       {
@@ -26829,6 +26866,10 @@
       },
       {
         "meaning": "dog hair",
+        "examples": []
+      },
+	  {
+        "meaning": "miser; greedy",
         "examples": []
       }
     ],
@@ -35439,13 +35480,12 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Before season",
-        "examples": []
-      },
-      {
         "meaning": "early",
         "examples": []
       }
+    ],
+    "synonyms": [
+      "пасэу"
     ],
     "type": "adv",
     "ipa": "ʑaw"

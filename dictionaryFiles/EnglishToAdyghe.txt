@@ -72,7 +72,7 @@
     "to smoke": "тутын ешъон"
   },
   {
-    "to multiply": "егъэон (to perform multiplication on a number); гъэбэгъон (to grow in number/amount); къегъэбэк1ын (to make something a lot)"
+    "to multiply": "егъэон (to perform multiplication on a number); гъэбэгъон (to grow in number/amount); къегъэбэк1ын (to make something a lot); бэгъон (to spawn)"
   },
   {
     "thigh": "ко (thigh); копкъ (thighbone); копкъышъхьэ (head of the thighbone)"
@@ -918,7 +918,7 @@
     "wealth": "былым"
   },
   {
-    "family": "бын; унагъо"
+    "family": "бын; унагъо; быныуын"
   },
   {
     "child": "бын"
@@ -1354,9 +1354,6 @@
   },
   {
     "sky": "уашъо"
-  },
-  {
-    "family": "унагъо"
   },
   {
     "house": "унэ"
@@ -2361,7 +2358,10 @@
     "strawberry": "цумпэ; цумпэ1эрыс"
   },
   {
-    "penis": "манэ; хьэмашэ; цыулэ (childish)"
+    "penis": "манэ; хьэмашэ; цыулэ (childish); былыхъу (childish)"
+  },
+  {
+    "urethra": "былыхъу (childish)"
   },
   {
     "shit": "хьай"
@@ -2898,9 +2898,6 @@
     "fig": "ахъу"
   },
   {
-    "miser": "ахъщапс; тхьацэ"
-  },
-  {
     "stingy": "ахъщапс; тхьацэ"
   },
   {
@@ -3072,7 +3069,7 @@
     "two thousand": "минит1у"
   },
   {
-    "plague": "емынэ"
+    "plague": "емынэ; былымыл1э (cattle plague)"
   },
   {
     "ox": "цу; мэзыцу (wild ox); быгъу (breeding bull)"
@@ -5229,13 +5226,10 @@
     "to trot": "ушъын; лъэхъун"
   },
   {
-    "veterinarian": "былым 1аз"
+    "herdsman": "1ахъо; былымахъу"
   },
   {
-    "herdsman": "былымахъу"
-  },
-  {
-    "shepherd": "былымахъу"
+    "shepherd": "1ахъо; былымахъу"
   },
   {
     "turnip": "былымбэлыдж"
@@ -5244,88 +5238,88 @@
     "turnip": "мэзэбэлыдж"
   },
   {
-    "Cattle theft": "былымтыгъу"
+    "cattle theft": "былымтыгъу"
   },
   {
-    "to steal": "тыгъун"
+    "to steal": "тыгъун; тыгъон; ш1отыгъон (to steal from)"
   },
   {
-    "to steal": "тыгъон"
+    "pestilence": "емынэ; былымыл1э (for animals)"
   },
   {
-    "pestilence, plague": "былымыл1э"
+    "cattle plague": "былымыл1э"
   },
   {
-    "covetous, greedy": "былымыпс"
+    "covetous": "былымыпс"
   },
   {
-    "penis (as spoken by children)": "былыхъу"
+    "greedy": "тхьацэ; хьацэ; былымыпс"
   },
   {
-    "family": "быны"
+    "miser": "тхьацэ; хьацэ; былымыпс; ахъщапс"
   },
   {
-    "Family children": "быны"
+    "spouse": "шъхьэгъусэ"
   },
   {
-    "group": "быны"
+    "childless": "бынынчъэ"
   },
   {
-    "spouse": "быны"
+    "familyless": "унагъончъэ"
   },
   {
-    "childless, a person without family,": "бынынчъэ"
+    "curly": "быраб"
   },
   {
-    "family": "быныуын"
+    "frizzy": "быраб"
   },
   {
-    "curly, Frizzled (the hair)": "быраб"
+    "flag": "нып; быракъ"
   },
   {
-    "flag": "нып"
+    "fugitive slave": "бырамыты"
   },
   {
-    "slave (fugitive)": "бырамыты"
+    "fat": "пщэры; быт1ы; бэрат1"
   },
   {
-    "fat": "бырат1"
-  },
-  {
-    "fat": "быт1ы"
+    "chunky body": "бэжъу"
   },
   {
     "fluffy": "бырацэ"
   },
   {
-    "coarse": "быргусыргу"
-  },
-  {
-    "crude": "быргусыргу"
+    "hairy": "цыбэ зытет; бырацэ (Kfar Kama dialect)"
   },
   {
     "rough": "быргусыргу"
   },
   {
-    "rough": "быргыт1ырг"
+    "not smooth": "быргусыргу"
   },
   {
-    "rugged": "быргыт1ырг"
+    "uneven": "быргусыргу (uneven road)"
+  },
+  {
+    "bumpy": "быргыт1ырг"
   },
   {
     "tapeworm": "быркусын"
   },
   {
-    "to make trouble": "бырсырын"
+    "to make trouble": "бырсырын; гъэбырсырын; мыхъо-мыш1агъэ зехьан"
   },
   {
-    "curly, folded": "зэгъэлъагъэ"
+    "curly": "зэгъэлъагъэ"
   },
   {
-    "fine, good": "бырыукъ"
+    "folded": "зэгъэлъагъэ"
   },
   {
-    "Islam, Muslim": "быслымэн"
+    "Islam": "быслымэн дин; бысмэн дин"
+  },
+  {
+    "Muslim": "быслымэн; бысмэн"
   },
   {
     "host": "бысым"
@@ -5334,40 +5328,55 @@
     "owner": "бысым"
   },
   {
-    "flimsy, insignificant, ragged": "бытхъэ"
+    "braided": "благъэ"
   },
   {
-    "arch, arched, bow, convex, hunchback,": "быты"
+    "humpy": "быты"
   },
   {
-    "moo, roar,": "быун"
+    "hunchbacked": "быты"
   },
   {
-    "Quiet place, refuge,": "быяуп1"
+    "humpbacked": "быты"
   },
   {
-    "alternative form of \"быяун\"": "быяужьын"
-  },
-  {
-    "chatty, garrulous, talkative,": "бэ1ул"
-  },
-  {
-    "Be lost, disappear": "бэбахь"
+    "too moo": "быун"
   },
   {
     "scabby": "бэгу"
   },
   {
-    "itch, mange": "бэгу"
+    "itch": "бэгу"
+  },
+  {
+    "scab": "бэгу"
+  },
+  {
+    "scabies": "бэгу"
   },
   {
     "long-lived": "бэгъаш1э"
   },
   {
-    "to reproduce, to breed, to spawn, to propagate": "бэгъон"
+    "longlived": "бэгъаш1э"
   },
   {
-    "to multiply": "бэгъон"
+    "long lived": "бэгъаш1э"
+  },
+  {
+    "centenarian": "бэгъаш1э"
+  },
+  {
+    "to reproduce": "бэгъон"
+  },
+  {
+    "to propagate": "бэгъон"
+  },
+  {
+    "to breed": "бэгъон"
+  },
+  {
+    "to spawn": "бэгъон"
   },
   {
     "Very sad": "бэгъэгус"
@@ -5452,9 +5461,6 @@
   },
   {
     "Fly killing tool": "бэдзэук1"
-  },
-  {
-    "fat": "бэжъу"
   },
   {
     "thick body": "бэжъу"
@@ -6067,9 +6073,6 @@
   },
   {
     "spade, shovel": "къазгъыр"
-  },
-  {
-    "fat": "пщэры"
   },
   {
     "gum (The flesh round the teeth.)": "цэлы"
@@ -19318,9 +19321,6 @@
   },
   {
     "trouble": "хьэлэбэлыкъ"
-  },
-  {
-    "to make trouble": "мыхъо-мыш1агъэ зехьан"
   },
   {
     "to wrongdo": "мыхъо-мыш1агъэ зехьан"
