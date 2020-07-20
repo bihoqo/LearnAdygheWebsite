@@ -4812,10 +4812,13 @@
     "to fix": "гъэтэрэзыжьын (recorrect); ш1ыжьын (to repair); дыжьын (to sew up), гъэцэк1эжьын (to mend)"
   },
   {
-    "to destroy": "гъэон; зэхэкъутэн"
+    "to destroy": "гъэон; зэхэкъутэн; зэхэкъутэхьан; зэхэубэтэн; зэхэубэтэхьан"
   },
   {
-    "to ruin": "гъэон (to destroy); угъэсэкъатын (to make something dysfunctional); унэхъун"
+    "to ruin": "гъэон (to destroy, to spoil); гъэсэкъатын (to make something dysfunctional); унэхъун; гъэунэхъун"
+  },
+  {
+    "to spoil": "гъэон (to ruin); гъэсэхъуджэн (to make someone spoiled)"
   },
   {
     "to play music": "еон; къеон"
@@ -4824,13 +4827,10 @@
     "to shoot": "он; еон; к1эрахъок1э еон"
   },
   {
-    "to call": "феуэн (a phone); фэтеон (a phone); еджэн / къеджэн"
+    "to call": "феон (a phone); фэтеон (a phone); еджэн / къеджэн"
   },
   {
     "to be ruined": "унэхъун"
-  },
-  {
-    "to ruin; to make someone/something ruined": "гъэунэхъун"
   },
   {
     "to be completely broken, to be destroyed, to be shattered,": "мэубэтэн"
@@ -19024,9 +19024,6 @@
   },
   {
     "to act spoiled": "зыгъэнэджэн"
-  },
-  {
-    "to spoil": "гъэсэхъуджэн"
   },
   {
     "to lose one's way, to go astray, to get lost": "к1охъун"

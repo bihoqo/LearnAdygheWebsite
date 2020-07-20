@@ -9306,7 +9306,7 @@
             "translation": "The boy '''is taking''' the girl to school."
           },
           {
-            "sentence": "'''Сыщ''' машинэмк1э хым",
+            "sentence": "'''Сыщ''' кумк1э хым",
             "translation": "'''Take me''' to the sea with the car."
           },
           {
@@ -12292,7 +12292,7 @@
             "translation": "Every year the people that are working '''are changing'''."
           },
           {
-            "sentence": "К1алэм имащинэ '''зиблыхъогъ'''",
+            "sentence": "К1алэм ику '''зиблыхъогъ'''",
             "translation": "The boy '''has replaced''' his car."
           },
           {
@@ -15318,11 +15318,11 @@
             "translation": "the apple's '''price''' is four dollars."
           },
           {
-            "sentence": "Мы мащинэм '''уасэ''' и1эп",
+            "sentence": "Мы кум '''уасэ''' и1эп",
             "translation": "This car has no '''value'''."
           },
           {
-            "sentence": "Мы мащинэм '''иуасэ''' бэ",
+            "sentence": "Мы кум '''иуасэ''' бэ",
             "translation": "This car's '''price''' is a lot."
           }
         ]
@@ -16506,7 +16506,7 @@
             "translation": "'''Can''' the boy eat? - '''Is''' the boy '''permitted''' to eat?"
           },
           {
-            "sentence": "машинэр псынк1эу уфэу '''хъущта?'''",
+            "sentence": "кур псынк1эу уфэу '''хъущта?'''",
             "translation": "'''Is it permitted''' to run the car fast?"
           },
           {
@@ -18583,7 +18583,7 @@
             "translation": "Drinking alcohol in weddings '''is not suitable''' for our traditions."
           },
           {
-            "sentence": "Уцышъор машинэм '''ек1урэп'''",
+            "sentence": "Уцышъор кум '''ек1урэп'''",
             "translation": "The color green '''is not suitable''' for cars."
           }
         ]
@@ -19654,7 +19654,7 @@
         "meaning": "to function, to work",
         "examples": [
           {
-            "sentence": "Мащинэр '''къэлажьа?'''",
+            "sentence": "Кур '''къэлажьа?'''",
             "translation": "'''Is''' the car '''working?'''"
           }
         ]
@@ -20094,7 +20094,7 @@
         "meaning": "to repair",
         "examples": [
           {
-            "sentence": "К1алэм мащинэр '''егъэтэрэзы'''",
+            "sentence": "К1алэм кур '''егъэтэрэзы'''",
             "translation": "The boy '''repairs''' the car."
           }
         ]
@@ -20270,11 +20270,11 @@
         "meaning": "to ruin; to make someone/something ruined",
         "examples": [
           {
-            "sentence": "Пшъашъэм к1алэр '''егъэунэхъу'''",
-            "translation": "The girl '''is ruining''' the boy."
+            "sentence": "Л1ыжъым к1алэр '''егъэунэхъу'''",
+            "translation": "The old man '''is ruining''' the boy."
           },
           {
-            "sentence": "К1алэм мащинэр '''егъэунэхъугъ'''",
+            "sentence": "К1алэм кур '''егъэунэхъугъ'''",
             "translation": "The boy '''ruined''' the car."
           },
           {
@@ -30196,7 +30196,7 @@
             "translation": "The amount of money you have '''is enough'''."
           },
           {
-            "sentence": "Ахъщэу сы1ыгъэр '''Икъущт''' мащинэ к1э фэш1ык1э",
+            "sentence": "Ахъщэу сы1ыгъэр '''Икъущт''' ку к1э фэш1ык1э",
             "translation": "The money I have '''will be enough''' for a new car."
           },
           {
@@ -30208,7 +30208,7 @@
             "translation": "The amount of people you brought '''will not be enough'''."
           },
           {
-            "sentence": "Ахъщэу къысэптыгъэр '''икъугъэп''' мащинэ к1эм фэш1ык1э",
+            "sentence": "Ахъщэу къысэптыгъэр '''икъугъэп''' ку к1эм фэш1ык1э",
             "translation": "The amount of money you gave me '''was not enough''' for the new car."
           },
           {
@@ -30245,7 +30245,7 @@
             "translation": "The people that will not enter the exam '''will be''' three."
           },
           {
-            "sentence": "Умыгуа1, тэ мащинэмк1э тфэу '''тикъоу''' тисыщтэп, пл1ы ны1эп зэрэтикъущтыр",
+            "sentence": "Умыгуа1, тэ кумк1э тфэу '''тикъоу''' тисыщтэп, пл1ы ны1эп зэрэтикъущтыр",
             "translation": "Don't worry, we '''won't be''' sitting as five people in the car, '''we will be''' only four people."
           },
           {
@@ -33310,7 +33310,7 @@
             "translation": "The boy '''is driving'''."
           },
           {
-            "sentence": "Машинэр '''фын'''.",
+            "sentence": "Кур '''фын'''.",
             "translation": "'''To drive''' a car."
           },
           {
@@ -35168,7 +35168,7 @@
         "meaning": "wheel",
         "examples": [
           {
-            "sentence": "Машинэр ежьэмэ щэрэхъхэр '''чэрэгъун''' фае",
+            "sentence": "Кур ежьэмэ щэрэхъхэр '''чэрэгъун''' фае",
             "translation": "When the car starts, the wheels must '''whirl'''."
           }
         ]
@@ -37019,7 +37019,7 @@
             "translation": "Help '''the weak people'''."
           },
           {
-            "sentence": "мы мащинэр '''ерагъ'''",
+            "sentence": "мы кур '''ерагъ'''",
             "translation": "This car is '''poor'''."
           }
         ]
@@ -37866,11 +37866,11 @@
         "meaning": "to help to push with someone",
         "examples": [
           {
-            "sentence": "Мыгъак1уи мащинэм '''къэсде1'''",
+            "sentence": "Мыгъак1уи кум '''къэсде1'''",
             "translation": "Come and '''help me push ''' this car."
           },
           {
-            "sentence": "К1алэм '''уде1эми''' мащинэ шъугъэхъыешъутэп",
+            "sentence": "К1алэм '''уде1эми''' ку шъугъэхъыешъутэп",
             "translation": "Even if '''you push with''' the boy you couldn't move the car."
           }
         ]
@@ -38160,7 +38160,7 @@
         "meaning": "to destroy, to ruin",
         "examples": [
           {
-            "sentence": "К1алэм машинэр '''егъао'''",
+            "sentence": "К1алэм кур '''егъао'''",
             "translation": "The boy '''destroys''' the car."
           },
 		  {
@@ -38206,6 +38206,15 @@
             "translation": "The man '''is allowing/making''' the boy hit the tree"
           }
         ]
+      },
+      {
+        "meaning": "to spoil something; to damage (something) in some way making it unfit for use",
+        "examples": [
+          {
+            "sentence": "К1алэм планыр '''ыгъэуагъ'''",
+            "translation": "The boy '''spoiled''' the plan."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -38222,7 +38231,7 @@
         "meaning": "to destroy, to ruin",
         "examples": [
           {
-            "sentence": "К1алэм машинэр '''зэхекъутэ'''",
+            "sentence": "К1алэм кур '''зэхекъутэ'''",
             "translation": "The boy '''destroys''' the car."
           },
           {
@@ -38705,7 +38714,7 @@
         "meaning": "to spill some liquid into somewhere",
         "examples": [
           {
-            "sentence": "к1алэм мащинэм '''дегъэт1ат1э''' псы",
+            "sentence": "к1алэм кум '''дегъэт1ат1э''' псы",
             "translation": "The boy '''is spilling''' water into the car."
           },
           {
@@ -39141,7 +39150,7 @@
             "translation": "'''you stopped''' the boy."
           },
           {
-            "sentence": "Мащинэр '''къэсэгъэуцу'''",
+            "sentence": "Кур '''къэсэгъэуцу'''",
             "translation": "'''I am stopping''' the cat."
           },
           {
@@ -39383,7 +39392,7 @@
         "meaning": "to put in",
         "examples": [
           {
-            "sentence": "Сэ гык1элъэ машинэм гык1ынхэр '''дэсэлъхьэх'''.",
+            "sentence": "Сэ гык1элъэ кум гык1ынхэр '''дэсэлъхьэх'''.",
             "translation": "'''I am putting''' the laundry in the washing machine."
           }
         ]
@@ -41236,7 +41245,7 @@
         "meaning": "to wash",
         "examples": [
           {
-            "sentence": "Сил1ы машинэр '''етхьак1ы'''",
+            "sentence": "Сил1ы кур '''етхьак1ы'''",
             "translation": "My husband '''is washing''' the car."
           },
           {
@@ -41967,7 +41976,7 @@
         "meaning": "to have knowledge about some technical stuff or subject, to have an understanding about a certain subject",
         "examples": [
           {
-            "sentence": "К1алэр машинэмэ '''яхеш1ык1ы'''",
+            "sentence": "К1алэр кумэ '''яхеш1ык1ы'''",
             "translation": "The boy '''is familiar with''' cars."
           },
           {
@@ -42953,7 +42962,7 @@
         "meaning": "to be anxious (about), to be uneasy (about)",
         "examples": [
           {
-            "sentence": "Машинэм пае '''угузэжъон''' фае",
+            "sentence": "Кум пае '''угузэжъон''' фае",
             "translation": "You need '''to be anxious''' about the car."
           }
         ]
@@ -43087,7 +43096,7 @@
         "meaning": "to bump between each other",
         "examples": [
           {
-            "sentence": "Машинэхэр '''зэутэк1ыгъэх'''",
+            "sentence": "Кухэр '''зэутэк1ыгъэх'''",
             "translation": "The cars '''clashed'''."
           },
           {
@@ -45041,7 +45050,7 @@
             "translation": "Don't '''destroy''' the house."
           },
           {
-            "sentence": "К1алэр мащинэмк1э дафи мащинэр '''иубэтагъ'''",
+            "sentence": "К1алэр кумк1э дафи кур '''иубэтагъ'''",
             "translation": "The boy '''destroyed''' the car by crashing with/using it."
           }
         ]
@@ -46131,7 +46140,7 @@
             "translation": "the boy '''stopped'''."
           },
           {
-            "sentence": "Мащинэр '''къэуцурэп'''",
+            "sentence": "Кур '''къэуцурэп'''",
             "translation": "the car '''is not stopping'''.."
           },
           {
@@ -46779,7 +46788,7 @@
         "meaning": "to turn off",
         "examples": [
           {
-            "sentence": "Мащинэр '''гъэк1уас'''",
+            "sentence": "Кур '''гъэк1уас'''",
             "translation": "'''Turn off''' the car."
           },
           {
@@ -46826,7 +46835,7 @@
         "meaning": "to be turned off",
         "examples": [
           {
-            "sentence": "Мащинэр '''мэк1уасэ'''",
+            "sentence": "Кур '''мэк1уасэ'''",
             "translation": "The car '''is turning off'''."
           },
           {
@@ -47390,7 +47399,7 @@
             "translation": "The boy '''doesn't get along with''' the girl - The boy '''isn't fine with''' the girl."
           },
           {
-            "sentence": "К1алэр мащинэм '''езэгъырэп'''",
+            "sentence": "К1алэр кум '''езэгъырэп'''",
             "translation": "The boy '''isn't fine with''' the car."
           },
           {
@@ -48150,15 +48159,15 @@
         "meaning": "to crash, to drive off",
         "examples": [
           {
-            "sentence": "Мащинэр '''дафи''' исхэр мэук1ыгъэх",
+            "sentence": "Кур '''дафи''' исхэр ук1ыгъэх",
             "translation": "The car '''crashed''' and the people inside died."
           },
           {
-            "sentence": "Мащинэр псык1эу угъак1эмэ '''удэфэт'''",
+            "sentence": "Кур псык1эу угъак1эмэ '''удэфэщт'''",
             "translation": "If you drive the car fast '''you will crash'''."
           },
           {
-            "sentence": "К1алэм байсикылымк1э '''дэфагъ'''",
+            "sentence": "К1алэр кушъхьэфачъэмк1э '''дэфагъ'''",
             "translation": "The boy '''crashed''' with (using) the bicycle."
           }
         ]
@@ -48187,11 +48196,11 @@
         "meaning": "to crash, to drive off",
         "examples": [
           {
-            "sentence": "Мащинэр '''дафи''' исхэр мэук1ыгъэх",
+            "sentence": "Кур '''дафи''' исхэр мэук1ыгъэх",
             "translation": "The car '''crashed''' and the people inside died."
           },
           {
-            "sentence": "Мащинэр псык1эу угъак1эмэ '''удэфэт'''",
+            "sentence": "Кур псык1эу угъак1эмэ '''удэфэт'''",
             "translation": "If you drive the car fast '''you will crash'''."
           },
           {
@@ -48348,7 +48357,7 @@
             "translation": "The boy '''leaned''' on the wall."
           },
           {
-            "sentence": "Машинэ ш1оим '''зтэмгъак1'''",
+            "sentence": "Ку ш1оим '''зтэмгъак1'''",
             "translation": "'''Don't lean''' on the dirty car."
           }
         ]
@@ -49599,7 +49608,7 @@
         "meaning": "thought",
         "examples": [
           {
-            "sentence": "Си '''гупшысэк1э''' машинэ дахэ си1",
+            "sentence": "Си '''гупшысэк1э''' ку дахэ си1",
             "translation": "'''In''' my '''thought''' I have a beautiful car."
           }
         ]
@@ -49831,7 +49840,7 @@
             "translation": "'''Сomfortable''' house."
           },
           {
-            "sentence": "Мы мащинэр '''гупсэфа?'''",
+            "sentence": "Мы кур '''гупсэфа?'''",
             "translation": "Is this car '''comfortable'''."
           }
         ]
@@ -49941,7 +49950,7 @@
         "meaning": "to change something, to make something different",
         "examples": [
           {
-            "sentence": "К1алэм имащинэ '''зихъук1эгъ'''",
+            "sentence": "К1алэм ику '''зихъук1эгъ'''",
             "translation": "The boy '''has changed''' his car."
           },
           {
@@ -52778,7 +52787,7 @@
         "meaning": "to stop besides, to stop on the side of",
         "examples": [
           {
-            "sentence": "Машинэм '''къыгоуцу'''",
+            "sentence": "Кум '''къыгоуцу'''",
             "translation": "'''Stop besides''' the car."
           }
         ]
@@ -53135,11 +53144,11 @@
             "translation": "The man '''is starting up''' the film."
           },
           {
-            "sentence": "'''Егъажь''' машинэр",
+            "sentence": "'''Егъажь''' кур",
             "translation": "'''Start up''' the car."
           },
           {
-            "sentence": "Машинэр '''ебгъэжьэшъурэба?'''",
+            "sentence": "Кур '''ебгъэжьэшъурэба?'''",
             "translation": "'''Can't you start up''' the car?"
           },
           {
@@ -53177,7 +53186,7 @@
             "translation": "'''Move away''' from the computer."
           },
           {
-            "sentence": "Машинэ уфымэ гъогум ибгъу '''зыщыдзый'''",
+            "sentence": "Ку уфымэ гъогум ибгъу '''зыщыдзый'''",
             "translation": "When you drive a car '''move away''' from the road's side."
           }
         ]
@@ -54488,7 +54497,7 @@
         "meaning": "to check, to examine",
         "examples": [
           {
-            "sentence": "Машинэу къэсхьыгъэр '''плъэк1у'''",
+            "sentence": "Куу къэсхьыгъэр '''плъэк1у'''",
             "translation": "'''Check''' the car I brought."
           },
           {
@@ -54496,7 +54505,7 @@
             "translation": "'''They are examining us''' if we are ready."
           },
           {
-            "sentence": "'''Ауплъэк1ущт''' мащинэ мэлажьэмэ",
+            "sentence": "'''Ауплъэк1ущт''' ку мэлажьэмэ",
             "translation": "'''They are examine''' if the car works."
           }
         ]
@@ -54505,7 +54514,7 @@
         "meaning": "to test",
         "examples": [
           {
-            "sentence": "К1алэм '''еплъэк1у''' мащинэр мэлажьэмэ",
+            "sentence": "К1алэм '''еплъэк1у''' кур мэлажьэмэ",
             "translation": "The boy '''is testing''' of the car is working."
           },
           {
@@ -55740,7 +55749,7 @@
             "translation": "The boy '''is accelerating'''."
           },
           {
-            "sentence": "К1алэм мащинэмк1э '''ч1итхъогъ'''",
+            "sentence": "К1алэм кумк1э '''ч1итхъогъ'''",
             "translation": "The boy '''accelerated''' with the car."
           },
           {
@@ -55748,7 +55757,7 @@
             "translation": "'''Accelerate!'''"
           },
           {
-            "sentence": "Мащинэм '''зч1итхъушъурэп'''",
+            "sentence": "Кум '''зч1итхъушъурэп'''",
             "translation": "The car '''can't accelerate'''"
           },
           {
@@ -56700,7 +56709,7 @@
         "meaning": "to slip/slide (on a surface that have a fraction like dirt, mud, wooden table and etc.) (Usually objects)",
         "examples": [
           {
-            "sentence": "Мащинэ '''мэцуахъо'''",
+            "sentence": "Ку '''мэцуахъо'''",
             "translation": "The car '''is slipping'''."
           },
           {
@@ -56772,7 +56781,7 @@
             "translation": "I didn’t come because '''I was not allowed to'''."
           },
           {
-            "sentence": "Ар машинэм ичъыихьан '''фитэп'''.",
+            "sentence": "Ар кум ичъыихьан '''фитэп'''.",
             "translation": "'''He is not allowed''' to sleep in the car. ."
           }
         ]
@@ -56897,7 +56906,7 @@
             "translation": "'''I will spill''' water '''on you'''."
           },
           {
-            "sentence": "К1алэм мащинэм псы '''тек1э'''",
+            "sentence": "К1алэм кум псы '''тек1э'''",
             "translation": "The boy '''is spilling''' water on the car."
           },
           {
@@ -58064,7 +58073,7 @@
             "translation": "'''Easy''' test."
           },
           {
-            "sentence": "К1алэм '''1эш1эхэу''' мащинэр иш1ыжьэгъ",
+            "sentence": "К1алэм '''1эш1эхэу''' кур иш1ыжьэгъ",
             "translation": "The young man fixed the car '''easily'''."
           },
           {
@@ -58097,7 +58106,7 @@
             "translation": "'''Hard''' test."
           },
           {
-            "sentence": "К1алэм '''къинык1э''' мащинэр иш1ыжьэгъ",
+            "sentence": "К1алэм '''къинык1э''' кур иш1ыжьэгъ",
             "translation": "The young man fixed the car '''with great difficulty'''."
           },
           {
@@ -58437,7 +58446,7 @@
         "meaning": "to make something shine",
         "examples": [
           {
-            "sentence": "Мащинэр '''къэгъэц1ыу'''",
+            "sentence": "Кур '''къэгъэц1ыу'''",
             "translation": "'''Make''' the car '''shine'''."
           }
         ]
@@ -58709,7 +58718,7 @@
         "meaning": "to get a scratch",
         "examples": [
           {
-            "sentence": "Мащинэр '''мэц1этхъогъ'''",
+            "sentence": "Кур '''мэц1этхъогъ'''",
             "translation": "The car '''got a scratch'''."
           }
         ]
@@ -58738,7 +58747,7 @@
         "meaning": "to scratch",
         "examples": [
           {
-            "sentence": "Мащинэр '''оц1этхъу'''",
+            "sentence": "Кур '''оц1этхъу'''",
             "translation": "'''You are scratching''' the car."
           },
           {
@@ -58857,7 +58866,7 @@
             "translation": "'''Slide to me''' a glass on the table."
           },
           {
-            "sentence": "К1алэм мащинэр гъогум '''егъэцуахъуи''' тет",
+            "sentence": "К1алэм кур гъогум '''егъэцуахъуи''' тет",
             "translation": "The boy '''is drifting''' his car on the road."
           }
         ]
@@ -59020,7 +59029,7 @@
             "translation": "Finish the '''whole''' apple."
           },
           {
-            "sentence": "Мащинэри '''псаоу''' къэбгъэнэшъугъэп",
+            "sentence": "Кури '''псаоу''' къэбгъэнэшъугъэп",
             "translation": "You couldn't even left the car '''intact''' too."
           },
           {
@@ -59940,14 +59949,14 @@
     "ipa": "zəb"
   },
   {
-    "word": "нахьиу",
+    "word": "нахьыеу",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "even more",
         "examples": [
           {
-            "sentence": "Мащинэр '''нахьиу''' угъэсэкъатыт",
+            "sentence": "Кур '''нахьыеу''' угъэсэкъатыщт",
             "translation": "You will ruin the car '''even more'''."
           }
         ]
@@ -59964,7 +59973,7 @@
         "meaning": "to bleed",
         "examples": [
           {
-            "sentence": "Силъакъо '''лъы къек1ы'''",
+            "sentence": "Слъакъо '''лъы къек1ы'''",
             "translation": "My leg '''is bleeding'''."
           }
         ]
@@ -63265,7 +63274,7 @@
             "translation": "That boy is coming to my house everyday, he became '''my acquaintance'''."
           },
           {
-            "sentence": "зы '''нэ1уасэ''' горэ шъуи1а мащинэхэ иш1ыжьыхэу?",
+            "sentence": "зы '''нэ1уасэ''' горэ шъуи1а кухэ иш1ыжьыхэу?",
             "translation": "Do you (plural) have one '''acquaintance''' that fixes cars?"
           }
         ]
@@ -63324,11 +63333,11 @@
             "translation": "Tom '''is fixing''' computers."
           },
           {
-            "sentence": "Уимащинэ '''къагъэш1ыжь'''",
+            "sentence": "Уику '''къагъэш1ыжь'''",
             "translation": "'''Make them fix''' your car."
           },
           {
-            "sentence": "Мащинэхэ '''ш1ыжьык1э''' сыш1эрэп",
+            "sentence": "Кухэ '''ш1ыжьык1э''' сыш1эрэп",
             "translation": "I don't know '''how to fix''' cars."
           },
           {
@@ -63336,7 +63345,7 @@
             "translation": "'''I couldn't fix''' their house."
           },
           {
-            "sentence": "зы нэ1уасэ горэ шъуи1а мащинэхэ '''иш1ыжьыхэу'''?",
+            "sentence": "зы нэ1уасэ горэ шъуи1а кухэ '''иш1ыжьыхэу'''?",
             "translation": "Do you (plural) have one familiar '''that fixes''' cars?"
           }
         ]
@@ -63656,7 +63665,7 @@
         "meaning": "to watch over, to keep an eye on",
         "examples": [
           {
-            "sentence": "Мащинэм '''къылъыплъ'''",
+            "sentence": "Кум '''къылъыплъ'''",
             "translation": "'''Watch over''' the car."
           },
           {
@@ -64038,7 +64047,7 @@
         "meaning": "(vulgar slang) to use something too much exaggeratedly, to use the hell out of",
         "examples": [
           {
-            "sentence": "Мащинэр къэлал, '''ишъуты ипхэгъ'''",
+            "sentence": "Кур къэлал, '''ишъуты ипхэгъ'''",
             "translation": "Leave the car, '''you used the hell out of it'''"
           },
           {
@@ -64150,7 +64159,7 @@
             "translation": "The boy '''is walking backward'''."
           },
           {
-            "sentence": "Мащинэ '''зэк1эк1ошъурэп'''",
+            "sentence": "Ку '''зэк1эк1ошъурэп'''",
             "translation": "The car '''can't run backward'''."
           }
         ]
@@ -65942,7 +65951,7 @@
             "translation": "'''Don't run after me'''."
           },
           {
-            "sentence": "Мащинэм '''улъымычъ'''",
+            "sentence": "Кум '''улъымычъ'''",
             "translation": "'''Don't run after''' the car."
           },
           {
@@ -67412,7 +67421,7 @@
         "meaning": "to ruin something (usually machines), to defect",
         "examples": [
           {
-            "sentence": "машинэр '''угъэсэкъатыгъ'''",
+            "sentence": "кур '''угъэсэкъатыгъ'''",
             "translation": "'''You ruined''' the car."
           }
         ]
@@ -68268,7 +68277,7 @@
         "meaning": "worthless",
         "examples": [
           {
-            "sentence": "Мащинэ '''к1ьэрыт'''",
+            "sentence": "Ку '''к1ьэрыт'''",
             "translation": "'''Bad''' car."
           },
           {
@@ -70778,7 +70787,7 @@
             "translation": "The carriage '''runs backward''' on the road."
           },
           {
-            "sentence": "Мащинэм мыжъо ч1алъхь '''зэк1эмычъэн''' пае",
+            "sentence": "Кум мыжъо ч1алъхь '''зэк1эмычъэн''' пае",
             "translation": "Put rock under the car so '''it won't run backward'''."
           }
         ]
@@ -74517,7 +74526,7 @@
             "translation": "Physics and mathematics are '''related to''' each other'''."
           },
           {
-            "sentence": "Машинэм и фэбагъэ и шъо '''егъэпхыгъ'''",
+            "sentence": "Кум и фэбагъэ и шъо '''егъэпхыгъ'''",
             "translation": "The car's heat '''is related to''' its color."
           }
         ]
@@ -77834,7 +77843,7 @@
             "translation": "The boy '''is envy of me''' because I am rich."
           },
           {
-            "sentence": "Уи мащинэ к1э дахэм фэш1ык1э '''къыошхъуагъощтых'''",
+            "sentence": "Уи ку к1э дахэм фэш1ык1э '''къыошхъуагъощтых'''",
             "translation": "Because of your beautiful new car '''they gonna envy you'''"
           },
           {
@@ -78546,7 +78555,7 @@
         "meaning": "complete (with all parts included)",
         "examples": [
           {
-            "sentence": "Си мащинэ '''игъэкъугъэ'''",
+            "sentence": "Си ку '''игъэкъугъэ'''",
             "translation": "My car '''is complete'''."
           }
         ]
@@ -79030,7 +79039,7 @@
         "meaning": "to be whirled",
         "examples": [
           {
-            "sentence": "Машинэр ежьэмэ щэрэхъхэр '''чэрэгъун''' фае",
+            "sentence": "Кур ежьэмэ щэрэхъхэр '''чэрэгъун''' фае",
             "translation": "When the car starts, the wheels must '''whirl'''."
           },
           {
@@ -80797,7 +80806,7 @@
         "meaning": "to break down (of a device, etc.)",
         "examples": [
           {
-            "sentence": "Машинэр зэщыкъуагъ",
+            "sentence": "Кур зэщыкъуагъ",
             "translation": "The car '''broke down'''."
           }
         ]
@@ -84812,7 +84821,7 @@
         "meaning": "never (in my life)",
         "examples": [
           {
-            "sentence": "'''Ныбжьи''' фэдэ амылъэгъугъэу машинэ ыш1ыгъ",
+            "sentence": "'''Ныбжьи''' фэдэ амылъэгъугъэу ку ыш1ыгъ",
             "translation": "He built a car that was '''never''' seen before."
           }
         ]
@@ -86844,7 +86853,7 @@
         "meaning": "to book; to fine (police)",
         "examples": [
           {
-            "sentence": "полицием '''утхэхьыщт''' машинэ псынк1эу уфымэ",
+            "sentence": "полицием '''утхэхьыщт''' ку псынк1эу уфымэ",
             "translation": "The police '''will book you''' if you drive the car fast."
           }
         ]
@@ -87261,7 +87270,7 @@
             "translation": "'''The person''' is going."
           },
           {
-            "sentence": "машинэм '''нэбгищ''' ифэтэ",
+            "sentence": "кум '''нэбгищ''' ифэтэ",
             "translation": "Only '''three people''' will fit into the car."
           },
           {
@@ -88000,7 +88009,7 @@
         "meaning": "to invent something",
         "examples": [
           {
-            "sentence": "Машинэ к1эу '''къыч1агъэк1ыгъэр''' плъэгъугъа?",
+            "sentence": "Ку к1эу '''къыч1агъэк1ыгъэр''' плъэгъугъа?",
             "translation": "Did you see the new car '''they invented'''."
           }
         ]
@@ -88500,7 +88509,7 @@
         "meaning": "to punish",
         "examples": [
           {
-            "sentence": "Машинэр зэрикъутагъэм пае шоферыр '''гъэпщынэн''' фае",
+            "sentence": "Кур зэрикъутагъэм пае шоферыр '''гъэпщынэн''' фае",
             "translation": "Because he wrecked the car, the driver need '''to be punished'''."
           }
         ]
@@ -89762,7 +89771,7 @@
             "translation": "'''To fill''' the car with gas."
           },
           {
-            "sentence": "К1алэм бэнзин имашинэ '''регъахъо'''",
+            "sentence": "К1алэм бэнзин ику '''регъахъо'''",
             "translation": "The boy '''is filling''' his car with gas."
           },
           {
@@ -90643,7 +90652,7 @@
         "meaning": "to disarray",
         "examples": [
           {
-            "sentence": "Си мащинэ '''зэ1эбгъахьагъ'''",
+            "sentence": "Си ку '''зэ1эбгъахьагъ'''",
             "translation": "'''You disarrayed''' my car."
           },
           {
@@ -96803,7 +96812,7 @@
             "translation": "'''Connect''' the chain to the car."
           },
           {
-            "sentence": "Машинэ къутагъэр тракторым '''пыш1агъ'''",
+            "sentence": "Ку къутагъэр тракторым '''пыш1агъ'''",
             "translation": "The destroyed car '''is connected''' to the tractor."
           },
           {
