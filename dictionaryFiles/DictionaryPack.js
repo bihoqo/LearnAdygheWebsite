@@ -4524,6 +4524,18 @@
     "ipa": "pt͡sˤʼaːpˤʼa"
   },
   {
+    "word": "псэнчъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "kind",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "psant͡ʂa"
+  },
+  {
     "word": "хъупхъэ",
     "lang": "Adyghe",
     "definitions": [
@@ -22626,7 +22638,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "chunky body",
+        "meaning": "chunky",
         "examples": []
       },
       {
@@ -22636,6 +22648,22 @@
     ],
     "type": "adj",
     "ipa": "baʐʷ"
+  },
+  {
+    "word": "быцу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "chunky",
+        "examples": []
+      },
+      {
+        "meaning": "thick body",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "bat͡ʂʷ"
   },
   {
     "word": "бэк1ай",
@@ -22686,7 +22714,7 @@
     "type": "adj"
   },
   {
-    "word": "бэк1э",
+    "word": "нахь бэк1э",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -22701,7 +22729,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Stage (in time), step,",
+        "meaning": "the moment of a step, the duration of a step",
         "examples": []
       }
     ],
@@ -22730,15 +22758,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "cunt",
+        "meaning": "groin area",
         "examples": []
       },
       {
-        "meaning": "pudendum",
-        "examples": []
-      },
-      {
-        "meaning": "vulva",
+        "meaning": "perineum; the region between the human genitalia and anus",
         "examples": []
       }
     ],
@@ -22765,12 +22789,28 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "woman (fertile),",
+        "meaning": "fertile (woman)",
+        "examples": []
+      },
+	  {
+        "meaning": "a woman that gave birth to a lot of children",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "baɬf"
+  },
+  {
+    "word": "лъэпсэрык1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "    edible root, root vegetable",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ɬapsarət͡ʃʼ"
   },
   {
     "word": "бэлыдж",
@@ -22813,12 +22853,24 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "neglectful, negligent, uninterested,",
+        "meaning": "careless, carefree, unconcerned",
         "examples": []
       }
     ],
     "type": "adj",
     "ipa": "balarəʁ"
+  },
+  {
+    "word": "гугъуемыл1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "careless, carefree, unconcerned",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "ɡʷəʁʷajməɬʼ"
   },
   {
     "word": "бэнак1о",
@@ -22849,7 +22901,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Burial cover",
+        "meaning": "burial cover",
         "examples": []
       }
     ],
@@ -22857,11 +22909,35 @@
     "ipa": "bantajχʷ"
   },
   {
+    "word": "дышъэлъыхъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "gold-prospector, gold-digger",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "dəʂaɬəχʷ"
+  },
+  {
+    "word": "хьадэгъэпск1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "the man washing the bodies of the dead",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ħaːdaʁapst͡ʃʼ"
+  },
+  {
     "word": "бэны",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "burial, grave, tomb",
+        "meaning": "grave",
         "examples": []
       }
     ],
@@ -22943,7 +23019,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "attack, duel",
+        "meaning": "brawling; wrestling",
         "examples": []
       }
     ],
@@ -22985,7 +23061,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Bless your dress",
+        "meaning": "congratulations (said to someone who bought new clothes)",
         "examples": []
       }
     ],
@@ -23009,7 +23085,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "cunning, sly, wily",
+        "meaning": "wily",
         "examples": []
       }
     ],
@@ -23033,7 +23109,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "A person that frequently marrying, A person that merry a lot",
+        "meaning": "person who marries a lot; frequently marrying",
         "examples": []
       }
     ],
@@ -23045,12 +23121,64 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "blessing, boon, good",
+        "meaning": "blessing, boon",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "barakat"
+  },
+  {
+    "word": "хахъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "blessing, boon",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "xaːχʷ"
+  },
+  {
+    "word": "гъот",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "finding",
+        "examples": []
+      },
+	  {
+        "meaning": "loot",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "xaːχʷ"
+  },
+  {
+    "word": "огъурлы",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "kind, generous",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "waʁʷərɮə"
+  },
+  {
+    "word": "хьэдэт1эк1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "graverobber",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ħadatʼat͡ʃʼ"
   },
   {
     "word": "бэскъэн",
@@ -23085,7 +23213,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "a Cossack, Cossacks (people), stingy",
+        "meaning": "a Cossack, Cossacks (people)",
         "examples": []
       }
     ],
@@ -23097,7 +23225,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "generous, liberal, openhanded",
+        "meaning": "generous",
         "examples": []
       }
     ],
@@ -23105,11 +23233,23 @@
     "ipa": "batə"
   },
   {
+    "word": "шъхьакъутым",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "knob (on the end of a cane or stick)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʂħaːqʷətəm"
+  },
+  {
     "word": "бэхъу апщи",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "god bless you",
+        "meaning": "let your flock multiply! (blessing)",
         "examples": []
       }
     ],
@@ -23169,7 +23309,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "stick",
+        "meaning": "long wooden stick",
         "examples": []
       }
     ],
@@ -23196,7 +23336,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "forbearing, patient",
+        "meaning": "forbearing; patient",
         "examples": []
       }
     ],
@@ -23208,7 +23348,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Heavy body, Heavy weight, patient,",
+        "meaning": "heavy weight",
+        "examples": []
+      },
+	  {
+        "meaning": "forbearing",
         "examples": []
       }
     ],
@@ -24019,7 +24163,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "three steps (Said to places that are very close)",
+        "meaning": "three steps (said to places that are very close)",
         "examples": [
           {
             "sentence": "Тиунэ '''хьэлъэбэкъищ''', псынк1эу к1о",
@@ -24068,11 +24212,11 @@
     "ipa": "t͡ʃʼaɬəwən"
   },
   {
-    "word": "хьэлъэубакъу",
+    "word": "хьэлъэбакъу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"лъэубакъу\"",
+        "meaning": "alternative form of \"хьэлъэбэкъу\"",
         "examples": []
       }
     ],
@@ -52739,7 +52883,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"лъэубакъу\"",
+        "meaning": "alternative form of \"лъэбэкъу\"",
         "examples": []
       }
     ],
@@ -52752,7 +52896,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "step",
+        "meaning": "alternative form of \"лъэбэкъу\"",
         "examples": []
       }
     ],
@@ -56991,7 +57135,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"лъэубакъу\"",
+        "meaning": "step",
         "examples": []
       }
     ],
@@ -59195,6 +59339,18 @@
     ],
     "type": "verb",
     "ipa": "pʼasχan"
+  },
+  {
+    "word": "цыхэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "ill-tempered; bad-tempered",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "t͡səxa"
   },
   {
     "word": "еп1эстхъын",
@@ -69056,29 +69212,28 @@
     "ipa": "ʂħat͡ʃʼa qaʔʷan"
   },
   {
-    "word": "хьэлъэбакъу",
+    "word": "хьалъэбэкъу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"лъэубакъу\"",
+        "meaning": "dog step",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "ħaɬawbaːq"
+    "ipa": "ħaɬabaq"
   },
   {
-    "word": "хьэлъэбакъо",
+    "word": "хьэлъэбэкъу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"лъэубакъу\"",
+        "meaning": "alternative form of \"хьалъэбакъо\"",
         "examples": []
       }
     ],
-    "cognate": "лъэбакъуэ",
     "type": "noun",
-    "ipa": "ħaɬawbaːq"
+    "ipa": "ħaɬabaq"
   },
   {
     "word": "1ук1эхьан",
@@ -69527,7 +69682,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "kindhearted",
+        "meaning": "kindhearted; kind-hearted",
         "examples": []
       },
       {
@@ -69537,6 +69692,30 @@
     ],
     "type": "adj",
     "ipa": "ɡʷəpt͡sʼaːna"
+  },
+  {
+    "word": "шъыпкъэ1о",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "truthful",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "ʂəpqaʔʷa"
+  },
+  {
+    "word": "шъыпкъа1о",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"шъыпкъэ1о\"",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "ʂəpqaːʔʷa"
   },
   {
     "word": "пшъэшъэжъый",
@@ -73110,7 +73289,7 @@
         "examples": []
       },
       {
-        "meaning": "grave",
+        "meaning": "hole (in the ground)",
         "examples": []
       }
     ],

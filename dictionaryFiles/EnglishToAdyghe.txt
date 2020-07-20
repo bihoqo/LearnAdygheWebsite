@@ -2469,7 +2469,7 @@
     "zebra": "шыдкъолэн; шыкъолэн"
   },
   {
-    "hole": "гъуанэ"
+    "hole": "гъуанэ; машэ (in the ground)"
   },
   {
     "near": "благъэ; ыдэжь; пэблагъ (close to); пэгъунэгъу (close to)"
@@ -4008,7 +4008,7 @@
     "fortuned": "насыпыш1у"
   },
   {
-    "lucky": "насыпыш1у; насып зи1эр"
+    "lucky": "насыпыш1у; насып зи1эр; бэрэ1умаф"
   },
   {
     "successful": "гъэхъагъэ зи1э"
@@ -5280,7 +5280,7 @@
     "fugitive slave": "бырамыты"
   },
   {
-    "fat": "пщэры; быт1ы; бэрат1"
+    "fat": "пщэры"
   },
   {
     "chunky body": "бэжъу"
@@ -5529,40 +5529,40 @@
     "long living plant": "бэк1ы"
   },
   {
-    "long-term": "бэк1ы"
+    "long-term": "бэк1ы; п1элъэ к1ыхьэ зи1э"
   },
   {
-    "longterm": "бэк1ы"
+    "longterm": "бэк1ы; п1элъэ к1ыхьэ зи1э"
   },
   {
-    "long term": "бэк1ы"
+    "long term": "бэк1ы; п1элъэ к1ыхьэ зи1э"
   },
   {
     "of many years": "бэк1ы"
   },
   {
-    "more than": "бэк1э"
+    "more than": "нахь бэк1э"
   },
   {
-    "Stage (in time), step,": "бэкъогъу"
+    "to stride": "бэкъон"
   },
   {
-    "to stride, to step (move on the feet)": "бэкъон"
+    "to step": "бэкъон"
   },
   {
-    "cunt": "бэкъу"
+    "step": "лъэбэкъу; хьалъэбэкъу (dog step)"
   },
   {
-    "pudendum": "бэкъу"
+    "perineum": "бэкъу"
   },
   {
-    "vulva": "бэкъу"
+    "groin area": "бэкъу"
   },
   {
-    "diaper, nappy": "бэкъудадз"
+    "diaper": "бэкъудадз"
   },
   {
-    "woman (fertile),": "бэлъф"
+    "nappy": "бэкъудадз"
   },
   {
     "radish": "бэлыдж"
@@ -5574,7 +5574,13 @@
     "radish juice": "бэлыджэпс"
   },
   {
-    "neglectful, negligent, uninterested,": "бэлэрыгъ"
+    "careless": "бэлэрыгъ; гугъуемыл1"
+  },
+  {
+    "unconcerned": "бэлэрыгъ; гугъуемыл1"
+  },
+  {
+    "carefree": "бэлэрыгъ; гугъуемыл1"
   },
   {
     "assailant, fighter, wrestler,": "бэнак1о"
@@ -5583,85 +5589,157 @@
     "small grave": "бэнжъый"
   },
   {
-    "Burial cover": "бэнтехъу"
+    "burial cover": "бэнтехъу"
   },
   {
-    "burial, grave, tomb": "бэны"
+    "burial": "хьадагъэ; хьэдэ дэхыныр, хьэдэ гъэ1ылъыныр"
   },
   {
-    "gravedigger": "бэныт1"
+    "grave": "бэны; къэ; хъэ (Shapsug)"
   },
   {
-    "to wrestle (to the fullest)": "бэнэк1ын"
+    "tomb": "къэун"
   },
   {
-    "to fight (with fists and kicks), to wrestle, to brawl, to tussle": "бэнэн"
+    "gravedigger": "бэныт1; бэн зыт1ырэр; хьадэгъалӏ"
   },
   {
-    "to struggle": "бэнэн"
+    "grave-digger": "бэныт1; бэн зыт1ырэр"
   },
   {
-    "attack, duel": "бэнэныгъ"
+    "gold-digger": "дышъэлъыхъу"
   },
   {
-    "to kiss": "бэон"
+    "gold-prospector": "дышъэлъыхъу"
   },
   {
-    "Bless your dress": "бэрауты"
+    "to wrestle": "бэнэн"
   },
   {
-    "barber, cupper": "бэрбэр"
+    "to brawl": "бэнэн"
   },
   {
-    "cunning, sly, wily": "бэрджахь"
+    "to tussle": "бэнэн"
   },
   {
-    "blessed, fortunate, lucky,": "бэрэ1умаф"
+    "to struggle": "бэнэн; щэ1эн"
   },
   {
-    "A person that frequently marrying, A person that merry a lot": "бэрэкъащ"
+    "to kiss": "бэон; ебэун; узэбэун (to kiss each other)"
   },
   {
-    "blessing, boon, good": "бэрэчэт"
+    "kiss": "бэу"
+  },
+  {
+    "barber": "жэк1эупс"
+  },
+  {
+    "hairdresser": "жэк1эупс"
+  },
+  {
+    "wily": "бэрджахь"
+  },
+  {
+    "blessed": "бэрэ1умаф"
+  },
+  {
+    "fortunate": "бэрэ1умаф"
+  },
+  {
+    "generous": "бэты; гупц1анэ; псэнчъэ; огъурлы; гупс1анэ (Shapsug)"
+  },
+  {
+    "kind-hearted": "гупц1анэ; гупс1анэ (Shapsug)"
+  },
+  {
+    "truthful": "шъыпкъэ1о; гупц1анэ; гупс1анэ (Shapsug)"
+  },
+  {
+    "fine fellow": "хъупхъэ; л1эхъупхъэ"
+  },
+  {
+    "kind": "хъупхъэ; огъурлы; ц1ыф дэгъу"
+  },
+  {
+    "blessing": "бэрэчэт; хахъу"
+  },
+  {
+    "graverobber": "хьэдэт1эк1"
+  },
+  {
+    "grave robber": "хьэдэт1эк1"
+  },
+  {
+    "finding": "гъот"
+  },
+  {
+    "loot": "гъот"
   },
   {
     "to fatten": "бэскъэн"
   },
   {
+    "cunt": "гудэ; хьэкуаку; гудэжъ; хьэкокожъ"
+  },
+  {
+    "fatass": "пщэры дэд; бэрат1; быт1ы; быт1ыхъурай; бэжъу; быцу"
+  },
+  {
+    "to become fat": "бэскъэн"
+  },
+  {
     "to plump": "бэскъэн"
   },
   {
-    "Beslenei (a Circassian clan),": "бэслъыный"
-  },
-  {
-    "a Cossack, Cossacks (people), stingy": "бэткэл1"
-  },
-  {
-    "generous, liberal, openhanded": "бэты"
+    "Beslenei": "бэслъыный"
   },
   {
     "god bless you": "бэхъу апщи"
   },
   {
-    "Since a long time": "бэш1агъ"
+    "since a long time": "бэ хъугъи; бэ теш1агъэу; бэш1агъэу; 1аджиш1агъэу"
   },
   {
-    "bottle (glass), pitcher": "бэшэрэб"
+    "long ago": "бэ хъугъи; бэ теш1агъэу; бэш1агъэу; 1аджиш1агъэу"
   },
   {
-    "mace": "бэщк1эрау"
+    "bottle": "бэшэрэб"
   },
   {
-    "stick": "бэщкъорэгъ"
+    "pitcher": "бэшэрэб"
+  },
+  {
+    "mace": "бэщк1эрау; токъмакъ; бэщкIэко шъхьахъут1ым"
+  },
+  {
+    "knob": "къопс; 1эубытып1э; шъхьакъутым (on the end of a cane or stick)"
   },
   {
     "stick maker": "бэщыш1"
   },
   {
-    "forbearing": "бэщы1"
+    "forbearing": "бэщы1; бэщэч; къинбэщэч"
   },
   {
-    "long-suffering, patient": "бэщы1"
+    "heavyweight": "бэщэч"
+  },
+  {
+    "heavy weight": "бэщэч"
+  },
+  {
+    "patient": "бэщы1; самбыр; къинбэщэч"
+  },
+  {
+    "ill-tempered": "цыхэ"
+  },
+  {
+    "bad-tempered": "цыхэ"
+  },
+  {
+    "long-suffering": "бэщы1"
+  },
+  {
+    "longsuffering": "бэщы1"
   },
   {
     "Heavy body, Heavy weight, patient,": "бэщэч"
@@ -6130,9 +6208,6 @@
   },
   {
     "handle": "къопс"
-  },
-  {
-    "knob": "къопс"
   },
   {
     "handle": "дакъэ"
@@ -15414,9 +15489,6 @@
     "pit": "машэ"
   },
   {
-    "grave": "машэ"
-  },
-  {
     "to shine, to glitter, to sparkle, to flash": "ц1ыун"
   },
   {
@@ -15442,9 +15514,6 @@
   },
   {
     "alternative form of \"нэмык1\"": "нэмк1"
-  },
-  {
-    "patient": "самбыр"
   },
   {
     "calm": "самбыр"
@@ -18166,9 +18235,6 @@
   },
   {
     "handle": "1эубытып1э"
-  },
-  {
-    "knob": "1эубытып1э"
   },
   {
     "shoelace": "лъэпс"
