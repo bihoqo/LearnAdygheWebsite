@@ -51137,7 +51137,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to cherish, to caress, to pamper",
+        "meaning": "to cherish; to caress; to pamper; to be nice to someone; to show a friendly disposition",
         "examples": [
           {
             "sentence": "Якъубэм Юсыфэр анахь '''ыгъэш1уагъ'''",
@@ -90903,11 +90903,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to caress (touch, kiss or stroke lovingly)",
-        "examples": []
-      },
-      {
-        "meaning": "to fondle",
+        "meaning": "to be nice to someone, to show a friendly disposition",
         "examples": []
       }
     ],
@@ -98842,11 +98838,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to caress (touch, kiss or stroke lovingly)",
-        "examples": []
-      },
-      {
-        "meaning": "to fondle",
+        "meaning": "to be nice to someone, to show a friendly disposition",
         "examples": []
       }
     ],
