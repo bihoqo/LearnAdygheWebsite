@@ -214,19 +214,29 @@
         ]
       },
       {
-        "meaning": "to spend money thriftily",
-        "examples": []
+        "meaning": "to be destroyed; to be ruined",
+        "examples": [
+		  {
+            "sentence": "К1алэм иплан '''уагъэ'''",
+            "translation": "The boy's plan '''got ruined'''."
+          },
+		  {
+            "sentence": "Унэр '''мао'''",
+            "translation": "The house '''is being destroyed'''."
+          }
+		]
       },
       {
         "meaning": "to sting",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм бжьэр '''къеуагъ'''",
+            "translation": "The bee '''stinged''' the boy."
+          }
+        ]
       },
       {
         "meaning": "to weed",
-        "examples": []
-      },
-      {
-        "meaning": "to smoke",
         "examples": [
           {
             "sentence": "л1ыр хьащищ '''ео'''",
@@ -5516,6 +5526,18 @@
     ],
     "type": "noun",
     "ipa": "txəɬ"
+  },
+  {
+    "word": "дыжьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to repair by sewing; to sew up",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "dəʑən"
   },
   {
     "word": "тхылъып1э",
@@ -20037,16 +20059,16 @@
         "meaning": "to regret",
         "examples": [
           {
-            "sentence": "к1алэр '''к1эгъожьы'''",
+            "sentence": "К1алэр '''к1эгъожьы'''",
             "translation": "The boy '''is regretting'''."
           },
           {
-            "sentence": "'''ск1эгъожьы''' зэрэ-уысэуагъэ",
-            "translation": "'''I am regretting''' i hit you."
+            "sentence": "'''Сык1эгъожьы''' зэрэусэуагъэ",
+            "translation": "'''I am regretting''' I hit you."
           },
           {
-            "sentence": "'''ук1эмгъожь''' уызэрэкъэк1уагъэм фэшк1э",
-            "translation": "'''Don't regret''' you came."
+            "sentence": "'''Ук1эмыгъожь''' еджап1эу узык1уагъэмк1э",
+            "translation": "'''Don't regret''' the school you went."
           }
         ]
       }
@@ -20134,7 +20156,7 @@
     "ipa": "mawan"
   },
   {
-    "word": "феуэн",
+    "word": "феон",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -20150,7 +20172,7 @@
         "meaning": "to call (a phone)",
         "examples": [
           {
-            "sentence": "к1алэр пшъашъэм '''феуэ''' тэлефонымк1э",
+            "sentence": "к1алэр пшъашъэм '''фео''' тэлефонымк1э",
             "translation": "the boy '''calling''' the girl with the telephone."
           },
           {
@@ -20160,8 +20182,36 @@
         ]
       }
     ],
+    ],
+    "synonyms": [
+      "фетеон"
+    ],
     "type": "verb",
     "ipa": "fajwan"
+  },
+  {
+    "word": "фетеон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to call (a phone)",
+        "examples": [
+          {
+            "sentence": "к1алэр пшъашъэм '''фэтео''' тэлефонымк1э",
+            "translation": "the boy '''calling''' the girl with the telephone."
+          },
+          {
+            "sentence": "'''къэсфэтеу''' телефонк1э",
+            "translation": "'''Call me''' with (using) a phone."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "феон"
+    ],
+    "type": "verb",
+    "ipa": "fatajwan"
   },
   {
     "word": "гъэуэн",
@@ -20176,25 +20226,41 @@
     "ipa": "ʁawan"
   },
   {
-    "word": "мэунэхъун",
+    "word": "унэхъун",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be ruined",
+        "meaning": "to ruin",
         "examples": [
           {
-            "sentence": "к1алэм '''мэунэхъогъ'''",
+            "sentence": "К1алэр '''унэхъугъ'''",
             "translation": "The boy '''is ruined'''."
           },
           {
-            "sentence": "мащинэр '''мэунэхъу'''",
+            "sentence": "Кур '''мэунэхъу'''",
             "translation": "The car '''is getting ruined'''."
+          },
+          {
+            "sentence": "Пшъашъэм к1алэр '''еунэхъу'''",
+            "translation": "The girl '''is ruining''' the boy."
+          },
+          {
+            "sentence": "К1алэм кур '''ыунэхъугъ'''",
+            "translation": "The boy'''is ruined''' the car."
+          },
+          {
+            "sentence": "'''Уунэхъугъ'''",
+            "translation": "'''You are ruined'''."
+          },
+          {
+            "sentence": "Алкохолк1э '''уунэхъущт'''",
+            "translation": "'''You will be ruined''' because of alcohol."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "mawnaχʷʁn"
+    "ipa": "wnaχʷən"
   },
   {
     "word": "гъэунэхъун",
@@ -29528,7 +29594,8 @@
       }
     ],
     "synonyms": [
-      "тхьэмыщк1ь"
+      "тхьэмыщк1ь",
+      "къулайцыз"
     ],
     "cognate": "тхьэмыщк1э",
     "type": "adj",
@@ -32614,15 +32681,19 @@
           {
             "sentence": "к1алэхэмэ '''шъукъадж'''",
             "translation": "'''Call''' the boys (Said to plural)"
+          },
+		  {
+            "sentence": "тик1алэ Томк1э '''теджэщт'''",
+            "translation": "We will '''call''' our boy Tom."
           }
         ]
       },
-      {
-        "meaning": "to name someone",
+	  {
+        "meaning": "to summon; to ask someone to come",
         "examples": [
           {
-            "sentence": "тик1алэ Томк1э '''теджэт'''",
-            "translation": "We will '''name''' our boy Tom."
+            "sentence": "к1алэм '''къедж'''",
+            "translation": "'''Ask''' the boy '''to come'''."
           }
         ]
       },
@@ -33215,7 +33286,7 @@
         ]
       },
       {
-        "meaning": "to disassemble, To take to pieces; to reverse the process of assembly.",
+        "meaning": "to disassemble; to break up into small parts; to take to pieces",
         "examples": [
           {
             "sentence": "Сомпыютэрэр '''зэхэх'''",
@@ -38092,6 +38163,10 @@
             "sentence": "К1алэм машинэр '''егъао'''",
             "translation": "The boy '''destroys''' the car."
           },
+		  {
+            "sentence": "К1алэм иплан '''угъэуагъ'''",
+            "translation": "You '''ruined''' the boy's plan."
+          },
           {
             "sentence": "Унэр '''къэгъау'''",
             "translation": "'''Destroy''' the house."
@@ -38132,6 +38207,37 @@
           }
         ]
       }
+    ],
+    "synonyms": [
+      "зэхэкъутэн"
+    ],
+    "type": "verb",
+    "ipa": "ʁawan"
+  },
+  {
+    "word": "зэхэкъутэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to destroy, to ruin",
+        "examples": [
+          {
+            "sentence": "К1алэм машинэр '''зэхекъутэ'''",
+            "translation": "The boy '''destroys''' the car."
+          },
+          {
+            "sentence": "Унэр '''зэхэкъут'''",
+            "translation": "'''Destroy''' the house."
+          },
+          {
+            "sentence": "Мощ уикомпыютер '''зэхикъутагъ'''",
+            "translation": "He '''destroyed''' your computer."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "гъэон"
     ],
     "type": "verb",
     "ipa": "ʁawan"
@@ -42449,7 +42555,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to repair",
+        "meaning": "to repair; to fix; to mend",
         "examples": [
           {
             "sentence": "Мыр '''бгъэцэк1эжьын''' плъэк1ыщтба?",
@@ -64373,11 +64479,11 @@
     "ipa": "paʃʼan"
   },
   {
-    "word": "напк1э тэхын",
+    "word": "напк1э техын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to bless",
+        "meaning": "to bless (more specifically: to wish for bad things to go away)",
         "examples": [
           {
             "sentence": "К1алэм иянэ '''напк1э фэтехы'''",
@@ -65133,16 +65239,16 @@
     "ipa": "zatawħalan"
   },
   {
-    "word": "унэхъун",
+    "word": "мэунэхъун",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"мэунэхъун\"",
+        "meaning": "alternative form of \"унэхъун\"",
         "examples": []
       }
     ],
     "type": "verb",
-    "ipa": "wənaχʷən"
+    "ipa": "mawənaχʷən"
   },
   {
     "word": "епхын",
@@ -73574,25 +73680,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to ruin",
-        "examples": [
-          {
-            "sentence": "Пшъашъэм к1алэр '''еунэхъу'''",
-            "translation": "The girl '''is ruining''' the boy."
-          },
-          {
-            "sentence": "К1алэм мащинэр '''еунэхъогъ'''",
-            "translation": "The boy'''is ruined''' the car."
-          },
-          {
-            "sentence": "'''Уунэхъогъ'''",
-            "translation": "'''You are ruined'''."
-          },
-          {
-            "sentence": "Алкохолк1э '''уунэхъушт'''",
-            "translation": "'''You will be ruined''' because of alcohol."
-          }
-        ]
+        "meaning": "alternative form of \"унэхъун\"",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -82871,10 +82960,6 @@
         "meaning": "to express something concerning; to express something according to",
         "examples": [
           {
-            "sentence": "Сыд филымым '''еп1уал1эрэр'''?",
-            "translation": "What '''you say about''' the film?"
-          },
-          {
             "sentence": "Л1ым дэеу ыш1агъэхэм дэгъоп '''ес1ол1энэу''' си1эр",
             "translation": "I don't have something good '''to say concerning''' the bad things the man did."
           },
@@ -82882,6 +82967,19 @@
             "sentence": "Л1ыжъым гущы1э ш1ух ны1эп '''ра1уал1эхэрэр'''",
             "translation": "Only good words '''are said about''' the old man."
           }
+        ]
+      },
+	  {
+        "meaning": "to say things about",
+        "examples": [
+          {
+            "sentence": "Сиянэ ш1ухэр '''ра1уал1эх'''",
+            "translation": "'''They say''' good things '''about''' my mother."
+          },
+          {
+            "sentence": "Сыд филымым '''еп1уал1эрэр'''?",
+            "translation": "What '''you say about''' the film?"
+          },
         ]
       }
     ],
@@ -97613,6 +97711,54 @@
     "ipa": "wəzandən"
   },
   {
+    "word": "ефэнды",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "effendi (title of respect) (usaully religous person)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "afandə"
+  },
+  {
+    "word": "яни",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "I mean; like (borrowed word from Arabic)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "jaːnəj"
+  },
+  {
+    "word": "хэгъэхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to add to",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "xaʁaħaːn"
+  },
+  {
+    "word": "зэхэшъхъэшъхъэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to break up into small parts, to be crushed",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaxaʂχaʂχan"
+  },
+  {
     "word": "узэндын",
     "lang": "Adyghe",
     "definitions": [
@@ -97666,5 +97812,50 @@
     ],
     "type": "verb",
     "ipa": "wəzandən"
+  },
+  {
+    "word": "къулайцыз",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "poor; helpless",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "тхьамык1"
+    ],
+    "type": "verb",
+    "ipa": "qʷəlaːjt͡səj"
+  },
+  {
+    "word": "мэк1эжъый",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "very few",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "мэк1э дэд"
+    ],
+    "type": "verb",
+    "ipa": "mat͡ʃʼaʐəj"
+  },
+  {
+    "word": "мэк1э дэд",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "very few",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "мэк1эжъый"
+    ],
+    "type": "verb",
+    "ipa": "mat͡ʃʼa dad"
   }
 ]

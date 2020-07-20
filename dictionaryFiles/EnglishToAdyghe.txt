@@ -4797,40 +4797,37 @@
     "to apply pressure": "ц1ыц1ын"
   },
   {
-    "to spill, to pour": "тик1эн"
-  },
-  {
     "to regret": "к1эгъожьын"
   },
   {
     "to correct": "гъэтэрэзын"
   },
   {
-    "to repair": "гъэтэрэзын"
+    "to recorrect": "гъэтэрэзын"
   },
   {
-    "to be hitting": "мэуэн"
+    "to repair": "гъэтэрэзыжьын (recorrect); ш1ыжьын (to fix); дыжьын (to sew up), гъэцэк1эжьын (to mend)"
   },
   {
-    "to be destroyed, to be ruined.": "мэуэн"
+    "to fix": "гъэтэрэзыжьын (recorrect); ш1ыжьын (to repair); дыжьын (to sew up), гъэцэк1эжьын (to mend)"
   },
   {
-    "to play music": "мэуэн"
+    "to destroy": "гъэон; зэхэкъутэн"
   },
   {
-    "to shoot": "мэуэн"
+    "to ruin": "гъэон (to destroy); угъэсэкъатын (to make something dysfunctional); унэхъун"
   },
   {
-    "to hit for someone": "феуэн"
+    "to play music": "еон; къеон"
   },
   {
-    "to call (a phone)": "феуэн"
+    "to shoot": "он; еон; к1эрахъок1э еон"
   },
   {
-    "alternative form of \"гъэон\"": "гъэуэн"
+    "to call": "феуэн (a phone); фэтеон (a phone); еджэн / къеджэн"
   },
   {
-    "to be ruined": "мэунэхъун"
+    "to be ruined": "унэхъун"
   },
   {
     "to ruin; to make someone/something ruined": "гъэунэхъун"
@@ -10560,9 +10557,6 @@
     "(slang) something to be really noticeable to the point you can't ignore it": "мэон"
   },
   {
-    "to hit": "мэон"
-  },
-  {
     "alternative form of \"к1асэ\"": "к1ьасэ"
   },
   {
@@ -13689,7 +13683,7 @@
     "alternative form of \"епэш1эн\"": "пэш1эн"
   },
   {
-    "to bless": "напк1э тэхын"
+    "to bless": "напк1э техын; "
   },
   {
     "one of them": "язырэ"
@@ -16348,9 +16342,6 @@
   },
   {
     "to fall off something": "тезын"
-  },
-  {
-    "killer": "ук1ак1о"
   },
   {
     "blood spilling": "лъыгъачъэ"
