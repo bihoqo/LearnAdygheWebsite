@@ -4830,28 +4830,37 @@
     "to call": "феон (a phone); фэтеон (a phone); еджэн / къеджэн"
   },
   {
-    "to be ruined": "унэхъун"
+    "to be ruined": "унэхъун; он"
   },
   {
-    "to be completely broken, to be destroyed, to be shattered,": "мэубэтэн"
+    "ruined": "унэхъугъэ; уагъэ"
   },
   {
-    "to tear off": "зэпытхъын"
+    "to shatter": "убэтэн"
   },
   {
-    "to tear (a rope)": "зэпитхъын"
+    "to snap": "зэпык1ын"
   },
   {
-    "alternative form of \"к1этхъэн\"": "мэк1этхъэн"
+    "to tear off": "хэтхъын / пытхъын (to tear off from); зэхэтхъын / зэпытхъын (to tear off from itself)"
+  },
+  {
+    "to rip away": "хэтхъын; пытхъын"
+  },
+  {
+    "to pull off": "хэтхъын; пытхъын; пычын"
+  },
+  {
+    "to fracture": "зэпык1ын"
+  },
+  {
+    "to break off": "пытхъын (to break off from); зэпытхъын (to break off from itself)"
+  },
+  {
+    "to tear": "пычын (to pick); хэтхъын / пытхъын (to tear off from); зэхэтхъын / зэпытхъын (to tear off from itself); къыпышъунк1ык1ын"
   },
   {
     "to tear to shreds": "чэтхъэн"
-  },
-  {
-    "to rip something apart": "чэтхъэн"
-  },
-  {
-    "alternative form of \"чъэн\"": "ч1эн"
   },
   {
     "death location": "л1ап1э"
@@ -4860,22 +4869,19 @@
     "old": "жъы"
   },
   {
-    "to break off, to crack": "зэпычын"
-  },
-  {
     "to get over": "зэпычын"
   },
   {
     "to overcome": "зэпычын"
   },
   {
-    "alternative form of \"зэпычын\"": "зэпичын"
-  },
-  {
-    "to completely break, to destroy, to shatter,": "уыбэтэн"
+    "to completely break": "зэхэубэтэхьан; зэхэкъутэхьан"
   },
   {
     "straight standing": "зандэ"
+  },
+  {
+    "straight": "занк1э; зандэ (to stand straiht)"
   },
   {
     "steep": "зандэ"
@@ -4884,16 +4890,10 @@
     "vertical": "зандэ"
   },
   {
-    "straight": "занк1э"
-  },
-  {
     "colored": "лагъэ"
   },
   {
     "plate": "лагъэ"
-  },
-  {
-    "alternative form of \"фэ\"": "ф1э"
   },
   {
     "to wound": "у1эн"
@@ -4902,7 +4902,7 @@
     "to incise": "у1эн"
   },
   {
-    "to get wounded": "мэу1эн"
+    "to get wounded": "у1эн"
   },
   {
     "sluggish": "жъажъэ"

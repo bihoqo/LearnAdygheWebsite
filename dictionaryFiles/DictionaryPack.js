@@ -20313,7 +20313,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to tear off",
+        "meaning": "to tear off (something from itself); to break off",
         "examples": [
           {
             "sentence": "К1апсэр '''зэпытхъэгъ'''",
@@ -20338,7 +20338,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to tear (a rope)",
+        "meaning": "alternative form of \"зэпытхъын\"",
         "examples": []
       }
     ],
@@ -20365,24 +20365,24 @@
         "meaning": "to tear to shreds",
         "examples": [
           {
-            "sentence": "Тхылъып1эр '''мэк1атхъэ'''",
+            "sentence": "Тхылъып1эр '''мэчатхъэ'''",
             "translation": "The paper '''is being torn'''."
           },
           {
-            "sentence": "К1алэм тхьапэр '''ек1атхъэ'''",
+            "sentence": "К1алэм тхьапэр '''ечатхъэ'''",
             "translation": "The boy '''is tearing''' the paper."
           }
         ]
       },
       {
-        "meaning": "to rip something apart",
+        "meaning": "to tear into pieces; to rip; to tear apart (said about clothes, leafs and papers)",
         "examples": [
           {
-            "sentence": "К1алэм иджынэ '''мэк1этхъагъ'''",
+            "sentence": "К1алэм иджынэ '''чэтхъагъ'''",
             "translation": "The boy's shirt '''is ripped apart'''."
           },
           {
-            "sentence": "К1элэц1ык1ум джанэхэр '''ык1атхъэх'''",
+            "sentence": "К1элэц1ык1ум джанэхэр '''ычатхъэх'''",
             "translation": "The little boy '''is ripping''' the shirts '''apart'''."
           }
         ]
@@ -20436,16 +20436,12 @@
     "word": "зэпычын",
     "lang": "Adyghe",
     "definitions": [
-      {
-        "meaning": "to break off, to crack",
+	  {
+        "meaning": "to rend; to tear",
         "examples": [
           {
-            "sentence": "К1алэм пхъэр '''зэпычыгъ'''",
-            "translation": "The boy '''cracks''' the wood."
-          },
-          {
-            "sentence": "Гъуч1ыр къинэ '''зэпыпчыныр'''",
-            "translation": "It is difficult '''to break off''' an iron."
+            "sentence": "К1апсэр '''зэпычын'''",
+            "translation": "The rope '''to tear'''."
           }
         ]
       },
@@ -20473,7 +20469,10 @@
       }
     ],
     "synonyms": [
-      "зэпыкьын"
+      "зэпыкьын",
+      "зэпытхъын",
+      "зэпыутын",
+      "зэ1ытхъын"
     ],
     "type": "verb",
     "ipa": "zapət͡ʃən"
@@ -20489,27 +20488,6 @@
     ],
     "type": "noun",
     "ipa": "zapit͡ʃən"
-  },
-  {
-    "word": "уыбэтэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to completely break, to destroy, to shatter,",
-        "examples": [
-          {
-            "sentence": "к1алэм анэр '''еубэтагъ'''",
-            "translation": "The boy '''destroyed''' the table."
-          },
-          {
-            "sentence": "к1алэм анэр '''еубатэ'''",
-            "translation": "The boy '''is destroying''' the table."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "wəbatan"
   },
   {
     "word": "зандэ",
@@ -20612,11 +20590,23 @@
         "meaning": "to wound",
         "examples": [
           {
-            "sentence": "К1алэм л1Ыр '''ыу1агъ'''",
+            "sentence": "К1алэр '''у1агъ'''",
+            "translation": "The boy '''is wounded'''."
+          },
+          {
+            "sentence": "К1алэр '''мау1э'''",
+            "translation": "The boy '''is being wounded'''."
+          },
+          {
+            "sentence": "Си1э '''у1агъ'''",
+            "translation": "My hand '''was wounded'''."
+          },
+		  {
+            "sentence": "К1алэм л1ыр '''ыу1агъ'''",
             "translation": "The boy '''wounded''' the man."
           },
           {
-            "sentence": "К1алэм л1Ыр '''еу1э'''",
+            "sentence": "К1алэм л1ыр '''еу1э'''",
             "translation": "The boy '''is wounding''' the man."
           },
           {
@@ -20646,21 +20636,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to get wounded",
-        "examples": [
-          {
-            "sentence": "К1алэр '''мэу1агъ'''",
-            "translation": "The boy '''is wounded'''."
-          },
-          {
-            "sentence": "К1алэр '''мау1э'''",
-            "translation": "The boy '''is being wounded'''."
-          },
-          {
-            "sentence": "Си1э '''мэу1агъ'''",
-            "translation": "My hand '''was wounded'''."
-          }
-        ]
+        "meaning": "alternative form of \"у1эн\"",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -36489,7 +36466,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to pick (fruit, ticket)",
+        "meaning": "to pick (fruit, ticket); to pull off (flowers; feathers)",
         "examples": [
           {
             "sentence": "К1алэм мы1эрысыр чъыгым '''къыпречы'''",
@@ -36507,6 +36484,30 @@
     ],
     "type": "verb",
     "ipa": "pət͡ʃən"
+  },
+  {
+    "word": "къыпышъункIыкIын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to break off (in the set)",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "qəpəʃʷnət͡ʃʼət͡ʃʼən"
+  },
+  {
+    "word": "зэпык1ык1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to break; to fracture",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "zapət͡ʃʼət͡ʃʼən"
   },
   {
     "word": "гъэжъон",
@@ -38218,7 +38219,8 @@
       }
     ],
     "synonyms": [
-      "зэхэкъутэн"
+      "зэхэкъутэн",
+      "зэхэубэтэн"
     ],
     "type": "verb",
     "ipa": "ʁawan"
@@ -38228,7 +38230,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to destroy, to ruin",
+        "meaning": "to destroy; to break",
         "examples": [
           {
             "sentence": "К1алэм кур '''зэхекъутэ'''",
@@ -38239,6 +38241,10 @@
             "translation": "'''Destroy''' the house."
           },
           {
+            "sentence": "Унэр '''къызэхэкъутэ'''",
+            "translation": "The house '''is being destroyed'''."
+          },
+          {
             "sentence": "Мощ уикомпыютер '''зэхикъутагъ'''",
             "translation": "He '''destroyed''' your computer."
           }
@@ -38246,10 +38252,44 @@
       }
     ],
     "synonyms": [
-      "гъэон"
+      "гъэон",
+      "зэхэубэтэн"
     ],
     "type": "verb",
-    "ipa": "ʁawan"
+    "ipa": "zaxaqʷətan"
+  },
+  {
+    "word": "зэхэубэтэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to destroy; to break",
+        "examples": [
+          {
+            "sentence": "К1алэм кур '''зэхеубытэ'''",
+            "translation": "The boy '''destroys''' the car."
+          },
+          {
+            "sentence": "Унэр '''зэхэубытэ'''",
+            "translation": "'''Destroy''' the house."
+          },
+          {
+            "sentence": "Мощ уикомпыютер '''зэхиубытагъ'''",
+            "translation": "He '''destroyed''' your computer."
+          },
+          {
+            "sentence": "Унэр '''къызэхэубытэ'''",
+            "translation": "The house '''is being destroyed'''."
+          },
+        ]
+      }
+    ],
+    "synonyms": [
+      "гъэон",
+      "зэхэкъутэн"
+    ],
+    "type": "verb",
+    "ipa": "zaxawbatan"
   },
   {
     "word": "гъэзэн",
@@ -45038,7 +45078,7 @@
         "meaning": "to shatter, to destroy (cannot be repaired anymore)",
         "examples": [
           {
-            "sentence": "К1алэм анэр '''иубэтагъ'''",
+            "sentence": "К1алэм 1анэр '''ыубэтагъ'''",
             "translation": "The boy '''broke''' the table."
           },
           {
@@ -45050,14 +45090,42 @@
             "translation": "Don't '''destroy''' the house."
           },
           {
-            "sentence": "К1алэр кумк1э дафи кур '''иубэтагъ'''",
+            "sentence": "К1алэр кумк1э дафи кур '''ыубэтагъ'''",
             "translation": "The boy '''destroyed''' the car by crashing with/using it."
+          },
+          {
+            "sentence": "К1алэм 1анэр '''еубатэ'''",
+            "translation": "The boy '''is destroying''' the table."
           }
         ]
       }
     ],
     "type": "verb",
     "ipa": "wəbatan"
+  },
+  {
+    "word": "зэхэубэтэхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to break or shatter completely",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaxawbətaħaːn"
+  },
+  {
+    "word": "зэхэкъутэхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to break or shatter completely",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaxawbətaħaːn"
   },
   {
     "word": "псэлъыхъон",
@@ -53994,7 +54062,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to tear off (forcefully) something from something",
+        "meaning": "to tear off (intensively) something from something; to rip away from; to pull off",
         "examples": [
           {
             "sentence": "Л1ым чъыгым икъуамэхэр '''петхъых'''",
@@ -65782,15 +65850,20 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to break",
-        "examples": [
+        "meaning": "to snap; to fracture or break apart suddenly",
+     1   "examples": [
           {
-            "sentence": "К1алэм джэгуалъэр '''зэпик1эгъ'''",
-            "translation": "The boy '''broke''' the toy."
+            "sentence": "Пхъэр '''зэпык1ыгъ'''",
+            "translation": "The wood '''is snapped'''."
+          },
+		  ,
+		  {
+            "sentence": "К1алэм пхъэр '''зэпик1ыгъ'''",
+            "translation": "The boy '''snapped''' the wood."
           },
           {
-            "sentence": "Пхъэр '''зэпык1эгъ'''",
-            "translation": "The wood '''is broken'''."
+            "sentence": "Гъуч1ыр къинэ '''зэпыпк1ыныр'''",
+            "translation": "It is difficult '''to snap''' an iron."
           }
         ]
       },
@@ -65849,10 +65922,19 @@
     "ipa": "pəxən"
   },
   {
-    "word": "тэпк1эн",
+    "word": "тепк1эн",
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "to jump on",
+        "examples": [
+          {
+            "sentence": "К1элэц1ык1ур 1анэм '''тепк1э'''",
+            "translation": "The little boy '''is jumping''' on the table."
+          }
+        ]
+      },
+	  {
         "meaning": "to get stuck from something sticky, to become or remain attached; to adhere, to stick",
         "examples": [
           {
@@ -65864,6 +65946,18 @@
     ],
     "type": "verb",
     "ipa": "tapt͡ʃʼan"
+  },
+  {
+    "word": "кушъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "side panel (car)",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "kʷəʃʷa"
   },
   {
     "word": "гущ",
@@ -97866,5 +97960,22 @@
     ],
     "type": "verb",
     "ipa": "mat͡ʃʼa dad"
+  },
+  {
+    "word": "зэ1ытхъын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to tear apart",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "зэпычын",
+      "зэпытхъын",
+      "зэпыутын"
+    ],
+    "type": "verb",
+    "ipa": "zaʔətχən"
   }
 ]
