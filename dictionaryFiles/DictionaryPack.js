@@ -21116,9 +21116,6 @@
         "examples": []
       }
     ],
-    "synonyms": [
-      "блэхьадж"
-    ],
     "type": "noun",
     "ipa": "blaməw"
   },
@@ -21379,21 +21376,6 @@
     "ipa": "χʷəʂʷtawan"
   },
   {
-    "word": "блэхьадж",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "non-poisonous snake; harmless snake",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "блэмыу"
-    ],
-    "type": "noun",
-    "ipa": "blaħaːd͡ʒ"
-  },
-  {
     "word": "быбыжьын",
     "lang": "Adyghe",
     "definitions": [
@@ -21452,6 +21434,12 @@
         "examples": []
       }
     ],
+    "synonyms": [
+      "къухьэбыб",
+      "ошъоку",
+      "къухьэлъат",
+      "гъуч1ыбзыу"
+    ],
     "type": "noun",
     "ipa": "bəbəɬ"
   },
@@ -21491,15 +21479,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to become scattered",
-        "examples": []
-      },
-      {
         "meaning": "to flap",
         "examples": []
       },
       {
-        "meaning": "to flutter",
+        "meaning": "to flutter (of a winged animal: to flap the wings without flying; to fly with a light flapping of the wings)",
         "examples": []
       }
     ],
@@ -21528,7 +21512,7 @@
     "ipa": "bəd͡zaːʂʷ"
   },
   {
-    "word": "быдзыщ",
+    "word": "быдзыщэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -21537,18 +21521,14 @@
       }
     ],
     "type": "noun",
-    "ipa": "bəd͡zəɕ"
+    "ipa": "bəd͡zəɕa"
   },
   {
     "word": "быжъутэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be excited",
-        "examples": []
-      },
-      {
-        "meaning": "to boil",
+        "meaning": "to seethe, to boil up",
         "examples": []
       }
     ],
@@ -21576,7 +21556,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "trot",
+        "meaning": "alternative form of \"ушъын\"",
         "examples": []
       }
     ],
@@ -21602,18 +21582,6 @@
     ],
     "type": "noun",
     "ipa": "maɬaχʷ"
-  },
-  {
-    "word": "былым 1аз",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "veterinarian",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "bələm ʔaːz"
   },
   {
     "word": "былымахъу",
@@ -85704,7 +85672,8 @@
     "synonyms": [
       "къухьэбыб",
       "ошъоку",
-      "гъуч1ыбзыу"
+      "быбылъ",
+      "гъучIыбзыу"
     ],
     "type": "noun",
     "ipa": "qʷəħaɬaːt"
@@ -85721,7 +85690,8 @@
     "synonyms": [
       "къухьэбыб",
       "ошъоку",
-      "къухьэлъат"
+      "къухьэлъат",
+      "быбылъ",
     ],
     "type": "noun",
     "ipa": "ʁʷət͡ʂʼəbzəw"
@@ -85753,8 +85723,9 @@
       }
     ],
     "synonyms": [
-      "къухьэлъат",
       "ошъоку",
+      "къухьэлъат",
+      "быбылъ",
       "гъуч1ыбзыу"
     ],
     "type": "noun",

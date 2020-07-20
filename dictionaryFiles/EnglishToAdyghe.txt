@@ -5175,13 +5175,10 @@
     "disregard": "нэмыплъ"
   },
   {
-    "disregard": "нэмыплъ"
+    "negligence": "нэмыплъ"
   },
   {
-    "negligence": "inattention"
-  },
-  {
-    "snake (non-poisonous)": "блэхьадж"
+    "inattention": "нэмыплъ"
   },
   {
     "to fly off": "быбыжьын"
@@ -5190,7 +5187,7 @@
     "to fly": "быбын"
   },
   {
-    "airplane": "быбылъ"
+    "airplane": "къухьэлъат; къухьэбыб; ошъоку; гъуч1ыбзыу; быбылъ"
   },
   {
     "airport": "быбып1"
@@ -5200,9 +5197,6 @@
   },
   {
     "lever": "быбэ"
-  },
-  {
-    "to become scattered": "быбэтэн"
   },
   {
     "to flap": "быбэтэн"
@@ -5220,22 +5214,19 @@
     "suckling": "быдзашъу"
   },
   {
-    "breastmilk": "быдзыщ"
+    "breastmilk": "быдзыщэ"
   },
   {
-    "to be excited": "быжъутэн"
+    "to seethe": "быжъутэн"
   },
   {
-    "to boil": "быжъутэн"
+    "to boil": "гъэжъон; быжъутэн"
   },
   {
-    "trot": "былъытырык1у"
+    "trot": "ушъы; лъэхъу; былъытырык1у"
   },
   {
-    "trot": "мэушъы"
-  },
-  {
-    "trot": "мэлъэхъу"
+    "to trot": "ушъын; лъэхъун"
   },
   {
     "veterinarian": "былым 1аз"
