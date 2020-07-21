@@ -180,9 +180,6 @@
     "carriage": "ку"
   },
   {
-    "cart": "ку"
-  },
-  {
     "wagon": "ку"
   },
   {
@@ -7563,22 +7560,25 @@
     "fluent": "жаш1у"
   },
   {
-    "membrance": "жашъу"
+    "oral cavity": "жашъу"
   },
   {
-    "compressor": "жыкъузалъ"
+    "air pressure": "жьыкъузалъэ"
   },
   {
-    "to disgorge, to vomit, to puke, to throw up": "жын"
+    "air compressor": "жьыкъузалъэ"
   },
   {
-    "refuge (a place protected from wind or sun)": "жьаугъуадж"
+    "to disgorge": "къэжын"
   },
   {
-    "refuge (a place protected from wind or sun)": "жьауш1"
+    "to throw up": "къэжын (to puke); дэдзыен (to throw upward); дэфыен (to throw/drive upward)"
   },
   {
-    "Early (relatively)": "жьы1о"
+    "refuge": "жьаугъуадж / жьауш1(from the wind or sun)"
+  },
+  {
+    "lee": "жьаугъуадж; жьауш1"
   },
   {
     "sweet": "1эш1у"
@@ -7587,49 +7587,85 @@
     "tasty": "1эш1у"
   },
   {
-    "something sweet (e.g. candy, cage)": "1эш1у"
+    "hail": "ошъу"
   },
   {
-    "A pleasant breeze": "жьы1эш1у"
-  },
-  {
-    "Snow brought by wind": "жьыбгъэос"
-  },
-  {
-    "One pass of a comb in the hair,": "жьыгъо"
+    "pleasant breeze": "жьы1эш1у"
   },
   {
     "airline": "жьыгъогу"
   },
   {
-    "alternative form of \"1ае\"": "ае"
+    "airway": "жьыгъогу"
+  },
+  {
+    "cold weather": "чъы1этагъ"
   },
   {
     "curtain": "пэ1ухъо"
   },
   {
-    "helicopter": "жыфлъат"
+    "helicopter": "жьыфлъат"
   },
   {
-    "cart": "кухьэ"
+    "cart": "ку; кухьэ"
   },
   {
     "cartload": "кухьэ"
   },
   {
-    "room": "унэ шъхьаф"
-  },
-  {
-    "mattress": "ошэкур"
+    "room": "унэ; унэ шъхьаф"
   },
   {
     "bedroom": "гъолъып1э; чъыяп1э"
   },
   {
-    "couch": "гъолъып1э"
+    "unintelligible": "гуры1огъуай"
   },
   {
-    "clear": "нафэ"
+    "incomprehensible": "гуры1огъуай"
+  },
+  {
+    "obscure": "гуры1огъуай"
+  },
+  {
+    "naive": "делэгъош1у"
+  },
+  {
+    "clear": "нафэ; ӏэш1эхэу къыбгуры1он; гуры1огъош1у"
+  },
+  {
+    "understandable": "къыбгуры1ошъун; гуры1огъош1у"
+  },
+  {
+    "intelligible": "гуры1огъош1у"
+  },
+  {
+    "apparent": "нэрылъэгъу"
+  },
+  {
+    "seemingly": "зэрэкъэлъагъорэмк1э; итеплъэк1э; инахэк1э"
+  },
+  {
+    "apparently": "зэрэкъэлъагъорэмк1э; итеплъэк1э; инахэк1э"
+  },
+  {
+    "by the looks of things": "зэрэкъэлъагъорэмк1э; итеплъэк1э; инахэк1э"
+  },
+  {
+    "obvious": "нэрылъэгъу"
+  },
+  {
+    "openly": "шъхьаихыгъэу; зи мыгъэбылъэу; 1ухыгъэу"
+  },
+  {
+    "frankly": "шъхьаихыгъэу"
+  },
+  {
+    "honestly": "шъыпкъэу; шъхьаихыгъэу (frankly)"
+  },
+  {
+    "clearly": "нафэу"
   },
   {
     "clarity": "нафэ"

@@ -24508,6 +24508,10 @@
       {
         "meaning": "coolness (the state of being cool)",
         "examples": []
+      },
+	   {
+        "meaning": "cold weather",
+        "examples": []
       }
     ],
     "type": "adj",
@@ -31208,6 +31212,10 @@
       {
         "meaning": "air compressor",
         "examples": []
+      },
+	  {
+        "meaning": "air pressure",
+        "examples": []
       }
     ],
     "type": "noun",
@@ -32136,24 +32144,12 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "membrance",
+        "meaning": "oral cavity",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "ʒaːʂʷ"
-  },
-  {
-    "word": "жыкъузалъ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "compressor",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ʒəqʷəzaːɬ"
   },
   {
     "word": "жын",
@@ -32185,7 +32181,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "refuge (a place protected from wind or sun)",
+        "meaning": "lee; refuge (a place protected from wind or sun)",
         "examples": []
       }
     ],
@@ -32200,7 +32196,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "refuge (a place protected from wind or sun)",
+        "meaning": "lee; refuge (a place protected from wind or sun)",
         "examples": []
       }
     ],
@@ -32215,7 +32211,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Early (relatively)",
+        "meaning": "relatively early"
         "examples": []
       }
     ],
@@ -32290,6 +32286,10 @@
       {
         "meaning": "airline",
         "examples": []
+      },
+	  {
+        "meaning": "airway",
+        "examples": []
       }
     ],
     "type": "noun",
@@ -32320,7 +32320,7 @@
     "ipa": "paʔʷəχʷa"
   },
   {
-    "word": "жыфлъат",
+    "word": "жьыфлъат",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -32330,6 +32330,18 @@
     ],
     "type": "noun",
     "ipa": "ʑəfɬaːt"
+  },
+  {
+    "word": "лэгъунэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "spouses bedroom",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ɮaʁʷna"
   },
   {
     "word": "кухьэ",
@@ -32393,10 +32405,6 @@
       {
         "meaning": "bedroom",
         "examples": []
-      },
-      {
-        "meaning": "couch",
-        "examples": []
       }
     ],
     "synonyms": [
@@ -32422,6 +32430,46 @@
     ],
     "type": "adj",
     "ipa": "naːfa"
+  },
+  {
+    "word": "гуры1огъуай",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "unintelligible; incomprehensible; obscure",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "gʷərəʔʷaʁʷaːj"
+  },
+  {
+    "word": "гуры1огъуай",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "unintelligible; incomprehensible; obscure; hardly understood",
+        "examples": []
+      },
+	  {
+        "meaning": "unintelligible",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "gʷərəʔʷaʁʷaːj"
+  },
+  {
+    "word": "гуры1огъош1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "clear; understandable; intelligible; easily understood",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "gʷərəʔʷaʁʷaʃʷʼ"
   },
   {
     "word": "пхъэнтэк1у к1ыхь",
@@ -54054,6 +54102,30 @@
     "ipa": "mazawan"
   },
   {
+    "word": "гущы1эш1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "nice word",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "gʷɕəʔaʃʷʼ"
+  },
+  {
+    "word": "ошъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "hail",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "waʃʷ"
+  },
+  {
     "word": "езэон",
     "lang": "Adyghe",
     "definitions": [
@@ -71250,22 +71322,6 @@
     "ipa": "ʃʷʼawbətən"
   },
   {
-    "word": "лэгъунэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "room",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "пэщ",
-      "----"
-    ],
-    "type": "noun",
-    "ipa": "ɮaʁʷna"
-  },
-  {
     "word": "фегъэпэн",
     "lang": "Adyghe",
     "definitions": [
@@ -81100,7 +81156,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "It appears; it seems; by the looks of things",
+        "meaning": "it appears; it seems; by the looks of things",
         "examples": [
           {
             "sentence": "'''зэрэкъэлъагъорэмк1э''' непэ къещхыщт",
@@ -81114,7 +81170,33 @@
       }
     ],
     "synonyms": [
-      "инахэк1э"
+      "инахэк1э",
+      "итеплъэк1э"
+    ],
+    "type": "adv",
+    "ipa": "zaraqaɬaːʁʷaramt͡ʃʼa"
+  },
+  {
+    "word": "итеплъэк1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "it appears; it seems; by the looks of things",
+        "examples": [
+          {
+            "sentence": "'''итеплъэк1э''' непэ къещхыщт",
+            "translation": "'''By the looks of things''', it gonna rain today."
+          }
+        ]
+      },
+      {
+        "meaning": "by how (s)he looks",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "инахэк1э",
+	  "зэрэкъэлъагъорэмк1э"
     ],
     "type": "adv",
     "ipa": "zaraqaɬaːʁʷaramt͡ʃʼa"
@@ -81264,7 +81346,8 @@
       }
     ],
     "synonyms": [
-      "зэрэкъэлъагъорэмк1э"
+      "зэрэкъэлъагъорэмк1э",
+      "итеплъэк1э"
     ],
     "type": "adv",
     "ipa": "jənaːxat͡ʃʼa"
@@ -97036,19 +97119,6 @@
     "ipa": "zaxasəpʼa"
   },
   {
-    "word": "пэщ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "room",
-        "examples": []
-      }
-    ],
-    "cognate": "лэгъунэ",
-    "type": "noun",
-    "ipa": "paɕ"
-  },
-  {
     "word": "чылэпхъэеут машин",
     "lang": "Adyghe",
     "definitions": [
@@ -97980,6 +98050,83 @@
     ],
     "type": "noun",
     "ipa": "ħaːt͡ʃʼa-qʷaːt͡ʃʼa"
+  },
+  {
+    "word": "нэрылъэгъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "apparent; obvious; easily discovered or understood",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "narəɬaʁʷ"
+  },
+  {
+    "word": "шъхьашыгуихыгъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "straightforward",
+        "examples": [
+          {
+            "sentence": "К1алэм джэуап '''шъхьашыгуихыгъ''' къитыгъ",
+            "translation": "The boy '''gave''' the straight answer."
+          }
+        ]
+      }
+    ],
+    "type": "adj",
+    "ipa": "ʂħaːʃəgʷəjxəʁ"
+  },
+  {
+    "word": "шъхьаихыгъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "frank (see: шъхьаихыгъэу)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʂħaːʃəjəxəʁ"
+  },
+  {
+    "word": "шъхьаихыгъэу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "openly; frankly; in a frank, open, honest, or too honest manner",
+        "examples": []
+      }
+    ],
+    "type": "adv",
+    "ipa": "ʂħaːʃəjəxəʁ"
+  },
+  {
+    "word": "нафэу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "clearly",
+        "examples": []
+      }
+    ],
+    "type": "adv",
+    "ipa": "naːfaw"
+  },
+  {
+    "word": "шъхьэихыгъэу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"шъхьаихыгъэу\"",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "ʂħaːʃəjəxəʁ"
   },
   {
     "word": "мынэрылъэгъу",
