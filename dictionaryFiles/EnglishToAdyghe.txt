@@ -7491,25 +7491,76 @@
     "obscene": "емык1у зыхэлъ, ук1ытэныгъэ зыхэмылъ"
   },
   {
-    "a person or animal that have a curved mouth": "жакъэ"
+    "twisted mouth": "жакъэ"
   },
   {
     "epiglottis": "жалэ"
   },
   {
-    "Gill of a fish": "жалэ"
+    "gills": "жалэ"
   },
   {
-    "Front position,": "жант1"
+    "gill": "жалэ"
   },
   {
-    "eloquent": "жаш1у"
+    "near the hearth": "жант1э"
+  },
+  {
+    "eloquent": "жабзэ зы1улъ; гущы1эк1э1аз; жаш1у"
+  },
+  {
+    "manner of speech": "1уак1э; къэ1уак1э"
+  },
+  {
+    "oral": "жэрыIо"
+  },
+  {
+    "verbal": "жэрыIо"
+  },
+  {
+    "tale-teller": "къэ1отак1о, къэзы1уатэрэр"
+  },
+  {
+    "telltale": "бзэгухь, зэщыгъэхьак1о"
+  },
+  {
+    "talebearer": "бзэгухь, зэщыгъэхьак1о"
+  },
+  {
+    "gossip": "бзэгухь, бзэгу хьын; убын"
+  },
+  {
+    "to speak-ill": "убын (to speak-ill about)"
+  },
+  {
+    "to denigrate": "убын"
+  },
+  {
+    "to bad-mouth": "убын"
+  },
+  {
+    "to badmouth": "убын"
+  },
+  {
+    "gossiper": "бзэгухь, бзэгу зихьырэр; зэщыгъэхьак1о"
+  },
+  {
+    "to gossip": "бзэгухьын, зэщыгъэхьак1о"
+  },
+  {
+    "tale-bearer": "бзэгухь, зэщыгъэхьак1о"
+  },
+  {
+    "scandal-monger": "бзэгухь, зэщыгъэхьак1о"
+  },
+  {
+    "expressive": "жабзэ зы1улъ; гущы1эк1э1аз; жаш1у"
+  },
+  {
+    "well-spoken": "жабзэ зы1улъ; гущы1эк1э1аз; жаш1у"
   },
   {
     "fluent": "жаш1у"
-  },
-  {
-    "well-spoken": "жаш1у"
   },
   {
     "membrance": "жашъу"

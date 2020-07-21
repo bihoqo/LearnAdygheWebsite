@@ -31937,8 +31937,17 @@
         "examples": []
       },
       {
-        "meaning": "speech",
-        "examples": []
+        "meaning": "speech; style of speaking",
+        "examples": [
+          {
+            "sentence": "К1алэм '''жэбзэ''' дэгъу 1улъ",
+            "translation": "The boy is '''eloquent'''."
+          },
+		  {
+            "sentence": "К1алэм '''жэбзэ''' дахэк1э мэгущы1э",
+            "translation": "The boy is speaking '''eloquently'''."
+          }
+        ]
       },
       {
         "meaning": "talk",
@@ -31947,6 +31956,48 @@
     ],
     "type": "noun",
     "ipa": "ʒabz"
+  },
+  {
+    "word": "1уак1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "manner of speech",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "къэ1уак1э"
+    ],
+    "type": "noun",
+    "ipa": "ʔʷaːt͡ʃʼa"
+  },
+  {
+    "word": "къэ1уак1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "manner of speech",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "1уак1э"
+    ],
+    "type": "noun",
+    "ipa": "ʔʷaːt͡ʃʼa"
+  },
+  {
+    "word": "жэры1о",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "oral, verbal",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʒarəʔa"
   },
   {
     "word": "жае",
@@ -31981,7 +32032,7 @@
         "examples": []
       },
       {
-        "meaning": "Gill of a fish",
+        "meaning": "gill, gills",
         "examples": []
       }
     ],
@@ -31989,16 +32040,70 @@
     "ipa": "ʒaːla"
   },
   {
-    "word": "жант1",
+    "word": "жант1э",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Front position,",
+        "meaning": "near the hearth (place of honor)",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "ʒaːntʼ"
+  },
+  {
+    "word": "жабзэ 1улъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "eloquent; expressive; well-spoken",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "гущы1эк1э1аз",
+	  "жабзэ зы1улъ",
+	  "жаш1у",
+      "бзаш1у"
+    ],
+    "type": "adj",
+    "ipa": "ʒaːbza ʔʷəɬ"
+  },
+  {
+    "word": "жабзэ зы1улъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "eloquent; expressive; well-spoken",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "гущы1эк1э1аз",
+	  "жабзэ 1улъ",
+	  "жаш1у",
+      "бзаш1у"
+    ],
+    "type": "adj",
+    "ipa": "ʒaːbza zəʔʷəɬ"
+  },
+  {
+    "word": "гущы1эк1э1аз",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "eloquent; expressive; well-spoken",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "жабзэ зы1улъ",
+	  "жабзэ 1улъ",
+	  "жаш1у",
+      "бзаш1у"
+    ],
+    "type": "adj",
+    "ipa": "gʷəɕəʔat͡ʃʼaʔaːz"
   },
   {
     "word": "жаш1у",
@@ -32018,7 +32123,10 @@
       }
     ],
     "synonyms": [
-      "бзаш1у"
+      "бзаш1у",
+      "гущы1эк1э1аз",
+	  "жабзэ 1улъ",
+	  "жабзэ зы1улъ"
     ],
     "type": "adj",
     "ipa": "ʒaːʃʷʼ"
@@ -61574,6 +61682,30 @@
     ],
     "type": "noun",
     "ipa": "qaːməɕ"
+  },
+  {
+    "word": "зэщыгъэхьак1о",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "a person who starts conflicts between people",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "zaɕəʁaħaːkʷʼa"
+  },
+  {
+    "word": "зэщыгъэхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to start a conflict between people",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "zaɕəʁaħaːn"
   },
   {
     "word": "к1ыхьэлыхьэ",
