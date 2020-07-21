@@ -540,9 +540,6 @@
     "throat": "чый"
   },
   {
-    "intestine": "ныпс1э (Shapsug)"
-  },
-  {
     "tail": "к1э"
   },
   {
@@ -754,12 +751,6 @@
   },
   {
     "hedgehog": "пыжъы"
-  },
-  {
-    "raven": "къолэжъ"
-  },
-  {
-    "crow": "къолэжъ"
   },
   {
     "flowerpot": "шъхьэхъу"
@@ -1830,9 +1821,6 @@
     "sanitarium": "делэхъан"
   },
   {
-    "oil": "зетын"
-  },
-  {
     "olive": "зетын"
   },
   {
@@ -2404,9 +2392,6 @@
   },
   {
     "everybody": "пстэуми; пстэур; зэпсэу (Shapsug)"
-  },
-  {
-    "bucket": "къуао"
   },
   {
     "several": "заулэ"
@@ -4014,7 +3999,7 @@
     "to slice": "бзын; упк1этэн (to slice into pieces); ш1обзын"
   },
   {
-    "to chop": "упк1этэн"
+    "to chop": "упк1этэн; ушыгун; гъэушкъоин"
   },
   {
     "bright red": "бзыиплъ"
@@ -5020,9 +5005,6 @@
   },
   {
     "non-poisonous snake": "блэмыу"
-  },
-  {
-    "to glow": "къэпсэн; къэблэн"
   },
   {
     "to braid": "блэн"
@@ -6360,7 +6342,7 @@
     "to grow plants": "гъэхъун"
   },
   {
-    "to herd": "гъэхъун"
+    "to herd": "хъун; гъэхъун"
   },
   {
     "to create": "ш1ын (to make); къигъэш1ын (to create from nothing); къэгъэхъун (to make something appear)"
@@ -6582,10 +6564,13 @@
     "foreman": "тхьаматэ"
   },
   {
-    "boss": "тхьаматэ"
+    "boss": "тхьаматэ; пащ"
   },
   {
     "master": "тхьаматэ; зыер"
+  },
+  {
+    "manager": "пащ; 1эшъхьэтет"
   },
   {
     "chairman": "тхьаматэ"
@@ -6660,10 +6645,10 @@
     "menacing": "щынагъо"
   },
   {
-    "afterworld": "Хьэдрыхэ"
+    "afterworld": "хьэдрыхэ"
   },
   {
-    "hereafter": "Хьэдрыхэ"
+    "hereafter": "хьэдрыхэ"
   },
   {
     "meekly": "1асэу"
@@ -6690,19 +6675,19 @@
     "to take one's time": "жъэжъэн"
   },
   {
-    "tamed": "1асэ"
+    "tamed": "1асэ; гъэсагъ"
   },
   {
     "old age": "жъыгъо"
   },
   {
-    "age-old": "жъыгъо"
+    "age-old": "л1ыжъыгъу; жъыгъо; жъышъхьэ "
   },
   {
     "seniority": "жъыгъо"
   },
   {
-    "ugly old age": "жъыгъуай"
+    "bad old age": "жъыгъуай"
   },
   {
     "to become old": "жъын; нахьыжъы хъун, жъы хъун"
@@ -6726,106 +6711,154 @@
     "chorus": "жъыуак1о"
   },
   {
-    "to shine, to glitter, to sparkle, to flash": "жъыун"
+    "to sparkle": "лыдын (intensive); ш1этын; ц1ыун / къыц1ыун"
   },
   {
-    "Old age look": "жъышъо"
+    "to twinkle": "лыдын (intensive); ш1этын; ц1ыун / къыц1ыун"
   },
   {
-    "old age": "жъышъхьэ"
+    "to spark": "къыхэц1ыук1ын"
   },
   {
-    "old age": "л1ыжъышъ"
+    "to dazzle": "къымыгъэплъэн"
   },
   {
-    "old age": "л1ыжъып1"
+    "to brighten": "нэфын; къэнэфын"
   },
   {
-    "old age": "л1ыжъыгъу"
+    "to glitter": "жъыун"
   },
   {
-    "high": "лъагэ"
+    "to flash": "жъыун"
   },
   {
-    "snowflake": "осыпсы"
+    "to light": "къыхэнэн (to illuminate); къыхэгъэнэн (to illuminate)"
+  },
+  {
+    "to illuminate": "къыхэнэн (to illuminate); къыхэгъэнэн"
+  },
+  {
+    "to shine (source of light)": "къэпсэн; къепсэн (to shine inside); къытепсэн (to shine on)"
+  },
+  {
+    "to shine (reflection of light)": "жъыун"
+  },
+  {
+    "to glow": "къэпсэн; къэблэн; нэфынэ къыпихын"
+  },
+  {
+    "to shimmer": "къыхэц1ыук1ын, къыхэлыдык1ын, къыхэнэфык1ын"
+  },
+  {
+    "to glimmer": "къыхэц1ыук1ын, къыхэлыдык1ын, къыхэнэфык1ын"
+  },
+  {
+    "to flicker": "къыхэц1ыук1ын, къыхэлыдык1ын, къыхэнэфык1ын"
+  },
+  {
+    "high": "лъагэ; 1этыгъэ; "
+  },
+  {
+    "snowflake": "осыц"
+  },
+  {
+    "dew": "осыпсы"
   },
   {
     "melt water": "осыпсы"
   },
   {
-    "dark color (like black and brown) (Usually said to animals)": "къарэ"
+    "dark color": "къарэ; щ1уц1ашъо"
   },
   {
-    "the Russian language": "урысыбзэ"
+    "Russian language": "урысыбзэ"
   },
   {
-    "the English language": "инджылыбзэ"
+    "English language": "инджылыбзэ"
   },
   {
-    "bracelet": "1эшъхьэхъу"
+    "bracelet": "1эхъу; 1эшъхьэхъу"
   },
   {
-    "sugar water": "шэкэрыпс"
-  },
-  {
-    "alternative form of \"енэц1ын\"": "енэс1ын"
+    "sugar water": "шъоущыгъупс; шэкэрыпс"
   },
   {
     "blue": "шхъуант1э"
   },
   {
-    "blue color": "шхъуант1э"
+    "brass": "гъоплъашъу"
   },
   {
-    "brass color": "гъоплъашъу"
+    "coppery": "гъоплъашъу"
+  },
+  {
+    "copper yellow": "гъоплъашъу"
   },
   {
     "pink": "шэплъы"
-  },
-  {
-    "pink": "шэплъы"
-  },
-  {
-    "to approach": "ек1ол1эн"
   },
   {
     "daughter": "пхъу"
   },
   {
-    "to bear a grudge against, to spite": "гоон"
+    "to spite": "губгъэн фэлъэгъун; губгъэн фэш1ын; гоон"
   },
   {
-    "alternative form of \"гъынэнэн\"": "мэгънэнэн"
+    "stranger": "хымэ; хамэ"
   },
   {
-    "stranger": "хымэ"
+    "foreign": "хымэ; хамэ"
   },
   {
-    "foreign": "хымэ"
+    "alien": "хымэ (forein)"
+  },
+  {
+    "foreign language": "хымабзэ"
+  },
+  {
+    "foreign land": "1эк1ыб"
   },
   {
     "storm": "жьыуай"
   },
   {
-    "umbrella": "щамсый"
+    "frost": "щтыргъук1ы"
+  }
+  {
+    "freezing weather": "щтыргъук1ы"
   },
   {
-    "frost; freezing weather": "щтыргъук1ы"
+    "dry": "гъушъы (unwet); гъугъэ (plant)"
   },
   {
-    "dry": "гъушъы"
+    "unwet": "гъушъы"
   },
   {
-    "chimney": "джэныкъохьаку"
+    "to turn sour": "ш1о1ун"
+  },
+  {
+    "hearth": "джэныкъо"
+  },
+  {
+    "bee smoker": "онджэкъ"
+  },
+  {
+    "chimney": "онджэкъ; 1угъоик1ып1э, хьакушъхьэищ"
   },
   {
     "fireplace": "джэныкъохьаку"
   },
   {
-    "ladder": "дэк1ояп1э"
+    "fire-place": "джэныкъохьаку"
   },
   {
-    "bed": "п1эк1ор"
+    "ladder": "дэк1ояп1э; лъэой; лъэугъуае (Shapsug)"
+  },
+  {
+    "bed": "п1э; п1эк1ор; гъолъып1э; п1о (Bzhedugh)"
+  },
+  {
+    "bedstead": "п1эк1ор"
   },
   {
     "lamp": "шъынэ; остыгъ"
@@ -6834,25 +6867,16 @@
     "chair": "пхъэнт1эк1у"
   },
   {
-    "bucket": "щалъ"
+    "bucket": "щалъэ; къуао (Shapsug)"
   },
   {
-    "pail": "щалъ"
-  },
-  {
-    "ship": "къухьэ"
+    "pail": "щалъэ; къуао (Shapsug)"
   },
   {
     "boat": "къуашъо"
   },
   {
-    "van": "кушъхьарыхъу"
-  },
-  {
-    "alternative form of \"щэрэхъ\"": "щэрыхъ"
-  },
-  {
-    "alternative form of \"кушъхьэфачъэ\"": "кушъхьэфачъ"
+    "van": "кушъхьэихъуагъ; кушъхьарыхъу"
   },
   {
     "north": "темыр"
@@ -6867,58 +6891,49 @@
     "west": "тыгъэкъохьап1"
   },
   {
-    "clay": "ет1агъу"
+    "clay": "ет1агъо; ят1э"
   },
   {
-    "grass": "уцы"
+    "grass": "уцы; мэз гъэхъунэ ц1ык1у"
   },
   {
-    "medicine": "уцы"
+    "medicine": "1эзэгъууц; 1эзэгъу уцы"
   },
   {
-    "to plant": "хэлъхьан"
+    "to plant": "хэлъхьан; гъэт1ысын; т1эн (Shapsug); хэт1эн (Shapsug)"
   },
   {
-    "to lie/put somewhere within a mass (gas, solid or liquid)": "хэлъхьан"
+    "predator": "хьак1э-къуак1э"
   },
   {
-    "to lie/put somewhere among other objects or people": "хэлъхьан"
+    "beast": "хьак1э-къуак1э"
   },
   {
-    "to be situated": "хэлъхьан"
+    "plunderer": "хъунк1ак1о"
   },
   {
-    "to be screwed; to beset with unfortunate circumstances that seem difficult or impossible to overcome": "хэлъхьан"
+    "smoke": "1угъо; къугъо (Shapsug)"
   },
   {
-    "predatory": "хьак1экъуак1э"
+    "lake": "хыкъумэ; хыкум; псыхъурай"
   },
   {
-    "smoke": "1угъо"
+    "swamp": "орыжъ; темэн"
   },
   {
-    "lake": "хыкум"
+    "marsh": "орыжъ; темэн"
   },
   {
-    "lake": "псыхъурай"
+    "morass": "орыжъ; темэн"
   },
   {
-    "swamp": "орыжъ"
+    "water tank": "орыжъ"
   },
   {
-    "marsh": "орыжъ"
+    "meadowland": "темэн"
   },
   {
-    "swamp": "темэн"
-  },
-  {
-    "marsh, meadowland, flooded areas": "темэн"
-  },
-  {
-    "meadow": "хъуп1э"
-  },
-  {
-    "grassland": "хъуп1э"
+    "flooded areas": "темэн"
   },
   {
     "meadow": "мэкъуп1"
@@ -6927,31 +6942,28 @@
     "grassland": "мэкъуп1"
   },
   {
-    "wild": "губгъо"
-  },
-  {
-    "field": "губгъо"
+    "wild": "губгъо (wilderness); 1алы (wild animal); емлыч (wild animal)"
   },
   {
     "mill": "шъхьалы"
   },
   {
-    "alternative form of \"ор\"": "оры"
+    "gravel": "мыжъо-пшэхъо зэхэлъ; мыжъуак1э (мыжъо гъэушкъоигъ)"
   },
   {
-    "alternative form of \"хы1ушъо\"": "хы 1ушъу"
+    "to crumble": "гъэушкъоин"
   },
   {
-    "pebble": "мыжъуак1э"
+    "crushed stone": "мыжъуак1э (мыжъо гъэушкъоигъ)"
   },
   {
-    "oil": "тхъу"
+    "road metal": "мыжъуак1э (мыжъо гъэушкъоигъ)"
   },
   {
     "petroleum": "тхъу"
   },
   {
-    "butter (melted)": "тхъу"
+    "butter": "тхъу"
   },
   {
     "vegetable oil": "дагъэ"
@@ -6960,16 +6972,13 @@
     "petroleum": "дагъэ"
   },
   {
-    "fat or oil from the body of an animal": "дагъэ"
-  },
-  {
     "stallion": "хак1о"
   },
   {
-    "mare": "шыбзы"
+    "foal": "шык1э"
   },
   {
-    "foal": "шык1э"
+    "mare": "шыбзы"
   },
   {
     "ram": "т1ы"
@@ -6979,27 +6988,36 @@
   },
   {
     "wild boar": "мэзыкъу"
+  }, 
+  {
+    "boar": "къожъ; мэзыкъу (wild boar)"
   },
   {
     "piglet": "къощыр"
   },
   {
-    "(anatomy) birthmark, mole, melanism, nevus (naevus) (dark spot on the skin)": "лыпц1э"
+    "birthmark": "лыпц1э"
   },
   {
-    "doe": "шъыхь"
+    "mole": "лыпц1э"
   },
   {
-    "hind": "шъыхь"
+    "melanism": "лыпц1э"
   },
   {
-    "quail": "набгъу"
+    "nevus": "лыпц1э"
   },
   {
-    "raven": "цунды"
+    "hen": "чэты; кьэты (Shapsug); анак1э (young hen)"
   },
   {
-    "crow": "цунды"
+    "quail": "ныбгъу"
+  },
+  {
+    "raven": "къолэжъ; цунды"
+  },
+  {
+    "crow": "къолэжъ; цунды"
   },
   {
     "pigeon": "тхьаркъо"
@@ -7008,34 +7026,82 @@
     "dove": "тхьаркъо"
   },
   {
-    "centipede": "лъэхъомбэшх"
-  },
-  {
-    "centipede": "пк1эшъэхъу"
+    "big toe": "лъэхъомбэшху"
   },
   {
     "caterpillar": "пк1эшъэхъу"
   },
   {
+    "to adulate": "нэпц1ыгъэк1э щытхъун"
+  },
+  {
+    "to lickspittle": "нэпц1ыгъэк1э щытхъун"
+  },
+  {
+    "adulator": "нэпц1 щытхъуа1у; 1ордегъашт"
+  },
+  {
+    "flatterer": "нэпц1 щытхъуа1у (adulator); нэпц1ыгъэк1э щытхъун (adulator); 1ордегъашт"
+  },
+  {
+    "toady": "нэпц1 щытхъуа1у; нэпц1ыгъэк1э щытхъун"
+  },
+  {
+    "lickspittle": "нэпц1 щытхъуа1у; дэубэдашх; 1ордегъашт"
+  },
+  {
+    "bootlicker": "дэубэдашх; 1ордегъашт"
+  },
+  {
+    "sycophant": "1ордегъашт; бзэяк1о; ц1ыфэу афибзаерэр"
+  },
+  {
+    "ass-kisser": "1ордегъашт; бзэяк1о; ц1ыфэу афибзаерэр"
+  },
+  {
+    "brown noser": "1ордегъашт; бзэяк1о; ц1ыфэу афибзаерэр"
+  },
+  {
     "earthworm": "ожъубанэхьэмлыу"
   },
   {
-    "firefly": "мэш1уахь"
+    "glowworm": "мэш1охь"
+  {,
+  {
+    "firefly": "мэш1охь"
+  {,
+  {
+    "lightning bug": "мэш1охь"
+  {,
+  {
+    "campfire": "мэш1уашъхь; мэш1ош1ыгъ"
   },
   {
-    "beehive": "коны"
+    "bonfire": "мэш1уашъхь; мэш1ош1ыгъ"
   },
   {
-    "bin": "коны"
+    "wood fire": "мэш1уашъхь; мэш1ош1ыгъ"
   },
   {
-    "granary": "коны"
+    "beehive": "бжьэматэ"
   },
   {
-    "money box": "коны"
+    "threshing barn": "къакъырхьам"
   },
   {
-    "dolphin": "псыкъу"
+    "threshing floor": "хьамы"
+  },
+  {
+    "granary": "амбар"
+  },
+  {
+    "moneybox": "ахъщэ угъоилъ"
+  },
+  {
+    "money-box": "ахъщэ угъоилъ"
+  },
+  {
+    "dolphin": "делфин; псыкъу; хы псэушъхь"
   },
   {
     "octopus": "псылъэхъу"
@@ -7044,10 +7110,10 @@
     "leech": "дыо"
   },
   {
-    "chameleon": "шъотехьэтек1"
+    "iridescent": "шъотехьэтек1"
   },
   {
-    "crocodile": "архъуажъ"
+    "crocodile": "архъуажъ; крокодил"
   },
   {
     "spoon": "джэмышх"
@@ -7059,13 +7125,10 @@
     "bowl": "къамлыбжъ"
   },
   {
-    "alternative form of \"пыуты\"": "пыут"
+    "skin": "шъо; к1ышъо"
   },
   {
-    "skin": "к1ышъу"
-  },
-  {
-    "crust (of Earth)": "к1ышъу"
+    "crust": "к1ышъу"
   },
   {
     "hair": "шъхьацы"
@@ -7074,19 +7137,10 @@
     "brain": "куц1ы"
   },
   {
-    "cheek": "нэк1ушъу"
-  },
-  {
-    "cheek": "нэк1ушъхь"
-  },
-  {
     "jaw": "жэпкъы"
   },
   {
-    "alternative form of \"жэк1апэ\"": "жэк1ьапэ"
-  },
-  {
-    "intestine": "к1эт1эй"
+    "intestine": "к1эт1эй; ныпс1э (Shapsug)"
   },
   {
     "muscle": "лыпцэ"
@@ -7095,7 +7149,7 @@
     "arm": "зыу1эшын"
   },
   {
-    "elbow": "1энтэгъу"
+    "elbow": "1энтэгъу; 1этэгъу (Shapsug)"
   },
   {
     "ankle": "лъэк1эн"
@@ -7128,19 +7182,25 @@
     "weak-sighted": "набгъэ"
   },
   {
-    "to take offense": "губгъэн фэлъэгъун; ебгъэн; зыгъэгусэн, гукъао ш1ын; шъхьак1о ш1ын"
+    "poorly seeing": "набгъэ"
   },
   {
-    "to hold a grudge": "губгъэн фэлъэгъун"
+    "half-blind": "набгъэ"
   },
   {
-    "to permit": "дэн"
+    "to take offense": "губгъэн фэлъэгъун; губгъэн фэш1ын; ебгъэн; зыгъэгусэн, гукъао ш1ын; шъхьак1о ш1ын"
   },
   {
-    "to assent": "дэн (to permit, accept); дэштэн (to agree with)"
+    "to hold a grudge": "губгъэн фэлъэгъун; губгъэн фэш1ын; гоон"
   },
   {
-    "to accept": "дэн"
+    "to permit": "дэн; фэдэн (to permit to)"
+  },
+  {
+    "to assent": "дэн; дэштэн (to agree with)"
+  },
+  {
+    "to accept": "дэн; дэштэн (to agree with)"
   },
   {
     "to consent": "дэн (to permit, accept); дэштэн (to agree with)"
@@ -7149,7 +7209,7 @@
     "to sew": "дэн (to be sewing); дын (to sew something)"
   },
   {
-    "tin": "къэлай; цэф (tin (plate))"
+    "tin": "къэлай; цэф (plate)"
   },
   {
     "ploughshare": "цуабзэ"
@@ -7179,7 +7239,7 @@
     "to tie": "пхын (to tie); егъэпхын (to tie to something); зэк1оц1ыпхэн (to tie together), зэтепхэн (to tie one to the other), зэкъодзэн (to tie up, to fasten)"
   },
   {
-    "to tie up": "зэкъодзэн"
+    "to tie up": "пхых; зэкъодзэн"
   },
   {
     "to chain": "пыш1эн"
@@ -7191,7 +7251,7 @@
     "chainlet": "блэрыпс; пшъэхъужъый"
   },
   {
-    "to connect": "пыш1эн; зэпыш1эн (to connect together)"
+    "to connect": "пыш1эн; зэпыш1эн (to connect together); зыпыш1эн (to connect oneself to)"
   },
   {
     "kite": "жьыгъэбыб"
@@ -7374,31 +7434,61 @@
     "messenger": "л1ык1о"
   },
   {
-    "mediator, intermediary, negotiator": "л1ык1о"
+    "mediator": "л1ык1о"
   },
   {
-    "legate; ambassador": "л1ык1о"
+    "negotiator": "л1ык1о"
   },
   {
-    "delegate; representative": "л1ык1о"
+    "intermediary": "л1ык1о"
   },
   {
-    "Language (spoken)": "жабз"
+    "legate": "л1ык1о"
   },
   {
-    "speech": "жабз"
+    "ambassador": "л1ык1о"
   },
   {
-    "talk": "жабз"
+    "delegate": "л1ык1о"
   },
   {
-    "stubborn": "жае"
+    "representative": "л1ык1о"
   },
   {
-    "unruly": "жае"
+    "spoken language": "жабзэ"
   },
   {
-    "obscene": "жае"
+    "speech": "псалъэ; жабзэ"
+  },
+  {
+    "talk": "жабзэ"
+  },
+  {
+    "slanderous": "жае"
+  },
+  {
+    "stubborn": "инат; къаигъэ; инатэу ихьан (to become stubborn); инатэу хъун (to become stubborn); зыригъэнэн (to become stubborn)"
+  },
+  {
+    "obstinate": "инат; къаигъэ; инатэу ихьан (to become obstinate); инатэу хъун (to become obstinate); зыригъэнэн (to become stubborn)"
+  },
+  {
+    "refractory": "инат; къаигъэ; инатэу ихьан (to become refractory); инатэу хъун (to become refractory); зыригъэнэн (to become stubborn)"
+  },
+  {
+    "opinionated": "инат; къаигъэ; инатэу ихьан (to become opinionated); инатэу хъун (to become opinionated); зыригъэнэн (to become stubborn)"
+  },
+  {
+    "pig-headed": "инат; къаигъэ; инатэу ихьан (to become pig-headed); инатэу хъун (to become pig-headed); зыригъэнэн (to become stubborn)"
+  },
+  {
+    "unruly": "мыдэ1орэ"
+  },
+  {
+    "disobedient": "мыдэ1орэ"
+  },
+  {
+    "obscene": "емык1у зыхэлъ, ук1ытэныгъэ зыхэмылъ"
   },
   {
     "a person or animal that have a curved mouth": "жакъэ"
@@ -7479,16 +7569,10 @@
     "room": "унэ шъхьаф"
   },
   {
-    "bed": "ошэкур"
-  },
-  {
     "mattress": "ошэкур"
   },
   {
-    "bed": "гъолъып1э"
-  },
-  {
-    "bedroom": "гъолъып1э"
+    "bedroom": "гъолъып1э; чъыяп1э"
   },
   {
     "couch": "гъолъып1э"
@@ -9507,9 +9591,6 @@
     "bathroom": "гъэпск1ып1э"
   },
   {
-    "bedroom": "чъыяп1э"
-  },
-  {
     "front door": "унапчъэ"
   },
   {
@@ -10090,9 +10171,6 @@
   },
   {
     "boyfriend": "псэлъыхъо"
-  },
-  {
-    "bed": "пэк1о"
   },
   {
     "different, separated": "шъхьафы"
@@ -13272,7 +13350,7 @@
     "bad-tasting, bad taste, distasteful": "1ае"
   },
   {
-    "indecent": "1ае"
+    "indecent": "1ае; емык1у зыхэлъ, ук1ытэныгъэ зыхэмылъ"
   },
   {
     "disgusting": "1ае"
@@ -14961,9 +15039,6 @@
     "example": "щысэ"
   },
   {
-    "to chop": "ушыгун"
-  },
-  {
     "fully filled": "мэ1у"
   },
   {
@@ -15310,9 +15385,6 @@
   },
   {
     "alternative form of \"нэк1ышъо\"": "нэк1ьышъо"
-  },
-  {
-    "cheek": "нэгушъо"
   },
   {
     "to slap someone's cheek": "нэгушъо етын"
@@ -16408,12 +16480,6 @@
   },
   {
     "revenger": "лъыш1эжьак1о"
-  },
-  {
-    "to hold a grudge against": "губгъэн фэлъэгъун"
-  },
-  {
-    "to hold a grudge against": "губгъэн фэш1ын"
   },
   {
     "alternative form of \"чэрэгъун\"": "мэчэрэгъун"
@@ -17592,9 +17658,6 @@
     "bed (for plants), seedbed": "хьасэ"
   },
   {
-    "field": "хьасэ"
-  },
-  {
     "bit (metal in horse's mouth)": "шхо1у"
   },
   {
@@ -17826,9 +17889,6 @@
     "disobedient, a person that does not obey": "1орыш1адж"
   },
   {
-    "wild": "1алы"
-  },
-  {
     "to become equal to; be be equalized": "зэк1эхьажьын"
   },
   {
@@ -17944,9 +18004,6 @@
   },
   {
     "skin of the back part of the neck": "дыйшъо"
-  },
-  {
-    "cheek": "нэпашъо"
   },
   {
     "to make out something as good": "къегъэк1ын"
@@ -18265,9 +18322,6 @@
   },
   {
     "to quench": "хэгъэон"
-  },
-  {
-    "boar": "къожъ"
   },
   {
     "warthog": "къожъ"
@@ -19081,9 +19135,6 @@
   },
   {
     "alternative form of \"хъонэн\"": "ехъонын"
-  },
-  {
-    "beehive": "бжьэматэ"
   },
   {
     "office, post, appointment, position, job": "1энат1э"
@@ -20188,9 +20239,6 @@
   },
   {
     "party": "пчыхьэзэхахь"
-  },
-  {
-    "ugly": "зы1уамылъхьажь"
   },
   {
     "to get numb; to tingle (body-part)": "утэбжьэн"

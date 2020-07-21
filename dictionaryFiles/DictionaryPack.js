@@ -6257,7 +6257,24 @@
     "ipa": "qaːma"
   },
   {
-    "word": "нэфнэ",
+    "word": "нэфынэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "light",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "нэфын",
+      "нэфы"
+    ],
+    "cognate": "нэху",
+    "type": "noun",
+    "ipa": "nafna"
+  },
+  {
+    "word": "ш1этын",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -6915,11 +6932,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "mattress",
+        "meaning": "bed (a piece of furniture to sleep on)",
         "examples": []
       },
       {
-        "meaning": "sheath",
+        "meaning": "sheath, scabbard",
         "examples": []
       }
     ],
@@ -26002,7 +26019,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to rob, to sack, to loot, to plunder",
+        "meaning": "to sack, to loot, to plunder",
         "examples": []
       },
     ],
@@ -26014,7 +26031,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "robber; burglar",
+        "meaning": "plunderer",
         "examples": []
       },
     ],
@@ -27332,11 +27349,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(Literary) chicken",
+        "meaning": "chicken",
         "examples": [],
         "tags": [
           "Literary"
         ]
+      },
+	  {
+        "meaning": "hen",
+        "examples": [],
       }
     ],
     "type": "noun",
@@ -28087,10 +28108,6 @@
       },
       {
         "meaning": "currency",
-        "examples": []
-      },
-      {
-        "meaning": "fund",
         "examples": []
       }
     ],
@@ -28993,16 +29010,24 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "snowflake",
-        "examples": []
-      },
-      {
-        "meaning": "melt water",
+        "meaning": "dew; melt water",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "wasəpsə"
+  },
+  {
+    "word": "осыц",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "snowflake",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "wasət͡s"
   },
   {
     "word": "къарэ",
@@ -29375,6 +29400,30 @@
     "ipa": "pχantʼakʷʼ"
   },
   {
+    "word": "огукъухьэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "spacecraft",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "wagʷqʷəħa"
+  },
+  {
+    "word": "огущ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "rocket",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "wagʷəɕ"
+  },
+  {
     "word": "щалъэ",
     "lang": "Adyghe",
     "definitions": [
@@ -29511,7 +29560,7 @@
     "ipa": "təʁaqʷaħaːpʼ"
   },
   {
-    "word": "ет1агъу",
+    "word": "ет1агъо",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -29521,6 +29570,30 @@
     ],
     "type": "noun",
     "ipa": "jatʼaːʁʷ"
+  },
+  {
+    "word": "1эзэгъууц",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "medicine",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʔazaʁʷət͡s"
+  },
+  {
+    "word": "1эзэгъу уцы",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "medicine",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʔazaʁʷə wət͡s"
   },
   {
     "word": "уцы",
@@ -29561,10 +29634,6 @@
         ]
       },
       {
-        "meaning": "to be situated",
-        "examples": []
-      },
-      {
         "meaning": "to be screwed; to beset with unfortunate circumstances that seem difficult or impossible to overcome",
         "examples": []
       }
@@ -29577,7 +29646,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "predatory",
+        "meaning": "alternative form of \"хьак1экъуак1э\"",
         "examples": []
       }
     ],
@@ -29670,6 +29739,18 @@
     ],
     "type": "noun",
     "ipa": "tajman"
+  },
+  {
+    "word": "псыуцуп1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "water tank",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "psəwt͡ʃʷəpʼa"
   },
   {
     "word": "мэкъуп1э",
@@ -29787,7 +29868,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "pebble",
+        "meaning": "gravel",
+        "examples": []
+      },
+	  {
+        "meaning": "crushed stone, road metal",
         "examples": []
       }
     ],
@@ -29795,11 +29880,28 @@
     "ipa": "məʐʷaːt͡ʃa"
   },
   {
+    "word": "гъэушкъоин",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "to chop; to crumble",
+        "examples": [
+          {
+            "sentence": "К1алэм хьалыгъур '''ыгъэушкъоигъ'''",
+            "translation": "The boy '''chopped''' the bread.."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʁawʃqʷajən"
+  },
+  {
     "word": "тхъу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "oil",
+        "meaning": "oil (vegetable or mineral)",
         "examples": []
       },
       {
@@ -29807,7 +29909,7 @@
         "examples": []
       },
       {
-        "meaning": "butter (melted)",
+        "meaning": "butter",
         "examples": [
           {
             "sentence": "Сэ тостым '''тхъу''' дэсэшхы",
@@ -29907,6 +30009,18 @@
     "ipa": "maləl"
   },
   {
+    "word": "анак1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "young hen",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "aːnaːt͡ʃʼa"
+  },
+  {
     "word": "мэзыкъу",
     "lang": "Adyghe",
     "definitions": [
@@ -29947,22 +30061,6 @@
     ],
     "type": "noun",
     "ipa": "ləpt͡sʼa"
-  },
-  {
-    "word": "шъыхь",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "doe",
-        "examples": []
-      },
-      {
-        "meaning": "hind",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ʂəħ"
   },
   {
     "word": "набгъу",
@@ -30021,30 +30119,63 @@
     "ipa": "tħaːrqʷa"
   },
   {
-    "word": "лъэхъомбэшх",
+    "word": "лъэхъомбэшху",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "centipede",
+        "meaning": "big toe",
         "examples": []
       }
     ],
-    "synonyms": [
-      "пк1эшъэхъу"
-    ],
     "type": "noun",
     "ipa": "ɬaχʷambaʃx"
+  },
+  {
+    "word": "нэпц1 щытхъуа1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to adulate",
+        "examples": []
+      },
+	  {
+        "meaning": "one who gives empty flattery for personal gain",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "napt͡sʼ ɕetχʷaːʔʷ"
+  },
+  {
+    "word": "мэш1уашъхь",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "campfire, bonfire, wood fire",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "maʃʷʼaːʂħa"
+  },
+  {
+    "word": "нэпц1ыгъэк1э щытхъун",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "to lickspittle; to give empty flattery for personal gain",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "napt͡sʼ ɕetχʷaːʔʷ"
   },
   {
     "word": "пк1эшъэхъу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "centipede",
-        "examples": []
-      },
-      {
-        "meaning": "caterpillar",
+        "meaning": " caterpillar (larva of a butterfly)",
         "examples": []
       }
     ],
@@ -30067,16 +30198,16 @@
     "ipa": "waʐʷbaːnaħamləw"
   },
   {
-    "word": "мэш1уахь",
+    "word": "мэш1охь",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "firefly",
+        "meaning": "glowworm; firefly; lightning bug",
         "examples": []
       }
     ],
     "synonyms": [
-      "мэш1охь"
+      "мэш1уахь"
     ],
     "cognate": "хьэндырабгъуэ",
     "type": "noun"
@@ -30086,28 +30217,24 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "beehive",
-        "examples": []
-      },
-      {
-        "meaning": "bin",
-        "examples": []
-      },
-      {
-        "meaning": "granary",
-        "examples": []
-      },
-      {
-        "meaning": "money box",
+        "meaning": "a place to store grain crops",
         "examples": []
       }
     ],
-    "synonyms": [
-      "конэгъу",
-      "----"
-    ],
     "type": "noun",
     "ipa": "kʷanə"
+  },
+  {
+    "word": "къакъырхьам",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "threshing barn",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "qaːqərħaːm"
   },
   {
     "word": "къэцыгъуан",
@@ -30198,8 +30325,20 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "chameleon",
+        "meaning": "iridescent",
         "examples": []
+      }{
+        "meaning": "something that changes colors",
+        "examples": []
+      },
+      {
+        "meaning": "color shifting",
+        "examples": [
+          {
+            "sentence": "Уашъор '''шъотехьэ-тек1'''",
+            "translation": "The sky is '''shifting (in color)'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -30476,6 +30615,42 @@
     ],
     "type": "noun",
     "ipa": "ʔaːpʂ"
+  },
+  {
+    "word": "хьамы",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"хьамэ\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ħaːmə"
+  },
+  {
+    "word": "хьамэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "threshing floor",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ħaːmə"
+  },
+  {
+    "word": "ахъщэ угъоилъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "money-box",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "aːχɕa wəʁʷajəɬ"
   },
   {
     "word": "лъэк1эн",
@@ -31754,11 +31929,11 @@
     "ipa": "ɬʼəkʷʼa"
   },
   {
-    "word": "жабз",
+    "word": "жабзэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Language (spoken)",
+        "meaning": "spoken language",
         "examples": []
       },
       {
@@ -31778,15 +31953,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "stubborn",
-        "examples": []
-      },
-      {
-        "meaning": "unruly",
-        "examples": []
-      },
-      {
-        "meaning": "obscene",
+        "meaning": "slanderous",
         "examples": []
       }
     ],
@@ -31798,7 +31965,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "a person or animal that have a curved mouth",
+        "meaning": "a person or animal with twisted mouth",
         "examples": []
       }
     ],
@@ -32357,11 +32524,14 @@
       {
         "meaning": "word",
         "examples": []
+      },
+	  {
+        "meaning": "speech",
+        "examples": []
       }
     ],
     "synonyms": [
-      "гущы1э",
-      "----"
+      "гущы1э"
     ],
     "type": "noun",
     "ipa": "/psaːɬa/"
@@ -45939,18 +46109,6 @@
     ],
     "type": "noun",
     "ipa": "psaɬəχʷa"
-  },
-  {
-    "word": "пэк1о",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "bed",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "pakʷʼa"
   },
   {
     "word": "шъхьафы",
@@ -65212,6 +65370,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "to turn sour",
+        "examples": []
+      },
+	  {
         "meaning": "to rot",
         "examples": [
           {
@@ -65252,6 +65414,18 @@
     ],
     "type": "verb",
     "ipa": "ʃʷətə lan"
+  },
+  {
+    "word": "джэныкъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "hearth; place in front of the hearth",
+        "examples": [],
+      }
+    ],
+    "type": "verb",
+    "ipa": "d͡ʒanəqʷa lan"
   },
   {
     "word": "ишъуты исагъ",
@@ -68483,7 +68657,7 @@
     "ipa": "zaxat͡ʃʼən"
   },
   {
-    "word": "инатэу ихьэн",
+    "word": "инатэу ихьан",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -68496,8 +68670,66 @@
         ]
       }
     ],
-    "type": "adj",
+    "type": "verb",
     "ipa": "jənaːtaw jəħan"
+  },
+  {
+    "word": "мыдэ1орэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "disobedient; unruly",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "mədaʔara"
+  },
+  {
+    "word": "зыригъэнэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to become stubborn",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "zərəjʁanan"
+  },
+  {
+    "word": "инатэу хъун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to become very stubborn",
+        "examples": [
+          {
+            "sentence": "К1алэр '''инатэу ихьагъ'''",
+            "translation": "The boy '''became very stubborn'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "jənaːtaw χʷən"
+  },
+  {
+    "word": "инат",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "obstinate, stubborn",
+        "examples": [
+          {
+            "sentence": "К1алэр '''инат'''",
+            "translation": "The boy '''is stubborn'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "jənaːt"
   },
   {
     "word": "ук1ыт",
@@ -83844,17 +84076,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "changeable color",
+        "meaning": "alternative form of \"шъотехьэ-тек1\"",
         "examples": []
-      },
-      {
-        "meaning": "color shifting",
-        "examples": [
-          {
-            "sentence": "Уашъор '''шъотехьэ-тек1'''",
-            "translation": "The sky is '''shifting (in color)'''."
-          }
-        ]
       }
     ],
     "type": "adj",
@@ -86687,7 +86910,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "wild",
+        "meaning": "wild (animal); untamed",
         "examples": []
       }
     ],
@@ -90255,10 +90478,38 @@
       {
         "meaning": "flue",
         "examples": []
+      },
+	  {
+        "meaning": "chimney",
+        "examples": []
       }
     ],
     "type": "noun",
     "ipa": "wand͡ʒaq"
+  },
+  {
+    "word": "1угъоик1ып1э",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "chimney",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʔʷəʁʷajət͡ʃʼəpʼa"
+  },
+  {
+    "word": "хьакушъхьэищ",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "chimney",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ħaːkʷəʂħajəɕ"
   },
   {
     "word": "хьэ1уц1",
@@ -91206,11 +91457,23 @@
     "ipa": "psan"
   },
   {
+    "word": "къыч1эгъэутэсык1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to fart (without noise)",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "qət͡ʂʼaʁawtasət͡ʃʼən"
+  },
+  {
     "word": "къэпсын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to light; to illuminate; to provide light for when it is dark.",
+        "meaning": "to light; to illuminate; to provide light for when it is dark",
         "examples": [
           {
             "sentence": "Ламбэ '''къэпсы'''",
@@ -97439,7 +97702,7 @@
       }
     ],
     "synonyms": [
-      "1эл"
+      "1алы"
     ],
     "type": "adj",
     "ipa": "emɮət͡ʃ"
@@ -97449,7 +97712,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "wild (animal); untamed",
+        "meaning": "alternative form of \"1алы\"",
         "examples": []
       }
     ],
@@ -97579,7 +97842,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"хьак1экъуак1э\"",
+        "meaning": "predator; beast",
         "examples": []
       }
     ],
