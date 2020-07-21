@@ -24203,6 +24203,24 @@
         "examples": []
       }
     ],
+    "synonyms": [
+      "пщып1э"
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃal"
+  },
+  {
+    "word": "пщып1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "hut",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "чэл"
+    ],
     "type": "noun",
     "ipa": "t͡ʃal"
   },
@@ -32448,7 +32466,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "unintelligible; incomprehensible; obscure; hardly understood",
+        "meaning": "unintelligible; incomprehensible; obscure; hard to understand",
         "examples": []
       },
 	  {
@@ -32464,7 +32482,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "clear; understandable; intelligible; easily understood",
+        "meaning": "clear; understandable; intelligible; easy to understand",
         "examples": []
       }
     ],
@@ -32476,12 +32494,36 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "bench",
+        "meaning": "bench (long seat in a park or garden)",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "pχantakʷʼ t͡ʃəħ"
+    "ipa": "pχantakʷʼ t͡ʃʼəħ"
+  },
+  {
+    "word": "пхъэнтэк1ук1ыхь",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"пхъэнтэк1у к1ыхь\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "pχantakʷʼt͡ʃʼəħ"
+  },
+  {
+    "word": "ч1ыналъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "land",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʂʼənaːɬa"
   },
   {
     "word": "онэгу",
@@ -32581,6 +32623,22 @@
     "congnate": "сэ",
     "type": "noun",
     "ipa": "ʂaʐəja"
+  },
+  {
+    "word": "шъолъыр",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "strip of skin",
+        "examples": []
+      },
+	  {
+        "meaning": "region",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷaɬər"
   },
   {
     "word": "обзэгъу",
@@ -53793,32 +53851,48 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "degree (unit of temperature or angle)",
+        "meaning": "rank",
         "examples": []
       },
       {
-        "meaning": "radius",
+        "meaning": "phase",
         "examples": []
       },
       {
-        "meaning": "Spoke (wheel)",
+        "meaning": "step (more specifially: duration of a step)",
         "examples": []
       },
       {
-        "meaning": "stage",
-        "examples": []
-      },
-      {
-        "meaning": "step",
-        "examples": []
-      },
-      {
-        "meaning": "Wheel axle",
+        "meaning": "pause; moment of stop; duration of a full stop",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "tewt͡sʷaʁʷ"
+    "ipa": "tajwt͡ʃʷaʁʷ"
+  },
+  {
+    "word": "зэпыугъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "moment of interruption; duration of interruption",
+        "examples": []
+      },
+	  {
+        "meaning": "pause",
+        "examples": []
+      },
+      {
+        "meaning": "interval",
+        "examples": []
+      },
+      {
+        "meaning": "rest (more specifially: resting time)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "zapəwʁʷa"
   },
   {
     "word": "къэлэдэс",
@@ -89391,6 +89465,22 @@
     ],
     "type": "noun",
     "ipa": "ɡʷəpt͡ʃ"
+  },
+  {
+    "word": "утыку",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "stage",
+        "examples": []
+      },
+	  {
+        "meaning": "square (open area in a town or city)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "wtəkʷ"
   },
   {
     "word": "хьатыяк1о",
