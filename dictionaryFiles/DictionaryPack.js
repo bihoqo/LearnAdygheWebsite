@@ -27059,7 +27059,7 @@
         "examples": []
       },
       {
-        "meaning": "to make a noise",
+        "meaning": "to have fun",
         "examples": []
       }
     ],
@@ -27096,7 +27096,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Residue (of grain),",
+        "meaning": "pomace (pulpy residue after juice has been squeezed from fruit)",
+        "examples": []
+      },
+	  {
+        "meaning": "oil cake",
         "examples": []
       }
     ],
@@ -27163,29 +27167,37 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "leader",
+        "meaning": "leading singer (e.g. in a choir)",
         "examples": []
       },
       {
-        "meaning": "president",
+        "meaning": "organizer",
+        "examples": []
+      },
+      {
+        "meaning": "inspirer",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "t͡ʃaɕaːkʷʼa"
+    "ipa": "t͡ʃʼaɕaːkʷʼa"
+  },
+  {
+    "word": "зэхэщак1о",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "organizer",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "zaxaɕaːkʷʼa"
   },
   {
     "word": "пашъхьэ",
     "lang": "Adyghe",
     "definitions": [
-      {
-        "meaning": "chief",
-        "examples": []
-      },
-      {
-        "meaning": "leader",
-        "examples": []
-      },
       {
         "meaning": "in front of",
         "examples": [
@@ -27268,7 +27280,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Relatively old",
+        "meaning": "relatively old; somewhat old; oldish",
         "examples": []
       }
     ],
@@ -27605,7 +27617,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "ant",
+        "meaning": "alternative form of \"къамзэгу\"",
         "examples": []
       }
     ],
@@ -27890,21 +27902,6 @@
     ],
     "type": "adj",
     "ipa": "wataʁʷ"
-  },
-  {
-    "word": "уэнтэгъу",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "heavy",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "отэгъу"
-    ],
-    "type": "adj",
-    "ipa": "wantaʁʷ"
   },
   {
     "word": "пк1ык1э",

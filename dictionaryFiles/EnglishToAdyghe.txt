@@ -570,7 +570,7 @@
     "testicle": "к1энк1э"
   },
   {
-    "watermelon": "нашэ"
+    "watermelon": "нашэ; хъырбыдз; къэпраз"
   },
   {
     "sunflower seed": "тыгъэзак1э; тыгъэгъэзак1э"
@@ -1170,7 +1170,7 @@
     "soldier": "дзэл1ы"
   },
   {
-    "husband": "л1ы"
+    "husband": "л1ы; (possible dated) тхьаматэ"
   },
   {
     "man": "л1ы"
@@ -1183,9 +1183,6 @@
   },
   {
     "large": "ины"
-  },
-  {
-    "big": "ины"
   },
   {
     "huge": "ины"
@@ -2778,7 +2775,7 @@
     "glass-cutter": "апчхалъхь"
   },
   {
-    "lamp": "остыгъэ; лампэ; апчшъхьэтет"
+    "lamp": "остыгъэ; лампэ; апчшъхьэтет; шъынэ"
   },
   {
     "highest": "апшъэр"
@@ -2794,9 +2791,6 @@
   },
   {
     "in front": "апэ"
-  },
-  {
-    "front": "ыпэ; гупэ"
   },
   {
     "at the beginning": "апэ"
@@ -3771,7 +3765,7 @@
     "large": "джадэ; ины; -шхо (suffix)"
   },
   {
-    "big": "джадэ; ины; -шхо (suffix)"
+    "big": "джадэ; ины; -шхо (suffix); фо (Shapsug); фожъыфу (Shapsug)"
   },
   {
     "gigantic": "ин дэд, шъэджашъэ"
@@ -5238,7 +5232,7 @@
     "fugitive slave": "бырамыты"
   },
   {
-    "fat": "пщэры"
+    "fat": "пщэры (heavyweight); дагъэ (oil); шэ (oil)"
   },
   {
     "chunky body": "бэжъу"
@@ -5313,7 +5307,7 @@
     "scabies": "бэгу"
   },
   {
-    "long-lived": "бэгъаш1э"
+    "long-lived": "бэгъаш1э; жъырку"
   },
   {
     "longlived": "бэгъаш1э"
@@ -6483,25 +6477,28 @@
     "fun": "тхъагъо; жъот"
   },
   {
-    "to be happy": "жъотын"
+    "to be happy": "жъотын; чэфэу щытын"
   },
   {
-    "to make a noise": "жъотын"
+    "to have fun": "зыгъэтхъэн; жъотын"
   },
   {
     "star": "жъуагъо"
   },
   {
-    "Residue (of grain),": "жъуаф"
+    "residue,": "жъуаф"
   },
   {
-    "popular": "жъугъ"
+    "pomace,": "жъуаф"
+  },
+  {
+    "oil cake,": "жъуаф"
   },
   {
     "crowd": "жъугъ"
   },
   {
-    "public": "жъугъ"
+    "mass": "жъугъ"
   },
   {
     "republic": "жъугъэ къэрэл"
@@ -6513,19 +6510,16 @@
     "president": "жъугъэпащ"
   },
   {
-    "President of republic,": "жъугъэпащ"
+    "leading singer": "к1эщак1о"
   },
   {
-    "leader": "к1эщак1о"
+    "organizer": "к1эщак1о; зэхэщак1о"
   },
   {
-    "president": "к1эщак1о"
+    "inspirer": "к1эщак1о"
   },
   {
-    "chief": "пашъхьэ"
-  },
-  {
-    "leader": "пашъхьэ"
+    "forepart": "пашъхьэ"
   },
   {
     "in front of": "пашъхьэ"
@@ -6534,13 +6528,10 @@
     "republic": "жъугъэхэку"
   },
   {
-    "to melt": "жъун"
+    "to melt": "тк1ун, жъун; гъэтк1ун (to make something melt)"
   },
   {
-    "to melt": "гъэтк1ун"
-  },
-  {
-    "Relatively old": "жъы1о"
+    "oldish": "жъы1о"
   },
   {
     "picture": "сурэт"
@@ -6555,19 +6546,13 @@
     "painting": "сурэт"
   },
   {
-    "(Literary) chicken": "чэты"
+    "chicken": "чэты"
   },
   {
-    "glass": "апч"
-  },
-  {
-    "alternative form of \"апч\"": "апкь"
+    "glass": "апч; апкь (Shapsug)"
   },
   {
     "green": "уцышъо"
-  },
-  {
-    "green color": "уцышъо"
   },
   {
     "coal": "ш1омык1ы"
@@ -6576,67 +6561,55 @@
     "voice": "макъэ"
   },
   {
-    "sound (Can also be noise)": "макъэ"
+    "sound": "макъэ"
   },
   {
-    "cheese": "къуае"
-  },
-  {
-    "alternative form of \"къуае\"": "хъуае"
+    "cheese": "къуае; хъуае(Shapsug)"
   },
   {
     "tough": "пытэ"
   },
   {
-    "thorn": "панэ"
+    "thorn": "панэ; (dialectal) къэцы"
   },
   {
-    "mirror": "гъунджэ"
+    "mirror": "гъунджэ; (dialectal) гъурджэ"
   },
   {
     "yesterday": "тыгъуасэ"
   },
   {
-    "alternative form of \"псычэт\"": "псыкьэт"
-  },
-  {
-    "foreman (of a village)": "тхьаматэ"
+    "foreman": "тхьаматэ"
   },
   {
     "boss": "тхьаматэ"
   },
   {
-    "master (superior person in status or rank)": "тхьаматэ"
+    "master": "тхьаматэ; зыер"
   },
   {
     "chairman": "тхьаматэ"
   },
   {
-    "(dated possibly archaic) religious leader": "тхьаматэ"
-  },
-  {
-    "(possibly dated) husband": "тхьаматэ"
-  },
-  {
-    "alternative form of \"1унк1ыбзэ\"": "1ук1ьыбзэ"
-  },
-  {
-    "ant": "хъанзэгу"
-  },
-  {
-    "ant": "къамзэгу"
+    "ant": "къамзэгу; хъанзэгу (Shapsug)"
   },
   {
     "anthill": "къамзэгу"
   },
   {
-    "(Literary) chemise, shirt": "джанэ"
+    "shirt": "джанэ"
   },
   {
-    "(Literary) dress, robe": "джанэ"
+    "chemise": "джанэ"
   },
   {
-    "alternative form of \"пачъыхь\"": "парчъыхь"
+    "robe": "джанэ"
+  },
+  {
+    "dress": "джанэ"
+  },
+  {
+    "king": "пщыпащ"
   },
   {
     "king, emperor, caesar, sultan": "пщыпащ"
@@ -6645,28 +6618,7 @@
     "button": "чы1у"
   },
   {
-    "watermelon": "хъырбыдз"
-  },
-  {
     "flour": "хьаджыгъэ"
-  },
-  {
-    "Hajgeps (A Circassian food made from flour)": "хьаджыгъэпс"
-  },
-  {
-    "alternative form of \"лъэгуанджэ\"": "лъэгуаджэ"
-  },
-  {
-    "shovel (Shapsug)": "хьацэ"
-  },
-  {
-    "alternative form of \"шхъуант1э\"": "шъухъуат1э"
-  },
-  {
-    "alternative form of \"натрыф\"": "натыф"
-  },
-  {
-    "alternative form of \"псынк1э\"": "псык1э"
   },
   {
     "quickly": "псынк1эу"
@@ -6675,31 +6627,16 @@
     "lightly": "псынк1эу"
   },
   {
-    "heavy": "онтэгъу"
+    "heavy": "онтэгъу; отэгъу (Shapsug)"
   },
   {
-    "alternative form of \"онтэгъу\"": "отэгъу"
+    "naked": "пц1анэ; псӏанэ (Shapsug)"
   },
   {
-    "heavy": "уэнтэгъу"
+    "to grill": "жъэн; гъэжъэн"
   },
   {
-    "alternative form of \"пчык1э\"": "пк1ык1э"
-  },
-  {
-    "alternative form of \"пц1анэ\"": "пс1анэ"
-  },
-  {
-    "naked": "пц1анэ"
-  },
-  {
-    "to grill": "жъэн"
-  },
-  {
-    "to fry": "жъэн"
-  },
-  {
-    "alternative form of \"ежьэн\"": "жьэн"
+    "to fry": "жъэн; гъэжъэн"
   },
   {
     "younger brother": "шынахьык1"
@@ -6708,130 +6645,28 @@
     "older brother": "шынахьыжъ"
   },
   {
-    "(Shapsug) alternative form of \"жак1э\"": "жак1ьэ"
-  },
-  {
     "life": "гъаш1э"
   },
   {
-    "fat or oil from the body of an animal": "шэ"
-  },
-  {
-    "fund": "ахъщэ"
+    "fund": "гъэт1ылъыгъэ, гъэхьазырыгъэ, угъоигъэ"
   },
   {
     "dangerous": "щынагъо"
   },
   {
-    "fearsome, menacing": "щынагъо"
+    "fearsome": "щынагъо"
   },
   {
-    "lamp": "шъынэ"
+    "menacing": "щынагъо"
   },
   {
-    "(Shapsug) big": "фо"
+    "afterworld": "Хьэдрыхэ"
   },
   {
-    "alternative form of \"тхъурыжъ\"": "тхъужъ"
-  },
-  {
-    "Amesh: Initially god of fauna, then god of sheep.": "Амыщ"
-  },
-  {
-    "Awishijer, Awischjerjiy, Dawischjerjiy: God of courage and bravery.": "Аушыджэр"
-  },
-  {
-    "Hedrixe, Hedirix: Protector of the dead.": "Хьэдрыхэ"
-  },
-  {
-    "afterworld, hereafter": "Хьэдрыхэ"
-  },
-  {
-    "Hedrixethe: God of the hereafter (Abzakh)": "Хьэдрыхэтхьэ"
-  },
-  {
-    "Hek'wschtaschhe, Hekwschtix': Protector of oxen (Shapsugh).": "Хьэк1ущтащхьэ"
-  },
-  {
-    "Patron of horsemanship.": "Хьэкусташ"
-  },
-  {
-    "Hentsiygwasche, Hentsegwasche: Goddess of rain.": "Хьэнцийгуащэ"
-  },
-  {
-    "Hewits-Hesh: God of seas and demi-gods.": "Хьэуцхьэш"
-  },
-  {
-    "Jedipe: God of rivers and seas (literally: ‘hen's beak').": "Джэдыпэ"
-  },
-  {
-    "Lhepsch, Tlepsh: Patron of smiths, iron, weapons and fire. Corresponds to the Roman god Vulcan and to Hephæstus in the Greek Pantheon.": "Лъэпщ"
-  },
-  {
-    "Mamisch, Mamish: Patron of fortunetellers, specifically of scapula readers.": "Мамыщ"
-  },
-  {
-    "Mezgwasche: Goddess of forests and trees.": "Мэзгуащэ"
-  },
-  {
-    "Mezithe: God of forests, trees, the hunt and beasts. He disposed of the fate of beasts, and brought good luck to the hunt. He is depicted as riding a golden-bristled boar. He took his deer to a meadow wherein a group of virgins milked them.": "Мэзытхьэ"
-  },
-  {
-    "peqwe: 'False' demi-god - creator of the fields - debunked by Wezirmes.": "Пэкъуэ"
-  },
-  {
-    "Psathe: God of the soul or life. Also denotes icon of Christian Circassians (in Mozdok).": "Псатхьэ"
-  },
-  {
-    "Psithe: God of water.": "Псытхьэ"
-  },
-  {
-    "Psithegwasche, Psigwasche: Goddess of water. Popular tradition had her portrayed as a beautiful maid.": "Псытхьэгуащэ"
-  },
-  {
-    "Psix'wegwasche: Goddess of rivers (river valleys).": "Псыхъуэгуащэ"
-  },
-  {
-    "Qwedes: God of sea, in form of fish (literally: ‘living in a depression').": "Къуэдэс"
-  },
-  {
-    "Shyble: Circassian God of thunder (storms) and lightning; also of war and justice. Circassians Both loved and feared Shyble. Death by lightning considered to be a good and clean death and those who died by lightning were revered as saints blessed by Shyble.": "Щыблэ"
-  },
-  {
-    "Sotresh: God of gaiety and holidays.": "Сотрэш"
-  },
-  {
-    "Sozerash: God of fertility, family hearth, well-being and illness. He was a great voyager and controlled the winds and waters. He was also the protector of herds (Shawzerish Шаузэрыш in Shapsugh).": "Созэрэш"
-  },
-  {
-    "Tetertup: God of war and bloodshed. Equivalent to Grecian Ares and to Roman Mars.": "Тэтэртуп"
-  },
-  {
-    "Theghelej: God of fertility and plants.": "Тхьэгъэлэдж"
-  },
-  {
-    "Theghwiychu: Protector of people. Intermediary between gods and people.": "Тхьэгъуичу"
-  },
-  {
-    "Thegwasche: Protectress of women (literally: ‘Matron of the gods').": "Тхьэгуащэ"
-  },
-  {
-    "Theshiripx'w: Patron of beautiful and intelligent women.": "Тхьэшырыпхъу"
-  },
-  {
-    "Theshu: Protector of horsemen.": "Тхьэшу"
-  },
-  {
-    "Washwa: One of the supreme cosmic deities; god of the skies (literally: ‘blue sky').": "Уащхъуэ"
-  },
-  {
-    "Zhitha: God of wind.": "Жьытхьэ"
+    "hereafter": "Хьэдрыхэ"
   },
   {
     "meekly": "1асэу"
-  },
-  {
-    "alternative form of \"цуакъэ\"": "чъуакъо"
   },
   {
     "happy old age": "жъышъхьэмаф"
@@ -6852,19 +6687,7 @@
     "to slow down": "жъэжъэн"
   },
   {
-    "to take one's time,": "жъэжъэн"
-  },
-  {
-    "Smell of frying, Smell of grilling,": "жъэрым"
-  },
-  {
-    "Hard to fry, Hard to grill": "жъэгъуай"
-  },
-  {
-    "Fried easily, Grilled easily": "жъэгъощ1у"
-  },
-  {
-    "the Kabardian language": "къэбэртайбзэ"
+    "to take one's time": "жъэжъэн"
   },
   {
     "tamed": "1асэ"
@@ -6873,37 +6696,31 @@
     "old age": "жъыгъо"
   },
   {
+    "age-old": "жъыгъо"
+  },
+  {
     "seniority": "жъыгъо"
   },
   {
     "ugly old age": "жъыгъуай"
   },
   {
-    "old age": "жъыгъэ"
+    "to become old": "жъын; нахьыжъы хъун, жъы хъун"
   },
   {
-    "Age classification": "жъыгъэ к1агъ"
+    "very old": "жъы дэд; жъыкъат"
   },
   {
-    "very old": "жъыкъат"
-  },
-  {
-    "to become old, to become obsolete": "жъын"
-  },
-  {
-    "infirmary (for old people)": "жъып1э"
+    "infirmary": "жъып1э"
   },
   {
     "dumpy": "жъырку"
   },
   {
-    "long-lived": "жъырку"
-  },
-  {
     "squat": "жъырку"
   },
   {
-    "Refrain (chorus)": "жъыу"
+    "refrain": "жъыу"
   },
   {
     "chorus": "жъыуак1о"
@@ -7011,7 +6828,7 @@
     "bed": "п1эк1ор"
   },
   {
-    "lamp": "остыгъ"
+    "lamp": "шъынэ; остыгъ"
   },
   {
     "chair": "пхъэнт1эк1у"
@@ -14668,9 +14485,6 @@
   },
   {
     "facade": "гуп"
-  },
-  {
-    "front": "гуп"
   },
   {
     "kindhearted": "гупц1анэ"
