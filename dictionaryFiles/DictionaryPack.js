@@ -3986,6 +3986,26 @@
     "ipa": "baraskaf"
   },
   {
+    "word": "огу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "grey",
+        "examples": []
+      },
+	  {
+        "meaning": "atmosphere",
+        "examples": []
+      },
+	  {
+        "meaning": "space",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "wagʷ"
+  },
+  {
     "word": "бэрчэшху",
     "lang": "Adyghe",
     "definitions": [
@@ -4975,9 +4995,6 @@
         "meaning": "woman",
         "examples": []
       }
-    ],
-    "synonyms": [
-      "суыз"
     ],
     "cognate": "фыз",
     "type": "noun",
@@ -20771,6 +20788,22 @@
     "ipa": "fˤa"
   },
   {
+    "word": "зэш1ок1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to snap; to fracture or break apart",
+        "examples": []
+      },
+	  {
+        "meaning": "to shatter",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "zaʃʷʼat͡ʃʼən"
+  },
+  {
     "word": "у1эн",
     "lang": "Adyghe",
     "definitions": [
@@ -21935,6 +21968,18 @@
     ],
     "type": "noun",
     "ipa": "ʂħaːʁʷəsa"
+  },
+  {
+    "word": "гъэшъузын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to have sex with; to engage in sexual intercourse.",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʁaʂʷəzən"
   },
   {
     "word": "быраб",
@@ -29168,6 +29213,18 @@
     "ipa": "ʁʷapɬaːʂʷ"
   },
   {
+    "word": "ч1ыфэ ч1этын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to be in debt",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "t͡ʂʼəfa t͡ʂʼatən"
+  },
+  {
     "word": "гъожьышэплъ",
     "lang": "Adyghe",
     "definitions": [
@@ -29219,6 +29276,10 @@
             "translation": "The flies '''are approaching''' the light."
           }
         ]
+      },
+	  {
+        "meaning": "to have sex with; to engage in sexual intercourse with",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -30478,6 +30539,18 @@
     ],
     "type": "noun",
     "ipa": "t͡ʃʼəʂʷa"
+  },
+  {
+    "word": "чIышъор",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "crust (Earth's outermost layer)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʂʼəʂʷa"
   },
   {
     "word": "шъхьацы",
@@ -32719,11 +32792,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "sky",
+        "meaning": "sky (more specifically: firmament)",
         "examples": []
       },
       {
         "meaning": "zenith",
+        "examples": []
+      },
+      {
+        "meaning": "skydome",
         "examples": []
       }
     ],
@@ -32790,36 +32867,36 @@
     "ipa": "wəzənəʁa"
   },
   {
-    "word": "мэузын",
+    "word": "узын",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to feel pain or to ache in a specific part of the body",
         "examples": [
           {
-            "sentence": "Сэ си1и силъакъуи '''мэузых'''",
+            "sentence": "Сэ с1и слъакъуи '''мэузых'''",
             "translation": "My hand and foot '''also hurt'''."
           },
           {
-            "sentence": "Синыбэ '''мэузы'''",
+            "sentence": "Сныбэ '''мэузы'''",
             "translation": "My stomach '''hurts'''."
           },
           {
-            "sentence": "Маш1ом унэсымэ уи1э къистыни '''мэузыт'''",
+            "sentence": "Маш1ом унэсымэ у1э къистыни '''узыщт'''",
             "translation": "If you touch the fire, it will burn your hand and '''it will hurt'''."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "mawzən"
+    "ipa": "wzən"
   },
   {
     "word": "хэузык1ын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to feel pain or to ache (In general)",
+        "meaning": "to feel pain or to ache (in general)",
         "examples": [
           {
             "sentence": "Л1ым зыгори '''хэузык1ырэп'''",
@@ -32830,7 +32907,7 @@
             "translation": "'''I am aching''' (feel pain)."
           },
           {
-            "sentence": "Къэцым унэсымэ '''къупхэузык1ыт'''",
+            "sentence": "Къэцым унэсымэ '''къыпхэузык1ыщт'''",
             "translation": "If you touch the thorn '''you will get hurt'''."
           }
         ]
@@ -32931,12 +33008,69 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Steppe bird",
+        "meaning": "steppe (bird)",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "ʂʷafbzəw"
+  },
+  {
+    "word": "псэхэхы",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "angel of death",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "psaxaxə"
+  },
+  {
+    "word": "уцыгъал1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "poisonous plant",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "wt͡səʁaːɬʼ"
+  },
+  {
+    "word": "шхъухьэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "intrigues, machinations",
+        "examples": []
+      },
+	  {
+        "meaning": "sorcery, witchcraft",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃχʷəħa"
+  },
+  {
+    "word": "ушхъухьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to cast a spell on someone; to bewitch",
+        "examples": []
+      },
+	  {
+        "meaning": "to conjure; to practise witchcraft",
+        "examples": []
+      }
+    ],
+    "cognate": "ущхъухьын",
+    "type": "verb",
+    "ipa": "wəʃχʷəħaːn"
   },
   {
     "word": "бэгьэхъ",
@@ -33027,6 +33161,10 @@
       {
         "meaning": "hunting dog",
         "examples": []
+      },
+      {
+        "meaning": "halo, aureole",
+        "examples": []
       }
     ],
     "synonyms": [
@@ -33040,11 +33178,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "hound",
-        "examples": []
-      },
-      {
-        "meaning": "hunting dog",
+        "meaning": "greyhound dog",
         "examples": []
       }
     ],
@@ -33079,7 +33213,7 @@
         "meaning": "to count (to be included)",
         "examples": [
           {
-            "sentence": "Футболистым голэу ригъэк1ыгъэр '''хапк1эрэп'''",
+            "sentence": "Футболистым голэу ригъэхьагъэр '''хапк1эрэп'''",
             "translation": "The goal that the football-player scored '''doesn't count'''."
           },
           {
@@ -33163,7 +33297,7 @@
         ]
       },
       {
-        "meaning": "dirty, Morally unclean; obscene or indecent, especially sexually.",
+        "meaning": "dirty, morally unclean; obscene or indecent, especially sexually.",
         "examples": [
           {
             "sentence": "Л1ыр фылым '''шъоихэмэ''' яплъы",
@@ -34365,6 +34499,15 @@
             "translation": "Hold the apples correctly '''you will drop them'''."
           }
         ]
+      },
+	  {
+        "meaning": "to maintain",
+        "examples": [
+          {
+            "sentence": "Л1ым фабрикэр изакъоу ыӏыгъ",
+            "translation": "The man '''maintains''' the factory alone"
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -35323,42 +35466,6 @@
     ],
     "type": "noun",
     "ipa": "jasən"
-  },
-  {
-    "word": "суэу",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "honey",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "шъоу"
-    ],
-    "cognate": "фо",
-    "type": "noun",
-    "ipa": "sʷaw"
-  },
-  {
-    "word": "суыз",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "wife",
-        "examples": []
-      },
-      {
-        "meaning": "woman",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "шъуз"
-    ],
-    "cognate": "фыз",
-    "type": "noun",
-    "ipa": "sʷəz"
   },
   {
     "word": "сахъэ",
@@ -37355,7 +37462,7 @@
       "1оржъор",
       "гущы1эрые",
       "жэмачыу",
-      "шъхьарыгущы1"
+      "шъхьарыгущы1",
     ],
     "type": "adj",
     "ipa": "ʒaməʔaːn"
@@ -45724,7 +45831,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "assignment, task, work to do",
+        "meaning": "assignment, task, work (work to do; work to be done)",
         "examples": [
           {
             "sentence": "К1алэм '''и1офш1эн''' ыгъэцэк1агъ",
@@ -45752,6 +45859,30 @@
     ],
     "type": "noun",
     "ipa": "ʔʷafʃʼanənt͡ʂa"
+  },
+  {
+    "word": "1оржъор",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "twaddler, babbler",
+        "examples": [
+          {
+            "sentence": "ЦIыф 1оржъор",
+            "translation": "A '''babbler''' person."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "гущы1ал",
+      "гущы1эрые",
+      "жэмы1ан",
+      "жэмачыу",
+	  "шъхьарыгущы1"
+    ],
+    "type": "noun",
+    "ipa": "ʔʷarʐʷar"
   },
   {
     "word": "зэщын",
@@ -52013,7 +52144,7 @@
         ]
       },
       {
-        "meaning": "to spare something (for the future)",
+        "meaning": "to spare something (for the future like money)",
         "examples": [
           {
             "sentence": "Ахъщэ '''умыгъаш1оу''' ч1эф",
@@ -52155,6 +52286,47 @@
     ],
     "type": "verb",
     "ipa": "jawəʁʷajən"
+  },
+  {
+    "word": "ехъун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to be added to",
+        "examples": [
+          {
+            "sentence": "Банкымк1э сиахъщэ '''къехъу'''",
+            "translation": "My money is increasing in the bank."
+          },
+		  {
+            "sentence": "Си1эхъогъу джыри мэлы '''къехъугъ'''",
+            "translation": "Another sheep '''was added''' to my herd."
+          },
+		  {
+            "sentence": "Сибылымхэмэ чэмышхор '''къахъугъ'''",
+            "translation": "The big cow '''was added''' to my cattle."
+          },
+		  {
+            "sentence": "Мыр икъурэп, джыри ахъщэ '''къегъэхъу''' мыр ущэфын пае",
+            "translation": "This is not enough, '''add''' another money to buy this."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "jaχʷən"
+  },
+  {
+    "word": "къехъун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"ехъун\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "qajχʷən"
   },
   {
     "word": "угъоин",
@@ -66798,11 +66970,11 @@
     "ipa": "ʔazəʁʷ"
   },
   {
-    "word": "узын",
+    "word": "мэузын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"мэузын\"",
+        "meaning": "alternative form of \"узын\"",
         "examples": []
       }
     ],
@@ -75639,19 +75811,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "extra (beyond what is due, usual, expected, or necessary); superfluous, excess, spare",
+        "meaning": "spare; extra (beyond what is due, usual, expected, or necessary); superfluous, excess, spare",
         "examples": [
           {
-            "sentence": "билет '''лые''' горэ шъуиIэба?.",
-            "translation": "Do you have an '''extra''' ticket?"
+            "sentence": "билет '''лые''' горэ шъуи1эба?.",
+            "translation": "Do you have an '''spare''' ticket?"
           },
           {
             "sentence": "Ар '''лые''' хъугъэ",
             "translation": "He/she/it became '''extra'''."
           },
           {
-            "sentence": "ЦIыф '''лые''' щыIэп",
-            "translation": "There is no '''extra''' person."
+            "sentence": "Ц1ыф '''лые''' щы1эп",
+            "translation": "There is no '''spare''' person."
           }
         ]
       },
@@ -80448,19 +80620,6 @@
     "ipa": "wəʃχʷħaːkʷʼa"
   },
   {
-    "word": "ушхъухьан",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to cast a spell on someone; to bewitch",
-        "examples": []
-      }
-    ],
-    "cognate": "ущхъухьын",
-    "type": "verb",
-    "ipa": "wəʃχʷħaːn"
-  },
-  {
     "word": "ныожъ",
     "lang": "Adyghe",
     "definitions": [
@@ -84998,6 +85157,35 @@
             "translation": "The boy '''goes besides''' the house."
           }
         ]
+      },
+	  {
+        "meaning": "to have sex with; to engage in sexual intercourse",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "бгъудэхьэн",
+      "гохьан"
+    ],
+    "type": "verb",
+    "ipa": "bʁʷadaaħaːn"
+  },
+  {
+    "word": "егъэзыгъэу бгъодэхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to rape; to sexual assault",
+        "examples": [
+          {
+            "sentence": "Къалэмк1э шъузым '''егъэзыгъэу бгъодэхьагъэх'''",
+            "translation": "'''They sexual assaulted''' the woman in the city."
+          }
+        ]
+      },
+	  {
+        "meaning": "to have sex with; to engage in sexual intercourse",
+        "examples": []
       }
     ],
     "synonyms": [
@@ -85311,6 +85499,22 @@
     ],
     "type": "noun",
     "ipa": "ħaːdaʁʷ"
+  },
+  {
+    "word": "дэгъолъын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to lay with",
+        "examples": []
+      },
+	  {
+        "meaning": "to sleep with; to have sex with; to engage in sexual intercourse with",
+        "examples": []
+	  }
+    ],
+    "type": "noun",
+    "ipa": "daʁʷaɬən"
   },
   {
     "word": "нэшхъэй",
@@ -87842,6 +88046,22 @@
     "definitions": [
       {
         "meaning": "nonsense",
+        "examples": []
+      },
+	  {
+        "meaning": "nonsense speaker; a person that speaks nonsense",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "ʂħawbaːt"
+  },
+  {
+    "word": "шъхьаубат",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"шъхьэубат\"",
         "examples": []
       }
     ],
@@ -96582,6 +96802,18 @@
     ],
     "type": "noun",
     "ipa": "ħaʃʷətə wəbaːt"
+  },
+  {
+    "word": "хьэпаный",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "hybrid dog",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ħapaːnəj"
   },
   {
     "word": "хьэшъутыубэтэн",

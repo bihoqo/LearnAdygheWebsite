@@ -876,10 +876,10 @@
     "fist": "бжымы"
   },
   {
-    "woman": "бзылъфыгъэ"
+    "woman": "бзылъфыгъэ; шъуз"
   },
   {
-    "man": "хъулъфыгъэ"
+    "man": "хъулъфыгъэ; л1ы"
   },
   {
     "male": "хъу"
@@ -946,9 +946,6 @@
   },
   {
     "Wednesday": "бэрэскэжъый"
-  },
-  {
-    "Friday": "бэрэскэшху"
   },
   {
     "Sunday": "тхьаумаф"
@@ -1161,13 +1158,7 @@
     "husband": "л1ы; (possible dated) тхьаматэ"
   },
   {
-    "man": "л1ы"
-  },
-  {
-    "wife": "шъуз"
-  },
-  {
-    "woman": "шъуз"
+    "wife": "шъуз; шъхьэгъусэ (nowdays used as spouse)"
   },
   {
     "large": "ины"
@@ -2412,9 +2403,6 @@
     "drug": "уцы; 1эзэгъу уц"
   },
   {
-    "worm": "хьамлыу; хьаблыу (Shapsug)"
-  },
-  {
     "zebra": "шыдкъолэн; шыкъолэн"
   },
   {
@@ -3085,9 +3073,6 @@
   },
   {
     "factory": "лъэжьап1э; фабрикэ"
-  },
-  {
-    "steppe": "бгъодж"
   },
   {
     "pasture": "хъуп1э"
@@ -3789,7 +3774,7 @@
     "spoke": "куцэ; хъэгъэ маст; лъэпэд маст"
   },
   {
-    "word": "гущы1э; гуща1э (Shapsug)"
+    "word": "гущы1э; гуща1э (Shapsug); псалъэ"
   },
   {
     "woodpecker": "пхъэу1у"
@@ -4731,7 +4716,10 @@
     "to spread": "тифэхьын"
   },
   {
-    "to spill": "тек1эн (intensive); тек1утэн"
+    "to spill": "тек1эн (intensive); тек1утэн; хэпк1эн (to spill a liquid to another liquid)"
+  },
+  {
+    "to spill on": "тек1эн (intensive); тек1утэн; хэпк1эн (to spill a liquid to another liquid)"
   },
   {
     "to wrinkle": "ц1ыц1ын"
@@ -4806,10 +4794,10 @@
     "ruined": "унэхъугъэ; уагъэ"
   },
   {
-    "to shatter": "убэтэн"
+    "to shatter": "убэтэн; зэш1ок1ын"
   },
   {
-    "to snap": "зэпык1ын"
+    "to snap": "зэпык1ын; зэш1ок1ын"
   },
   {
     "to tear off": "хэтхъын / пытхъын (to tear off from); зэпытхъын (to tear off from itself)"
@@ -7125,7 +7113,7 @@
     "skin": "шъо; к1ышъо"
   },
   {
-    "crust": "к1ышъу"
+    "crust": "к1ышъо; ч1ышъор"
   },
   {
     "hair": "шъхьацы"
@@ -7485,7 +7473,7 @@
     "disobedient": "мыдэ1орэ"
   },
   {
-    "obscene": "емык1у зыхэлъ, ук1ытэныгъэ зыхэмылъ"
+    "obscene": "ш1ои; емык1у зыхэлъ, ук1ытэныгъэ зыхэмылъ"
   },
   {
     "twisted mouth": "жакъэ"
@@ -7629,7 +7617,7 @@
     "obscure": "гуры1огъуай"
   },
   {
-    "naive": "делэгъош1у"
+    "naive": "делэгъош1у (someone to fool easily)"
   },
   {
     "clear": "нафэ; ӏэш1эхэу къыбгуры1он; гуры1огъош1у"
@@ -7689,6 +7677,9 @@
     "phase": "теуцогъу"
   },
   {
+    "hybrid dog": "хьэпаный"
+  },
+  {
     "rank": "теуцогъу"
   },
   {
@@ -7710,94 +7701,100 @@
     "square": "пл1эмый; утыку (open area in a town or city); "
   },
   {
-    "Friday": "бэрэскэшху"
+    "Friday": "бэрэскэшху; бэрчэшху; бэрэскэф (Shapsug)"
   },
   {
-    "prayer (The act of praying)": "нэмазэ"
+    "prayer": "нэмазэ"
   },
   {
-    "sky": "ошъогу"
+    "sky": "уашъо; ошъогу"
   },
   {
     "zenith": "ошъогу"
   },
   {
-    "word": "псалъэ"
+    "uncle": "ятэш (Father's brother); янэш (Mother's brother)"
   },
   {
-    "uncle (Father's brother)": "ятэш"
+    "pain": "узы; узыныгъэ (feeling of pain)"
   },
   {
-    "uncle (Mother's brother)": "янэш"
+    "to feel pain": "узын; хэузык1ын (to feel pain in general)"
   },
   {
-    "pain": "узыныгъэ"
+    "to ache": "узын; хэузык1ын  (to feel pain in general)"
   },
   {
-    "to feel pain or to ache in a specific part of the body": "мэузын"
+    "to hurt": "гъэузын (to make someone else feel pain); хэгъэузык1ын; ыгу хэк1ын (to hurt emotionally); ыгу къегъэон (to hurt emotionally); у1эн (to wound)"
   },
   {
-    "to feel pain or to ache (In general)": "хэузык1ын"
+    "worm": "хьамлыу; хьаблыу (Shapsug)"
   },
   {
-    "alternative form of \"хэузык1ын\"": "хэузык1ьын"
+    "to be in debt": "ч1ыфэ ч1этын"
   },
   {
-    "to make someone feel pain or to hurt someone (in a specific part in his body)": "гъэузын"
+    "steppe": "бгъодж"
   },
   {
-    "worm": "хьэп1ац1э"
+    "to eat": "шхэн; шхын (to eat something); зыгъэшхэк1ын (to be full after eating); шӏошхын (to consume someone else's food); зэхэшхэхьан (to eat around)"
   },
   {
-    "woman": "ц1ыфыбз"
+    "poison": "щэнаут; уцыгъал1"
   },
   {
-    "man": "ц1ыфыхъу"
+    "to conjure": "ушхъухьан"
   },
   {
-    "Steppe bird": "шъофбзыу"
+    "to cast a spell": "ушхъухьан"
   },
   {
-    "alternative form of \"бэджыхъ\"": "бэгьэхъ"
+    "to charm": "ушхъухьан"
   },
   {
-    "to eat": "шхэн"
+    "to bewitch": "ушхъухьан"
   },
   {
-    "poison": "щэнаут"
+    to practise witchcraft": "ушхъухьан"
   },
   {
-    "alternative form of \"апэ\"": "япэ"
+    "hound": "шэк1уахь; хьэджашъу"
   },
   {
-    "hound": "шэк1уахь"
+    "greyhound dog": "шэк1уахь"
   },
   {
-    "hunting dog": "шэк1уахь"
+    "hunting dog": "шэк1уахь; хьэджашъу"
   },
   {
-    "hound": "хьэджашъу"
+    "to count": "пчъын / къэпчъын; лъытэн / къэлъытэн; хэпк1эн (in the sense of \"that also counts\""
   },
   {
-    "hunting dog": "хьэджашъу"
+    "to include": "хэгъэхьан; къыдиубытын; хэтын"
   },
   {
-    "to spill a liquid to another liquid.": "хэпк1эн"
+    "includes": "къыдеубыты"
   },
   {
-    "to count (to be included)": "хэпк1эн"
+    "to maintain": "хэгъэтын (to make it remian); 1ыгъэн (to maintain)"
   },
   {
-    "to become dirty": "мэуш1оин"
+    "to become dirty": "уш1оин"
   },
   {
-    "to get deleted": "мэуш1оин"
+    "to erase": "уш1оин (to be erase); гъэуш1оин (to erase); тегъэуш1ойк1ын (to erase from above)"
   },
   {
-    "dirty, unclean; covered with or containing unpleasant substances such as dirt or grime or mud.": "ш1ои"
+    "to delete": "уш1оин (to be deleted); гъэуш1оин (to delete); тегъэуш1ойк1ын (to delete from above)"
   },
   {
-    "dirty, Morally unclean; obscene or indecent, especially sexually.": "ш1ои"
+    "dirty": "ш1ои"
+  },
+  {
+    "unclean": "ш1ои"
+  },
+  {
+    "indecent": "ш1ои (morally dirty); емык1у зыхэлъ, губгъэн зыхэлъ"
   },
   {
     "crud": "ш1ои"
@@ -8247,15 +8244,6 @@
     "to swim": "есын"
   },
   {
-    "honey": "суэу"
-  },
-  {
-    "wife": "суыз"
-  },
-  {
-    "woman": "суыз"
-  },
-  {
     "hoar-frost": "сахъэ"
   },
   {
@@ -8314,9 +8302,6 @@
   },
   {
     "to knit": "хъэн"
-  },
-  {
-    "worm": "хьамлыу"
   },
   {
     "to scratch an itchy place": "ет1эхъун"
@@ -10053,6 +10038,15 @@
     "travel guide": "гъогурыгъуазэ"
   },
   {
+    "firmament": "ошъогу"
+  },
+  {
+    "atmosphere": "огу"
+  },
+  {
+    "space": "огу"
+  },
+  {
     "pants": "гъончэдж"
   },
   {
@@ -10443,7 +10437,7 @@
     "alternative form of \"фэлъэк1ын\"": "фэлъэк1ьын"
   },
   {
-    "to stop": "уцун"
+    "to stop": "къэуцун; къэгъэуцун; зэпыун; зэпыгъэун; зэтеуцон; зэтегъэуцон"
   },
   {
     "to standstill": "уцун"
@@ -10762,15 +10756,6 @@
   },
   {
     "pride": "шъхьэ1атынгъэ"
-  },
-  {
-    "To make something dirty.": "гъэуш1оин"
-  },
-  {
-    "to delete, to erase": "гъэуш1оин"
-  },
-  {
-    "To dirty.": "иуш1оин"
   },
   {
     "to crash, to drive off": "дэфэн"
@@ -11232,6 +11217,9 @@
     "sack": "къапщыкъ"
   },
   {
+    "to add": "хэхъон; хэгъэхъон; ехъун / къехъун; егъэхъун / къегъэхъун"
+  },
+  {
     "to cherish, to caress, to pamper": "гъэш1он"
   },
   {
@@ -11677,9 +11665,6 @@
   },
   {
     "to spill a liquid onto another liquid.": "хэпк1ьэн"
-  },
-  {
-    "to make someone feel pain or to hurt (In general)": "хэгъэузык1ын"
   },
   {
     "alternative form of \"хэгъэузык1ын\"": "хэгъэузык1ьын"
@@ -12721,9 +12706,6 @@
   },
   {
     "alternative form of \"ч1ылъэ\"": "ч1ылъ"
-  },
-  {
-    "land": "ч1ылъэ"
   },
   {
     "to fall on the ground": "ч1элъэтык1ьын"
@@ -17055,10 +17037,13 @@
     "to stop, to end": "зэпыун"
   },
   {
-    "(temporarily) to halt, to come to a halt, to pause": "зэпыун"
+    "to halt": "къэуцун; къэгъэуцун; зэпыун; зэпыгъэун; зэтеуцон; зэтегъэуцон"
   },
   {
-    "(temporarily) to halt, to come to a halt, to pause": "зэтеуцон"
+    "to pause": "къэуцун; къэгъэуцун; зэпыун; зэпыгъэун; зэтеуцон; зэтегъэуцон"
+  },
+  {
+    "to come to a halt": "къэуцун; зэпыун; зэтеуцон"
   },
   {
     "to stand on each other": "зэтеуцон"
