@@ -882,9 +882,6 @@
     "man": "хъулъфыгъэ; л1ы"
   },
   {
-    "male": "хъу"
-  },
-  {
     "female": "бзы"
   },
   {
@@ -1863,7 +1860,7 @@
     "thief": "тыгъуак1о"
   },
   {
-    "lie": "пц1ы"
+    "lie": "пц1ы; нэпц1ы"
   },
   {
     "swing": "кьэрхъон (Shapsug); хъэрен"
@@ -2070,10 +2067,13 @@
     "late": "к1асэ; лъэжъуагъ"
   },
   {
-    "right": "джабгъо (direction); тэрэз (correct)"
+    "right": "джабгъо (direction); тэрэз (correct); фит (right by law)"
   },
   {
     "left": "сэмэгу"
+  },
+  {
+    "to have the right to": "фитын"
   },
   {
     "pocket": "джыбэ"
@@ -3211,9 +3211,6 @@
   },
   {
     "two-shutter door": "бгъуит1у1у"
-  },
-  {
-    "crooked": "1онт1агъэ, къуащэ; бгъундж"
   },
   {
     "hay": "мэкъу"
@@ -7206,10 +7203,7 @@
     "to dance": "къэшъон; къеш1эн; уджын"
   },
   {
-    "to tie": "пхын (to tie); егъэпхын (to tie to something); зэк1оц1ыпхэн (to tie together), зэтепхэн (to tie one to the other), зэкъодзэн (to tie up, to fasten)"
-  },
-  {
-    "to tie up": "пхых; зэкъодзэн"
+    "to tie": "пхын (to tie); пыпхэн (to tie something to); егъэпхын (to tie something to something); зэк1оц1ыпхэн (to tie together), зэтепхэн (to tie one to the other), зэкъодзэн (to tie up, to fasten)"
   },
   {
     "to chain": "пыш1эн"
@@ -7671,6 +7665,12 @@
     "hybrid dog": "хьэпаный"
   },
   {
+    "evident": "къэлъагъо"
+  },
+  {
+    "it is evident": "къэлъагъо"
+  },
+  {
     "rank": "теуцогъу"
   },
   {
@@ -8046,55 +8046,37 @@
     "to calculate": "пчъын"
   },
   {
-    "to enumerate, to list (to specify each member of a sequence individually in incrementing order)": "пчъын"
+    "to list": "пчъын; лъытэн"
   },
   {
-    "right (the opposite of left)": "джабгъо"
+    "to enumerate": "пчъын"
   },
   {
-    "to hold": "1ыгъэн"
+    "to thunder": "гъогъон"
   },
   {
-    "burrow": "гъу"
-  },
-  {
-    "to thunder (to make a noise like thunder)": "гъогъон"
-  },
-  {
-    "to rattle (to make a rattling noise)": "гъогъон"
-  },
-  {
-    "(Kfar Kama dialect) to bark": "гъогъон"
-  },
-  {
-    "thick": "гъумы"
+    "thick": "пщэры, 1ужъу; гъумы"
   },
   {
     "pregnant": "гъумы"
   },
   {
-    "to be dehydrate; to dry out": "гъун"
+    "to be dehydrate": "гъун"
+  },
+  {
+    "to dry out": "гъун"
   },
   {
     "wheat": "коцы"
   },
   {
-    "pitchfork, hayfork": "куахъо"
+    "pitchfork": "куахъо"
   },
   {
-    "winnow": "куахъо"
-  },
-  {
-    "alternative form of \"мэчэрэзын\"": "мэкьэрэзын"
-  },
-  {
-    "short": "к1ак1ы"
+    "hayfork": "куахъо"
   },
   {
     "shin": "лъэк1ап1э"
-  },
-  {
-    "alternative form of \"ук1ын\"": "ук1ьын"
   },
   {
     "to fall, to roll down": "ук1орэин"
@@ -8157,10 +8139,13 @@
     "to exchange": "хъожьын"
   },
   {
-    "male": "хъу"
+    "itch": "хъу; хъун (to itch); хъупц1"
   },
   {
-    "itch": "хъу"
+    "to itch": "хъун; хъупц1ын"
+  },
+  {
+    "to feel itch": "хъун; хъупц1ын"
   },
   {
     "full": "изы"
@@ -8169,85 +8154,136 @@
     "drink": "шъоны"
   },
   {
-    "star": "зуагъуэ"
+    "to pinch": "еп1эск1ун"
   },
   {
-    "to talk": "псэлъэн"
+    "to poke": "ет1ыргун"
   },
   {
-    "spouse, marriage partner": "шъхьэгъусэ"
+    "marriage partner": "шъхьэгъусэ"
   },
   {
-    "(dated) wife": "шъхьэгъусэ"
+    "to be defeated": "къагъэмартын; къытек1оных; пщэн (Shapsug)"
   },
   {
-    "to be defeated": "мэпщэн"
+    "to defeat": "гъэмартын; тек1он; гъэпщэн (Shapsug))"
   },
   {
-    "to win against": "гъэпщэн"
+    "to beat": "гъэмартын (to win); тек1он (to overcome); гъэпщэн (Shapsug); пызэохьан (to beat physically); хэохьан (to beat with fists); хэшъутырэхьан (to beat with kicks); пэлъэшын (to overpower); (vulgar) шъутыкӏэ гъэк1он"
+  },
+  {
+    "to win": "хьын; гъэмартын (to win against); тек1он (to overcome); гъэпщэн (Shapsug)"
   },
   {
     "to extend unexpectedly": "пхъон"
   },
   {
-    "fish": "пцэ"
-  },
-  {
-    "lie": "пс1ы"
+    "to lie": "пц1ын; пц1ы усын; пс1ын (Shapsug)"
   },
   {
     "crane": "къарэу"
   },
   {
-    "to lift, to raise": "1этын"
+    "dominion": "тетыгъо"
   },
   {
-    "(Kfar Kama dialect slang vulgar) to have sexual intercourse; to fuck": "1этын"
+    "supremacy": "тетыгъо"
+  },
+  {
+    "rule": "тетыгъо (dominion)"
+  },
+  {
+    "term": "тетыгъо (goverment)"
+  },
+  {
+    "matriarchy": "ным итетыгъо"
+  },
+  {
+    "patriarchy": "тым итетыгъо"
+  },
+  {
+    "to fuck": "(vulgar) п1ысын; (vulgar, slang) 1этын; (vulgar, slang) дэгъэнэн; (vulgar, slang) ш1огъэнэн"
+  },
+  {
+    "fucking": "(vulgar) п1ысыгъэжъ"
+  },
+  {
+    "fucked": "(vulgar) п1ысыгъэжъ"
+  },
+  {
+    "fucker": "(vulgar) п1ысыгъэжъ"
+  },
+  {
+    "to have sex": "дэгъолъын; бгъодэхьан; ек1ол1эн; гогъолъхьан; бгъодэгъолъхьан; гъэшъузын"
+  },
+  {
+    "to intercourse": "дэгъолъын; бгъодэхьан; ек1ол1эн; гогъолъхьан; бгъодэгъолъхьан; гъэшъузын"
+  },
+  {
+    "to have intercourse": "дэгъолъын; бгъодэхьан; ек1ол1эн; гогъолъхьан; бгъодэгъолъхьан; гъэшъузын"
+  },
+  {
+    "to have sexual relations": "дэгъолъын; бгъодэхьан; ек1ол1эн; гогъолъхьан; бгъодэгъолъхьан; гъэшъузын"
+  },
+  {
+    "to sleep with": "дэчъыен; дэгъолъын (sex); гогъолъхьан (sex); бгъодэгъолъхьан"
+  },
+  {
+    "to copulate": "дэгъолъын; бгъодэхьан; ек1ол1эн; гогъолъхьан; бгъодэгъолъхьан"
+  },
+  {
+    "to have": "и1эн"
+  },
+  {
+    "to moo": "быун"
   },
   {
     "to bark": "хьакъун"
   },
   {
-    "to howl": "пц1эун"
+    "to squeal": "пц1эун"
   },
   {
-    "to bite": "цэкъэн"
+    "to meow": "пц1эун"
   },
   {
-    "long": "к1ыхьэ"
+    "to mew": "пц1эун"
   },
   {
-    "tall": "к1ыхьэ"
+    "to bite": "цэкъэн; хэцэкъэн (to bite something)"
   },
   {
-    "to say something": "1он"
+    "long": "к1ыхьэ; (dialectal) к1ахьы"
   },
   {
-    "to say something to someone": "1он"
+    "tall": "к1ыхьэ; (dialectal) к1ахьы"
   },
   {
-    "to attempt, to try": "1он"
+    "to say": "1он"
   },
   {
-    "sweet": "1эф1"
+    "to attempt to": "1он"
   },
   {
-    "tasty": "1эф1"
+    "to try": "1он"
   },
   {
     "lurch": "къуащэ"
   },
   {
+    "wrongly": "къуанчэу; 1онт1агъэу; 1орт1агъэу (Shapsug); мытэрэзэу; хэукъоныгъэу"
+  },
+  {
+    "incorrectly": "къуанчэу; мытэрэзэу; хэукъоныгъэу"
+  },
+  {
     "to swim": "есын"
   },
   {
-    "hoar-frost": "сахъэ"
+    "hoar-frost": "сэхъ; чъэп"
   },
   {
     "gooseberry": "щхъырыб"
-  },
-  {
-    "wound": "тыркъо"
   },
   {
     "scar": "тыркъо"
@@ -8256,34 +8292,49 @@
     "stump": "такъэ"
   },
   {
-    "block": "такъэ"
+    "blockhead": "такъэ"
   },
   {
-    "gray hair; dun": "тхъо"
+    "to burn slightly": "лыц1эн"
   },
   {
-    "beech": "тфэи"
+    "crispy": "лыц1агъэ"
   },
   {
-    "to clean (out, up)": "тхъун"
+    "gray hair": "тхъо"
   },
   {
-    "to shovel out, to rake out, to remove by shoveling or raking": "тхъун"
+    "dun": "тхъо"
   },
   {
-    "eagle-owl": "тыгъурыгъу"
+    "hornbeam": "тфэи"
   },
   {
-    "to dig": "т1ын"
+    "to shovel out": "тхъун; ытхъун"
   },
   {
-    "weasel": "ужы"
+    "to rake out": "тхъун; ытхъун"
   },
   {
-    "track": "ужы"
+    "owl": "тыгъурыгъу"
   },
   {
-    "footprint, footstep": "ужы"
+    "to dig": "т1ын; тхъун (to shovel out)"
+  },
+  {
+    "related to": "теуфагъэу; ехьыл1агъэу; егъэпхыгъэу"
+  },
+  {
+    "track": "ужы; лъэуж"
+  },
+  {
+    "trace": "ужы; лъэуж"
+  },
+  {
+    "footprint": "ужы; лъэуж"
+  },
+  {
+    "footstep": "ужы; лъэуж"
   },
   {
     "empty": "нэк1ы"
@@ -8295,25 +8346,25 @@
     "to buy": "щэфын"
   },
   {
-    "to tie up, to bind": "хъэн"
+    "to tie up": "пхын; зэкъодзэн; хъэн"
+  },
+  {
+    "to bind": "зэкъодзэн; хъэн"
   },
   {
     "to knit": "хъэн"
   },
   {
-    "to scratch an itchy place": "ет1эхъун"
+    "to scratch an itch": "ет1эхъун"
   },
   {
-    "(slang) sexy (Of a person, very physically or sexually attractive)": "шъутыжъ"
+    "sexy": "дэхэжъ; (slightly vulgar) шъутыжъ"
   },
   {
-    "stew": "дыщыпс"
+    "to wash": "гык1эн; гык1ын"
   },
   {
-    "to wash (wash clothes), to launder": "гык1эн"
-  },
-  {
-    "to wash (wash clothes), to launder": "гык1ын"
+    "to launder": "гык1эн; гык1ын"
   },
   {
     "short": "к1ако"
@@ -8344,9 +8395,6 @@
   },
   {
     "inclined": "къонц1эу"
-  },
-  {
-    "crooked": "къонц1эу"
   },
   {
     "burned (usually food)": "стыр"
@@ -8541,7 +8589,7 @@
     "to sweep": "пхъэнк1эн; пхъэнк1ын; жэхэпхъэнк1эн (to sweet stuff into someone); пхъэк1эн (Shapsug)"
   },
   {
-    "to scratch": "ц1энтхъун (to leave a scratch); п1эстхъэн (to be scratching); еп1эстхъын (to scratch someone); ц1этхъун (Shapsug); п1эсхъэн (Shapsug); жэхэтхъон (to scratch someone's face)"
+    "to scratch": "ц1энтхъун (to leave a scratch); п1эстхъэн (to be scratching); еп1эстхъын (to scratch someone); ц1этхъун (Shapsug); п1эсхъэн (Shapsug); жэхэтхъон (to scratch someone's face); ет1эхъун (to scratch an itch); зэт1эхъун (to scratch oneself due to itchiness)"
   },
   {
     "to scrape": "ц1энтхъун"
@@ -8574,10 +8622,10 @@
     "to curve": "1онт1эн (to be curved); гъэ1онт1эн (to curve something); гъэ1орт1эн (Shapsug)"
   },
   { 
-    "crooked": "1онт1агъ"
+    "crooked": "1онт1агъ; 1орт1агъ (Shapsug); къуащэ; лъэныкъуащ"
   },
   {
-    "curved": "1онт1агъ"
+    "curved": "1онт1агъ; 1орт1агъ (Shapsug); къуащэ"
   },
   {
     "foolish": "делэ; жэ1улэл; (vulgar) цуманэ"
@@ -9646,9 +9694,6 @@
   },
   {
     "to like": "к1эсэн"
-  },
-  {
-    "to have": "и1эн"
   },
   {
     "nice": "нэгуш1у"
@@ -12606,9 +12651,6 @@
     "to fall on the ground": "ч1элъэтык1ьын"
   },
   {
-    "to get a scratch": "мэц1этхъун"
-  },
-  {
     "alternative form of \"ц1этхъун\"": "ец1этхъун"
   },
   {
@@ -13002,7 +13044,7 @@
     "cry noise": "гъымакъэ"
   },
   {
-    "to talk": "гущы1эн"
+    "to talk": "гущы1эн; псэлъэн"
   },
   {
     "alternative form of \"нэш1ош1\"": "нэш1ош1у"
@@ -13285,9 +13327,6 @@
   },
   {
     "to become, to turn to": "хъун"
-  },
-  {
-    "to feel itchy": "хъун"
   },
   {
     "alternative form of \"къыин\"": "къэкъыин"
@@ -14476,9 +14515,6 @@
   },
   {
     "to relate to": "егъэпхын"
-  },
-  {
-    "to tie to": "егъэпхын"
   },
   {
     "to make someone depends on": "егъэпхын"
@@ -16605,9 +16641,6 @@
     "hanger": "пылъалъэ"
   },
   {
-    "to beat/defeat": "гъэмартын"
-  },
-  {
     "to encircle": "ш1ыхьан"
   },
   {
@@ -18306,7 +18339,7 @@
     "ray, beam": "нэбзый"
   },
   {
-    "crookedly": "къуащэу"
+    "crookedly": "къуащэу; 1онт1агъэу; 1орт1агъэу (Shapsug); къонц1эу; лъэныкъуащэу"
   },
   {
     "awry": "къуащэу"
@@ -18708,9 +18741,6 @@
     "stuck together (ropes or shoe laces)": "зэкъолъэдагъ"
   },
   {
-    "to tie, to bind": "зэкъодзэн"
-  },
-  {
     "to manufacture, to produce": "зэкъодзэн"
   },
   {
@@ -18754,9 +18784,6 @@
   },
   {
     "to feast upon": "пышхэхьан"
-  },
-  {
-    "to scratch oneself (due to itchiness)": "зэт1эхъун"
   },
   {
     "to stand a witness to": "шыхьатэу теуцон"
@@ -19570,9 +19597,6 @@
   },
   {
     "alternative form of \"зэт1эхъун\"": "зэт1эхъужьын"
-  },
-  {
-    "to feel itchy": "хъупц1ын"
   },
   {
     "scabies, skin itch": "шъохъу-т1ыхъу"

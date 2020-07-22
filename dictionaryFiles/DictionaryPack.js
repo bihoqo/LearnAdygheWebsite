@@ -27235,9 +27235,6 @@
         ]
       }
     ],
-    "synonyms": [
-      "зуагъуэ"
-    ],
     "cognate": "вагъуэ",
     "type": "noun",
     "ipa": "ʒʷaːʁʷa"
@@ -34670,10 +34667,6 @@
         "examples": []
       },
       {
-        "meaning": "to rattle (to make a rattling noise)",
-        "examples": []
-      },
-      {
         "meaning": "(Kfar Kama dialect) to bark",
         "examples": [
           {
@@ -34775,10 +34768,6 @@
       {
         "meaning": "pitchfork, hayfork",
         "examples": []
-      },
-      {
-        "meaning": "winnow",
-        "examples": []
       }
     ],
     "cognate": "гуахъуэ",
@@ -34800,22 +34789,6 @@
     "cognate": "мэджэрэзын",
     "type": "verb",
     "ipa": "makʲarazən"
-  },
-  {
-    "word": "к1ак1ы",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "short",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "кьак1ы",
-      "----"
-    ],
-    "type": "adj",
-    "ipa": "t͡ʃaːt͡ʃə"
   },
   {
     "word": "лъэк1ап1э",
@@ -35233,22 +35206,6 @@
     "ipa": "ʃʷanə"
   },
   {
-    "word": "зуагъуэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "star",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "жъуагъо"
-    ],
-    "cognate": "вагъуэ",
-    "type": "noun",
-    "ipa": "zʷaːʁʷa"
-  },
-  {
     "word": "псэлъэн",
     "lang": "Adyghe",
     "definitions": [
@@ -35325,7 +35282,7 @@
     "ipa": "ʂħaʁʷəsa"
   },
   {
-    "word": "мэпщэн",
+    "word": "пщэн",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -35343,7 +35300,7 @@
       }
     ],
     "type": "verb",
-    "ipa": "mapɕan"
+    "ipa": "pɕan"
   },
   {
     "word": "гъэпщэн",
@@ -35475,7 +35432,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to howl",
+        "meaning": "to squeal (to scream a high-pitched squeal)",
+        "examples": []
+      },
+	  {
+        "meaning": "to meow, to mew",
         "examples": []
       }
     ],
@@ -35552,25 +35513,6 @@
     "ipa": "ʔʷan"
   },
   {
-    "word": "1эф1",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "sweet",
-        "examples": []
-      },
-      {
-        "meaning": "tasty",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "1эш1у"
-    ],
-    "type": "adj",
-    "ipa": "ʔafʼə"
-  },
-  {
     "word": "къуащэ",
     "lang": "Adyghe",
     "definitions": [
@@ -35581,6 +35523,27 @@
     ],
     "type": "noun",
     "ipa": "qʷaːɕa"
+  },
+  {
+    "word": "къуанчэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "incorrectly, wrongly",
+        "examples": [
+          {
+            "sentence": "Ар '''къуанчэу''' зек1уагъэ",
+            "translation": "(S)he behaved '''wrongly'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "crooked",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "qʷaːnt͡ʃa"
   },
   {
     "word": "есын",
@@ -35600,16 +35563,36 @@
     "ipa": "jasən"
   },
   {
-    "word": "сахъэ",
+    "word": "сэхъ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "hoar-frost",
         "examples": []
+      },
+	  {
+        "meaning": "rime",
+        "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "saːχa"
+    "ipa": "saχa"
+  },
+  {
+    "word": "чъэп",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "hoar-frost",
+        "examples": []
+      },
+	  {
+        "meaning": "rime",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʂap"
   },
   {
     "word": "щхъырыб",
@@ -35628,10 +35611,6 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "wound",
-        "examples": []
-      },
-      {
         "meaning": "scar",
         "examples": []
       }
@@ -35649,7 +35628,7 @@
         "examples": []
       },
       {
-        "meaning": "block",
+        "meaning": "blockhead",
         "examples": []
       }
     ],
@@ -35674,7 +35653,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "beech",
+        "meaning": "hornbeam",
         "examples": []
       }
     ],
@@ -35712,7 +35691,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "eagle-owl",
+        "meaning": "owl",
         "examples": []
       }
     ],
@@ -35745,11 +35724,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "weasel",
-        "examples": []
-      },
-      {
-        "meaning": "track",
+        "meaning": "track; trace; a mark left by something that has passed along",
         "examples": [
           {
             "sentence": "тыгъужъым ужхэр",
@@ -35763,8 +35738,7 @@
       }
     ],
     "synonyms": [
-      "лъэуж",
-      "----"
+      "лъэуж"
     ],
     "cognate": "ужьэ",
     "type": "noun",
@@ -35907,17 +35881,6 @@
     "type": "adj",
     "ipa": "ʃʷətəʐ"
   },
-  {
-    "word": "дыщыпс",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "stew",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "dəɕəps"
   },
   {
     "word": "гык1эн",
@@ -48928,7 +48891,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to get lost, to go away and disappear (to beat it, to fuck off, to piss off, to bugger off) (Used to tell somebody to go away)",
+        "meaning": "to get lost, to go away and disappear (to beat it, to piss off, to bugger off) (Used to tell somebody to go away)",
         "examples": [
           {
             "sentence": "'''Зегъэхь''' о чыжьэу",
@@ -56371,6 +56334,15 @@
             "translation": "The donkey '''can carry''' a lot."
           }
         ]
+      },
+	  {
+        "meaning": "to win",
+        "examples": [
+          {
+            "sentence": "Зэпачъэ '''сыхьыгъ'''",
+            "translation": "'''I won''' the race."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -58662,7 +58634,7 @@
         ]
       },
       {
-        "meaning": "to be allowed; to",
+        "meaning": "to have the right to",
         "examples": [
           {
             "sentence": "Сэ сыкъызык1эмык1уагъэр '''сыфитыгъэпышъ''' ары.",
@@ -58694,6 +58666,18 @@
     "cognate": "нэху",
     "type": "noun",
     "ipa": "nafə"
+  },
+  {
+    "word": "фит",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "the right to; the freedom to",
+        "examples": []
+      }
+    ],
+    "type": "adv",
+    "ipa": "fəjt"
   },
   {
     "word": "тхылъыщэ",
@@ -69181,6 +69165,99 @@
     "ipa": "ʁawsəhan"
   },
   {
+    "word": "ехьыл1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to bring something to; to carry something to",
+        "examples": [
+          {
+            "sentence": "Мэщытым нэмазэхэр '''къырахьыл1эх'''",
+            "translation": "'''They bring''' prayers to the mosque."
+          },
+          {
+            "sentence": "Хьак1эм уз къырихьыл1агъ",
+            "translation": "The guest '''brought''' a disease."
+          }
+        ]
+      },
+	  {
+        "meaning": "to put an effort into",
+        "examples": [
+          {
+            "sentence": "Л1ым адыгабзэм 1офы рихьыл1агъ",
+            "translation": "The man has '''put an effort into''' the Adyghe language."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "jaħəɬʼan"
+  },
+  {
+    "word": "ехьыл1агъэу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "related to",
+        "examples": [
+          {
+            "sentence": "К1алэм еджэным ''''ехьыл1агъэу''' къэбар къе1уатэ",
+            "translation": "The boy talks about things '''related to''' studying."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "теуфагъэу",
+      "егъэпхыгъэу"
+    ],
+    "type": "adv",
+    "ipa": "jaħəɬʼaːʁaw"
+  },
+  {
+    "word": "егъэпхыгъэу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "related to",
+        "examples": [
+          {
+            "sentence": "К1алэм еджэным ''''егъэпхыгъэу''' къэбар къе1уатэ",
+            "translation": "The boy talks about things '''related to''' studying."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "теуфагъэу",
+      "ехьыл1агъэу"
+    ],
+    "type": "adv",
+    "ipa": "jaʁapxəʁaw"
+  },
+  {
+    "word": "теуфагъэу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "related to",
+        "examples": [
+          {
+            "sentence": "К1алэм еджэным ''''теуфагъэу''' къэбар къе1уатэ",
+            "translation": "The boy talks about things '''related to''' studying."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "ехьыл1агъэу",
+      "егъэпхыгъэу"
+    ],
+    "type": "adv",
+    "ipa": "tajfaːʁaw"
+  },
+  {
     "word": "зэрихьэн",
     "lang": "Adyghe",
     "definitions": [
@@ -70042,6 +70119,18 @@
     ],
     "type": "verb",
     "ipa": "tajkʷʼan"
+  },
+  {
+    "word": "пэлъэшын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to overpower",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "paɬaʃən"
   },
   {
     "word": "фэл1эн",
@@ -72897,15 +72986,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to exceed in what oneself is doing",
+        "meaning": "to exceed in what one is doing; to be absolutely dominating in what one is doing; to perform extremely well",
         "examples": [
           {
             "sentence": "К1алэм '''ыгъэбэдзэжьыгъ''' и экзамынымхэмк1э",
-            "translation": "The boy '''exceeded''' with his exams."
+            "translation": "The boy '''killed it''' with his exams."
           },
           {
             "sentence": "К1алэм и джанэк1э '''ыгъэбэдзэжьэу''' чэщдэсым къэк1уагъ",
-            "translation": "The boy came to the party '''exceeding''' with his shirt."
+            "translation": "The boy came to the party '''killing it''' with his shirt."
           }
         ]
       }
@@ -72924,6 +73013,50 @@
     ],
     "type": "noun",
     "ipa": "mazaːʁʷa"
+  },
+  {
+    "word": "тетыгъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "supremacy",
+        "examples": []
+      },
+	  {
+        "meaning": "rule; dominion",
+        "examples": []
+      },
+	  {
+        "meaning": "term (goverment)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "tajtəʁʷa"
+  },
+  {
+    "word": "ным итетыгъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "matriarchy",
+        "examples": []
+      },
+    ],
+    "type": "noun",
+    "ipa": "nəm jətajtəʁʷa"
+  },
+  {
+    "word": "тым итетыгъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "patriarchy",
+        "examples": []
+      },
+    ],
+    "type": "noun",
+    "ipa": "təm jətajtəʁʷa"
   },
   {
     "word": "шъао",
@@ -75142,6 +75275,58 @@
     ],
     "type": "verb",
     "ipa": "jastəɬʼan"
+  },
+  {
+    "word": "к1эрыстыхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to stick to the (hot) surface as a result of burning",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "t͡ʃʼarəstəħaːn"
+  },
+  {
+    "word": "к1эрыстыхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to stick to the (hot) surface as a result of burning",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "t͡ʃʼarəstəħaːn"
+  },
+  {
+    "word": "лыц1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to burn slightly",
+        "examples": []
+      },
+	  {
+        "meaning": "to crisp",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɮət͡sʼan"
+  },
+  {
+    "word": "лыц1агъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "crispy",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɮət͡sʼan"
   },
   {
     "word": "пшэсэн",
@@ -77602,7 +77787,7 @@
             "translation": "Wooden wedge."
           },
           {
-            "sentence": "ГъучI хьал",
+            "sentence": "Гъуч1 хьал",
             "translation": "Iron wedge."
           }
         ]
@@ -88571,7 +88756,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "track",
+        "meaning": "track; trace; a mark left by something that has passed along",
         "examples": [
           {
             "sentence": "тыгъужъым илъэужхэр",
@@ -88589,6 +88774,81 @@
     ],
     "type": "verb",
     "ipa": "ɬawəʒ"
+  },
+  {
+    "word": "къэумэзэхын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to darken; to get dark",
+        "examples": [
+          {
+            "sentence": "'''Къэумэзэхыгъ'''",
+            "translation": "'''It got dark'''"
+          }, 
+		  {
+            "sentence": "'''Къэумэзэхымэ''' тыдэк1ыщт",
+            "translation": "We will go out when '''it gets dark'''"
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "qamazaxan"
+  },
+  {
+    "word": "къэуш1унк1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to darken; to become dark",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "qawʃʷʼənt͡ʃʼən"
+  },
+  {
+    "word": "къещэл1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to bring closer",
+        "examples": []
+      },
+	  {
+        "meaning": "to close something almost entirely but keeping a small opening",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "qajʃaɬʼan"
+  },
+  {
+    "word": "ещэл1эн",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "to close something almost entirely but keeping a small opening",
+        "examples": [
+          {
+            "sentence": "пчъэр '''ещэл1эн'''",
+            "translation": "'''To close''' the door."
+          }
+        ]
+      },
+	  {
+        "meaning": "to give a lift (in a vehicle)",
+        "examples": [
+          {
+            "sentence": "1офш1ап1эм '''ещэл1эн'''",
+            "translation": "'''To give a lift''' to work."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "qajʃaɬʼan"
   },
   {
     "word": "щэмбар",
@@ -89808,7 +90068,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "crooked, curved, wry, bent",
+        "meaning": "crooked, curved",
         "examples": []
       }
     ],
@@ -93014,20 +93274,20 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to stand near/by",
+        "meaning": "to stand by",
         "examples": [
           {
             "sentence": "Пкъэум еуц1ол1эн",
-            "translation": "'''To stand near''' the pillar."
+            "translation": "'''To stand by''' the pillar."
           }
         ]
       },
       {
-        "meaning": "to come to terms with; to put up with something",
+        "meaning": "to come to terms with; to be convinced of",
         "examples": [
           {
-            "sentence": "Л1ыхэр 1офым '''къытегущы1эхэу''' зэхэсыхыгъ",
-            "translation": "I heard the men '''talk about''' the job."
+            "sentence": "хъугъэм '''еуцол1эн'''",
+            "translation": "'''To come to terms with''' what has happened."
           }
         ]
       }
@@ -95810,6 +96070,30 @@
     ],
     "type": "verb",
     "ipa": "zatʼaχʷəʑən"
+  },
+  {
+    "word": "еп1эск1ун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to pinch (with fingers or a beak)",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "japʼaskʷʼən"
+  },
+  {
+    "word": "ет1ыргун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to poke",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "jatʼərgʷən"
   },
   {
     "word": "хъупц1ын",
