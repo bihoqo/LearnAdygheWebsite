@@ -21560,7 +21560,7 @@
       }
     ],
     "type": "noun",
-    "ipa": "t͡ʃaʁʷ"
+    "ipa": "pt͡ʃaʁʷ"
   },
   {
     "word": "нэмыплъ",
@@ -38656,7 +38656,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "weak, poor (Of low quality)",
+        "meaning": "weak, poor (of low quality)",
         "examples": [
           {
             "sentence": "синэхэ '''ерагъэх'''",
@@ -38679,6 +38679,10 @@
             "translation": "This car is '''poor'''."
           }
         ]
+      },
+	  {
+        "meaning": "barely",
+        "examples": []
       }
     ],
     "type": "adj",
@@ -39323,7 +39327,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Flower tea",
+        "meaning": "wild tea",
         "examples": []
       },
       {
@@ -39365,18 +39369,6 @@
     ],
     "type": "noun",
     "ipa": "daːpʼa"
-  },
-  {
-    "word": "пхъэк1эн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "checkers",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "pχat͡ʃan"
   },
   {
     "word": "дамп1",
@@ -39462,34 +39454,6 @@
     "ipa": "daːwəʃ"
   },
   {
-    "word": "дасэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "creeping",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "daːsa"
-  },
-  {
-    "word": "даш1э",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "sympathy,",
-        "examples": []
-      },
-      {
-        "meaning": "Conjunctive letter (grammar)",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "daːʃʼa"
-  },
-  {
     "word": "де1эн",
     "lang": "Adyghe",
     "definitions": [
@@ -39536,16 +39500,28 @@
     "ipa": "dajʔan"
   },
   {
-    "word": "дегъэбзыхык1эн",
+    "word": "дэгъэбзыхык1эн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to exterminate, to hide completely,",
+        "meaning": "to hide completely,",
         "examples": []
       }
     ],
     "type": "verb",
-    "ipa": "ʁapsən"
+    "ipa": "daʁabzəxət͡ʃʼan"
+  },
+  {
+    "word": "дэбзыхык1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to suddenly disappear completely,",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "dabzəxət͡ʃʼan"
   },
   {
     "word": "гъотын",
@@ -59017,7 +58993,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to stumble (over)",
+        "meaning": "to stumble (over); to trip (over)",
         "examples": [
           {
             "sentence": "Джэгуалъэхэмэ зыгорэ '''ялъэпэощт'''",

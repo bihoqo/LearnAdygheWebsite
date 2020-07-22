@@ -1017,10 +1017,7 @@
     "decade": "илъэсипш1"
   },
   {
-    "to jump": "пк1эн"
-  },
-  {
-    "to pave": "пк1эн"
+    "to jump": "пк1эн; дэпк1эен; лъэн"
   },
   {
     "thank you": "тхьауегъэпсэу"
@@ -1731,7 +1728,7 @@
     "to fall on": "тефэн (the impact caused by hitting something from the fall); тебэджэн (to fall on by slipping); тет1эрэн (to drop on)"
   },
   {
-    "to fall": "ебэджын (to fall on the ground); тебэджэн (to fall on something by slipping); ефэхын / къефэхын (to fall downward); едзыхын / къедзыхын (to fall downward); ет1эрэхын / къет1эрэхын (to drop downward); тет1эрын (to drop from); зэтефэн (to drop on each other); зэхэфэн (to drop into each other)"
+    "to fall": "ебэджын (to fall on the ground); тебэджэн (to fall on something by slipping); ефэхын / къефэхын (to fall downward); едзыхын / къедзыхын (to fall downward); ет1эрэхын / къет1эрэхын (to drop downward); тет1эрын (to drop from); зэтефэн (to drop on each other); зэхэфэн (to drop into each other); ук1орэин"
   },
   {
     "to drop": "къетк1ухын (to drip from); 1эк1эзын (to let go, to let slip); 1эпызын (to drop unintentionally); 1эпэт1эрын (to let slip unintentionally); къытезын (to drop from); къыпызын (to drop off a tree), къыпытэкъун (to drop from the tree around it); зэтефэн (to drop on each other); зэхэфэн (to drop into each other)"
@@ -8025,7 +8022,7 @@
     "to divorce from": "пык1ыжьын"
   },
   {
-    "to name": "ц1э фэусын (to give a name to); иунашъо ш1ын (to mention)"
+    "to name": "ц1э усын; ц1э фэусын (to give a name to); иунашъо ш1ын (to mention)"
   },
   {
     "to read": "еджэн (to be reading); джын (to complete reading); хэджэхьан (to read through)"
@@ -8079,13 +8076,7 @@
     "shin": "лъэк1ап1э"
   },
   {
-    "to fall, to roll down": "ук1орэин"
-  },
-  {
     "to jump": "лъэн"
-  },
-  {
-    "leg": "лъэ"
   },
   {
     "rivulet": "лъэхьэ"
@@ -8892,25 +8883,19 @@
     "to get lost (in an area)": "хэк1одэхьын"
   },
   {
-    "to sew": "дэон"
+    "even if that": "арми"
+  }
+  {
+    "even if so": "арми"
   },
   {
-    "even if that, even if so": "арми"
+    "to ask around": "к1эупк1эн"
   },
   {
-    "to ask": "к1эупк1эн"
+    "to compose": "орэд усын"
   },
   {
-    "to name (someone)": "усын"
-  },
-  {
-    "to compose": "усын"
-  },
-  {
-    "alternative form of \"гу тепсэфэн\"": "гу тэпсэфэн"
-  },
-  {
-    "weak, poor (Of low quality)": "ерагъ"
+    "barely": "ерагъэу; л1ыгъэк1э"
   },
   {
     "to lie down": "гъолъын"
@@ -8919,25 +8904,46 @@
     "aggressor": "техак1у"
   },
   {
-    "to adorn, to decorate": "гъэк1эрэк1эн"
+    "to adorn": "гъэк1эрэк1эн"
+  },
+  {
+    "to decorate": "гъэк1эрэк1эн"
   },
   {
     "chestnut": "шхъомч"
   },
   {
-    "edible": "ашхырэ"
+    "edible": "шхышъун; ашхырэ"
   },
   {
     "fearless": "щынэ зымыш1эрэ"
   },
   {
-    "to fear, to be afraid": "щынэн"
+    "to fear": "щынэн; щтэн; щыщынэн (to fear someone); щыщтэн (to fear someone)"
   },
   {
-    "to fear, to get afraid": "щтэн"
+    "to be afraid": "щынэн; щтэн; щыщынэн (to be afraid of); щыщтэн (to be afraid of)"
   },
   {
-    "to be frightened (of), to be startled (of), to take fright (at); to shy (at)": "щтэн"
+    "to be frightened": "щынэн; щтэн; щыщынэн (to be frightened of); щыщтэн (to be frightened of)"
+  },
+  {
+    "to shy": "ук1ытэн (to be shy); щыук1ытэн (to be shy of)"
+  },
+  {
+    "to be startled": "къыдэпк1эен; гу къеон"
+  },
+  {
+    "to startle": "къыдэгъэпк1эен; гу къегъэон"
+  },
+  {
+    "to take fright": "щынэн; щтэн"
+  },
+  {
+    "to scare": "гъэщынэн (to scare someone); гъэщтэн (to scare someone)"
+  },
+  {
+    "to get scared": "щынэн (to be scared); щтэн (to be scared); щыщынэн (to be scared of); щыщтэн (to be scared of)"
   },
   {
     "herald": "гъоу"
@@ -8946,34 +8952,28 @@
     "hood": "шъхьарыхъон"
   },
   {
+    "cowl": "шъхьарыхъон"
+  },
+  {
     "painted": "гъэлагъэ"
   },
   {
-    "patchwork": "мыхъомыш1"
+    "wrong": "мыхъо-мыш1; мытэрэз; тэрэзыдж"
   },
   {
-    "singer": "орэда1у"
+    "singer": "орэды1у; орэда1у (Shapsug)"
   },
   {
-    "alternative form of \"пыск1эн\"": "пыск1ьэн"
+    "mesh": "хъагъэ"
   },
   {
-    "mesh (For example window mesh)": "хъагъэ"
+    "wire net": "хъагъэ"
   },
   {
-    "wire net (Usually wire fence)": "хъагъэ"
+    "to teach good manners": "гъэсэн"
   },
   {
-    "to look through": "хэплъын"
-  },
-  {
-    "to look (among them)": "хэплъэн"
-  },
-  {
-    "to train": "гъэсэн"
-  },
-  {
-    "to teach good manners, to teach good behavior": "гъэсэн"
+    "to teach good behavior": "гъэсэн"
   },
   {
     "to tame": "гъэсэн"
@@ -8982,55 +8982,67 @@
     "trained": "гъэсагъ"
   },
   {
-    "taught to behave-well": "гъэсагъ"
-  },
-  {
-    "listener, a person that listens": "да1о"
+    "listener": "да1о"
   },
   {
     "obedient": "да1о"
   },
   {
-    "to go with him/her, to go alongside him/her": "дэк1он"
+    "to go with": "дэк1он"
   },
   {
-    "to marry a man/boy.": "дэк1он"
+    "to go alongside": "дэк1он"
+  },
+  {
+    "to marry": "къэщэн (to marry a girl); дэк1он (to marry a man)"
   },
   {
     "fiancee": "къэщэн"
   },
   {
-    "romantic partner (boyfriend or girlfriend)": "къэщэн"
+    "bridegroom": "къэщэн"
   },
   {
-    "to bring someone": "къэщэн"
+    "bride": "къэщэн"
   },
   {
-    "to marry a woman/girl.": "къэщэн"
+    "to bring": "къэщэн (to bring someone); къэхьын (to carry someone or something); ехьыл1эн; къыыдэхьын (to come with something); къэгъэк1он (to bring someone or something)"
   },
   {
-    "walnut (fruit and tree)": "дае"
+    "walnut": "дае"
   },
   {
-    "Flower tea": "дадыу"
+    "wild tea": "дадыу"
   },
   {
-    "Marjoram (a plant)": "дадыу"
+    "Marjoram ": "дадыу"
   },
   {
-    "lack, deficiency, deficit, shortage": "дагъо"
+    "deficiency": "щык1агъ; дагъо; ныкъо-тыркъуагъ; дефект; нэц1эк1"
   },
   {
-    "defect, drawback, flaw": "дагъо"
+    "deficit": "щык1агъ; дагъо; ныкъо-тыркъуагъ; дефект; нэц1эк1"
+  },
+  {
+    "shortage": "щык1агъ"
+  },
+  {
+    "lack": "щык1агъ"
+  },
+  {
+    "to lack": "щык1эн / къыщык1эн"
+  },
+  {
+    "defect": "дефект; дагъо; сэкъат"
+  },
+  {
+    "flaw": "дагъо"
   },
   {
     "sewing workshop": "дап1э"
   },
   {
-    "checkers": "пхъэк1эн"
-  },
-  {
-    "Slap sound": "дамп1"
+    "slap sound": "дамп1"
   },
   {
     "fall sound": "дамп1"
@@ -9039,34 +9051,22 @@
     "sewing": "дак1э"
   },
   {
-    "expression of Crashing/Falling sound": "даргу"
-  },
-  {
-    "expression of Crashing/Falling sound": "дыргу"
-  },
-  {
-    "praise": "дауш"
-  },
-  {
-    "creeping": "дасэ"
-  },
-  {
-    "sympathy,": "даш1э"
-  },
-  {
-    "Conjunctive letter (grammar)": "даш1э"
+    "praise": "щытхъу; дауш"
   },
   {
     "to assist": "де1эн"
   },
   {
-    "to be in favor of, to root for": "де1эн"
+    "to be in favor of": "де1эн"
   },
   {
-    "to help to push with someone": "де1эн"
+    "to root for": "де1эн"
   },
   {
-    "to exterminate, to hide completely,": "дегъэбзыхык1эн"
+    "to help to push with": "де1эн"
+  },
+  {
+    "to hide completely,": "дэбзыхык1ын; дэгъэбзыхык1эн (to hide someone completely)"
   },
   {
     "to find": "гъотын"
@@ -11791,9 +11791,6 @@
   },
   {
     "manliness": "л1ыгъэ"
-  },
-  {
-    "barely": "л1ыгъэк1э"
   },
   {
     "With great difficulty": "л1ыгъэк1э"
