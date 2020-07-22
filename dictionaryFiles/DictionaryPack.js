@@ -4544,6 +4544,30 @@
     "ipa": "pt͡sˤʼaːpˤʼa"
   },
   {
+    "word": "гуштэгъуадж",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "disgusting, repulsive, nasty",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "gʷəʃtaʁʷaːd͡ʒ"
+  },
+  {
+    "word": "гущык1ыгъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "disgusting (repulsive, distasteful)",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "gʷəɕət͡ʃʼəʁʷa"
+  },
+  {
     "word": "псэнчъэ",
     "lang": "Adyghe",
     "definitions": [
@@ -8042,7 +8066,7 @@
     "ipa": "pt͡sʼə"
   },
   {
-    "word": "к1эрхъон",
+    "word": "чэрхъон",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -11907,10 +11931,37 @@
       }
     ],
     "synonyms": [
-      "остыгъ"
+      "остыгъэ"
     ],
     "type": "noun",
     "ipa": "aːpkʲʂħatat"
+  },
+  {
+    "word": "к1эгъэнэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to ignite; to set on fire",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃʼaʁanan"
+  },
+  {
+    "word": "къэушыхьатын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to testify, to witness, to be evidence (of)",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "шыхьатэу теуцон"
+    ],
+    "type": "verb",
+    "ipa": "qawʃʼəħaːtən"
   },
   {
     "word": "апшъэр",
@@ -15009,9 +15060,6 @@
         "meaning": "rib",
         "examples": []
       }
-    ],
-    "synonyms": [
-      "цадльэ"
     ],
     "cognate": "дзажэ",
     "type": "noun",
@@ -29453,7 +29501,7 @@
     "ipa": "pʼakʷʼar"
   },
   {
-    "word": "остыгъ",
+    "word": "остыгъэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -33329,6 +33377,56 @@
     "type": "name"
   },
   {
+    "word": "исын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to sit inside",
+        "examples": [
+          {
+            "sentence": "Ныор унэм '''ис'''",
+            "translation": "The old woman '''is sitting''' in the house."
+          }
+        ]
+      },
+	  {
+        "meaning": "to be inside",
+        "examples": [
+          {
+            "sentence": "Адэмыр тиунэ '''исэп'''",
+            "translation": "Adam '''is not in''' my house."
+          },
+		  {
+            "sentence": "Куджаныр шъунэ'''иса'''?",
+            "translation": "'''Is''' Kujan '''in''' your house?"
+          },
+		  {
+            "sentence": "Синыбджэгъухэр унэм исгъагъэх",
+            "translation": "My friends '''were in''' the house."
+          }
+        ]
+      },
+	  {
+        "meaning": "to stay",
+        "examples": [
+          {
+            "sentence": "Синыбджэгъу тиунэ '''исыщт'''",
+            "translation": "My friend '''will stay''' in my house."
+          },
+		  {
+            "sentence": "Тиунэ '''уисыщта'''?",
+            "translation": "'''Will you stay''' in my house?"
+          },
+		  {
+            "sentence": "Хьак1эр мэзищэ тиунэ '''исыгъ'''",
+            "translation": "The guest '''stayed in''' my house for three months"
+          }
+        ]
+      }
+    ],
+    "type": "name"
+  },
+  {
     "word": "Адыгэ",
     "lang": "Adyghe",
     "definitions": [
@@ -33678,11 +33776,11 @@
         "examples": []
       },
       {
-        "meaning": "grievance",
+        "meaning": "dispute, argument, quarrel",
         "examples": []
       },
       {
-        "meaning": "complaint",
+        "meaning": "(law) court",
         "examples": []
       }
     ],
@@ -33721,6 +33819,23 @@
     "ipa": "bzəwkʲʼaːɬa"
   },
   {
+    "word": "пэгущы1эжьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to argue back; to object",
+        "examples": [
+          {
+            "sentence": "К1элит1ур '''зэпэгущы1эжьых'''",
+            "translation": "The two boys '''are arguing'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "pagʷəɕaʔaʑən"
+  },
+  {
     "word": "пхъэк1ыпхъ",
     "lang": "Adyghe",
     "definitions": [
@@ -33742,8 +33857,7 @@
       }
     ],
     "synonyms": [
-      "ц1ап1э",
-      "----"
+      "ц1ап1э"
     ],
     "type": "adj",
     "ipa": "bzaːd͡ʒa"
@@ -33846,22 +33960,6 @@
     ],
     "type": "verb",
     "ipa": "ʁadajlan"
-  },
-  {
-    "word": "цадльэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "rib",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "цагэ"
-    ],
-    "cognate": "дзажэ",
-    "type": "noun",
-    "ipa": "t͡saːd͡ɮa"
   },
   {
     "word": "нэфын",
@@ -38403,8 +38501,50 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to sew",
+        "meaning": "to do a long ball (to attempt to move the ball a long distance down the field via one long aerial kick from either a goalkeeper or a defender directly to an attacking player)",
         "examples": []
+      },
+	  {
+        "meaning": "to sue",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "dawan"
+  },
+  {
+    "word": "едэон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to sue someone",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "dawan"
+  },
+  {
+    "word": "к1эдэун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to demand",
+        "examples": [
+          {
+            "sentence": "К1алэм тхылъыр къыратыжьынэу к1эдэуагъ",
+            "translation": "The boy '''demanded them''' to return the book."
+          }
+        ]
+      },
+	  {
+        "meaning": "to insist, to persist, to press on",
+        "examples": [
+          {
+            "sentence": "акъо ядэжь къэк1оным янэ-ятэхэр к1эдэущтыгъэх",
+            "translation": "The parents insisted that their son to come home."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -50170,6 +50310,38 @@
     "ipa": "ʃʷətə lan"
   },
   {
+    "word": "ышъуты лэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"шъуты лэн\"",
+        "examples": [],
+        "tags": [
+          "vulgar",
+          "slang"
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "əʃʷətə lan"
+  },
+  {
+    "word": "ишъуты лэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"шъуты лэн\"",
+        "examples": [],
+        "tags": [
+          "vulgar",
+          "slang"
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "əʃʷətə lan"
+  },
+  {
     "word": "мэш1ык1ьэен",
     "lang": "Adyghe",
     "definitions": [
@@ -55514,17 +55686,60 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be disgusted",
-        "examples": [
-          {
-            "sentence": "Пшъашъэр '''мэмэхъашэ'''.",
-            "translation": "The girl '''is disgusted'''."
-          }
-        ]
+        "meaning": "alternative form of \"мэхъэшэн\"",
+        "examples": []
       }
     ],
     "type": "verb",
     "ipa": "mamaχaʃan"
+  },
+  {
+    "word": "мэхъэшал",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "squeamish; easily disgusted; someone who gets disgusted easily",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "maχaʃaːɮ"
+  },
+  {
+    "word": "гумыхь",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "unpleasant; dislikable",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "gʷəməħ"
+  },
+  {
+    "word": "мыгопэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "unpleasant; dislikable",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "məgʷapa"
+  },
+  {
+    "word": "гомы1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "dislikable",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "gʷəməħ"
   },
   {
     "word": "гъэмэхъэшэн",
@@ -69140,12 +69355,45 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to become stubborn",
-        "examples": []
+        "meaning": "to become persistent",
+        "examples": [
+          {
+            "sentence": "Л1ым зыригъэнагъ Америкэм к1онэу",
+            "translation": "The man '''became persistent''' to go to America."
+          },
+		  {
+            "sentence": "Еджэнымк1э '''зыбгъэнэн''' фай 1офы дэгъу угъотыжьын пае",
+            "translation": "'''You''' need '''to become persistent''' in the studies to find a good job later."
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "zərəjʁanan"
+  },
+  {
+    "word": "зегъэнэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"зыригъэнэн\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "zajʁanan"
+  },
+  {
+    "word": "зэбгъэнэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"зыригъэнэн\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "zabʁanan"
   },
   {
     "word": "инатэу хъун",
@@ -85958,11 +86206,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "attractive",
+        "meaning": "likeable",
         "examples": [
           {
             "sentence": "Пшъэшъэ '''го1у'''",
-            "translation": "'''attractive''' girl."
+            "translation": "'''likeable''' girl."
           }
         ]
       },
@@ -87033,7 +87281,7 @@
         "meaning": "to stay for the night, to stay overnight",
         "examples": [
           {
-            "sentence": "ХьакIэр унэм '''илъын''' фае хъугъэ",
+            "sentence": "Хьак1эр унэм '''илъын''' фае хъугъэ",
             "translation": "The guest had to '''stay for the night'''."
           },
           {
@@ -87053,6 +87301,31 @@
       {
         "meaning": "horse chest",
         "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃəbʁa"
+  },
+  {
+    "word": "къинэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to remain inside; to left inside",
+        "examples": [
+          {
+            "sentence": "К1алэр Америкэм к1ом къинэжьыгъ",
+            "translation": "When the young man went to America, he remained there."
+          },
+		  {
+            "sentence": "Уителефон тиунэ '''къибнагъ'''",
+            "translation": "'''You left''' your phone in my house."
+          },
+		  {
+            "sentence": "Синыбджэгъухэр дэк1ыхи унэм '''сыкъыранагъ''' сизакъоу",
+            "translation": "My friends went out '''and left me''' alone."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -87688,7 +87961,12 @@
     "definitions": [
       {
         "meaning": "to be fastidious/squeamish",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Пшъашъэр '''мэмэхъашэ'''.",
+            "translation": "The girl '''is disgusted'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -91455,6 +91733,9 @@
           }
         ]
       }
+    ],
+    "synonyms": [
+      "къэушыхьатын"
     ],
     "type": "verb",
     "ipa": "ʃəħaːtaw tajwət͡ʃʷan"

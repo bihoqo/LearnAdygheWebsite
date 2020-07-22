@@ -1875,7 +1875,7 @@
     "lie": "пц1ы"
   },
   {
-    "swing": "к1эрхъон (Shapsug); хъэрен"
+    "swing": "кьэрхъон (Shapsug); хъэрен"
   },
   {
     "prince.": "пщы"
@@ -3312,7 +3312,7 @@
     "to abandon": "бгынэн"
   },
   {
-    "to leave": "бгынэн (to abandon/desert); ик1ын (to go out); ик1ыжьын (to leave the house/family); пык1ыжьын (to divorce); хэк1ын (to leave a company or group)"
+    "to leave": "бгынэн (to abandon/desert); ик1ын (to go out); ик1ыжьын (to leave the house/family); пык1ыжьын (to divorce); хэк1ын (to leave a company or group); къинэн (to leave something behind)"
   },
   {
     "to desert": "бгынэн"
@@ -6894,6 +6894,18 @@
     "beast": "хьак1э-къуак1э"
   },
   {
+    "argument": "дао (law)"
+  },
+  {
+    "to testify": "шыхьатэу теуцон; къэушыхьатын"
+  },
+  {
+    "to witness": "шыхьатэу теуцон; къэушыхьатын"
+  },
+  {
+    "to be evidence of": "шыхьатэу теуцон; къэушыхьатын"
+  },
+  {
     "plunderer": "хъунк1ак1о"
   },
   {
@@ -7392,7 +7404,7 @@
     "merely": "ны1эп (only); къодый (simply)"
   },
   {
-    "to argue": "нэкъокъон; зэнэкъокъун / зэдэон (to argue with each other)"
+    "to argue": "нэкъокъон; зэнэкъокъун / зэдэон (to argue with each other); пэгущы1эжьын (to argue back); пэ1ууцожьын (to go against); енэкъокъун (to argue with)"
   },
   {
     "to compete": "зэпэчъэн; нэкъокъон; зэпеон"
@@ -7452,19 +7464,19 @@
     "slanderous": "жае"
   },
   {
-    "stubborn": "инат; къаигъэ; инатэу ихьан (to become stubborn); инатэу хъун (to become stubborn); зыригъэнэн (to become stubborn)"
+    "stubborn": "инат; къаигъэ; инатэу ихьан (to become stubborn); инатэу хъун (to become stubborn); зыригъэнэн / зэбгъэнэн (to become persistent)"
   },
   {
-    "obstinate": "инат; къаигъэ; инатэу ихьан (to become obstinate); инатэу хъун (to become obstinate); зыригъэнэн (to become stubborn)"
+    "obstinate": "инат; къаигъэ; инатэу ихьан (to become obstinate); инатэу хъун (to become obstinate); зыригъэнэн / зэбгъэнэн (to become stubborn)"
   },
   {
-    "refractory": "инат; къаигъэ; инатэу ихьан (to become refractory); инатэу хъун (to become refractory); зыригъэнэн (to become stubborn)"
+    "refractory": "инат; къаигъэ; инатэу ихьан (to become refractory); инатэу хъун (to become refractory); зыригъэнэн / зэбгъэнэн (to become stubborn)"
   },
   {
-    "opinionated": "инат; къаигъэ; инатэу ихьан (to become opinionated); инатэу хъун (to become opinionated); зыригъэнэн (to become stubborn)"
+    "opinionated": "инат; къаигъэ; инатэу ихьан (to become opinionated); инатэу хъун (to become opinionated); зыригъэнэн / зэбгъэнэн (to become stubborn)"
   },
   {
-    "pig-headed": "инат; къаигъэ; инатэу ихьан (to become pig-headed); инатэу хъун (to become pig-headed); зыригъэнэн (to become stubborn)"
+    "pig-headed": "инат; къаигъэ; инатэу ихьан (to become pig-headed); инатэу хъун (to become pig-headed); зыригъэнэн / зэбгъэнэн (to become stubborn)"
   },
   {
     "unruly": "мыдэ1орэ"
@@ -7800,49 +7812,28 @@
     "crud": "ш1ои"
   },
   {
-    "Russia": "Урысый"
+    "wheel": "щэрэхъ; кущэрэхъ (wheel car)"
   },
   {
-    "republic c/Russia": "Адыгэ"
+    "to become stuck": "дэнэн"
   },
   {
-    "wheel (cart, vehicle)": "кущэрэхъ"
+    "to get stuck": "дэнэн (between); хэнэн (in a company, bushes, forest, liquid, gas or solid); ш1онэн; "
   },
   {
-    "to become stuck (trapped and unable to move)": "дэнэн"
+    "to become trapped": "дэнэн"
   },
   {
-    "to become stuck (unable to progress)": "дэнэн"
+    "to be unable to move": "дэнэн"
   },
   {
-    "to stay, remain (should have the prefix къы- /qə-/)": "дэнэн"
+    "to stay": "къы1унэн (to stay behind); исын; илъын (to stay overnight)"
   },
   {
-    "ball": "1эгуау"
+    "to remain": "къы1унэн (to remain behind); къинэн (to remian inside)"
   },
   {
-    "ball": "п1ырагу"
-  },
-  {
-    "alternative form of \"тенэн\"": "тэнэн"
-  },
-  {
-    "to become stuck (trapped and unable to move)": "ч1энэн"
-  },
-  {
-    "to become stuck (unable to progress)": "ч1энэн"
-  },
-  {
-    "to stay, remain (should have the prefix къы- /qə-/)": "ч1энэн"
-  },
-  {
-    "to become stuck (trapped and unable to move)": "1унэн"
-  },
-  {
-    "to become stuck (unable to progress)": "1унэн"
-  },
-  {
-    "to stay, remain (usually the prefix къы- /qə-/ is added)": "1унэн"
+    "to leave": "къы1унэн (to remain behind); къинэн (to remian inside); къигъэнэн (to leave something behind)"
   },
   {
     "to stay behind": "къы1унэн"
@@ -7851,58 +7842,148 @@
     "to leave behind": "къы1унэн / къы1угъэнэн"
   },
   {
-    "to become stuck (trapped and unable to move)": "хэнэн"
+    "to get on fire": "маш1о хэнэн; маш1о къык1энэн"
   },
   {
-    "to become stuck (unable to progress)": "хэнэн"
+    "to ignite": "маш1о хэнэн (to get on fire); маш1о хэгъэнэн; маш1о кӏэгъэнэн"
   },
   {
-    "to stay, remain (should have the prefix къы- /qə-/)": "хэнэн"
+    "to set on fire": "маш1о хэгъэнэн; маш1о кӏэгъэнэн"
   },
   {
-    "to ignite, to get on fire": "маш1о хэнэн"
+    "sweat": "пк1ант1э; пк1ат1э (Shapsug)"
   },
   {
-    "to become stuck (trapped and unable to move)": "пынэн"
+    "butt": "шъуты; пхэ; шъутыпашъо (butt skin)"
   },
   {
-    "to become stuck (unable to progress)": "пынэн"
+    "ass": "шъуты; пхэ; шъутыпашъо (butt skin)"
   },
   {
-    "to stay, remain (should have the prefix къы- /qə-/)": "пынэн"
+    "arse": "шъуты; пхэ; шъутыпашъо (butt skin)"
   },
   {
-    "sweat": "пк1ант1э"
-  },
-  {
-    "butt, buttock": "шъуты"
+    "buttock": "шъуты; пхэ; шъутыпашъо (butt skin)"
   },
   {
     "appointment": "п1алъэ"
   },
   {
-    "date (A pre-arranged meeting)": "п1алъэ"
+    "date": "п1алъэ"
   },
   {
     "lawsuit": "дао"
   },
   {
-    "grievance": "дао"
+    "to not get along": "зэмызэгъын"
   },
   {
-    "complaint": "дао"
+    "to get along": "зэзэгъын"
   },
   {
-    "swing": "кьэрхъон"
+    "to demand": "к1эдэун"
   },
   {
-    "alternative form of \"бзыук1алъэ\"": "бзыук1ьалъэ"
+    "to disagree": "дэмыштэн; мыдэн, емыуцол1эн"
   },
   {
-    "alternative form of \"пхъэнк1ыпхъ\"": "пхъэк1ыпхъ"
+    "to agree": "дэштэн; дэн, еуцол1эн"
   },
   {
-    "despicable, evil, mean": "бзаджэ"
+    "dispute": "зэнэкъокъуныгъ; зэш1онэныр"
+  },
+  {
+    "to wrangle": "пэгущы1эжьын"
+  },
+  {
+    "quarrel": "зэнэкъокъуныгъ"
+  },
+  {
+    "to dispute": "ш1онэн; пэгущы1эжьын"
+  },
+  {
+    "to request": "гук1ае е1он; еуч1ын (to ask for a request); к1эдэун (to demand)"
+  },
+  {
+    "to press on": "зыригъэнэн / зэбгъэнэн; къаигъэ ыш1ыгъ; инатэу фэхъун (to insist for); к1эдэун (to demand)"
+  },
+  {
+    "to persist": "зыригъэнэн / зэбгъэнэн; къаигъэ ыш1ыгъ; инатэу фэхъун (to insist for); к1эдэун (to demand)"
+  },
+  {
+    "to insist": "зыригъэнэн / зэбгъэнэн; къаигъэ ыш1ыгъ; инатэу фэхъун (to insist for); к1эдэун (to demand)"
+  },
+  {
+    "to sue": "едэон"
+  },
+  {
+    "complaint": "тхьаусых"
+  },
+  {
+    "to complain": "тхьаусыхэн; фэтхьаусыхэн (to complain for)"
+  },
+  {
+    "persistent": "къаигъэ; инат"
+  },
+  {
+    "unpleasant": "гумыхь, мыгопэ"
+  },
+  {
+    "unsympathetic": "гумыхь, гомы1у, мыгопэ"
+  },
+  {
+    "dislikable": "гумыхь, гомы1у; мыгопэ"
+  },
+  {
+    "likable": "гохьы, го1у"
+  },
+  {
+    "despicable": "бзаджэ"
+  },
+  {
+    "mean": "ц1ап1э / пц1ап1э; гук1эгъу зыхэмылъ; гук1эгъунчъэ"
+  },
+  {
+    "loathsome": "гущык1ыгъо; гохьыдж"
+  },
+  {
+    "vile": "ц1ап1э / пц1ап1э"
+  },
+  {
+    "disgusting": "1эежъ; угъэмэхъэшэнэу щыт; гуштэгъуадж; гущык1ыгъо, гуштэгъоджэ, 1эе дэд"
+  },
+  {
+    "foul": "1эежъ; ц1ап1э / пц1ап1э; нэпэнчъэ; нэпэтехныгъэ"
+  },
+  {
+    "abominable": "гуштэгъуадж; гущык1ыгъо"
+  },
+  {
+    "squeamish": "мэхъэшал"
+  },
+  {
+    "easily disgusted": "мэхъэшал"
+  },
+  {
+    "nasty": "1эежъ; 1эе дэд; угъэмэхъэшэнэу щыт; гуштэгъуадж; гущык1ыгъо"
+  },
+  {
+    "repulsive": "1эежъ; гуштэгъуадж; гущык1ыгъо"
+  },
+  {    
+    "heartless": "гук1эгъу зыхэмылъ; гук1эгъунчъэ"
+  },
+  {
+    "hard-hearted": "гук1эгъу зыхэмылъ; гук1эгъунчъэ"
+  },
+  {
+    "callous": "гук1эгъу зыхэмылъ; гук1эгъунчъэ"
+  },
+  {
+    "unfeeling": "гук1эгъу зыхэмылъ; гук1эгъунчъэ"
+  },
+  {
+    "evil": "бзаджэ"
   },
   {
     "undead": "ныкъол1агъэ"
@@ -7911,22 +7992,16 @@
     "half dead": "ныкъол1агъэ"
   },
   {
-    "far": "чыжьэ"
+    "to fool": "гъэделэн; гъэпц1эн; (slightly vulgar) ышъуты лэн"
   },
   {
-    "to fool": "гъэ1улэн"
+    "to deceive": "гъэделэн; гъэпц1эн; (slightly vulgar) ышъуты лэн"
   },
   {
-    "to fool, to deceive": "гъэделэн"
+    "bright": "нэф; нэфын"
   },
   {
-    "rib": "цадльэ"
-  },
-  {
-    "bright": "нэфын"
-  },
-  {
-    "light": "нэфын"
+    "light": "нэф; нэфын"
   },
   {
     "son-in-law": "махълъэ"
@@ -10926,9 +11001,6 @@
     "dream": "пк1ыхьап1"
   },
   {
-    "to complain": "тхьаусхэн"
-  },
-  {
     "to allege": "тхьаусхэн"
   },
   {
@@ -12085,9 +12157,6 @@
   },
   {
     "angel": "тхьэ1офыт"
-  },
-  {
-    "swing": "хъэрен"
   },
   {
     "accordionist, a person that plays accordion": "пщынао"
