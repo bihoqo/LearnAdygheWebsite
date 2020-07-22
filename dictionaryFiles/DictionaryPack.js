@@ -223,6 +223,14 @@
           {
             "sentence": "Унэр '''мао'''",
             "translation": "The house '''is being destroyed'''."
+          },
+		  {
+            "sentence": "к1алэм унэ пшахъоу ыш1ыгъэ '''ощт''' къещхымэ",
+            "translation": "The boy's house sand '''will get ruined''' when it will rain."
+          },
+          {
+            "sentence": "уикомпыйотэр '''уагъэ'''",
+            "translation": "Your computer '''is ruined'''."
           }
         ]
       },
@@ -5175,9 +5183,6 @@
         "examples": []
       }
     ],
-    "synonyms": [
-      "хъашъо"
-    ],
     "cognate": "техак1уэ",
     "type": "noun",
     "ipa": "ħaːʂʷa"
@@ -5295,9 +5300,6 @@
         "meaning": "stone",
         "examples": []
       }
-    ],
-    "synonyms": [
-      "мызуэ"
     ],
     "cognate": "мывэ",
     "type": "noun",
@@ -6782,10 +6784,6 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "garden",
-        "examples": []
-      },
-      {
         "meaning": "yard",
         "examples": []
       }
@@ -7783,7 +7781,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "oil",
+        "meaning": "oil (liquid)",
         "examples": []
       },
       {
@@ -8761,7 +8759,7 @@
     "ipa": "b"
   },
   {
-    "word": "тхьэк1умэпылъ",
+    "word": "тхьак1умэпылъ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -8771,6 +8769,18 @@
     ],
     "type": "noun",
     "ipa": "tħakʷʼmapəɬ"
+  },
+  {
+    "word": "тхьак1умпылъхь",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "earring",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "tħakʷʼmapəɬħ"
   },
   {
     "word": "лъэбы1у",
@@ -10583,8 +10593,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "respect",
-        "examples": []
+        "meaning": "sake (for the sake of)",
+        "examples": [
+          {
+            "sentence": "Л1ым '''ихьатырк1э''' къыгъэнагъ",
+            "translation": "(S)he left '''for the sake of''' the man."
+          },
+          {
+            "sentence": "'''Уихьатырк1э''' сык1ощт",
+            "translation": "'''For your sake''' I will go."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -32135,18 +32154,6 @@
     "ipa": "ʔʷaːt͡ʃʼa"
   },
   {
-    "word": "жэры1о",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "oral, verbal",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ʒarəʔa"
-  },
-  {
     "word": "жае",
     "lang": "Adyghe",
     "definitions": [
@@ -32289,6 +32296,30 @@
     ],
     "type": "noun",
     "ipa": "ʒaːʂʷ"
+  },
+  {
+    "word": "мышъо-мыл",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "nonsense",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "məʂʷa-məl"
+  },
+  {
+    "word": "мышъомылы1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "one who speaks nonsense",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "məʂʷamələʔʷ"
   },
   {
     "word": "жын",
@@ -33358,9 +33389,6 @@
         "examples": []
       }
     ],
-    "synonyms": [
-      "ц1уэи"
-    ],
     "cognate": "ф1ей",
     "type": "adj",
     "ipa": "ʃʷʼajə"
@@ -33944,7 +33972,7 @@
             "translation": "'''I couldn't fool him''' with the table's price."
           },
           {
-            "sentence": "Мо к1алэхэмк1э нэ1э тегъэт, '''уагъэделэни''' уи ахъщэ зэк1эр къып1ахыщт",
+            "sentence": "Мо к1алэхэмк1э на1э тегъэт, '''уагъэделэни''' уи ахъщэ зэк1эр къып1ахыщт",
             "translation": "Take care from those boys over there, '''they will deceive you''' and take all your money."
           },
           {
@@ -34011,33 +34039,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "foreleg",
+        "meaning": "foreleg; front legs (of animals)",
         "examples": []
       }
     ],
     "cognate": "ф1алъэ",
     "type": "noun",
     "ipa": "ʃʷʼaːɬa"
-  },
-  {
-    "word": "мызуэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "rock",
-        "examples": []
-      },
-      {
-        "meaning": "stone",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "мыжъо"
-    ],
-    "cognate": "мывэ",
-    "type": "noun",
-    "ipa": "məzʷa"
   },
   {
     "word": "пчэндэхъу",
@@ -34070,7 +34078,7 @@
         ]
       },
       {
-        "meaning": "sharp (Intelligent)",
+        "meaning": "sharp (intelligent)",
         "examples": []
       }
     ],
@@ -34185,40 +34193,11 @@
     "ipa": "ʃʷʼənt͡ʃə"
   },
   {
-    "word": "ц1уэи",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "dirty",
-        "examples": []
-      },
-      {
-        "meaning": "crud",
-        "examples": []
-      },
-      {
-        "meaning": "dark",
-        "examples": [
-          {
-            "sentence": "Унэм '''ш1унк1ы''' дэд",
-            "translation": "The room is too '''dark'''."
-          }
-        ]
-      }
-    ],
-    "synonyms": [
-      "ф1эи",
-      "ш1ои"
-    ],
-    "type": "adj",
-    "ipa": "ʃʷʼajə or t͡sʷʼajə"
-  },
-  {
     "word": "пык1ын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to leave someone, to refrain from, to separate from",
+        "meaning": "to leave someone, to separate from",
         "examples": [
           {
             "sentence": "К1алэм зэзаохэрэ '''зэпигъэк1ыжьгъэх'''",
@@ -34261,6 +34240,58 @@
     ],
     "type": "verb",
     "ipa": "pəkʲʼən"
+  },
+  {
+    "word": "пык1ыжьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to divorce from",
+        "examples": [
+          {
+            "sentence": "Мо л1ыр ишъуз '''пык1ыжьыгъ'''",
+            "translation": "That man '''divorced from''' his wife."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "pət͡ʃʼəʑən"
+  },
+  {
+    "word": "джын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to complete reading",
+        "examples": [
+          {
+            "sentence": "К1алэм тхылъыр '''иджыгъ'''",
+            "translation": "The boy '''read''' the book."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "еджэн (to be reading)"
+    ],
+    "type": "verb",
+    "ipa": "d͡ʒən"
+  },
+  {
+    "word": "иджын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"джын\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "еджэн (to be reading)"
+    ],
+    "type": "verb",
+    "ipa": "d͡ʒən"
   },
   {
     "word": "егьэн",
@@ -34318,7 +34349,7 @@
         ]
       },
       {
-        "meaning": "to read",
+        "meaning": "to read (more specifically: to be reading)",
         "examples": [
           {
             "sentence": "к1алэр тхылъым '''еджэ'''",
@@ -34355,6 +34386,9 @@
           }
         ]
       }
+    ],
+    "synonyms": [
+      "джын (to compete reading)"
     ],
     "type": "verb",
     "ipa": "jad͡ʒan"
@@ -36568,6 +36602,10 @@
             "translation": "The boy '''noticed''' they entered into house - The boy '''noticed''' they broke into his house."
           }
         ]
+      },
+      {
+        "meaning": "to realize",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -36657,7 +36695,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "green",
+        "meaning": "greenish blue, green",
         "examples": [
           {
             "sentence": "Уцыр '''къашхъо'''",
@@ -36717,6 +36755,18 @@
     "ipa": "qaħwa"
   },
   {
+    "word": "ет1эгъой",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "lump of dirt; a piece of hardened dirt",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "qaħwa"
+  },
+  {
     "word": "ежьашъо",
     "lang": "Adyghe",
     "definitions": [
@@ -36764,21 +36814,6 @@
     "cognate": "шэрэхъ",
     "type": "noun",
     "ipa": "ɕaraχ"
-  },
-  {
-    "word": "хъашъо",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "tire",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "хьашъо"
-    ],
-    "type": "adj",
-    "ipa": "χaːʃʷa"
   },
   {
     "word": "хыкъумэ",
@@ -36868,7 +36903,7 @@
         "examples": []
       },
       {
-        "meaning": "to jump in the face of",
+        "meaning": "to rush into",
         "examples": []
       }
     ],
@@ -36880,19 +36915,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to jump in the face of",
-        "examples": []
-      },
-      {
-        "meaning": "to examine a face",
-        "examples": []
-      },
-      {
-        "meaning": "to scrutinize",
-        "examples": []
-      },
-      {
-        "meaning": "to jump on someone (for assault)",
+        "meaning": "to jump on someone",
         "examples": [
           {
             "sentence": "Аслъанэ къачъи пчэным '''жэхэпк1агъ'''",
@@ -36915,10 +36938,6 @@
       {
         "meaning": "to glare at a face",
         "examples": []
-      },
-      {
-        "meaning": "to google at a face",
-        "examples": []
       }
     ],
     "type": "verb",
@@ -36929,12 +36948,27 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to sweep in front of a face",
+        "meaning": "to sweep things into someone",
         "examples": []
       }
     ],
     "type": "verb",
     "ipa": "ʒaxapχant͡ʃan"
+  },
+  {
+    "word": "пхъэнк1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to sweep",
+        "examples": []
+      }
+    ],
+	"synonyms": [
+      "пхъэнк1ын"
+    ],
+    "type": "verb",
+    "ipa": "pχant͡ʃʼan"
   },
   {
     "word": "жэхэтхъон",
@@ -37080,7 +37114,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "sleeve, The part of the shirt that covers the arm",
+        "meaning": "cuff (the end of a shirt sleeve that covers the wrist)",
         "examples": []
       }
     ],
@@ -37133,7 +37167,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "neck",
+        "meaning": "chin",
         "examples": []
       }
     ],
@@ -37141,11 +37175,23 @@
     "ipa": "ʒaʁʷ"
   },
   {
+    "word": "купжъый",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "sub-group",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "kʷəpʐəj"
+  },
+  {
     "word": "жэгъуб",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "dewlap",
+        "meaning": "thick chin",
         "examples": []
       }
     ],
@@ -37444,22 +37490,43 @@
     "ipa": "ʒaləj"
   },
   {
+    "word": "пцэжъыешэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "fishing",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "pt͡saʐəjaʃa"
+  },
+  {
+    "word": "пцэкъэнтфык1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "fishing-rod",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "pt͡saqantfət͡ʃʼ"
+  },
+  {
     "word": "пцэкъэнтф",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "fishhook",
+        "meaning": "fishing-rod",
         "examples": []
       }
-    ],
-    "synonyms": [
-      "жэлый"
     ],
     "type": "noun",
     "ipa": "pt͡saqantf"
   },
   {
-    "word": "к1эрэхъоцык1у",
+    "word": "к1эрэхъоц1ык1у",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -37468,26 +37535,14 @@
       }
     ],
     "type": "noun",
-    "ipa": "t͡ʃaraχʷat͡səkʷʼ"
+    "ipa": "t͡ʃʼaraχʷat͡sʼəkʷʼ"
   },
   {
     "word": "жэмай",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Blessed talker",
-        "examples": []
-      },
-      {
-        "meaning": "Good talker",
-        "examples": []
-      },
-      {
-        "meaning": "silent",
-        "examples": []
-      },
-      {
-        "meaning": "taciturn",
+        "meaning": "taciturn (untalkative, silent)",
         "examples": []
       }
     ],
@@ -37499,22 +37554,14 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "talkative",
-        "examples": []
-      },
-      {
-        "meaning": "eloquent",
-        "examples": []
-      },
-      {
-        "meaning": "talker",
+        "meaning": "talker, chatterbox",
         "examples": []
       }
     ],
     "synonyms": [
       "гущы1ал",
       "1оржъор",
-      "гущы1эрые",
+      "гущы1эрый",
       "жэмы1ан",
       "шъхьарыгущы1"
     ],
@@ -37527,14 +37574,6 @@
     "definitions": [
       {
         "meaning": "talkative",
-        "examples": []
-      },
-      {
-        "meaning": "eloquent",
-        "examples": []
-      },
-      {
-        "meaning": "talking in an ornate way",
         "examples": []
       }
     ],
@@ -37558,7 +37597,7 @@
     "synonyms": [
       "гущы1ал",
       "1оржъор",
-      "гущы1эрые",
+      "гущы1эрый",
       "жэмачыу",
       "шъхьарыгущы1",
     ],
@@ -37588,17 +37627,13 @@
       {
         "meaning": "jaw",
         "examples": []
-      },
-      {
-        "meaning": "beard",
-        "examples": []
       }
     ],
     "type": "noun",
     "ipa": "ʒapχaməbʁʷ"
   },
   {
-    "word": "жэры1у",
+    "word": "жэры1о",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -37615,18 +37650,14 @@
       }
     ],
     "type": "adj",
-    "ipa": "ʒarəʔʷ"
+    "ipa": "ʒarəʔʷa"
   },
   {
     "word": "жэры1уабз",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Colloquial language",
-        "examples": []
-      },
-      {
-        "meaning": "Prose writing",
+        "meaning": "сolloquial language",
         "examples": []
       }
     ],
@@ -37638,11 +37669,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "stupid",
-        "examples": []
-      },
-      {
-        "meaning": "wandering",
+        "meaning": "onlooker, bystander",
         "examples": []
       }
     ],
@@ -37670,16 +37697,24 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "yawn",
-        "examples": []
-      },
-      {
-        "meaning": "stupid person",
+        "meaning": "idler, gaper",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "ʒawq"
+  },
+  {
+    "word": "жэр зэк1эк1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to yawn",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʒar zat͡ʃʼat͡ʃʼən"
   },
   {
     "word": "жэукъыгъ",
@@ -37722,32 +37757,12 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "an overly talkative person, chatterbox",
-        "examples": []
-      },
-      {
-        "meaning": "rough",
+        "meaning": "talk in a bad manner; to talk rude",
         "examples": []
       }
     ],
     "type": "adj",
     "ipa": "ʒaχʷ"
-  },
-  {
-    "word": "жэхъуагъ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "rudeness",
-        "examples": []
-      },
-      {
-        "meaning": "ugliness",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ʒaχʷaːʁ"
   },
   {
     "word": "жэхэбэнэн",
@@ -37798,15 +37813,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "unfortunate, ill-fated, ill-starred",
+        "meaning": "miserable; poor (someone to pity)",
         "examples": [
           {
             "sentence": "л1ыжъэр '''мыгъо'''",
-            "translation": "The old man '''is unfortunate'''."
+            "translation": "The old man '''is miserable'''."
           },
           {
             "sentence": "а л1ыжъэр зыш1у '''мыгъожъ'''",
-            "translation": "That old man '''is''' very '''unfortunate'''."
+            "translation": "That old man '''is''' very '''miserable'''."
           }
         ]
       }
@@ -38220,6 +38235,27 @@
     "ipa": "d͡ʒaɡʷən"
   },
   {
+    "word": "къэджэгун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to play (a game)",
+        "examples": []
+      },
+      {
+        "meaning": "to play, to act (to act as the indicated role, especially in a performance)",
+        "examples": [
+          {
+            "sentence": "Л1ыр филмымк1э докторэу '''къэджэгу '''",
+            "translation": "The man '''is playing''' as a doctor in the film."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "qad͡ʒaɡʷən"
+  },
+  {
     "word": "дыджы",
     "lang": "Adyghe",
     "definitions": [
@@ -38233,50 +38269,50 @@
     "ipa": "dəd͡ʒə"
   },
   {
-    "word": "1эзэ",
+    "word": "а зыр",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "same",
         "examples": [
           {
-            "sentence": "Мафэкъэс '''1эзэ''' уш1эрэ.",
+            "sentence": "Мафэкъэс '''а зыр''' пш1эрэр.",
             "translation": "Everyday you do the '''same''' thing."
           },
           {
-            "sentence": "'''1эзымк1э''' тестым ухаукъэ.",
+            "sentence": "'''а зымк1э''' тестым ухаукъо.",
             "translation": "You are mistaking '''with the same thing''' in the test."
           },
           {
-            "sentence": "Уатэ '''1эзымк1э''' пхъэм еу.",
+            "sentence": "Уатэ '''а зымк1э''' пхъэм еу.",
             "translation": "Hit the wood '''with the same''' hammer."
           },
           {
-            "sentence": "Ныор '''1эз''' унэм ис.",
+            "sentence": "Ныор '''а зы''' унэм ис.",
             "translation": "The old-woman is in the '''same''' house."
           },
           {
-            "sentence": "'''1эз''' тучаным ч1эплъэгъот мыехэр.",
+            "sentence": "'''а зы''' мы1эрысхэр тучаным ч1эплъэгъощтыхэр.",
             "translation": "You will see in the '''same''' shop the apples."
           },
           {
-            "sentence": "Уибзэрэ сибзэрэ '''1эзэ'''.",
+            "sentence": "Уибзэрэ сибзэрэ '''а зыр'''.",
             "translation": "Your language and my language '''are the same'''."
           },
           {
-            "sentence": "'''1эзэрары''' хым ук1уагъэми я есып1эм ук1уагъэми.",
+            "sentence": "'''а зыр ары''' хым ук1уагъэми е есып1эм ук1уагъэми.",
             "translation": "'''It's the same thing''' if you went to the sea or went to the pool."
           },
           {
-            "sentence": "'''1эзэрары''' мэуи уш1эн фае.",
+            "sentence": "'''а зыр ары''' мык1и пш1эн фае.",
             "translation": "'''It's the same thing''' you need to do here."
           },
           {
-            "sentence": "Къап1орэмрэ къас1орэмрэ '''1эзыхэп'''.",
+            "sentence": "Къап1орэмрэ къас1орэмрэ '''а зырэп'''.",
             "translation": "'''It's not the same''' what you say and what I say."
           },
           {
-            "sentence": "'''1эзэп''' сэхьат уеджэнэрэ сэхьатит1у уеджэнэрэ.",
+            "sentence": "'''а зырэп''' сэхьат уеджэнымрэ сэхьатит1у уеджэнымрэ.",
             "translation": "'''It's not the same''' to study one hour and to study two hours."
           }
         ]
@@ -38346,22 +38382,22 @@
     "ipa": "ɕad͡ʒaʁʷawʒ"
   },
   {
-    "word": "къэк1орэтхьэмафэ",
+    "word": "къэк1орэ тхьэмафэ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "next week",
         "examples": [
           {
-            "sentence": "'''къэк1орэтхьэмафэм''' тк1от йуропа",
+            "sentence": "'''къэк1орэ тхьэмафэм''' тк1от йуропа",
             "translation": "'''Next week''' we will go to Europe."
           },
           {
-            "sentence": "'''къэк1орэтхьэмафэм''' пш1ы синыбжьыт",
+            "sentence": "'''къэк1орэ тхьэмафэм''' пш1ы синыбжьыт",
             "translation": "'''Next week''' I will be ten years old."
           },
           {
-            "sentence": "'''къэк1орэтхьэмафэм''' томэр къэк1от",
+            "sentence": "'''къэк1орэ тхьэмафэм''' томэр къэк1от",
             "translation": "'''Near week''' Tom will come."
           }
         ]
@@ -38371,22 +38407,22 @@
     "ipa": "qakʷʼaratħamaːfa"
   },
   {
-    "word": "ипэтхьэмафэ",
+    "word": "ипэ тхьэмафэ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "last week",
         "examples": [
           {
-            "sentence": "'''ипэтхьэмафэм''' тк1уагъ йуропа",
+            "sentence": "'''ипэ тхьэмафэм''' тк1уагъ йуропа",
             "translation": "'''last week''', we went to Europe."
           },
           {
-            "sentence": "'''ипэтхьэмафэм''' пш1ы синыбжьэгъ",
+            "sentence": "'''ипэ тхьэмафэм''' пш1ы синыбжьэгъ",
             "translation": "'''last week''' I was ten years old."
           },
           {
-            "sentence": "'''ипэтхьэмафэм''' томэр къэк1уагъ",
+            "sentence": "'''ипэ тхьэмафэм''' томэр къэк1уагъ",
             "translation": "'''last week''' Tom came."
           }
         ]
@@ -38396,7 +38432,7 @@
     "ipa": "jəpatħamaːfa"
   },
   {
-    "word": "шъоуалъэ",
+    "word": "шъоялъэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -38449,7 +38485,7 @@
             "translation": "The boy '''got lost''' in the forest."
           },
           {
-            "sentence": "К1элэц1ык1ум нэ1э тэтымыгъэтымэ '''къэтш1ок1одыщт'''",
+            "sentence": "К1элэц1ык1ум на1э тетымыгъэтымэ '''къэтш1ок1одыщт'''",
             "translation": "If we don't protest the little boy '''he will get lost from us'''."
           },
           {
@@ -39136,7 +39172,7 @@
             "translation": "The soldier '''is trained'''."
           },
           {
-            "sentence": "хьэ '''гъэсагъэм''' мэлхэмэ нэ1э ятигъэтыт",
+            "sentence": "хьэ '''гъэсагъэм''' мэлхэмэ на1э атигъэтыщт",
             "translation": "A '''trained''' dog will protect the sheep's."
           }
         ]
@@ -41860,7 +41896,7 @@
             "translation": "you '''only''' have boys."
           },
           {
-            "sentence": "а '''закъорэ''' нэ1э уи1э?",
+            "sentence": "а '''закъорэ''' ны1эп уи1эр?",
             "translation": "Is that '''the only''' thing you have?"
           },
           {
@@ -46016,7 +46052,7 @@
     ],
     "synonyms": [
       "гущы1ал",
-      "гущы1эрые",
+      "гущы1эрый",
       "жэмы1ан",
       "жэмачыу",
 	  "шъхьарыгущы1"
@@ -49276,7 +49312,7 @@
     "ipa": "ʂħaːta"
   },
   {
-    "word": "1эщхьэ",
+    "word": "1ашъхьэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -49559,36 +49595,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to get destroyed, to get ruined",
-        "examples": [
-          {
-            "sentence": "к1алэм унэ пшахъоу иш1ыгъэ '''мэот''' къещхымэ",
-            "translation": "The boy's house sand '''will get ruined''' when it will rain."
-          },
-          {
-            "sentence": "уикомпыйотэр '''мэуагъ'''",
-            "translation": "Your computer '''is ruined'''."
-          }
-        ]
-      },
-      {
-        "meaning": "(slang) to go all out and do something straightforward that might be embarrassing",
-        "examples": [],
-        "tags": [
-          "slang",
-          "alternative_spelling"
-        ]
-      },
-      {
-        "meaning": "(slang) something to be really noticeable to the point you can't ignore it",
-        "examples": [],
-        "tags": [
-          "slang",
-          "alternative_spelling"
-        ]
-      },
-      {
-        "meaning": "to hit",
+        "meaning": "alternative form of \"он\"",
         "examples": []
       }
     ],
@@ -54321,6 +54328,23 @@
     "ipa": "qakʷʼaħən"
   },
   {
+    "word": "пш1эпш1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to ferment",
+        "examples": [
+          {
+            "sentence": "санэр '''мэпш1апш1э'''",
+            "translation": "The wine '''ferments'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "pʃʼapʃʼan"
+  },
+  {
     "word": "къыдэк1охьын",
     "lang": "Adyghe",
     "definitions": [
@@ -54868,7 +54892,7 @@
             "translation": "Your son and my son '''are identical right?'''"
           },
           {
-            "sentence": "Докторым сык1омэ тгъуасэ '''фэдэкъабз''' къыси1отэр",
+            "sentence": "Докторым сык1омэ тыгъуасэ '''фэдэкъабз''' къыси1ощтыр",
             "translation": "If I go to the doctor, he will say to me '''the exactly same thing''' he said yesterday."
           }
         ]
@@ -56510,10 +56534,6 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "wheel",
-        "examples": []
-      },
-      {
         "meaning": "steering wheel",
         "examples": []
       }
@@ -58062,7 +58082,7 @@
             "translation": "The girl '''trusts''' the boy to bring money for her."
           },
           {
-            "sentence": "'''Цыхьэ къэсфэш1''' уик1алэ нэ1э тэсгъэтныу",
+            "sentence": "'''Цыхьэ къэсфэш1''' уик1алэ на1э тесгъэтныу",
             "translation": "'''Trust me''' to protect your boy."
           },
           {
@@ -58110,18 +58130,6 @@
     ],
     "type": "noun",
     "ipa": "zawaːpʼa"
-  },
-  {
-    "word": "нэ1э тэгъэтын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"нэ1э тегъэтын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "naʔa taʁatən"
   },
   {
     "word": "къыч1эгъэк1ьын",
@@ -59486,7 +59494,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "understanding",
+        "meaning": "attention; notice",
+        "examples": []
+      },
+	  {
+        "meaning": "(Shapsug) understanding",
         "examples": [
           {
             "sentence": "К1алэм афэдиз '''гулъытэ''' и1эп",
@@ -60447,15 +60459,15 @@
         "meaning": "to be careful",
         "examples": [
           {
-            "sentence": "'''Уинэ1э тэгъэт''' маш1ор къыч1эмнэнэу",
+            "sentence": "'''Уина1э тэгъэт''' маш1ор къыч1эмнэнэу",
             "translation": "'''Be careful''' the fire won't ignite."
           },
           {
-            "sentence": "К1алэм '''инэ1э тимыгъэтэу''' къебэджыгъэ",
+            "sentence": "К1алэм '''ина1э тимыгъэтэу''' къебэджыгъэ",
             "translation": "The boy '''without being careful''' fell on the ground."
           },
           {
-            "sentence": "Л1ым '''инэ1э тигъэтэу''' к1апсэм рек1о",
+            "sentence": "Л1ым '''ина1э тигъэтэу''' к1апсэм рек1о",
             "translation": "The man '''being careful''' is walking on the rope."
           }
         ]
@@ -60704,7 +60716,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to scratch",
+        "meaning": "alternative form of \"ц1энтхъун\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "t͡sʼatχʷən"
+  },
+  {
+    "word": "ц1энтхъун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to leave a scratch; to make a scratch",
         "examples": [
           {
             "sentence": "Кур '''оц1этхъу'''",
@@ -60718,7 +60742,7 @@
       }
     ],
     "type": "verb",
-    "ipa": "t͡sʼatχʷən"
+    "ipa": "t͡sʼantχʷən"
   },
   {
     "word": "ц1этхын",
@@ -60825,6 +60849,23 @@
     ],
     "type": "verb",
     "ipa": "japʼastχən"
+  },
+  {
+    "word": "п1эстхъэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to scratch someone (With fingernails or foot-nails)",
+        "examples": [
+          {
+            "sentence": "чэтыур '''мэп1астхъэ'''",
+            "translation": "The cat '''is scratching'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "pʼastχən"
   },
   {
     "word": "гъэцохъон",
@@ -65332,7 +65373,7 @@
             "translation": "'''Do again''' the house you destroyed"
           },
           {
-            "sentence": "К1алэм мафэ къэсы азэ '''еш1ыжьы'''",
+            "sentence": "К1алэм мафэ къэсы а зыр '''еш1ыжьы'''",
             "translation": "The boy '''is doing''' the same thing everyday"
           }
         ]
@@ -67827,7 +67868,7 @@
         ]
       },
       {
-        "meaning": "alternative form of \"пык1ын\" (to divorce; to separate from)",
+        "meaning": "to separate from each other (divorce)",
         "examples": []
       },
       {
@@ -72210,14 +72251,14 @@
     "ipa": "d͡ʒəxaːʃʷa"
   },
   {
-    "word": "гущы1эрые",
+    "word": "гущы1эрый",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "talkative, a person that tend to talk a lot",
         "examples": [
           {
-            "sentence": "Сишы '''гущы1эрые'''",
+            "sentence": "Сишы '''гущы1эрый'''",
             "translation": "My brother is '''talkative'''."
           }
         ]
@@ -72828,7 +72869,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to choose, to select, to pick out",
+        "meaning": "to choose, to select, to pick out (literally: to accept something among)",
         "examples": []
       }
     ],
@@ -74797,8 +74838,7 @@
         "meaning": "alternative form of \"еджэн\"",
         "examples": []
       }
-    ],
-    "cognate": "еджэн",
+    ],,
     "type": "verb",
     "ipa": "d͡ʒan"
   },
@@ -75673,7 +75713,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to splash water on; to splatter on",
+        "meaning": "to splash on; to splatter on",
         "examples": [
           {
             "sentence": "Псы '''къэстемыутх'''",
@@ -75696,6 +75736,18 @@
     ],
     "type": "verb",
     "ipa": "tjawətxən"
+  },
+  {
+    "word": "утхэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to splash; to splatter",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "wətxan"
   },
   {
     "word": "теутэн",
@@ -77859,27 +77911,27 @@
     "ipa": "qaʁaʁaʁʷənan"
   },
   {
-    "word": "нэ1э тегъэтын",
+    "word": "на1э тегъэтын",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to protect",
         "examples": [
           {
-            "sentence": "'''Уинэ1э къыптэзгъэтыщт'''",
+            "sentence": "'''Уина1э къыптэзгъэтыщт'''",
             "translation": "'''I will protect you'''."
           },
           {
-            "sentence": "Шыумэ '''нэ1э къэстагъэты'''",
+            "sentence": "Шыумэ '''на1э къэстагъэты'''",
             "translation": "The horsemen '''are protecting me'''."
           }
         ]
       },
       {
-        "meaning": "to look after",
+        "meaning": "to look after; to keep an eye on (to watch and pay attention to)",
         "examples": [
           {
-            "sentence": "К1алэр ишы '''инэ1э тегъэты'''",
+            "sentence": "К1алэр ишы '''ина1э тегъэты'''",
             "translation": "The boy '''looks after''' his brother."
           }
         ]
@@ -77926,6 +77978,18 @@
     ],
     "type": "verb",
     "ipa": "jajən"
+  },
+  {
+    "word": "1опщын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to give an update; to report; to let know",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʔʷapɕən"
   },
   {
     "word": "к1эегъулъын",
@@ -80103,6 +80167,18 @@
     "cognate": "ефыгъуэн",
     "type": "verb",
     "ipa": "jaʃʷʁʷən"
+  },
+  {
+    "word": "ухъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "fragile",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "waχʷa"
   },
   {
     "word": "1ахъо",
@@ -82312,7 +82388,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "unluck, bad luck, luckless",
+        "meaning": "ill-starred; ill-fated; unfortunate",
         "examples": []
       },
       {
@@ -90048,7 +90124,7 @@
     ],
     "synonyms": [
       "1оржъор",
-      "гущы1эрые",
+      "гущы1эрый",
       "жэмы1ан",
       "жэмачыу",
       "шъхьарыгущы1"
@@ -92911,6 +92987,9 @@
           }
         ]
       }
+    ],
+	"synonyms": [
+      "пхъэнк1эн"
     ],
     "type": "verb",
     "ipa": "pχant͡ʃʼən"
@@ -96346,7 +96425,7 @@
     ],
     "synonyms": [
       "гущы1ал",
-      "гущы1эрые",
+      "гущы1эрый",
       "жэмы1ан",
       "жэмачыу",
       "шъхьарыгущы1"
@@ -96366,7 +96445,7 @@
     "synonyms": [
       "гущы1ал",
       "1оржъор",
-      "гущы1эрые",
+      "гущы1эрый",
       "жэмы1ан",
       "жэмачыу"
     ],

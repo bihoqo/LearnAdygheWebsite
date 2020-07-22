@@ -48,7 +48,7 @@
     "to play": "еон / къеон (to play an instrument); джэгун (to play a game); еш1эн / къеш1эн (to play a game)"
   },
   {
-    "to shake": "сысын; гъэсысын; гъэшк1олъэн (to shake a liquid in a container)"
+    "to shake": "сысын; гъэсысын; гъэшк1олъэн (to shake a liquid in a container); зэзэн; гъэзэзэн"
   },
   {
     "to play instrument": "он; еон"
@@ -1062,9 +1062,6 @@
     "sour": "хафэ"
   },
   {
-    "garden": "хатэ"
-  },
-  {
     "heat": "фабэ"
   },
   {
@@ -1083,13 +1080,7 @@
     "hotness": "плъыр"
   },
   {
-    "fool": "делэ"
-  },
-  {
-    "foolish": "делэ"
-  },
-  {
-    "stupid": "делэ"
+    "fool": "делэ; (vulgar) цуманэ"
   },
   {
     "crazy": "делэ"
@@ -1560,9 +1551,6 @@
     "glue": "пцантхьэ"
   },
   {
-    "garden": "щао"
-  },
-  {
     "yard": "щао (Shapsug); щагу"
   },
   {
@@ -1833,7 +1821,10 @@
     "infant": "наныу"
   },
   {
-    "cover": "бгъэн (to thatch); техъон (to lay to cover); теп1он (to lit)"
+    "cover": "к1ышъо; шъхьэтеп1у (lid)"
+  },
+  {
+    "wrapper": "ещэк1ыгъ; ещэхьэк1ыгъ"
   },
   {
     "bison": "домбай; мэзыцу"
@@ -1887,10 +1878,13 @@
     "pacifier": "хьэшъобыдз; хьашъобыдз"
   },
   {
-    "sleeve (of a shirt)": "1эгъуапэ; гъопэк1ыхь (long-sleeved)"
+    "sleeve": "гъуапэ; 1ашъхьэ; 1эгъуапэ (of a shirt); гъопэк1ыхь (long-sleeved); 1эпэгъуапэ (cuff)"
   },
   {
-    "sleeve": "1эгъуапэ (of a shirt); гъопэк1ыхь (long-sleeved)"
+    "sleeveless": "гъуапэ зыпымыт (щыгъын); гъуапэнчъэ"
+  },
+  {
+    "cuff": "1эпэгъуапэ"
   },
   {
     "long-sleeved shirt": "гъопэк1ыхь"
@@ -2004,9 +1998,6 @@
     "mule (footwear)": "лъэбы1у"
   },
   {
-    "bracelet": "1эпшъэхъу; 1эхъу"
-  },
-  {
     "clock": "сыхьат"
   },
   {
@@ -2073,7 +2064,7 @@
     "after": "ыужырэ"
   },
   {
-    "early": "пасэ"
+    "early": "пасэу; жьэу"
   },
   {
     "late": "к1асэ; лъэжъуагъ"
@@ -3081,9 +3072,6 @@
     "chatty": "ба1о; гущы1эрый; гущы1ал"
   },
   {
-    "talkative": "ба1о; гущы1эрый; гущы1ал"
-  },
-  {
     "almond": "бадэ"
   },
   {
@@ -3403,9 +3391,6 @@
   },
   {
     "to sneak": "ч1эк1ошъэн"
-  },
-  {
-    "to shake": "зэзэн; гъэзэзэн"
   },
   {
     "to tremble": "к1эзэзын; сысын"
@@ -4626,9 +4611,6 @@
     "loner": "пыдзыгъ"
   },
   {
-    "to separate": "зэгогъэк1ын; зэпыгъэк1ын; фзэпедзын"
-  },
-  {
     "liar": "пц1ыус; пц1ырый"
   },
   {
@@ -5131,9 +5113,6 @@
   },
   {
     "to seethe": "быжъутэн"
-  },
-  {
-    "to boil": "гъэжъон; быжъутэн"
   },
   {
     "trot": "ушъы; лъэхъу; былъытырык1у"
@@ -5707,9 +5686,6 @@
   },
   {
     "pupil": "п1ур; к1элэеджак1о; еджак1о"
-  },
-  {
-    "to scratch": "п1эстхъэн; п1эсхъэн (Shapsug)"
   },
   {
     "to train": "мэсэн (to be trained); гъэсэн (to train someone); зыгъэсэн (to train)"
@@ -6771,9 +6747,6 @@
     "blue": "шхъуант1э"
   },
   {
-    "brass": "гъоплъашъу"
-  },
-  {
     "coppery": "гъоплъашъу"
   },
   {
@@ -7509,10 +7482,10 @@
     "manner of speech": "1уак1э; къэ1уак1э"
   },
   {
-    "oral": "жэрыIо"
+    "oral": "жэры1о"
   },
   {
-    "verbal": "жэрыIо"
+    "verbal": "жэры1о"
   },
   {
     "tale-teller": "къэ1отак1о, къэзы1уатэрэр"
@@ -7629,7 +7602,13 @@
     "obscure": "гуры1огъуай"
   },
   {
-    "naive": "делэгъош1у (someone to fool easily)"
+    "naive": "зэхэш1ык1ынчъэ, гулъытэ зимы1э; делэгъош1у (someone to fool easily)"
+  },
+  {
+    "simpleminded": "дела1о; акъыл ш1агъо зимы1э"
+  },
+  {
+    "simple-minded": "дела1о; акъыл ш1агъо зимы1э"
   },
   {
     "clear": "нафэ; ӏэш1эхэу къыбгуры1он; гуры1огъош1у"
@@ -8004,40 +7983,25 @@
     "light": "нэф; нэфын"
   },
   {
-    "son-in-law": "махълъэ"
+    "foreleg": "ш1уалъэ; лъэкъуипл1 зи1э псэушъхьэм ыпэрэ лъакъохэр ары"
   },
   {
-    "foreleg": "ш1уалъэ"
-  },
-  {
-    "rock": "мызуэ"
-  },
-  {
-    "stone": "мызуэ"
+    "front legs": "ш1уалъэ"
   },
   {
     "starling": "пчэндэхъу"
   },
   {
-    "sharp (Able to cut easily)": "чан"
+    "sharp": "чан; чыян (Shapsug); папц1э (pointy)"
   },
   {
-    "sharp (Intelligent)": "чан"
+    "fellow": "цӏыфы"
   },
   {
-    "fellow": "чан"
-  },
-  {
-    "nit": "ц1ак1э"
-  },
-  {
-    "nit": "с1ак1ьэ"
+    "nit": "ц1ак1э; с1ак1ьэ (Shapsug)"
   },
   {
     "wart": "къамц1ыч"
-  },
-  {
-    "to shake": "сысын"
   },
   {
     "beetle": "шъомп1эжъ"
@@ -8049,76 +8013,31 @@
     "firebrand": "пхъэц1ак1э"
   },
   {
-    "black": "ц1уц1э"
-  },
-  {
-    "black": "ц1уц1э"
-  },
-  {
-    "dark": "ш1унк1ы"
-  },
-  {
     "gloomy": "ш1унк1ы"
   },
   {
     "haze": "ш1унк1ы"
   },
   {
-    "dirty": "ц1уэи"
+    "to separate": "пык1ын (to separate from); зэпыдзын; зэгогъэк1ын; зэпыгъэк1ын; зэхэдзын (to separate to sub groups; to distinguish)"
   },
   {
-    "crud": "ц1уэи"
+    "to divorce from": "пык1ыжьын"
   },
   {
-    "to leave someone, to refrain from, to separate from": "пык1ын"
+    "to name": "ц1э фэусын (to give a name to); иунашъо ш1ын (to mention)"
   },
   {
-    "to divorce from": "пык1ын"
+    "to read": "еджэн (to be reading); джын (to complete reading); хэджэхьан (to read through)"
   },
   {
-    "alternative form of \"зэпык1ын\"": "пык1ын"
+    "to be reading": "еджэн"
   },
   {
-    "alternative form of \"пык1ын\"": "пык1ьын"
+    "to study": "еджэн; феджэн (to study for); деджэн (to study with)"
   },
   {
-    "alternative form of \"еджэн\"": "егьэн"
-  },
-  {
-    "to call someone": "еджэн"
-  },
-  {
-    "to name someone": "еджэн"
-  },
-  {
-    "to call someone by name": "еджэн"
-  },
-  {
-    "to read": "еджэн"
-  },
-  {
-    "to study": "еджэн"
-  },
-  {
-    "to stand up": "тэджын"
-  },
-  {
-    "alternative form of \"тэджын\"": "тэгьын"
-  },
-  {
-    "to dance": "угьын"
-  },
-  {
-    "to dance": "уджын"
-  },
-  {
-    "alternative form of \"лъапц1э\"": "лъапс1э"
-  },
-  {
-    "today": "непэ"
-  },
-  {
-    "quail (bird)": "ныбгъу"
+    "today": "непэ; нэпэ (Shapsug)"
   },
   {
     "to count": "пчъын"
@@ -8193,7 +8112,10 @@
     "bird's fat": "лъынэ"
   },
   {
-    "to understand clearly (To perceive sounds through the ear clearly), to hear well, to make out sound clearly": "зэхэхын"
+    "to hear well": "зэхэхын"
+  },
+  {
+    "to make out": "зэхэхын"
   },
   {
     "to disassemble, To take to pieces; to reverse the process of assembly.": "зэхэхын"
@@ -8526,73 +8448,73 @@
     "August": "шышъхьэ1умаз"
   },
   {
-    "to count": "лъытэн"
+    "sake": "хьатыр"
   },
   {
-    "to respect, to honor": "лъытэн"
+    "to respect": "лъытэн; пхъатэ етын; пхъатэ фэш1ын"
   },
   {
-    "to understand (Shapsug and Natukhai dialects) (See гуры1он)": "гулъытэн"
+    "to honor": "лъытэн; пхъатэ етын; пхъатэ фэш1ын"
+  },
+  {
+    "to understand": "гуры1он (to understand meaning); зэхэхын (to make out clearly what have been said or heard); гулъытэн (Shapsug)"
   },
   {
     "to notice": "гулъытэн"
   },
   {
-    "man": "хъулъфыгъэ"
+    "to realize": "гулъытэн"
   },
   {
-    "alternative form of \"хъулъфыгъэ\"": "къулъфыгъэ"
+    "to communicate": " къэбар егъэ1уныр, къэбар егъэш1эныр; 1опщын"
   },
   {
-    "bracelet": "1эхъу"
+    "to report": " къэбар егъэ1уныр, къэбар егъэш1эныр; 1опщын"
+  },
+  {
+    "to let know": " къэбар егъэ1уныр, къэбар егъэш1эныр; 1опщын"
+  },
+  {
+    "to give updates": " къэбар егъэ1уныр (to report), къэбар егъэш1эныр (to report); 1опщын"
+  },
+  {
+    "to give an update": " къэбар егъэ1уныр (to report), къэбар егъэш1эныр (to report); 1опщын"
   },
   {
     "astronomy": "жъогъо ш1эныгъ"
   },
   {
-    "Red ember": "жъокужъоустхъу"
+    "red ember": "жъокужъоустхъу"
   },
   {
-    "brass": "гъоплъышъо"
+    "brass": "гъоплъышъо; гъофы"
   },
   {
     "color of copper": "гъоплъышъо"
   },
   {
-    "green": "къашхъо"
+    "greenish blue": "къашхъо"
   },
   {
-    "green color": "къашхъо"
+    "brown": "хьаплъы; къахьэуашъо"
   },
   {
-    "brown": "ет1агъо"
-  },
-  {
-    "brown color": "ет1агъо"
-  },
-  {
-    "alternative form of \"къэхьыо\"": "къэхьо"
+    "lump of dirt": "ет1эгъой"
   },
   {
     "grey": "ежьашъо"
   },
   {
-    "grey": "ежьашъо"
+    "garden": "хатэ; чъыгхатэ (garden with trees and plants)"
   },
   {
-    "wheel": "щэрэхъ"
+    "tree garden": "чъыгхатэ"
   },
   {
-    "tire": "хъашъо"
+    "arboretum": "чъыгхатэ"
   },
   {
-    "lake": "хыкъумэ"
-  },
-  {
-    "garden (Usually one with tress and plants)": "чъыгхатэ"
-  },
-  {
-    "kitchen": "пщэрыхьап1э"
+    "kitchen": "пыты; пщэрыхьап1э"
   },
   {
     "breeze": "жьышъаб"
@@ -8604,37 +8526,34 @@
     "to collide with": "жэхэлъэдэн"
   },
   {
-    "to jump in the face of": "жэхэлъэдэн"
+    "to jump onto": "жэхэпк1эн"
   },
   {
-    "to jump in the face of": "жэхэпк1эн"
+    "to rush into": "жэхэлъэдэн; телъэдэн; хэлъэдэн"
   },
   {
-    "to examine a face": "жэхэпк1эн"
+    "to scrutinize": "куоу хэплъэн; хэплъэхьан"
   },
   {
-    "to scrutinize": "жэхэпк1эн"
+    "to glare": "жэхэплъэн"
   },
   {
-    "to jump on someone (for assault)": "жэхэпк1эн"
+    "to sweep": "пхъэнк1эн; пхъэнк1ын; жэхэпхъэнк1эн (to sweet stuff into someone); пхъэк1эн (Shapsug)"
   },
   {
-    "to glare at a face": "жэхэплъэн"
+    "to scratch": "ц1энтхъун (to leave a scratch); п1эстхъэн (to be scratching); еп1эстхъын (to scratch someone); ц1этхъун (Shapsug); п1эсхъэн (Shapsug); жэхэтхъон (to scratch someone's face)"
   },
   {
-    "to google at a face": "жэхэплъэн"
+    "to scrape": "ц1энтхъун"
   },
   {
-    "to sweep in front of a face": "жэхэпхъэнк1эн"
+    "to stain": "хэупц1эн (intensive); жэхэупц1эн (very intensive)"
   },
   {
-    "to scratch a face": "жэхэтхъон"
+    "to splash": "утхэн; теупц1эн (extremely intensive)"
   },
   {
-    "to stain a face": "жэхэупц1эн"
-  },
-  {
-    "to splash forcefully onto someone or something": "жэхэупц1эн"
+    "to spatter": "утхэн; теупц1эн (extremely intensive)"
   },
   {
     "very early": "жьыщэ"
@@ -8643,220 +8562,163 @@
     "too early": "жьыщэ"
   },
   {
-    "Before season": "жьэу"
+    "bent": "1онт1агъ; жэ1онт1агъ"
   },
   {
-    "early": "жьэу"
+    "to bend": "1онт1эн (to be bended); гъэ1онт1эн (to bend something); гъэ1орт1эн (Shapsug)"
   },
   {
-    "bent": "жэ1онт1агъ"
+    "to crook": "1онт1эн (to be crooked); гъэ1онт1эн (to crook something); гъэ1орт1эн (Shapsug)"
   },
   {
-    "crooked": "жэ1онт1агъ"
+    "to curve": "1онт1эн (to be curved); гъэ1онт1эн (to curve something); гъэ1орт1эн (Shapsug)"
+  },
+  { 
+    "crooked": "1онт1агъ"
   },
   {
-    "curved": "жэ1онт1агъ"
+    "curved": "1онт1агъ"
   },
   {
-    "foolish": "жэ1улэл"
+    "foolish": "делэ; жэ1улэл; (vulgar) цуманэ"
   },
   {
-    "silly": "жэ1улэл"
+    "silly": "мы1уш; жэ1улэл"
   },
   {
-    "stupid": "жэ1улэл"
+    "unwise": "мы1уш; акъылынчъэ; гулъытэнчъэ"
   },
   {
-    "Loose jaw": "жэ1улэл"
+    "stupid": "делэ"
   },
   {
-    "to hang and bounce (freely)": "1улэлын"
+    "loose jaw": "жэ1улэл"
   },
   {
-    "alternative form of \"гъопэк1эхь\"": "гъопэк1ьэхь"
+    "to hang": "пылъын (to be hanging); пылъэн (to hang); 1улэлын (to hang and bounce freely)"
   },
   {
-    "sleeve, The part of the shirt that covers the arm": "1эпэгъуапэ"
+    "foolishness": "делагъэ; жэ1улэлыгъ; (vulgar) цумэнагъэ"
   },
   {
-    "foolishness": "жэ1улэлыгъ"
+    "insanity": "делагъэ"
   },
   {
-    "insanity": "жэ1улэлыгъ"
+    "lunacy": "делагъэ"
   },
   {
-    "lunacy": "жэ1улэлыгъ"
-  },
-  {
-    "madness": "жэ1улэлыгъ"
-  },
-  {
-    "strength": "к1оч1агъэ"
-  },
-  {
-    "neck": "жэгъу"
+    "madness": "делагъэ"
   },
   {
     "dewlap": "жэгъуб"
   },
   {
-    "to fall from the mouth": "жэдэзын"
+    "купжъый": "sub-group"
   },
   {
-    "to utter": "жэдэзын"
+    "thick chin": "жэгъуб"
   },
   {
-    "to pour into the mouth": "жэдэк1эн"
+    "to utter": "жэм къыдэгъэк1ын, жэм къыдедзын; жэм къыдэзын; жэм къыдэгъэзын"
   },
   {
-    "to wedge into the mouth": "жэдэкон"
+    "to fall from mouth": "жэм къыдэзын"
   },
   {
-    "to bring out of the mouth,": "жэдэлъын"
+    "to masticate": "гъэунэшк1ун; упэш1ын (Shapsug)"
   },
   {
-    "to beat on the mouth": "жэдэон"
+    "to chew": "гъэунэшк1ун; упэш1ын (Shapsug)"
   },
   {
-    "to examine the mouth": "жэдэплъыхьан"
-  },
-  {
-    "to throw inside the mouth": "жэдэтэкъон"
-  },
-  {
-    "to chew": "жэдэфэн"
-  },
-  {
-    "to fall into the mouth": "жэдэфэн"
-  },
-  {
-    "to masticate": "жэдэфэн"
-  },
-  {
-    "to chew": "упэш1ын"
-  },
-  {
-    "a person with gray beard": "жэк1агъу"
-  },
-  {
-    "alternative form of \"жэк1апэ\"": "жэк1эпэпкъ"
-  },
-  {
-    "a person that have a trembling bread": "жэк1эпэсыс"
-  },
-  {
-    "barber": "жэк1эупс"
-  },
-  {
-    "hairdresser": "жэк1эупс"
+    "graybeard": "жэк1агъу"
   },
   {
     "barbershop": "жэк1эупсып1"
   },
   {
-    "shop": "щап1э"
+    "shop": "тучан; щап1э"
   },
   {
-    "a person with white beard": "жэк1эф"
+    "whitebeard": "жэк1эф"
   },
   {
     "big beard": "жэк1эшху"
   },
   {
-    "a person with a big beard": "жэк1эшху"
+    "to belch": "къыин; жэкъун"
   },
   {
-    "to belch": "жэкъун"
+    "to burp": "къыин; жэкъун"
   },
   {
-    "to burp": "жэкъун"
+    "ski road": "жэлъак1у"
   },
   {
-    "Ski season": "жэлъак1у"
-  },
-  {
-    "Ski trace": "жэлъак1у"
+    "ski trace": "жэлъак1у"
   },
   {
     "fishhook": "жэлый"
   },
   {
-    "fishhook": "пцэкъэнтф"
+    "fishing": "пцэжъыешэ"
   },
   {
-    "handgun, pistol": "к1эрэхъоцык1у"
+    "fishery": "пцэжъыешэ"
   },
   {
-    "Blessed talker": "жэмай"
+    "fishing-rod": "пцэкъэнтф; пцэкъэнтфык1"
   },
   {
-    "Good talker": "жэмай"
+    "handgun": "к1эрэхъоц1ык1у; шхончк1эк1"
   },
   {
-    "silent": "жэмай"
+    "pistol": "к1эрэхъоц1ык1у; шхончк1эк1"
   },
   {
     "taciturn": "жэмай"
   },
   {
-    "talkative": "жэмачыу"
+    "untalkative": "жэмай"
   },
   {
-    "eloquent": "жэмачыу"
+    "talkative": "гущы1эрый; гущы1ал; жэмачыу; жэмы1ан; ба1о; жэхъу; гущы1эгъал; 1оржъор"
   },
   {
-    "talker": "жэмачыу"
+    "phrasemonger": "гущыIэрый, шъхьэубат; мышъомылы1у"
   },
   {
-    "speaker": "жэмачыу"
+    "rhetorician": "гущы1эрый; гущы1эгъал"
   },
   {
-    "talkative": "гущы1эгъал"
+    "talker": "гущы1эрый; гущы1ал"
   },
   {
-    "eloquent": "гущы1эгъал"
+    "jowl": "жэпкъ"
   },
   {
-    "talking in an ornate way": "гущы1эгъал"
+    "spoken": "жэры1о"
   },
   {
-    "Ornate talker": "гущы1эгъал"
+    "colloquial language": "жэры1уабз"
   },
   {
-    "talkative": "жэмы1ан"
+    "to wander": "къэк1ухьан; къыщык1ухьан"
   },
   {
-    "palate": "жэпкъ"
+    "bystander": "шыхьат (eye-witness)"
   },
   {
-    "lower jaw": "жэпкъ"
+    "idler": "жэукъ"
   },
   {
-    "jaw": "жэпхъэмыбгъу"
+    "gaper": "жэукъ"
   },
   {
-    "beard": "жэпхъэмыбгъу"
+    "onlooker": "плъак1о; к1элъыплъак1о; жэрыплъ"
   },
   {
-    "verbal": "жэры1у"
-  },
-  {
-    "oral": "жэры1у"
-  },
-  {
-    "spoken": "жэры1у"
-  },
-  {
-    "Colloquial language": "жэры1уабз"
-  },
-  {
-    "Prose writing": "жэры1уабз"
-  },
-  {
-    "stupid": "жэрыплъ"
-  },
-  {
-    "wandering": "жэрыплъ"
+    "observer": "плъак1о, к1элъыплъак1о"
   },
   {
     "unmarked": "жэрыплъагъ"
@@ -8865,67 +8727,46 @@
     "unidentified": "жэрыплъагъ"
   },
   {
-    "yawning": "жэукъ"
+    "heedlessness": "жэукъыныр"
   },
   {
-    "stupid": "жэукъ"
+    "rude": "1эдэбынчъэ"
   },
   {
-    "yawn": "жэукъ"
+    "rude talk": "жэхъу"
   },
   {
-    "stupid person": "жэукъ"
+    "unfortunate": "насыпынчъэ"
   },
   {
-    "yawner": "жэукъыгъ"
+    "ill-starred": "насыпынчъэ"
   },
   {
-    "an overly talkative person, chatterbox": "жэхъу"
+    "ill-fated": "насыпынчъэ"
   },
   {
-    "rough": "жэхъу"
+    "luckless": "насыпынчъэ"
   },
   {
-    "rudeness": "жэхъуагъ"
-  },
-  {
-    "ugliness": "жэхъуагъ"
-  },
-  {
-    "to attack a face": "жэхэбэнэн"
-  },
-  {
-    "to wedge": "жэхэзыхьан"
-  },
-  {
-    "to push": "жэхэзыхьан"
-  },
-  {
-    "to go ahead": "жэхэк1отэн"
-  },
-  {
-    "to go forward": "жэхэк1отэн"
-  },
-  {
-    "unfortunate, ill-fated, ill-starred": "мыгъо"
+    "miserable": "мыгъо"
   },
   {
     "short-sleeved shirt": "гъопэк1аку"
   },
   {
-    "alternative form of \"гъопэк1аку\"": "гъопэк1ьаку"
+    "like that": "ащтэу; мощтэу; джэущтэу; ащфэд; мощфэд; джэщфэд"
   },
   {
-    "like that": "джэущтэу"
+    "like this": "мыщтэу; мыщфэд"
   },
   {
-    "alternative form of \"джэущтэу\"": "гьэщту"
+    "Caucasus": "къэвкъаз"
   },
   {
-    "Caucasus, Kavkaz": "къэвкъаз"
+    "Kavkaz": "къэвкъаз"
   },
   {
-    "one's place": "дэж"
+    "one's place": "дэжь"
   },
   {
     "expensive": "лъап1э"
@@ -8934,73 +8775,70 @@
     "dear": "лъап1э"
   },
   {
-    "cheap": "пыуты"
+    "cheap": "пыуты; уасэнчъэ (priceless)"
   },
   {
-    "weak, fragile (usually said about objects)": "махэ"
+    "priceless": "уасэнчъэ"
   },
   {
-    "something not strong, solid durable": "махэ"
+    "weak": "махэ; к1оч1адж (low-powered); ерагъ; к1оч1энчъэ (powerless)"
   },
   {
-    "to cover": "хъумэн"
+    "low-powered": "к1оч1адж"
   },
   {
-    "to pick (fruit, ticket)": "пычын"
+    "powerless": "к1оч1энчъэ"
   },
   {
-    "to boil (water)": "гъэжъон"
+    "breakable": "махэ; убэтэгъош1у"
   },
   {
-    "to plow, to plough": "гъэжъон"
+    "fragile": "махэ; ухъо"
   },
   {
-    "to play (a game)": "джэгун"
+    "to cover": "хъумэн (to cover for protection); бгъэн (to thatch); техъон (to lay to cover); теп1он (to lit)"
   },
   {
-    "to play, to act (To act as the indicated role, especially in a performance)": "джэгун"
+    "to pick": "къыхэхын; пычын (to pull off fruit or flower)"
   },
   {
-    "(rare) to dance in a Djagu (a Circassian dance party)": "джэгун"
+    "to select": "къыхэхын (to pick); хэдэн"
+  },
+  {
+    "to act": "къэджэгун"
+  },
+  {
+    "to perform": "къэджэгун (to act); шӏэн (to do)"
   },
   {
     "bitter": "дыджы"
   },
   {
-    "same": "1эзэ"
+    "same": "а зы; а зыр (absolutive); а зым (ergative); а зымк1э (instrument case); зэфэд (alike)"
   },
   {
-    "alternative form of \"неущымык1\"": "нэущымыщк1ь"
-  },
-  {
-    "alternative form of \"къэк1орэ гъэ\"": "къэк1орэгъэ"
-  },
-  {
-    "alternative form of \"щэджэгъоуж\"": "щэгьэгъож"
+    "same thing": "а зы; а зыр (absolutive); а зым (ergative); а зымк1э (instrument case); зэфэд (alike)"
   },
   {
     "afternoon": "щэджэгъоуж"
   },
   {
-    "next week": "къэк1орэтхьэмафэ"
+    "next week": "къэк1орэ тхьэмафэ"
   },
   {
-    "last week": "ипэтхьэмафэ"
+    "last week": "ипэ тхьэмафэ"
   },
   {
-    "whistle": "шъоуалъэ"
+    "whistle": "шъуй; шъуяалъэ (whistle device)"
   },
   {
-    "alternative form of \"к1энлъэ\"": "к1ьэнлъэ"
-  },
-  {
-    "to disappear, to vanish": "к1одын"
+    "to whistle": "шъуин"
   },
   {
     "to go missing": "к1одын"
   },
   {
-    "to get lost": "к1одын"
+    "to get lost": "к1одын; хэк1одэн (to get lost the forest, liquid or gas); ик1одэн (to get lost inside)"
   },
   {
     "to get lost (in an area)": "хэк1одэхьын"
@@ -9865,9 +9703,6 @@
   },
   {
     "hard, difficult": "хьылъэ"
-  },
-  {
-    "to understand": "гуры1он"
   },
   {
     "alternative form of \"хэш1ык1ын\"": "хэш1ык1ьын"
@@ -10741,9 +10576,6 @@
   },
   {
     "alternative form of \"шъхьантэ\"": "шъхьатэ"
-  },
-  {
-    "sleeve": "1эщхьэ"
   },
   {
     "misdeed": "псэк1од"
@@ -11883,9 +11715,6 @@
     "alternative form of \"дунае\"": "дунай"
   },
   {
-    "shop": "тучан"
-  },
-  {
     "(slang) awesome, nice": "ц1ап1э"
   },
   {
@@ -12085,9 +11914,6 @@
   },
   {
     "to swing": "уфын"
-  },
-  {
-    "wheel": "гъэзалъэ"
   },
   {
     "steering wheel": "гъэзалъэ"
@@ -12786,9 +12612,6 @@
     "alternative form of \"ц1этхъун\"": "ец1этхъун"
   },
   {
-    "to scratch": "ц1этхъун"
-  },
-  {
     "to sneeze": "ц1этхын"
   },
   {
@@ -12799,9 +12622,6 @@
   },
   {
     "alternative form of \"п1эстхъэн\"": "мэп1эстхъэн"
-  },
-  {
-    "to scratch someone (With fingernails or foot-nails)": "еп1эстхъын"
   },
   {
     "to make something slip/slide (on a surface that have a fraction like dirt, mud, wooden table and etc.)": "гъэцохъон"
@@ -13276,9 +13096,6 @@
   },
   {
     "food": "гъомыл"
-  },
-  {
-    "sleeve": "гъуапэ"
   },
   {
     "gadfly": "гъунд"
@@ -14100,9 +13917,6 @@
     "to separate into groups, to segregate": "зэхэдзын"
   },
   {
-    "to separate into singles": "зэпыдзын"
-  },
-  {
     "to isolate": "зэпыдзын"
   },
   {
@@ -14239,9 +14053,6 @@
   },
   {
     "to masticate; to chew, to munch": "уцэ1ун"
-  },
-  {
-    "to chew": "гъэунэшк1ун"
   },
   {
     "to breathe": "жьы къэщэн"
@@ -14916,9 +14727,6 @@
     "alternative form of \"джэхашъо\"": "джыхашъо"
   },
   {
-    "talkative, a person that tend to talk a lot": "гущы1эрые"
-  },
-  {
     "loquacious": "гущы1эрые"
   },
   {
@@ -15091,9 +14899,6 @@
   },
   {
     "translator": "зэдзэк1ак1о"
-  },
-  {
-    "to burp": "къыин"
   },
   {
     "to hiccup": "къыин"
@@ -16464,16 +16269,10 @@
     "to disappear/vanish out of something": "хэк1одык1ын"
   },
   {
-    "to dance": "къеш1эн"
-  },
-  {
     "(rare) to play (a game)": "къеш1эн"
   },
   {
     "(rare) to play, to act (To act as the indicated role, especially in a performance)": "къеш1эн"
-  },
-  {
-    "to dance": "еш1эн"
   },
   {
     "(rare) to play (a game)": "еш1эн"
@@ -16786,12 +16585,6 @@
   },
   {
     "to drag or pull something into an area of mass (usually liquid)": "хэлъэшъон"
-  },
-  {
-    "brown": "хьаплъы"
-  },
-  {
-    "brown": "къахьэуашъо"
   },
   {
     "alternative form of \"къахьэуашъо\"": "къэхьыуашъо"
@@ -18168,7 +17961,7 @@
     "reckless": "шъхьэпай"
   },
   {
-    "nonsense": "шъхьэубат"
+    "nonsense": "шъхьэубат; мышъо-мыл; (slightly vulgar) хьэшъутыубат"
   },
   {
     "to fart": "къэкъушъун"
@@ -18583,9 +18376,6 @@
   },
   {
     "share; part; portion": "1ахь"
-  },
-  {
-    "talkative, a person that tend to talk a lot": "гущы1ал"
   },
   {
     "loquacious": "гущы1ал"
@@ -19977,9 +19767,6 @@
     "to prick, to sting": "хэ1ун"
   },
   {
-    "brass": "гъофы"
-  },
-  {
     "bestest, very best; most best": "ялыегъэ"
   },
   {
@@ -20274,7 +20061,7 @@
     "illusion": "нэп1эхъ"
   },
   {
-    "to yawn": "жэ зэк1эк1ын"
+    "to yawn": "жэ зэк1эк1ын; жэр зэк1эк1ын"
   },
   {
     "pantofle, slipper, babouche, pump": "папыщ"
