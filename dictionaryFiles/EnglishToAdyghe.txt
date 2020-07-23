@@ -3762,7 +3762,10 @@
     "problem": "1офы; 1офыгъу; проблэм; бырсыр (trouble)"
   },
   {
-    "to throw": "дзын"
+    "to throw": "дзын; тедзэн (to throw at); 1удзын (to throw away); хэдзэн (to throw among people or into an area with gas or liquid); дэдзыен (to throw up); едзыхын (to throw down); жэхэдзэн (to throw intensively onto someone); лъыдзын (to throw toward); зэк1эдзэн (to throw backward); шъхьэдэдзын (to throw over)"
+  },
+  {
+    "to throw": "1удзын (to throw away)"
   },
   {
     "to come into existence": "къэхъун"
@@ -4509,7 +4512,7 @@
     "to release": "гъэлэлэн; т1упщын"
   },
   {
-    "to launch": "т1упщын"
+    "to launch": "т1упщын; дэфыен (to launch upward); дэгъэбыбэен (to launch high)"
   },
   {
     "to set free": "гъэлэлэн; т1упщын"
@@ -7158,10 +7161,10 @@
     "to permit": "дэн; фэдэн (to permit to)"
   },
   {
-    "to assent": "дэн; дэштэн (to agree with)"
+    "to assent": "дэн; дэштэн (to agree with); дегъэштэн (to agree with)"
   },
   {
-    "to accept": "дэн; дэштэн (to agree with)"
+    "to accept": "дэн; дэштэн (to agree with); дегъэштэн (to agree with)"
   },
   {
     "to consent": "дэн (to permit, accept); дэштэн (to agree with)"
@@ -7863,7 +7866,7 @@
     "to disagree": "дэмыштэн; мыдэн, емыуцол1эн"
   },
   {
-    "to agree": "дэштэн; дэн, еуцол1эн"
+    "to agree": "дэштэн (to agree with); дегъэштэн (to agree with); дэн, еуцол1эн"
   },
   {
     "dispute": "зэнэкъокъуныгъ; зэш1онэныр"
@@ -8091,16 +8094,16 @@
     "to make out": "зэхэхын"
   },
   {
-    "to disassemble, To take to pieces; to reverse the process of assembly.": "зэхэхын"
+    "to disassemble": "зэхэхын"
   },
   {
-    "to drive": "фын"
+    "to take to pieces.": "зэхэхын"
   },
   {
-    "to drive off, to drive away (To force someone to leave or go away.)": "фын"
+    "to assembly.": "зэхэхын"
   },
   {
-    "to go down": "ехын"
+    "to go down": "ехын; дехын (to go down with)"
   },
   {
     "to give birth": "лъфэн"
@@ -8160,10 +8163,10 @@
     "to defeat": "гъэмартын; тек1он; гъэпщэн (Shapsug))"
   },
   {
-    "to beat": "гъэмартын (to win); тек1он (to overcome); гъэпщэн (Shapsug); пызэохьан (to beat physically); хэохьан (to beat with fists); хэшъутырэхьан (to beat with kicks); пэлъэшын (to overpower); (vulgar) шъутыкӏэ гъэк1он"
+    "to beat": "гъэмартын (to win); тек1он (to overcome); гъэпщэн (Shapsug); пызэохьан (to beat physically); фын; хэохьан (to beat with fists); хэшъутырэхьан (to beat with kicks); пэлъэшын (to overpower); (vulgar) шъутыкӏэ гъэк1он"
   },
   {
-    "to win": "хьын; гъэмартын (to win against); тек1он (to overcome); гъэпщэн (Shapsug)"
+    "to win": "хьын; гъэмартын (to win against); фын; тек1он (to overcome); гъэпщэн (Shapsug)"
   },
   {
     "to extend unexpectedly": "пхъон"
@@ -9162,6 +9165,18 @@
     "to be happy": "тхъэжьын; гъэтхъэжьын (to make someone happy)"
   },
   {
+    "to dare to": "екун; тегушхон"
+  },
+  {
+    "to jeopardize": "гъэон"
+  },
+  {
+    "to show selflessness": "зэмыблэжьын"
+  },
+  {
+    "to spare onself": "зэблэжьын"
+  },
+  {
     "to crush": "п1ырт1ын; къузын"
   },
   {
@@ -9171,139 +9186,58 @@
     "to crash": "хэхьан (to crash into); жэхэхьан (to collidate into); к1оц1ыхьан (to intensively crash into); дэфэн (to drive off)"
   },
   {
-    "to get something stuck": "дэгъэпт1эн"
-  },
-  {
     "to implant": "хэлъхьан; гъэт1ысын / хэгъэт1ысыхьан; т1эн (Shapsug); хэт1эн (Shapsug)"
   },
   {
     "to fly away": "1убыбын; 1убыбык1ын"
   },
   {
-    "to launch high;": "дэгъэбыбэен"
-  },
-  {
     "to fly": "быбын; дэбыбыен (to fly up); гъэбыбын (to make something fly); дэгъэбыбэен (to make something fly up)"
   },
   {
-    "to fly upward": "дэгъэбыбэен (to make something fly up)"
+    "to fly upward": "дэбыбэен (to fly up); дэгъэбыбэен (to make something fly up)"
   },
   {
-    "to fly up": "дэгъэбыбэен (to make something fly up)"
+    "to fly up": "дэбыбэен (to fly up); дэгъэбыбэен (to make something fly up)"
   },
   {
-    "to raise (hold up)": "дэгъэк1оен"
-  },
-  {
-    "to make someone/something go up": "дэгъэк1оен"
+    "to go up": "дэк1оен (to go up); дэгъэк1оен (to make someone go up); ч1ык1ын (Shapsug)"
   },
   {
     "to forgive": "фэгъэгъун"
   },
   {
-    "to make something dry (something that should not be wet such as clothes, roads, body parts).": "гъэгъушъын"
+    "to send": "гъэк1он (to send someone to); гъэхьын (to send something to)"
   },
   {
-    "to make someone leave quicklyl": "дэгъэдыдык1ын"
+    "to drizzle": "т1эт1эн (to be drizzling); тет1эт1эн (to be drizzling on); тегъэт1эт1эн (to drizzle on)"
   },
   {
-    "to make something fall out of another object": "дэгъэзын"
+    "to make someone sad": "зэгъэгожъын"
   },
   {
-    "to send someone upwards": "дэгъэзен"
+    "to freeze": "щтын (to be frozen); гъэщтын (to freeze); дэщтыхьан (to be frozen inside a firdge); дэгъэщтыхьан (to freeze inside a firdge); хэщтыхьан (to be frozen in a liquid or gas); хэгъэщтыхьан (to freeze in a liquid or gas); чъын (Shapsug); гъэчъын (Shapsug)"
   },
   {
-    "to make/allow someone or something to stay (In some area)": "дэгъэтын"
+    "to drive": "фын (to drive a vehicle or cattle); ифын (to drive away from an area), 1уфын (to drive away from near); дэфыен (to drive upward)"
   },
   {
-    "to make/allow someone or something to sit (In some area)": "дэгъэт1ысхьэн"
+    "to go down with": "дехын"
   },
   {
-    "to spill some liquid into somewhere": "дэгъэт1ыт1эн"
+    "to run down": "ечъэхын"
   },
   {
-    "to make someone sad": "гъэгожъын"
+    "to slide down": "ечъэхын"
   },
   {
-    "to freeze (in some area)": "дэгъэчъыхьэн"
+    "to build": "ш1ын; фэш1ын (to build for); дэш1ын (to build with); ш1ыжьын (to rebuild); иш1ыхьан (to build inside); дэш1ыхьан (to build inside a yard or inside another object); теш1ыхьан (to build on); ч1эш1ыхьан (to build under)"
   },
   {
-    "to take somethings with oneself": "дэхьын"
+    "to measure": "шын / къэшын"
   },
   {
-    "to cut the hair upwards,": "деупсэен"
-  },
-  {
-    "to turn around": "деухьэн"
-  },
-  {
-    "to Blunge, to spray": "деутэн"
-  },
-  {
-    "to pull out, to tear out": "деутын"
-  },
-  {
-    "to find a solution together with": "деусэн"
-  },
-  {
-    "to write a poem together with,": "деусэн"
-  },
-  {
-    "to lie (say a lie) together with": "деусын"
-  },
-  {
-    "to name together with": "деусын"
-  },
-  {
-    "walnut garden,": "дэялъ"
-  },
-  {
-    "to drive away or out,": "деушъэн"
-  },
-  {
-    "to expel": "деушъэн"
-  },
-  {
-    "to fill together with": "деушъэн"
-  },
-  {
-    "to pile together with": "деушъэн"
-  },
-  {
-    "to expel upwards": "дефыен"
-  },
-  {
-    "to launch upwards": "дефыен"
-  },
-  {
-    "to raise price": "дефыен"
-  },
-  {
-    "to be taken out": "дехын"
-  },
-  {
-    "to go down together with": "дехын"
-  },
-  {
-    "alternative form of \"дэхьыен\"": "дехьыен"
-  },
-  {
-    "alternative form of \"дэхьыхын\"": "дехьыхын"
-  },
-  {
-    "to bite, to gnaw": "ецэгъон"
-  },
-  {
-    "to run down a slope, to slide down a slope": "ечъэхын"
-  },
-  {
-    "to build in": "дэш1ыхьэн"
-  },
-  {
-    "to measure": "шын"
-  },
-  {
-    "to take with": "дищэн (to take someone along); зыдэщэн (to take someone along with oneself)"
+    "to take with": "дэщэн (to take someone along); зыдэщэн (to take someone along with oneself)"
   },
   {
     "to place": "дэгъэуцон"
@@ -9336,16 +9270,16 @@
     "to deviate": "текощык1ын (to be deviate); тегъэкощык1ын (to deviate something); гъэкощын (to deviate something); гъэк1отэн (to deviate something); тек1отык1ын (to be deviate); тегъэк1отык1ын (to deviate something)"
   },
   {
-    "to depart": "ежьэн"
+    "to depart": "ежьэжьын"
   },
   {
-    "to set out on a journey.": "ежьэн"
-  },
-  {
-    "to comb the hair up, to raise the hair,": "дежьыен"
+    "to set out on a journey.": "ежьэн / ежьэжьын"
   },
   {
     "chorus": "дежъыуак1о"
+  },
+  {
+    "to choruschorus": "дежъыон"
   },
   {
     "flatterer": "дежъыуак1о"

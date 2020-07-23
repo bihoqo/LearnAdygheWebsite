@@ -39531,6 +39531,23 @@
     "ipa": "daːwəʃ"
   },
   {
+    "word": "екун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to be melted",
+        "examples": [
+          {
+            "sentence": "Сэ сихьанэу '''ескугъэп'''",
+            "translation": "'''I dare not''' to enter."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "jakʷən"
+  },
+  {
     "word": "де1эн",
     "lang": "Adyghe",
     "definitions": [
@@ -40488,11 +40505,11 @@
     "ipa": "daʁatʼəsħan"
   },
   {
-    "word": "дэгъэт1ыт1эн",
+    "word": "дэгъэт1эт1эн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to spill some liquid into somewhere",
+        "meaning": "to drizzle into a bread",
         "examples": [
           {
             "sentence": "к1алэм кум '''дегъэт1ат1э''' псы",
@@ -40506,10 +40523,10 @@
       }
     ],
     "type": "verb",
-    "ipa": "daʁatʼətʼan"
+    "ipa": "daʁatʼatʼan"
   },
   {
-    "word": "гъэгожъын",
+    "word": "зэгъэгожъын",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -40527,19 +40544,19 @@
       }
     ],
     "type": "verb",
-    "ipa": "ʁaɡʷaʐən"
+    "ipa": "zaʁaɡʷaʐən"
   },
   {
-    "word": "дэгъэчъыхьэн",
+    "word": "дэгъэщтыхьан",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to freeze (in some area)",
+        "meaning": "to freeze inside another object (like a fridge)",
         "examples": []
       }
     ],
     "type": "verb",
-    "ipa": "daʁat͡ʃəħan"
+    "ipa": "daʁaɕtəħaːn"
   },
   {
     "word": "дэхьын",
@@ -40571,7 +40588,7 @@
     "ipa": "daħən"
   },
   {
-    "word": "деупсэен",
+    "word": "дэупсэен",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -40580,147 +40597,27 @@
       }
     ],
     "type": "verb",
-    "ipa": "dewpsajan"
+    "ipa": "dapsajan"
   },
   {
-    "word": "деухьэн",
+    "word": "дэфыен",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to turn around",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "dewħan"
-  },
-  {
-    "word": "деутэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to Blunge, to spray",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "dewtan"
-  },
-  {
-    "word": "деутын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to pull out, to tear out",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "dajtən"
-  },
-  {
-    "word": "деусэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to find a solution together with",
+        "meaning": "to launch upward",
         "examples": []
       },
       {
-        "meaning": "to write a poem together with,",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "dajsan"
-  },
-  {
-    "word": "деусын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to lie (say a lie) together with",
+        "meaning": "to raise upward",
         "examples": []
       },
       {
-        "meaning": "to name together with",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "dajsən"
-  },
-  {
-    "word": "дэялъ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "walnut garden,",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "dajaːɬ"
-  },
-  {
-    "word": "деушъэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to drive away or out,",
-        "examples": []
-      },
-      {
-        "meaning": "to expel",
-        "examples": []
-      },
-      {
-        "meaning": "to fill together with",
-        "examples": []
-      },
-      {
-        "meaning": "to pile together with",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "dajʂan"
-  },
-  {
-    "word": "дефыен",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to expel upwards",
-        "examples": []
-      },
-      {
-        "meaning": "to launch upwards",
-        "examples": []
-      },
-      {
-        "meaning": "to raise price",
+        "meaning": "to drive upward",
         "examples": []
       }
     ],
     "type": "verb",
     "ipa": "dajfəjan"
-  },
-  {
-    "word": "дехын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to be taken out",
-        "examples": []
-      },
-      {
-        "meaning": "to go down together with",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "dajxəx"
   },
   {
     "word": "дехьыен",
@@ -40751,7 +40648,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to bite, to gnaw",
+        "meaning": "to harden",
         "examples": []
       }
     ],
@@ -40776,7 +40673,7 @@
     "ipa": "jat͡ʂaxən"
   },
   {
-    "word": "дэш1ыхьэн",
+    "word": "дэш1ыхьан",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -40790,6 +40687,7 @@
       }
     ],
     "type": "verb"
+    "ipa": "jaʃʼəħaːn"
   },
   {
     "word": "шын",
@@ -55909,7 +55807,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to drip (a sticky substances) on",
+        "meaning": "to drip (a sticky substances) on; to drizzle on",
         "examples": [
           {
             "sentence": "Шъоур анэм '''тет1ат1э'''.",
@@ -55930,7 +55828,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to drip (sticky substances like honey, cake and color liquid)",
+        "meaning": "to drip (sticky substances like honey, cake and color liquid); to drizzle",
         "examples": [
           {
             "sentence": "'''Умыгъэт1ат1''' шхынэр.",
@@ -95024,7 +94922,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be dripping (sticky substances like honey, cake and color liquid)",
+        "meaning": "to drizzle; to be dripping (sticky substances like honey, cake and color liquid)",
         "examples": []
       }
     ],
