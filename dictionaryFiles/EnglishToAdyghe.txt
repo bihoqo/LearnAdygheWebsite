@@ -3945,7 +3945,7 @@
     "to cleave": "гоутын; зэгоутын"
   },
   {
-    "to cut": "бзын (to cut with scissors or knife or sword); пыупк1ын (to cut off hair or tree branches); иупк1ын (to cut down a tree); ш1обзын (to slice); упк1эн (to mow); упхъун (to cut hair or fur or grass); к1эупхъухьан (to take a haircut)"
+    "to cut": "бзын (to cut with scissors or knife or sword); пыупк1ын (to cut off hair or tree branches); иупк1ын (to cut down a tree); ш1обзын (to slice); упк1эн (to mow); упхъун (to cut hair or fur or grass); к1эупхъухьан (to take a haircut); хэупк1ын (to cut off); хэбзык1ын (to cut off)"
   },
   {
     "to cut down": "иупк1ын"
@@ -4272,7 +4272,7 @@
     "to pretty up": "зэгъэфэн"
   },
   {
-    "to fit": "ек1ун; фэш1оу ш1ын (to adjust clothes to fit someone); егъэк1ун (to make it fit for someone); хэзэгъэн (to fit in a group); щыфэн (to fit clothes); щыхьан (to fit clothes on body)"
+    "to fit": "ек1ун; фэш1оу ш1ын (to adjust clothes to fit someone); егъэк1ун (to make it fit for someone); хэзэгъэн (to fit in a group); щыфэн (to fit clothes); щыхьан (to fit clothes on body); дэгъэфэн (to fit something between); хэгъэфэн (to fit something among other objects)"
   },
   {
     "to adjust": "фэш1оу пш1ыныр (to adjust to one's needs)"
@@ -4746,7 +4746,7 @@
     "to fix": "гъэтэрэзыжьын (recorrect); ш1ыжьын (to repair); дыжьын (to sew up), гъэцэк1эжьын (to mend)"
   },
   {
-    "to destroy": "гъэон; зэхэкъутэн; зэхэкъутэхьан; зэхэубэтэн; зэхэубэтэхьан"
+    "to destroy": "гъэон; зэхэкъутэн; зэхэкъутэхьан; зэхэубэтэн; зэхэубэтэхьан; гъэухъэрэбын (from Arabic)"
   },
   {
     "to ruin": "гъэон (to destroy, to spoil); гъэсэкъатын (to make something dysfunctional); унэхъун; гъэунэхъун"
@@ -5071,9 +5071,6 @@
   },
   {
     "to fly off": "быбыжьын"
-  },
-  {
-    "to fly": "быбын"
   },
   {
     "airplane": "къухьэлъат; къухьэбыб; ошъоку; гъуч1ыбзыу; быбылъ"
@@ -5673,7 +5670,7 @@
     "to adopt": "п1ун"
   }
   {
-    "to raise": "п1ун (to adopt); дэщэен; дэ1этэен; 1этын; чӏыхын (Shapsug); ч1ыгъэк1ын (Shapsug); дэхьыен"
+    "to raise": "п1ун (to adopt); дэщэен; дэ1этэен; 1этын; чӏыхын (Shapsug); ч1ыгъэк1ын (Shapsug); дэхьыен; дэгъэк1оен"
   },
   {
     "mat": "п1уаблэ"
@@ -6852,7 +6849,7 @@
     "medicine": "1эзэгъууц; 1эзэгъу уцы"
   },
   {
-    "to plant": "хэлъхьан; гъэт1ысын; т1эн (Shapsug); хэт1эн (Shapsug)"
+    "to plant": "хэлъхьан; гъэт1ысын / хэгъэт1ысыхьан; т1эн (Shapsug); хэт1эн (Shapsug)"
   },
   {
     "predator": "хьак1э-къуак1э"
@@ -7635,9 +7632,6 @@
     "honestly": "шъыпкъэу; шъхьаихыгъэу (frankly)"
   },
   {
-    "clearly": "нафэу"
-  },
-  {
     "bench": "пхъэнтэк1у к1ыхь"
   },
   {
@@ -7794,7 +7788,13 @@
     "to become stuck": "дэнэн"
   },
   {
-    "to get stuck": "дэнэн (between); хэнэн (in a company, bushes, forest, liquid, gas or solid); ш1онэн; "
+    "to get stuck": "дэнэн (between); хэнэн (in a company, bushes, forest, liquid, gas or solid); ш1онэн; дэп1ыт1эн (to get stuck in a narrow place or hole)"
+  },
+  {
+    "to stuck": "дэнэн (between); хэнэн (in a company, bushes, forest, liquid, gas or solid); ш1онэн; дэп1ыт1эн (to get stuck in a narrow place or hole)"
+  },
+  {
+    "to become trapped": "дэнэн"
   },
   {
     "to become trapped": "дэнэн"
@@ -8877,9 +8877,6 @@
     "to go missing": "к1одын"
   },
   {
-    "to get lost": "к1одын; хэк1одэн (to get lost the forest, liquid or gas); ик1одэн (to get lost inside)"
-  },
-  {
     "to get lost (in an area)": "хэк1одэхьын"
   },
   {
@@ -9054,6 +9051,9 @@
     "praise": "щытхъу; дауш"
   },
   {
+    "to praise": "щытхъун"
+  },
+  {
     "to assist": "де1эн"
   },
   {
@@ -9069,97 +9069,127 @@
     "to hide completely,": "дэбзыхык1ын; дэгъэбзыхык1эн (to hide someone completely)"
   },
   {
-    "to find": "гъотын"
+    "to find": "гъотын / къэгъотын; хэгъотэн (to find something among); къигъотэн (to find inside)"
   },
   {
-    "to lose one's way, to go astray, to get lost (by going the wrong way)": "хэгъощэн"
+    "to lose one's way": "гъощэн; хэгъощэн"
+  },
+  {
+    "to go astray": "гъощэн; хэгъощэн"
+  },
+  {
+    "to astray": "гъощэн; хэгъощэн"
+  },
+  {
+    "to get lost": "гъощэн; хэгъощэн (to get lost by going the wrong way); к1одын (to be not found); хэк1одэн (to get lost in the forest, inside a liquid or gas); ик1одэн (to get lost inside)"
   },
   {
     "to appoint": "гъэнэфэн"
   },
   {
-    "to determine": "гъэнэфэн"
+    "to determine": "гъэунэфын"
   },
   {
     "to clarify": "гъэнэфэн"
   },
   {
+    "to explain": "гурыгъэ1он, зэхегъэш1ык1ын"
+  },
+  {
+    "clearly": "нафэу; зэхэугуфык1ыгъэу"
+  },
+  {
+    "clever": "1уш (intelligent person); 1упк1э (expressive)"
+  },
+  {
     "to illuminate": "гъэнэфэн"
   },
   {
-    "to distribute": "гощын"
+    "to distribute": "гощын; угощын; тегощэн (to distribute between)"
   },
   {
-    "to divide": "гощын"
+    "to divide": "гощын; угощын; тегощэн (to divide between)"
   },
   {
-    "to split": "гощын"
+    "to split": "гощын; угощын; тегощэн (to split between); зэпыгъэчъын (to cut off)"
   },
   {
-    "braid": "деблэ"
+    "to split off": "пык1ын; хэк1ын"
   },
   {
-    "to cut between": "дебзык1эн"
+    "braid": "блэн (шъхьацыр)"
   },
   {
-    "to think of, to think about": "гупшысэн"
+    "to cut between": "дэбзык1ын"
   },
   {
-    "alternative form of \"егук1эн\"": "гук1эн"
+    "to cut out": "хэупк1ын; хэбзык1ын"
   },
   {
-    "to destroy, to ruin": "гъэон"
+    "to excise": "хэупк1ын; хэбзык1ын"
   },
   {
-    "to make something explode": "гъэон"
+    "thought": "гупшыс"
   },
   {
-    "to make/allow someone to hit": "гъэон"
+    "to think": "егупшысэн"
   },
   {
-    "to turn, to rotate": "гъэзэн"
+    "to think of": "егупшысэн"
   },
   {
-    "to make food by heat, for example: to bake, to grill, to fry.": "гъэжъэн"
+    "to think about": "гупшысэн"
   },
   {
-    "to be happy": "матхъэжьын"
+    "to destroy": "гъэон"
   },
   {
-    "to make someone happy": "гъэтхъэжьын"
+    "to explode": "къэон; къэгъэон (to make something explode)"
   },
   {
-    "alternative form of \"дэгъэтк1он\"": "дигъэтк1он"
+    "to turn": "гъэзэн (to turn around something); зыкъэгъэзэн (to turn around)"
   },
   {
-    "to get something stuck": "дэпт1эн"
+    "to rotate": "гъэзэн (to rotate once); чэрэзын (to be rotating); гъэчэрэзын (to rotate something); зыгъэчэрэгъун (to rotate oneself), зыгъэчэрэзын  (to rotate oneself)"
+  },
+  {
+    "to spin": "чэрэзын (to be spinning); гъэчэрэзын (to spin something); зыгъэчэрэгъун (to spin oneself), зыгъэчэрэзын  (to spin oneself)"
+  },
+  {
+    "to bake": "гъэжъэн"
+  },
+  {
+    "to be happy": "тхъэжьын; гъэтхъэжьын (to make someone happy)"
+  },
+  {
+    "to crush": "п1ырт1ын; къузын"
+  },
+  {
+    "to have a crush": "тенэц1эхьан (to fall in love)"
+  },
+  {
+    "to crash": "хэхьан (to crash into); жэхэхьан (to collidate into); к1оц1ыхьан (to intensively crash into); дэфэн (to drive off)"
   },
   {
     "to get something stuck": "дэгъэпт1эн"
   },
   {
-    "to implant": "т1эн"
+    "to implant": "хэлъхьан; гъэт1ысын / хэгъэт1ысыхьан; т1эн (Shapsug); хэт1эн (Shapsug)"
   },
   {
-    "to make something fit into somewhere": "дэгъэфэн"
-  },
-  {
-    "to illuminate, to brighten, to shine": "гъэпсэн"
-  },
-  {
-    "alternative form of \"дэгъэбылъхьан\"": "дэгъэбылъхьэн"
-  },
-  {
-    "to fly out, to speed away,": "дэгъэбыбык1ын"
+    "to fly away": "1убыбын; 1убыбык1ын"
   },
   {
     "to launch high;": "дэгъэбыбэен"
   },
   {
-    "to make/let something fly upward": "дэгъэбыбэен"
+    "to fly": "быбын; дэбыбыен (to fly up); гъэбыбын (to make something fly); дэгъэбыбэен (to make something fly up)"
   },
   {
-    "to fly (upward)": "дэбыбэен"
+    "to fly upward": "дэгъэбыбэен (to make something fly up)"
+  },
+  {
+    "to fly up": "дэгъэбыбэен (to make something fly up)"
   },
   {
     "to raise (hold up)": "дэгъэк1оен"
@@ -9273,31 +9303,40 @@
     "to measure": "шын"
   },
   {
-    "to raise (hold up)": "дещыен"
+    "to take with": "дищэн (to take someone along); зыдэщэн (to take someone along with oneself)"
   },
   {
-    "to take someone up": "дещыен"
+    "to place": "дэгъэуцон"
   },
   {
-    "to take someone with oneself": "дэщэн"
+    "to put": "илъхьан (to put inside); телъхьан (to put on); ч1элъхьан (to put under); гъэуцун (to put); тегъэуцун (to put on); дэгъэуцон (to put between); зэтелъхьан (to put on each other)"
   },
   {
-    "to place/put somethings somewhere": "дэгъэуцон"
+    "to place": "илъхьан (to place inside); телъхьан (to place on); ч1элъхьан (to place under); гъэуцун (to place); тегъэуцун (to place on); дэгъэуцон (to place between); зэтелъхьан (to place on each other)"
   },
   {
-    "to place": "гъэуцун"
+    "to agree with": "дэщтэн"
   },
   {
-    "to stop someone/something": "гъэуцун"
+    "to start": "ублэн; ежьэн / къежьэн"
   },
   {
-    "to agree upon with": "дэщтэн"
+    "to begin": "ублэн; ежьэн / къежьэн"
   },
   {
-    "to start, to begin": "ежьэн"
+    "to go off": "текощык1ын"
   },
   {
-    "to go off (to the road), to depart": "ежьэн"
+    "to wander off": "текощык1ын (to wander off); тегъэкощык1ын (to wander someone off); гъэкощын (to wander someone off); тек1отык1ын (to wander off); тегъэк1отык1ын (to wander someone off)"
+  },
+  {
+    "to displace": "текощык1ын (to be displaced); тегъэкощык1ын (to displace something); гъэкощын (to displace something); гъэк1отэн (to displace something); тек1отык1ын (to be displaced); тегъэк1отык1ын (to displace something)"
+  },
+  {
+    "to deviate": "текощык1ын (to be deviate); тегъэкощык1ын (to deviate something); гъэкощын (to deviate something); гъэк1отэн (to deviate something); тек1отык1ын (to be deviate); тегъэк1отык1ын (to deviate something)"
+  },
+  {
+    "to depart": "ежьэн"
   },
   {
     "to set out on a journey.": "ежьэн"
@@ -10710,13 +10749,13 @@
     "pride": "шъхьэ1атынгъэ"
   },
   {
-    "to crash, to drive off": "дэфэн"
+    "to drive off": "дэфэн"
   },
   {
     "fall into some area": "дэфэн"
   },
   {
-    "to crash, to drive off": "дэфын"
+    "to drive off": "дэфын"
   },
   {
     "breath": "фапшэ"
@@ -11020,9 +11059,6 @@
   },
   {
     "alternative form of \"адэ\"": "ады"
-  },
-  {
-    "to move": "хъыен"
   },
   {
     "alternative form of \"хъыен\"": "мэхъыен"
@@ -13227,7 +13263,7 @@
     "to move near a bit": "къылъык1отэн"
   },
   {
-    "to move": "к1отэн"
+    "to move": "хъыен; кощын (to move elsewhere); к1отэн (to move forward)"
   },
   {
     "trail": "лъагъо"
@@ -14988,9 +15024,6 @@
     "to be boiled (milk)": "пщтын"
   },
   {
-    "to split": "зэпыгъэчъын"
-  },
-  {
     "to peal": "течын"
   },
   {
@@ -15433,9 +15466,6 @@
   },
   {
     "to be ruined due to (beset with unfortunate circumstances that seem difficult or impossible to overcome)": "теунэхъухьан"
-  },
-  {
-    "to ruin": "ыунэхъун"
   },
   {
     "God forbid, may god not allow it": "тхьэм емыд"
@@ -16192,9 +16222,6 @@
   },
   {
     "mine": "лагъымэ"
-  },
-  {
-    "to put/place something under something": "ч1элъхьан"
   },
   {
     "to plant (a mine)": "ч1элъхьан"
@@ -19300,9 +19327,6 @@
   },
   {
     "to make something to fall down successively or gradually from": "пыгъэтэкъун"
-  },
-  {
-    "to put something on; to place something on": "телъхьан"
   },
   {
     "to become happy": "тхъэжьын"

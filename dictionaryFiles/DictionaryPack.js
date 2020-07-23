@@ -6334,6 +6334,30 @@
     "ipa": "nafna"
   },
   {
+    "word": "ш1эты",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "clear weather",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "ʃʼatə"
+  },
+  {
+    "word": "зэхэугуфык1ыгъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "distinct, clear",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "zaxawgʷəfət͡ʃʼəʁ"
+  },
+  {
     "word": "къэлэм",
     "lang": "Adyghe",
     "definitions": [
@@ -29765,18 +29789,32 @@
     "definitions": [
       {
         "meaning": "to plant",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Къэгъагъэр ят1эм к1алэм '''хилъхьагъ'''",
+            "translation": "The boy '''planted''' the flower in the dirt."
+          }
+        ]
+      },
+	  {
+        "meaning": "to implant",
+        "examples": [
+          {
+            "sentence": "Ным шэн дахэ ыкъо '''хилъхьагъ'''",
+            "translation": "The mother '''implanted''' good behavior into her son."
+          }
+        ]
       },
       {
         "meaning": "to lie/put somewhere within a mass (gas, solid or liquid)",
         "examples": []
       },
       {
-        "meaning": "to lie/put somewhere among other objects or people",
+        "meaning": "to put/place something among other objects or people",
         "examples": [
           {
-            "sentence": "пIэм '''хэлъын'''",
-            "translation": "'''to lie''' in bed."
+            "sentence": "Ным джэгуалъэр нэмык1 джэгуалъэмэ '''ахилъхьагъ'''",
+            "translation": "The mother '''put''' the toy among the other toys."
           }
         ]
       },
@@ -29787,6 +29825,45 @@
     ],
     "type": "verb",
     "ipa": "xaɬħaːn"
+  },
+  {
+    "word": "хэгъэт1ысыхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to plant",
+        "examples": [
+          {
+            "sentence": "Къэгъагъэр ят1эм к1алэм '''хигъэт1ысыхьагъ'''",
+            "translation": "The boy '''planted''' the flower in the dirt."
+          }
+        ]
+      },
+	  {
+        "meaning": "to implant",
+        "examples": [
+          {
+            "sentence": "Ным шэн дахэ ыкъо '''хигъэт1ысыхьагъ'''",
+            "translation": "The mother '''implanted''' good behavior into her son."
+          }
+        ]
+      },
+      {
+        "meaning": "to put somewhere within a mass (gas, solid or liquid)",
+        "examples": []
+      },
+      {
+        "meaning": "to sit someone among other objects or people",
+        "examples": [
+          {
+            "sentence": "Ным ыкъо нэмык1 сабыймэ '''ахигъэт1ысыхьагъ'''",
+            "translation": "The mother '''put''' her son among the other children."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "xaʁatʼəsħaːn"
   },
   {
     "word": "хьак1экъуак1э",
@@ -39624,6 +39701,18 @@
     "ipa": "ʁanafan"
   },
   {
+    "word": "гъэунэфын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "alternative form of \"гъэнэфэн\"",
+        "examples": []
+	  }
+    ],
+    "type": "verb",
+    "ipa": "ʁawnafan"
+  },
+  {
     "word": "гощын",
     "lang": "Adyghe",
     "definitions": [
@@ -39691,19 +39780,19 @@
     "ipa": "ɡʷaɕən"
   },
   {
-    "word": "деблэ",
+    "word": "хэбзык1ын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "braid",
+        "meaning": "to cut out (to remove a portion out of something)",
         "examples": []
       }
     ],
-    "type": "noun",
-    "ipa": "debla"
+    "type": "verb",
+    "ipa": "xabzət͡ʃʼan"
   },
   {
-    "word": "дебзык1эн",
+    "word": "дэбзык1ын",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -39712,7 +39801,19 @@
       }
     ],
     "type": "verb",
-    "ipa": "debzət͡ʃan"
+    "ipa": "dabzət͡ʃʼan"
+  },
+  {
+    "word": "хэупк1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to cut out (to remove a portion out of something)",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "xawpt͡ʃʼən"
   },
   {
     "word": "гупшысэн",
@@ -40047,25 +40148,34 @@
     "ipa": "diʁatkʷʼan"
   },
   {
-    "word": "дэпт1эн",
+    "word": "дэп1ыт1эн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to get something stuck",
+        "meaning": "to get squeezed intensivly between; to get smashed between",
         "examples": [
           {
-            "sentence": "си1эпхъабэхэр анэм '''дэпт1агъэх'''",
-            "translation": "My fingers '''are stuck''' in the table."
+            "sentence": "си1эпхъабэхэр 1анэм '''ч1эп1ыт1агъэх'''",
+            "translation": "My fingers '''are stuck''' under the table."
           },
           {
-            "sentence": "к1алэм и1э '''дэпт1агъ''' чъыгым",
+            "sentence": "к1алэм ы1э пчъэм '''дэп1ыт1агъ'''",
+            "translation": "The boy's arm '''got smashed''' in the door."
+          }
+        ]
+      },
+	  {
+        "meaning": "to get stuck in a narrow place or hole",
+        "examples": [
+          {
+            "sentence": "к1алэм ы1э чъыгымм '''дэп1ыт1агъ'''",
             "translation": "The boy's arm '''got stuck''' in the tree."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "daptʼan"
+    "ipa": "dapʼətʼan"
   },
   {
     "word": "дэгъэпт1эн",
@@ -40156,16 +40266,16 @@
     "ipa": "daʁabəɬħan"
   },
   {
-    "word": "дэгъэбыбык1ын",
+    "word": "1убыбын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to fly out, to speed away,",
+        "meaning": "to fly away",
         "examples": []
       }
     ],
     "type": "verb",
-    "ipa": "daʁabəbət͡ʃən"
+    "ipa": "ʔʷəbəbən"
   },
   {
     "word": "дэгъэбыбэен",
@@ -52680,6 +52790,18 @@
     "ipa": "deɡʷəpʃəsan"
   },
   {
+    "word": "зыкъэгъэзэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to turn around",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "zəqaʁazan"
+  },
+  {
     "word": "дегъэзэн",
     "lang": "Adyghe",
     "definitions": [
@@ -63819,6 +63941,22 @@
     "ipa": "pʷʼənt͡ʃʼa"
   },
   {
+    "word": "1упк1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "expressive",
+        "examples": []
+      },
+	  {
+        "meaning": "clever; witty",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "pʷʼənt͡ʃʼa"
+  },
+  {
     "word": "т1ыргъон",
     "lang": "Adyghe",
     "definitions": [
@@ -70750,7 +70888,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to collide with, to smash into",
+        "meaning": "to collide with, to crash into",
         "examples": [
           {
             "sentence": "К1алэр дэпкъым '''жэхэхьагъ'''!",
@@ -70973,11 +71111,11 @@
     "ipa": "tajɬʼaħən"
   },
   {
-    "word": "тенэц1эхьын",
+    "word": "тенэц1эхан",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to fall in love with someone",
+        "meaning": "to have a crush; to fall in love with someone",
         "examples": []
       }
     ],
@@ -70986,6 +71124,18 @@
     ],
     "type": "noun",
     "ipa": "tajnat͡sʼaħən"
+  },
+  {
+    "word": "къузын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to crush",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "qʷəzən"
   },
   {
     "word": "пыун",
@@ -73554,7 +73704,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to split",
+        "meaning": "to cut off (to split)",
         "examples": [
           {
             "sentence": "К1алэм лыр ныкъо ныкъоу '''зэпегъэчъы'''",
@@ -76800,6 +76950,66 @@
     ],
     "type": "verb",
     "ipa": "tʂaɕəkʼən"
+  },
+  {
+    "word": "текощык1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to wander off; to deviate",
+        "examples": [
+          {
+            "sentence": "Л1ым гъогум '''текощык1ыгъ'''",
+            "translation": "The man '''deviated from''' the road."
+          }
+        ]
+      },
+	  {
+        "meaning": "to displace; to move from its arranged place",
+        "examples": [
+          {
+            "sentence": "Пкъэур '''тегъэкощык1ыгъ'''",
+            "translation": "The pillar '''was displaced'''."
+          },
+		  {
+            "sentence": "Блокит1ур '''зэтекощык1ыгъэх'''",
+            "translation": "The two blocks '''were displaced'''."
+          },
+		  {
+            "sentence": "К1алэм ыцэхэр '''зэтекощык1ыгъэх'''",
+            "translation": "The boy's teeth '''were displaced'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "tajkʷaɕət͡ʃʼən"
+  },
+  {
+    "word": "тегъэкощык1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to deviate someone",
+        "examples": [
+          {
+            "sentence": "Л1ым гъогум '''тесгъэкощык1ыгъ'''",
+            "translation": "I '''deviated''' the man '''from''' the road."
+          }
+        ]
+      },
+	  {
+        "meaning": "to displace something",
+        "examples": [
+		  {
+            "sentence": "Цэ акъылым адрэ цэхэр '''тегъэкощык1ых'''",
+            "translation": "The wisdom tooth '''displaces''' the other teeth."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "tajʁakʷaɕət͡ʃʼən"
   },
   {
     "word": "хэш1агъ",
@@ -85441,6 +85651,15 @@
           }
         ]
       },
+	  {
+        "meaning": "to collide into; to crash into",
+        "examples": [
+          {
+            "sentence": "К1алэр дэпкъым '''хэхьагъ'''",
+            "translation": "The boy '''crashed into''' the wall."
+          }
+        ]
+      },
       {
         "meaning": "to go into / enter an area of mass (liquid, solid or gas), to go through",
         "examples": [
@@ -85464,7 +85683,7 @@
       }
     ],
     "synonyms": [
-      "хэхьэн"
+      "хэхьан"
     ],
     "type": "verb",
     "ipa": "xaħaːn"
@@ -85725,7 +85944,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to collide into",
+        "meaning": "to collide into; to crash into",
         "examples": [
           {
             "sentence": "К1алэр дэпкъым '''к1оц1ыхьагъ'''",
@@ -91248,6 +91467,18 @@
     "ipa": "zat͡ʃʼawʁʷawan"
   },
   {
+    "word": "угуфын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to analyze",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "wəgʷəfən"
+  },
+  {
     "word": "зэхэугъоен",
     "lang": "Adyghe",
     "definitions": [
@@ -94729,11 +94960,11 @@
             "translation": "The boy '''is becoming happy'''."
           },
           {
-            "sentence": "К1алэр '''мэтхъэжьэгъ''' сыкъэк1уагъи",
+            "sentence": "К1алэр '''тхъэжьыгъ''' сыкъэк1уагъэти",
             "translation": "The boy '''is was happy''' because I came."
           },
           {
-            "sentence": "К1алэр Томым иунэ ши '''мэтхъэжьыт'''",
+            "sentence": "К1алэр Томым яунэ ущэмэ '''тхъэжьыщт'''",
             "translation": "The boy '''is will become happy''' if you take him to Tom's house."
           },
           {
@@ -99051,7 +99282,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "clearly",
+        "meaning": "clearly; distinctly (well-marked, capable of being perceived very clearly)",
         "examples": []
       }
     ],
