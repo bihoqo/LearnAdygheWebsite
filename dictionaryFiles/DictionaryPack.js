@@ -40934,7 +40934,7 @@
     "ipa": "jaʑan"
   },
   {
-    "word": "дежьыен",
+    "word": "дэжьыен",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -40952,83 +40952,55 @@
       {
         "meaning": "chorus",
         "examples": []
-      },
-      {
-        "meaning": "flatterer",
-        "examples": []
       }
     ],
     "type": "noun",
     "ipa": "dajʐəwaːkʷa"
   },
   {
-    "word": "дежъыон",
+    "word": "дежъыун",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to flatter, to cheer",
+        "meaning": "to sing along (with); to harmonize (with); to chant with",
         "examples": [
           {
-            "sentence": "тхьэматэм дежъыун",
-            "translation": "To cheer the leader"
+            "sentence": "орэдым '''дежъыун'''",
+            "translation": "To '''sing along''' to the song"
           }
         ]
       },
       {
-        "meaning": "to chant with",
+        "meaning": "to say yes (to), to assent (to)",
         "examples": [
           {
-            "sentence": "орэдым дежъыун",
-            "translation": "To chant in the song"
+            "sentence": "тхьэматэм '''дежъыун'''",
+            "translation": "'''To assent''' with the leader'"
           }
         ]
       }
-    ],
+    ]
     "type": "verb",
     "ipa": "dajʐəwan"
   },
   {
-    "word": "декъыен",
+    "word": "зэтегъэфэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to quarrel with",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "dajqəjan"
-  },
-  {
-    "word": "декъузэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to squeeze",
+        "meaning": "to fit by arranging things(such as plans, cycles and music)",
         "examples": []
       },
-      {
-        "meaning": "to tighten",
+	  {
+        "meaning": "to fit things on each other",
         "examples": []
       }
     ],
     "type": "verb",
-    "ipa": "dajqʷəzan"
+    "ipa": "zatajʁafan"
   },
   {
-    "word": "дэкьэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to pour",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "dakʲan"
-  },
-  {
-    "word": "делъэшъоен",
+    "word": "дэлъэшъоен",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -41037,42 +41009,18 @@
       }
     ],
     "type": "verb",
-    "ipa": "dajɬaʂʷajan"
+    "ipa": "daɬaʂʷajan"
   },
   {
-    "word": "делъэсык1ын",
+    "word": "дэлъхьан",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to jump away, to sweep away,",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "dajɬasət͡ʃən"
-  },
-  {
-    "word": "делъэсэен",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to sweep upwards",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "dajɬasajan"
-  },
-  {
-    "word": "дэлъхьэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to put in",
+        "meaning": "to put between; to put inside another object; to put in a defined area",
         "examples": [
           {
-            "sentence": "Сэ гык1элъэ кум гык1ынхэр '''дэсэлъхьэх'''.",
-            "translation": "'''I am putting''' the laundry in the washing machine."
+            "sentence": "Къэлэмыр тхылъым '''дэлъхьан'''",
+            "translation": "'''To put''' pencil inside a book"
           }
         ]
       }
@@ -41085,7 +41033,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Crazy looking, foolish",
+        "meaning": "crazy looking, foolish",
         "examples": [
           {
             "sentence": "о к1алэр '''делашъу'''",
@@ -41154,22 +41102,6 @@
     "ipa": "dajlaʐ"
   },
   {
-    "word": "деок1ын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to hit from the side",
-        "examples": []
-      },
-      {
-        "meaning": "to shift aside, to shift from",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "dajwat͡ʃən"
-  },
-  {
     "word": "тэтхык1ьын",
     "lang": "Adyghe",
     "definitions": [
@@ -41216,7 +41148,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "school friend",
+        "meaning": "classmate; schoolmate; schoolfellow; school-fellow; fellow-student",
+        "examples": []
+      },
+	  {
+        "meaning": "studying parnet; studying buddy",
         "examples": []
       }
     ],
@@ -41226,6 +41162,30 @@
     ],
     "type": "noun",
     "ipa": "dajd͡ʒaʁʷ"
+  },
+  {
+    "word": "ушъыен",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to lecture",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "wəʂəjan"
+  },
+  {
+    "word": "ушъый",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "lecture",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "wəʂəj"
   },
   {
     "word": "десэгъу",
@@ -41290,36 +41250,7 @@
     "ipa": "dajs"
   },
   {
-    "word": "деузэндын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to provide with (arms in particular), to supply with (material),",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "dajwzandən"
-  },
-  {
-    "word": "деугъоен",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to gather into somewhere with",
-        "examples": [
-          {
-            "sentence": "к1алэм мыехэр '''деугъуех''' ишагу",
-            "translation": "The boy '''gathers''' apples into his yard."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "dewʁʷajan"
-  },
-  {
-    "word": "мэгъуен",
+    "word": "гъуен",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -41334,14 +41265,14 @@
             "translation": "The boy '''is throwing''' with (using) a rock."
           },
           {
-            "sentence": "'''Умгъуй'''",
+            "sentence": "'''Умыгъуй'''",
             "translation": "'''don't throw'''."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "maʁʷəjan"
+    "ipa": "ʁʷəjan"
   },
   {
     "word": "егъоин",
@@ -41420,40 +41351,32 @@
     "ipa": "dawbətan"
   },
   {
-    "word": "деуп1эп1эн",
+    "word": "къэдзыхьан",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to pile in",
+        "meaning": "to lay siege (to), to besiege, to beset, to beleaguer",
         "examples": []
       }
     ],
     "type": "verb",
-    "ipa": "dajwpʼapʼan"
+    "ipa": "qad͡zəħaːn"
   },
   {
-    "word": "деукъон",
+    "word": "къэуцухьан",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to abolish, to annul an agreement,",
+        "meaning": "to encircle, to surround, to stand around",
+        "examples": []
+      },
+	  {
+        "meaning": "to besiege",
         "examples": []
       }
     ],
     "type": "verb",
-    "ipa": "dajqʷan"
-  },
-  {
-    "word": "деузэнк1ын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to rectify with, to reform with",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "dajwzant͡ʃən"
+    "ipa": "qawt͡ʃʷəħaːn"
   },
   {
     "word": "мэш1уащэ",
@@ -41525,19 +41448,19 @@
     "ipa": "jəbadaːlaw"
   },
   {
-    "word": "шыхъон",
+    "word": "щыхъон",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to friction",
+        "meaning": "to rub against",
         "examples": [
           {
-            "sentence": "пхъэр анэм '''шэхъо'''",
-            "translation": "the wood '''is fractioning''' the table."
+            "sentence": "пхъэр 1анэм '''щэхъо'''",
+            "translation": "the wood '''is rubbing against''' the table."
           },
           {
-            "sentence": "анэр дэпкъым '''шыхъуагъ'''",
-            "translation": "the table '''fractioned''' with the wall."
+            "sentence": "1анэр дэпкъым '''щыхъуагъ'''",
+            "translation": "the table '''is rubbing against''' the wall."
           }
         ]
       }
@@ -41546,89 +41469,37 @@
     "ipa": "ʃəχʷan"
   },
   {
-    "word": "к1элъэтэкьын",
+    "word": "щыдзыен",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to slip and fall",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "t͡ʃaɬatakʲən"
-  },
-  {
-    "word": "шыдзыен",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to go away",
+        "meaning": "to move away",
         "examples": [
           {
-            "sentence": "дэпкъым к1алэр '''шэдзиегъ'''",
+            "sentence": "к1алэм пхъэр маш1ом '''щидзыегъ'''",
             "translation": "The boy '''got away''' from wall."
           },
           {
-            "sentence": "дэпкъым '''шэдзий'''",
-            "translation": "'''Get away''' from the wall."
-          },
-          {
-            "sentence": "'''сыкъышэдзый'''",
+            "sentence": "'''сыкъысщэдзый'''",
             "translation": "'''Get away from me'''."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "ʃəd͡ʒəjan"
+    "ipa": "ɕəd͡zəjan"
   },
   {
-    "word": "шашыф",
+    "word": "шэмгьэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "veil",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ʃaːʃəf"
-  },
-  {
-    "word": "шамгьэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "prostitute",
+        "meaning": "(Kfar Kama dialect) prostitute",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "ʃamɡʲan"
-  },
-  {
-    "word": "лышъут1э",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "beauty spot",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ləʃʷtʼa"
-  },
-  {
-    "word": "быбхалъ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "helicopter",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "bəbxaːɬ"
   },
   {
     "word": "1этэгъу",
@@ -41644,6 +41515,30 @@
     ],
     "type": "noun",
     "ipa": "ʔataʁʷ"
+  },
+  {
+    "word": "шхынцумпэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "fig (fruit)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃxənt͡ʃʷəmpa"
+  },
+  {
+    "word": "шхончып",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "barrel of a gun",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃxʷant͡ʃəp"
   },
   {
     "word": "1ынджыр",
@@ -41706,27 +41601,6 @@
     ],
     "type": "verb",
     "ipa": "jəɬadan"
-  },
-  {
-    "word": "тэгъэт1ысхьэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to make someone sit on something",
-        "examples": [
-          {
-            "sentence": "'''тэгъэт1ысхь'''",
-            "translation": "'''Make him sit'''."
-          },
-          {
-            "sentence": "к1алэр '''тэгъэт1ысхь''' шым",
-            "translation": "'''Sit''' the boy on the horse."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "taʁatʼəsħan"
   },
   {
     "word": "мэбзэен",
@@ -41870,15 +41744,28 @@
         ]
       },
       {
-        "meaning": "to be dealing with someone",
+        "meaning": "to busy oneself with; to engage/involve in a certain field or activity as a hobby or profession",
         "examples": [
           {
-            "sentence": "К1алэр маш1о хэгъэнэным '''пылъ'''",
-            "translation": "The boy '''is dealing with''' igniting fire."
+            "sentence": "К1алэр ку ш1ыжьыным '''пылъ'''",
+            "translation": "The boy '''is involved with''' fixing cars."
           },
           {
             "sentence": "Сэ сомпыютэрмэ '''сапылъ'''",
-            "translation": "'''I am dealing with''' computers."
+            "translation": "'''I am involved with''' computers."
+          },
+		  {
+            "sentence": "К1алэр еджэхым '''пылъ'''",
+            "translation": "The boy '''is enaging in''' studying."
+          }
+        ]
+      },
+      {
+        "meaning": "to strive for",
+        "examples": [
+          {
+            "sentence": "К1алэр баеу хъуным '''пылъ'''",
+            "translation": "The boy '''strives''' to get rich."
           }
         ]
       }
@@ -41906,6 +41793,18 @@
     ],
     "type": "verb",
     "ipa": "pətən"
+  },
+  {
+    "word": "ощышъхьэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "the head of an ax",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "waɕəʂħa"
   },
   {
     "word": "пысын",
@@ -55878,7 +55777,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to pull, to stretch",
+        "meaning": "to stretch; to stretch by pulling",
         "examples": [
           {
             "sentence": "К1алэм к1апсэр '''екъудыи'''",
@@ -68095,11 +67994,11 @@
     "ipa": "ɬaʁʷəjan"
   },
   {
-    "word": "гъуен",
+    "word": "мэгъуен",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"мэгъуен\"",
+        "meaning": "alternative form of \"гъуен\"",
         "examples": []
       }
     ],
@@ -69406,7 +69305,7 @@
         ]
       },
       {
-        "meaning": "to pull",
+        "meaning": "to stretch; to stretch by pulling",
         "examples": [
           {
             "sentence": "К1алэм к1апсэр '''ыкъудыи'''",
@@ -77848,11 +77747,11 @@
     "ipa": "ʃxːkʷʼa"
   },
   {
-    "word": "дежъыун",
+    "word": "дежъыон",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"дежъыон\"",
+        "meaning": "alternative form of \"дежъыун\"",
         "examples": []
       }
     ],
@@ -78437,6 +78336,22 @@
     "ipa": "ʔət͡ʃʼaħaːn"
   },
   {
+    "word": "егъэгъотын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to make someone find something",
+        "examples": []
+      },
+      {
+        "meaning": "to supply",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "jaʁaʁʷatən"
+  },
+  {
     "word": "1эч1эхьан",
     "lang": "Adyghe",
     "definitions": [
@@ -78474,6 +78389,35 @@
           {
             "sentence": "Псэу у1ыгъыр тэрэзэу  къэгъагъэхэм '''атепыгощэн''' фай",
             "translation": "'''You''' need '''to distribute''' the water you have '''between''' the flowers."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɡʷaɕən"
+  },
+  {
+    "word": "егугъун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to put an effort into",
+        "examples": [
+          {
+            "sentence": "Л1ыр и1офы'''егугъу'''",
+            "translation": "The man '''puts an effort into''' his job."
+          },
+          {
+            "sentence": "Л1ыр иунагъо '''егугъу'''",
+            "translation": "The man '''puts an effort into''' his family."
+          },
+          {
+            "sentence": "Еджэным '''уегугъун''' фай экзаменым дэгъоу пш1ын пае",
+            "translation": "You need '''to put an efford into''' studying to doo good in the exam."
+          },
+          {
+            "sentence": "Къэгъагъэм тэрэзэу '''сегугъугъэпи''' гугъэ",
+            "translation": "Because '''I did not''' corrently '''put an efford into''' the flower, it dried out."
           }
         ]
       }
@@ -94542,8 +94486,44 @@
         "examples": []
       }
     ],
+    "synonyms": [
+      "отычык1",
+      "обзэгъук1"
+    ],
     "type": "noun",
     "ipa": "waɕət͡ʃʼ"
+  },
+  {
+    "word": "отычык1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "axe handle, helve",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "ощык1",
+      "обзэгъук1"
+    ],
+    "type": "noun",
+    "ipa": "watət͡ʃət͡ʃʼ"
+  },
+  {
+    "word": "обзэгъук1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "axe handle, helve",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "отычык1",
+      "ощык1"
+    ],
+    "type": "noun",
+    "ipa": "wabzaʁʷət͡ʃʼ"
   },
   {
     "word": "къиныгъу",
@@ -94905,17 +94885,42 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to make someone sit down on",
+        "meaning": "to make someone sit down on; ",
         "examples": [
           {
             "sentence": "К1элэц1ык1ухэр '''атегъэт1ысхьэх''' пхъэнт1эк1ухэмэ",
             "translation": "'''Sit''' the children '''down on''' the chairs."
+          },
+		  {
+            "sentence": "'''тэгъэт1ысхь'''",
+            "translation": "'''Make him sit'''."
+          },
+          {
+            "sentence": "к1алэр '''тэгъэт1ысхь''' шым",
+            "translation": "'''Sit''' the boy on the horse."
           }
         ]
       }
     ],
     "type": "verb",
     "ipa": "tajʁatʼəsħaːn"
+  },
+  {
+    "word": "ехьщыр",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "like; similar",
+        "examples": [
+          {
+            "sentence": "А к1алэр ащ лъэшэу ехьщыр",
+            "translation": "The boy is very '''similar''' to him."
+          }
+        ]
+      }
+    ],
+    "type": "adv",
+    "ipa": "jaħɕər"
   },
   {
     "word": "т1эт1эн",

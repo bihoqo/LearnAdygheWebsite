@@ -1782,15 +1782,6 @@
     "muskmelon": "къаунэ"
   },
   {
-    "insane asylum": "делэхъан"
-  },
-  {
-    "mental hospital": "делэхъан"
-  },
-  {
-    "sanitarium": "делэхъан"
-  },
-  {
     "olive": "зетын"
   },
   {
@@ -4275,7 +4266,7 @@
     "to pretty up": "зэгъэфэн"
   },
   {
-    "to fit": "ек1ун; фэш1оу ш1ын (to adjust clothes to fit someone); егъэк1ун (to make it fit for someone); хэзэгъэн (to fit in a group); щыфэн (to fit clothes); щыхьан (to fit clothes on body); дэгъэфэн (to fit something between); хэгъэфэн (to fit something among other objects)"
+    "to fit": "ек1ун; фэш1оу ш1ын (to adjust clothes to fit someone); егъэк1ун (to make it fit for someone); хэзэгъэн (to fit in a group); щыфэн / щыгъэфэн (to fit clothes); щыхьан / щыгъэхьан (to fit clothes on body); дэгъэфэн (to fit something between); хэгъэфэн (to fit something among other objects); зэтегъэфэн (to fit things on each other, to fit by arranging things such as plans, cycles and music); зэгъэк1ун (to fit things together)"
   },
   {
     "to adjust": "фэш1оу пш1ыныр (to adjust to one's needs)"
@@ -4786,9 +4777,6 @@
   },
   {
     "to rip away": "хэтхъын; пытхъын"
-  },
-  {
-    "to pull off": "хэтхъын; пытхъын; пычын (to pick)"
   },
   {
     "to break": "зэпык1ын (to snap); убэтэн (to destroy); къутэн (to destroy)"
@@ -7569,9 +7557,6 @@
     "curtain": "пэ1ухъо"
   },
   {
-    "helicopter": "жьыфлъат"
-  },
-  {
     "cart": "ку; кухьэ"
   },
   {
@@ -9231,19 +9216,16 @@
     "to slide down": "ечъэхын"
   },
   {
-    "to build": "ш1ын; фэш1ын (to build for); дэш1ын (to build with); ш1ыжьын (to rebuild); иш1ыхьан (to build inside); дэш1ыхьан (to build inside a yard or inside another object); теш1ыхьан (to build on); ч1эш1ыхьан (to build under)"
+    "to build": "ш1ын; фэш1ын (to build for); дэш1ын (to build with); ш1ыжьын (to rebuild); иш1ыхьан (to build inside); дэш1ыхьан (to build inside a yard or inside another object); теш1ыхьан (to build on); ч1эш1ыхьан (to build under); хэш1ыхьан (to build in the forest, to build into a solid thing, liquid or gas); пыш1ыхьан (to build on a tree or on the side of a house)"
   },
   {
-    "to measure": "шын / къэшын"
+    "to measure": "шын"
   },
   {
     "to take with": "дэщэн (to take someone along); зыдэщэн (to take someone along with oneself)"
   },
   {
-    "to place": "дэгъэуцон"
-  },
-  {
-    "to put": "илъхьан (to put inside); телъхьан (to put on); ч1элъхьан (to put under); гъэуцун (to put); тегъэуцун (to put on); дэгъэуцон (to put between); зэтелъхьан (to put on each other)"
+    "to put": "илъхьан (to put inside); телъхьан (to put on); ч1элъхьан (to put under); гъэуцун (to put); тегъэуцун (to put on); дэгъэуцон (to put between); зэтелъхьан (to put on each other); хэлъхьан (to put something into an area with gas, solid or liquid)"
   },
   {
     "to place": "илъхьан (to place inside); телъхьан (to place on); ч1элъхьан (to place under); гъэуцун (to place); тегъэуцун (to place on); дэгъэуцон (to place between); зэтелъхьан (to place on each other)"
@@ -9279,46 +9261,37 @@
     "chorus": "дежъыуак1о"
   },
   {
-    "to choruschorus": "дежъыон"
+    "to chorus": "дежъыун"
   },
   {
-    "flatterer": "дежъыуак1о"
+    "sing along": "дежъыун"
   },
   {
-    "to flatter, to cheer": "дежъыон"
+    "to harmonize": "зэтегъэфэн; зэгъэк1ун; зэфэдэ пш1ын"
   },
   {
-    "to chant with": "дежъыон"
+    "to chant": "дежъыун (to chant with)"
   },
   {
-    "to quarrel with": "декъыен"
+    "to glorify": "дэхьыен; щытхъук1э фэусэн; ищытхъу 1он"
   },
   {
-    "to squeeze": "декъузэн"
+    "to pull": "хэтхъын (to pull off from in something); пытхъын (to pull off something); пычын (to pick a fruit or flower); дэлъэшъоен (to pull up); елъэшъохын (to pull down);дэтхъын (to pull out from inside another object like a book); къудыин (to stretch); хэщын (to pull someone out of a certain situation)"
   },
   {
-    "to tighten": "декъузэн"
+    "to pull up": "дэлъэшъоен"
+  }
+  {
+    "to pull down": "елъэшъохын"
   },
   {
-    "to pour": "дэкьэн"
+    "crazy looking": "делашъу"
   },
   {
-    "to pull up, to pull upwards": "делъэшъоен"
+    "craziness": "делагъэ"
   },
   {
-    "to jump away, to sweep away,": "делъэсык1ын"
-  },
-  {
-    "to sweep upwards": "делъэсэен"
-  },
-  {
-    "to put in": "дэлъхьэн"
-  },
-  {
-    "Crazy looking, foolish": "делашъу"
-  },
-  {
-    "craziness, foolishness": "делагъэ"
+    "foolishness": "делагъэ"
   },
   {
     "insane asylum": "делэщ"
@@ -9330,130 +9303,127 @@
     "sanitarium": "делэщ"
   },
   {
-    "very foolish, very stupid, very crazy": "делэжъ"
+    "classmate": "деджэгъу; курсэгъу"
   },
   {
-    "to hit from the side": "деок1ын"
+    "schoolmate": "деджэгъу"
   },
   {
-    "to shift aside, to shift from": "деок1ын"
+    "schoolfellow": "деджэгъу"
   },
   {
-    "alternative form of \"тэтхык1ын\"": "тэтхык1ьын"
+    "school-fellow": "деджэгъу"
   },
   {
-    "alternative form of \"тетхык1ын\"": "тэтхык1ын"
+    "fellow-student": "деджэгъу; курсэгъу"
   },
   {
-    "to pull out (usually a page)": "дэтхъын"
+    "lecture": "ушъыи"
   },
   {
-    "school friend": "деджэгъу"
+    "to lecture": "ушъыен"
   },
   {
-    "school friend": "десэгъу"
+    "reproach": "гые"
   },
   {
-    "school friend": "дестэгъу"
+    "to reproach": "гыен"
   },
   {
-    "lesson (School hour)": "дестэ"
+    "to provide": "1эк1эгъэхьан, егъэгъотын"
   },
   {
-    "lesson (School hour)": "дес"
+    "to supply": "1эк1эгъэхьан, егъэгъотын"
   },
   {
-    "to provide with (arms in particular), to supply with (material),": "деузэндын"
+    "to gather": "зэхэхьан (people to gather around); щызэ1ук1эн (to gather at a certain place); угъоин / къэугъоин (to gather to one place); зэ1угъэк1эн (to make people or objects gather at a certian place); зэхэугъоен (to gather together)"
   },
   {
-    "to gather into somewhere with": "деугъоен"
+    "to collect": "угъоин; къэугъоин; зэ1угъэк1эн; зэхэугъоен (to collect to one place); зэтеплъхьан (to collect things and save them for the future), зэхэплъхьан"
   },
   {
-    "to be throwing stuff": "мэгъуен"
+    "to save": "къэгъэнэжьын (to save someone); къыхэхыжьын (to save someone from a bad or dangerous siuation); зэтеплъхьан (to collect things and save them for the future); къэгъэнэн (to save something for later); гъэт1ылъын / 1угъэт1ылъык1ын (to lay and save something for the future)"
   },
   {
-    "alternative form of \"егъуин\"": "егъоин"
+    "to arrest": "къэгъэуцун (to stop); убытын / къэубытын; дэубытэн (to arrest in); иубытэн (to arrest inside)"
   },
   {
-    "to gather": "къэугъоин"
+    "to catch": "убытын; дэубытэн (to catch in); иубытэн (to catch inside); хэубытэн (to catch in a liquid or among people)"
   },
   {
-    "to collect": "къэугъоин"
+    "to close in": "иубытэн"
   },
   {
-    "to arrest in, to catch in, to close someone in": "дэубытэн"
+    "to enclose": "къэш1ыхьан, къеш1эк1ын; къэухъурэин, къэуцухьан, къэдзыхьан"
+  },
+  {
+    "to lock": "егъэтын (to lock a door or a locker); дэгъэт1ысхьан (to lock someone or something in); игъэт1ысхьан (to lock someone or something inside); иш1эхьан / къиш1эхьан (to lock inside by encircling)"
+  },
+  {
+    "to gather round": "къэухъурэин (to gather people or objects and make a round circle); къэуцухьан; къэдзыхьан (to besiege)"
+  },
+  {
+    "to encircle": "къэухъурэин (to encircle someone, something or a place); къэуцухьан; къэдзыхьан (to besiege); иш1эхьан / къиш1эхьан (to encircle inside)"
+  },
+  {
+    "to surround": "къэухъурэин (to surround someone, something or a place); къэуцухьан; къэдзыхьан (to besiege)"
+  },
+  {
+    "to round up": "зэ1угъэк1эн; зэхэугъоен (to besiege)"
+  },
+  {
+    "to lay siege": "къэдзыхьан"
+  },
+  {
+    "to besiege": "къэдзыхьан"
+  },
+  {
+    "to beset": "къэдзыхьан"
+  },
+  {
+    "to beleaguer": "къэдзыхьан"
   },
   {
     "to pile in": "деуп1эп1эн"
   },
   {
-    "to abolish, to annul an agreement,": "деукъон"
+    "instead of": "ыч1ып1эк1э, ыч1ып1э"
   },
   {
-    "to rectify with, to reform with": "деузэнк1ын"
+    "to rub": "щыхъон"
   },
   {
-    "alternative form of \"мэш1уач\"": "мэш1уащэ"
+    "to go away": "1ук1ын / 1ук1ыжьын; 1угъэк1ын (to make someone go away from); 1ухъушъутын (to run away); (Shapsug) 1ушъутын (to run away)"
   },
   {
-    "alternative form of \"нэмык1\"": "нэмк1ыр"
-  },
-  {
-    "alternative form of \"нэмк1ыр\"": "пэмк1ыр"
-  },
-  {
-    "instead of": "ибэдалэу"
-  },
-  {
-    "to friction": "шыхъон"
-  },
-  {
-    "to slip and fall": "к1элъэтэкьын"
-  },
-  {
-    "to go away": "шыдзыен"
+    "to push away": "1уфын; 1удзын; 1угъэбыбын"
   },
   {
     "veil": "шашыф"
   },
   {
-    "prostitute": "шамгьэн"
+    "prostitute": "шъуз ш1ой; (Kfar Kama dialect) шэмгьэн"
   },
   {
-    "beauty spot": "лышъут1э"
+    "helicopter": "жьыфлъат"
   },
   {
-    "helicopter": "быбхалъ"
+    "fig": "шхынцумпэ; 1ынджыр (Turkish)"
   },
   {
-    "elbow": "1этэгъу"
+    "to loosen": "лэлэн"
   },
   {
-    "fig": "1ынджыр"
+    "to enter": "ихьан; илъэдэн (to enter running)"
   },
   {
-    "alternative form of \"гъэчэрэзын\"": "гъэкьэрэзын"
+    "like": "фэд; зэфэд (alike); ехьщыр"
   },
   {
-    "to be loosed (freed)": "мэлэлэн"
+    "alike": "зэфэд"
   },
   {
-    "to rush in, to enter quickly": "илъэдэн"
-  },
-  {
-    "to make someone sit on something": "тэгъэт1ысхьэн"
-  },
-  {
-    "alternative form of \"бзэен\"": "мэбзэен"
-  },
-  {
-    "alternative form of \"бзэен\"": "ебзэин"
-  },
-  {
-    "like (Similar)": "фэд"
-  },
-  {
-    "alternative form of \"пыц1эн\"": "пыс1эн"
+    "similar": "фэд; зэфэд (alike); ехьщыр"
   },
   {
     "alone": "изакъу"
@@ -9462,16 +9432,31 @@
     "only": "закъу"
   },
   {
-    "to be hanging, to be attached": "пылъын"
+    "to hang": "пылъын (to be hanging); пылъэн (to hang); пылъхьан (to put something to a hanging state)"
   },
   {
-    "to be dealing with someone": "пылъын"
+    "to attach": "пылъын (to be attached); пылъхьан (to attach something to)"
   },
   {
-    "to be hanging, to be attached (Usually said about Fruits and Vegetables)": "пытын"
+    "to strive": "егугъун"
   },
   {
-    "to be hanging, to be attached (Usually said about Humans and Animals)": "пысын"
+    "to pursue": "егугъун"
+  },
+  {
+    "to endeavor": "егугъун"
+  },
+  {
+    "to make an effort": "егугъун"
+  },
+  {
+    "to put an effort": "егугъун"
+  },
+  {
+    "axe handle": "ощыкI; отычык1; обзэгъук1"
+  },
+  {
+    "helve": "ощыкI; отычык1; обзэгъук1"
   },
   {
     "uncle (Father's brother)": "атэш"
@@ -11826,7 +11811,7 @@
     "to tear off (forcefully) something from something": "пытхъын"
   },
   {
-    "to pull, to stretch": "къудыин"
+    "to stretch": "къудыин"
   },
   {
     "alternative form of \"къудыин\"": "екъудыин"
@@ -12243,9 +12228,6 @@
     "to approve, to grant something approval": "къаблэу ш1ын"
   },
   {
-    "to build": "ш1ын"
-  },
-  {
     "to make": "ш1ын"
   },
   {
@@ -12354,7 +12336,10 @@
     "very naughty (Usually said to kids)": "ц1эп1эжъ"
   },
   {
-    "to pull someone from, to take someone out of, to drag someone out of": "хэщын"
+    "to take out": "хэщын"
+  },
+  {
+    "to drag out": "хэщын"
   },
   {
     "to exempt someone from": "хэщын"
@@ -14179,9 +14164,6 @@
   },
   {
     "to last": "ыкъудыин"
-  },
-  {
-    "to pull": "ыкъудыин"
   },
   {
     "alternative form of \"гъолагъэ\"": "гъолагъу"
