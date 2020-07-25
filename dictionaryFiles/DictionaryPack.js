@@ -45580,7 +45580,7 @@
     "ipa": "t͡ʂəʔaːʔʷa"
   },
   {
-    "word": "мэтэкъон",
+    "word": "тэкъон",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -45594,14 +45594,19 @@
       }
     ],
     "type": "verb",
-    "ipa": "mataqʷan"
+    "ipa": "taqʷan"
   },
   {
-    "word": "мэпхъэпхъэн",
+    "word": "ушкъоин",
     "lang": "Adyghe",
-    "definitions": [],
+    "definitions": [
+      {
+        "meaning": "to crumble",
+        "examples": []
+      }
+    ],
     "type": "verb",
-    "ipa": "mapχapχan"
+    "ipa": "wəʃqʷajən"
   },
   {
     "word": "тхылъ1ыгъып1э",
@@ -45686,6 +45691,30 @@
     ],
     "type": "noun",
     "ipa": "ħaːləʁʷɕaːpʼa"
+  },
+  {
+    "word": "хьалыгъугъэжъап1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "bakery",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ħaːləʁʷʁaʐaːpʼa"
+  },
+  {
+    "word": "шъоджуздан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "carpetbag (generally made from leather or heavy cloth)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʂʷad͡ʒəwzdaːn"
   },
   {
     "word": "хьалыжъощыхьагъэ",
@@ -46142,7 +46171,7 @@
     "ipa": "jablaʁaːpʼa"
   },
   {
-    "word": "шъхьэузы",
+    "word": "шъхьэуз",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -46172,36 +46201,32 @@
       }
     ],
     "type": "noun",
-    "ipa": "ʂħawəzə"
+    "ipa": "ʂħawəz"
   },
   {
-    "word": "ныбэузы",
+    "word": "ныбэуз",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "stomach ache",
         "examples": [
           {
-            "sentence": "А пшъашъэм ишхын '''ныбэузы''' къысеты",
-            "translation": "That girl's dinner gives me a '''stomach ache'''."
+            "sentence": "А л1ым ишхын '''ныбэуз''' къысеты",
+            "translation": "That man's dinner gives me a '''stomach ache'''."
           },
           {
             "sentence": "Узым '''ныбэузы''' къысеты",
             "translation": "That illness gives me a '''stomach ache'''."
           },
           {
-            "sentence": "'''Шъхьэузы''' си1",
+            "sentence": "'''Ныбэузы''' си1",
             "translation": "I have a '''stomach ache'''."
-          },
-          {
-            "sentence": "Загъорэ '''ныбэузым''' сегъэгумэкIы",
-            "translation": "I sometimes have '''stomach aches'''."
           }
         ]
       }
     ],
     "type": "noun",
-    "ipa": "nəbawəzə"
+    "ipa": "nəbawəz"
   },
   {
     "word": "лъыдэк1ое-лъыкъеох",
@@ -46225,7 +46250,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "back",
+        "meaning": "(anatomy) back",
         "examples": []
       }
     ],
@@ -46423,33 +46448,54 @@
     "ipa": "d͡ʒawaːp"
   },
   {
-    "word": "къэгъэк1эхьын",
+    "word": "къэгъэчэхьан",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to circle",
         "examples": [
           {
-            "sentence": "Тестымк1э джэуап тэрэзэр '''къэшъугъэк1эхь'''",
+            "sentence": "Тестымк1э джэуап тэрэзэр '''къэшъугъэчэхь'''",
             "translation": "In the test circle the right answer."
           },
           {
-            "sentence": "'''къэгъэк1эхь''' мэлхэр",
+            "sentence": "'''къэгъэчэхь''' мэлхэр",
             "translation": "'''Circle''' the sheeps."
           },
           {
-            "sentence": "'''къэсэгъэк1эхьы''' чъыгыхэр",
+            "sentence": "'''къэсэгъэчэхьы''' чъыгыхэр",
             "translation": "'''I circle''' the trees."
-          },
-          {
-            "sentence": "К1алэм чъыгыхэр '''къегъэк1эхьы'''",
-            "translation": "The boy '''circles''' the trees."
           }
         ]
       }
     ],
     "type": "verb",
     "ipa": "qaʁat͡ʃaħən"
+  },
+  {
+    "word": "къэгъэк1охьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to circle",
+        "examples": [
+          {
+            "sentence": "Тестымк1э джэуап тэрэзэр '''къэшъугъэк1охь'''",
+            "translation": "In the test circle the right answer."
+          },
+          {
+            "sentence": "'''къэгъэк1охь''' мэлхэр",
+            "translation": "'''Circle''' the sheeps."
+          },
+          {
+            "sentence": "'''къэсэгъэк1охьы''' чъыгыхэр",
+            "translation": "'''I circle''' the trees."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "qaʁakʷʼaħaːn"
   },
   {
     "word": "псэун",
@@ -92336,6 +92382,22 @@
     ],
     "type": "noun",
     "ipa": "ʁʷəsat͡ʃʼaːɮa"
+  },
+  {
+    "word": "пыупхъухьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to trim (lightly)",
+        "examples": []
+      },
+	  {
+        "meaning": "to cut hair (lightly)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "pəwpχʷəħaːn"
   },
   {
     "word": "гъусэ к1алэ",

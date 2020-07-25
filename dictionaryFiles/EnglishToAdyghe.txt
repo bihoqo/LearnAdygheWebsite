@@ -450,7 +450,7 @@
     "back (body part)": "тхы"
   },
   {
-    "back": "тхы (body); к1ыб (back of something); тхыц1э"
+    "back": "тхы (body); к1ыб (back of something); тхыц1э (body)"
   },
   {
     "stomach": "ныбэ"
@@ -1929,9 +1929,6 @@
     "jubbah": "къэптан"
   },
   {
-    "task": "пшъэрылъ"
-  },
-  {
     "problem": "пшъэрылъ"
   },
   {
@@ -1944,7 +1941,7 @@
     "objective": "пшъэрылъ"
   },
   {
-    "assignment": "пшъэрылъ"
+    "assignment": "пшъэрылъ; 1офш1эн"
   },
   {
     "errand": "пшъэрылъ"
@@ -2076,7 +2073,7 @@
     "paper bag": "1алъмэкъ"
   },
   {
-    "sack": "дзыо; щэуалэ (Shapsug)"
+    "sack": "дзыо; щэуалэ (Shapsug); къапщыкъ"
   },
   {
     "wrist": "1апшъэ (arm); лъашъхьэ (leg)"
@@ -4521,13 +4518,10 @@
     "slow": "жъажъэ; т1эт1эй; т1эи"
   },
   {
-    "strong": "к1уач1э"
+    "strong": "к1уач1э; къарыу"
   },
   {
     "powerful": "лъэшы; к1уач1э (strong)"
-  },
-  {
-    "great": "лъэшы"
   },
   {
     "greatly": "лъэшэу"
@@ -9171,7 +9165,7 @@
     "to make someone sad": "зэгъэгожъын"
   },
   {
-    "to freeze": "щтын (to be frozen); гъэщтын (to freeze); дэщтыхьан (to be frozen inside a firdge); дэгъэщтыхьан (to freeze inside a firdge); хэщтыхьан (to be frozen in a liquid or gas); хэгъэщтыхьан (to freeze in a liquid or gas); чъын (Shapsug); гъэчъын (Shapsug)"
+    "to freeze": "чъы1э л1эн (to be cold); щтын (to be frozen); гъэщтын (to freeze); дэщтыхьан (to be frozen inside a firdge); дэгъэщтыхьан (to freeze inside a firdge); хэщтыхьан (to be frozen in a liquid or gas); хэгъэщтыхьан (to freeze in a liquid or gas); чъын (Shapsug); гъэчъын (Shapsug)"
   },
   {
     "to drive": "фын (to drive a vehicle or cattle); ифын (to drive away from an area), 1уфын (to drive away from near); дэфыен (to drive upward)"
@@ -9501,7 +9495,7 @@
     "to get tired": "пш1ын / къэпш1ын"
   },
   {
-    "to settle": "ит1ысхьан (to settle in); ч1эт1ысхьан (to settle under); тет1ысхьан (to settle on); хэт1ысхьан (to settle among other people)"
+    "to settle": "щыпсэун (to live in); ит1ысхьан (to settle in); ч1эт1ысхьан (to settle under); тет1ысхьан (to settle on); хэт1ысхьан (to settle among other people)"
   },
   {
     "alcohol drink": "шъон к1уач1э"
@@ -10035,22 +10029,28 @@
     "toothbrush": "цэлъэк1"
   },
   {
-    "permission": "фит; 1изын"
+    "permission": "фитыныгъ; 1изын"
   },
   {
-    " approval": "фит; 1изын"
+    "approval": "фитыныгъ; 1изын"
   },
   {
-    "authorization": "фит; 1изын"
+    "authorization": "фитыныгъ; 1изын"
   },
   {
     "separately": "шъхьаф-шъхьафэу; зыр зырэу (one by one)"
   },
   {
-    "to return": "к1ежьэжьын"
+    "to return": "къэзэжьын (to return back to where one came); к1ожьын (to go back); къэк1ожьын (to return back); зэк1ежьэжьын; дэхьажьын (to return home)"
   },
   {
-    "to become unwell; to become slightly ill": "гъойщэен"
+    "to go back": "к1ожьын"
+  },
+  {
+    "to become unwell": "гъойщэен"
+  },
+  {
+    "to become ill": "сымэджэн; гъойщэен"
   },
   {
     "vegetarian": "лымышх"
@@ -10059,22 +10059,16 @@
     "to be wearing": "щыгъэн"
   },
   {
-    "to wear a": "щылъэн"
+    "to wear": "щыгъын (to be wearing); щылъэн (to wear something)"
   },
   {
-    "dive": "ч1ырыгъыс"
+    "eyeglasses": "нэгъунджэ; (dialectal) нэгъурджэ"
   },
   {
-    "eyeglasses": "нэгъунджэ"
+    "to be cold": "чъы1э л1эн"
   },
   {
-    "to be cold, to freeze from cold": "чъы1э л1эн"
-  },
-  {
-    "very cold": "чъы1а1о"
-  },
-  {
-    "to crumble": "мэтэкъон"
+    "to crumble": "тэкъон; гъэтэкъон (to make something crumble); ушкъоин; гъэушкъоин (to make something crumble)"
   },
   {
     "library": "тхылъ1ыгъып1э"
@@ -10089,10 +10083,10 @@
     "optician": "нэ1азэ"
   },
   {
-    "bakery": "хьалыгъущап1э"
+    "bakery": "хьалыгъугъэжъап1э; хьалыгъущап1э"
   },
   {
-    "roll": "хьалыжъощыхьагъэ"
+    "varenik": "псырыжъо хьалыжъу, хьалыжъожъый"
   },
   {
     "office supple": "офис псэуалъэ"
@@ -10101,16 +10095,16 @@
     "furniture": "унэгъо псэуалъэ"
   },
   {
-    "doll": "нысхъапэ"
+    "doll": "нысхъапэ; нысэпхъапэ (Shapsug)"
   },
   {
     "teddy bear": "мышъэ шъабэ"
   },
   {
-    "football": "хьэшъотоп"
+    "football": "футбол; хьэшъотоп"
   },
   {
-    "tool": "1эмэпсымэ"
+    "tool": "1эмэпсымэ; 1эдэ-уад"
   },
   {
     "drill": "бырыугъэчэрэгъу"
@@ -10122,37 +10116,31 @@
     "screw": "джамбырыу"
   },
   {
-    "pharmacy, drugstore": "уц 1эзэгъу щап1э"
+    "drugstore": "уц 1эзэгъу щап1э"
   },
   {
-    "medicine": "уц 1эзэгъу"
+    "pharmacy": "уц 1эзэгъу щап1э"
   },
   {
     "jeweler": "дышъэк1"
   },
   {
-    "alternative form of \"1аш1у-1уш1у\"": "1аш1у 1уш1у"
-  },
-  {
-    "bag, sack": "1алъмэкъ"
-  },
-  {
     "handbag": "1алъмэкъ"
   },
   {
-    "alternative form of \"хьаплъы\"": "хьаплъэ"
+    "travelling-bag": "шъоджуздан"
   },
   {
-    "boss, manager": "1эшъхьэтет"
+    "grip-sack": "шъоджуздан"
+  },
+  {
+    "carpetbag": "шъоджуздан"
   },
   {
     "colleague": "1офш1эгъу"
   },
   {
-    "work; job": "1офш1эн"
-  },
-  {
-    "assignment, task": "1офш1эн"
+    "task": "1офш1эн; пшъэрылъ"
   },
   {
     "unemployed": "1офш1энынчъэ"
@@ -10161,16 +10149,16 @@
     "to be bored": "зэщын"
   },
   {
-    "to be hungry": "мэлэк1эн"
+    "to be hungry": "мэлэк1эн; мэлак1э л1эн"
   },
   {
-    "to be thirsty": "псы фэл1эн"
+    "to be thirsty": "псы фэл1эн; псыфал1э л1эн"
   },
   {
     "waiting room": "еблэгъап1э"
   },
   {
-    "headache": "шъхьэузы"
+    "headache": "шъхьэуз"
   },
   {
     "stomach ache": "ныбэузы"
@@ -10179,19 +10167,13 @@
     "blood pressure": "лъыдэк1ое-лъыкъеох"
   },
   {
-    "back": "тхыц1э"
-  },
-  {
-    "strong, powerful": "лъэшы"
-  },
-  {
     "great": "лъэшы"
   },
   {
-    "excellent": "лъэшы"
+    "excellent": "ш1у дэд, дэгъу дэд; лъэшы дэд"
   },
   {
-    "coat": "палътэу"
+    "coat": "к1ако; палътэу (topcoat, over coat)"
   },
   {
     "snowman": "осыл1"
@@ -10200,40 +10182,55 @@
     "to learn": "зэгъэш1эн"
   },
   {
-    "to ask a question": "упч1эн"
+    "to reply": "джэуап тын; джэуап етын"
   },
   {
-    "to reply, to answer": "джэуап тын"
+    "to answer": "джэуап тын; джэуап етын"
   },
   {
     "answer": "джэуап"
   },
   {
-    "to circle": "къэгъэк1эхьын"
+    "reply": "джэуап"
   },
   {
-    "to live (To have permanent residence somewhere, to inhabit)": "псэун"
+    "to circle": "къэгъэк1охьан; хъурайк1э къэгъэк1охьан"
   },
   {
-    "girlfriend": "пшъэшъэгъу"
+    "to live": "псэун (to inhabit); щы1эн (to exist, to be alive)"
+  },
+  {
+    "to be alive": "щы1эн"
+  },
+  {
+    "to inhabit": "псэун"
+  },
+  {
+    "girlfriend": "пшъэшъэгъу; гъусэпшъашъэ"
   },
   {
     "to be ready": "хьазырын"
   },
   {
-    "to make something ready; to prepare": "гъэухьазырын"
+    "to make ready": "гъэухьазырын"
+  },
+  {
+    "to prepare": "гъэухьазырын"
   },
   {
     "to get ready": "зыгъэухьазырын"
   },
   {
-    "boyfriend": "псэлъыхъо"
+    "boyfriend": "шъэогъу; гъусэк1алэ"
   },
   {
-    "different, separated": "шъхьафы"
+    "different": "нэмык1; нэмык1ыр; фэшъхьаф; шъхьафы"
   },
   {
-    "to take a haircut": "к1эупхъухьан"
+    "separated": "шъхьафы, закъо"
+  },
+  {
+    "to take a haircut": "к1эупхъухьан; шъхьацыр пыупк1ын; шъхьацыр упхъун; шъхьацым пыупхъухьан"
   },
   {
     "steep, precipitous": "дысы"
@@ -11161,9 +11158,6 @@
   },
   {
     "alternative form of \"пщын\"": "мэпщын"
-  },
-  {
-    "sack": "къапщыкъ"
   },
   {
     "to add": "хэхъон; хэгъэхъон; ехъун / къехъун; егъэхъун / къегъэхъун"
@@ -13162,9 +13156,6 @@
   },
   {
     "reed": "къамыл"
-  },
-  {
-    "strong": "къарыу"
   },
   {
     "force": "къарыу"
@@ -17061,9 +17052,6 @@
     "alternative form of \"гъоплъышъо\"": "гъоплъашъо"
   },
   {
-    "great": "джан"
-  },
-  {
     "to look around": "зыплъыхьан"
   },
   {
@@ -17224,9 +17212,6 @@
   },
   {
     "to think, to believe, to suppose": "ихьисапын"
-  },
-  {
-    "different": "фэшъхьаф"
   },
   {
     "changeable": "техьэ-тек1"
@@ -18231,7 +18216,7 @@
     "seaboard": "хы1ушъо"
   },
   {
-    "to dip": "хэгъэон"
+    "to dip": "хэгъэон; ч1эгъэон"
   },
   {
     "to quench": "хэгъэон"
@@ -18697,12 +18682,6 @@
   },
   {
     "alternative form of \"гъусэ к1алэ\"": "к1элэ гъусэ"
-  },
-  {
-    "girlfriend": "гъусэ пшъашъэ"
-  },
-  {
-    "boyfriend": "гъусэ к1алэ"
   },
   {
     "to clip, to crop (usually of hair)": "упхъон"
