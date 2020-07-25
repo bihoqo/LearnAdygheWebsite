@@ -36957,10 +36957,6 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to collide with",
-        "examples": []
-      },
-      {
         "meaning": "to rush into",
         "examples": []
       }
@@ -44613,36 +44609,40 @@
     "ipa": "qaɡʷəʒʷan"
   },
   {
-    "word": "лъасэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "base",
-        "examples": []
-      }
-    ],
-    "type": "adj",
-    "ipa": "ɬaːsa"
-  },
-  {
     "word": "пцыкъу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "ski",
-        "examples": []
-      },
-      {
-        "meaning": "ski",
-        "examples": []
-      },
-      {
-        "meaning": "Snow shoe",
+        "meaning": "skate shoes",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "pt͡səqʷ"
+  },
+  {
+    "word": "пхырызын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to fall through, to come down",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "pxərəzən"
+  },
+  {
+    "word": "лъач1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "foundation, base, basis (that upon which anything is founded)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ɬaːt͡ʂʼ"
   },
   {
     "word": "гузэжъон",
@@ -44739,63 +44739,6 @@
     "ipa": "benzin jəʁaχʷapʼa"
   },
   {
-    "word": "мэухын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to run out, to get finished",
-        "examples": [
-          {
-            "sentence": "Бензиныр '''къыухыгъ'''",
-            "translation": "The gas '''ran out'''."
-          },
-          {
-            "sentence": "Mыехэр '''мэухыгъэх'''",
-            "translation": "The apples '''ran out'''."
-          },
-          {
-            "sentence": "Уахътэр '''мэухы'''",
-            "translation": "The time '''is running out'''."
-          },
-          {
-            "sentence": "Уахътэр '''мэухыт'''",
-            "translation": "The time '''will run out'''."
-          },
-          {
-            "sentence": "Фылымэ '''мэухэгъ'''",
-            "translation": "The film '''is over'''."
-          },
-          {
-            "sentence": "Фылымэ '''мэухымэ''' тыгъэк1ожь",
-            "translation": "'''When''' the film '''is over''' let's return."
-          },
-          {
-            "sentence": "Псэр '''мэухы'''",
-            "translation": "The water '''is running out'''."
-          },
-          {
-            "sentence": "Колэ '''мэухыгъэп'''",
-            "translation": "The cola '''didn't run out'''."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "mawxən"
-  },
-  {
-    "word": "гъэцэк1эжьып1э",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "garage",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ʁat͡sət͡ʃaʑəpʼa"
-  },
-  {
     "word": "зэутэк1ын",
     "lang": "Adyghe",
     "definitions": [
@@ -44821,7 +44764,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to bump into, to knock (against), to bump (against)",
+        "meaning": "to bump into, to bump (against)",
         "examples": [
           {
             "sentence": "К1алэм '''сеутэк1эгъ'''",
@@ -44930,7 +44873,7 @@
     "ipa": "ʁʷazanafə"
   },
   {
-    "word": "чылысы",
+    "word": "чылысышху",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -44939,7 +44882,7 @@
       }
     ],
     "type": "noun",
-    "ipa": "t͡ʃələsə"
+    "ipa": "t͡ʃələsəʃxʷ"
   },
   {
     "word": "бэдзэры",
@@ -44966,7 +44909,7 @@
     "ipa": "qalasaraːjə"
   },
   {
-    "word": "ч1эхьапк1э",
+    "word": "ч1эхьап1э",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -44975,7 +44918,7 @@
       }
     ],
     "type": "noun",
-    "ipa": "t͡ʃʼaħaːpt͡ʃa"
+    "ipa": "t͡ʂʼaħaːpʼa"
   },
   {
     "word": "купэ",
@@ -45054,6 +44997,40 @@
     ],
     "type": "noun",
     "ipa": "qaʁaɬaʁʷanə"
+  },
+  {
+    "word": "къэгъэлъэгъон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to show",
+        "examples": [
+          {
+            "sentence": "К1алэм ику к1э '''къытигъэлъэгъугъ''' непэ",
+            "translation": "The boy '''showed us''' his new car today."
+          },
+		  {
+            "sentence": "Пшъашъэм сурэтэу ыш1ыгъэхэр '''къегъэлъэгъух'''",
+            "translation": "The girl '''shows''' the pictures she done."
+          }
+        ]
+      },
+	  {
+        "meaning": "to showcase",
+        "examples": []
+      },
+	  {
+        "meaning": "to demonstrate",
+        "examples": [
+          {
+            "sentence": "К1элэегъаджэм '''къегъэлъэгъо''' таущтэу упч1эр къыч1ыбгъэк1ыжьыщт",
+            "translation": "The teacher '''demonstrate''' how to solve the question."
+          }
+		]
+      }
+    ],
+    "type": "noun",
+    "ipa": "qaʁaɬaʁʷan"
   },
   {
     "word": "есып1э",
@@ -45240,7 +45217,7 @@
     "ipa": "ɕərəqʷ"
   },
   {
-    "word": "1эплъэк1жъые",
+    "word": "1эплъэк1ыжъые",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -45394,22 +45371,22 @@
     "ipa": "mapʂən"
   },
   {
-    "word": "к1ежьэжьын",
+    "word": "зэк1ежьэжьын",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to return",
         "examples": [
           {
-            "sentence": "'''СызыкIежьэжьыгъэр''' кIасэ хъугъэшъ ары",
+            "sentence": "'''Сызык1ежьэжьыгъэр''' к1асэ хъугъэшъ ары",
             "translation": "'''I’m going''' because it is already late."
           },
           {
-            "sentence": "'''СызыкIежьэжьырэр''' сыпшъыгъэшъ ары",
-            "translation": "'''I’m going''' because I’m tired."
+            "sentence": "'''Сызык1ежьэжьырэр''' сыпшъыгъэшъ ары",
+            "translation": "'''I’m going'1'' because I’m tired."
           },
           {
-            "sentence": "Сыд '''шъузыкIежьэжьырэр?'''",
+            "sentence": "Сыд '''шъузык1ежьэжьырэр?'''",
             "translation": "Why '''are you going already'''?"
           }
         ]
@@ -47324,15 +47301,52 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to finish, to run out",
+        "meaning": "to finish",
         "examples": [
           {
             "sentence": "К1алэм Колэ '''еухы'''",
-            "translation": "The boy '''is finishing''' the cola."
+            "translation": "The boy '''finishes''' the cola."
           },
           {
-            "sentence": "Псэр к1алэхэмэ '''яухыщт'''",
-            "translation": "The boys '''gonna finish''' the water."
+            "sentence": "Псыр к1алэхэмэ '''аухыщт'''",
+            "translation": "The boys '''are going to finish''' the water."
+          },
+          {
+            "sentence": "Фылымэ '''къыухыгъ'''",
+            "translation": "The film '''is over'''."
+          },
+          {
+            "sentence": "Фылымэ '''ухымэ''' тыгъэк1ожь",
+            "translation": "'''When''' the film '''is over''' let's return."
+          }
+        ]
+      },
+	  {
+        "meaning": "to run out (in terms of amount)",
+        "examples": [
+		  {
+            "sentence": "Бензиныр '''къыухыгъ'''",
+            "translation": "The gas '''ran out'''."
+          },
+          {
+            "sentence": "Мы1эрысхэр '''ухыгъэх'''",
+            "translation": "The apples '''ran out'''."
+          },
+          {
+            "sentence": "Уахътэр '''мэухы'''",
+            "translation": "The time '''is running out'''."
+          },
+          {
+            "sentence": "Уахътэр '''ухыщт'''",
+            "translation": "The time '''will run out'''."
+          },
+          {
+            "sentence": "Псыр '''мэухы'''",
+            "translation": "The water '''is running out'''."
+          },
+          {
+            "sentence": "Колэ '''ухыгъэп'''",
+            "translation": "The cola '''didn't run out'''."
           }
         ]
       },
@@ -70849,6 +70863,23 @@
       {
         "meaning": "alternative form of \"жэхэхьан\"",
         "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "d͡ʒəxaħan"
+  },
+  {
+    "word": "еол1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to collide into",
+        "examples": [
+          {
+            "sentence": "К1алэр шымк1э адрэ шым '''еол1агъ''",
+            "translation": "The boy '''collieded''' with the horse '''into''' the other horse."
+          }
+        ]
       }
     ],
     "type": "verb",

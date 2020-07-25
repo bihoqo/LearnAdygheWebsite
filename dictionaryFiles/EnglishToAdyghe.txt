@@ -1620,9 +1620,6 @@
     "span of the hand (a measure)": "бжъэ"
   },
   {
-    "hairbrush": "мажьэ"
-  },
-  {
     "scissors": "лэныстэ"
   },
   {
@@ -1731,7 +1728,7 @@
     "to meet": "тефэн (to come across, to encounter coincidentally); 1ук1эн (to meet); пэгъок1ын (to welcome, to approach, to encounter intentionally)"
   },
   {
-    "to come across": "тефэн"
+    "to come across": "тефэн; зэтефэн (to come across each other); зэ1ууп1эн (to come across with each other)"
   },
   {
     "to encounter": "тефэн"
@@ -2167,9 +2164,6 @@
   },
   {
     "to disgrace": "хьайнапэу ш1ыжьын"
-  },
-  {
-    "toilet": "псыунэ"
   },
   {
     "moron": "къыгъэ"
@@ -8526,7 +8520,7 @@
     "windmill": "жьышъхьал"
   },
   {
-    "to collide with": "жэхэлъэдэн"
+    "to collide": "еон (to collide into, to hit); еол1эн (to collide into); жэхэхьан (to collide into); к1оц1ыхьан (to smash into); еутэк1ын (to bump into); зэутэк1ын (to bump into each other)"
   },
   {
     "to jump onto": "жэхэпк1эн"
@@ -9882,97 +9876,118 @@
     "to linger": "къэтын; къэгужъон"
   },
   {
-    "base": "лъасэ (root)"
+    "base": "лъапсэ (root); лъач1 (basis that upon which anything is founded); дзап1э (army base); жьыдзап1э (air force base)"
   },
   {
-    "ski": "пцыкъу"
+    "skate shoes": "пцыкъу"
   },
   {
-    "ski": "пцыкъу"
+    "to be in a hurry": "гузэжъон; тхъытхъын"
   },
   {
-    "Snow shoe": "пцыкъу"
+    "to hurry": "гузэжъон (to be in a hurry); тхъытхъын (to be in a hurry); гъэпсынк1эн (to hasten); гъэгузэжъон (to make someone hurry)"
   },
   {
-    "to be in a hurry": "гузэжъон"
+    "to be anxious": "гумэк1ын; гузэжъон"
   },
   {
-    "to be anxious (about), to be uneasy (about)": "гузэжъон"
+    "to be uneasy ": "гумэк1ын; гузэжъон"
   },
   {
-    "a bit (few)": "т1эк1у"
+    "a bit ": "т1эк1у; мак1э"
   },
   {
-    "place": "т1эк1у"
+    "little bit ": "т1эк1у; мак1э"
+  },
+  {
+    "few": "т1эк1у; мак1э"
   },
   {
     "gas station": "бензин игъэхъоп1э"
   },
   {
-    "to run out, to get finished": "мэухын"
+    "to run out": "ухын (to finish)"
   },
   {
-    "garage": "гъэцэк1эжьып1э"
+    "to finish": "ухын"
   },
   {
-    "to bump between each other": "зэутэк1ын"
+    "garage": "гараж"
   },
   {
-    "to bump into, to knock (against), to bump (against)": "еутэк1ын"
+    "to bump": "еутэк1ын (to bump into); зэутэк1ын (to bump each other)"
   },
   {
-    "alternative form of \"еутэк1ын\"": "еутэк1ьын"
+    "to bump into": "еутэк1ын"
   },
   {
-    "help; aid; assistance": "1эпы1эгъу"
+    "help": "1эпы1эгъу"
   },
   {
-    "and then": "ет1анэ"
+    "aid": "1эпы1эгъу"
+  },
+  {
+    "assistance": "1эпы1эгъу"
+  },
+  {
+    "and then": "ет1анэ / ет1анэк1э; (dialectal) ет1уанэ / ет1уанэк1э"
+  },
+  {
+    "then": "ет1анэ / ет1анэк1э; (dialectal) ет1уанэ / ет1уанэк1э"
   },
   {
     "traffic light": "гъозэнэфы"
   },
   {
-    "cathedral": "чылысы"
+    "cathedral": "чылысышху"
   },
   {
-    "alternative form of \"бэдзэр\"": "бэдзэры"
+    "church": "чылыс"
   },
   {
-    "alternative form of \"къэлэсэрай\"": "къэлэсэраи"
+    "entrance": "дэхьап1э; дэхьэгъу; ч1эхьап1э"
   },
   {
-    "entrance": "ч1эхьапк1э"
-  },
-  {
-    "alternative form of \"куп\"": "купэ"
+    "entry": "дэхьап1э; дэхьэгъу; ч1эхьапк1э"
   },
   {
     "rhino": "пэбжъакъо"
   },
   {
-    "toilet, restroom": "щагуик1ып1э"
+    "toilet": "псыунэ"
   },
   {
-    "again": "джыри"
+    "toilet room": "щагуик1ып1э"
+  },
+  {
+    "restroom": "щагуик1ып1э"
+  },
+  {
+    "again": "джыри; ик1эрык1эу (over again)"
+  },
+  {
+    "over again": "ик1эрык1эу"
   },
   {
     "show": "къэгъэлъэгъоны"
   },
   {
+    "to demonstrate": "къэгъэлъэгъон"
+  },
+  {
+    "gallery": "галерея"
+  },
+  {
     "pool": "есып1э"
   },
   {
-    "very loud": "лъэшы1о"
+    "puddle": "псы лъэбан"
   },
   {
-    "alternative form of \"т1эк1угъаш1эм\"": "т1эк1уш1эмэ"
+    "to show": "къэгъэлъэгъон; егъэлъэгъун (to show someone)"
   },
   {
-    "to show": "егъэлъэгъун"
-  },
-  {
-    "to wait": "пэплъэн"
+    "to wait": "пэплъэн; ежэн"
   },
   {
     "travel guide": "гъогурыгъуазэ"
@@ -9987,43 +10002,49 @@
     "space": "огу"
   },
   {
-    "pants": "гъончэдж"
+    "pants": "гъончэдж; (dialectal) гъочэдж; (dialectal) гъошэдж"
   },
   {
     "felt cloak": "к1ак1о"
   },
   {
-    "boot": "щазымэ"
+    "handkerchief": "1эплъэк1ыжъые"
   },
   {
-    "handkerchiefs": "1эплъэк1жъые"
+    "kerchief": "шъхьэк1апх"
+  },
+  {
+    "agnail": "1эбжъэнэдак1"
+  },
+  {
+    "hangnail": "1эбжъэнэдак1"
   },
   {
     "nail clipper": "1эбжъэнэпыупк1ы"
   },
   {
-    "comb": "шъхьэмажьэ"
+    "comb": "мажьэ; шъхьэмажьэ"
+  },
+  {
+    "brush": "мажьэ (hairbrush); шъхьэмажьэ (hairbrush)"
+  },
+  {
+    "hairbrush": "мажьэ; шъхьэмажьэ"
   },
   {
     "toothbrush": "цэлъэк1"
   },
   {
-    "alternative form of \"зыгъэпск1ын\"": "зыгъэпсык1ын"
+    "permission": "фит; 1изын"
   },
   {
-    "alternative form of \"зыгъэпсык1ын\"": "зыгъэпсык1ьын"
+    " approval": "фит; 1изын"
   },
   {
-    "late": "к1асэ"
+    "authorization": "фит; 1изын"
   },
   {
-    "permission, authorization, approval": "фит"
-  },
-  {
-    "separately": "шъхьаф-шъхьафэу"
-  },
-  {
-    "alternative form of \"пшъын\"": "мэпшъын"
+    "separately": "шъхьаф-шъхьафэу; зыр зырэу (one by one)"
   },
   {
     "to return": "к1ежьэжьын"
@@ -10963,9 +10984,6 @@
   },
   {
     "alternative form of \"хьайнапэ\"": "хьэинап"
-  },
-  {
-    "entrance, entry": "дэхьап1э"
   },
   {
     "gate": "къэлапчъ"
@@ -13042,9 +13060,6 @@
   },
   {
     "bough": "къутамэ"
-  },
-  {
-    "boot": "щызымэ"
   },
   {
     "to disband": "т1этэн"
@@ -17569,9 +17584,6 @@
   },
   {
     "bit (metal in horse's mouth)": "шхо1у"
-  },
-  {
-    "entrance": "дэхьэгъу"
   },
   {
     "masculine appearance": "л1ы1о-л1ышъу"
