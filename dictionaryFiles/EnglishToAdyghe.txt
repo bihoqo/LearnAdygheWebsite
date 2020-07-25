@@ -612,9 +612,6 @@
     "fork": "к1этал"
   },
   {
-    "soup": "хьантхъупсы; лэпсы"
-  },
-  {
     "haliva": "хьалыжъо"
   },
   {
@@ -1036,9 +1033,6 @@
   },
   {
     "beautiful": "дахэ"
-  },
-  {
-    "nice": "хъупхъэ"
   },
   {
     "kind": "хъупхъэ"
@@ -1743,9 +1737,6 @@
     "to encounter": "тефэн"
   },
   {
-    "to welcome": "пэгъок1ын (to welcome someone as a host)"
-  },
-  {
     "to receive": "пэгъок1ын (to welcome someone as a host); къы1ук1эхьан (to receive something)"
   },
   {
@@ -2026,9 +2017,6 @@
   },
   {
     "short": "к1ако"
-  },
-  {
-    "beach": "хы 1ушъо; хы гъунэ"
   },
   {
     "correct": "тэрэз"
@@ -2476,12 +2464,6 @@
   },
   {
     "most": "анахь; янахь (Dialectal)"
-  },
-  {
-    "breakfast": "пчэдыжьышх"
-  },
-  {
-    "lunch": "щэджэгъуашх"
   },
   {
     "dinner": "дэшхын"
@@ -5682,7 +5664,7 @@
     "to exist": "щы1эн"
   },
   {
-    "to know": "ш1эн"
+    "to know": "ш1эн; хэш1ык1ын (to have an expertise about)"
   },
   {
     "to do": "ш1эн"
@@ -7233,9 +7215,6 @@
     "to make someone lost": "гъэгъощэн; гъэплъэхъун"
   },
   {
-    "to mislead": "гъэгъощэн; гъэплъэхъун"
-  },
-  {
     "bellflower": "жьыгъэшъуй; одыджын ц1ык1у, одыджынжъый"
   },
   {
@@ -7365,7 +7344,7 @@
     "to sit down": "т1ысын; тет1ысхьан (to sit on); 1ут1ысхьан (to sit near)"
   },
   {
-    "to sit": "т1ысын (to sit down); щысын (to be sitting); тет1ысхьан (to sit on); 1ут1ысхьан (to sit near); те1ыстэн (dialectal)"
+    "to sit": "т1ысын (to sit down); щысын (to be sitting); тет1ысхьан (to sit on); 1ут1ысхьан (to sit near); те1ыстэн (dialectal); исын (to be sitting inside); дэсын (to be sitting in); тесын (to be sitting on); ч1эсын (to be sitting under); госын / бгъодэсын (to be sitting besides); пысын (to be sitting on a tree); къосын (to be sitting behind); хэсын (to be sitting among people or in an area with gas or liquid); ит1ысхьан (to sit inside); дэт1ысхьан (to sit in); гот1ысхьан / бгъодэт1ысхьан (to sit besides); къот1ысхьан (to sit behind); хэт1ысхьан (to sit among people or in an area with some gas or liquid)"
   },
   {
     "insect": "хьац1э-п1ац1э"
@@ -8340,10 +8319,7 @@
     "sexy": "дэхэжъ; (slightly vulgar) шъутыжъ"
   },
   {
-    "to wash": "гык1эн; гык1ын"
-  },
-  {
-    "to launder": "гык1эн; гык1ын"
+    "to launder": "гык1эн (to do laundering); гык1ын (to launder something)"
   },
   {
     "short": "к1ако"
@@ -9459,52 +9435,55 @@
     "helve": "ощыкI; отычык1; обзэгъук1"
   },
   {
-    "uncle (Father's brother)": "атэш"
+    "aunt": "атэшыпхъу (father's sister); анэшыпхъу (mother's sister)"
   },
   {
-    "uncle (Mother's brother)": "анэш"
+    "hotel": "хьак1эщ; хьэк1ап1э"
   },
   {
-    "aunt (Father's sister)": "атэшыпхъу"
+    "inn": "хьак1эщ; хьэк1ап1э"
   },
   {
-    "aunt (Mother's sister)": "анэшыпхъу"
+    "guest room": "хьак1эщ"
   },
   {
-    "hotel; inn": "хьак1эщ"
+    "living room": "хьак1эщ"
   },
   {
-    "guest room; living room": "хьак1эщ"
+    "how much": "тхьапш; сыд фэдиз"
   },
   {
-    "how much, how long": "сыд фэдиз"
+    "how long": "тхьапш; сыд фэдиз"
   },
   {
-    "alternative form of \"гу рихьан\"": "гу рихьэн"
+    "rest": "гъэпсэфыгъо; зыгъэпсэфыгъо"
   },
   {
-    "vacation": "гъэпсэфак1о"
+    "relaxation": "гъэпсэфыгъо; зыгъэпсэфыгъо"
   },
   {
     "slim": "оды"
   },
   {
-    "on purpose": "хъус1ысый"
+    "target": "псагъ"
+  },
+  {
+    "purpose": "гухэлъ; мурад"
+  },
+  {
+    "intention": "гухэлъ; мурад"
   },
   {
     "sentence": "гущы1эухыгъэ"
   },
   {
-    "to write": "тхын"
+    "to write": "тхэн; тхын (to write something); тетхэн (to write on); готхэн (to write besides); тетхэхьан (to write on)"
   },
   {
-    "how much": "тхьапш"
+    "minute": "такъикъ; минут"
   },
   {
-    "minute": "такъикъ"
-  },
-  {
-    "something out of the ordinary": "гъэш1эгъоны"
+    "out of the ordinary": "гъэш1эгъоны"
   },
   {
     "strange": "гъэш1эгъоны"
@@ -9516,28 +9495,19 @@
     "interesting": "гъэш1эгъоны"
   },
   {
-    "stunning, astounding, overwhelming": "гъэш1эгъоны"
+    "stunning": "гъэш1эгъоны"
   },
   {
-    "alternative form of \"шъыда\"": "штэ"
+    "astounding": "гъэш1эгъоны"
   },
   {
-    "equal": "фэдиз"
+    "equal": "фэдиз (equal in amount); зэфэдиз (equal to each other); зэфэдэ (equal in similarly)"
   },
   {
-    "much": "фэдиз"
+    "to get tired": "пш1ын / къэпш1ын"
   },
   {
-    "party": "чэщдэс"
-  },
-  {
-    "to sit (In some specific area)": "дэсын"
-  },
-  {
-    "to settle (In some specific area)": "дэсын"
-  },
-  {
-    "to be in some specific area": "дэсын"
+    "to settle": "ит1ысхьан (to settle in); ч1эт1ысхьан (to settle under); тет1ысхьан (to settle on); хэт1ысхьан (to settle among other people)"
   },
   {
     "alcohol drink": "шъон к1уач1э"
@@ -9549,34 +9519,25 @@
     "where": "тыдэ"
   },
   {
-    "alternative form of \"шъыдгъо\"": "шыдгъо"
+    "to listen": "дэ1он; едэ1ун (to listen to)"
   },
   {
-    "to listen": "дэ1он"
+    "rice": "пындж; пыдж (Shapsug)"
   },
   {
-    "to listen and obey": "дэ1он"
+    "what else": "сыд джыри; сыд нэмык1эу"
   },
   {
-    "rice": "пындж"
-  },
-  {
-    "what else": "сыд джыри"
-  },
-  {
-    "season": "лъэхъаны"
-  },
-  {
-    "alternative form of \"жъоркъ\"": "жъоркъы"
-  },
-  {
-    "alternative form of \"жъоркъ\"": "жъоркъы"
+    "season": "лъэхъаны; сезон"
   },
   {
     "to shine into": "къипсэн"
   },
   {
-    "to fall snow, to snow": "къесын"
+    "to fall snow": "къесын"
+  },
+  {
+    "to snow": "къесын"
   },
   {
     "to rain": "къещхын"
@@ -9585,43 +9546,34 @@
     "sunny": "тыгъэпсы"
   },
   {
-    "above": "ышъхьагъ"
+    "above": "ыпшъэ; ышъхьагъы; ык1ы1у (the surface of); ыпшъэк1э; ышъхьагък1э; ык1ы1ук1э"
   },
   {
-    "below": "ыч1эгъ"
+    "on": "ыпшъэ; ышъхьагъы; ык1ы1у (the surface of); ыпшъэк1э; ышъхьагък1э; ык1ы1ук1э"
   },
   {
-    "behind": "к1ыб"
+    "under": "ыпшъэ; ышъхьагъы; ык1ы1у (the surface of); ыпшъэк1э; ышъхьагък1э; ык1ы1ук1э"
   },
   {
-    "bathroom": "гъэпск1ып1э"
+    "below": "ыч1эгъы; ыч1эгъык1э"
+  },
+  {
+    "behind": "к1ыб; ыкIыбыкIэ"
+  },
+  {
+    "bathroom": "гъэпск1ып1э; хьамам (From Arabic)"
   },
   {
     "front door": "унапчъэ"
   },
   {
-    "to lock": "егъэтын"
-  },
-  {
-    "to open": "1ухын"
-  },
-  {
-    "to take something away from near soemthing": "1ухын"
+    "to open": "1ухын / къы1ухын"
   },
   {
     "armchair": "пхъэнт1эк1ущыхьэ"
   },
   {
-    "brand new": "к1экъэпс"
-  },
-  {
-    "to clean": "укъэбзын"
-  },
-  {
-    "to wash": "тхьак1ын"
-  },
-  {
-    "bicycle": "кушъхьэфачъэ"
+    "bicycle": "кушъхьэфачъэ; лъэкъорыгъачъэ; лъэрыгъачъэ"
   },
   {
     "to hang up": "пылъэн"
@@ -9630,10 +9582,16 @@
     "floor": "джэхашъо"
   },
   {
-    "dish": "шыкъу"
+    "tableware": "шыкъу; хьакъу-шыкъу"
   },
   {
-    "to cook": "пщэрыхьан"
+    "dishes": "шыкъу; хьакъу-шыкъу"
+  },
+  {
+    "to cook": "пщэрыхьан; ш1ын (to make); гъэжъэн (to bake, to grill, to fry); гъэжъон (to boil)"
+  },
+  {
+    "cook": "пщэрэхьак1у"
   },
   {
     "corkscrew": "шъхьэ1ух"
@@ -9642,19 +9600,37 @@
     "vegetable": "хэтэрык1"
   },
   {
-    "fruits": "пхъэшъхьэмышъхьэхэр"
+    "fruits": "пхъэшъхьэмышъхьэхэр; пк1ышъхьэмышъхьэхэр"
   },
   {
     "towel": "1эплъэк1"
   },
   {
-    "fruit": "пхъэшъхьэмышъхь"
+    "fruit": "пхъэшъхьэмышъхь; пк1ышъхьэмышъхьэ"
   },
   {
     "to like": "к1эсэн"
   },
   {
-    "nice": "нэгуш1у"
+    "nice": "хъупхъэ (kind); ш1у (well); дэгъу (good)"
+  },
+  {
+    "modest": "шъырыт"
+  },
+  {
+    "affable": "нэгуихыгъ"
+  },
+  {
+    "friendly": "нэгуихыгъэу"
+  },
+  {
+    "merry fellow": "нэш1о-гуш1у"
+  },
+  {
+    "humourist": "нэш1о-гуш1у"
+  },
+  {
+    "neighborly": "нэгуихыгъэу"
   },
   {
     "translator": "зэдзэк1ак1у"
@@ -9663,118 +9639,169 @@
     "to translate": "зэдзэк1ын"
   },
   {
-    "became late, became old": "хэк1отагъ"
-  },
-  {
     "cigarette": "тутын"
   },
   {
-    "to want": "ш1оигъон"
+    "to want": "фэен; ш1оигъон (very polite)"
   },
   {
-    "to want": "фэен"
+    "must": "фае; ищык1агъ (need to)"
   },
   {
-    "must": "фае"
+    "to misguide": "гъэгъощэн; хэгъэгъощэн"
   },
   {
-    "to misguide, to mislead": "гъэохъун"
+    "to mislead": "хэгъэукъон (to maked someone do mistakes); гъэделэн (to fool someone); гъэгъощэн (to make someone confused, to make someone go off road, to make someone go astray, to make someone lose their way); хэгъэгъощэн (to make someone confused, to make someone go off road, to make someone go astray, to make someone lose their way); гъэплъэхъун (to make someone miss); гъэохъун (to hinder)"
   },
   {
-    "to put obstacles to; to hinder": "гъэохъун"
+    "to hinder": "гъэохъун"
   },
   {
-    "to mix, to mingle, to blend": "гъэохъун"
+    "to put obstacles to": "гъэохъун"
   },
   {
     "better": "нахьыш1у"
   },
   {
-    "mostly": "нахьыбэрэм"
+    "mostly": "нахь бэм; нахь бэрэм; нахьыбэрэм; нахьыбэрэмк1э"
   },
   {
-    "more often": "нахьыбэрэ"
+    "more often": "нахь бэрэ; нахьыбэрэ"
   },
   {
     "to make someone close to something": "егъэблэгъэн"
   },
   {
-    "to welcome, to invite": "къегъэблэгъэн"
+    "to welcome": "пэгъок1ын (to welcome someone as a host); къегъэблэгъэн (to make someone come in or come closer)"
   },
   {
-    "to make someone close to oneself": "къегъэблэгъэн"
+    "to invite": "къегъэблэгъэн; къеджэн (to call someone to come)"
   },
   {
-    "hard, difficult": "хьылъэ"
+    "hard": "пытэ (firm); (dialectal) къэпы (firm); къин (difficult); хьылъэ (difficult)"
   },
   {
-    "alternative form of \"хэш1ык1ын\"": "хэш1ык1ьын"
+    "difficult": "къин; хьылъэ; онтэгъу (heavy burden)"
   },
   {
-    "to have knowledge about some technical stuff or subject, to have an understanding about a certain subject": "хэш1ык1ын"
+    "melancholy": "гугъу"
   },
   {
-    "to feel": "хэш1ык1ын"
+    "depression": "гугъу"
+  },
+  {
+    "to have expertise": "хэш1ык1ын"
+  },
+  {
+    "to be an expert": "хэш1ык1ын"
+  },
+  {
+    "to have deep knowledge": "хэш1ык1ын"
+  },
+  {
+    "to feel": "хэш1ык1ын; зэхэш1эн"
+  },
+  {
+    "to sense": "хэш1ык1ын; зэхэш1эн"
   },
   {
     "to forget": "щыгъупшын"
   },
   {
-    "to be late": "къыщинэн"
+    "to be late": "лъэжъон / къэлъэжъон; гужъон / къэгужъон; къыщинэн (to be late for); къэк1эсэн; к1асэ хъун"
   },
   {
-    "to surpass someone by far": "къыщинэн"
+    "to be behind time": "къэлъэжъон; къэгужъонж къэк1эсэн"
+  },
+  {
+    "to be behind schedule": "къэлъэжъон; къэгужъонж къэк1эсэн"
+  },
+  {
+    "to come not on time": "къэлъэжъон; къэгужъонж къэк1эсэн"
+  },
+  {
+    "to be running late": "къэлъэжъон; къэгужъонж къэк1эсэн"
+  },
+  {
+    "to be delayed": "къэлъэжъон"
+  },
+  {
+    "to surpass": "тек1он (to overcome); течъын (to surpass, to outrun); к1эхьан (to catch up to someone and maybe even surpass); ыпэ ишъын (to outrun); къыщынэн (to surpass someone and leave him/her behind)"
   },
   {
     "to swallow": "дырын"
   },
   {
-    "to devour": "дырын"
+    "to gulp down": "дырын"
   },
   {
-    "to meet": "1ук1эн"
+    "to choke down": "дырын"
   },
   {
-    "to overtake, to sidestep, To catch up with someone but not pass": "1ук1эн"
+    "to overtake": "течъын; к1эхьан; ыпэ ишъын"
   },
   {
-    "to surpass": "тэчъын"
+    "to sidestep": "зыщыгъэзыен, зыщыдзыен"
   },
   {
-    "alternative form of \"к1эхьан\"": "1ук1ыхьан"
+    "to step aside": "зыщыгъэзыен, зыщыдзыен"
   },
   {
-    "to rest, to take a break": "зыгъэпсэфын"
+    "to make way": "зыщыгъэзыен, зыщыдзыен"
   },
   {
-    "beach": "псы1ушъо"
+    "to catch up": "пхъотэн (to grab), къэубытын (to grab); к1эхьан (to catch up to someone); лъык1эхьан (to catch up to someone)"
   },
   {
-    "soon": "т1эк1угъаш1эм"
+    "to rest": "зыгъэпсэфын"
   },
   {
-    "A stopping place, station": "уцуп1э"
+    "to take a break": "зыгъэпсэфын"
   },
   {
-    "to need something required": "щык1эн"
+    "beach": "хы 1ушъо; хы гъунэ"
+  },
+  {
+    "soon": "т1эк1угъаш1эм; т1эк1уш1эмэ"
+  },
+  {
+    "station": "уцуп1э"
+  },
+  {
+    "to need": "щык1эн (to need something required); ищык1агъ (needed)"
+  },
+  {
+    "landing-stage": "къухьэуцуп1э"
   },
   {
     "harbor": "къухьэуцуп1э"
   },
   {
-    "tower": "щэчанэ"
+    "dock": "къухьэуцуп1э"
   },
   {
-    "tower": "хьалэмэт"
+    "tower": "зыплъыхьап1э"
   },
   {
-    "ugly, freaky": "теплъаджэ"
+    "intractable": "гурмыкъ"
+  },
+  {
+    "susceptible": "шъхьэк1ош1ыпхэ; шъхьэк1оштэпхэ; зыгъэгусал"
+  },
+  {
+    "touchy": "шъхьэк1ош1ыпхэ; шъхьэк1оштэпхэ; зыгъэгусал"
   },
   {
     "boring": "зэщыгъо"
   },
   {
-    "terrible": "гомыхь"
+    "boredom": "зэщыгъо"
+  },
+  {
+    "tedium": "зэщыгъо"
+  },
+  {
+    "terrible": "дэи; 1ае; гомыхь"
   },
   {
     "breakfast": "пчэдыжьышхэ"
@@ -9786,52 +9813,46 @@
     "dinner for evening": "пчыхьэшъхьашхэ"
   },
   {
-    "to repair": "гъэцэк1эжьын"
+    "noisy": "бырысыр; бырысырыл (a noisy person)"
   },
   {
-    "noisy": "щыбырысыр"
-  },
-  {
-    "heater": "гъэфэбап1э"
+    "heater": "гъэфэбалъэ"
   },
   {
     "air-conditioning": "жьыгъэкъабзэ"
   },
   {
-    "very expensive": "лъэп1а1о"
+    "air-conditioner": "жьыгъэкъабзэ"
   },
   {
-    "tea": "щаибжъэ"
+    "tea": "чае; щае; щаибжъэ (a glass of tea)"
   },
   {
-    "beef": "былымылы"
+    "beef": "чэмыл; былымылы"
   },
   {
     "pork": "къолы"
   },
   {
-    "tasty (having a pleasant flavor)": "гохьы"
+    "charming": "гохьы"
   },
   {
-    "pleasant, charming": "гохьы"
-  },
-  {
-    "lovely person, likable person": "гохьы"
+    "lovely": "гохьы; го1у"
   },
   {
     "hospital": "сымэджэщ"
   },
   {
-    "to shave": "упсын"
+    "to shave": "упсэн; упсын (to shave something)"
   },
   {
-    "soup": "стырыпс"
+    "soup": "хьантхъупсы (millet soup); лэпсы; стырыпс"
   },
   {
-    "fruit": "пк1ышъхьэмышъхьэ"
+    "if not": "хьаумэ; умыармэ"
   },
   {
-    "if not, else if": "хьаумэ"
+    "else if": "хьаумэ; умыармэ"
   },
   {
     "sausage": "нэкулъ"
@@ -9846,16 +9867,22 @@
     "seat": "т1ысып1э"
   },
   {
-    "border": "гъунапкъэ"
+    "border": "гъунапкъэ; гъунэ"
   },
   {
-    "boundary, border, borderline, frontier (the line or frontier area separating regions)": "гъунапкъэ"
+    "boundary": "гъунапкъэ; гъунэ"
   },
   {
-    "to linger": "къэгужъон"
+    "borderline": "гъунапкъэ; гъунэ"
   },
   {
-    "base": "лъасэ"
+    "frontier": "гъунапкъэ; гъунэ"
+  },
+  {
+    "to linger": "къэтын; къэгужъон"
+  },
+  {
+    "base": "лъасэ (root)"
   },
   {
     "ski": "пцыкъу"
@@ -11169,7 +11196,7 @@
     "to get used to": "есэн"
   },
   {
-    "to close": "есэн"
+    "to close": "есэн; егъэсэн (to close something)"
   },
   {
     "to cut with, to split with": "дебзын"
@@ -11692,9 +11719,6 @@
   },
   {
     "first": "япэрэ"
-  },
-  {
-    "how much": "шыдфэдиз"
   },
   {
     "tomorrow": "неущы"
@@ -12232,9 +12256,6 @@
   },
   {
     "to produce": "ш1ын"
-  },
-  {
-    "beach": "тыгъэзегъэуп1э"
   },
   {
     "to shuck": "удзуцон"
@@ -13302,9 +13323,6 @@
     "table (three-legged)": "1анэ"
   },
   {
-    "ugly": "1ае"
-  },
-  {
     "bad-tasting, bad taste, distasteful": "1ае"
   },
   {
@@ -13552,9 +13570,6 @@
   },
   {
     "alternative form of \"гъэуп1ыц1эн\"": "гъэупыц1эн"
-  },
-  {
-    "to know": "щкъэн"
   },
   {
     "to watch over, to keep an eye on": "лъыплъэн"
@@ -14754,9 +14769,6 @@
     "to drink liquid from inside something fully": "ишъук1ын"
   },
   {
-    "to mislead someone": "хигъэгъощэн"
-  },
-  {
     "towel": "нэ1аплъэк1"
   },
   {
@@ -15069,9 +15081,6 @@
     "polite": "1эдэб"
   },
   {
-    "nice": "нэгуихыгъэу"
-  },
-  {
     "to be aware of": "щыгъозэн"
   },
   {
@@ -15094,9 +15103,6 @@
   },
   {
     "a liquid to slide off above something": "течъын"
-  },
-  {
-    "to surpass; to overtake": "течъын"
   },
   {
     "to outrun, to [outdistance": "течъын"
@@ -15784,9 +15790,6 @@
   },
   {
     "there (place)": "адэк1о"
-  },
-  {
-    "to overtake someone and surpass him, to catch up with someone": "к1эхьан"
   },
   {
     "to go under something": "ч1эхьан"
@@ -17046,9 +17049,6 @@
     "great": "джан"
   },
   {
-    "tower": "зыплъыхьап1э"
-  },
-  {
     "to look around": "зыплъыхьан"
   },
   {
@@ -17062,12 +17062,6 @@
   },
   {
     "seat (car seat, bicycle seat)": "кушъхьэ"
-  },
-  {
-    "bicycle": "лъэкъорыгъачъэ"
-  },
-  {
-    "bicycle": "лъэрыгъачъэ"
   },
   {
     "alternative form of \"уты\"": "уты еуалъэ"
@@ -18168,9 +18162,6 @@
     "(slang) to complain to someone repeatedly (to the point of annoyance)": "шык1эпшынэ къыфеон"
   },
   {
-    "to clean": "гъэкъэбзэн"
-  },
-  {
     "byre (for cows)": "чэмы1о"
   },
   {
@@ -18207,9 +18198,6 @@
     "to overturn, to tip over, to capsize": "еук1орэик1ын"
   },
   {
-    "to surpass; to overtake": "ыпэ ишъын"
-  },
-  {
     "to outrun, to outdistance": "ыпэ ишъын"
   },
   {
@@ -18223,9 +18211,6 @@
   },
   {
     "shore, coast, seaboard, littoral": "1ушъо"
-  },
-  {
-    "beach": "хы1ушъо"
   },
   {
     "coast": "хы1ушъо"
@@ -20134,9 +20119,6 @@
   },
   {
     "baby": "нану"
-  },
-  {
-    "party": "пчыхьэзэхахь"
   },
   {
     "to get numb; to tingle (body-part)": "утэбжьэн"

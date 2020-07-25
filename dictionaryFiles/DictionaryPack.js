@@ -2429,7 +2429,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "soup",
+        "meaning": "millet soup",
         "examples": []
       }
     ],
@@ -9084,6 +9084,24 @@
     ],
     "type": "noun",
     "ipa": "xəʁʷəna"
+  },
+  {
+    "word": "хыгъунэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"хы гъунэ\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "хы1ушъу",
+      "1ушъо",
+      "псы1ушъо",
+      "хыгъунэ"
+    ],
+    "type": "noun",
+    "ipa": "xə ʁʷəna"
   },
   {
     "word": "тэрэз",
@@ -41935,23 +41953,6 @@
     "ipa": "ɡʷərəjħən"
   },
   {
-    "word": "гъэпсэфак1о",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "vacation",
-        "examples": [
-          {
-            "sentence": "Мыщ '''гъэпсэфак1о''' шъукъэк1уагъа?",
-            "translation": "Are you here on '''vacation'''? (Said to plural)"
-          }
-        ]
-      }
-    ],
-    "type": "noun",
-    "ipa": "ʁapsafaːkʷʼa"
-  },
-  {
     "word": "оды",
     "lang": "Adyghe",
     "definitions": [
@@ -41986,21 +41987,21 @@
     "ipa": "wadə"
   },
   {
-    "word": "хъус1ысый",
+    "word": "псагъ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "on purpose",
+        "meaning": "target (mark to shoot at)",
         "examples": [
           {
-            "sentence": "'''хъус1ысыиу''' к1алэр еуагъ",
-            "translation": "The boy hit him '''on purpose'''."
+            "sentence": "Л1ыр '''псагъэм''' тыригъэфагъ",
+            "translation": "The man hit '''the target'''."
           }
         ]
       }
     ],
-    "type": "adv",
-    "ipa": "χʷəsʼəsəj"
+    "type": "noun",
+    "ipa": "psaːʁ"
   },
   {
     "word": "гущы1эухыгъэ",
@@ -42075,7 +42076,7 @@
       }
     ],
     "synonyms": [
-      "шыдфэдиз"
+      "сыд фэдиз"
     ],
     "type": "adv",
     "ipa": "tħapʃ"
@@ -42157,11 +42158,11 @@
         ]
       },
       {
-        "meaning": "stunning, astounding, overwhelming",
+        "meaning": "stunning, astounding",
         "examples": [
           {
             "sentence": "'''Гъэш1эгъоны''' горэ сылъэгъогъ",
-            "translation": "I saw something '''overwhelming'''."
+            "translation": "I saw something '''astounding'''."
           }
         ]
       }
@@ -42390,12 +42391,22 @@
         ]
       }
     ],
-    "synonyms": [
-      "тэдэ"
-    ],
     "cognate": "дэнэ",
     "type": "adv",
     "ipa": "təda"
+  },
+  {
+    "word": "тэдэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"тыдэ\"",
+        "examples": []
+      }
+    ],
+    "cognate": "дэнэ",
+    "type": "adv",
+    "ipa": "tada"
   },
   {
     "word": "шыдгъо",
@@ -42564,7 +42575,7 @@
     "ipa": "təʁapsə"
   },
   {
-    "word": "ышъхьагъ",
+    "word": "ышъхьагъы",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -42576,7 +42587,7 @@
     "ipa": "əʂħaːʁ"
   },
   {
-    "word": "ыч1эгъ",
+    "word": "ыч1эгъы",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -42585,7 +42596,7 @@
       }
     ],
     "type": "adv",
-    "ipa": "ət͡ʃʼaʁ"
+    "ipa": "ət͡ʃʼaʁə"
   },
   {
     "word": "к1ыб",
@@ -42709,7 +42720,7 @@
         ]
       },
       {
-        "meaning": "to take something away from near soemthing",
+        "meaning": "to take something away from near something",
         "examples": [
           {
             "sentence": "1анэр чъыгым '''1ух'''",
@@ -42740,23 +42751,6 @@
     ],
     "type": "noun",
     "ipa": "pχantʼakʷʼɕəħa"
-  },
-  {
-    "word": "к1экъэпс",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "brand new",
-        "examples": [
-          {
-            "sentence": "Телевизорыр '''к1экъэпс'''",
-            "translation": "The TV set is '''brand new'''."
-          }
-        ]
-      }
-    ],
-    "type": "adj",
-    "ipa": "t͡ʃaqaps"
   },
   {
     "word": "укъэбзын",
@@ -42892,10 +42886,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "dish",
+        "meaning": "tableware, dishes",
         "examples": [
           {
-            "sentence": "'''Шыкъухэр''' шIоих",
+            "sentence": "'''Шыкъухэр''' ш1оих",
             "translation": "'''The dishes''' are dirty."
           },
           {
@@ -42992,7 +42986,7 @@
     "ipa": "ʔapɬat͡ʃ"
   },
   {
-    "word": "пхъэшъхьэмышъхь",
+    "word": "пхъэшъхьэмышъхьэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -43075,11 +43069,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "nice",
+        "meaning": "cheerful; joyful",
         "examples": [
           {
             "sentence": "Ц1ыфхэри '''нэгуш1ох'''",
-            "translation": "The people '''are nice'''."
+            "translation": "The people '''are cheerful'''."
           }
         ]
       }
@@ -43304,10 +43298,6 @@
       },
       {
         "meaning": "to put obstacles to; to hinder",
-        "examples": []
-      },
-      {
-        "meaning": "to mix, to mingle, to blend",
         "examples": []
       }
     ],
@@ -43543,7 +43533,7 @@
         ]
       },
       {
-        "meaning": "to feel",
+        "meaning": "to feel; to sense",
         "examples": [
           {
             "sentence": "Синыбэк1э 1аеу '''хэсэш1ык1ы'''",
@@ -43552,6 +43542,10 @@
           {
             "sentence": "К1алэм чъы1эу '''хеш1ык1ы'''",
             "translation": "The boy '''is feeling''' cold."
+          },
+          {
+            "sentence": "К1алэр зэрэкъак1орэр '''хэсэш1ык1ы'''",
+            "translation": "'''I sense''' that the boy is coming"
           }
         ]
       }
@@ -43561,6 +43555,72 @@
     ],
     "type": "verb",
     "ipa": "xaʃʼət͡ʃʼən"
+  },
+  {
+    "word": "зэхэш1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to feel; to sense",
+        "examples": [
+          {
+            "sentence": "К1алэм чъы1эр '''зэхеш1э'''",
+            "translation": "The boy '''feels''' cold."
+          },
+          {
+            "sentence": "Нэмык1ым игумэк1 ащ зэхиш1эрэп",
+            "translation": "He '''does not sense''' the suffering of others."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "хэш1ык1ын"
+    ],
+    "type": "verb",
+    "ipa": "zaxaʃʼan"
+  },
+  {
+    "word": "лъэжъон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"къэлъэжъон\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɬaʐʷan"
+  },
+  {
+    "word": "къэлъэжъон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to be late; to be behind time; to be behind schedule; to come not on time; to be running late",
+        "examples": [
+          {
+            "sentence": "К1алэр классым '''къэлъэжъуагъ'''",
+            "translation": "The boy '''came late''' to class."
+          },
+          {
+            "sentence": "О бэрэ '''укъэлъажъо'''",
+            "translation": "'''You are late''' a lot of times."
+          }
+        ]
+      },
+	  {
+        "meaning": "to be delayed",
+        "examples": [
+          {
+            "sentence": "К1алэр классым иуахътэ къэсыгъэп, '''къэлъэжъуагъ'''",
+            "translation": "The boy did not came in time to class, '''he was delayed'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "qaɬaʐʷan"
   },
   {
     "word": "щыгъупшын",
@@ -43877,7 +43937,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "shore",
+        "meaning": "shore (usaully a shore of a lake or river)",
         "examples": []
       }
     ],
@@ -43885,7 +43945,19 @@
     "ipa": "psəʔʷəʃʷa"
   },
   {
-    "word": "т1эк1угъаш1эм",
+    "word": "псы 1ушъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"псы1ушъо\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "psə ʔʷəʃʷa"
+  },
+  {
+    "word": "т1эк1угъаш1эмэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -43910,7 +43982,22 @@
       "т1эк1уш1эмэ"
     ],
     "type": "adv",
-    "ipa": "tʼakʷʼʁaːʃʼam"
+    "ipa": "tʼakʷʼʁaːʃʼama"
+  },
+  {
+    "word": "т1эк1у гъаш1эм",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"т1эк1угъаш1эмэ\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "т1эк1уш1эмэ"
+    ],
+    "type": "adv",
+    "ipa": "tʼakʷʼ ʁaːʃʼam"
   },
   {
     "word": "уцуп1э",
@@ -43955,7 +44042,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "harbor",
+        "meaning": "harbor; dock",
         "examples": [
           {
             "sentence": "'''Къухьэуцуп1эм''' шъук1у",
@@ -43973,38 +44060,21 @@
     "ipa": "qʷəħawt͡sʷəpʼa"
   },
   {
-    "word": "щэчанэ",
+    "word": "къухьэ уцуп1э",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "tower",
-        "examples": [
-          {
-            "sentence": "Мо '''щэчанэр''' олъэгъуа?",
-            "translation": "Do you see the '''tower''' there?"
-          }
-        ]
+        "meaning": "alternative form of \"къухьэуцуп1э\"",
+        "examples": []
       }
     ],
+    "synonyms": [
+      "бэгъуаз",
+      "кутлэ"
+    ],
+    "cognate": "кхъухьтедзап1э",
     "type": "noun",
-    "ipa": "ɕat͡ʃaːna"
-  },
-  {
-    "word": "хьалэмэт",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "tower",
-        "examples": [
-          {
-            "sentence": "СызэреплъырэмкIэ, ар '''хьалэмэт'''",
-            "translation": "I find that '''gorgeous'''."
-          }
-        ]
-      }
-    ],
-    "type": "adj",
-    "ipa": "ħaːlamat"
+    "ipa": "qʷəħa wt͡sʷəpʼa"
   },
   {
     "word": "теплъаджэ",
@@ -44024,14 +44094,30 @@
     "ipa": "tepɬaːd͡ʒa"
   },
   {
+    "word": "гурмыкъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "intractable",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "gʷərməq"
+  },
+  {
     "word": "зэщыгъо",
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "boredom",
+        "examples": []
+      },
+	  {
         "meaning": "boring",
         "examples": [
           {
-            "sentence": "СызэреплъырэмкIэ, ар '''зэщыгъо'''",
+            "sentence": "Сызэреплъырэмк1э, ар '''зэщыгъо'''",
             "translation": "I find that '''boring'''."
           }
         ]
@@ -44135,15 +44221,19 @@
     "ipa": "ʁat͡sat͡ʃaʑən"
   },
   {
-    "word": "щыбырысыр",
+    "word": "бырысыр",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "noisy",
         "examples": [
           {
-            "sentence": "Унэм '''щыбырысыр''' дэд",
+            "sentence": "Унэр '''щыбырысыр''' дэд",
             "translation": "The room is too '''noisy'''."
+          },
+		  {
+            "sentence": "Щагур '''бырысыр'''",
+            "translation": "The yard '''is noisy'''."
           }
         ]
       }
@@ -44152,14 +44242,14 @@
     "ipa": "ɕəbərəsər"
   },
   {
-    "word": "гъэфэбап1э",
+    "word": "гъэфэбалъэ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "heater",
         "examples": [
           {
-            "sentence": "'''ГъэфэбапIэм''' мэлажэрэп",
+            "sentence": "'''Гъэфэбалъэр''' мэлажэрэп",
             "translation": "The '''heater''' isn’t working."
           }
         ]
@@ -44173,7 +44263,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "air-conditioning",
+        "meaning": "air-conditioner; air-conditioning",
         "examples": [
           {
             "sentence": "'''Жьыгъэкъабзэ''' мэлажэрэп",
@@ -44299,7 +44389,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to shave",
+        "meaning": "to shave something",
         "examples": [
           {
             "sentence": "К1алэм мэлыр '''еупсы'''",
@@ -44314,6 +44404,23 @@
     ],
     "type": "verb",
     "ipa": "wəpsən"
+  },
+  {
+    "word": "упсэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to shave",
+        "examples": [
+          {
+            "sentence": "К1алэр '''маупсэ'''",
+            "translation": "The boy '''is shaving'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "wəpsan"
   },
   {
     "word": "стырыпс",
@@ -44342,7 +44449,7 @@
       }
     ],
     "synonyms": [
-      "пхъэшъхьэмышъхь",
+      "пхъэшъхьэмышъхьэ",
       "къуе-мый"
     ],
     "type": "noun",
@@ -44443,9 +44550,60 @@
     "ipa": "ʁʷənaːpqa"
   },
   {
+    "word": "гужъон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to be late",
+        "examples": [
+          {
+            "sentence": "Мэш1окур къэгужъо",
+            "translation": "The train '''is being late'''."
+          },
+		  {
+            "sentence": "К1алэм игъусэ '''гужъон''' фаеу зэхъум ежь ащ емыжэу ежьэжьыгъ",
+            "translation": "When the boy's partner had to come late, he went off without waiting for him."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɡʷəʒʷan"
+  },
+  {
+    "word": "къэк1эсэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to be late; to be behind schedule",
+        "examples": [
+          {
+            "sentence": "Мэш1окур къэк1асэ",
+            "translation": "The train '''is being late'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "qat͡ʃʼasan"
+  },
+  {
     "word": "къэгужъон",
     "lang": "Adyghe",
     "definitions": [
+      {
+        "meaning": "to be late; to be behind time; to be behind schedule; to come not on time; to be running late",
+        "examples": [
+          {
+            "sentence": "Мэш1окур къэгужъо",
+            "translation": "The train '''is being late'''."
+          },
+		  {
+            "sentence": "К1алэм игъусэ '''гужъон''' фаеу зэхъум ежь ащ емыжэу ежьэжьыгъ",
+            "translation": "When the boy's partner had to come late, he went off without waiting for him."
+          }
+        ]
+      },	
       {
         "meaning": "to linger",
         "examples": []
@@ -44931,12 +45089,12 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"т1эк1угъаш1эм\"",
+        "meaning": "alternative form of \"т1эк1угъаш1эмэ\"",
         "examples": []
       }
     ],
     "synonyms": [
-      "т1эк1угъаш1эм"
+      "т1эк1угъаш1эмэ"
     ],
     "type": "adv",
     "ipa": "tʼakʷʼːʃʼama"
@@ -48882,7 +49040,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to move oneself to another place/spot (Usually move a small distance from the spot oneself is standing)",
+        "meaning": "to move oneself to another place/spot (usually move a small distance from the spot oneself is standing)",
         "examples": [
           {
             "sentence": "К1алэм '''зышыгъэзыегъ''' гъогум",
@@ -48909,6 +49067,10 @@
             "translation": "'''Move a bit''' and let me pass the road fast! (said to plural)."
           }
         ]
+      },
+	  {
+        "meaning": "to sidestep; to step aside; to make way",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -50637,14 +50799,9 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "difficult",
+        "meaning": "melancholy, depression",
         "examples": []
       }
-    ],
-    "synonyms": [
-      "къины",
-      "хьылъэ",
-      "----"
     ],
     "type": "adj",
     "ipa": "ɡʷəʁʷ"
@@ -54911,12 +55068,29 @@
         ]
       },
       {
-        "meaning": "to avoid",
+        "meaning": "to sidestep; to step aside; to make way",
         "examples": []
       }
     ],
     "type": "verb",
     "ipa": "zəɕəd͡zəjan"
+  },
+  {
+    "word": "щыгъэдзыен",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to move something away from; to move something to make way",
+        "examples": [
+          {
+            "sentence": "1анэр '''щыгъэдзый'''",
+            "translation": "'''Move''' the table '''away'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɕəʁad͡zəjan"
   },
   {
     "word": "зыщыгъэгъупшын",
@@ -55019,11 +55193,11 @@
     "ipa": "jaːpara"
   },
   {
-    "word": "шыдфэдиз",
+    "word": "шъыд фэдиз",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "how much",
+        "meaning": "alternative form of \"сыд фэдиз\"",
         "examples": []
       }
     ],
@@ -55031,7 +55205,7 @@
       "тхьапш"
     ],
     "type": "adv",
-    "ipa": "ʃədfadiz"
+    "ipa": "ʂəd fadiz"
   },
   {
     "word": "неущы",
@@ -72496,16 +72670,55 @@
     "ipa": "jəʃʷət͡ʃʼn"
   },
   {
-    "word": "хигъэгъощэн",
+    "word": "хэгъэгъощэн",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to mislead someone",
         "examples": []
+      }{
+        "meaning": "to misguide someone",
+        "examples": []
+      },
+	  {
+        "meaning": "to make someone go off road",
+        "examples": []
+      },
+	  {
+        "meaning": "to make someone go astray",
+        "examples": []
+      },
+	  {
+        "meaning": "to make someone lose their way",
+        "examples": []
+      },
+	  {
+        "meaning": "to make someone confused",
+        "examples": []
       }
     ],
     "type": "verb",
-    "ipa": "xiʁaʁʷaɕan"
+    "ipa": "xaʁaʁʷaɕan"
+  },
+  {
+    "word": "зэхэлъэшъон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to mix things together",
+        "examples": []
+      },
+	  {
+        "meaning": "to misunderstand things together",
+        "examples": []
+      },
+	  {
+        "meaning": "to complicate things together",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaxaɬaʃʷan"
   },
   {
     "word": "нэ1аплъэк1",
@@ -74253,12 +74466,46 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "nice",
-        "examples": []
+        "meaning": "neighborly, friendly",
+        "examples": [
+          {
+            "sentence": "Бысымыр '''нэгуихыгъэу''' хьак1эм къыпэгъок1ыгъ",
+            "translation": "The host ''."
+          }
+        ]
       }
     ],
     "type": "adj",
     "ipa": "naɡʷixəʁaw"
+  },
+  {
+    "word": "нэгуихыгъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "affable",
+        "examples": [
+          {
+            "sentence": "Л1ыр '''нэгуихыгъ'''",
+            "translation": "The man '''is affable'''."
+          }
+        ]
+      }
+    ],
+    "type": "adj",
+    "ipa": "naɡʷixəʁ"
+  },
+  {
+    "word": "нэш1о-гуш1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "merry fellow, humourist",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "naʃʷʼa-gʷəʃχʷʼa"
   },
   {
     "word": "щыгъозэн",
@@ -74283,6 +74530,10 @@
     "definitions": [
       {
         "meaning": "break for resting",
+        "examples": []
+      },
+	  {
+        "meaning": "rest; relaxation",
         "examples": []
       }
     ],
@@ -78443,6 +78694,39 @@
     ],
     "type": "verb",
     "ipa": "ɣərzən"
+  },
+  {
+    "word": "къэпш1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"пш1ын\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "qapʃʼən"
+  },
+  {
+    "word": "пш1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to get tired",
+        "examples": [
+          {
+            "sentence": "'''Сыпш1ыгъ'''",
+            "translation": "'''I got tired'''."
+          },
+		  {
+            "sentence": "Бэрэ учъымэ '''упш1ыщт'''",
+            "translation": "If you run a lot '''you will get tired'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "pʃʼən"
   },
   {
     "word": "щэ1ун",
@@ -89857,6 +90141,18 @@
     "ipa": "xəʔʷəʃʷa"
   },
   {
+    "word": "хы 1ушъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"хы1ушъо\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "xə ʔʷəʃʷa"
+  },
+  {
     "word": "хэгъэон",
     "lang": "Adyghe",
     "definitions": [
@@ -99812,27 +100108,52 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to mislead",
+        "meaning": "to make someone overlook/miss something",
         "examples": []
       }
     ],
-    "synonyms": [
-      "гъэгъощэн"
-    ],
     "type": "noun",
     "ipa": "ʁapɬaχʷən"
+  },
+  {
+    "word": "хэгъэукъон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to make someone do mistakes",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "xaʁawqʷan"
   },
   {
     "word": "гъэгъощэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to mislead; to make someone lost",
+        "meaning": "to mislead someone",
+        "examples": []
+      }{
+        "meaning": "to misguide",
+        "examples": []
+      },
+	  {
+        "meaning": "to make someone go off road",
+        "examples": []
+      },
+	  {
+        "meaning": "to make someone go astray",
+        "examples": []
+      },
+	  {
+        "meaning": "to make someone lose their way",
+        "examples": []
+      },
+	  {
+        "meaning": "to make someone confused",
         "examples": []
       }
-    ],
-    "synonyms": [
-      "гъэплъэхъун"
     ],
     "type": "noun",
     "ipa": "ʁaʁʷaɕan"
