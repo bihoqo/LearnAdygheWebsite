@@ -5139,6 +5139,9 @@
     "hairy": "цыбэ зытет; бырацэ (Kfar Kama dialect)"
   },
   {
+    "lambskin": "шъынашъу"
+  },
+  {
     "rough": "быргусыргу"
   },
   {
@@ -7383,10 +7386,13 @@
     "slanderous": "жае"
   },
   {
-    "stubborn": "инат; къаигъэ; инатэу ихьан (to become stubborn); инатэу хъун (to become stubborn); зыригъэнэн / зэбгъэнэн (to become persistent)"
+    "headstrong": "къаигъэ"
   },
   {
-    "obstinate": "инат; къаигъэ; инатэу ихьан (to become obstinate); инатэу хъун (to become obstinate); зыригъэнэн / зэбгъэнэн (to become stubborn)"
+    "stubborn": "къаигъэ; инат; къаигъэ; инатэу ихьан (to become stubborn); инатэу хъун (to become stubborn); зыригъэнэн / зэбгъэнэн (to become persistent)"
+  },
+  {
+    "obstinate": "къаигъэ; инат; къаигъэ; инатэу ихьан (to become obstinate); инатэу хъун (to become obstinate); зыригъэнэн / зэбгъэнэн (to become stubborn)"
   },
   {
     "refractory": "инат; къаигъэ; инатэу ихьан (to become refractory); инатэу хъун (to become refractory); зыригъэнэн / зэбгъэнэн (to become stubborn)"
@@ -8721,9 +8727,6 @@
     "heedlessness": "жэукъыныр"
   },
   {
-    "rude": "1эдэбынчъэ"
-  },
-  {
     "rude talk": "жэхъу"
   },
   {
@@ -8932,9 +8935,6 @@
   },
   {
     "listener": "да1о"
-  },
-  {
-    "obedient": "да1о"
   },
   {
     "to go with": "дэк1он"
@@ -9882,7 +9882,7 @@
     "to hurry": "гузэжъон (to be in a hurry); тхъытхъын (to be in a hurry); гъэпсынк1эн (to hasten); гъэгузэжъон (to make someone hurry)"
   },
   {
-    "to be anxious": "гумэк1ын; гузэжъон"
+    "to be anxious": "гумэк1ын; гузэжъон; гу къеон"
   },
   {
     "to be uneasy ": "гумэк1ын; гузэжъон"
@@ -10233,103 +10233,106 @@
     "to take a haircut": "к1эупхъухьан; шъхьацыр пыупк1ын; шъхьацыр упхъун; шъхьацым пыупхъухьан"
   },
   {
-    "steep, precipitous": "дысы"
+    "steep": "дысы"
   },
   {
-    "sharp, abrupt (offensive, critical, or acrimonious)": "дысы"
+    "precipitous": "дысы"
   },
   {
-    "cheeky, naughty, rude": "дысы"
+    "rude": "дысы; 1эдэбынчъэ"
   },
   {
-    "well behaved": "1орыш1э"
+    "cheeky": "дысы"
   },
   {
-    "obedient, dutiful, a person that obeys": "1орыш1э"
+    "well behaved": "гъэсагъэ; 1асэ; 1орыш1э (obedient)"
   },
   {
-    "hairy, furry": "брацэ"
+    "obedient": "1орыш1э; да1о"
   },
   {
-    "to shatter, to destroy (cannot be repaired anymore)": "убэтэн"
+    "dutiful": "1орыш1э"
   },
   {
-    "to talk a conversation with a potential romantic partner": "псэлъыхъон"
+    "to flirt": "дэублэн / къыдэублэн; псэлъыхъон"
   },
   {
-    "to flirt": "псэлъыхъон"
+    "graveyard": "къэхалъэ; хъэхалъэ (Shapsug)"
   },
   {
-    "graveyard": "хъэхалъэ"
+    "right away": "зэк1эм; занк1эу"
   },
   {
-    "right away; straight away": "занк1эу"
+    "straight away": "зэк1эм; занк1эу"
   },
   {
-    "to look around": "зэплъэхьын"
+    "immediately": "джыдэдэм; занк1эу"
   },
   {
-    "alternative form of \"пэмэн\"": "фэмэн"
+    "to look around": "зыплъыхьан"
   },
   {
-    "to try to smell (to try to sense a smell)": "пэмэн"
+    "to smell": "пэмэн (to try to smell); фэмэн (Shapsug); еун (to smell something); пыун (to emit smell); мэ пихын (to emit smell); ш1умэ пыун (to stink); ш1умэ пихын (to stink)"
   },
   {
-    "to smell (To sense a smell or smells).": "еун"
+    "to evade": "ш1ок1ын"
   },
   {
-    "alternative form of \"ш1ок1ын\"": "ш1ок1ьын"
-  },
-  {
-    "to evade; to get away from": "ш1ок1ын"
-  },
-  {
-    "alternative form of \"пшъэдэк1ыжь\"": "пшъэдэк1ыжъ"
+    "to get away from": "ш1ок1ын"
   },
   {
     "punishment": "пщынэжь"
   },
   {
-    "famous": "хэ1уагъ"
+    "famous": "ц1эры1у; хэ1уагъ (Shapsug)"
   },
   {
-    "to pierce": "хэ1он"
+    "well-known": "ц1эры1у; хэ1уагъ (Shapsug)"
   },
   {
-    "stranger": "хамэ"
+    "to pierce": "хэ1ун"
   },
   {
-    "foreigner": "хамэ"
+    "to nail": "хэ1ун"
+  },
+  {
+    "to hammer in": "хэ1ун"
+  },
+  {
+    "foreigner": "хымэ; хамэ"
   },
   {
     "one's heart to beat; to be having heartbeats": "гу къеон"
   },
   {
-    "to be anxious": "гу къеон"
-  },
-  {
-    "to get very scared": "гу къеон"
-  },
-  {
-    "still": "дэхьэ"
+    "still": "джыри; (dialectal) дэхьэ"
   },
   {
     "keep (Only in Imperative mood)": "дэхьэ"
   },
   {
-    "again": "дэхьэзэ"
+    "former": "нахьыпэрэ"
   },
   {
-    "right now, immediately, at once": "джыдэдэм"
+    "former": "нахьыпэрэ"
   },
   {
-    "now": "джы"
+    "as first": "нахьыпэ"
   },
   {
-    "to finish, to run out": "ухын"
+    "firstly": "нахьыпэ"
   },
   {
-    "to finish doing something, to done doing something": "ухын"
+    "right now": "джыдэдэм"
+  },
+  {
+    "at once": "зэк1эм; занк1эу"
+  },
+  {
+    "now": "джы; иджы"
+  },
+  {
+    "to be done": "ухын"
   },
   {
     "to make mistake": "хэукъон"
@@ -10339,6 +10342,9 @@
   },
   {
     "to cough": "пыск1эн"
+  },
+  {
+    "suddenly": "ош1э дэмыш1эу; зэк1эм"
   },
   {
     "to get wet (usually by wet/soaked clothes)": "шъун"
@@ -15189,9 +15195,6 @@
     "that's enough, leave it be, oh well (An expression of mild disappointment or resignation)": "хъугъэ"
   },
   {
-    "immediately": "зэгьэм"
-  },
-  {
     "to become dull, to dull (lose a sharp edge)": "уцэкун"
   },
   {
@@ -15475,9 +15478,6 @@
   },
   {
     "alternative form of \"мэк1ошъэн\"": "к1ошъэн"
-  },
-  {
-    "suddenly": "ош1э дэмыш1эу"
   },
   {
     "unexpectedly": "ош1э дэмыш1эу"
@@ -18519,7 +18519,7 @@
     "to punish": "пшъэдэк1ыжь егъэхьын"
   },
   {
-    "punishment": "пшъэдэк1ыжь"
+    "responsibility": "пшъэдэк1ыжь"
   },
   {
     "guide": "гъуазэ"

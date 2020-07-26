@@ -46718,24 +46718,19 @@
         ]
       },
       {
-        "meaning": "sharp, abrupt (offensive, critical, or acrimonious)",
-        "examples": [
-          {
-            "sentence": "джэуап дыс",
-            "translation": "Sharp answer."
-          },
-          {
-            "sentence": "гущыIэ дыс",
-            "translation": "Harsh word."
-          }
-        ]
-      },
-      {
-        "meaning": "cheeky, naughty, rude",
+        "meaning": "rude; cheeky",
         "examples": [
           {
             "sentence": "кIэлэцIыкIу '''дысых'''",
-            "translation": "'''cheeky''' children"
+            "translation": "'''Rude''' children"
+          },
+		  {
+            "sentence": "джэуап дыс",
+            "translation": "Rude answer."
+          },
+          {
+            "sentence": "гущы1э дыс",
+            "translation": "Rude word."
           }
         ]
       }
@@ -46763,18 +46758,6 @@
     ],
     "type": "adj",
     "ipa": "ʔʷarəʃʼa"
-  },
-  {
-    "word": "брацэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "hairy, furry",
-        "examples": []
-      }
-    ],
-    "type": "adj",
-    "ipa": "braːt͡sa"
   },
   {
     "word": "убэтэн",
@@ -46897,7 +46880,7 @@
     "ipa": "zaːnt͡ʃaw"
   },
   {
-    "word": "зэплъэхьын",
+    "word": "зыплъыхьан",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -46919,7 +46902,7 @@
       }
     ],
     "type": "verb",
-    "ipa": "zapɬaħən"
+    "ipa": "zəpɬaħaːn"
   },
   {
     "word": "фэмэн",
@@ -47119,12 +47102,30 @@
     "ipa": "xaʔʷaʁ"
   },
   {
-    "word": "хэ1он",
+    "word": "хэ1ун",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to pierce",
         "examples": []
+      },
+	  {
+        "meaning": "to prick",
+        "examples": [
+          {
+            "sentence": "1эм мастэр '''хэ1ун'''",
+            "translation": "'''To prick''' a needle to the arm."
+          }
+        ]
+      },
+	  {
+        "meaning": "to drive in (nail), to hammer in, to nail",
+        "examples": [
+          {
+            "sentence": "Л1ым гъуч1ы1унэр дэпкъым '''хе1о'''",
+            "translation": "The man '''drives''' the nail '''into''' the wall."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -47397,7 +47398,7 @@
         ]
       },
       {
-        "meaning": "to finish doing something, to done doing something",
+        "meaning": "to finish doing something, to be done doing something",
         "examples": [
           {
             "sentence": "Сышхырэ '''сыухыгъэп'''",
@@ -65045,7 +65046,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "famous",
+        "meaning": "famous; well-known",
         "examples": [
           {
             "sentence": "Сиятэ пщынао '''ц1эры1у'''",
@@ -71630,6 +71631,23 @@
     "ipa": "tʁʷasanaħpa"
   },
   {
+    "word": "нахьыпэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "first; as first",
+        "examples": [
+          {
+            "sentence": "К1алэр нахьыпэ к1уи къеплъи, ет1анэ къыщэфыгъ",
+            "translation": "The boy went '''firstly''', looked, and then bought it."
+          }
+        ]
+      }
+    ],
+    "type": "adv",
+    "ipa": "naːħəpa"
+  },
+  {
     "word": "пыупк1ын",
     "lang": "Adyghe",
     "definitions": [
@@ -75157,25 +75175,42 @@
     "ipa": "χʷəʁa"
   },
   {
-    "word": "зэгьэм",
+    "word": "зэк1эм",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "immediately",
+        "meaning": "at once; right away",
         "examples": [
           {
-            "sentence": "'''зэгьэм''' к1о",
-            "translation": "Go '''immediately'''."
+            "sentence": "'''зэк1эм''' к1о",
+            "translation": "Go '''at once'''."
           },
           {
-            "sentence": "'''зэгьэм''' еу пхъэм",
-            "translation": "Hit the wood '''immediately'''"
+            "sentence": "'''зэк1эм''' еу пхъэм",
+            "translation": "Hit the wood '''at once'''"
+          },
+          {
+            "sentence": "ащ '''зэк1эм''' зэк1э къыгуры1уагъ",
+            "translation": "(s)he understood everything '''at once'''"
+          }
+        ]
+      },
+	  {
+        "meaning": "suddenly, all of a sudden",
+        "examples": [
+          {
+            "sentence": "ар зэк1эм к1ыфы къэхъугъ",
+            "translation": "(s)he '''suddenly''' became pale."
+          },
+          {
+            "sentence": "зэк1эм ощх къешхыгъ",
+            "translation": "'''Suddenly''' it started to rain."
           }
         ]
       }
     ],
     "type": "adv",
-    "ipa": "zaɡʲam"
+    "ipa": "zat͡ʃʼam"
   },
   {
     "word": "уцэкун",
@@ -84770,31 +84805,6 @@
     "ipa": "zəpɬəħaːpʼa"
   },
   {
-    "word": "зыплъыхьан",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to look around",
-        "examples": []
-      }
-    ],
-    "cognate": "зыплъыхьын",
-    "type": "verb",
-    "ipa": "zəpɬəħaːn"
-  },
-  {
-    "word": "зыплъыхьын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"зыплъыхьан\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "zəpɬəħən"
-  },
-  {
     "word": "шъыбын",
     "lang": "Adyghe",
     "definitions": [
@@ -91572,11 +91582,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "punishment",
+        "meaning": "responsibility",
         "examples": [
           {
-            "sentence": "К1алэр '''пшъэдэк1ыжьым''' ш1ок1эгъ",
-            "translation": "The boy avoided '''the punishment'''."
+            "sentence": "К1алэр '''пшъэдэк1ыжьым''' ш1ок1ыгъ",
+            "translation": "The boy avoided '''the responsibility'''."
           }
         ]
       }
@@ -97479,18 +97489,6 @@
     ],
     "type": "verb",
     "ipa": "qəzəɕəɬatən"
-  },
-  {
-    "word": "хэ1ун",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to prick, to sting",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "xaʔʷən"
   },
   {
     "word": "гъофы",
