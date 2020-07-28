@@ -5646,7 +5646,6 @@
       }
     ],
     "synonyms": [
-      "чэзыу",
       "игъу"
     ],
     "type": "noun",
@@ -7392,6 +7391,14 @@
           {
             "sentence": "'''Къэсфеплъ''' сиятэ къэсыгъэмэ",
             "translation": "'''Look for me''' if my father came."
+          },
+		  {
+            "sentence": "К1алэр '''маплъэ'''",
+            "translation": "The boy '''is looking'''."
+          },
+          {
+            "sentence": "Л1ыжъ нэш1ур '''плъэшъурэп'''",
+            "translation": "The blind old man '''can't look'''."
           }
         ]
       }
@@ -9756,11 +9763,11 @@
     "ipa": "dəwar"
   },
   {
-    "word": "ащыгъум",
+    "word": "ащгъум",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"ащгъум\"",
+        "meaning": "alternative form of \"ащыгъум\"",
         "examples": []
       }
     ],
@@ -11024,14 +11031,14 @@
     "ipa": "aːʂʷat͡sʷaːɡʷ"
   },
   {
-    "word": "ащгъум",
+    "word": "ащыгъум",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "that time",
         "examples": [
           {
-            "sentence": "'''Ащгъум''' укъысэджэшъутэгъ",
+            "sentence": "'''Ащыгъум''' укъысэджэшъутэгъ",
             "translation": "'''That time''' you could called me."
           }
         ]
@@ -11040,18 +11047,18 @@
         "meaning": "then",
         "examples": [
           {
-            "sentence": "'''Ащгъум''' сыд тыш1эта?",
+            "sentence": "'''Ащыгъум''' сыд тыш1эта?",
             "translation": "'''Then''' what we gonna do?"
           },
           {
-            "sentence": "'''ащгъум''' нэк1о уиунэ тгъак1у",
+            "sentence": "'''ащыгъум''' нэк1о уиунэ тгъак1у",
             "translation": "'''Then''' let's go to your house."
           }
         ]
       }
     ],
     "type": "adv",
-    "ipa": "aːɕʁʷəm"
+    "ipa": "aːɕəʁʷəm"
   },
   {
     "word": "а1уе",
@@ -33880,9 +33887,7 @@
       }
     ],
     "synonyms": [
-      "уахътэ",
-      "лъэхъан",
-      "----"
+      "уахътэ"
     ],
     "type": "noun",
     "ipa": "pʼaːɬa"
@@ -35015,6 +35020,10 @@
             "translation": "'''Disassemble''' the computer."
           }
         ]
+      },
+      {
+        "meaning": "to hear",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -42484,23 +42493,6 @@
     "ipa": "səd d͡ʒəri"
   },
   {
-    "word": "лъэхъаны",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "season",
-        "examples": [
-          {
-            "sentence": "Мыхэр илъэсым '''илъэхъаных'''",
-            "translation": "These are the '''seasons''' of the year."
-          }
-        ]
-      }
-    ],
-    "type": "noun",
-    "ipa": "ɬaχaːnə"
-  },
-  {
     "word": "жъоркъы",
     "lang": "Adyghe",
     "definitions": [
@@ -43320,16 +43312,28 @@
         "meaning": "better",
         "examples": [
           {
-            "sentence": "'''нахьыш1у''' т1эк1у ушхымэ",
+            "sentence": "'''Нахьыш1у''' т1эк1у ушхымэ",
             "translation": "'''It is better''' if you eat less."
           },
           {
-            "sentence": "'''нахьыш1у''' тызэдак1омэ",
+            "sentence": "'''Нахьыш1у''' тызэдак1омэ",
             "translation": "'''It is better''' if we go together."
           },
           {
             "sentence": "Метромк1э ук1омэ '''нахьыш1у'''",
-            "translation": "'''It is best''' if you take the underground / subwayю"
+            "translation": "'''It is better''' if you take the underground / subway."
+          },
+		  {
+            "sentence": "'''Нахьыш1уа'''?",
+            "translation": "'''Is it better?'''"
+          },
+          {
+            "sentence": "Мыщыгъум тестэр '''нахьыш1оу''' уш1ыгъа?",
+            "translation": "Did you do the test '''better''' this time?"
+          },
+          {
+            "sentence": "Тыгъуасэ сысымэджэгъагъ, непэ '''сынахьыш1у'''",
+            "translation": "Yesterday I was sick, today '''I am better'''."
           }
         ]
       }
@@ -47568,33 +47572,33 @@
     "ipa": "ʃʷən"
   },
   {
-    "word": "тэдэгьи",
+    "word": "тыдэк1и",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "everywhere, every place",
         "examples": [
           {
-            "sentence": "Мыехэр '''тэдэгьи''' 1утых",
+            "sentence": "Мыехэр '''тыдэк1и''' 1утых",
             "translation": "There are apples '''everywhere'''."
           },
           {
-            "sentence": "'''Тэдэгьи''' ск1уагъми усэгупсэ",
+            "sentence": "'''Тыдэк1и''' ск1уагъми усэгупсэ",
             "translation": "'''Everywhere''' I go I think of you."
           },
           {
-            "sentence": "'''Тэдэгьи''' сышъогъ",
+            "sentence": "'''Тыдэк1и''' сышъогъ",
             "translation": "I got wet '''everywhere'''."
           },
           {
-            "sentence": "Мазым '''тэдэгьи''' чъыг шыплъэгъу",
+            "sentence": "Мазым '''тыдэк1и''' чъыг шыплъэгъу",
             "translation": "you will see tree '''everywhere''' in the forest."
           }
         ]
       }
     ],
     "type": "adv",
-    "ipa": "tadaɡʲi"
+    "ipa": "tadat͡ʃʼi"
   },
   {
     "word": "егупсэн",
@@ -47826,7 +47830,7 @@
     "ipa": "ɬʼəməʃ"
   },
   {
-    "word": "шхын",
+    "word": "шхыны",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -47844,7 +47848,7 @@
       }
     ],
     "type": "noun",
-    "ipa": "ʃxəːn"
+    "ipa": "ʃxəːnə"
   },
   {
     "word": "фэлъэк1ын",
@@ -47978,19 +47982,40 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "view",
+        "meaning": "glance; look; view",
         "examples": [
           {
-            "sentence": "Си '''нэплъэгъу''' ик1",
+            "sentence": "К1алэм '''инэплъэгъу''' ик1",
             "translation": "Get out from my '''view'''."
           },
           {
-            "sentence": "Си '''нэплъэгъу''' тыгъэр",
-            "translation": "The sun is on my '''view'''."
+            "sentence": "1уашъхьэр си '''нэплъэгъу''' и1",
+            "translation": "The mount is in my '''view'''."
           }
         ]
+      },
+	  {
+        "meaning": "glance; look",
+        "examples": [
+          {
+            "sentence": "'''нэплъэгъу''' тедзэн",
+            "translation": "'''To glimpse at''' someone"
+          },
+          {
+            "sentence": "'''инэплъэгъу''' къыридзэн",
+            "translation": "'''To come into''' someone's sight"
+          }
+        ]
+      },
+	  {
+        "meaning": "relief, the removal of stress or discomfort.",
+        "examples": [
+          {
+            "sentence": "Л1ым '''нэплъэгъу''' ыгъотыжьыгъ",
+            "translation": "The man found '''relief'''."
+          }
       }
-    ],
+    ],    
     "type": "noun",
     "ipa": "napɬaʁʷ"
   },
@@ -48078,7 +48103,7 @@
     "ipa": "wəkʲʼətan"
   },
   {
-    "word": "шыук1ытэн",
+    "word": "щыук1ытэн",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -48124,6 +48149,42 @@
     ],
     "type": "verb",
     "ipa": "ʃəwkʲʼətan"
+  },
+  {
+    "word": "зэщиз",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "even; flat; smooth",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "zaɕəjz"
+  },
+  {
+    "word": "зэныбжьы",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "even; flat; smooth",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "zanəbʑə"
+  },
+  {
+    "word": "зэшъхьэзашъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "even; flat; smooth",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "zaʂħazaːʂʷ"
   },
   {
     "word": "мэбэгъон",
@@ -48251,7 +48312,7 @@
         "examples": []
       },
       {
-        "meaning": "rough, gruff, surface with high friction (opposite of soft)",
+        "meaning": "rough, not smooth; uneven; surface with high friction",
         "examples": []
       }
     ],
@@ -48421,7 +48482,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to figure out the correct answer",
+        "meaning": "to figure out",
         "examples": [
           {
             "sentence": "Тестымк1э, к1алэм джэуапхэр '''къиш1агъэх'''",
@@ -48438,15 +48499,10 @@
           {
             "sentence": "'''Къаш1''' тэры сиунэ",
             "translation": "'''Figure out''' which one is my house."
-          }
-        ]
-      },
-      {
-        "meaning": "to recognize",
-        "examples": [
+          },
           {
-            "sentence": "Джы '''укъэсш1эжьыгъ'''",
-            "translation": "Now '''I recognized you'''."
+            "sentence": "'''Къасш1эмэ''' ахъщэ къысэт",
+            "translation": "'''If I figure the right answer''' give me money."
           }
         ]
       }
@@ -48455,39 +48511,31 @@
     "ipa": "qaʃʼan"
   },
   {
-    "word": "къэш1эжын",
+    "word": "къэш1эжьын",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to remember",
         "examples": [
           {
-            "sentence": "Мы к1алэр '''къэспш1эжрэп'''",
+            "sentence": "Мы к1алэр '''къэспш1эжьырэп'''",
             "translation": "'''I can't remember''' this boy."
           },
           {
-            "sentence": "к1алэм иц1э '''къэсш1эжэгъ'''",
+            "sentence": "к1алэм иц1э '''къэсш1эжьыгъ'''",
             "translation": "'''I remembered''' the boy's name."
           },
           {
-            "sentence": "'''Сыкъэбэш1эжа'''?",
+            "sentence": "'''Сыкъэбэш1эжьа'''?",
             "translation": "'''Do you remember me'''."
           },
           {
-            "sentence": "Сиджанэ плъыжь '''къэш1эж'''",
+            "sentence": "Сиджанэ плъыжь '''къэш1эжь'''",
             "translation": "'''Remember''' my red shirt."
           },
           {
-            "sentence": "Гущы1эхэр '''къэш1эжых'''",
+            "sentence": "Гущы1эхэр '''къэш1эжьых'''",
             "translation": "'''Remember''' the words."
-          },
-          {
-            "sentence": "'''Къасш1эмэ''' мые къысэт",
-            "translation": "'''If I figure the right answer''' give me an apple."
-          },
-          {
-            "sentence": "Джэуап тэрэзэр '''къэпш1эрагъоба'''?",
-            "translation": "'''You wanna figure''' the right answer right?"
           }
         ]
       },
@@ -48513,6 +48561,10 @@
           {
             "sentence": "Гущы1эхэр '''къэш1эжых'''",
             "translation": "'''Recognize''' the words."
+          },
+		  {
+            "sentence": "Джы '''укъэсш1эжьыгъ'''",
+            "translation": "Now '''I recognized you'''."
           }
         ]
       }
@@ -48531,6 +48583,22 @@
     ],
     "type": "verb",
     "ipa": "qapʃʼaʑən"
+  },
+  {
+    "word": "телъхьажьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to blame",
+        "examples": []
+      },
+	  {
+        "meaning": "to put one's assignments on someone else",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "tajɬħaːʑən"
   },
   {
     "word": "гукъэк1ьын",
@@ -48706,6 +48774,18 @@
     "ipa": "dəjʃʷawtən"
   },
   {
+    "word": "гъэупк1эпк1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to buckle up, to zip up, to button up",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "tʷʼəʔʷəʁa"
+  },
+  {
     "word": "т1у1угъэ",
     "lang": "Adyghe",
     "definitions": [
@@ -48718,7 +48798,7 @@
     "ipa": "tʷʼəʔʷəʁa"
   },
   {
-    "word": "щыдырхъуае",
+    "word": "шыдырхъои",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -48730,7 +48810,7 @@
       "хьамплъыжь"
     ],
     "type": "noun",
-    "ipa": "[]"
+    "ipa": "ɕəndərχʷaːja"
   },
   {
     "word": "сако",
@@ -48774,34 +48854,55 @@
     "ipa": "ʔʷətʼanə"
   },
   {
-    "word": "къык1ышын",
+    "word": "дэ1этэен",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to raise, to hold higher",
+        "meaning": "to raise something higher, to elevate, to hold something higher",
         "examples": [
           {
-            "sentence": "Къык1ыш уишъхьэ '''ук1омэ'''",
-            "translation": "'''Raise''' your head when you walk."
+            "sentence": "'''Дэ1этый''' ушъхьэ ук1оу зыхъук1э",
+            "translation": "'''Raise''' your head when you're walking."
           },
           {
-            "sentence": "Сыкъык1ыши дэпкъым '''сыблэгъэк1'''",
+            "sentence": "'''Cыдэ1этыйи''' дэпкъым сыблэгъэк1",
             "translation": "'''Raise me''' and I will pass over the wall."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "daʔatəjan"
+  },
+  {
+    "word": "дэщэен",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to raise",
+        "examples": [
+          {
+            "sentence": "'''Сыкъыдещэк1и''' дэпкъым сыблэгъэк1",
+            "translation": "'''Raise me''' and I let me pass over the wall."
+          },
+		  {
+            "sentence": "Уи1эгъуапэхэр '''дэщаех'''",
+            "translation": "'''Raise''' your sleeves.."
           }
         ]
       },
       {
-        "meaning": "to bring something to a higher place",
+        "meaning": "to bring someone or something to a higher place; to lead someone or something to a higher place",
         "examples": [
           {
-            "sentence": "Уишыхэр унашъхьэм '''къык1ышых'''",
+            "sentence": "Ушыхэр унашъхьэм '''къыдэщаех'''",
             "translation": "'''Bring''' your brothers to the roof."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "qət͡ʃəʃən"
+    "ipa": "daɕajan"
   },
   {
     "word": "шъхьэтепхъу",
@@ -48832,21 +48933,26 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to stitch, to strike with pointy or sharp things, to stab (Usually done to annoy or bug someone thus it can also be to bug someone)",
+        "meaning": "to strike with pointy or sharp things, to stab",
         "examples": [
           {
-            "sentence": "Томэр к1алэм '''епыджы'''",
-            "translation": "Tom '''is bugging''' the boy."
-          },
-          {
-            "sentence": "Уи1эбжъанэхэмк1э '''укъсэмпыдж'''",
+            "sentence": "Уи1эбжъанэхэмк1э '''укъысэмпыдж'''",
             "translation": "'''Don't stab me''' with your nails."
           },
           {
-            "sentence": "К1алэр 1эпхъабэхэмк1э '''късэпыджы'''",
+            "sentence": "К1алэр 1эпхъуамбэхэмк1э '''късэпыджы'''",
             "translation": "The boy is '''stabbing me''' with his fingers."
           }
         ]
+      },
+	  {
+        "meaning": "to bug someone (to annoy)",
+        "examples": [
+		  {
+            "sentence": "Томэр к1алэм '''епыджы'''",
+            "translation": "Tom '''is bugging''' the boy."
+          }
+		]
       }
     ],
     "synonyms": [
@@ -48871,23 +48977,23 @@
     "ipa": "japəɡʲən"
   },
   {
-    "word": "пыджэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"епыджын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "pəd͡ʒan"
-  },
-  {
     "word": "мэпыджэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to strike with pointy things, to stab (Usually done to annoy or bug someone thus it can also be to bug someone)",
+        "meaning": "alternative form of \"пыджэн\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "mapəd͡ʒan"
+  },
+  {
+    "word": "пыджэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to strike with pointy things, to stab (usually done to annoy or bug someone thus it can also be to bug someone)",
         "examples": [
           {
             "sentence": "Томэр '''мэпыджэ'''",
@@ -48904,7 +49010,7 @@
       "мэпыгьэн"
     ],
     "type": "verb",
-    "ipa": "mapəd͡ʒən"
+    "ipa": "pəd͡ʒan"
   },
   {
     "word": "мэпыгьэн",
@@ -49348,7 +49454,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to make someone angry or mad",
+        "meaning": "to anger; to make someone angry or mad",
         "examples": [
           {
             "sentence": "К1алэр '''гъэгуабж'''",
@@ -49580,15 +49686,24 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "blade",
+        "meaning": "blade of a knife",
         "examples": []
       }
     ],
-    "synonyms": [
-      "отычыцэ"
-    ],
     "type": "noun",
     "ipa": "ʂaʐəjaːt͡s"
+  },
+  {
+    "word": "чаныц",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "blade of a sword",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃʼaːnət͡s"
   },
   {
     "word": "отычыцэ",
@@ -49597,14 +49712,7 @@
       {
         "meaning": "axe blade",
         "examples": []
-      },
-      {
-        "meaning": "blade",
-        "examples": []
       }
-    ],
-    "synonyms": [
-      "шъэжъыяц"
     ],
     "type": "noun",
     "ipa": "watət͡ʃət͡sa"
@@ -50016,7 +50124,7 @@
     "ipa": "dafən"
   },
   {
-    "word": "фапшэ",
+    "word": "фапщэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -50024,21 +50132,22 @@
         "examples": [
           {
             "sentence": "К1алэм '''фапщэ''' ыгъотырэп",
-            "translation": "The boy can't find '''breath'''."
-          },
-          {
-            "sentence": "Псым '''фапщэ''' шыбгъощтэп",
-            "translation": "You will find '''breath''' in the water."
+            "translation": "The boy can't find '''a breath'''."
           }
         ]
       },
       {
         "meaning": "oxygen",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Псым '''фапщэ''' щыбгъотэщтэп",
+            "translation": "You will not find '''oxygen''' in the water."
+          }
+		]
       }
     ],
     "type": "noun",
-    "ipa": "faːpʃa"
+    "ipa": "faːpɕa"
   },
   {
     "word": "фэпшэн",
@@ -50073,60 +50182,14 @@
     "ipa": "naːħ"
   },
   {
-    "word": "нэхьыш1у",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "better",
-        "examples": [
-          {
-            "sentence": "'''Нэхьш1уа'''?",
-            "translation": "'''Is it better?'''"
-          },
-          {
-            "sentence": "Мэжъгъум тестэр '''нэхьш1у''' уш1ыгъа?",
-            "translation": "Did you do the test '''better''' this time?"
-          },
-          {
-            "sentence": "Тгъуасэ сэсмэджэгъагъ, непэ '''нэхьыш1у'''",
-            "translation": "Yesterday I was sick, today it's better."
-          }
-        ]
-      }
-    ],
-    "type": "adv",
-    "ipa": "naħəʃʷʼə"
-  },
-  {
-    "word": "мыщгъум",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "this time",
-        "examples": [
-          {
-            "sentence": "'''Мыщгъум''' тестэр нэхьш1у уш1ыгъа?",
-            "translation": "Did you do the test better '''this time'''?"
-          },
-          {
-            "sentence": "'''Мыщгъум''' уиунэ тыгъак1у",
-            "translation": "'''This time''' walk us to your house."
-          }
-        ]
-      }
-    ],
-    "type": "adv",
-    "ipa": "məɕʁʷəm"
-  },
-  {
-    "word": "джэщгъум",
+    "word": "джащыгъум",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "at that time",
         "examples": [
           {
-            "sentence": "'''Джэщгъум''' укъысэджэшъутэгъ",
+            "sentence": "'''Джащыгъум''' укъысэджэшъущтыгъ",
             "translation": "'''At that time''' you could called me."
           }
         ]
@@ -50135,35 +50198,14 @@
         "meaning": "then",
         "examples": [
           {
-            "sentence": "Сиянэ дэк1ымэ, '''джэщгъум''' тиунэ къак1у",
+            "sentence": "Сиянэ дэк1ымэ, '''джащыгъум''' тиунэ къак1у",
             "translation": "When my mother leaves, '''then''' come to our house."
           }
         ]
       }
     ],
     "type": "adv",
-    "ipa": "d͡ʒaɕʁʷəm"
-  },
-  {
-    "word": "зтэгъэк1эн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to lean on",
-        "examples": [
-          {
-            "sentence": "К1алэм дэпкъым '''зтигъэк1агъ'''",
-            "translation": "The boy '''leaned''' on the wall."
-          },
-          {
-            "sentence": "Ку ш1оим '''зтэмгъак1'''",
-            "translation": "'''Don't lean''' on the dirty car."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "ztaʁat͡ʃan"
+    "ipa": "d͡ʒaːɕəʁʷəm"
   },
   {
     "word": "гъэлыджын",
@@ -50260,17 +50302,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to look",
-        "examples": [
-          {
-            "sentence": "К1алэр '''маплъэ'''",
-            "translation": "The boy '''is looking'''."
-          },
-          {
-            "sentence": "Л1ыжъ нэш1ур '''мэплъэшъурэп'''",
-            "translation": "The blind old man '''can't look'''."
-          }
-        ]
+        "meaning": "alternative form of \"плъэн\"",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -50577,17 +50610,6 @@
     "ipa": "jaːwʒəm"
   },
   {
-    "word": "дышъ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "gold",
-        "examples": []
-      }
-    ],
-    "type": "noun"
-  },
-  {
     "word": "тэуц1элэн",
     "lang": "Adyghe",
     "definitions": [
@@ -50691,7 +50713,7 @@
     "ipa": "kʲʼatχan"
   },
   {
-    "word": "шыгугъон",
+    "word": "щыгугъун",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -50713,52 +50735,26 @@
       }
     ],
     "type": "verb",
-    "ipa": "ʃəɡʷʁʷan"
+    "ipa": "ɕəgʷəʁʷən"
   },
   {
     "word": "ешъухъугъон",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be jealous of",
-        "examples": [
-          {
-            "sentence": "К1алэр пшъашъэм '''ешъухъуагъо'''",
-            "translation": "The boy '''is jealous of''' the girl."
-          },
-          {
-            "sentence": "К1алэр '''къысэшъухъуагъо'''",
-            "translation": "The boy '''is jealous of me'''."
-          }
-        ]
+        "meaning": "alternative form of \"ешхъогъон\"",
+        "examples": [ ]
       }
     ],
     "type": "verb",
     "ipa": "jaʃʷχʷəʁʷan"
   },
   {
-    "word": "мэшъухъугъон",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to be jealous",
-        "examples": [
-          {
-            "sentence": "К1алэр '''мэшъухъуагъо'''",
-            "translation": "The boy '''is jealous'''."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "maʃʷχʷəʁʷan"
-  },
-  {
     "word": "еш1ужьын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to make up with (to resolve, forgive or smooth over an argument or fight)",
+        "meaning": "to make up with; to come to terms with; to resolve a conflict with; to make peace with someone after an argument or fight",
         "examples": [
           {
             "sentence": "К1алэр пшъашъэм '''ешъужьы'''",
@@ -50888,24 +50884,32 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "time",
+        "meaning": "epoch, age, era",
         "examples": []
       },
       {
         "meaning": "period",
         "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ɬaχaːn"
+  },
+  {
+    "word": "нэгъэуп1эп1эгъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "moment; instant",
+        "examples": []
       },
       {
-        "meaning": "moment",
+        "meaning": "the time of a blind of an eye",
         "examples": []
       }
     ],
-    "synonyms": [
-      "уахътэ"
-    ],
-    "cognate": "п1алъэ",
     "type": "noun",
-    "ipa": "ɬaχaːn"
+    "ipa": "naʁawpʼapʼaʁʷ"
   },
   {
     "word": "пк1ыхьап1",
@@ -50948,13 +50952,18 @@
           }
         ]
       },
-      {
-        "meaning": "to allege",
-        "examples": []
+	  {
+        "meaning": "to whine",
+        "examples": [
+          {
+            "sentence": "К1алэр '''мэтхьаусхэ'''",
+            "translation": "The boy '''is whining'''."
+          }
+        ]
       }
     ],
     "synonyms": [
-      "1оен"
+      "1оин"
     ],
     "type": "verb",
     "ipa": "tħaːwəsxan"
@@ -50976,7 +50985,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to curry favor with, to ingratiate oneself with, to flatter",
+        "meaning": "to curry favor with, to insinuate, to flatter",
         "examples": []
       }
     ],
@@ -51019,36 +51028,26 @@
         "examples": []
       }
     ],
+    "synonyms": [
+      "1упш1эгъал"
+    ],
     "type": "noun",
     "ipa": "ʔʷəpalan"
   },
   {
-    "word": "пак1ьэ",
+    "word": "1упш1эгъал",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "direction",
-        "examples": [
-          {
-            "sentence": "К1алэр тиунэ '''пакьэ''' мак1о",
-            "translation": "The boy is going to our home '''direction'''."
-          },
-          {
-            "sentence": "А '''пакьэм''' умык1у",
-            "translation": "Don't go that '''way/direction'''."
-          },
-          {
-            "sentence": "Хым '''ипакьэк1э''' жьыбгъэ гъак1о",
-            "translation": "The wind is coming from the sea's '''direction'''."
-          }
-        ]
+        "meaning": "lipstick",
+        "examples": []
       }
     ],
     "synonyms": [
-      "пак1э"
+      "1упэлэн"
     ],
     "type": "noun",
-    "ipa": "paːkʲʼa"
+    "ipa": "ʔʷəpʃaʁaːɮ"
   },
   {
     "word": "фэдэн",
@@ -51126,6 +51125,44 @@
     ],
     "type": "noun",
     "ipa": "səra"
+  },
+  {
+    "word": "сатыр",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "row; line",
+        "examples": [
+          {
+            "sentence": "Дзэр '''сатырэ''' к1ыхьэу уцугъэ",
+            "translation": "The army stood in a long '''line'''."
+          },
+		  {
+            "sentence": "'''Сатырит1оу''' шыудзэр уцугъэ",
+            "translation": "The two cavalry units stood in '''lines'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "səra"
+  },
+  {
+    "word": "шыудзэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "cavalry unit",
+        "examples": [
+		  {
+            "sentence": "Сатырит1оу '''шыудзэр''' уцугъэ",
+            "translation": "The two '''cavalry''' unites stood in lines."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃəwd͡za"
   },
   {
     "word": "нэк1э-нашъхьэ",
@@ -51399,6 +51436,41 @@
         ]
       }
     ],
+    "synonyms": [
+      "пырхъэн"
+    ],
+    "type": "verb",
+    "ipa": "maʃt͡əjatχʷən"
+  },
+  {
+    "word": "ч1ыфэл",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "debtor",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʂʼəfaɮ"
+  },
+  {
+    "word": "пырхъэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to snore",
+        "examples": [
+          {
+            "sentence": "Шыр '''мэпырхъэ'''",
+            "translation": "The horse '''is snoring'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "чъыетхъун"
+    ],
     "type": "verb",
     "ipa": "maʃt͡əjatχʷən"
   },
@@ -51558,7 +51630,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "In front of the entrance, the entrance door",
+        "meaning": "porch (the entrance part in front of a door)",
         "examples": [
           {
             "sentence": "'''Пчъэ1упэм''' шъу1утысхь",
@@ -51566,8 +51638,8 @@
           }
         ]
       },
-      {
-        "meaning": "porch",
+	  {
+        "meaning": "balcony",
         "examples": []
       }
     ],
@@ -51605,16 +51677,28 @@
     "ipa": "qʷəzmazaːda"
   },
   {
-    "word": "жъэбэкъ",
+    "word": "ныбэкъ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "tubby, one that is short and fat",
+        "meaning": "big-bellied; potbellied, paunchy",
         "examples": []
       }
     ],
     "type": "adj",
-    "ipa": "ʐabaq"
+    "ipa": "nəbaq"
+  },
+  {
+    "word": "нэгу хъурай",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "chubby",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "nagʷ χʷəraːj"
   },
   {
     "word": "ч1ыфэ",
@@ -52229,7 +52313,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "food products",
+        "meaning": "foodstuff; food products",
         "examples": [
           {
             "sentence": "Саусырыкъо '''гъомылапхъэу''' ы1ыгъым щыщхэр тыгъужъым ритыгъэх",
@@ -53205,16 +53289,16 @@
     "ipa": "d͡ʒaːʃʷa"
   },
   {
-    "word": "джащыгъум",
+    "word": "джэщгъум",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"джащгъум\"",
+        "meaning": "alternative form of \"джащыгъум\"",
         "examples": []
       }
     ],
     "type": "adv",
-    "ipa": "d͡ʒaːɕəʁʷəm"
+    "ipa": "d͡ʒaːɕʁʷəm"
   },
   {
     "word": "джынапц1э",
@@ -64957,11 +65041,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "gate",
+        "meaning": "wicket gate",
         "examples": [
           {
             "sentence": "К1алэр '''чэупчъэм''' блэк1ышъурэп.",
-            "translation": "The boy is not capable of passing '''the gate'''."
+            "translation": "The boy is not capable of passing '''the wicket gate'''."
           }
         ]
       }
@@ -65756,9 +65840,6 @@
         "examples": []
       }
     ],
-    "synonyms": [
-      "къэлапчъ"
-    ],
     "type": "noun",
     "ipa": "kʲapt͡ʂaʔʷ"
   },
@@ -66210,15 +66291,11 @@
         "examples": []
       },
 	  {
-        "meaning": "to rot",
+        "meaning": "to ferment",
         "examples": [
           {
-            "sentence": "Шныхэр '''мэш1о1огъ'''",
-            "translation": "The food '''was rotten'''."
-          },
-          {
-            "sentence": "Бэнанэ башэрэ шыбгъэлъымэ '''мэш1о1ущт'''",
-            "translation": "If you leave a banana for too long '''it will rot'''."
+            "sentence": "Cанэр '''ш1о1угъ'''",
+            "translation": "The food '''was fermented'''."
           }
         ]
       }
@@ -74223,10 +74300,8 @@
       }
     ],
     "synonyms": [
-      "уахътэ",
-      "лъэхъан"
+      "уахътэ"
     ],
-    "cognate": "п1алъэ",
     "type": "noun",
     "ipa": "ʁʷa"
   },
@@ -75643,11 +75718,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to lean over",
+        "meaning": "to lean on",
         "examples": [
           {
             "sentence": "Дэпкъым к1алэм '''зытегъак1э'''",
             "translation": "The boy '''leans himself on''' the wall."
+          },
+		  {
+            "sentence": "К1алэм дэпкъым '''зытигъэк1агъ'''",
+            "translation": "The boy '''leaned''' on the wall."
+          },
+          {
+            "sentence": "Ку ш1оим '''зытемыгъак1'''",
+            "translation": "'''Don't lean''' on the dirty car."
           }
         ]
       }
@@ -77407,6 +77490,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "this time",
+        "examples": [
+          {
+            "sentence": "'''Мыщгъум''' тестэр нэхьш1у уш1ыгъа?",
+            "translation": "Did you do the test better '''this time'''?"
+          },
+          {
+            "sentence": "'''Мыщгъум''' уиунэ тыгъак1у",
+            "translation": "'''This time''' walk us to your house."
+          }
+        ]
+      },
+	  {
         "meaning": "saltless, something that is not salty",
         "examples": []
       }
@@ -77920,11 +78016,11 @@
     "ipa": "zajʁaʃʷʼəʑən"
   },
   {
-    "word": "зэш1ожьын",
+    "word": "зэш1ужьын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to reconcile oneself with, to restore a friendly relationship between oneself with someone else, to forgive or smooth over an argument or fight",
+        "meaning": "to reconcile oneself with; to restore a friendly relationship between oneself with someone else; to forgive or smooth over an argument or fight; to come to terms with each oother; to resolve a conflict with each other; to make peace with each other after an argument or fight",
         "examples": [
           {
             "sentence": "Сэ о '''усэш1ужьы'''",
@@ -79110,10 +79206,6 @@
         ]
       }
     ],
-    "synonyms": [
-      "уахътэ",
-      "игъу"
-    ],
     "type": "noun",
     "ipa": "t͡ʃazəw"
   },
@@ -79145,8 +79237,7 @@
       }
     ],
     "synonyms": [
-      "уахътэ",
-      "чэзыу"
+      "уахътэ"
     ],
     "type": "noun",
     "ipa": "jəʁʷa"
@@ -80664,23 +80755,23 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to envy, To feel displeasure or hatred towards (someone) for their good fortune or possessions.",
+        "meaning": "to envy, to feel displeasure or hatred towards (someone) for their good fortune, possessions or success",
         "examples": [
           {
+            "sentence": "К1алэр '''мэшхъуагъо'''",
+            "translation": "The boy '''is envious'''."
+          },
+		  {
             "sentence": "Ар к1алэм '''ешхъуагъо'''",
-            "translation": "He '''envy''' the boy."
+            "translation": "He '''envies''' the boy."
           },
           {
             "sentence": "К1алэр сэ сызэрэбаем фэш1ык1э '''къысэшхъуагъо'''",
-            "translation": "The boy '''is envy of me''' because I am rich."
+            "translation": "The boy '''envies me''' because I am rich."
           },
           {
             "sentence": "Уи ку к1э дахэм фэш1ык1э '''къыошхъуагъощтых'''",
-            "translation": "Because of your beautiful new car '''they gonna envy you'''"
-          },
-          {
-            "sentence": "К1алэр '''мэшхъуагъо'''",
-            "translation": "The boy '''is envy'''."
+            "translation": "Because of your beautiful new car '''they are going to envy you'''"
           },
           {
             "sentence": "'''Ушхъуагъоу''' хъущтэп",
@@ -80693,6 +80784,14 @@
           {
             "sentence": "К1алэм '''уемышхъуагъу'''",
             "translation": "'''Don't be envy of''' the boy."
+          },
+		  {
+            "sentence": "К1алэр пшъашъэм '''ешхъуагъо'''",
+            "translation": "The boy '''is jealous of''' the girl."
+          },
+          {
+            "sentence": "К1алэр '''къысэшхъуагъо'''",
+            "translation": "The boy '''is jealous of me'''."
           }
         ]
       }
@@ -81795,6 +81894,30 @@
     ],
     "type": "noun",
     "ipa": "ɬəʃʼaʑaːkʷʼa"
+  },
+  {
+    "word": "пшъашъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "skin on the neck",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "pʂaːʂʷa"
+  },
+  {
+    "word": "зэлъэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to wrinkle (to become wrinkled)",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaɬan"
   },
   {
     "word": "губгъэн фэлъэгъун",
@@ -83107,6 +83230,30 @@
     "ipa": "ɣəjan"
   },
   {
+    "word": "егоон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to do a lot of harm (to), to spite, to detriment",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "jagʷawan"
+  },
+  {
+    "word": "гоон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to spite, to detriment",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "gʷawan"
+  },
+  {
     "word": "к1элъэ1ун",
     "lang": "Adyghe",
     "definitions": [
@@ -83248,7 +83395,7 @@
     "ipa": "ʁasəsən"
   },
   {
-    "word": "пкъэу",
+    "word": "пкъэупкъэу",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -83875,27 +84022,6 @@
     ],
     "type": "verb",
     "ipa": "fapʃan"
-  },
-  {
-    "word": "фапщэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "breathe",
-        "examples": [
-          {
-            "sentence": "Псым '''фапшэ''' шыбгъотэп",
-            "translation": "You will not find '''breathe''' in the water."
-          }
-        ]
-      },
-      {
-        "meaning": "oxygen",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "faːpʃa"
   },
   {
     "word": "те1эбэхьын",
@@ -93588,10 +93714,14 @@
     "ipa": "ʔʷafənt͡ʂa"
   },
   {
-    "word": "1оен",
+    "word": "1оин",
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "to bleat",
+        "examples": []
+      },
+	  {
         "meaning": "to whine; to complain",
         "examples": []
       }
@@ -93600,7 +93730,7 @@
       "тхьаусхэн"
     ],
     "type": "verb",
-    "ipa": "ʔʷajan"
+    "ipa": "ʔʷajən"
   },
   {
     "word": "къушъу",
@@ -97424,11 +97554,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "In front of the entrance, the entrance door",
-        "examples": []
-      },
-      {
-        "meaning": "porch",
+        "meaning": "porch (the entrance part in front of a door)",
         "examples": []
       }
     ],
@@ -98142,6 +98268,10 @@
     "definitions": [
       {
         "meaning": "helmet",
+        "examples": []
+      },
+	  {
+        "meaning": "headgear",
         "examples": []
       }
     ],
