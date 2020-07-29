@@ -540,9 +540,6 @@
     "tail": "к1э"
   },
   {
-    "seed": "к1э"
-  },
-  {
     "new": "к1э"
   },
   {
@@ -2799,9 +2796,6 @@
     "billy goat": "ачъэ"
   },
   {
-    "actor": "актёр"
-  },
-  {
     "ibex": "ачъэжъ"
   },
   {
@@ -4959,9 +4953,6 @@
     "to run through": "хэхъушъутын; хэшъутын (Shapsug)"
   },
   {
-    "to despise": "ехъушъутэон; зэмыпэсын; нэмыплъ ехын"
-  },
-  {
     "to look down on": "ехъушъутэон; зэмыпэсын; нэмыплъ ехын"
   },
   {
@@ -6696,19 +6687,13 @@
     "to turn sour": "ш1о1ун"
   },
   {
-    "hearth": "джэныкъо"
+    "hearth": "джэныкъо; жант1э (near the hearth)"
   },
   {
     "bee smoker": "онджэкъ"
   },
   {
     "chimney": "онджэкъ; 1угъоик1ып1э, хьакушъхьэищ"
-  },
-  {
-    "fireplace": "джэныкъохьаку"
-  },
-  {
-    "fire-place": "джэныкъохьаку"
   },
   {
     "ladder": "дэк1ояп1э; лъэой; лъэугъуае (Shapsug)"
@@ -7371,9 +7356,6 @@
     "gill": "жалэ"
   },
   {
-    "near the hearth": "жант1э"
-  },
-  {
     "eloquent": "жабзэ зы1улъ; гущы1эк1э1аз; жаш1у"
   },
   {
@@ -7875,7 +7857,7 @@
     "to deceive": "гъэделэн; гъэпц1эн; (slightly vulgar) ышъуты лэн"
   },
   {
-    "bright": "нэф; нэфын"
+    "bright": "нэф; нэфын; джэфы (bright color)"
   },
   {
     "light": "нэф; нэфын"
@@ -7962,7 +7944,7 @@
     "to be dehydrate": "гъун"
   },
   {
-    "to dry out": "гъун"
+    "to dry out": "гъун; гъэгъун"
   },
   {
     "wheat": "коцы"
@@ -8023,9 +8005,6 @@
   },
   {
     "to search for, to look for": "лъыхъун"
-  },
-  {
-    "to hide": "гъэбылъын"
   },
   {
     "to exchange": "хъожьын"
@@ -9035,10 +9014,6 @@
   {
     "to explode": "къэон; къэгъэон (to make something explode)"
   },
-  {
-    "to turn": "гъэзэн (to turn around something); зыкъэгъэзэн (to turn around)"
-  },
-  {
     "to rotate": "гъэзэн (to rotate once); чэрэзын (to be rotating); гъэчэрэзын (to rotate something); зыгъэчэрэгъун (to rotate oneself), зыгъэчэрэзын  (to rotate oneself)"
   },
   {
@@ -10170,7 +10145,7 @@
     "precipitous": "дысы"
   },
   {
-    "rude": "дысы; 1эдэбынчъэ"
+    "rude": "дысы; 1эдэбынчъэ; джырыкъу"
   },
   {
     "cheeky": "дысы"
@@ -10393,9 +10368,6 @@
   },
   {
     "flat": "зэныбжьы; зэщизы"
-  },
-  {
-    "to slip": "ц1эшъутэн"
   },
   {
     "to slip-up": "ц1эшъутэн"
@@ -11073,22 +11045,22 @@
     "to take care of, to safeguard, to watch over": "ухъумэн"
   },
   {
-    "to protect": "ухъумэн"
+    "to take care of": "нэ1э тегъэтын; пык1эрэплъын;"
   },
   {
-    "alternative form of \"угъоин\"": "еугъоин"
+    "to watch over": "к1элъыплъын (to look after); пык1эрэплъын; нэ1э тегъэтын; фэсакъын"
   },
   {
-    "to gather": "угъоин"
+    "to safeguard": "нэ1э тегъэтын; ухъумэн"
   },
   {
-    "to collect": "угъоин"
+    "to protect": "нэ1э тегъэтын; ухъумэн"
   },
   {
-    "guard": "къэрэгъул"
+    "guard": "къэрэгъул; ухъумак1о"
   },
   {
-    "seed": "чылапхъ"
+    "seed": "чылапхъэ; к1э"
   },
   {
     "to get used to": "есэн"
@@ -11097,79 +11069,58 @@
     "to close": "есэн; егъэсэн (to close something)"
   },
   {
-    "to cut with, to split with": "дебзын"
+    "to cut with": "дэбзын"
   },
   {
-    "to distribute with, to divide with,": "дэугощын"
+    "to distribute with": "дэугощын"
   },
   {
-    "alternative form of \"гощын\"": "угощын"
+    "to divide with,": "дэугощын"
   },
   {
-    "alternative form of \"1унк1эн\"": "егук1эн"
+    "to skin": "шъо техын; егун"
   },
   {
-    "alternative form of \"егун\"": "гун"
+    "to peel": "шъуампэ техын; шъо техын; егун"
   },
   {
-    "to crush, to mash, to pound, to squash": "егун"
+    "to flay": "шъо техын; егун"
   },
   {
-    "to squash with": "дегун"
+    "to flense": "шъо техын; егун"
+  },
+  {
+    "to strip": "т1эк1ын; щыгъыныр щыхын; щыгъыныр зыщыхын (to get striped); (slightly vulgar) зышъутыпц1ын (to get striped); пц1анэу зиш1ын"
   },
   {
     "to think with": "дегупшысэн"
   },
   {
-    "to flip over, to turn over with, to turn with, to twist with": "дегъэзэн"
+    "to turn upside down": "зэпырыгъэзэн"
   },
   {
-    "to dehydrate; to dry out; to remove water content from an object, plant or a living thing": "гъэгъун"
+    "to flip over": "зэпырыгъэзэн"
   },
   {
-    "alternative form of \"гъун\"": "мэгъун"
+    "to turn over": "зэпырыгъэзэн (to turn something upside down)"
   },
   {
-    "alternative form of \"гъушъын\"": "мэгъушъын"
+    "to turn": "гъэзэн (to turn around something); зыкъэгъэзэн (to turn around); зэпырыгъэзэн (to turn upside down)"
   },
   {
-    "to lay down on": "тэгъолъхьан"
+    "to dehydrate": "гъун (to get dehydrated); гъэгъун"
   },
   {
-    "alternative form of \"гъолъын\"": "мэгъолъын"
+    "to lie": "щылъын (to be lying); телъын (to be lying on); ч1элъын (to be lying under); хэлъын (to be lying within some area with liquid, gas or solid); дэлъын (to be lying in); илъын (to be lying inside); къолъын (to be lying behind); голъын / бгъодэлъын (to be lying under); гъолъын (to lie down); тегъолъхьан (to lie down on something); ч1эгъолъхьан (to lie down under something); хэгъолъхьан (to lie down within an area with liquid, solid or gas); дэгъолъхьан (to lie down in); игъолъхьан (to lie down inside); гогъолъхьан / бгъодэгъолъхьан (to lie down besides); къогъолъхьан (to lie down behind)"
   },
   {
-    "to lay down under": "ч1эгъолъхьан"
+    "to lie down": "гъолъын (to lie down); тегъолъхьан (to lie down on something); ч1эгъолъхьан (to lie down under something); хэгъолъхьан (to lie down within an area with liquid, solid or gas); дэгъолъхьан (to lie down in); игъолъхьан (to lie down inside); гогъолъхьан / бгъодэгъолъхьан (to lie down besides); къогъолъхьан (to lie down behind)"
   },
   {
-    "to lay down among": "хэгъолъхьан"
+    "to lay": "илъхьан (to lay something inside); телъхьан (to lay something on); ч1элъхьан (to lay something under); дэлъхьан (to lay something in); хэлъхьан (to lay something among other objects or in an area with solid, gas or liquid)"
   },
   {
-    "to lay down inside another object": "дэгъолъхьан"
-  },
-  {
-    "to lay down in": "дэгъолъхьан"
-  },
-  {
-    "to lay down on": "1огъолъхьан"
-  },
-  {
-    "to lay down on": "игъолъхьан"
-  },
-  {
-    "alternative form of \"дэгъэбылъхьан\"": "дегъэбылъхьэн"
-  },
-  {
-    "to hide under": "ч1егъэбылъхьэн"
-  },
-  {
-    "to hide in": "хегъэбылъхьэн"
-  },
-  {
-    "to hide inside": "ригъэбылъхьэн"
-  },
-  {
-    "to hide on": "тегъэбылъхьэн"
+    "to hide": "гъэбылъын (to hide something); зыгъэбылъын (to hide oneself); ч1эгъэбылъхьан (to hide under); тегъэбылъхьан (to hide on something); дэгъэбылъхьан (to hide in); игъэбылъхьан (to hide inside); хэгъэбылъхьан (to hide within an area of gas, solid or liquid); гогъэбылъхьан / бгъодэгъэбылъхьан (to hide besides)"
   },
   {
     "caller": "джак1о"
@@ -11178,175 +11129,187 @@
     "spinner": "джак1о"
   },
   {
-    "Yarn maker": "джак1о"
-  },
-  {
-    "Djanqilish (Circassian game)": "джанкъылъыщ"
-  },
-  {
-    "knife (a kind of old knife)": "джасэ"
-  },
-  {
     "and so": "джарэу"
   },
   {
-    "obstinate, stubborn": "джаргъэн"
+    "restive": "джаргъэн"
   },
   {
-    "at that, there": "джау"
+    "and so": "джаущтэу; джаузэ"
   },
   {
-    "and so": "джаузэ"
+    "like that": "ащфэд; аущтэу; ащытэу; джащфэд; джаущтэу; джэщытэу; мощфэд; моущтэу; мощытэу"
   },
   {
-    "and so": "джаущтэу"
+    "bald": "джашъо; шъхьэджашъу (baldhead)"
   },
   {
-    "like that": "джаущтэу"
+    "bald-headed": "шъхьэджашъу"
   },
   {
-    "bald": "джашъо"
+    "bare": "пц1анэ"
   },
   {
-    "bare": "джашъо"
-  },
-  {
-    "poor": "джашъо"
-  },
-  {
-    "alternative form of \"джащгъум\"": "джащыгъум"
-  },
-  {
-    "devil (Jinn)": "джынапц1э"
-  },
-  {
-    "Djenjef (an Circassian mythological horse),": "джынджыф"
-  },
-  {
-    "cotton, hair, wool, Yarn material": "джыны"
+    "devil": "джынапц1э"
   },
   {
     "jinn": "джынэ"
   },
   {
-    "sanitarium": "джынэузэщ"
+    "madhouse": "джынэузэщ"
   },
   {
-    "graceless, insolent, rude": "джырыкъу"
+    "present": "джырэ; (dialectal) иджырэ"
   },
   {
-    "present": "джырэ"
+    "not long ago": "бэ мыш1эу; бэ темыш1эу; джырэблагъэ"
   },
   {
-    "In a while, Since a short time, soon": "джырэблагъ"
+    "lately": "бэ мыш1эу; бэ темыш1эу; джырэблагъэ"
+  },
+  {
+    "recently": "к1эу; бэ блэмык1эу; бэ мыш1эу; джырэблагъэ"
+  },
+  {
+    "soon": "бэ мыш1эу; бэ темыш1эу; джырэблагъэ"
   },
   {
     "at present": "джырэк1э"
   },
   {
-    "for the time being": "джырэк1э"
+    "for now": "джырэк1э; (dialectal) иджырэк1э"
   },
   {
-    "Mowing (grass)": "джыхьан"
+    "for the time being": "джырэк1э; (dialectal) иджырэк1э"
   },
   {
-    "hell": "джыхьынэм"
+    "hell": "джэхьнэм"
   },
   {
-    "playing mate; playmate": "джэгогъу"
+    "playmate": "джэгогъу"
   },
   {
-    "actor": "джэгуак1о"
+    "playmate": "джэгогъу"
   },
   {
-    "player (One who plays any game or sport.)": "джэгуак1о"
+    "actor": "актёр"
   },
   {
-    "player (One who plays on a musical instrument.)": "джэгуак1о"
+    "player": "джэгуак1о"
   },
   {
     "stadium": "джэгуп1э"
   },
   {
+    "playing field": "джэгуп1э"
+  },
+  {
     "playground": "джэгуп1э"
   },
   {
-    "hated, despised": "джагъо"
+    "hated": "джагъо"
   },
   {
-    "to hate, to dislike": "уджэгъун"
+    "despised": "джагъо"
   },
   {
-    "alternative form of \"уджэгъун\"": "еуджэгъун"
+    "to hate": "уджэгъун; фэмылъэгъун (despise)"
   },
   {
-    "despised husband or man": "джэгъол1"
+    "to despise": "фэмылъэгъун"
+  },
+  {
+    "to dislike": "умык1эсэн; ш1у умылъэгъун"
   },
   {
     "spinach": "джэдз"
   },
   {
-    "to gasp, to pant": "джэлъын"
+    "to gasp": "жьы мыгъотын"
   },
   {
-    "to be confused, to be disturbed": "джэлыгъон"
+    "to pant": "жьы мыгъотын"
   },
   {
-    "to fall, to slip, to trip": "джэндын"
+    "to be confused": "хэгъощэн"
   },
   {
-    "diviner, fortune teller": "джэнчыдз"
+    "to trip": "лъэпэон; лъэпэш1оон; ш1онэн"
   },
   {
-    "advice, consultation": "джэнджэш"
+    "to slip": "ц1эшъутэн (to slide on a surface floor); (in some dialects) ц1энлъэн"
   },
   {
-    "fireplace": "джэныкъу"
+    "fortune teller": "джэнчыдз"
   },
   {
-    "to loiter, to ramble, to wander": "джэрыон"
+    "diviner": "джэнчыдз"
   },
   {
-    "loiterer, rambler, tramp": "джэрыуак1о"
+    "doubt": "джэнджэш; щэч"
+  },
+  {
+    "to doubt": "еджэнджэшын; упч1эжьын; ехъырэхъышэн; ечэнджэшын"
+  },
+  {
+    "fireplace": "джэныкъохьаку"
+  },
+  {
+    "fire-place": "джэныкъохьаку"
+  },
+  {
+    "to loaf about": "къэц1энлъыхьан; (dialectal) къэц1элъыхьан; джэрыон"
+  },
+  {
+    "to gad about": "къэц1энлъыхьан; (dialectal) къэц1элъыхьан; джэрыон"
+  },
+  {
+    "to roam": "къэк1ухьан (to talk around); къэц1энлъыхьан; (dialectal) къэц1элъыхьан; джэрыон; пш1эпш1эн"
+  },
+  {
+    "loiterer": "джэрыуак1о"
+  },
+  {
+    "rambler": "джэрыуак1о"
+  },
+  {
+    "roamer": "джэрыуак1о"
   },
   {
     "bright color": "джэфы"
   },
   {
-    "to enwrap, to envelope, to wrap": "к1оц1ыщыхьэн"
+    "to enwrap": "к1оц1ыщыхьан; к1оц1ылъхьан"
   },
   {
-    "alternative form of \"шъао\"": "шъэо"
+    "to wrap": "к1оц1ыщыхьан; к1оц1ылъхьан"
   },
   {
-    "alternative form of \"копкъ\"": "копкъышъхьэ"
+    "to envelope": "к1оц1ыщыхьан; к1оц1ылъхьан"
   },
   {
-    "to temper (to heat-treat)": "псыхьэн"
+    "to temper": "псыхьан"
   },
   {
-    "to temper, to harden, to inure": "псыхьэн"
+    "to harden": "пытэ хъун; пытэ пш1ын (to harden something); гъэпытэн (to harden something); псыхьан (to temper, to strengthen or toughen a material, especially metal, by heat treatment)"
   },
   {
-    "guide, mark, similar, similarity": "плъышъо"
+    "mark": "плъышъо"
   },
   {
     "body": "пкъышъолы"
   },
   {
-    "soft": "шъабэ"
+    "soft": "шъабэ; гохьы (soft person)"
   },
   {
-    "meek": "шъабэ"
+    "copper boiler": "лэгъупышху (great copper boiler)"
   },
   {
-    "great copper boiler": "лэгъупышху"
+    "boiler": "лэгъупышху (great copper boiler)"
   },
   {
     "hypothesis": "ш1ош1"
-  },
-  {
-    "alternative form of \"ш1ошъын\"": "ш1ош1ун"
   },
   {
     "to believe": "ш1ош1у мэхъун"
@@ -11355,22 +11318,34 @@
     "faith": "ш1ош1ухъуныгъэ"
   },
   {
-    "to scream at, to yell at": "тэкуон"
+    "to shout": "куон; текуон (to shout at); ц1эц1эн (to scold); тец1эц1эн / тец1эц1эхьан (to scold someone)"
   },
   {
-    "alternative form of \"куон\"": "мэкуон"
+    "to nag": "щыхьан"
+  },
+  {
+    "to find fault": "щыхьан"
+  },
+  {
+    "to scream": "к1ыин"
+  },
+  {
+    "to yell": "куон; текуон (to yell at); тец1эц1эн / тец1эц1эхьан (to scold)"
+  },
+  {
+    "to scold": "ц1эц1эн; тец1эц1эн / тец1эц1эхьан (to scold someone)"
   },
   {
     "little girl": "пшъэшъэжъые"
   },
   {
-    "to yell, to shout, to speak really loud": "куон"
+    "to speak loud": "куон"
   },
   {
-    "the distance that a humans voice travels": "куогъу"
+    "to kick out": "хэдзын (to kick out someone out of a group)"
   },
   {
-    "to allow/force someone to leave from a group": "хэгъэк1ын"
+    "to throw out": "хэдзын (to throw out someone out of a group)"
   },
   {
     "to decrease, to lower (amount)": "хэгъэк1ын"
@@ -11539,12 +11514,6 @@
   },
   {
     "huge ox": "цужъ"
-  },
-  {
-    "tail": "к1ьэ"
-  },
-  {
-    "seed": "к1ьэ"
   },
   {
     "(Kfar Kama dialect) (vulgar slang) dick (penis)": "к1ьэ"
@@ -13326,13 +13295,7 @@
     "alternative form of \"егъуин\"": "гъоин"
   },
   {
-    "to gather": "къегъоин"
-  },
-  {
     "alternative form of \"егъуин\"": "къэгъуен"
-  },
-  {
-    "to gather": "игъоин"
   },
   {
     "to fast": "нэк1ын"
@@ -16314,13 +16277,7 @@
     "evil wisher, illwisher": "джагъу"
   },
   {
-    "to hate": "джэгъун"
-  },
-  {
     "alternative form of \"джэгъун\"": "иджэгъун"
-  },
-  {
-    "to dislike": "фэмылъэгъун"
   },
   {
     "to not be bearable": "фэмылъэгъун"
@@ -19705,9 +19662,6 @@
   },
   {
     "to freeze": "чъын"
-  },
-  {
-    "to harden": "пытэ хъун"
   },
   {
     "to run across": "зэпырычъын"

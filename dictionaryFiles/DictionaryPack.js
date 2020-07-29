@@ -4918,12 +4918,24 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "silk",
+        "meaning": "silk (thread)",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "daːna"
+  },
+  {
+    "word": "1ушъаб",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "one who speaks calmly, quietly and fluently",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʔʷʂaːb"
   },
   {
     "word": "джэгъогъу",
@@ -29507,10 +29519,6 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "chimney",
-        "examples": []
-      },
-      {
         "meaning": "fireplace",
         "examples": []
       }
@@ -31779,6 +31787,23 @@
       {
         "meaning": "carpenter",
         "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "pχaːʃʼa"
+  },
+  {
+    "word": "гупсэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "dear; beloved; darling",
+        "examples": [
+          {
+            "sentence": "сянэ гупс",
+            "translation": "my '''dear''' mother."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -41316,6 +41341,10 @@
           {
             "sentence": "'''къэугъой''' джанэхэр, '''къэмыугъой''' гъошэджыхэр",
             "translation": "'''Gather''' the shirts, '''don't gather''' the pants."
+          },
+		  {
+            "sentence": "К1алэм ц1ыфыхэр '''еугъоих'''",
+            "translation": "The boy '''gathers''' people."
           }
         ]
       },
@@ -48250,7 +48279,7 @@
         "meaning": "to slip (on flat slippery surface with low friction like wet floor, wet road, slide and etc.)",
         "examples": [
           {
-            "sentence": "Джыхашъом '''утэц1эшъутэт'''",
+            "sentence": "Джэхашъом '''утец1эшъутэщт'''",
             "translation": "'''You will slip''' on the floor."
           },
           {
@@ -48258,11 +48287,11 @@
             "translation": "The boy '''is slipping'''."
           },
           {
-            "sentence": "си1э бэнанэр '''къыц1эшъутык1ы'''",
+            "sentence": "Си1э бэнанэр '''ч1ыц1эшъутык1ы'''",
             "translation": "The banana '''is slipping''' from my hand."
           },
           {
-            "sentence": "к1алэр бэнанэм таучи, '''мэц1эшъутагъ'''",
+            "sentence": "К1алэр бэнанэм таучи, '''ц1эшъутагъ'''",
             "translation": "The boy step on the banana and '''he slipped'''."
           }
         ]
@@ -52700,7 +52729,7 @@
     "ipa": "qaraʁʷəl"
   },
   {
-    "word": "чылапхъ",
+    "word": "чылапхъэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -52714,7 +52743,7 @@
       }
     ],
     "type": "noun",
-    "ipa": "t͡ʃəlaːpχ"
+    "ipa": "t͡ʃəlaːpχa"
   },
   {
     "word": "есэн",
@@ -52775,7 +52804,7 @@
     "ipa": "deʔatajan"
   },
   {
-    "word": "дебзын",
+    "word": "дэбзын",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -52840,12 +52869,61 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to crush, to mash, to pound, to squash",
+        "meaning": "to strip, to peel, to skin, to flay, to flense",
         "examples": []
       }
     ],
     "type": "verb",
     "ipa": "jaɡʷən"
+  },
+  {
+    "word": "т1эк1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to undress (to remove somebody’s clothing)",
+        "examples": []
+      },
+	  {
+        "meaning": "to strip",
+        "examples": []
+      },
+	  {
+        "meaning": "to sack (to rob)",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "tʼat͡ʃʼən"
+  },
+  {
+    "word": "зэпыгъэзэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"зэпырыгъэзэн\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "zapəʁazan"
+  },
+  {
+    "word": "зэпырыгъэзэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to flip over; to turn upside down",
+        "examples": [
+          {
+            "sentence": "Nнэгъунджэхэр ымыгъотыжьыхэу унэр '''зэпыригъэзэжьыгъ'''",
+            "translation": "(S)he '''turned''' the house '''upside down''' looking for his/her mirrors."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zapərəʁazan"
   },
   {
     "word": "дегун",
@@ -52884,16 +52962,16 @@
     "ipa": "zəqaʁazan"
   },
   {
-    "word": "дегъэзэн",
+    "word": "дэгъэзэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to flip over, to turn over with, to turn with, to twist with",
+        "meaning": "to turn with",
         "examples": []
       }
     ],
     "type": "verb",
-    "ipa": "deʁazan"
+    "ipa": "daʁazan"
   },
   {
     "word": "гъэгъун",
@@ -52941,14 +53019,14 @@
     "ipa": "maʁʷʂən"
   },
   {
-    "word": "тэгъолъхьан",
+    "word": "тегъолъхьан",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to lay down on",
         "examples": [
           {
-            "sentence": "К1алэр п1эм '''тэгъолъхьагъ'''",
+            "sentence": "К1алэр п1эм '''тегъолъхьагъ'''",
             "translation": "The boy '''lied down on''' is bed."
           }
         ]
@@ -52974,7 +53052,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to lay down under",
+        "meaning": "to lie down under",
         "examples": [
           {
             "sentence": "Чъыгы ч1эгъым '''сыч1эгъолъхьэ'''",
@@ -52991,7 +53069,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to lay down among",
+        "meaning": "to lie down among",
         "examples": [
           {
             "sentence": "К1алэр мэзым '''хэгъолъхьагъ'''",
@@ -53008,7 +53086,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to lay down inside another object",
+        "meaning": "to lie down inside another object",
         "examples": [
           {
             "sentence": "Дракулэ пхъэмбаим '''дэгъолъхьэ'''",
@@ -53017,7 +53095,7 @@
         ]
       },
       {
-        "meaning": "to lay down in",
+        "meaning": "to lie down in",
         "examples": [
           {
             "sentence": "К1алэр щагум '''дэгъолъхьагъ'''",
@@ -53034,7 +53112,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to lay down on",
+        "meaning": "to lie down on",
         "examples": [
           {
             "sentence": "Къалэ тхьамышк1ыхэмэ ц1ыфыхэр гъогум '''1огъуалъхьэх'''",
@@ -53051,7 +53129,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to lay down on",
+        "meaning": "to lie down on",
         "examples": [
           {
             "sentence": "К1алэр унэм '''игъолъхьагъ'''",
@@ -53076,14 +53154,14 @@
     "ipa": "deʁabəɬħan"
   },
   {
-    "word": "ч1егъэбылъхьэн",
+    "word": "ч1эгъэбылъхьан",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to hide under",
         "examples": [
           {
-            "sentence": "К1алэм 1анэ ч1эгъым '''зч1егъэбылъхьэ'''",
+            "sentence": "К1алэм 1анэ ч1эгъым '''зыч1егъэбылъхьэ'''",
             "translation": "The boy '''is hiding''' under the table."
           }
         ]
@@ -53093,7 +53171,7 @@
     "ipa": "t͡ʃʼeʁabəɬħan"
   },
   {
-    "word": "хегъэбылъхьэн",
+    "word": "хэгъэбылъхьан",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -53110,7 +53188,7 @@
     "ipa": "xeʁabəɬħan"
   },
   {
-    "word": "ригъэбылъхьэн",
+    "word": "игъэбылъхьан",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -53127,7 +53205,7 @@
     "ipa": "riʁabəɬħan"
   },
   {
-    "word": "тегъэбылъхьэн",
+    "word": "тегъэбылъхьан",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -53153,10 +53231,6 @@
       },
       {
         "meaning": "spinner",
-        "examples": []
-      },
-      {
-        "meaning": "Yarn maker",
         "examples": []
       }
     ],
@@ -53204,7 +53278,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "obstinate, stubborn",
+        "meaning": "restive (resistant to control; stubborn)",
         "examples": []
       }
     ],
@@ -53300,7 +53374,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Djenjef (an Circassian mythological horse),",
+        "meaning": "Djenjef (an Circassian mythological horse)",
+        "examples": []
+      },
+	  {
+        "meaning": "fabulous horse breed",
         "examples": []
       }
     ],
@@ -53312,7 +53390,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "cotton, hair, wool, Yarn material",
+        "meaning": "the primary material for yarn (wool, cotton, hair)",
         "examples": []
       }
     ],
@@ -53336,7 +53414,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "sanitarium",
+        "meaning": "madhouse",
         "examples": []
       }
     ],
@@ -53372,12 +53450,24 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "In a while, Since a short time, soon",
+        "meaning": "recently, not long ago, lately",
         "examples": []
       }
     ],
     "type": "adv",
     "ipa": "d͡ʒərablaːr"
+  },
+  {
+    "word": "бэ мыш1эу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "recently, not long ago, lately",
+        "examples": []
+      }
+    ],
+    "type": "adv",
+    "ipa": "ba məʃʼaw"
   },
   {
     "word": "джырэк1э",
@@ -53396,19 +53486,19 @@
     "ipa": "d͡ʒərat͡ʃʼa"
   },
   {
-    "word": "джыхьан",
+    "word": "джыхьынэм",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Mowing (grass)",
+        "meaning": "alternative form of \"джэхьнэм\"",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "d͡ʒəħaːn"
+    "ipa": "d͡ʒəħənam"
   },
   {
-    "word": "джыхьынэм",
+    "word": "джэхьнэм",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -53417,7 +53507,7 @@
       }
     ],
     "type": "noun",
-    "ipa": "d͡ʒəħənam"
+    "ipa": "d͡ʒəħnam"
   },
   {
     "word": "джэгогъу",
@@ -53440,11 +53530,15 @@
         "examples": []
       },
       {
-        "meaning": "player (One who plays any game or sport.)",
+        "meaning": "player (one who plays any game or sport)",
         "examples": []
       },
       {
-        "meaning": "player (One who plays on a musical instrument.)",
+        "meaning": "player (one who plays on a musical instrument)",
+        "examples": []
+      },
+      {
+        "meaning": "a wandering folk musician, entertaining guests at feasts and parties",
         "examples": []
       }
     ],
@@ -53456,7 +53550,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "stadium",
+        "meaning": "playing field",
         "examples": []
       },
       {
@@ -53472,8 +53566,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "hated, despised",
-        "examples": []
+        "meaning": "hated; despised",
+        "examples": [
+		  {
+            "sentence": "А к1алэр сэ '''сиджагъу'''",
+            "translation": "'''I hate''' that boy."
+          }
+		]
       }
     ],
     "type": "adj",
@@ -53484,7 +53583,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to hate, to dislike",
+        "meaning": "to hate",
         "examples": [
           {
             "sentence": "К1алэр мые '''еуджэгъу'''",
@@ -53553,7 +53652,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to gasp, to pant",
+        "meaning": "to be out of breath",
         "examples": []
       }
     ],
@@ -53565,7 +53664,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be confused, to be disturbed",
+        "meaning": "to be confused",
         "examples": []
       }
     ],
@@ -53601,7 +53700,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "advice, consultation",
+        "meaning": "doubt",
         "examples": []
       }
     ],
@@ -53609,23 +53708,23 @@
     "ipa": "d͡ʒand͡ʒaʃ"
   },
   {
-    "word": "джэныкъу",
+    "word": "щэч",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "fireplace",
+        "meaning": "doubt",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "d͡ʒanəqʷ"
+    "ipa": "ɕat͡ʃ"
   },
   {
     "word": "джэрыон",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to loiter, to ramble, to wander",
+        "meaning": "to roam",
         "examples": []
       }
     ],
@@ -53633,11 +53732,23 @@
     "ipa": "d͡ʒarəwan"
   },
   {
+    "word": "къэц1энлъыхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to roam",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "qat͡sanɬəħaːn"
+  },
+  {
     "word": "джэрыуак1о",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "loiterer, rambler, tramp",
+        "meaning": "loiterer, rambler, roamer",
         "examples": []
       }
     ],
@@ -53700,15 +53811,11 @@
     "ipa": "kʷapqəʂħa"
   },
   {
-    "word": "псыхьэн",
+    "word": "псыхьан",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to temper (to heat-treat)",
-        "examples": []
-      },
-      {
-        "meaning": "to temper, to harden, to inure",
+        "meaning": "to temper; to strengthen or toughen a material, especially metal, by heat treatment",
         "examples": []
       }
     ],
@@ -53720,7 +53827,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "guide, mark, similar, similarity",
+        "meaning": "mark",
         "examples": []
       }
     ],
@@ -53745,10 +53852,6 @@
     "definitions": [
       {
         "meaning": "soft",
-        "examples": []
-      },
-      {
-        "meaning": "meek",
         "examples": []
       }
     ],
@@ -53864,11 +53967,11 @@
     "ipa": "ʃʷʼaʃʷʼχʷənʁa"
   },
   {
-    "word": "тэкуон",
+    "word": "текуон",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to scream at, to yell at",
+        "meaning": "to shout at, to yell at",
         "examples": [
           {
             "sentence": "К1алэм пшъашъэм '''тэкуо'''",
@@ -53913,7 +54016,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to yell, to shout, to speak really loud",
+        "meaning": "to shout (to speak really loud); to yell",
         "examples": [
           {
             "sentence": "Пшъашъэр '''мэкуо'''",
@@ -53962,7 +54065,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to allow/force someone to leave from a group",
+        "meaning": "to forcefully remove (someone or something) from a group",
         "examples": []
       },
       {
@@ -54135,7 +54238,7 @@
     "ipa": "aːmarmi"
   },
   {
-    "word": "амру",
+    "word": "амрэу",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -61608,7 +61711,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to choose, to elect",
+        "meaning": "to throw out; to kick out; to forcefully remove someone or something from a group",
         "examples": []
       }
     ],
@@ -65190,13 +65293,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to gather",
-        "examples": [
-          {
-            "sentence": "К1алэм мы1эрысхэр '''игъоих'''",
-            "translation": "The boy '''gathers''' apples."
-          }
-        ]
+        "meaning": "alternative form of \"угъоин\"",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -67135,7 +67233,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to scream, to shout out really loudly",
+        "meaning": "to scream",
         "examples": [
           {
             "sentence": "Пшъашъэр '''мэк1ыи'''",
@@ -69379,34 +69477,37 @@
     "ipa": "ʁawsəhan"
   },
   {
-    "word": "ехьыл1эн",
+    "word": "гъэусыен",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to bring something to; to carry something to",
+        "meaning": "to lean an object on something",
         "examples": [
           {
-            "sentence": "Мэщытым нэмазэхэр '''къырахьыл1эх'''",
-            "translation": "'''They bring''' prayers to the mosque."
+            "sentence": "Пчъэр дэпкъым к1алэм '''регъэусые'''",
+            "translation": "The boy '''leas''' the door '''on''' the wall."
           },
           {
-            "sentence": "Хьак1эм уз къырихьыл1агъ",
-            "translation": "The guest '''brought''' a disease."
-          }
-        ]
-      },
-	  {
-        "meaning": "to put an effort into",
-        "examples": [
-          {
-            "sentence": "Л1ым адыгабзэм 1офы рихьыл1агъ",
-            "translation": "The man has '''put an effort into''' the Adyghe language."
+            "sentence": "1анэм '''земыгъэусый'''",
+            "translation": "'''Don't lay''' on the table."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "jaħəɬʼan"
+    "ipa": "ʁawsəjan"
+  },
+  {
+    "word": "гъэусыин",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"гъэусыен\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʁawsəjən"
   },
   {
     "word": "ехьыл1агъэу",
@@ -70593,7 +70694,7 @@
     "ipa": "taʁapsaħaːn"
   },
   {
-    "word": "к1оц1ылъхьэн",
+    "word": "к1оц1ылъхьан",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -77078,27 +77179,27 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to yell at",
+        "meaning": "to scold (to criticise harshly)",
         "examples": [
           {
-            "sentence": "Л1ыр к1алэм '''тэц1ац1э'''",
-            "translation": "The man'''is yelling at''' the boy."
+            "sentence": "Л1ыр к1алэм '''тец1ац1э'''",
+            "translation": "The man'''is scolding''' the boy."
           },
           {
-            "sentence": "Тхьэматэр '''къэтэц1ац1эу''' 1ут",
-            "translation": "The leader '''is''' standing there '''yelling at us'''."
+            "sentence": "Тхьэматэр '''къэттец1ац1эу''' 1ут",
+            "translation": "The leader '''is''' standing there '''scolding us'''."
           },
           {
-            "sentence": "'''Укъэстэмыц1ац1'''",
-            "translation": "'''Don't yell at me'''."
+            "sentence": "'''Укъэстемыц1ац1'''",
+            "translation": "'''Don't scold  me'''."
           },
           {
-            "sentence": "Л1ыжъыр зигъэгуабжьырым '''тэц1ац1э'''",
-            "translation": "The old-man '''is yelling at''' anybody that makes him angry."
+            "sentence": "Л1ыжъыр зигъэгуабжьырым '''тец1ац1э'''",
+            "translation": "The old-man '''is scolding''' anybody that makes him angry."
           },
           {
-            "sentence": "'''Шъустэц1эц1энэу''' шъуфая?",
-            "translation": "Do you (plural) want '''me to yell at you (plural)'''."
+            "sentence": "'''Шъустец1эц1энэу''' шъуфая?",
+            "translation": "Do you (plural) want '''me to scold you (plural)'''."
           }
         ]
       }
@@ -77108,6 +77209,42 @@
     ],
     "type": "verb",
     "ipa": "tajt͡sʼat͡sʼan"
+  },
+  {
+    "word": "тец1эц1эхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to scold (to criticise harshly)",
+        "examples": [
+          {
+            "sentence": "Л1ыр к1алэм '''тец1эц1эхьы'''",
+            "translation": "The man'''is scolding''' the boy."
+          },
+          {
+            "sentence": "Тхьэматэр '''къэттец1эц1эхьэу''' 1ут",
+            "translation": "The leader '''is''' standing there '''scolding us'''."
+          },
+          {
+            "sentence": "'''Укъэстемыц1эц1эхь'''",
+            "translation": "'''Don't scold me'''."
+          },
+          {
+            "sentence": "Л1ыжъыр зигъэгуабжьырым '''тец1эц1эхьы'''",
+            "translation": "The old-man '''is scolding''' anybody that makes him angry."
+          },
+          {
+            "sentence": "'''Шъустец1эц1эхьынэу''' шъуфая?",
+            "translation": "Do you (plural) want '''me to scold you (plural)'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "тэс1эс1эн"
+    ],
+    "type": "verb",
+    "ipa": "tajt͡sʼat͡sʼaħaːn"
   },
   {
     "word": "щыгъэтын",
@@ -82195,13 +82332,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to hate",
-        "examples": [
-          {
-            "sentence": "А к1алэр сэ '''сиджагъу'''",
-            "translation": "'''I hate''' that boy."
-          }
-        ]
+        "meaning": "alternative form of \"уджэгъун\"",
+        "examples": []
       }
     ],
     "synonyms": [
@@ -82228,21 +82360,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to dislike",
+        "meaning": "to despise",
         "examples": [
           {
             "sentence": "А к1алэр сэ '''сыфэлъэгъурэп'''",
-            "translation": "'''I dislike''' that boy."
+            "translation": "'''I despise''' that boy."
           }
         ]
-      },
-      {
-        "meaning": "to not be bearable",
-        "examples": []
       }
     ],
     "synonyms": [
-      "джэгъун"
+      "уджэгъун"
     ],
     "type": "verb",
     "ipa": "faməɬaʁʷən"
@@ -82857,10 +82985,14 @@
         ]
       },
       {
-        "meaning": "to scream or shout or yell angrily at",
+        "meaning": "to nag; to pick on someone (to criticize excessively or pick a fight)",
+        "examples": []
+      },
+      {
+        "meaning": "(Kfar Kama dialect) to yell at (for criticism)",
         "examples": [
           {
-            "sentence": "Сэшъык1аем сиянэ '''къэсщыхьагъ'''",
+            "sentence": "Сэш1ык1аем сиянэ '''къэсщыхьагъ'''",
             "translation": "When I did trouble my mother '''screamed at me'''."
           },
           {
@@ -88811,10 +88943,14 @@
         "meaning": "to consult",
         "examples": [
           {
-            "sentence": "Ар лIыжъым дэжь '''еджэнджэшынэу''' кIуагъэ",
+            "sentence": "Ар л1ыжъым дэжь '''еджэнджэшынэу''' к1уагъэ",
             "translation": "He went to the old man '''to consult''' with him."
           }
         ]
+      },
+      {
+        "meaning": "to doubt",
+        "examples": []
       }
     ],
     "synonyms": [
@@ -88823,6 +88959,22 @@
     ],
     "type": "verb",
     "ipa": "jad͡ʒand͡ʒanʃən"
+  },
+  {
+    "word": "упч1эжьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to doubt",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "ечэнджэшын",
+      "ехъырхъышэн"
+    ],
+    "type": "verb",
+    "ipa": "wəpt͡ʂʼaʑən"
   },
   {
     "word": "ечэнджэшын",
@@ -90519,6 +90671,18 @@
     ],
     "type": "verb",
     "ipa": "tʼərɡʷən"
+  },
+  {
+    "word": "т1ыргу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(impact noise)",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "tʼərɡʷ"
   },
   {
     "word": "хьапк1",
