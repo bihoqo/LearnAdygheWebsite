@@ -6194,21 +6194,6 @@
     "ipa": "ɕabzaːɕ"
   },
   {
-    "word": "к1уснэщаб",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "bow",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "щабзэ"
-    ],
-    "type": "noun",
-    "ipa": "kʷʼəsnaɕaːb"
-  },
-  {
     "word": "нэбгъэ",
     "lang": "Adyghe",
     "definitions": [
@@ -51979,7 +51964,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Forfeited money",
+        "meaning": "counterfeit coin",
         "examples": []
       }
     ],
@@ -51999,11 +51984,11 @@
     "ipa": "aːχʃaməkʷʼ"
   },
   {
-    "word": "ахъщэнэпц1ш1",
+    "word": "ахъщэнэпц1ыш1",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "forfeiter",
+        "meaning": "counterfeiter",
         "examples": []
       }
     ],
@@ -52043,7 +52028,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "exchange office, bank",
+        "meaning": "currency exchange office",
         "examples": []
       }
     ],
@@ -52067,15 +52052,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "inflation",
+        "meaning": "monetary inflation",
         "examples": []
-      },
-      {
-        "meaning": "(finance) inflation",
-        "examples": [],
-        "tags": [
-          "finance"
-        ]
       }
     ],
     "type": "noun",
@@ -52110,7 +52088,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "capital",
+        "meaning": "capital (money)",
         "examples": []
       }
     ],
@@ -52140,6 +52118,18 @@
     ],
     "type": "noun",
     "ipa": "pɕarəħaːkʷʼa"
+  },
+  {
+    "word": "пщэрэхьак1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"пщэрыхьак1о\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "pɕaraħaːkʷʼa"
   },
   {
     "word": "плъыжьыбз",
@@ -52302,9 +52292,6 @@
         ]
       }
     ],
-    "synonyms": [
-      "к1уснэщаб"
-    ],
     "type": "noun",
     "ipa": "ɕaːbza"
   },
@@ -52339,11 +52326,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "weak",
-        "examples": []
-      },
-      {
-        "meaning": "half dead",
+        "meaning": "halfdead",
         "examples": [
           {
             "sentence": "Саусырыкъо мэз гъунэм тыгъужъ '''ныкъуал1э''' горэ 1улъэу ылъэгъугъ",
@@ -52397,7 +52380,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to tire, to exhaust",
+        "meaning": "to tire; to weary; to exhaust",
         "examples": [
           {
             "sentence": "К1алэм '''сегъэпшъы'''",
@@ -54177,14 +54160,6 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to save",
-        "examples": []
-      },
-      {
-        "meaning": "to spare",
-        "examples": []
-      },
-      {
         "meaning": "to be careful",
         "examples": [
           {
@@ -54192,6 +54167,10 @@
             "translation": "'''Be careful''', you will fall down from the tree."
           }
         ]
+      },
+	  {
+        "meaning": "to keep an eye to; to pay attention to",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -64222,6 +64201,18 @@
     ],
     "type": "noun",
     "ipa": "χəzmat"
+  },
+  {
+    "word": "1офыш1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "toiler; worker; a person who toils or labors",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʔʷafəʃʼa"
   },
   {
     "word": "хъырцэ",

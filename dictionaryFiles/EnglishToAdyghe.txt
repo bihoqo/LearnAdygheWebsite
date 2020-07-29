@@ -1401,9 +1401,6 @@
     "arrow": "щэбзащ"
   },
   {
-    "bow": "к1уснэщаб"
-  },
-  {
     "flower": "нэкъыгъэ (Shapsug)"
   },
   {
@@ -2763,9 +2760,6 @@
     "stingy": "ахъщапс; тхьацэ"
   },
   {
-    "inflation": "ахъзэбэг"
-  },
-  {
     "stock market": "ахъщэбэдзэр"
   },
   {
@@ -2791,9 +2785,6 @@
   },
   {
     "exchange office": "ахъщэзэблэхъущ"
-  },
-  {
-    "bank": "ахъщэзэблэхъущ"
   },
   {
     "counterfeit money": "ахъщэмык1у"
@@ -8724,9 +8715,6 @@
     "priceless": "уасэнчъэ"
   },
   {
-    "weak": "махэ; к1оч1адж (low-powered); ерагъ; к1оч1энчъэ (powerless)"
-  },
-  {
     "low-powered": "к1оч1адж"
   },
   {
@@ -9252,7 +9240,7 @@
     "to collect": "угъоин; къэугъоин; зэ1угъэк1эн; зэхэугъоен (to collect to one place); зэтеплъхьан (to collect things and save them for the future), зэхэплъхьан"
   },
   {
-    "to save": "къэгъэнэжьын (to save someone); къыхэхыжьын (to save someone from a bad or dangerous siuation); зэтеплъхьан (to collect things and save them for the future); къэгъэнэн (to save something for later); гъэт1ылъын / 1угъэт1ылъык1ын (to lay and save something for the future)"
+    "to save": "къэгъэнэжьын (to save someone); къыхэхыжьын (to save someone from a bad or dangerous siuation); зэтеплъхьан (to collect things and save them for the future); къэгъэнэн (to save something for later); гъэт1ылъын / 1угъэт1ылъык1ын (to lay and save something for the future); гъэш1он (to save something for the future)"
   },
   {
     "to arrest": "къэгъэуцун (to stop); убытын / къэубытын; дэубытэн (to arrest in); иубытэн (to arrest inside)"
@@ -9525,7 +9513,7 @@
     "to cook": "пщэрыхьан; ш1ын (to make); гъэжъэн (to bake, to grill, to fry); гъэжъон (to boil)"
   },
   {
-    "cook": "пщэрэхьак1у"
+    "cook": "пщэрыхьак1о"
   },
   {
     "corkscrew": "шъхьэ1ух"
@@ -10902,7 +10890,7 @@
     "tubby": "ныбэкъ"
   },
   {
-    "chubby": "нэгу хъурай"
+    "chubby": "нэгу хъурай; ныбэкъ (big-bellied); быт1ыхъурай"
   },
   {
     "big-bellied": "ныбэкъ; ныбэ хъурай; быт1ыхъурай"
@@ -10926,106 +10914,85 @@
     "comfortable place": "гупсэфып1"
   },
   {
-    "to change something, to make something different": "зэхъок1ын"
-  },
-  {
     "to become different": "зэхъок1ын"
-  },
-  {
-    "alternative form of \"пхъэнт1эк1у\"": "пхъэт1эк1у"
   },
   {
     "dancer": "къэшъуак1о"
   },
   {
-    "a person that drinks alcohol often": "ешъуак1о"
+    "alcoholic": "ешъуак1о"
   },
   {
     "drinker": "ешъуак1о"
   },
   {
-    "murderer": "мэхъаджэ"
+    "murderer": "ук1ак1о; мэхъаджэ"
   },
   {
-    "criminal": "мэхъаджэ"
+    "student": "еджак1о; студент"
   },
   {
-    "pupil, student": "еджак1о"
+    "counterfeit coin": "ахъщэнэпц1; ахъщэнэпц1"
   },
   {
-    "alternative form of \"мылъку\"": "мылъыку"
-  },
-  {
-    "Forfeited money": "ахъщэнэпц1"
-  },
-  {
-    "counterfeit money": "ахъщэмык1у"
-  },
-  {
-    "forfeiter": "ахъщэнэпц1ш1"
-  },
-  {
-    "small money": "ахъщэжъгъэй"
+    "counterfeiter": "ахъщэнэпц1ыш1"
   },
   {
     "stock market": "ахъщэбэдзэр"
   },
   {
-    "Exchange office, bank": "ахъщэзэблэхъущ"
+    "currency exchange office": "ахъщэзэблэхъущ"
   },
   {
-    "A coin toss, a coin flip.": "ахъщэдэфый"
+    "coin toss, a coin flip.": "ахъщэдэфый"
   },
   {
-    "inflation": "ахъщэбэг"
+    "coin flip.": "ахъщэдэфый"
   },
   {
-    "(finance) inflation": "ахъщэбэг"
+    "money inflation": "ахъщэбэг"
   },
   {
-    "wallet, purse": "ахъщалъ"
+    "servant": "унэ1ут; пщыл1ы (slave)"
   },
   {
-    "capital": "ахъщашъхь"
-  },
-  {
-    "servant": "пщэрыхь"
-  },
-  {
-    "chef (in a restaurant)": "пщэрыхьак1о"
+    "chef": "пщэрыхьак1о"
   },
   {
     "red blood": "плъыжьыбз"
   },
   {
-    "valiant": "л1ыхъу"
+    "valiant": "л1ыхъу; л1ыхъужъ"
   },
   {
-    "hero": "л1ыхъу"
+    "bank": "ахъщэзэблэхъущ (currency exchange office); нэпкъы (sea bank)"
   },
   {
-    "valiant": "л1ыхъужъ"
+    "shore": "нэпкъы; 1ушъу"
   },
   {
-    "hero": "л1ыхъужъ"
+    "coast": "псы 1ушъо; хы 1ушъо; нэпкъы"
   },
   {
-    "bank, shore, coast, beach": "нэпкъы"
+    "fringe": "гъунэ"
   },
   {
-    "alternative form of \"ек1ол1эн\"": "к1ол1эн"
+    "edge": "нэз; цак1э; гъунэ; цыпэ (tip)"
   },
   {
-    "alternative form of \"ш1ык1э\"": "ш1ык1ьэ"
+    "tip": "цыпэ"
   },
   {
-    "border, edge, brink, brim, fringe": "гъунэ"
+    "brink": "нэз; цак1э; гъунэ"
   },
   {
-    "outskirts (the edges or areas around a city or town)": "гъунэ"
+    "brim": "нэз; цак1э; гъунэ"
   },
   {
-    "end": "гъунэ"
+    "outskirts": "гъунэ"
+  },
+  {
+    "end": "к1эух; гъунэ; ухып1; пак1э"
   },
   {
     "bow": "щабзэ"
@@ -11040,46 +11007,67 @@
     "foodstuffs": "гъомылапхъэ"
   },
   {
-    "weak": "ныкъуал1э"
+    "halfdead": "ныкъуал1э"
+  },
+  {
+    "weak": "махэ; к1оч1адж (low-powered); ерагъ; к1оч1энчъэ (powerless)"
   },
   {
     "half dead": "ныкъуал1э"
   },
   {
-    "alternative form of \"азыфагу\"": "языфагу"
+    "to inflate": "гъэпщын; гъэбэгын"
   },
   {
-    "to inflate, to cause something to become bigger in a round shape (usually by air)": "гъэпщын"
+    "to tire": "гъэпшъын"
   },
   {
-    "to tire, to exhaust": "гъэпшъын"
+    "to get tired": "пшъын"
   },
   {
-    "alternative form of \"пщын\"": "мэпщын"
+    "to weary": "пшъын; гъэпшъын (to weary someone)"
   },
   {
-    "to add": "хэхъон; хэгъэхъон; ехъун / къехъун; егъэхъун / къегъэхъун"
+    "to exhaust": "гъэпшъын"
   },
   {
-    "to cherish, to caress, to pamper": "гъэш1он"
+    "to get exhausted": "пшъын"
   },
   {
-    "to spare something (for the future)": "гъэш1он"
+    "to fatigue": "гъэпшъын"
   },
   {
-    "to greet someone": "пэгъок1ын"
+    "to add": "хэхъон; хэгъэхъон (to add something to); ехъун / къехъун; егъэхъун / къегъэхъун (to add something to)"
   },
   {
-    "alternative form of \"пэгъок1ын\"": "пэгъок1ьын"
+    "to cherish": "гъэш1он"
+  },
+  {
+    "to pamper": "гъэш1он"
+  },
+  {
+    "to caress": "гъэш1он"
+  },
+  {
+    "to spare": "гъэш1он"
+  },
+  {
+    "to greet": "ш1уфэс ехын; сэлам ехын; пэгъок1ын"
   },
   {
     "fat tail": "к1апэ"
   },
   {
-    "wise": "1уш"
+    "wise": "1уш; акъыл; акъылыш1у; акъылышху"
   },
   {
-    "clever, smart, intelligent": "1уш"
+    "clever": "1уш; акъыл; акъылыш1у; акъылышху"
+  },
+  {
+    "smart": "1уш; акъыл; акъылыш1у; акъылышху"
+  },
+  {
+    "intelligent": "1уш; акъыл; акъылыш1у; акъылышху"
   },
   {
     "to take care of, to safeguard, to watch over": "ухъумэн"
@@ -11425,9 +11413,6 @@
   },
   {
     "to save": "фэсакъын"
-  },
-  {
-    "to spare": "фэсакъын"
   },
   {
     "to be careful": "фэсакъын"
@@ -12954,9 +12939,6 @@
     "to unbutton": "т1этэн"
   },
   {
-    "pupil": "к1элэеджак1о"
-  },
-  {
     "alternative form of \"к1элэеджак1о\"": "к1элэегьак1о"
   },
   {
@@ -13150,9 +13132,6 @@
   },
   {
     "legend": "хъишъ"
-  },
-  {
-    "weak": "хъыбый"
   },
   {
     "household": "хъызмэт"
@@ -15192,9 +15171,6 @@
     "alternative form of \"ш1эныгъэ\"": "ш1энгъэ"
   },
   {
-    "to greet": "сэлам ехын"
-  },
-  {
     "grandson": "къорылъф"
   },
   {
@@ -15661,9 +15637,6 @@
   },
   {
     "to shay away": "к1эегъулъын"
-  },
-  {
-    "end": "к1эух"
   },
   {
     "closing, conclusive": "к1эух"
@@ -17430,9 +17403,6 @@
     "farmstead": "чэу"
   },
   {
-    "edge": "нэз"
-  },
-  {
     "bed (for plants), seedbed": "хьасэ"
   },
   {
@@ -18076,9 +18046,6 @@
   },
   {
     "shore, coast, seaboard, littoral": "1ушъо"
-  },
-  {
-    "coast": "хы1ушъо"
   },
   {
     "seaboard": "хы1ушъо"
@@ -19312,15 +19279,6 @@
   },
   {
     "to push with might": "е1эн"
-  },
-  {
-    "edge": "цак1э"
-  },
-  {
-    "alternative form of \"цак1э\"": "цак1ьэ"
-  },
-  {
-    "alternative form of \"ц1этхын\"": "къэц1этхын"
   },
   {
     "to spread (on), to smear (with), to daub (with)": "тец1элэн"
