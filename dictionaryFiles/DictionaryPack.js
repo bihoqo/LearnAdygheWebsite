@@ -61134,40 +61134,6 @@
     "ipa": "t͡ʃʼəɬa"
   },
   {
-    "word": "ч1элъэтык1ьын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to fall on the ground",
-        "examples": [
-          {
-            "sentence": "Шыр '''ч1элъетыкьи''' к1алэр гозэгъ",
-            "translation": "The horse '''slip''' and the boy fell from it."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "t͡ʃʼaɬatəkʲən"
-  },
-  {
-    "word": "мэц1этхъун",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to get a scratch",
-        "examples": [
-          {
-            "sentence": "Кур '''мэц1этхъогъ'''",
-            "translation": "The car '''got a scratch'''."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "mat͡sʼatχʷən"
-  },
-  {
     "word": "ец1этхъун",
     "lang": "Adyghe",
     "definitions": [
@@ -61205,6 +61171,10 @@
           {
             "sentence": "Чэтыум '''уикъыц1этхъущт'''",
             "translation": "The cat '''will scratch you'''."
+          },
+		  {
+            "sentence": "Кур '''мэц1этхъу'''",
+            "translation": "The car '''is getting a scratch'''."
           }
         ]
       }
@@ -61376,11 +61346,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to affect deeply",
-        "examples": []
-      },
-      {
-        "meaning": "to make someone worry",
+        "meaning": "to worry someone",
         "examples": [
           {
             "sentence": "Сиян сыд '''узигъэгумэк1ырэр?'''",
@@ -61390,7 +61356,7 @@
       }
     ],
     "synonyms": [
-      "гъэго1эн"
+      "гъэгу1эн"
     ],
     "type": "verb",
     "ipa": "ʁaɡʷəmat͡ʃən"
@@ -61400,7 +61366,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be anxious/uneasy/worried (about), to become anxious (about)",
+        "meaning": "to be anxious/uneasy/worried",
         "examples": [
           {
             "sentence": "Сиян '''мэгумэк1ы'''",
@@ -61432,7 +61398,7 @@
     "ipa": "ɡʷəmat͡ʃəʁʷ"
   },
   {
-    "word": "гъэго1эн",
+    "word": "гъэгу1эн",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -66536,6 +66502,18 @@
     ],
     "type": "verb",
     "ipa": "zaʔaʁaħan"
+  },
+  {
+    "word": "олъэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to ripple",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "waɬan"
   },
   {
     "word": "к1эшъун",

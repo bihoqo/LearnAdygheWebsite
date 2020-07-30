@@ -12071,100 +12071,76 @@
     "to pickle": "ш1о1ун; гъэш1о1ун (to pickle something)"
   },
   {
+    "to ripple": "олъэн"
+  },
+  {
     "to corn": "ш1о1ун; гъэш1о1ун (to corn something)"
   },
   {
-    "to make something rot": "гъэш1о1ун"
+    "to rot": "шъун; гъэшъун (to rot something)"
   },
   {
-    "alternative form of \"гъэш1ык1эен\"": "гъэш1ык1ьэен"
+    "to sneeze": "псын / къэпсын; ц1этхын (Shapsug)"
   },
   {
-    "alternative form of \"ч1ыгу\"": "чъыгу"
+    "to worry": "гу1эн; гъэгу1эн (to worry someone); гумэк1ын; гъэгумэк1ын (to worry someone)"
   },
   {
-    "alternative form of \"ч1ылъэ\"": "ч1ылъ"
+    "to be anxious": "гумэк1ын"
   },
   {
-    "to fall on the ground": "ч1элъэтык1ьын"
+    "to be uneasy": "гумэк1ын"
   },
   {
-    "alternative form of \"ц1этхъун\"": "ец1этхъун"
-  },
-  {
-    "to sneeze": "ц1этхын"
-  },
-  {
-    "alternative form of \"ц1этхын\"": "мэц1этхын"
-  },
-  {
-    "to make someone sneeze": "гъэц1этхын"
-  },
-  {
-    "alternative form of \"п1эстхъэн\"": "мэп1эстхъэн"
-  },
-  {
-    "to make something slip/slide (on a surface that have a fraction like dirt, mud, wooden table and etc.)": "гъэцохъон"
-  },
-  {
-    "no": "хьа1"
-  },
-  {
-    "to affect deeply": "гъэгумэк1ын"
-  },
-  {
-    "to make someone worry": "гъэгумэк1ын"
-  },
-  {
-    "to be anxious/uneasy/worried (about), to become anxious (about)": "гумэк1ын"
+    "to be worried": "гумэк1ын"
   },
   {
     "anxiety": "гумэк1ыгъу"
   },
   {
-    "to make someone worry": "гъэго1эн"
+    "whole": "псэу"
   },
   {
-    "alternative form of \"мэго1эн\"": "го1эн"
+    "intact": "псэу"
   },
   {
-    "alternative form of \"гу1эн\"": "мэго1эн"
+    "entirely": "зэрэпсэоу; зэрэщытэу; зи хэмызэу (without dropping any), зи хэмык1эу (without reducing any); зи къэмынэу (without remaining any)"
   },
   {
-    "whole, intact": "псэу"
+    "fine": "псэу"
   },
   {
-    "fine, in good health, alright, on good condition": "псэу"
+    "alright": "псэу"
   },
   {
-    "(rare) health condition": "псэу"
-  },
-  {
-    "health condition": "псэуагъэ"
+    "health condition": "псэунгъэ"
   },
   {
     "wholeness": "псэуагъэ"
   },
   {
-    "alternative form of \"фэгу1эн\"": "фэго1эн"
+    "speed": "псынк1агъэ"
   },
   {
-    "speed, velocity": "псынк1агъэ"
+    "velocity": "псынк1агъэ"
   },
   {
-    "alternative form of \"къэгъэхъэн\"": "гъэхъэн"
+    "to teach": "егъэш1эн (to make someone know); егъэджэн (to teach someone)"
   },
   {
-    "to teach": "егъэджэн"
-  },
-  {
-    "to sew": "дын"
+    "to sew": "дэн (to be sewing); дын (to sew something)"
   },
   {
     "noon": "щэджагъо"
   },
   {
-    "after him/it, next": "иуж"
+    "next": "ыуж; ыужк1э; къык1элъык1орэ; ыужырэ"
+  },
+  {
+    "after him": "ыуж; ыужк1э; къык1элъык1орэ; ыужырэ"
+  },
+  {
+    "after it": "ыуж; ыужк1э; къык1элъык1орэ; ыужырэ"
   },
   {
     "family name, surname": "лъэкъуац1э"
@@ -14655,9 +14631,6 @@
   },
   {
     "to hurry": "тхъытхъын"
-  },
-  {
-    "to worry": "гу1эн"
   },
   {
     "alternative form of \"нэмык1\"": "нэмк1"
