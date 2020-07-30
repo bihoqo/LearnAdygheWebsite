@@ -963,9 +963,6 @@
     "plowed": "жъуагъэ"
   },
   {
-    "easy": "къолай"
-  },
-  {
     "oh my god": "апшъышъ"
   },
   {
@@ -1701,7 +1698,7 @@
     "to fall": "ебэджын (to fall on the ground); тебэджэн (to fall on something by slipping); ефэхын / къефэхын (to fall downward); едзыхын / къедзыхын (to fall downward); ет1эрэхын / къет1эрэхын (to drop downward); тет1эрын (to drop from); зэтефэн (to drop on each other); зэхэфэн (to drop into each other); ук1орэин"
   },
   {
-    "to drop": "къетк1ухын (to drip from); 1эк1эзын (to let go, to let slip); 1эпызын (to drop unintentionally); 1эпэт1эрын (to let slip unintentionally); къытезын (to drop from); къыпызын (to drop off a tree), къыпытэкъун (to drop from the tree around it); зэтефэн (to drop on each other); зэхэфэн (to drop into each other)"
+    "to drop": "1эпызын (to drop from the hand); къизын (to drop from inside something); къетк1ухын (to drip from); 1эк1эзын (to let go, to let slip); 1эпызын (to drop unintentionally); 1эпыт1эрын (to let slip unintentionally); къытезын (to drop from); къыпызын (to drop off a tree), къыпытэкъун (to drop from the tree around it); зэтефэн (to drop on each other); зэхэфэн (to drop into each other)"
   },
   {
     "to meet": "тефэн (to come across, to encounter coincidentally); 1ук1эн (to meet); пэгъок1ын (to welcome, to approach, to encounter intentionally)"
@@ -6972,9 +6969,6 @@
     "hair": "шъхьацы"
   },
   {
-    "brain": "куц1ы"
-  },
-  {
     "jaw": "жэпкъы"
   },
   {
@@ -9551,7 +9545,7 @@
     "to invite": "къегъэблэгъэн; къеджэн (to call someone to come)"
   },
   {
-    "hard": "пытэ (firm); (dialectal) къэпы (firm); къин (difficult); хьылъэ (difficult)"
+    "hard": "пытэ (firm); (dialectal) къэпы (firm); къин (difficult); хьылъэ (difficult); -гъуае (hard sufix)"
   },
   {
     "difficult": "къин; хьылъэ; онтэгъу (heavy burden)"
@@ -10373,7 +10367,7 @@
     "to be torn into pieces": "зэхэтэкъун"
   },
   {
-    "to fall apart": "зэхэтэкъун (to go to pieces); зэгоутын (to fall apart emotionally)"
+    "to fall apart": "зэхэон; зэхэтэкъун (to go to pieces); зэгоутын (to fall apart emotionally)"
   },
   {
     "to rive": "зэгоутын; зэгогъэк1ын"
@@ -11324,10 +11318,19 @@
     "to remove": "хэгъэк1ын (to remove someone/something from a group); хэдзын (to remove someone/something from a group); гъэуш1оин (to erase)"
   {,
   }
-    "to decrease": "хэгъэк1ын; гъэт1эк1ун (to make it little)"
+    "to decrease": "хэгъэк1ын; гъэт1эк1ун (to make it little); къыщыгъэк1эн (reduce)"
   },
   {
-    "to lower": "хэгъэк1ын (in amount)"
+    "to lower": "гъэшъхъын (in height); къегъэхын (to lower something); хэгъэк1ын (in amount); къыщыгъэк1эн (to reduce); гъэпыутын (to lower the price)"
+  },
+  {
+    "to diminish": "къыщыгъэк1эн; нахь мак1э ш1ын; хэгъэк1ын"
+  },
+  {
+    "to lessen": "къыщыгъэк1эн; нахь мак1э ш1ын; хэгъэк1ын"
+  },
+  {
+    "to reduce": "къыщыгъэк1эн; нахь мак1э ш1ын; хэгъэк1ын; гъэпыутын (to reduce the price)"
   },
   {
     "to take away": "1ухын (to take away); 1ущын (to take/lead a person away); техын (to take away from above something); ч1эхын (to take away from under something); дэхын (to take away from a defined area); ихын (to take away from inside something); гохын / бгъодэхын (to take away from besides something); къохын (to take away from behind something); пыхын (to take away from a hanger or tree); тещын (to take/lead a person away from above something); ч1эщын (to take/lead a person away from under something); дэщын (to take/lead a person away from a defined area); ищын (to take/lead a person away from inside something); гощын / бгъодэщын (to take/lead a person away from besides something); къощын (to take/lead a person away from behind something)"
@@ -11945,127 +11948,85 @@
     "boza": "махъсымэ"
   },
   {
-    "to fall apart (from inside)": "зэхэон"
+    "to install": "хэгъэуцон; хэутын"
   },
   {
-    "to install": "хэутын"
+    "to be patient": "зыгъэсамбырын; зыщэ1эн"
   },
   {
-    "to be patient": "зыщэ1эн"
+    "wide": "шъуамбгъо"
   },
   {
-    "wide, big width": "шъуамбгъо"
+    "big width": "шъуамбгъо"
   },
   {
-    "peel (The skin or outer layer of a fruit, vegetable, etc.)": "шъуамп1э"
+    "peel": "шъуамп1э"
   },
   {
-    "understanding": "гулъытэ"
+    "understanding": "зэхэш1ык1ыныр; гуры1о; гулъытэ"
   },
   {
-    "nothing": "зи"
+    "nothing": "зи; зыци; зыпари"
   },
   {
-    "nobody": "зи"
+    "nobody": "зи; зыми (ergative case)"
   },
   {
-    "alternative form of \"гукъэгъэк1ын\"": "гукъэгъэк1ьын"
+    "to remind": "гукъэгъэк1ын"
   },
   {
-    "to make someone remember something, to remind someone something": "гукъэгъэк1ын"
+    "to make forget": "щыгъэгъупщын"
   },
   {
-    "to make someone forget": "щыгъэгъупщын"
+    "to duck": "зыгъэшъхъын; зеуфэхын"
   },
   {
-    "alternative form of \"гъэшъыхъыгъ\"": "гъэшъхъэгъ"
+    "to crouch": "зыгъэшъхъын; къызэхэт1ысыхьан"
   },
   {
-    "to lower something": "гъэшъхъын"
+    "to confirm": "гъэшъыпкъэжьын; къэушыхьатын; къэгъэшъыпкъэн"
   },
   {
-    "to duck, to bend, to crouch": "згъэшъхъын"
+    "to fulfill": "гъэцэк1эжьын; гъэшъыпкъэжьын (to fulfill a promise)"
   },
   {
-    "to confirm": "гъэшъыпкъэжьын"
+    "to fall off": "пызын / къыпызын (to fall off from something); изын / къизын (to fall off from inside something); тезын / къытезын (to fall off from above something); ч1эзын / къыч1эзын (to fall off from under something)"
   },
   {
-    "to fulfill a promise, to fulfill objective,": "гъэшъыпкъэжьын"
+    "brain": "акъыл; куц1ы"
   },
   {
-    "alternative form of \"щтэн\"": "мэщтэн"
+    "to recover": "хъужьын"
   },
   {
-    "to make someone fear/afraid/scared, to intimidate someone, to scare someone": "гъэщтэн"
+    "to cure": "гъэхъужьын"
   },
   {
-    "to make someone fear/afraid/scared, to intimidate someone, to scare someone": "гъэщынэн"
+    "to be arrogant": "зыш1ош1ужьын"
   },
   {
-    "to slowly drop something unintentionally (from one's hand)": "1эпызын"
+    "to be haughty": "зыш1ош1ужьын"
   },
   {
-    "to drop something unintentionally (from one's hand)": "1эпыт1эрын"
+    "to think full of oneself": "зыш1ош1ужьын"
   },
   {
-    "alternative form of \"къизын\"": "къезын"
-  },
-  {
-    "to drop something from": "къизын"
-  },
-  {
-    "to drop something from": "изын"
-  },
-  {
-    "to make someone drop something (from one's hand)": "1эпыгъэзын"
-  },
-  {
-    "to make someone drop something (from one's hand)": "1эпыгъэт1эрын"
-  },
-  {
-    "to fall off from": "пызын"
-  },
-  {
-    "to fall off from": "пыт1эрын"
-  },
-  {
-    "alternative form of \"мэхьанэ\"": "мыхьэнэ"
-  },
-  {
-    "smart, intelligent": "акъыл"
-  },
-  {
-    "brain": "акъыл"
-  },
-  {
-    "to become healthy again, to become cured, to recover": "хъужьын"
-  },
-  {
-    "alternative form of \"хъужьын\"": "мэхъужьын"
-  },
-  {
-    "to make someone healthy again, to cure someone, to heal someone": "гъэхъужьын"
-  },
-  {
-    "to be arrogant; to be haughty, to think full of oneself": "зыш1ош1ужьын"
-  },
-  {
-    "easy": "1эш1эх"
-  },
-  {
-    "hard, difficult": "къины"
+    "easy": "1эш1эх; къолай; -гъош1у (easy suffix)"
   },
   {
     "hope": "гугъэ"
   },
   {
-    "to hope for": "гугъэн"
+    "to hope for": "щыгугъын"
   },
   {
-    "to rely on, to count on": "гугъэн"
+    "to rely on": "щыгугъын"
   },
   {
-    "to put afford in": "гугъэн"
+    "to count on": "щыгугъын"
+  },
+  {
+    "to put afford in": "егугъэн"
   },
   {
     "to strip, to peel, to skin, to flay, to flense": "гугъэн"
@@ -12126,12 +12087,6 @@
   },
   {
     "why": "сыда"
-  },
-  {
-    "alternative form of \"зыци\"": "зыцый"
-  },
-  {
-    "nothing": "зыци"
   },
   {
     "zero": "зыци"
@@ -14753,9 +14708,6 @@
     "to calm down": "самбырын"
   },
   {
-    "to be patient": "самбырын"
-  },
-  {
     "to stick to the (hot) surface as a result of burning": "естыл1эн"
   },
   {
@@ -15075,9 +15027,6 @@
   },
   {
     "alternative form of \"к1одыгъош1у\"": "к1одыжьыгъош1у"
-  },
-  {
-    "easy": "-гъош1у"
   },
   {
     "something or someone that is easy to lose": "к1одыгъош1у"
@@ -16917,9 +16866,6 @@
   },
   {
     "characteristic": "шэны"
-  },
-  {
-    "nothing": "зыпари"
   },
   {
     "satisfaction": "гухахъо"

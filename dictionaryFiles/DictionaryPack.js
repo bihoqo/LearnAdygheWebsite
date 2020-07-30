@@ -44285,6 +44285,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "to fulfill",
+        "examples": [
+          {
+            "sentence": "Уи1офыхэр '''бгъэцэк1эжьыных''' фаей"
+            "translation": "You need '''to fulfull''' your tasks."
+          }
+        ]
+      },
+	  {
         "meaning": "to repair; to fix; to mend",
         "examples": [
           {
@@ -59723,6 +59732,31 @@
     "ipa": "qəjɕən"
   },
   {
+    "word": "къыщыгъэк1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to diminish, to decrease, to lessen, to reduce",
+        "examples": [
+          {
+            "sentence": "Псынк1агъэм '''къыщыгъэк1эн'''",
+            "translation": "'''To reduce''' speed."
+          },
+		  {
+            "sentence": "К1алэм ышхырэм '''къыщигъэк1агъ'''",
+            "translation": "The boy '''reduced''' the amount he's eating."
+          },
+		  {
+            "sentence": "К1алэр еджэным '''къыщырегъак1э'''",
+            "translation": "The boy '''reduces''' his studying."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "qəjɕən"
+  },
+  {
     "word": "хэщыжьын",
     "lang": "Adyghe",
     "definitions": [
@@ -60098,7 +60132,7 @@
     "ipa": "ʁaʂəχən"
   },
   {
-    "word": "згъэшъхъын",
+    "word": "зыгъэшъхъын",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -60572,19 +60606,6 @@
         ]
       },
       {
-        "meaning": "to rely on, to count on",
-        "examples": []
-      },
-      {
-        "meaning": "to put afford in",
-        "examples": [
-          {
-            "sentence": "К1алэр иеджэн '''егугъэ''' экзамыным блэк1ышъун пае",
-            "translation": "The boy '''puts afford in''' his studies in order for him to pass the exam successfully."
-          }
-        ]
-      },
-      {
         "meaning": "to strip, to peel, to skin, to flay, to flense",
         "examples": [
           {
@@ -60598,12 +60619,17 @@
     "ipa": "ɡʷəʁan"
   },
   {
-    "word": "гугъун",
+    "word": "егугъун",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"гугъэн\"",
-        "examples": []
+        "meaning": "to put an afford in",
+        "examples": [
+          {
+            "sentence": "К1алэр иеджэн '''егугъу''' экзамыным блэк1ышъун пае",
+            "translation": "The boy '''puts afford in''' his studies in order for him to pass the exam successfully."
+          }
+        ]
       }
     ],
     "type": "verb",
