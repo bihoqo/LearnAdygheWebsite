@@ -639,7 +639,7 @@
     "brother": "шы"
   },
   {
-    "dog": "хьэ"
+    "dog": "хьэ; хьэжъ (Shapsug)"
   },
   {
     "sheep": "мэлы"
@@ -2085,7 +2085,7 @@
     "to feel hot": "фабэ пэн"
   },
   {
-    "to die": "л1эн; л1ык1ын (to die off something)"
+    "to die": "л1эн; л1ык1ын (to die off something); хэл1эхьан (to die in a war/forest); тел1эхьан (to die above something); ч1эл1эхьан (to die under something); ил1эхьан (to die inside something)"
   },
   {
     "wisp": "1оталъ"
@@ -4540,9 +4540,6 @@
   },
   {
     "to function": "лэжьэн"
-  },
-  {
-    "to kill": "ук1ын; гъэл1эн (to cause to die); хэук1ыхьан (to kill in a war/forest); (dialectal) гъэк1одын"
   },
   {
     "to drown": "ч1эбын"
@@ -7254,7 +7251,7 @@
     "merely": "ны1эп (only); къодый (simply)"
   },
   {
-    "to argue": "нэкъокъон; зэнэкъокъун / зэдэон (to argue with each other); пэгущы1эжьын (to argue back); пэ1ууцожьын (to go against); енэкъокъун (to argue with)"
+    "to argue": "нэкъокъон; зэнэкъокъун / зэдэон (to argue with each other); пэгущы1эжьын (to argue back); пэ1ууцожьын (to go against); енэкъокъун (to argue with someone)"
   },
   {
     "to compete": "зэпэчъэн; нэкъокъон; зэпеон"
@@ -8043,9 +8040,6 @@
     "to extend unexpectedly": "пхъон"
   },
   {
-    "to lie": "пц1ын; пц1ы усын; пс1ын (Shapsug)"
-  },
-  {
     "crane": "къарэу"
   },
   {
@@ -8128,9 +8122,6 @@
   },
   {
     "to attempt to": "1он"
-  },
-  {
-    "to try": "1он"
   },
   {
     "lurch": "къуащэ"
@@ -9737,7 +9728,7 @@
     "hospital": "сымэджэщ"
   },
   {
-    "to shave": "упсэн; упсын (to shave something)"
+    "to shave": "упсэн; упсын (to shave something); зыупсэн (to shave yourself)"
   },
   {
     "soup": "хьантхъупсы (millet soup); лэпсы; стырыпс"
@@ -10523,7 +10514,7 @@
     "to be fine with": "зэгъэн (to be fine); езэгъын (to be fine with someone); зэзэгъын (to be fine with each other); хэзэгъэн (to be fine among people)"
   },
   {
-    "to be pleased with": "гу е1ун; зэгъэн (to be pleased); езэгъын (to be pleased with someone); зэзэгъын (to be pleased with each other); хэзэгъэн (to be pleased among people)"
+    "to be pleased with": "гу е1ун; зэгъэн (to be pleased); езэгъын (to be pleased with someone); зэзэгъын (to be pleased with each other); хэзэгъэн (to be pleased among people); гопэн"
   },
   {
     "to be enough with": "зэгъэн (to be enough); езэгъын (to be enough with someone); зэзэгъын (to be enough with each other); хэзэгъэн (to be enough among people)"
@@ -11108,7 +11099,7 @@
     "to dehydrate": "гъун (to get dehydrated); гъэгъун"
   },
   {
-    "to lie": "щылъын (to be lying); телъын (to be lying on); ч1элъын (to be lying under); хэлъын (to be lying within some area with liquid, gas or solid); дэлъын (to be lying in); илъын (to be lying inside); къолъын (to be lying behind); голъын / бгъодэлъын (to be lying under); гъолъын (to lie down); тегъолъхьан (to lie down on something); ч1эгъолъхьан (to lie down under something); хэгъолъхьан (to lie down within an area with liquid, solid or gas); дэгъолъхьан (to lie down in); игъолъхьан (to lie down inside); гогъолъхьан / бгъодэгъолъхьан (to lie down besides); къогъолъхьан (to lie down behind)"
+    "to lie": "пц1ын (to speak falsehood); пц1ы усын (to speak falsehood); пс1ын (Shapsug, to speak falsehood); фэп1ын (to lie to someone); пц1ы фэусын (to lie to someone); щылъын (to be lying); телъын (to be lying on); ч1элъын (to be lying under); хэлъын (to be lying within some area with liquid, gas or solid); дэлъын (to be lying in); илъын (to be lying inside); къолъын (to be lying behind); голъын / бгъодэлъын (to be lying under); гъолъын (to lie down); тегъолъхьан (to lie down on something); ч1эгъолъхьан (to lie down under something); хэгъолъхьан (to lie down within an area with liquid, solid or gas); дэгъолъхьан (to lie down in); игъолъхьан (to lie down inside); гогъолъхьан / бгъодэгъолъхьан (to lie down besides); къогъолъхьан (to lie down behind)"
   },
   {
     "to lie down": "гъолъын (to lie down); тегъолъхьан (to lie down on something); ч1эгъолъхьан (to lie down under something); хэгъолъхьан (to lie down within an area with liquid, solid or gas); дэгъолъхьан (to lie down in); игъолъхьан (to lie down inside); гогъолъхьан / бгъодэгъолъхьан (to lie down besides); къогъолъхьан (to lie down behind)"
@@ -11630,265 +11621,148 @@
     "gift": "ш1ухьафтын"
   },
   {
-    "to be rolling": "джыджэн"
+    "to be rolling": "джыджэн; еджыджэхын (to roll down)"
   },
   {
-    "alternative form of \"джыджэн\"": "мэджыджэн"
-  },
-  {
-    "to roll to/from": "еджыджэхын"
-  },
-  {
-    "to roll": "гъэджыджэн"
+    "to roll": "джыджэн (to be rolling); гъэджыджэн (to roll something); еджыджэхын (to roll down); теджыджэн (to roll on); ч1эджыджэн (to roll under); хэджыджэн (to roll into an area with solid, liquid or gas); иджыджэн (to roll inside)"
   },
   {
     "burned": "стыгъэ"
   },
   {
-    "top": "к1ы1у"
+    "top": "к1ы1у; шъхьап (apex)"
+  },
+  {
+    "apex": "шъхьап"
   },
   {
     "surface": "к1ы1у"
   },
   {
-    "to carry to somewhere/someone": "хьын"
+    "to carry": "хьын; фэхьын (to carry for, to carry to); дэхьын (to take/carry something along"
   },
   {
-    "to try out something": "плъэк1ун"
+    "to try out": "плъэк1ун"
   },
   {
-    "to check, to examine": "плъэк1ун"
+    "to check": "плъэк1ун"
+  },
+  {
+    "to examine": "плъэк1ун"
   },
   {
     "to test": "плъэк1ун"
   },
   {
-    "alternative form of \"жэхэпк1эн\"": "джыхэпк1ьэн"
+    "to try": "1он; шэтэн"
   },
   {
-    "alternative form of \"къэсшъхьэпк1этын\"": "къэсшъхьэпк1ьэтын"
+    "to attempt": "1он; шэтэн"
   },
   {
-    "to kill someone": "гъэл1эн"
+    "to kill": "ук1ын; гъэл1эн (to cause to die); хиук1ыхьан (to kill in a war/forest); хэук1ыхьан (to be killed in a war/forest); (dialectal) гъэк1одын; гъэл1эн"
   },
   {
-    "thus, as a result, so, and that's why, and because of that": "арти"
+    "thus": "арти"
   },
   {
-    "alternative form of \"п1эрк1ьын\"": "мэп1эрк1ьын"
+    "as a result": "арти"
   },
   {
-    "alternative form of \"гъэп1орк1ын\"": "гъэп1эрк1ьын"
+    "so": "арти (thus); сыдэу (so much)"
   },
   {
     "to swing": "уфын"
   },
   {
     "steering wheel": "гъэзалъэ"
-  },
-  {
-    "alternative form of \"дэ1он\"": "мэдэ1он"
-  },
+  }, 
   {
     "to listen to": "едэ1ун"
   },
   {
-    "to listen and obey to": "едэ1ун"
+    "to come out": "къок1ын"
   },
   {
-    "to make someone listen to": "гъэдэ1он"
+    "Elbrus": "1уашъхьэмафэ"
   },
   {
-    "to make someone listen and obey to": "гъэдэ1он"
-  },
-  {
-    "to make someone hear something": "егъэ1ун"
-  },
-  {
-    "to have a dream to look forward to": "к1эхъопсын"
-  },
-  {
-    "to envy": "к1эхъопсын"
-  },
-  {
-    "alternative form of \"къок1ын\"": "къыкъок1ын"
-  },
-  {
-    "to come out (from a corner or from a hidden spot)": "къок1ын"
-  },
-  {
-    "alternative form of \"къок1ын\"": "къок1ьын"
-  },
-  {
-    "to go away": "1ук1ын"
-  },
-  {
-    "to go away": "1укьын"
-  },
-  {
-    "to make someone go away": "1угъэк1ын"
-  },
-  {
-    "to shave oneself": "зупсын"
-  },
-  {
-    "mountain r/Caucasus": "1уашъхьэмафэ"
-  },
-  {
-    "what again": "лъэужь"
-  },
-  {
-    "alternative form of \"гуш1уагъо\"": "гуш1уагъэ"
+    "what again": "л1эужь"
   },
   {
     "wedding": "нысащэ"
   },
   {
-    "Marriage party": "нысэщэджэгу"
+    "marriage party": "нысэщэ джэгу"
   },
   {
-    "beauty": "тхьэ1офыт"
+    "wedding party": "нысэщэ джэгу"
   },
   {
-    "angel": "тхьэ1офыт"
+    "angel": "мэлэ1ич; тхьэ1офыт"
   },
   {
-    "accordionist, a person that plays accordion": "пщынао"
+    "accordionist": "пщынао"
   },
   {
     "accordion": "пщынэ"
   },
   {
-    "dog (Shapsug dialect)": "хьэжъ"
-  },
-  {
-    "to argue with someone": "енэкъокъун"
-  },
-  {
-    "alternative form of \"ц1эц1эн\"": "мэц1эц1эн"
-  },
-  {
-    "alternative form of \"тец1эц1эн\"": "тэц1эц1эн"
-  },
-  {
-    "alternative form of \"с1эс1эн\"": "мэс1эс1эн"
-  },
-  {
-    "alternative form of \"тэц1эц1эн\"": "тэс1эс1эн"
-  },
-  {
-    "to yell": "ц1эц1эн"
-  },
-  {
-    "alternative form of \"ц1эц1эн\"": "с1эс1эн"
-  },
-  {
-    "to deceive someone": "гъэпц1эн"
-  },
-  {
-    "to lie": "пц1ын"
-  },
-  {
-    "alternative form of \"пц1ын\"": "мэпц1ын"
-  },
-  {
-    "to lie to someone": "фэпц1ын"
-  },
-  {
-    "anything else than, something additional than": "ехъурэ"
-  },
-  {
-    "alternative form of \"пц1ын\"": "пс1ын"
-  },
-  {
-    "alternative form of \"гъэпц1эн\"": "гъэпс1эн"
-  },
-  {
-    "alternative form of \"фэпц1ын\"": "фэпс1ын"
-  },
-  {
-    "alternative form of \"нэкъокъон\"": "мэнэкъокъон"
+    "additional": "ехъурэ"
   },
   {
     "to shuck": "дзуцон"
   },
   {
-    "bottom": "ч1э"
+    "bottom": "ых (buttom of); ч1э (bottom ground)"
   },
   {
-    "alternative form of \"ебгын\"": "бгэн"
+    "tiptoe": "лъэпэпц1ый; лъэпапц1э; (Shapsug) лъэпэпс1ый"
   },
   {
-    "tiptoe": "лъэпапц1э"
+    "glove": "1эбыцу; 1алъ"
   },
   {
-    "glove": "1эбыцу"
+    "mitten": "1эбыцу; 1алъ"
   },
   {
-    "mitten": "1эбыцу"
+    "second": "секунд (second time); нэугъэуп1эп1эгъу (second time); ят1унэрэ (second place)"
   },
   {
-    "second": "нэугъэуп1эп1эгъу"
+    "to blink": "уп1эп1эн; гъэуп1эп1эн"
   },
   {
-    "to blink": "гъэуп1эп1эн"
+    "to be glad": "гопэн"
   },
   {
-    "to blink": "уп1эп1эн"
+    "to accelerate": "к1и1эн; к1итхъун; нахь гъэпсынк1эн"
   },
   {
-    "alternative form of \"пк1ант1э\"": "пк1ат1э"
+    "to dash": "к1и1эн; к1итхъун"
   },
   {
-    "to be pleased with, to be glad that": "гопэн"
+    "to scurry": "к1и1эн; к1итхъун"
   },
   {
-    "to accelerate": "ч1итхъун"
+    "to stupefy": "къын (to get stupefied); гъэкъын (to stupefied)"
   },
   {
-    "alternative form of \"къын\"": "мэкъын"
+    "to petrify": "къын (to become petrified); гъэкъын (to stupefied)"
   },
   {
-    "to be totally frozen (Kfar Kama dialect)": "хэкъэхьын"
+    "midstream": "псыгу"
   },
   {
-    "to get stupefied": "къын"
+    "sailor": "къошъол1ы"
   },
   {
-    "to get frozen with terror": "къын"
+    "seaman": "къошъол1ы"
   },
   {
-    "to turn into a stone": "къын"
+    "bay": "хыблыгу"
   },
   {
-    "to become petrified": "къын"
-  },
-  {
-    "(Kfar Kama dialect) to be frozen": "къын"
-  },
-  {
-    "to make someone or something into a stone": "гъэкъын"
-  },
-  {
-    "to freeze (Kfar Kama dialect)": "гъэкъын"
-  },
-  {
-    "island": "псыгу"
-  },
-  {
-    "mast": "анезечъыг"
-  },
-  {
-    "harbour": "кутлэ"
-  },
-  {
-    "sailor, seaman": "къошъол1ы"
-  },
-  {
-    "bay, inlet": "хыблыгу"
-  },
-  {
-    "rudder": "къошъоч1эгъаз"
+    "rudder": "хьашъо"
   },
   {
     "lighthouse": "къошъомэзэжъый"
@@ -11897,10 +11771,19 @@
     "boatman": "къошъофы"
   },
   {
-    "shipwright, shipbuilder": "къошъош1ы"
+    "ferryman": "къошъофы"
   },
   {
-    "half-island, peninsula": "хыгъэхъунэныкъу"
+    "shipwright": "къухьэш1; къошъош1"
+  },
+  {
+    "shipbuilder": "къухьэш1; къошъош1"
+  },
+  {
+    "half-island": "хыгъэхъунэныкъу"
+  },
+  {
+    "peninsula": "хыгъэхъунэныкъу"
   },
   {
     "foreign country, abroad, overseas": "хырык1"
@@ -14069,9 +13952,6 @@
     "to appear suddenly and surprisingly": "къозын"
   },
   {
-    "to freeze": "гъэщтын"
-  },
-  {
     "alternative form of \"щтын\"": "мэщтын"
   },
   {
@@ -14646,9 +14526,6 @@
   },
   {
     "composer": "орэдус"
-  },
-  {
-    "to lie": "пц1ы усын"
   },
   {
     "liar": "пц1ыус"
@@ -19530,9 +19407,6 @@
   },
   {
     "to harden": "чъын"
-  },
-  {
-    "to freeze": "чъын"
   },
   {
     "to run across": "зэпырычъын"

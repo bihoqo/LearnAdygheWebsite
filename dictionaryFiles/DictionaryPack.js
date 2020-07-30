@@ -56552,7 +56552,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to roll to/from",
+        "meaning": "to roll down",
         "examples": [
           {
             "sentence": "Мыжъор 1уашъхьэм '''еджыджэхы'''",
@@ -57005,7 +57005,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to long for, to miss someone (To feel the absence of someone or something)",
+        "meaning": "to long for, to miss someone (to feel the absence of someone or something)",
         "examples": [
           {
             "sentence": "Пшъашъэр иянэ '''к1эхъопсы'''",
@@ -57046,7 +57046,7 @@
         ]
       },
       {
-        "meaning": "to have a dream to look forward to",
+        "meaning": "to have a dream/goat to look forward to",
         "examples": [
           {
             "sentence": "Летчикы хъуным ар '''кIэхъопсы'''",
@@ -57164,42 +57164,6 @@
     "ipa": "ʔʷat͡ʃʼən"
   },
   {
-    "word": "1укьын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to go away",
-        "examples": [
-          {
-            "sentence": "'''1укьы 1укьы''' мыу",
-            "translation": "'''Go away go away''' from here."
-          },
-          {
-            "sentence": "Пшъашъэр чъыгым '''1укьыжьэгъ'''",
-            "translation": "The girl '''gone away''' from the tree."
-          },
-          {
-            "sentence": "Мыу '''шъу1укьы'''",
-            "translation": "'''Go away!''' from here (said to plural)."
-          },
-          {
-            "sentence": "К1алэр анэм '''1укьыщтэп'''",
-            "translation": "The boy '''will not go away''' from the table."
-          },
-          {
-            "sentence": "Л1ыжъыхэр '''1укьых'''",
-            "translation": "The old men '''are going away'''."
-          }
-        ]
-      }
-    ],
-    "synonyms": [
-      "1ук1ын"
-    ],
-    "type": "verb",
-    "ipa": "ʔʷakʲən"
-  },
-  {
     "word": "1угъэк1ын",
     "lang": "Adyghe",
     "definitions": [
@@ -57240,7 +57204,7 @@
     "ipa": "ʔʷaʁat͡ʃʼən"
   },
   {
-    "word": "зупсын",
+    "word": "зыупсын",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -57251,7 +57215,7 @@
             "translation": "The boy '''is shaving himself'''."
           },
           {
-            "sentence": "'''Зыупсы'''",
+            "sentence": "'''Зыупс'''",
             "translation": "'''Shave yourself'''."
           }
         ]
@@ -57278,29 +57242,29 @@
     "ipa": "ʔʷaːʂħamaːfa"
   },
   {
-    "word": "лъэужь",
+    "word": "л1эужь",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "what again",
+        "meaning": "(Shapsug) what again",
         "examples": [
           {
-            "sentence": "'''лъэужь''' уис1э?",
+            "sentence": "'''Л1эужь''' уиц1э?",
             "translation": "'''what''' is your name '''again'''?"
           },
           {
-            "sentence": "'''лъэужь''' уш1эрэ?",
+            "sentence": "'''Л1эужь''' пш1эрэ?",
             "translation": "'''what''' are you doing '''again'''?"
           },
           {
-            "sentence": "'''лъэужь''' у1орэ?",
+            "sentence": "'''Л1эужь''' у1орэ?",
             "translation": "'''what''' are you saying '''again'''?"
           }
         ]
       }
     ],
     "type": "pron",
-    "ipa": "ɬawəʑ"
+    "ipa": "ɬʼawəʑ"
   },
   {
     "word": "гуш1уагъэ",
@@ -57759,23 +57723,11 @@
     "ipa": "manaqʷaqʷan"
   },
   {
-    "word": "дзуцон",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to shuck",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "d͡zʷət͡sʷan"
-  },
-  {
     "word": "ч1э",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "bottom",
+        "meaning": "bottom ground",
         "examples": []
       }
     ],
@@ -57956,31 +57908,64 @@
     "ipa": "ɡʷapan"
   },
   {
-    "word": "ч1итхъун",
+    "word": "к1итхъун",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to accelerate",
+        "meaning": "to accelerate; to scurry; to dash",
         "examples": [
           {
-            "sentence": "К1алэм '''ч1етхъу'''",
-            "translation": "The boy '''is accelerating'''."
+            "sentence": "К1алэм '''к1етхъу'''",
+            "translation": "The boy '''is scurrying'''."
           },
           {
-            "sentence": "К1алэм кумк1э '''ч1итхъогъ'''",
+            "sentence": "К1алэм кумк1э '''к1итхъугъ'''",
             "translation": "The boy '''accelerated''' with the car."
           },
           {
-            "sentence": "'''Ч1этхъу!'''",
+            "sentence": "'''К1этхъу!'''",
             "translation": "'''Accelerate!'''"
           },
           {
-            "sentence": "Кум '''зч1итхъушъурэп'''",
+            "sentence": "Кум '''зык1итхъушъурэп'''",
             "translation": "The car '''can't accelerate'''"
           },
           {
-            "sentence": "А к1алэхэмэ салъэгъугъэу '''зч1атхъугъэ'''",
-            "translation": "The boys '''accelerated''' once they saw me."
+            "sentence": "А к1алэхэмэ зэралъэгъоу '''зык1атхъугъ'''",
+            "translation": "The boys '''dashed away''' once they saw me."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃʼəjtχʷən"
+  },
+  {
+    "word": "к1и1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to accelerate; to scurry; to dash",
+        "examples": [
+          {
+            "sentence": "К1алэм '''к1етхъу'''",
+            "translation": "The boy '''is scurrying'''."
+          },
+          {
+            "sentence": "К1алэм кумк1э '''к1итхъугъ'''",
+            "translation": "The boy '''accelerated''' with the car."
+          },
+          {
+            "sentence": "'''К1этхъу!'''",
+            "translation": "'''Accelerate!'''"
+          },
+          {
+            "sentence": "Кум '''зык1итхъушъурэп'''",
+            "translation": "The car '''can't accelerate'''"
+          },
+          {
+            "sentence": "А к1алэхэмэ зэралъэгъоу '''зык1атхъугъ'''",
+            "translation": "The boys '''dashed away''' once they saw me."
           }
         ]
       }
@@ -58109,7 +58094,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "island",
+        "meaning": "midstream (the middle of a stream or river)",
         "examples": []
       }
     ],
@@ -58162,12 +58147,24 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "bay (in coast), inlet",
+        "meaning": "bay (in coast)",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "xəbləɡʷ"
+  },
+  {
+    "word": "т1уалэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "inch",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "tʷʼaːɮa"
   },
   {
     "word": "къошъоч1эгъаз",
@@ -58209,16 +58206,28 @@
     "ipa": "qʷaʂʷafə"
   },
   {
-    "word": "къошъош1ы",
+    "word": "къухьэш1",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "shipwright, shipbuilder",
+        "meaning": "shipwright; shipbuilder",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "qʷaʂʷaʃˈə"
+    "ipa": "qʷəʂʷaʃʼ"
+  },
+  {
+    "word": "къошъош1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "shipwright; shipbuilder",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "qʷaʂʷaʃʼ"
   },
   {
     "word": "хыгъэхъунэныкъу",
@@ -84829,6 +84838,18 @@
     ],
     "type": "prefix",
     "ipa": "t͡ʂħaːda"
+  },
+  {
+    "word": "шъхьап",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "apex (the highest or the greatest point of something)",
+        "examples": [],
+      }
+    ],
+    "type": "prefix",
+    "ipa": "ʂħaːp"
   },
   {
     "word": "шъхьапыры-",
