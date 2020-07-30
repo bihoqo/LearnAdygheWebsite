@@ -59013,7 +59013,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to slip/slide (on a surface that have a fraction like dirt, mud, wooden table and etc.) (Usually objects)",
+        "meaning": "to slip/slide (on a rought surface that have a fraction like dirt, mud, wooden table and etc.)",
         "examples": [
           {
             "sentence": "Ку '''мэцуахъо'''",
@@ -59632,14 +59632,14 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to pull someone from, to take someone out of, to drag someone out of",
+        "meaning": "to pull someone out of, to take someone out of, to drag someone out of",
         "examples": [
           {
             "sentence": "Уишы псым '''хэщ'''",
-            "translation": "'''Pull''' your brother from the water."
+            "translation": "'''Pull''' your brother out of the water."
           },
           {
-            "sentence": "1эгуаор псынэм '''къыхащыжьэгъ'''",
+            "sentence": "1эгуаор псынэм '''къыхащыжьыгъ'''",
             "translation": "They '''pulled''' the ball '''from''' the well."
           },
           {
@@ -59647,7 +59647,7 @@
             "translation": "'''Take me out of''' the forest."
           },
           {
-            "sentence": "Хъулъфыгъэ мэк1одыгъэр зыгорэм мэзым '''херэщыжь'''",
+            "sentence": "Хъулъфыгъэ к1одыгъэр зыгорэм мэзым '''херэщыжь'''",
             "translation": "Someone '''bring''' the man that was lose in the forest."
           },
           {
@@ -59657,11 +59657,36 @@
         ]
       },
       {
-        "meaning": "to exempt someone from",
-        "examples": []
-      },
+        "meaning": "to start having a certain habit",
+        "examples": [
+          {
+            "sentence": "А шэн 1ае '''хэпщыжьыгъа?'''",
+            "translation": "'''Did you started having''' that bad '''habit again'''?"
+          },
+          {
+            "sentence": "Сэ тутын сешъоу '''хэсщыжьыгъ'''",
+            "translation": "'''I started''' smoking '''again'''."
+          },
+          {
+            "sentence": "Видио джэгухэр '''хэсщыгъэх'''",
+            "translation": "'''I started playing''' video games."
+          },
+          {
+            "sentence": "Псы псынк1эу уешъоу '''къыхэмыщ'''",
+            "translation": "'''Don't start having the habit of''' drinking water fast."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "xaɕən"
+  },
+  {
+    "word": "къыхэщын",
+    "lang": "Adyghe",
+    "definitions": [
       {
-        "meaning": "to stick out (to be noticeable, to be prominent)",
+        "meaning": "to stand out; to stick out; to be noticeable; to be prominent",
         "examples": [
           {
             "sentence": "Ц1ыфымэ к1алэ шъхьэц гъожьы зи1эр '''къахэщы'''",
@@ -59674,27 +59699,6 @@
           {
             "sentence": "Уцыхэм '''уакъхэщы'''",
             "translation": "'''You stick out''' in the plants."
-          }
-        ]
-      },
-      {
-        "meaning": "to start having a certain habit",
-        "examples": [
-          {
-            "sentence": "А шэн 1ае '''хэпщыжьыгъа?'''",
-            "translation": "'''Did you started having''' that bad behaving '''habit again'''?"
-          },
-          {
-            "sentence": "Сэ тутын сешъоу '''хэсщыжьэгъ'''",
-            "translation": "'''I started''' smoking '''again'''."
-          },
-          {
-            "sentence": "Видио джэгухэр '''хэсщыгъэх'''",
-            "translation": "'''I started playing''' video games."
-          },
-          {
-            "sentence": "Псы псынк1эу уешъоу '''къыхэмыщ'''",
-            "translation": "'''Don't start having the habit of''' drinking water fast."
           },
           {
             "sentence": "'''Къыхэщы''' уиджанэ т1эк1у зэрэш1оир",
@@ -59704,7 +59708,19 @@
       }
     ],
     "type": "verb",
-    "ipa": "xaɕən"
+    "ipa": "qəxaɕən"
+  },
+  {
+    "word": "къищын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to stick out (from inside something)",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "qəjɕən"
   },
   {
     "word": "хэщыжьын",

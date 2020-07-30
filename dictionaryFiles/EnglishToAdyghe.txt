@@ -1422,7 +1422,7 @@
     "dagger": "къамэ"
   },
   {
-    "light": "нэфнэ; нэфы"
+    "light": "нэфнэ; нэфы; псынк1э (lightweight); (Shapsug) псык1э (lightweight)"
   },
   {
     "pen": "къэлэм"
@@ -2271,7 +2271,10 @@
     "whenever": "сыдигъок1и"
   },
   {
-    "to slide": "ечъэхын; егъэчъэхын (to slide someone or something down); ец1эшъутэхын; егъэц1эшъутэхын (to slide someone or something down)"
+    "to slide": "ц1эшъутэн (to slip, to slide on a slippery surface); цохъон (to slide on a rough surface); ечъэхын (to slide down); егъэчъэхын (to slide someone or something down)"
+  },
+  {
+    "to slide down": "ечъэхын (to slide down); егъэчъэхын (to slide someone or something down); ец1эшъутэхын (to slide down on a slippery surface); егъэц1эшъутэхын (to slide someone or something down on a slippery surface); ецохъохын (to slide down on a rough surface); егъэцохъохын (to slide someone or something down on a rough surface)"
   },
   {
     "to insult": "ушъхьэк1ун; шъхьак1о ехын; егъэчъэхын; 1аеу дэгущы1эн"
@@ -6162,9 +6165,6 @@
     "nimble": "псынк1э; псык1э (Shapsug)"
   },
   {
-    "light": "псынк1э; псык1э (Shapsug)"
-  },
-  {
     "firebrand": "жъоку"
   },
   {
@@ -7839,9 +7839,6 @@
     "bright": "нэф; нэфын; джэфы (bright color)"
   },
   {
-    "light": "нэф; нэфын"
-  },
-  {
     "foreleg": "ш1уалъэ; лъэкъуипл1 зи1э псэушъхьэм ыпэрэ лъакъохэр ары"
   },
   {
@@ -8802,7 +8799,7 @@
     "painted": "гъэлагъэ"
   },
   {
-    "wrong": "мыхъо-мыш1; мытэрэз; тэрэзыдж"
+    "wrong": "1онт1агъ; мыхъо-мыш1 (bad deed); мытэрэз; тэрэзыдж"
   },
   {
     "singer": "орэды1у; орэда1у (Shapsug)"
@@ -11216,9 +11213,6 @@
     "to trip": "лъэпэон; лъэпэш1оон; ш1онэн"
   },
   {
-    "to slip": "ц1эшъутэн (to slide on a surface floor); (in some dialects) ц1энлъэн"
-  },
-  {
     "fortune teller": "джэнчыдз"
   },
   {
@@ -11828,7 +11822,7 @@
     "sometime": "зыуахътэ (at an indefinite but stated time in the past or future); загъорэ (sometimes)"
   },
   {
-    "to bend down": "зыуфэн; зеуфэхын"
+    "to bend down": "зыуфэн; зеуфэхын; зегъэзыхын"
   },
   {
     "to lean": "егъэк1ын (to lean something against); тегъэк1эн (to lean something on); зегъэк1ын (to lean against); зытегъэк1эн (to lean on); зытещэен"
@@ -11864,118 +11858,91 @@
     "stove": "хьаку"
   },
   {
-    "to slide": "ец1эшъутэхын"
+    "to slip": "ц1эшъутэн (to slide on a slippery surface); цохъон (to slide on a rough surface); (In some dialects) ц1энлъэн"
   },
   {
-    "to slip/slide (on a surface that have a fraction like dirt, mud, wooden table and etc.) (Usually objects)": "цохъон"
+    "to be up for": "фитын"
   },
   {
-    "alternative form of \"цохъон\"": "мэцохъон"
+    "to be willing to": "фитын"
   },
   {
-    "alternative form of \"цохъон\"": "чъохъон"
-  },
-  {
-    "to be up for, to be willing to participate in": "фитын"
-  },
-  {
-    "to be allowed; to": "фитын"
-  },
-  {
-    "light": "нэфы"
+    "to be allowed": "фитын"
   },
   {
     "bookstore": "тхылъыщэ"
   },
   {
-    "to fall down from": "къефэхын"
+    "to fall down": "къефэхын; къедзэхын; (Shapsug) къет1эрэхын"
   },
   {
-    "to fall down from": "къет1эрэхын"
-  },
-  {
-    "to drip from": "къетк1ухын"
-  },
-  {
-    "alternative form of \"тек1утэн\"": "тэк1утэн"
+    "to come down": "ехын / къехын; ыхэ ехын"
   },
   {
     "to spill liquid on": "тек1эн"
   },
   {
-    "alternative form of \"тек1эн\"": "тек1ьэн"
+    "to get hurt": "гухэк1ын"
   },
   {
-    "to get hurt (emotionally)": "гухэк1ын"
+    "to upset": "гухэгъэк1ын (to upset someone); нэшхъэй хъугъэ (to get upset)"
   },
   {
-    "to make someone upset, to make someone sad": "гухэгъэк1ын"
+    "to make sad": "гухэгъэк1ын; нэшхъэеу ш1ын"
   },
   {
-    "curve, crooked (Set at an angle, not vertical or square)": "1онтагъ"
+    "unhuppy": "чэфынчъэ; нэшхъэй"
   },
   {
-    "curve, crooked (Not straight; having one or more bends or angles)": "1онтагъ"
+    "to sadden": "гухэгъэк1ын; нэшхъэеу ш1ын; гъэчэфынчъэн; гъэнэшхъэин"
   },
   {
-    "incorrect, wrong": "1онтагъ"
+    "incorrect": "1онтагъ; мытэрэз"
   },
   {
-    "to dry (something that should not be wet such as clothes, roads, body parts); to dry up": "гъушъын"
+    "to stumble": "лъэпэон; лъэпэш1оон; ш1онэн"
   },
   {
-    "alternative form of \"лъэпэон\"": "елъэпэон"
+    "to dust": "сэпэон"
   },
   {
-    "to stumble (over)": "лъэпэон"
+    "to remove dust": "сэпэон"
   },
   {
-    "alternative form of \"сэпэон\"": "есэпэон"
+    "to drag out": "хэлъэшъун"
   },
   {
-    "to dust (To remove dust; to clean by removing dust)": "сэпэон"
+    "to stand out": "къыхэщын (to stand out from among other people or objects)"
   },
   {
-    "very mean, very cruel, evil, villain, vile": "ц1эп1эжъ"
+    "to stick out": "къыхэщын; къищын (to stick out from inside something); къыч1эщын (to stick out from under something); къытещын (to stick out from above something); къыпыщын (to stick out from a tree); къыкъощын (to stick out from behind something)"
   },
   {
-    "very naughty (Usually said to kids)": "ц1эп1эжъ"
+    "to be prominent": "къыхэщын"
   },
   {
-    "to take out": "хэщын"
+    "to be noticeable": "къыхэщын"
   },
   {
-    "to drag out": "хэщын"
+    "noticeable": "къыхэщы"
   },
   {
-    "to exempt someone from": "хэщын"
+    "prominent": "къыхэщы"
   },
   {
-    "to stick out (to be noticeable, to be prominent)": "хэщын"
+    "obtrusive": "къыхэщы"
   },
   {
-    "to start having a certain habit": "хэщын"
+    "melody": "мэкъамэ"
   },
   {
-    "alternative form of \"хэщын\"": "хэщыжьын"
-  },
-  {
-    "to take someone to": "хэщэн"
-  },
-  {
-    "to drag someone into": "хэщэн"
-  },
-  {
-    "melody, tune": "мэкъамэ"
+    "tune": "мэкъамэ"
   },
   {
     "intonation": "мэкъамэ"
   },
   {
-    "a Circassian alcoholic drink (Circassian boza)": "махъсымэ"
-  },
-  {
-    "to explode": "къэон"
+    "boza": "махъсымэ"
   },
   {
     "to fall apart (from inside)": "зэхэон"
