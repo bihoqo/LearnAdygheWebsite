@@ -19872,7 +19872,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "baby carriage, stroller, perambulator, pram",
+        "meaning": "alternative form of \"курэжъые\"",
         "examples": []
       }
     ],
@@ -22308,6 +22308,66 @@
     ],
     "type": "noun",
     "ipa": "bətə"
+  },
+  {
+    "word": "тхыщэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "someone with a curved spine",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "txəɕa"
+  },
+  {
+    "word": "бгыщэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "someone with a curved waist",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "tɣəɕa"
+  },
+  {
+    "word": "щын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to be bended; to be curved; to be crooked",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ɕən"
+  },
+  {
+    "word": "уфэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to bend",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "wəfan"
+  },
+  {
+    "word": "гъэщын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to bend; to curve; to crook",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʁaɕən"
   },
   {
     "word": "быун",
@@ -26221,10 +26281,26 @@
       {
         "meaning": "anvil",
         "examples": []
-      },
+      }
     ],
     "type": "noun",
     "ipa": "sənd͡ʒ"
+  },
+  {
+    "word": "тхыбы1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "humpbacked; hunchbacked",
+        "examples": []
+      },
+	  {
+        "meaning": "humpy",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "txəbəʔʷ"
   },
   {
     "word": "ехъунк1ын",
@@ -58246,12 +58322,12 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "foreign country, abroad, overseas",
+        "meaning": "overseas",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "xərət͡ʃ"
+    "ipa": "xərət͡ʃʼ"
   },
   {
     "word": "къухьэт1ысып1",
@@ -58276,22 +58352,6 @@
     ],
     "type": "noun",
     "ipa": "xəsəd͡ʒ"
-  },
-  {
-    "word": "сыдж",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "anvil",
-        "examples": []
-      },
-      {
-        "meaning": "crest",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "səd͡ʒ"
   },
   {
     "word": "анезе",
@@ -58322,7 +58382,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "storm",
+        "meaning": "(strong) gale",
         "examples": []
       }
     ],
@@ -58340,18 +58400,6 @@
     ],
     "type": "noun",
     "ipa": "ʁʷərz"
-  },
-  {
-    "word": "зэок1окъуашъу",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "galley",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "zawkʷʼaqʷaʂʷə"
   },
   {
     "word": "псыкъефэх",
@@ -58490,7 +58538,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be remained, to be left",
+        "meaning": "to be remained, to be left (leftovers)",
         "examples": [
           {
             "sentence": "К1алэр изакъоу '''къэнагъ'''",
@@ -58535,7 +58583,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to leave something (to cause or allow (something) to remain as available)",
+        "meaning": "to leave something (to cause or allow something to remain as available); to leave remainings; to remain leftovers",
         "examples": [
           {
             "sentence": "К1алэм псы '''къегъанэ'''",
@@ -58576,11 +58624,7 @@
         ]
       },
       {
-        "meaning": "to leave someone, to leave alone someone",
-        "examples": []
-      },
-      {
-        "meaning": "to abandon someone",
+        "meaning": "to leave someone, to leave someone alone",
         "examples": []
       }
     ],
@@ -58589,6 +58633,27 @@
     ],
     "type": "verb",
     "ipa": "qaʁanan"
+  },
+  {
+    "word": "зыуахътэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "sometime (at an indefinite but stated time in the past or future)",
+        "examples": [
+          {
+            "sentence": "'''Зыуахътэк1э''' къещхыщтыгъ бэрэ",
+            "translation": "'''Sometime''' it used to rain a lot."
+          },
+		  {
+            "sentence": "'''Зыуахътэк1э''' къысэк1угъ, бэрэ сычъэу",
+            "translation": "A '''time''' came to me in which I used to run a lot."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zəwaːχta"
   },
   {
     "word": "щык1эгъэн",
@@ -58690,6 +58755,57 @@
     "ipa": "zeʁat͡ʃʼən"
   },
   {
+    "word": "зытегъэк1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to lean on something",
+        "examples": [
+          {
+            "sentence": "К1алэр чъыгым '''зытегъак1э'''",
+            "translation": "The boy '''leaning on''' the tree."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zətajʁat͡ʃʼan"
+  },
+  {
+    "word": "зеуфэхын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to bend down; to bow",
+        "examples": [
+          {
+            "sentence": "Ащ '''зиуфэхи''' тхылъып1эр къыштагъ",
+            "translation": "(S)he '''bowed''' and grabbed paper."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zətajʁat͡ʃʼan"
+  },
+  {
+    "word": "зыуфэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to bend down; to bow",
+        "examples": [
+          {
+            "sentence": "Ащ '''зиуфи''' тхылъып1эр къыштагъ",
+            "translation": "(S)he '''bowed''' and grabbed paper."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zəwfab"
+  },
+  {
     "word": "курэжъые",
     "lang": "Adyghe",
     "definitions": [
@@ -58722,7 +58838,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "dangerous",
+        "meaning": "alternative form of \"щынагъо\"",
         "examples": []
       }
     ],
@@ -58823,18 +58939,6 @@
     "ipa": "təʁazeʁawpʼa"
   },
   {
-    "word": "удзуцон",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to shuck",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "wd͡zʷət͡sʷan"
-  },
-  {
     "word": "лъэбэкъу",
     "lang": "Adyghe",
     "definitions": [
@@ -58845,18 +58949,6 @@
     ],
     "type": "noun",
     "ipa": "ɬabaqʷ"
-  },
-  {
-    "word": "пхъэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to sow",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "pχan"
   },
   {
     "word": "хьаку",

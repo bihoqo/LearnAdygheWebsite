@@ -2271,7 +2271,7 @@
     "whenever": "сыдигъок1и"
   },
   {
-    "to slide": "ебгъэчэхын"
+    "to slide": "ечъэхын; егъэчъэхын (to slide someone or something down); ец1эшъутэхын; егъэц1эшъутэхын (to slide someone or something down)"
   },
   {
     "to insult": "ушъхьэк1ун; шъхьак1о ехын; егъэчъэхын; 1аеу дэгущы1эн"
@@ -3207,9 +3207,6 @@
     "deserted": "нэк1ы; унэк1ыгъэ"
   },
   {
-    "to abandon": "бгынэн"
-  },
-  {
     "to leave": "бгынэн (to abandon/desert); ик1ын (to go out); ик1ыжьын (to leave the house/family); пык1ыжьын (to divorce); хэк1ын (to leave a company or group); къинэн (to leave something behind)"
   },
   {
@@ -3729,7 +3726,7 @@
     "corn": "натрыф"
   },
   {
-    "bay": "хыблыгу (in coast); пц1эгъоплъ (horse)"
+    "bay": "хыблыгу (in coast); хыт1уал (in coast); пц1эгъоплъ (horse)"
   },
   {
     "trust": "цыхьэ; цэхь (Shapsug)"
@@ -5113,15 +5110,6 @@
   },
   {
     "braided": "благъэ"
-  },
-  {
-    "humpy": "быты"
-  },
-  {
-    "hunchbacked": "быты"
-  },
-  {
-    "humpbacked": "быты"
   },
   {
     "too moo": "быун"
@@ -7266,7 +7254,7 @@
     "insect": "хьац1э-п1ац1э"
   },
   {
-    "to bow": "шъхьащэ фэш1ын"
+    "to bow": "зыуфэн; зеуфэхын; шъхьащэ фэш1ын (to bow down to)"
   },
   {
     "school": "еджап1э"
@@ -7683,10 +7671,10 @@
     "to stay": "къы1унэн (to stay behind); исын; илъын (to stay overnight)"
   },
   {
-    "to remain": "къы1унэн (to remain behind); къинэн (to remian inside)"
+    "to remain": "къы1унэн (to remain behind); къинэн (to remian inside); къэнэн (leftover); гъэкъэнэн (to leave remaining)"
   },
   {
-    "to leave": "къы1унэн (to remain behind); къинэн (to remian inside); къигъэнэн (to leave something behind)"
+    "to leave": "къы1унэн (to remain behind); къинэн (to remian inside); къигъэнэн (to leave something behind); гъэкъэнэн (to leave remainings)"
   },
   {
     "to stay behind": "къы1унэн"
@@ -8466,19 +8454,22 @@
     "bent": "1онт1агъ; жэ1онт1агъ"
   },
   {
-    "to bend": "1онт1эн (to be bended); гъэ1онт1эн (to bend something); гъэ1орт1эн (Shapsug)"
+    "to bend": "щын; гъэщын (to bend something); уфэн"
   },
   {
-    "to crook": "1онт1эн (to be crooked); гъэ1онт1эн (to crook something); гъэ1орт1эн (Shapsug)"
+    "to distort": "гъэ1онт1эн; уфэн; 1онт1агъэ ш1ын; тэрэзыджэу къэгъэлъэгъон"
   },
   {
-    "to curve": "1онт1эн (to be curved); гъэ1онт1эн (to curve something); гъэ1орт1эн (Shapsug)"
+    "to crook": "1онт1эн (to be crooked); гъэ1онт1эн (to crook something); гъэ1орт1эн (Shapsug); гъэщын"
+  },
+  {
+    "to curve": "1онт1эн (to be curved); гъэ1онт1эн (to curve something); гъэ1орт1эн (Shapsug); гъэщын"
   },
   { 
-    "crooked": "1онт1агъ; 1орт1агъ (Shapsug); къуащэ; лъэныкъуащ"
+    "crooked": "1онт1агъ; 1орт1агъ (Shapsug); къуащэ; лъэныкъуащ; гъэщыгъ"
   },
   {
-    "curved": "1онт1агъ; 1орт1агъ (Shapsug); къуащэ"
+    "curved": "1онт1агъ; 1орт1агъ (Shapsug); къуащэ; гъэщыгъ"
   },
   {
     "foolish": "делэ; жэ1улэл; (vulgar) цуманэ"
@@ -11759,9 +11750,6 @@
     "seaman": "къошъол1ы"
   },
   {
-    "bay": "хыблыгу"
-  },
-  {
     "rudder": "хьашъо"
   },
   {
@@ -11786,7 +11774,7 @@
     "peninsula": "хыгъэхъунэныкъу"
   },
   {
-    "foreign country, abroad, overseas": "хырык1"
+    "overseas": "хырык1"
   },
   {
     "anchorage": "къухьэт1ысып1"
@@ -11795,88 +11783,73 @@
     "wave crest": "хысыдж"
   },
   {
-    "anvil": "сыдж"
+    "anvil": "сыджы"
   },
   {
-    "crest": "сыдж"
+    "hump": "сыджы"
   },
   {
-    "sail": "анезе"
+    "humpbacked": "быты; тхыбы1у"
   },
   {
-    "bay, gulf": "хыт1уал"
+    "hunchbacked": "быты; тхыбы1у"
   },
   {
-    "storm": "хыуай"
+    "humpy": "быты; тхыбы1у"
+  },
+  {
+    "crest": "сыджы"
+  },
+  {
+    "gale": "хыуай (strong gale)"
   },
   {
     "anchor": "гъурз"
   },
   {
-    "galley": "зэок1окъуашъу"
-  },
-  {
     "waterfall": "псыкъефэх"
-  },
-  {
-    "zebra": "шыкъолэн"
-  },
-  {
-    "alternative form of \"цыхьэ ш1ын\"": "цэхь Фэш1ын"
-  },
-  {
-    "to trust someone": "цыхьэ фэш1ын"
-  },
-  {
-    "trust": "цэхь"
   },
   {
     "battlefield": "зэуап1э"
   },
   {
-    "alternative form of \"нэ1э тегъэтын\"": "нэ1э тэгъэтын"
-  },
-  {
-    "alternative form of \"къыч1эгъэк1ын\"": "къыч1эгъэк1ьын"
-  },
-  {
-    "alternative form of \"псэлъэн\"": "мэпсэлъэн"
-  },
-  {
-    "to be remained, to be left": "къэнэн"
-  },
-  {
     "to leave something (To cause or allow (something) to remain as available)": "къэгъэнэн"
   },
   {
-    "to leave someone, to leave alone someone": "къэгъэнэн"
-  },
-  {
-    "to abandon someone": "къэгъэнэн"
-  },
-  {
-    "to need to": "щык1эгъэн"
+    "to abandon": "щынэжьын (to divorce); бгынэн; къыхэнэн (to abandon someone in a forest or in a certain siuation)"
   },
   {
     "sometimes": "загъорэ"
   },
   {
-    "to lean on something": "зегъэк1ын"
+    "at times": "загъорэ; зыуахътэ (in some times)"
+  },
+  {
+    "sometime": "зыуахътэ (at an indefinite but stated time in the past or future); загъорэ (sometimes)"
+  },
+  {
+    "to bend down": "зыуфэн; зеуфэхын"
+  },
+  {
+    "to lean": "егъэк1ын (to lean something against); тегъэк1эн (to lean something on); зегъэк1ын (to lean against); зытегъэк1эн (to lean on); зытещэен"
   },
   {
     "wheelbarrow": "курэжъые"
   },
   {
-    "baby carriage, stroller": "курэжъые"
-  },
-  {
     "basement": "ч1ыунэ"
   },
   {
-    "dangerous": "щынагъу"
+    "cellar": "ч1ыунэ"
   },
   {
-    "to approve, to grant something approval": "къаблэу ш1ын"
+    "dangerous": "щынагъо"
+  },
+  {
+    "to approve": "дэн; къаблэу ш1ын"
+  },
+  {
+    "to grant approval": "дэн; къаблэу ш1ын"
   },
   {
     "to make": "ш1ын"
@@ -11885,28 +11858,13 @@
     "to produce": "ш1ын"
   },
   {
-    "to shuck": "удзуцон"
-  },
-  {
-    "alternative form of \"лъэубакъу\"": "лъэбэкъу"
-  },
-  {
-    "to sow": "пхъэн"
-  },
-  {
     "oven": "хьаку"
   },
   {
     "stove": "хьаку"
   },
   {
-    "alternative form of \"ц1энлъэн\"": "ц1элъэн"
-  },
-  {
-    "alternative form of \"ц1элъэн\"": "мэц1элъэн"
-  },
-  {
-    "to slide on something": "ец1эшъутэхын"
+    "to slide": "ец1эшъутэхын"
   },
   {
     "to slip/slide (on a surface that have a fraction like dirt, mud, wooden table and etc.) (Usually objects)": "цохъон"
@@ -16314,9 +16272,6 @@
   },
   {
     "to get out of the habit (of), to break oneself of the habit (of)": "щыун"
-  },
-  {
-    "to abandon": "щынэжьын"
   },
   {
     "to divorce from": "щынэжьын"
