@@ -9926,10 +9926,6 @@
       {
         "meaning": "importnace",
         "examples": []
-      },
-      {
-        "meaning": "respect",
-        "examples": []
       }
     ],
     "type": "noun",
@@ -36611,7 +36607,7 @@
         ]
       },
       {
-        "meaning": "to respect, to honor",
+        "meaning": "to respect, to honor, to revere",
         "examples": [
           {
             "sentence": "К1алэм иянэ '''елъытэ'''",
@@ -54098,6 +54094,18 @@
     "ipa": "ħaːzər"
   },
   {
+    "word": "хэгупшысыхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to become thoughtful/pensive, to give a thought, to consider",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "xagʷəpʃəsəħaːn"
+  },
+  {
     "word": "шъуен",
     "lang": "Adyghe",
     "definitions": [
@@ -54217,6 +54225,23 @@
     "ipa": "aːmarma"
   },
   {
+    "word": "сэмэркъэу дэш1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to joke with",
+        "examples": [
+          {
+            "sentence": "'''Сэмэркъэу къыпдэсэш1ы''' ны1эп",
+            "translation": "'''I am''' just '''joking with you'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "samarqaw daʃʼən"
+  },
+  {
     "word": "амырми",
     "lang": "Adyghe",
     "definitions": [
@@ -54238,18 +54263,18 @@
     "ipa": "aːmarmi"
   },
   {
-    "word": "амрэу",
+    "word": "амырэу",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "or rather",
         "examples": [
           {
-            "sentence": "Уиунэ тигъэс '''амру''' удэк1рагъуа?",
+            "sentence": "Уиунэ тигъэс '''амырэу''' удэк1рагъуа?",
             "translation": "Let us stay in your house '''or rather''' do you want to go out?"
           },
           {
-            "sentence": "Сыд ушхытэ? наша '''амру''' мыя?",
+            "sentence": "Сыд ушхытэ? наша '''амырэу''' мыя?",
             "translation": "What you gonna eat? watermelon '''or rather''' apple?"
           }
         ]
@@ -54305,7 +54330,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to ridicule, to mock, to make fun of; to make a fool of (someone)",
+        "meaning": "to laguh at; to make fun of",
         "examples": [
           {
             "sentence": "ЗэкIэ ащ '''дэхьащхы'''",
@@ -54360,23 +54385,15 @@
     "ipa": "jabɣən"
   },
   {
-    "word": "хьарып1",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "cake",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ħaːrəpʼ"
-  },
-  {
     "word": "къашыкъ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "ladle",
+        "examples": []
+      },
+	  {
+        "meaning": "scoop",
         "examples": []
       }
     ],
@@ -54391,7 +54408,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "ladle",
+        "meaning": "wooden scoop",
         "examples": []
       }
     ],
@@ -55190,27 +55207,52 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to knock off (To bump or hit so that something falls off)",
+        "meaning": "to topple; to bring down; to knock over (to bump, hit or push something so that it falls)",
         "examples": [
           {
             "sentence": "Л1ым чъыгыхэр '''регъэбэджых'''",
-            "translation": "The man '''is knocking off''' the trees."
+            "translation": "The man '''is bringing down''' the trees."
           },
           {
             "sentence": "'''Егъэбэдж''' чъыгыр",
-            "translation": "'''Knock off''' the tree."
+            "translation": "'''Bring down''' the tree."
           },
           {
             "sentence": "К1алэм пхъэнт1эк1ур '''ригъэбэджэгъ'''",
-            "translation": "The boy '''knocked off''' the chair."
+            "translation": "The boy '''knocked over''' the chair."
           },
           {
             "sentence": "К1алэм '''сыригъэбэджэгъ'''",
-            "translation": "The boy '''knocked me off'''."
+            "translation": "The boy '''knocked me over'''."
           },
           {
             "sentence": "Пхъэнт1эк1ухэр '''ешъумыгъэбэджыхэу''' шъуаблэк1",
-            "translation": "Pass the chairs '''without knocking them off'''. (Said to plural)"
+            "translation": "Pass the chairs '''without knocking it over'''. (Said to plural)"
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "jaʁabad͡ʒən"
+  },
+  {
+    "word": "фежьэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to go for",
+        "examples": [
+          {
+            "sentence": "Саусырыкъо шъхьэ ш1охыным фежьагъ",
+            "translation": "Sosruko '''went for''' the beheading."
+          },
+          {
+            "sentence": "1офым '''сыфежьагъ'''",
+            "translation": "'''I went off''' for work"
+          },
+          {
+            "sentence": "Баеу ухъунэм '''уфежьэмэ''', илъэс заулэк1э баеу ухъушъущт",
+            "translation": "'''If you go for''' [the goal of] becoming rich, you can become rich in several years."
           }
         ]
       }
@@ -55296,6 +55338,10 @@
       },
       {
         "meaning": "to sidestep; to step aside; to make way",
+        "examples": []
+      },
+      {
+        "meaning": "to avoid something",
         "examples": []
       }
     ],
@@ -55505,7 +55551,7 @@
     "ipa": "aːpʼa"
   },
   {
-    "word": "дунае",
+    "word": "дунай",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -55519,14 +55565,14 @@
       }
     ],
     "type": "noun",
-    "ipa": "dunaːja"
+    "ipa": "dunaːj"
   },
   {
-    "word": "дунай",
+    "word": "дунае",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"дунае\"",
+        "meaning": "alternative form of \"дунай\"",
         "examples": []
       }
     ],
@@ -55614,7 +55660,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "rookie soldier",
+        "meaning": "soldier",
+        "examples": []
+      },
+	  {
+        "meaning": "reservist",
         "examples": []
       }
     ],
@@ -55863,25 +55913,25 @@
     "ipa": "xaʔaban"
   },
   {
-    "word": "тэ1эн",
+    "word": "те1эн",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to touch",
         "examples": [
           {
-            "sentence": "Анэм уи1э шъоик1э '''утэмы1'''",
+            "sentence": "1анэм уи1э ш1оик1э '''утемы1'''",
             "translation": "'''Don't touch''' the table with your dirty hands."
           },
           {
-            "sentence": "Гъуч1ы фабэм к1алэр '''та1эм''' и1э къистэгъ",
+            "sentence": "Гъуч1ы фабэм к1алэр '''те1эм''' и1э къистыгъ",
             "translation": "When the boy '''touched''' the hot iron, it burned his hands."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "taʔan"
+    "ipa": "tajʔan"
   },
   {
     "word": "дэуахьы",
@@ -65450,6 +65500,18 @@
     ],
     "type": "verb",
     "ipa": "jaʁat͡ʂaxən"
+  },
+  {
+    "word": "к1энэк1алъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "laughing stock",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃʼanat͡ʼaːɬ"
   },
   {
     "word": "щыгуш1ук1ын",
@@ -88774,12 +88836,41 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to break, to fracture",
+        "meaning": "to detach something from",
         "examples": []
       }
     ],
     "type": "verb",
     "ipa": "pəʁawən"
+  },
+  {
+    "word": "к1элъырыгъэуцон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to put something next to",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "t͡ʃʼaɬarəʁawt͡ʃʷan"
+  },
+  {
+    "word": "егъэуцол1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to put something next to",
+        "examples": [
+          {
+            "sentence": "К1алэм 1анэр дэпкъым '''регъэуцол1э'''",
+            "translation": "The boy '''puts''' the table '''against''' the wall."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "t͡ʃʼaɬarəʁawt͡ʃʷan"
   },
   {
     "word": "зэпыгъэун",
@@ -88799,7 +88890,7 @@
         ]
       },
       {
-        "meaning": "to interrupt, to break off, to sever, to discontinue, to cut short",
+        "meaning": "to interrupt and stop, to break off, to end abruptly, either temporarily or permanently",
         "examples": []
       }
     ],
