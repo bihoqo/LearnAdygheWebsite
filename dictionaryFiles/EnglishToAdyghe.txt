@@ -10238,9 +10238,6 @@
     "to decompose": "шъун"
   },
   {
-    "to ferment": "ш1о1ун"
-  },
-  {
     "everywhere": "тэдэк1и"
   },
   {
@@ -11048,16 +11045,16 @@
     "to divide with,": "дэугощын"
   },
   {
-    "to skin": "шъо техын; егун"
+    "to skin": "шъо техын; гун; гугъэн"
   },
   {
-    "to peel": "шъуампэ техын; шъо техын; егун"
+    "to peel": "шъуампэ техын; шъо техын; гун; гугъэн"
   },
   {
-    "to flay": "шъо техын; егун"
+    "to flay": "шъо техын; гун; гугъэн"
   },
   {
-    "to flense": "шъо техын; егун"
+    "to flense": "шъо техын; гун; гугъэн"
   },
   {
     "to strip": "т1эк1ын; щыгъыныр щыхын; щыгъыныр зыщыхын (to get striped); (slightly vulgar) зышъутыпц1ын (to get striped); пц1анэу зиш1ын"
@@ -12026,88 +12023,55 @@
     "to count on": "щыгугъын"
   },
   {
-    "to put afford in": "егугъэн"
+    "to put afford in": "егугъын"
   },
   {
-    "to strip, to peel, to skin, to flay, to flense": "гугъэн"
+    "to feel sorry": "гуегъун; шъхьасын; гук1эгъу фэш1ын"
   },
   {
-    "alternative form of \"гугъэн\"": "гугъун"
+    "to feel pity": "гуегъун; шъхьасын; гук1эгъу фэш1ын"
   },
   {
-    "alternative form of \"гугъэн\"": "гугъон"
+    "to pity": "гуегъун; шъхьасын; гук1эгъу фэш1ын"
   },
   {
-    "to feel sorry for; to feel pity for; to pity": "гуегъун"
+    "pity": "гук1эгъу"
   },
   {
-    "careless": "гугъуемыл1"
+    "mercy": "гук1эгъу; шъхьас"
   },
   {
-    "to help (usually small help); to aid; to assist": "1эпы1эгъоу фэхъун"
+    "careless": "емыгугъурэ; гугъуемыл1; пхъэтэпэмыхь"
   },
   {
-    "here take this": "махь"
+    "to help": "дэ1эпы1эн; 1эпы1эгъоу фэхъун"
   },
   {
-    "to be throwing stuff at someone": "егъуин"
+    "to aid": "дэ1эпы1эн; 1эпы1эгъоу фэхъун; де1эн"
   },
   {
-    "(slang) I don't know": "ч1эрэп"
+    "to assist": "дэ1эпы1эн; 1эпы1эгъоу фэхъун; де1эн"
   },
   {
-    "alternative form of \"джэуап тын\"": "джэуап етын"
+    "to be careful": "нэ1э зытегъэтыжьын"
   },
   {
-    "approval": "къаблэ"
+    "why": "сыда; (dialectal) шъыда; (dialectal) хьа"
   },
   {
-    "(Abzakh dialect) boy": "1ьалэ"
+    "zero": "нол"
   },
   {
-    "(Abzakh dialect) young man": "1ьалэ"
+    "language family": "унэгъобзэ"
   },
   {
-    "alternative form of \"чъэн\"": "мэчъэн"
+    "to ferment": "ш1о1ун; гъэш1о1ун (to ferment something)"
   },
   {
-    "(Abzakh dialect) alternative form of \"мак1э\"": "ма1ьэ"
+    "to pickle": "ш1о1ун; гъэш1о1ун (to pickle something)"
   },
   {
-    "to make something shine": "гъэц1ыон"
-  },
-  {
-    "alternative form of \"ц1ыун\"": "мэц1ыон"
-  },
-  {
-    "alternative form of \"мэц1ыон\"": "ц1ыон"
-  },
-  {
-    "to be careful": "нэ1э зтэгъэтын"
-  },
-  {
-    "why": "сыда"
-  },
-  {
-    "zero": "зыци"
-  },
-  {
-    "alternative form of \"зи\"": "зи1"
-  },
-  {
-    "language family": "унагъобзэ"
-  },
-  {
-    "alternative form of \"ш1о1ун\"": "мэш1о1ун"
-  },
-  {
-    "to ferment": "гъэш1о1ун"
-  },
-  {
-    "to marinate": "гъэш1о1ун"
-  },
-  {
-    "to pickle": "гъэш1о1ун"
+    "to corn": "ш1о1ун; гъэш1о1ун (to corn something)"
   },
   {
     "to make something rot": "гъэш1о1ун"
@@ -17073,9 +17037,6 @@
   },
   {
     "coward": "къэрабгъэ"
-  },
-  {
-    "mercy": "шъхьас"
   },
   {
     "modesty, humility (the quality of being modest)": "нэхаш"

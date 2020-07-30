@@ -52938,18 +52938,6 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"егун\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "ɡʷən"
-  },
-  {
-    "word": "егун",
-    "lang": "Adyghe",
-    "definitions": [
-      {
         "meaning": "to strip, to peel, to skin, to flay, to flense",
         "examples": []
       }
@@ -60925,23 +60913,23 @@
     "ipa": "t͡sʼəwan"
   },
   {
-    "word": "нэ1э зтэгъэтын",
+    "word": "нэ1э зытегъэтыжьын",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to be careful",
         "examples": [
           {
-            "sentence": "'''Уина1э тэгъэт''' маш1ор къыч1эмнэнэу",
+            "sentence": "'''Уина1э зытегъэт''' маш1ор къык1эмынэнэу",
             "translation": "'''Be careful''' the fire won't ignite."
           },
           {
-            "sentence": "К1алэм '''ина1э тимыгъэтэу''' къебэджыгъэ",
+            "sentence": "К1алэм '''ина1э зытимыгъэтэу''' къебэджыгъэ",
             "translation": "The boy '''without being careful''' fell on the ground."
           },
           {
-            "sentence": "Л1ым '''ина1э тигъэтэу''' к1апсэм рек1о",
-            "translation": "The man '''being careful''' is walking on the rope."
+            "sentence": "Гъогумк1э '''уина1э зытегъэт'''",
+            "translation": "'''Be careful''' on the road."
           }
         ]
       }
@@ -61030,7 +61018,7 @@
     "ipa": "zəjʔ"
   },
   {
-    "word": "унагъобзэ",
+    "word": "унэгъобзэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -61059,29 +61047,36 @@
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "to turn sour (e.g. a milk product)",
+        "examples": []
+      },
+      {
+        "meaning": "to pickle, to corn",
+        "examples": []
+      },
+      {
         "meaning": "to ferment",
         "examples": []
-      },
-      {
-        "meaning": "to marinate",
-        "examples": []
-      },
-      {
-        "meaning": "to pickle",
-        "examples": []
-      },
-      {
-        "meaning": "to make something rot",
-        "examples": [
-          {
-            "sentence": "Бэнанэр к1алэм '''егъэш1о1у'''",
-            "translation": "The boy is making the banana '''rot'''"
-          }
-        ]
       }
     ],
     "type": "verb",
     "ipa": "ʁaʃʷʼaʔʷən"
+  },
+  {
+    "word": "тэджэпс",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to turn sour (e.g. a milk product)",
+        "examples": []
+      },
+      {
+        "meaning": "leavened dough",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "tad͡ʒaps"
   },
   {
     "word": "гъэш1ык1ьэен",
@@ -66581,7 +66576,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to turn sour",
+        "meaning": "to turn sour; to pickle; to corn",
         "examples": []
       },
 	  {
