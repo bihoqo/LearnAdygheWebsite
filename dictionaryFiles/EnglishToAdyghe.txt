@@ -4617,7 +4617,7 @@
     "to fill in": "игъэхъон; ик1эн (intensive); ик1утэн (slightly intensive); узэндын (to load); изэу ш1ын (to make full)"
   },
   {
-    "to drip on": "тетк1он; тегъэтк1он (to make something drip on)"
+    "to drip on": "тетк1он; тегъэтк1он (to make something drip on); тет1эт1эн (to drip sticky substance)"
   },
   {
     "to compress": "хэц1ыц1эн; зэхэц1ыц1эн"
@@ -8991,9 +8991,6 @@
     "to excise": "хэупк1ын; хэбзык1ын"
   },
   {
-    "thought": "гупшыс"
-  },
-  {
     "to think": "егупшысэн; хэгупшысыхьан (to become thoughtful); къэугупшысын (to think out)"
   },
   {
@@ -9950,7 +9947,7 @@
     "separately": "шъхьаф-шъхьафэу; зыр зырэу (one by one)"
   },
   {
-    "to return": "къэзэжьын (to return back to where one came); к1ожьын (to go back); къэк1ожьын (to return back); зэк1ежьэжьын; дэхьажьын (to return home)"
+    "to return": "къэгъэзэжьын (to return back to where one came); к1ожьын (to go back); къэк1ожьын (to return back); зэк1ежьэжьын; дэхьажьын (to return home)"
   },
   {
     "to go back": "к1ожьын"
@@ -10418,7 +10415,7 @@
     "to recognize": "къэш1эжьын"
   },
   {
-    "to remember": "къэш1эжьын"
+    "to remember": "гукъэк1ыжьын (to suddenly remember); къэш1эжьын"
   },
   {
     "to extinguish": "к1осэн (to get extinguished); гъэк1осэн (to extinguish something)"
@@ -10838,9 +10835,6 @@
     "to snore": "чъыетхъун; чъые пырхъ еон, пырхъэн"
   },
   {
-    "thought": "гупшысэ"
-  },
-  {
     "to be in debt": "ч1ыфэ ч1этын; ч1ыфэ телъын"
   },
   {
@@ -11162,7 +11156,7 @@
     "madhouse": "джынэузэщ"
   },
   {
-    "present": "джырэ; (dialectal) иджырэ"
+    "present": "джырэ; (dialectal) иджырэ; ш1ухьафтын (gift)"
   },
   {
     "not long ago": "бэ мыш1эу; бэ темыш1эу; джырэблагъэ"
@@ -11609,67 +11603,31 @@
     "to disgust": "мэхъэшэн; гъэмэхъэшэн (to disgust someone)"
   },
   {
-    "dripping": "мэт1ат1э"
+    "to stretch": "къудыин (to stretch by pulling forcefully); зэпыщын / зэхэщын (to stretch out)"
   },
   {
-    "to drip (a sticky substances) on": "тет1эт1эн"
+    "to dizzy": "гъэпрэзэн"
   },
   {
-    "to drip (sticky substances like honey, cake and color liquid)": "гъэт1эт1эн"
+    "to bewilder": "гупшысэгъу хэдзэн; егъэгупшысэн; ыш1эн ымыш1эу ш1ын"
   },
   {
-    "alternative form of \"тегъэт1эт1эн\"": "тэгъэт1эт1эн"
+    "to make dizzy": "гъэпрэзэн"
   },
   {
-    "to tear off (forcefully) something from something": "пытхъын"
+    "thought": "гупшысэ; гукъэк1 (idea); гурыш"
   },
   {
-    "to stretch": "къудыин"
+    "to have a thought": "гукъэк1ын"
   },
   {
-    "alternative form of \"къудыин\"": "екъудыин"
+    "idea": "гукъэк1"
   },
   {
-    "alternative form of \"мэпрэзэн\"": "прэзэн"
+    "to have an idea": "гукъэк1ын"
   },
   {
-    "to make someone dizzy": "гъэпрэзэн"
-  },
-  {
-    "alternative form of \"ц1эшъутэн\"": "мэц1эшъутэн"
-  },
-  {
-    "alternative form of \"щыхьан\"": "щыхьэн"
-  },
-  {
-    "to make someone scream,yell,shout": "гъэкуон"
-  },
-  {
-    "dance": "удж"
-  },
-  {
-    "alternative form of \"удж\"": "угь"
-  },
-  {
-    "alternative form of \"фэжъыуф\"": "ф1эжъыуф1"
-  },
-  {
-    "to have a sudden thought or idea": "гукъэк1ын"
-  },
-  {
-    "to suddenly remember": "гукъэк1ыжьын"
-  },
-  {
-    "alternative form of \"гухэк1ын\"": "игу хэк1ын"
-  },
-  {
-    "present, gift": "ш1ухьафтын"
-  },
-  {
-    "to return (from where you came)": "гъэзэжьын"
-  },
-  {
-    "alternative form of \"к1одын\"": "мэк1одын"
+    "gift": "ш1ухьафтын"
   },
   {
     "to be rolling": "джыджэн"
@@ -14063,9 +14021,6 @@
     "(slang) to love something or someone very much": "фэл1эн"
   },
   {
-    "to stretch": "зэгощын"
-  },
-  {
     "to run and climb up": "ч1ышъутын"
   },
   {
@@ -15057,9 +15012,6 @@
   },
   {
     "grandson": "къорылъф"
-  },
-  {
-    "to stretch": "зэхэщын"
   },
   {
     "marriage contract": "нэчыхь"

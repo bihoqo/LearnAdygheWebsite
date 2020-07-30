@@ -76158,13 +76158,37 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to stretch",
+        "meaning": "to stretch out",
         "examples": []
       }
     ],
     "cognate": "зэхэшын",
     "type": "verb",
     "ipa": "zaxaɕən"
+  },
+  {
+    "word": "зэпыщын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to stretch out",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "zapəɕən"
+  },
+  {
+    "word": "гъэфыкъон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to damage",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʁafəqʷan"
   },
   {
     "word": "нэчыхь",
