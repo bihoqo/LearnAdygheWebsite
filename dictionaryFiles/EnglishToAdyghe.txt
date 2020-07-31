@@ -4059,9 +4059,6 @@
     "to trim": "бзыхьан; бзытэн; упхъон; ук1эпхъэн"
   },
   {
-    "rag": "бзыхьаф (piece of cloth)"
-  },
-  {
     "shred": "бзыхьаф"
   },
   {
@@ -4464,7 +4461,7 @@
     "greatly": "лъэшэу"
   },
   {
-    "wet": "ц1ынэ"
+    "wet": "ц1ынэ; (Shapsug) c1ынэ"
   },
   {
     "soggy": "ц1ынэ"
@@ -6276,7 +6273,7 @@
     "and": "ык1и"
   },
   {
-    "by the way": "ык1и"
+    "by the way": "ык1и; зыгорэк1э"
   },
   {
     "shoes": "цуакъэ"
@@ -7038,7 +7035,7 @@
     "to consent": "дэн (to permit, accept); дэштэн (to agree with)"
   },
   {
-    "to sew": "дэн (to be sewing); дын (to sew something)"
+    "to sew": "дэн (to be sewing); дын (to sew something); пыдэн (to sew into); зэпыдэн (to sew something to something)"
   },
   {
     "tin": "къэлай; цэф (plate)"
@@ -11733,7 +11730,7 @@
     "glove": "1эбыцу; 1алъ"
   },
   {
-    "mitten": "1эбыцу; 1алъ"
+    "mitten": "ос1эбыцу (1эбыцу)"
   },
   {
     "second": "секунд (second time); нэугъэуп1эп1эгъу (second time); ят1унэрэ (second place)"
@@ -12153,9 +12150,6 @@
     "to teach": "егъэш1эн (to make someone know); егъэджэн (to teach someone)"
   },
   {
-    "to sew": "дэн (to be sewing); дын (to sew something)"
-  },
-  {
     "noon": "щэджагъо"
   },
   {
@@ -12180,103 +12174,73 @@
     "ground": "ч1ы; ч1ыгу"
   },
   {
-    "alternative form of \"к1эмгуе\"": "к1ьэмгуе"
+    "Temirgoy": "к1эмгуе"
   },
   {
-    "Temirgoy (Circassian tribe)": "к1эмгуе"
+    "fire extinguisher": "мэш1о гъэк1осалъэ"
   },
   {
-    "Shkapshina (Circassian instrument)": "шык1эпшынэ"
+    "fighter": "зэол1; зэуак1о; зэуал1"
   },
   {
-    "fire extinguisher": "маш1о гъэк1осалъэ"
+    "wait": "зэ; зэгу"
   },
   {
-    "wet": "с1ынэ"
+    "dark-skinned": "къуапц1э"
   },
   {
-    "fighter": "зэол1"
+    "swarthy": "къуапц1э"
   },
   {
-    "wait (for now)": "зэгу"
+    "to elect": "хэхын / къыхэхын"
   },
   {
-    "swarthy, dark-skinned": "къуапц1э"
+    "spleen": "чэ"
   },
   {
-    "alternative form of \"къуапц1э\"": "къуапс1э"
+    "milt": "чэ"
   },
   {
-    "alternative form of \"лъэкъуапц1\"": "лъэкъуапс1"
+    "crack": "чэ; (Shapsug) кьэ"
   },
   {
-    "to choose, to elect": "хэдзын"
-  },
-  {
-    "spleen, milt (organ)": "чэ"
-  },
-  {
-    "crack, crash, snap (sharp sound made when solid material breaks)": "чэ"
-  },
-  {
-    "mitten": "ос1эбыцу"
+    "snap": "чэ; (Shapsug) кьэ"
   },
   {
     "genocide": "лъэпкъгъэк1од"
   },
   {
-    "to make someone or something disappear": "гъэк1одын"
+    "to lose": "гъэк1одын; ш1ок1одын; хэгъэк1одэн (to lose among other people or objects, in a forest or an area with solid, liquid or gas); ч1эгъэк1одэн (to lose under something); игъэк1одэн (to lose inside something)"
   },
   {
-    "to lose something, to make something lost (not to be able to find)": "гъэк1одын"
+    "to squeeze": "фызын; к1эфызык1ын / хэфызык1ын (to squeeze out)"
   },
   {
-    "alternative form of \"хьэшъутыубэтэн\"": "хьэшъуты убэтэн"
+    "to squeeze out": "к1эфызык1ын / хэфызык1ын"
   },
   {
-    "to squeeze": "фызын"
+    "to press out": "к1эфызык1ын / хэфызык1ын"
+  },
+  { 
+    "barely": "зыгорашъоу; л1ыгъэк1э; ерагъэк1э"
+  },
+  { 
+    "badly": "дэеу; 1аеу"
+  },
+  { 
+    "awfully": "дэеу; 1аеу"
   },
   {
-    "(slang) barely, badly, awfully": "зэпыдагъэу"
-  },
-  {
-    "to sew something to something": "зэпыдэн"
-  },
-  {
-    "alternative form of \"шъхьэтелъхьэ\"": "шъхьэталъхьэ"
-  },
-  {
-    "alternative form of \"шъхьэ1атынгъэ\"": "шъхьэатынгъэ"
-  },
-  {
-    "to live in": "шэпсэун"
+    "to live in": "щыпсэун"
   },
   {
     "powder": "гыны"
   },
   {
-    "David (name)": "Даут"
+    "gunpowder": "гыны"
   },
   {
-    "Eve (name)": "Хьэо"
-  },
-  {
-    "Harun (name)": "Хьарун"
-  },
-  {
-    "male given name": "Нарт"
-  },
-  {
-    "(mythology) Nart": "Нарт"
-  },
-  {
-    "(Shapsug) alternative form of \"нат\"": "Нат"
-  },
-  {
-    "Qzbek (name)": "Къызбэч"
-  },
-  {
-    "Zakaria (name)": "Зэчэрые"
+    "Nart": "Нарт; Нат (Shapsug)"
   },
   {
     "spear": "пчы"
@@ -12288,19 +12252,16 @@
     "lance": "пчы"
   },
   {
-    "alternative form of \"чхы1ан\"": "чъы1ыхэн"
+    "to lay eggs": "къэк1эц1ын"
   },
   {
-    "to lay eggs": "къик1ьэс1ын"
+    "rag": "хъэдэн; бзыхьаф (scrap); хъэдэн ц1ынэ"
   },
   {
-    "rag (piece of cloth)": "хъэдэн"
+    "for": "пае; фэш1; фэш1к1э; (uncommon) папк1э"
   },
   {
-    "for": "пае"
-  },
-  {
-    "in order to": "пае"
+    "in order to": "ащ пае; ащ фэш1к1э"
   },
   {
     "a roadway that has a slope": "пае"
@@ -13557,9 +13518,6 @@
     "to pick up stuff, to gather stuff (usually by picking up, by raking up or by sweeping)": "къэщыпын"
   },
   {
-    "for": "фэш1"
-  },
-  {
     "because of": "фэш1"
   },
   {
@@ -14076,9 +14034,6 @@
     "to give up": "1э къэ1этын"
   },
   {
-    "rag": "хъэдэн ц1ынэ"
-  },
-  {
     "to whirl, to twirl": "к1эрэон"
   },
   {
@@ -14323,9 +14278,6 @@
   },
   {
     "because of": "фэш1к1э"
-  },
-  {
-    "for": "фэш1к1э"
   },
   {
     "interpreter": "зэдзэк1ак1о"
@@ -15156,9 +15108,6 @@
     "child": "к1элэ-гъуал"
   },
   {
-    "for": "папк1э"
-  },
-  {
     "instead of": "ич1ып1эк1э"
   },
   {
@@ -15585,9 +15534,6 @@
     "vulgarity": "губгъэн"
   },
   {
-    "for": "шъхьае"
-  },
-  {
     "skillful": "фэ1аз"
   },
   {
@@ -15967,12 +15913,6 @@
   },
   {
     "alternative form of \"шъэджашъ\"": "шъэгьашъ"
-  },
-  {
-    "fighter": "зэуак1о"
-  },
-  {
-    "fighter": "зэуал1"
   },
   {
     "hanger": "пылъалъэ"

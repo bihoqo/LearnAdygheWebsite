@@ -61772,7 +61772,7 @@
     "ipa": "ʃəkʲapʃəna"
   },
   {
-    "word": "маш1о гъэк1осалъэ",
+    "word": "мэш1о гъэк1осалъэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -61781,7 +61781,19 @@
       }
     ],
     "type": "noun",
-    "ipa": "maːʃʷʼa ʁakʷʼasaːɬa"
+    "ipa": "maʃʷʼa ʁakʷʼasaːɬa"
+  },
+  {
+    "word": "к1эфызык1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to squeeze out, to press out",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "t͡ʃʼafəzət͡ʃʼən"
   },
   {
     "word": "с1ынэ",
@@ -62040,29 +62052,25 @@
     "ipa": "ʂħaʔaːtənʁa"
   },
   {
-    "word": "шэпсэун",
+    "word": "щыпсэун",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to live in",
         "examples": [
           {
-            "sentence": "Сэ къэфкъазым '''сышэпсэу'''",
+            "sentence": "Сэ къэфкъазым '''сыщыпсэу'''",
             "translation": "'''I am living in''' the Caucasus."
           },
           {
-            "sentence": "'''Тышэпсэунэу''' ч1ыпэ тыгъотын фае",
+            "sentence": "'''Тыщыпсэунэу''' ч1ып1э тыгъотын фае",
             "translation": "We need to find a place '''to live in'''."
-          },
-          {
-            "sentence": "Исра1эл адыгэу '''шэпсэухэмэ''' адыгэбзэ лъэшэу яш1э",
-            "translation": "The Circassians that '''live in''' Israel know the Adyghe language well."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "ʃapsawən"
+    "ipa": "ɕəpsawən"
   },
   {
     "word": "гыны",
@@ -62210,28 +62218,45 @@
     "ipa": "t͡ʂəʔəxan"
   },
   {
-    "word": "къик1ьэс1ын",
+    "word": "къэк1эц1ын",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to lay eggs",
         "examples": [
           {
-            "sentence": "Кьэтым к1ьак1ьэхэр '''къек1ьэс1ы'''",
+            "sentence": "Чэтым к1энк1эхэр '''къек1эц1ы'''",
             "translation": "The chicken '''is laying''' eggs."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "qəjkʲʼasʼən"
+    "ipa": "qat͡ʃʼat͡sʼən͡"
+  },
+  {
+    "word": "к1эц1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to lay eggs",
+        "examples": [
+          {
+            "sentence": "Чэтым к1энк1эхэр '''къек1эц1ы'''",
+            "translation": "The chicken '''is laying''' eggs."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "t͡ʃʼat͡sʼən͡"
   },
   {
     "word": "хъэдэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "rag (piece of cloth)",
+        "meaning": "rag",
         "examples": []
       }
     ],
