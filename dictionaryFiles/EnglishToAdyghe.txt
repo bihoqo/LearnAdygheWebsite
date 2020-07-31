@@ -11066,17 +11066,17 @@
     "to flip over": "зэпырыгъэзэн"
   },
   {
-    "fuck you": "(vulgar) осэп1ыс; (vulgar) ушъуты исагъ; (slang, vulgar) осэ1эт; (very vulgar) уянэ сэп1ыс; (very vulgar) хьэм уянэ еп1ыс"
+    "fuck you": "(vulgar) осэп1ыс; (vulgar) ушъуты исагъ"
   },
   {
   {
-    "fuck": "(vulgar) сэп1ыс; (slang, vulgar) сэ1эт; (vulgar) хьэм еп1ыс; (vulgar) янэ сэп1ыс; исагъ; (vulgar) ышъуты исагъ; (vulgar) шъутыгъуан / шъутыгъонэжъ"
+    "fuck": "(vulgar) сэп1ыс; (vulgar) янэ сэп1ыс; исагъ; (vulgar) ышъуты исагъ"
   },
   {
-    "dammit": "ашъыу; янэ егъэлыгъу; янэ сыкъеу; хьэм ерэшх; хьэм егъэшх; (slightly vulgar) сытец1;"
+    "dammit": "ашъыу; янэ егъэлыгъу; янэ сыкъеу"
   },
   {
-    "damn": "ашъыу; янэ егъэлыгъу; янэ сыкъеу; хьэм ерэшх; хьэм егъэшх; (slightly vulgar) сытец1;"
+    "damn": "ашъыу; янэ егъэлыгъу; янэ сыкъеу"
   },
   {
     "I don't give a damn": "(slightly vulgar) сытец1 (I don't give a shit)"
@@ -11089,6 +11089,12 @@
   },
   {
     "I don't give a fuck": "(vulgar) сэп1ыс; (slang, vulgar) сэ1эт"
+  },
+  {
+    "eat me": "сихьэе шхы; устец1"
+  },
+  {
+    "bite me": "сихьэе шхы; устец1"
   },
   {
     "to turn over": "зэпырыгъэзэн (to turn something upside down)"
@@ -11688,9 +11694,6 @@
     "to listen to": "едэ1ун"
   },
   {
-    "to come out": "къок1ын"
-  },
-  {
     "Elbrus": "1уашъхьэмафэ"
   },
   {
@@ -12264,79 +12267,76 @@
     "in order to": "ащ пае; ащ фэш1к1э"
   },
   {
-    "a roadway that has a slope": "пае"
+    "to be with": "гъусэн"
   },
   {
-    "to be with, to be associate with someone": "гъусэн"
+    "to be associate with": "гъусэн"
   },
   {
-    "cry": "гъы"
+    "cry": "гъы; гъы макъ"
   },
   {
     "binocular": "нэрыплъ"
   },
   {
-    "alternative form of \"нэрыплъ\"": "нэриплъ"
-  },
-  {
     "so much": "зыб"
   },
   {
-    "even more": "нахьиу"
+    "even more": "нахьыеу; нахь бэу"
   },
   {
-    "to bleed": "лъы къик1ын"
+    "to bleed": "лъы къик1ын; пыл1ык1ын (to bleed to death)"
   },
   {
-    "to come out from": "къик1ын"
+    "to come out": "ик1ын / къик1ын (to come out from inside); къок1ын / къыкъок1ын (to come out from inside); дэк1ын / къыдэк1ын (to come out from a yard, or a defined area); хэк1ын / къыхэк1ын (to come out from among others or from an area with trees, liquid, gas or solid); к1оц1ык1ын / къык1оц1ык1ын (to come out from inside the body); ч1эк1ын / къыч1эк1ын (to come out from under)"
   },
   {
-    "to come from": "къик1ын"
+    "to come from": "къэк1ын"
   },
   {
-    "to come off as": "къик1ын"
+    "to come off": "тек1ын / къытек1ын (to come off from something)"
   },
   {
-    "to turn out being; to end up being": "къик1ын"
+    "to turn out being": "къик1ын"
   },
   {
-    "alternative form of \"гъэгъэн\"": "мэгъэгъэн"
+    "to end up being": "къик1ын"
   },
   {
     "to bloom": "гъэгъэн"
   },
   {
-    "puppy": "хьэжъу"
+    "puppy": "хьэжъу; хьэщыр; хьажъу щыр"
   },
   {
-    "alternative form of \"хьэжъу\"": "хьажъу"
+    "horseman": "шыу; шыузэтес"
   },
   {
-    "alternative form of \"т1уак1э\"": "т1ок1эжъ"
-  },
-  {
-    "alternative form of \"шъхьангъупчъэ\"": "шъхьэнгъупчъэ"
-  },
-  {
-    "horseman": "шыу"
-  },
-  {
-    "alternative form of \"пчъэ\"": "пчэ"
+    "rider": "шыу; шыузэтес"
   },
   {
     "ceiling": "к1ашъо"
   },
   {
-    "alternative form of \"к1ашъо\"": "к1ьашъо"
+    "to speak ill of": "бзэгухьын; бзэгу фэхьын; убын"
   },
   {
-    "alternative form of \"убын\"": "еубын"
+    "to gossip": "бзэгухьын; бзэгу фэхьын; убын"
   },
   {
-    "to speak ill of, to gossip": "убын"
+    "whip": "къамыщ"
   },
   {
-    "whip; lash": "къамыщ"
+    "lash": "къамыщ"
+  },
+  {
+    "flexible": "уфэупц1э (уфэ-упц1); лант1э"
+  },
+  {
+    "elastic": "уфэупц1э (уфэ-упц1); лант1э"
+  },
+  {
+    "pliable": "уфэупц1э (уфэ-упц1); лант1э"
   },
   {
     "very long": "к1ыхьэлыхьэ"

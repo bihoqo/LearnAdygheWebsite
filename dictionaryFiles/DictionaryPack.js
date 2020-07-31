@@ -92504,11 +92504,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "flexible, pliable, agile",
-        "examples": []
-      },
-      {
-        "meaning": "adaptable",
+        "meaning": "flexible; elastic; pliable",
         "examples": []
       }
     ],
@@ -92523,11 +92519,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "flexible, pliable, agile",
-        "examples": []
-      },
-      {
-        "meaning": "adaptable",
+        "meaning": "flexible; elastic; pliable",
         "examples": []
       }
     ],
