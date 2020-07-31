@@ -10445,19 +10445,19 @@
     "go away": "1ук1; зы1удз (offensive); зегъэхь (offensive); зы1уегъэх (offensive)"
   },
   {
-    "fuck off": "зы1удз; зегъэхь; зы1уегъэх"
+    "fuck off": "зы1удз; зегъэхь; зы1уегъэх; (vulgar) зы1уп1ысык1; к1о дэхьэжь; (vulgar) к1о зып1ысыжь; (vulgar, slang) к1о зы1этыжь"
   },
   {
-    "piss off": "зы1удз; зегъэхь; зы1уегъэх"
+    "piss off": "зы1удз; зегъэхь; зы1уегъэх; к1о дэхьэжь"
   },
   {
-    "beat it": "зы1удз; зегъэхь; зы1уегъэх"
+    "beat it": "зы1удз; зегъэхь; зы1уегъэх; к1о дэхьэжь"
   },
   {
-    "bugger off": "зы1удз; зегъэхь; зы1уегъэх"
+    "bugger off": "зы1удз; зегъэхь; зы1уегъэх; к1о дэхьэжь"
   },
   {
-    "fuck it": "(vulgar) ышъуты исагъ"
+    "fuck it": "исагъ; (vulgar) ышъуты исагъ; (vulgar) сэп1ыс; (slang, vulgar) сэ1эт; (vulgar) хьэм еп1ыс; (vulgar) янэ сэп1ыс; (vulgar) шъутыгъуан / шъутыгъонэжъ"
   },
   {
     "to bugger off": "зы1удзын; зегъэхьын; зы1уегъэхын"
@@ -10625,7 +10625,7 @@
     "to tickle": "лыджын; гъэлыджын (to tickle someone)"
   },
   {
-    "to look": "плъэн; еплъын (to look at); теплъэн (to look on); xэплъэн (to look among, to look inside an area with either gas, solid or liquid); дэплъэн (to look into); иплъэн (to look inside); пыплъэн (to look on clothes or tree); гоплъэн / бгъодэплъэн (to look besides); къоплъэн (to look behind); зэк1эплъэн (to look behind); лъыплъэн (to look after); дэплъэен (to look up); еплъэхын (to look under); шъхьадэплъын (to look over); къэплъэхьан (to look around)"
+    "to look": "плъэн; еплъын (to look at); теплъэн (to look on); xэплъэн (to look among, to look inside an area with either gas, solid or liquid); дэплъэн (to look into); иплъэн (to look inside); пыплъэн (to look on clothes or tree); гоплъэн / бгъодэплъэн (to look besides); къоплъэн (to look behind); зэк1эплъэн / зэплъэк1ын (to look behind); лъыплъэн (to look after); дэплъэен (to look up); еплъэхын (to look under); шъхьадэплъын (to look over); къэплъэхьан (to look around)"
   },
   {
     "to get drunk": "утэшъон; шъхьэ убытын"
@@ -11069,10 +11069,35 @@
     "to flip over": "зэпырыгъэзэн"
   },
   {
+    "fuck you": "(vulgar) осэп1ыс; (vulgar) ушъуты исагъ; (slang, vulgar) осэ1эт; (very vulgar) уянэ сэп1ыс; (very vulgar) хьэм уянэ еп1ыс"
+  },
+  {
+  {
+    "fuck": "(vulgar) сэп1ыс; (slang, vulgar) сэ1эт; (vulgar) хьэм еп1ыс; (vulgar) янэ сэп1ыс; исагъ; (vulgar) ышъуты исагъ; (vulgar) шъутыгъуан / шъутыгъонэжъ"
+  },
+  {
+    "dammit": "ашъыу; янэ егъэлыгъу; янэ сыкъеу; хьэм ерэшх; хьэм егъэшх; (slightly vulgar) сытец1;"
+  },
+  {
+    "damn": "ашъыу; янэ егъэлыгъу; янэ сыкъеу; хьэм ерэшх; хьэм егъэшх; (slightly vulgar) сытец1;"
+  },
+  {
+    "I don't give a damn": "(slightly vulgar) сытец1 (I don't give a shit)"
+  },
+  {
+    "I don't give a shit": "(slightly vulgar) сытец1;"
+  },
+  {
+    "shit": "хьай; (slightly vulgar) сытец1 (expression of anger or displeasure)"
+  },
+  {
+    "I don't give a fuck": "(vulgar) сэп1ыс; (slang, vulgar) сэ1эт"
+  },
+  {
     "to turn over": "зэпырыгъэзэн (to turn something upside down)"
   },
   {
-    "to turn": "гъэзэн (to turn around something); зыкъэгъэзэн (to turn around); зэпырыгъэзэн (to turn upside down)"
+    "to turn": "зэн / къэзэн (to turn); гъэзэн / къэгъэзэн (to turn around something); зыгъэзэн / зыкъэгъэзэн (to turn oneself around); зэпырыгъэзэн (to turn something upside down); зыкъэгъэзык1ын (to turn oneself around)"
   },
   {
     "to dehydrate": "гъун (to get dehydrated); гъэгъун"
