@@ -1656,9 +1656,6 @@
     "road": "гъогу"
   },
   {
-    "path": "гъогу"
-  },
-  {
     "train": "мэш1оку"
   },
   {
@@ -3259,9 +3256,6 @@
   },
   {
     "to waste": "ч1эфын; ахъщэ гъэк1он (to waste money); гъэк1одын"
-  },
-  {
-    "blanket": "чхы1эн"
   },
   {
     "horse-cloth": "шытехъу"
@@ -7200,6 +7194,12 @@
     "misfortune": "бэлахь"
   },
   {
+    "unfortunate": "насыпынчъэ (luckless); тхьа еуагъ (cursed)"
+  },
+  {
+    "ill-fated": "насыпынчъэ (luckless); тхьа еуагъ (cursed)"
+  },
+  {
     "exceptional": "бэлахь"
   },
   {
@@ -7216,9 +7216,6 @@
   },
   {
     "to argue": "нэкъокъон; зэнэкъокъун / зэдэон (to argue with each other); пэгущы1эжьын (to argue back); пэ1ууцожьын (to go against); енэкъокъун (to argue with someone)"
-  },
-  {
-    "to compete": "зэпэчъэн; нэкъокъон; зэпеон"
   },
   {
     "to sit down": "т1ысын; тет1ысхьан (to sit on); 1ут1ысхьан (to sit near)"
@@ -8598,13 +8595,7 @@
     "rude talk": "жэхъу"
   },
   {
-    "unfortunate": "насыпынчъэ"
-  },
-  {
     "ill-starred": "насыпынчъэ"
-  },
-  {
-    "ill-fated": "насыпынчъэ"
   },
   {
     "luckless": "насыпынчъэ"
@@ -8650,9 +8641,6 @@
   },
   {
     "breakable": "махэ; убэтэгъош1у"
-  },
-  {
-    "fragile": "махэ; ухъо"
   },
   {
     "to cover": "хъумэн (to cover for protection); бгъэн (to thatch); техъон (to lay to cover); теп1он (to lit)"
@@ -9902,7 +9890,7 @@
     "separately": "шъхьаф-шъхьафэу; зыр зырэу (one by one)"
   },
   {
-    "to return": "къэгъэзэжьын (to return back to where one came); к1ожьын (to go back); къэк1ожьын (to return back); зэк1ежьэжьын; дэхьажьын (to return home)"
+    "to return": "къэгъэзэжьын (to return back to where one came); к1ожьын (to go back there); къэк1ожьын (to return back here); зэк1ежьэжьын; дэхьажьын (to return home)"
   },
   {
     "to go back": "к1ожьын"
@@ -12573,34 +12561,31 @@
     "to harness": "к1эш1эн"
   },
   {
-    "to return (there)": "к1ожьын"
+    "fragile": "мыпытэ; махэ"
   },
   {
-    "to return (here), to return back": "къэк1ожьын"
+    "impassable": "к1уадж"
   },
   {
-    "weak, fragile": "к1оч1адж"
+    "flooded roads": "к1уадж"
   },
   {
-    "impassable roads, flooded roads": "к1уадж"
+    "to move a bit": "лъык1отэн"
   },
   {
-    "crowded place": "к1уап1э"
-  },
-  {
-    "to move away a bit": "лъык1отэн"
-  },
-  {
-    "to move near a bit": "къылъык1отэн"
-  },
-  {
-    "to move": "хъыен; кощын (to move elsewhere); к1отэн (to move forward)"
+    "to move": "хъыен; кощын (to move elsewhere); к1отэн (to move forward); лъык1отэн (to move forward/away a bit); зэк1эк1он (to move back)"
   },
   {
     "trail": "лъагъо"
   },
   {
-    "path, way, road": "лъагъо"
+    "path": "гъогу; лъагъо"
+  },
+  {
+    "road": "лъагъо"
+  },
+  {
+    "way": "гъогу; лъагъо"
   },
   {
     "porridge": "п1астэ"
@@ -12612,40 +12597,76 @@
     "bed sheet": "п1этехъо"
   },
   {
-    "blanket": "п1этехъо"
+    "bed-sheet": "п1этехъо"
   },
   {
-    "squama": "п1оны"
+    "bedsheet": "п1этехъо"
+  },
+  {
+    "blanket": "чхы1эн; п1этехъо"
+  },
+  {
+    "scales": "п1оны (scales of fish, reptiles, etc.); шъуамп1э"
   },
   {
     "alimony": "п1упк1э"
   },
   {
-    "to ripen, to mature": "т1ыргъон"
+    "preservation": "ухъумэныр"
   },
   {
-    "alternative form of \"т1уазэ\"": "т1уазэх"
+    "to ripen": "т1ыргъон; (Shapsug) т1ыгъон"
   },
   {
-    "gorge, ravine, canyon": "т1уак1э"
+    "to mature": "т1ыргъон (to ripen); (Shapsug) т1ыгъон"
+  },
+  {
+    "gorge": "т1уак1э"
+  },
+  {
+    "ravine": "т1уак1э; хъуат"
+  },
+  {
+    "canyon": "т1уак1э"
+  },
+  {
+    "gully": "хъуат"
   },
   {
     "old": "т1урыс"
   },
   {
-    "pair": "т1урыт1у"
+    "pair": "т1у; т1урыт1у (by pairs)"
+  },
+  {
+    "set": "зэштэгъу"
   },
   {
     "pair dance": "т1урыт1у къашъо"
   },
   {
-    "rival (female)": "т1уанэ"
+    "rival": "нэкъокъогъу; къыпеорэр"
   },
   {
-    "alternative form of \"ет1анэ\"": "ет1уанэ"
+    "to compete": "дэчъэн (to compete with); пеон; зэпэчъэн (to compete with each other); нэкъокъон; зэпеон"
+  },
+  {
+    "to rival": "пеон; зэпеон"
   },
   {
     "legend": "хъишъ"
+  },
+  {
+    "incident": "къехъул1агъэр (an incident that happened to someone); хъугъэ-ш1агъ"
+  },
+  {
+    "event": "къехъул1агъэр (an event that happened to someone);  хъугъэ-ш1агъ"
+  },
+  {
+    "to determine": "ихъухьан"
+  },
+  {
+    "to decide": "ихъухьан"
   },
   {
     "household": "хъызмэт"
@@ -12676,9 +12697,6 @@
   },
   {
     "toast (a proposed salutation (e.g. to say \"cheers\"))": "хъохъу"
-  },
-  {
-    "ravine": "хъуат"
   },
   {
     "to happen": "хъун"
@@ -15417,9 +15435,6 @@
     "thighbone, femur": "копкъ"
   },
   {
-    "fragile": "мыпытэ"
-  },
-  {
     "builder": "псэолъэш1"
   },
   {
@@ -16824,9 +16839,6 @@
     "leprous": "сэраджэ"
   },
   {
-    "blanket": "чхы1ан"
-  },
-  {
     "example": "шапхъэ"
   },
   {
@@ -17959,9 +17971,6 @@
   },
   {
     "undertaking, action, enterprise, measure (that which is undertaken)": "1офытхьабз"
-  },
-  {
-    "event": "1офытхьабз"
   },
   {
     "to get wasted; to get very drunk or stoned": "шъхьэ убытын"

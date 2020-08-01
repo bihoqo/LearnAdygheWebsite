@@ -62220,6 +62220,18 @@
     "ipa": "t͡ʂəʔəxan"
   },
   {
+    "word": "чхы1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"чхы1ан\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʂəʔəxan"
+  },
+  {
     "word": "къэк1эц1ын",
     "lang": "Adyghe",
     "definitions": [
@@ -64145,7 +64157,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "crowded place",
+        "meaning": "a place where a group goes to gathers",
         "examples": []
       }
     ],
@@ -64292,12 +64304,24 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "squama",
+        "meaning": "scales (of fish, reptiles, etc.)",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "pʷʼanə"
+  },
+  {
+    "word": "зэштэгъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "set (complete set)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "zaʃtaʁʷ"
   },
   {
     "word": "п1упк1э",
@@ -64432,7 +64456,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "rival (female)",
+        "meaning": "one's husband's other wife (in case of a husband that has more than 1 wife)",
         "examples": []
       }
     ],
@@ -81254,7 +81278,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "fragile",
+        "meaning": "wood that pricks easily",
         "examples": []
       }
     ],
@@ -93053,22 +93077,6 @@
     "ipa": "ʔʷafəʁʷ"
   },
   {
-    "word": "1офытхьабз",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "undertaking, action, enterprise, measure (that which is undertaken)",
-        "examples": []
-      },
-      {
-        "meaning": "event",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ʔʷafətħaːbz"
-  },
-  {
     "word": "шъхьэ убытын",
     "lang": "Adyghe",
     "definitions": [
@@ -93079,6 +93087,40 @@
     ],
     "type": "verb",
     "ipa": "ʂħa wəbətən"
+  },
+  {
+    "word": "ихъухьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to determine",
+        "examples": [
+          {
+            "sentence": "'''Ихъохь''' тхьапш пхъэу унэ-пхъэм пае тищык1агъэр",
+            "translation": "'''Determine''' how many woods we need for the wooden-house."
+          }
+		  {
+            "sentence": "К1алэм '''рихъохьагъ''' мэзищ ищык1агъэу унэ ыш1ын фэш1к1э",
+            "translation": "The boy '''determined''' he needs three months to build a house."
+          }
+        ]
+      },
+	  {
+        "meaning": "to decide",
+        "examples": [
+		  {
+            "sentence": "'''Ихъохьашъурэба''' тары джанэу узыфаер?",
+            "translation": "'''Can't you decide''' what shirt you want?"
+          },
+		  {
+            "sentence": "'''Ипхъохьагъа''' сыд тыш1ыщтыр?",
+            "translation": "'''Did you decided''' what we are going to do?"
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "jəχʷəħaːn"
   },
   {
     "word": "пышхэхьан",
