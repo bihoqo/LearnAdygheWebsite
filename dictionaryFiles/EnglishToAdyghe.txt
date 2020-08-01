@@ -408,7 +408,7 @@
     "angle": "къуапэ; къогъо"
   },
   {
-    "corner": "къуач1э, къогъо; къуапэ"
+    "corner": "къогъо; къуач1э; къуапэ"
   },
   {
     "solitude": "зэкъоныгъ"
@@ -2712,7 +2712,7 @@
     "loafer": "армэу"
   },
   {
-    "lazy": "армэу; ерыуадж"
+    "lazy": "армэу; ерыуадж; шъхьахын (to be lazy)"
   },
   {
     "laziness": "шъхьахыныр; армэугъ"
@@ -2835,9 +2835,6 @@
     "middle": "купсэ"
   },
   {
-    "corner": "къуач1э; къогъу; къуапэ"
-  },
-  {
     "pitchfork": "къуахъо"
   },
   {
@@ -2866,9 +2863,6 @@
   },
   {
     "side": "бгъу"
-  },
-  {
-    "wide": "бгъу"
   },
   {
     "ten": "пш1ы"
@@ -3066,9 +3060,6 @@
     "building": "бгъагъэ"
   },
   {
-    "shed": "бгъагъэ"
-  },
-  {
     "roofed building": "бгъагъэ"
   },
   {
@@ -3084,7 +3075,7 @@
     "truth": "шъыпкъэ"
   },
   {
-    "narrow": "зэжъу"
+    "narrow": "зэжъу; бгъузэ"
   },
   {
     "small width": "зэжъу"
@@ -4350,7 +4341,7 @@
     "brave": "л1ыхъужь; л1ыгъэ зыхэлъ; л1эблан; пхъашэ"
   },
   {
-    "courageous": "л1ыхъужь; л1ыгъэ зыхэлъ; л1эблан; пхъашэ"
+    "courageous": "л1ыхъужь; л1ыгъэ зыхэлъ; л1эблан; пхъашэ; гушхо"
   },
   {
     "one seventh": "бланэ"
@@ -4738,9 +4729,6 @@
   },
   {
     "to get wounded": "у1эн"
-  },
-  {
-    "sluggish": "жъажъэ"
   },
   {
     "wadding": "блыгуч1ад"
@@ -6282,9 +6270,6 @@
     "footwear": "цуакъэ"
   },
   {
-    "joy": "жъот"
-  },
-  {
     "merriment": "жъот"
   },
   {
@@ -6333,10 +6318,10 @@
     "inspirer": "к1эщак1о"
   },
   {
-    "forepart": "пашъхьэ"
+    "forepart": "пашъхьэ; ипашъхьэ"
   },
   {
-    "in front of": "пашъхьэ"
+    "in front of": "пашъхьэ; ипашъхьэ"
   },
   {
     "republic": "жъугъэхэку"
@@ -8975,7 +8960,7 @@
     "to rotate": "гъэзэн (to rotate once); чэрэзын (to be rotating); гъэчэрэзын (to rotate something); зыгъэчэрэгъун (to rotate oneself), зыгъэчэрэзын  (to rotate oneself)"
   },
   {
-    "to spin": "чэрэзын (to be spinning); гъэчэрэзын (to spin something); зыгъэчэрэгъун (to spin oneself), зыгъэчэрэзын  (to spin oneself)"
+    "to spin": "джын; чэрэзын (to be spinning); гъэчэрэзын (to spin something); зыгъэчэрэгъун (to spin oneself), зыгъэчэрэзын  (to spin oneself)"
   },
   {
     "to bake": "гъэжъэн"
@@ -10394,7 +10379,7 @@
     "to be extinguished": "к1осэн"
   },
   {
-    "to blame": "телъхьажьын; гъэмысэн; егыин (to upbraid, to reproach)"
+    "to blame": "лажьэ телъхьэжьын; телъхьажьын; гъэмысэн; егыин (to upbraid, to reproach)"
   },
   {
     "to spite": "гоон; егоон"
@@ -10709,7 +10694,10 @@
     "dream": "пк1ыхь; пк1ыхьап1"
   },
   {
-    "time": "уахътэ; гъо; чэзыу (turn); игъу (one's time); лъэхъан (era)"
+    "time": "уахътэ; гъо; чэзыу (turn); игъу (one's time); лъэхъан (era); гъогогъу (as in гъогогъуищы: three times)"
+  },
+  {
+    "times": "гъогогъу (as in гъогогъуищы: three times)"
   },
   {
     "epoch": "лъэхъан"
@@ -10952,7 +10940,7 @@
     "half dead": "ныкъуал1э"
   },
   {
-    "to inflate": "гъэпщын; гъэбэгын"
+    "to inflate": "пщын; бэгын; гъэпщын (to inflate something); гъэбэгын  (to inflate something)"
   },
   {
     "to tire": "гъэпшъын"
@@ -11154,7 +11142,7 @@
     "madhouse": "джынэузэщ"
   },
   {
-    "present": "джырэ; (dialectal) иджырэ; ш1ухьафтын (gift)"
+    "present": "джырэ (time); (dialectal) иджырэ (time); ш1ухьафтын (gift)"
   },
   {
     "not long ago": "бэ мыш1эу; бэ темыш1эу; джырэблагъэ"
@@ -11631,7 +11619,7 @@
     "to have an idea": "гукъэк1ын"
   },
   {
-    "gift": "ш1ухьафтын"
+    "gift": "ш1ухьафтын; гуш1уапк1э (gift for good news)"
   },
   {
     "to be rolling": "джыджэн; еджыджэхын (to roll down)"
@@ -11682,7 +11670,7 @@
     "as a result": "арти"
   },
   {
-    "so": "арти (thus); сыдэу (so much)"
+    "so": "арти (thus); сыдэу (so much); (dialectal) шъыдэу"
   },
   {
     "to swing": "уфын"
@@ -11976,7 +11964,7 @@
     "to be patient": "зыгъэсамбырын; зыщэ1эн"
   },
   {
-    "wide": "шъуамбгъо"
+    "wide": "шъуамбгъо; быхъу"
   },
   {
     "big width": "шъуамбгъо"
@@ -12339,166 +12327,130 @@
     "pliable": "уфэупц1э (уфэ-упц1); лант1э"
   },
   {
-    "very long": "к1ыхьэлыхьэ"
+    "very long": "к1ыхьэ-лыхь"
   },
   {
-    "very tall": "к1ыхьэлыхьэ"
+    "very tall": "к1ыхьэ-лыхь"
   },
   {
-    "underwear": "гъончэдж ч1эгъыч1элъ"
+    "sluggish": "жъажъэ; к1ыхьэ-лыхь"
   },
   {
-    "to spin": "гъэчэрэзын"
+    "underwear": "гъончэдж ч1эгъыч1элъ; гъончэдж ц1ык1у"
   },
   {
-    "to roll": "гъэчэрэзын"
+    "to shower": "зыгъэпск1ын (to take a shower); зыгъэпк1ын (to take a shower); гъэпск1ын (to shower someone); гъэпк1ын (to shower someone)"
   },
   {
-    "to shower, to bath, to lave": "гъэпск1ын"
+    "to take a shower": "зыгъэпск1ын; зыгъэпк1ын"
   },
   {
-    "to take a shower, to take a bath": "зыгъэпск1ын"
+    "to take a bath": "зыгъэпск1ын; зыгъэпк1ын"
   },
   {
-    "alternative form of \"гъэпс1эн\"": "гъэпс1ын"
+    "to bath": "зыгъэпск1ын (to take a bath); зыгъэпк1ын (to take a bath); гъэпск1ын (to bath someone); гъэпк1ын (to bath someone)"
   },
   {
-    "alternative form of \"гъэпц1эн\"": "гъэпц1ын"
+    "card": "карт"
   },
   {
-    "alternative form of \"жэхэпк1эн\"": "джыхэпк1эн"
+    "valley": "к1эй; лъэгу"
   },
   {
-    "card": "пкьэн"
+    "chasm": "т1ок1э куу; къое-ч1ай; къуладжэ"
   },
   {
-    "alternative form of \"пк1эн\"": "мэпк1эн"
+    "abyss": "т1ок1э куу; къушъхьэт1ок1э къое-ч1ай"
   },
   {
-    "valley": "къоладжэ"
+    "precipice": "т1ок1э куу; къое-ч1ай"
   },
   {
-    "chasm, abyss": "къоладжэ"
+    "riverbed": "къуладжэ; псычъап1э"
   },
   {
-    "alternative form of \"чэ\"": "кьэ"
+    "sweater": "цыджанэ; свитер"
   },
   {
-    "little": "ц1ык1у"
+    "exploiter": "гъэпщыл1ак1о"
   },
   {
-    "sweater": "цыджанэ"
+    "to exploit": "гъэпщыл1ын"
   },
   {
-    "baldhead": "шъхьэджашъу"
-  },
-  {
-    "very big": "фэжъыуф"
-  },
-  {
-    "(mythology) Nart": "нарт"
-  },
-  {
-    "(mythology) Nart": "нат"
+    "baldhead": "шъхьэджашъу; шъхьэкъуй"
   },
   {
     "to be cursed": "тхьэр еон"
   },
   {
-    "unmounted, dismounted, someone that is going on foot": "лъэсы"
+    "walk": "лъэсы"
   },
   {
-    "alternative form of \"чэмы\"": "чэм"
+    "unmounted": "мышыу"
   },
   {
-    "alternative form of \"чэщы\"": "чэщ"
+    "dismounted": "мышыу"
   },
   {
-    "alternative form of \"уцы\"": "уц"
+    "to swell": "пщын; бэгын; гъэпщын (to swell something); гъэбэгын  (to swell something)"
   },
   {
-    "alternative form of \"мэлы\"": "мэл"
-  },
-  {
-    "alternative form of \"шхъогъон\"": "шъухъогъон"
-  },
-  {
-    "alternative form of \"шъухъогъон\"": "мэшъухъогъон"
-  },
-  {
-    "alternative form of \"шъухъогъон\"": "ешъухъогъон"
-  },
-  {
-    "to be envy of": "ешъугъун"
-  },
-  {
-    "to become inflated, to become bigger in a round shape (usually by air)": "пщын"
-  },
-  {
-    "to swell (Usually a specific spot)": "пщын"
-  },
-  {
-    "alternative form of \"к1эй\"": "к1ьэй"
-  },
-  {
-    "cry noise": "гъымакъэ"
+    "cry noise": "гъымакъэ (гъы макъэ)"
   },
   {
     "to talk": "гущы1эн; псэлъэн"
   },
   {
-    "alternative form of \"нэш1ош1\"": "нэш1ош1у"
-  },
-  {
-    "box": "къэмлан"
+    "box": "къэмлан; (Shapsug) сандыкъ"
   },
   {
     "alas": "еоой"
   },
   {
-    "whatever": "лъэужьэу"
+    "whatever": "сыдэу; сыд фэдэ; сыд фэдэми"
   },
   {
-    "whatever": "сыдэу"
+    "to unbuckle": "т1этэн; гъэт1этэн; къыпыт1этык1ын; къыпыт1этык1ыжьын; къык1эрыт1этык1ын"
   },
   {
-    "so": "сыдэу"
+    "to unzip": "т1этэн; гъэт1этэн; къыпыт1этык1ын; къыпыт1этык1ыжьын; къык1эрыт1этык1ын"
   },
   {
-    "in front of": "ипашъхьэ"
+    "to unbutton": "т1этэн; гъэт1этэн; къыпыт1этык1ын; къыпыт1этык1ыжьын; къык1эрыт1этык1ын"
   },
   {
-    "bough": "къутамэ"
+    "to unfasten": "т1этэн; гъэт1этэн; къыпыт1этык1ын; къыпыт1этык1ыжьын; къык1эрыт1этык1ын"
   },
   {
-    "to disband": "т1этэн"
+    "to untie": "т1этэн; гъэт1этэн; къыпыт1этык1ын; къыпыт1этык1ыжьын; къык1эрыт1этык1ын"
   },
   {
-    "to unleash": "т1этэн"
+    "to unbind": "т1этэн; гъэт1этэн; къыпыт1этык1ын; къыпыт1этык1ыжьын; къык1эрыт1этык1ын"
   },
   {
-    "to unbutton": "т1этэн"
+    "to unleash": "т1этэн; гъэт1этэн; къыпыт1этык1ын; къыпыт1этык1ыжьын; къык1эрыт1этык1ын"
   },
   {
-    "alternative form of \"к1элэеджак1о\"": "к1элэегьак1о"
-  },
-  {
-    "to be lazy, to be unwilling to do work or make an effort": "шъхьахын"
+    "to be lazy": "шъхьахын"
   },
   {
     "sleep": "чъые"
   },
   {
-    "(Shapsug dialect) funny": "гуш1уагъо"
+    "funny": "щхэны; (Shapsug) гуш1уагъо"
   },
   {
-    "joy, happiness": "гуш1уагъо"
+    "joy": "чэфыныгъ; гуш1уагъо; жъот"
   },
   {
-    "brave": "гушхо"
+    "happiness": "насыпыш1уагъ"
   },
   {
-    "present": "гуш1уапк1э"
+    "daring": "гушхо"
+  },
+  {
+    "audacious": "гушхо"
   },
   {
     "preface": "гущы1ап"
@@ -12507,16 +12459,16 @@
     "hunger": "гъаблэ"
   },
   {
-    "millet": "гъажъо"
-  },
-  {
     "paint": "гъалэ"
   },
   {
     "fellow traveler": "гъогогъу"
   },
   {
-    "time; instance": "гъогогъу"
+    "instance": "гъогогъу (as in гъогогъуищы: three times)"
+  },
+  {
+    "instances": "гъогогъу (as in гъогогъуищы: three times)"
   },
   {
     "have a nice day": "гъогумаф"
@@ -12525,58 +12477,76 @@
     "have a nice trip": "гъогумаф"
   },
   {
-    "to roar, to growl": "гъогын"
+    "to roar": "гъогын"
   },
   {
-    "steam": "гъоз"
+    "to growl": "гъогын"
   },
   {
-    "food": "гъомыл"
+    "steam": "пахъэ; гъоз"
   },
   {
-    "gadfly": "гъунд"
+    "water vapor": "пахъэ; гъоз"
+  },
+  {
+    "gadfly": "гъудэ / гъуды"
+  },
+  {
+    "botfly": "гъудэ / гъуды"
   },
   {
     "blacksmith": "гъук1э"
   },
   {
-    "to nail down something (to attach with a nail) on the side": "го1ул1эн"
+    "smithy": "к1ыщ"
   },
   {
-    "to sweep something on the side": "го1ул1эн"
+    "farriery": "к1ыщ"
+  },
+  {
+    "forge": "к1ыщ"
+  },
+  {
+    "to forge": "гъук1эн; фытэн"
   },
   {
     "fur coat": "джэдыгу"
   },
   {
-    "bag; sack": "дзыо"
+    "sheepskin coat": "джэдыгушху"
   },
   {
     "warlord": "дзэпщ"
   },
   {
+    "commander": "дзэпщ"
+  },
+  {
+    "military leader": "дзэпщ"
+  },
+  {
+    "general": "дзэпщ"
+  },
+  {
     "brake": "кулъэшъу"
   },
   {
-    "core": "купк1"
+    "core": "купк1ы"
   },
   {
-    "stubborn": "къаигъэ"
+    "pith": "купк1ы"
   },
   {
-    "barn": "къакъыр"
+    "barn": "хьамбар"
+  },
+  {
+    "shed": "къакъыр"
   },
   {
     "reed": "къамыл"
   },
   {
-    "force": "къарыу"
-  },
-  {
-    "corner": "къогъо"
-  },
-  {
-    "to go to the corner of": "къохьэн"
+    "force": "к1уач1э; къарыу"
   },
   {
     "west": "къохьап1э"
@@ -12588,10 +12558,13 @@
     "bribe": "къуалъхьэ"
   },
   {
-    "watercourse; riverbed": "къуладжэ"
+    "watercourse": "къуладжэ"
   },
   {
-    "bowery": "къутыр"
+    "farmstead": "хап1э; къутыр"
+  },
+  {
+    "khutor": "къутыр"
   },
   {
     "ash tree": "к1ай"
@@ -12685,9 +12658,6 @@
   },
   {
     "jay": "хъыу"
-  },
-  {
-    "joy": "хъяр"
   },
   {
     "good bye": "хъярк1э"
@@ -14568,9 +14538,6 @@
     "to become dull, to dull (lose a sharp edge)": "уцэкун"
   },
   {
-    "to spin": "джын"
-  },
-  {
     "alternative form of \"еджэн\"": "джэн"
   },
   {
@@ -15760,12 +15727,6 @@
   },
   {
     "to be whirled": "чэрэгъун"
-  },
-  {
-    "to spin": "чэрэзын"
-  },
-  {
-    "funny": "щхэны"
   },
   {
     "laugh": "щхэны"
@@ -17292,9 +17253,6 @@
     "to pour out, to spill out (of bulk material, objects, or pieces, not liquid)": "итэкъун"
   },
   {
-    "barn": "хьамбар"
-  },
-  {
     "to strew / scatter (over an area), to distribute objects or pieces of something over an area (especially in a random manner)": "ипхъыхьан"
   },
   {
@@ -18060,9 +18018,6 @@
     "alternative form of \"гъэуп1ыц1эн\"": "уп1ыц1эн"
   },
   {
-    "baldhead": "шъхьэкъуй"
-  },
-  {
     "bald": "къуй"
   },
   {
@@ -18589,9 +18544,6 @@
   },
   {
     "to curse; to damn": "еук1ын"
-  },
-  {
-    "box": "сандыкъ"
   },
   {
     "squint-eyed, cross-eyed": "назэ"
@@ -19240,9 +19192,6 @@
   },
   {
     "peasant": "мэкъумэщыш1"
-  },
-  {
-    "millet": "мэщы"
   },
   {
     "day before yesterday, two days ago": "тыгъоснахьыпэ"

@@ -1941,7 +1941,9 @@
       }
     ],
     "synonyms": [
-      "к1эй"
+      "к1эй",
+      "охы",
+      "ч1ыох"
     ],
     "type": "noun",
     "ipa": "ɬaɡʷ"
@@ -10330,7 +10332,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"къоладжэ\"",
+        "meaning": "alternative form of \"къуладжэ\"",
         "examples": []
       }
     ],
@@ -49182,7 +49184,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"к1ыхьэлыхьэ\"",
+        "meaning": "alternative form of \"к1ыхьэ-лыхь\"",
         "examples": []
       }
     ],
@@ -62741,7 +62743,7 @@
     "ipa": "zaɕəʁaħaːn"
   },
   {
-    "word": "к1ыхьэлыхьэ",
+    "word": "к1ыхьэ-лыхь",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -62754,7 +62756,7 @@
       }
     ],
     "type": "adj",
-    "ipa": "t͡ʃʼəħaɮəħa"
+    "ipa": "t͡ʃʼəħa-ɮəħa"
   },
   {
     "word": "гъончэдж ч1эгъыч1элъ",
@@ -62908,11 +62910,11 @@
     "ipa": "mapt͡ʃʼan"
   },
   {
-    "word": "къоладжэ",
+    "word": "къуладжэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "deep valley",
+        "meaning": "(Shapsug) deep valley; chasm; abyss",
         "examples": [
           {
             "sentence": "Уинэ1э зытэгъэтыжь, '''къоладжым''' уимыш1ахэу уифэщт",
@@ -62921,16 +62923,12 @@
         ]
       },
       {
-        "meaning": "chasm",
-        "examples": []
-      },
-      {
-        "meaning": "abyss",
+        "meaning": "watercourse; riverbed",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "qʷalaːd͡ʒa"
+    "ipa": "qʷəlaːd͡ʒa"
   },
   {
     "word": "кьэ",
@@ -63065,7 +63063,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "unmounted, dismounted, someone that is going on foot",
+        "meaning": "walk on foot; pedestrian (one who walks or goes on foot); unmounted; dismounted",
         "examples": [
           {
             "sentence": "Еджап1эм '''лъэсык1э''' тыгъак1у",
@@ -63495,15 +63493,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to disband",
+        "meaning": "to unbuckle; to unzip; to unbutton; to unfasten",
         "examples": []
       },
       {
-        "meaning": "to unleash",
-        "examples": []
-      },
-      {
-        "meaning": "to unbutton",
+        "meaning": "to untie; to unbind; to undo; to unleash",
         "examples": []
       }
     ],
@@ -63593,7 +63587,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "brave",
+        "meaning": "courageous, daring, audacious",
         "examples": []
       }
     ],
@@ -63605,7 +63599,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "present",
+        "meaning": "gift for good news",
         "examples": []
       }
     ],
@@ -63776,10 +63770,14 @@
     "ipa": "ʁʷaːpa"
   },
   {
-    "word": "гъунд",
+    "word": "гъудэ",
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "gadfly",
+        "examples": []
+      },
+	  {
         "meaning": "gadfly",
         "examples": []
       }
@@ -63858,6 +63856,14 @@
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "commander; military leader",
+        "examples": []
+      },
+	  {
+        "meaning": "general (army)",
+        "examples": []
+      },
+	  {
         "meaning": "warlord",
         "examples": []
       }
@@ -63878,7 +63884,7 @@
     "ipa": "kʷəɬaʃʷ"
   },
   {
-    "word": "купк1",
+    "word": "купк1ы",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -63906,7 +63912,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "barn",
+        "meaning": "shed",
         "examples": []
       }
     ],
@@ -64029,23 +64035,11 @@
     "ipa": "qʷaːɬħa"
   },
   {
-    "word": "къуладжэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "watercourse; riverbed",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "qʷəɮaːd͡ʒa"
-  },
-  {
     "word": "къутыр",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "bowery",
+        "meaning": "khutor, farm, farmstead",
         "examples": []
       }
     ],
@@ -64386,6 +64380,18 @@
     "ipa": "tʷʼaːt͡ʃʼa"
   },
   {
+    "word": "гъэпщыл1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to exploit",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʁapɕəlʼən"
+  },
+  {
     "word": "т1урыс",
     "lang": "Adyghe",
     "definitions": [
@@ -64537,7 +64543,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "joy",
+        "meaning": "well",
         "examples": []
       }
     ],
@@ -70895,6 +70901,18 @@
     ],
     "type": "verb",
     "ipa": "taʁapsaħaːn"
+  },
+  {
+    "word": "к1ыщ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "smithy, farriery, forge",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃʼəɕ"
   },
   {
     "word": "к1оц1ылъхьан",
@@ -90451,6 +90469,47 @@
     "ipa": "ʔʷafətan"
   },
   {
+    "word": "фытэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to forge",
+        "examples": [
+          {
+            "sentence": "Гъуч1ы '''фытэн'''",
+            "translation": "'''To forge''' iron."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʔʷafətan"
+  },
+  {
+    "word": "быхъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "wide",
+        "examples": [
+          {
+            "sentence": "Гъончэджыр '''быхъу''' хъугъэ",
+            "translation": "The pants became '''wide'''"
+          }
+        ]
+      },
+	  {
+        "meaning": "thick (fat)",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "зэжъу"
+    ],
+    "type": "adj",
+    "ipa": "bəχʷ"
+  },
+  {
     "word": "шык1эпшынэ къыфеон",
     "lang": "Adyghe",
     "definitions": [
@@ -96712,6 +96771,18 @@
     "ipa": "pχat͡ʃaːj"
   },
   {
+    "word": "к1ад",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "tub, vat",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃʼaːd"
+  },
+  {
     "word": "къещэк1ын",
     "lang": "Adyghe",
     "definitions": [
@@ -100184,23 +100255,6 @@
     "synonyms": [
       "к1эй",
       "лъэгу",
-      "ч1ыох"
-    ],
-    "type": "noun",
-    "ipa": "waxe"
-  },
-  {
-    "word": "лъэгу",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "valley; vale; dale",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "к1эй",
-      "охы",
       "ч1ыох"
     ],
     "type": "noun",
