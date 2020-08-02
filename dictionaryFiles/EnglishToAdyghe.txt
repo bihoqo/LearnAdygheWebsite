@@ -48,9 +48,6 @@
     "to play": "еон / къеон (to play an instrument); джэгун (to play a game); еш1эн / къеш1эн (to play a game)"
   },
   {
-    "to shake": "сысын; гъэсысын; гъэшк1олъэн (to shake a liquid in a container); зэзэн; гъэзэзэн"
-  },
-  {
     "to play instrument": "он; еон"
   },
   {
@@ -3276,9 +3273,6 @@
     "to sneak": "ч1эк1ошъэн"
   },
   {
-    "to tremble": "к1эзэзын; сысын"
-  },
-  {
     "to be split": "зэгок1ын"
   },
   {
@@ -4125,7 +4119,7 @@
     "to plan": "гъэпсын; план гъэуцун, план зэхэлъхьан"
   },
   {
-    "to aim": "гъэпсын (to start aiming); тегъэпсыхьан (to aim at)"
+    "to aim": "гъэпсын (to start aiming); тегъэпсыхьан (to aim at); фэгъэпсын (to aim at)"
   },
   {
     "to fit out": "зэгъэпэшын"
@@ -8445,7 +8439,7 @@
     "loose jaw": "жэ1улэл"
   },
   {
-    "to hang": "пылъын (to be hanging); пылъэн (to hang); 1улэлын (to hang and bounce freely)"
+    "to hang": "пылъын (to be hanging); пылъэн (to hang); улэлэн (to hang loosed)"
   },
   {
     "foolishness": "делагъэ; жэ1улэлыгъ; (vulgar) цумэнагъэ"
@@ -10110,9 +10104,6 @@
   },
   {
     "to smell": "пэмэн (to try to smell); фэмэн (Shapsug); еун (to smell something); пыун (to emit smell); мэ пихын (to emit smell); ш1умэ пыун (to stink); ш1умэ пихын (to stink)"
-  },
-  {
-    "to evade": "ш1ок1ын"
   },
   {
     "to get away from": "ш1ок1ын"
@@ -13049,121 +13040,82 @@
     "dizzy": "(Shapsug) шъхьэпразэ; шъхьэуназэ"
   },
   {
-    "to help": "1эпы1эн"
-  },
-  {
-    "to help; to aid; to assist": "дэ1эпы1эн"
-  },
-  {
-    "to evade": "1эпык1ын"
-  },
-  {
-    "to not be able to hold the pee": "1эпык1ын"
-  },
-  {
-    "to gaze exaggeratedly at someone, to stare really intently or really earnestly at someone": "нэк1э рик1ын"
+    "to evade": "ш1ок1ын; 1эпык1ын"
   },
   {
     "treatment": "1эзэгъу"
   },
   {
-    "medicine": "1эзэгъу"
+    "healthy": "псао; узынчъэ, псауныгъэ зи1э"
   },
   {
-    "healthy": "1эзэгъу"
+    "healing partner": "1эзэгъу"
   },
   {
-    "healing partner; healing body; healing friend": "1эзэгъу"
+    "healing body": "1эзэгъу"
   },
   {
-    "alternative form of \"мэузын\"": "узын"
-  },
-  {
-    "alternative form of \"мэулэлэн\"": "улэлэн"
+    "healing friend": "1эзэгъу"
   },
   {
     "to get rusted": "улъыин"
   },
   {
-    "alternative form of \"улъыин\"": "мэулъыен"
+    "rusted": "улъыягъ"
   },
   {
-    "to hang and bounce (freely)": "мэулэлэн"
+    "to announce": "к1эджэн (to announce out loud); макъэ егъэ1ун (to announce someone), къэбар егъэш1эн (to announce someone)"
   },
   {
-    "to be closed from all sides": "зэтэухьэлэн"
+    "to declare": "къэ1он; к1эджэн (to declare openly)"
   },
   {
-    "alternative form of \"мэунэхъун\"": "унэхъун"
+    "to inform": "е1отэн / е1отэжьын (to inform someone); макъэ егъэ1ун (to inform someone), къэбар егъэш1эн (to inform someone)"
   },
   {
-    "alternative form of \"пхын\"": "епхын"
+    "to shiver": "к1эзэзын; тхытхын"
   },
   {
-    "alternative form of \"к1эджэн\"": "к1эгьэн"
+    "to tremble": "к1эзэзын; тхытхын"
   },
   {
-    "to announce": "к1эджэн"
-  },
-  {
-    "to declare openly": "к1эджэн"
-  },
-  {
-    "to inform widely about": "к1эджэн"
-  },
-  {
-    "to be killed": "мэук1ын"
-  },
-  {
-    "alternative form of \"тхытхын\"": "мэтхытхын"
-  },
-  {
-    "to shiver (to tremble or shake, especially when cold or frightened.)": "тхытхын"
+    "to shake": "сысын; гъэсысын; гъэшк1олъэн (to shake a liquid in a container); зэзэн; гъэзэзэн; тхытхын (to shiver, to tremble); к1эзэзын (to shiver, to tremble)"
   },
   {
     "cave": "гъоч1эгъ"
   },
   {
-    "to step on liquid": "хэуцон"
+    "to step on": "теуцон; хэуцон (to step on liquid or gas); иуцон (to step inside)"
   },
   {
-    "to step on": "тэуцон"
+    "to fold": "зэтеупл1энк1эн; (Shapsug) зэтеул1эк1эн"
   },
   {
-    "(Abzakh dialect) guest": "хьа1ьэ"
+    "to stack": "зэтелъхьан (to stack on each other)"
   },
   {
-    "to fold": "зэтэу1ок1эн"
+    "to point to": "1эхъуамбэр фэгъэпсын"
   },
   {
-    "to stack": "зэтэлъхьэн"
+    "have it coming": "фэшъуаш"
   },
   {
-    "to point to, to aim for": "фэгъэпсын"
+    "deserve": "фэшъуаш"
   },
   {
-    "alternative form of \"ек1ун\"": "к1ун"
+    "deservingly": "фэшъуаш"
   },
   {
-    "have it coming (appropriate penalty); deserve": "фэшъуаш"
+    "appropriately": "фэшъуаш"
   },
   {
-    "depends on": "фэшъуаш"
+    "depends on": "егъэпхыгъ; фэшъуаш"
   },
   {
-    "to mean": "къырегъэхьын"
+    "to mean": "къегъэхьын (къебгъэхьын; къыригъэхьын); къигъэк1ын"
   },
   {
-    "someone to make/allow someone else to bring a": "къырегъэхьын"
-  },
-  {
-    "to make oneself patient, to content oneself to wait if necessary; not losing one self's temper while waiting.": "зыгъэсамбырын"
-  },
-  {
-    "to be stacked": "зэтэлъын"
-  },
-  {
-    "alternative form of \"шъхьак1э\"": "ащ шъхьэк1ьэ"
+    "to be stacked": "зэтелъын"
   },
   {
     "to distinguish between": "зэхэдзын"

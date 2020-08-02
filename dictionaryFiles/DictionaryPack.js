@@ -67618,8 +67618,8 @@
             "translation": "'''You can't evade''' the dept you need to pay."
           },
           {
-            "sentence": "А к1элэ 1эежъым '''сы1эпык1эгъ'''",
-            "translation": "'''I evaded''' that annoying boy."
+            "sentence": "А ц1ыф бзаджэм '''сы1эпык1ыгъ'''",
+            "translation": "'''I evaded''' that bad person."
           }
         ]
       },
@@ -67712,11 +67712,11 @@
     "ipa": "wəzən"
   },
   {
-    "word": "улэлэн",
+    "word": "мэулэлэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"мэулэлэн\"",
+        "meaning": "alternative form of \"улэлэн\"",
         "examples": []
       }
     ],
@@ -67753,35 +67753,59 @@
     "ipa": "mawəɬəjan"
   },
   {
-    "word": "мэулэлэн",
+    "word": "улэлэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to hang and bounce (freely)",
+        "meaning": "to hang loosed (and possible to bounce freely)",
         "examples": [
           {
             "sentence": "Уицуакъэ илъапсэхэр '''мэулалэх'''",
-            "translation": "Your shoelaces '''are bouncing'''."
+            "translation": "Your shoelaces '''are loosed and bouncing freely'''."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "mawəlalan"
+    "ipa": "wəɮaɮan"
   },
   {
-    "word": "зэтэухьэлэн",
+    "word": "лэнлэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to weaken, to grow weak/feeble, to slack off, to slacken",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɮanɮan"
+  },
+  {
+    "word": "хъыбэй",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "weak, feeble",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "χəbaj"
+  },
+  {
+    "word": "зэтеухьэлэн",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to be closed from all sides",
         "examples": [
           {
-            "sentence": "Мафэ дахэм к1алэр яунэ '''зэтэухьэлагъи''' ис",
+            "sentence": "Мафэ дахэм к1алэр яунэ '''зэтеухьэлагъи''' ис",
             "translation": "In the beautiful day the boy is sitting in the house '''closed in all sides'''."
           },
           {
-            "sentence": "Мы унэр '''зэтэухьэлагъ'''",
+            "sentence": "Мы унэр '''зэтеухьэлагъ'''",
             "translation": "This house '''is closed from all sides'''."
           }
         ]
@@ -67944,39 +67968,6 @@
     "ipa": "xawt͡sʷən"
   },
   {
-    "word": "тэуцон",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to step on",
-        "examples": [
-          {
-            "sentence": "Пхъэм '''утэмыуцоу''' блэк1",
-            "translation": "Pass the wood without '''stepping on it'''."
-          },
-          {
-            "sentence": "1анэм '''утэмыуцу'''",
-            "translation": "'''Don't step on''' the table."
-          },
-          {
-            "sentence": "Хьамбылыум '''сытэуцагъ'''",
-            "translation": "'''I stepped on''' the worm."
-          },
-          {
-            "sentence": "К1алэр джэгуалъэхэмэ имыш1ахэу '''ятауцо'''",
-            "translation": "The boy accidentally '''is stepping''' on the toys."
-          },
-          {
-            "sentence": "К1алэм ицуакъэхэр псыжъык1э ш1оихэу унэм иджыхашъо '''тауцо'''",
-            "translation": "The boy '''is stepping''' on the house's floor with his dirty mud shoes."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "tawt͡sʷən"
-  },
-  {
     "word": "хьа1ьэ",
     "lang": "Adyghe",
     "definitions": [
@@ -67996,39 +67987,39 @@
     "ipa": "ħaːʔʲa"
   },
   {
-    "word": "зэтэу1ок1эн",
+    "word": "зэтеупл1энк1эн",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to fold",
         "examples": [
           {
-            "sentence": "Тхылъып1э '''зэтэу1уак1'''",
+            "sentence": "Тхылъып1э '''зэтеупл1анк1'''",
             "translation": "'''Fold''' the paper."
           },
           {
-            "sentence": "К1алэм тхылъып1э '''зэтеу1уак1э'''",
+            "sentence": "К1алэм тхылъып1э '''зэтеупл1анк1э'''",
             "translation": "The boy '''is folding''' the paper."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "zatawʔʷat͡ʃʼan"
+    "ipa": "zatajwpɬʼat͡ʃʼan"
   },
   {
-    "word": "зэтэлъхьэн",
+    "word": "зэтелъхьан",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to stack",
         "examples": [
           {
-            "sentence": "Тхылъыхэр '''зэталъхьэх'''",
+            "sentence": "Тхылъыхэр '''зэтелъхьах'''",
             "translation": "'''Stack''' the books."
           },
           {
-            "sentence": "Л1ым пхъэхэр '''зэтелъхьэх'''",
+            "sentence": "Л1ым пхъэхэр '''зэтелъхьах'''",
             "translation": "The man '''is stacking''' the woods."
           }
         ]
@@ -68105,23 +68096,19 @@
     "ipa": "faʃʷaːʃ"
   },
   {
-    "word": "къырегъэхьын",
+    "word": "къегъэхьын",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to mean",
         "examples": [
           {
-            "sentence": "Сыд '''къуебгъэхьырэ'''?",
+            "sentence": "Сыд '''къебгъэхьырэ'''?",
             "translation": "What '''do you mean'''?"
           },
           {
             "sentence": "'''Къезгъэхьырэр''' мары",
             "translation": "This is '''what I mean'''."
-          },
-          {
-            "sentence": "Ащ '''къыригъэхьыгъэр''' уеджэнэр ары",
-            "translation": "'''What he meant was''' for us to study."
           },
           {
             "sentence": "Арэп '''къезгъэхьырэр'''",
@@ -68171,18 +68158,18 @@
     "ipa": "zəʁasaːmbərən"
   },
   {
-    "word": "зэтэлъын",
+    "word": "зэтелъын",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to be stacked",
         "examples": [
           {
-            "sentence": "Тхылъыхэр '''зэтэлъых'''",
+            "sentence": "Тхылъыхэр '''зэтелъых'''",
             "translation": "The books '''are stacked'''"
           },
           {
-            "sentence": "Пхъэхэр '''зэтэлъыхэу''' щагум дэтых",
+            "sentence": "Пхъэхэр '''зэтелъыхэу''' щагум дэтых",
             "translation": "The woods are in the yard '''stacked'''."
           }
         ]
@@ -84526,7 +84513,28 @@
     "definitions": [
       {
         "meaning": "to stop on",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Пхъэм '''утемыуцоу''' блэк1",
+            "translation": "Pass the wood without '''stepping on it'''."
+          },
+          {
+            "sentence": "1анэм '''утемыуцу'''",
+            "translation": "'''Don't step on''' the table."
+          },
+          {
+            "sentence": "Хьамбылыум '''сытеуцагъ'''",
+            "translation": "'''I stepped on''' the worm."
+          },
+          {
+            "sentence": "К1алэр джэгуалъэхэмэ ымыш1ахэу '''атауцо'''",
+            "translation": "The boy accidentally '''is stepping''' on the toys."
+          },
+          {
+            "sentence": "К1алэм ицуакъэхэр псынжъык1э ш1оихэу унэм иджэхашъо '''теуцо'''",
+            "translation": "The boy '''is stepping''' on the house's floor with his dirty mud shoes."
+          }
+		]
       },
       {
         "meaning": "to stand still on",
