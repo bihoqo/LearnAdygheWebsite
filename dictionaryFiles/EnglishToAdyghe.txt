@@ -3642,16 +3642,16 @@
     "to throw": "дзын; лъыдзын (to throw toward); тедзэн (to throw on); тедзын (to throw off from above something); 1удзэн (to throw near); 1удзын (to throw away); ч1эдзэн (to throw under); ч1эдзын (to throw away from under); хэдзэн (to throw among people/objects or into an area with gas or liquid); хэдзын (to throw away from among people/objects or outside an area with gas or liquid); дэдзыен (to throw up); едзыхын (to throw down); жэхэдзэн (to throw intensively onto someone); зэк1эдзэн (to throw backward); шъхьэдэдзын (to throw over); жэхэдзэн (to intensively throw something against)"
   },
   {
-    "to throw away": "тедзын / къытедзын (to throw on); 1удзын / къы1удзын (to throw away, to throw elsewhere); идзын / къыидзын (to throw away from inside); дэдзын / къыдэдзын (to throw away from inside another object or from between); ч1эдзын / къыч1эдзын (to throw away from under); хэдзын / къыхэдзын (to throw away from among people/objects or outside an area with gas or liquid); пыдзын / къыпыдзын (to throw away from the surface of a body); жэхэдзын / къыжэхэдзын (to intensively throw away from someone)"
+    "to throw away": "тедзын / къытедзын (to throw on); 1удзын / къы1удзын (to throw away, to throw elsewhere); идзын / къыидзын (to throw away from inside); дэдзын / къыдэдзын (to throw away from inside another object or from between); ч1эдзын / къыч1эдзын (to throw away from under); хэдзын / къыхэдзын (to throw away from among people/objects or outside an area with gas or liquid); пыдзын / къыпыдзын (to throw away from the surface of a body); жэхэдзын / къыжэхэдзын (to intensively throw away from someone); къызтедзын / къызпэдзын (to throw something away from oneself)"
   },
   {
     "to come into existence": "къэхъун"
   },
   {
-    "to born": "къэхъун; къалъфын"
+    "to born": "къэхъун; къалъфын; къыхэхъохьан (to born among or born in a certian environment)"
   },
   {
-    "to come into being": "къэхъун; къалъфын"
+    "to come into being": "къэхъун; къалъфын; къыхэхъохьан (to come into being among)"
   },
   {
     "permitted": "хъущт; адагъэ"
@@ -9710,7 +9710,7 @@
     "to be in a hurry": "гузэжъон; тхъытхъын"
   },
   {
-    "to hurry": "гузэжъон (to be in a hurry); тхъытхъын (to be in a hurry); гъэпсынк1эн (to hasten); гъэгузэжъон (to make someone hurry)"
+    "to hurry": "гузэжъон (to be in a hurry); тхъытхъын (to be in a hurry); гъэпсынк1эн (to hasten); гъэгузэжъон (to make someone hurry); хъыжъэн"
   },
   {
     "to be anxious": "гумэк1ын; гузэжъон; гу къеон"
@@ -13148,52 +13148,13 @@
     "to run after": "лъычъэн"
   },
   {
-    "to throw at someone": "лъэгъуен"
+    "halter": "нахъутэ"
   },
   {
-    "alternative form of \"мэгъуен\"": "гъуен"
+    "to take a shit": "(vulgar) ц1ын; (vulgar) тец1эн (to shit on); (vulgar) ч1эц1эн (to shit under)"
   },
   {
-    "alternative form of \"зэгок1ын\"": "зэгок1ьын"
-  },
-  {
-    "lead (tack), lead line, lead rope, a rope used to lead an animal such as a horse": "нэхъут"
-  },
-  {
-    "to hurry": "хъыжъэн"
-  },
-  {
-    "alternative form of \"с1ын\"": "мэс1ын"
-  },
-  {
-    "alternative form of \"с1ын\"": "къэс1ын"
-  },
-  {
-    "(vulgar) to take a shit,": "ц1ын"
-  },
-  {
-    "alternative form of \"ц1ын\"": "с1ын"
-  },
-  {
-    "alternative form of \"ц1ын\"": "мэц1ын"
-  },
-  {
-    "alternative form of \"ц1ын\"": "къэц1ын"
-  },
-  {
-    "alternative form of \"ч1эц1эн\"": "ч1эс1эн"
-  },
-  {
-    "(vulgar) to take a shit under": "ч1эц1эн"
-  },
-  {
-    "(vulgar slang) to withdraw, to chicken out": "ч1эц1эн"
-  },
-  {
-    "(vulgar) to scare the shit out of, to make someone feel very frightened": "ч1эгъэц1эн"
-  },
-  {
-    "alternative form of \"ч1эгъэц1эн\"": "ч1эгъэс1эн"
+    "to shit": "(vulgar) ц1ын; (vulgar) тец1эн (to shit on); (vulgar) ч1эц1эн (to shit under)"
   },
   {
     "to govern, to rule, to manage": "гъэ1орыш1эн"
@@ -14367,9 +14328,6 @@
   },
   {
     "to hurry up, to hasten": "ш1эхын"
-  },
-  {
-    "to hurry": "тхъытхъын"
   },
   {
     "alternative form of \"нэмык1\"": "нэмк1"
