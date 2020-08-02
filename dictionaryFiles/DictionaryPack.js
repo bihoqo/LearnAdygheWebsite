@@ -36176,7 +36176,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to carry out, to fulfill",
+        "meaning": "to carry out, to fulfill, to execute",
         "examples": [
           {
             "sentence": "К1алэм '''егъэцак1э''' къэс1орэ",
@@ -68583,18 +68583,6 @@
     "ipa": "zaɡʷatkʲʼən"
   },
   {
-    "word": "нэхъут",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "lead (tack), lead line, lead rope, a rope used to lead an animal such as a horse",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "naχʷət"
-  },
-  {
     "word": "хъыжъэн",
     "lang": "Adyghe",
     "definitions": [
@@ -68866,7 +68854,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to go apeshit, to get out of control due to anger or excitement",
+        "meaning": "to go berserk; to get out of control due to anger or excitement",
         "examples": [
           {
             "sentence": "К1алэм '''зеохьыжьы'''",
@@ -69009,22 +68997,6 @@
     ],
     "type": "verb",
     "ipa": "t͡ʃʷaɬən"
-  },
-  {
-    "word": "уцэ1ун",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to masticate; to chew, to munch",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "упэш1ын",
-      "гъэунэшк1ун"
-    ],
-    "type": "verb",
-    "ipa": "wət͡saʔʷən"
   },
   {
     "word": "гъэунэшк1ун",
@@ -85693,7 +85665,7 @@
     "ipa": "xaqʷətəħaːn"
   },
   {
-    "word": "зэрихьан",
+    "word": "зехьан",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -85724,6 +85696,21 @@
             "translation": "Susroku '''carried out''' great bravery in the battle."
           }
         ]
+      }
+    ],
+    "synonyms": [
+      "зэрихьэн"
+    ],
+    "type": "verb",
+    "ipa": "zajħaːn"
+  },
+  {
+    "word": "зэрихьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"зехьан\"",,
+        "examples": []
       }
     ],
     "synonyms": [

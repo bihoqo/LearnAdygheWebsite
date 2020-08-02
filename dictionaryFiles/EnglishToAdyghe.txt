@@ -4113,7 +4113,7 @@
     "to ask": "упч1эн; еупчӏын (to ask someone); к1эупч1эн (to ask around)"
   },
   {
-    "dumb": "бзако (unable to speak); бзэмы1у (unable to communicate due to language barrier)"
+    "dumb": "бзако (unable to speak); бзэмы1у (unable to communicate due to language barrier); шъхьэныкъо (stupid)"
   },
   {
     "to plan": "гъэпсын; план гъэуцун, план зэхэлъхьан"
@@ -7743,7 +7743,7 @@
     "vile": "ц1ап1э / пц1ап1э"
   },
   {
-    "disgusting": "1эежъ; угъэмэхъэшэнэу щыт; гуштэгъуадж; гущык1ыгъо, гуштэгъоджэ, 1эе дэд"
+    "disgusting": "1ае; 1эежъ; угъэмэхъэшэнэу щыт; гуштэгъуадж; гущык1ыгъо, гуштэгъоджэ, 1эе дэд"
   },
   {
     "foul": "1эежъ; ц1ап1э / пц1ап1э; нэпэнчъэ; нэпэтехныгъэ"
@@ -7758,7 +7758,7 @@
     "easily disgusted": "мэхъэшал"
   },
   {
-    "nasty": "1эежъ; 1эе дэд; угъэмэхъэшэнэу щыт; гуштэгъуадж; гущык1ыгъо"
+    "nasty": "1ае; 1эежъ; 1эе дэд; угъэмэхъэшэнэу щыт; гуштэгъуадж; гущык1ыгъо"
   },
   {
     "repulsive": "1эежъ; гуштэгъуадж; гущык1ыгъо"
@@ -7987,9 +7987,6 @@
   },
   {
     "supremacy": "тетыгъо"
-  },
-  {
-    "rule": "тетыгъо (dominion)"
   },
   {
     "term": "тетыгъо (goverment)"
@@ -8635,9 +8632,6 @@
   },
   {
     "to act": "къэджэгун"
-  },
-  {
-    "to perform": "къэджэгун (to act); шӏэн (to do)"
   },
   {
     "bitter": "дыджы"
@@ -10226,7 +10220,25 @@
     "to be capable of": "лъэк1ын; фэлъэк1ын"
   },
   {
-    "to manage": "лъэк1ын / фэлъэк1ын (to manage to do); зэпыгъэфэн (to arrange)"
+    "to commit": "зехьан / зэрихьан"
+  },
+  {
+    "to perform": "шӏэн (to do); зехьан / зэрихьан"
+  },
+  {
+    "to accomplish": "гъэцэк1эн; къыфигъэк1ын (to accomplish something successfully)"
+  },
+  {
+    "to fulfill": "гъэцэк1эн; зехьан / зэрихьан"
+  },
+  {
+    "to execute": "гъэцэк1эн"
+  },
+  {
+    "to carry out": "гъэцэк1эн"
+  },
+  {
+    "to manage": "гъэзек1он (to manage something or someone); лъэк1ын / фэлъэк1ын (to manage to do, to be able to do); зэпыгъэфэн (to arrange)"
   },
   {
     "relief": "нэплъэгъу"
@@ -11583,7 +11595,7 @@
     "to have an idea": "гукъэк1ын"
   },
   {
-    "gift": "ш1ухьафтын; гуш1уапк1э (gift for good news)"
+    "gift": "ш1ухьафтын; гуш1уапк1э (gift for good news); тыны"
   },
   {
     "to be rolling": "джыджэн; еджыджэхын (to roll down)"
@@ -12675,43 +12687,31 @@
     "toast (a proposed salutation (e.g. to say \"cheers\"))": "хъохъу"
   },
   {
-    "to happen": "хъун"
+    "to happen": "щыш1ын (something to happen to someone); хъун / къэхъун (to occur); къехъул1эн (an incident to happen to someone)"
   },
   {
-    "to become, to turn to": "хъун"
+    "to become": "хъун"
   },
   {
-    "alternative form of \"къыин\"": "къэкъыин"
-  },
-  {
-    "sharp (Able to cut easily)": "чыян"
-  },
-  {
-    "dishing": "чыян"
+    "to turn to": "хъун"
   },
   {
     "volcano": "къэбэкъао"
   },
   {
-    "church": "чылыс"
+    "table": "1анэ; стол (from Russian)"
   },
   {
-    "table": "1анэ"
+    "bad-tasting": "1ае"
   },
   {
-    "table (three-legged)": "1анэ"
+    "distasteful": "1ае"
   },
   {
-    "bad-tasting, bad taste, distasteful": "1ае"
+    "bad taste": "1ае"
   },
   {
     "indecent": "1ае; емык1у зыхэлъ, ук1ытэныгъэ зыхэмылъ"
-  },
-  {
-    "disgusting": "1ае"
-  },
-  {
-    "nasty": "1ае"
   },
   {
     "awful; horrible": "1ае"
@@ -13016,7 +13016,7 @@
     "to cause": "къэгъэфын"
   },
   {
-    "to occur": "къэфын; къэхъун"
+    "to occur": "къэфын; къэхъун; щыш1ын (something to happen to someone); къехъул1эн (an incident to happen to someone)"
   },
   {
     "freedom": "шъхьэфитынгъэ"
@@ -13157,31 +13157,31 @@
     "to shit": "(vulgar) ц1ын; (vulgar) тец1эн (to shit on); (vulgar) ч1эц1эн (to shit under)"
   },
   {
-    "to govern, to rule, to manage": "гъэ1орыш1эн"
+    "to govern": "гъэзек1он (to manage); гъэ1орыш1эн"
   },
   {
-    "alternative form of \"к1эен\"": "иен"
+    "to rule": "гъэзек1он (to manage); гъэ1орыш1эн"
   },
   {
-    "present, gift": "тыны"
+    "rule": "забзэ; тетыгъо (dominion)"
   },
   {
-    "coat hanger, clothes hanger": "джэнэпылъап1"
+    "coat hanger": "джэнэпылъап1"
   },
   {
-    "hanger": "пылъап1"
+    "clothes hanger": "джэнэпылъап1"
   },
   {
-    "to go apeshit, to get out of control due to anger or excitement": "зыохьын"
+    "hanger": "пылъап1; щыгъын пылъап1"
+  },
+  {
+    "to go berserk": "зыохьын"
   },
   {
     "closet": "дэлъып1э"
   },
   {
     "house painter": "гъэлак1о"
-  },
-  {
-    "graveyard": "къэхалъэ"
   },
   {
     "air force base": "жьыдзап1э"
@@ -13193,16 +13193,10 @@
     "greetings": "ш1уфэс"
   },
   {
-    "dumb": "шъхьэныкъо"
+    "to masticate": "уцэ1ун"
   },
   {
-    "alternative form of \"уцолъын\"": "цолъын"
-  },
-  {
-    "to masticate; to chew, to munch": "уцэ1ун"
-  },
-  {
-    "to breathe": "жьы къэщэн"
+    "to munch": "уцэ1ун"
   },
   {
     "to happen to someone": "щыш1ын"
@@ -15873,9 +15867,6 @@
   },
   {
     "to get through, to wriggle through, to climb through, to squeeze through": "ипшын"
-  },
-  {
-    "to breathe": "фэпщэн"
   },
   {
     "breathe": "фапщэ"
