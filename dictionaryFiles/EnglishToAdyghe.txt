@@ -165,9 +165,6 @@
     "much": "бэрэ"
   },
   {
-    "a lot": "бэ"
-  },
-  {
     "tooth": "цэ"
   },
   {
@@ -1987,9 +1984,6 @@
   },
   {
     "many times": "бэрэ"
-  },
-  {
-    "a lot": "бэрэ"
   },
   {
     "long time": "бэрэ"
@@ -3876,12 +3870,6 @@
     "troublesome": "ш1ык1ай"
   },
   {
-    "naughty": "ш1ык1ай"
-  },
-  {
-    "mischievous": "ш1ык1ай"
-  },
-  {
     "manner": "шэн"
   },
   {
@@ -4110,7 +4098,7 @@
     "to touch": "нэсын; те1эн (to touch with hand); те1эбэн (to touch); е1эн (to touch with hand); те1эбэхьан (to touch all over something)"
   },
   {
-    "to reach": "нэсын (to successfully reach); лъы1эбэн (to attempt to reach)"
+    "to reach": "нэсын (to successfully reach); лъы1эбэн (to attempt to reach); нэ1эбэсын (to successful reach with the hands or legs)"
   },
   {
     "to arrive": "къэсын"
@@ -4182,7 +4170,7 @@
     "to come up with": "къыч1эхын; къэгупшысын; зэхэлъхьан"
   },
   {
-    "to invent": "къыч1эхын; къэгупшысын; зэхэлъхьан"
+    "to invent": "(Shapsug) къыч1эхын; (Shapsug) къыч1эгъэк1ын; къэгупшысын; зэхэлъхьан"
   },
   {
     "to come towards": "ек1ун"
@@ -4527,16 +4515,13 @@
     "to sink": "ч1эбын; (псым) ч1илъэшъон (to be dragged down); (псым) ч1ихьан (to push down)"
   },
   {
-    "to get dizzy": "прэзэн"
+    "to get dizzy": "унэзэн; (Shapsug) прэзэн"
   },
   {
-    "dizzy": "мэпразэ"
+    "to be dizzy": "унэзэн; (Shapsug) прэзэн"
   },
   {
-    "to be dizzy": "прэзэн"
-  },
-  {
-    "to drink": "ешъон"
+    "to drink": "ешъон; хэшъон (to drink from a container or from a sea/river)"
   },
   {
     "to pick up": "штэн / къэштэн; къэ1этын (to lift); техын (to pick up from)"
@@ -7629,16 +7614,19 @@
     "to get stuck": "дэнэн (between); хэнэн (in a company, bushes, forest, liquid, gas or solid); ш1онэн; дэп1ыт1эн (to get stuck in a narrow place or hole)"
   },
   {
-    "to stuck": "дэнэн (between); хэнэн (in a company, bushes, forest, liquid, gas or solid); ш1онэн; дэп1ыт1эн (to get stuck in a narrow place or hole)"
+    "to get stuck": "дэнэн (to get stuck between); хэнэн (to get stuck in a company, bushes, forest, liquid, gas or solid); тенэн (to get stuck on above something); инэн (to get stuck inside something); ч1энэн (to get stuck under something); пынэн (to get stuck and undetachable); дэп1ыт1эн (to get stuck and squeezed in a narrow place or hole)"
   },
   {
-    "to become trapped": "дэнэн"
+    "to stick": "дэгъэнэн (to stick between); хэгъэнэн (to make someone stuck in a company, bushes, forest, liquid, gas or solid); тегъэнэн (to stick on above something); игъэнэн (to stick inside something); ч1эгъэнэн (to stick under something)"
   },
   {
-    "to become trapped": "дэнэн"
+    "to jam": "дэгъэнэн (to jam between); хэгъэнэн (to jam something in an area with liquid, gas or solid); тегъэнэн (to jam on above something); игъэнэн (to jam inside something); ч1эгъэнэн (to jam under something)"
   },
   {
-    "to be unable to move": "дэнэн"
+    "to trap": "дэубытэн (to trap between); хэубытэн (to trap something in an area with liquid, gas or solid); теубытэн (to trap on above something); иубытэн (to trap inside something); ч1эубытэн (to trap under something); иш1эхьан / къиш1эхьан (to trap in a circle)"
+  },
+  {
+    "to get trapped": "дэнэн (to get trapped between); хэнэн (to get trapped in an area with liquid, gas or solid); тенэн (to get trapped on above something); инэн (to get trapped inside something); ч1энэн (to get stuck trapped something)"
   },
   {
     "to stay": "къы1унэн (to stay behind); исын; илъын (to stay overnight)"
@@ -8040,7 +8028,7 @@
     "to have intercourse": "дэгъолъын; бгъодэхьан; ек1ол1эн; гогъолъхьан; бгъодэгъолъхьан; гъэшъузын"
   },
   {
-    "to have sexual relations": "дэгъолъын; бгъодэхьан; ек1ол1эн; гогъолъхьан; бгъодэгъолъхьан; гъэшъузын"
+    "to have sexual intercourse": "дэгъолъын; бгъодэхьан; ек1ол1эн; гогъолъхьан; бгъодэгъолъхьан; гъэшъузын"
   },
   {
     "to sleep with": "дэчъыен; дэгъолъын (sex); гогъолъхьан (sex); бгъодэгъолъхьан"
@@ -9023,7 +9011,7 @@
     "to build": "ш1ын; фэш1ын (to build for); дэш1ын (to build with); ш1ыжьын (to rebuild); иш1ыхьан (to build inside); дэш1ыхьан (to build inside a yard or inside another object); теш1ыхьан (to build on); ч1эш1ыхьан (to build under); хэш1ыхьан (to build in the forest, to build into a solid thing, liquid or gas); пыш1ыхьан (to build on a tree or on the side of a house)"
   },
   {
-    "to measure": "шын"
+    "to measure": "шын; щэчын (to measure weight)"
   },
   {
     "to take with": "дэщэн (to take someone along); зыдэщэн (to take someone along with oneself)"
@@ -9251,7 +9239,7 @@
     "to hang": "пылъын (to be hanging); пылъэн (to hang); пылъхьан (to put something to a hanging state)"
   },
   {
-    "to attach": "пылъын (to be attached); пылъхьан (to attach something to)"
+    "to attach": "пылъын (to be attached); пылъхьан (to attach something to); пыгъэнэн (to stick to attach)"
   },
   {
     "to strive": "егугъун"
@@ -10988,7 +10976,7 @@
     "to take care of": "нэ1э тегъэтын; пык1эрэплъын;"
   },
   {
-    "to watch over": "к1элъыплъын (to look after); пык1эрэплъын; нэ1э тегъэтын; фэсакъын"
+    "to watch over": "лъыплъэн / к1элъыплъэн (to look after); пык1эрэплъын; нэ1э тегъэтын; фэсакъын"
   },
   {
     "to safeguard": "нэ1э тегъэтын; ухъумэн"
@@ -11281,9 +11269,6 @@
   },
   {
     "to believe": "ш1ош1у мэхъун"
-  },
-  {
-    "faith": "ш1ош1ухъуныгъэ"
   },
   {
     "to shout": "куон; текуон (to shout at); ц1эц1эн (to scold); тец1эц1эн / тец1эц1эхьан (to scold someone)"
@@ -11859,7 +11844,7 @@
     "stove": "хьаку"
   },
   {
-    "to slip": "ц1эшъутэн (to slide on a slippery surface); цохъон (to slide on a rough surface); (In some dialects) ц1энлъэн"
+    "to slip": "ц1эшъутэн (to slide on a slippery surface); цохъон (to slide on a rough surface); (In some dialects) ц1энлъэн; тегъэц1эшъутык1ын (to make someone slip over)"
   },
   {
     "to be up for": "фитын"
@@ -12921,28 +12906,10 @@
     "to fix": "ш1ыжьын"
   },
   {
-    "national costume": "шъуашэ"
-  },
-  {
-    "city c/Russia": "Бытырбыф"
+    "outfite": "шъуашэ"
   },
   {
     "comedian": "сэмэркъэуш1ыл"
-  },
-  {
-    "alternative form of \"жъутхэн\"": "мэжъутхэн"
-  },
-  {
-    "alternative form of \"ужъунтхэн\"": "жъутхэн"
-  },
-  {
-    "alternative form of \"теужъутхэн\"": "тэжъутхэн"
-  },
-  {
-    "alternative form of \"ш1ош1ухъуныгъэ\"": "ш1ош1ухъунгъэ"
-  },
-  {
-    "alternative form of \"ш1ошъ хъун\"": "ш1ошъын"
   },
   {
     "faith": "ш1ошъхъуныгъэ"
@@ -12951,205 +12918,117 @@
     "to believe": "ш1ошъ хъун"
   },
   {
-    "since the time": "пак1о"
+    "since the time": "ащ къак1о; ащ пак1о"
   },
   {
-    "to pay a deep attention to something without leaving it": "прилъэшъон"
+    "mischievous": "ш1ык1ай; шэнчъэ"
   },
   {
-    "alternative form of \"чэупчъэ\"": "кьэпчъэ1у"
+    "naughty": "ш1ык1ай"
   },
   {
-    "mischievous, naughty, prankish": "ш1ык1ай"
+    "prankish": "ш1ык1ай"
   },
   {
-    "alternative form of \"гъэуп1ыц1эн\"": "гъэупыс1эн"
+    "to keep an eye on": "лъыплъэн"
   },
   {
-    "alternative form of \"гъэуп1ыц1эн\"": "гъэупыц1эн"
+    "to kick": "шъутырын; ешъутырын (to kick something or someone); хэшъутырэн / жэхэшъутырэн (to intensively kick someone or something); хэшъутырэхьан (to continuously kick someone, to beat someone by kicking them); ч1эшъутырэн (to kick under); ишъутырэн (to kick inside)"
   },
   {
-    "to watch over, to keep an eye on": "лъыплъэн"
+    "to screw": "(vulgar) п1ысын"
   },
   {
-    "alternative form of \"шъутырын\"": "ешъутырын"
+    "to stuck": "дэгъэнэн"
   },
   {
-    "alternative form of \"шъутырын\"": "мэшъутырэн"
+    "to sculpture based off": "теш1ык1ын"
   },
   {
-    "to kick": "шъутырын"
+    "to masturbate": "(vulgar) 1эк1э еон; (very vulgar) 1эк1э теш1ык1ын (to masturbate off something)"
   },
   {
-    "to kick around": "шъутырэхьын"
+    "to jerk off": "(vulgar) 1эк1э еон; (very vulgar) 1эк1э теш1ык1ын (to masturbate off something)"
   },
   {
-    "alternative form of \"шъутырэхьын\"": "мэшъутырэхьын"
+    "to sculpture based off": "теш1ык1ын"
   },
   {
-    "(vulgar) to fuck": "п1ысын"
+    "tightrope walker": "к1апсэрык1о"
   },
   {
-    "(vulgar) screwed, fucked": "п1ысыгъэжъ"
+    "funambulist": "к1апсэрык1о"
   },
   {
-    "to make someone stuck": "дэгъэнэн"
+    "to suck": "к1эшъун"
   },
   {
-    "(vulgar slang) to fuck, to have sexual intercourse with": "дэгъэнэн"
+    "to fellate": "к1эшъун"
   },
   {
-    "alternative form of \"тэш1ык1ын\"": "тэш1ык1ьын"
+    "to overuse": "бащэрэ рилэжьэн; (vulgar, slang) ышъуты ихын"
   },
   {
-    "to sculpture based on": "тэш1ык1ын"
+    "the hell with it": "ышъуты исагъ"
   },
   {
-    "(vulgar slang) to masturbate watching someone": "тэш1ык1ын"
+    "to not care": "фимыгъэпэн"
   },
   {
-    "alternative form of \"хьэшъутыубат\"": "хьэшъуты убат"
+    "to give a shit": "(vulgar) тец1эн"
   },
   {
-    "tightrope walker, funambulist": "к1апсэрык1о"
+    "to give a damn": "тец1эн"
   },
   {
-    "alternative form of \"зэ1ыхьан\"": "зэ1эхьэн"
+    "to penetrate": "исэн (to penetrate inside); хэхьан / к1оц1ыхьан (to penetrate through)"
   },
   {
-    "alternative form of \"зы1эгъэхьан\"": "зэ1эгъэхьэн"
+    "to walk backward": "зэк1эк1он"
   },
   {
-    "(Standard) to suck": "к1эшъун"
+    "to go backward": "зэк1эк1он"
   },
   {
-    "(Standard) (vulgar) to perform fellatio": "к1эшъун"
+    "to look back": "зэк1эплъэн; зэплъэк1ын"
   },
   {
-    "(Shapsug dialect) to suck (in the only sense of: to draw something into the mouth by inhaling)": "к1эшъун"
+    "to reach out": "1эбэн; лъы1эбэн (to reach out for)"
   },
   {
-    "to drain by extracting water": "к1эшъун"
+    "to extend": "1эбэн; лъы1эбэн (to reach out for)"
   },
   {
-    "to rot": "ш1о1ун"
+    "to speak bad": "егъэчъэхын"
   },
   {
-    "(vulgar slang) to use something too much exaggeratedly, to use the hell out of": "ишъуты ипхын"
+    "to speak ill": "егъэчъэхын"
   },
   {
-    "(vulgar) the hell with it (literary: It is penetrated in his buttocks.)": "ишъуты исагъ"
+    "to roast": "егъэчъэхын"
   },
   {
-    "(vulgar idiomatic) fuck it (An expression of frustration.)": "ишъуты исагъ"
+    "all": "зэк1э; (Shapsug) зэужэу"
+  },
+    "a lot": "бэ; бэрэ; 1эджы"
   },
   {
-    "(vulgar slang) to not care, to give a shit about": "к1ьэ тримылъхьэн"
+    "to stroke": "1э щыфэн; (Shapsug) епэш1эн"
   },
   {
-    "to penetrate into (inside)": "исэн"
-  },
-  {
-    "to walk backward, to go backward": "зэк1эк1он"
-  },
-  {
-    "to look back": "зэк1эплъэн"
-  },
-  {
-    "to reach out, to extend one's hand(s) forward.": "1эбэн"
-  },
-  {
-    "to reach out and touch": "1эбэн"
-  },
-  {
-    "to try to reach for something, to attempt to reach for": "лъы1эбэн"
-  },
-  {
-    "to make someone/something slide down": "егъэчъэхын"
-  },
-  {
-    "to speak bad on someone and hurt his reputation": "егъэчъэхын"
-  },
-  {
-    "to roast someone": "егъэчъэхын"
-  },
-  {
-    "alternative form of \"ригъэчъэхын\"": "гъэчъэхын"
-  },
-  {
-    "to fall (from something)": "ет1эрэхын"
-  },
-  {
-    "all": "зэк1э"
-  },
-  {
-    "all": "зэк1э"
-  },
-  {
-    "a lot": "1эгьы"
-  },
-  {
-    "to successfully reach for (usually with the hands)": "нэ1эбэсын"
-  },
-  {
-    "to stroke": "епэш1эн"
-  },
-  {
-    "alternative form of \"епэш1эн\"": "пэш1эн"
-  },
-  {
-    "to bless": "напк1э техын; "
+    "to bless": "напк1э техын; нэш1у щыфэн"
   },
   {
     "one of them": "язырэ"
   },
   {
-    "alternative form of \"уц1элэн\"": "мэуц1элэн"
+    "to cause": "къэгъэфын"
   },
   {
-    "to cause, to make it occur, to make it so that": "къэгъэфын"
-  },
-  {
-    "to cause, to occur, to be so that": "къэфын"
-  },
-  {
-    "to make someone slip over a": "тэгъэц1эшъутык1ын"
-  },
-  {
-    "to slip over a": "тэц1эшъутык1ын"
-  },
-  {
-    "alternative form of \"тэц1эшъутык1ын\"": "тэц1эшъутык1ьын"
-  },
-  {
-    "alternative form of \"шхъогъон\"": "мэш1ухъогъон"
-  },
-  {
-    "alternative form of \"шхъогъон\"": "ш1ухъогъон"
-  },
-  {
-    "alternative form of \"шхъогъон\"": "еш1ухъогъон"
+    "to occur": "къэфын; къэхъун"
   },
   {
     "freedom": "шъхьэфитынгъэ"
-  },
-  {
-    "to arrive": "къэсын"
-  },
-  {
-    "alternative form of \"блэн\"": "блын"
-  },
-  {
-    "to measure weight": "щэчын"
-  },
-  {
-    "alternative form of \"щэчын\"": "щэкьын"
-  },
-  {
-    "alternative form of \"щэчын\"": "къэщэкьын"
-  },
-  {
-    "alternative form of \"щэчын\"": "къэщэчын"
   },
   {
     "roebuck": "мэзпчэн"
@@ -13158,43 +13037,16 @@
     "mountain goat": "мэзпчэн"
   },
   {
-    "alternative form of \"мэк1ыин\"": "мэк1ьыин"
+    "to get up": "тэджын / къэтэджын; къызшъхьапк1этын (to get up quickly)"
   },
   {
-    "to invent something": "къыч1эгъэк1ын"
+    "to scoff": "к1элъыон; к1энэк1эн"
   },
   {
-    "to make someone get out from under something": "къыч1эгъэк1ын"
+    "to roll around": "джыджэхьан; т1эрэхьан"
   },
   {
-    "to get up quickly": "къэсшъхьэпк1этын"
-  },
-  {
-    "alternative form of \"къэсшъхьэпк1этын\"": "сшъхьэпк1этын"
-  },
-  {
-    "to scream, to shout out really loudly": "к1ыин"
-  },
-  {
-    "alternative form of \"к1ыин\"": "мэк1ыин"
-  },
-  {
-    "alternative form of \"к1элъыон\"": "к1ьэлъыон"
-  },
-  {
-    "to scoff someone": "к1элъыон"
-  },
-  {
-    "alternative form of \"мэт1эрэхьын\"": "т1эрэхьын"
-  },
-  {
-    "to roll around": "мэт1эрэхьын"
-  },
-  {
-    "dizzy": "шъхьэпразэ"
-  },
-  {
-    "alternative form of \"1эпык1ын\"": "1эпык1ьын"
+    "dizzy": "(Shapsug) шъхьэпразэ; шъхьэуназэ"
   },
   {
     "to help": "1эпы1эн"
@@ -14364,12 +14216,6 @@
     "shield": "мэ1у"
   },
   {
-    "all": "пстэури"
-  },
-  {
-    "all": "псэори"
-  },
-  {
     "sorrow": "гук1ае"
   },
   {
@@ -15163,12 +15009,6 @@
   },
   {
     "to suffer, to languish": "щэ1ун"
-  },
-  {
-    "all": "зэужэу"
-  },
-  {
-    "alternative form of \"пц1ашхъо\"": "пс1ашъухъо"
   },
   {
     "chernozem, black soil": "ет1апц1э"
@@ -17640,9 +17480,6 @@
     "alternative form of \"шыхьатэу теуцон\"": "шыхьатэу утеуцон"
   },
   {
-    "to bless": "нэш1у шыфэн"
-  },
-  {
     "to be pleased with": "фэрэзэн"
   },
   {
@@ -17953,9 +17790,6 @@
   },
   {
     "to come up with (an idea or concept)": "къэгупшысын"
-  },
-  {
-    "to invent": "къэгупшысын"
   },
   {
     "alternative form of \"гъусэ пшъашъэ\"": "пшъэшъэ гъусэ"

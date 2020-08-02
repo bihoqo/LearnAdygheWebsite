@@ -53982,60 +53982,31 @@
     "ipa": "ʃʷaʃʷən"
   },
   {
-    "word": "ш1ош1у мэхъун",
+    "word": "ш1ош1у хъун",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to believe",
-        "examples": [
-          {
-            "sentence": "К1алэм и1орэ пшъашъэм '''иш1ош1у мэхъу'''",
-            "translation": "The girl '''is believing''' in what the boy tells."
-          },
-          {
-            "sentence": "Къэп1орэ '''сиш1ош1у мэхъу'''",
-            "translation": "'''I am believing''' in what you say."
-          },
-          {
-            "sentence": "Къэп1орэ к1алэм '''иш1ош1у мэхъурэп'''",
-            "translation": "The boy '''doesn't believe''' in what I say."
-          },
-          {
-            "sentence": "Сэ Тхьэ '''сиш1ош1у мэхъу'''",
-            "translation": "'''I believe''' in God."
-          },
-          {
-            "sentence": "А к1алэм еп1ок1упэрэ '''иш1ош1у мэхъу'''",
-            "translation": "That boy '''believes''' everything you told him."
-          }
-        ]
+        "meaning": "alternative form of \"ш1ошъ хъун\"",
+        "examples": []
       }
     ],
     "synonyms": [
       "ш1ошъ хъун"
     ],
     "type": "verb",
-    "ipa": "ʃʷaʃʷ χʷən"
+    "ipa": "ʃʷʼaʃʷʼ χʷən"
   },
   {
-    "word": "ш1ош1ухъуныгъэ",
+    "word": "ш1ош1хъуныгъ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "faith",
-        "examples": [
-          {
-            "sentence": "'''Ш1ош1ухъунгъэ''' уи1эн фае",
-            "translation": "You need to have a '''faith'''."
-          }
-        ]
+        "meaning": "alternative form of \"ш1ошъхъуныгъ\"",
+        "examples": []
       }
     ],
-    "synonyms": [
-      "ш1ошъхъуныгъэ"
-    ],
     "type": "noun",
-    "ipa": "ʃʷʼaʃʷʼχʷənʁa"
+    "ipa": "ʃʷʼaʃʼχʷənʁa"
   },
   {
     "word": "текуон",
@@ -65939,11 +65910,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "national costume",
+        "meaning": "outfite",
         "examples": [
           {
             "sentence": "Адыгэ '''шъуашэхэр'''",
-            "translation": "Circassian '''national costumes'''"
+            "translation": "Circassian '''outfite'''"
           }
         ]
       }
@@ -66064,9 +66035,6 @@
         ]
       }
     ],
-    "synonyms": [
-      "ш1ош1ухъуныгъэ"
-    ],
     "type": "noun",
     "ipa": "ʃʷʼaʃʷʼχʷənʁa"
   },
@@ -66101,7 +66069,7 @@
       }
     ],
     "synonyms": [
-      "ш1ош1у мэхъун",
+      "ш1ош1у хъун",
       "ш1ошъыхъун"
     ],
     "type": "verb",
@@ -66445,12 +66413,12 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"тэш1ык1ын\"",
+        "meaning": "alternative form of \"теш1ык1ын\"",
         "examples": []
       }
     ],
     "synonyms": [
-      "тэш1ык1ын"
+      "теш1ык1ын"
     ],
     "type": "verb",
     "ipa": "taʃʼəkʲʼən"
@@ -66485,7 +66453,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to sculpture based on",
+        "meaning": "to sculpture based off",
         "examples": [
           {
             "sentence": "Артистым мыжъок1э л1ым '''теш1ык1ы'''",
@@ -66575,25 +66543,18 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(Standard) to suck",
+        "meaning": "to suck",
         "examples": [],
         "tags": [
           "Standard"
         ]
       },
       {
-        "meaning": "(Standard) (vulgar) to perform fellatio",
+        "meaning": "(vulgar) to perform oral sex",
         "examples": [],
         "tags": [
           "Standard",
           "vulgar"
-        ]
-      },
-      {
-        "meaning": "(Shapsug dialect) to suck (in the only sense of: to draw something into the mouth by inhaling)",
-        "examples": [],
-        "tags": [
-          "Shapsug dialect"
         ]
       },
       {
@@ -66626,19 +66587,19 @@
     "ipa": "ʃʷʼaʔʷən"
   },
   {
-    "word": "ишъуты ипхын",
+    "word": "ышъуты ихын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(vulgar slang) to use something too much exaggeratedly, to use the hell out of",
+        "meaning": "(vulgar, slang) to overuse",
         "examples": [
           {
-            "sentence": "Кур къэлал, '''ишъуты ипхэгъ'''",
-            "translation": "Leave the car, '''you used the hell out of it'''"
+            "sentence": "Кур гъэлалэба зэ, '''ышъуты ипхыгъ'''",
+            "translation": "Leave the car for a moment, '''you overused it'''"
           },
           {
-            "sentence": "Сомпыютэрым '''ишъуты ипхыжьта'''",
-            "translation": "'''Are you gonna use the hell out of''' the computer?"
+            "sentence": "Сомпыютэрым '''ышъуты ипхыжьыгъ'''",
+            "translation": "'''You used the hell out of''' the computer?"
           }
         ],
         "tags": [
@@ -66663,36 +66624,27 @@
     "ipa": "d͡ʒanəqʷa lan"
   },
   {
-    "word": "ишъуты исагъ",
+    "word": "ышъуты исагъ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(vulgar) the hell with it (literary: It is penetrated in his buttocks.)",
+        "meaning": "(vulgar) the hell with it, fuck it, damnit",
         "examples": [
           {
-            "sentence": "'''Уишъуты исагъ'''",
+            "sentence": "'''Ушъуты исагъ'''",
             "translation": "'''Fuck you'''!"
           },
           {
-            "sentence": "А к1алэм '''ишъуты исагъ'''",
+            "sentence": "А к1алэм '''ышъуты исагъ'''",
             "translation": "'''The hell with''' that boy!"
+          },
+		  {
+            "sentence": "'''Ышъуты исагъ''', мы фылымым нахь бэрэ сеплъышъущтэп",
+            "translation": "'''Fuck it''', I can't continue watching this movie any longer."
           }
         ],
         "tags": [
           "vulgar"
-        ]
-      },
-      {
-        "meaning": "(vulgar idiomatic) fuck it (An expression of frustration.)",
-        "examples": [
-          {
-            "sentence": "'''Ишъуты исагъ''', фылымым нахь бэрэ сеплъышъущтэп",
-            "translation": "'''Fuck it''', I can't continue watching the movie any longer."
-          }
-        ],
-        "tags": [
-          "vulgar",
-          "idiomatic"
         ]
       }
     ],
@@ -66700,21 +66652,29 @@
     "ipa": "ʃʷətə lan"
   },
   {
-    "word": "к1ьэ тримылъхьэн",
+    "word": "тец1эн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(vulgar slang) to not care, to give a shit about",
+        "meaning": "(vulgar) to not care, to give a damn, to give a shit",
         "examples": [
           {
-            "sentence": "'''к1ьэ къуптэсылъхьэрэп'''",
-            "translation": "'''I don't give a shit on you'''"
+            "sentence": "'''Устец1'''",
+            "translation": "'''I don't give a shit about you'''"
           },
           {
-            "sentence": "А к1алэм '''к1ьэ тралъхьагъэп'''",
-            "translation": "'''They didn't gave shit to''' that boy."
+            "sentence": "А к1алэм '''сытец1'''",
+            "translation": "'''I don't give a damn about''' that boy."
           }
         ],
+        "tags": [
+          "vulgar",
+          "slang"
+        ]
+      },
+	  {
+        "meaning": "(vulgar) to shit on",
+        "examples": [],
         "tags": [
           "vulgar",
           "slang"
@@ -66999,29 +66959,29 @@
     "ipa": "zat͡ʃʼa"
   },
   {
-    "word": "1эгьы",
+    "word": "1эджы",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "a lot",
         "examples": [
           {
-            "sentence": "'''1эгьы''' мэхъу",
+            "sentence": "'''1эджы''' мэхъу",
             "translation": "'''A lot of things''' are happening."
           },
           {
-            "sentence": "'''1эгьы''' иш1агъ ащ",
+            "sentence": "'''1эджы''' ыш1агъ ащ",
             "translation": "He did '''A lot of things'''."
           },
           {
-            "sentence": "К1алэм '''1эгьи''' е1о",
+            "sentence": "К1алэм '''1эджи''' е1о",
             "translation": "The boy '''is saying a lot of things'''."
           }
         ]
       }
     ],
     "type": "adv",
-    "ipa": "ʔaɡʲə"
+    "ipa": "ʔad͡ʒə"
   },
   {
     "word": "нэ1эбэсын",
@@ -67182,14 +67142,14 @@
     "ipa": "qafən"
   },
   {
-    "word": "тэгъэц1эшъутык1ын",
+    "word": "тегъэц1эшъутык1ын",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to make someone slip over a",
         "examples": [
           {
-            "sentence": "К1алэр пшъашъэм егук1и джыхашъом '''къитигъэц1эшъутык1эгъ'''",
+            "sentence": "К1алэр пшъашъэм е1унк1и джэхашъом '''къитигъэц1эшъутык1ыгъ'''",
             "translation": "The boy pushed the girl and '''made her slip over''' the surface."
           },
           {
@@ -67541,22 +67501,7 @@
     "ipa": "t͡ʃʼaɬəwən"
   },
   {
-    "word": "т1эрэхьын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"мэт1эрэхьын\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "мэт1эрэхьые"
-    ],
-    "type": "verb",
-    "ipa": "matʼaraħən"
-  },
-  {
-    "word": "мэт1эрэхьын",
+    "word": "т1эрэхьан",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -67570,7 +67515,7 @@
       }
     ],
     "type": "verb",
-    "ipa": "matʼaraħən"
+    "ipa": "tʼaraħən"
   },
   {
     "word": "шъхьэпразэ",
@@ -68354,7 +68299,7 @@
         "meaning": "to be able to separate into groups, to be able to segregate",
         "examples": [
           {
-            "sentence": "Тэ ш1ош1ухъуныгъэ зи1эхэмк1э '''тызэхадзышъутэп'''",
+            "sentence": "Тэ ш1ошъхъуныгъэ зи1эхэмк1э '''тызэхадзышъутэп'''",
             "translation": "'''They can't separate us''' the believes."
           }
         ]
@@ -97913,7 +97858,7 @@
       }
     ],
     "synonyms": [
-      "ш1ош1у мэхъун"
+      "ш1ош1у хъун"
     ],
     "type": "verb",
     "ipa": "ʃʷaʂ χʷən"
