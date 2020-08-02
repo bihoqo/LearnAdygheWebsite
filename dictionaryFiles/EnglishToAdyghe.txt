@@ -2082,7 +2082,7 @@
     "to sell": "щэн"
   },
   {
-    "to take": "щэн (to take/lead someone to somewhere); хьын (to take something to carry); штэн / къэштэн (to grab something to take); ш1охьын (to take something from someone against his interest or will); 1ыхын / къы1эхын (to take something from someone by hand)"
+    "to take": "щэн (to take/lead someone to somewhere); хьын (to take/carry something to somewhere); штэн / къэштэн (to grab something to take); ш1охьын (to take something from someone against his interest or will); 1ыхын / къы1эхын (to take something from someone by hand); техын / къытехын (to take off something from above something); ч1эхын / къыч1эхын (to take something from under something); дэхын / къыдэхын (to take something from inside another object); ихын / къыихын (to take something from inside something); пыхын / къыпыхын (to take something from a hanging state like from a rope, hanger or tree); хэхын / къыхэхын (to take something from through something or from an area with gas or liquid); къохын / къыкъохын (to take something from behind something); гохын / къыгохын / бгъодэхын / къыбгъодэхын (to take something from besides something); к1оц1ыхын / къык1оц1ыхын (to take something from inside something's body); тещэн (to take/lead someone to above something); хэщэн (to take/lead someone to among other people or objects); хэщэн (to take/lead someone to an area liquid, gas, plants or trees); дэщэн (to take/lead someone to a yard); ищэн (to take/lead someone to inside something); къощэн (to take/lead someone to behind something); пыхын (to take something like knowledge, behavior from someone)"
   },
   {
     "to grasp": "убытын; зы1эк1эубытэн"
@@ -2091,7 +2091,7 @@
     "to grip": "убытын; зы1эк1эубытэн; пытэу 1ыгъэн (to grip tightly)"
   },
   {
-    "to grab": "убытын; зы1эк1эубытэн"
+    "to grab": "убытын / къэубытын; зы1эк1эубытэн"
   },
   {
     "to seize": "ш1оубытын (to seize from someone); къытехын (to seize ball, base, land, place)"
@@ -3639,10 +3639,10 @@
     "problem": "1офы; 1офыгъу; проблэм; бырсыр (trouble)"
   },
   {
-    "to throw": "дзын; тедзэн (to throw at); 1удзын (to throw away); хэдзэн (to throw among people or into an area with gas or liquid); дэдзыен (to throw up); едзыхын (to throw down); жэхэдзэн (to throw intensively onto someone); лъыдзын (to throw toward); зэк1эдзэн (to throw backward); шъхьэдэдзын (to throw over)"
+    "to throw": "дзын; лъыдзын (to throw toward); тедзэн (to throw on); тедзын (to throw off from above something); 1удзэн (to throw near); 1удзын (to throw away); ч1эдзэн (to throw under); ч1эдзын (to throw away from under); хэдзэн (to throw among people/objects or into an area with gas or liquid); хэдзын (to throw away from among people/objects or outside an area with gas or liquid); дэдзыен (to throw up); едзыхын (to throw down); жэхэдзэн (to throw intensively onto someone); зэк1эдзэн (to throw backward); шъхьэдэдзын (to throw over); жэхэдзэн (to intensively throw something against)"
   },
   {
-    "to throw": "1удзын (to throw away)"
+    "to throw away": "тедзын / къытедзын (to throw on); 1удзын / къы1удзын (to throw away, to throw elsewhere); идзын / къыидзын (to throw away from inside); дэдзын / къыдэдзын (to throw away from inside another object or from between); ч1эдзын / къыч1эдзын (to throw away from under); хэдзын / къыхэдзын (to throw away from among people/objects or outside an area with gas or liquid); пыдзын / къыпыдзын (to throw away from the surface of a body); жэхэдзын / къыжэхэдзын (to intensively throw away from someone)"
   },
   {
     "to come into existence": "къэхъун"
@@ -7587,7 +7587,7 @@
     "to delete": "уш1оин (to be deleted); гъэуш1оин (to delete); тегъэуш1ойк1ын (to delete from above)"
   },
   {
-    "dirty": "ш1ои"
+    "dirty": "ш1ои; ш1оибахь (very dirty)"
   },
   {
     "unclean": "ш1ои"
@@ -7611,7 +7611,7 @@
     "to get stuck": "дэнэн (to get stuck between); хэнэн (to get stuck in a company, bushes, forest, liquid, gas or solid); тенэн (to get stuck on above something); инэн (to get stuck inside something); ч1энэн (to get stuck under something); пынэн (to get stuck and undetachable); дэп1ыт1эн (to get stuck and squeezed in a narrow place or hole)"
   },
   {
-    "to stick": "дэгъэнэн (to stick between); хэгъэнэн (to make someone stuck in a company, bushes, forest, liquid, gas or solid); тегъэнэн (to stick on above something); игъэнэн (to stick inside something); ч1эгъэнэн (to stick under something)"
+    "to stick": "дэгъэнэн (to stick between); хэгъэнэн (to make someone stuck in a company, bushes, forest, liquid, gas or solid); тегъэнэн (to stick on above something); игъэнэн (to stick inside something); ч1эгъэнэн (to stick under something); тепк1эн (to get glued on); тегъэпк1эн (to glue something on something); ч1эпк1эн (to get glued under); ч1эгъэпк1эн (to glue something under something); ипк1эн (to get glued inside); игъэпк1эн (to glue something inside something); пыпк1эн (to get glued on the surface of an object); пыгъэпк1эн (to glue something on the surface of an object); дэпк1эн (to get glued inside another object); дэгъэпк1эн (to glue something inside another object)"
   },
   {
     "to jam": "дэгъэнэн (to jam between); хэгъэнэн (to jam something in an area with liquid, gas or solid); тегъэнэн (to jam on above something); игъэнэн (to jam inside something); ч1эгъэнэн (to jam under something)"
@@ -7830,7 +7830,7 @@
     "haze": "ш1унк1ы"
   },
   {
-    "to separate": "пык1ын (to separate from); зэпыдзын; зэгогъэк1ын; зэпыгъэк1ын; зэхэдзын (to separate to sub groups; to distinguish)"
+    "to separate": "пык1ын (do disconnect, to separate from); зэпыдзын (to isolate to two groups); зэгогъэк1ын; зэпыгъэк1ын; зэхэдзын (to separate into sub-groups)"
   },
   {
     "to divorce from": "пык1ыжьын"
@@ -13118,55 +13118,34 @@
     "to be stacked": "зэтелъын"
   },
   {
-    "to distinguish between": "зэхэдзын"
+    "stacked": "зэтелъых"
   },
   {
-    "to separate into groups, to segregate": "зэхэдзын"
+    "to distinguish": "зэхэдзын (to distinguish between); язэфэмыдэныгъэ къэ1ошъун (to be able to tell the difference between)"
+  },
+  {
+    "to segregate": "зэпыдзын; зэхэдзын"
   },
   {
     "to isolate": "зэпыдзын"
   },
   {
-    "to be able to tell the difference between, to be able to distinguish": "зэхэдзышъун"
-  },
-  {
-    "to be able to separate into groups, to be able to segregate": "зэхэдзышъун"
-  },
-  {
-    "alternative form of \"пык1ьын\"": "зэпык1ьын"
-  },
-  {
-    "alternative form of \"пык1ын\" (to divorce; to separate from)": "зэпык1ын"
-  },
-  {
-    "to pick from a hanging state (like a shirt, fruit on tree etc.)": "пыхын"
-  },
-  {
     "to unplug": "пыхын"
   },
   {
-    "to take away (knowledge, behavior) from someone": "пыхын"
+    "to plug": "пыхьан (to be plugging successfully); пылъхьан (to plug something to something)"
+  }, 
+  {
+    "to glue": "тепк1эн (to get glued on); тегъэпк1эн (to glue something on something); ч1эпк1эн (to get glued under); ч1эгъэпк1эн (to glue something under something); ипк1эн (to get glued inside); игъэпк1эн (to glue something inside something); пыпк1эн (to get glued on the surface of an object); пыгъэпк1эн (to glue something on the surface of an object); дэпк1эн (to get glued inside another object); дэгъэпк1эн (to glue something inside another object)"
+  }, 
+  {
+    "glued": "тепк1агъ"
   },
   {
-    "to get stuck from something sticky, to become or remain attached; to adhere, to stick": "тэпк1эн"
-  },
-  {
-    "alas (Used to express sorrow, regret, compassion or grief.)": "гущ"
-  },
-  {
-    "expresses a wish": "гущ"
-  },
-  {
-    "very dirty (covered with or containing unpleasant substances such as dirt or grime or mud)": "ш1ойбэхь"
-  },
-  {
-    "to chase after": "лъежэн"
+    "to chase": "лъежьэн (to chase after); лъычъэн (to run after)"
   },
   {
     "to run after": "лъычъэн"
-  },
-  {
-    "to chase": "лъычъэн"
   },
   {
     "to throw at someone": "лъэгъуен"
@@ -16380,9 +16359,6 @@
   },
   {
     "alternative form of \"шъхьатеп1о\"": "шъхьатеп1э"
-  },
-  {
-    "to plug": "пыхьан"
   },
   {
     "to attach": "пыхьан"

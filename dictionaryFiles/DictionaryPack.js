@@ -68400,17 +68400,17 @@
         ]
       },
       {
-        "meaning": "to get stuck from something sticky, to become or remain attached; to adhere, to stick",
+        "meaning": "to get glued on something",
         "examples": [
           {
-            "sentence": "Си1э 1анэм '''тэпк1агъ'''",
-            "translation": "My arm '''got stuck on''' the table."
+            "sentence": "Си1э 1анэм '''тепк1агъ'''",
+            "translation": "My arm '''got glued on''' the table."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "tapt͡ʃʼan"
+    "ipa": "tajpt͡ʃʼan"
   },
   {
     "word": "кушъо",
@@ -68441,18 +68441,18 @@
     "ipa": "ɡʷəɕ"
   },
   {
-    "word": "ш1ойбэхь",
+    "word": "ш1оибахь",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "very dirty (covered with or containing unpleasant substances such as dirt or grime or mud)",
         "examples": [
           {
-            "sentence": "Унэр '''ш1ойбэхь'''",
+            "sentence": "Унэр '''ш1оибахь'''",
             "translation": "The house '''is really dirty'''."
           },
           {
-            "sentence": "'''Ш1ойбэхьэу''' ухъогъ",
+            "sentence": "'''Ш1оибахьэу''' ухъогъ",
             "translation": "You became '''really dirty'''."
           }
         ]
@@ -68462,41 +68462,37 @@
     "ipa": "ʃʷʼajbaħ"
   },
   {
-    "word": "лъежэн",
+    "word": "лъежьэн",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to chase after",
         "examples": [
           {
-            "sentence": "'''Къуслъемыж'''",
+            "sentence": "'''Укъыслъемыжь'''",
             "translation": "'''Don't chase after me'''."
           },
           {
-            "sentence": "К1алэм '''лъеж''', сэри '''къэслъеж'''",
-            "translation": "'''Chase after''' the boy and '''chase after me''' as well."
+            "sentence": "К1алэмрэ сэрэ '''къэтлъежь'''",
+            "translation": "'''Chase after''' me and the boy."
           },
           {
             "sentence": "К1алэр зэгуабжым '''къэтлъежагъ'''",
             "translation": "When the boy got mad '''he chased after us'''."
           },
           {
-            "sentence": "К1элэц1ык1ухэр '''зэлъежэжьых'''",
+            "sentence": "К1элэц1ык1ухэр '''зэлъежьэжьых'''",
             "translation": "The little kids '''are chasing each other'''."
           },
           {
-            "sentence": "Иджы '''услъежэщт'''",
-            "translation": "Now '''I gonna chase after you'''."
-          },
-          {
-            "sentence": "К1элэц1ык1умэ '''салъежэрагъоп'''",
-            "translation": "'''I don't wanna chase after''' the kids."
+            "sentence": "Джы '''услъежьэщт'''",
+            "translation": "Now '''I going to chase after you'''."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "ɬajʒan"
+    "ipa": "ɬajʑan"
   },
   {
     "word": "лъычъэн",
