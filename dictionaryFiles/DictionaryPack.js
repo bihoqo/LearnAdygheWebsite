@@ -8837,6 +8837,23 @@
     "ipa": "ʔapʂaχʷ"
   },
   {
+    "word": "1ащэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "clumsy",
+        "examples": [
+          {
+            "sentence": "Сиянэ '''1ащэ''', ы1ыгъэ зэк1эр къы1эпэзы",
+            "translation": "My mother is '''clumsy''', she drops everything she holds."
+          }
+		]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʔapʂaχʷ"
+  },
+  {
     "word": "сыхьат",
     "lang": "Adyghe",
     "definitions": [
@@ -62814,15 +62831,6 @@
             "translation": "'''Spin'''."
           }
         ]
-      },
-      {
-        "meaning": "to roll",
-        "examples": [
-          {
-            "sentence": "1эгуаор к1алэм '''егъэчэрэзы'''",
-            "translation": "The boy is '''rolling''' the ball."
-          }
-        ]
       }
     ],
     "cognate": "гъэджэрэзын",
@@ -63386,7 +63394,7 @@
       }
     ],
     "synonyms": [
-      "пхъуант",
+      "пхъуантэ",
       "сандыкъ"
     ],
     "type": "noun",
@@ -65147,7 +65155,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "clumsy",
+        "meaning": "clumsy; sloppy",
         "examples": []
       }
     ],
@@ -72501,7 +72509,7 @@
     "ipa": "ʃʷʼawbətən"
   },
   {
-    "word": "фегъэпэн",
+    "word": "фигъэпэн",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -72523,7 +72531,7 @@
       }
     ],
     "type": "verb",
-    "ipa": "fajʁapan"
+    "ipa": "fəjʁapan"
   },
   {
     "word": "1э къэ1этын",
@@ -72568,8 +72576,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to whirl, to twirl",
-        "examples": []
+        "meaning": "to rock; to cause to shake or sway",
+        "examples": [
+          {
+            "sentence": "Л1ыр '''к1ыраоу''' мак1о",
+            "translation": "The man is going while '''swaying'''."
+          },
+		  {
+            "sentence": "Щалъэр '''к1эрэонэу''' ежьагъ",
+            "translation": "The bucket started to '''sway'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -72911,27 +72928,6 @@
     "ipa": "ɡʷəɕəʔarəja"
   },
   {
-    "word": "1эпхъощ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "clumsy, a person that tend to drop stuff",
-        "examples": [
-          {
-            "sentence": "Зэрэсы'''1эпхъощ'''ыр",
-            "translation": "I am so '''clumsy'''."
-          },
-          {
-            "sentence": "Сиянэ '''1эпхъощ''', и1ыгъэ купэр къы1эпэзы",
-            "translation": "My mother is '''clumsy''', she drops everything she holds."
-          }
-        ]
-      }
-    ],
-    "type": "adj",
-    "ipa": "ʔapχʷaɕ"
-  },
-  {
     "word": "щызэу",
     "lang": "Adyghe",
     "definitions": [
@@ -72994,14 +72990,14 @@
     "ipa": "t͡ʂʼaʔʷatəkʲʼən"
   },
   {
-    "word": "ч1э1отык1ын",
+    "word": "к1э1отык1ын",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to bewray, to reveal, to divulge, to make something known (especially a secret)",
         "examples": [
           {
-            "sentence": "К1алэм пшъашъэм ыш1агъэхэр '''къыч1и1утык1ыгъэх''' к1элэегъаджэм ыпашъхьэк1э",
+            "sentence": "К1алэм пшъашъэм ыш1агъэхэр '''къык1и1утык1ыгъэх''' к1элэегъаджэм ыпашъхьэк1э",
             "translation": "The boy '''revealed''' the girl's doings in front of the teacher."
           }
         ]
@@ -73255,21 +73251,25 @@
     "ipa": "ɕta"
   },
   {
-    "word": "хэк1он",
+    "word": "хэкон",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to shove",
+        "meaning": "to shove something through",
         "examples": [
           {
-            "sentence": "К1алэм хьацэр ят1эм '''хек1о'''",
+            "sentence": "К1алэм хьанцэр ят1эм '''хеко'''",
             "translation": "The boy '''is shoving''' the shovel into the dirt."
+          },
+		  {
+            "sentence": "Пшахъом хьанцэр '''хэкон'''",
+            "translation": "'''To shove''' the shovel into the sand."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "xakʷʼan"
+    "ipa": "xakʷan"
   },
   {
     "word": "шъыдгъо",
@@ -85315,6 +85315,21 @@
     "ipa": "pχʷaːnt"
   },
   {
+    "word": "къутэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "box",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "къэмлан"
+    ],
+    "type": "noun",
+    "ipa": "qʷəta"
+  },
+  {
     "word": "кушъхьэ",
     "lang": "Adyghe",
     "definitions": [
@@ -89089,7 +89104,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to forcefully push / cram / stuff something into an object",
+        "meaning": "to cram/shove an object into",
         "examples": [
           {
             "sentence": "Джанэхэр дэлъып1эм '''дакох'''",
@@ -89098,6 +89113,10 @@
           {
             "sentence": "Сыд фэдиз шхынэу уижэ '''дапкорэр?'''",
             "translation": "How much food do '''you cram''' into your mouth?"
+          },
+          {
+            "sentence": "Тхылъыр ардэ тхылъит1ум '''даку'''",
+            "translation": "'''Shove''' the book '''in between''' the other two books."
           }
         ]
       },
@@ -89105,8 +89124,12 @@
         "meaning": "to tuck",
         "examples": [
           {
-            "sentence": "к1алэм иджанэ игъончэдж '''дикуагъ'''",
+            "sentence": "К1алэм иджанэ игъончэдж '''дикуагъ'''",
             "translation": "The boy '''tucked''' his shirt into his trouser."
+          },
+          {
+            "sentence": "Уиджанэ уигъончэдж '''даку'''",
+            "translation": "'''Cram''' your shirt into your pants."
           }
         ]
       }
@@ -89133,6 +89156,23 @@
     ],
     "type": "noun",
     "ipa": "paʁʷad͡z"
+  },
+  {
+    "word": "игъэзыхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to stick something forcefully inside; to drive inside; to firmly insert inside; to strongly penetrate inside",
+        "examples": [
+          {
+            "sentence": "Гъуанэм гъуч1ыр к1алэм '''регъэзыхьэ'''",
+            "translation": "The boy '''forcefully inserts''' the iron into the hole."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "jəʁazəħaːn"
   },
   {
     "word": "мэхъэшэн",
@@ -96250,7 +96290,7 @@
       }
     ],
     "synonyms": [
-      "пхъуант",
+      "пхъуантэ",
       "къэмлан"
     ],
     "type": "noun",
@@ -101482,18 +101522,6 @@
     ],
     "type": "noun",
     "ipa": "manaːʂħa"
-  },
-  {
-    "word": "игъэзэхьан",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to stick something forcefully in a hole",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "jəʁazaħaːn"
   },
   {
     "word": "шъутык1э гъэк1он",
