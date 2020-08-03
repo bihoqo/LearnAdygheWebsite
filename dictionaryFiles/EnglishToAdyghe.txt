@@ -2721,7 +2721,7 @@
     "but": "ау"
   },
   {
-    "however": "арышъхьае; шъхьае; шъхьак1э"
+    "however": "арышъхьае; шъхьай; шъхьак1э"
   },
   {
     "and so": "арэущтэу"
@@ -4662,7 +4662,13 @@
     "to break off": "пытхъын (to break off from); зэпытхъын (to break off from itself)"
   },
   {
-    "to tear": "пычын (to pick); хэтхъын / пытхъын (to tear off from); зэхэтхъын / зэпытхъын (to tear off from itself); къыпышъунк1ык1ын; 1утхъын (to tear off)"
+    "to tear": "пычын (to pick); хэтхъын / пытхъын (to tear off from); зэхэтхъын / зэпытхъын (to tear off from itself); къыпышъунк1ык1ын; 1утхъын (to tear off); зэхэгъэтэкъун (to tear down and collapse)"
+  },
+  {
+    "to demolish": "зэхэгъэтэкъун (to demolish something and make it collapse)"
+  },
+  {
+    "to tear down": "зэхэгъэтэкъун (to tear down something and make it collapse)"
   },
   {
     "to tear to shreds": "чэтхъэн"
@@ -4767,7 +4773,10 @@
     "to bypass": "блэк1ын"
   },
   {
-    "to cross": "зэпычын / зэпырык1ын; зэблэчъын (to cross running)"
+    "to cross": "зэблэдзын (to cross things together); зэпычын / зэпырык1ын (to go across); зэблэчъын (to run across)"
+  },
+  {
+    "to go across": "зэпычын / зэпырык1ын (to go across); зэблэчъын (to run across)"
   },
   {
     "to get over": "зэпычын / зэпырык1ын; шъхьадэк1ын (to get over above something)"
@@ -6207,7 +6216,7 @@
     "to plough": "жъон; гъэжъон"
   },
   {
-    "to boil": "жъон; гъэжъон"
+    "to boil": "жъон; гъэжъон; гъэпщтын (to boil milk)"
   },
   {
     "to grind": "хьаджын; убын"
@@ -8703,7 +8712,7 @@
     "to be frightened": "щынэн; щтэн; щыщынэн (to be frightened of); щыщтэн (to be frightened of)"
   },
   {
-    "to shy": "ук1ытэн (to be shy); щыук1ытэн (to be shy of)"
+    "to shy": "ук1ытэн (to be shy); щыук1ытэн (to be shy of/from); хэук1ытэхьан (to be shy among other people)"
   },
   {
     "to be startled": "къыдэпк1эен; гу къеон"
@@ -9437,13 +9446,10 @@
     "neighborly": "нэгуихыгъэу"
   },
   {
-    "translator": "зэдзэк1ак1у"
+    "to translate": "зэдзэк1ын; (dialectal) зэблэдзын"
   },
   {
-    "to translate": "зэдзэк1ын"
-  },
-  {
-    "cigarette": "тутын"
+    "cigarette": "тутын; тутыныбжъ (rolled cigarrete)"
   },
   {
     "to want": "фэен; ш1оигъон (very polite)"
@@ -10997,10 +11003,19 @@
     "to skin": "шъо техын; гун; гугъэн"
   },
   {
-    "to peel": "шъуампэ техын; шъо техын; гун; гугъэн"
+    "to husk": "гун to husk (grain)"
+  },
+  {
+    "to rip off": "гугъэн"
+  },
+  {
+    "to peel": "течын (to tear off); шъо течын (to tear off the skin); шъуамп1э техын (to take off the peel); шъо техын (to take off the skin); гъэжъоп1он / тек1эп1ык1ын (to peel wheat-seeds and the like)"
   },
   {
     "to flay": "шъо техын; гун; гугъэн"
+  },
+  {
+    "louse": "ц1э"
   },
   {
     "to flense": "шъо техын; гун; гугъэн"
@@ -12861,9 +12876,6 @@
     "mischievous": "ш1ык1ай; шэнчъэ"
   },
   {
-    "naughty": "ш1ык1ай"
-  },
-  {
     "prankish": "ш1ык1ай"
   },
   {
@@ -13676,19 +13688,19 @@
     "to be pushed back": "зэк1эхьан"
   },
   {
-    "alternative form of \"зэк1эхьан\"": "зэк1эхьэн"
+    "although": "шъхьай / шъхьак1э"
   },
   {
-    "alternative form of \"лъэк1ап1э\"": "лъэк1ап1"
+    "yet": "джыри (still, thus far); (dialectal) дэхьэ; шъхьай / шъхьак1э (despite that)"
   },
   {
-    "alternative form of \"лъэк1ап1э\"": "лъэк1ьап1э"
+    "despite that": "шъхьай / шъхьак1э; ащ шъхьак1э (despite that)"
   },
   {
-    "however, although, yet": "шъхьак1э"
+    "despite": "шъхьай / шъхьак1э; ащ шъхьак1э (despite that)"
   },
   {
-    "because of": "фэш1к1э"
+    "thus far": "джынэс; (dialectal) иджынэс"
   },
   {
     "interpreter": "зэдзэк1ак1о"
@@ -13697,64 +13709,37 @@
     "translator": "зэдзэк1ак1о"
   },
   {
-    "to hiccup": "къыин"
+    "to hiccup": "къыин / къэкъэин; хьак1эн"
   },
   {
     "burp": "къэи"
   },
   {
-    "alternative form of \"къыин\"": "къэин"
+    "hiccup": "къэи; хьак1"
   },
   {
-    "a shy person": "ук1ытапх"
+    "shy": "ук1ытапх"
   },
   {
-    "alternative form of \"ук1ытапх\"": "ук1ьытапх"
+    "coward": "щтапхэ; щынапхэ; къэрабгъэ; щтэпхэрый (scaredy-cat)"
   },
   {
-    "alternative form of \"ук1ытапх\"": "ук1ытапхэ"
+    "scaredy-cat": "щтэпхэрый"
   },
   {
-    "coward": "щтапхэ"
-  },
-  {
-    "alternative form of \"щтапхэ\"": "щытапхэ"
-  },
-  {
-    "alternative form of \"къэрабгъэ\"": "къэрэбгъэ"
-  },
-  {
-    "coward": "щынапхэ"
+    "weak-willed": "фэмыф"
   },
   {
     "to reach for": "лъы1эсын"
   },
   {
-    "a naughty person, a person with a bad behavior": "шэнычъэ"
+    "naughty": "шэнычъэ; ш1ык1ай"
   },
   {
     "composer": "орэдус"
   },
   {
-    "liar": "пц1ыус"
-  },
-  {
-    "singer": "орэды1у"
-  },
-  {
-    "to boil (milk)": "гъэпщтын"
-  },
-  {
-    "to be boiled (milk)": "пщтын"
-  },
-  {
-    "to peal": "течын"
-  },
-  {
-    "alternative form of \"течын\"": "текьын"
-  },
-  {
-    "to tear something to pieces": "зэхэгъэтэкъун"
+    "to tear": "зэхэгъэтэкъун"
   },
   {
     "to break (A part of something), to fracture": "зэпыутын"
@@ -15545,9 +15530,6 @@
     "to touch the surface of something (repetitively)": "те1эбэхьын"
   },
   {
-    "to cross": "зэблэдзын"
-  },
-  {
     "to convert something into another thing": "зэблэдзын"
   },
   {
@@ -16326,9 +16308,6 @@
   },
   {
     "nasal septum, the bone between the two nose-holes": "пэбзыджын"
-  },
-  {
-    "coward": "къэрабгъэ"
   },
   {
     "modesty, humility (the quality of being modest)": "нэхаш"

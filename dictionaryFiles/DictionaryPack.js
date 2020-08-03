@@ -6021,6 +6021,10 @@
       {
         "meaning": "name",
         "examples": []
+      },
+	  {
+        "meaning": "loise",
+        "examples": []
       }
     ],
     "synonyms": [
@@ -39685,7 +39689,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be melted",
+        "meaning": "to dare to",
         "examples": [
           {
             "sentence": "Сэ сихьанэу '''ескугъэп'''",
@@ -52983,12 +52987,36 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to strip, to peel, to skin, to flay, to flense",
+        "meaning": "to husk (grain)",
         "examples": []
       }
     ],
     "type": "verb",
     "ipa": "jaɡʷən"
+  },
+  {
+    "word": "упэрэцын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to make something bushy",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "разлохматиться"
+  },
+  {
+    "word": "хъурышъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "fur (clothes)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "χʷəraːʃʷa"
   },
   {
     "word": "т1эк1ын",
@@ -60633,11 +60661,11 @@
         ]
       },
       {
-        "meaning": "to strip, to peel, to skin, to flay, to flense",
+        "meaning": "to rip off",
         "examples": [
           {
             "sentence": "К1алэм натрыфыр '''егугъэ'''",
-            "translation": "The boy '''strips''' the corn."
+            "translation": "The boy '''rips off''' the corn."
           }
         ]
       }
@@ -64770,7 +64798,44 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"къыин\"",
+        "meaning": "to burp",
+        "examples": [
+          {
+            "sentence": "К1алэр '''къэкъыегъ'''",
+            "translation": "The boy '''burped'''."
+          },
+          {
+            "sentence": "'''Укъэмыкъый'''",
+            "translation": "'''Don't burp'''."
+          }
+        ]
+      },
+      {
+        "meaning": "to hiccup",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "qaqəjən"
+  },
+  {
+    "word": "хьак1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to hiccup",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "qaqəjən"
+  },
+  {
+    "word": "л1эгъэпалъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "a person that looks like dead (probably from laziness or weak-willedness)",
         "examples": []
       }
     ],
@@ -74181,7 +74246,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to peal",
+        "meaning": "to peel",
         "examples": [
           {
             "sentence": "К1алэм мы1эрысэм ищъо '''зэтечы'''",
@@ -81021,19 +81086,14 @@
     "ipa": "jaməkʷʼ"
   },
   {
-    "word": "шъхьае",
+    "word": "шъхьай",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "for",
+        "meaning": "yet; despite that; although; however",
         "examples": []
       }
     ],
-    "synonyms": [
-      "фэш1к1э",
-      "пае"
-    ],
-    "cognate": "папщ1э",
     "type": "conj",
     "ipa": "ʂħaːja"
   },
