@@ -3588,7 +3588,7 @@
     "titanic": "ин дэд, шъэджашъэ"
   },
   {
-    "to love": "ш1у лъэгъун; ш1улъэгъун"
+    "to love": "ш1у лъэгъун; ш1улъэгъун; (slang) фэл1эн; тел1эхьан (to fall in love with); тенэц1эхьан  (to fall in love with); ук1эсын (to start to like)"
   },
   {
     "food for animals": "1ус; былым1ус"
@@ -3633,10 +3633,10 @@
     "problem": "1офы; 1офыгъу; проблэм; бырсыр (trouble)"
   },
   {
-    "to throw": "дзын; лъыдзын (to throw toward); тедзэн (to throw on); тедзын (to throw off from above something); 1удзэн (to throw near); 1удзын (to throw away); ч1эдзэн (to throw under); ч1эдзын (to throw away from under); хэдзэн (to throw among people/objects or into an area with gas or liquid); хэдзын (to throw away from among people/objects or outside an area with gas or liquid); дэдзыен (to throw up); едзыхын (to throw down); жэхэдзэн (to throw intensively onto someone); зэк1эдзэн (to throw backward); шъхьэдэдзын (to throw over); жэхэдзэн (to intensively throw something against); итэкъон (to put/throw stuff inside something); тетэкъон (to put/throw stuff on something); ч1этэкъон (to put/throw stuff under something); дэтэкъон (to put/throw stuff inside another object, to put/throw stuff between); къотэкъон (to put/throw stuff behind something); хэтэкъон (to put/throw stuff among other objects/people, to throw/put stuff in an area with fire, gas or liquid); готэкъон / бгъодэтэкъон (to put/throw stuff besides something); жэхэтэкъон (to put/throw stuff against something); итэкъун / къитэкъун (to throw away stuff from inside something); тетэкъун / къытетэкъун (to throw away stuff from on something); ч1этэкъун / къыч1этэкъун (to throw away stuff from under something); дэтэкъун / къыдэтэкъун (to throw away stuff from inside another object, to throw away stuff from between); къотэкъун / къыкъотэкъун (to throw away stuff from behind something); хэтэкъун / къыхэтэкъун (to throw away stuff from among other objects/people, to throw away stuff from an area with fire, gas or liquid); готэкъун / бгъодэтэкъун (to throw away stuff from besides something);"
+    "to throw": "дзын; лъыдзын (to throw toward); тедзэн (to throw on); тедзын (to throw off from above something); 1удзэн (to throw near); 1удзын (to throw away); ч1эдзэн (to throw under); ч1эдзын (to throw away from under); хэдзэн (to throw among people/objects or into an area with gas or liquid); хэдзын (to throw away from among people/objects or outside an area with gas or liquid); дэдзыен (to throw up); едзыхын (to throw down); жэхэдзэн (to throw intensively onto someone); зэк1эдзэн (to throw backward); шъхьэдэдзын (to throw over); жэхэдзэн (to intensively throw something against); итэкъон (to put/throw stuff inside something); тетэкъон (to put/throw stuff on something); ч1этэкъон (to put/throw stuff under something); дэтэкъон (to put/throw stuff inside another object, to put/throw stuff between); къотэкъон (to put/throw stuff behind something); хэтэкъон (to scatter in, to put/throw stuff among other objects/people, to throw/put stuff in an area with fire, plants, gas or liquid); готэкъон / бгъодэтэкъон (to put/throw stuff besides something); жэхэтэкъон (to put/throw stuff against something); итэкъун / къитэкъун (to throw away stuff from inside something); тетэкъун / къытетэкъун (to throw away stuff from on something); ч1этэкъун / къыч1этэкъун (to throw away stuff from under something); дэтэкъун / къыдэтэкъун (to throw away stuff from inside another object, to throw away stuff from between); къотэкъун / къыкъотэкъун (to throw away stuff from behind something); хэтэкъун / къыхэтэкъун (to throw away stuff from among other objects/people, to throw away stuff from an area with fire, gas or liquid); готэкъун / бгъодэтэкъун (to throw away stuff from besides something)"
   },
   {
-    "to throw away": "тедзын / къытедзын (to throw on); 1удзын / къы1удзын (to throw away, to throw elsewhere); идзын / къыидзын (to throw away from inside); дэдзын / къыдэдзын (to throw away from inside another object or from between); ч1эдзын / къыч1эдзын (to throw away from under); хэдзын / къыхэдзын (to throw away from among people/objects or outside an area with gas or liquid); пыдзын / къыпыдзын (to throw away from the surface of a body); жэхэдзын / къыжэхэдзын (to intensively throw away from someone); къызтедзын / къызпэдзын (to throw something away from oneself)"
+    "to throw away": "тедзын / къытедзын (to throw on); 1удзын / къы1удзын (to throw away, to throw elsewhere); идзын / къыидзын (to throw away from inside); дэдзын / къыдэдзын (to throw away from inside another object or from between); ч1эдзын / къыч1эдзын (to throw away from under); хэдзын / къыхэдзын (to throw away from among people/objects or outside an area with gas or liquid); пыдзын / къыпыдзын (to throw away from the surface of a body); жэхэдзын / къыжэхэдзын (to intensively throw away from someone); къызтедзын / къызпэдзын (to throw something away from oneself); итэкъун / къитэкъун (to throw away stuff from inside something); тетэкъун / къытетэкъун (to throw away stuff from on something); ч1этэкъун / къыч1этэкъун (to throw away stuff from under something); дэтэкъун / къыдэтэкъун (to throw away stuff from inside another object, to throw away stuff from between); къотэкъун / къыкъотэкъун (to throw away stuff from behind something); хэтэкъун / къыхэтэкъун (to throw away stuff from among other objects/people, to throw away stuff from an area with fire, gas or liquid); готэкъун / бгъодэтэкъун (to throw away stuff from besides something)"
   },
   {
     "to come into existence": "къэхъун"
@@ -4548,7 +4548,7 @@
     "to spread": "тифэхьын"
   },
   {
-    "to spill": "тек1эн (intensive); тек1утэн; хэпк1эн (to spill a liquid to another liquid)"
+    "to spill": "тек1эн (intensive); тек1утэн; хэпк1эн (to spill a liquid to another liquid); ик1эн (to spill inside); ч1эк1эн (to spill under)"
   },
   {
     "to spill on": "тек1эн (intensive); тек1утэн; хэпк1эн (to spill a liquid to another liquid)"
@@ -4663,12 +4663,6 @@
   },
   {
     "old": "жъы"
-  },
-  {
-    "to get over": "зэпычын"
-  },
-  {
-    "to overcome": "зэпычын"
   },
   {
     "to completely break": "зэхэубэтэхьан; зэхэкъутэхьан"
@@ -9002,7 +8996,7 @@
     "to put down": "гъэт1ылъын; ч1ыгум телъхьан"
   },
   {
-    "to put": "гъэт1ылъын (to put down); илъхьан (to put inside); телъхьан (to put on); ч1элъхьан (to put under); 1улъхьан (to put near); къолъхьан (to put behind); пылъхьан (to hang, to attach); голъхьан / бгъодэлъхьан (to put besides); дэлъхьан (to put between or to put inside another object); хэлъхьан (to put something in an area with gas or liquid, to put something among other people/objects, to put a certain manner, behavior or attribute in someone, to put something through something); к1оц1ылъхьан (to put something within something); гъэуцун (to put something somewhere); тегъэуцун (to put on); дэгъэуцон (to put between); 1угъэуцон (to put something near); зэтелъхьан (to put on each other); к1элъырыгъэуцон (to put something next to); жэхэлъхьан (to intensively put something against something); зэк1элъхьан (to put stuff under each other); зэкъолъхьан (to put stuff behind each other); зэдэлъхьан (to put stuff inside each other); зэрилъхьан (to put stuff inside each other); зэголъхьан / зэбгъодэлъхьан (to put stuff aside each other); зэпылъхьан (to attach stuff to each other); итэкъон (to put/throw stuff inside something); тетэкъон (to put/throw stuff on something); ч1этэкъон (to put/throw stuff under something); дэтэкъон (to put/throw stuff inside another object, to put/throw stuff between); къотэкъон (to put/throw stuff behind something); хэтэкъон (to put/throw stuff among other objects/people, to throw/put stuff in an area with fire, gas or liquid); готэкъон / бгъодэтэкъон (to put/throw stuff besides something); жэхэтэкъон (to put/throw stuff against something)"
+    "to put": "гъэт1ылъын (to put down); илъхьан (to put inside); телъхьан (to put on); ч1элъхьан (to put under); 1улъхьан (to put near); къолъхьан (to put behind); пылъхьан (to hang, to attach); голъхьан / бгъодэлъхьан (to put besides); дэлъхьан (to put between or to put inside another object); хэлъхьан (to put something in an area with gas or liquid, to put something among other people/objects, to put a certain manner, behavior or attribute in someone, to put something through something); к1оц1ылъхьан (to put something within something); гъэуцун (to put something somewhere); тегъэуцун (to put on); дэгъэуцон (to put between); 1угъэуцон (to put something near); зэтелъхьан (to put on each other); к1элъырыгъэуцон (to put something next to); жэхэлъхьан (to intensively put something against something); зэк1элъхьан (to put stuff under each other); зэкъолъхьан (to put stuff behind each other); зэдэлъхьан (to put stuff in each other); зэрилъхьан (to put stuff inside each other); зэголъхьан / зэбгъодэлъхьан (to put stuff aside each other); зэпылъхьан (to attach stuff to each other); итэкъон (to put/throw stuff inside something); тетэкъон (to put/throw stuff on something); ч1этэкъон (to put/throw stuff under something); дэтэкъон (to put/throw stuff inside another object, to put/throw stuff between); къотэкъон (to put/throw stuff behind something); хэтэкъон (to put/throw stuff among other objects/people, to throw/put stuff in an area with fire, gas or liquid); готэкъон / бгъодэтэкъон (to put/throw stuff besides something); жэхэтэкъон (to put/throw stuff against something)"
   },
   {
     "to place": "илъхьан (to place inside); телъхьан (to place on); ч1элъхьан (to place under); гъэуцун (to place); тегъэуцун (to place on); дэгъэуцон (to place between); зэтелъхьан (to place on each other)"
@@ -10427,9 +10421,6 @@
     "really": "шъыпкъэу"
   },
   {
-    "to put away": "1ухын; щыгъэзыен; щыдзыен"
-  },
-  {
     "to move away": "1ухын (to put something away); щыгъэзыен (to move something to make way); щыдзыен (to move something to make way); зыщыгъэзыен (to move oneself away of); зыщыдзыен (to move oneself away from); кощын (to relocale); гъэкощын (to relocale something)"
   },
   {
@@ -10466,7 +10457,7 @@
     "misdeed": "псэк1од"
   },
   {
-    "to like": "к1эсэн; гу е1ун; гу рихьан"
+    "to like": "к1эсэн; гу е1ун; гу рихьан; ук1эсын (to start to like)"
   },
   {
     "to hear": "е1ун; зэхэхын"
@@ -11316,7 +11307,10 @@
     "to reduce": "къыщыгъэк1эн; нахь мак1э ш1ын; хэгъэк1ын; гъэпыутын (to reduce the price)"
   },
   {
-    "to take away": "1ухын (to take away); 1ущын (to take/lead a person away); техын (to take away from above something); ч1эхын (to take away from under something); дэхын (to take away from a defined area); ихын (to take away from inside something); гохын / бгъодэхын (to take away from besides something); къохын (to take away from behind something); пыхын (to take away from a hanger or tree); тещын (to take/lead a person away from above something); ч1эщын (to take/lead a person away from under something); дэщын (to take/lead a person away from a defined area); ищын (to take/lead a person away from inside something); гощын / бгъодэщын (to take/lead a person away from besides something); къощын (to take/lead a person away from behind something)"
+    "to take away": "1ухын (to take away); 1ущын (to take/lead a person away); техын (to take away from above something); ч1эхын (to take away from under something); дэхын (to take away from inside another object, to take away from between); ихын (to take away from inside something); гохын / бгъодэхын (to take away from besides something); къохын (to take away from behind something); пыхын (to take away from a hanger or tree); тещын (to take/lead a person away from above something); ч1эщын (to take/lead a person away from under something); дэщын (to take/lead a person away from a defined area); ищын (to take/lead a person away from inside something); гощын / бгъодэщын (to take/lead a person away from besides something); къощын (to take/lead a person away from behind something)"
+  },
+  {
+    "to put away": "1ухын (to put away); техын (to put away from above something); ч1эхын (to put away from under something); дэхын (to put away from betweem, to put away from inside another object); ихын (to put away from inside something); гохын / бгъодэхын (to put away from besides something); къохын (to put away from behind something); пыхын (to put away from a hanger or tree); итэкъун / къитэкъун (to put/throw away stuff from inside something); тетэкъун / къытетэкъун (to put/throw away stuff from on something); ч1этэкъун / къыч1этэкъун (to put/throw away stuff from under something); дэтэкъун / къыдэтэкъун (to put/throw away stuff from inside another object, to put/throw away stuff from between); къотэкъун / къыкъотэкъун (to put/throw away stuff from behind something); хэтэкъун / къыхэтэкъун (to put/throw away stuff from among other objects/people, to put/throw away stuff from an area with fire, gas or liquid); готэкъун / бгъодэтэкъун (to put/throw away stuff from besides something)"
   },
   {
     "ready": "хьазыр"
@@ -13046,7 +13040,13 @@
     "to fold": "зэтеупл1энк1эн; (Shapsug) зэтеул1эк1эн"
   },
   {
-    "to stack": "зэтелъхьан (to stack on each other)"
+    "to stack": "зэтелъхьан (to stack on each other); зэч1элъхьан (to stack under each other)"
+  },
+  {
+    "to pill up": "зэтелъхьан (to pile stuff on each other); зэк1элъхьан (to pile stuff under each other); зэкъолъхьан (to pile stuff behind each other); зэдэлъхьан (to put stuff in each other); зэрилъхьан (to put stuff inside each other); зэголъхьан / зэбгъодэлъхьан (to pile stuff aside each other)"
+  },
+  {
+    "to pile": "зэтелъхьан (to pile stuff on each other); зэк1элъхьан (to pile stuff under each other); зэкъолъхьан (to pile stuff behind each other); зэдэлъхьан (to put stuff in each other); зэрилъхьан (to put stuff inside each other); зэголъхьан / зэбгъодэлъхьан (to pile stuff aside each other)"
   },
   {
     "to point to": "1эхъуамбэр фэгъэпсын"
@@ -13316,58 +13316,34 @@
     "scythe": "щэмэдж"
   },
   {
-    "to throw stuff into somewhere": "дэтэкъон"
-  },
-  {
-    "to throw stuff from somewhere": "дэтэкъун"
-  },
-  {
-    "alternative form of \"пчык1э\"": "пщык1э"
-  },
-  {
     "to mark": "едзын"
+  },
+  {
+    "to sign": "едзын; к1этхэн"
+  },
+  {
+    "to outline": "едзын"
   },
   {
     "bright skinned": "фыжьыбз"
   },
   {
-    "alternative form of \"ц1этхъун\"": "ц1этхъын"
-  },
-  {
     "very sick": "сымэджэдэй"
   },
   {
-    "to hit or expel water at": "псы тэгъэчъын"
-  },
-  {
-    "to spill something inside a liquid": "хэк1утэн"
-  },
-  {
-    "something to come to the mind": "шъхьэм къихьэн"
-  },
-  {
-    "to lack something, to have something missing that is required": "къыщык1эн"
-  },
-  {
-    "alternative form of \"нынэп1ос\"": "нынэп1эс"
+    "to come to the mind": "шъхьэм къихьан"
   },
   {
     "stepmother": "нынэп1ос"
   },
   {
-    "to stack, to put objects on each other": "зэтелъхьэн"
+    "stepfather": "тынэп1ос"
   },
   {
-    "to overcome (To win or prevail in some sort of battle, contest, etc)": "тек1он"
+    "to overcome": "тек1он"
   },
   {
-    "to become greater than something else": "тек1он"
-  },
-  {
-    "to die for something or someone": "фэл1эн"
-  },
-  {
-    "(slang) to love something or someone very much": "фэл1эн"
+    "to fall in love": "тел1эхьан; тенэц1эхьан"
   },
   {
     "to run and climb up": "ч1ышъутын"

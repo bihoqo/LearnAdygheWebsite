@@ -20787,7 +20787,7 @@
             "translation": "'''To overcome '''the hard path."
           },
           {
-            "sentence": "Гъинхэр '''зэпычыных'''",
+            "sentence": "Къинхэр '''зэпычыных'''",
             "translation": "'''To overcome''' difficulties."
           }
         ]
@@ -70465,16 +70465,16 @@
     "ipa": "səmad͡ʒadaj"
   },
   {
-    "word": "псы тэгъэчъын",
+    "word": "псы тегъэчъын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to hit or expel water at",
+        "meaning": "to spill water on",
         "examples": []
       }
     ],
     "type": "verb",
-    "ipa": "psə taʁat͡ʂən"
+    "ipa": "psə tajʁat͡ʂən"
   },
   {
     "word": "хэк1утэн",
@@ -70494,7 +70494,7 @@
     "ipa": "xakʷʼətan"
   },
   {
-    "word": "шъхьэм къихьэн",
+    "word": "шъхьэм къихьан",
     "lang": "Adyghe",
     "definitions": [
       {
