@@ -2466,9 +2466,6 @@
     "divided": "агощырэр"
   },
   {
-    "middle": "гузэгу; зэфагу"
-  },
-  {
     "between": "азыфагу; агузэгу"
   },
   {
@@ -2812,9 +2809,6 @@
   },
   {
     "gravel": "мыжъо-пшэхъо зэхэлъ; мыжъок1ашъхъ"
-  },
-  {
-    "middle": "купсэ"
   },
   {
     "pitchfork": "къуахъо"
@@ -3588,7 +3582,7 @@
     "titanic": "ин дэд, шъэджашъэ"
   },
   {
-    "to love": "ш1у лъэгъун; ш1улъэгъун; (slang) фэл1эн; тел1эхьан (to fall in love with); тенэц1эхьан  (to fall in love with); ук1эсын (to start to like)"
+    "to love": "ш1у лъэгъун; ш1улъэгъун; (slang) фэл1эн; тел1эхьан (to fall in love with); тенэц1эхьан  (to fall in love with)"
   },
   {
     "food for animals": "1ус; былым1ус"
@@ -3633,7 +3627,7 @@
     "problem": "1офы; 1офыгъу; проблэм; бырсыр (trouble)"
   },
   {
-    "to throw": "дзын; лъыдзын (to throw toward); тедзэн (to throw on); тедзын (to throw off from above something); 1удзэн (to throw near); 1удзын (to throw away); ч1эдзэн (to throw under); ч1эдзын (to throw away from under); хэдзэн (to throw among people/objects or into an area with gas or liquid); хэдзын (to throw away from among people/objects or outside an area with gas or liquid); дэдзыен (to throw up); едзыхын (to throw down); жэхэдзэн (to throw intensively onto someone); зэк1эдзэн (to throw backward); шъхьэдэдзын (to throw over); жэхэдзэн (to intensively throw something against); итэкъон (to put/throw stuff inside something); тетэкъон (to put/throw stuff on something); ч1этэкъон (to put/throw stuff under something); дэтэкъон (to put/throw stuff inside another object, to put/throw stuff between); къотэкъон (to put/throw stuff behind something); хэтэкъон (to scatter in, to put/throw stuff among other objects/people, to throw/put stuff in an area with fire, plants, gas or liquid); готэкъон / бгъодэтэкъон (to put/throw stuff besides something); жэхэтэкъон (to put/throw stuff against something); итэкъун / къитэкъун (to throw away stuff from inside something); тетэкъун / къытетэкъун (to throw away stuff from on something); ч1этэкъун / къыч1этэкъун (to throw away stuff from under something); дэтэкъун / къыдэтэкъун (to throw away stuff from inside another object, to throw away stuff from between); къотэкъун / къыкъотэкъун (to throw away stuff from behind something); хэтэкъун / къыхэтэкъун (to throw away stuff from among other objects/people, to throw away stuff from an area with fire, gas or liquid); готэкъун / бгъодэтэкъун (to throw away stuff from besides something)"
+    "to throw": "дзын; лъыдзын (to throw toward); тедзэн (to throw on); тедзын (to throw off from above something); 1удзэн (to throw near); 1удзын (to throw away); ч1эдзэн (to throw under); ч1эдзын (to throw away from under); хэдзэн (to throw among people/objects or into an area with gas or liquid); хэдзын (to throw away from among people/objects or outside an area with gas or liquid); дэдзыен (to throw up); едзыхын (to throw down); жэхэдзэн (to throw intensively onto someone); зэк1эдзэн (to throw backward); шъхьэдэдзын (to throw over); жэхэдзэн (to intensively throw something against); итэкъон (to put/throw stuff inside something); тетэкъон (to put/throw stuff on something); ч1этэкъон (to put/throw stuff under something); дэтэкъон (to put/throw stuff inside another object, to put/throw stuff between); къотэкъон (to put/throw stuff behind something); хэтэкъон (to scatter in, to put/throw stuff among other objects/people, to throw/put stuff in an area with fire, plants, gas or liquid); готэкъон / бгъодэтэкъон (to put/throw stuff besides something); жэхэтэкъон (to put/throw stuff against something); итэкъун / къитэкъун (to throw away stuff from inside something); тетэкъун / къытетэкъун (to throw away stuff from on something); ч1этэкъун / къыч1этэкъун (to throw away stuff from under something); дэтэкъун / къыдэтэкъун (to throw away stuff from inside another object, to throw away stuff from between); къотэкъун / къыкъотэкъун (to throw away stuff from behind something); хэтэкъун / къыхэтэкъун (to throw away stuff from among other objects/people, to throw away stuff from an area with fire, gas or liquid); готэкъун / бгъодэтэкъун (to throw away stuff from besides something); хэупц1эн / жэхэуп1эн (to throw and smash something against something)"
   },
   {
     "to throw away": "тедзын / къытедзын (to throw on); 1удзын / къы1удзын (to throw away, to throw elsewhere); идзын / къыидзын (to throw away from inside); дэдзын / къыдэдзын (to throw away from inside another object or from between); ч1эдзын / къыч1эдзын (to throw away from under); хэдзын / къыхэдзын (to throw away from among people/objects or outside an area with gas or liquid); пыдзын / къыпыдзын (to throw away from the surface of a body); жэхэдзын / къыжэхэдзын (to intensively throw away from someone); къызтедзын / къызпэдзын (to throw something away from oneself); итэкъун / къитэкъун (to throw away stuff from inside something); тетэкъун / къытетэкъун (to throw away stuff from on something); ч1этэкъун / къыч1этэкъун (to throw away stuff from under something); дэтэкъун / къыдэтэкъун (to throw away stuff from inside another object, to throw away stuff from between); къотэкъун / къыкъотэкъун (to throw away stuff from behind something); хэтэкъун / къыхэтэкъун (to throw away stuff from among other objects/people, to throw away stuff from an area with fire, gas or liquid); готэкъун / бгъодэтэкъун (to throw away stuff from besides something)"
@@ -4585,9 +4579,6 @@
   },
   {
     "to apply pressure": "ц1ыц1ын"
-  },
-  {
-    "to regret": "к1эгъожьын"
   },
   {
     "to correct": "гъэтэрэзын"
@@ -8127,7 +8118,7 @@
     "to buy": "щэфын"
   },
   {
-    "to tie up": "пхын; зэкъодзэн; хъэн"
+    "to tie up": "пхын; егъэпхын (to tie up something to something); зэкъодзэн; хъэн"
   },
   {
     "to bind": "зэкъодзэн; хъэн"
@@ -8820,9 +8811,6 @@
     "praise": "щытхъу; дауш"
   },
   {
-    "to praise": "щытхъун"
-  },
-  {
     "to assist": "де1эн"
   },
   {
@@ -9146,7 +9134,7 @@
     "to encircle": "къэухъурэин (to encircle someone, something or a place); къэуцухьан; къэдзыхьан (to besiege); иш1эхьан / къиш1эхьан (to encircle inside)"
   },
   {
-    "to surround": "къэухъурэин (to surround someone, something or a place); къэуцухьан; къэдзыхьан (to besiege)"
+    "to surround": "къещэк1ын (to wrap); къещыхьак1ын (to wrap); къэухъурэин (to surround someone, something or a place); къэуцухьан; къэдзыхьан (to besiege)"
   },
   {
     "to round up": "зэ1угъэк1эн; зэхэугъоен (to besiege)"
@@ -10457,9 +10445,6 @@
     "misdeed": "псэк1од"
   },
   {
-    "to like": "к1эсэн; гу е1ун; гу рихьан; ук1эсын (to start to like)"
-  },
-  {
     "to hear": "е1ун; зэхэхын"
   },
   {
@@ -11226,10 +11211,7 @@
     "to enwrap": "к1оц1ыщыхьан; к1оц1ылъхьан"
   },
   {
-    "to wrap": "к1оц1ыщыхьан; к1оц1ылъхьан"
-  },
-  {
-    "to envelope": "к1оц1ыщыхьан; к1оц1ылъхьан"
+    "to envelope": "к1оц1ыщыхьан"
   },
   {
     "to temper": "псыхьан"
@@ -13058,10 +13040,10 @@
     "deserve": "фэшъуаш"
   },
   {
-    "deservingly": "фэшъуаш"
+    "deservingly": "фэшъуашэу"
   },
   {
-    "appropriately": "фэшъуаш"
+    "appropriately": "фэшъуашэу"
   },
   {
     "depends on": "егъэпхыгъ; фэшъуаш"
@@ -13346,73 +13328,31 @@
     "to fall in love": "тел1эхьан; тенэц1эхьан"
   },
   {
-    "to run and climb up": "ч1ышъутын"
-  },
-  {
-    "to run off upwards, to flee upwards": "ч1ышъутын"
-  },
-  {
-    "to run off/flea from under something": "ч1эшъутын"
-  },
-  {
-    "alternative form of \"дэхьащхын\"": "дыхьэщхын"
-  },
-  {
-    "alternative form of \"щыдэхьащхын\"": "щыдыхьэщхын"
-  },
-  {
-    "to laugh at someone": "щыдэхьащхын"
-  },
-  {
-    "alternative form of \"гупшысэн\"": "гупсэн"
-  },
-  {
-    "appropriately/accordingly as one deserves; deservingly": "фэшъуашэу"
+    "to laugh": "щхын; дэхьащхын (to laugh at); щыдэхьащхын  (to laugh at)"
   },
   {
     "accordingly": "фэшъуашэу"
   },
   {
-    "alternative form of \"иш1уагъэ ек1ын\"": "иш1уагъэ ек1ьын"
+    "to benefit": "иш1уагъэ ек1ын (to benefit from); иш1уагъэ пыхын (to take something beneficial from)"
   },
   {
-    "to benefit from it": "иш1уагъэ ек1ын"
+    "to set": "тегъэпсэхьан"
   },
   {
-    "to set": "тэгъэпсэхьэн"
+    "to wrap": "к1оц1ылъхьан; к1оц1ыщыхьан (to wrap around); къещыхьак1ын (to wrap around); щэхьын; щыхьан; къещэк1ын"
   },
   {
-    "to wrap": "к1оц1ылъхьэн"
-  },
-  {
-    "alternative form of \"едзын\"": "ридзын"
-  },
-  {
-    "to be dropped behind something": "къозын"
-  },
-  {
-    "to appear suddenly and surprisingly": "къозын"
-  },
-  {
-    "alternative form of \"щтын\"": "мэщтын"
-  },
-  {
-    "to be totally frozen": "хэщтыхьын"
-  },
-  {
-    "to be frozen": "щтын"
+    "to be frozen": "щтын (to be frozen); дэщтыхьан (to be frozen inside a firdge); хэщтыхьан (to be frozen in a liquid or gas)"
   },
   {
     "Adam's apple": "тыкъын"
   },
   {
-    "to make someone regret": "к1эгъэгъожьын"
+    "to regret": "к1эгъожьын; к1эгъэгъожьын (to make someone regret)"
   },
   {
-    "alternative form of \"джы\"": "иджы"
-  },
-  {
-    "worthless": "к1ьэрыт"
+    "worthless": "пк1энчъ"
   },
   {
     "goodness": "ш1угъэ"
@@ -13421,124 +13361,61 @@
     "badness": "дэигъэ"
   },
   {
-    "to put or push someone or an object forcefully against something": "дэк1оцэн"
+    "to go to waste": "сапэм дэк1оен"
   },
   {
-    "to go to waste,": "сапэм ч1ык1ын"
+    "to have chills": "шъхьацышъо тэджын"
   },
   {
-    "alternative form of \"жэхэлъэдэн\"": "джыхэлъэдэн"
+    "to give chills": "шъхьацышъо къэгъэтэджын"
   },
   {
-    "alternative form of \"жэхэк1отэн\"": "джыхэк1отэн"
+    "to become sore": "дыин"
   },
   {
-    "alternative form of \"жэхэон\"": "джыхэон"
+    "to numb": "утэцэн"
   },
   {
-    "alternative form of \"жэхэупц1эн\"": "джыхэупс1эн"
-  },
-  {
-    "alternative form of \"хэупц1эн\"": "хэупс1эн"
-  },
-  {
-    "to throw an object against something forcefully": "хэупц1эн"
-  },
-  {
-    "to stain forcefully, to make a mark on a surface or a piece of clothing forcefully": "хэупц1эн"
-  },
-  {
-    "to break (can be repaired)": "къутэн"
-  },
-  {
-    "alternative form of \"жэхэхьан\"": "джыхэхьэн"
-  },
-  {
-    "to collide with, to smash into": "жэхэхьан"
-  },
-  {
-    "to have chills": "шъхьацышъо мэтэджын"
-  },
-  {
-    "to become sore (sore muscle)": "дыин"
-  },
-  {
-    "to numb, to tingle (body-part); to feel a prickling or mildly stinging sensation": "утэцэн"
-  },
-  {
-    "(added to verbs) A person that does an action indicated by the root verb; used to form an agent noun.": "-к1о"
-  },
-  {
-    "alternative form of \"шыхьатэу теуцон\"": "шэхьэтэу къытеуцон"
+    "to tingle": "утэцэн"
   },
   {
     "hermaphrodite": "мыхъумыбз"
   },
   {
-    "to say something clearly while being fully self aware": "шъхьэк1э къэ1он"
+    "to have the smell of": "пыун / къыпыун"
   },
   {
-    "alternative form of \"лъэубакъу\"": "хьэлъэбакъу"
+    "to emit smell": "пыун  / къыпыун"
   },
   {
-    "alternative form of \"лъэубакъу\"": "хьэлъэбакъо"
+    "to emit": "пихын / къыпихын; пыун / къыпыун (to emit smell)"
   },
   {
-    "alternative form of \"к1эхьан\"": "1ук1эхьан"
+    "great smell": "мэ 1эш1у"
   },
   {
-    "to fall in love with someone": "тел1эхьын"
+    "to tell": "1отэн / къэ1отэн"
   },
   {
-    "to fall in love with someone": "тенэц1эхьын"
-  },
-  {
-    "to have the smell of; to emit smell": "пыун"
-  },
-  {
-    "great smell": "гъомэ 1эш1у"
-  },
-  {
-    "to tell": "1отэн"
-  },
-  {
-    "to swear to god": "тхьэ 1он"
-  },
-  {
-    "laugh": "дэхьащх"
-  },
-  {
-    "to laugh": "щхын"
-  },
-  {
-    "alternative form of \"егъэпхын\"": "гъэпхын"
+    "to swear in god": "тхьэ 1он"
   },
   {
     "to relate to": "егъэпхын"
   },
   {
-    "to make someone depends on": "егъэпхын"
+    "to depends on": "егъэпхын"
   },
   {
-    "to tie up something/someone to something": "егъэпхын"
-  },
-  {
-    "nightmare": "чэщтеу"
+    "nightmare": "пк1ыхьэп1э 1ай"
   },
   {
     "sleep paralysis": "чэщтеу"
   },
   {
-    "alternative form of \"чэщтеу\"": "чэщтао"
+    "to earn": "къэгъэхъэн; къихын (to earn something in a contest / competition); къэлэжьын (to earn a living)"
   },
   {
-    "to earn something in a contest / competition": "къихын"
-  },
-  {
-    "to earn": "къэгъэхъэн"
-  },
-  {
-    "to get ahold of a certain possession": "къэгъэхъэн"
+    "to get ahold of": "къэгъэхъэн (to successfully get ahold of a certain possession)"
   },
   {
     "morality": "ц1ыфыгъэ"
@@ -13547,7 +13424,7 @@
     "health": "псэонгъэ"
   },
   {
-    "to end": "къиухын"
+    "to end": "къыухын"
   },
   {
     "lap": "кок1"
@@ -13565,76 +13442,43 @@
     "little girl": "пшъэшъэжъый"
   },
   {
-    "alternative form of \"тыгъоснахьыпэ\"": "тыгъуасэнахьыпэ"
+    "to cut off": "пыупк1ын"
   },
   {
-    "to cut off (hair, tree)": "пыупк1ын"
-  },
-  {
-    "nakahitkh (marriage registration ceremony)": "нэчыхьытх"
-  },
-  {
-    "alternative form of \"нэчыхьытх\"": "нэкьыхьытх"
-  },
-  {
-    "alternative form of \"цыгъон\"": "мэцыгъон"
-  },
-  {
-    "alternative form of \"цыгъон\"": "ецыгъон"
-  },
-  {
-    "to bite (small bite)": "цыгъон"
-  },
-  {
-    "to let someone or something to exist": "щыгъэ1эн"
-  },
-  {
-    "to let someone or something to live": "щыгъэ1эн"
+    "marriage": "нэчыхьытх (marriage registration ceremony); нысащэ (wedding party)"
   },
   {
     "to cultivate": "лэжьын"
   },
   {
-    "to practice (To perform or observe in a habitual fashion)": "лэжьын"
-  },
-  {
-    "marriageable age for woman": "дэк1огъу"
-  },
-  {
-    "marriageable age for man": "къэщэгъу"
-  },
-  {
-    "the time of marriage": "къэщэгъу"
-  },
-  {
-    "base": "дзап1э"
-  },
-  {
-    "alternative form of \"1эхын\"": "къы1эхын"
+    "marriage age": "дэк1огъу (marriageable age for woman); къэщэгъу (marriageable age for man)"
   },
   {
     "center": "гузэгу"
   },
   {
-    "middle": "гузэгу"
+    "middle": "гузэгу; зэфагу; азыфагу (between); купсэ"
   },
   {
-    "middle (centre, midpoint)": "пчэгу"
+    "centre": "гузэгу; пчэгу; утыку"
+  },
+  {
+    "midpoint": "гупч"
   },
   {
     "circle area": "пчэгу"
   },
   {
-    "to bring to attention for someone": "унашъо фэш1ын"
+    "to bring to attention": "унашъо фэш1ын"
   },
   {
-    "alternative form of \"иунашъо ш1ын\"": "унашъо ш1ын"
+    "to mention": "иунашъо ш1ын; игугъу ш1ын, ыц1э къэ1он"
   },
   {
-    "to order, to make arrangements, to see to it (that)": "унашъо ш1ын"
+    "to compliment": "щытхъун"
   },
   {
-    "to compliment, to praise": "щытхъун"
+    "to praise": "щытхъун"
   },
   {
     "to brag about": "щытхъун"
@@ -13643,13 +13487,22 @@
     "to reveal; to uncover; to show and display that which was hidden.": "къыч1эгъэщын"
   },
   {
-    "to expose": "къыч1эгъэщын"
+    "to reveal": "къык1эгъэщын"
   },
   {
-    "to find out": "къыч1эгъэщын"
+    "to uncover": "къык1эгъэщын"
   },
   {
-    "to be exposed": "къыч1эщын"
+    "to discover": "къык1эгъэщын"
+  },
+  {
+    "to expose": "къык1эгъэщын"
+  },
+  {
+    "to find out": "къык1эгъэщын"
+  },
+  {
+    "to be exposed": "къык1эщын"
   },
   {
     "a kick for stumbling someone, a kick to trip over someone": "лъэкъопц1анэ"
@@ -13743,9 +13596,6 @@
   },
   {
     "hug": "1апл1э"
-  },
-  {
-    "to smash": "жэхэк1оцэн"
   },
   {
     "tea": "щае"
@@ -14495,9 +14345,6 @@
     "to shame": "хьайнапэу ш1ын"
   },
   {
-    "to wrap": "щэхьын"
-  },
-  {
     "to yell at": "тец1эц1эн"
   },
   {
@@ -14960,9 +14807,6 @@
     "a person that has diarrhea": "ныбачъ"
   },
   {
-    "to emit": "пихын"
-  },
-  {
     "to spark (fire)": "пыпсык1ын"
   },
   {
@@ -15374,7 +15218,7 @@
     "to be whirled": "чэрэгъун"
   },
   {
-    "laugh": "щхэны"
+    "laugh": "щхэны; дэхьащх"
   },
   {
     "grief, distress, sadness": "гъэны"
@@ -15528,9 +15372,6 @@
   },
   {
     "to wrap in": "к1оц1ыщыхьан"
-  },
-  {
-    "to wrap": "щыхьан"
   },
   {
     "to scream or shout or yell angrily at": "щыхьан"
@@ -18291,18 +18132,6 @@
   },
   {
     "tub, vat": "пхъэчай"
-  },
-  {
-    "to wrap": "къещэк1ын"
-  },
-  {
-    "to surround": "къещэк1ын"
-  },
-  {
-    "to wrap": "къещыхьэк1ын"
-  },
-  {
-    "to surround": "къещыхьэк1ын"
   },
   {
     "sweat-cloth (for horse riding)": "шык1адзэ"

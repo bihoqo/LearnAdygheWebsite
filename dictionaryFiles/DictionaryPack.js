@@ -70863,14 +70863,14 @@
     "ipa": "jəʃʷʼaːʁa jat͡ʃʼən"
   },
   {
-    "word": "тэгъэпсэхьэн",
+    "word": "тегъэпсэхьан",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to set",
         "examples": [
           {
-            "sentence": "Сэхьатыр щым '''тэгъэпсахь'''",
+            "sentence": "Сэхьатыр щым '''тегъэпсахь'''",
             "translation": "'''Set''' the clock to three."
           }
         ]
@@ -70974,14 +70974,14 @@
     "ipa": "maqən"
   },
   {
-    "word": "хэщтыхьын",
+    "word": "хэщтыхьан",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be totally frozen",
+        "meaning": "to be frozen within an area with liquid, gas or solid",
         "examples": [
           {
-            "sentence": "Иныжъэр осым '''хэщтыхьыгъ'''",
+            "sentence": "Иныжъэр осым '''хэщтыхьагъ'''",
             "translation": "The giant '''was frozen''' in the snow"
           }
         ]
@@ -71114,29 +71114,29 @@
     "ipa": "dajəʁa"
   },
   {
-    "word": "дэк1оцэн",
+    "word": "дэкоцэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to put or push someone or an object forcefully against something",
+        "meaning": "to put/push someone or something forcefully between something or inside another object",
         "examples": [
           {
-            "sentence": "Мы тхылъ к1эр удэ тхылъ жъымэ '''ядэк1уац'''",
+            "sentence": "Мы тхылък1эр модэ тхылъжъымэ '''адэкуац'''",
             "translation": "'''Put''' this new book there '''against''' the old books."
           },
           {
-            "sentence": "Дэпкъым '''сыдэбэк1уацэ'''",
+            "sentence": "Дэпкъым '''сыдэбэкуацэ'''",
             "translation": "'''You are pushing me against''' the wall."
           },
           {
-            "sentence": "Тхылъхэр '''зэдэк1оцагъэх'''",
+            "sentence": "Тхылъхэр '''зэдэкоцагъэх'''",
             "translation": "The books '''are compressed'''."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "dakʷʼat͡san"
+    "ipa": "dakʷat͡san"
   },
   {
     "word": "сапэм ч1ык1ын",
@@ -71317,18 +71317,18 @@
     "ipa": "ʒaxaħan"
   },
   {
-    "word": "шъхьацышъо мэтэджын",
+    "word": "шъхьацышъо тэджын",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to have chills",
         "examples": [
           {
-            "sentence": "'''Сишъхьацышъо огъэтэджы'''",
+            "sentence": "'''Сшъхьацышъо огъэтэджы'''",
             "translation": "'''You give me the chills'''."
           },
           {
-            "sentence": "К1алэм ышъхьацышъо '''къэгъэтэджын'''",
+            "sentence": "К1алэм ышъхьацышъо '''къегъэтэджы'''",
             "translation": "The boy '''gives''' him '''chills'''."
           }
         ]
@@ -71512,7 +71512,7 @@
     "ipa": "ʔʷət͡ʃʼaħaːn"
   },
   {
-    "word": "тел1эхьын",
+    "word": "тел1эхьан",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -71521,13 +71521,13 @@
       }
     ],
     "synonyms": [
-      "тенэц1эхьын"
+      "тенэц1эхьан"
     ],
     "type": "noun",
-    "ipa": "tajɬʼaħən"
+    "ipa": "tajɬʼaħaːn"
   },
   {
-    "word": "тенэц1эхан",
+    "word": "тенэц1эхьан",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -71536,10 +71536,10 @@
       }
     ],
     "synonyms": [
-      "тел1эхьын"
+      "тел1эхьан"
     ],
     "type": "noun",
-    "ipa": "tajnat͡sʼaħən"
+    "ipa": "tajnat͡sʼaħaːn"
   },
   {
     "word": "къузын",
@@ -71607,15 +71607,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to swear to god",
+        "meaning": "to swear in god",
         "examples": [
           {
             "sentence": "'''Тхьэ сэ1о''' сыш1эрэп",
-            "translation": "'''I swear to god''', I don't know"
+            "translation": "'''I swear in god''', I don't know"
           },
           {
             "sentence": "'''Тхьэ къа1у''' зэрэумыш1эрэр",
-            "translation": "'''Swear to god''', that you don't know."
+            "translation": "'''Swear in god''', that you don't know."
           },
           {
             "sentence": "Делэк1э ар '''тхьэ пфэс1он'''",
@@ -71742,11 +71742,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "nightmare",
+        "meaning": "sleep paralysis",
         "examples": []
       },
-      {
-        "meaning": "sleep paralysis",
+	  {
+        "meaning": "an evil spirit that appears to someone sleeping and does not allow him/her to move and wake up",
         "examples": []
       }
     ],
@@ -71865,14 +71865,14 @@
     "ipa": "psawanʁa"
   },
   {
-    "word": "къиухын",
+    "word": "къыухын",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to end",
         "examples": [
           {
-            "sentence": "Фылымыр '''къиухыгъ'''",
+            "sentence": "Фылымыр '''къыухыгъ'''",
             "translation": "The film '''ended'''."
           }
         ]
@@ -72147,7 +72147,7 @@
         "examples": []
       },
       {
-        "meaning": "to practice (To perform or observe in a habitual fashion)",
+        "meaning": "to practice (to perform or observe in a habitual fashion)",
         "examples": []
       }
     ],
@@ -72297,10 +72297,6 @@
       {
         "meaning": "alternative form of \"иунашъо ш1ын\"",
         "examples": []
-      },
-      {
-        "meaning": "to order, to make arrangements, to see to it (that)",
-        "examples": []
       }
     ],
     "type": "verb",
@@ -72332,14 +72328,14 @@
     "ipa": "ɕətχʷən"
   },
   {
-    "word": "къыч1эгъэщын",
+    "word": "къык1эгъэщын",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to reveal; to uncover; to show and display that which was hidden.",
         "examples": [
           {
-            "sentence": "Л1ыр зэрэбзаджэр '''къыч1эзгъэщыгъ'''",
+            "sentence": "Л1ыр зэрэбзаджэр '''къык1эзгъэщыгъ'''",
             "translation": "'''I revealed''' that the man is evil."
           }
         ]
@@ -72348,20 +72344,20 @@
         "meaning": "to expose",
         "examples": [
           {
-            "sentence": "Л1ыр хэпц1ахьэу '''къыч1агъэщыгъ''' джэгумк1э",
+            "sentence": "Л1ыр хэпц1ахьэу '''къык1агъэщыгъ''' джэгумк1э",
             "translation": "'''They exposed''' the man for cheating in the game."
           },
           {
-            "sentence": "К1алэм и1эхэ '''къыч1егъэщых'''",
+            "sentence": "К1алэм и1эхэ '''къык1егъэщых'''",
             "translation": "The boy '''exposes''' his arms."
           }
         ]
       },
       {
-        "meaning": "to find out",
+        "meaning": "to find out; to discover",
         "examples": [
           {
-            "sentence": "К1алэм иятэ хэт '''къыч1эзгъэщыгъ'''",
+            "sentence": "К1алэм иятэ хэт '''къык1эзгъэщыгъ'''",
             "translation": "'''I found out''' who is the boy's father."
           }
         ]
@@ -72371,14 +72367,14 @@
     "ipa": "qət͡ʂʼaʁaɕən"
   },
   {
-    "word": "къыч1эщын",
+    "word": "къык1эщын",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to be exposed",
         "examples": [
           {
-            "sentence": "Л1ыр и ныбэ '''къыч1эщы'''",
+            "sentence": "Л1ыр иныбэ '''къык1эщы'''",
             "translation": "The man's belly '''is exposed'''."
           }
         ]
@@ -72842,18 +72838,6 @@
     ],
     "type": "noun",
     "ipa": "ʔaːpɬʼa"
-  },
-  {
-    "word": "жэхэк1оцэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to smash",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "ʒaxakʷʼat͡san"
   },
   {
     "word": "щае",
@@ -77363,17 +77347,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to wrap",
-        "examples": [
-          {
-            "sentence": "Шхыныр '''щэхь'''",
-            "translation": "'''Wrap''' the food."
-          },
-          {
-            "sentence": "К1алэм и шхын '''ещэхьы'''",
-            "translation": "The boy '''wraps''' hisfood."
-          }
-        ]
+        "meaning": "alternative form of \"щыхьан\"",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -83161,7 +83136,7 @@
     "synonyms": [
       "щыхьан",
       "къещэк1ын",
-      "къещыхьэк1ын"
+      "къещыхьак1ын"
     ],
     "cognate": "к1уэц1ышыхьын",
     "type": "verb",
@@ -83177,6 +83152,14 @@
           {
             "sentence": "К1алэм тутыныр ещэхьы",
             "translation": "The boy '''wraps''' the cigarette."
+          },
+		  {
+            "sentence": "Шхыныр '''щэхь'''",
+            "translation": "'''Wrap''' the food."
+          },
+          {
+            "sentence": "К1алэм ишхын '''ещэхьы'''",
+            "translation": "The boy '''wraps''' his food."
           }
         ]
       },
@@ -91201,18 +91184,6 @@
     "ipa": "tajʁapsəħaːn"
   },
   {
-    "word": "тегъэпсэхьан",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"тегъэпсыхьан\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "tajʁapsaħaːn"
-  },
-  {
     "word": "тедэжьын",
     "lang": "Adyghe",
     "definitions": [
@@ -93807,7 +93778,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to like (the process of liking or falling in love)",
+        "meaning": "to start liking something (the process of liking)",
         "examples": []
       }
     ],
@@ -96806,14 +96777,14 @@
       }
     ],
     "synonyms": [
-      "къещыхьэк1ын",
+      "къещыхьак1ын",
       "к1оц1ыщыхьан"
     ],
     "type": "verb",
     "ipa": "qajɕat͡ʃʼən"
   },
   {
-    "word": "къещыхьэк1ын",
+    "word": "къещыхьак1ын",
     "lang": "Adyghe",
     "definitions": [
       {
