@@ -17280,18 +17280,6 @@
     "ipa": "kʷaːma"
   },
   {
-    "word": "ныдэлъфыбзэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "mother's tongue; first language",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "nədaɬfəbza"
-  },
-  {
     "word": "лы шъэжъые",
     "lang": "Adyghe",
     "definitions": [
@@ -20094,6 +20082,27 @@
     ],
     "type": "verb",
     "ipa": "mawnazan"
+  },
+  {
+    "word": "разэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "satisfied, pleased",
+        "examples": [
+          {
+            "sentence": "1офэу сыш1эгъэмк1э '''ураза'''?",
+            "translation": "'''Are you pleased''' with the work I done?"
+          },
+		  {
+            "sentence": "Мы фылымымк1э '''сраз'''",
+            "translation": "'''I am satisfied''' with this film."
+          }
+        ]
+      }
+    ],
+    "type": "adj",
+    "ipa": "raːza"
   },
   {
     "word": "мэпрэзэн",
@@ -57241,13 +57250,36 @@
             "translation": "If you scream a lot, '''you will make''' the old men '''leave'''."
           }
         ]
+      },
+	  {
+        "meaning": "to dismiss; to discharge; to fire an employee",
+        "examples": [
+          {
+            "sentence": "Тхьэматэм л1ыр 1офым '''1уигъэк1ыгъ'''.",
+            "translation": "The boss '''dismissed''' the man from the job."
+          }
+        ]
       }
-    ],
-    "synonyms": [
-      "1угъэкьын"
     ],
     "type": "verb",
     "ipa": "ʔʷaʁat͡ʃʼən"
+  },
+  {
+    "word": "тегъэк1ын",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "to dismiss a boss/leader; to discharge  a boss/leader",
+        "examples": [
+          {
+            "sentence": "Тхьэматэр 1офым '''тагъэк1ыгъ'''.",
+            "translation": "The boss '''was dismissed''' from work."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "tajaʁat͡ʃʼən"
   },
   {
     "word": "зыупсын",
@@ -65103,13 +65135,13 @@
       }
     ],
     "synonyms": [
-      "1эджэбыжэ"
+      "1эджэ-быдж"
     ],
     "type": "adj",
     "ipa": "ʔapʃaχʷ"
   },
   {
-    "word": "1эджэбыжэ",
+    "word": "1эджэ-быдж",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -65121,7 +65153,22 @@
       "1эпшэхъу"
     ],
     "type": "adj",
-    "ipa": "ʔad͡ʒabəʒa"
+    "ipa": "ʔad͡ʒa-bəd͡ʒ"
+  },
+  {
+    "word": "зыгъэзэгъуай",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "clumsy, awkward",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "1эпшэхъу"
+    ],
+    "type": "adj",
+    "ipa": "zəʁazaʁaːj"
   },
   {
     "word": "1эпэ1ас",
@@ -65140,7 +65187,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "pyramid",
+        "meaning": "quadrangle",
         "examples": []
       }
     ],
@@ -65169,8 +65216,7 @@
       }
     ],
     "synonyms": [
-      "гъумы",
-      "лъэшыдж"
+      "гъумы"
     ],
     "type": "adj",
     "ipa": "ɬarəməħ"
@@ -65269,15 +65315,6 @@
           {
             "sentence": "'''Учэфы''' непэ",
             "translation": "'''You are cheerful''' today."
-          }
-        ]
-      },
-      {
-        "meaning": "pleased",
-        "examples": [
-          {
-            "sentence": "1офэу сш1эгъэмк1э '''учэфа'''?",
-            "translation": "'''Are you pleased''' with the work I done?"
           }
         ]
       }
@@ -65564,19 +65601,6 @@
     "ipa": "ɡʷərəʔʷan"
   },
   {
-    "word": "унагъоц1э",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "family name, last name",
-        "examples": []
-      }
-    ],
-    "cognate": "унагъуэц1э",
-    "type": "noun",
-    "ipa": "wnaːʁʷat͡sʼa"
-  },
-  {
     "word": "коил",
     "lang": "Adyghe",
     "definitions": [
@@ -65602,14 +65626,14 @@
     "ipa": "kʷajəl"
   },
   {
-    "word": "нэдэлъфыбзэ",
+    "word": "ныдэлъфыбзэ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "mother tongue, first language",
         "examples": [
           {
-            "sentence": "Си '''нэдэлъфыбзэ''' адыгэбзэ",
+            "sentence": "Си '''ныдэлъфыбзэ''' адыгэбзэ",
             "translation": "My '''mother tongue''' is Circassian."
           }
         ]
@@ -65617,7 +65641,7 @@
     ],
     "cognate": "анэдэлъхубзэ",
     "type": "noun",
-    "ipa": "nadaɬfəbza"
+    "ipa": "nədaɬfəbza"
   },
   {
     "word": "ригъэчъэхын",
@@ -65714,14 +65738,14 @@
     "ipa": "fət͡sʼən"
   },
   {
-    "word": "дэфыц1эн",
+    "word": "дэц1ыц1эн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to compress inside something, to press forcefully something against a solid thing",
+        "meaning": "to compress between, to compress inside another object",
         "examples": [
           {
-            "sentence": "'''Сыдэбэфыц1э'''",
+            "sentence": "'''Сыдэбэц1ыц1э'''",
             "translation": "'''You are compressing me'''."
           }
         ]
@@ -65832,22 +65856,22 @@
     "ipa": "naʔʷaːsa"
   },
   {
-    "word": "зфэ1он",
+    "word": "зыфа1орэр",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to refer to",
         "examples": [
           {
-            "sentence": "Тары '''зфап1орэр'''?",
+            "sentence": "Тары '''зыфап1орэр'''?",
             "translation": "What are '''referring to'''?"
           },
           {
-            "sentence": "К1алэм '''зфи1уагъэ''' цуакъэр къэсхьэгъ",
+            "sentence": "К1алэм '''зыфи1уагъэ''' цуакъэр къысхьэгъ",
             "translation": "I brought the shoe the boy '''referred to'''."
           },
           {
-            "sentence": "'''Зфас1орэр''' а к1алэрэп",
+            "sentence": "'''Зыфас1орэр''' а к1алэрэп",
             "translation": "'''What I am referring to''' is not that boy."
           }
         ]
@@ -69195,23 +69219,19 @@
     "ipa": "xanaʑən"
   },
   {
-    "word": "хэгъэгэжьын",
+    "word": "хэгъэнэжьын",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to make someone quit doing something",
         "examples": [
           {
-            "sentence": "Сэ тутын сешъоу '''сыхагъэнэжьэгъ'''",
+            "sentence": "Сэ тутын сешъоу '''сыхагъэнэжьыгъ'''",
             "translation": "'''They made me quit''' smoking."
           },
           {
-            "sentence": "А шэн 1аер к1алэм '''хезгъэнэжьышт'''",
+            "sentence": "А шэн 1аер к1алэм '''хезгъэнэжьыщт'''",
             "translation": "'''I will make''' that boy '''quit''' that bad behaving."
-          },
-          {
-            "sentence": "си1эхъуамбэмэ зыгорэ тэсфэхьынэу щы1а зэрэсацакъэрэр '''хэсигъэжьынэу'''",
-            "translation": "Is there something that I can smear on my fingers that '''will make me quit''' biting them."
           }
         ]
       }
@@ -79955,7 +79975,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "family name, surname",
+        "meaning": "family name, surname; last name",
         "examples": []
       }
     ],
@@ -87469,22 +87489,6 @@
     "ipa": "psənʐə"
   },
   {
-    "word": "лъэшыдж",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "pregnant",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "гъумы",
-      "лъэшыдж"
-    ],
-    "type": "adj",
-    "ipa": "ɬaʃəd͡ʒ"
-  },
-  {
     "word": "шъуаджэ",
     "lang": "Adyghe",
     "definitions": [
@@ -87517,6 +87521,18 @@
     ],
     "type": "adj",
     "ipa": "saraːd͡ʒa"
+  },
+  {
+    "word": "къопэзанд",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "right-angled",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "qʷapazaːnd"
   },
   {
     "word": "чхы1ан",

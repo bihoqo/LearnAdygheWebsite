@@ -996,7 +996,7 @@
     "decade": "илъэсипш1"
   },
   {
-    "to jump": "пк1эн; дэпк1эен; лъэн"
+    "to jump": "пк1эн; дэпк1эен (to jump upward); епк1эхын (to jump down); лъэн; тепк1эн (to jump on something); тепк1ын / къытепк1ын (to jump off something); ч1эпк1эн (to jump under something); ч1эпк1ын / къыч1эпк1ын (to jump from under something); 1упк1эн (to jump near something); 1упк1ын / къы1ук1ын (to jump away from something); дэпк1эн (to jump into a yard); дэпк1ын / къыдэпк1ын (to jump from a yard); гопк1эн / бгъодэпк1эн (to jump besides something); гопк1ын / къыгопк1ын / бгъодэпк1ын / къыбгъодэпк1ын (to jump from besides something); ипк1эн (to jump inside something); ипк1ын / къыипк1ын (to jump from inside something); къопк1эн (to jump behind something); къопк1ын / къыкъопк1ын (to jump from behind something); жэхэпк1эн (to intensively jump on/against something); пыпк1эн (to jump on a tree or branch); пыпк1ын / къыпыпк1ын (to jump from a tree or branch); блэпк1ын (to jump pass something, to jump over something); шъхьадэпк1ын (to jump over something); шъхьапырыпк1ын (to jump pass something); зэк1эпк1эн (to jump backward); лъыпк1эн (to jump toward something)"
   },
   {
     "thank you": "тхьауегъэпсэу"
@@ -2172,9 +2172,6 @@
     "that (invisible)": "а"
   },
   {
-    "respect": "лъытэныгъ; пхъатэ (importance, value)"
-  },
-  {
     "importance": "пхъатэ"
   },
   {
@@ -2299,9 +2296,6 @@
   },
   {
     "let's": "нек1о"
-  },
-  {
-    "respect": "хьатыр"
   },
   {
     "steel": "шыр; щылыч"
@@ -3294,7 +3288,7 @@
     "thank you": "тхьашъуегъэпсэу"
   },
   {
-    "villager": "чылэдэс; къоджэдэс"
+    "villager": "чылэдэс; къоджэдэс; (Kfar Kama dialect) коил"
   },
   {
     "village": "чылэ; кой; къуаджэ"
@@ -4515,7 +4509,10 @@
     "to be dizzy": "унэзэн; (Shapsug) прэзэн"
   },
   {
-    "to drink": "ешъон; хэшъон (to drink from a container or from a sea/river)"
+    "to drink": "ешъон; хэшъон (to drink from a container directly or from a sea/river); ишъун (to drink up liquid from something); ишъук1ын (to completely drink up liquid from something)"
+  },
+  {
+    "to gulp down": "псы ек1эхын (ащ псы рек1эхы - (s)he gulps down water)"
   },
   {
     "to pick up": "штэн / къэштэн; къэ1этын (to lift); техын (to pick up from)"
@@ -4635,7 +4632,7 @@
     "to snap": "зэпык1ын; зэш1ок1ын"
   },
   {
-    "to tear off": "хэтхъын / пытхъын (to tear off from); зэпытхъын (to tear off from itself)"
+    "to tear off": "тетхъын (to tear off from above something); хэтхъын / пытхъын (to tear off from); зэпытхъын (to tear off from itself); ч1этхъын (to tear off from under something)"
   },
   {
     "to tear apart": "зэхэтхъын"
@@ -5629,9 +5626,6 @@
   },
   {
     "resident": "чылэдэс"
-  },
-  {
-    "villager": "чылэдэс; къоджэдэс"
   },
   {
     "village dweller": "чылэдэс; къоджэдэс"
@@ -7869,9 +7863,6 @@
     "thick": "пщэры, 1ужъу; гъумы"
   },
   {
-    "pregnant": "гъумы"
-  },
-  {
     "to be dehydrate": "гъун"
   },
   {
@@ -7888,9 +7879,6 @@
   },
   {
     "shin": "лъэк1ап1э"
-  },
-  {
-    "to jump": "лъэн"
   },
   {
     "rivulet": "лъэхьэ"
@@ -10640,7 +10628,7 @@
     "to lick": "бзэен; ебзэин (to lick something or someone); хэбзэен (to lick into)"
   },
   {
-    "to rejoice": "гуш1он"
+    "to rejoice": "гуш1он; щыгуш1ук1ын (to rejoice for)"
   },
   {
     "to trust": "цыхьэ фэш1ын; щыгугъун"
@@ -12714,10 +12702,7 @@
     "indecent": "1ае; емык1у зыхэлъ, ук1ытэныгъэ зыхэмылъ"
   },
   {
-    "awful; horrible": "1ае"
-  },
-  {
-    "alternative form of \"1асэ\"": "асэ"
+    "horrible": "1ае"
   },
   {
     "new house": "унак1э"
@@ -12726,16 +12711,16 @@
     "pencil case": "къэлэмдалъхьэ"
   },
   {
-    "alternative form of \"къэлэмдалъхьэ\"": "къэлэм далъхьэ"
+    "pencil-case": "къэлэмдалъхьэ"
   },
   {
-    "letter": "тхыпкъэ"
+    "pencil-box": "къэлэмдалъхьэ"
   },
   {
-    "letter": "хьарыф"
+    "letter": "хьарыф; тхыпкъэ"
   },
   {
-    "alphabet": "тхыпкъылъэ"
+    "alphabet": "хьарыфылъ; тхыпкъылъэ; алфавит"
   },
   {
     "writing": "тхыгъэ"
@@ -12753,37 +12738,40 @@
     "fairy tale": "пшысэ"
   },
   {
-    "noun": "щы1эц1э"
+    "narrative": "пшысэ"
   },
   {
-    "there is or are; there exist(s); to exist": "щы1эн"
+    "tale": "пшысэ"
+  },
+  { 
+    "noun": "щы1эц1э; пкъыгъуац1э"
   },
   {
-    "to be in a certain location; to be at": "щы1эн"
+    "to be at": "щы1эн"
   },
   {
     "slavery": "пщыл1ыгъо"
   },
   {
-    "clumsy": "1эпшэхъу"
+    "clumsy": "1эпшэхъу; 1эджэ-быдж; зыгъэзэгъуай"
   },
   {
-    "clumsy": "1эджэбыжэ"
+    "quadrangle": "пл1энэбзы"
   },
   {
-    "skillful": "1эпэ1ас"
+    "skillful": "фэ1аз; 1эпэ1ас; фэкъулай; фэ1эпы1ас"
   },
   {
-    "pyramid": "пл1энэбзы"
+    "pyramid": "пирамида"
   },
   {
     "cube": "пл1эмыепкъ"
   },
   {
-    "pregnant": "лъэрымыхь"
+    "pregnant": "гъумы; лъэрымыхь"
   },
   {
-    "to become pregnant": "лъэрмыхьы хъун"
+    "to become pregnant": "гъумэу хъун; лъэрмыхьы хъун"
   },
   {
     "square": "пл1эмый"
@@ -12795,28 +12783,31 @@
     "triangle": "щэный"
   },
   {
-    "alternative form of \"тегъогъон\"": "тэгъогъон"
+    "right-angled": "къопэзанд"
   },
   {
-    "to croak, to ribbit": "къокъон"
+    "to croak": "къокъон"
   },
   {
-    "cheerful; joyful": "чэфы"
+    "to ribbit": "къокъон"
   },
   {
-    "pleased": "чэфы"
+    "cheerful": "чэфы; нэш1о-гуш1у"
   },
   {
-    "alternative form of \"чэфы\"": "кьэфы"
+    "pleased": "разэ"
+  },
+  {
+    "satisfied": "разэ"
+  },
+  {
+    "to be satisfied": "зэгъэн; разэу хъун; гъэрэзэн (to satisfy someone)"
+  },
+  {
+    "to be pleased": "зэгъэн; разэу хъун; гъэрэзэн (to please someone)"
   },
   {
     "have a nice day": "гъогу маф"
-  },
-  {
-    "gate": "чэупчъэ"
-  },
-  {
-    "alternative form of \"чэупчъэ\"": "кьэупчъэ"
   },
   {
     "inside": "к1оц1ы"
@@ -12825,76 +12816,34 @@
     "while": "пэтырэ"
   },
   {
-    "famous": "ц1эры1у"
-  },
-  {
-    "alternative form of \"егъуин\"": "гъоин"
-  },
-  {
-    "alternative form of \"егъуин\"": "къэгъуен"
-  },
-  {
     "to fast": "нэк1ын"
-  },
-  {
-    "alternative form of \"пхэндж\"": "пхэдж"
-  },
-  {
-    "country": "къэрал"
   },
   {
     "state": "къэрал"
   },
   {
-    "to make someone understand": "гурыгъэ1он"
+    "last name": "лъэкъуац1э; унэгъуац1э"
   },
   {
-    "family name, last name": "унагъоц1э"
+    "mother tongue": "ныдэлъфыбзэ"
   },
   {
-    "village dweller, villager": "коил"
-  },
-  {
-    "mother tongue, first language": "нэдэлъфыбзэ"
-  },
-  {
-    "alternative form of \"егъэчъэхын\"": "ригъэчъэхын"
-  },
-  {
-    "to rejoice for someone or something": "щыгуш1ук1ын"
-  },
-  {
-    "(Kfar Kama dialect) to laugh": "щыгуш1ук1ын"
+    "first language": "ныдэлъфыбзэ"
   },
   {
     "joke": "сэмэркъэу"
   },
   {
-    "to compress, to press forcefully something against a solid thing": "фыц1ын"
-  },
-  {
-    "to compress inside something, to press forcefully something against a solid thing": "дэфыц1эн"
-  },
-  {
-    "alternative form of \"ц1ыц1ын\"": "мэц1ыц1ын"
-  },
-  {
     "to crumple": "ц1ыц1ын"
   },
   {
-    "to compress something, to press forcefully something against a solid thing": "ц1ыц1ын"
+    "acquaintance": "нэ1уасэ"
   },
   {
-    "a familiar person, a person one personally knows, acquaintance": "нэ1уасэ"
+    "to refer": "гъэк1он, лъыгъэк1он"
   },
   {
-    "to refer to": "зфэ1он"
-  },
-  {
-    "to do again": "ш1ыжьын"
-  },
-  {
-    "to fix": "ш1ыжьын"
+    "to do again": "ш1ыжьын; къытегъэзэн"
   },
   {
     "outfite": "шъуашэ"
@@ -13199,73 +13148,88 @@
     "to munch": "уцэ1ун"
   },
   {
-    "to happen to someone": "щыш1ын"
+    "to happen to": "щыш1ын"
   },
   {
-    "alternative form of \"1элъын\"": "1елъын"
-  },
-  {
-    "to prefer": "нахь къигъэк1ын"
+    "to prefer": "нахь къигъэк1ын; нахь къыхэхын, нахь къэштэн"
   },
   {
     "polite": "шъхьэк1афэ"
   },
   {
-    "respect": "шъхьэк1афэ"
+    "dignified": "шъхьэк1афэ"
   },
   {
-    "alternative form of \"зэгъэн\"": "рэзэгъэн"
+    "respect": "лъытэныгъ; пхъатэ (importance, value); шъхьэк1афэ"
   },
   {
-    "to make someone satisfied, to please someone": "гъэрэзэн"
+    "to satisfy": "гъэрэзэн"
   },
   {
-    "to quit doing something, to get out of the habit (of), to break oneself of the habit (of)": "хэнэжьын"
+    "to please": "гъэрэзэн"
   },
   {
-    "to make someone quit doing something": "хэгъэгэжьын"
+    "to please": "гъэрэзэн"
   },
   {
-    "to make or find a partner for a romantic relationship.": "хэгъэщын"
+    "to dismiss": "1угъэк1ын; тегъэк1ын (to dismiss a boss/leader)"
   },
   {
-    "to slap someone's face": "нэпэшъоон"
+    "to discharge": "1угъэк1ын; тегъэк1ын (to discharge a boss/leader)"
   },
   {
-    "to sharpen, to whet": "лъын"
+    "to overthrow": "тегъэк1ын; тедзын"
   },
   {
-    "to thrust into, to plunge into, to stick into": "хэсэн"
+    "to quit": "1ук1ыжьын (to quit job); хэнэжьын (to quit doing something, to get out of the habit of)"
   },
   {
-    "to place something into forcefully": "хэсэн"
+    "to make a romantic partner.": "хэгъэщын"
   },
   {
-    "to pick up stuff, to gather stuff (usually by picking up, by raking up or by sweeping)": "къэщыпын"
+    "to find a romantic partner.": "хэгъэщын"
   },
   {
-    "because of": "фэш1"
+    "slap": "нэпэшъоутын / нэпэшъофау (face slap); нэгушъоутын / нэк1ушъоутын / нэгушъофау / нэк1ушъофау (cheek slap); (Shapsug) дыйшъоутын (back of the neck slap)"
   },
   {
-    "alternative form of \"фэш1к1э\"": "фэш1ык1э"
+    "to slap": "нэпэшъоон / нэпэшъоутын етын (to slap someone's face); нэгушъоон / нэк1ушъоон / нэгушъоутын етын / нэк1ушъоутын  етын (to slap someone's cheek); (Shapsug) дыйшъоутын етын"
   },
   {
-    "(vulgar) whore": "къэхьыпэ"
+    "to clap": "1эгу теон; 1эгу фытеон (to clap for)"
   },
   {
-    "to drag something around": "лъэшъун"
+    "to sharpen": "гъэчанын; (Shapsug) гъэчыянэн; лъын"
   },
   {
-    "to drag inside": "рилъэшъон"
+    "to whet": "гъэчанын; (Shapsug) гъэчыянэн; лъын"
   },
   {
-    "to tear something off": "тхъын"
+    "to thrust": "хэсэн (to thrust into)"
   },
   {
-    "alternative form of \"1эпыт1эрын\"": "1эпэт1эрын"
+    "to plunge": "хэсэн (to plunge into)"
   },
   {
-    "to jump pass; to jump over": "блэпк1ын"
+    "to pick up stuff": "къэщыпын; къэугъоин"
+  },
+  {
+    "to gather stuff": "къэщыпын; къэугъоин"
+  },
+  {
+    "because": "сыда п1омэ; (dialectal) шъыда п1омэ; (slang) сыда / шъыда; ащ фэш1к1э (because of that); ащ пае (because of that)"
+  },
+  {
+    "whore": "(vulgar) къэхьыпэ"
+  },
+  {
+    "to drag": "лъэшъун; къелъэшъок1ын (to drag around); ч1элъэшъон (to drag to under something); ч1элъэшъун / къыч1элъэшъун (to drag from under something); телъэшъон (to drag to above something); телъэшъун / къытелъэшъун (to drag from above something); илъэшъон (to drag to inside something); илъэшъун / къыилъэшъун (to drag from inside something); хэлъэшъон (to drag through, to drag to an area with liquid or gas, to drag to among people/objects/plants); хэлъэшъун / къыхэлъэшъун (to drag from among people/objects/trees, to drag from an area of gas or liquid); къолъэшъон (to drag to behind something); къолъэшъун / къыкъолъэшъун (to drag from behind something)"
+  },
+  {
+    "to jump pass": "блэпк1ын; шъхьапырыпк1ын"
+  },
+  {
+    "to jump over": "блэпк1ын; шъхьадэпк1ын"
   },
   {
     "alternative form of \"блэпк1ын\"": "блэпк1ьын"
@@ -15239,9 +15203,6 @@
     "vulgarity": "губгъэн"
   },
   {
-    "skillful": "фэ1аз"
-  },
-  {
     "to envy, To feel displeasure or hatred towards (someone) for their good fortune or possessions.": "шхъогъон"
   },
   {
@@ -16542,10 +16503,7 @@
   },
   {
     "dirt (stain or spot (on clothes etc))": "псынжъы"
-  },
-  {
-    "pregnant": "лъэшыдж"
-  },
+  }, 
   {
     "ill-starred, ill-fated": "шъуаджэ"
   },
@@ -16673,9 +16631,6 @@
     "shamefulness": "ук1ытагъо"
   },
   {
-    "to be pleased": "зэгъэн"
-  },
-  {
     "to stop moving after being pleased": "зэгъэн"
   },
   {
@@ -16779,12 +16734,6 @@
   },
   {
     "threshold, doorstep": "пчъэшъхьа1у"
-  },
-  {
-    "respect": "шъхьэк1эфэныгъ"
-  },
-  {
-    "respect": "лъытэныгъ"
   },
   {
     "idle, wasted, useless": "пк1энчъ"
@@ -18555,9 +18504,6 @@
   },
   {
     "to spit upon": "теужъунтхэн"
-  },
-  {
-    "to collect": "щыпын"
   },
   {
     "to get oneself into fresh air": "жьыбгъэ зы1угъэон"
