@@ -20803,6 +20803,23 @@
     "ipa": "zapət͡ʃən"
   },
   {
+    "word": "зэпырык1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to cross, to get over, to get across",
+        "examples": [
+          {
+            "sentence": "Гъогур к1алэм '''зэпырык1ыгъ'''",
+            "translation": "The boy '''crossed''' the road."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zapərət͡ʃʼən"
+  },
+  {
     "word": "зэпичын",
     "lang": "Adyghe",
     "definitions": [
@@ -69301,8 +69318,7 @@
       }
     ],
     "synonyms": [
-      "гъэчанын",
-      "----"
+      "гъэчанын"
     ],
     "type": "verb",
     "ipa": "ɬən"
@@ -69523,25 +69539,42 @@
     "ipa": "blaptkʲʼən"
   },
   {
-    "word": "зэблэкьын",
+    "word": "зэблэчъын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to pass something",
+        "meaning": "to cross something while running",
         "examples": [
           {
-            "sentence": "Гъогор к1алэм '''зэблекьы'''",
-            "translation": "The boy '''is passing''' the road"
+            "sentence": "Гъогур к1алэм '''зэблечъы'''",
+            "translation": "The boy '''is crossing''' the road"
           },
           {
-            "sentence": "Мы хэгъэгор сэхьатиблыгьэ '''зэблэпкьышъут'''",
-            "translation": "'''You can pass''' the country with seven hours."
+            "sentence": "Мы хэгъэгор сэхьатиблык1э '''зэблэпчъышъущт'''",
+            "translation": "'''You can cross''' the country with seven hours."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "blapkʲən"
+    "ipa": "zabɮat͡ʂən"
+  },
+  {
+    "word": "блэчъын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to pass something while running",
+        "examples": [
+          {
+            "sentence": "Гъогур к1алэм '''блечъы'''",
+            "translation": "The boy '''is passing''' the road"
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "bɮat͡ʂən"
   },
   {
     "word": "гу е1ун",
@@ -69556,14 +69589,14 @@
     "ipa": "ɡʷjaʔʷən"
   },
   {
-    "word": "шъхьэпэк1ын",
+    "word": "шъхьапырык1ын",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to exceed",
         "examples": [
           {
-            "sentence": "К1алэм ик1эхьыгъэр метерым '''шъхьэпэк1ы'''",
+            "sentence": "К1алэм ик1ыхьагъэр метерым '''шъхьапырык1ы'''",
             "translation": "The boy's height '''exceeds''' a meter."
           }
         ]
@@ -69741,7 +69774,7 @@
     "ipa": "zariħan"
   },
   {
-    "word": "дэзэк1он",
+    "word": "дэзек1он",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -69766,7 +69799,7 @@
     "ipa": "dazakʷʼan"
   },
   {
-    "word": "зэк1он",
+    "word": "зек1он",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -69891,7 +69924,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to collapse something",
+        "meaning": "to break and collapse (usaully from heavy-weight)",
         "examples": [
           {
             "sentence": "К1алэм анэр '''зэхик1ыгъ'''",
@@ -70136,7 +70169,7 @@
     "ipa": "qaʁanaʑən"
   },
   {
-    "word": "мэсэкъатын",
+    "word": "сэкъатын",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -75375,23 +75408,6 @@
     ],
     "type": "adj",
     "ipa": "ʁʷazaːd͡ʒ"
-  },
-  {
-    "word": "зэпырык1ын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to pass",
-        "examples": [
-          {
-            "sentence": "К1алэм гъогур '''зэпырек1ы'''",
-            "translation": "The boy '''passes''' the road."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "zapərət͡ʃʼən"
   },
   {
     "word": "пхэндж",
