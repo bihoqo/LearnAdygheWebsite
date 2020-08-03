@@ -6023,7 +6023,7 @@
         "examples": []
       },
 	  {
-        "meaning": "loise",
+        "meaning": "louse",
         "examples": []
       }
     ],
@@ -67077,7 +67077,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "a lot",
+        "meaning": "a lot; many",
         "examples": [
           {
             "sentence": "'''1эджы''' мэхъу",
@@ -74379,6 +74379,65 @@
     ],
     "type": "det",
     "ipa": "tadraz"
+  },
+  {
+    "word": "сыдрэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "each; every",
+        "examples": [
+          {
+            "sentence": "Сыдрэ 1офтхьабзи бзыпхъэ ищык1агъ",
+            "translation": "'''Each''' subject needs a pattern."
+          },
+          {
+            "sentence": "'''Cыдрэ''' к1алэм т1эк1у ахъщэ ет",
+            "translation": "Give '''each''' kid a bit of money."
+          }
+        ]
+      }
+    ],
+    "type": "det",
+    "ipa": "sədra"
+  },
+  {
+    "word": "1офтхьабз",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "subject; topic",
+        "examples": [
+          {
+            "sentence": "Сыдрэ '''1офтхьабзи''' бзыпхъэ ищык1агъ",
+            "translation": "Each '''subject''' needs a pattern."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʔʷaftħaːbz"
+  },
+  {
+    "word": "хэтрэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "each; every",
+        "examples": [
+          {
+            "sentence": "'''Хэтрэ''' ц1ыфи ар еш1э",
+            "translation": "'''Every''' person knows that."
+          },
+          {
+            "sentence": "'''Хэтрэ''' к1алэм т1эк1у ахъщэ ет",
+            "translation": "Give '''each''' kid a bit of money."
+          }
+        ]
+      }
+    ],
+    "type": "det",
+    "ipa": "xatəra"
   },
   {
     "word": "1аджэ",

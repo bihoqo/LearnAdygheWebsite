@@ -1434,7 +1434,7 @@
     "fire arm": "к1эрахъо"
   },
   {
-    "slice": "налъэ (unit)"
+    "slice": "налъэ (units of, slices of, pieces of)"
   },
   {
     "king": "пачъыхь"
@@ -2163,16 +2163,16 @@
     "millet": "мэщы, гъажъо"
   },
   {
-    "here": "мыдэ, мык1э, мэу, мы т1эк1ум"
+    "here": "мыдэ, мык1э, (dialectal) мэу, (dialectal) мы т1эк1ум"
   },
   {
-    "there (visible)": "модэ, мок1э, моу, мо т1эк1ум"
+    "there (visible)": "модэ, мок1э, (dialectal) моу, (dialectal) мо т1эк1ум; (dialectal) удэ, (dialectal) оук1э, (dialectal) оу, (dialectal) у т1эк1ум"
   },
   {
-    "there (invisible)": "адэ, ак1э, ау, а т1эк1ум"
+    "there (invisible)": "адэ, ак1э, (dialectal) ау, (dialectal) а т1эк1ум"
   },
   {
-    "there": "адэ, ак1э, ау, а т1эк1ум"
+    "there": "адэ, ак1э, (dialectal) ау, (dialectal) а т1эк1ум; модэ, мок1э, (dialectal) моу, (dialectal) мо т1эк1ум"
   },
   {
     "that": "а (invisible); мо (visible)"
@@ -2569,9 +2569,6 @@
   },
   {
     "carpet maker": "алырэгъуш1"
-  },
-  {
-    "method": "ш1ык1э"
   },
   {
     "help": "1эпы1эгъу"
@@ -3562,9 +3559,6 @@
   },
   {
     "quiver": "сагъындакъ; 1убырылъ; бзалъ; бзэкъулъ"
-  },
-  {
-    "if that": "амэ"
   },
   {
     "eloquent": "бзаш1у"
@@ -4659,7 +4653,7 @@
     "to come off": "пык1ын"
   },
   {
-    "to break off": "пытхъын (to break off from); зэпытхъын (to break off from itself)"
+    "to break off": "пыутын (to break off from); зэпыутын (to break off from itself)"
   },
   {
     "to tear": "пычын (to pick); хэтхъын / пытхъын (to tear off from); зэхэтхъын / зэпытхъын (to tear off from itself); къыпышъунк1ык1ын; 1утхъын (to tear off); зэхэгъэтэкъун (to tear down and collapse)"
@@ -9221,9 +9215,6 @@
     "alone": "изакъу"
   },
   {
-    "only": "закъу"
-  },
-  {
     "to hang": "пылъын (to be hanging); пылъэн (to hang); пылъхьан (to put something to a hanging state)"
   },
   {
@@ -9659,7 +9650,7 @@
     "soup": "хьантхъупсы (millet soup); лэпсы; стырыпс"
   },
   {
-    "if not": "хьаумэ; умыармэ"
+    "if not": "хьаумэ; амырмэ; умыармэ"
   },
   {
     "else if": "хьаумэ; умыармэ"
@@ -10124,7 +10115,7 @@
     "one's heart to beat; to be having heartbeats": "гу къеон"
   },
   {
-    "still": "джыри; (dialectal) дэхьэ"
+    "still": "джыри; (dialectal) иджыри; (dialectal) дэхьэ"
   },
   {
     "keep (Only in Imperative mood)": "дэхьэ"
@@ -12177,7 +12168,7 @@
     "genocide": "лъэпкъгъэк1од"
   },
   {
-    "to lose": "гъэк1одын; ш1ок1одын; хэгъэк1одэн (to lose among other people or objects, in a forest or an area with solid, liquid or gas); ч1эгъэк1одэн (to lose under something); игъэк1одэн (to lose inside something)"
+    "to lose": "гъэк1одын; ш1ок1одын; хэгъэк1одэн (to lose among other people or objects, in a forest or an area with solid, liquid or gas); ч1эгъэк1одэн (to lose under something); игъэк1одэн (to lose inside something); ш1ок1он (to lose money in gambling or business)"
   },
   {
     "to squeeze": "фызын; к1эфызык1ын / хэфызык1ын (to squeeze out)"
@@ -12573,7 +12564,7 @@
     "road": "лъагъо"
   },
   {
-    "way": "гъогу; лъагъо"
+    "way": "гъогу; лъагъо; 1эмал (method, way, means)"
   },
   {
     "porridge": "п1астэ"
@@ -13169,7 +13160,7 @@
     "to prefer": "нахь къигъэк1ын; нахь къыхэхын, нахь къэштэн"
   },
   {
-    "polite": "шъхьэк1афэ"
+    "polite": "шъхьэк1афэ; 1эдэб"
   },
   {
     "dignified": "шъхьэк1афэ"
@@ -13739,64 +13730,55 @@
     "composer": "орэдус"
   },
   {
-    "to tear": "зэхэгъэтэкъун"
-  },
-  {
-    "to break (A part of something), to fracture": "зэпыутын"
-  },
-  {
-    "to break in two": "зэпыутын"
-  },
-  {
     "truthfully": "шъыпкъэу"
   },
   {
     "seriously": "шъыпкъэу"
   },
   {
-    "each": "тэдрэз"
+    "each": "сыдрэ (each thing); хэтрэ (each person); (dialectal) тэдрэ / тэдрэз; къэс (each time, day, month, year...)"
   },
   {
-    "many": "1аджэ"
+    "evey": "сыдрэ (every thing); хэтрэ (every person); пэпчъ; къэс (evey time, day, month, year...)"
   },
   {
-    "alternative form of \"1аджэ\"": "1эгьэ"
+    "many": "бэ; 1аджэ / 1эджы"
   },
   {
-    "example": "щысэ"
+    "example": "щапхъэ; щысэ; гущы1эм пае (for example)"
   },
   {
-    "fully filled": "мэ1у"
+    "for example": "гущы1эм пае"
   },
   {
     "shield": "мэ1у"
   },
   {
-    "sorrow": "гук1ае"
+    "sorrow": "гухэк1, гукъау; гук1ае"
   },
   {
-    "demand, request": "гук1ае"
+    "demand": "лъэ1у; гук1ае"
   },
   {
-    "alternative form of \"гузэгу\"": "ыгузэгу"
+    "request": "лъэ1у; гук1ае"
   },
   {
-    "to be sure, to be certain": "ш1эпэн"
+    "to be sure": "ш1эпэн"
   },
   {
-    "alternative form of \"ш1эпэн\"": "ыш1эпэн"
+    "to be certain": "ш1эпэн"
   },
   {
-    "(of an animal that has hair) red-haired, red-headed": "гъо"
+    "red-haired": "гъо"
   },
   {
-    "alternative form of \"мэц1ыон\"": "къэц1ыон"
+    "red-headed": "гъо"
   },
   {
-    "method, means, way": "1эмал"
+    "method": "ш1ык1э; 1эмал (method, means, way)"
   },
   {
-    "over here": "мыдэ"
+    "means": "1эмал (method, way)"
   },
   {
     "next year": "къэк1орэ гъэ"
@@ -13805,82 +13787,55 @@
     "this year": "мыгъэ"
   },
   {
-    "if not (if not the result will be)": "умыармэ"
+    "if that": "армэ"
   },
   {
-    "if that, if so": "армэ"
+    "if so": "армэ"
   },
   {
-    "alternative form of \"амырми\"": "амэрми"
+    "if that is the case": "армэ"
   },
   {
-    "if not (can be used like or else)": "амырмэ"
-  },
-  {
-    "more than that": "а нахь"
-  },
-  {
-    "rather": "а нахь"
+    "more than that": "ащ нахь"
   },
   {
     "more like": "ар нахьыеу"
   },
   {
-    "alternative form of \"арми\"": "арыми"
+    "lightly ill": "гъойщай"
   },
   {
-    "still": "иджыри"
-  },
-  {
-    "to lose something": "ш1ок1он"
-  },
-  {
-    "to go against someone's will or interest": "ш1ок1он"
-  },
-  {
-    "lightly ill; lightly sick; unwell": "гъойщай"
-  },
-  {
-    "alternative form of \"1орыш1эн\"": "е1орыш1эн"
+    "lightly sick": "гъойщай"
   },
   {
     "to obey": "1орыш1эн"
   },
   {
-    "polite": "1эдэб"
-  },
-  {
-    "to be aware of": "щыгъозэн"
+    "to be aware of": "къэбэр и1эн; щыгъозэн"
   },
   {
     "break for resting": "гъэпсэфыгъо"
   },
   {
-    "to invent or come up with an idea or concept.": "къыч1эхын"
+    "accurate": "щэрыу"
   },
   {
-    "here": "мык1э"
+    "well-aimed": "щэрыу"
   },
   {
-    "accurate; well-aimed, sharp (shooter)": "щэрыу"
+    "to wear off": "шъо течъын (skin/color to wear off)"
   },
   {
-    "graphic, picturesque, vivid (image-bearing)": "щэрыу"
+    "to outrun": "течъын; (slang) тебыбын (literally means: to outfly)"
   },
   {
-    "color to wear off": "шъо течъын"
+    "to outfly": "тебыбын"
   },
   {
-    "a liquid to slide off above something": "течъын"
+    "to outdistance": "течъын; тебыбын"
   },
   {
-    "to outrun, to [outdistance": "течъын"
-  },
-  {
-    "to cut down": "иупк1ын"
-  },
-  {
-    "only (No more than; just)": "ны1эп"
+    "only": "ны1эп"
   },
   {
     "alternative form of \"ны1эп\"": "ны1э"
@@ -14370,9 +14325,6 @@
   },
   {
     "alternative form of \"хэк1эн\"": "хэк1ьэн"
-  },
-  {
-    "to be aware": "къэбэр и1эн"
   },
   {
     "to take offense, to be offended, to feel hurt, to resent": "зыгъэгусэн"
