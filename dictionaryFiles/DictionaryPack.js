@@ -76831,7 +76831,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "leadership",
+        "meaning": "to lead",
         "examples": []
       }
     ],
@@ -76876,7 +76876,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to spill liquid on",
+        "meaning": "to spill liquid on; to drop some liquid so that it spreads out or makes a mess; to accidentally pour",
         "examples": [
           {
             "sentence": "1анэм псы '''тебэк1утэ!'''",
@@ -76982,6 +76982,18 @@
     ],
     "type": "adv",
     "ipa": "naːwa"
+  },
+  {
+    "word": "хын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to mow, to cut",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "xən"
   },
   {
     "word": "зэхэш1ык1ын",
@@ -77766,7 +77778,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to suffice, to be sufficient / enough; to last out",
+        "meaning": "to suffice, to be sufficient / enough",
         "examples": [
           {
             "sentence": "К1алэр мы1эрыс т1у фэпхьымэ '''фикъущт'''",
@@ -78051,7 +78063,7 @@
     "ipa": "kʷʼadəʁʷaʃʷʼ"
   },
   {
-    "word": "шъхьэк1э трехын",
+    "word": "шъхьэк1э трихын",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -78090,13 +78102,13 @@
       }
     ],
     "synonyms": [
-      "ишъо ик1ын"
+      "ышъо ик1ын"
     ],
     "type": "verb",
     "ipa": "ʂħa qəʔapət͡ʃʼən"
   },
   {
-    "word": "ишъо ик1ын",
+    "word": "ышъо ик1ын",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -78394,7 +78406,7 @@
     "ipa": "zəʁəɡʷəsan"
   },
   {
-    "word": "зегъэш1ужьын",
+    "word": "зэгъэш1ужьын",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -78402,21 +78414,21 @@
         "examples": [
           {
             "sentence": "Сэ к1алэмрэ пшъашъэмрэ '''зэсгъэш1ужьыгъэх'''",
-            "translation": "t='''I reconciled between''' the boy and the girl."
+            "translation": "'''I reconciled between''' the boy and the girl."
           },
           {
             "sentence": "Сиянэ сэрэ сишырэ '''тызигъэш1ужьыгъ'''",
-            "translation": "t=My mother '''reconciled between''' me with my brother."
+            "translation": "My mother '''reconciled between''' me with my brother."
           },
           {
             "sentence": "К1алэм зэныджэгъухэр '''зегъэш1ужьых'''",
-            "translation": "t=The boy '''reconciles between''' the friends."
+            "translation": "The boy '''reconciles between''' the friends."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "zajʁaʃʷʼəʑən"
+    "ipa": "zaʁaʃʷʼəʑən"
   },
   {
     "word": "зэш1ужьын",
@@ -92516,9 +92528,9 @@
       }
     ],
     "synonyms": [
-      "гъэучыен"
+      "гъэучыен",
+	  "лъын"
     ],
-    "cognate": "лъын",
     "type": "verb",
     "ipa": "ʁat͡ʃaːnən"
   },
