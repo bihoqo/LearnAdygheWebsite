@@ -2010,9 +2010,6 @@
     "often": "бэрэ; заулэрэ"
   },
   {
-    "after": "ыужырэ"
-  },
-  {
     "early": "пасэу; жьэу"
   },
   {
@@ -6976,9 +6973,6 @@
   },
   {
     "to consent": "дэн (to permit, accept); дэштэн (to agree with)"
-  },
-  {
-    "to sew": "дэн (to be sewing); дын (to sew something); пыдэн (to sew into); зэпыдэн (to sew something to something)"
   },
   {
     "tin": "къэлай; цэф (plate)"
@@ -14222,13 +14216,13 @@
     "to crack": "чэн; (Shapsug) кьэн; гъэчэн (to crack something)"
   },
   {
-    "to sew": "пыдэн (to sew something to something)"
+    "to sew": "дэн (to be sewing); дын (to sew something); зэпыдэн (to sew somethings together); пыдэн (to sew something to something, to connect something to something by sewing); ч1эдэн (to sew something under something); тедэн (to sew something on something); хздэн (to sew something through)"
   },
   {
-    "before it reaches a time": "нэмысыпэу"
+    "before": "ыпэу; ыпэк1э; ыпэрэ (the one before);(dialectal) ипэу; нахь ыпэу / нахьыпэу (before someone/something else); анахь ыпэу (before everyone else); нэмысэу (before it reaches a certain time); нэмысыпэу (just before it reaches a certain time)"
   },
   {
-    "alternative form of \"пыупк1ын\"": "пыук1ын"
+    "after": "ыуж; ыужык1э; ыужырэ (the one after);(dialectal) иуж; ыкъынэуж (after someone/something else); акъынэуж (after everyone else); къэсыгъахэу (after it reaches a certain time)"
   },
   {
     "coat hanger, peg (device used to hang up coats, shirts, etc)": "щыгъын пылъап1э"
