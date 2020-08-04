@@ -75549,21 +75549,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "ski",
-        "examples": [
-          {
-            "sentence": "Пцыкъомэ уатетышъуа?",
-            "translation": "Do you ski?"
-          },
-          {
-            "sentence": "Мыщ пцыкъохэр бэджэндэу пштэнхэ плъэкIыщта?",
-            "translation": "Can one rent skis here?"
-          },
-          {
-            "sentence": "УдэкIоен хъумэ пцыкъорыкIо лифтым уетIысхьа?",
-            "translation": "Do you take the ski lift to the top?"
-          }
-        ]
+        "meaning": "snowshoe",
+        "examples": []
       }
     ],
     "type": "noun",
@@ -75827,7 +75814,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to think that, to suppose; to hypothesize; to reckon",
+        "meaning": "to think that, to suppose; to reckon",
         "examples": [
           {
             "sentence": "К1алэм чъы1агъ '''еш1ош1ы'''",
@@ -76200,10 +76187,6 @@
             "translation": "The boy '''lost''' time '''incidentally'''"
           }
         ]
-      },
-      {
-        "meaning": "to skip over",
-        "examples": []
       }
     ],
     "synonyms": [
@@ -76534,18 +76517,6 @@
     "ipa": "jamən"
   },
   {
-    "word": "къэутхын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to splash water",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "qawətxən"
-  },
-  {
     "word": "теутхын",
     "lang": "Adyghe",
     "definitions": [
@@ -76558,7 +76529,7 @@
     "ipa": "tajawətxən"
   },
   {
-    "word": "пэ1о1ожьын",
+    "word": "пэ1у1ожьын",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -76576,7 +76547,7 @@
       }
     ],
     "type": "verb",
-    "ipa": "paʔʷaʔʷaʑən"
+    "ipa": "paʔʷəʔʷaʑən"
   },
   {
     "word": "егъэлыен",
@@ -87300,10 +87271,6 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to run away",
-        "examples": []
-      },
-      {
         "meaning": "to leave quickly, to speed off",
         "examples": []
       },
@@ -91656,6 +91623,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "to speed up instantly; to accelerate instantly; to run off quickly",
+        "examples": [
+          {
+            "sentence": "К1алэм кумк1э '''к1и1агъ'''.",
+            "translation": "The boy '''accelerated''' with the car."
+          }
+        ]
+      },
+	  {
         "meaning": "to run away, to flee",
         "examples": [
           {
@@ -91699,6 +91675,30 @@
     ],
     "type": "noun",
     "ipa": "ʔaːħəɮ"
+  },
+  {
+    "word": "дэхьажьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to head back (to begin the act of returning to some place or thing)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "daħaːʑən"
+  },
+  {
+    "word": "шъо1удж",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "person dressed in rags",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "ʃʷaʔʷəd͡ʒ"
   },
   {
     "word": "зэш1охын",

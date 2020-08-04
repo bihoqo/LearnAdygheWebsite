@@ -447,7 +447,7 @@
     "back (body part)": "тхы"
   },
   {
-    "back": "тхы (body); к1ыб (back of something); тхыц1э (body)"
+    "back": "тхы (body); к1ыб (back of something); тхыц1э (body); пхэк1 (rear)"
   },
   {
     "stomach": "ныбэ"
@@ -1671,7 +1671,16 @@
     "to see": "лъэгъун"
   },
   {
-    "to run": "чъэн; чъын (to run a certain distance); зэк1эчъэн (to run backward); дэчъэен (to run upward); ечъэхын (to run downward); лъычъэн (to run toward, to run following); ечъэл1эн / къечъэл1эн (to approach while running); телъэдэн (to run onto/into); ч1элъэдэн (to run under); илъэдэн (to run inside, to go inside running); къилъэдэн (to come inside running); дэлъэдэн (to run inside a yard, area or settlement); хэлъэдэн (to run among people/objects, to run through, to run in an area with liquid or gas, to run into); къолъэдэн (to run behind); голъэдэн / бгъодэлъэдэн (to run besides or from the side of); жэхэлъэдэн (to run straight into/against); лъежьэн (to chase); ичъын (to run out from); къэчъыхьан (to run around); блэчъын / блэхъушъутын (to run past); техъушъутын (to run off); ч1эхъушъутын (to run from under, to run from a lying position); ихъушъутын (to run out from inside something); дэхъушъутын (to run out from a yard, area or settlement); хэхъушъутын (to run out of an area with liquid or gas, to run out from among people/objects, to run out of a forest); къохъушъутын (to run out from behind); къыгохъушъутын / къыбгъодэхъушъутын (to run out from besides); зэхэчъын (to spread); зэбгырычъын (to spread)"
+    "to flee": "ежьэжьын; к1э1эн / к1этхъун (to run off, to flee or depart quickly); ш1уежьэжьын (to flee from)"
+  },
+  {
+    "to depart": "ежьэн; 1ук1ыжьын; гъогум техьан; дэхьажьын (to head back); к1э1эн / к1этхъун (to run off, to depart quickly)"
+  },
+  {
+    "to run off": "к1э1эн; к1этхъун"
+  },
+  {
+    "to run": "чъэн; чъын (to run a certain distance); ечъэжьэн (to leave quickly); к1э1эн / к1этхъун (to run off, to flee or depart quickly); зэк1эчъэн (to run backward); дэчъэен (to run upward); ечъэхын (to run downward); лъычъэн (to run toward, to run following); ечъэл1эн / къечъэл1эн (to approach while running); телъэдэн (to run onto/into); ч1элъэдэн (to run under); илъэдэн (to run inside, to go inside running); къилъэдэн (to come inside running); дэлъэдэн (to run inside a yard, area or settlement); хэлъэдэн (to run among people/objects, to run through, to run in an area with liquid or gas, to run into); къолъэдэн (to run behind); голъэдэн / бгъодэлъэдэн (to run besides or from the side of); жэхэлъэдэн (to run straight into/against); лъежьэн (to chase); ичъын (to run out from); къэчъыхьан (to run around); блэчъын / блэхъушъутын (to run past); техъушъутын (to run off); ч1эхъушъутын (to run from under, to run from a lying position); ихъушъутын (to run out from inside something); дэхъушъутын (to run out from a yard, area or settlement); хэхъушъутын (to run out of an area with liquid or gas, to run out from among people/objects, to run out of a forest); къохъушъутын (to run out from behind); къыгохъушъутын / къыбгъодэхъушъутын (to run out from besides); зэхэчъын (to spread); зэбгырычъын (to spread)"
   },
   {
     "to rush": "телъэдэн (to rush onto/into); ч1элъэдэн (to rush under); илъэдэн (to rush inside, to go inside rushing); къилъэдэн (to come inside rushing); дэлъэдэн (to rush inside a yard, area or settlement); хэлъэдэн (to rush among people/objects, to rush through, to rush in an area with liquid or gas, to rush into); къолъэдэн (to rush behind); голъэдэн / бгъодэлъэдэн (to rush besides or from the side of); жэхэлъэдэн (to rush straight into/against); блэхъушъутын (to rush past); техъушъутын (to rush away); ч1эхъушъутын (to rush away from under); ихъушъутын (to rush away from inside something); дэхъушъутын (to rush away from a yard, area or settlement); хэхъушъутын (to rush away from an area with liquid or gas, to rush away from among people/objects, to rush away from the forest); къохъушъутын (to rush away from behind); къыгохъушъутын / къыбгъодэхъушъутын (to rush away from besides)"
@@ -1680,7 +1689,7 @@
     "to run out": "техъушъутын (to run off); ч1эхъушъутын (to run from under, to run from a lying position); ихъушъутын (to run out from inside something); дэхъушъутын (to run out from a yard, area or settlement); хэхъушъутын (to run out of an area with liquid or gas, to run out from among people/objects, to run out of a forest); къохъушъутын (to run out from behind); къыгохъушъутын / къыбгъодэхъушъутын (to run out from besides)"
   },
   {
-    "to run away": "техъушъутын (to run away off); ч1эхъушъутын (to run away from under, to run away from a lying position); ихъушъутын (to run away from inside something); дэхъушъутын (to run away from a yard, area or settlement); хэхъушъутын (to run away from an area with liquid or gas, to run away from among people/objects, to run away from a forest); къохъушъутын (to run away from behind); къыгохъушъутын / къыбгъодэхъушъутын (to run away from besides)"
+    "to run away": "ежьэжьын (to run away, to flee); ечъэжьэн (to speed off); ш1уежьэжьын (to run away from, to flee from); техъушъутын (to run away from above something); ч1эхъушъутын (to run away from under, to run away from a lying position); ихъушъутын (to run away from inside something); дэхъушъутын (to run away from a yard, area or settlement); хэхъушъутын (to run away from an area with liquid or gas, to run away from among people/objects, to run away from a forest); къохъушъутын (to run away from behind); къыгохъушъутын / къыбгъодэхъушъутын (to run away from besides); 1эк1эк1ын (to let someone run away inadvertently)"
   },
   {
     "to swear": "хъонэн"
@@ -1701,7 +1710,7 @@
     "to fall": "ебэджын (to fall on the ground); тебэджэн (to fall on something by slipping); ефэхын / къефэхын (to fall downward); едзыхын / къедзыхын (to fall downward); ет1эрэхын / къет1эрэхын (to drop downward); тет1эрын (to drop from); зэтефэн (to drop on each other); зэхэфэн (to drop into each other); ук1орэин"
   },
   {
-    "to drop": "1эпызын (to drop from the hand); къизын (to drop from inside something); къетк1ухын (to drip from); 1эк1эзын (to let go, to let slip); 1эпызын (to drop unintentionally); 1эпыт1эрын (to let slip unintentionally); къытезын (to drop from); къыпызын (to drop off a tree), къыпытэкъун (to drop from the tree around it); зэтефэн (to drop on each other); зэхэфэн (to drop into each other)"
+    "to drop": "1эпызын (to drop from the hand); къизын (to drop from inside something); къетк1ухын (to drip from); 1эпызын (to drop unintentionally); 1эпыт1эрын (to let slip unintentionally); къытезын (to drop from); къыпызын (to drop off a tree), къыпытэкъун (to drop from the tree around it); зэтефэн (to drop on each other); зэхэфэн (to drop into each other); 1эк1эзын (to drop something unintentionally from the hand)"
   },
   {
     "to meet": "тефэн (to come across, to encounter coincidentally); 1ук1эн (to meet); пэгъок1ын (to welcome, to approach, to encounter intentionally)"
@@ -3183,7 +3192,7 @@
     "deserted": "нэк1ы; унэк1ыгъэ"
   },
   {
-    "to leave": "бгынэн (to abandon/desert); ик1ын (to go out); ик1ыжьын (to leave the house/family); пык1ыжьын (to divorce); хэк1ын (to leave a company or group); къинэн (to leave something behind)"
+    "to leave": "бгынэн (to abandon/desert); ик1ын (to go out); ик1ыжьын (to leave the house/family); пык1ыжьын (to divorce); хэк1ын (to leave a company or group); къинэн (to leave something behind); тегъэнэн / къытегъэнэн (to leave something above something); ч1эгъэнэн / къыч1эгъэнэн (to leave something under something); хэгъэнэн / къыхэгъэнэн (to leave something in an area with liquid or gas, to leave something in the forest); дэгъэнэн / къыдэгъэнэн (to leave something in); игъэнэн / къигъэнэн (to leave something inside); 1угъэнэн / къы1угъэнэн (to leave something near)"
   },
   {
     "to desert": "бгынэн"
@@ -4066,9 +4075,6 @@
   },
   {
     "to slow down": "жъажъэу хъун; гъэжъэжъэн; зыгъэжъэжъэн"
-  },
-  {
-    "to hurry up": "зыгъэпсынк1эн; гъэпсынк1эн"
   },
   {
     "stench": "шъумэ"
@@ -6399,9 +6405,6 @@
     "flour": "хьаджыгъэ"
   },
   {
-    "quickly": "псынк1эу"
-  },
-  {
     "lightly": "псынк1эу"
   },
   {
@@ -7191,9 +7194,6 @@
     "just": "ны1эп (only); къодый (simply, merely); зафэ (a just person)"
   },
   {
-    "only": "ны1эп"
-  },
-  {
     "merely": "ны1эп (only); къодый (simply)"
   },
   {
@@ -7614,7 +7614,7 @@
     "to get stuck": "дэнэн (to get stuck between); хэнэн (to get stuck in a company, bushes, forest, liquid, gas or solid); тенэн (to get stuck on above something); инэн (to get stuck inside something); ч1энэн (to get stuck under something); пынэн (to get stuck and undetachable); дэп1ыт1эн (to get stuck and squeezed in a narrow place or hole)"
   },
   {
-    "to stick": "дэгъэнэн (to stick between); хэгъэнэн (to make someone stuck in a company, bushes, forest, liquid, gas or solid); тегъэнэн (to stick on above something); игъэнэн (to stick inside something); ч1эгъэнэн (to stick under something); тепк1эн (to get glued on); тегъэпк1эн (to glue something on something); ч1эпк1эн (to get glued under); ч1эгъэпк1эн (to glue something under something); ипк1эн (to get glued inside); игъэпк1эн (to glue something inside something); пыпк1эн (to get glued on the surface of an object); пыгъэпк1эн (to glue something on the surface of an object); дэпк1эн (to get glued inside another object); дэгъэпк1эн (to glue something inside another object)"
+    "to stick": "дэгъэнэн (to stick between); хэгъэнэн (to make someone stuck in a company, bushes, forest, liquid, gas or solid); тегъэнэн (to stick on above something); игъэнэн (to stick inside something); ч1эгъэнэн (to stick under something); тепк1эн (to get glued on); тегъэпк1эн (to glue something on something); ч1эпк1эн (to get glued under); ч1эгъэпк1эн (to glue something under something); ипк1эн (to get glued inside); игъэпк1эн (to glue something inside something); пыпк1эн (to get glued on the surface of an object); пыгъэпк1эн (to glue something on the surface of an object); дэпк1эн (to get glued inside another object); дэгъэпк1эн (to glue something inside another object); естыл1эн (to stick to the hot surface as a result of burning)"
   },
   {
     "to jam": "дэгъэнэн (to jam between); хэгъэнэн (to jam something in an area with liquid, gas or solid); тегъэнэн (to jam on above something); игъэнэн (to jam inside something); ч1эгъэнэн (to jam under something)"
@@ -7683,7 +7683,7 @@
     "to demand": "к1эдэун"
   },
   {
-    "to disagree": "дэмыштэн; мыдэн, емыуцол1эн"
+    "to disagree": "дэмыштэн; мыдэн, емыуцол1эн; пэ1у1ожьын (to whine against someone disagreeably)"
   },
   {
     "to agree": "дэштэн (to agree with); дегъэштэн (to agree with); дэн, еуцол1эн"
@@ -8061,12 +8061,6 @@
     "lurch": "къуащэ"
   },
   {
-    "wrongly": "къуанчэу; 1онт1агъэу; 1орт1агъэу (Shapsug); мытэрэзэу; хэукъоныгъэу"
-  },
-  {
-    "incorrectly": "къуанчэу; мытэрэзэу; хэукъоныгъэу"
-  },
-  {
     "to swim": "есын"
   },
   {
@@ -8431,9 +8425,6 @@
   },
   {
     "loose jaw": "жэ1улэл"
-  },
-  {
-    "to hang": "пылъын (to be hanging); пылъэн (to hang); улэлэн (to hang loosed)"
   },
   {
     "foolishness": "делагъэ; жэ1улэлыгъ; (vulgar) цумэнагъэ"
@@ -8904,9 +8895,6 @@
     "to excise": "хэупк1ын; хэбзык1ын"
   },
   {
-    "to think": "егупшысэн; хэгупшысыхьан (to become thoughtful); къэугупшысын (to think out)"
-  },
-  {
     "to think of": "егупшысэн"
   },
   {
@@ -8954,10 +8942,7 @@
     "to fly away": "1убыбын; 1убыбык1ын"
   },
   {
-    "to fly": "быбын; дэбыбыен (to fly up); гъэбыбын (to make something fly); дэгъэбыбэен (to make something fly up)"
-  },
-  {
-    "to fly upward": "дэбыбэен (to fly up); дэгъэбыбэен (to make something fly up)"
+    "to fly": "быбын / лъэтэн; дэбыбыен (to fly up); ебыбэхын (to fly down); гъэбыбын (to make something fly); лъыбыбын (to fly toward); дэгъэбыбэен (to make something fly up); 1убыбэн (to fly near something); 1убыбын (to fly away from something); тебыбэн (to fly above something); тебыбын / къытебыбын (to fly off from above something); ч1эбыбэн (to fly under something); ч1эбыбын / къыч1эбыбын (to fly from under something); ибыбэн (to fly inside something); ибыбын / къибыбын (to fly from under something); къобыбэн (to fly behind something); къобыбын / къыкъобыбын (to fly from under something); гобыбэн / бгъодэбыбэн (to fly besides something); гобыбын / бгъодэбыбын / къыгобыбын / къыбгъодэбыбын(to fly from besides something); хэбыбэн (to fly through, to fly to an area with gas or liquid, to fly into the forest); хэбыбын / къыхэбыбын (to fly from the forest, to fly from an area with gas or liquid); пыбыбэн (to fly on a branch); пыбыбэн / къыпыбыбын (to fly off from a branch); жэхэбыбэн (to fly into/against someone or something); зэк1эбыбэн (to fly backword)"
   },
   {
     "to fly up": "дэбыбэен (to fly up); дэгъэбыбэен (to make something fly up)"
@@ -9215,7 +9200,7 @@
     "alone": "изакъу"
   },
   {
-    "to hang": "пылъын (to be hanging); пылъэн (to hang); пылъхьан (to put something to a hanging state)"
+    "to hang": "пылъын (to be hanging); пылъэн (to hang); пылъхьан (to put something to a hanging state); улэлэн (to hang loosed)"
   },
   {
     "to attach": "пылъын (to be attached); пылъхьан (to attach something to); пыгъэнэн (to stick to attach)"
@@ -9854,7 +9839,7 @@
     "separately": "шъхьаф-шъхьафэу; зыр зырэу (one by one)"
   },
   {
-    "to return": "къэгъэзэжьын (to return back to where one came); к1ожьын (to go back there); къэк1ожьын (to return back here); зэк1ежьэжьын; дэхьажьын (to return home)"
+    "to return": "къэгъэзэжьын (to return back to where one came); к1ожьын (to go back there); къэк1ожьын (to return back here); зэк1ежьэжьын; дэхьажьын (to head back)"
   },
   {
     "to go back": "к1ожьын"
@@ -9870,9 +9855,6 @@
   },
   {
     "to be wearing": "щыгъэн"
-  },
-  {
-    "to wear": "щыгъын (to be wearing); щылъэн (to wear something)"
   },
   {
     "eyeglasses": "нэгъунджэ; (dialectal) нэгъурджэ"
@@ -11628,7 +11610,7 @@
     "to attempt": "1он; шэтэн"
   },
   {
-    "to kill": "ук1ын; гъэл1эн (to cause to die); хиук1ыхьан (to kill in a war/forest); хэук1ыхьан (to be killed in a war/forest); (dialectal) гъэк1одын; гъэл1эн"
+    "to kill": "ук1ын; гъэл1эн (to cause to die); хиук1ыхьан (to kill in a war/forest); хэук1ыхьан (to be killed in a war/forest); (dialectal) гъэк1одын; гъэл1эн; 1эк1эук1эн (to kill somebody inadvertently)"
   },
   {
     "thus": "арти"
@@ -11995,9 +11977,6 @@
   },
   {
     "to hope for": "щыгугъын"
-  },
-  {
-    "to rely on": "щыгугъын"
   },
   {
     "to count on": "щыгугъын"
@@ -13838,55 +13817,49 @@
     "only": "ны1эп"
   },
   {
-    "alternative form of \"ны1эп\"": "ны1э"
+    "to escape": "ежьэжьын / къежьэжьын; ш1уежьэжьын (to run away from); 1эк1эк1ын (to let someone escape inadvertently)"
   },
   {
-    "alternative form of \"ежьэжьын\"": "жьэжьын"
+    "to head back": "дэхьажьын"
   },
   {
-    "alternative form of \"ежьэжьын\"": "еджэжьын"
+    "to resume": "егъэжьэжьын; ублэжьын; игъэкъужьын"
   },
   {
-    "to run away": "ежьэжьын"
+    "to get dressed": "зыфэпэн; зыщылъэн; зифэпэжьыгъ"
   },
   {
-    "to escape from": "ежьэжьын"
+    "to dress up": "зыфэпэн; зыщылъэн (to wear something); зифэпэжьыгъ"
   },
   {
-    "to head back": "ежьэжьын"
+    "poorly dressed": "шъойцый (шъой-цый); шъо1удж"
   },
   {
-    "to resume": "ежьэжьын"
+    "to dress": "фэпэн; щылъэн (to dress someone or something)"
   },
   {
-    "to run away from": "ш1уежьэжьын"
+    "to wear": "щыгъын (to be wearing); щылъэн (to dress someone else); зыщылъэн (to wear something, to dress oneself)"
   },
   {
-    "to get dressed, to dress up": "зифэпэжьыгъ"
+    "quickly": "псынк1эу; ш1эхэу"
   },
   {
-    "someone poorly dressed": "шъойцый"
+    "lost": "к1одыгъэ; гъозадж"
   },
   {
-    "to dress someone": "фэпэн"
+    "incorrectly": "мытэрэзэу; пхэнджэу; къуанчэу; хэукъоныгъэу"
   },
   {
-    "quickly": "ш1эхэу"
-  },
-  {
-    "lost": "гъозадж"
-  },
-  {
-    "wrong, incorrect": "пхэндж"
+    "wrongly": "къуанчэу; 1онт1агъэу; 1орт1агъэу (Shapsug); мытэрэзэу; хэукъоныгъэу; пхэнджэу"
   },
   {
     "twisted": "пхэндж"
   },
   {
-    "ski": "пцыкъо"
+    "snowshoe": "пцыкъо"
   },
   {
-    "skates": "лъэрычъ"
+    "skating": "лъэрычъ"
   },
   {
     "skateboard": "лъэрычъ"
@@ -13895,184 +13868,133 @@
     "running shoes": "лъэрычъ"
   },
   {
-    "to jump up": "лъэтэн"
+    "to take off": "лъэтэн (to fly); быбын (to fly); щыхын (to take off clothes, to undress)"
   },
   {
-    "to take off; to take flight": "лъэтэн"
+    "to take flight": "лъэтэн; быбын"
   },
   {
-    "that's enough, leave it be, oh well (An expression of mild disappointment or resignation)": "хъугъэ"
+    "leave it be)": "хъугъэ"
   },
   {
-    "to become dull, to dull (lose a sharp edge)": "уцэкун"
+    "oh well": "хъугъэ"
   },
   {
-    "alternative form of \"еджэн\"": "джэн"
+    "to become dull": "уцэкун  (to become unsharp); цако хъун (to become unsharp)"
   },
   {
-    "to rely on, to count on": "щыгугъын"
+    "to dull": "уцэкун (to lose a sharp edge); цако хъун (to become unsharp)"
   },
   {
-    "to hope for": "щыгугъын"
+    "to rely on": "щыгугъын"
   },
   {
     "to anticipate for": "щыгугъын"
   },
   {
-    "shroud (the dress for the dead; a winding sheet.)": "чэфыныпхъ"
+    "shroud": "чэфыныпхъ (the dress for the dead; a winding sheet)"
   },
   {
     "pit": "машэ"
   },
   {
-    "to shine, to glitter, to sparkle, to flash": "ц1ыун"
+    "to think": "егупшысэн; хэгупшысыхьан (to become thoughtful); къэугупшысын (to think out); ш1ош1ын (to think that, to reckon that, to suppose)"
   },
   {
-    "alternative form of \"гугъэн\"": "гугъын"
+    "to think that": "ш1ош1ын"
   },
   {
-    "to think that, to suppose; to hypothesize; to reckon": "ш1ош1ын"
+    "to suppose": "ш1ош1ын"
   },
   {
-    "to see as, to be perceived as": "ш1ош1ын"
+    "to reckon": "ш1ош1ын"
   },
   {
-    "to mold; to become moldy; mold to grow upon": "утхъоен"
+    "to see as": "ш1ош1ын"
   },
   {
-    "to hurry up, to hasten": "ш1эхын"
+    "to be perceived as": "ш1ош1ын"
   },
   {
-    "alternative form of \"нэмык1\"": "нэмк1"
+    "to mold": "утхъоен"
+  },
+  {
+    "to become moldy": "утхъоен"
+  },
+  {
+    "to hurry up": "зыгъэпсынк1эн (to hurry up, you make oneself faster); гъэпсынк1эн (to make someone else hurry up); ш1эхын; гузэжъон (to be in a hurry)"
+  },
+  {
+    "to hasten": "гъэпсынк1эн; ш1эхын"
   },
   {
     "calm": "самбыр"
   },
   {
-    "quiet": "самбыр"
-  },
-  {
     "to calm down": "самбырын"
-  },
-  {
-    "to stick to the (hot) surface as a result of burning": "естыл1эн"
   },
   {
     "nettle": "пшэсэн"
   },
   {
-    "alternative form of \"зытегъэк1эн\"": "тегъэк1эн"
-  },
-  {
     "to lean over": "зытегъэк1эн"
-  },
-  {
-    "back (body), rear": "пхэк1"
   },
   {
     "buttock": "пхэк1"
   },
   {
-    "alternative form of \"гупэн\"": "ыгупэн"
+    "rear": "пхэк1"
   },
   {
-    "alternative form of \"гопэн\"": "гупэн"
+    "buttock": "пхэк1"
   },
   {
-    "to let someone get away or run away (inadvertently)": "1эк1эк1ын"
+    "to break out": "1эк1эк1ын (to break out of somebody's hands)"
   },
   {
-    "to break out of somebody's hands": "1эк1эк1ын"
+    "different": "нэмык1; (Shapsug) нэмык1ыр"
   },
   {
-    "to miss out inadvertently": "1эк1эк1ын"
+    "another": "нэмык1; (Shapsug) нэмык1ыр; ехъурэ"
   },
   {
-    "to skip over": "1эк1эк1ын"
-  },
-  {
-    "to drop something unintentionally (from one's hand)": "1эк1эзын"
-  },
-  {
-    "to kill somebody inadvertently": "1эк1эук1эн"
-  },
-  {
-    "different, another (not the same)": "нэмык1"
-  },
-  {
-    "to leave an object or someone on somewhere": "тегъэнэн"
-  },
-  {
-    "to become stuck (trapped and unable to move)": "тенэн"
-  },
-  {
-    "to stay, remain (should have the prefix къы- /qə-/)": "тенэн"
-  },
-  {
-    "alternative form of \"ш1эныгъэ\"": "ш1энгъэ"
-  },
-  {
-    "grandson": "къорылъф"
+    "grandson": "къорылъф (the child of the son); пхъорэлъф  (the child of the dauther)"
   },
   {
     "marriage contract": "нэчыхь"
   },
   {
-    "alternative form of \"нысхъапэ\"": "нысэпхъапэ"
+    "horizon": "ошъочап; ошъолъапсэ"
   },
   {
-    "alternative form of \"естыл1эн\"": "стыл1эн"
+    "skyline": "ошъочап"
   },
   {
-    "alternative form of \"нэк1ышъо\"": "нэк1ьышъо"
+    "to splash": "теутхэн (to splash water on)"
   },
   {
-    "to slap someone's cheek": "нэгушъо етын"
+    "to whine": "гъынэнэн; фэгъынэнэн (to whine for); тхьаусхэн (to whine, to complain); пэ1у1ожьын (to whine against someone disagreeably)"
   },
   {
-    "horizon": "ошъолъапсэ"
+    "to exaggerate": "егъэлыен; (Kfar Kama dialect) къегъэсын"
   },
   {
-    "alternative form of \"нэгушъо етын\"": "нэк1ышъо етын"
+    "to overstate": "егъэлыен"
   },
   {
-    "alternative form of \"нэгушъо\"": "нэк1ышъо"
+    "to single": "гъэлыгъон (to single an animal)"
   },
   {
-    "slap (to the cheek)": "нэгушъоутын"
-  },
-  {
-    "alternative form of \"емынэ\"": "емын"
-  },
-  {
-    "to splash water": "къэутхын"
-  },
-  {
-    "alternative form of \"теутхэн\"": "теутхын"
-  },
-  {
-    "to whine against someone disagreeably": "пэ1о1ожьын"
-  },
-  {
-    "to grossly exaggerate,": "егъэлыен"
-  },
-  {
-    "to single (an animal), to scorch": "гъэлыгъон"
-  },
-  {
-    "to curve, to bend": "гъэ1орт1эн"
-  },
-  {
-    "to curve, to bend": "гъэ1онт1эн"
+    "to scorch": "гъэлыгъон"
   },
   {
     "to spank": "теуп1эп1эн"
   },
   {
-    "to splash water on; to splatter on": "теутхэн"
+    "to splatter": "теутхэн (to splatter on)"
   },
   {
-    "to sprinkle, To cause (a substance) to fall in fine drops (for a liquid substance) or small pieces (for a solid substance)": "теутэн"
+    "to sprinkle": "теутэн (to cause a substance to fall in fine drops or small pieces)"
   },
   {
     "to knock down": "теутын"
@@ -16068,9 +15990,6 @@
   },
   {
     "pleasure": "гухахъо"
-  },
-  {
-    "to run away": "ечъэжьэн"
   },
   {
     "to leave quickly, to speed off": "ечъэжьэн"
