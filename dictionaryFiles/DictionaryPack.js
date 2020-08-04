@@ -78778,7 +78778,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "coat hanger, peg (device used to hang up coats, shirts, etc)",
+        "meaning": "coat hanger (device used to hang up coats, shirts, etc)",
         "examples": [
           {
             "sentence": "'''Щыгъын пылъап1эм''' къыпых джанэр",
@@ -78822,15 +78822,28 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "unbegotten",
-        "examples": []
-      },
-      {
         "meaning": "nonuterine son",
         "examples": []
       },
       {
-        "meaning": "stepchild, stepson",
+        "meaning": "stepson",
+        "examples": []
+      }
+    ],
+    "cognate": "мылъхукъуэ",
+    "type": "noun",
+    "ipa": "məɬfəqʷa"
+  },
+  {
+    "word": "мылъфыпхъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "nonuterine daughter",
+        "examples": []
+      },
+      {
+        "meaning": "stepdaughter",
         "examples": []
       }
     ],
@@ -78873,15 +78886,15 @@
     "ipa": "ɬfəʁa"
   },
   {
-    "word": "к1элэ-гъуал",
+    "word": "к1элэ-гъуалэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "child",
+        "meaning": "youth",
         "examples": []
       }
     ],
-    "cognate": "щ1элэ-гъуал",
+    "cognate": "щ1элэ-гъуалэ",
     "type": "noun",
     "ipa": "t͡ʃʼala ʁʷaːɮa"
   },
@@ -79038,7 +79051,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to shay away",
+        "meaning": "to jump aside",
         "examples": []
       }
     ],
@@ -79079,14 +79092,14 @@
     "ipa": "t͡ʃʼawəx"
   },
   {
-    "word": "адэк1о",
+    "word": "атэк1ум",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "there (place)",
         "examples": [
           {
-            "sentence": "Ц1ыфыхэм '''адэк1ом''' к1уагъэх",
+            "sentence": "Ц1ыфыхэм '''атэк1ум''' к1уагъэх",
             "translation": "The people went there."
           }
         ]
@@ -79193,14 +79206,14 @@
         ]
       },
       {
-        "meaning": "to supply",
+        "meaning": "to supply; to provide",
         "examples": [
           {
-            "sentence": "цIыфмэ товархэр аIэкIэгъэхьаных",
-            "translation": "'''Supply''' goods to the people."
+            "sentence": "ц1ыфмэ товархэр а1эк1эгъэхьаных",
+            "translation": "'''Provide''' goods to the people."
           },
           {
-            "sentence": "заводым оборудованиякIэ '''IэкIэгъэхьан'''",
+            "sentence": "заводым оборудованияк1э '''1эк1эгъэхьан'''",
             "translation": "'''Supply''' the factory with new equipment"
           }
         ]
@@ -79304,11 +79317,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to moan, to groan",
-        "examples": []
-      },
-      {
-        "meaning": "to suffer, to languish",
+        "meaning": "to groan",
         "examples": []
       }
     ],
@@ -79363,10 +79372,6 @@
             "translation": "It is the sick's habit '''to groan'''."
           }
         ]
-      },
-      {
-        "meaning": "to suffer, to languish",
-        "examples": []
       }
     ],
     "synonyms": [

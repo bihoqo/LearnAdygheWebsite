@@ -447,7 +447,7 @@
     "back (body part)": "тхы"
   },
   {
-    "back": "тхы (body); к1ыб (back of something); тхыц1э (body); пхэк1 (rear)"
+    "back": "тхы (body); к1ыб (back of something); тхыц1э (body); пхэк1 (rear); ыпхэк1ык1э (in the ); (vulgar) ышъутык1э (in the rear)"
   },
   {
     "stomach": "ныбэ"
@@ -891,7 +891,7 @@
     "family": "бын; унагъо; быныуын"
   },
   {
-    "child": "бын"
+    "child": "бын (son or daughter); сабый"
   },
   {
     "July": "бэдзэогъумаз"
@@ -1132,9 +1132,6 @@
   },
   {
     "young lady": "пшъашъэ"
-  },
-  {
-    "boy": "к1алэ"
   },
   {
     "young man": "к1алэ"
@@ -2316,9 +2313,6 @@
     "steel": "шыр; щылыч"
   },
   {
-    "child": "сабый"
-  },
-  {
     "needle": "мастэ"
   },
   {
@@ -2955,7 +2949,10 @@
     "job": "1офы"
   },
   {
-    "to work": "1офы ш1эн; лъэжьэн"
+    "to work": "1офы ш1эн; лъэжьэн; пылэжьэхьан (to work on something)"
+  },
+  {
+    "to work on": "пылэжьэхьан"
   },
   {
     "workplace": "лъэжьап1э"
@@ -4531,9 +4528,6 @@
   },
   {
     "to jump aside": "гопк1эн"
-  },
-  {
-    "to smear": "щыфэн"
   },
   {
     "to daub": "щыфэн"
@@ -13055,9 +13049,6 @@
     "rule": "забзэ; тетыгъо (dominion)"
   },
   {
-    "coat hanger": "джэнэпылъап1"
-  },
-  {
     "clothes hanger": "джэнэпылъап1"
   },
   {
@@ -13362,9 +13353,6 @@
   },
   {
     "to earn": "къэгъэхъэн; къихын (to earn something in a contest / competition); къэлэжьын (to earn a living)"
-  },
-  {
-    "to get ahold of": "къэгъэхъэн (to successfully get ahold of a certain possession)"
   },
   {
     "morality": "ц1ыфыгъэ"
@@ -13892,13 +13880,31 @@
     "to lean over": "зытегъэк1эн"
   },
   {
-    "buttock": "пхэк1"
+    "to eliminate": "хэгъэк1ын (to eliminate someone out of); хэдзын / хэфын (to eliminate someone out of)"
   },
   {
-    "rear": "пхэк1"
+    "buttock": "пхэк1; (vulgar) шъуты; (vulgar) пхэ"
   },
   {
-    "buttock": "пхэк1"
+    "ass": "пхэк1; (vulgar) шъуты; (vulgar) пхэ; шъутыпашъо (asscheek)"
+  },
+  {
+    "arse": "пхэк1; (vulgar) шъуты; (vulgar) пхэ; шъутыпашъо (arsecheek)"
+  },
+  {
+    "butt cheek": "(vulgar) шъуты; шъутыпашъо (butt cheek skin)"
+  },
+  {
+    "butt-cheek": "(vulgar) шъуты; шъутыпашъо (butt cheek skin)"
+  },
+  {
+    "buttcheek": "(vulgar) шъуты; шъутыпашъо (butt cheek skin)"
+  },
+  {
+    "rear": "ык1ыбык1э (in the back); пхэк1; ыпхэк1ык1э (in the ); (vulgar) ышъутык1э (in the rear)"
+  },
+  {
+    "buttock": "пхэк1; (vulgar) ышъуты; (vulgar) пхэ"
   },
   {
     "to break out": "1эк1эк1ын (to break out of somebody's hands)"
@@ -14225,43 +14231,40 @@
     "after": "ыуж; ыужык1э; ыужырэ (the one after);(dialectal) иуж; ыкъынэуж (after someone/something else); акъынэуж (after everyone else); къэсыгъахэу (after it reaches a certain time)"
   },
   {
-    "coat hanger, peg (device used to hang up coats, shirts, etc)": "щыгъын пылъап1э"
-  },
-  {
-    "alternative form of \"пылъап1\"": "пылъап1э"
-  },
-  {
-    "alternative form of \"щэджэгъоуж\"": "щэгьэгъоуж"
-  },
-  {
-    "unbegotten": "мылъфыкъо"
+    "coat hanger": "щыгъын пылъап1э; джэнэпылъап1"
   },
   {
     "nonuterine son": "мылъфыкъо"
   },
   {
-    "stepchild, stepson": "мылъфыкъо"
+    "nonuterine aughter": "мылъфыпхъу"
   },
   {
-    "alternative form of \"лъфыгъэ\"": "лъыфыгъэ"
+    "stepchild": "мылъфыкъо (stepson); мылъфыпхъу (stepdaughter)"
+  },
+  {
+    "stepson": "мылъфыкъо"
+  },
+  {
+    "stepdaughter": "мылъфыпхъу"
   },
   {
     "begotten": "лъфыгъэ"
   },
   {
-    "child delivery, childbirth": "лъфыгъэ"
+    "child delivery": "лъфыгъэ"
   },
   {
-    "child": "лъфыгъэ"
-  },
-  {
-    "child": "к1элэ-гъуал"
+    "childbirth": "лъфыгъэ"
   },
   {
     "instead of": "ич1ып1эк1э"
   },
   {
-    "to enrich, to make rich": "гъэунэн"
+    "to enrich": "гъэбаин; баи ш1ын; гъэунэн"
+  },
+  {
+    "to make rich": "гъэбаин; баи ш1ын; гъэунэн"
   },
   {
     "to do good to someone": "гъэунэн"
@@ -14270,100 +14273,109 @@
     "to guard someone": "къэгъэгъунэн"
   },
   {
-    "to protect": "нэ1э тегъэтын"
-  },
-  {
-    "to smear": "к1эен"
+    "to smear": "щыфэн"
   },
   {
     "to daub all over": "к1эен"
   },
   {
-    "alternative form of \"к1эен\"": "еин"
+    "final": "аужырэ; аужыпкъэрэ"
   },
   {
-    "to shay away": "к1эегъулъын"
+    "last": "аужырэ; аужыпкъэрэ"
   },
   {
-    "closing, conclusive": "к1эух"
+    "conclusive": "к1эух"
   },
   {
-    "(literally) tail end (the last part of a period of time, event, or situation; the concluding or final part)": "к1эух"
+    "tail end": "к1эух"
   },
   {
-    "there (place)": "адэк1о"
+    "to go under": "ч1эхьан"
   },
   {
-    "to go under something": "ч1эхьан"
+    "to receive": "1эк1эхьан"
   },
   {
-    "to receive, to gain, to take possession of, to get ahold of": "1эк1эхьан"
+    "to gain": "къэгъэхъэн (to earn); 1эк1эхьан / къы1эк1эхьан (to get ahold of); зы1эк1эгъэхьан (to make oneself get ahold of)"
   },
   {
-    "alternative form of \"1эк1эхьан\"": "къы1эк1эхьэн"
+    "to take possession of": "1эк1эхьан / къы1эк1эхьан; зы1эк1эгъэхьан (to make oneself take possession of)"
   },
   {
-    "to make someone get ahold of something, to make someone receive something": "1эк1эгъэхьан"
+    "to get ahold of": "1эк1эхьан / къы1эк1эхьан; зы1эк1эгъэхьан (to make oneself get ahold of)"
   },
   {
     "to supply": "1эк1эгъэхьан"
   },
   {
-    "alternative form of \"1эк1эхьан\"": "1эч1эхьан"
+    "to provide": "1эк1эгъэхьан; егъэгъотын"
   },
   {
-    "to distribute between, to divide between, to split between": "тегощэн"
+    "to distribute between": "тегощэн"
   },
   {
-    "to moan, to groan": "гырзын"
+    "to divide between": "тегощэн"
   },
   {
-    "to suffer, to languish": "гырзын"
+    "to split between": "тегощэн"
   },
   {
-    "to moan, to groan": "щэ1ун"
+    "to moan": "щэ1ун"
   },
   {
-    "to suffer, to languish": "щэ1ун"
+    "to groan": "щэ1ун"
   },
   {
-    "chernozem, black soil": "ет1апц1э"
+    "to suffer": "къин ехъун; къин ылъэгъун; къин щэчын"
   },
   {
-    "alternative form of \"ет1апц1э\"": "ет1апс1э"
+    "chernozem": "ет1апц1э"
   },
   {
-    "bare naked, bare-assed, bare-bottomed, a person that his buttock/butt is visible": "шъутыпц1э"
+    "black soil": "ет1апц1э"
+  },
+  {
+    "to kick ass": "(vulgar) шъутык1э гъэк1он"
+  },
+  {
+    "bare naked": "пц1анэ; шъутыпц1э (butt-naked)"
+  },
+  {
+    "bare-assed": "шъутыпц1э"
+  },
+  {
+    "bare-bottomed": "шъутыпц1э"
   },
   {
     "butt-naked": "шъутыпц1э"
   },
   {
-    "bareheaded, a person without any cover on the head like headgear, hat and veil.": "шъхьапц1э"
+    "bareheaded": "шъхьапц1э"
   },
   {
-    "alternative form of \"шъхьапц1э\"": "шъхьапс1э"
+    "to crawl": "ц1энлъэн; (Shapsug) ц1элъэн; пшын"
   },
   {
-    "to crawl": "ц1энлъэн"
+    "to walk dragging": "ц1энлъэн"
   },
   {
-    "to walk dragging oneself": "ц1энлъэн"
+    "skinny": "гъонлагъэ; (Shapsug) гъолагъэ"
   },
   {
-    "alternative form of \"гъонлагъэ\"": "гъолагъэ"
-  },
-  {
-    "skinny, slim (generally beyond what looks beautiful)": "гъонлагъэ"
+    "slim": "гъонлагъэ; (Shapsug) гъолагъэ"
   },
   {
     "snail": "хьамлашк1у"
   },
   {
-    "boy": "к1элэхъу"
+    "boy": "к1элэц1ык1у (young boy); шъэожъые (rare) (young boy); к1алэ (boy, teenager or young man)"
   },
   {
-    "little boy": "к1элэхъуц1ык1у"
+    "little boy": "к1элэц1ык1у; шъэожъые (rare); к1элэхъуц1ык1у"
+  },
+  {
+    "young boy": "к1элэц1ык1у; шъэожъые (rare); к1элэхъуц1ык1у"
   },
   {
     "turn": "чэзыу"
@@ -17114,9 +17126,6 @@
     "to abandon someone": "къыщынэн"
   },
   {
-    "to crawl": "пшын"
-  },
-  {
     "to walk dragging oneself": "пшын"
   },
   {
@@ -17424,9 +17433,6 @@
   },
   {
     "to sew a sole on, to sole (a shoe)": "к1эдэн"
-  },
-  {
-    "boy": "шъэожъые"
   },
   {
     "alternative form of \"жъый\"": "жъые"
