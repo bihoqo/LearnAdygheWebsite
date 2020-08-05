@@ -18507,6 +18507,26 @@
     "ipa": "bzaməʔʷ"
   },
   {
+    "word": "зэхэлъхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to compound; to form (a resulting mixture or structure) by combining different elements, ingredients, or parts",
+        "examples": []
+      },
+	  {
+        "meaning": "to assemble; to lay together; to put together; to pile up",
+        "examples": []
+      },
+	  {
+        "meaning": "to compose",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "zaxaɬħaːn"
+  },
+  {
     "word": "гъэпсын",
     "lang": "Adyghe",
     "definitions": [
@@ -80017,7 +80037,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "misty",
+        "meaning": "nebula",
         "examples": []
       }
     ],
@@ -80138,7 +80158,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be burned inside an area with mass",
+        "meaning": "to be burned inside an area with a hot mass",
         "examples": [
           {
             "sentence": "Лавэм '''хэстыхьан'''",
@@ -80168,7 +80188,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to light up; to begin to shine",
+        "meaning": "to shine sometimes",
         "examples": [
           {
             "sentence": "Жъуагъор '''мэлыды'''",
@@ -80179,10 +80199,6 @@
             "translation": "All the things that '''shine''' are not gold."
           }
         ]
-      },
-      {
-        "meaning": "to shine a little, to shine sometimes",
-        "examples": []
       }
     ],
     "synonyms": [
@@ -80296,10 +80312,6 @@
       {
         "meaning": "match (to ignite fire with)",
         "examples": []
-      },
-      {
-        "meaning": "torch",
-        "examples": []
       }
     ],
     "type": "noun",
@@ -80350,9 +80362,8 @@
     ],
     "synonyms": [
       "пэлэлэжъ",
-      "пэшын"
+      "пэщын"
     ],
-    "cognate": "пэщын",
     "type": "noun",
     "ipa": "papsə"
   },
@@ -80489,7 +80500,7 @@
     "ipa": "xə"
   },
   {
-    "word": "пэшын",
+    "word": "пэщын",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -80505,7 +80516,6 @@
       "пэлэлэжъ",
       "пэпсы"
     ],
-    "cognate": "пэщын",
     "type": "noun",
     "ipa": "paʃən"
   },
@@ -80543,6 +80553,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "woodchip",
+        "examples": []
+      },
+	  {
         "meaning": "a piece of wood",
         "examples": []
       }
@@ -80559,6 +80573,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "woodchip",
+        "examples": []
+      },
+	  {
         "meaning": "a piece of wood",
         "examples": []
       }
@@ -80634,7 +80652,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "sheaf",
+        "meaning": "sheaf (bundle of grain or straw)",
         "examples": []
       }
     ],
@@ -80642,17 +80660,87 @@
     "ipa": "pxər"
   },
   {
+    "word": "зыбгъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "one side",
+        "examples": [
+          {
+            "sentence": "'''Зыбгъур''' фыжьы, адрэбгъур ш1уц1э",
+            "translation": "'''One side''' is white, the other side is black."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "zəbʁʷ"
+  },
+  {
+    "word": "адрэбгъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "other side",
+        "examples": [
+          {
+            "sentence": "Зыбгъур фыжьы, '''адрэбгъур''' ш1уц1э",
+            "translation": "One side is white, the '''other side''' is black."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "zəbʁʷ"
+  },
+  {
     "word": "к1эн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "hemp",
+        "meaning": "inheritance",
+        "examples": []
+      },
+	  {
+        "meaning": "legacy",
         "examples": []
       }
     ],
     "cognate": "щ1эн",
     "type": "noun",
     "ipa": "t͡ʃʼan"
+  },
+  {
+    "word": "1э хэлъхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to involve",
+        "examples": []
+      },
+	  {
+        "meaning": "to contribute",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʔa xaɬħaːn"
+  }
+  {
+    "word": "1ахь хэлъхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to involve",
+        "examples": []
+      },
+	  {
+        "meaning": "to contribute",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʔaːħ xaɬħaːn"
   },
   {
     "word": "мэхап1э",
@@ -80776,7 +80864,7 @@
         "meaning": "structure",
         "examples": [
           {
-            "sentence": "пхъэм хэшIыкIыгъэ '''псэуалъ'''",
+            "sentence": "пхъэм хэш1ык1ыгъэ '''псэуалъ'''",
             "translation": "A '''structure''' that was made from wood"
           }
         ]
@@ -81688,7 +81776,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to bring down something to the ground",
+        "meaning": "to crush down; to physically push someone or something down",
         "examples": []
       }
     ],
@@ -81763,7 +81851,7 @@
     "ipa": "jazaʃən"
   },
   {
-    "word": "гъэзэщын",
+    "word": "егъэзэщын",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -81794,7 +81882,7 @@
       }
     ],
     "type": "verb",
-    "ipa": "ʁazaʃən"
+    "ipa": "jaʁazaʃən"
   },
   {
     "word": "тезын",
@@ -81885,7 +81973,7 @@
     "ipa": "t͡ʂʼataqʷən"
   },
   {
-    "word": "итэкъохьын",
+    "word": "итэкъухьан",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -82112,13 +82200,12 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be unstitched, to be torn at the seams",
+        "meaning": "to rip (a garment) at the seams, to unstitch",
         "examples": []
       }
     ],
     "synonyms": [
-      "зэгот1эп1ык1ын",
-      "----"
+      "зэгот1эп1ык1ын"
     ],
     "type": "verb",
     "ipa": "tʼsapʼən"
@@ -82140,7 +82227,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be unstitched, to be torn at the seams",
+        "meaning": "to rip (a garment) at the seams, to unstitch",
         "examples": []
       }
     ],
@@ -82190,7 +82277,7 @@
     "ipa": "pʼankʲʼəm"
   },
   {
-    "word": "гъэп1орк1ын",
+    "word": "гъэп1онк1ын",
     "lang": "Adyghe",
     "definitions": [
       {
