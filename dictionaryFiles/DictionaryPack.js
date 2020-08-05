@@ -82805,7 +82805,7 @@
     "ipa": "ʁatχan"
   },
   {
-    "word": "гъуч1ынэ",
+    "word": "гъуч1ыч",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -82814,7 +82814,19 @@
       }
     ],
     "type": "noun",
-    "ipa": "ʁʷət͡ʂʼəna"
+    "ipa": "ʁʷət͡ʂʼət͡ʃ"
+  },
+  {
+    "word": "ц1энлъэ-к1уанлъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "in a slippery manner",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡sʼanɬa-kʷʼaːnɬ"
   },
   {
     "word": "гъуч1ы1унэ",

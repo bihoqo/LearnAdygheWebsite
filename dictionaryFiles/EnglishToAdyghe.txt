@@ -3372,9 +3372,6 @@
     "claw": "бжъанэ; лъэбжъанэ (leg); 1эбжъанэ (hand)"
   },
   {
-    "nail": "бжъанэ"
-  },
-  {
     "hillock": "бжъапэ"
   },
   {
@@ -9539,9 +9536,6 @@
     "tedium": "зэщыгъо"
   },
   {
-    "terrible": "дэи; 1ае; гомыхь"
-  },
-  {
     "breakfast": "пчэдыжьышхэ"
   },
   {
@@ -12624,9 +12618,6 @@
     "indecent": "1ае; емык1у зыхэлъ, ук1ытэныгъэ зыхэмылъ"
   },
   {
-    "horrible": "1ае"
-  },
-  {
     "new house": "унак1э"
   },
   {
@@ -13016,7 +13007,7 @@
     "to chase": "лъежьэн (to chase after); лъычъэн (to run after)"
   },
   {
-    "to run after": "лъычъэн"
+    "to run after": "лъычъэн; лъежьэн"
   },
   {
     "halter": "нахъутэ"
@@ -13658,7 +13649,7 @@
     "shield": "мэ1у"
   },
   {
-    "sorrow": "гухэк1, гукъау; гук1ае"
+    "sorrow": "гухэк1; гукъау; гук1ае"
   },
   {
     "demand": "лъэ1у; гук1ае"
@@ -13685,7 +13676,7 @@
     "means": "1эмал (method, way)"
   },
   {
-    "next year": "къэк1орэ гъэ"
+    "next year": "къэк1орэ гъэ; к1элъык1о илъыс"
   },
   {
     "this year": "мыгъэ"
@@ -14708,118 +14699,103 @@
     "revenger": "лъыш1эжьак1о"
   },
   {
-    "alternative form of \"чэрэгъун\"": "мэчэрэгъун"
-  },
-  {
-    "to be twisted": "чэрэгъун"
-  },
-  {
-    "to be whirled": "чэрэгъун"
-  },
-  {
     "laugh": "щхэны; дэхьащх"
   },
   {
-    "grief, distress, sadness": "гъэны"
+    "grief": "гъэны"
   },
   {
-    "misfortune, disaster": "гъэны"
+    "grief time": "нэшхъэигъу"
   },
   {
-    "sorrow, grief": "гухэк1"
+    "sorrow time": "нэшхъэигъу"
   },
   {
-    "grief, distress, sadness": "гукъау"
+    "misery": "къин щэчыныгъ; къин лъэгъуныгъ"
   },
   {
-    "misfortune, disaster": "гукъау"
+    "lament": "гъыбзэ"
   },
   {
-    "sorrow time, grief time": "нэшхъэигъу"
+    "horrible": "1ае; гуих"
   },
   {
-    "misery": "гуао"
+    "dreadful": "гуих"
   },
   {
-    "lament (A song expressing grief), a poem of lament, a song of lament": "гъыбзэ"
+    "terrible": "дэи; 1ае; гомыхь"
   },
   {
-    "terrible, horrible, dreadful, awful": "гуих"
+    "fearful": "щынэгъо; гуих"
   },
   {
-    "fearful": "гуих"
+    "to quarrel": "джэгъогъун"
   },
   {
-    "to quarrel, to be at war with": "джэгъогъун"
+    "hatred": "джагъу"
   },
   {
-    "hatred, hate": "джагъу"
+    "hate": "джагъу"
   },
   {
-    "evil wisher, illwisher": "джагъу"
+    "evil-wisher": "джагъу"
   },
   {
-    "alternative form of \"джэгъун\"": "иджэгъун"
+    "illwisher": "джагъу"
   },
   {
     "to not be bearable": "фэмылъэгъун"
   },
   {
-    "to amuse someone, to entertain someone": "гъэтхъэн"
+    "to amuse": "тхъэн (to be amused); гъэтхъэн / гъэчэфын  (to amuse someone)"
   },
   {
-    "to be amused, to be entertained": "тхъэн"
+    "to entertain": "тхъэн (to be amused); гъэтхъэн / гъэчэфын (to amuse someone);"
   },
   {
     "to be having fun": "тхъэн"
   },
   {
-    "wire": "гъуч1ынэ"
+    "wire": "гъуч1ыч"
   },
   {
-    "nail": "гъуч1ы1унэ"
+    "nail": "гъуч1ы1унэ; бжъанэ (claw)"
   },
   {
-    "to run after": "лъежьэн"
+    "pine": "сэнсэй"
   },
   {
-    "to chase": "лъежьэн"
-  },
-  {
-    "pine, pine tree": "сэнсэй"
+    "pine tree": "сэнсэй"
   },
   {
     "pine wood": "сэнсэй"
   },
   {
-    "to fight": "зэзэон"
+    "it appears": "зэрэкъэлъагъорэмк1э; итеплъэк1э; ынахэк1э"
   },
   {
-    "to be in war with each other": "зэзэон"
+    "it seems": "зэрэкъэлъагъорэмк1э; итеплъэк1э; ынахэк1э"
   },
   {
-    "alternative form of \"шъхьак1э\"": "шъхьэк1ьэ"
+    "it appears that": "зэрэкъэлъагъорэмк1э; итеплъэк1э; ынахэк1э"
   },
   {
-    "by his face": "инапэк1э"
+    "it seems that": "зэрэкъэлъагъорэмк1э; итеплъэк1э; ынахэк1э"
   },
   {
-    "It appears; it seems; by the looks of things": "зэрэкъэлъагъорэмк1э"
+    "it appears like": "зэрэкъэлъагъорэмк1э; итеплъэк1э; ынахэк1э"
   },
   {
-    "by how (s)he looks": "зэрэкъэлъагъорэмк1э"
+    "it seems like": "зэрэкъэлъагъорэмк1э; итеплъэк1э; ынахэк1э"
+  },
+  {
+    "by the looks of it": "зэрэкъэлъагъорэмк1э; итеплъэк1э; ынахэк1э"
+  },
+  {
+    "by how it looks": "зэрэкъэлъагъорэмк1э"
   },
   {
     "basin": "лэджэн"
-  },
-  {
-    "alternative form of \"лэджэн\"": "лэгьэн"
-  },
-  {
-    "to cover with": "техъон"
-  },
-  {
-    "liquid": "псышъо"
   },
   {
     "thing": "пкъыгъо"
@@ -14831,40 +14807,19 @@
     "an object": "пкъыгъо"
   },
   {
-    "to spray burst liquid on to (usually from a pile)": "гъэц1ырэн"
+    "in a slippery manner": "ц1энлъэ-к1уанлъ"
   },
   {
-    "to erase or remove something by burning on the surface": "тегъэстык1ын"
+    "object": "пкъыгъо (an object)"
   },
   {
-    "to burn something on the surface something": "тегъэстыхьан"
+    "to spray": "гъэц1ырэн (to spray burst liquid on to usually from a pile)"
   },
   {
-    "It appears; it seems; by the looks of things": "инахэк1э"
-  },
-  {
-    "by the look of his face": "инахэк1э"
-  },
-  {
-    "to drag something into a crowd": "хэлъэшъон"
-  },
-  {
-    "to drag or pull something into an area of mass (usually liquid)": "хэлъэшъон"
-  },
-  {
-    "alternative form of \"къахьэуашъо\"": "къэхьыуашъо"
-  },
-  {
-    "coffee": "къэхьыо"
-  },
-  {
-    "alternative form of \"шъэджашъ\"": "шъэгьашъ"
+    "coffee": "кофе; къэхьыо"
   },
   {
     "hanger": "пылъалъэ"
-  },
-  {
-    "to encircle": "ш1ыхьан"
   },
   {
     "to wrap in": "к1оц1ыщыхьан"
