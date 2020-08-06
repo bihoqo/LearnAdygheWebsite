@@ -438,9 +438,6 @@
     "chest": "бгъэ (chest); бгъэгу (midchest); къутэ / пхъуантэ (box)"
   },
   {
-    "trunk": "пхъуантэ"
-  },
-  {
     "midchest": "бгъэгу"
   },
   {
@@ -1014,9 +1011,6 @@
     "beautiful": "дахэ; лъэгъупхъ (in sight, view, visually)"
   },
   {
-    "kind": "хъупхъэ"
-  },
-  {
     "cruel": "гупыт; жъалым; гук1эгъу зыхэмылъ; гук1эгъунчъэ; мэхъаджэ"
   },
   {
@@ -1312,9 +1306,6 @@
   },
   {
     "to incise": "хэу1эн"
-  },
-  {
-    "person": "ц1ыфы"
   },
   {
     "human": "ц1ыфы"
@@ -4449,7 +4440,7 @@
     "to be dizzy": "унэзэн; (Shapsug) прэзэн"
   },
   {
-    "to drink": "ешъон; хэшъон (to drink from a container directly or from a sea/river); ишъун (to drink up liquid from something); ишъук1ын (to completely drink up liquid from something)"
+    "to drink": "ешъон; хэшъон (to drink from a container directly or from a sea/river); ишъун (to drink up liquid from something); ишъук1ын (to completely drink up liquid from something); ешъук1ын (to be saturated after drinking)"
   },
   {
     "to gulp down": "псы ек1эхын (ащ псы рек1эхы - (s)he gulps down water)"
@@ -5073,15 +5064,6 @@
     "yarrow": "бэджак1э"
   },
   {
-    "to reel": "бэджыджэн"
-  },
-  {
-    "to stagger": "бэджыджэн"
-  },
-  {
-    "to sway on one's feet": "бэджыджэн"
-  },
-  {
     "to oscillate": "бэджыджэн"
   },
   {
@@ -5310,7 +5292,7 @@
     "fine fellow": "хъупхъэ; л1эхъупхъэ"
   },
   {
-    "kind": "хъупхъэ; огъурлы; ц1ыф дэгъу"
+    "kind": "хъупхъэ; огъурлы; ц1ыф дэгъу; л1акъо (kind, type, race)"
   },
   {
     "blessing": "бэрэчэт; хахъу"
@@ -6786,7 +6768,7 @@
     "money-box": "ахъщэ угъоилъ"
   },
   {
-    "dolphin": "делфин; псыкъу; хы псэушъхь"
+    "dolphin": "делфин; псыкъу; хы псэушъхь; хыкъо"
   },
   {
     "octopus": "псылъэхъу"
@@ -6927,7 +6909,7 @@
     "chainlet": "блэрыпс; пшъэхъужъый"
   },
   {
-    "to connect": "пыш1эн; зэпыш1эн (to connect together); зыпыш1эн (to connect oneself to)"
+    "to connect": "пыш1эн; зэпыш1эн (to connect together); зыпыш1эн (to connect oneself to); пыгъэхьан (to connect/attach someone with)"
   },
   {
     "kite": "жьыгъэбыб"
@@ -7419,7 +7401,7 @@
     "steppe": "бгъодж"
   },
   {
-    "to eat": "шхэн; шхын (to eat something); зыгъэшхэк1ын (to be full after eating); шӏошхын (to consume someone else's food); зэхэшхэхьан (to eat around)"
+    "to eat": "шхэн; шхын (to eat something); зыгъэшхэк1ын (to saturate oneself with food); шӏошхын (to consume someone else's food); зэхэшхэхьан (to eat around); шхэк1ын (to be saturated with food)"
   },
   {
     "poison": "щэнаут; уцыгъал1"
@@ -8289,7 +8271,7 @@
     "to curve": "1онт1эн (to be curved); гъэ1онт1эн (to curve something); гъэ1орт1эн (Shapsug); гъэщын"
   },
   { 
-    "crooked": "1онт1агъ; 1орт1агъ (Shapsug); къуащэ; лъэныкъуащ; гъэщыгъ"
+    "crooked": "1онт1агъ; 1орт1агъ (Shapsug); къуащэ; лъэныкъуащ; гъэщыгъ; лъэныкъуащ; тазэ, к1элъэныкъуащ"
   },
   {
     "curved": "1онт1агъ; 1орт1агъ (Shapsug); къуащэ; гъэщыгъ"
@@ -8828,7 +8810,7 @@
     "to go up": "дэк1оен (to go up); дэгъэк1оен (to make someone go up); ч1ык1ын (Shapsug)"
   },
   {
-    "to send": "гъэк1он (to send someone to); гъэхьын (to send something to)"
+    "to send": "гъэк1он (to send someone to); егъэхьын (to send something to); 1офытэн (to send someone to bring something)"
   },
   {
     "to drizzle": "т1эт1эн (to be drizzling); тет1эт1эн (to be drizzling on); тегъэт1эт1эн (to drizzle on)"
@@ -10403,7 +10385,7 @@
     "to look": "плъэн; еплъын (to look at); теплъэн (to look on); xэплъэн (to look among, to look inside an area with either gas, solid or liquid); дэплъэн (to look into); иплъэн (to look inside); пыплъэн (to look on clothes or tree); гоплъэн / бгъодэплъэн (to look besides); къоплъэн (to look behind); зэк1эплъэн / зэплъэк1ын (to look back); лъыплъэн (to look after); дэплъэен (to look up); еплъэхын (to look under); шъхьадэплъын (to look over); къэплъэхьан (to look around)"
   },
   {
-    "to get drunk": "утэшъон; шъхьэ убытын"
+    "to get drunk": "утэшъон; шъхьэ убытын; зешъок1ыжьын (to get drunk)"
   },
   {
     "to get intoxicated": "утэшъон; шъхьэ убытын"
@@ -13130,9 +13112,6 @@
     "to benefit": "иш1уагъэ ек1ын (to benefit from); иш1уагъэ пыхын (to take something beneficial from)"
   },
   {
-    "to set": "тегъэпсэхьан"
-  },
-  {
     "to wrap": "к1оц1ылъхьан; к1оц1ыщыхьан (to wrap around); къещыхьак1ын (to wrap around); щэхьын; щыхьан; къещэк1ын"
   },
   {
@@ -13320,9 +13299,6 @@
   },
   {
     "to sway": "к1эрэон; гъэк1эрэон (to sway something or someone)"
-  },
-  {
-    "to rock": "к1эрэон; гъэк1эрэон (to rock something or someone)"
   },
   {
     "pug nose": "пакъ"
@@ -13595,13 +13571,13 @@
     "to wear off": "шъо течъын (skin/color to wear off)"
   },
   {
-    "to outrun": "течъын; (slang) тебыбын (literally means: to outfly)"
+    "to outrun": "течъын; (slang) тебыбын (literally means: to outfly); ыпэ ишъын; к1ок1э тек1ын"
   },
   {
     "to outfly": "тебыбын"
   },
   {
-    "to outdistance": "течъын; тебыбын"
+    "to outdistance": "течъын; (slang) тебыбын; ыпэ ишъын; к1ок1э тек1ын"
   },
   {
     "only": "ны1эп"
@@ -15161,7 +15137,7 @@
     "to walk": "к1он (to walk, to walk to somewhere); щык1он (to walk in a certain area); дэк1оен (to walk up); ехын (to walk down); къэк1ухьан (to walk around, to roam, to stroll, to ramble); зэк1эк1он (to walk backward)"
   },
   {
-    "to go": "к1он (to walk, to go to somewhere); щык1он (to go in a certain area); дэк1оен (to go up); ехын (to go down); къэк1ухьан (to walk around, to roam, to stroll, to ramble); зэк1эк1он / къызэк1эк1он (to go backward); техьан (to go on); ч1эхьан (to go under); хэхьан (to go to an area with some liquid or gas); хэхьан (to go into a forest or field); хэхьан (to go through); хэхьан (to go among other people/objects); гохьан / бгъодэхьан (to go besides); ихьан (to go inside); дэхьан (to enter a defined area, such as a yard, village, area, etc.); дэхьан (to go between); к1оц1ыхьан (to go within inside something); къохьан (to go behind); шъхьадэхьан (to go over); шъхьапырык1ын (to go beyond)"
+    "to go": "к1он (to walk, to go to somewhere); щык1он (to go in a certain area); дэк1оен (to go up); ехын (to go down); къэк1ухьан (to walk around, to roam, to stroll, to ramble); зэк1эк1он / къызэк1эк1он (to go backward); техьан (to go on); ч1эхьан (to go under); хэхьан (to go to an area with some liquid or gas); хэхьан (to go into a forest or field); хэхьан (to go through); хэхьан (to go among other people/objects); гохьан / бгъодэхьан (to go besides); ихьан (to go inside); дэхьан (to enter a defined area, such as a yard, village, area, etc.); дэхьан (to go between); к1оц1ыхьан (to go within inside something); къохьан (to go behind); шъхьадэхьан (to go over); шъхьапырык1ын (to go beyond); фэ1офытэн (to go for someone to bring something)"
   },
   {
     "to come": "къэк1он; къыдэк1оен (to come up); къехын (to come down); къытехьан (to come on); къыч1эхьан (to come under); къыхэхьан (to come to an area with some liquid or gas); къыхэхьан (to come into a forest or field); хэхьан (to come through); къыхэхьан (to come among other people/objects); къыгохьан / къыбгъодэхьан (to come besides); къыихьан (to come inside); къыдэхьан (to enter a defined area, such as a yard, village, area, etc.); къыдэхьан (to come between); къык1оц1ыхьан (to come within inside something)"
@@ -16079,22 +16055,22 @@
     "net": "хъы"
   },
   {
-    "to make a little joke, to poke fun": "к1энэк1эн"
+    "disability": "сэкъатныгъ"
   },
   {
-    "to infect someone else": "пыгъэхьан"
+    "to poke fun": "к1энэк1эн"
   },
   {
-    "to connect someone with": "пыгъэхьан"
+    "to infect": "пыгъэхьан (to infect someone else)"
   },
   {
-    "back of the neck": "пшъэб"
+    "stoned": "(slang) егъэуагъ"
   },
   {
-    "(slang) stoned, high on drugs, especially cannabis (weed)": "егъэуагъ"
+    "noble": "оркъ"
   },
   {
-    "noble, nobleman (a man of noble rank)": "оркъ"
+    "nobleman": "оркъ"
   },
   {
     "noble clan": "л1экъолъэш"
@@ -16103,46 +16079,22 @@
     "clan": "л1акъо"
   },
   {
-    "kind": "л1акъо"
-  },
-  {
-    "to consume a lot of liquid": "зешъок1ыжьын"
-  },
-  {
-    "to get wasted; to get drunk": "зешъок1ыжьын"
-  },
-  {
-    "to be full (after eating)": "шхэк1ын"
-  },
-  {
-    "to be saturated with food": "шхэк1ын"
-  },
-  {
-    "to eat until one gets full; to eat plenty (of)": "зыгъэшхэк1ын"
-  },
-  {
-    "to saturate oneself with food": "зыгъэшхэк1ын"
-  },
-  {
-    "to be full (after drinking)": "ешъук1ын"
-  },
-  {
-    "to be saturated with liquid": "ешъук1ын"
-  },
-  {
-    "to drink until one gets full; to drink plenty (of)": "зегъэшъук1ын"
-  },
-  {
-    "to saturate oneself with liquid": "зегъэшъук1ын"
+    "to get wasted": "зешъок1ыжьын"
   },
   {
     "wound": "у1агъэ"
   },
   {
-    "suitcase, trunk": "чэмэдан"
+    "suitcase": "чэмэдан"
   },
   {
-    "kingdom, realm": "пачъыхьагъо"
+    "trunk": "пхъуантэ; чэмэдан"
+  },
+  {
+    "kingdom": "пачъыхьагъо"
+  },
+  {
+    "realm": "пачъыхьагъо"
   },
   {
     "reign": "пачъыхьагъо"
@@ -16151,22 +16103,31 @@
     "married couple": "зэл1-зэшъуз"
   },
   {
-    "to stagger, to reel, to sway on one's feet": "щэо-пл1эон"
+    "to stagger": "бэджыджэн; щэо-пл1эон"
   },
   {
-    "to rock (from time to time)": "щэо-пл1эон"
+    "to reel": "бэджыджэн; щэо-пл1эон"
   },
   {
-    "false (untrue, not factual, wrong)": "нэпц1ы"
+    "to rock": "к1эрэон; гъэк1эрэон (to rock something or someone); щэо-пл1эон (to rock from time to time)"
   },
   {
-    "fallacious (deceptive or misleading, mistaken)": "нэпц1ы"
+    "false": "нэпц1ы"
+  },
+  {
+    "untrue": "нэпц1ы"
+  },
+  {
+    "fallacious": "нэпц1ы (deceptive or misleading, mistaken)"
   },
   {
     "false news": "къэбарыпц1ы"
   },
   {
-    "news, piece of news": "къэбар"
+    "news": "къэбар"
+  },
+  {
+    "piece of news": "къэбар"
   },
   {
     "tidings": "къэбар"
@@ -16175,85 +16136,73 @@
     "narrative; story": "къэбар"
   },
   {
-    "alternative form of \"къэбар\"": "хъэбар"
+    "interlocutor": "гущы1эгъу"
   },
   {
-    "interlocutor, talking partner": "гущы1эгъу"
+    "talking partner": "гущы1эгъу"
   },
   {
-    "time for conversation; time for talk": "гущы1эгъу"
+    "to book": "тхэхьын (police)"
   },
   {
-    "to book; to fine (police)": "тхэхьын"
-  },
-  {
-    "to send someone to bring something": "1офытэн"
+    "to fine": "тхэхьын (police)"
   },
   {
     "to go for someone to bring something": "фэ1офытэн"
   },
   {
-    "to play Shkapshina for someone": "шык1эпшынэ къыфеон"
-  },
-  {
-    "(slang) to complain to someone repeatedly (to the point of annoyance)": "шык1эпшынэ къыфеон"
-  },
-  {
-    "byre (for cows)": "чэмы1о"
+    "byre": "чэмы1о (for cows)"
   },
   {
     "borders of a field": "хьасэтх"
   },
   {
-    "pergola, arbour, arcade, bower": "ч1ыбгъэ"
+    "pergola": "ч1ыбгъэ"
   },
   {
-    "alternative form of \"бгъашхъо\"": "бгъашъухъо"
+    "arbor": "ч1ыбгъэ"
   },
   {
-    "impatient": "гузэжъопх"
+    "arcade": "ч1ыбгъэ"
   },
   {
-    "hurry, hasten": "ш1уабэ"
+    "bower": "ч1ыбгъэ"
   },
   {
-    "to hurry, to be in a hurry, to hasten": "ыш1уабэ мэш1эн"
+    "impatient": "гузэжъопх; щы1эныгъэ зыхэмылъэр"
+  },
+  {
+    "hurry": "ш1уабэ"
+  },
+  {
+    "hasten": "ш1уабэ"
   },
   {
     "to weave": "шъэн"
   },
   {
-    "alternative form of \"хыкъо\"": "хыкъу"
+    "well-dressed": "к1эрак1 (of a person)"
   },
   {
-    "well-dressed (of a person)": "к1эрак1"
+    "to capsize": "ушъорэк1ын; еук1орэик1ын"
   },
   {
-    "to overturn, to tip over, to capsize": "ушъорэк1ын"
+    "to tip over": "ушъорэк1ын; еук1орэик1ын"
   },
   {
-    "to overturn, to tip over, to capsize": "еук1орэик1ын"
+    "to overturn": "ушъорэк1ын; еук1орэик1ын"
   },
   {
-    "to outrun, to outdistance": "ыпэ ишъын"
-  },
-  {
-    "to outrun, to outdistance": "к1ок1э тек1ын"
-  },
-  {
-    "dolphin": "хыкъо"
+    "to outrun": "ыпэ ишъын; к1ок1э тек1ын"
   },
   {
     "addition": "ехъу"
   },
   {
-    "shore, coast, seaboard, littoral": "1ушъо"
-  },
-  {
     "seaboard": "хы1ушъо"
   },
   {
-    "to dip": "хэгъэон; ч1эгъэон"
+    "to dip": "хэгъэон"
   },
   {
     "to quench": "хэгъэон"
@@ -16262,22 +16211,25 @@
     "warthog": "къожъ"
   },
   {
-    "distrustful, incredulous, mistrustful, suspicious": "цыхьэмыш1"
+    "distrustful": "цыхьэмыш1"
   },
   {
-    "person (used when the amount of people in a sentence is important)": "нэбгыр"
+    "incredulous": "цыхьэмыш1"
+  },
+  {
+    "mistrustful": "цыхьэмыш1"
+  },
+  {
+    "suspicious": "цыхьэмыш1"
+  },
+  {
+    "person": "ц1ыфы; нэбгыр (used when the amount of people in a sentence is important); (Shapsug) нэбгы"
   },
   {
     "grandchildren (on the line of the daughter); one's daughter's children": "пхъурылъф"
   },
   {
-    "to push one another, to jostle": "1унк1эн"
-  },
-  {
-    "alternative form of \"1унк1эн\"": "е1унк1ын"
-  },
-  {
-    "to push, to shove, to thrust": "т1ыргун"
+    "to push": "1унк1эн (to push someone); т1ыргун (to push someone); (Shapsug) егук1эн"
   },
   {
     "gallop": "хьапк1"
@@ -16286,16 +16238,16 @@
     "galop": "хьапк1"
   },
   {
-    "alternative form of \"лыдын\"": "къэлыдын"
-  },
-  {
     "to shine rapidly": "ц1ыотэн"
   },
   {
     "to jump rapidly": "пк1этэн"
   },
   {
-    "ray, beam": "нэбзый"
+    "ray": "нэбзый"
+  },
+  {
+    "beam": "нэбзый"
   },
   {
     "crookedly": "къуащэу; 1онт1агъэу; 1орт1агъэу (Shapsug); къонц1эу; лъэныкъуащэу"
@@ -16304,34 +16256,34 @@
     "awry": "къуащэу"
   },
   {
-    "crooked, curved, wry, bent": "лъэныкъуащ"
+    "bushes": "шъхьанд; куанд"
   },
   {
-    "bushes, shrubs, shrubbery": "шъхьанд"
+    "shrubs": "шъхьанд; куанд"
   },
   {
-    "drake, male duck": "псычэтыхъу"
+    "shrubbery": "шъхьанд; куанд"
   },
   {
-    "to fix something forcefully upon": "тегъэпытахьын"
+    "drake": "псычэтыхъу"
   },
   {
-    "to be strict": "тегъэпытахьын"
+    "male duck": "псычэтыхъу"
   },
   {
-    "to be punctilious": "тегъэпытахьын"
+    "to be precise": "тегъэпытахьан"
   },
   {
-    "to aim at something": "тегъэпсыхьан"
+    "to be strict": "тегъэпытахьан"
   },
   {
-    "to point at something": "тегъэпсыхьан"
+    "to be punctilious": "тегъэпытахьан"
   },
   {
     "to fix a clock": "тегъэпсыхьан"
   },
   {
-    "to set (machines)": "тегъэпсыхьан"
+    "to set": "тегъэпсыхьан (machines)"
   },
   {
     "to plan on; to anticipate future actions based on": "тегъэпсыхьан"

@@ -39623,6 +39623,18 @@
     "ipa": "daːʁʷa"
   },
   {
+    "word": "ныкъо-тыркъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "deficient",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "nəqʷa-tərqʷə"
+  },
+  {
     "word": "дап1э",
     "lang": "Adyghe",
     "definitions": [
@@ -70969,23 +70981,6 @@
     "ipa": "jəʃʷʼaːʁa jat͡ʃʼən"
   },
   {
-    "word": "тегъэпсэхьан",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to set",
-        "examples": [
-          {
-            "sentence": "Сэхьатыр щым '''тегъэпсахь'''",
-            "translation": "'''Set''' the clock to three."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "taʁapsaħaːn"
-  },
-  {
     "word": "к1ыщ",
     "lang": "Adyghe",
     "definitions": [
@@ -90568,10 +90563,6 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to stagger, to reel, to sway on one's feet",
-        "examples": []
-      },
-      {
         "meaning": "to rock (from time to time)",
         "examples": []
       }
@@ -91190,7 +91181,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to push one another, to jostle",
+        "meaning": "to push one another",
         "examples": [
           {
             "sentence": "К1алэр '''е1унк1э''' 1анэм",
@@ -91384,7 +91375,7 @@
     "ipa": "psət͡ʃatəχʷ"
   },
   {
-    "word": "тегъэпытахьын",
+    "word": "тегъэпытахьан",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -91453,6 +91444,10 @@
           {
             "sentence": "Къубылыр '''тегъэпысыхьан'''",
             "translation": "'''To set''' the bomb."
+          },
+		  {
+            "sentence": "Сэхьатыр щым '''тегъэпысахь'''",
+            "translation": "'''Set''' the clock to three."
           }
         ]
       },
