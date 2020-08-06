@@ -30710,16 +30710,17 @@
       {
         "meaning": "iridescent",
         "examples": []
-      }{
+      },
+	  {
         "meaning": "something that changes colors",
         "examples": []
       },
       {
-        "meaning": "color shifting",
+        "meaning": "everchanging color",
         "examples": [
           {
             "sentence": "Уашъор '''шъотехьэ-тек1'''",
-            "translation": "The sky is '''shifting (in color)'''."
+            "translation": "The sky is '''everchanging (in color)'''."
           }
         ]
       }
@@ -30738,6 +30739,18 @@
     ],
     "type": "noun",
     "ipa": "aːrχʷaːʐ"
+  },
+  {
+    "word": "зыпкъ ит",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "steady; stable",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "zəpq jət"
   },
   {
     "word": "джэмышх",
@@ -83972,7 +83985,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "guard, watchman",
+        "meaning": "guard, watchman (guarding grain, garden and melon crops)",
         "examples": []
       }
     ],
@@ -83983,15 +83996,6 @@
     "word": "пэсын",
     "lang": "Adyghe",
     "definitions": [
-      {
-        "meaning": "to guard, to watch over",
-        "examples": [
-          {
-            "sentence": "Тучаным '''пэсын'''",
-            "translation": "'''To watch over''' the shop."
-          }
-        ]
-      },
       {
         "meaning": "to be on the watch (for), to lie in wait (for), to waylay",
         "examples": [
@@ -84006,7 +84010,11 @@
         "examples": [
           {
             "sentence": "Ц1ыфым '''спэсыгъ'''",
-            "translation": "'''I expecting for''' the man."
+            "translation": "'''I was waiting for''' the man."
+          },
+		  {
+            "sentence": "К1алэм '''спэс'''",
+            "translation": "'''I am expecting''' the boy [to come now]."
           }
         ]
       },
@@ -84138,7 +84146,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to spare someone of (for example: from a punishment or debt)",
+        "meaning": "to spare/forgive someone of (a grudge, punishment, debt, etc.)",
         "examples": [
           {
             "sentence": "О непэ '''къыплъэхэнэщт'''",
@@ -84169,7 +84177,12 @@
       },
       {
         "meaning": "to get out of the habit (of), to break oneself of the habit (of)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ымылъэгъузэ бэ теш1агъэти къорылъфыр ятэжъы '''щыугъ'''",
+            "translation": "Since they haven't seem each other for a long time, the grandson got out of the habit [of meeting/thinking about] his grandfather."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -84492,7 +84505,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to get through, to wriggle through, to climb through, to squeeze through",
+        "meaning": "to get through, to wriggle through, to squeeze through",
         "examples": [
           {
             "sentence": "Гъуанэм '''ипшын'''",
@@ -84503,6 +84516,48 @@
     ],
     "type": "verb",
     "ipa": "jəpʃən"
+  },
+  {
+    "word": "зэ1ыш1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to mix; to mix up; to blend",
+        "examples": [
+          {
+            "sentence": "Шхыныхэр '''зэ1ыш1эных'''",
+            "translation": "'''To mix''' foods."
+          },
+		  {
+            "sentence": "К1алэм шъохэр '''зэ1иш1агъэх'''",
+            "translation": "The man '''mixed''' the colors."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaʔəʃʼan"
+  },
+  {
+    "word": "зэхэгъэк1ухьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to mix; to mix up; to blend",
+        "examples": [
+          {
+            "sentence": "Шхыныхэр '''зэхэгъэк1ухьаных'''",
+            "translation": "'''To mix''' foods."
+          },
+		  {
+            "sentence": "К1алэм шъохэр '''зэ1иш1агъэх'''",
+            "translation": "The man '''mixed''' the colors."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaxaʁakʷʼəħaːn"
   },
   {
     "word": "фэпщэн",
@@ -84840,10 +84895,6 @@
       },
       {
         "meaning": "to teach good manners, to teach good behavior",
-        "examples": []
-      },
-      {
-        "meaning": "to calm, to quiet, to soothe",
         "examples": []
       }
     ],
@@ -85688,10 +85739,6 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "match",
-        "examples": []
-      },
-      {
         "meaning": "trip, journey, travel",
         "examples": []
       }
@@ -85756,17 +85803,25 @@
         "examples": []
       },
       {
-        "meaning": "kin (from which one is originated), origin kin",
-        "examples": []
-      },
-      {
-        "meaning": "type, variety",
+        "meaning": "kin (from which one is originated); origin",
         "examples": []
       }
     ],
     "cognate": "л1эужьыгъуэ",
     "type": "noun",
     "ipa": "ɬʼawʒəʁʷa"
+  },
+  {
+    "word": "зэмыл1эужыгъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "variety; various; diverse",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "zaməɬʼawʒəʁʷa"
   },
   {
     "word": "л1экъуац1э",
@@ -85798,6 +85853,30 @@
     ],
     "type": "verb",
     "ipa": "qədakʷʼəħaːn"
+  },
+  {
+    "word": "гушъхьэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "auricle (of the heart); atrium (chamber of the heart)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "gʷəʂħa"
+  },
+  {
+    "word": "гушхьабж",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "heartburn (a burning pain in the chest that is caused by stomach acid entering the gullet)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "gʷəʂħaːbʒ"
   },
   {
     "word": "къэк1ухьан",
@@ -85989,10 +86068,6 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to become anxious / uneasy",
-        "examples": []
-      },
-      {
         "meaning": "to run back and forth",
         "examples": []
       }
@@ -86007,10 +86082,6 @@
     "word": "шъхьачъэ-лъэчъэн",
     "lang": "Adyghe",
     "definitions": [
-      {
-        "meaning": "to become anxious / uneasy",
-        "examples": []
-      },
       {
         "meaning": "to run back and forth",
         "examples": []
@@ -86254,7 +86325,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to think, to believe, to suppose",
+        "meaning": "to think about, to consider",
         "examples": [
           {
             "sentence": "университетым ч1эхьан ащ '''ихьисап'''",
@@ -86290,15 +86361,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "changeable",
-        "examples": []
-      },
-      {
-        "meaning": "shifting often",
-        "examples": []
-      },
-      {
-        "meaning": "impermanent, inconstant",
+        "meaning": "everchanging (frequently or constantly changing)",
         "examples": []
       }
     ],
@@ -86436,7 +86499,7 @@
         "examples": []
       },
       {
-        "meaning": "to have the opportunity or change to",
+        "meaning": "to have the opportunity or chance to",
         "examples": []
       }
     ],
@@ -86452,7 +86515,7 @@
         "examples": []
       },
       {
-        "meaning": "to have the opportunity or change to",
+        "meaning": "to have the opportunity or chance to",
         "examples": []
       }
     ],
@@ -87045,10 +87108,6 @@
       {
         "meaning": "attention",
         "examples": []
-      },
-      {
-        "meaning": "order (oral), command",
-        "examples": []
       }
     ],
     "cognate": "унафэ",
@@ -87077,10 +87136,6 @@
     "definitions": [
       {
         "meaning": "stack",
-        "examples": []
-      },
-      {
-        "meaning": "sun",
         "examples": []
       }
     ],
@@ -87695,10 +87750,6 @@
       {
         "meaning": "mud",
         "examples": []
-      },
-      {
-        "meaning": "dirt (stain or spot (on clothes etc))",
-        "examples": []
       }
     ],
     "type": "noun",
@@ -88100,18 +88151,6 @@
     ],
     "type": "noun",
     "ipa": "kʷʼaːʃʷa"
-  },
-  {
-    "word": "хьэцэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "dog hair",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ħat͡sa"
   },
   {
     "word": "лъфын",
@@ -88832,10 +88871,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "place of turning; turning zone",
+        "meaning": "turn",
         "examples": [
           {
-            "sentence": "'''Къэгъэзэгъум''' ухьэмэ, джабгъом зеты",
+            "sentence": "'''Къэгъэзэгъум''' уихьэмэ, джабгъом зеты",
             "translation": "When you enter '''the turning zone''', to right."
           }
         ]
@@ -89750,10 +89789,6 @@
       {
         "meaning": "playful",
         "examples": []
-      },
-      {
-        "meaning": "reckless",
-        "examples": []
       }
     ],
     "type": "adj",
@@ -89835,6 +89870,10 @@
     "definitions": [
       {
         "meaning": "specialty, profession (that in which one specializes)",
+        "examples": []
+      },
+	  {
+        "meaning": "habit",
         "examples": []
       }
     ],
@@ -94663,7 +94702,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to disarray",
+        "meaning": "to disarray; to disorder; to make a mess",
         "examples": [
           {
             "sentence": "Си ку '''зэ1эбгъахьагъ'''",
@@ -102255,5 +102294,53 @@
     ],
     "type": "verb",
     "ipa": "ʔa ɕəfan"
+  },
+  {
+    "word": "тхыкъупшъхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "vertebra",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "тхы1упк1ан",
+      "пшъэ1упк1ан"
+    ],
+    "type": "noun",
+    "ipa": "txəqʷəpʂħaːn"
+  },
+  {
+    "word": "тхы1упк1ан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "vertebra",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "тхыкъупшъхьан",
+      "пшъэ1упк1ан"
+    ],
+    "type": "noun",
+    "ipa": "txəʔʷəpt͡ʃʼaːn"
+  },
+  {
+    "word": "пшъэ1упк1ан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "vertebra",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "тхы1упк1ан",
+      "тхыкъупшъхьан"
+    ],
+    "type": "noun",
+    "ipa": "pʂaʔʷəpt͡ʃʼaːn"
   }
 ]
