@@ -91600,11 +91600,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "administrator, manager, steward (one who administers affairs)",
-        "examples": []
-      },
-      {
-        "meaning": "master of ceremonies, host",
+        "meaning": "master of ceremonies, manager",
         "examples": []
       }
     ],
@@ -91685,11 +91681,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to unstitch, to tear at the seams",
-        "examples": []
-      },
-      {
-        "meaning": "to rip open (skin, a body part, etc.) with a sharp object",
+        "meaning": "to rip (a garment) at the seams, to unstitch",
         "examples": []
       }
     ],

@@ -2325,9 +2325,6 @@
     "close friend": "благъэ"
   },
   {
-    "relative": "благъэ; 1ахьыл"
-  },
-  {
     "friend": "ныбджэгъу; шъэогъу (boyfriend); пшъэшъэгъу (girlfriend); гъусэ (Kfar Kama dialect); гъусэк1алэ (Kfar Kama dialect, boyfriend); гъусэпшъагъэ (Kfar Kama dialect, girlfriend)"
   },
   {
@@ -4047,7 +4044,7 @@
     "dumb": "бзако (unable to speak); бзэмы1у (unable to communicate due to language barrier); шъхьэныкъо (stupid)"
   },
   {
-    "to plan": "гъэпсын; план гъэуцун, план зэхэлъхьан"
+    "to plan": "гъэпсын; план гъэуцун; план зэхэлъхьан"
   },
   {
     "to aim": "гъэпсын (to start aiming); тегъэпсыхьан (to aim at); фэгъэпсын (to aim at)"
@@ -6249,9 +6246,6 @@
     "master": "тхьаматэ; зыер"
   },
   {
-    "manager": "пащ; 1эшъхьэтет"
-  },
-  {
     "chairman": "тхьаматэ"
   },
   {
@@ -6876,7 +6870,7 @@
     "ploughshare": "цуабзэ"
   },
   {
-    "share": "цуабзэ (ploughshare); 1ахь (someons's part, portion or share)"
+    "share": "1ахь (someons's part, portion or share)"
   },
   {
     "to share": "гощын; угощын; дэугощын (to share with); фэугощын (to share for)"
@@ -7473,7 +7467,7 @@
     "to get stuck": "дэнэн (to get stuck between); хэнэн (to get stuck in a company, bushes, forest, liquid, gas or solid); тенэн (to get stuck on above something); инэн (to get stuck inside something); ч1энэн (to get stuck under something); пынэн (to get stuck and undetachable); дэп1ыт1эн (to get stuck and squeezed in a narrow place or hole)"
   },
   {
-    "to stick": "дэгъэнэн (to stick between); хэгъэнэн (to make someone stuck in a company, bushes, forest, liquid, gas or solid); тегъэнэн (to stick on above something); игъэнэн (to stick inside something); ч1эгъэнэн (to stick under something); тепк1эн (to get glued on); тегъэпк1эн (to glue something on something); ч1эпк1эн (to get glued under); ч1эгъэпк1эн (to glue something under something); ипк1эн (to get glued inside); игъэпк1эн (to glue something inside something); пыпк1эн (to get glued on the surface of an object); пыгъэпк1эн (to glue something on the surface of an object); дэпк1эн (to get glued inside another object); дэгъэпк1эн (to glue something inside another object); естыл1эн (to stick to the hot surface as a result of burning)"
+    "to stick": "дэгъэнэн (to stick between); хэгъэнэн (to make someone stuck in a company, bushes, forest, liquid, gas or solid); тегъэнэн (to stick on above something); игъэнэн (to stick inside something); ч1эгъэнэн (to stick under something); тепк1эн (to get stick/glued on); тегъэпк1эн (to stick/glue something on something); ч1эпк1эн (to get glued under); ч1эгъэпк1эн (to stick/glue something under something); ипк1эн (to get stick/glued inside); игъэпк1эн (to stick/glue something inside something); пыпк1эн (to get stick/glued on the surface of an object); пыгъэпк1эн (to stick/glue something on the surface of an object); дэпк1эн (to get stick/glued inside another object); дэгъэпк1эн (to stick/glue something inside another object); естыл1эн (to stick to the hot surface as a result of burning)"
   },
   {
     "to jam": "дэгъэнэн (to jam between); хэгъэнэн (to jam something in an area with liquid, gas or solid); тегъэнэн (to jam on above something); игъэнэн (to jam inside something); ч1эгъэнэн (to jam under something)"
@@ -8713,9 +8707,6 @@
   },
   {
     "clearly": "нафэу; зэхэугуфык1ыгъэу"
-  },
-  {
-    "clever": "1уш (intelligent person); 1упк1э (expressive)"
   },
   {
     "to illuminate": "гъэнэфэн"
@@ -10145,6 +10136,21 @@
     "to figure out": "къэш1эн (to figure out the correct answer)"
   },
   {
+    "to be correct": "къэш1эн (to figure out the correct answer)"
+  },
+  {
+    "to foresee": "къэхъущт-къэш1эщтыр къэш1эн"
+  },
+  {
+    "to foreknow": "къэхъущт-къэш1эщтыр къэш1эн"
+  },
+  {
+    "to guess": "къэш1эн ӏон (to try to guess right); къэш1эн (to guess right); къэмыш1эн (to guess wrong)"
+  },
+  {
+    "to guess right": "къэш1эн"
+  },
+  {
     "to recognize": "къэш1эжьын"
   },
   {
@@ -10451,7 +10457,7 @@
     "to come to terms": "еш1ужьын (to make peace with someone); зэш1ужьын (to make peace with each other)"
   },
   {
-    "to resolve": "еш1ужьын (to make peace with someone); зэш1ужьын (to make peace with each other)"
+    "to resolve": "еш1ужьын (to make peace with someone); зэш1ужьын (to make peace with each other); зэш1охын (to resolve tasks)"
   },
   {
     "to forgive": "фэгъэгъун; еш1ужьын (to make peace with someone); зэш1ужьын (to make peace with each other)"
@@ -12585,7 +12591,7 @@
     "to be satisfied": "зэгъэн; разэу хъун; гъэрэзэн (to satisfy someone)"
   },
   {
-    "to be pleased": "зэгъэн; разэу хъун; гъэрэзэн (to please someone)"
+    "to be pleased": "зэгъэн (to be pleased); разэу хъун (to become pleased); гъэрэзэн (to please someone); фэрэзэн (to be pleased with)"
   },
   {
     "have a nice day": "гъогу маф"
@@ -13001,7 +13007,7 @@
     "to treat": "дэзек1он (to treat someone with a certian behavior)"
   },
   {
-    "to deal with": "дэзек1он (to deal with someone with a certian behavior)"
+    "to deal with": "дэзек1он (to deal with someone with a certian behavior); езэгъын (to be able to deal with)"
   },
   {
     "to act like": "зек1он"
@@ -16181,7 +16187,7 @@
     "to weave": "шъэн"
   },
   {
-    "well-dressed": "к1эрак1 (of a person)"
+    "well-dressed": "зэгъэфагъ; к1эрак1эу фэпэгъэ; к1эрак1; дахэу фэпэгъэ; дахэу зэгъэфагъэ; щыгъын дах зыщыгъэр"
   },
   {
     "to capsize": "ушъорэк1ын; еук1орэик1ын"
@@ -16191,9 +16197,6 @@
   },
   {
     "to overturn": "ушъорэк1ын; еук1орэик1ын"
-  },
-  {
-    "to outrun": "ыпэ ишъын; к1ок1э тек1ын"
   },
   {
     "addition": "ехъу"
@@ -16286,97 +16289,64 @@
     "to set": "тегъэпсыхьан (machines)"
   },
   {
-    "to plan on; to anticipate future actions based on": "тегъэпсыхьан"
-  },
-  {
-    "to patch; to mend by sewing on a piece or pieces of cloth, leather, or the like": "тедэжьын"
+    "to patch": "тедэжьын; хэдэжьын"
   },
   {
     "bandage": "тепхэ"
   },
   {
-    "to glue on; to stick on": "тегъэпк1эн"
+    "to glue on": "тегъэпк1эн"
   },
   {
-    "to patch": "тегъэпк1эн"
+    "to stick on": "тегъэпк1эн"
   },
   {
-    "to attempt to do something as perfect as possible": "мэстэ гъуанэм ригъэк1ын"
+    "perfect": "игъэкъугъэ"
   },
   {
     "free peasant": "фэкъол1"
   },
   {
-    "middle (centre, midpoint)": "гупч"
-  },
-  {
     "festival manager": "хьатыяк1о"
   },
   {
-    "administrator, manager, steward (one who administers affairs)": "унэшъош1ы"
+    "manager": "унэшъош1ы (master of ceremonies); пащ; 1эшъхьэтет"
   },
   {
-    "master of ceremonies, host": "унэшъош1ы"
+    "part": "щыщ (part of); 1ахь (someons's part, portion or share)"
   },
   {
-    "share; part; portion": "1ахь"
+    "portion": "щыщ (portion of); 1ахь (someons's part, portion or share)"
   },
   {
-    "to recognize themselves": "зыкъэш1эжьын"
+    "to recognize": "зыкъэш1эжьын (to recognize themselves)"
   },
   {
     "to come to one's senses": "зыкъэш1эжьын"
   },
   {
-    "to unstitch, to tear at the seams": "гъэт1эп1ын"
-  },
-  {
-    "to rip open (skin, a body part, etc.) with a sharp object": "гъэт1эп1ын"
-  },
-  {
-    "clever": "губзыгъ"
-  },
-  {
-    "laundry (machine)": "гык1алъэ"
+    "to tear at the seams": "гъэт1эп1ын"
   },
   {
     "witness": "шыхьат"
   },
   {
-    "alternative form of \"шыхьатэу теуцон\"": "шыхьатэу утеуцон"
+    "eye-witness": "шыхьат"
   },
   {
-    "to be pleased with": "фэрэзэн"
+    "relative": "благъэ; 1ахьыл (someone in the same family; someone connected by blood, marriage, or adoption)"
   },
   {
-    "to run away, to flee": "к1э1эн"
+    "to cope with": "езэгъын (to be able to cope with)"
   },
   {
-    "to pour in": "к1эк1эн"
+    "to dismantle": "зэш1охын (to dismantle stuff from each other)"
   },
   {
-    "relative (someone in the same family; someone connected by blood, marriage, or adoption)": "1ахьыл"
+    "to let out": "игъэк1ын; ч1эгъэк1ын"
   },
   {
-    "to resolve tasks": "зэш1охын"
-  },
-  {
-    "to cope (with); to deal effectively with something, especially if difficult": "зэш1охын"
-  },
-  {
-    "to dismantle stuff from each other": "зэш1охын"
-  },
-  {
-    "alternative form of \"зэпэч1эк1ын\"": "зэпэк1эк1ын"
-  },
-  {
-    "to let out, to let go, to release, to set free": "ч1эгъэк1ын"
-  },
-  {
-    "to let someone get out from under something": "ч1эгъэк1ын"
-  },
-  {
-    "to solve": "ч1эгъэк1ын"
+    "to solve": "джэуат етын"
   },
   {
     "to let someone raise up": "ч1эгъэк1ын"
