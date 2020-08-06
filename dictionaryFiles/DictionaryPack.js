@@ -46666,31 +46666,6 @@
     "ipa": "qaʁat͡ʃaħən"
   },
   {
-    "word": "къэгъэк1охьан",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to circle",
-        "examples": [
-          {
-            "sentence": "Тестымк1э джэуап тэрэзэр '''къэшъугъэк1охь'''",
-            "translation": "In the test circle the right answer."
-          },
-          {
-            "sentence": "'''къэгъэк1охь''' мэлхэр",
-            "translation": "'''Circle''' the sheeps."
-          },
-          {
-            "sentence": "'''къэсэгъэк1охьы''' чъыгыхэр",
-            "translation": "'''I circle''' the trees."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "qaʁakʷʼaħaːn"
-  },
-  {
     "word": "псэун",
     "lang": "Adyghe",
     "definitions": [
@@ -78914,7 +78889,7 @@
     "ipa": "ɬfəʁa"
   },
   {
-    "word": "к1элэ-гъуалэ",
+    "word": "к1элэ-гъуалэхэр",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -78922,9 +78897,9 @@
         "examples": []
       }
     ],
-    "cognate": "щ1элэ-гъуалэ",
+    "cognate": "щ1элэ-гъуалэхэр",
     "type": "noun",
-    "ipa": "t͡ʃʼala ʁʷaːɮa"
+    "ipa": "t͡ʃʼaɮa ʁʷaːɮaxar"
   },
   {
     "word": "папк1э",
@@ -79356,11 +79331,11 @@
     "ipa": "ɣərzən"
   },
   {
-    "word": "къэпш1ын",
+    "word": "къэпшъын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"пш1ын\"",
+        "meaning": "alternative form of \"пшъын\"",
         "examples": []
       }
     ],
@@ -79368,25 +79343,25 @@
     "ipa": "qapʃʼən"
   },
   {
-    "word": "пш1ын",
+    "word": "пшъын",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to get tired",
         "examples": [
           {
-            "sentence": "'''Сыпш1ыгъ'''",
+            "sentence": "'''Сыпшъыгъ'''",
             "translation": "'''I got tired'''."
           },
 		  {
-            "sentence": "Бэрэ учъымэ '''упш1ыщт'''",
+            "sentence": "Бэрэ учъымэ '''упшъыщт'''",
             "translation": "If you run a lot '''you will get tired'''."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "pʃʼən"
+    "ipa": "pʂən"
   },
   {
     "word": "щэ1ун",
@@ -91988,10 +91963,6 @@
       {
         "meaning": "stuffily (in a poorly-ventilated and close manner)",
         "examples": []
-      },
-      {
-        "meaning": "sultriness, closeness, stuffiness, sultry / stuffy air",
-        "examples": []
       }
     ],
     "type": "noun",
@@ -92046,14 +92017,39 @@
       {
         "meaning": "to clog",
         "examples": []
-      },
-      {
-        "meaning": "to hobble",
-        "examples": []
       }
     ],
     "type": "verb",
     "ipa": "ɬaχan"
+  },
+  {
+    "word": "елъэщэон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to be lame; to limp",
+        "examples": [
+          {
+            "sentence": "Инэу '''елъэщао'''",
+            "translation": "severely '''lame'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "jaɬaɕawan"
+  },
+  {
+    "word": "лъэщэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to be lame; to limp",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɬaɕan"
   },
   {
     "word": "къырик1он",
@@ -92894,7 +92890,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to have the instance of urinating.",
+        "meaning": "to have the urgue to pee, to have the urgue to urinate",
         "examples": [
           {
             "sentence": "Cэ '''сызыпэгъотхьажьы'''",
@@ -93072,29 +93068,41 @@
     "ipa": "ʁat͡ʃʼən"
   },
   {
-    "word": "къэгъэк1охьын",
+    "word": "къэгъэк1ухьан",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to circle something; to surround something",
         "examples": [
           {
-            "sentence": "Тиунэр къэцык1э '''къэгъэк1охьыгъ'''",
+            "sentence": "Тиунэр къэцык1э '''къэгъэк1ухьагъ'''",
             "translation": "My house '''is surrounded''' with thorns."
           },
           {
-            "sentence": "Джэуап тэрэзыр '''къэгъэк1охь'''",
+            "sentence": "Джэуап тэрэзыр '''къэгъэк1ухь'''",
             "translation": "'''Circle''' the right answer."
           },
           {
-            "sentence": "Ц1ыфы дедэхэмк1э '''сыкъэгъэк1охьыгъ'''",
+            "sentence": "Ц1ыфы делэк1э '''сыкъэгъэк1ухьагъ'''",
             "translation": "'''I am surrounded''' with foolish people."
+          },
+		  {
+            "sentence": "Тестымк1э джэуап тэрэзэр '''къэшъугъэк1ухь'''",
+            "translation": "In the test '''circle''' the right answer."
+          },
+          {
+            "sentence": "'''Къэгъэк1ухь''' мэлхэр",
+            "translation": "'''Circle''' the sheeps."
+          },
+          {
+            "sentence": "'''Къэсэгъэк1ухьы''' чъыгыхэр",
+            "translation": "'''I circle''' the trees."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "qaʁakʷʼaħən"
+    "ipa": "qaʁakʷʼəħaːn"
   },
   {
     "word": "ичэ",
@@ -93391,7 +93399,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to stand a witness to",
+        "meaning": "to stand as a witness to",
         "examples": [
           {
             "sentence": "Сэ '''шыхьатэу сыкъытеуцо''' мы к1алэм ар ыш1агъэк1э",
@@ -93848,7 +93856,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "horny, callous",
+        "meaning": "callus, corn",
         "examples": []
       }
     ],
@@ -102329,5 +102337,29 @@
     ],
     "type": "noun",
     "ipa": "pʂaʔʷəpt͡ʃʼaːn"
+  },
+  {
+    "word": "къэк1ухьал",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "a person that likes to walk often",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "qakʷʼəħaːɮ"
+  },
+  {
+    "word": "къэчъыхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to run around",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "qat͡ʂaħaːn"
   }
 ]
