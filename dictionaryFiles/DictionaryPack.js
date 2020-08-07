@@ -224,7 +224,7 @@
             "sentence": "Унэр '''мао'''",
             "translation": "The house '''is being destroyed'''."
           },
-		  {
+          {
             "sentence": "к1алэм унэ пшахъоу ыш1ыгъэ '''ощт''' къещхымэ",
             "translation": "The boy's house sand '''will get ruined''' when it will rain."
           },
@@ -4003,11 +4003,11 @@
         "meaning": "grey",
         "examples": []
       },
-	  {
+      {
         "meaning": "atmosphere",
         "examples": []
       },
-	  {
+      {
         "meaning": "space",
         "examples": []
       }
@@ -6022,7 +6022,7 @@
         "meaning": "name",
         "examples": []
       },
-	  {
+      {
         "meaning": "louse",
         "examples": []
       }
@@ -7395,7 +7395,7 @@
             "sentence": "'''Къэсфеплъ''' сиятэ къэсыгъэмэ",
             "translation": "'''Look for me''' if my father came."
           },
-		  {
+          {
             "sentence": "К1алэр '''маплъэ'''",
             "translation": "The boy '''is looking'''."
           },
@@ -8851,7 +8851,7 @@
             "sentence": "Сиянэ '''1ащэ''', ы1ыгъэ зэк1эр къы1эпэзы",
             "translation": "My mother is '''clumsy''', she drops everything she holds."
           }
-		]
+        ]
       }
     ],
     "type": "noun",
@@ -14992,7 +14992,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "layer (stratum)"
+        "meaning": "layer (stratum)",
         "examples": []
       }
     ],
@@ -18525,11 +18525,11 @@
         "meaning": "to compound; to form (a resulting mixture or structure) by combining different elements, ingredients, or parts",
         "examples": []
       },
-	  {
+      {
         "meaning": "to assemble; to lay together; to put together; to pile up",
         "examples": []
       },
-	  {
+      {
         "meaning": "to compose",
         "examples": []
       }
@@ -20146,7 +20146,7 @@
             "sentence": "1офэу сыш1эгъэмк1э '''ураза'''?",
             "translation": "'''Are you pleased''' with the work I done?"
           },
-		  {
+          {
             "sentence": "Мы фылымымк1э '''сраз'''",
             "translation": "'''I am satisfied''' with this film."
           }
@@ -20967,7 +20967,7 @@
         "meaning": "to snap; to fracture or break apart",
         "examples": []
       },
-	  {
+      {
         "meaning": "to shatter",
         "examples": []
       }
@@ -24191,7 +24191,7 @@
         "meaning": "longitude",
         "examples": []
       },
-	  {
+      {
         "meaning": "meridian",
         "examples": []
       }
@@ -24315,7 +24315,7 @@
         "meaning": "beet",
         "examples": []
       },
-	  {
+      {
         "meaning": "beetroot",
         "examples": []
       }
@@ -24357,7 +24357,7 @@
         "meaning": "fertilization (the process of fertilizing)",
         "examples": []
       },
-	  {
+      {
         "meaning": "fertilizer, manure",
         "examples": []
       }
@@ -24385,7 +24385,7 @@
         "meaning": "buttonhole",
         "examples": []
       },
-	  {
+      {
         "meaning": "loop (length of thread, line or rope, a shape produced by a curve)",
         "examples": []
       }
@@ -24401,7 +24401,7 @@
         "meaning": "noose",
         "examples": []
       },
-	  {
+      {
         "meaning": "loop",
         "examples": []
       }
@@ -24512,7 +24512,7 @@
     ],
     "type": "noun",
     "ipa": "t͡ʃal"
-  },гъэбылъыпIэ
+  },
   {
     "word": "шъхьэегъэзып1a",
     "lang": "Adyghe",
@@ -24581,7 +24581,7 @@
         "meaning": "dusk",
         "examples": []
       },
-	  {
+      {
         "meaning": "twilight",
         "examples": []
       }
@@ -24804,7 +24804,7 @@
         "meaning": "coolness (the state of being cool)",
         "examples": []
       },
-	   {
+      {
         "meaning": "cold weather",
         "examples": []
       }
@@ -25056,7 +25056,7 @@
         "meaning": "zucchini",
         "examples": []
       },
-	  {
+      {
         "meaning": "pumpkin, gourd",
         "examples": []
       },
@@ -25096,7 +25096,7 @@
         "meaning": "to trample into",
         "examples": []
       },
-	  {
+      {
         "meaning": "to mash and pound in",
         "examples": []
       }
@@ -25123,7 +25123,7 @@
       {
         "meaning": "to press (into)",
         "examples": []
-      },
+      }
     ],
     "type": "noun",
     "ipa": "xaɕəʔan"
@@ -25325,7 +25325,7 @@
         "meaning": "pomegranate",
         "examples": []
       },
-	  {
+      {
         "meaning": "anecdote; funny story",
         "examples": []
       }
@@ -25572,7 +25572,7 @@
         "meaning": "elephant seal",
         "examples": []
       },
-	  {
+      {
         "meaning": "walrus",
         "examples": []
       }
@@ -25805,11 +25805,11 @@
         "meaning": "grouse",
         "examples": []
       },
-	  {
+      {
         "meaning": "western capercaillie",
         "examples": []
       },
-	  {
+      {
         "meaning": "wood grouse",
         "examples": []
       }
@@ -25909,7 +25909,7 @@
         "meaning": "bug",
         "examples": []
       },
-	  {
+      {
         "meaning": "bed-bug; bedbug",
         "examples": []
       }
@@ -26320,7 +26320,7 @@
       {
         "meaning": "to sack, to loot, to plunder",
         "examples": []
-      },
+      }
     ],
     "type": "verb",
     "ipa": "χʷənt͡ʃʼən"
@@ -26332,7 +26332,7 @@
       {
         "meaning": "plunderer",
         "examples": []
-      },
+      }
     ],
     "type": "noun",
     "ipa": "χʷənt͡ʃʼaːkʷʼa"
@@ -26357,7 +26357,7 @@
         "meaning": "humpbacked; hunchbacked",
         "examples": []
       },
-	  {
+      {
         "meaning": "humpy",
         "examples": []
       }
@@ -26372,7 +26372,7 @@
       {
         "meaning": "alternative form of \"хъунк1эн\"",
         "examples": []
-      },
+      }
     ],
     "type": "verb",
     "ipa": "jaχʷənt͡ʃʼən"
@@ -26785,7 +26785,7 @@
     "word": "къэгъэхъун",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "to grow plants (to make plants \"appear\")",
         "examples": [
           {
@@ -26841,11 +26841,11 @@
         "meaning": "squeamish, fastidious",
         "examples": []
       },
-	  {
+      {
         "meaning": "neglect, disregard",
         "examples": []
       },
-	  {
+      {
         "meaning": "scorn, disdain (feeling of contempt or scorn)",
         "examples": []
       }
@@ -26962,7 +26962,7 @@
         "meaning": "handbell",
         "examples": []
       },
-	  {
+      {
         "meaning": "cowbell",
         "examples": []
       }
@@ -27041,7 +27041,7 @@
         "examples": []
       }
     ],
-	"cognate": "вагъуэнж"
+    "cognate": "вагъуэнж",
     "type": "noun",
     "ipa": "ʐʷaʁʷand͡ʒ"
   },
@@ -27428,7 +27428,7 @@
         "meaning": "pomace (pulpy residue after juice has been squeezed from fruit)",
         "examples": []
       },
-	  {
+      {
         "meaning": "oil cake",
         "examples": []
       }
@@ -27667,9 +27667,9 @@
           "Literary"
         ]
       },
-	  {
+      {
         "meaning": "hen",
-        "examples": [],
+        "examples": []
       }
     ],
     "type": "noun",
@@ -29522,7 +29522,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to have sex with; to engage in sexual intercourse with",
         "examples": []
       }
@@ -29949,7 +29949,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to implant",
         "examples": [
           {
@@ -29992,7 +29992,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to implant",
         "examples": [
           {
@@ -30248,7 +30248,7 @@
         "meaning": "gravel",
         "examples": []
       },
-	  {
+      {
         "meaning": "crushed stone, road metal",
         "examples": []
       }
@@ -30260,7 +30260,7 @@
     "word": "гъэушкъоин",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "to chop; to crumble",
         "examples": [
           {
@@ -30515,7 +30515,7 @@
         "meaning": "to adulate",
         "examples": []
       },
-	  {
+      {
         "meaning": "one who gives empty flattery for personal gain",
         "examples": []
       }
@@ -30527,7 +30527,7 @@
     "word": "мэш1уашъхь",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "campfire, bonfire, wood fire",
         "examples": []
       }
@@ -30539,7 +30539,7 @@
     "word": "нэпц1ыгъэк1э щытхъун",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "to lickspittle; to give empty flattery for personal gain",
         "examples": []
       }
@@ -30705,7 +30705,7 @@
         "meaning": "iridescent",
         "examples": []
       },
-	  {
+      {
         "meaning": "something that changes colors",
         "examples": []
       },
@@ -31611,7 +31611,7 @@
         "meaning": "air compressor",
         "examples": []
       },
-	  {
+      {
         "meaning": "air pressure",
         "examples": []
       }
@@ -32366,7 +32366,7 @@
             "sentence": "К1алэм '''жэбзэ''' дэгъу 1улъ",
             "translation": "The boy is '''eloquent'''."
           },
-		  {
+          {
             "sentence": "К1алэм '''жэбзэ''' дахэк1э мэгущы1э",
             "translation": "The boy is speaking '''eloquently'''."
           }
@@ -32473,8 +32473,8 @@
     ],
     "synonyms": [
       "гущы1эк1э1аз",
-	  "жабзэ зы1улъ",
-	  "жаш1у",
+      "жабзэ зы1улъ",
+      "жаш1у",
       "бзаш1у"
     ],
     "type": "adj",
@@ -32491,8 +32491,8 @@
     ],
     "synonyms": [
       "гущы1эк1э1аз",
-	  "жабзэ 1улъ",
-	  "жаш1у",
+      "жабзэ 1улъ",
+      "жаш1у",
       "бзаш1у"
     ],
     "type": "adj",
@@ -32509,8 +32509,8 @@
     ],
     "synonyms": [
       "жабзэ зы1улъ",
-	  "жабзэ 1улъ",
-	  "жаш1у",
+      "жабзэ 1улъ",
+      "жаш1у",
       "бзаш1у"
     ],
     "type": "adj",
@@ -32536,8 +32536,8 @@
     "synonyms": [
       "бзаш1у",
       "гущы1эк1э1аз",
-	  "жабзэ 1улъ",
-	  "жабзэ зы1улъ"
+      "жабзэ 1улъ",
+      "жабзэ зы1улъ"
     ],
     "type": "adj",
     "ipa": "ʒaːʃʷʼ"
@@ -32638,7 +32638,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "relatively early"
+        "meaning": "relatively early",
         "examples": []
       }
     ],
@@ -32714,7 +32714,7 @@
         "meaning": "airline",
         "examples": []
       },
-	  {
+      {
         "meaning": "airway",
         "examples": []
       }
@@ -32878,7 +32878,7 @@
         "meaning": "unintelligible; incomprehensible; obscure; hard to understand",
         "examples": []
       },
-	  {
+      {
         "meaning": "unintelligible",
         "examples": []
       }
@@ -33041,7 +33041,7 @@
         "meaning": "strip of skin",
         "examples": []
       },
-	  {
+      {
         "meaning": "region",
         "examples": []
       }
@@ -33152,7 +33152,7 @@
         "meaning": "word",
         "examples": []
       },
-	  {
+      {
         "meaning": "speech",
         "examples": []
       }
@@ -33383,7 +33383,7 @@
         "meaning": "intrigues, machinations",
         "examples": []
       },
-	  {
+      {
         "meaning": "sorcery, witchcraft",
         "examples": []
       }
@@ -33399,7 +33399,7 @@
         "meaning": "to cast a spell on someone; to bewitch",
         "examples": []
       },
-	  {
+      {
         "meaning": "to conjure; to practise witchcraft",
         "examples": []
       }
@@ -33674,35 +33674,35 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to be inside",
         "examples": [
           {
             "sentence": "Адэмыр тиунэ '''исэп'''",
             "translation": "Adam '''is not in''' my house."
           },
-		  {
+          {
             "sentence": "Куджаныр шъунэ'''иса'''?",
             "translation": "'''Is''' Kujan '''in''' your house?"
           },
-		  {
+          {
             "sentence": "Синыбджэгъухэр унэм исгъагъэх",
             "translation": "My friends '''were in''' the house."
           }
         ]
       },
-	  {
+      {
         "meaning": "to stay",
         "examples": [
           {
             "sentence": "Синыбджэгъу тиунэ '''исыщт'''",
             "translation": "My friend '''will stay''' in my house."
           },
-		  {
+          {
             "sentence": "Тиунэ '''уисыщта'''?",
             "translation": "'''Will you stay''' in my house?"
           },
-		  {
+          {
             "sentence": "Хьак1эр мэзищэ тиунэ '''исыгъ'''",
             "translation": "The guest '''stayed in''' my house for three months"
           }
@@ -34887,7 +34887,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to maintain",
         "examples": [
           {
@@ -35697,7 +35697,7 @@
         "meaning": "to squeal (to scream a high-pitched squeal)",
         "examples": []
       },
-	  {
+      {
         "meaning": "to meow, to mew",
         "examples": []
       }
@@ -35799,7 +35799,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "crooked",
         "examples": []
       }
@@ -35832,7 +35832,7 @@
         "meaning": "hoar-frost",
         "examples": []
       },
-	  {
+      {
         "meaning": "rime",
         "examples": []
       }
@@ -35848,7 +35848,7 @@
         "meaning": "hoar-frost",
         "examples": []
       },
-	  {
+      {
         "meaning": "rime",
         "examples": []
       }
@@ -36142,7 +36142,6 @@
     ],
     "type": "adj",
     "ipa": "ʃʷətəʐ"
-  },
   },
   {
     "word": "гык1эн",
@@ -37185,7 +37184,7 @@
         "examples": []
       }
     ],
-	"synonyms": [
+    "synonyms": [
       "пхъэнк1ын"
     ],
     "type": "verb",
@@ -37820,7 +37819,7 @@
       "1оржъор",
       "гущы1эрый",
       "жэмачыу",
-      "шъхьарыгущы1",
+      "шъхьарыгущы1"
     ],
     "type": "adj",
     "ipa": "ʒaməʔaːn"
@@ -38761,7 +38760,7 @@
         "meaning": "to do a long ball (to attempt to move the ball a long distance down the field via one long aerial kick from either a goalkeeper or a defender directly to an attacking player)",
         "examples": []
       },
-	  {
+      {
         "meaning": "to sue",
         "examples": []
       }
@@ -38794,7 +38793,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to insist, to persist, to press on",
         "examples": [
           {
@@ -38938,7 +38937,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "barely",
         "examples": []
       }
@@ -39915,9 +39914,9 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "alternative form of \"гъэнэфэн\"",
+        "meaning": "alternative form of \"гъэнэфэн\"",
         "examples": []
-	  }
+      }
     ],
     "type": "verb",
     "ipa": "ʁawnafan"
@@ -40374,7 +40373,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to get stuck in a narrow place or hole",
         "examples": [
           {
@@ -40879,7 +40878,7 @@
         ]
       }
     ],
-    "type": "verb"
+    "type": "verb",
     "ipa": "jaʃʼəħaːn"
   },
   {
@@ -41172,7 +41171,7 @@
           }
         ]
       }
-    ]
+    ],
     "type": "verb",
     "ipa": "dajʐəwan"
   },
@@ -41184,7 +41183,7 @@
         "meaning": "to fit by arranging things(such as plans, cycles and music)",
         "examples": []
       },
-	  {
+      {
         "meaning": "to fit things on each other",
         "examples": []
       }
@@ -41344,7 +41343,7 @@
         "meaning": "classmate; schoolmate; schoolfellow; school-fellow; fellow-student",
         "examples": []
       },
-	  {
+      {
         "meaning": "studying parnet; studying buddy",
         "examples": []
       }
@@ -41502,7 +41501,7 @@
             "sentence": "'''къэугъой''' джанэхэр, '''къэмыугъой''' гъошэджыхэр",
             "translation": "'''Gather''' the shirts, '''don't gather''' the pants."
           },
-		  {
+          {
             "sentence": "К1алэм ц1ыфыхэр '''еугъоих'''",
             "translation": "The boy '''gathers''' people."
           }
@@ -41567,7 +41566,7 @@
         "meaning": "to encircle, to surround, to stand around",
         "examples": []
       },
-	  {
+      {
         "meaning": "to besiege",
         "examples": []
       }
@@ -41951,7 +41950,7 @@
             "sentence": "Сэ сомпыютэрмэ '''сапылъ'''",
             "translation": "'''I am involved with''' computers."
           },
-		  {
+          {
             "sentence": "К1алэр еджэхым '''пылъ'''",
             "translation": "The boy '''is enaging in''' studying."
           }
@@ -43497,7 +43496,7 @@
             "sentence": "Метромк1э ук1омэ '''нахьыш1у'''",
             "translation": "'''It is better''' if you take the underground / subway."
           },
-		  {
+          {
             "sentence": "'''Нахьыш1уа'''?",
             "translation": "'''Is it better?'''"
           },
@@ -43783,7 +43782,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to be delayed",
         "examples": [
           {
@@ -44287,7 +44286,7 @@
         "meaning": "boredom",
         "examples": []
       },
-	  {
+      {
         "meaning": "boring",
         "examples": [
           {
@@ -44376,12 +44375,12 @@
         "meaning": "to fulfill",
         "examples": [
           {
-            "sentence": "Уи1офыхэр '''бгъэцэк1эжьыных''' фаей"
+            "sentence": "Уи1офыхэр '''бгъэцэк1эжьыных''' фаей",
             "translation": "You need '''to fulfull''' your tasks."
           }
         ]
       },
-	  {
+      {
         "meaning": "to repair; to fix; to mend",
         "examples": [
           {
@@ -44414,7 +44413,7 @@
             "sentence": "Унэр '''щыбырысыр''' дэд",
             "translation": "The room is too '''noisy'''."
           },
-		  {
+          {
             "sentence": "Щагур '''бырысыр'''",
             "translation": "The yard '''is noisy'''."
           }
@@ -44743,7 +44742,7 @@
             "sentence": "Мэш1окур къэгужъо",
             "translation": "The train '''is being late'''."
           },
-		  {
+          {
             "sentence": "К1алэм игъусэ '''гужъон''' фаеу зэхъум ежь ащ емыжэу ежьэжьыгъ",
             "translation": "When the boy's partner had to come late, he went off without waiting for him."
           }
@@ -44781,12 +44780,12 @@
             "sentence": "Мэш1окур къэгужъо",
             "translation": "The train '''is being late'''."
           },
-		  {
+          {
             "sentence": "К1алэм игъусэ '''гужъон''' фаеу зэхъум ежь ащ емыжэу ежьэжьыгъ",
             "translation": "When the boy's partner had to come late, he went off without waiting for him."
           }
         ]
-      },	
+      },
       {
         "meaning": "to linger",
         "examples": []
@@ -45196,24 +45195,24 @@
             "sentence": "К1алэм ику к1э '''къытигъэлъэгъугъ''' непэ",
             "translation": "The boy '''showed us''' his new car today."
           },
-		  {
+          {
             "sentence": "Пшъашъэм сурэтэу ыш1ыгъэхэр '''къегъэлъэгъух'''",
             "translation": "The girl '''shows''' the pictures she done."
           }
         ]
       },
-	  {
+      {
         "meaning": "to showcase",
         "examples": []
       },
-	  {
+      {
         "meaning": "to demonstrate",
         "examples": [
           {
             "sentence": "К1элэегъаджэм '''къегъэлъэгъо''' таущтэу упч1эр къыч1ыбгъэк1ыжьыщт",
             "translation": "The teacher '''demonstrate''' how to solve the question."
           }
-		]
+        ]
       }
     ],
     "type": "noun",
@@ -46252,7 +46251,7 @@
       "гущы1эрый",
       "жэмы1ан",
       "жэмачыу",
-	  "шъхьарыгущы1"
+      "шъхьарыгущы1"
     ],
     "type": "noun",
     "ipa": "ʔʷarʐʷar"
@@ -46886,7 +46885,7 @@
             "sentence": "кIэлэцIыкIу '''дысых'''",
             "translation": "'''Rude''' children"
           },
-		  {
+          {
             "sentence": "джэуап дыс",
             "translation": "Rude answer."
           },
@@ -47271,7 +47270,7 @@
         "meaning": "to pierce",
         "examples": []
       },
-	  {
+      {
         "meaning": "to prick",
         "examples": [
           {
@@ -47280,7 +47279,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to drive in (nail), to hammer in, to nail",
         "examples": [
           {
@@ -47530,10 +47529,10 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to run out (in terms of amount)",
         "examples": [
-		  {
+          {
             "sentence": "Бензиныр '''къыухыгъ'''",
             "translation": "The gas '''ran out'''."
           },
@@ -48152,7 +48151,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "glance; look",
         "examples": [
           {
@@ -48165,15 +48164,16 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "relief, the removal of stress or discomfort.",
         "examples": [
           {
             "sentence": "Л1ым '''нэплъэгъу''' ыгъотыжьыгъ",
             "translation": "The man found '''relief'''."
           }
+        ]
       }
-    ],    
+    ],
     "type": "noun",
     "ipa": "napɬaʁʷ"
   },
@@ -48720,7 +48720,7 @@
             "sentence": "Гущы1эхэр '''къэш1эжых'''",
             "translation": "'''Recognize''' the words."
           },
-		  {
+          {
             "sentence": "Джы '''укъэсш1эжьыгъ'''",
             "translation": "Now '''I recognized you'''."
           }
@@ -48750,7 +48750,7 @@
         "meaning": "to blame",
         "examples": []
       },
-	  {
+      {
         "meaning": "to put one's assignments on someone else",
         "examples": []
       }
@@ -49043,7 +49043,7 @@
             "sentence": "'''Сыкъыдещэк1и''' дэпкъым сыблэгъэк1",
             "translation": "'''Raise me''' and I let me pass over the wall."
           },
-		  {
+          {
             "sentence": "Уи1эгъуапэхэр '''дэщаех'''",
             "translation": "'''Raise''' your sleeves.."
           }
@@ -49103,14 +49103,14 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to bug someone (to annoy)",
         "examples": [
-		  {
+          {
             "sentence": "Томэр к1алэм '''епыджы'''",
             "translation": "Tom '''is bugging''' the boy."
           }
-		]
+        ]
       }
     ],
     "synonyms": [
@@ -49393,7 +49393,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to sidestep; to step aside; to make way",
         "examples": []
       }
@@ -50297,11 +50297,11 @@
       {
         "meaning": "oxygen",
         "examples": [
-		  {
+          {
             "sentence": "Псым '''фапщэ''' щыбгъотэщтэп",
             "translation": "You will not find '''oxygen''' in the water."
           }
-		]
+        ]
       }
     ],
     "type": "noun",
@@ -50901,7 +50901,7 @@
     "definitions": [
       {
         "meaning": "alternative form of \"ешхъогъон\"",
-        "examples": [ ]
+        "examples": []
       }
     ],
     "type": "verb",
@@ -51110,7 +51110,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to whine",
         "examples": [
           {
@@ -51295,7 +51295,7 @@
             "sentence": "Дзэр '''сатырэ''' к1ыхьэу уцугъэ",
             "translation": "The army stood in a long '''line'''."
           },
-		  {
+          {
             "sentence": "'''Сатырит1оу''' шыудзэр уцугъэ",
             "translation": "The two cavalry units stood in '''lines'''."
           }
@@ -51312,7 +51312,7 @@
       {
         "meaning": "cavalry unit",
         "examples": [
-		  {
+          {
             "sentence": "Сатырит1оу '''шыудзэр''' уцугъэ",
             "translation": "The two '''cavalry''' unites stood in lines."
           }
@@ -51796,7 +51796,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "balcony",
         "examples": []
       }
@@ -52781,15 +52781,15 @@
             "sentence": "Банкымк1э сиахъщэ '''къехъу'''",
             "translation": "My money is increasing in the bank."
           },
-		  {
+          {
             "sentence": "Си1эхъогъу джыри мэлы '''къехъугъ'''",
             "translation": "Another sheep '''was added''' to my herd."
           },
-		  {
+          {
             "sentence": "Сибылымхэмэ чэмышхор '''къахъугъ'''",
             "translation": "The big cow '''was added''' to my cattle."
           },
-		  {
+          {
             "sentence": "Мыр икъурэп, джыри ахъщэ '''къегъэхъу''' мыр ущэфын пае",
             "translation": "This is not enough, '''add''' another money to buy this."
           }
@@ -53040,11 +53040,11 @@
         "meaning": "to undress (to remove somebody’s clothing)",
         "examples": []
       },
-	  {
+      {
         "meaning": "to strip",
         "examples": []
       },
-	  {
+      {
         "meaning": "to sack (to rob)",
         "examples": []
       }
@@ -53533,7 +53533,7 @@
         "meaning": "Djenjef (an Circassian mythological horse)",
         "examples": []
       },
-	  {
+      {
         "meaning": "fabulous horse breed",
         "examples": []
       }
@@ -53724,11 +53724,11 @@
       {
         "meaning": "hated; despised",
         "examples": [
-		  {
+          {
             "sentence": "А к1алэр сэ '''сиджагъу'''",
             "translation": "'''I hate''' that boy."
           }
-		]
+        ]
       }
     ],
     "type": "adj",
@@ -54427,7 +54427,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to keep an eye to; to pay attention to",
         "examples": []
       }
@@ -54523,7 +54523,7 @@
         "meaning": "ladle",
         "examples": []
       },
-	  {
+      {
         "meaning": "scoop",
         "examples": []
       }
@@ -54619,7 +54619,7 @@
         "meaning": "moment of interruption; duration of interruption",
         "examples": []
       },
-	  {
+      {
         "meaning": "pause",
         "examples": []
       },
@@ -55794,7 +55794,7 @@
         "meaning": "soldier",
         "examples": []
       },
-	  {
+      {
         "meaning": "reservist",
         "examples": []
       }
@@ -56812,7 +56812,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to win",
         "examples": [
           {
@@ -57327,7 +57327,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to dismiss; to discharge; to fire an employee",
         "examples": [
           {
@@ -57344,7 +57344,7 @@
     "word": "тегъэк1ын",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "to dismiss a boss/leader; to discharge  a boss/leader",
         "examples": [
           {
@@ -58723,7 +58723,7 @@
             "sentence": "'''Зыуахътэк1э''' къещхыщтыгъ бэрэ",
             "translation": "'''Sometime''' it used to rain a lot."
           },
-		  {
+          {
             "sentence": "'''Зыуахътэк1э''' къысэк1угъ, бэрэ сычъэу",
             "translation": "A '''time''' came to me in which I used to run a lot."
           }
@@ -59811,11 +59811,11 @@
             "sentence": "Псынк1агъэм '''къыщыгъэк1эн'''",
             "translation": "'''To reduce''' speed."
           },
-		  {
+          {
             "sentence": "К1алэм ышхырэм '''къыщигъэк1агъ'''",
             "translation": "The boy '''reduced''' the amount he's eating."
           },
-		  {
+          {
             "sentence": "К1алэр еджэным '''къыщырегъак1э'''",
             "translation": "The boy '''reduces''' his studying."
           }
@@ -60047,7 +60047,7 @@
         "meaning": "attention; notice",
         "examples": []
       },
-	  {
+      {
         "meaning": "(Shapsug) understanding",
         "examples": [
           {
@@ -61253,7 +61253,7 @@
             "sentence": "Чэтыум '''уикъыц1этхъущт'''",
             "translation": "The cat '''will scratch you'''."
           },
-		  {
+          {
             "sentence": "Кур '''мэц1этхъу'''",
             "translation": "The car '''is getting a scratch'''."
           }
@@ -62785,7 +62785,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to pound, to crush, to grind (to make smaller by breaking with a device)",
         "examples": []
       }
@@ -63859,7 +63859,7 @@
         "meaning": "gadfly",
         "examples": []
       },
-	  {
+      {
         "meaning": "gadfly",
         "examples": []
       }
@@ -63941,11 +63941,11 @@
         "meaning": "commander; military leader",
         "examples": []
       },
-	  {
+      {
         "meaning": "general (army)",
         "examples": []
       },
-	  {
+      {
         "meaning": "warlord",
         "examples": []
       }
@@ -64413,7 +64413,7 @@
         "meaning": "expressive",
         "examples": []
       },
-	  {
+      {
         "meaning": "clever; witty",
         "examples": []
       }
@@ -64436,7 +64436,6 @@
             "sentence": "Нашэр '''мэт1ыгъо'''",
             "translation": "the melon is ripen."
           }
-        ]
         ]
       }
     ],
@@ -66701,7 +66700,7 @@
         "meaning": "to turn sour; to pickle; to corn",
         "examples": []
       },
-	  {
+      {
         "meaning": "to ferment",
         "examples": [
           {
@@ -66745,7 +66744,7 @@
     "definitions": [
       {
         "meaning": "hearth; place in front of the hearth",
-        "examples": [],
+        "examples": []
       }
     ],
     "type": "verb",
@@ -66766,7 +66765,7 @@
             "sentence": "А к1алэм '''ышъуты исагъ'''",
             "translation": "'''The hell with''' that boy!"
           },
-		  {
+          {
             "sentence": "'''Ышъуты исагъ''', мы фылымым нахь бэрэ сеплъышъущтэп",
             "translation": "'''Fuck it''', I can't continue watching this movie any longer."
           }
@@ -66800,7 +66799,7 @@
           "slang"
         ]
       },
-	  {
+      {
         "meaning": "(vulgar) to shit on",
         "examples": [],
         "tags": [
@@ -70067,7 +70066,7 @@
             "sentence": "Л1ым зыригъэнагъ Америкэм к1онэу",
             "translation": "The man '''became persistent''' to go to America."
           },
-		  {
+          {
             "sentence": "Еджэнымк1э '''зыбгъэнэн''' фай 1офы дэгъу угъотыжьын пае",
             "translation": "'''You''' need '''to become persistent''' in the studies to find a good job later."
           }
@@ -71815,7 +71814,7 @@
         "meaning": "sleep paralysis",
         "examples": []
       },
-	  {
+      {
         "meaning": "an evil spirit that appears to someone sleeping and does not allow him/her to move and wake up",
         "examples": []
       }
@@ -72644,7 +72643,7 @@
             "sentence": "Л1ыр '''к1ыраоу''' мак1о",
             "translation": "The man is going while '''swaying'''."
           },
-		  {
+          {
             "sentence": "Щалъэр '''к1эрэонэу''' ежьагъ",
             "translation": "The bucket started to '''sway'''."
           }
@@ -73180,23 +73179,24 @@
       {
         "meaning": "to mislead someone",
         "examples": []
-      }{
+      },
+      {
         "meaning": "to misguide someone",
         "examples": []
       },
-	  {
+      {
         "meaning": "to make someone go off road",
         "examples": []
       },
-	  {
+      {
         "meaning": "to make someone go astray",
         "examples": []
       },
-	  {
+      {
         "meaning": "to make someone lose their way",
         "examples": []
       },
-	  {
+      {
         "meaning": "to make someone confused",
         "examples": []
       }
@@ -73212,11 +73212,11 @@
         "meaning": "to mix things together",
         "examples": []
       },
-	  {
+      {
         "meaning": "to misunderstand things together",
         "examples": []
       },
-	  {
+      {
         "meaning": "to complicate things together",
         "examples": []
       }
@@ -73323,7 +73323,7 @@
             "sentence": "К1алэм хьанцэр ят1эм '''хеко'''",
             "translation": "The boy '''is shoving''' the shovel into the dirt."
           },
-		  {
+          {
             "sentence": "Пшахъом хьанцэр '''хэкон'''",
             "translation": "'''To shove''' the shovel into the sand."
           }
@@ -73666,11 +73666,11 @@
         "meaning": "supremacy",
         "examples": []
       },
-	  {
+      {
         "meaning": "rule; dominion",
         "examples": []
       },
-	  {
+      {
         "meaning": "term (goverment)",
         "examples": []
       }
@@ -73685,7 +73685,7 @@
       {
         "meaning": "matriarchy",
         "examples": []
-      },
+      }
     ],
     "type": "noun",
     "ipa": "nəm jətajtəʁʷa"
@@ -73697,7 +73697,7 @@
       {
         "meaning": "patriarchy",
         "examples": []
-      },
+      }
     ],
     "type": "noun",
     "ipa": "təm jətajtəʁʷa"
@@ -75097,7 +75097,7 @@
         "meaning": "break for resting",
         "examples": []
       },
-	  {
+      {
         "meaning": "rest; relaxation",
         "examples": []
       }
@@ -75635,7 +75635,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "suddenly, all of a sudden",
         "examples": [
           {
@@ -75697,7 +75697,7 @@
         "meaning": "alternative form of \"еджэн\"",
         "examples": []
       }
-    ],,
+    ],
     "type": "verb",
     "ipa": "d͡ʒan"
   },
@@ -76034,7 +76034,7 @@
         "meaning": "to burn slightly",
         "examples": []
       },
-	  {
+      {
         "meaning": "to crisp",
         "examples": []
       }
@@ -76089,7 +76089,7 @@
             "sentence": "Дэпкъым к1алэм '''зытегъак1э'''",
             "translation": "The boy '''leans himself on''' the wall."
           },
-		  {
+          {
             "sentence": "К1алэм дэпкъым '''зытигъэк1агъ'''",
             "translation": "The boy '''leaned''' on the wall."
           },
@@ -77132,11 +77132,11 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "narrowish",
         "examples": []
       },
-	  {
+      {
         "meaning": "with difficulty",
         "examples": []
       }
@@ -77619,18 +77619,18 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to displace; to move from its arranged place",
         "examples": [
           {
             "sentence": "Пкъэур '''тегъэкощык1ыгъ'''",
             "translation": "The pillar '''was displaced'''."
           },
-		  {
+          {
             "sentence": "Блокит1ур '''зэтекощык1ыгъэх'''",
             "translation": "The two blocks '''were displaced'''."
           },
-		  {
+          {
             "sentence": "К1алэм ыцэхэр '''зэтекощык1ыгъэх'''",
             "translation": "The boy's teeth '''were displaced'''."
           }
@@ -77653,10 +77653,10 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to displace something",
         "examples": [
-		  {
+          {
             "sentence": "Цэ акъылым адрэ цэхэр '''тегъэкощык1ых'''",
             "translation": "The wisdom tooth '''displaces''' the other teeth."
           }
@@ -77914,7 +77914,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "saltless, something that is not salty",
         "examples": []
       }
@@ -79347,7 +79347,7 @@
             "sentence": "'''Сыпшъыгъ'''",
             "translation": "'''I got tired'''."
           },
-		  {
+          {
             "sentence": "Бэрэ учъымэ '''упшъыщт'''",
             "translation": "If you run a lot '''you will get tired'''."
           }
@@ -80533,7 +80533,7 @@
         "meaning": "woodchip",
         "examples": []
       },
-	  {
+      {
         "meaning": "a piece of wood",
         "examples": []
       }
@@ -80553,7 +80553,7 @@
         "meaning": "woodchip",
         "examples": []
       },
-	  {
+      {
         "meaning": "a piece of wood",
         "examples": []
       }
@@ -80678,7 +80678,7 @@
         "meaning": "inheritance",
         "examples": []
       },
-	  {
+      {
         "meaning": "legacy",
         "examples": []
       }
@@ -80695,14 +80695,14 @@
         "meaning": "to involve",
         "examples": []
       },
-	  {
+      {
         "meaning": "to contribute",
         "examples": []
       }
     ],
     "type": "verb",
     "ipa": "ʔa xaɬħaːn"
-  }
+  },
   {
     "word": "1ахь хэлъхьан",
     "lang": "Adyghe",
@@ -80711,7 +80711,7 @@
         "meaning": "to involve",
         "examples": []
       },
-	  {
+      {
         "meaning": "to contribute",
         "examples": []
       }
@@ -81241,7 +81241,7 @@
             "sentence": "К1алэр '''мэшхъуагъо'''",
             "translation": "The boy '''is envious'''."
           },
-		  {
+          {
             "sentence": "Ар к1алэм '''ешхъуагъо'''",
             "translation": "He '''envies''' the boy."
           },
@@ -81265,7 +81265,7 @@
             "sentence": "К1алэм '''уемышхъуагъу'''",
             "translation": "'''Don't be envy of''' the boy."
           },
-		  {
+          {
             "sentence": "К1алэр пшъашъэм '''ешхъуагъо'''",
             "translation": "The boy '''is jealous of''' the girl."
           },
@@ -82967,7 +82967,7 @@
     ],
     "synonyms": [
       "инахэк1э",
-	  "зэрэкъэлъагъорэмк1э"
+      "зэрэкъэлъагъорэмк1э"
     ],
     "type": "adv",
     "ipa": "zaraqaɬaːʁʷaramt͡ʃʼa"
@@ -83336,7 +83336,7 @@
             "sentence": "К1алэм тутыныр ещэхьы",
             "translation": "The boy '''wraps''' the cigarette."
           },
-		  {
+          {
             "sentence": "Шхыныр '''щэхь'''",
             "translation": "'''Wrap''' the food."
           },
@@ -83976,7 +83976,7 @@
             "sentence": "Ц1ыфым '''спэсыгъ'''",
             "translation": "'''I was waiting for''' the man."
           },
-		  {
+          {
             "sentence": "К1алэм '''спэс'''",
             "translation": "'''I am expecting''' the boy [to come now]."
           }
@@ -84492,7 +84492,7 @@
             "sentence": "Шхыныхэр '''зэ1ыш1эных'''",
             "translation": "'''To mix''' foods."
           },
-		  {
+          {
             "sentence": "К1алэм шъохэр '''зэ1иш1агъэх'''",
             "translation": "The man '''mixed''' the colors."
           }
@@ -84513,7 +84513,7 @@
             "sentence": "Шхыныхэр '''зэхэгъэк1ухьаных'''",
             "translation": "'''To mix''' foods."
           },
-		  {
+          {
             "sentence": "К1алэм шъохэр '''зэ1иш1агъэх'''",
             "translation": "The man '''mixed''' the colors."
           }
@@ -84726,7 +84726,7 @@
       {
         "meaning": "to stop on",
         "examples": [
-		  {
+          {
             "sentence": "Пхъэм '''утемыуцоу''' блэк1",
             "translation": "Pass the wood without '''stepping on it'''."
           },
@@ -84746,7 +84746,7 @@
             "sentence": "К1алэм ицуакъэхэр псынжъык1э ш1оихэу унэм иджэхашъо '''теуцо'''",
             "translation": "The boy '''is stepping''' on the house's floor with his dirty mud shoes."
           }
-		]
+        ]
       },
       {
         "meaning": "to stand still on",
@@ -85180,7 +85180,7 @@
     "definitions": [
       {
         "meaning": "apex (the highest or the greatest point of something)",
-        "examples": [],
+        "examples": []
       }
     ],
     "type": "prefix",
@@ -85992,7 +85992,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"зехьан\"",,
+        "meaning": "alternative form of \"зехьан\"",
         "examples": []
       }
     ],
@@ -86597,7 +86597,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to collide into; to crash into",
         "examples": [
           {
@@ -86808,7 +86808,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to have sex with; to engage in sexual intercourse",
         "examples": []
       }
@@ -86833,7 +86833,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to have sex with; to engage in sexual intercourse",
         "examples": []
       }
@@ -87150,10 +87150,10 @@
         "meaning": "to lay with",
         "examples": []
       },
-	  {
+      {
         "meaning": "to sleep with; to have sex with; to engage in sexual intercourse with",
         "examples": []
-	  }
+      }
     ],
     "type": "noun",
     "ipa": "daʁʷaɬən"
@@ -87485,7 +87485,7 @@
     "word": "чэфын",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "shroud (dress for the dead)",
         "examples": []
       }
@@ -87497,7 +87497,7 @@
     "word": "чэфэу щытын",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "to be happy",
         "examples": []
       }
@@ -88687,11 +88687,11 @@
             "sentence": "К1алэр Америкэм к1ом къинэжьыгъ",
             "translation": "When the young man went to America, he remained there."
           },
-		  {
+          {
             "sentence": "Уителефон тиунэ '''къибнагъ'''",
             "translation": "'''You left''' your phone in my house."
           },
-		  {
+          {
             "sentence": "Синыбджэгъухэр дэк1ыхи унэм '''сыкъыранагъ''' сизакъоу",
             "translation": "My friends went out '''and left me''' alone."
           }
@@ -89766,7 +89766,7 @@
         "meaning": "nonsense",
         "examples": []
       },
-	  {
+      {
         "meaning": "nonsense speaker; a person that speaks nonsense",
         "examples": []
       }
@@ -89836,7 +89836,7 @@
         "meaning": "specialty, profession (that in which one specializes)",
         "examples": []
       },
-	  {
+      {
         "meaning": "habit",
         "examples": []
       }
@@ -89968,8 +89968,8 @@
           {
             "sentence": "'''Къэумэзэхыгъ'''",
             "translation": "'''It got dark'''"
-          }, 
-		  {
+          },
+          {
             "sentence": "'''Къэумэзэхымэ''' тыдэк1ыщт",
             "translation": "We will go out when '''it gets dark'''"
           }
@@ -89999,7 +89999,7 @@
         "meaning": "to bring closer",
         "examples": []
       },
-	  {
+      {
         "meaning": "to close something almost entirely but keeping a small opening",
         "examples": []
       }
@@ -90011,7 +90011,7 @@
     "word": "ещэл1эн",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "to close something almost entirely but keeping a small opening",
         "examples": [
           {
@@ -90020,7 +90020,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to give a lift (in a vehicle)",
         "examples": [
           {
@@ -90714,7 +90714,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "thick (fat)",
         "examples": []
       }
@@ -91414,7 +91414,7 @@
             "sentence": "Къубылыр '''тегъэпысыхьан'''",
             "translation": "'''To set''' the bomb."
           },
-		  {
+          {
             "sentence": "Сэхьатыр щым '''тегъэпысахь'''",
             "translation": "'''Set''' the clock to three."
           }
@@ -91544,7 +91544,7 @@
         "meaning": "stage",
         "examples": []
       },
-	  {
+      {
         "meaning": "square (open area in a town or city)",
         "examples": []
       }
@@ -91742,7 +91742,7 @@
           }
         ]
       },
-	  {
+      {
         "meaning": "to run away, to flee",
         "examples": [
           {
@@ -92649,7 +92649,7 @@
     ],
     "synonyms": [
       "гъэучыен",
-	  "лъын"
+      "лъын"
     ],
     "type": "verb",
     "ipa": "ʁat͡ʃaːnən"
@@ -92904,7 +92904,7 @@
         "meaning": "flue",
         "examples": []
       },
-	  {
+      {
         "meaning": "chimney",
         "examples": []
       }
@@ -92916,7 +92916,7 @@
     "word": "1угъоик1ып1э",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "chimney",
         "examples": []
       }
@@ -92928,7 +92928,7 @@
     "word": "хьакушъхьэищ",
     "lang": "Adyghe",
     "definitions": [
-	  {
+      {
         "meaning": "chimney",
         "examples": []
       }
@@ -93080,7 +93080,7 @@
             "sentence": "Ц1ыфы делэк1э '''сыкъэгъэк1ухьагъ'''",
             "translation": "'''I am surrounded''' with foolish people."
           },
-		  {
+          {
             "sentence": "Тестымк1э джэуап тэрэзэр '''къэшъугъэк1ухь'''",
             "translation": "In the test '''circle''' the right answer."
           },
@@ -93267,7 +93267,7 @@
         "meaning": "to trim (lightly)",
         "examples": []
       },
-	  {
+      {
         "meaning": "to cut hair (lightly)",
         "examples": []
       }
@@ -93340,21 +93340,21 @@
           {
             "sentence": "'''Ихъохь''' тхьапш пхъэу унэ-пхъэм пае тищык1агъэр",
             "translation": "'''Determine''' how many woods we need for the wooden-house."
-          }
-		  {
+          },
+          {
             "sentence": "К1алэм '''рихъохьагъ''' мэзищ ищык1агъэу унэ ыш1ын фэш1к1э",
             "translation": "The boy '''determined''' he needs three months to build a house."
           }
         ]
       },
-	  {
+      {
         "meaning": "to decide",
         "examples": [
-		  {
+          {
             "sentence": "'''Ихъохьашъурэба''' тары джанэу узыфаер?",
             "translation": "'''Can't you decide''' what shirt you want?"
           },
-		  {
+          {
             "sentence": "'''Ипхъохьагъа''' сыд тыш1ыщтыр?",
             "translation": "'''Did you decided''' what we are going to do?"
           }
@@ -94479,7 +94479,7 @@
         "meaning": "to bleat",
         "examples": []
       },
-	  {
+      {
         "meaning": "to whine; to complain",
         "examples": []
       }
@@ -94584,7 +94584,7 @@
         ]
       }
     ],
-	"synonyms": [
+    "synonyms": [
       "пхъэнк1эн"
     ],
     "type": "verb",
@@ -96175,7 +96175,7 @@
             "sentence": "К1элэц1ык1ухэр '''атегъэт1ысхьэх''' пхъэнт1эк1ухэмэ",
             "translation": "'''Sit''' the children '''down on''' the chairs."
           },
-		  {
+          {
             "sentence": "'''тэгъэт1ысхь'''",
             "translation": "'''Make him sit'''."
           },
@@ -98344,11 +98344,11 @@
         "meaning": "porch (the entrance part in front of a door)",
         "examples": []
       },
-	  {
+      {
         "meaning": "veranda",
         "examples": []
       }
-    ], 
+    ],
     "synonyms": [
       "пчъэ1упэ"
     ],
@@ -99037,7 +99037,7 @@
         "meaning": "helmet",
         "examples": []
       },
-	  {
+      {
         "meaning": "headgear",
         "examples": []
       }
@@ -100205,7 +100205,7 @@
     "ipa": "wətabʑan"
   },
   {
-    "word": "теплъэ ыубытын",
+    "word": "теплъэ убытын",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -101105,23 +101105,24 @@
       {
         "meaning": "to mislead someone",
         "examples": []
-      }{
+      },
+      {
         "meaning": "to misguide",
         "examples": []
       },
-	  {
+      {
         "meaning": "to make someone go off road",
         "examples": []
       },
-	  {
+      {
         "meaning": "to make someone go astray",
         "examples": []
       },
-	  {
+      {
         "meaning": "to make someone lose their way",
         "examples": []
       },
-	  {
+      {
         "meaning": "to make someone confused",
         "examples": []
       }
