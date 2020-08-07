@@ -94601,12 +94601,9 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "post, pole, pillar, column",
+        "meaning": "mast",
         "examples": []
       }
-    ],
-    "synonyms": [
-      "пкъэу"
     ],
     "type": "noun",
     "ipa": "pχaxaːtʼa"
@@ -94994,7 +94991,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "office, post, appointment, position, job",
+        "meaning": "post, position, job",
         "examples": [
           {
             "sentence": "Ар бжьэхъо 1аз, ау бжьэхъон '''1энат1эм''' фаеп",
@@ -95316,11 +95313,11 @@
     "ipa": "blaəʂʷtən"
   },
   {
-    "word": "хьэлэбэлыкъ",
+    "word": "хьалэбалыкъ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "bustle, turmoil",
+        "meaning": "commotion",
         "examples": []
       },
       {
