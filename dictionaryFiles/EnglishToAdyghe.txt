@@ -814,7 +814,7 @@
   },
   {
     "nipple": "быдзып"
-  }
+  },
   {
     "air": "жьы"
   },
@@ -2019,7 +2019,7 @@
     "hungry": "мэлак1э (hunger); мэлак1э л1эн (to be hungry)"
   },
   {
-    "hunger: "мэлак1э (hunger); мэлак1э л1эн (to be hungry)"
+    "hunger": "мэлак1э (hunger); мэлак1э л1эн (to be hungry)"
   },
   {
     "starvation": "гъаблэ"
@@ -2341,7 +2341,7 @@
   },
   {
     "industrious": "нэутх"
-  }
+  },
   {
     "diligent": "нэутх"
   },
@@ -3708,7 +3708,7 @@
     "twig": "куамэ"
   },
   {
-    "branch": "къутамэ""
+    "branch": "къутамэ"
   },
   {
     "knot": "куамэ (knot in a tree)"
@@ -4734,7 +4734,7 @@
     "young deer": "блэнашк1э"
   },
   {
-    "deer yearling: "блэнашк1э"
+    "deer yearling": "блэнашк1э"
   },
   {
     "thyme": "блэнэуц"
@@ -5377,7 +5377,7 @@
   },
   {
     "to adopt": "п1ун"
-  }
+  },
   {
     "to raise": "п1ун (to adopt); дэщэен; дэ1этэен; 1этын; чӏыхын (Shapsug); ч1ыгъэк1ын (Shapsug); дэхьыен; дэгъэк1оен"
   },
@@ -5687,7 +5687,7 @@
   {
     "blackthorn": "пырэжъый (fruit and shrub)"
   },
-  { 
+  {
     "date palm": "хъурмэ"
   },
   {
@@ -5935,7 +5935,7 @@
   },
   {
     "ripen": "т1ыгъуагъэ"
-  }
+  },
   {
     "to ripen": "т1ыргъон; т1ыгъон (Shapsug); игъо хъун"
   },
@@ -5953,7 +5953,7 @@
   },
   {
     "sick": "сымаджэ"
-  }
+  },
   {
     "ill": "сымаджэ"
   },
@@ -6005,7 +6005,7 @@
   {
     "black ice": "1умыл"
   },
-  { 
+  {
     "lame": "лъащэ"
   },
   {
@@ -6439,7 +6439,7 @@
   },
   {
     "frost": "щтыргъук1ы"
-  }
+  },
   {
     "freezing weather": "щтыргъук1ы"
   },
@@ -6601,7 +6601,7 @@
   },
   {
     "wild boar": "мэзыкъу"
-  }, 
+  },
   {
     "boar": "къожъ; мэзыкъу (wild boar)"
   },
@@ -6679,13 +6679,13 @@
   },
   {
     "glowworm": "мэш1охь"
-  {,
+  },
   {
     "firefly": "мэш1охь"
-  {,
+  },
   {
     "lightning bug": "мэш1охь"
-  {,
+  },
   {
     "campfire": "пхъэ маш1о; мэш1уашъхь; мэш1ош1ыгъ"
   },
@@ -7565,7 +7565,7 @@
   {
     "repulsive": "1эежъ; гуштэгъуадж; гущык1ыгъо"
   },
-  {    
+  {
     "heartless": "гук1эгъу зыхэмылъ; гук1эгъунчъэ"
   },
   {
@@ -8207,7 +8207,7 @@
   {
     "to curve": "1онт1эн (to be curved); гъэ1онт1эн (to curve something); гъэ1орт1эн (Shapsug); гъэщын"
   },
-  { 
+  {
     "crooked": "1онт1агъ; 1орт1агъ (Shapsug); къуащэ; лъэныкъуащ; гъэщыгъ; лъэныкъуащ; тазэ, к1элъэныкъуащ"
   },
   {
@@ -8449,7 +8449,7 @@
   },
   {
     "even if that": "арми"
-  }
+  },
   {
     "even if so": "арми"
   },
@@ -8684,6 +8684,7 @@
   {
     "to explode": "къэон; къэгъэон (to make something explode)"
   },
+  {
     "to rotate": "гъэзэн (to rotate once); чэрэзын (to be rotating); гъэчэрэзын (to rotate something); зыгъэчэрэгъун (to rotate oneself), зыгъэчэрэзын  (to rotate oneself)"
   },
   {
@@ -8832,7 +8833,7 @@
   },
   {
     "to pull up": "дэлъэшъоен"
-  }
+  },
   {
     "to pull down": "елъэшъохын"
   },
@@ -10096,10 +10097,10 @@
   {
     "to detriment": "гоон; егоон"
   },
-  { 
+  {
     "neck slap": "дыйшъоутын (Shapsug)"
   },
-  { 
+  {
     "slap in the neck": "дыйшъоутын  (Shapsug)"
   },
   {
@@ -10408,7 +10409,7 @@
   {
     "era": "лъэхъан"
   },
-  { 
+  {
     "period": "лъэхъан"
   },
   {
@@ -10748,7 +10749,6 @@
     "fuck you": "(vulgar) осэп1ыс; (vulgar) ушъуты исагъ"
   },
   {
-  {
     "fuck": "(vulgar) сэп1ыс; (vulgar) янэ сэп1ыс; исагъ; (vulgar) ышъуты исагъ"
   },
   {
@@ -11005,11 +11005,11 @@
   },
   {
     "to throw out": "хэдзын (to throw out someone out of a group)"
-  {,
+  },
   {
     "to remove": "хэгъэк1ын (to remove someone/something from a group); хэдзын (to remove someone/something from a group); гъэуш1оин (to erase)"
-  {,
-  }
+  },
+  {
     "to decrease": "хэгъэк1ын; гъэт1эк1ун (to make it little); къыщыгъэк1эн (reduce)"
   },
   {
@@ -11335,7 +11335,7 @@
   },
   {
     "steering wheel": "гъэзалъэ"
-  }, 
+  },
   {
     "to listen to": "едэ1ун"
   },
@@ -11858,10 +11858,10 @@
   {
     "to press out": "к1эфызык1ын / хэфызык1ын"
   },
-  { 
+  {
     "badly": "дэеу; 1аеу"
   },
-  { 
+  {
     "awfully": "дэеу; 1аеу"
   },
   {
@@ -12410,7 +12410,7 @@
   {
     "tale": "пшысэ"
   },
-  { 
+  {
     "noun": "щы1эц1э; пкъыгъуац1э"
   },
   {
@@ -12605,6 +12605,7 @@
   {
     "all": "зэк1э; (Shapsug) зэужэу"
   },
+  {
     "a lot": "бэ; бэрэ; 1эджы"
   },
   {
@@ -12744,10 +12745,10 @@
   },
   {
     "to plug": "пыхьан (to be plugging successfully); пылъхьан (to plug something to something)"
-  }, 
+  },
   {
     "to glue": "тепк1эн (to get glued on); тегъэпк1эн (to glue something on something); ч1эпк1эн (to get glued under); ч1эгъэпк1эн (to glue something under something); ипк1эн (to get glued inside); игъэпк1эн (to glue something inside something); пыпк1эн (to get glued on the surface of an object); пыгъэпк1эн (to glue something on the surface of an object); дэпк1эн (to get glued inside another object); дэгъэпк1эн (to glue something inside another object)"
-  }, 
+  },
   {
     "glued": "тепк1агъ"
   },
@@ -15220,7 +15221,7 @@
   {
     "stable": "зыпкъ ит"
   },
-  { 
+  {
     "inconstant": "зыпкъ имыт; зэхъок1ырэ; теубытагъэ зимы1э; техьэ-тек1"
   },
   {
@@ -17332,7 +17333,7 @@
   {
     "to appear to the eye": "нэм къыпэш1ош1ыхьан"
   },
-  { 
+  {
     "to seem": "ш1ош1ын"
   },
   {
