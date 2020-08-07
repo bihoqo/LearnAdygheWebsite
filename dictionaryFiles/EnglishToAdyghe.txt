@@ -60,9 +60,6 @@
     "to shoot down": "еохын (to shot downward)"
   },
   {
-    "to sting": "еон; къеон"
-  },
-  {
     "to weed": "еон; къеон"
   },
   {
@@ -145,9 +142,6 @@
   },
   {
     "sentence": "гущы1эухыгъ"
-  },
-  {
-    "flock": "1эхъогъу"
   },
   {
     "herd": "1эхъогъу"
@@ -330,7 +324,7 @@
     "nosehole": "пэгъуанэ"
   },
   {
-    "mouth": "жэ"
+    "mouth": "жэ; (uncommon) 1у"
   },
   {
     "front": "гупэ (the front of something); ыпэ / ыпашъхьэ (in front of); ыпэк1э / ыпашъхьэк1э; ынэ1у"
@@ -586,9 +580,6 @@
   },
   {
     "milk": "щэ"
-  },
-  {
-    "bullet": "щэ"
   },
   {
     "fork": "к1этал"
@@ -981,7 +972,7 @@
     "decade": "илъэсипш1"
   },
   {
-    "to jump": "пк1эн; дэпк1эен (to jump upward); епк1эхын (to jump down); лъэн; тепк1эн (to jump on something); тепк1ын / къытепк1ын (to jump off something); ч1эпк1эн (to jump under something); ч1эпк1ын / къыч1эпк1ын (to jump from under something); 1упк1эн (to jump near something); 1упк1ын / къы1ук1ын (to jump away from something); дэпк1эн (to jump into a yard); дэпк1ын / къыдэпк1ын (to jump from a yard); гопк1эн / бгъодэпк1эн (to jump besides something); гопк1ын / къыгопк1ын / бгъодэпк1ын / къыбгъодэпк1ын (to jump from besides something); ипк1эн (to jump inside something); ипк1ын / къыипк1ын (to jump from inside something); къопк1эн (to jump behind something); къопк1ын / къыкъопк1ын (to jump from behind something); жэхэпк1эн (to intensively jump on/against something); пыпк1эн (to jump on a tree or branch); пыпк1ын / къыпыпк1ын (to jump from a tree or branch); блэпк1ын (to jump pass something, to jump over something); шъхьадэпк1ын (to jump over something); шъхьапырыпк1ын (to jump pass something); зэк1эпк1эн (to jump backward); лъыпк1эн (to jump toward something)"
+    "to jump": "пк1эн; дэпк1эен (to jump upward); епк1эхын (to jump down); лъэн; тепк1эн (to jump on something); тепк1ын / къытепк1ын (to jump off something); ч1эпк1эн (to jump under something); ч1эпк1ын / къыч1эпк1ын (to jump from under something); 1упк1эн (to jump near something); 1упк1ын / къы1ук1ын (to jump away from something); дэпк1эн (to jump into a yard); дэпк1ын / къыдэпк1ын (to jump from a yard); гопк1эн / бгъодэпк1эн (to jump besides something); гопк1ын / къыгопк1ын / бгъодэпк1ын / къыбгъодэпк1ын (to jump from besides something); ипк1эн (to jump inside something); ипк1ын / къыипк1ын (to jump from inside something); къопк1эн (to jump behind something); къопк1ын / къыкъопк1ын (to jump from behind something); жэхэпк1эн (to intensively jump on/against something); пыпк1эн (to jump on a tree or branch); пыпк1ын / къыпыпк1ын (to jump from a tree or branch); блэпк1ын (to jump pass something, to jump over something); шъхьадэпк1ын (to jump over something); шъхьапырыпк1ын (to jump pass something); зэк1эпк1эн (to jump backward); лъыпк1эн (to jump toward something); къызыщылъэтын (to unexpectedly jump up)"
   },
   {
     "thank you": "тхьауегъэпсэу"
@@ -1632,7 +1623,7 @@
     "to run off": "к1э1эн; к1этхъун"
   },
   {
-    "to run": "чъэн; чъын (to run a certain distance); ечъэжьэн (to leave quickly); к1э1эн / к1этхъун (to run off, to flee or depart quickly); зэк1эчъэн (to run backward); дэчъэен (to run upward); ечъэхын (to run downward); лъычъэн (to run toward, to run following); ечъэл1эн / къечъэл1эн (to approach while running); телъэдэн (to run onto/into); ч1элъэдэн (to run under); илъэдэн (to run inside, to go inside running); къилъэдэн (to come inside running); дэлъэдэн (to run inside a yard, area or settlement); хэлъэдэн (to run among people/objects, to run through, to run in an area with liquid or gas, to run into); къолъэдэн (to run behind); голъэдэн / бгъодэлъэдэн (to run besides or from the side of); жэхэлъэдэн (to run straight into/against); лъежьэн (to chase); ичъын (to run out from); къэчъыхьан (to run around); блэчъын / блэхъушъутын (to run past); техъушъутын (to run off); ч1эхъушъутын (to run from under, to run from a lying position); ихъушъутын (to run out from inside something); дэхъушъутын (to run out from a yard, area or settlement); хэхъушъутын (to run out of an area with liquid or gas, to run out from among people/objects, to run out of a forest); къохъушъутын (to run out from behind); къыгохъушъутын / къыбгъодэхъушъутын (to run out from besides); зэхэчъын (to spread); зэбгырычъын (to spread)"
+    "to run": "чъэн; чъын (to run a certain distance); ечъэжьэн (to leave quickly); к1э1эн / к1этхъун (to run off, to flee or depart quickly); зэк1эчъэн (to run backward); дэчъэен (to run upward); ечъэхын (to run downward); лъычъэн (to run toward, to run following); ечъэл1эн / къечъэл1эн (to approach while running); телъэдэн (to run onto/into); ч1элъэдэн (to run under); илъэдэн (to run inside, to go inside running); къилъэдэн (to come inside running); дэлъэдэн (to run inside a yard, area or settlement); хэлъэдэн (to run among people/objects, to run through, to run in an area with liquid or gas, to run into); къолъэдэн (to run behind); голъэдэн / бгъодэлъэдэн (to run besides or from the side of); жэхэлъэдэн (to run straight into/against); лъежьэн (to chase); ичъын (to run out from); къэчъыхьан (to run around); блэчъын / блэхъушъутын (to run past); техъушъутын (to run off); ч1эхъушъутын (to run from under, to run from a lying position); ихъушъутын (to run out from inside something); дэхъушъутын (to run out from a yard, area or settlement); хэхъушъутын (to run out of an area with liquid or gas, to run out from among people/objects, to run out of a forest); къохъушъутын (to run out from behind); къыгохъушъутын / къыбгъодэхъушъутын (to run out from besides); зэхэчъын (to spread); зэбгырычъын (to spread); зэпырычъын (to run across)"
   },
   {
     "to rush": "телъэдэн (to rush onto/into); ч1элъэдэн (to rush under); илъэдэн (to rush inside, to go inside rushing); къилъэдэн (to come inside rushing); дэлъэдэн (to rush inside a yard, area or settlement); хэлъэдэн (to rush among people/objects, to rush through, to rush in an area with liquid or gas, to rush into); къолъэдэн (to rush behind); голъэдэн / бгъодэлъэдэн (to rush besides or from the side of); жэхэлъэдэн (to rush straight into/against); блэхъушъутын (to rush past); техъушъутын (to rush away); ч1эхъушъутын (to rush away from under); ихъушъутын (to rush away from inside something); дэхъушъутын (to rush away from a yard, area or settlement); хэхъушъутын (to rush away from an area with liquid or gas, to rush away from among people/objects, to rush away from the forest); къохъушъутын (to rush away from behind); къыгохъушъутын / къыбгъодэхъушъутын (to rush away from besides)"
@@ -1818,7 +1809,7 @@
     "cap": "па1о"
   },
   {
-    "helmet": "пэ1отелъхьэ; гъуч1 па1о (iron helmet)"
+    "helmet": "шъхьэтелъхьэ; пэ1отелъхьэ; гъуч1 па1о (iron helmet)"
   },
   {
     "socks": "лъэпэд"
@@ -2040,7 +2031,7 @@
     "to feel hot": "фабэ пэн"
   },
   {
-    "to die": "л1эн; л1ык1ын (to die off something); хэл1эхьан (to die in a war/forest); тел1эхьан (to die above something); ч1эл1эхьан (to die under something); ил1эхьан (to die inside something)"
+    "to die": "л1эн; л1ык1ын (to die off something); хэл1эхьан (to die in a war/forest); тел1эхьан (to die above something); ч1эл1эхьан (to die under something); ил1эхьан (to die inside something); пыл1ык1ын (to die slowly, to die from bleeding)"
   },
   {
     "wisp": "1оталъ"
@@ -2049,7 +2040,7 @@
     "to sell": "щэн; щыщэн (to sell in a certain place)"
   },
   {
-    "to take": "щэн (to take/lead someone to somewhere); хьын (to take/carry something to somewhere); штэн / къэштэн (to grab something to take); ш1охьын (to take something from someone against his interest or will); 1ыхын / къы1эхын (to take something from someone by hand); техын / къытехын (to take off something from above something); ч1эхын / къыч1эхын (to take something from under something); дэхын / къыдэхын (to take something from inside another object); ихын / къыихын (to take something from inside something); пыхын / къыпыхын (to take something from a hanging state like from a rope, hanger or tree); хэхын / къыхэхын (to take something from through something or from an area with gas or liquid); къохын / къыкъохын (to take something from behind something); гохын / къыгохын / бгъодэхын / къыбгъодэхын (to take something from besides something); к1оц1ыхын / къык1оц1ыхын (to take something from inside something's body); тещэн (to take/lead someone to above something); хэщэн (to take/lead someone to among other people or objects); хэщэн (to take/lead someone to an area liquid, gas, plants or trees); дэщэн (to take/lead someone to a yard); ищэн (to take/lead someone to inside something); къощэн (to take/lead someone to behind something); пыхын (to take something like knowledge, behavior from someone); дэщэен (to lead/take someone up); ещэхын (to lead/take someone down)""
+    "to take": "щэн (to take/lead someone to somewhere); хьын (to take/carry something to somewhere); штэн / къэштэн (to grab something to take); ш1охьын (to take something from someone against his interest or will); 1ыхын / къы1эхын (to take something from someone by hand); техын / къытехын (to take off something from above something); ч1эхын / къыч1эхын (to take something from under something); дэхын / къыдэхын (to take something from inside another object); ихын / къыихын (to take something from inside something); пыхын / къыпыхын (to take something from a hanging state like from a rope, hanger or tree); хэхын / къыхэхын (to take something from through something or from an area with gas or liquid); къохын / къыкъохын (to take something from behind something); гохын / къыгохын / бгъодэхын / къыбгъодэхын (to take something from besides something); к1оц1ыхын / къык1оц1ыхын (to take something from inside something's body); тещэн (to take/lead someone to above something); хэщэн (to take/lead someone to among other people or objects); хэщэн (to take/lead someone to an area liquid, gas, plants or trees); дэщэн (to take/lead someone to a yard); ищэн (to take/lead someone to inside something); къощэн (to take/lead someone to behind something); пыхын (to take something like knowledge, behavior from someone); дэщэен (to lead/take someone up); ещэхын (to lead/take someone down); къещэк1ын (to take/lead someone around)"
   },
   {
     "to grasp": "убытын; зы1эк1эубытэн"
@@ -2073,7 +2064,7 @@
     "to hold": "1ыгъэн"
   },
   {
-    "to lead": "щэн (to lead/take someone to); пэщэн (to lead as a leader); тещэн (to take/lead someone to above something); хэщэн (to take/lead someone to among other people or objects); хэщэн (to take/lead someone to an area liquid, gas, plants or trees); дэщэн (to take/lead someone to a yard); ищэн (to take/lead someone to inside something); дэщэен (to lead/take someone up); ещэхын (to lead/take someone down)"
+    "to lead": "щэн (to lead/take someone to); пэщэн (to lead as a leader); тещэн (to take/lead someone to above something); хэщэн (to take/lead someone to among other people or objects); хэщэн (to take/lead someone to an area liquid, gas, plants or trees); дэщэн (to take/lead someone to a yard); ищэн (to take/lead someone to inside something); дэщэен (to lead/take someone up); ещэхын (to lead/take someone down); къещэк1ын (to take/lead someone around)"
   },
   {
     "to get sad": "нэшхъэин; нэшхъэеу хъугъэ; зэгожъын"
@@ -2955,10 +2946,10 @@
     "hood": "шъхьарыхъон; башлыкъ"
   },
   {
-    "too much": "башэ"
+    "too much": "бащэ; бащэу; блифыгъэу / блифэу"
   },
   {
-    "too many": "башэ"
+    "too many": "бащэ"
   },
   {
     "curser": "бгалэ"
@@ -3564,7 +3555,7 @@
     "to come into existence": "къэхъун"
   },
   {
-    "to born": "къэхъун; къалъфын; къыхэхъохьан (to born among or born in a certian environment)"
+    "to born": "къэхъун; къалъфын; къыхэхъохьан (to born among or born in a certian environment); къыдэхъун (to be born with, to born alongside)"
   },
   {
     "to come into being": "къэхъун; къалъфын; къыхэхъохьан (to come into being among)"
@@ -3738,7 +3729,7 @@
     "to cleave": "гоутын; зэгоутын; зэгогъэк1ын; зэгогъэлэтхъын"
   },
   {
-    "to cut": "бзын (to cut with scissors or knife or sword); пыупк1ын (to cut off hair or tree branches); иупк1ын (to cut down a tree); ш1обзын (to slice); упк1эн (to mow); упхъун (to cut hair or fur or grass); к1эупхъухьан (to take a haircut); хэупк1ын (to cut off); хэбзык1ын (to cut off); хын (to mow)"
+    "to cut": "бзын (to cut with scissors or knife or sword); пыупк1ын (to cut off hair or tree branches); иупк1ын (to cut down a tree); ш1обзын (to slice); упк1эн (to mow); упхъун (to cut hair or fur or grass); к1эупхъухьан (to take a haircut); хэупк1ын (to cut off); хэбзык1ын (to cut off); упк1эн (to mow); хын (to mow)"
   },
   {
     "to cut down": "иупк1ын"
@@ -4269,16 +4260,16 @@
     "snakehead": "блашъхьэ"
   },
   {
-    "to loose": "гъэлэлэн; т1упщын"
+    "to loose": "гъэлэлэн; т1упщын; ит1упщыхьан (to let loose inside something); хэт1упщыхьан (to let loose something into the water, sea, gas, fire, forest)"
   },
   {
-    "to let loose": "гъэлэлэн; т1упщын"
+    "to let loose": "гъэлэлэн; т1упщын; итIупщыхьан; ит1упщыхьан (to let loose inside something); хэт1упщыхьан (to let loose something into the water, sea, gas, fire, forest)"
   },
   {
-    "to free": "гъэлэлэн; т1упщын"
+    "to free": "гъэлэлэн; т1упщын; ит1упщыхьан (to free inside something); хэт1упщыхьан (to free something into the water, sea, gas, fire, forest)"
   },
   {
-    "to release": "гъэлэлэн; т1упщын"
+    "to release": "гъэлэлэн; т1упщын; ит1упщыхьан (to release inside something); хэт1упщыхьан (to release something into the water, sea, gas, fire, forest)"
   },
   {
     "to launch": "т1упщын; дэфыен (to launch upward); дэгъэбыбэен (to launch high)"
@@ -4446,13 +4437,7 @@
     "to jump aside": "гопк1эн"
   },
   {
-    "to daub": "щыфэн"
-  },
-  {
     "to rub in": "щыфэн; тефэхьан; теуц1элэн"
-  },
-  {
-    "to spread": "тифэхьын"
   },
   {
     "to spill": "тек1утэн (to spill drops on); ч1эк1утэн (to spill drops under); ик1утэн (to spill drops inside); тек1эн (to spill on); хэк1эн (to spill a liquid to another liquid); ик1эн (to spill inside); ч1эк1эн (to spill under); жэхэк1эн (to spill on someone intensively); ек1эхын (to pour down)"
@@ -4536,7 +4521,7 @@
     "to tear off": "тетхъын (to tear off from above something); хэтхъын / пытхъын (to tear off from); зэпытхъын (to tear off from itself); ч1этхъын (to tear off from under something)"
   },
   {
-    "to tear apart": "зэхэтхъын"
+    "to tear apart": "зэхэтхъын; цунтхъэн"
   },
   {
     "to rip away": "хэтхъын; пытхъын"
@@ -4980,9 +4965,6 @@
     "scabby": "бэгу"
   },
   {
-    "itch": "бэгу"
-  },
-  {
     "scab": "бэгу"
   },
   {
@@ -5214,7 +5196,7 @@
     "burial cover": "бэнтехъу"
   },
   {
-    "burial": "хьадагъэ; хьэдэ дэхыныр, хьэдэ гъэ1ылъыныр"
+    "burial": "хьадагъэ; хьэдэ дэхыныр; хьэдэ гъэ1ылъыныр"
   },
   {
     "grave": "бэны; къэ; хъэ (Shapsug)"
@@ -5406,10 +5388,10 @@
     "pupil": "п1ур; к1элэеджак1о; еджак1о"
   },
   {
-    "to train": "мэсэн (to be trained); гъэсэн (to train someone); зыгъэсэн (to train)"
+    "to train": "мэсэн (to be trained); гъэсэн (to train someone); зыгъэсэн (to train, to do training); фэгъэсэн (to train someone for something); зыфэгъэсэн (to train oneself for something, to do training for)"
   },
   {
-    "to practice": "гъэсэн (to practice someone); зыгъэсэн (to practice)"
+    "to practice": "гъэсэн (to practice someone); зыгъэсэн (to do practice); фэгъэсэн (to practice someone for something); зыфэгъэсэн (to do practice for something)"
   },
   {
     "exist": "щы1"
@@ -5778,9 +5760,6 @@
     "wildcat": "мэзчэтыу"
   },
   {
-    "rat": "шъуае"
-  },
-  {
     "mink": "псысамыр"
   },
   {
@@ -5982,7 +5961,7 @@
     "cat": "чэтыу; кьэтыу (Shapsug)"
   },
   {
-    "fast": "псынк1э; (dialectal) чъык1ай; псык1э (Shapsug)"
+    "fast": "псынк1э; (dialectal) чъык1ай; псык1э (Shapsug); елбэтэу (as fast as lightning); псынк1эу / ш1эхэу (quickly)"
   },
   {
     "quick": "псынк1э; (dialectal) чъык1ай; псык1э (Shapsug)"
@@ -6538,9 +6517,6 @@
   },
   {
     "to testify": "шыхьатэу теуцон; къэушыхьатын"
-  },
-  {
-    "to witness": "шыхьатэу теуцон; къэушыхьатын"
   },
   {
     "to be evidence of": "шыхьатэу теуцон; къэушыхьатын"
@@ -7105,9 +7081,6 @@
   },
   {
     "unruly": "мыдэ1орэ"
-  },
-  {
-    "disobedient": "мыдэ1орэ"
   },
   {
     "obscene": "ш1ои; емык1у зыхэлъ, ук1ытэныгъэ зыхэмылъ"
@@ -7776,6 +7749,9 @@
     "itch": "хъу; хъун (to itch); хъупц1"
   },
   {
+    "rash": "хъу; хъун (to itch); хъупц1"
+  },
+  {
     "to itch": "хъун; хъупц1ын"
   },
   {
@@ -8115,7 +8091,7 @@
     "to honor": "лъытэн; пхъатэ етын; пхъатэ фэш1ын"
   },
   {
-    "to understand": "гуры1он (to understand meaning); зэхэхын (to make out clearly what have been said or heard); гулъытэн (Shapsug)"
+    "to understand": "гуры1он / къыгуры1он (to understand meaning); хэхьан (to get it); зэхэхын (to make out clearly what have been said or heard); (Shapsug) гулъытэн"
   },
   {
     "to notice": "гулъытэн"
@@ -8205,9 +8181,6 @@
     "to scrape": "ц1энтхъун"
   },
   {
-    "to stain": "хэупц1эн (intensive); жэхэупц1эн (very intensive)"
-  },
-  {
     "to splash": "утхэн; теупц1эн (extremely intensive)"
   },
   {
@@ -8244,7 +8217,7 @@
     "foolish": "делэ; жэ1улэл; (vulgar) цуманэ"
   },
   {
-    "silly": "мы1уш; жэ1улэл"
+    "silly": "мы1уш; жэ1улэл; 1улэ"
   },
   {
     "unwise": "мы1уш; акъылынчъэ; гулъытэнчъэ"
@@ -8580,12 +8553,6 @@
     "to marry": "къэщэн (to marry a girl); дэк1он (to marry a man)"
   },
   {
-    "fiancee": "къэщэн"
-  },
-  {
-    "bridegroom": "къэщэн"
-  },
-  {
     "bride": "къэщэн"
   },
   {
@@ -8601,16 +8568,10 @@
     "Marjoram ": "дадыу"
   },
   {
-    "deficiency": "щык1агъ; дагъо; ныкъо-тыркъуагъ; дефект; нэц1эк1"
+    "deficiency": "щык1агъэ; дагъо; ныкъо-тыркъуагъ; дефект; нэц1эк1"
   },
   {
     "deficit": "щык1агъ; дагъо; ныкъо-тыркъуагъ; дефект; нэц1эк1"
-  },
-  {
-    "shortage": "щык1агъ"
-  },
-  {
-    "lack": "щык1агъ"
   },
   {
     "to lack": "щык1эн / къыщык1эн"
@@ -8801,7 +8762,7 @@
     "to slide down": "ечъэхын"
   },
   {
-    "to build": "ш1ын; фэш1ын (to build for); дэш1ын (to build with); ш1ыжьын (to rebuild); иш1ыхьан (to build inside); дэш1ыхьан (to build inside a yard or inside another object); теш1ыхьан (to build on); ч1эш1ыхьан (to build under); хэш1ыхьан (to build in the forest, to build into a solid thing, liquid or gas); пыш1ыхьан (to build on a tree or on the side of a house)"
+    "to build": "ш1ын; фэш1ын (to build for); дэш1ын (to build with); ш1ыжьын (to rebuild); к1эш1ыхьан (to build under something); теш1ыхьан (to build on something); хэш1ыхьан (to build in the water, sea, fire, gas, forest, field); дэш1ыхьан (to build between, to build inside another object, to build inside a yard, village, area, etc.); иш1ыхьан (to build inside); пыш1ыхьан (to build on a tree, to build on the surface of a device or tool); къош1ыхьан (to build behind something); гош1ыхьан / бгъодэш1ыхьан (to build besides something); зэтеш1ыхьан (to build on each other); зэч1эш1ыхьан (to build under each other); зэриш1ыхьан (to build inside each other); зэхэш1ыхьан (to build up something from parts)"
   },
   {
     "to measure": "шын; щэчын (to measure weight)"
@@ -9207,9 +9168,6 @@
   },
   {
     "towel": "1эплъэк1; нэ1аплъэк1"
-  },
-  {
-    "fruit": "пхъэшъхьэмышъхь; пк1ышъхьэмышъхьэ"
   },
   {
     "nice": "хъупхъэ (kind); ш1у (well); дэгъу (good); (slang) ц1ап1э (awesome)"
@@ -10058,7 +10016,7 @@
     "low-friction surface": "ц1ашъутэ"
   },
   {
-    "smooth": "зэныбжьы; зэщизы"
+    "smooth": "зэшъхьэ-зашъо; занк1э; шъабэ; зэныбжьы; зэщизы"
   },
   {
     "flat": "зэныбжьы; зэщизы"
@@ -10556,13 +10514,13 @@
     "chubby": "нэгу хъурай; ныбэкъ (big-bellied); быт1ыхъурай"
   },
   {
-    "big-bellied": "ныбэкъ; ныбэ хъурай; быт1ыхъурай"
+    "big-bellied": "ныбэкъ; ныбэ хъурай; быт1ыхъурай; ныбэшъу"
   },
   {
-    "potbellied": "ныбэкъ; ныбэ хъурай; быт1ыхъурай"
+    "potbellied": "ныбэкъ; ныбэ хъурай; быт1ыхъурай; ныбэшъу"
   },
   {
-    "paunchy": "ныбэкъ; ныбэ хъурай; быт1ыхъурай"
+    "paunchy": "ныбэкъ; ныбэ хъурай; быт1ыхъурай; ныбэшъу"
   },
   {
     "debt": "ч1ыфэ"
@@ -10998,7 +10956,7 @@
     "to temper": "псыхьан"
   },
   {
-    "to harden": "пытэ хъун; пытэ пш1ын (to harden something); гъэпытэн (to harden something); псыхьан (to temper, to strengthen or toughen a material, especially metal, by heat treatment)"
+    "to harden": "пытэ хъун; пытэ пш1ын (to harden something); гъэпытэн (to harden something); псыхьан (to temper, to strengthen or toughen a material, especially metal, by heat treatment); чъын"
   },
   {
     "mark": "плъышъо"
@@ -11010,10 +10968,10 @@
     "soft": "шъабэ; гохьы (soft person)"
   },
   {
-    "copper boiler": "лэгъупышху (great copper boiler)"
+    "copper boiler": "лэгъуп; лэгъупышху (great copper boiler)"
   },
   {
-    "boiler": "лэгъупышху (great copper boiler)"
+    "boiler": "лэгъуп (copper boiler); лэгъупышху (great copper boiler)"
   },
   {
     "hypothesis": "ш1ош1"
@@ -11055,16 +11013,13 @@
     "to decrease": "хэгъэк1ын; гъэт1эк1ун (to make it little); къыщыгъэк1эн (reduce)"
   },
   {
-    "to lower": "гъэшъхъын (in height); къегъэхын (to lower something); хэгъэк1ын (in amount); къыщыгъэк1эн (to reduce); гъэпыутын (to lower the price)"
+    "to lower": "егъэхын (to lower something, to bring something down); гъэшъхъын (in height); къегъэхын (to lower something); хэгъэк1ын (in amount); къыщыгъэк1эн (to reduce); гъэпыутын (to lower the price)"
   },
   {
     "to diminish": "къыщыгъэк1эн; нахь мак1э ш1ын; хэгъэк1ын"
   },
   {
     "to lessen": "къыщыгъэк1эн; нахь мак1э ш1ын; хэгъэк1ын"
-  },
-  {
-    "to reduce": "къыщыгъэк1эн; нахь мак1э ш1ын; хэгъэк1ын; гъэпыутын (to reduce the price)"
   },
   {
     "to take away": "1ыхын / къы1ыхын (to take an item/object from someone); 1ухын (to take away); 1ущын (to take/lead a person away); техын (to take away from above something); ч1эхын (to take away from under something); дэхын (to take away from inside another object, to take away from between); ихын (to take away from inside something); гохын / бгъодэхын (to take away from besides something); къохын (to take away from behind something); пыхын (to take away from a hanger or tree); тещын (to take/lead a person away from above something); ч1эщын (to take/lead a person away from under something); дэщын (to take/lead a person away from a defined area); ищын (to take/lead a person away from inside something); гощын / бгъодэщын (to take/lead a person away from besides something); къощын (to take/lead a person away from behind something)"
@@ -11145,10 +11100,10 @@
     "to infatuate": "дэхьыхын"
   },
   {
-    "to curse": "бгын (to damn); ебгын (to damn someone); хъонэн (to swear); ехъонын (to swear at someone); хэхъонэн / жэхэхъонэн (to swear at someone's face); хэхъонэхьан / жэхэхъонэхьан (to intensively swear at someone's face)"
+    "to curse": "бгын (to damn); ебгын (to damn someone); хъонэн (to swear); ехъонын (to swear at someone); хэхъонэн / жэхэхъонэн (to swear at someone's face); хэхъонэхьан / жэхэхъонэхьан (to intensively swear at someone's face); еук1ын (to damn)"
   },
   {
-    "to damn": "бгын; ебгын (to damn someone)"
+    "to damn": "бгын; ебгын (to damn someone); еук1ын"
   },
   {
     "to swear": "хъонэн; ехъонын (to swear someone); хэхъонэн / жэхэхъонэн (to swear at someone's face); хэхъонэхьан / жэхэхъонэхьан (to intensively swear at someone's face)"
@@ -11199,9 +11154,6 @@
     "to make smooth": "убэн"
   },
   {
-    "to dirty": "уш1оин"
-  },
-  {
     "by heart": "езбырэу"
   },
   {
@@ -11245,9 +11197,6 @@
   },
   {
     "to undress": "щыхын"
-  },
-  {
-    "to take off": "щыхын; зытехын (to take off an item such as a hat, mask, necklace or clock)"
   },
   {
     "clothing": "щыгъын"
@@ -11361,25 +11310,16 @@
     "surface": "к1ы1у"
   },
   {
-    "to carry": "хьын; фэхьын (to carry for, to carry to); дэхьын (to take/carry something along"
+    "to carry": "хьын; фэхьын (to carry for, to carry to); дэхьын (to take/carry something along); зехьан / зэрихьан (to carry something); къехьак1ын (to carry around); дэхьыен (to carry up); ехьэхын (to carry down); ехьыл1эн (to carry to)"
   },
   {
     "to try out": "плъэк1ун"
   },
   {
-    "to check": "плъэк1ун"
+    "to try": "1он"
   },
   {
-    "to examine": "плъэк1ун"
-  },
-  {
-    "to test": "плъэк1ун"
-  },
-  {
-    "to try": "1он; шэтэн"
-  },
-  {
-    "to attempt": "1он; шэтэн"
+    "to attempt": "1он"
   },
   {
     "to kill": "ук1ын; гъэл1эн (to cause to die); хиук1ыхьан (to kill in a war/forest); хэук1ыхьан (to be killed in a war/forest); (dialectal) гъэк1одын; гъэл1эн; 1эк1эук1эн (to kill somebody inadvertently)"
@@ -11574,7 +11514,7 @@
     "to grant approval": "дэн; къаблэу ш1ын"
   },
   {
-    "to make": "ш1ын; фэш1ын (to make for)"
+    "to make": "ш1ын; фэш1ын (to make for); к1эш1ыхьан (to make under something); теш1ыхьан (to make on something); хэш1ыхьан (to make in the water, sea, fire, gas, forest, field); дэш1ыхьан (to make between, to make inside another object, to make inside a yard, village, area, etc.); иш1ыхьан (to make inside); пыш1ыхьан (to make on a tree, to make on the surface of a device or tool); къош1ыхьан (to make behind something); гош1ыхьан / бгъодэш1ыхьан (to make besides something); зэтеш1ыхьан (to make on each other); зэч1эш1ыхьан (to make under each other); зэриш1ыхьан (to make inside each other); зэхэш1ыхьан (to build up something from parts)"
   },
   {
     "oven": "хьаку"
@@ -11598,7 +11538,7 @@
     "bookstore": "тхылъыщэ"
   },
   {
-    "to fall down": "къефэхын; къедзэхын; (Shapsug) къет1эрэхын"
+    "to fall down": "къефэхын; къедзэхын; (Shapsug) къет1эрэхын; къетэкъохын (things to fall down from); пытэкъун (to fall down stuff/things from a tree)"
   },
   {
     "to come down": "ехын / къехын; ыхэ ехын"
@@ -11802,7 +11742,7 @@
     "to sneeze": "псын / къэпсын; ц1этхын (Shapsug)"
   },
   {
-    "to worry": "гу1эн; гъэгу1эн (to worry someone); гумэк1ын; гъэгумэк1ын (to worry someone)"
+    "to worry": "гу1эн; гъэгу1эн (to worry someone); гумэк1ын; гъэгумэк1ын (to worry someone); фэгу1эн (to worry for someone); тегу1эхьан (to worry about)"
   },
   {
     "to be anxious": "гумэк1ын"
@@ -12054,13 +11994,13 @@
     "valley": "к1эй; лъэгу"
   },
   {
-    "chasm": "т1ок1э куу; къое-ч1ай; къуладжэ"
+    "chasm": "т1ок1э куу; къое-ч1ай; къуладжэ; тауташ"
   },
   {
-    "abyss": "т1ок1э куу; къушъхьэт1ок1э къое-ч1ай"
+    "abyss": "т1ок1э куу; къушъхьэт1ок1э къое-ч1ай; тауташ"
   },
   {
-    "precipice": "т1ок1э куу; къое-ч1ай"
+    "precipice": "т1ок1э куу; къое-ч1ай; тауташ"
   },
   {
     "riverbed": "къуладжэ; псычъап1э"
@@ -12120,7 +12060,7 @@
     "to unfasten": "т1этэн; гъэт1этэн; къыпыт1этык1ын; къыпыт1этык1ыжьын; къык1эрыт1этык1ын"
   },
   {
-    "to untie": "т1этэн; гъэт1этэн; къыпыт1этык1ын; къыпыт1этык1ыжьын; къык1эрыт1этык1ын"
+    "to untie": "гъэлэлэн; т1этэн; гъэт1этэн; къыпыт1этык1ын; къыпыт1этык1ыжьын; къык1эрыт1этык1ын"
   },
   {
     "to unbind": "т1этэн; гъэт1этэн; къыпыт1этык1ын; къыпыт1этык1ыжьын; къык1эрыт1этык1ын"
@@ -12457,9 +12397,6 @@
   },
   {
     "literary": "тхыбзэ"
-  },
-  {
-    "story": "тхыдэ"
   },
   {
     "narrative": "тхыдэ"
@@ -13211,7 +13148,7 @@
     "to discover": "къык1эгъэщын"
   },
   {
-    "to expose": "къык1эгъэщын (to expose something, to make it seeable); к1э1отык1ыжьын (to expose or rat out someone)"
+    "to expose": "къык1эгъэщын (to expose something, to make it seeable); к1э1отык1ыжьын (to expose or rat out someone); егъэун (to direct toward something that emits heat); зегъэун (to direct oneself toward something that emits heat)"
   },
   {
     "to find out": "къык1эгъэщын"
@@ -13427,7 +13364,7 @@
     "seriously": "шъыпкъэу"
   },
   {
-    "each": "сыдрэ (each thing); хэтрэ (each person); (dialectal) тэдрэ / тэдрэз; къэс (each time, day, month, year...)"
+    "each": "сыдрэ (each thing); хэтрэ (each person); (dialectal) тэдрэ / тэдрэз; къэс (each time, day, month, year...); шъхьадж"
   },
   {
     "evey": "сыдрэ (every thing); хэтрэ (every person); пэпчъ; къэс (evey time, day, month, year...)"
@@ -13496,7 +13433,7 @@
     "lightly sick": "гъойщай"
   },
   {
-    "to obey": "1орыш1эн"
+    "to obey": "дэ1он; 1орыш1эн"
   },
   {
     "to be aware of": "къэбэр и1эн; щыгъозэн"
@@ -13550,7 +13487,7 @@
     "to wear": "щыгъын (to be wearing); щылъэн (to dress someone else); зыщылъэн (to wear something, to dress oneself)"
   },
   {
-    "quickly": "псынк1эу; ш1эхэу"
+    "quickly": "псынк1эу; ш1эхэу; елбэтэу (as fast as lightning)"
   },
   {
     "lost": "к1одыгъэ; гъозадж"
@@ -13575,9 +13512,6 @@
   },
   {
     "running shoes": "лъэрычъ"
-  },
-  {
-    "to take off": "лъэтэн (to fly); быбын (to fly); щыхын (to take off clothes, to undress)"
   },
   {
     "to take flight": "лъэтэн; быбын"
@@ -13730,9 +13664,6 @@
     "to look after": "лъыплъэн; пык1эрэплъын; нэ1э тегъэтын"
   },
   {
-    "to drip": "тетк1он (to fall one drop at a time)"
-  },
-  {
     "idiot": "делэ; хьакъ-мэкъ; къыгъэ (moron); (vulgar) цуманэ; шъхьэ1ужъу"
   },
   {
@@ -13778,7 +13709,7 @@
     "basic": "1эпс-лъэпс"
   },
   {
-    "to mow": "хын"
+    "to mow": "упк1эн; хын"
   },
   {
     "to get irritated": "къэхын"
@@ -14025,9 +13956,6 @@
   },
   {
     "to guard someone": "къэгъэгъунэн"
-  },
-  {
-    "to smear": "щыфэн"
   },
   {
     "to daub all over": "к1эен"
@@ -14580,9 +14508,6 @@
   },
   {
     "object": "пкъыгъо (an object)"
-  },
-  {
-    "to spray": "гъэц1ырэн (to spray burst liquid on to usually from a pile)"
   },
   {
     "coffee": "кофе; къэхьыо"
@@ -15500,7 +15425,7 @@
     "distasteful": "1ае (having a bad or foul taste)"
   },
   {
-    "to disobey": "1орыш1эджэн"
+    "to disobey": "мыдэ1он; 1орыш1эджэн"
   },
   {
     "attractive": "го1у"
@@ -15617,7 +15542,7 @@
     "dog hair": "хьацэ"
   },
   {
-    "to deliver": "фэхьын (to deliver to); къэхьын (to give birth)"
+    "to deliver": "фэхьын (to deliver to); къэхьын (to give birth); егъэхьын (to send something to someone)"
   },
   {
     "to win the prize": "къэхьын"
@@ -15669,12 +15594,6 @@
   },
   {
     "to take a nap": "хэпэзэн; шъхьэукъэн; т1эк1у хэчъыен"
-  },
-  {
-    "cannabis": "к1эп"
-  },
-  {
-    "hemp": "к1эп"
   },
   {
     "horsewhip": "к1эпщы; чы уфэ-упц1"
@@ -15782,10 +15701,7 @@
     "useless": "пк1энчъ"
   },
   {
-    "meaningless": "пк1энчъ"
-  },
-  {
-    "disobedient": "1орыш1адж"
+    "disobedient": "мыдэ1орэ; 1орыш1адж"
   },
   {
     "competition": "зэпачъэ"
@@ -16154,7 +16070,7 @@
     "grandchildren (on the line of the daughter); one's daughter's children": "пхъурылъф"
   },
   {
-    "to push": "1унк1эн (to push someone); т1ыргун (to push someone); (Shapsug) егук1эн; ифын (to drive/push from an area, to drive/push from inside); 1уфын (to drive/push from near); дэфыен (to drive/push up); ефэхын (to drive/push down); блэфын (to drive/push pass); ч1эфын (to drive/push from under); тефын (to drive/push from above); хэфын (to drive/push from among other people/animals/objects, to drive/push from an area with gas or liquid, to drive/push from the forest or field); дэфын (to drive/push from a defined area such as a yard, area, village, etc.); къофын (to drive/push from behind)"
+    "to push": "1унк1эн (to push someone); т1ыргун (to push someone); (Shapsug) егук1эн; ифын (to drive/push from an area, to drive/push from inside); 1уфын (to drive/push from near); дэфыен (to drive/push up); ефэхын (to drive/push down); блэфын (to drive/push pass); ч1эфын (to drive/push from under); тефын (to drive/push from above); хэфын (to drive/push from among other people/animals/objects, to drive/push from an area with gas or liquid, to drive/push from the forest or field); дэфын (to drive/push from a defined area such as a yard, area, village, etc.); къофын (to drive/push from behind); е1эн (to push with might)"
   },
   {
     "gallop": "хьапк1"
@@ -16290,9 +16206,6 @@
   },
   {
     "too": "сэри (me too); ори (you too); тэри (we too); шъори (you guys too, you all too); ари (he, she, it, that too); ахэри (they, those too); блэк1ыгъэу / блифыгъэу / блифэу (too much)"
-  },
-  {
-    "too much": "блэк1ыгъэу / блифыгъэу / блифэу (too much)"
   },
   {
     "to start with": "дэублэн"
@@ -16802,187 +16715,82 @@
     "plank": "пхъэмбгъу"
   },
   {
-    "alternative form of \"гуегъун\"": "угу егъун"
+    "to feel sorry for": "гук1эгъу фэлъэгъун"
   },
   {
-    "alternative form of \"гук1эгъу фэлъэгъун\"": "гук1эгъу фэплъэгъун"
-  },
-  {
-    "to feel sorry for, to feel pity for": "гук1эгъу фэлъэгъун"
+    "to feel pity for": "гук1эгъу фэлъэгъун"
   },
   {
     "to have mercy upon": "гук1эгъу фэлъэгъун"
   },
   {
-    "pity": "гук1эгъу"
-  },
-  {
-    "mercy": "гук1эгъу"
-  },
-  {
-    "alternative form of \"гуегъун\"": "гур егъун"
-  },
-  {
-    "to come from": "къэк1ын"
-  },
-  {
     "to be grown (hair)": "къэк1ын"
   },
   {
-    "alternative form of \"гу рихьан\"": "гум рихьан"
+    "to be in peace due to": "гу тепсэфэн"
   },
   {
-    "alternative form of \"гу рихьан\"": "гурихьан"
+    "frying pan": "табэ (long-handled, shallow pan used for frying food)"
   },
   {
-    "alternative form of \"гу рихьан\"": "гурихьэн"
-  },
-  {
-    "alternative form of \"гу ш1у лъэгъун\"": "ш1улъэгъун"
-  },
-  {
-    "to in peace due to": "гу тепсэфэн"
-  },
-  {
-    "to hurry up, to hasten": "псынк1эн"
-  },
-  {
-    "to worry for/about someone": "фэгу1эн"
-  },
-  {
-    "alternative form of \"1унк1эн\"": "е1унк1эн"
-  },
-  {
-    "(Kfar Kama dialect) to bark on": "тегъогъон"
-  },
-  {
-    "frying pan (long-handled, shallow pan used for frying food)": "табэ"
-  },
-  {
-    "cooking pot (traditionally made of cast iron)": "щыуаныжъ"
+    "cooking pot": "щыуаныжъ (traditionally made of cast iron)"
   },
   {
     "cast iron": "щыуаныжъ"
   },
   {
-    "axe handle, helve": "ощык1"
-  },
-  {
     "hardship": "къиныгъу"
   },
   {
-    "time of difficulty": "къиныгъу"
-  },
-  {
-    "plate": "тепщэч"
-  },
-  {
-    "everyone; each one; every": "шъхьадж"
-  },
-  {
-    "to train someone for": "фэгъэсэн"
-  },
-  {
-    "to train for; to practice] for": "зыфэгъэсэн"
+    "each one": "шъхьадж"
   },
   {
     "bomb": "къумбыл"
   },
   {
-    "obstacle, impediment": "пэрыохъу"
+    "obstacle": "пэрыохъу; гъэохъу"
   },
   {
-    "to make someone sick": "гъэсымэджэн"
+    "impediment": "пэрыохъу"
   },
   {
-    "to smelt": "зэпыгъэчъыхьан"
+    "to sicken": "гъэсымэджэн"
   },
   {
-    "to weld; to join two materials (especially two metals) together by applying heat, pressure and filler, either separately or in any combination.": "зэпыгъэчъыхьан"
+    "to smelt": "зэпыгъэчъыхьан; зэпыгъэжъэн; зэпыгъэшхэн"
   },
   {
-    "to smelt": "зэпыгъэжъэн"
-  },
-  {
-    "to weld; to join two materials (especially two metals) together by applying heat, pressure and filler, either separately or in any combination.": "зэпыгъэжъэн"
-  },
-  {
-    "to smelt": "зэпыгъэшхэн"
-  },
-  {
-    "to weld; to join two materials (especially two metals) together by applying heat, pressure and filler, either separately or in any combination.": "зэпыгъэшхэн"
-  },
-  {
-    "to fall down successively or gradually from": "пытэкъун"
-  },
-  {
-    "to make something to fall down successively or gradually from": "пыгъэтэкъун"
+    "to weld": "зэпыгъэчъыхьан / зэпыгъэжъэн / зэпыгъэшхэн (to join two materials (especially two metals) together by applying heat, pressure and filler, either separately or in any combination)"
   },
   {
     "to become happy": "тхъэжьын"
   },
   {
-    "to make someone sit down on": "тегъэт1ысхьан"
+    "to get happy": "тхъэжьын"
   },
   {
-    "to be dripping (sticky substances like honey, cake and color liquid)": "т1эт1эн"
+    "to be dripping": "т1эт1эн (sticky substances like honey, cake and color liquid)"
   },
   {
-    "alternative form of \"тет1эт1эн\"": "тэт1эт1эн"
+    "to drip": "къетк1ухын (to drop small amount of liquid on something one drop at a time); тетк1он (to fall one drop on something one drop at a time); т1эт1эн (to be dripping, sticky substances), тегъэт1эт1эн (to drip sticky substances on); тет1эт1эн (to be dripping on, sticky substances)"
   },
   {
-    "to drip (sticky substance) on": "тегъэт1эт1эн"
+    "to sin": "гонахь гъэхъэн; псэк1од ш1эн; гунахь ш1эн; гунахь зехьан"
   },
   {
-    "alternative form of \"гъэухьазырын\"": "гъэхьазырын"
+    "to spray": "гъэц1ырэн (to spray burst liquid on to usually from a pile); тегъэц1ырэн (to spray liquid on)"
   },
   {
-    "to sin": "гонахь гъэхъэн"
+    "low": "гъэшъыхъыгъ; лъхъанчэ; мылъагэ; мак1э (low price, low in amount)"
   },
   {
-    "to deliver to, to send to": "егъэхьын"
+    "lowered": "гъэшъыхъыгъ"
   },
   {
-    "to make someone deliver something to": "егъэхьын"
+    "squint-eyed": "назэ"
   },
   {
-    "alternative form of \"гъэтэрэзын\"": "гъэтэрэзыжьын"
-  },
-  {
-    "to spray burst liquid on to (usually from a pile)": "тегъэц1ырэн"
-  },
-  {
-    "alternative form of \"гъэчэн\"": "гъэкьэн"
-  },
-  {
-    "low; lowered": "гъэшъыхъыгъ"
-  },
-  {
-    "low": "лъхъанчэ"
-  },
-  {
-    "to lower something": "егъэхын"
-  },
-  {
-    "to lower something": "ет1упщыхьахын"
-  },
-  {
-    "to drop something downward": "къегъэт1ыхын"
-  },
-  {
-    "to drop something downward": "къегъэ1ыхын"
-  },
-  {
-    "to take someone downward (to a lower elevation)": "ещэхын"
-  },
-  {
-    "to freeze, to congeal": "дыкъын"
-  },
-  {
-    "to curse; to damn": "еук1ын"
-  },
-  {
-    "squint-eyed, cross-eyed": "назэ"
+    "cross-eyed": "назэ"
   },
   {
     "moral of the story": "гъэсэпэтхыдэ"
@@ -16991,46 +16799,31 @@
     "instructive lesson": "гъэсэпэтхыдэ"
   },
   {
-    "last time; previously": "ипэрэгъум"
+    "last time": "ыпэрэгъум; (dialectal) ипэрэгъум; ыпэгъум"
   },
   {
-    "next time": "къа1орэгъум"
+    "previously": "ыпэрэгъум; (dialectal) ипэрэгъум; ыпэгъум"
   },
   {
-    "last time; previously": "ипэгъум"
+    "next time": "къэк1орэгъум; къэк1огъум"
   },
   {
-    "next time": "къа1огъум"
-  },
-  {
-    "to cough": "псчэн"
-  },
-  {
-    "to cough": "пчэн"
-  },
-  {
-    "alternative form of \"гъэпск1ын\"": "гъэпк1ын"
+    "to cough": "псчэн; пчэн; пскэн"
   },
   {
     "long time": "мэфэл"
   },
   {
-    "to carry (for a while; on foot)": "ехьыжьэн"
-  },
-  {
-    "to start a trend": "ехьыжьэн"
-  },
-  {
-    "alternative form of \"ехьыжьэн\"": "къехьыжьэн"
-  },
-  {
     "to construct under": "к1эш1ыхьан"
   },
   {
-    "to make under": "к1эш1ыхьан"
+    "to construct": "ш1ын; к1эш1ыхьан (to construct under something); теш1ыхьан (to construct on something); хэш1ыхьан (to construct in the water, sea, fire, gas, forest, field); дэш1ыхьан (to construct between, to construct inside another object, to construct inside a yard, village, area, etc.); иш1ыхьан (to construct inside); пыш1ыхьан (to construct on a tree, to construct on the surface of a device or tool); къош1ыхьан (to construct behind something); гош1ыхьан / бгъодэш1ыхьан (to construct besides something); зэтеш1ыхьан (to construct on each other); зэч1эш1ыхьан (to construct under each other); зэриш1ыхьан (to construct inside each other); зэхэш1ыхьан (to build up something from parts)"
   },
   {
-    "wonderful, marvelous": "ш1агъо"
+    "wonderful": "ш1агъо"
+  },
+  {
+    "marvelous": "ш1агъо"
   },
   {
     "wonder": "ш1агъо"
@@ -17039,58 +16832,61 @@
     "clod": "1ашк1"
   },
   {
-    "to examine, to check, to verify, to test": "ушэтын"
+    "to get it": "хэхьан"
   },
   {
-    "to dam, to dam up": "дзон"
+    "to examine": "плъэк1ун; ушэтын"
   },
   {
-    "to drop liquid into something": "дэгъэтк1он"
+    "to check": "плъэк1ун; ушэтын"
   },
   {
-    "pill": "уцы такъыр"
+    "to verify": "плъэк1ун; ушэтын"
+  },
+  {
+    "to test": "плъэк1ун; ушэтын"
+  },
+  {
+    "to dam": "дзон"
+  },
+  {
+    "to dam up": "дзон"
   },
   {
     "coffin": "пхъэмбай"
   },
   {
-    "to hide something in": "дэгъэбылъхьан"
-  },
-  {
-    "to reduce a debt or a punishment": "фэдэгъэзын"
-  },
-  {
-    "alternative form of \"хьадэгъущэ\"": "хьадэгъущ"
+    "to reduce": "къыщыгъэк1эн; нахь мак1э ш1ын; хэгъэк1ын; гъэпыутын (to reduce the price); фэдэгъэзын (to reduce a debt or a punishment); гъэпыутын (to reduce cost)"
   },
   {
     "killing bullet": "хьадэгъущэ"
   },
   {
-    "to shake out": "утхыпк1ын"
+    "bullet": "щэ; хьадэгъущэ (killing bullet)"
   },
   {
-    "to agitate a piece of cloth or other flexible material in order to remove dust, or to try to make it smooth and flat": "утхыпк1ын"
+    "to shake out": "утхыпк1ын (to agitate a piece of cloth or other flexible material in order to remove dust, or to try to make it smooth and flat)"
   },
   {
-    "alternative form of \"къыдэхъун\"": "дэхъун"
+    "to work out": "къыдэхъун"
   },
   {
-    "to born with": "къыдэхъун"
+    "to turn out well": "къыдэхъун"
   },
   {
-    "to born alongside": "къыдэхъун"
+    "to come true": "шъыпкъэу хъун"
   },
   {
-    "to work out; to result in a satisfactory situation; to turn out well": "къыдэхъун"
+    "severe frost": "гъурк1"
   },
   {
-    "to come true": "къыдэхъун"
+    "hard frost": "гъурк1"
   },
   {
-    "severe frost; hard frost; sharp frost; biting frost": "гъурк1"
+    "sharp frost": "гъурк1"
   },
   {
-    "precipice, abyss, chasm": "тауташ"
+    "biting frost": "гъурк1"
   },
   {
     "kettle": "щайныч"
@@ -17099,19 +16895,19 @@
     "teapot": "щайныч"
   },
   {
-    "copper boiler": "лэгъуп"
+    "jug": "къошын; (Shapsug) шъхьэхъу"
   },
   {
-    "jug, pitcher": "къошын"
+    "pitcher": "къошын; (Shapsug) шъхьэхъу"
   },
   {
-    "tub, vat": "пхъэчай"
+    "tub": "пхъэчай"
   },
   {
-    "sweat-cloth (for horse riding)": "шык1адзэ"
+    "vat": "пхъэчай"
   },
   {
-    "sweat-cloth": "к1адзэ"
+    "sweat-cloth": "к1адзэ; шык1адзэ (for horse riding)"
   },
   {
     "felt": "упк1э"
@@ -17120,13 +16916,10 @@
     "kneecap": "лъэгонджэмышъхьэ"
   },
   {
-    "to push with might": "е1эн"
+    "to smear": "щыфэн; тец1элэн; тефэхьан"
   },
   {
-    "to spread (on), to smear (with), to daub (with)": "тец1элэн"
-  },
-  {
-    "to spread (on), to smear (with), to daub (with)": "тефэхьын"
+    "to daub": "щыфэн; тец1элэн; тефэхьан"
   },
   {
     "headboard": "п1эшъхьагъ"
@@ -17138,64 +16931,46 @@
     "urgent": "гузэжъогъу"
   },
   {
-    "with lightning speed": "елбэтэу"
+    "cut": "у1агъэ (cut on the body, wound); ш1обзы"
   },
   {
-    "to spread (on), to smear (with), to daub (with)": "щыфэн"
+    "scabies": "шъохъу-т1ыхъу"
   },
   {
-    "to throw and smash an object against something forcefully": "еупц1ын"
+    "skin itch": "шъохъу-т1ыхъу"
   },
   {
-    "to stain forcefully, to make a mark on a surface or a piece of clothing forcefully": "еупц1ын"
+    "larynx": "къурбэкъэй; къурбычый"
   },
   {
-    "alternative form of \"еупц1ын\"": "упц1ын"
+    "bow-legged": "лъэк1эп1ащ"
   },
   {
-    "great wheel (often appears in Nart Sega stories)": "джанщэрэхъ"
+    "bandy-legged": "лъэк1эп1ащ"
   },
   {
-    "to direct an object toward something that emits heat": "егъэун"
+    "bowlegged": "лъэк1эп1ащ"
   },
   {
-    "to direct oneself toward something that emits heat": "зегъэун"
+    "washing tub": "хьакъуашъо; 1анлъэ"
   },
   {
-    "cut": "ш1обзы"
+    "wash-tub": "хьакъуашъо; 1анлъэ"
   },
   {
-    "mouth": "1у"
+    "guileful": "хьилэ"
   },
   {
-    "opening, aperture, hole": "1у"
+    "insidious": "хьилэ"
   },
   {
-    "itch": "хъупц1"
+    "perfidious": "хьилэ"
   },
   {
-    "alternative form of \"зэт1эхъун\"": "зэт1эхъужьын"
+    "crafty": "хьилэ"
   },
   {
-    "scabies, skin itch": "шъохъу-т1ыхъу"
-  },
-  {
-    "alternative form of \"къурбэкъэй\"": "къурбэкъый"
-  },
-  {
-    "larynx": "къурбэкъэй"
-  },
-  {
-    "bow-legged; bowlegged, bandy-legged": "лъэк1эп1ащ"
-  },
-  {
-    "trough": "1анлъэ"
-  },
-  {
-    "washing tub": "1анлъэ"
-  },
-  {
-    "guileful, insidious, perfidious, crafty, treacherous": "хьилэ"
+    "treacherous": "хьилэ"
   },
   {
     "dishonest": "тхьагъэпц1"
@@ -17204,73 +16979,37 @@
     "munafiq": "тхьагъэпц1"
   },
   {
-    "to get ahold of; to get hold of": "зы1эк1эубытэн"
-  },
-  {
-    "to grasp, to grab, to seize, to snap, to snatch, to catch, to catch hold of": "етхъон"
-  },
-  {
-    "to grasp, to grab, to seize, to snap, to snatch, to catch, to catch hold of": "пхъотэн"
-  },
-  {
-    "straw": "уарзэ"
-  },
-  {
-    "straw": "хьэуарзэ"
-  },
-  {
-    "alternative form of \"зыгъэпск1ын\"": "зыгъэпк1ын"
-  },
-  {
-    "to cough": "пскэн"
-  },
-  {
-    "alternative form of \"къэш1эн\"": "къэш1эжьын"
+    "straw": "уарзэ; хьэуарзэ"
   },
   {
     "tip of a sword": "чэтапэ"
   },
   {
-    "alternative form of \"т1олъфэныкъо\"": "т1олъфэныкъох"
+    "twin": "т1уазэ; т1олъфэныкъо"
   },
   {
-    "twin": "т1уазэ"
+    "I wish": "(Shapsug) жъэу"
   },
   {
-    "twin": "т1олъфэныкъо"
+    "if only": "(Shapsug) жъэу"
   },
   {
-    "i wish; if only": "жъэу"
+    "to earn trust": "цыхьэ къэгъэхъэн; щыгъэгуфэн"
   },
   {
-    "to earn trust": "щыгъэгуфэн"
+    "to spit": "ужъунтхэн; (Shapsug) ужъутхэн; теужъунтхэн (to spit on, to spit upon); хэужъунтхэн (to spit into the water, sea, fire, area with gas or liquid); ч1эужъунтхэн (to spit under); жэхэужъунтхэн (to spit on someone intensively)"
   },
   {
-    "to spit": "ужъунтхэн"
+    "to get fresh air": "жьыбгъэ зы1угъэон; жьыбгъэ зы1угъэхьан; жьы зы1угъэхьан; жьы зы1угъэон"
   },
   {
-    "alternative form of \"теужъунтхэн\"": "теужъутхэн"
+    "to make a hole": "угъонын; гъуанэ фэш1ын"
   },
   {
-    "to spit upon": "теужъунтхэн"
+    "to hole": "угъонын (to make a hole); гъуанэ фэш1ын (to make a hole)"
   },
   {
-    "to get oneself into fresh air": "жьыбгъэ зы1угъэон"
-  },
-  {
-    "to get oneself into fresh air": "жьыбгъэ зы1угъэхьан"
-  },
-  {
-    "to get oneself into fresh air": "жьы зы1угъэхьан"
-  },
-  {
-    "to get oneself into fresh air": "жьы зы1угъэон"
-  },
-  {
-    "to make a hole into": "угъонын"
-  },
-  {
-    "gossiper; a person who gossips": "бзэгухь"
+    "gossiper": "бзэгухь (a person who gossips)"
   },
   {
     "informer": "бзэгухь"
@@ -17279,7 +17018,7 @@
     "snitcher": "бзэгухь"
   },
   {
-    "rat (someone that tells other's secrets to an authority or an enemy)": "бзэгухь"
+    "rat": "шъуае (rat, animal); бзэгухь (someone that tells other's secrets to an authority or an enemy)"
   },
   {
     "to gossip": "бзэгухьын"
@@ -17288,52 +17027,58 @@
     "to snitch": "бзэгухьын"
   },
   {
-    "to rat (to tell other's secrets to an authority or an enemy)": "бзэгухьын"
+    "to rat": "бзэгухьын (to tell other's secrets to an authority or an enemy)"
   },
   {
-    "rumor, talk, hearsay": "1ор1отэжь"
+    "rumor": "1ор1отэжь"
   },
   {
-    "twaddler, babbler": "1оржъор"
+    "hearsay": "1ор1отэжь"
   },
   {
-    "twaddler, babbler": "шъхьарыгущы1"
+    "twaddler": "1оржъор; шъхьарыгущы1"
   },
   {
-    "alternative form of \"ш1ошъ хъун\"": "ш1ошъыхъун"
+    "babbler": "1оржъор; шъхьарыгущы1"
   },
   {
     "about that": "ащ рик1орэр"
   },
   {
-    "what about": "сыд рик1орэр"
-  },
-  {
     "to get tickled": "лыджын"
   },
   {
-    "to get angry over someone": "тегубжыхьан"
+    "bridegroom": "къэщэн; псэлъыхъу"
   },
   {
-    "bridegroom; fiancé": "псэлъыхъу"
+    "fiance": "къэщэн; псэлъыхъу"
   },
   {
-    "djinn": "къулбастэ"
-  },
-  {
-    "ghost": "къулбастэ"
+    "ghoul": "къулбастэ"
   },
   {
     "collar": "пшъап1э"
   },
   {
-    "winch (for the well); windlass": "псынэкъуау"
+    "winch": "псынэкъуау (for the well)"
+  },
+  {
+    "windlass": "псынэкъуау"
   },
   {
     "need": "щык1агъэ"
   },
   {
-    "lack, deficiency, shortage": "щык1агъэ"
+    "lack": "щык1агъэ; нэц1эк1; дагъо"
+  },
+  {
+    "desirer": "нэц1ал"
+  },
+  {
+    "luster": "нэц1ал"
+  },
+  {
+    "shortage": "щык1агъэ; нэц1эк1; дагъо"
   },
   {
     "lack, deficiency, deficit, shortage": "нэц1эк1"
@@ -17342,16 +17087,19 @@
     "defect, drawback, flaw": "нэц1эк1"
   },
   {
-    "In front of the entrance, the entrance door": "лъэгуц"
+    "verandar": "лъэгуц"
   },
   {
     "porch": "лъэгуц"
   },
   {
-    "someone that swears a lot; a vulgar person": "хъонал"
+    "swearer": "хъонал (one who swears a lot)"
   },
   {
-    "stump": "пхъэтэкъэжъ"
+    "vulgar": "хъонал (one who swears a lot)"
+  },
+  {
+    "stump": "такъэ; пхъэтэкъэжъ"
   },
   {
     "blockhead": "пхъэтэкъэжъ"
@@ -17360,79 +17108,73 @@
     "narrow corner": "к1этыку"
   },
   {
-    "(unexpectedly) to jump (up, onto, out of), to leap (on, into, onto), to get up quickly": "къызыщылъэтын"
+    "to prick": "хэ1ун"
   },
   {
-    "to prick, to sting": "хэ1ун"
+    "to sting": "еон / къеон (a string from a bee); хэ1ун"
   },
   {
-    "bestest, very best; most best": "ялыегъэ"
+    "excellently": "дэгъу дэдэу; ялыеу"
   },
   {
-    "special, detached, distinct": "пстэуми афэмыдэ"
+    "very well": "дэгъу дэдэу; ялыеу"
   },
   {
-    "bestest, very best; most best": "анахьэу щыт"
+    "special": "пстэуми афэмыдэ"
   },
   {
-    "fruit": "къуе-мый"
+    "detached": "пстэуми афэмыдэ"
   },
   {
-    "to strip": "зышъутыпц1ын"
+    "distinct": "пстэуми афэмыдэ"
   },
   {
-    "to take off (clothes)": "щыхын"
+    "bestest": "анахь дэгъур; анахьэу щыт; ялыегъэ"
   },
   {
-    "to smile": "щхыпц1ын"
+    "very best": "анахь дэгъур; анахьэу щыт; ялыегъэ"
   },
   {
-    "to smile": "гуш1опс1ын"
+    "most best": "анахь дэгъур; анахьэу щыт; ялыегъэ"
   },
   {
-    "to smile": "1угуш1ук1ын"
+    "fruit": "пхъэшъхьэмышъхь; пк1ышъхьэмышъхьэ"
+  },
+  {
+    "to take off": "щыхын (to take off clothes, to undress); зытехын (to take off an item such as a hat, mask, necklace or clock); лъэтэн / быбын (to fly, to take off to the sky)"
+  },
+  {
+    "to smile": "щхыпц1ын; (Shapsug) гуш1опс1ын; 1угуш1ук1ын"
   },
   {
     "smile": "щхыпц1ы"
   },
   {
-    "larynx": "къурбычый"
+    "to soil": "ц1элэн; уц1эп1ын"
   },
   {
-    "to soil, to dirty, to stain": "ц1элэн"
+    "to dirty": "уш1оин (to make it dirty); ц1элэн; уц1эп1ын"
   },
   {
-    "to mow, to cut": "упк1эн"
+    "to stain": "ц1элэн; уц1эп1ын; теуц1эн (to stain on); хэупц1эн (to stain on intensive); жэхэупц1эн (to stain on very intensive)"
   },
   {
-    "to bend, to crook": "уфэн"
+    "to tilt": "уфэн"
   },
   {
-    "to tilt, to bend": "уфэн"
+    "very little": "ц1ык1уинт1э; (Shapsug) ц1ык1унау"
   },
   {
-    "very little": "ц1ык1уинт1э"
-  },
-  {
-    "very little": "ц1ык1унау"
-  },
-  {
-    "very small amount": "т1эк1унит1э"
-  },
-  {
-    "very small amount": "т1эк1унау"
+    "very small amount": "т1эк1унит1э; (Shapsug) т1эк1унау"
   },
   {
     "to die slowly": "пыл1ык1ын"
   },
   {
-    "to die from bleeding": "пыл1ык1ын"
+    "to smash": "къутэн; хэхьани къутэн; гъэшъхъэшъхъэн (to smash something into smithereens); теуц1эн (to throw and smach on); хэупц1эн (to throw and smash on intensive); жэхэупц1эн (to throw and smash on very intensive)"
   },
   {
-    "alternative form of \"щыпын\"": "шыпын"
-  },
-  {
-    "to smash something into smithereens": "гъэшъхъэшъхъэн"
+    "smithereens": "къутаф"
   },
   {
     "skimmer": "къашыкъгъуанэ"
@@ -17441,115 +17183,70 @@
     "drawer": "къыдэгъэчъ"
   },
   {
-    "to mimic; to imitate": "пэш1ыжьын"
+    "to mimic": "зыпэш1ыжьын"
   },
   {
-    "to imitate oneself to": "зыпэш1ыжьын"
+    "to imitate": "зыпэш1ыжьын"
   },
   {
-    "alternative form of \"ц1эжьын\"": "ыц1эжьын"
+    "bullshit": "(slightly vulgar) хьэшъутыубат"
   },
   {
-    "(vulgar) to get wasted from alcohol": "ц1эжьын"
+    "horseshit": "(slightly vulgar) хьэшъутыубат"
   },
   {
-    "(vulgar) to shit": "ц1эжьын"
+    "to bullshit": "(slightly vulgar) хьэшъутыубэтэн; (slightly vulgar) хьэшъуты гъэчэн"
   },
   {
-    "(vulgar) bullshit; horseshit (nonsense)": "хьэшъутыубат"
+    "to talk bullshit": "(slightly vulgar) хьэшъутыубэтэн; (slightly vulgar) хьэшъуты гъэчэн"
   },
   {
-    "alternative form of \"хьэшъутыубат\"": "хьэшъутыубэтагъ"
+    "to talk nonsense": "шъхьэубэтэн; (slightly vulgar) хьэшъутыубэтэн"
   },
   {
-    "(vulgar) to bullshit; to talk bullshit; to talk horseshit (to talk nonsense)": "хьэшъутыубэтэн"
+    "to make enemy": "гъэпыин (to make someone an enemy)"
   },
   {
-    "to talk nonsense": "шъхьэубэтэн"
+    "to adapt": "егъэк1ун (to adapt to)"
   },
   {
-    "alternative form of \"шъхьэубэтэн\"": "шъхьэ убэтэн"
+    "mask": "нэпэтелъхьэ; нэ1урыхъу"
   },
   {
-    "alternative form of \"шъхьэубат\"": "шъхьэубэтагъ"
+    "chase": "зэлъежьэжь (a children's game where one player chases another)"
   },
   {
-    "alternative form of \"хьакуако\"": "хьэкуаку"
+    "hide and seek": "къангъэбылъ; къан-къангъэбылъ"
   },
   {
-    "vagina": "хьакуако"
+    "hide-and-seek": "къангъэбылъ; къан-къангъэбылъ"
   },
   {
-    "vagina": "хьэк1ут1э"
+    "quicksilver": "чынасыу"
   },
   {
-    "to take offense (at), to be offended (by), to feel hurt (by), to resent": "зыфэгъэгусэн"
+    "selfish": "шъхьэфэш1ужь"
   },
   {
-    "to make someone an enemy": "гъэпыин"
+    "self-interested": "шъхьэфэш1ужь"
   },
   {
-    "to get addict to": "хэгъозэн"
+    "to memorize": "езбырэу зэгъэш1эн; гум иубытэн; шъхьэм иубытэн"
   },
   {
-    "to adapt to": "хэгъозэн"
+    "undersized": "лъэкур"
   },
   {
-    "to acclimatize": "хэгъозэн"
+    "shortish": "лъэкур"
   },
   {
-    "mask": "нэпэтелъхьэ"
+    "dwarf": "лъэкур"
   },
   {
-    "helmet": "шъхьэтелъхьэ"
+    "wee": "ц1ык1ужъый"
   },
   {
-    "mask": "нэ1урыхъу"
-  },
-  {
-    "alternative form of \"нэгъэц1ыу\"": "нэгъэц1у"
-  },
-  {
-    "chase (A children's game where one player chases another)": "зэлъежьэжь"
-  },
-  {
-    "hide and seek (game)": "къан-къангъэбылъ"
-  },
-  {
-    "hide and seek (game)": "къангъэбылъ"
-  },
-  {
-    "mercury": "чынасыу"
-  },
-  {
-    "mercenary, selfish, self-interested, greedy": "шъхьэфэш1ужь"
-  },
-  {
-    "to memorize": "шъхьэм иубытэн"
-  },
-  {
-    "to memorize": "гум иубытэн"
-  },
-  {
-    "undersized, shortish, dwarf": "лъэкур"
-  },
-  {
-    "tiny, wee": "ц1ык1ужъый"
-  },
-  {
-    "to harden": "чъын"
-  },
-  {
-    "to run across": "зэпырычъын"
-  },
-  {
-    "to close something (to move so that an opening is closed)": "зэфэш1ын"
-  },
-  {
-    "sponge": "к1ышъо1от"
-  },
-  {
-    "to shiver, to tremble": "к1эзэзын"
+    "bath loofah": "к1ышъо1от"
   },
   {
     "toothless": "цако"
@@ -17558,16 +17255,16 @@
     "insipid": "цако"
   },
   {
-    "dull, blunt": "цако"
+    "dull": "цако"
   },
   {
-    "expression of a hit/strike sound": "цау"
+    "blunt": "цако"
   },
   {
     "hoof": "лъабжъэ"
   },
   {
-    "to make something cheaper, to reduces the value of": "гъэпыутын"
+    "to make cheaper": "гъэпыутын"
   },
   {
     "humble": "шъырыт"
@@ -17576,55 +17273,52 @@
     "pus": "щыны"
   },
   {
-    "hotel": "хьэк1ап1э"
-  },
-  {
-    "inn": "хьэк1ап1э"
-  },
-  {
     "dining-room": "шхап1э"
   },
   {
     "dining-hall": "шхап1э"
   },
   {
-    "sitting room; living room": "щысып1э"
+    "sitting room": "щысып1э; (in some dialects) хьак1эщ"
   },
   {
-    "living room": "зэхэсып1э"
+    "living room": "щысып1э; зэхэсып1э; (in some dialects) хьак1эщ"
   },
   {
-    "room": "пэщ"
+    "seeding-machine": "чылэпхъэеут машин"
   },
   {
-    "seeding-machine, sowing-machine": "чылэпхъэеут машин"
+    "sowing-machine": "чылэпхъэеут машин"
   },
   {
-    "agricultural, farming": "мэкъу-мэщ"
+    "agricultural": "мэкъу-мэщ"
+  },
+  {
+    "farming": "мэкъу-мэщ"
   },
   {
     "peasant": "мэкъумэщыш1"
   },
   {
-    "day before yesterday, two days ago": "тыгъоснахьыпэ"
+    "day before yesterday": "тыгъоснахьыпэ"
   },
   {
-    "to spread (seeds, salt, etc.)": "еутын"
+    "two days ago": "тыгъоснахьыпэ"
+  },
+  {
+    "to spread": "еутын (seeds, salt, etc.)"
   },
   {
     "to spray dust": "утысэн"
   },
   {
-    "grinding into dust, pulverizing, pulverization": "утысэн"
+    "to scatter dust": "утысэн"
   },
   {
-    "bastard (unlawful child)": "бзэджэрылъф"
+    "bastard": "бзэджэрылъф (unlawful child)"
   },
   {
-    "potbellied; paunchy; big-bellied": "ныбэшъу"
-  },
-  {
-    "ghost, spectre, apparition, spook": "хьэдэджадэ"
+    "ghost": "джынэ; хьэдэджадэ (wandering dead)"
   },
   {
     "shade": "ныбжьыкъу"
@@ -17633,28 +17327,34 @@
     "shadow": "жьау"
   },
   {
-    "to seem to the eye, to appear to the eye": "нэм къыпэш1ош1ыхьан"
+    "to seem to the eye": "нэм къыпэш1ош1ыхьан"
   },
   {
-    "to seem to, to appear to": "къыпэш1ош1ын"
+    "to appear to the eye": "нэм къыпэш1ош1ыхьан"
+  },
+  { 
+    "to seem": "ш1ош1ын"
   },
   {
-    "illusion": "нэш1ош1"
-  },
-  {
-    "a person that is pretending to be joyful": "нэш1ош1"
-  },
-  {
-    "illusion": "нэп1эхъ"
+    "illusion": "нэш1ош1; нэп1эхъ"
   },
   {
     "to yawn": "жэ зэк1эк1ын; жэр зэк1эк1ын"
   },
   {
-    "pantofle, slipper, babouche, pump": "папыщ"
+    "pantofle": "папыщ"
   },
   {
-    "to crumble, to fall to pieces; to disintegrate": "пхъэпхъэн"
+    "pump": "папыщ"
+  },
+  {
+    "slipper": "папыщ"
+  },
+  {
+    "babouche": "папыщ"
+  },
+  {
+    "to disintegrate": "зэхэкъутэн; зэхэгъэшъэшъэн; гъэушкъоин; жъгъэин; пхъэпхъэн"
   },
   {
     "to crunch": "пхъэпхъэн"
@@ -17663,13 +17363,16 @@
     "patient visit": "сымэджаплъэ"
   },
   {
-    "settler; local resident": "ч1ып1эрыс"
+    "settler": "ч1ып1эрыс"
   },
   {
-    "to not work out; to not go accordingly to plan": "къыдэмыхъун"
+    "local resident": "ч1ып1эрыс"
   },
   {
-    "the topmost part of the head (crown)": "шъхьашыгу"
+    "to not work out": "къыдэмыхъун (things not to go accordingly to plan)"
+  },
+  {
+    "crown": "пачъыхьэ тандж; шъхьашыгу (the topmost part of the head)"
   },
   {
     "searcher": "лъыхъуак1о"
@@ -17678,16 +17381,16 @@
     "seeker": "лъыхъуак1о"
   },
   {
-    "gallows, gibbet": "шъхьэпылъап1э"
+    "gallows": "шъхьэпылъап1э"
   },
   {
-    "widower": "л1эгъуаб"
+    "gibbet": "шъхьэпылъап1э"
   },
   {
     "individual": "ц1ыфышъхьэ"
   },
   {
-    "burial; funeral": "хьадагъэ"
+    "funeral": "хьадагъэ; хьэдэ дэхыныр; хьэдэ гъэ1ылъыныр"
   },
   {
     "lash": "къул"
@@ -17696,127 +17399,91 @@
     "saying": "1о"
   },
   {
-    "bitch (female dog)": "хьабзы"
-  },
-  {
-    "whoreson": "къэхьыпакъо"
+    "bitch": "хьабзы (female dog)"
   },
   {
     "whoreson": "къэхьыпэрылъф"
   },
   {
-    "(vulgar) shit; expression of failure.": "хьай ригъаф"
+    "flock": "1эхъогъу; отэр (pack)"
   },
   {
-    "flock": "отэр"
+    "cannabis": "к1эпы"
   },
   {
-    "cannabis, hemp": "к1эпы"
+    "hemp": "к1эпы"
   },
   {
-    "to scutch, to swingle": "гъэтхъын"
+    "to scutch": "гъэтхъын"
   },
   {
-    "(vulgar) meaningless": "шъхьи шъути и1эп"
+    "to swingle": "гъэтхъын"
+  },
+  {
+    "meaningless": "мэхьанэнчъэ; пк1энчъ; (vulgar) шъхьи шъути и1эп"
   },
   {
     "to take pride": "рыгушхон"
   },
   {
-    "fur, hair (animal hair or human body hair)": "пацэ"
+    "to be proud of": "рыгушхон"
   },
   {
-    "to witness": "ушыхьатын"
+    "fur": "пацэ"
   },
   {
-    "story": "тхыдэжъ"
+    "to witness": "ушыхьатын / къэушыхьатын; шыхьатэу теуцон (to stand as a witness)"
+  },
+  {
+    "story": "тхыдэ; тхыдэжъ"
   },
   {
     "tale": "тхыдэжъ"
   },
   {
-    "(vulgar slang) to butthurt; to overly annoyed or bothered by a perceived insult; needlessly offended": "шъуты къеон"
+    "to butthurt": "(vulgar slang) шъуты къеон (to be overly annoyed or bothered by a perceived insult; needlessly offended)"
   },
   {
-    "to carry down": "къехьэхын"
+    "pump": "1ул (in horses)"
   },
   {
-    "alternative form of \"къехьэхын\"": "къехэхьын"
+    "to overdo": "гъэпшъыщэн; (vulgar slang) шъутым къик1ыжьын (to do a certain activity repetitively many times to the point that one gets bored or burned out from that activity)"
   },
   {
-    "alternative form of \"егъэзын\"": "регъэзын"
+    "to burden": "къин фэш1ын; къегъэхьылъэк1ын"
   },
   {
-    "silly, stupid, foolish": "1улэ"
+    "baby": "нэнау; нану"
   },
   {
-    "pump (in horses)": "1ул"
+    "to get numb": "утэбжьэн"
   },
   {
-    "(vulgar slang) to do a certain activity repetitively many times to the point that one gets bored or burned out from that activity": "шъутым къик1ыжьын"
+    "to tingle": "утэбжьэн (body-part)"
   },
   {
-    "baby": "нэнау"
+    "to take shape": "теплъэ убытын / теплъэ къиубытын"
   },
   {
-    "baby": "нану"
-  },
-  {
-    "to get numb; to tingle (body-part)": "утэбжьэн"
-  },
-  {
-    "to take shape": "теплъэ ыубытын"
-  },
-  {
-    "to become good-looking": "теплъэ ыубытын"
-  },
-  {
-    "to take shape": "теплъэ къиубытын"
-  },
-  {
-    "to become good-looking": "теплъэ къиубытын"
+    "to become good-looking": "теплъэ убытын / теплъэ къиубытын"
   },
   {
     "Kaaba": "чабэ"
   },
   {
-    "wild (animal)": "емлыч"
+    "smoothly": "зэшъхьэ-зашъоу; занк1эу; псым фэдэу"
   },
   {
-    "wild (animal)": "1эл"
+    "gluttonous": "ныбэрый; бэшхы"
   },
   {
-    "smoothly": "псым фэдэу"
+    "voracious": "ныбэрый; бэшхы"
   },
   {
-    "gluttonous, voracious, one who eats excessively": "ныбэрый"
-  },
-  {
-    "glutton": "ныбэрый"
-  },
-  {
-    "gluttonous, voracious, one who eats excessively": "бэшхы"
-  },
-  {
-    "glutton": "бэшхы"
-  },
-  {
-    "to mate (animals)": "лъыхъожьын"
-  },
-  {
-    "a cow that did not gave birth in the current year": "чэмыбгъэ"
-  },
-  {
-    "to tear apart/asunder, to tear up": "цунтхъэн"
+    "to mate": "лъыхъожьын (animals)"
   },
   {
     "piece by piece": "лы1у-лы1оу"
-  },
-  {
-    "to chop; to cut into pieces; to slice into pieces": "упк1этэн"
-  },
-  {
-    "alternative form of \"хьак1экъуак1э\"": "хьак1э-къуак1э"
   },
   {
     "invisible": "мынэрылъэгъу"

@@ -13668,6 +13668,17 @@
     "type": "noun"
   },
   {
+    "word": "тандж",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "head-piece",
+        "examples": []
+      }
+    ],
+    "type": "noun"
+  },
+  {
     "word": "бганэ",
     "lang": "Adyghe",
     "definitions": [
@@ -20333,23 +20344,6 @@
     "ipa": "ʃəfan"
   },
   {
-    "word": "тифэхьын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to smear; to rub in",
-        "examples": [
-          {
-            "sentence": "к1алэм псыжъ иджанэ '''тифэхьыгъ'''",
-            "translation": "The child '''smeared''' mud on his shirt."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "tifaħən"
-  },
-  {
     "word": "тефэхьан",
     "lang": "Adyghe",
     "definitions": [
@@ -20357,7 +20351,7 @@
         "meaning": "to smear; to rub in",
         "examples": [
           {
-            "sentence": "к1алэм псыжъ иджанэ '''тифэхьыгъ'''",
+            "sentence": "к1алэм псынжъ иджанэ '''тифэхьыгъ'''",
             "translation": "The child '''smeared''' mud on his shirt."
           }
         ]
@@ -27762,7 +27756,7 @@
         "meaning": "sound (Can also be noise)",
         "examples": [
           {
-            "sentence": "'''Мэкъэ''' башэ сэ1у",
+            "sentence": "'''Мэкъэ''' бащэ сэ1у",
             "translation": "To hear too much '''noise'''."
           },
           {
@@ -35159,7 +35153,7 @@
         "meaning": "to understand clearly (To perceive sounds through the ear clearly), to hear well, to make out sound clearly",
         "examples": [
           {
-            "sentence": "Макъэ башэ шы1 уимакъэ '''зэхэсхышъурэп'''",
+            "sentence": "Макъэ бащэ шы1 уимакъэ '''зэхэсхышъурэп'''",
             "translation": "There is too much noise, '''I can't understand you'''."
           },
           {
@@ -49792,7 +49786,7 @@
             "translation": "Pass '''without making noise'''."
           },
           {
-            "sentence": "К1алэм макъэ башэ '''къегъэ1у'''",
+            "sentence": "К1алэм макъэ бащэ '''къегъэ1у'''",
             "translation": "The boy '''is making''' too much '''noise'''."
           },
           {
@@ -52541,7 +52535,7 @@
             "translation": "The boy '''is inflating''' the balloon."
           },
           {
-            "sentence": "Бэлунэр башэу '''угъэпщымэ''' къэот",
+            "sentence": "Бэлунэр бащэу '''угъэпщымэ''' къэот",
             "translation": "'''If you inflate''' the balloon too much it will explode."
           },
           {
@@ -53147,7 +53141,7 @@
             "translation": "Without giving the plant water, '''I dried it'''."
           },
           {
-            "sentence": "Бэнанэ башэрэ шыбгъэлъымэ '''угъэгъут'''",
+            "sentence": "Бэнанэ бащэрэ шыбгъэлъымэ '''угъэгъут'''",
             "translation": "If you leave a banana for too long '''you will rot it'''."
           }
         ]
@@ -56372,7 +56366,7 @@
             "translation": "The boy '''is pulling''' the rope."
           },
           {
-            "sentence": "К1апсэр башэу '''укъудыимэ''' зэпытхъыт",
+            "sentence": "К1апсэр бащэу '''укъудыимэ''' зэпытхъыт",
             "translation": "'''if you pull''' the rope too much it tear."
           },
           {
@@ -95631,7 +95625,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to in peace due to",
+        "meaning": "to be in peace due to",
         "examples": [
           {
             "sentence": "Мощ '''сыгу тепсафэ'''",
@@ -96472,7 +96466,7 @@
     "ipa": "jatʷʼpɕəħaːxən"
   },
   {
-    "word": "къегъэт1ыхын",
+    "word": "къегъэт1эрэхын",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -96611,7 +96605,7 @@
     "ipa": "ɬawʁʷaːja"
   },
   {
-    "word": "ипэрэгъум",
+    "word": "ыпэрэгъум",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -96635,7 +96629,7 @@
     "ipa": "qaːkʷʼaʁʷəm"
   },
   {
-    "word": "ипэгъум",
+    "word": "ыпэгъум",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -96647,7 +96641,19 @@
     "ipa": "jəpaʁʷəm"
   },
   {
-    "word": "къа1огъум",
+    "word": "фэдэгушъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "somewhat deaf, hard of hearing",
+        "examples": []
+      }
+    ],
+    "type": "adv",
+    "ipa": "fadagʷəʃʷ"
+  },
+  {
+    "word": "къэк1огъум",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -97230,14 +97236,14 @@
       }
     ],
     "synonyms": [
-      "тефэхьын",
+      "тефэхьан",
       "щыфэн"
     ],
     "type": "verb",
     "ipa": "tajt͡sʼaɮan"
   },
   {
-    "word": "тефэхьын",
+    "word": "тефэхьан",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -98247,16 +98253,24 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "djinn",
-        "examples": []
-      },
-      {
-        "meaning": "ghost",
+        "meaning": "ghoul",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "qʷəlbaːsta"
+  },
+  {
+    "word": "нэц1ал",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "someone that always wanting something, longing to get something from others",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "nat͡sʼaːɮ"
   },
   {
     "word": "пшъап1э",
@@ -98329,8 +98343,12 @@
       {
         "meaning": "porch (the entrance part in front of a door)",
         "examples": []
+      },
+	  {
+        "meaning": "veranda",
+        "examples": []
       }
-    ],
+    ], 
     "synonyms": [
       "пчъэ1упэ"
     ],
@@ -98603,10 +98621,6 @@
       {
         "meaning": "to bend, to crook",
         "examples": []
-      },
-      {
-        "meaning": "to tilt, to bend",
-        "examples": []
       }
     ],
     "type": "verb",
@@ -98760,7 +98774,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to imitate oneself to",
+        "meaning": "to mimic to; to imitate to",
         "examples": []
       }
     ],
@@ -98981,7 +98995,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to take offense (at), to be offended (by), to feel hurt (by), to resent",
+        "meaning": "to sulk for; to express offence by remaining sullenly silent or withdrawn from",
         "examples": []
       }
     ],
@@ -98999,26 +99013,6 @@
     ],
     "type": "verb",
     "ipa": "ʁapəjən"
-  },
-  {
-    "word": "хэгъозэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to get addict to",
-        "examples": []
-      },
-      {
-        "meaning": "to adapt to",
-        "examples": []
-      },
-      {
-        "meaning": "to acclimatize",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "xaʁʷazan"
   },
   {
     "word": "нэпэтелъхьэ",
@@ -99143,7 +99137,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "mercury",
+        "meaning": "quicksilver",
         "examples": []
       }
     ],
@@ -99155,7 +99149,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "mercenary, selfish, self-interested, greedy",
+        "meaning": "selfish, self-interested",
         "examples": []
       }
     ],
@@ -99284,7 +99278,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "sponge",
+        "meaning": "bath loofah",
         "examples": []
       }
     ],
