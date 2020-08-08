@@ -7151,7 +7151,7 @@
     "ipa": "ʃaːwa"
   },
   {
-    "word": "бзыук1анлъэ",
+    "word": "бзыук1алъэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -10437,14 +10437,14 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "always",
+        "meaning": "(dialectal) always",
         "examples": [
           {
-            "sentence": "'''Енэу''' тиунэ укъэк1ота?",
+            "sentence": "'''Енэу''' тиунэ укъэк1ощта?",
             "translation": "Will you '''always''' come to my house?"
           },
           {
-            "sentence": "К1алэр '''енэу''' мач1э",
+            "sentence": "К1алэр '''енэу''' мачъэ",
             "translation": "The boy '''always''' runs."
           }
         ]
@@ -10457,19 +10457,19 @@
     "ipa": "janaw"
   },
   {
-    "word": "мыжъодэбыш",
+    "word": "мыжъодз",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "basalt",
+        "meaning": "sling (weapon)",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "məʐʷadaməʃ"
+    "ipa": "məʐʷad͡z"
   },
   {
-    "word": "къолагьэ",
+    "word": "къоладжэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -10574,7 +10574,7 @@
     "ipa": "bərsərəl"
   },
   {
-    "word": "тхьэл1ык1у",
+    "word": "тхьэл1ык1о",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -10584,7 +10584,7 @@
     ],
     "kabardian": "бегъымбар",
     "type": "noun",
-    "ipa": "tħaɬˤəkʷʼ"
+    "ipa": "tħaɬʼəkʷʼa"
   },
   {
     "word": "нэхь",
@@ -10607,27 +10607,22 @@
         "examples": []
       },
       {
-        "meaning": "most (people, objects)",
+        "meaning": "most",
         "examples": [
           {
-            "sentence": "'''ибэм''' и1уэрэ гьары1",
+            "sentence": "'''ибэм''' ы1уэрэ джары",
             "translation": "That's what '''most people''' say."
           },
           {
-            "sentence": "'''ибэр''' 1офым мак1орэп",
-            "translation": "'''Most people''' don't go to work."
-          }
-        ]
-      },
-      {
-        "meaning": "most",
-        "examples": [
+            "sentence": "'''ибэр''' 1офым мак1о",
+            "translation": "'''Most people''' go to work."
+          },
           {
             "sentence": "к1алэ '''ибэ''' уиунэ къак1о",
             "translation": "'''Most of''' the boys are coming to your house."
           },
           {
-            "sentence": "'''ибэм''' уиунэ ткъак1о",
+            "sentence": "'''ибэм''' уиунэ тыкъак1о",
             "translation": "We come to your house '''mostly'''."
           }
         ]
@@ -10641,7 +10636,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "everyone, everybody",
+        "meaning": "(dialectal) everyone, everybody",
         "examples": [
           {
             "sentence": "'''зэпсэум''' ы1уагъ",
@@ -10658,11 +10653,32 @@
     "ipa": "zapsawa"
   },
   {
+    "word": "пстэу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "everyone, everybody",
+        "examples": [
+          {
+            "sentence": "'''пстэуми''' ы1уагъ",
+            "translation": "'''everybody''' said."
+          },
+          {
+            "sentence": "'''пстэури''' къэк1ощт шъуиунэ",
+            "translation": "'''everyone''' will come to your house."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "zapsawa"
+  },
+  {
     "word": "къуао",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "bucket",
+        "meaning": "(Shapsug) bucket",
         "examples": []
       }
     ],
@@ -10753,18 +10769,18 @@
     "ipa": "ʂʷəɡʷaːɕa"
   },
   {
-    "word": "нэк1о",
+    "word": "нек1о",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "let's",
         "examples": [
           {
-            "sentence": "'''нэк1о''' тк1от",
+            "sentence": "'''нек1о''' тык1ощт",
             "translation": "'''Let's''' go."
           },
           {
-            "sentence": "'''нэк1о''' ткъэщхэт",
+            "sentence": "'''нек1о''' тыкъэшхэщт",
             "translation": "'''Let's''' eat."
           }
         ]
@@ -10831,7 +10847,7 @@
     "ipa": "maːsta"
   },
   {
-    "word": "хьэб",
+    "word": "хьаб",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -10843,11 +10859,11 @@
     "ipa": "ħab"
   },
   {
-    "word": "хьэблыу",
+    "word": "хьаблыу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "worm",
+        "meaning": "(dialectal) worm",
         "examples": []
       }
     ],
@@ -10859,21 +10875,6 @@
     "ipa": "ħabləw"
   },
   {
-    "word": "хьац1эбац1э",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"хьацэп1ацэ\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "хьацэп1ацэ"
-    ],
-    "type": "noun",
-    "ipa": "ħaːt͡sˤʼabaːt͡sˤʼa"
-  },
-  {
     "word": "шыдкъолэн",
     "lang": "Adyghe",
     "definitions": [
@@ -10881,6 +10882,9 @@
         "meaning": "zebra",
         "examples": []
       }
+    ],
+    "synonyms": [
+      "шыкъолэн"
     ],
     "type": "noun",
     "ipa": "ʃədqʷalan"
@@ -10950,7 +10954,7 @@
             "translation": "I am seeing some '''friend of mine'''."
           },
           {
-            "sentence": "К1алэмрэ пшъашъэмрэ '''згъусэх'''",
+            "sentence": "К1алэмрэ пшъашъэмрэ '''зэгъусэх'''",
             "translation": "The boy and the girl are '''friends'''."
           }
         ],
@@ -11040,7 +11044,7 @@
             "translation": "I am seeing some '''neighbor of mine'''."
           },
           {
-            "sentence": "к1алэмрэ пшъашъэмрэ '''згъунэгъух'''",
+            "sentence": "к1алэмрэ пшъашъэмрэ '''зэгъунэгъух'''",
             "translation": "The boy and the girl are '''neighbors'''."
           }
         ]
@@ -11067,23 +11071,51 @@
     "ipa": "nawətx"
   },
   {
-    "word": "янэхь",
+    "word": "янахь",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "most, most among them",
+        "meaning": "alternative form of \"анахь\"",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "jaːnaħ"
+  },
+  {
+    "word": "анахь",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "most (most among)",
         "examples": [
           {
-            "sentence": "кIалэр '''янэхь''' бау",
-            "translation": "The boy is the '''most''' rich (richest)."
+            "sentence": "К1алэр '''анахь''' бай",
+            "translation": "The boy is the '''richest'''."
           },
           {
-            "sentence": "пшъашъэ '''янэхь''' дахэм еIуэ",
-            "translation": "The '''most''' beautiful (prettiest) girl says."
+            "sentence": "Пшъашъэ '''анахь''' дахэм е1о",
+            "translation": "The '''prettiest'''  girl says."
           },
           {
-            "sentence": "'''янэхь''' пыт мэр",
-            "translation": "This is the '''most''' hard (hardest)."
+            "sentence": "'''Анахь''' пыт мыр",
+            "translation": "This is the '''hardest'''."
+          },
+		  {
+            "sentence": "Сэтэнае шъузмэ '''анахь''' дах",
+            "translation": "Sataney is the '''most''' beautiful among the women."
+          },
+          {
+            "sentence": "Мы к1алэр чылэмк1э '''анахь''' бай",
+            "translation": "This young man is the '''most''' rich in our village."
+          },
+          {
+            "sentence": "Студент '''анахь''' дэгъухэр мык1э къак1ох",
+            "translation": "The best students came here."
+          },
+          {
+            "sentence": "Тары джэнэ '''анахь''' дахэу уи1эр?",
+            "translation": "'''Which''' shirt is the most '''beautiful''' you have."
           }
         ]
       }
@@ -11092,38 +11124,15 @@
     "ipa": "jaːnaħ"
   },
   {
-    "word": "тхьэпк1э",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "leaf",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "тхьапэ"
-    ],
-    "type": "noun",
-    "ipa": "tħapt͡ʃa"
-  },
-  {
-    "word": "тгъуак1о",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"тыгъуак1о\"",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "tʁʷaːkʷʼa"
-  },
-  {
     "word": "дэшхын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "dinner",
+        "meaning": "everything that is eaten with bread (or its substitutes)",
+        "examples": []
+      },
+	  {
+        "meaning": "(dialectal) dinner",
         "examples": []
       }
     ],
@@ -11159,7 +11168,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Leather shoe",
+        "meaning": "leather shoe",
         "examples": []
       }
     ],
@@ -11174,7 +11183,7 @@
         "meaning": "that time",
         "examples": [
           {
-            "sentence": "'''Ащыгъум''' укъысэджэшъутэгъ",
+            "sentence": "'''Ащыгъум''' укъысэджэшъущтыгъ",
             "translation": "'''That time''' you could called me."
           }
         ]
@@ -11183,11 +11192,11 @@
         "meaning": "then",
         "examples": [
           {
-            "sentence": "'''Ащыгъум''' сыд тыш1эта?",
+            "sentence": "'''Ащыгъум''' сыд тыш1эщтыр?",
             "translation": "'''Then''' what we gonna do?"
           },
           {
-            "sentence": "'''ащыгъум''' нэк1о уиунэ тгъак1у",
+            "sentence": "'''ащыгъум''' нек1о уиунэ тыгъак1у",
             "translation": "'''Then''' let's go to your house."
           }
         ]
@@ -11195,17 +11204,6 @@
     ],
     "type": "adv",
     "ipa": "aːɕəʁʷəm"
-  },
-  {
-    "word": "а1уе",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "dahlia",
-        "examples": []
-      }
-    ],
-    "type": "noun"
   },
   {
     "word": "а1ууц",
@@ -11306,24 +11304,12 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "hard rock (Legendary rock mentioned in the Nart saga)",
+        "meaning": "great rock (legendary rock mentioned in the Nart saga)",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "aːbraːməʐʷ"
-  },
-  {
-    "word": "абрадж",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "lone hero",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "aːbraːd͡ʒ"
   },
   {
     "word": "абхъаз",
@@ -11342,7 +11328,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Bread of Circassian horses",
+        "meaning": "bread of Circassian horses",
         "examples": []
       }
     ],
@@ -11350,74 +11336,28 @@
     "ipa": "aːbəqʷ"
   },
   {
-    "word": "абэгъоплъ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "An old work: one that is cultural, heritage, hierarchical, inherited.",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "aːbaʁʷapɬ"
-  },
-  {
-    "word": "абэдзэкъуай",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "mallow",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "aːbad͡zaqʷaːj"
-  },
-  {
     "word": "агощ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(mathematics) numerator, dividend",
+        "meaning": "(mathematics) dividend (а number that is to be divided by another)",
         "examples": [],
         "tags": [
           "mathematics"
         ]
-      },
-      {
-        "meaning": "divided",
-        "examples": []
       }
     ],
     "type": "noun"
   },
   {
-    "word": "агощырэр",
+    "word": "ыгузэгу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(mathematics) numerator, dividend",
-        "examples": [],
-        "tags": [
-          "mathematics"
-        ]
-      },
-      {
-        "meaning": "divided",
-        "examples": []
-      }
-    ],
-    "type": "noun"
-  },
-  {
-    "word": "ибзэгу",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "The middle of (something).",
+        "meaning": "the middle of (something).",
         "examples": [
           {
-            "sentence": "унэм '''ибзэгу''' анэ ит",
+            "sentence": "унэм '''ыгузэгу''' 1анэ ит",
             "translation": "In the '''middle of''' the house, there is a table."
           }
         ]
@@ -11427,19 +11367,15 @@
     "ipa": "jəvzaɡʷ"
   },
   {
-    "word": "ябзэгу",
+    "word": "агузэгу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Their middle, the middle of (two or more things).",
+        "meaning": "their middle, the middle of (two or more things).",
         "examples": [
           {
-            "sentence": "к1алэмрэ пшъашъэмрэ '''ябзгу''' анэ илъ",
+            "sentence": "к1алэмрэ пшъашъэмрэ '''агузэгу''' 1анэ илъ",
             "translation": "Between the boy and the girl there is a table."
-          },
-          {
-            "sentence": "унэхэмэ '''ябзэгу''' анэ ит",
-            "translation": "In the '''middle of''' the houses, there is a table."
           }
         ]
       }
@@ -11533,7 +11469,7 @@
     "ipa": "aːdəraːbʁʷ"
   },
   {
-    "word": "адыгагъ",
+    "word": "адыгагъэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -11577,7 +11513,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Sweet pumpkin",
+        "meaning": "sweet pumpkin",
         "examples": []
       }
     ],
@@ -11622,37 +11558,13 @@
         "examples": [
           {
             "sentence": "'''Адэ''', Пщымаф, гущы1эу птыгъэр гъцэ1эжьба.",
-            "translation": "\"Well, Pshimaf, you must keep your word\"."
+            "translation": "Well, Pshimaf, you must keep your word."
           }
         ]
       }
     ],
     "type": "noun",
     "ipa": "aːda"
-  },
-  {
-    "word": "адэбз",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "cancer, tumor (malignant)",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "aːdabz"
-  },
-  {
-    "word": "адэхъу",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "tumor (benign)",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "aːdaχʷ"
   },
   {
     "word": "азан",
@@ -11685,7 +11597,7 @@
             "translation": "Pass the people '''in between them'''."
           },
           {
-            "sentence": "Анахь псынк1эу ду чъыгыт1ум '''азыфаго''' блэк1рэм егъапшэ",
+            "sentence": "Анахь псынк1эу мы чъыгит1ум '''азыфаго''' блэк1ырэм ехьы",
             "translation": "The one that most quickly passes '''between''' those two trees is the winner."
           }
         ]
@@ -11699,7 +11611,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "muezzin",
+        "meaning": "(Islam) muezzin; the person who calls to prayer from the mosque.",
         "examples": []
       }
     ],
@@ -11946,35 +11858,6 @@
     ],
     "type": "noun",
     "ipa": "aːnaːj"
-  },
-  {
-    "word": "анахь",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "most",
-        "examples": [
-          {
-            "sentence": "Сэтэнае шъузмэ '''анахь''' дах",
-            "translation": "Sataney is the '''most''' beautiful among the women."
-          },
-          {
-            "sentence": "Мы к1алэр чылэмк1э '''анахь''' бай",
-            "translation": "This young man is the '''most''' rich in our village."
-          },
-          {
-            "sentence": "Студент '''анахь''' дэгъухэр мыу къак1ох",
-            "translation": "The best students came here. Literally: The '''most''' good students come here."
-          },
-          {
-            "sentence": "Тары джэнэ '''анахь''' дахэу уи1эр?",
-            "translation": "'''Which''' shirt is the most '''beautiful''' you have."
-          }
-        ]
-      }
-    ],
-    "type": "adv",
-    "ipa": "aːnaːħ"
   },
   {
     "word": "анджэрэф",

@@ -1470,7 +1470,10 @@
     "yard": "щао (Shapsug); щагу"
   },
   {
-    "slingshot": "бзыук1анлъэ"
+    "slingshot": "мыжъодз (sling); бзыук1алъэ"
+  },
+  {
+    "sling": "мыжъодз (weapon)"
   },
   {
     "dead body": "хьадэ"
@@ -2409,19 +2412,7 @@
     "Abkhaz": "абхъаз"
   },
   {
-    "mallow": "абэдзэкъуай"
-  },
-  {
-    "numerator, dividend": "агощ"
-  },
-  {
     "dividend": "агощ"
-  },
-  {
-    "divided": "агощ"
-  },
-  {
-    "divided": "агощырэр"
   },
   {
     "mullet (fish)": "агурджашъу"
