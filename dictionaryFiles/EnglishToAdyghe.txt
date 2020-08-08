@@ -21,6 +21,9 @@
     "eunuch": "сэк1ыгъ"
   },
   {
+    "single": "закъу; шъхьэзакъу (not married)"
+  },
+  {
     "uncastrated": "мысэк1ыгъ"
   },
   {
@@ -486,7 +489,7 @@
     "ankle": "лъашъхьэ; лъэк1эн"
   },
   {
-    "foot": "лъапэ"
+    "foot": "лъакъо; лъапэ"
   },
   {
     "sole": "лъэгу (bottom of the foot or of the shoe)"
@@ -681,13 +684,16 @@
     "snake": "блэ"
   },
   {
-    "owl": "кукумау"
+    "owl": "кукумау; тыгъурыгъу"
   },
   {
     "calf": "шк1э"
   },
   {
     "heart": "гу"
+  },
+  {
+    "herb": "уцы; цык1аф"
   },
   {
     "bee": "бжьэ"
@@ -1041,9 +1047,6 @@
     "no": "хьау"
   },
   {
-    "club": "хасэ"
-  },
-  {
     "council": "хасэ"
   },
   {
@@ -1197,19 +1200,19 @@
     "rain": "ощхы"
   },
   {
-    "island": "псыгъэхъун"
+    "island": "хыгъэхъун; псыгъэхъун"
+  },
+  {
+    "isle": "хыгъэхъун"
   },
   {
     "river": "псыхъо"
   },
   {
-    "animal": "псэушъхь"
+    "animal": "псэушъхь; (Arabic) хьайуан"
   },
   {
     "sand": "пшахъо"
-  },
-  {
-    "neck": "пшъэ"
   },
   {
     "silver": "тыжьыны"
@@ -1248,13 +1251,16 @@
     "black": "ш1уц1э"
   },
   {
-    "multi-coloured": "къолэн"
+    "multi-colored": "къолэн"
+  },
+  {
+    "multicolored": "къолэн"
   },
   {
     "motley": "къолэн"
   },
   {
-    "very colorful": "къолэнсэлэн"
+    "colorful": "къолэн; къолэнсэлэн (very colorful)"
   },
   {
     "stork": "бгъэк1эхь"
@@ -1270,9 +1276,6 @@
   },
   {
     "custom": "хабзэ"
-  },
-  {
-    "island": "хыгъэхъун"
   },
   {
     "butterfly": "хьамп1ырашъу; (dialectal) хьэнт1эрэп1ый; хьэт1рэп1ый (Shapsug)"
@@ -1440,10 +1443,16 @@
     "steam": "пахъэ"
   },
   {
-    "curse": "хъуанэ (swear); бгы (curse)"
+    "province": "хэку"
   },
   {
-    "swear": "хъуанэ (swear); бгы (curse)"
+    "damn": "бгы (curse, damn)"
+  },
+  {
+    "curse": "хъуанэ (swear); бгы (curse, damn)"
+  },
+  {
+    "swear": "хъуанэ (swear); бгы (curse, damn)"
   },
   {
     "homeland": "хэку"
@@ -1461,7 +1470,7 @@
     "yard": "щао (Shapsug); щагу"
   },
   {
-    "slingshot": "бзыук1алъэ"
+    "slingshot": "бзыук1анлъэ"
   },
   {
     "dead body": "хьадэ"
@@ -1480,9 +1489,6 @@
   },
   {
     "figure (structure)": "пкъы"
-  },
-  {
-    "spring": "псынэ"
   },
   {
     "well": "псынэ (hole sunk into the ground as a source of water)"
@@ -3375,7 +3381,13 @@
     "winter": "к1ымафэ"
   },
   {
-    "spring": "гъатхэ"
+    "y'all": "шъо"
+  },
+  {
+    "you guys": "шъо"
+  },
+  {
+    "spring": "гъатхэ (season)"
   },
   {
     "autumn fly": "бжыхьэбадзэ"
@@ -3924,6 +3936,9 @@
     "lark": "бзыухьакуаку"
   },
   {
+    "hairhead": "шъхьэц"
+  },
+  {
     "young bird": "бзыушыр"
   },
   {
@@ -3933,12 +3948,54 @@
     "to trim": "бзыхьан; бзытэн; упхъон; ук1эпхъэн"
   },
   {
+    "flask": "псылъ; шъонылъ"
+  },
+  {
     "shred": "бзыхьаф"
+  },
+  {
+    "grain": "цэ"
+  },
+  {
+    "wheat grain": "коцыц"
+  },
+  {
+    "damp": "псы1э-псыблэ"
+  },
+  {
+    "humidity": "шынэгъак1; ц1ынэгъак1"
+  },
+  {
+    "wineskin": "шъонт"
+  },
+  {
+    "wine-skin": "шъонт"
+  },
+  {
+    "water-skin": "шъонт"
+  },
+  {
+    "waterskin": "шъонт"
+  },
+  {
+    "plump": "шъонт1эу"
+  },
+  {
+    "well-fed": "шъонт1эу"
+  },
+  {
+    "ear of wheat": "коцышъхьэ"
   },
   {
     "cloth scrap": "бзыхьаф"
   },
   {
+    "hazelnut": "дэжъый"
+  },
+  {
+    "hazel": "дэжъый"
+  },
+  { 
     "scrap": "пыз-нэз; бзыхьаф (cloth scrap)"
   },
   {
@@ -4479,6 +4536,9 @@
     "to recorrect": "гъэтэрэзын"
   },
   {
+    "to sew up": "дыжьын (to seal by sewing)"
+  },
+  {
     "to repair": "гъэтэрэзыжьын (recorrect); ш1ыжьын (to fix); дыжьын (to sew up), гъэцэк1эжьын (to mend)"
   },
   {
@@ -4527,7 +4587,10 @@
     "to rip away": "хэтхъын; пытхъын"
   },
   {
-    "to break": "зэпык1ын (to snap); убэтэн (to destroy); къутэн (to destroy); зэхэутын (to break down from inside); зэхэк1ын (to break and collapse); пыутын / хэутын (to break a part of something); теутын (to break a part from above something); ч1эутын (to break a part from under something); иутын (to run over something); гъэсэкъатын (to make something dysfunctional); зэш1ок1ын (to break something)"
+    "rake": "пхъэ1эбжъан (garden tool)"
+  },
+  {
+    "to break": "зэпык1ын (to snap); убэтэн (to destroy); къутэн (to destroy); зэхэутын (to break down from inside); зэхэк1ын (to break and collapse); пыутын / хэутын (to break a part of something); теутын (to break a part from above something); ч1эутын (to break a part from under something); иутын (to run over something); гъэсэкъатын (to make something dysfunctional); зэш1ок1ын (to break something); 1утэкъун (to break off); пыутын (to break off from); зэпыутын (to break off from itself)"
   },
   {
     "to run over": "иутын"
@@ -4539,7 +4602,7 @@
     "to come off": "пык1ын"
   },
   {
-    "to break off": "пыутын (to break off from); зэпыутын (to break off from itself)"
+    "to break off": "1утэкъун; пыутын (to break off from); зэпыутын (to break off from itself)"
   },
   {
     "to tear": "пычын (to pick); хэтхъын / пытхъын (to tear off from); зэхэтхъын / зэпытхъын (to tear off from itself); къыпышъунк1ык1ын; 1утхъын (to tear off); зэхэгъэтэкъун (to tear down and collapse)"
@@ -5337,6 +5400,9 @@
     "longsuffering": "бэщы1"
   },
   {
+    "meek": "1асэ"
+  },
+  {
     "Kabartay": "къэбэртай"
   },
   {
@@ -5814,7 +5880,7 @@
     "pheasant": "мэзчэт (bird)"
   },
   {
-    "tool": "1эмэ-псым"
+    "tool": "1эмэ-псым; 1эдэ-уад"
   },
   {
     "hook": "хьэбзыу (bird)"
@@ -6378,7 +6444,10 @@
     "to flicker": "къыхэц1ыук1ын, къыхэлыдык1ын, къыхэнэфык1ын"
   },
   {
-    "high": "лъагэ; 1этыгъэ; "
+    "high": "лъагэ; 1этыгъэ"
+  },
+  {
+    "handcuffs": "1эхъу-пшъэхъухэр"
   },
   {
     "snowflake": "осыц"
@@ -7902,9 +7971,6 @@
     "hornbeam": "тфэи"
   },
   {
-    "owl": "тыгъурыгъу"
-  },
-  {
     "to dig": "т1ын; тхъун (to shovel out)"
   },
   {
@@ -8416,6 +8482,21 @@
   },
   {
     "bitter": "дыджы"
+  },
+  {
+    "instrument": "1эмэ-псым / 1эдэ-уад (tools)"
+  },
+  {
+    "cogwheel": "цабэ зы1ут щэрэхъ"
+  },
+  {
+    "gear-wheel": "цабэ зы1ут щэрэхъ"
+  },
+  {
+    "hay-maker": "мэкъуао"
+  },
+  {
+    "mower": "мэкъуао"
   },
   {
     "same": "а зы; а зыр (absolutive); а зым (ergative); а зымк1э (instrument case); зэфэд (alike)"
@@ -11952,7 +12033,7 @@
     "to gossip": "бзэгухьын; бзэгу фэхьын; убын"
   },
   {
-    "whip": "къамыщ"
+    "whip": "к1анлъэ; къамыщ"
   },
   {
     "lash": "къамыщ"
@@ -12714,7 +12795,7 @@
     "deservingly": "фэшъуашэу"
   },
   {
-    "appropriately": "фэшъуашэу"
+    "appropriately": "дахэу (in a good manner); фэшъуашэу"
   },
   {
     "depends on": "егъэпхыгъ; фэшъуаш"
@@ -15597,9 +15678,6 @@
     "horsewhip": "к1эпщы; чы уфэ-упц1"
   },
   {
-    "whip": "к1энлъэ"
-  },
-  {
     "very huge": "шъэджэшъэжъ"
   },
   {
@@ -16893,10 +16971,10 @@
     "teapot": "щайныч"
   },
   {
-    "jug": "къошын; (Shapsug) шъхьэхъу"
+    "jug": "къошын; (Shapsug) шъхьэхъу; гогон"
   },
   {
-    "pitcher": "къошын; (Shapsug) шъхьэхъу"
+    "pitcher": "къошын; (Shapsug) шъхьэхъу; гогон"
   },
   {
     "tub": "пхъэчай"
@@ -17488,5 +17566,11 @@
   },
   {
     "mill": "шъхьалы"
+  },
+  {
+    "hey": "сэлам; ш1уфэс; ал (oi, expresses an order with a touch of threat); (Shapsug) к1элэ (oi, expresses an order with a touch of threat)"
+  },
+  {
+    "oi": "ал (expresses an order with a touch of threat); (Shapsug) к1элэ (expresses an order with a touch of threat)"
   }
 ]

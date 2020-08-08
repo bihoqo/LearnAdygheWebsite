@@ -4,6 +4,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "you (singular)",
+        "examples": [
+          {
+            "sentence": "'''О''' удах",
+            "translation": "'''You are''' beautiful."
+          },
+          {
+            "sentence": "'''О''' тыдэ ущыщ?",
+            "translation": "From '''where''' are you?"
+          }
+        ]
+      },
+	  {
         "meaning": "weather",
         "examples": [
           {
@@ -17,7 +30,7 @@
         ]
       }
     ],
-    "cognate": "уэ",
+    "kabardian": "уэ",
     "type": "noun",
     "ipa": "wa"
   },
@@ -43,7 +56,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "that, Calling article (o)",
+        "meaning": "that (invisible)",
         "examples": [
           {
             "sentence": "'''а''' бэнанэр",
@@ -71,10 +84,14 @@
         "meaning": "or",
         "examples": [
           {
-            "sentence": "к1о '''е''' чъэ",
+            "sentence": "к1о '''е''' чъэ.",
             "translation": "go '''or''' run"
+          },
+		  {
+            "sentence": "'''е''' сэры, '''е''' оры",
+            "translation": "I '''or''' you."
           }
-        ]
+        ] 
       }
     ],
     "type": "conjunction",
@@ -97,14 +114,14 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(absolutive case) this (right here)",
+        "meaning": "(absolutive case) this",
         "examples": [
           {
-            "sentence": "'''мыр''' мак1о",
+            "sentence": "'''Мыр''' мак1о",
             "translation": "'''this''' is going"
           },
           {
-            "sentence": "'''мыр''' дахэ",
+            "sentence": "'''Мыр''' дахэ",
             "translation": "'''this''' is pretty"
           }
         ],
@@ -146,27 +163,47 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to hit someone or something physically and directly (not by throwing for example)",
+        "meaning": "alternative form of \"еон\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "wan"
+  },
+  {
+    "word": "еон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to hit; to strike; to hit someone or something physically and directly",
         "examples": [
           {
-            "sentence": "к1алэр дэпкъым '''ео'''",
-            "translation": "the boy '''is hitting''' the wall. (transitive)"
+            "sentence": "К1алэр дэпкъым '''ео'''",
+            "translation": "the boy '''is hitting''' the wall."
+          },
+		  {
+            "sentence": "К1алэр чъыгым уатэк1э '''ео'''",
+            "translation": "the boy '''is hitting''' the tree with an axe."
+          },
+		  {
+            "sentence": "Сэ к1алэм '''сео'''",
+            "translation": "'''I am hitting''' the boy."
           },
           {
-            "sentence": "'''усэоныу''' уфая?",
-            "translation": "Do you want '''me to hit you'''? (transitive)"
+            "sentence": "'''Усэонэу''' уфая?",
+            "translation": "Do you want '''me to hit you'''?"
           },
           {
             "sentence": "К1алэм '''уемыу'''",
-            "translation": "'''Don't hit''' the boy. (transitive)"
+            "translation": "'''Don't hit''' the boy."
           },
           {
             "sentence": "А к1алэхэр '''къыоощтых'''",
-            "translation": "Those boys '''will hit you'''. (transitive)"
+            "translation": "Those boys '''will hit you'''."
           },
           {
             "sentence": "К1алэр '''мао'''",
-            "translation": "The boy '''is hitting'''. (intransitive)"
+            "translation": "The boy '''is hitting'''."
           }
         ]
       },
@@ -174,42 +211,50 @@
         "meaning": "to eat with gusto",
         "examples": [
           {
-            "sentence": "нэк1о пицэ '''ткъеощт'''",
-            "translation": "Let's '''eat''' a pizza! (with gusto) (transitive)"
+            "sentence": "Нек1о пицэ '''тыкъеощт'''",
+            "translation": "Let's '''eat''' a pizza! (with gusto)"
           },
           {
-            "sentence": "пицэ '''укъеощта'''?",
-            "translation": "'''Are you going to eat''' a pizza? (with gusto) (transitive)"
+            "sentence": "Пицэ '''укъеощта'''?",
+            "translation": "'''Are you going to eat''' a pizza? (with gusto)"
           },
           {
-            "sentence": "к1алэр пицэ '''ео'''",
-            "translation": "The boy '''is eating''' a pizza (with gusto) (transitive)"
+            "sentence": "К1алэр пицэ '''ео'''",
+            "translation": "The boy '''is eating''' a pizza (with gusto)"
           }
         ]
       },
       {
-        "meaning": "to play music",
+        "meaning": "to play music; to play an instrument",
         "examples": [
           {
-            "sentence": "кIалэр гитарым '''къео'''",
-            "translation": "the boy is playing the guitar (transitive)"
+            "sentence": "К1алэр гитарым '''къео'''",
+            "translation": "the boy is playing the guitar"
           },
           {
-            "sentence": "пяноуым '''шъукъеуа'''?",
-            "translation": "Do you (plural) play the piano? (transitive)"
+            "sentence": "Пианом '''шъукъеуа'''?",
+            "translation": "Do you (pl.) play the piano?"
           },
           {
-            "sentence": "пшынэм '''еу'''",
-            "translation": "'''Play''' the accordion. (transitive)"
+            "sentence": "Пшынэм '''еу'''",
+            "translation": "'''Play''' the accordion."
           }
         ]
       },
       {
-        "meaning": "to shoot (к1эрахъомк1э еон)",
+        "meaning": "to shoot",
         "examples": [
           {
-            "sentence": "к1алэр к1эрахъомк1э '''ео''' тыгъужъым",
-            "translation": "The boy '''is shooting''' the wolf with the gun. (transitive)"
+            "sentence": "К1алэр к1эрахъомк1э '''ео''' тыгъужъым",
+            "translation": "The boy '''is shooting''' the wolf with the gun."
+          },
+		  {
+            "sentence": "Чылэм '''дэон'''",
+            "translation": "'''To shoot into''' the village"
+          },
+		  {
+            "sentence": "Топк1э '''къаох'''",
+            "translation": "'''They are shooting''' with cannons"
           }
         ]
       },
@@ -225,17 +270,17 @@
             "translation": "The house '''is being destroyed'''."
           },
           {
-            "sentence": "к1алэм унэ пшахъоу ыш1ыгъэ '''ощт''' къещхымэ",
+            "sentence": "К1алэм унэ пшахъоу ыш1ыгъэ '''ощт''' къещхымэ",
             "translation": "The boy's house sand '''will get ruined''' when it will rain."
           },
           {
-            "sentence": "уикомпыйотэр '''уагъэ'''",
+            "sentence": "Уикомпыйотэр '''уагъэ'''",
             "translation": "Your computer '''is ruined'''."
           }
         ]
       },
       {
-        "meaning": "to sting",
+        "meaning": "to sting (by a bee)",
         "examples": [
           {
             "sentence": "К1алэм бжьэр '''къеуагъ'''",
@@ -247,8 +292,8 @@
         "meaning": "to weed",
         "examples": [
           {
-            "sentence": "л1ыр хьащищ '''ео'''",
-            "translation": "The man '''is smoking''' hashish. (transitive)"
+            "sentence": "Л1ыр хьащищ '''ео'''",
+            "translation": "The man '''is smoking''' hashish."
           }
         ]
       },
@@ -256,7 +301,7 @@
         "meaning": "(mathematics) to multiply",
         "examples": [
           {
-            "sentence": "щым пл1ык1э '''уеомэ''' пш1ык1ут1у къыч1эк1ыжьыщт",
+            "sentence": "Щым пл1ык1э '''уеомэ''' пш1ык1ут1у къыч1эк1ыжьыщт",
             "translation": "'''If you multiply''' three times four it will make twelve. (transitive)"
           }
         ],
@@ -266,7 +311,7 @@
       }
     ],
     "type": "verb",
-    "ipa": "wan"
+    "ipa": "jawan"
   },
   {
     "word": "ко",
@@ -277,11 +322,11 @@
         "examples": []
       },
       {
-        "meaning": "Thigh muscle",
+        "meaning": "thigh muscle",
         "examples": []
       }
     ],
-    "cognate": "куэ",
+    "kabardian": "куэ",
     "type": "noun",
     "ipa": "kʷa"
   },
@@ -293,16 +338,16 @@
         "meaning": "isn't that right",
         "examples": [
           {
-            "sentence": "к1алэр к1ошъущт '''арба'''?",
+            "sentence": "К1алэр к1ошъущт '''арба'''?",
             "translation": "The boy can go, '''right'''?"
           },
           {
-            "sentence": "к1алэм ук1онэу къыуи1уагъ '''арба'''?",
+            "sentence": "К1алэм ук1онэу къыуи1уагъ '''арба'''?",
             "translation": "The boy told you to go, '''right'''?"
           },
           {
-            "sentence": "'''арба''' к1алэм ы1уагъэ?",
-            "translation": "'''isn’t that''' what the boy said?"
+            "sentence": "'''Арба''' к1алэм ы1уагъэ?",
+            "translation": "'''Isn’t that''' what the boy said?"
           }
         ]
       }
@@ -348,7 +393,7 @@
         "examples": []
       }
     ],
-    "cognate": "адэ",
+    "kabardian": "адэ",
     "type": "noun",
     "ipa": "tə"
   },
@@ -408,8 +453,7 @@
       }
     ],
     "synonyms": [
-      "стын",
-      "----"
+      "стын"
     ],
     "type": "verb",
     "ipa": "sən"
@@ -434,7 +478,7 @@
         "meaning": "burrow",
         "examples": []
       },
-      {
+      {den
         "meaning": "small dimple in the form of a hole (can mean: den, lair, nest)",
         "examples": []
       }
@@ -463,7 +507,11 @@
         "examples": []
       }
     ],
-    "cognate": "гуартэ",
+    "synonyms": [
+      "заулэ",
+      "къаум"
+    ],
+    "kabardian": "гуартэ",
     "type": "pron",
     "ipa": "kʷart"
   },
@@ -472,7 +520,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(Kfar Kama Shapsug dialect) yes",
+        "meaning": "(Kfar Kama dialect) yes",
         "examples": [],
         "tags": [
           "Kfar Kama Shapsug dialect"
@@ -483,7 +531,7 @@
         "examples": []
       }
     ],
-    "cognate": "ныт1э",
+    "kabardian": "ныт1э",
     "type": "noun",
     "ipa": "aːj"
   },
@@ -492,15 +540,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "expresses an order with a touch of threat",
+        "meaning": "oi (expresses an order with a touch of threat)",
         "examples": [
           {
-            "sentence": "Ал, зэ щыгъэт",
-            "translation": "'''Al!''', shut up for a moment."
+            "sentence": "'''Ал''', зэ щыгъэт",
+            "translation": "'''Oi!''', shut up for a moment."
           },
           {
-            "sentence": "Ал, зэ зэ1ун",
-            "translation": "'''Al!''', shut up for a moment."
+            "sentence": "'''Ал''', зэ зэ1ун",
+            "translation": "'''Oi!''', shut up for a moment."
           }
         ]
       }
@@ -511,29 +559,31 @@
   {
     "word": "шъоущыгъу",
     "lang": "Adyghe",
+	"etymology": "From шъоу (honey) + щыгъу (salt)",
     "definitions": [
       {
         "meaning": "sugar",
         "examples": []
       }
     ],
-    "cognate": "фошыгъу",
+    "kabardian": "фошыгъу",
     "type": "noun",
     "ipa": "ʃʷawɕəʁʷ"
   },
   {
     "word": "адыгабзэ",
     "lang": "Adyghe",
+	"etymology": "From адыгэ (Adyghe) + бзэ (language)",
     "definitions": [
       {
         "meaning": "the Adyghe language",
         "examples": []
       }
     ],
+    "kabardian": "адыгэбзэ",
     "type": "name"
   },
   {
-    "cognate": "адыгэбзэ",
     "word": "ун",
     "lang": "Adyghe",
     "definitions": [
@@ -550,19 +600,39 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "much, a lot (of)",
+        "meaning": "a lot (of)",
         "examples": [
           {
-            "sentence": "к1алэм ахъщэ '''бэу''' и1",
+            "sentence": "'''Бэ''' псэу щы1эр",
+            "translation": "There is '''a lot''' of water."
+          },
+		  {
+            "sentence": "Псы '''бэ''' щы1",
+            "translation": "There is '''a lot''' of water."
+          },
+		  {
+            "sentence": "К1алэм ахъщэ '''бэу''' и1",
             "translation": "The boy has '''a lot of''' money."
           },
           {
-            "sentence": "'''бэрэ''' уиунэ сыкъак1о",
+            "sentence": "'''Бэрэ''' уиунэ сыкъак1о",
             "translation": "I come to your house '''a lot'''."
           },
           {
-            "sentence": "к1элэ '''бэм''' е1о ар",
+            "sentence": "К1элэ '''бэм''' е1о ар",
             "translation": "'''A lot''' of the boys say that."
+          },
+          {
+            "sentence": "К1элэ '''бэу''' еджап1эм щы1",
+            "translation": "There are '''a lot''' of boys in school."
+          },
+          {
+            "sentence": "'''Бэу''' къэк1уагъ",
+            "translation": "'''A lot''' [of people] came."
+          },
+          {
+            "sentence": "'''Бэм''' е1о ар",
+            "translation": "'''A lot''' [of people] say that."
           }
         ]
       }
@@ -571,34 +641,186 @@
     "ipa": "ba"
   },
   {
-    "word": "бэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "a lot, a lot of people, a lot of objects",
-        "examples": [
-          {
-            "sentence": "'''бэм''' е1о ар",
-            "translation": "'''A lot''' of people say that."
-          }
-        ]
-      }
-    ],
-    "type": "noun",
-    "ipa": "ba"
-  },
-  {
     "word": "цэ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "tooth",
+        "examples": [
+          {
+            "sentence": "К1алэм '''цэ''' къы1ук1агъ",
+            "translation": "The boy grew '''a tooth'''."
+          },
+		  {
+            "sentence": "Тыгъужъым '''цэ''' чанхэр 1утых",
+            "translation": "The wolf has sharp '''teeth'''."
+          },
+		  {
+            "sentence": "Л1ыжъым '''ыцэхэр''' 1утэкъух",
+            "translation": "The oldman's '''teeth''' are breaking off."
+          }
+        ]
+      },
+	  {
+        "meaning": "the tip of a rake, pitchfork or such tools",
+        "examples": []
+      },
+	  {
+        "meaning": "grain",
         "examples": []
       }
     ],
-    "cognate": "дзэ",
+    "kabardian": "дзэ",
     "type": "noun",
     "ipa": "t͡sa"
+  },
+  {
+    "word": "коцыц",
+    "lang": "Adyghe",
+	"etymology": "From коцы (wheat) + цэ (tooth)",
+    "definitions": [
+      {
+        "meaning": "wheat grain",
+        "examples": [
+          {
+            "sentence": "Мыгъэ '''коцыцэхэр''' иных",
+            "translation": "This year the '''wheat grain''' are huge."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "kʷat͡sət͡s"
+  },
+  {
+    "word": "шъонт1эу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "plump, well-fed",
+        "examples": []
+      }
+    ],
+    "type": "adv",
+    "ipa": "ʃʷantʼaw"
+  },
+  {
+    "word": "шъонт",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "wineskin, waterskin",
+        "examples": [
+          {
+            "sentence": "К1алэр '''шъонтым''' къыригъэчъи сэнэ апс ешъуагъ",
+            "translation": "The boy poured from the '''wineskin''', and drank a glass of wine."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷant"
+  },
+  {
+    "word": "псылъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "flask (any flask for carrying liquids)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "psəɬ"
+  },
+  {
+    "word": "псы1э-псыблэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "damp",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "psəʔa-psəbɮa"
+  },
+  {
+    "word": "шынэгъак1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "humidity (dampness, especially that of the air)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃənaʁaːt͡ʃʼ"
+  },
+  {
+    "word": "ц1ынэгъак1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "humidity (dampness, especially that of the air)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡sʼənaʁaːt͡ʃʼ"
+  },
+  {
+    "word": "коцышъхьэ",
+    "lang": "Adyghe",
+	"etymology": "From коцы (hay) + шъхьэ (head)",
+    "definitions": [
+      {
+        "meaning": "ear of wheat",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "kʷat͡səʂħa"
+  },
+  {
+    "word": "пхъэ1эбжъан",
+    "lang": "Adyghe",
+	"etymology": "From пхъэ (wood) + 1эбжъан (finger-nail)",
+    "definitions": [
+      {
+        "meaning": "rake (garden tool)",
+        "examples": [
+          {
+            "sentence": "Л1ым пхъэ1эбжъанэмк1э мэкъу аргъэныр еугъои",
+            "translation": "The man gathers a row of hays '''using the rake'''."
+          },
+		  {
+            "sentence": "'''Пхъэ1эбжъанэм''' ыцэ 1уиутыгъ",
+            "translation": "'''The rake's''' tip is broke."
+          }
+        ]
+      }
+    ],
+    "kabardian": "дзэ",
+    "type": "noun",
+    "ipa": "t͡sa"
+  },
+  {
+    "word": "аргъэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "row of hay, wheat or any other thing that was mowed",
+        "examples": [
+          {
+            "sentence": "Л1ым пхъэ1эбжъанэмк1э мэкъу '''аргъэныр''' еугъои",
+            "translation": "The man gathers a '''row of''' hays using the rake."
+          }
+        ]
+      },
+    ],
+    "type": "noun",
+    "ipa": "aːrʁan"
   },
   {
     "word": "дэ",
@@ -617,12 +839,38 @@
     "ipa": "da"
   },
   {
+    "word": "дэжъый",
+    "lang": "Adyghe",
+	"etymology": "From дэ (nut) + жъый (small)",
+    "definitions": [
+      {
+        "meaning": "hazelnut, hazel (nut)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "daʐəj"
+  },
+  {
     "word": "пэ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "nose",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Спэ''' мэхъу",
+            "translation": "'''My nose''' is itching."
+          },
+		  {
+            "sentence": "'''Упэ''' лъы къечъы",
+            "translation": "'''Your nose''' is bleeding."
+          },
+		  {
+            "sentence": "А к1алэм '''ыпэ''' к1ыхьэ",
+            "translation": "That boy's '''nose''' is long."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -646,13 +894,22 @@
       },
       {
         "meaning": "car",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Ку''' к1э сыщэфыгъ",
+            "translation": "I bought a new '''car'''."
+          },
+		  {
+            "sentence": "'''Кумк1э''' къалэм сэк1о",
+            "translation": "I am going to the city '''with the car'''."
+          }
+        ]
       }
     ],
     "synonyms": [
       "кухьэ"
     ],
-    "cognate": "гу",
+    "kabardian": "гу",
     "type": "noun",
     "ipa": "kʷə"
   },
@@ -665,7 +922,7 @@
         "examples": []
       }
     ],
-    "cognate": "дэ",
+    "kabardian": "дэ",
     "type": "pron",
     "ipa": "ta"
   },
@@ -695,7 +952,7 @@
       }
     ],
     "type": "noun",
-    "ipa": "limɔn"
+    "ipa": "limun"
   },
   {
     "word": "лы",
@@ -703,7 +960,20 @@
     "definitions": [
       {
         "meaning": "meat",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Лы''' сэшхы",
+            "translation": "I am eating '''meat'''."
+          },
+		  {
+            "sentence": "'''Лы''' сэ сышхырэп",
+            "translation": "I don't eat '''meat'''."
+          },
+		  {
+            "sentence": "Мы '''лыр''' агъэстыгъ",
+            "translation": "They burned this '''meat'''."
+          }
+        ]
       },
       {
         "meaning": "flesh",
@@ -766,7 +1036,12 @@
     "definitions": [
       {
         "meaning": "group",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1элэ '''куп''' тучаным 1ут",
+            "translation": "A '''group''' of boys stand near the store."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -789,14 +1064,32 @@
     "definitions": [
       {
         "meaning": "to be burned",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Лыр ''''стыгъэ''",
+            "translation": "The meat '''was burned'''."
+          },
+		  {
+            "sentence": "Унэр ''''мэсты''",
+            "translation": "The house '''is burning'''."
+          }
+        ]
       },
       {
         "meaning": "to burn, to scorch",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм лыр ''''егъэст''",
+            "translation": "The boy '''is burning''' the meat."
+          },
+		  {
+            "sentence": "Унэр сэ ''''сыгъэстыгъ''",
+            "translation": "'''I burned''' the house."
+          }
+        ]
       }
     ],
-    "cognate": "сын",
+    "kabardian": "сын",
     "type": "verb",
     "ipa": "stən"
   },
@@ -806,7 +1099,12 @@
     "definitions": [
       {
         "meaning": "soap",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Сабынк1э''' зытхьэк1",
+            "translation": "Wash yourself '''with soap'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -818,7 +1116,12 @@
     "definitions": [
       {
         "meaning": "soap",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Тхьак1афк1э''' зытхьэк1",
+            "translation": "Wash yourself '''with soap'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -830,7 +1133,16 @@
     "definitions": [
       {
         "meaning": "it, that; he, she, that person (absolutive case)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Ар''' синыбджэгъу",
+            "translation": "'''That person''' is my friend."
+          },
+		  {
+            "sentence": "'''Ар''' тучаным к1уагъэ",
+            "translation": "'''(S)he''' went to the store."
+          }
+        ]
       }
     ],
     "type": "pron",
@@ -866,7 +1178,16 @@
     "definitions": [
       {
         "meaning": "war",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Заом''' л1ыр хэхьагъ",
+            "translation": "The man '''entered''' the war."
+          },
+		  {
+            "sentence": "'''Зао''' щы1",
+            "translation": "There is '''war'''."
+          }
+        ]
       },
       {
         "meaning": "battle",
@@ -935,10 +1256,20 @@
   {
     "word": "гущы1алъ",
     "lang": "Adyghe",
+	"etymology": "From гущы1э (word) + -алъ (tool suffix)",
     "definitions": [
       {
         "meaning": "dictionary",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Гущы1алъэмк1э''' мы гущы1эр къэзгъотыгъ",
+            "translation": "I found this word '''using the dictionary'''."
+          },
+		  {
+            "sentence": "'''Гущы1алъэмк1э''' лъыхъу",
+            "translation": "Search '''using the dictionary'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -949,8 +1280,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "place",
-        "examples": []
+        "meaning": "place; spot",
+        "examples": [
+          {
+            "sentence": "'''Еры''' сылъэхъу",
+            "translation": "I am looking for '''a spot'''."
+          },
+		  {
+            "sentence": "'''Еры''' щы1эп",
+            "translation": "There is no '''place'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -987,6 +1327,10 @@
           {
             "sentence": "Сиунэ къак1у, '''ау''' цуакъэ плъыжьыхэр къэхьых",
             "translation": "Come to my house, '''but''' bring the red shoes."
+          },
+          {
+            "sentence": "Еджап1эр къины, '''ау''' 1офык1э дэгъу",
+            "translation": "School is hard, '''but''' it is good for work."
           }
         ]
       }
@@ -1004,6 +1348,10 @@
           {
             "sentence": "'''Уз''' горэм уегъэгумэк1а?",
             "translation": "Does a '''disease''' bothers you?"
+          },
+		  {
+            "sentence": "Л1ыжъым '''узы''' пылъ",
+            "translation": "The old man has an '''illness'''?"
           }
         ]
       },
@@ -1012,7 +1360,7 @@
         "examples": []
       }
     ],
-    "cognate": "уз",
+    "kabardian": "уз",
     "type": "noun",
     "ipa": "wəzə"
   },
@@ -1037,27 +1385,20 @@
     "definitions": [
       {
         "meaning": "village",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Коим''' сыдэс джы",
+            "translation": "I am in the '''village''' now."
+          }
+        ]
       }
     ],
     "synonyms": [
       "къуаджэ"
     ],
-    "cognate": "къуажэ",
+    "kabardian": "къуажэ",
     "type": "noun",
     "ipa": "kʷaj"
-  },
-  {
-    "word": "еон",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"он\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "jawan"
   },
   {
     "word": "тын",
@@ -1067,23 +1408,23 @@
         "meaning": "to pay",
         "examples": [
           {
-            "sentence": "к1алэр '''матэ'''",
+            "sentence": "К1алэр '''матэ'''",
             "translation": "The boy is '''paying'''."
           },
           {
-            "sentence": "к1алэм ахъщэ '''ытын''' фай",
+            "sentence": "К1алэм ахъщэ '''ытын''' фай",
             "translation": "The boy must '''pay''' money."
           },
           {
-            "sentence": "к1алэм ахъщэ '''ытыгъ'''",
+            "sentence": "К1алэм ахъщэ '''ытыгъ'''",
             "translation": "The boy '''payed''' money."
           },
           {
-            "sentence": "'''утын''' фай",
+            "sentence": "'''Утын''' фай",
             "translation": "'''You''' must '''pay'''"
           },
           {
-            "sentence": "к1алэм ахъщэ '''еты'''",
+            "sentence": "К1алэм ахъщэ '''еты'''",
             "translation": "The boy is '''paying''' money."
           },
           {
@@ -1132,13 +1473,20 @@
     "definitions": [
       {
         "meaning": "corn",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Натрыф''' сэшхы",
+            "translation": "I am eating '''corn'''."
+          },
+		  {
+            "sentence": "'''Натрыф''' хатэ ти1",
+            "translation": "We have a '''corn''' garden."
+          }
+        ]
       }
     ],
-    "synonyms": [
-      "натыф"
-    ],
-    "cognate": "нартыху",
+    "kabardian": "нартыху",
+    "shapsug": "натыф",
     "type": "noun",
     "ipa": "naːtrəf"
   },
@@ -1160,10 +1508,19 @@
     "definitions": [
       {
         "meaning": "fish",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Пцэжъые''' хым къыхэубытэн",
+            "translation": "To catch '''fish''' in the water."
+          },
+		  {
+            "sentence": "'''Пцэжъые''' сышхыныр сик1ас",
+            "translation": "I likle to eat '''fihs'''."
+          }
+        ]
       }
     ],
-    "cognate": "бдзэжьей",
+    "kabardian": "бдзэжьей",
     "type": "noun",
     "ipa": "pt͡saʐəja"
   },
@@ -1176,19 +1533,26 @@
         "examples": []
       }
     ],
-    "cognate": "щхьэ",
+    "kabardian": "щхьэ",
     "type": "noun",
     "ipa": "ʂħa"
   },
   {
     "word": "шъхьэц",
     "lang": "Adyghe",
+	"etymology": "From шъхьэ (head) + цы (wool; hair)",
     "definitions": [
       {
-        "meaning": "hair (on head)",
-        "examples": []
+        "meaning": "hairhead; hair on the head",
+        "examples": [
+          {
+            "sentence": "'''Сшъхьэц''' сэжьы",
+            "translation": "I am brushing '''my hair'''."
+          }
+        ]
       }
     ],
+    "kabardian": "щхьэц",
     "type": "noun",
     "ipa": "ʂħat͡s"
   },
@@ -1198,7 +1562,12 @@
     "definitions": [
       {
         "meaning": "forehead",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Снат1э''' мэузы",
+            "translation": "'''My forehead''' hurts."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -1210,7 +1579,16 @@
     "definitions": [
       {
         "meaning": "eye",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Снэ''' дэгъоу елъэгъу",
+            "translation": "'''My eye''' sees good."
+          },
+		  {
+            "sentence": "'''Унэ''' дахэ",
+            "translation": "'''Your eye''' is beautiful."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -1225,7 +1603,7 @@
         "examples": []
       }
     ],
-    "cognate": "набдзэ",
+    "kabardian": "набдзэ",
     "type": "noun",
     "ipa": "naːpt͡sa"
   },
@@ -1255,6 +1633,7 @@
   {
     "word": "нэпс",
     "lang": "Adyghe",
+	"etymology": "From нэ (eye) + псы (water)",
     "definitions": [
       {
         "meaning": "tear",
@@ -1270,10 +1649,6 @@
     "definitions": [
       {
         "meaning": "water",
-        "examples": []
-      },
-      {
-        "meaning": "liquid",
         "examples": []
       }
     ],
@@ -1298,6 +1673,7 @@
   {
     "word": "пэгъуанэ",
     "lang": "Adyghe",
+	"etymology": "From пэ (nose) + гъуанэ (hole)",
     "definitions": [
       {
         "meaning": "nostril",
@@ -1318,22 +1694,19 @@
       {
         "meaning": "mouth",
         "examples": []
-      },
-      {
-        "meaning": "skateboard",
-        "examples": []
       }
     ],
-    "cognate": "жьэ",
+    "kabardian": "жьэ",
     "type": "noun",
     "ipa": "ʒa"
   },
   {
     "word": "1упэ",
     "lang": "Adyghe",
+	"etymology": "From 1у (mouth) + пэ (nose)",
     "definitions": [
       {
-        "meaning": "lip",
+        "meaning": "lip; lips",
         "examples": []
       },
       {
@@ -1348,7 +1721,7 @@
             "translation": "The girl is standing '''in front''' of the boy."
           },
           {
-            "sentence": "'''Сы1упэк1э''' къиуцу",
+            "sentence": "'''Сы1упэ''' къиуцу",
             "translation": "Stand still '''in front of me'''."
           }
         ]
@@ -1369,11 +1742,7 @@
         "examples": []
       },
       {
-        "meaning": "Bow string",
-        "examples": []
-      },
-      {
-        "meaning": "Hypotenuse (in a triangle)",
+        "meaning": "bow-string",
         "examples": []
       }
     ],
@@ -1383,6 +1752,7 @@
   {
     "word": "бзэгу",
     "lang": "Adyghe",
+	"etymology": "From бзэ (language) + гу (heart)",
     "definitions": [
       {
         "meaning": "tongue",
@@ -1395,6 +1765,7 @@
   {
     "word": "1упс",
     "lang": "Adyghe",
+	"etymology": "From 1у (mouth) + псы (water)",
     "definitions": [
       {
         "meaning": "saliva",
@@ -1407,6 +1778,7 @@
   {
     "word": "напэ",
     "lang": "Adyghe",
+	"etymology": "From нэ (eye) + пэ (face)",
     "definitions": [
       {
         "meaning": "face",
@@ -1423,6 +1795,7 @@
   {
     "word": "нэгу",
     "lang": "Adyghe",
+	"etymology": "From нэ (eye) + гу (heart)",
     "definitions": [
       {
         "meaning": "cheek",
@@ -1430,9 +1803,8 @@
       }
     ],
     "synonyms": [
-      "нэпашъо"
+      "нэк1у"
     ],
-    "cognate": "нэк1у",
     "type": "noun",
     "ipa": "naɡʷ"
   },
@@ -1466,7 +1838,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "ear",
+        "meaning": "meaning": "alternative form of \"тхьак1умэ\"",
         "examples": []
       }
     ],
@@ -1474,12 +1846,34 @@
     "ipa": "tħakʷʼma"
   },
   {
+    "word": "тхьак1умэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "ear",
+        "examples": [
+          {
+            "sentence": "Ц1ыфыр '''ытхьак1умэк1э''' мэда1о",
+            "translation": "The human listens '''with its ear'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "tħaːkʷʼma"
+  },
+  {
     "word": "дэбзыкъу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "sideburn",
-        "examples": []
+        "meaning": "sideburn; sideburns",
+        "examples": [
+          {
+            "sentence": "'''Удэбзыкъу''' упсых",
+            "translation": "Cut your '''sideburns'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -1488,6 +1882,7 @@
   {
     "word": "жэк1апэ",
     "lang": "Adyghe",
+	"etymology": "From жак1э (beard) + пэ (nose)",
     "definitions": [
       {
         "meaning": "chin",
@@ -1495,9 +1890,9 @@
       }
     ],
     "synonyms": [
-      "жэк1ьапэ",
       "жэк1эпэпкъ"
     ],
+    "shapsug": "жэк1ьапэ",
     "type": "noun",
     "ipa": "ʒatʃʼaːpa"
   },
@@ -1506,7 +1901,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "back of the neck",
+        "meaning": "(Shapsug) back of the neck",
         "examples": []
       }
     ],
@@ -1525,11 +1920,16 @@
         "examples": []
       },
       {
-        "meaning": "wing",
-        "examples": []
+        "meaning": "wing; wings",
+        "examples": [
+          {
+            "sentence": "Бзыур '''матэк1э''' мэбыбы",
+            "translation": "The bird is flying '''with its wings'''."
+          }
+        ]
       }
     ],
-    "cognate": "дамэ",
+    "kabardian": "дамэ",
     "type": "noun",
     "ipa": "taːma"
   },
@@ -1586,7 +1986,11 @@
         "examples": []
       }
     ],
-    "cognate": "пщэдыкъ",
+    "synonyms": [
+      "пшъэ (neck)",
+      "пшъэб (back of the neck)"
+    ],
+    "kabardian": "пщэдыкъ",
     "type": "noun",
     "ipa": "pʂatəq"
   },
@@ -1598,15 +2002,15 @@
         "meaning": "high",
         "examples": [
           {
-            "sentence": "чъыгы '''1этыгъэм''' ситоп пынагъ",
+            "sentence": "Чъыгы '''1этыгъэм''' ситоп пынагъ",
             "translation": "My ball stuck on the '''high''' tree."
           },
           {
-            "sentence": "мы къушъхьэр '''зы1этыгъ'''",
+            "sentence": "Мы къушъхьэр '''зы1этыгъ'''",
             "translation": "This mountain '''is so high'''."
           },
           {
-            "sentence": "'''узэрэ1этыгъэр'''",
+            "sentence": "'''Узэрэ1этыгъэр'''",
             "translation": "'''You are so high'''."
           }
         ]
@@ -1615,38 +2019,30 @@
         "meaning": "loud voice (мэкъэ 1этыгъ)",
         "examples": [
           {
-            "sentence": "к1алэм имакъэ '''1этыгъ'''",
+            "sentence": "К1алэм имакъэ '''1этыгъ'''",
             "translation": "The boy's voice '''is loud'''."
           },
           {
-            "sentence": "музикэ макъэр '''1этыгъэу''' къырегъа1о",
+            "sentence": "Музикэ макъэр '''1этыгъэу''' къырегъа1о",
             "translation": "(s)he plays music loudly."
           },
           {
-            "sentence": "к1алэм пшынэм имакъэ '''1этыгъэу''' къырегъа1о",
+            "sentence": "К1алэм пщынэм имакъэ '''1этыгъэу''' къырегъа1о",
             "translation": "The boy plays the accordion loudly."
           }
         ]
       }
     ],
+    "synonyms": [
+      "лъагэ (high)"
+    ],
     "type": "adj",
     "ipa": "ʔataʁ"
   },
   {
-    "word": "1элгьанэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"1элджанэ\"",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ʔalɡʲaːana"
-  },
-  {
     "word": "1эшъхьэ",
     "lang": "Adyghe",
+	"etymology": "From 1э (hand) + шъхьэ (head)",
     "definitions": [
       {
         "meaning": "joint of hand",
@@ -1659,6 +2055,7 @@
   {
     "word": "1эгу",
     "lang": "Adyghe",
+	"etymology": "From 1э (hand) + гу (heart)",
     "definitions": [
       {
         "meaning": "palm",
@@ -1675,6 +2072,7 @@
   {
     "word": "1эдакъэ",
     "lang": "Adyghe",
+	"etymology": "From 1э (hand) + дакъэ (root)",
     "definitions": [
       {
         "meaning": "the hand's heel",
@@ -1687,6 +2085,7 @@
   {
     "word": "1апэ",
     "lang": "Adyghe",
+	"etymology": "From 1э (hand) + пэ (nose)",
     "definitions": [
       {
         "meaning": "hand (more specifically: upper surface of the hand)",
@@ -1708,37 +2107,23 @@
     "synonyms": [
       "1эхъуамбэ"
     ],
-    "cognate": "1эпхъуамбэ",
+    "kabardian": "1эпхъуамбэ",
     "type": "noun",
     "ipa": "ʔapχaːba"
   },
   {
     "word": "1эбжъанэ",
     "lang": "Adyghe",
+	"etymology": "From 1э (hand) + бжъанэ (nail)",
     "definitions": [
       {
         "meaning": "fingernail",
         "examples": []
       }
     ],
-    "cognate": "1эбжьанэ",
+    "kabardian": "1эбжьанэ",
     "type": "noun",
     "ipa": "ʔabʐaːna"
-  },
-  {
-    "word": "1эпэпс1ий",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"1эпэпц1ий\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "1эпапц1э"
-    ],
-    "type": "noun",
-    "ipa": "ʔapapsʼəj"
   },
   {
     "word": "1эпэпц1ый",
@@ -1752,13 +2137,15 @@
     "synonyms": [
       "1эпапц1э"
     ],
-    "cognate": "1эпэпц1ий",
+    "kabardian": "1эпэпц1ий",
+    "shapsug": "1эпэпс1ый",
     "type": "noun",
     "ipa": "ʔapapsʼəj"
   },
   {
     "word": "бгъэгу",
     "lang": "Adyghe",
+	"etymology": "From бгъэ (chest) + гу (heart)",
     "definitions": [
       {
         "meaning": "midchest",
@@ -1825,7 +2212,7 @@
         "examples": []
       }
     ],
-    "cognate": "бынжэ",
+    "kabardian": "бынжэ",
     "type": "noun",
     "ipa": "nəbəd͡ʒ"
   },
@@ -1840,18 +2227,23 @@
       {
         "meaning": "color",
         "examples": []
+      },
+      {
+        "meaning": "y'all; you all; you guys; you (plural)",
+        "examples": []
       }
     ],
-    "cognate": "фэ",
+    "kabardian": "фэ",
     "type": "noun",
     "ipa": "ʃʷa"
   },
   {
     "word": "шъутыпашъо",
     "lang": "Adyghe",
+	"etymology": "From шъуты (butt) + пэ (nose) + шъо (skin)",
     "definitions": [
       {
-        "meaning": "butt cheek",
+        "meaning": "buttcheek; buttcheeks",
         "examples": []
       }
     ],
@@ -1867,10 +2259,8 @@
         "examples": []
       }
     ],
-    "synonyms": [
-      "лъэгуаджэ"
-    ],
-    "cognate": "лъэгуажьэ",
+    "kabardian": "лъэгуажьэ",
+    "shapsug": "лъэгуаджэ",
     "type": "noun",
     "ipa": "ɬaɡʷaːnd͡ʒa"
   },
@@ -1881,9 +2271,15 @@
       {
         "meaning": "leg",
         "examples": []
+      },
+	  {
+        "meaning": "foot",
+        "examples": []
       }
     ],
-    "cognate": "лъэ",
+    "synonyms": [
+      "лъэ"
+    ],
     "type": "noun",
     "ipa": "ɬaːqʷa"
   },
@@ -1902,6 +2298,7 @@
   {
     "word": "лъашъхьэ",
     "lang": "Adyghe",
+	"etymology": "From лъэ (foot) + шъхьэ (head)",
     "definitions": [
       {
         "meaning": "top of the foot, wrist of the foot",
@@ -1914,6 +2311,7 @@
   {
     "word": "лъапэ",
     "lang": "Adyghe",
+	"etymology": "From лъэ (foot) + пэ (nose)",
     "definitions": [
       {
         "meaning": "foot (more specifically: upper surface of the foot)",
@@ -1926,6 +2324,7 @@
   {
     "word": "лъэгу",
     "lang": "Adyghe",
+	"etymology": "From лъэ (foot) + гу (heart)",
     "definitions": [
       {
         "meaning": "sole (bottom of the foot or of the shoe)",
@@ -1972,13 +2371,14 @@
     "synonyms": [
       "лъэхъуамбэ"
     ],
-    "cognate": "лъэпхъуамбэ",
+    "kabardian": "лъэпхъуамбэ",
     "type": "noun",
     "ipa": "ɬapχaːba"
   },
   {
     "word": "лъэбжъанэ",
     "lang": "Adyghe",
+	"etymology": "From лъэ (foot) + бжъанэ (nail)",
     "definitions": [
       {
         "meaning": "toenail",
@@ -1987,21 +2387,6 @@
     ],
     "type": "noun",
     "ipa": "ɬapʐaːna"
-  },
-  {
-    "word": "лъэпэпс1ий",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"лъэпапц1э\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "лъэпапц1э"
-    ],
-    "type": "noun",
-    "ipa": "ɬapapsʼəj"
   },
   {
     "word": "лъэпэпц1ый",
@@ -2015,6 +2400,8 @@
     "synonyms": [
       "лъэпапц1э"
     ],
+    "kabardian": "лъэпэпц1ий",
+    "shapsug": "лъэпэпс1ый",
     "type": "noun",
     "ipa": "ɬapapt͡sʼəj"
   },
@@ -2023,13 +2410,9 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "penis",
+        "meaning": "penis; dick",
         "examples": []
       },
-      {
-        "meaning": "dick",
-        "examples": []
-      }
     ],
     "synonyms": [
       "хьэмашэ"
@@ -2046,9 +2429,8 @@
         "examples": []
       }
     ],
-    "synonyms": [
-      "кьый"
-    ],
+    "kabardian": "тэмакъ",
+    "shapsug": "кьый",
     "type": "noun",
     "ipa": "t͡ʃəj"
   },
@@ -2065,18 +2447,19 @@
       "к1эт1эй"
     ],
     "type": "noun",
-    "ipa": "nəpsˤʼa"
+    "ipa": "nəpsʼa"
   },
   {
     "word": "к1э",
     "lang": "Adyghe",
+	"etymology": "From Proto-Circassian кӏьэ [kʲʼa] \"tail\" and from the Proto-Circassian кӏэ [t͡ʃʼa] \"new\".",
     "definitions": [
       {
         "meaning": "tail",
         "examples": [
           {
             "sentence": "Чэтыум '''ык1э''' утемыпк1",
-            "translation": "Don't jump/step on the cat's [[tail]]."
+            "translation": "Don't jump on the cat's '''tail'''."
           }
         ]
       },
@@ -2116,7 +2499,8 @@
         ]
       }
     ],
-    "cognate": "щ1э (new)",
+    "kabardian": "щ1э (new); к1э (tail)",
+    "shapsug": "кӏьэ (tail); кӏэ (new)",
     "type": "noun",
     "ipa": "t͡ʃʼa"
   },
@@ -2129,6 +2513,7 @@
         "examples": []
       }
     ],
+    "shapsug": "нэк1эт1эр",
     "type": "noun",
     "ipa": "nat͡ʃʼatʼərəʁ"
   },
@@ -2165,7 +2550,7 @@
         "examples": []
       }
     ],
-    "cognate": "бжьыныху",
+    "kabardian": "бжьыныху",
     "type": "noun",
     "ipa": "bʑənəf"
   },
@@ -2182,13 +2567,11 @@
         "examples": []
       }
     ],
-    "synonyms": [
-      "к1ьак1ьэ"
-    ],
-    "cognate": "гэ",
+    "kabardian": "джэдык1э",
+    "shapsug": "к1ьак1ьэ",
     "type": "noun",
     "ipa": "t͡ʃʼant͡ʃʼa"
-  },
+  },
   {
     "word": "мые",
     "lang": "Adyghe",
@@ -2221,7 +2604,7 @@
       "хъырбыдз",
       "къэпраз"
     ],
-    "cognate": "нащэ",
+    "kabardian": "нащэ",
     "type": "noun",
     "ipa": "naːʃa"
   },
@@ -2237,13 +2620,14 @@
     "synonyms": [
       "нашэ"
     ],
-    "cognate": "нащэ",
+    "kabardian": "нащэ",
     "type": "noun",
     "ipa": "qarabəd͡z"
   },
   {
     "word": "тыгъэгъэзак1э",
     "lang": "Adyghe",
+	"etymology": "From тыгъэгъаз (sunflower) + к1э (seed)",
     "definitions": [
       {
         "meaning": "sunflower seeds (food)",
@@ -2253,12 +2637,14 @@
     "synonyms": [
       "тыгъэзак1э"
     ],
+    "shapsug": "тыгъэгъэзак1ьэ",
     "type": "noun",
-    "ipa": "taʁzaːkʲʼa"
+    "ipa": "taʁzaːt͡ʃʼa"
   },
   {
     "word": "тыгъэзак1э",
     "lang": "Adyghe",
+	"etymology": "From тыгъэгъаз (sunflower) + к1э (seed)",
     "definitions": [
       {
         "meaning": "sunflower seeds (food)",
@@ -2268,30 +2654,35 @@
     "synonyms": [
       "тыгъэгъэзак1э"
     ],
+    "shapsug": "тыгъэзак1ьэ",
     "type": "noun",
-    "ipa": "taʁzaːkʲʼa"
+    "ipa": "taʁzaːt͡ʃʼa"
   },
   {
     "word": "нэшак1э",
     "lang": "Adyghe",
+	"etymology": "From нашэ (watermelon) + к1э (seed)",
     "definitions": [
       {
         "meaning": "watermelon seed (food)",
         "examples": []
       }
     ],
+    "shapsug": "нэшак1ьэ",
     "type": "noun",
     "ipa": "naʃaːkʲʼa"
   },
   {
     "word": "къэбык1э",
     "lang": "Adyghe",
+	"etymology": "From къэбы (pumpkin) + к1э (seed)",
     "definitions": [
       {
         "meaning": "pumpkin seed",
         "examples": []
       }
     ],
+    "shapsug": "къэбык1ьэ",
     "type": "noun",
     "ipa": "qabkʲʼa"
   },
@@ -2304,13 +2695,14 @@
         "examples": []
       }
     ],
-    "cognate": "щ1акхъуэ",
+    "kabardian": "щ1акхъуэ",
     "type": "noun",
     "ipa": "ħaləʁʷ"
   },
   {
     "word": "нэшэбэгу",
     "lang": "Adyghe",
+	"etymology": "From нашэ (melon) + бэгу (scab)",
     "definitions": [
       {
         "meaning": "cucumber",
@@ -2329,6 +2721,7 @@
         "examples": []
       }
     ],
+    "kabardian": "фо",
     "type": "noun",
     "ipa": "ʂʷaw"
   },
@@ -2353,25 +2746,28 @@
         "examples": []
       }
     ],
-    "cognate": "шыбжий",
+    "kabardian": "шыбжий",
     "type": "noun",
     "ipa": "ɕəbʑəj"
   },
   {
     "word": "чэтылы",
     "lang": "Adyghe",
+	"etymology": "From чэты (chicken) + лы (meat)",
     "definitions": [
       {
         "meaning": "chicken meat",
         "examples": []
       }
     ],
+    "shapsug": "кьэтыл",
     "type": "noun",
     "ipa": "t͡ʃʼatəl"
   },
   {
     "word": "чэмыл",
     "lang": "Adyghe",
+	"etymology": "From чэмы (cow) + лы (meat)",
     "definitions": [
       {
         "meaning": "beef; cow meat",
@@ -2390,7 +2786,7 @@
         "examples": []
       }
     ],
-    "cognate": "шыгъу",
+    "kabardian": "шыгъу",
     "type": "noun",
     "ipa": "ɕəʁʷ"
   },
@@ -2420,9 +2816,9 @@
       }
     ],
     "synonyms": [
-      "щэзэн (Shapsug)"
+      "(Shapsug) щэзэн"
     ],
-    "cognate": "шэ",
+    "kabardian": "шэ",
     "type": "noun",
     "ipa": "ɕa"
   },
@@ -2458,7 +2854,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "mataza: a kind of dumpling eaten in Circassia.",
+        "meaning": "mataza: a kind of dumpling food eaten in Circassia.",
         "examples": []
       }
     ],
@@ -2473,7 +2869,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "a kind of dumpling eaten in Circassia.",
+        "meaning": "mataza: a kind of dumpling food eaten in Circassia",
         "examples": []
       }
     ],
@@ -2486,6 +2882,7 @@
   {
     "word": "тыгъэгъаз",
     "lang": "Adyghe",
+	"etymology": "From тыгъэ (sun) + гъэзэн (to turn)",
     "definitions": [
       {
         "meaning": "sunflower",
@@ -2536,7 +2933,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "cup, glass, mug",
+        "meaning": "cup / glass / mug (something to drink with)",
         "examples": []
       }
     ],
@@ -2564,7 +2961,9 @@
         "examples": []
       }
     ],
-    "cognate": "махъсымэ",
+    "synonyms": [
+      "махъсымэ"
+    ],
     "type": "noun",
     "ipa": "baːχsəma"
   },
@@ -2589,6 +2988,9 @@
         "examples": []
       }
     ],
+    "synonyms": [
+      "шъоущыгъу"
+    ],
     "type": "noun",
     "ipa": "ʃakʲar"
   },
@@ -2605,6 +3007,9 @@
         "examples": []
       }
     ],
+    "synonyms": [
+      "къош (brother)"
+    ],
     "type": "noun",
     "ipa": "ʃə"
   },
@@ -2617,11 +3022,7 @@
         "examples": []
       }
     ],
-    "synonyms": [
-      "хьэжъ",
-      "штэ",
-      "сыда"
-    ],
+    "shapsug": "хьэжъ",
     "type": "noun",
     "ipa": "ħa"
   },
@@ -2634,6 +3035,7 @@
         "examples": []
       }
     ],
+    "shapsug": "мэл",
     "type": "noun",
     "ipa": "maɮə"
   },
@@ -2658,7 +3060,8 @@
         "examples": []
       }
     ],
-    "cognate": "бжэн",
+    "kabardian": "бжэн",
+    "shapsug": "пчэн",
     "type": "noun",
     "ipa": "pt͡ʃanə"
   },
@@ -2671,7 +3074,7 @@
         "examples": []
       }
     ],
-    "cognate": "жэм",
+    "kabardian": "жэм",
     "type": "noun",
     "ipa": "t͡ʃamə"
   },
@@ -2703,12 +3106,13 @@
         ]
       }
     ],
-    "cognate": "адакъэ",
+    "kabardian": "адакъэ",
     "type": "noun",
     "ipa": "ʔataːqa"
   },
   {
     "word": "псычэты",
+	"etymology": "From псы (water) + чэты (duck)",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -2716,6 +3120,7 @@
         "examples": []
       }
     ],
+    "shapsug": "псыкьэт",
     "type": "noun",
     "ipa": "psəkʲʼatə"
   },
@@ -2741,7 +3146,7 @@
       }
     ],
     "type": "noun",
-    "ipa": "bʁakʲʼəħ"
+    "ipa": "bʁat͡ʃʼəħ"
   },
   {
     "word": "бзыу",
@@ -2755,7 +3160,7 @@
     "synonyms": [
       "къолэбзыу"
     ],
-    "cognate": "джэдкъаз",
+    "kabardian": "бзу",
     "type": "noun",
     "ipa": "bzəw"
   },
@@ -2777,7 +3182,7 @@
       }
     ],
     "synonyms": [
-      "бгъэжъ"
+      "бгъэжъ (eagle)"
     ],
     "type": "noun",
     "ipa": "bʁa"
@@ -2815,7 +3220,7 @@
         "examples": []
       }
     ],
-    "cognate": "дыгъужь",
+    "kabardian": "дыгъужь",
     "type": "noun",
     "ipa": "təʁʷəʐ"
   },
@@ -2840,7 +3245,7 @@
         "examples": []
       }
     ],
-    "cognate": "дзыгъуэ",
+    "kabardian": "дзыгъуэ",
     "type": "noun",
     "ipa": "t͡səʁʷa"
   },
@@ -2868,7 +3273,7 @@
         "examples": []
       }
     ],
-    "cognate": "мыщэ",
+    "kabardian": "мыщэ",
     "type": "noun",
     "ipa": "məʂa"
   },
@@ -2913,7 +3318,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "calf",
+        "meaning": "little calf",
         "examples": []
       }
     ],
@@ -2949,7 +3354,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to undergo; to experience or be subjected to (something, typically something unpleasant, painful, or arduous)",
+        "meaning": "to experience; to experience or be subjected to (something, typically something unpleasant, painful, or arduous)",
         "examples": []
       }
     ],
@@ -2981,18 +3386,18 @@
     "ipa": "maːχt͡ʃabzəw"
   },
   {
-    "word": "хьэнчэмы1у",
+    "word": "хьанчэмы1у",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "turtle",
+        "meaning": "(Shapsug) turtle",
         "examples": []
       }
     ],
     "synonyms": [
       "хьадэпчэмы1у"
     ],
-    "cognate": "шылъэгу",
+    "kabardian": "шылъэгу",
     "type": "noun",
     "ipa": "ħant͡ʃaməʔʷ"
   },
@@ -3020,6 +3425,7 @@
     "synonyms": [
       "кур-кур"
     ],
+    "shapsug": "тхьакьэт",
     "type": "noun",
     "ipa": "tħakʲʼat"
   },
@@ -3051,7 +3457,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Scolymus maculatus (plant)",
+        "meaning": "herb",
         "examples": []
       }
     ],
@@ -3069,18 +3475,6 @@
     ],
     "type": "noun",
     "ipa": "kur-kur wət͡sə"
-  },
-  {
-    "word": "джыдамышх",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "Rumex",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "d͡ʒədaːməʃx"
   },
   {
     "word": "мэмау",
@@ -3242,7 +3636,7 @@
         "examples": []
       }
     ],
-    "cognate": "ц1ыжьбанэ",
+    "kabardian": "ц1ыжьбанэ",
     "type": "noun",
     "ipa": "pəʐə"
   },
@@ -3274,7 +3668,7 @@
     "synonyms": [
       "цунды"
     ],
-    "cognate": "къуагъыщхъуэ",
+    "kabardian": "къуагъыщхъуэ",
     "type": "noun",
     "ipa": "qʷalaʐ"
   },
@@ -3326,13 +3720,14 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "shovel (wooden shovel)",
+        "meaning": "shovel",
         "examples": []
       }
     ],
     "synonyms": [
       "къазгъыр"
     ],
+    "shapsug": "хьацэ",
     "type": "noun",
     "ipa": "ħant͡sa"
   },
@@ -3357,7 +3752,7 @@
         "examples": []
       }
     ],
-    "cognate": "уадэ",
+    "kabardian": "уадэ",
     "type": "noun",
     "ipa": "waːta"
   },
@@ -3376,22 +3771,9 @@
       "ощы",
       "обзэгъу"
     ],
-    "cognate": "джыдэ",
+    "kabardian": "джыдэ",
     "type": "noun",
     "ipa": "maːjta"
-  },
-  {
-    "word": "щэмэгь",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"щэмэдж\"",
-        "examples": []
-      }
-    ],
-    "cognate": "шэмэдж",
-    "type": "noun",
-    "ipa": "ɕamaɡʲʼ"
   },
   {
     "word": "гъупчъэ",
@@ -3414,9 +3796,7 @@
         "examples": []
       }
     ],
-    "synonyms": [
-      "1ук1ьыбзэ"
-    ],
+    "shapsug": "1ук1ьыбзэ",
     "type": "noun",
     "ipa": "ʔʷənt͡ʃʼəbza"
   },
@@ -3433,26 +3813,16 @@
     "ipa": "ɬə"
   },
   {
-    "word": "багьэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"бэджы\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "бэджы"
-    ],
-    "type": "noun",
-    "ipa": "baːɡʲa"
-  },
-  {
     "word": "бэджэжъые",
     "lang": "Adyghe",
+	"etymology": "From баджэ (fox) + жъые (small)",
     "definitions": [
       {
         "meaning": "fox's child, cub fox",
+        "examples": []
+      },
+	  {
+        "meaning": "small fox",
         "examples": []
       }
     ],
@@ -3468,7 +3838,7 @@
         "examples": []
       }
     ],
-    "cognate": "джей",
+    "kabardian": "джей",
     "type": "noun",
     "ipa": "d͡ʒaːja"
   },
@@ -3539,7 +3909,7 @@
         "examples": []
       }
     ],
-    "cognate": "къупщхьэ",
+    "kabardian": "къупщхьэ",
     "type": "noun",
     "ipa": "qʷəpəʂħa"
   },
@@ -3556,6 +3926,7 @@
         "examples": []
       }
     ],
+    "shapsug": "лъытфэ",
     "type": "noun",
     "ipa": "ɬəntfa"
   },
@@ -3568,6 +3939,7 @@
         "examples": []
       }
     ],
+    "shapsug": "жак1ьэ",
     "type": "noun",
     "ipa": "ʒaːtʃʼa"
   },
@@ -3592,6 +3964,7 @@
         "examples": []
       }
     ],
+    "shapsug": "нэк1ьэбыдз",
     "type": "noun",
     "ipa": "nakʲʼabəd͡z"
   },
@@ -3612,15 +3985,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "breast",
-        "examples": []
-      },
-      {
-        "meaning": "tits",
-        "examples": []
-      },
-      {
-        "meaning": "bosom",
+        "meaning": "breast; bosom",
         "examples": []
       }
     ],
@@ -3729,7 +4094,7 @@
         "examples": []
       }
     ],
-    "cognate": "бзылъхугъэ",
+    "kabardian": "бзылъхугъэ",
     "type": "noun",
     "ipa": "bzəɬfəʁa"
   },
@@ -3746,7 +4111,7 @@
         "examples": []
       }
     ],
-    "cognate": "хъулъхугъэ",
+    "kabardian": "хъулъхугъэ",
     "type": "noun",
     "ipa": "q͡χʷəɬfəʁa"
   },
@@ -3771,7 +4136,7 @@
         "examples": []
       }
     ],
-    "cognate": "блыщхьэ",
+    "kabardian": "блыщхьэ",
     "type": "noun",
     "ipa": "bləpa"
   },
@@ -3847,14 +4212,30 @@
         "meaning": "day",
         "examples": []
       },
+	  {
+        "meaning": "twenty-four hours",
+        "examples": []
+      },
       {
-        "meaning": "fortunate, lucky, happy, blessed",
+        "meaning": "fortunate, lucky, blessed",
         "examples": []
       }
     ],
-    "cognate": "махуэ",
+    "kabardian": "махуэ",
     "type": "noun",
     "ipa": "maːfa"
+  },
+  {
+    "word": "чэщ-зымаф",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "twenty-four hours",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃaɕ-zəmaːf"
   },
   {
     "word": "нэпэ",
@@ -3868,7 +4249,7 @@
     "synonyms": [
       "непэ"
     ],
-    "cognate": "нобэ",
+    "kabardian": "нобэ",
     "type": "adv",
     "ipa": "napa"
   },
@@ -3878,6 +4259,10 @@
     "definitions": [
       {
         "meaning": "saber",
+        "examples": []
+      },
+	  {
+        "meaning": "I",
         "examples": []
       }
     ],
@@ -3893,6 +4278,9 @@
         "examples": []
       }
     ],
+    "synonyms": [
+      "илъэс"
+    ],
     "type": "noun",
     "ipa": "ʁa"
   },
@@ -3904,7 +4292,7 @@
         "meaning": "last year",
         "examples": [
           {
-            "sentence": "'''гъэрек1о''' тк1уагъ йуропа",
+            "sentence": "'''гъэрек1о''' тык1уагъ йуропа",
             "translation": "'''last year''', we went to Europe."
           },
           {
@@ -3912,7 +4300,7 @@
             "translation": "'''last year''' I was ten years old."
           },
           {
-            "sentence": "'''гъэрек1о''' томэр къэк1уагъ",
+            "sentence": "'''гъэрек1о''' Томэр къэк1уагъ",
             "translation": "'''last year''' Tom came."
           }
         ]
@@ -3930,7 +4318,9 @@
         "examples": []
       }
     ],
-    "cognate": "гъэ",
+    "synonyms": [
+      "гъэ"
+    ],
     "type": "noun",
     "ipa": "jəɬas"
   },
@@ -3949,13 +4339,14 @@
   {
     "word": "тхьэмафэ",
     "lang": "Adyghe",
+	"etymology": "From тхьэ (god) + мафэ (day)",
     "definitions": [
       {
         "meaning": "week",
         "examples": []
       }
     ],
-    "cognate": "тхьэмахуэ",
+    "kabardian": "тхьэмахуэ",
     "type": "noun",
     "ipa": "tħamaːfa"
   },
@@ -4036,7 +4427,7 @@
         "examples": []
       }
     ],
-    "cognate": "тхьэмахуэ",
+    "kabardian": "тхьэмахуэ",
     "type": "noun",
     "ipa": "tħawmaːf"
   },
@@ -4049,7 +4440,7 @@
         "examples": []
       }
     ],
-    "cognate": "гъубж",
+    "kabardian": "гъубж",
     "type": "noun",
     "ipa": "ʁʷəbd͡ʒ"
   },
@@ -4062,7 +4453,7 @@
         "examples": []
       }
     ],
-    "cognate": "мэхуэку",
+    "kabardian": "мэхуэку",
     "type": "noun",
     "ipa": "mafakʷ"
   },
@@ -4074,6 +4465,9 @@
         "meaning": "(dialectal) Saturday",
         "examples": []
       }
+    ],
+    "synonyms": [
+      "шэмбэт"
     ],
     "type": "noun",
     "ipa": "mafazaːqʷ"
@@ -4087,7 +4481,7 @@
         "examples": []
       },
       {
-        "meaning": "hatred",
+        "meaning": "spite",
         "examples": []
       }
     ],
@@ -4095,7 +4489,7 @@
     "ipa": "ɡʷəʐ"
   },
   {
-    "word": "гъунгьэ",
+    "word": "гъурджэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -4104,7 +4498,7 @@
       }
     ],
     "type": "noun",
-    "ipa": "ʁʷənɡʲa"
+    "ipa": "ʁʷərd͡ʒa"
   },
   {
     "word": "1оныгъомаз",
@@ -4142,7 +4536,7 @@
     "synonyms": [
       "1эш1эх"
     ],
-    "cognate": "тынш",
+    "kabardian": "тынш",
     "type": "adj",
     "ipa": "qʷalaːj"
   },
@@ -4172,7 +4566,7 @@
         "examples": []
       }
     ],
-    "cognate": "пщыхьэщхьэ",
+    "kabardian": "пщыхьэщхьэ",
     "type": "noun",
     "ipa": "pt͡ʃəħa"
   },
@@ -4251,9 +4645,22 @@
         "examples": []
       }
     ],
-    "cognate": "пщэдджыжь",
+    "kabardian": "пщэдджыжь",
     "type": "noun",
     "ipa": "pt͡ʃadəʑə"
+  },
+  {
+    "word": "пчэджы",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "mispronunciation of \"пчэдыжьы\"",
+        "examples": []
+      }
+    ],
+    "kabardian": "пщэдджыжь",
+    "type": "noun",
+    "ipa": "pt͡ʃadʑə"
   },
   {
     "word": "ныпчэдыжьы",
@@ -4289,18 +4696,6 @@
     "ipa": "napt͡ʃadəʑə"
   },
   {
-    "word": "щэгьагъо",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"щэджагъо\"",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ɕaɡʲaːʁʷa"
-  },
-  {
     "word": "нэущы",
     "lang": "Adyghe",
     "definitions": [
@@ -4314,18 +4709,6 @@
     ],
     "type": "adv",
     "ipa": "nawɕə"
-  },
-  {
-    "word": "тгъосэнэхьпэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"тыгъоснахьыпэ\"",
-        "examples": []
-      }
-    ],
-    "type": "adv",
-    "ipa": "tʁʷasanaħpa"
   },
   {
     "word": "неущмык1",
@@ -4345,9 +4728,7 @@
         ]
       }
     ],
-    "synonyms": [
-      "нэущымыщк1ь"
-    ],
+    "shapsug": "нэущымыщк1ь",
     "type": "adv",
     "ipa": "najwɕəmət͡ʃʼ"
   },
@@ -4439,6 +4820,9 @@
         ]
       }
     ],
+    "synonyms": [
+      "лъэн"
+    ],
     "type": "verb",
     "ipa": "pt͡ʃʼan"
   },
@@ -4502,15 +4886,6 @@
             "translation": "My mother's food '''isn't''' that '''bad'''."
           }
         ]
-      },
-      {
-        "meaning": "ill",
-        "examples": [
-          {
-            "sentence": "Л1ыр '''дэеу''' хъугъэ",
-            "translation": "The man became '''ill'''."
-          }
-        ]
       }
     ],
     "type": "adj",
@@ -4534,6 +4909,15 @@
           {
             "sentence": "уик1элэ '''дахэр''' сиунэ къак1о",
             "translation": "Your '''pretty''' boy is coming to my house."
+          }
+        ]
+      },
+	  {
+        "meaning": "appropriate",
+        "examples": [
+          {
+            "sentence": "к1алэр '''дахэу''' мэзек1о",
+            "translation": "The boy behaves '''appropriatly'''."
           }
         ]
       }
@@ -4597,7 +4981,7 @@
         "meaning": "nice, kind",
         "examples": [
           {
-            "sentence": "К1алэ '''хъупхъ''' о",
+            "sentence": "К1элэ '''хъупхъ''' о",
             "translation": "You are a '''kind''' boy."
           },
           {
@@ -4629,18 +5013,6 @@
     ],
     "type": "adj",
     "ipa": "ɡʷəpət"
-  },
-  {
-    "word": "дыгьы",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"дыджы\"",
-        "examples": []
-      }
-    ],
-    "type": "adj",
-    "ipa": "dəɡʲə"
   },
   {
     "word": "щыгъущ",
@@ -4719,7 +5091,7 @@
         "examples": []
       }
     ],
-    "cognate": "хадэ",
+    "kabardian": "хадэ",
     "type": "noun",
     "ipa": "xaːta"
   },
@@ -4750,7 +5122,7 @@
         ]
       }
     ],
-    "cognate": "хуабэ",
+    "kabardian": "хуабэ",
     "type": "adj",
     "ipa": "faːba"
   },
@@ -4807,7 +5179,7 @@
         "examples": []
       }
     ],
-    "cognate": "аращ",
+    "kabardian": "аращ",
     "type": "adv",
     "ipa": "/ʔaːrəː/"
   },
@@ -4821,7 +5193,7 @@
       }
     ],
     "synonyms": [
-      "хьа1"
+      "(dialectal) хьа1"
     ],
     "type": "adv",
     "ipa": "ħaw"
@@ -4830,10 +5202,6 @@
     "word": "хасэ",
     "lang": "Adyghe",
     "definitions": [
-      {
-        "meaning": "club",
-        "examples": []
-      },
       {
         "meaning": "council",
         "examples": []
@@ -4847,14 +5215,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "guest, visitor",
+        "meaning": "guest",
+        "examples": []
+      },
+	  {
+        "meaning": "visitor",
         "examples": []
       }
     ],
-    "synonyms": [
-      "хьа1ьэ"
-    ],
-    "cognate": "хьащ1э",
+    "kabardian": "хьащ1э",
     "type": "noun",
     "ipa": "ħaːt͡ʃa"
   },
@@ -4892,23 +5261,11 @@
     "ipa": "kʷʼan"
   },
   {
-    "word": "гъургьэ",
+    "word": "нэгъурджэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"гъунджэ\"",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ʁʷərɡʲa"
-  },
-  {
-    "word": "нэгъургьэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "eyeglasses",
+        "meaning": "alternative form of \"нэгъунджэ\"",
         "examples": []
       }
     ],
@@ -4952,7 +5309,7 @@
         "examples": []
       }
     ],
-    "cognate": "жэгъуэгъу",
+    "kabardian": "жэгъуэгъу",
     "type": "noun",
     "ipa": "d͡ʒaʁʷəɡʷ"
   },
@@ -4965,7 +5322,7 @@
         "examples": []
       }
     ],
-    "cognate": "дыщэ",
+    "kabardian": "дыщэ",
     "type": "noun",
     "ipa": "dəʂa"
   },
@@ -5042,7 +5399,7 @@
         "examples": []
       }
     ],
-    "cognate": "фыз",
+    "kabardian": "фыз",
     "type": "noun",
     "ipa": "ʂʷəzə"
   },
@@ -5078,8 +5435,8 @@
             "translation": "The beautiful '''girl'''."
           },
           {
-            "sentence": "'''уипшъашъэ''' дэк1ощт",
-            "translation": "'''Your girl''' will go alongside him - '''Your girl''' is going to marry him."
+            "sentence": "'''упшъашъэ''' дэк1ощт",
+            "translation": "'''Your girl''' is going to marry him."
           }
         ]
       },
@@ -5088,7 +5445,7 @@
         "examples": []
       }
     ],
-    "cognate": "пщащэ",
+    "kabardian": "пщащэ",
     "type": "noun",
     "ipa": "pʂaːʂa"
   },
@@ -5108,8 +5465,8 @@
             "translation": "The beautiful '''young man'''."
           },
           {
-            "sentence": "'''Уик1алэ''' къищэщт",
-            "translation": "'''Your boy''' will bring him/her - '''Your young man''' is going to marry her."
+            "sentence": "'''Ук1алэ''' къищэщт",
+            "translation": "'''Your young man''' is going to marry her."
           }
         ]
       },
@@ -5118,7 +5475,7 @@
         "examples": []
       }
     ],
-    "cognate": "щ1алэ",
+    "kabardian": "щ1алэ",
     "type": "noun",
     "ipa": "t͡ʃʼaːla"
   },
@@ -5142,7 +5499,7 @@
         ]
       },
       {
-        "meaning": "(Abzakh and Bzhedugh dialects) yard",
+        "meaning": "(dialectal) yard",
         "examples": [],
         "tags": [
           "Abzakh dialect"
@@ -5172,14 +5529,11 @@
         "meaning": "rod, staff, cane, stick",
         "examples": [
           {
-            "sentence": "'''Л1ыжъым''' бэщ ыIыгъ",
+            "sentence": "'''Л1ыжъым''' бэщ ы1ыгъ",
             "translation": "The old man carries a '''cane'''."
           }
         ]
       }
-    ],
-    "synonyms": [
-      "бэщкъорэгъ"
     ],
     "type": "noun",
     "ipa": "baɕ"
@@ -5197,7 +5551,7 @@
         "examples": []
       }
     ],
-    "cognate": "техак1уэ",
+    "kabardian": "техак1уэ",
     "type": "noun",
     "ipa": "ħaːʂʷa"
   },
@@ -5220,13 +5574,9 @@
       {
         "meaning": "bridge",
         "examples": []
-      },
-      {
-        "meaning": "arch",
-        "examples": []
       }
     ],
-    "cognate": "лъэмыж",
+    "kabardian": "лъэмыж",
     "type": "noun",
     "ipa": "ɬaməd͡ʒ"
   },
@@ -5264,6 +5614,10 @@
     "definitions": [
       {
         "meaning": "kind",
+        "examples": []
+      },
+	  {
+        "meaning": "origin",
         "examples": []
       },
       {
@@ -5315,7 +5669,7 @@
         "examples": []
       }
     ],
-    "cognate": "мывэ",
+    "kabardian": "мывэ",
     "type": "noun",
     "ipa": "məʐʷa"
   },
@@ -5328,7 +5682,7 @@
         "examples": []
       }
     ],
-    "cognate": "мыл",
+    "kabardian": "мыл",
     "type": "noun",
     "ipa": "məɮə"
   },
@@ -5429,6 +5783,7 @@
         "examples": []
       }
     ],
+    "kabardian": "уэрэд",
     "type": "noun",
     "ipa": "warad"
   },
@@ -5444,9 +5799,9 @@
     "synonyms": [
       "ощы",
       "обзэгъу",
-      "майтэ"
+      "(Shapsug) майтэ"
     ],
-    "cognate": "джыдэ",
+    "kabardian": "джыдэ",
     "type": "noun",
     "ipa": "watət͡ʃ"
   },
@@ -5483,7 +5838,7 @@
         ]
       }
     ],
-    "cognate": "уэшх",
+    "kabardian": "уэшх",
     "type": "noun",
     "ipa": "waɕxə"
   },
@@ -5505,12 +5860,7 @@
     "definitions": [
       {
         "meaning": "river",
-        "examples": [
-          {
-            "sentence": "'''Уипсыхъохэм''' афэдэ дунаим темыт, Адыгееу сигупсэу сикIас - Адыгееу сигупс (усэ).",
-            "translation": "To your '''rivers''' there are no match in this world, Adygea soul of my heart - Адыгееу сигупс (poem)."
-          }
-        ]
+        "examples": []
       }
     ],
     "type": "noun",
@@ -5525,7 +5875,7 @@
         "examples": []
       }
     ],
-    "cognate": "псэущхьэ",
+    "kabardian": "псэущхьэ",
     "type": "noun",
     "ipa": "psawʂħ"
   },
@@ -5559,15 +5909,10 @@
     "definitions": [
       {
         "meaning": "silver",
-        "examples": [
-          {
-            "sentence": "Къафкъас къушъхьэшхомэ анахь лъагэм, '''тыжьын''' осэпсыхэр къыщетэкъух гущи, оуи. - Абрэдж Нухь иорэд",
-            "translation": "Silver dew falls upon the highest of the great mountaints of the Caucasus - Abredj Nouh (Song)"
-          }
-        ]
+        "examples": []
       }
     ],
-    "cognate": "дыжьын",
+    "kabardian": "дыжьын",
     "type": "noun",
     "ipa": "təʑən"
   },
@@ -5601,7 +5946,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to repair by sewing; to sew up",
+        "meaning": "to repair by sewing; to seal by sewing; to sew up",
         "examples": []
       }
     ],
@@ -5617,11 +5962,11 @@
         "examples": []
       },
       {
-        "meaning": "tissue for cleaning one's nose",
+        "meaning": "tissue",
         "examples": []
       }
     ],
-    "cognate": "тхылъымп1э",
+    "kabardian": "тхылъымп1э",
     "type": "noun",
     "ipa": "txəɬəpʼa"
   },
@@ -5634,7 +5979,7 @@
         "examples": []
       }
     ],
-    "cognate": "дыгъэ",
+    "kabardian": "дыгъэ",
     "type": "noun",
     "ipa": "təʁa"
   },
@@ -5674,7 +6019,7 @@
         "examples": []
       }
     ],
-    "cognate": "уафэ",
+    "kabardian": "уафэ",
     "type": "noun",
     "ipa": "waːʃʷa"
   },
@@ -5687,7 +6032,7 @@
         "examples": []
       }
     ],
-    "cognate": "унагъуэ",
+    "kabardian": "унагъуэ",
     "type": "noun",
     "ipa": "wnaːʁʷa"
   },
@@ -5741,7 +6086,7 @@
         ]
       }
     ],
-    "cognate": "хужьы",
+    "kabardian": "хужьы",
     "type": "adj",
     "ipa": "fəʑə"
   },
@@ -5767,13 +6112,15 @@
         ]
       }
     ],
-    "cognate": "ф1ыц1э",
+    "kabardian": "ф1ыц1э",
+    "shapsug": "ш1ус1э",
     "type": "adj",
     "ipa": "ʃʷʼət͡sʼa"
   },
   {
     "word": "гъожьыплъыжь",
     "lang": "Adyghe",
+	"etymology": "From гъожьы (yellow) + плъыжьы (red)",
     "definitions": [
       {
         "meaning": "orange",
@@ -5788,8 +6135,9 @@
     "ipa": "ʁʷaʑpɬəʑə"
   },
   {
-    "word": "плъыжьгьэф",
+    "word": "плъыжьджэф",
     "lang": "Adyghe",
+	"etymology": "From плъыжьы (red) + джэф (bright)",
     "definitions": [
       {
         "meaning": "pink",
@@ -5802,18 +6150,6 @@
     ],
     "type": "adj",
     "ipa": "pɬəʑɡʲaf"
-  },
-  {
-    "word": "гьэфы",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"джэфы\"",
-        "examples": []
-      }
-    ],
-    "type": "adj",
-    "ipa": "ɡʲafə"
   },
   {
     "word": "къолэн",
@@ -5844,8 +6180,9 @@
     "ipa": "qʷalansalan"
   },
   {
-    "word": "къэхьуашъо",
+    "word": "къэхьыуашъо",
     "lang": "Adyghe",
+	"etymology": "From къэхьыо (coffee) + шъо (color)",
     "definitions": [
       {
         "meaning": "alternative form of \"къахьэуашъо\"",
@@ -5872,15 +6209,15 @@
     "ipa": "bʁakʲʼaħ"
   },
   {
-    "word": "тхьэмбылышъу",
+    "word": "тхьамбылышъу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "pink",
+        "meaning": "(dialectal) pink",
         "examples": []
       }
     ],
-    "cognate": "тхьэмбылыфэ",
+    "kabardian": "тхьэмбылыфэ",
     "type": "adj",
     "ipa": "tħambələʂʷ"
   },
@@ -5932,7 +6269,7 @@
         "examples": []
       }
     ],
-    "cognate": "щ1акхъуэ",
+    "kabardian": "щ1акхъуэ",
     "type": "noun",
     "ipa": "ħaːləʁʷ"
   },
@@ -5941,7 +6278,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"хьэблыу\"",
+        "meaning": "alternative form of \"хьамлыу\"",
         "examples": []
       }
     ],
@@ -5970,10 +6307,10 @@
       }
     ],
     "synonyms": [
-      "хьэнт1эрэп1ый",
-      "хьэт1рэп1ый"
+      "хьант1эрэп1ый",
+      "хьат1рэп1ый"
     ],
-    "cognate": "хьэндырабгъуэ",
+    "kabardian": "хьэндырабгъуэ",
     "type": "noun"
   },
   {
@@ -5985,7 +6322,7 @@
         "examples": []
       }
     ],
-    "cognate": "къыу",
+    "kabardian": "къыу",
     "type": "noun",
     "ipa": "ħaːpza"
   },
@@ -6010,7 +6347,7 @@
         "examples": []
       }
     ],
-    "cognate": "ц1ыху",
+    "kabardian": "ц1ыху",
     "type": "noun",
     "ipa": "t͡sʼəfə"
   },
@@ -6027,9 +6364,7 @@
         "examples": []
       }
     ],
-    "synonyms": [
-      "с1э"
-    ],
+    "shapsug": "с1э",
     "type": "noun",
     "ipa": "t͡sʼa"
   },
@@ -6042,6 +6377,7 @@
         "examples": []
       }
     ],
+    "shapsug": "кьатэ",
     "type": "noun",
     "ipa": "t͡ʃaːta"
   },
@@ -6054,7 +6390,7 @@
         "examples": []
       }
     ],
-    "cognate": "жыг",
+    "kabardian": "жыг",
     "type": "noun",
     "ipa": "t͡ɕəɣə"
   },
@@ -6091,7 +6427,7 @@
         "examples": []
       }
     ],
-    "cognate": "жэщ",
+    "kabardian": "жэщ",
     "type": "noun",
     "ipa": "t͡ʃaɕə"
   },
@@ -6104,7 +6440,7 @@
         "examples": []
       }
     ],
-    "cognate": "щхьэгъубжэ",
+    "kabardian": "щхьэгъубжэ",
     "type": "noun",
     "ipa": "ʂħaːnʁʷəptʂa"
   },
@@ -6159,7 +6495,7 @@
         "examples": []
       }
     ],
-    "cognate": "ф1ы",
+    "kabardian": "ф1ы",
     "type": "adv",
     "ipa": "ʃʷʼə"
   },
@@ -6228,9 +6564,12 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "flower (the flower of the plant)",
+        "meaning": "(Shapsug) flower",
         "examples": []
       }
+    ],
+    "synonyms": [
+      "къэгъагъэ"
     ],
     "type": "noun",
     "ipa": "naqəʁa"
@@ -6268,7 +6607,7 @@
         "examples": []
       }
     ],
-    "cognate": "л1ыжьы",
+    "kabardian": "л1ыжьы",
     "type": "noun",
     "ipa": "ɬʼəʐə"
   },
@@ -6281,7 +6620,7 @@
         "examples": []
       }
     ],
-    "cognate": "ныуэ",
+    "kabardian": "ныуэ",
     "type": "noun",
     "ipa": "nəwa"
   },
@@ -6314,7 +6653,7 @@
       "нэфын",
       "нэфы"
     ],
-    "cognate": "нэху",
+    "kabardian": "нэху",
     "type": "noun",
     "ipa": "nafna"
   },
@@ -6323,7 +6662,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "light",
+        "meaning": "sparkle; twinkle; glitter",
         "examples": []
       }
     ],
@@ -6331,7 +6670,7 @@
       "нэфын",
       "нэфы"
     ],
-    "cognate": "нэху",
+    "kabardian": "нэху",
     "type": "noun",
     "ipa": "nafna"
   },
@@ -6392,7 +6731,8 @@
         "examples": []
       }
     ],
-    "cognate": "к1эрахъуэ",
+    "kabardian": "к1эрахъуэ",
+    "shapsug": "к1ьэрахъо",
     "type": "noun",
     "ipa": "t͡ʃʼaraːχʷa"
   },
@@ -6441,7 +6781,7 @@
     "synonyms": [
       "пщыпащ"
     ],
-    "cognate": "пащтыхь",
+    "kabardian": "пащтыхь",
     "type": "noun",
     "ipa": "paːtʂəħ"
   },
@@ -6611,7 +6951,7 @@
         "examples": []
       }
     ],
-    "cognate": "анэ",
+    "kabardian": "анэ",
     "type": "noun",
     "ipa": "nə"
   },
@@ -6684,7 +7024,7 @@
         "examples": []
       }
     ],
-    "cognate": "1угъо",
+    "kabardian": "1угъо",
     "type": "noun",
     "ipa": "qʷəʁʷa"
   },
@@ -6717,7 +7057,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "redemption, good deed",
+        "meaning": "good deed",
         "examples": []
       }
     ],
@@ -6733,7 +7073,7 @@
         "examples": []
       }
     ],
-    "cognate": "бахъэ",
+    "kabardian": "бахъэ",
     "type": "noun",
     "ipa": "paːχ"
   },
@@ -6742,7 +7082,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "curse, swear",
+        "meaning": "swear; swear word",
         "examples": []
       }
     ],
@@ -6754,13 +7094,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "homeland, land",
+        "meaning": "homeland",
         "examples": [
           {
-            "sentence": "адыгэ '''хэку'''",
+            "sentence": "Адыгэ '''хэку'''",
             "translation": "Circassian homeland."
           }
         ]
+      },
+	  {
+        "meaning": "province",
+        "examples": []
       }
     ],
     "type": "noun",
@@ -6783,7 +7127,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "inn",
+        "meaning": "(dialectal) inn",
         "examples": []
       }
     ],
@@ -6799,9 +7143,7 @@
         "examples": []
       }
     ],
-    "synonyms": [
-      "пцатхьэ"
-    ],
+    "shapsug": "пцатхьэ",
     "type": "noun",
     "ipa": "pt͡saːntħa"
   },
@@ -6810,7 +7152,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "yard",
+        "meaning": "(Shapsug) yard",
         "examples": []
       }
     ],
@@ -6821,7 +7163,7 @@
     "ipa": "ʃaːwa"
   },
   {
-    "word": "бзыук1алъэ",
+    "word": "бзыук1анлъэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -6829,9 +7171,7 @@
         "examples": []
       }
     ],
-    "synonyms": [
-      "бзыук1ьалъэ"
-    ],
+    "shapsug": "бзыук1ьалъэ",
     "type": "noun",
     "ipa": "bzəwt͡ʃʼaːɬa"
   },
@@ -6847,7 +7187,7 @@
     "synonyms": [
       "цэлъэк1"
     ],
-    "cognate": "дзэлъэщ1",
+    "kabardian": "дзэлъэщ1",
     "type": "noun",
     "ipa": "t͡saɬat͡ʃʼaːɬa"
   },
@@ -6860,7 +7200,7 @@
         "examples": []
       }
     ],
-    "cognate": "хьэдэ",
+    "kabardian": "хьэдэ",
     "type": "noun",
     "ipa": "ħaːda"
   },
@@ -6892,7 +7232,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "spring, stream, well",
+        "meaning": "well (hole sunk into the ground as a source of water)",
         "examples": []
       }
     ],
@@ -6912,7 +7252,7 @@
         "examples": []
       }
     ],
-    "cognate": "нэпэ1эплъэщ1",
+    "kabardian": "нэпэ1эплъэщ1",
     "type": "noun",
     "ipa": "napaʔapɬat͡ʃʼ"
   },
@@ -6922,6 +7262,10 @@
     "definitions": [
       {
         "meaning": "pitcher",
+        "examples": []
+      },
+	  {
+        "meaning": "jug",
         "examples": []
       }
     ],
@@ -6963,22 +7307,6 @@
     ],
     "type": "noun",
     "ipa": "dapqə"
-  },
-  {
-    "word": "лъэгъуае",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"лъэугъуае\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "дэк1ояп1э",
-      "лъэой"
-    ],
-    "type": "noun",
-    "ipa": "ɬaʁʷaːja"
   },
   {
     "word": "пэ1ухъон",
@@ -7029,6 +7357,7 @@
         "examples": []
       }
     ],
+    "shapsug": "шэкьалъ",
     "type": "noun",
     "ipa": "ʃat͡ʃaːɬ"
   },
@@ -7047,13 +7376,14 @@
   {
     "word": "унашъхьэ",
     "lang": "Adyghe",
+	"etymology": "From унэ (house) + шъхьэ (head)",
     "definitions": [
       {
         "meaning": "roof",
         "examples": []
       }
     ],
-    "cognate": "унащхьэ",
+    "kabardian": "унащхьэ",
     "type": "noun",
     "ipa": "wnaːʂħa"
   },
@@ -7087,11 +7417,11 @@
         "examples": []
       },
       {
-        "meaning": "Span of the hand (a measure)",
+        "meaning": "span of the hand (a measure)",
         "examples": []
       }
     ],
-    "cognate": "бжьэ",
+    "kabardian": "бжьэ",
     "type": "noun",
     "ipa": "bʐa"
   },
@@ -7147,7 +7477,8 @@
         "examples": []
       }
     ],
-    "cognate": "жыхапхъэ",
+    "shapsug": "пхъэк1ыпхъэ",
+    "kabardian": "жыхапхъэ",
     "type": "noun",
     "ipa": "pχant͡ʃʼəpχ"
   },
@@ -7160,7 +7491,7 @@
         "examples": []
       }
     ],
-    "cognate": "гъущ1",
+    "kabardian": "гъущ1",
     "type": "noun",
     "ipa": "ʁʷət͡ʃʼə"
   },
@@ -7173,6 +7504,7 @@
         "examples": []
       }
     ],
+    "shapsug": "шъхьатэ",
     "type": "noun",
     "ipa": "ʂħaːnta"
   },
@@ -7200,7 +7532,7 @@
         "meaning": "thread",
         "examples": [
           {
-            "sentence": "Iудэнэ кIыхь",
+            "sentence": "1удэнэ к1ыхь",
             "translation": "long thread"
           }
         ]
@@ -7243,7 +7575,7 @@
         "examples": []
       }
     ],
-    "cognate": "1уащхьэ",
+    "kabardian": "1уащхьэ",
     "type": "noun",
     "ipa": "ʔʷaːʂħa"
   },
@@ -7256,6 +7588,7 @@
         "examples": []
       }
     ],
+    "shapsug": "к1ьапсэ",
     "type": "noun",
     "ipa": "t͡ʃʼaːpsa"
   },
@@ -7305,6 +7638,7 @@
         ]
       }
     ],
+    "shapsug": "нэкъыгъэ",
     "type": "noun",
     "ipa": "qaʁaːʁa"
   },
@@ -7321,13 +7655,14 @@
         "examples": []
       }
     ],
-    "cognate": "гъуэгу",
+    "kabardian": "гъуэгу",
     "type": "noun",
     "ipa": "ʁʷaɡʷ"
   },
   {
     "word": "мэш1оку",
     "lang": "Adyghe",
+	"etymology": "From маш1о (fire) + ку (wagon)",
     "definitions": [
       {
         "meaning": "train",
@@ -7460,7 +7795,7 @@
         ]
       }
     ],
-    "cognate": "жэн",
+    "kabardian": "жэн",
     "type": "verb",
     "ipa": "tʂan"
   },
@@ -7527,7 +7862,7 @@
         ]
       }
     ],
-    "cognate": "хъуэнэн",
+    "kabardian": "хъуэнэн",
     "type": "verb",
     "ipa": "χʷanan"
   },
@@ -7549,11 +7884,11 @@
     "ipa": "lan"
   },
   {
-    "word": "джэжьын",
+    "word": "еджэжьын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"ежьэжьын\"",
+        "meaning": "to call someone back",
         "examples": []
       }
     ],
@@ -7561,18 +7896,18 @@
     "ipa": "d͡ʒaʑən"
   },
   {
-    "word": "тэгъэфэн",
+    "word": "тегъэфэн",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to make an object hit someone or something (usually by throwing)",
         "examples": [
           {
-            "sentence": "топымк1э чъыгым '''тэгъаф'''",
+            "sentence": "топымк1э чъыгым '''тегъаф'''",
             "translation": "'''Hit''' the tree with a ball."
           },
           {
-            "sentence": "топэр уыздымэ апк1ым '''тэпгъэфэт'''",
+            "sentence": "топыр удзымэ апчым '''тепгъэфэщт'''",
             "translation": "If you throw the ball you will '''hit''' the glass."
           }
         ]
@@ -7582,65 +7917,76 @@
     "ipa": "taʁafan"
   },
   {
-    "word": "тэфэн",
+    "word": "тефэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be hit",
+        "meaning": "to be hit (to have an impact with something); to fall and hit something",
         "examples": [
           {
-            "sentence": "1эгуаум уешъутырмэ 1анэм '''тэфэт'''",
+            "sentence": "1эгуаум уешъутырмэ 1анэм '''тефэщт'''",
             "translation": "If you kick the ball, it '''will hit''' the table."
           },
           {
-            "sentence": "'''тафыу''' рэхъутэп апк1ым",
+            "sentence": "'''тефэу''' хъущтэп апчым",
             "translation": "It must not '''hit''' the glass."
           },
           {
-            "sentence": "к1арахъомк1э '''тагъаф''' апк1ым",
+            "sentence": "к1арахъомк1э '''тегъаф''' апчым",
             "translation": "'''hit''' the glass with (using) the gun."
           },
           {
-            "sentence": "мыжъор апк1ым '''тэфагъ'''",
+            "sentence": "мыжъор апчым '''тефагъ'''",
             "translation": "The rock '''hit''' the glass."
-          }
-        ]
-      },
-      {
-        "meaning": "to fall (On something or someone)",
-        "examples": [
+          },
           {
-            "sentence": "к1алэр ч1ыгум '''тэфагъ'''",
+            "sentence": "к1алэр ч1ыгум '''тефагъ'''",
             "translation": "The boy '''fell on''' the ground."
           },
           {
-            "sentence": "къэцхэмэ к1алэр я '''хэфагъ'''",
+            "sentence": "къэцыхэмэ к1алэр '''атэфагъ'''",
             "translation": "The boy '''fell on''' the thorns."
           },
           {
-            "sentence": "мыжъо уишъхьэ '''тафэмэ''' уишъхьэ иубэтэт",
+            "sentence": "мыжъо ушъхьэ '''тефэмэ''' ушъхьэ ыубэтэщт",
             "translation": "'''If''' a rock '''hit''' your head, your head will break."
           },
           {
-            "sentence": "Исаак Ньютоным ишъхьэ мые '''тэфагъ'''",
+            "sentence": "Исаак Ньютоным ышъхьэ мы1эрыс '''тефагъ'''",
             "translation": "An apple fell on Isaac Newton's head."
+          },
+		  {
+            "sentence": "Мыжъор унэм '''тефагъ'''",
+            "translation": "The rock '''hit''' the house."
           }
         ]
       },
-      {
-        "meaning": "to meet someone (by chance)",
+	  {
+        "meaning": "to come across; to encounter coincidentally; to meet someone coincidentally; to meet someone by chance",
         "examples": [
           {
-            "sentence": "к1алэр '''къэстэфэгъагъ''' скъэк1ожьыу",
+            "sentence": "К1алэр '''къэстефэгъагъ''' сыкъэк1ожьэу",
             "translation": "'''I met''' the boy while i was coming back."
           },
           {
-            "sentence": "л1ыжъыр '''къуптафэмэ''' еджэжь",
+            "sentence": "Л1ыжъыр '''къыптефэмэ''' ежьэжь",
             "translation": "'''If you will meet''' the old man, run away."
           },
           {
-            "sentence": "томым джонэр '''тэфагъ''' еджэжь",
+            "sentence": "Томым джонэр '''тефагъ'''",
             "translation": "Tom '''met''' John by chance."
+          },
+		  {
+            "sentence": "К1алэм пшъашъэр '''тефагъ'''",
+            "translation": "The boy '''came across''' the girl."
+          },
+          {
+            "sentence": "Пшъашъэр '''къэстефагъ'''",
+            "translation": "I '''came across''' the girl."
+          },
+          {
+            "sentence": "Л1ым итхьэматэ урамым '''тефагъ'''",
+            "translation": "The man '''encountered''' his boss on the street."
           }
         ]
       }
@@ -7680,23 +8026,11 @@
     "ipa": "sanatħaːpa"
   },
   {
-    "word": "гьэгуалъэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"джэгуалъэ\"",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ɡʲaɡʷaːɬa"
-  },
-  {
     "word": "пхъэх",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "saw (tool)",
+        "meaning": "saw (a tool with a toothed blade used for cutting hard substances, in particular wood or metal)",
         "examples": []
       }
     ],
@@ -7753,7 +8087,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "the Shapsug language (One of the Adyghe dialects)",
+        "meaning": "the Shapsug dialect",
         "examples": []
       }
     ],
@@ -7769,9 +8103,7 @@
         "examples": []
       }
     ],
-    "synonyms": [
-      "лъапс1э"
-    ],
+    "shapsug": "лъапс1э",
     "type": "adj",
     "ipa": "ɬaːpt͡sʼa"
   },
@@ -7839,7 +8171,7 @@
     "ipa": "bəsəlman"
   },
   {
-    "word": "зэйтынчъыгы",
+    "word": "зетынчъыгы",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -7871,20 +8203,11 @@
         "examples": []
       }
     ],
-    "type": "noun",
-    "ipa": "naːnəw"
-  },
-  {
-    "word": "былътырыку",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "lynx",
-        "examples": []
-      }
+    "synonyms": [
+      "нэнау"
     ],
     "type": "noun",
-    "ipa": "bəɬtərəkʷ"
+    "ipa": "naːnəw"
   },
   {
     "word": "бгъэн",
@@ -7899,40 +8222,16 @@
     "ipa": "bʁan"
   },
   {
-    "word": "бынд",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "A common raven.",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "bənd"
-  },
-  {
     "word": "гъаф",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "A lesser spotted eagle.",
+        "meaning": "spotted eagle (bird)",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "ʁaːf"
-  },
-  {
-    "word": "джэнета",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "genet (Genetta spp.)",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "d͡ʒanajtaː"
   },
   {
     "word": "домбай",
@@ -7944,30 +8243,6 @@
       }
     ],
     "type": "noun"
-  },
-  {
-    "word": "къазмакъбзыу",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "Güldenstädt's Redstart",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "qaːzmaːqbzəw"
-  },
-  {
-    "word": "къиякъ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "Eastern Imperial Eagle",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "qijaːq"
   },
   {
     "word": "къэк1ыгъэхэр",
@@ -7998,24 +8273,12 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "A cherry plum: a member of a certain species of plum (namely Prunus cerasifera).",
+        "meaning": "cherry plum (the fruit)",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "bχaɡʷəɬ"
-  },
-  {
-    "word": "пыжъ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "Prunus spinosa",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "pəʐ"
   },
   {
     "word": "бжьэгъал1э",
@@ -8065,7 +8328,7 @@
         "examples": []
       }
     ],
-    "cognate": "хъунщ1ак1уэ",
+    "kabardian": "хъунщ1ак1уэ",
     "type": "noun",
     "ipa": "təʁʷaːkʷʼa"
   },
@@ -8077,23 +8340,21 @@
         "meaning": "a lie",
         "examples": [
           {
-            "sentence": "'''Уипц1ыхэмэ''' cазэшэгъ",
+            "sentence": "'''Уипц1ыхэмэ''' cазэшыгъ",
             "translation": "I got bored '''from your lies'''."
           },
           {
-            "sentence": "К1алэм '''пц1ы''' ехъурэ къипч1ырэп",
+            "sentence": "К1алэм '''пц1ы''' ехъурэ къи1уатэрэп",
             "translation": "The boy doesn't say anything except '''lies'''."
           },
           {
-            "sentence": "'''Пц1ыгорэ''' сэ1огъ",
+            "sentence": "'''Пц1ы горэ''' сэ1угъ",
             "translation": "I heard '''a lie'''."
           }
         ]
       }
     ],
-    "synonyms": [
-      "пс1ы"
-    ],
+    "shapsug": "пс1ы",
     "type": "noun",
     "ipa": "pt͡sʼə"
   },
@@ -8302,7 +8563,7 @@
     "synonyms": [
       "чъуакъо"
     ],
-    "cognate": "вакъэ",
+    "kabardian": "вакъэ",
     "type": "noun",
     "ipa": "t͡sʷaːqʷa"
   },
@@ -8427,7 +8688,7 @@
         "examples": []
       }
     ],
-    "cognate": "жьауэ",
+    "kabardian": "жьауэ",
     "type": "noun",
     "ipa": "ʑaːwa"
   },
@@ -9000,7 +9261,7 @@
         "examples": []
       }
     ],
-    "cognate": "тхьэмпэ",
+    "kabardian": "тхьэмпэ",
     "type": "noun",
     "ipa": "tħaːpa"
   },
@@ -9078,7 +9339,7 @@
         "examples": []
       }
     ],
-    "cognate": "нэф",
+    "kabardian": "нэф",
     "type": "adj",
     "ipa": "naʂʷə"
   },
@@ -9613,7 +9874,7 @@
         "examples": []
       }
     ],
-    "cognate": "1уэху",
+    "kabardian": "1уэху",
     "type": "noun",
     "ipa": "ʔʷaf"
   },
@@ -9695,7 +9956,7 @@
         ]
       }
     ],
-    "cognate": "езы",
+    "kabardian": "езы",
     "type": "intj",
     "ipa": "jaʑ"
   },
@@ -9996,7 +10257,7 @@
       "пхъэчыпэ",
       "пхъэжъые"
     ],
-    "cognate": "пхъампэ",
+    "kabardian": "пхъампэ",
     "type": "noun",
     "ipa": "pχaːpa"
   },
@@ -10462,7 +10723,7 @@
         "examples": []
       }
     ],
-    "cognate": "бегъымбар",
+    "kabardian": "бегъымбар",
     "type": "noun",
     "ipa": "tħaɬˤəkʷʼ"
   },
@@ -10565,7 +10826,7 @@
       "куамэ",
       "къутамэ"
     ],
-    "cognate": "гуанэ",
+    "kabardian": "гуанэ",
     "type": "noun",
     "ipa": "qʷaːma"
   },
@@ -10734,7 +10995,7 @@
     "synonyms": [
       "хьамлыу"
     ],
-    "cognate": "хьэмбылыу",
+    "kabardian": "хьэмбылыу",
     "type": "noun",
     "ipa": "ħabləw"
   },
@@ -11135,7 +11396,7 @@
         "examples": []
       }
     ],
-    "cognate": "хъурей",
+    "kabardian": "хъурей",
     "type": "noun",
     "ipa": "χʷəraːj"
   },
@@ -11384,7 +11645,7 @@
         "examples": []
       }
     ],
-    "cognate": "ажал",
+    "kabardian": "ажал",
     "type": "adv",
     "ipa": "aːd͡ʒaːl"
   },
@@ -12169,7 +12430,7 @@
         "examples": []
       }
     ],
-    "cognate": "аргъуей",
+    "kabardian": "аргъуей",
     "type": "noun",
     "ipa": "aːrʁʷaj"
   },
@@ -12241,7 +12502,7 @@
     "synonyms": [
       "фэмыф"
     ],
-    "cognate": "арму",
+    "kabardian": "арму",
     "type": "adj",
     "ipa": "aːrmaw"
   },
@@ -12870,7 +13131,7 @@
         "examples": []
       }
     ],
-    "cognate": "тху",
+    "kabardian": "тху",
     "type": "num",
     "ipa": "tfə"
   },
@@ -12924,7 +13185,7 @@
         "examples": []
       }
     ],
-    "cognate": "пщ1ы",
+    "kabardian": "пщ1ы",
     "type": "num",
     "ipa": "pʃʼə"
   },
@@ -13033,7 +13294,7 @@
         "examples": []
       }
     ],
-    "cognate": "щэ",
+    "kabardian": "щэ",
     "type": "num",
     "ipa": "ʂa"
   },
@@ -13070,7 +13331,7 @@
         "examples": []
       }
     ],
-    "cognate": "ныкъуэ",
+    "kabardian": "ныкъуэ",
     "type": "num",
     "ipa": "nəqʷa"
   },
@@ -13168,7 +13429,7 @@
     "synonyms": [
       "чъу"
     ],
-    "cognate": "вы",
+    "kabardian": "вы",
     "type": "noun",
     "ipa": "t͡ʃʷə"
   },
@@ -13241,7 +13502,7 @@
         "examples": []
       }
     ],
-    "cognate": "псо",
+    "kabardian": "псо",
     "type": "adj",
     "ipa": "psaːwa"
   },
@@ -13797,7 +14058,7 @@
         ]
       }
     ],
-    "cognate": "пэж",
+    "kabardian": "пэж",
     "type": "noun",
     "ipa": "ʂəpqa"
   },
@@ -13818,7 +14079,7 @@
     "synonyms": [
       "бгъузэ"
     ],
-    "cognate": "зэвы",
+    "kabardian": "зэвы",
     "type": "adj",
     "ipa": "zaʐʷə"
   },
@@ -13831,7 +14092,7 @@
         "examples": []
       }
     ],
-    "cognate": "тхьэв",
+    "kabardian": "тхьэв",
     "type": "noun",
     "ipa": "tħat͡ʃʷ"
   },
@@ -14126,7 +14387,7 @@
         "examples": []
       }
     ],
-    "cognate": "бгъэ",
+    "kabardian": "бгъэ",
     "type": "noun",
     "ipa": "bʁaʐ"
   },
@@ -14702,7 +14963,7 @@
         ]
       }
     ],
-    "cognate": "бий",
+    "kabardian": "бий",
     "type": "noun",
     "ipa": "pəj"
   },
@@ -15072,7 +15333,7 @@
     "synonyms": [
       "къуаджэ"
     ],
-    "cognate": "жылэ",
+    "kabardian": "жылэ",
     "type": "noun",
     "ipa": "t͡ʃəɮa"
   },
@@ -15089,7 +15350,7 @@
         "examples": []
       }
     ],
-    "cognate": "къафэ",
+    "kabardian": "къафэ",
     "type": "noun",
     "ipa": "qaːʂʷa"
   },
@@ -15156,7 +15417,7 @@
         "examples": []
       }
     ],
-    "cognate": "дзажэ",
+    "kabardian": "дзажэ",
     "type": "noun",
     "ipa": "t͡saːɣa"
   },
@@ -15331,7 +15592,7 @@
         "examples": []
       }
     ],
-    "cognate": "1увы",
+    "kabardian": "1увы",
     "type": "adj",
     "ipa": "ʔʷaʐʷə"
   },
@@ -15418,7 +15679,7 @@
         ]
       }
     ],
-    "cognate": "лъэк1ын (to be capable of); лъэщ1ын (to brush)",
+    "kabardian": "лъэк1ын (to be capable of); лъэщ1ын (to brush)",
     "type": "verb",
     "ipa": "ɬat͡ʃʼən"
   },
@@ -15680,7 +15941,7 @@
         "examples": []
       }
     ],
-    "cognate": "бжьыдзэ",
+    "kabardian": "бжьыдзэ",
     "type": "noun",
     "ipa": "bʒəd͡za"
   },
@@ -15824,7 +16085,7 @@
         "examples": []
       }
     ],
-    "cognate": "бжьыхьэ",
+    "kabardian": "бжьыхьэ",
     "type": "noun",
     "ipa": "bʒəħa"
   },
@@ -15837,7 +16098,7 @@
         "examples": []
       }
     ],
-    "cognate": "гъэмахуэ",
+    "kabardian": "гъэмахуэ",
     "type": "noun",
     "ipa": "ʁamaːfa"
   },
@@ -15850,7 +16111,7 @@
         "examples": []
       }
     ],
-    "cognate": "щ1ымахуэ",
+    "kabardian": "щ1ымахуэ",
     "type": "noun",
     "ipa": "t͡ʃʼəmaːfa"
   },
@@ -16397,7 +16658,7 @@
     "synonyms": [
       "шъэджашъ"
     ],
-    "cognate": "фо",
+    "kabardian": "фо",
     "type": "adj",
     "ipa": "d͡ʒaːda"
   },
@@ -16428,7 +16689,7 @@
         ]
       }
     ],
-    "cognate": "ф1ы лъэгъун",
+    "kabardian": "ф1ы лъэгъун",
     "type": "verb",
     "ipa": "ʃʷʼə ɬaʁʷən"
   },
@@ -16578,7 +16839,7 @@
     "synonyms": [
       "гуща1э"
     ],
-    "cognate": "псалъэ",
+    "kabardian": "псалъэ",
     "type": "noun",
     "ipa": "ɡʷəɕəʔa"
   },
@@ -16691,7 +16952,7 @@
         ]
       }
     ],
-    "cognate": "1уэху",
+    "kabardian": "1уэху",
     "type": "noun",
     "ipa": "ʔʷafə"
   },
@@ -16838,7 +17099,7 @@
     "synonyms": [
       "чъыгышъхьэцыз"
     ],
-    "cognate": "дзыдзэ",
+    "kabardian": "дзыдзэ",
     "type": "noun",
     "ipa": "t͡səza"
   },
@@ -17307,7 +17568,7 @@
       "къуамэ",
       "къутамэ"
     ],
-    "cognate": "гуанэ",
+    "kabardian": "гуанэ",
     "type": "noun",
     "ipa": "kʷaːma"
   },
@@ -17858,7 +18119,7 @@
         "examples": []
       }
     ],
-    "cognate": "щэху",
+    "kabardian": "щэху",
     "type": "adj",
     "ipa": "ʂafə"
   },
@@ -17871,7 +18132,7 @@
         "examples": []
       }
     ],
-    "cognate": "къущхьэ",
+    "kabardian": "къущхьэ",
     "type": "noun",
     "ipa": "qʷəʂħa"
   },
@@ -17932,7 +18193,7 @@
       "кой",
       "чылэ"
     ],
-    "cognate": "къуажэ",
+    "kabardian": "къуажэ",
     "type": "noun",
     "ipa": "qʷaːd͡ʒa"
   },
@@ -18158,7 +18419,7 @@
         "examples": []
       }
     ],
-    "cognate": "бамэ",
+    "kabardian": "бамэ",
     "type": "noun",
     "ipa": "ʂʷəːma"
   },
@@ -18182,7 +18443,7 @@
       "ехьагъушъугъун",
       "шъухъогъон"
     ],
-    "cognate": "енэц1ын",
+    "kabardian": "енэц1ын",
     "type": "verb",
     "ipa": "χʷapsan"
   },
@@ -18302,7 +18563,7 @@
         ]
       }
     ],
-    "cognate": "е1усын",
+    "kabardian": "е1усын",
     "type": "verb",
     "ipa": "nasən"
   },
@@ -19905,7 +20166,7 @@
         "examples": []
       }
     ],
-    "cognate": "псыфэнд",
+    "kabardian": "псыфэнд",
     "type": "noun",
     "ipa": "psəʂʷant"
   },
@@ -20214,7 +20475,7 @@
     "synonyms": [
       "мэкьэрэзын"
     ],
-    "cognate": "мэджэрэзын",
+    "kabardian": "мэджэрэзын",
     "type": "verb",
     "ipa": "mat͡ʃarazən"
   },
@@ -20242,7 +20503,7 @@
     "synonyms": [
       "щыдыхьэщхын"
     ],
-    "cognate": "щыдыхьэшхын",
+    "kabardian": "щыдыхьэшхын",
     "type": "verb",
     "ipa": "ʃəɡʷəʃʷʼkʲʼən"
   },
@@ -20418,7 +20679,7 @@
         ]
       }
     ],
-    "cognate": "щ1егъуэжын",
+    "kabardian": "щ1егъуэжын",
     "type": "verb",
     "ipa": "t͡ʃaʁʷaʑən"
   },
@@ -20759,7 +21020,7 @@
         "examples": []
       }
     ],
-    "cognate": "жэн",
+    "kabardian": "жэн",
     "type": "verb",
     "ipa": "t͡ʃʼan"
   },
@@ -20784,7 +21045,7 @@
         "examples": []
       }
     ],
-    "cognate": "жьы",
+    "kabardian": "жьы",
     "type": "adj",
     "ipa": "ʐə"
   },
@@ -20921,7 +21182,7 @@
     "synonyms": [
       "зак1э"
     ],
-    "cognate": "занщ1э",
+    "kabardian": "занщ1э",
     "type": "adj",
     "ipa": "zaːnt͡ʃa"
   },
@@ -20955,7 +21216,7 @@
         "examples": []
       }
     ],
-    "cognate": "шхуэ",
+    "kabardian": "шхуэ",
     "type": "adj",
     "ipa": "fˤa"
   },
@@ -21384,7 +21645,7 @@
         ]
       }
     ],
-    "cognate": "хэщ1ын (to get decreased)",
+    "kabardian": "хэщ1ын (to get decreased)",
     "type": "verb",
     "ipa": "xakʲʼən"
   },
@@ -21504,7 +21765,7 @@
         ]
       }
     ],
-    "cognate": "блын",
+    "kabardian": "блын",
     "type": "verb",
     "ipa": "blan"
   },
@@ -21865,7 +22126,7 @@
         "examples": []
       }
     ],
-    "cognate": "быдзафэ",
+    "kabardian": "быдзафэ",
     "type": "noun",
     "ipa": "bəd͡zaːʂʷ"
   },
@@ -22220,7 +22481,7 @@
     "synonyms": [
       "бырат1"
     ],
-    "cognate": "пщэры",
+    "kabardian": "пщэры",
     "type": "adj",
     "ipa": "bətʼə"
   },
@@ -23314,7 +23575,7 @@
       "къэ",
       "хъэ"
     ],
-    "cognate": "бэн",
+    "kabardian": "бэн",
     "type": "noun",
     "ipa": "banə"
   },
@@ -23421,7 +23682,7 @@
         ]
       }
     ],
-    "cognate": "бэуэн",
+    "kabardian": "бэуэн",
     "type": "verb",
     "ipa": "bawan"
   },
@@ -23788,7 +24049,7 @@
         "examples": []
       }
     ],
-    "cognate": "къэбэрдей",
+    "kabardian": "къэбэрдей",
     "type": "noun",
     "ipa": "qabartaːj"
   },
@@ -23837,7 +24098,7 @@
         "examples": []
       }
     ],
-    "cognate": "п1ащ1э",
+    "kabardian": "п1ащ1э",
     "type": "adj",
     "ipa": "pʷʼaːt͡ʃa"
   },
@@ -23899,7 +24160,7 @@
         "examples": []
       }
     ],
-    "cognate": "п1ащ1э",
+    "kabardian": "п1ащ1э",
     "type": "adj",
     "ipa": "pʷʼaːnt͡ʃa"
   },
@@ -24119,7 +24380,7 @@
     "synonyms": [
       "щкъэн"
     ],
-    "cognate": "щ1эн",
+    "kabardian": "щ1эн",
     "type": "verb",
     "ipa": "ʃˈan"
   },
@@ -24452,7 +24713,7 @@
     "synonyms": [
       "коил"
     ],
-    "cognate": "жылэдэс",
+    "kabardian": "жылэдэс",
     "type": "noun",
     "ipa": "t͡ʃəɮadas"
   },
@@ -24684,7 +24945,7 @@
     "synonyms": [
       "ахъщэ"
     ],
-    "cognate": "ахъшэ",
+    "kabardian": "ахъшэ",
     "type": "noun",
     "ipa": "naʁat͡sʼəw"
   },
@@ -24713,7 +24974,7 @@
         "examples": []
       }
     ],
-    "cognate": "хьэвэ",
+    "kabardian": "хьэвэ",
     "type": "noun",
     "ipa": "ħaːnd͡zʷə"
   },
@@ -24836,7 +25097,7 @@
         "examples": []
       }
     ],
-    "cognate": "лъэбакъуэ",
+    "kabardian": "лъэбакъуэ",
     "type": "noun",
     "ipa": "ħaɬawbaːq"
   },
@@ -24862,7 +25123,7 @@
     "synonyms": [
       "къо"
     ],
-    "cognate": "кхъуэ",
+    "kabardian": "кхъуэ",
     "type": "noun",
     "ipa": "χʷa"
   },
@@ -24882,7 +25143,7 @@
     "synonyms": [
       "хъо (Shapsug)"
     ],
-    "cognate": "къуэ (son); кхъуэ (pig)",
+    "kabardian": "къуэ (son); кхъуэ (pig)",
     "type": "noun",
     "ipa": "qʷa"
   },
@@ -24936,7 +25197,7 @@
       "л1эу",
       "шъыд"
     ],
-    "cognate": "сыт",
+    "kabardian": "сыт",
     "type": "pron",
     "ipa": "səd"
   },
@@ -25185,7 +25446,7 @@
         "examples": []
       }
     ],
-    "cognate": "бэдрэжан",
+    "kabardian": "бэдрэжан",
     "type": "noun",
     "ipa": "t͡ʃʷəɡʷ"
   },
@@ -25213,7 +25474,7 @@
     "synonyms": [
       "кхъужъы"
     ],
-    "cognate": "кхъужьы",
+    "kabardian": "кхъужьы",
     "type": "noun",
     "ipa": "qʷəʐə"
   },
@@ -25614,9 +25875,9 @@
       }
     ],
     "synonyms": [
-      "хьэнчэмы1у"
+      "хьанчэмы1у"
     ],
-    "cognate": "шылъэгу",
+    "kabardian": "шылъэгу",
     "type": "noun",
     "ipa": "ħadapt͡ʃaməʔʷ"
   },
@@ -25630,9 +25891,9 @@
       }
     ],
     "synonyms": [
-      "хьэнчэмы1у"
+      "хьанчэмы1у"
     ],
-    "cognate": "шылъэгу",
+    "kabardian": "шылъэгу",
     "type": "noun",
     "ipa": "ħadapt͡ʃʼaməʔʷ"
   },
@@ -25697,7 +25958,7 @@
         "examples": []
       }
     ],
-    "cognate": "к1ыгуугу",
+    "kabardian": "к1ыгуугу",
     "type": "noun",
     "ipa": "kʷəkʷəw"
   },
@@ -25826,7 +26087,7 @@
         "examples": []
       }
     ],
-    "cognate": "мэзджэд",
+    "kabardian": "мэзджэд",
     "type": "noun",
     "ipa": "mazt͡ʃat"
   },
@@ -25847,8 +26108,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "tool",
-        "examples": []
+        "meaning": "tool; instrument",
+        "examples": [
+          {
+            "sentence": "'''1эмэ-псымэхэр''' тыдэ щы1эха?",
+            "translation": "Where are '''the tools'''?"
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -25890,7 +26156,7 @@
     "synonyms": [
       "псыкьэт"
     ],
-    "cognate": "псыджэд",
+    "kabardian": "псыджэд",
     "type": "noun",
     "ipa": "psət͡ʃat"
   },
@@ -25945,7 +26211,7 @@
     "ipa": "maːt͡sʼa"
   },
   {
-    "word": "хьэнт1эрэп1ый",
+    "word": "хьант1эрэп1ый",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -25958,7 +26224,7 @@
       "мэш1уахь",
       "хьэт1рэп1ый"
     ],
-    "cognate": "хьэндырабгъуэ",
+    "kabardian": "хьэндырабгъуэ",
     "type": "noun",
     "ipa": "ħantˈarapˈəj"
   },
@@ -26037,7 +26303,7 @@
     "synonyms": [
       "хьантыкъуакъу"
     ],
-    "cognate": "хьэндыркъуакъуэ",
+    "kabardian": "хьэндыркъуакъуэ",
     "type": "noun",
     "ipa": "ħantˈaːrqʷ"
   },
@@ -26150,7 +26416,7 @@
         "examples": []
       }
     ],
-    "cognate": "хьэнцэ",
+    "kabardian": "хьэнцэ",
     "type": "noun",
     "ipa": "qaːzʁər"
   },
@@ -26462,7 +26728,7 @@
         "examples": []
       }
     ],
-    "cognate": "сымаджэ",
+    "kabardian": "сымаджэ",
     "type": "adj",
     "ipa": "səmaːɡʲa"
   },
@@ -26502,7 +26768,7 @@
         "examples": []
       }
     ],
-    "cognate": "ц1э",
+    "kabardian": "ц1э",
     "type": "noun",
     "ipa": "sʼa"
   },
@@ -26518,7 +26784,7 @@
     "synonyms": [
       "ш1уц1э"
     ],
-    "cognate": "ф1ыц1э",
+    "kabardian": "ф1ыц1э",
     "type": "noun",
     "ipa": "ʃʷʼəsʼa"
   },
@@ -26655,7 +26921,7 @@
     "synonyms": [
       "чэтыу"
     ],
-    "cognate": "джэду",
+    "kabardian": "джэду",
     "type": "noun",
     "ipa": "kʲatəw"
   },
@@ -26711,7 +26977,7 @@
     "synonyms": [
       "псык1э"
     ],
-    "cognate": "псынщ1э",
+    "kabardian": "псынщ1э",
     "type": "adj",
     "ipa": "psənt͡ʃʼa"
   },
@@ -26992,7 +27258,7 @@
       "шъхъэи",
       "шъхъэ (Shapsug)"
     ],
-    "cognate": "ц1ык1у",
+    "kabardian": "ц1ык1у",
     "type": "noun",
     "ipa": "ʐʁaj"
   },
@@ -27041,7 +27307,7 @@
         "examples": []
       }
     ],
-    "cognate": "вагъуэнж",
+    "kabardian": "вагъуэнж",
     "type": "noun",
     "ipa": "ʐʷaʁʷand͡ʒ"
   },
@@ -27182,7 +27448,7 @@
         ]
       }
     ],
-    "cognate": "вэн",
+    "kabardian": "вэн",
     "type": "verb",
     "ipa": "ʐʷan"
   },
@@ -27346,7 +27612,7 @@
     "synonyms": [
       "щырыкъу"
     ],
-    "cognate": "вакъэ",
+    "kabardian": "вакъэ",
     "type": "noun",
     "ipa": "t͡sʷaːqa"
   },
@@ -27416,7 +27682,7 @@
         ]
       }
     ],
-    "cognate": "вагъуэ",
+    "kabardian": "вагъуэ",
     "type": "noun",
     "ipa": "ʒʷaːʁʷa"
   },
@@ -27652,7 +27918,7 @@
     "synonyms": [
       "кьэтыу"
     ],
-    "cognate": "джэду",
+    "kabardian": "джэду",
     "type": "noun",
     "ipa": "t͡ʃatəw"
   },
@@ -27696,7 +27962,7 @@
         "examples": []
       }
     ],
-    "cognate": "абдж",
+    "kabardian": "абдж",
     "type": "noun",
     "ipa": "aːpkʲ"
   },
@@ -27718,7 +27984,7 @@
         ]
       }
     ],
-    "cognate": "удзыфэ",
+    "kabardian": "удзыфэ",
     "type": "adj",
     "ipa": "wət͡səʂʷa"
   },
@@ -27731,7 +27997,7 @@
         "examples": []
       }
     ],
-    "cognate": "ф1амыщ1",
+    "kabardian": "ф1амыщ1",
     "type": "noun",
     "ipa": "ʃʷʼamət͡ʃʼ"
   },
@@ -27792,7 +28058,7 @@
       "хъуае",
       "кхъуае"
     ],
-    "cognate": "кхъуей",
+    "kabardian": "кхъуей",
     "type": "noun",
     "ipa": "qʷaːja"
   },
@@ -27809,7 +28075,7 @@
       "къуае",
       "кхъуайэ"
     ],
-    "cognate": "кхъуей",
+    "kabardian": "кхъуей",
     "type": "noun",
     "ipa": "χʷaːja"
   },
@@ -27831,7 +28097,7 @@
         ]
       }
     ],
-    "cognate": "быдэ",
+    "kabardian": "быдэ",
     "type": "adj",
     "ipa": "pəta"
   },
@@ -27847,7 +28113,7 @@
     "synonyms": [
       "къэцы"
     ],
-    "cognate": "банэ",
+    "kabardian": "банэ",
     "type": "noun",
     "ipa": "paːna"
   },
@@ -27860,7 +28126,7 @@
         "examples": []
       }
     ],
-    "cognate": "гъуджэ",
+    "kabardian": "гъуджэ",
     "type": "noun",
     "ipa": "ʁʷərd͡ʒa"
   },
@@ -27873,7 +28139,7 @@
         "examples": []
       }
     ],
-    "cognate": "дыгъуасэ",
+    "kabardian": "дыгъуасэ",
     "type": "adv",
     "ipa": "təʁʷaːsa"
   },
@@ -27889,7 +28155,7 @@
     "synonyms": [
       "псычэт"
     ],
-    "cognate": "псыджэд",
+    "kabardian": "псыджэд",
     "type": "noun",
     "ipa": "psəkʲat"
   },
@@ -27941,7 +28207,7 @@
         "examples": []
       }
     ],
-    "cognate": "1унк1ыбзэ",
+    "kabardian": "1унк1ыбзэ",
     "type": "noun",
     "ipa": "ʔʷəkʲʼəbza"
   },
@@ -27957,7 +28223,7 @@
     "synonyms": [
       "къамзэгу"
     ],
-    "cognate": "хъумп1эц1эдж",
+    "kabardian": "хъумп1эц1эдж",
     "type": "noun",
     "ipa": "χaːnzaɡʷ"
   },
@@ -27977,7 +28243,7 @@
     "synonyms": [
       "хъанзэгу"
     ],
-    "cognate": "хъумп1эц1эдж",
+    "kabardian": "хъумп1эц1эдж",
     "type": "noun",
     "ipa": "qaːmzaɡʷ"
   },
@@ -28015,7 +28281,7 @@
     "synonyms": [
       "пщыпащ"
     ],
-    "cognate": "пащтыхь",
+    "kabardian": "пащтыхь",
     "type": "noun",
     "ipa": "paːrtʂəħ"
   },
@@ -28043,7 +28309,7 @@
         "examples": []
       }
     ],
-    "cognate": "щ1ы1у",
+    "kabardian": "щ1ы1у",
     "type": "noun",
     "ipa": "t͡ʃʼəʔʷ"
   },
@@ -28059,7 +28325,7 @@
     "synonyms": [
       "нашэ"
     ],
-    "cognate": "хъарбыз",
+    "kabardian": "хъарбыз",
     "type": "noun",
     "ipa": "χərbəd͡ʒ"
   },
@@ -28072,7 +28338,7 @@
         "examples": []
       }
     ],
-    "cognate": "хьэжыгъэ",
+    "kabardian": "хьэжыгъэ",
     "type": "noun",
     "ipa": "ħaːd͡ʒəʁa"
   },
@@ -28100,7 +28366,7 @@
     "synonyms": [
       "лъэгуанджэ"
     ],
-    "cognate": "лъэгуажьэ",
+    "kabardian": "лъэгуажьэ",
     "type": "noun",
     "ipa": "ɬaɡʷaːd͡ʒa"
   },
@@ -28151,7 +28417,7 @@
     "synonyms": [
       "натрыф"
     ],
-    "cognate": "нартыху",
+    "kabardian": "нартыху",
     "type": "noun",
     "ipa": "naːtəf"
   },
@@ -28167,7 +28433,7 @@
     "synonyms": [
       "псынк1э"
     ],
-    "cognate": "псынщ1э",
+    "kabardian": "псынщ1э",
     "type": "adj",
     "ipa": "psət͡ʃʼa"
   },
@@ -28201,7 +28467,7 @@
       "ш1эхэу",
       "псык1эу"
     ],
-    "cognate": "псынщ1эу",
+    "kabardian": "псынщ1эу",
     "type": "adv",
     "ipa": "psənt͡ʃʼaw"
   },
@@ -28217,7 +28483,7 @@
     "synonyms": [
       "отэгъу"
     ],
-    "cognate": "уэндэгъу",
+    "kabardian": "уэндэгъу",
     "type": "adj",
     "ipa": "wantaʁʷ"
   },
@@ -28260,39 +28526,26 @@
     "synonyms": [
       "хьант1аркъу"
     ],
-    "cognate": "хьэндыркъуакъуэ",
+    "kabardian": "хьэндыркъуакъуэ",
     "type": "noun",
     "ipa": "ħantˈəqʷaːqʷ"
   },
   {
-    "word": "хьэт1рэп1ый",
+    "word": "хьат1рэп1ый",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "butterfly",
+        "meaning": "(Shapsug) butterfly",
         "examples": []
       }
     ],
     "synonyms": [
       "хьамп1ырашъу",
-      "хьэнт1эрэп1ый"
+      "хьант1эрэп1ый"
     ],
-    "cognate": "хьэндырабгъуэ",
+    "kabardian": "хьэндырабгъуэ",
     "type": "noun",
     "ipa": "ħatˈrapˈəj"
-  },
-  {
-    "word": "пс1анэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"пц1анэ\"",
-        "examples": []
-      }
-    ],
-    "cognate": "пц1анэ",
-    "type": "adj",
-    "ipa": "psʼaːna"
   },
   {
     "word": "пц1анэ",
@@ -28303,10 +28556,7 @@
         "examples": []
       }
     ],
-    "synonyms": [
-      "пс1анэ",
-      "----"
-    ],
+    "shapsug": "пс1анэ",
     "type": "adj",
     "ipa": "pt͡sʼaːna"
   },
@@ -28323,7 +28573,7 @@
         "examples": []
       }
     ],
-    "cognate": "жьэн",
+    "kabardian": "жьэн",
     "type": "verb",
     "ipa": "ʐan"
   },
@@ -28348,9 +28598,28 @@
         "examples": []
       }
     ],
-    "cognate": "шынэхъыщ1",
+    "synonyms": [
+      "къошынахьык1"
+    ],
+    "kabardian": "къуэшнэхъыщ1",
     "type": "noun",
     "ipa": "ʃənaːħət͡ʃʼ"
+  },
+  {
+    "word": "къошынахьык1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "younger brother",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "шынахьык1"
+    ],
+    "kabardian": "къуэшнэхъыщ1",
+    "type": "noun",
+    "ipa": "qʷaʃənaːħət͡ʃʼ"
   },
   {
     "word": "шынахьыжъ",
@@ -28361,25 +28630,28 @@
         "examples": []
       }
     ],
-    "cognate": "шынэхъыжь",
+    "synonyms": [
+      "къошынахьыжъ"
+    ],
+    "kabardian": "къуэшнэхъыжь",
     "type": "noun",
     "ipa": "ʃənaːħəʐ"
   },
   {
-    "word": "жак1ьэ",
+    "word": "къошынахьыжъ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(Shapsug) alternative form of \"жак1э\"",
-        "examples": [],
-        "tags": [
-          "Shapsug",
-          "alternative_spelling"
-        ]
+        "meaning": "older brother",
+        "examples": []
       }
     ],
+    "synonyms": [
+      "шынахьыжъ"
+    ],
+    "kabardian": "къуэшнэхъыжь",
     "type": "noun",
-    "ipa": "ʒaːkʲa"
+    "ipa": "qʷaʃənaːħəʐ"
   },
   {
     "word": "гъаш1э",
@@ -28390,7 +28662,7 @@
         "examples": []
       }
     ],
-    "cognate": "гъащ1э",
+    "kabardian": "гъащ1э",
     "type": "noun",
     "ipa": "ʁaːʃʼa"
   },
@@ -28404,8 +28676,7 @@
       }
     ],
     "synonyms": [
-      "дагъэ",
-      "------ щэ ще"
+      "дагъэ"
     ],
     "type": "noun",
     "ipa": "ʃa"
@@ -28428,7 +28699,7 @@
       "нэгъэц1ыу",
       "парэ"
     ],
-    "cognate": "ахъшэ",
+    "kabardian": "ахъшэ",
     "type": "noun",
     "ipa": "aːχʃa"
   },
@@ -28440,8 +28711,8 @@
         "meaning": "dangerous",
         "examples": [
           {
-            "sentence": "Iофыр щынагъо хъугъэ",
-            "translation": "The work became dangerous"
+            "sentence": "'''1офыр''' щынагъо хъугъэ",
+            "translation": "'''The work''' became dangerous"
           }
         ]
       },
@@ -28449,8 +28720,8 @@
         "meaning": "fearsome, menacing",
         "examples": [
           {
-            "sentence": "Ащ щынэгъошхо иI, цIыфхэр щэщынэх",
-            "translation": "He is fearsome, people are afraid of him."
+            "sentence": "Ащ '''щынэгъошхо''' и1, ц1ыфхэр щэщынэх",
+            "translation": "He is '''fearsome''', people are afraid of him."
           }
         ]
       }
@@ -28458,7 +28729,7 @@
     "synonyms": [
       "гуих"
     ],
-    "cognate": "шынагъуэ",
+    "kabardian": "шынагъуэ",
     "type": "adj",
     "ipa": "ɕənaʁʷa"
   },
@@ -28471,7 +28742,7 @@
         "examples": []
       }
     ],
-    "cognate": "щынэ",
+    "kabardian": "щынэ",
     "type": "noun",
     "ipa": "ʂəna"
   },
@@ -28489,8 +28760,7 @@
     ],
     "synonyms": [
       "джадэ",
-      "шъэджашъ",
-      "----"
+      "шъэджашъ"
     ],
     "type": "adj",
     "ipa": "fo"
@@ -28532,7 +28802,7 @@
     "ipa": "aːwʃəd͡ʒar"
   },
   {
-    "word": "Хьэдрыхэ",
+    "word": "хьадрых",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -28548,7 +28818,7 @@
     "ipa": "ħadrəxa"
   },
   {
-    "word": "Хьэдрыхэтхьэ",
+    "word": "Хьадрыхэтхьэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -28560,7 +28830,7 @@
     "ipa": "ħadrəxatħa"
   },
   {
-    "word": "Хьэк1ущтащхьэ",
+    "word": "Хьак1ущташъхьэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -28572,7 +28842,7 @@
     "ipa": "ħakʷʼɕtaːɕħa"
   },
   {
-    "word": "Хьэкусташ",
+    "word": "Хьакусташ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -28584,7 +28854,7 @@
     "ipa": "ħakʷəstaːʃ"
   },
   {
-    "word": "Хьэнцийгуащэ",
+    "word": "Хьанцийгуащэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -28596,7 +28866,7 @@
     "ipa": "ħant͡sijɡʷaːɕa"
   },
   {
-    "word": "Хьэуцхьэш",
+    "word": "Хьауцхьэш",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -28728,7 +28998,7 @@
     "ipa": "psəχʷaɡʷaːɕa"
   },
   {
-    "word": "Къуэдэс",
+    "word": "Къодэс",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -28800,7 +29070,7 @@
     "ipa": "tħaʁalad͡ʒ"
   },
   {
-    "word": "Тхьэгъуичу",
+    "word": "Тхьэгъуицу",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -28834,7 +29104,7 @@
     "type": "name"
   },
   {
-    "word": "Тхьэшу",
+    "word": "Тхьэшыу",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -28845,7 +29115,7 @@
     "type": "name"
   },
   {
-    "word": "Уащхъуэ",
+    "word": "Уащхъо",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -28880,18 +29150,18 @@
     "ipa": "ʔaːsaw"
   },
   {
-    "word": "чъуакъо",
+    "word": "чуакъэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"цуакъэ\"",
+        "meaning": "misspelled of \"цуакъэ\"",
         "examples": []
       }
     ],
     "synonyms": [
       "цуакъэ"
     ],
-    "cognate": "вакъэ",
+    "kabardian": "вакъэ",
     "type": "noun",
     "ipa": "t͡ʃʷaːqʷa"
   },
@@ -28928,7 +29198,7 @@
         "examples": []
       }
     ],
-    "cognate": "жьэжьэй",
+    "kabardian": "жьэжьэй",
     "type": "noun",
     "ipa": "ʐaʐəj"
   },
@@ -28961,7 +29231,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Smell of frying, Smell of grilling,",
+        "meaning": "smell of frying, smell of grilling,",
         "examples": []
       }
     ],
@@ -28973,7 +29243,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Hard to fry, Hard to grill",
+        "meaning": "something that is hard to fry / grill",
         "examples": []
       }
     ],
@@ -28985,7 +29255,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Fried easily, Grilled easily",
+        "meaning": "something that is easy to fry / grill",
         "examples": []
       }
     ],
@@ -28996,7 +29266,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "the Kabardian language",
+        "meaning": "the Kabardian dialect",
         "examples": []
       }
     ],
@@ -29009,6 +29279,10 @@
     "definitions": [
       {
         "meaning": "well-behaved",
+        "examples": []
+      },
+	  {
+        "meaning": "meek (humble, non-boastful, modest, meager, or self-effacing)",
         "examples": []
       },
       {
@@ -29033,7 +29307,7 @@
         "examples": []
       },
       {
-        "meaning": "seniority",
+        "meaning": "seniority (a measure of the amount of time a person has been a member of an organization)",
         "examples": []
       }
     ],
@@ -29051,7 +29325,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "ugly old age",
+        "meaning": "bad old age",
         "examples": []
       }
     ],
@@ -29081,7 +29355,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Age classification",
+        "meaning": "age classification",
         "examples": []
       }
     ],
@@ -29108,21 +29382,29 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to become old, to become obsolete",
+        "meaning": "to become old",
         "examples": [
           {
-            "sentence": "анэр '''мэжъы'''",
+            "sentence": "Л1ыр '''жъыгъэ'''",
+            "translation": "The man '''became old'''."
+          },
+		  {
+            "sentence": "1анэр '''мэжъы'''",
             "translation": "The table is '''getting old'''."
           },
           {
-            "sentence": "мые '''мэжъыгъэ''' уымышх",
+            "sentence": "мые '''жъыгъэ''' уымышх",
             "translation": "Don't eat the apple '''that got old'''."
           },
           {
-            "sentence": "псык1эу шхы бэнанэр '''мэмжъыгъуу'''",
+            "sentence": "псынк1эу шхы бэнанэр '''мыжъыгъэу'''",
             "translation": "Eat the banana fast '''before it becomes obsolete'''."
           }
         ]
+      },
+	  {
+        "meaning": "to become obsolete",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -29165,7 +29447,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Refrain (chorus)",
+        "meaning": "refrain (chorus)",
         "examples": []
       }
     ],
@@ -29213,7 +29495,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Old age look",
+        "meaning": "the look of an old age",
         "examples": []
       }
     ],
@@ -29225,7 +29507,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "old age",
+        "meaning": "in old age",
         "examples": []
       }
     ],
@@ -29244,7 +29526,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "old age",
+        "meaning": "very old",
         "examples": []
       }
     ],
@@ -29259,38 +29541,17 @@
     "ipa": "ɬʼəʐəʂ"
   },
   {
-    "word": "л1ыжъып1",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "old age",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "жъыгъэ",
-      "жъыгъо",
-      "л1ыжъыгъу",
-      "л1ыжъышъ",
-      "жъышъхьэ"
-    ],
-    "type": "noun",
-    "ipa": "ɬʼəʐəpʼ"
-  },
-  {
     "word": "л1ыжъыгъу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "old age",
+        "meaning": "old age; one's old age",
         "examples": []
       }
     ],
     "synonyms": [
       "жъыгъэ",
       "жъыгъо",
-      "л1ыжъышъ",
-      "л1ыжъып1",
       "жъышъхьэ"
     ],
     "type": "noun",
@@ -29346,7 +29607,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "dark color (like black and brown) (Usually said to animals)",
+        "meaning": "dark color (like black and brown) (usually said to animals)",
         "examples": [
           {
             "sentence": "Си пщынэ '''къарэ''' къызэкlэсэщ,",
@@ -29378,6 +29639,17 @@
     "type": "name"
   },
   {
+    "word": "пщынабзэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "string (of an accordion)",
+        "examples": []
+      }
+    ],
+    "type": "name"
+  },
+  {
     "word": "инджылыбзэ",
     "lang": "Adyghe",
     "definitions": [
@@ -29397,6 +29669,9 @@
         "examples": []
       }
     ],
+    "synonyms": [
+      "1эхъу"
+    ],
     "type": "noun",
     "ipa": "ʔaʂħaχʷ"
   },
@@ -29411,18 +29686,6 @@
     ],
     "type": "noun",
     "ipa": "ʃakʲarəps"
-  },
-  {
-    "word": "енэс1ын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"енэц1ын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "janasʼən"
   },
   {
     "word": "шхъуант1э",
@@ -29442,6 +29705,7 @@
         ]
       }
     ],
+    "shapsug": "шъухъат1э",
     "type": "adj",
     "ipa": "ʃχʷaːntʼa"
   },
@@ -29584,7 +29848,7 @@
         ]
       }
     ],
-    "cognate": "хамэ",
+    "kabardian": "хамэ",
     "type": "noun",
     "ipa": "xəma"
   },
@@ -29633,7 +29897,7 @@
         "examples": []
       }
     ],
-    "cognate": "гъущы",
+    "kabardian": "гъущы",
     "type": "adj",
     "ipa": "ʁʷəʂə"
   },
@@ -29779,7 +30043,7 @@
       "къохь",
       "жьыкъухь"
     ],
-    "cognate": "кхъухь",
+    "kabardian": "кхъухь",
     "type": "noun",
     "ipa": "qʷəħa"
   },
@@ -29932,7 +30196,7 @@
         "examples": []
       }
     ],
-    "cognate": "удз",
+    "kabardian": "удз",
     "type": "noun",
     "ipa": "wət͡sə"
   },
@@ -30027,7 +30291,7 @@
         "examples": []
       }
     ],
-    "cognate": "хьак1экхъуак1э",
+    "kabardian": "хьак1экхъуак1э",
     "type": "noun",
     "ipa": "ħaːt͡ʃʼaqʷaːt͡ʃʼa"
   },
@@ -30060,7 +30324,7 @@
       "псыхъурай",
       "хыкъумэ"
     ],
-    "cognate": "гуэл",
+    "kabardian": "гуэл",
     "type": "noun",
     "ipa": "xəkʷəm"
   },
@@ -30321,7 +30585,7 @@
     "synonyms": [
       "тхъу"
     ],
-    "cognate": "шэ",
+    "kabardian": "шэ",
     "type": "noun",
     "ipa": "daːʁa"
   },
@@ -30474,7 +30738,7 @@
     "synonyms": [
       "къолэжъ"
     ],
-    "cognate": "къуагъыщхъуэ",
+    "kabardian": "къуагъыщхъуэ",
     "type": "noun",
     "ipa": "t͡sʷəndə"
   },
@@ -30491,7 +30755,7 @@
         "examples": []
       }
     ],
-    "cognate": "тхьэрыкъу",
+    "kabardian": "тхьэрыкъу",
     "type": "noun",
     "ipa": "tħaːrqʷa"
   },
@@ -30586,7 +30850,7 @@
     "synonyms": [
       "мэш1уахь"
     ],
-    "cognate": "хьэндырабгъуэ",
+    "kabardian": "хьэндырабгъуэ",
     "type": "noun"
   },
   {
@@ -30693,7 +30957,7 @@
         "examples": []
       }
     ],
-    "cognate": "псыдыуэ",
+    "kabardian": "псыдыуэ",
     "type": "noun",
     "ipa": "dəwa"
   },
@@ -30760,7 +31024,7 @@
         ]
       }
     ],
-    "cognate": "бжэмышх",
+    "kabardian": "бжэмышх",
     "type": "noun",
     "ipa": "d͡ʒaməʃx"
   },
@@ -30773,7 +31037,7 @@
         "examples": []
       }
     ],
-    "cognate": "щейбжэмышх",
+    "kabardian": "щейбжэмышх",
     "type": "noun",
     "ipa": "ʃaːjd͡ʒaməʃx"
   },
@@ -30786,7 +31050,7 @@
         "examples": []
       }
     ],
-    "cognate": "щейбжэмышх",
+    "kabardian": "щейбжэмышх",
     "type": "noun",
     "ipa": "t͡ʃaːjaːjd͡ʒaməʃx"
   },
@@ -30799,7 +31063,7 @@
         "examples": []
       }
     ],
-    "cognate": "гуахъуэ",
+    "kabardian": "гуахъуэ",
     "type": "noun",
     "ipa": "t͡saːt͡sa"
   },
@@ -30823,7 +31087,7 @@
         "examples": []
       }
     ],
-    "cognate": "пуд",
+    "kabardian": "пуд",
     "type": "adj",
     "ipa": "pəwət"
   },
@@ -31097,7 +31361,7 @@
       "тхьэмыщк1ь",
       "къулайцыз"
     ],
-    "cognate": "тхьэмыщк1э",
+    "kabardian": "тхьэмыщк1э",
     "type": "adj",
     "ipa": "tħaːmət͡ʃ"
   },
@@ -31113,7 +31377,7 @@
     "synonyms": [
       "тхьамык1"
     ],
-    "cognate": "тхьэмыщк1э",
+    "kabardian": "тхьэмыщк1э",
     "type": "adj",
     "ipa": "tħaməɕkʲʼ"
   },
@@ -31155,7 +31419,7 @@
       "ушхъухьак1о",
       "----"
     ],
-    "cognate": "уд",
+    "kabardian": "уд",
     "type": "noun",
     "ipa": "wədə"
   },
@@ -31252,7 +31516,7 @@
     "synonyms": [
       "тенэч"
     ],
-    "cognate": "дзэху",
+    "kabardian": "дзэху",
     "type": "noun",
     "ipa": "t͡saf"
   },
@@ -31269,7 +31533,7 @@
         "examples": []
       }
     ],
-    "cognate": "вабдзэ",
+    "kabardian": "вабдзэ",
     "type": "noun",
     "ipa": "t͡sʷaːbza"
   },
@@ -31368,7 +31632,7 @@
       "къеш1эн",
       "еш1эн"
     ],
-    "cognate": "джэгун",
+    "kabardian": "джэгун",
     "type": "verb",
     "ipa": "qaʂʷan"
   },
@@ -31632,7 +31896,7 @@
       "къухьэ",
       "жьыкъухь"
     ],
-    "cognate": "кхъухь",
+    "kabardian": "кхъухь",
     "type": "noun",
     "ipa": "qʷaħ"
   },
@@ -31905,18 +32169,6 @@
     "ipa": "ʑəwaːpʼa"
   },
   {
-    "word": "1эмэ-псым",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "instrument",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ʔama-psəm"
-  },
-  {
     "word": "пхъэш1эн",
     "lang": "Adyghe",
     "definitions": [
@@ -31990,7 +32242,7 @@
         "examples": []
       }
     ],
-    "cognate": "п1ащ1э",
+    "kabardian": "п1ащ1э",
     "type": "adj",
     "ipa": "pʼaːt͡ʃa"
   },
@@ -32015,7 +32267,7 @@
         "examples": []
       }
     ],
-    "cognate": "псей",
+    "kabardian": "псей",
     "type": "noun",
     "ipa": "psajə"
   },
@@ -32112,7 +32364,7 @@
         ]
       }
     ],
-    "cognate": "захуэ",
+    "kabardian": "захуэ",
     "type": "adj",
     "ipa": "zaːfa"
   },
@@ -32240,7 +32492,7 @@
         "examples": []
       }
     ],
-    "cognate": "еджап1э",
+    "kabardian": "еджап1э",
     "type": "noun",
     "ipa": "jaɡʲaːpʼa"
   },
@@ -32666,7 +32918,7 @@
       "го1у",
       "мыщыу"
     ],
-    "cognate": "1эф1",
+    "kabardian": "1эф1",
     "type": "adj",
     "ipa": "ʔaʃʷʼə"
   },
@@ -32980,7 +33232,7 @@
       "ахъщэ",
       "ахъчэ"
     ],
-    "cognate": "ахъшэ",
+    "kabardian": "ахъшэ",
     "type": "noun",
     "ipa": "paːra"
   },
@@ -32996,7 +33248,7 @@
     "synonyms": [
       "къэ"
     ],
-    "cognate": "кхъэ",
+    "kabardian": "кхъэ",
     "type": "noun",
     "ipa": "χa"
   },
@@ -33016,7 +33268,7 @@
     "synonyms": [
       "ч1ылъэ"
     ],
-    "cognate": "щ1ылъэ",
+    "kabardian": "щ1ылъэ",
     "type": "noun",
     "ipa": "t͡ʃʼəɡʷə"
   },
@@ -33063,7 +33315,7 @@
       "ощы",
       "майтэ"
     ],
-    "cognate": "джыдэ",
+    "kabardian": "джыдэ",
     "type": "noun",
     "ipa": "wabzaʁʷ"
   },
@@ -33081,7 +33333,7 @@
       "обзэгъу",
       "майтэ"
     ],
-    "cognate": "джыдэ",
+    "kabardian": "джыдэ",
     "type": "noun",
     "ipa": "waɕə"
   },
@@ -33106,7 +33358,7 @@
         "examples": []
       }
     ],
-    "cognate": "мэрем",
+    "kabardian": "мэрем",
     "type": "noun",
     "ipa": "baraskaʃxʷ"
   },
@@ -33119,7 +33371,7 @@
         "examples": []
       }
     ],
-    "cognate": "нэмэз",
+    "kabardian": "нэмэз",
     "type": "noun",
     "ipa": "namaːza"
   },
@@ -33140,7 +33392,7 @@
         "examples": []
       }
     ],
-    "cognate": "уэфэгу",
+    "kabardian": "уэфэгу",
     "type": "noun",
     "ipa": "waʂʷaɡʷ"
   },
@@ -33309,7 +33561,7 @@
       "хьамлыу",
       "----"
     ],
-    "cognate": "хьэмбылыу",
+    "kabardian": "хьэмбылыу",
     "type": "noun",
     "ipa": "ħapʼaːt͡sʼa"
   },
@@ -33322,7 +33574,7 @@
         "examples": []
       }
     ],
-    "cognate": "ц1ыхубз",
+    "kabardian": "ц1ыхубз",
     "type": "noun",
     "ipa": "/t͡sʼəfəbz/"
   },
@@ -33335,7 +33587,7 @@
         "examples": []
       }
     ],
-    "cognate": "ц1ыхухъу",
+    "kabardian": "ц1ыхухъу",
     "type": "noun",
     "ipa": "/t͡sʼəfəχʷ/"
   },
@@ -33404,7 +33656,7 @@
         "examples": []
       }
     ],
-    "cognate": "ущхъухьын",
+    "kabardian": "ущхъухьын",
     "type": "verb",
     "ipa": "wəʃχʷəħaːn"
   },
@@ -33457,7 +33709,7 @@
         ]
       }
     ],
-    "cognate": "щхэн",
+    "kabardian": "щхэн",
     "type": "verb",
     "ipa": "ʃxan"
   },
@@ -33470,7 +33722,7 @@
         "examples": []
       }
     ],
-    "cognate": "щхъухь",
+    "kabardian": "щхъухь",
     "type": "noun",
     "ipa": "/ɕanaːwt/"
   },
@@ -33646,7 +33898,7 @@
         "examples": []
       }
     ],
-    "cognate": "ф1ей",
+    "kabardian": "ф1ей",
     "type": "adj",
     "ipa": "ʃʷʼajə"
   },
@@ -34002,7 +34254,7 @@
     "synonyms": [
       "пк1ат1э"
     ],
-    "cognate": "пщ1ант1эпс",
+    "kabardian": "пщ1ант1эпс",
     "type": "noun",
     "ipa": "pt͡ʃaːntʼa"
   },
@@ -34027,7 +34279,7 @@
     "synonyms": [
       "пхэк1"
     ],
-    "cognate": "пхэ",
+    "kabardian": "пхэ",
     "type": "noun",
     "ipa": "ʃʷətə"
   },
@@ -34187,7 +34439,7 @@
         ]
       }
     ],
-    "cognate": "жыжьэ",
+    "kabardian": "жыжьэ",
     "type": "adj",
     "ipa": "t͡ʃəʑa"
   },
@@ -34260,7 +34512,7 @@
     "synonyms": [
       "нэфнэ"
     ],
-    "cognate": "нэху",
+    "kabardian": "нэху",
     "type": "adj",
     "ipa": "nafən"
   },
@@ -34298,7 +34550,7 @@
         "examples": []
       }
     ],
-    "cognate": "ф1алъэ",
+    "kabardian": "ф1алъэ",
     "type": "noun",
     "ipa": "ʃʷʼaːɬa"
   },
@@ -34311,7 +34563,7 @@
         "examples": []
       }
     ],
-    "cognate": "пжэндэхъу",
+    "kabardian": "пжэндэхъу",
     "type": "noun",
     "ipa": "pt͡ʃandaχʷ"
   },
@@ -34340,7 +34592,7 @@
     "synonyms": [
       "чыян (Shapsug)"
     ],
-    "cognate": "жан",
+    "kabardian": "жан",
     "type": "adj",
     "ipa": "t͡ʃaːn"
   },
@@ -34368,7 +34620,7 @@
         "examples": []
       }
     ],
-    "cognate": "ц1ак1э",
+    "kabardian": "ц1ак1э",
     "type": "noun",
     "ipa": "sʼaːkʲʼa"
   },
@@ -34381,7 +34633,7 @@
         "examples": []
       }
     ],
-    "cognate": "хьамц1ырачэ",
+    "kabardian": "хьамц1ырачэ",
     "type": "noun",
     "ipa": "qaːmt͡sʼət͡ʃ"
   },
@@ -34427,7 +34679,7 @@
         "examples": []
       }
     ],
-    "cognate": "пхъэдзак1э",
+    "kabardian": "пхъэдзак1э",
     "type": "noun",
     "ipa": "pχat͡sʼaːt͡ʃa"
   },
@@ -34735,7 +34987,7 @@
       "къэшъон",
       "----"
     ],
-    "cognate": "джэгун",
+    "kabardian": "джэгун",
     "type": "verb",
     "ipa": "wd͡ʒən"
   },
@@ -34748,7 +35000,7 @@
         "examples": []
       }
     ],
-    "cognate": "лъапц1э",
+    "kabardian": "лъапц1э",
     "type": "adj",
     "ipa": "ɬaːpsʼa"
   },
@@ -34773,7 +35025,7 @@
     "synonyms": [
       "нэпэ"
     ],
-    "cognate": "нобэ",
+    "kabardian": "нобэ",
     "type": "adv",
     "ipa": "najpa"
   },
@@ -34786,7 +35038,7 @@
         "examples": []
       }
     ],
-    "cognate": "ныбгъуэ",
+    "kabardian": "ныбгъуэ",
     "type": "noun",
     "ipa": "nəbʁʷə"
   },
@@ -34846,7 +35098,7 @@
     "synonyms": [
       "жъабгъо"
     ],
-    "cognate": "ижь",
+    "kabardian": "ижь",
     "type": "noun",
     "ipa": "d͡ʒaːbʁʷa"
   },
@@ -34940,7 +35192,7 @@
     "synonyms": [
       "хьакъун"
     ],
-    "cognate": "гъуэгъуэн",
+    "kabardian": "гъуэгъуэн",
     "type": "verb",
     "ipa": "ʁʷaʁʷan"
   },
@@ -35015,7 +35267,7 @@
         "examples": []
       }
     ],
-    "cognate": "гуэдз",
+    "kabardian": "гуэдз",
     "type": "noun",
     "ipa": "kʷat͡sə"
   },
@@ -35028,7 +35280,7 @@
         "examples": []
       }
     ],
-    "cognate": "гуахъуэ",
+    "kabardian": "гуахъуэ",
     "type": "noun",
     "ipa": "kʷaːχʷa"
   },
@@ -35044,7 +35296,7 @@
     "synonyms": [
       "мэчэрэзын"
     ],
-    "cognate": "мэджэрэзын",
+    "kabardian": "мэджэрэзын",
     "type": "verb",
     "ipa": "makʲarazən"
   },
@@ -35060,7 +35312,7 @@
     "synonyms": [
       "лъэк1ьап1э"
     ],
-    "cognate": "лъэнк1ап1э",
+    "kabardian": "лъэнк1ап1э",
     "type": "noun",
     "ipa": "ɬat͡ʃaːpʼ"
   },
@@ -35073,7 +35325,7 @@
         "examples": []
       }
     ],
-    "cognate": "ук1ын",
+    "kabardian": "ук1ын",
     "type": "verb",
     "ipa": "wkʲʼən"
   },
@@ -35213,7 +35465,7 @@
         "examples": []
       }
     ],
-    "cognate": "хун",
+    "kabardian": "хун",
     "type": "verb",
     "ipa": "fən"
   },
@@ -35280,7 +35532,7 @@
     "synonyms": [
       "къэхьын"
     ],
-    "cognate": "лъхуэн",
+    "kabardian": "лъхуэн",
     "type": "verb",
     "ipa": "ɬfan"
   },
@@ -35293,7 +35545,7 @@
         "examples": []
       }
     ],
-    "cognate": "шэху",
+    "kabardian": "шэху",
     "type": "noun",
     "ipa": "ʃafə"
   },
@@ -35409,7 +35661,7 @@
         "examples": []
       }
     ],
-    "cognate": "хъуэжэн",
+    "kabardian": "хъуэжэн",
     "type": "verb",
     "ipa": "χʷaʑən"
   },
@@ -35539,7 +35791,7 @@
         ]
       }
     ],
-    "cognate": "щхьэгъусэ",
+    "kabardian": "щхьэгъусэ",
     "type": "noun",
     "ipa": "ʂħaʁʷəsa"
   },
@@ -35614,7 +35866,7 @@
         "examples": []
       }
     ],
-    "cognate": "бдзэ",
+    "kabardian": "бдзэ",
     "type": "noun",
     "ipa": "pt͡sa"
   },
@@ -35627,7 +35879,7 @@
         "examples": []
       }
     ],
-    "cognate": "пц1ы",
+    "kabardian": "пц1ы",
     "type": "noun",
     "ipa": "pt͡sˤʼə"
   },
@@ -35702,7 +35954,7 @@
         "examples": []
       }
     ],
-    "cognate": "къугъын",
+    "kabardian": "къугъын",
     "type": "verb",
     "ipa": "pt͡sʼawəm"
   },
@@ -35732,7 +35984,7 @@
         ]
       }
     ],
-    "cognate": "дзэкъэн",
+    "kabardian": "дзэкъэн",
     "type": "verb",
     "ipa": "t͡saqan"
   },
@@ -35749,7 +36001,7 @@
         "examples": []
       }
     ],
-    "cognate": "к1ыхь",
+    "kabardian": "к1ыхь",
     "type": "adj",
     "ipa": "t͡ʃʼəħa"
   },
@@ -35770,7 +36022,7 @@
         "examples": []
       }
     ],
-    "cognate": "жы1эн",
+    "kabardian": "жы1эн",
     "type": "verb",
     "ipa": "ʔʷan"
   },
@@ -35877,7 +36129,7 @@
         "examples": []
       }
     ],
-    "cognate": "дыркъуэ",
+    "kabardian": "дыркъуэ",
     "type": "noun",
     "ipa": "tərqʷa"
   },
@@ -35894,7 +36146,7 @@
         "examples": []
       }
     ],
-    "cognate": "дакъэ",
+    "kabardian": "дакъэ",
     "type": "noun",
     "ipa": "taːqa"
   },
@@ -35944,7 +36196,7 @@
         ]
       }
     ],
-    "cognate": "къитхъун",
+    "kabardian": "къитхъун",
     "type": "verb",
     "ipa": "tχʷən"
   },
@@ -35957,7 +36209,7 @@
         "examples": []
       }
     ],
-    "cognate": "дыгъурыгъу",
+    "kabardian": "дыгъурыгъу",
     "type": "noun",
     "ipa": "təʁʷrəʁʷə"
   },
@@ -36002,7 +36254,7 @@
     "synonyms": [
       "лъэуж"
     ],
-    "cognate": "ужьэ",
+    "kabardian": "ужьэ",
     "type": "noun",
     "ipa": "wʒə"
   },
@@ -36028,7 +36280,7 @@
         ]
       }
     ],
-    "cognate": "нэщ1",
+    "kabardian": "нэщ1",
     "type": "adj",
     "ipa": "nat͡ʃʼə"
   },
@@ -36066,7 +36318,7 @@
         ]
       }
     ],
-    "cognate": "щэхун",
+    "kabardian": "щэхун",
     "type": "verb",
     "ipa": "ɕafən"
   },
@@ -36098,7 +36350,7 @@
     "synonyms": [
       "хьэблыу"
     ],
-    "cognate": "хьэмбылыу",
+    "kabardian": "хьэмбылыу",
     "type": "noun",
     "ipa": "ħamləw"
   },
@@ -36155,7 +36407,7 @@
     "synonyms": [
       "гык1ын"
     ],
-    "cognate": "жьыщ1эн",
+    "kabardian": "жьыщ1эн",
     "type": "verb",
     "ipa": "ɣət͡ʃʼan"
   },
@@ -36180,7 +36432,7 @@
     "synonyms": [
       "гык1эн"
     ],
-    "cognate": "жьыщ1эн",
+    "kabardian": "жьыщ1эн",
     "type": "verb",
     "ipa": "ɣət͡ʃən"
   },
@@ -36214,7 +36466,7 @@
       "к1ьако (short)",
       "сако (jacket)"
     ],
-    "cognate": "к1агуэ (short); цакуэ (jacket)",
+    "kabardian": "к1агуэ (short); цакуэ (jacket)",
     "type": "adj",
     "ipa": "t͡ʃʼaːkʷa"
   },
@@ -36227,7 +36479,7 @@
         "examples": []
       }
     ],
-    "cognate": "хугу",
+    "kabardian": "хугу",
     "type": "noun",
     "ipa": "fəɡʷ"
   },
@@ -36240,7 +36492,7 @@
         "examples": []
       }
     ],
-    "cognate": "хьэщхьэры1уэ",
+    "kabardian": "хьэщхьэры1уэ",
     "type": "adj",
     "ipa": "ħaʃχʷəraʔʷ"
   },
@@ -36273,7 +36525,7 @@
     "synonyms": [
       "гъэсэк1эн"
     ],
-    "cognate": "гъэзэщ1эн",
+    "kabardian": "гъэзэщ1эн",
     "type": "verb",
     "ipa": "ʁat͡sat͡ʃan"
   },
@@ -36306,7 +36558,7 @@
       "гьэч",
       "гьэш"
     ],
-    "cognate": "джэш",
+    "kabardian": "джэш",
     "type": "noun",
     "ipa": "d͡ʒant͡ʃə"
   },
@@ -36323,7 +36575,7 @@
         "examples": []
       }
     ],
-    "cognate": "къуаншэ",
+    "kabardian": "къуаншэ",
     "type": "adj",
     "ipa": "qʷant͡sʼaw"
   },
@@ -36344,7 +36596,7 @@
         "examples": []
       }
     ],
-    "cognate": "пщтыр",
+    "kabardian": "пщтыр",
     "type": "adj",
     "ipa": "stər"
   },
@@ -36357,7 +36609,7 @@
         "examples": []
       }
     ],
-    "cognate": "щ1ык1аф1э",
+    "kabardian": "щ1ык1аф1э",
     "type": "noun",
     "ipa": "ʃʼət͡ʃʼaːʃʷʼ"
   },
@@ -36395,7 +36647,7 @@
     "synonyms": [
       "ш1ык1ьэ"
     ],
-    "cognate": "щ1ык1э",
+    "kabardian": "щ1ык1э",
     "type": "noun",
     "ipa": "ʃʼət͡ʃʼa"
   },
@@ -36412,7 +36664,7 @@
         "examples": []
       }
     ],
-    "cognate": "ф1ыщ1э",
+    "kabardian": "ф1ыщ1э",
     "type": "noun",
     "ipa": "ʃʷʼəʃʼa"
   },
@@ -36425,7 +36677,7 @@
         "examples": []
       }
     ],
-    "cognate": "гуф1ак1э",
+    "kabardian": "гуф1ак1э",
     "type": "noun",
     "ipa": "ɡʷəʒʷaːt͡ʃa"
   },
@@ -36438,7 +36690,7 @@
         "examples": []
       }
     ],
-    "cognate": "щ1эныгъэ",
+    "kabardian": "щ1эныгъэ",
     "type": "noun",
     "ipa": "ʃʼanəʁa"
   },
@@ -36475,7 +36727,7 @@
         "examples": []
       }
     ],
-    "cognate": "мэпсэлъэн",
+    "kabardian": "мэпсэлъэн",
     "type": "verb",
     "ipa": "maɡʷɕəʔan"
   },
@@ -36692,7 +36944,7 @@
         "examples": []
       }
     ],
-    "cognate": "щэбэт",
+    "kabardian": "щэбэт",
     "type": "noun",
     "ipa": "ʃambat"
   },
@@ -36844,7 +37096,7 @@
         "examples": []
       }
     ],
-    "cognate": "хъулъхугъэ",
+    "kabardian": "хъулъхугъэ",
     "type": "noun",
     "ipa": "χʷəɬfəʁa"
   },
@@ -37035,7 +37287,7 @@
     "synonyms": [
       "кущэрэхъ"
     ],
-    "cognate": "шэрэхъ",
+    "kabardian": "шэрэхъ",
     "type": "noun",
     "ipa": "ɕaraχ"
   },
@@ -37052,7 +37304,7 @@
       "псыхъурай",
       "хыкум"
     ],
-    "cognate": "гуэл",
+    "kabardian": "гуэл",
     "type": "noun",
     "ipa": "xəqʷəma"
   },
@@ -38052,7 +38304,7 @@
       "игъуадж",
       "гъэны"
     ],
-    "cognate": "мыгъуэ",
+    "kabardian": "мыгъуэ",
     "type": "adj",
     "ipa": "məʁʷa"
   },
@@ -38259,7 +38511,7 @@
         ]
       }
     ],
-    "cognate": "пуд",
+    "kabardian": "пуд",
     "type": "adj",
     "ipa": "pəwtə"
   },
@@ -38385,7 +38637,7 @@
         ]
       }
     ],
-    "cognate": "гъэвэн",
+    "kabardian": "гъэвэн",
     "type": "verb",
     "ipa": "ʁaʒʷan"
   },
@@ -38450,7 +38702,7 @@
       "къэшъон",
       "----"
     ],
-    "cognate": "уджын",
+    "kabardian": "уджын",
     "type": "verb",
     "ipa": "d͡ʒaɡʷən"
   },
@@ -38484,7 +38736,7 @@
         "examples": []
       }
     ],
-    "cognate": "дыдж",
+    "kabardian": "дыдж",
     "type": "adj",
     "ipa": "dəd͡ʒə"
   },
@@ -38727,7 +38979,7 @@
     "synonyms": [
       "бзэхын"
     ],
-    "cognate": "к1уэдын",
+    "kabardian": "к1уэдын",
     "type": "verb",
     "ipa": "kʷʼadən"
   },
@@ -38836,7 +39088,7 @@
         "examples": []
       }
     ],
-    "cognate": "щ1эупщ1эн",
+    "kabardian": "щ1эупщ1эн",
     "type": "verb",
     "ipa": "t͡ʃʼawpt͡ʃʼan"
   },
@@ -38862,7 +39114,7 @@
         ]
       }
     ],
-    "cognate": "щ1эупщ1эн",
+    "kabardian": "щ1эупщ1эн",
     "type": "verb",
     "ipa": "t͡ʃʼawpt͡ʂʼan"
   },
@@ -39984,7 +40236,7 @@
     "synonyms": [
       "угощын"
     ],
-    "cognate": "гуэшын",
+    "kabardian": "гуэшын",
     "type": "verb",
     "ipa": "ɡʷaɕən"
   },
@@ -40078,7 +40330,7 @@
         ]
       }
     ],
-    "cognate": "гупсысэн",
+    "kabardian": "гупсысэн",
     "type": "verb",
     "ipa": "ɡʷəpʃəsan"
   },
@@ -40584,7 +40836,7 @@
         ]
       }
     ],
-    "cognate": "хуэгъэгъун",
+    "kabardian": "хуэгъэгъун",
     "type": "verb",
     "ipa": "faʁaʁʷən"
   },
@@ -41595,7 +41847,7 @@
         "examples": []
       }
     ],
-    "cognate": "нэмщ1ыр",
+    "kabardian": "нэмщ1ыр",
     "type": "adj",
     "ipa": "namt͡ʃʼər"
   },
@@ -41760,7 +42012,7 @@
     "synonyms": [
       "гъэчэрэзын"
     ],
-    "cognate": "гъэджэрэзын",
+    "kabardian": "гъэджэрэзын",
     "type": "verb",
     "ipa": "ʁakʲarazən"
   },
@@ -41848,7 +42100,7 @@
         ]
       }
     ],
-    "cognate": "хуэд",
+    "kabardian": "хуэд",
     "type": "adv",
     "ipa": "fad"
   },
@@ -42160,7 +42412,7 @@
         ]
       }
     ],
-    "cognate": "уэд",
+    "kabardian": "уэд",
     "type": "adj",
     "ipa": "wadə"
   },
@@ -42348,7 +42600,7 @@
     "synonyms": [
       "гъэш1эгъон"
     ],
-    "cognate": "гъэщ1эгъуэн",
+    "kabardian": "гъэщ1эгъуэн",
     "type": "adj",
     "ipa": "ʁaʃʼaʁʷanə"
   },
@@ -42438,7 +42690,7 @@
     "synonyms": [
       "шъэогъу"
     ],
-    "cognate": "гъусэ",
+    "kabardian": "гъусэ",
     "type": "noun",
     "ipa": "nəbd͡ʒaʁʷ"
   },
@@ -42569,7 +42821,7 @@
         ]
       }
     ],
-    "cognate": "дэнэ",
+    "kabardian": "дэнэ",
     "type": "adv",
     "ipa": "təda"
   },
@@ -42582,7 +42834,7 @@
         "examples": []
       }
     ],
-    "cognate": "дэнэ",
+    "kabardian": "дэнэ",
     "type": "adv",
     "ipa": "tada"
   },
@@ -42768,7 +43020,7 @@
         "examples": []
       }
     ],
-    "cognate": "щ1ыб",
+    "kabardian": "щ1ыб",
     "type": "noun",
     "ipa": "t͡ʃʼəb"
   },
@@ -42967,7 +43219,7 @@
         ]
       }
     ],
-    "cognate": "тхьэщ1ын",
+    "kabardian": "тхьэщ1ын",
     "type": "verb",
     "ipa": "tħat͡ʃən"
   },
@@ -43000,7 +43252,7 @@
       "лъэрыгъачъэ",
       "лъэкъорыгъачъэ"
     ],
-    "cognate": "лъакъуэрыгъажэ",
+    "kabardian": "лъакъуэрыгъажэ",
     "type": "noun",
     "ipa": "kʷəʂħafaːt͡ʂa"
   },
@@ -43142,7 +43394,7 @@
     "synonyms": [
       "нэ1аплъэк1"
     ],
-    "cognate": "нэ1аплъэщ1",
+    "kabardian": "нэ1аплъэщ1",
     "type": "noun",
     "ipa": "ʔapɬat͡ʃ"
   },
@@ -43420,7 +43672,7 @@
         ]
       }
     ],
-    "cognate": "хуеин",
+    "kabardian": "хуеин",
     "type": "verb",
     "ipa": "fajan"
   },
@@ -43619,7 +43871,7 @@
     "synonyms": [
       "къины"
     ],
-    "cognate": "гугъу",
+    "kabardian": "гугъу",
     "type": "adj",
     "ipa": "ħəɬa"
   },
@@ -43661,7 +43913,7 @@
         ]
       }
     ],
-    "cognate": "гуры1уэн",
+    "kabardian": "гуры1уэн",
     "type": "verb",
     "ipa": "ɡʷərəʔʷan"
   },
@@ -43999,41 +44251,7 @@
     "ipa": "ʔʷət͡ʃan"
   },
   {
-    "word": "тефэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to come across; to encounter coincidentally; to meet someone coincidentally",
-        "examples": [
-          {
-            "sentence": "К1алэм пшъашъэр '''тефагъ'''",
-            "translation": "The boy '''came across''' the girl."
-          },
-          {
-            "sentence": "Пшъашъэр '''къэстефагъ'''",
-            "translation": "I '''came across''' the girl."
-          },
-          {
-            "sentence": "Л1ым итхьэматэ урамым '''тефагъ'''",
-            "translation": "The man '''encountered''' his boss on the street."
-          }
-        ]
-      },
-      {
-        "meaning": "to hit something (the impact of hitting by falling/dropping)",
-        "examples": [
-          {
-            "sentence": "Мыжъор унэм '''тефагъ'''",
-            "translation": "The rock '''hit''' the house."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "tajfan"
-  },
-  {
-    "word": "тэчъын",
+    "word": "течъын",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -44228,7 +44446,7 @@
       "бэгъуаз",
       "кутлэ"
     ],
-    "cognate": "кхъухьтедзап1э",
+    "kabardian": "кхъухьтедзап1э",
     "type": "noun",
     "ipa": "qʷəħawt͡sʷəpʼa"
   },
@@ -44245,7 +44463,7 @@
       "бэгъуаз",
       "кутлэ"
     ],
-    "cognate": "кхъухьтедзап1э",
+    "kabardian": "кхъухьтедзап1э",
     "type": "noun",
     "ipa": "qʷəħa wt͡sʷəpʼa"
   },
@@ -44727,7 +44945,7 @@
     "synonyms": [
       "гъунэ"
     ],
-    "cognate": "нэз",
+    "kabardian": "нэз",
     "type": "noun",
     "ipa": "ʁʷənaːpqa"
   },
@@ -44866,7 +45084,7 @@
       "ш1эхын",
       "хъыжъэн"
     ],
-    "cognate": "гузэвэн",
+    "kabardian": "гузэвэн",
     "type": "verb",
     "ipa": "ɡʷəzaʒʷan"
   },
@@ -44908,7 +45126,7 @@
       "псык1э",
       "псынк1э"
     ],
-    "cognate": "псынщ1э",
+    "kabardian": "псынщ1э",
     "type": "adj",
     "ipa": "t͡ʃəkʲaːj"
   },
@@ -45356,7 +45574,7 @@
     "synonyms": [
       "гъошэгь"
     ],
-    "cognate": "гъуэншэдж",
+    "kabardian": "гъуэншэдж",
     "type": "noun",
     "ipa": "ʁʷant͡ʃad͡ʒ"
   },
@@ -45457,7 +45675,7 @@
     "synonyms": [
       "цэлъэк1алъэ"
     ],
-    "cognate": "дзэлъэщ1",
+    "kabardian": "дзэлъэщ1",
     "type": "noun",
     "ipa": "t͡saɬat͡ʃ"
   },
@@ -45744,7 +45962,7 @@
         "examples": []
       }
     ],
-    "cognate": "щ1ы1э",
+    "kabardian": "щ1ы1э",
     "type": "noun",
     "ipa": "t͡ʂəʔa"
   },
@@ -46004,13 +46222,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "tool",
-        "examples": [
-          {
-            "sentence": "'''1эмэ-псымэхэр''' тыдэ щы1эха?",
-            "translation": "Where are '''the tools'''?"
-          }
-        ]
+        "meaning": "alternative form of \"1эмэ-псым\"",
+        "examples": []
       }
     ],
     "type": "noun",
@@ -46290,7 +46503,7 @@
         ]
       }
     ],
-    "cognate": "зэшын",
+    "kabardian": "зэшын",
     "type": "verb",
     "ipa": "zaɕən"
   },
@@ -46474,7 +46687,7 @@
         "examples": []
       }
     ],
-    "cognate": "лъэщ",
+    "kabardian": "лъэщ",
     "type": "adj",
     "ipa": "ɬaʃə"
   },
@@ -46999,7 +47212,7 @@
         "examples": []
       }
     ],
-    "cognate": "псэлъыхъун",
+    "kabardian": "псэлъыхъун",
     "type": "verb",
     "ipa": "psaɬəχʷən"
   },
@@ -47036,7 +47249,7 @@
         ]
       }
     ],
-    "cognate": "занщ1эу",
+    "kabardian": "занщ1эу",
     "type": "adv",
     "ipa": "zaːnt͡ʃaw"
   },
@@ -47077,7 +47290,7 @@
     "synonyms": [
       "пэмэн"
     ],
-    "cognate": "епэмын",
+    "kabardian": "епэмын",
     "type": "verb",
     "ipa": "faman"
   },
@@ -47110,7 +47323,7 @@
     "synonyms": [
       "фэмэн"
     ],
-    "cognate": "епэмын",
+    "kabardian": "епэмын",
     "type": "verb",
     "ipa": "paman"
   },
@@ -47781,7 +47994,7 @@
     "synonyms": [
       "лъэпхъабэ"
     ],
-    "cognate": "лъэпхъуамбэ",
+    "kabardian": "лъэпхъуамбэ",
     "type": "noun",
     "ipa": "ɬaχʷaːmba"
   },
@@ -47797,7 +48010,7 @@
     "synonyms": [
       "1эпхъабэ"
     ],
-    "cognate": "1эпхъуамбэ",
+    "kabardian": "1эпхъуамбэ",
     "type": "noun",
     "ipa": "ʔaχʷaːmba"
   },
@@ -47840,7 +48053,7 @@
     "synonyms": [
       "бзыу"
     ],
-    "cognate": "джэдкъаз",
+    "kabardian": "джэдкъаз",
     "type": "noun",
     "ipa": "qʷalabzəw"
   },
@@ -48130,7 +48343,7 @@
     "synonyms": [
       "зэпыун"
     ],
-    "cognate": "увын",
+    "kabardian": "увын",
     "type": "verb",
     "ipa": "wt͡ʃʷən"
   },
@@ -48256,7 +48469,7 @@
         "examples": []
       }
     ],
-    "cognate": "ук1ытэн",
+    "kabardian": "ук1ытэн",
     "type": "verb",
     "ipa": "wəkʲʼətan"
   },
@@ -49946,7 +50159,7 @@
         "examples": []
       }
     ],
-    "cognate": "к1асэ",
+    "kabardian": "к1асэ",
     "type": "adj",
     "ipa": "kʲʼaːsa"
   },
@@ -50335,7 +50548,7 @@
         "examples": []
       }
     ],
-    "cognate": "нэхъ",
+    "kabardian": "нэхъ",
     "type": "adv",
     "ipa": "naːħ"
   },
@@ -50713,7 +50926,7 @@
         ]
       }
     ],
-    "cognate": "ныбжьэгъу",
+    "kabardian": "ныбжьэгъу",
     "type": "noun",
     "ipa": "laʁʷ"
   },
@@ -50854,7 +51067,7 @@
         ]
       }
     ],
-    "cognate": "гуф1эн",
+    "kabardian": "гуф1эн",
     "type": "verb",
     "ipa": "ɡʷəʃʷʼan"
   },
@@ -51033,7 +51246,7 @@
     "synonyms": [
       "пк1ыхьап1"
     ],
-    "cognate": "пщ1ыхьап1э",
+    "kabardian": "пщ1ыхьап1э",
     "type": "noun",
     "ipa": "pt͡ʃəħ"
   },
@@ -51081,7 +51294,7 @@
     "synonyms": [
       "пк1ыхь"
     ],
-    "cognate": "пщ1ыхьап1э",
+    "kabardian": "пщ1ыхьап1э",
     "type": "noun",
     "ipa": "pt͡ʃəħaːpʼ"
   },
@@ -52084,7 +52297,7 @@
     "synonyms": [
       "ешъорый"
     ],
-    "cognate": "ефак1уэ",
+    "kabardian": "ефак1уэ",
     "type": "noun",
     "ipa": "jaʃʷʼaːkʷʼa"
   },
@@ -52395,7 +52608,7 @@
     "synonyms": [
       "ш1ык1э"
     ],
-    "cognate": "щ1ык1э",
+    "kabardian": "щ1ык1э",
     "type": "noun",
     "ipa": "ʃʼəkʲʼa"
   },
@@ -52447,7 +52660,7 @@
       "к1эух",
       "гъунапкъэ"
     ],
-    "cognate": "нэз",
+    "kabardian": "нэз",
     "type": "noun",
     "ipa": "ʁʷəna"
   },
@@ -52490,7 +52703,7 @@
         "examples": []
       }
     ],
-    "cognate": "гъуэмылапхъэ",
+    "kabardian": "гъуэмылапхъэ",
     "type": "noun",
     "ipa": "ʁʷaməlaːpχa"
   },
@@ -52724,7 +52937,7 @@
         "examples": []
       }
     ],
-    "cognate": "акъыл",
+    "kabardian": "акъыл",
     "type": "adj",
     "ipa": "ʔʷəʃ"
   },
@@ -52980,7 +53193,7 @@
         "examples": []
       }
     ],
-    "cognate": "хуэгуэшын",
+    "kabardian": "хуэгуэшын",
     "type": "verb",
     "ipa": "wəɡʷaɕən"
   },
@@ -53763,7 +53976,7 @@
     "synonyms": [
       "джэгъун"
     ],
-    "cognate": "ужэгъун",
+    "kabardian": "ужэгъун",
     "type": "verb",
     "ipa": "wəd͡ʒaʁʷən"
   },
@@ -53947,7 +54160,7 @@
     "synonyms": [
       "к1алэ"
     ],
-    "cognate": "щауэ",
+    "kabardian": "щауэ",
     "type": "noun",
     "ipa": "ʂawa"
   },
@@ -54047,7 +54260,7 @@
         "examples": []
       }
     ],
-    "cognate": "ф1эщ",
+    "kabardian": "ф1эщ",
     "type": "noun",
     "ipa": "ʃʷʼaʃʷ"
   },
@@ -54322,7 +54535,7 @@
         "examples": []
       }
     ],
-    "cognate": "щ1элэгъу",
+    "kabardian": "щ1элэгъу",
     "type": "noun",
     "ipa": "t͡ʃalaʁʷ"
   },
@@ -54474,7 +54687,7 @@
         ]
       }
     ],
-    "cognate": "дыхьэшхын",
+    "kabardian": "дыхьэшхын",
     "type": "verb",
     "ipa": "daħaːɕxən"
   },
@@ -54570,7 +54783,7 @@
         "examples": []
       }
     ],
-    "cognate": "лъэбакъуэ",
+    "kabardian": "лъэбакъуэ",
     "type": "noun",
     "ipa": "ɬabaːqʷ"
   },
@@ -54583,7 +54796,7 @@
         "examples": []
       }
     ],
-    "cognate": "лъэбакъуэ",
+    "kabardian": "лъэбакъуэ",
     "type": "noun",
     "ipa": "ɬawbaːqʷ"
   },
@@ -55152,7 +55365,7 @@
         ]
       }
     ],
-    "cognate": "к1э",
+    "kabardian": "к1э",
     "type": "noun",
     "ipa": "kʲʼa"
   },
@@ -55632,7 +55845,7 @@
     "synonyms": [
       "нэущы"
     ],
-    "cognate": "пщэдей",
+    "kabardian": "пщэдей",
     "type": "adv",
     "ipa": "newɕə"
   },
@@ -55766,7 +55979,7 @@
         ]
       }
     ],
-    "cognate": "бзаджэ",
+    "kabardian": "бзаджэ",
     "type": "adj",
     "ipa": "t͡sʼaːpʼa"
   },
@@ -56498,7 +56711,7 @@
         "examples": []
       }
     ],
-    "cognate": "удж",
+    "kabardian": "удж",
     "type": "noun",
     "ipa": "wəɡʲ"
   },
@@ -57391,7 +57604,7 @@
         ]
       }
     ],
-    "cognate": "1уащхьэмахуэ",
+    "kabardian": "1уащхьэмахуэ",
     "type": "adj",
     "ipa": "ʔʷaːʂħamaːfa"
   },
@@ -57465,7 +57678,7 @@
         "examples": []
       }
     ],
-    "cognate": "тхьэ1ухуд",
+    "kabardian": "тхьэ1ухуд",
     "type": "adj",
     "ipa": "/tħaʔʷafət/"
   },
@@ -57494,7 +57707,7 @@
         "examples": []
       }
     ],
-    "cognate": "пщынауэ",
+    "kabardian": "пщынауэ",
     "type": "noun",
     "ipa": "pɕənaːwa"
   },
@@ -57519,7 +57732,7 @@
         "examples": []
       }
     ],
-    "cognate": "хьэ",
+    "kabardian": "хьэ",
     "type": "noun",
     "ipa": "ħaʐ"
   },
@@ -58015,7 +58228,7 @@
     "synonyms": [
       "пк1ант1э"
     ],
-    "cognate": "пщ1ат1э",
+    "kabardian": "пщ1ат1э",
     "type": "noun",
     "ipa": "pt͡ʃʼaːtʼa"
   },
@@ -58280,7 +58493,7 @@
       "бэгъуаз",
       "къухьэуцуп1э"
     ],
-    "cognate": "кхъухьтедзап1э",
+    "kabardian": "кхъухьтедзап1э",
     "type": "noun",
     "ipa": "kʷətla"
   },
@@ -59041,7 +59254,7 @@
         "examples": []
       }
     ],
-    "cognate": "хьэку",
+    "kabardian": "хьэку",
     "type": "noun",
     "ipa": "ħaːkʷ"
   },
@@ -59188,7 +59401,7 @@
       "нэфнэ",
       "нэфын"
     ],
-    "cognate": "нэху",
+    "kabardian": "нэху",
     "type": "noun",
     "ipa": "nafə"
   },
@@ -59344,9 +59557,9 @@
       }
     ],
     "synonyms": [
-      "хьэнчэмы1у"
+      "хьанчэмы1у"
     ],
-    "cognate": "шылъэгу",
+    "kabardian": "шылъэгу",
     "type": "noun",
     "ipa": "ħaːdapt͡ʃaməʔʷ"
   },
@@ -60510,7 +60723,7 @@
         ]
       }
     ],
-    "cognate": "хъужын",
+    "kabardian": "хъужын",
     "type": "verb",
     "ipa": "χʷəʑən"
   },
@@ -60612,7 +60825,7 @@
     "synonyms": [
       "къолай"
     ],
-    "cognate": "тынш",
+    "kabardian": "тынш",
     "type": "adj",
     "ipa": "ʔaʃʼax"
   },
@@ -60645,7 +60858,7 @@
     "synonyms": [
       "хьылъэ"
     ],
-    "cognate": "гугъу",
+    "kabardian": "гугъу",
     "type": "adj",
     "ipa": "qəjnə"
   },
@@ -60917,7 +61130,7 @@
     "synonyms": [
       "к1алэ"
     ],
-    "cognate": "щ1алэ",
+    "kabardian": "щ1алэ",
     "type": "noun",
     "ipa": "ʔʲaːla"
   },
@@ -61107,7 +61320,7 @@
         "examples": []
       }
     ],
-    "cognate": "унагъуэбзэ",
+    "kabardian": "унагъуэбзэ",
     "type": "noun",
     "ipa": "wənaːʁʷabza"
   },
@@ -61210,7 +61423,7 @@
     "synonyms": [
       "ч1ыгу"
     ],
-    "cognate": "щ1ылъэ",
+    "kabardian": "щ1ылъэ",
     "type": "noun",
     "ipa": "t͡ʃʼəɬa"
   },
@@ -61709,7 +61922,7 @@
         ]
       }
     ],
-    "cognate": "дэн",
+    "kabardian": "дэн",
     "type": "verb",
     "ipa": "dən"
   },
@@ -61731,7 +61944,7 @@
         ]
       }
     ],
-    "cognate": "шэджагъуэ",
+    "kabardian": "шэджагъуэ",
     "type": "noun",
     "ipa": "ɕad͡ʒaːʁʷa"
   },
@@ -61769,7 +61982,7 @@
       "унэгъуац1э",
       "л1экъуац1э"
     ],
-    "cognate": "л1экъуэц1э",
+    "kabardian": "л1экъуэц1э",
     "type": "noun",
     "ipa": "ɬaqʷaːt͡sʼa"
   },
@@ -61806,7 +62019,7 @@
         "examples": []
       }
     ],
-    "cognate": "щ1ы",
+    "kabardian": "щ1ы",
     "type": "noun",
     "ipa": "t͡ʂʼə"
   },
@@ -61841,7 +62054,7 @@
     "ipa": "t͡ʃʼamɡʷəja"
   },
   {
-    "word": "шык1эпшынэ",
+    "word": "шык1эпщынэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -62282,7 +62495,7 @@
         "examples": []
       }
     ],
-    "cognate": "бжы",
+    "kabardian": "бжы",
     "type": "noun",
     "ipa": "pt͡ʃə"
   },
@@ -62391,7 +62604,7 @@
       "фэш1",
       "фэш1к1э"
     ],
-    "cognate": "папщ1э",
+    "kabardian": "папщ1э",
     "type": "conj",
     "ipa": "paːja"
   },
@@ -62659,7 +62872,7 @@
         "examples": []
       }
     ],
-    "cognate": "хьэв",
+    "kabardian": "хьэв",
     "type": "noun",
     "ipa": "ħaʐʷ"
   },
@@ -62708,7 +62921,7 @@
         "examples": []
       }
     ],
-    "cognate": "шу",
+    "kabardian": "шу",
     "type": "noun",
     "ipa": "ʃəw"
   },
@@ -62875,7 +63088,7 @@
         ]
       }
     ],
-    "cognate": "гъэджэрэзын",
+    "kabardian": "гъэджэрэзын",
     "type": "verb",
     "ipa": "ʁat͡ʃarazən"
   },
@@ -63021,7 +63234,7 @@
         "examples": []
       }
     ],
-    "cognate": "к1э",
+    "kabardian": "к1э",
     "type": "noun",
     "ipa": "kʲa"
   },
@@ -63405,7 +63618,7 @@
         ]
       }
     ],
-    "cognate": "жы1эн",
+    "kabardian": "жы1эн",
     "type": "verb",
     "ipa": "maɡʷɕəʔan"
   },
@@ -63551,7 +63764,7 @@
       "куамэ",
       "къуамэ"
     ],
-    "cognate": "гуанэ",
+    "kabardian": "гуанэ",
     "type": "noun",
     "ipa": "qʷətaːma"
   },
@@ -63628,7 +63841,7 @@
         ]
       }
     ],
-    "cognate": "щхьэхын",
+    "kabardian": "щхьэхын",
     "type": "verb",
     "ipa": "ʂħaːxən"
   },
@@ -63660,7 +63873,7 @@
         ]
       }
     ],
-    "cognate": "гуф1агъуэ",
+    "kabardian": "гуф1агъуэ",
     "type": "noun",
     "ipa": "ɡʷəʃʷʼaːʁʷa"
   },
@@ -63835,7 +64048,7 @@
         "examples": []
       }
     ],
-    "cognate": "гъуэмыл",
+    "kabardian": "гъуэмыл",
     "type": "noun",
     "ipa": "ʁʷaməɮ"
   },
@@ -64206,7 +64419,7 @@
     "synonyms": [
       "къарыунчъэ"
     ],
-    "cognate": "махэ",
+    "kabardian": "махэ",
     "type": "adj",
     "ipa": "kʷʼaːt͡ʂʼaːd͡ʒ"
   },
@@ -64365,7 +64578,7 @@
         "examples": []
       }
     ],
-    "cognate": "п1этепхъуэ",
+    "kabardian": "п1этепхъуэ",
     "type": "noun",
     "ipa": "pʼateχʷa"
   },
@@ -64900,7 +65113,7 @@
         "examples": []
       }
     ],
-    "cognate": "къэбэкъауэ",
+    "kabardian": "къэбэкъауэ",
     "type": "noun",
     "ipa": "qabaqaːwa"
   },
@@ -65224,7 +65437,7 @@
         "examples": []
       }
     ],
-    "cognate": "пщыл1ыгъуэ",
+    "kabardian": "пщыл1ыгъуэ",
     "type": "noun",
     "ipa": "pɕəɬʼəʁʷa"
   },
@@ -65446,7 +65659,7 @@
         "examples": []
       }
     ],
-    "cognate": "гъуэгу махуэ",
+    "kabardian": "гъуэгу махуэ",
     "type": "intj",
     "ipa": "ʁʷaɡʷ maːf"
   },
@@ -65656,7 +65869,7 @@
     "synonyms": [
       "пхэндж"
     ],
-    "cognate": "пхэнж",
+    "kabardian": "пхэнж",
     "type": "adj",
     "ipa": "pxad͡ʒ"
   },
@@ -65724,7 +65937,7 @@
     "synonyms": [
       "чылэдэс"
     ],
-    "cognate": "жылэдэс",
+    "kabardian": "жылэдэс",
     "type": "noun",
     "ipa": "kʷajəl"
   },
@@ -65742,7 +65955,7 @@
         ]
       }
     ],
-    "cognate": "анэдэлъхубзэ",
+    "kabardian": "анэдэлъхубзэ",
     "type": "noun",
     "ipa": "nədaɬfəbza"
   },
@@ -65799,7 +66012,7 @@
     "synonyms": [
       "щыгуш1ук1ьын"
     ],
-    "cognate": "щыгуф1ык1ын",
+    "kabardian": "щыгуф1ык1ын",
     "type": "verb",
     "ipa": "ʃəɡʷəʃʷʼt͡ʃʼən"
   },
@@ -66046,7 +66259,7 @@
         ]
       }
     ],
-    "cognate": "фащэ",
+    "kabardian": "фащэ",
     "type": "noun",
     "ipa": "ʃʷaːʃa"
   },
@@ -66068,7 +66281,7 @@
         ]
       }
     ],
-    "cognate": "Бытырбыху",
+    "kabardian": "Бытырбыху",
     "type": "name",
     "ipa": "batərbəf"
   },
@@ -66105,7 +66318,7 @@
         "examples": []
       }
     ],
-    "cognate": "убжьытхэн",
+    "kabardian": "убжьытхэн",
     "type": "noun",
     "ipa": "maʒʷətxan"
   },
@@ -66322,7 +66535,7 @@
     "synonyms": [
       "ш1эн"
     ],
-    "cognate": "ц1ыхун",
+    "kabardian": "ц1ыхун",
     "type": "verb",
     "ipa": "ɕqan"
   },
@@ -66625,7 +66838,7 @@
         "examples": []
       }
     ],
-    "cognate": "к1апсэрык1уэ",
+    "kabardian": "к1апсэрык1уэ",
     "type": "noun",
     "ipa": "t͡ʃʼaːpsarəkʷʼa"
   },
@@ -68109,7 +68322,7 @@
     "synonyms": [
       "хьак1э"
     ],
-    "cognate": "хьащ1э",
+    "kabardian": "хьащ1э",
     "type": "noun",
     "ipa": "ħaːʔʲa"
   },
@@ -69038,7 +69251,7 @@
     "synonyms": [
       "хъэ"
     ],
-    "cognate": "кхъэ",
+    "kabardian": "кхъэ",
     "type": "noun",
     "ipa": "qa"
   },
@@ -69090,7 +69303,7 @@
         "examples": []
       }
     ],
-    "cognate": "ф1эхъус",
+    "kabardian": "ф1эхъус",
     "type": "intj",
     "ipa": "ʃʷʼəfas"
   },
@@ -69385,7 +69598,7 @@
       "нэпэон",
       "нэгушъо етын"
     ],
-    "cognate": "нэпэфэуэн",
+    "kabardian": "нэпэфэуэн",
     "type": "verb",
     "ipa": "napaʃʷawan"
   },
@@ -70318,7 +70531,7 @@
       "игъэсэн",
       "зэфэш1ын"
     ],
-    "cognate": "хуэщ1ын",
+    "kabardian": "хуэщ1ын",
     "type": "verb",
     "ipa": "faʃʼən"
   },
@@ -70389,7 +70602,7 @@
     "synonyms": [
       "щэмэгь"
     ],
-    "cognate": "шэмэдж",
+    "kabardian": "шэмэдж",
     "type": "noun",
     "ipa": "ɕamaɡʲʼ"
   },
@@ -70407,7 +70620,7 @@
         ]
       }
     ],
-    "cognate": "зэхэхуэн",
+    "kabardian": "зэхэхуэн",
     "type": "verb",
     "ipa": "zaxafan"
   },
@@ -70823,7 +71036,7 @@
     "synonyms": [
       "гуш1он"
     ],
-    "cognate": "дыхьэшхын",
+    "kabardian": "дыхьэшхын",
     "type": "verb",
     "ipa": "dəħaɕxən"
   },
@@ -70839,7 +71052,7 @@
     "synonyms": [
       "щыгуш1ук1ьын"
     ],
-    "cognate": "щыдыхьэшхын",
+    "kabardian": "щыдыхьэшхын",
     "type": "verb",
     "ipa": "ɕədəħaɕxən"
   },
@@ -70861,7 +71074,7 @@
         ]
       }
     ],
-    "cognate": "щыдыхьэшхын",
+    "kabardian": "щыдыхьэшхын",
     "type": "verb",
     "ipa": "ɕədəħaɕxən"
   },
@@ -71705,7 +71918,7 @@
         "examples": []
       }
     ],
-    "cognate": "дыхьэшх",
+    "kabardian": "дыхьэшх",
     "type": "noun",
     "ipa": "daħaːɕx"
   },
@@ -71819,7 +72032,7 @@
         "examples": []
       }
     ],
-    "cognate": "жэщтеу",
+    "kabardian": "жэщтеу",
     "type": "noun",
     "ipa": "t͡ʃaɕtajw"
   },
@@ -72050,7 +72263,7 @@
         "examples": []
       }
     ],
-    "cognate": "хъыджэбз",
+    "kabardian": "хъыджэбз",
     "type": "noun",
     "ipa": "pʂaʂaʐəj"
   },
@@ -72697,7 +72910,7 @@
     "synonyms": [
       "гъэш1эгъоны"
     ],
-    "cognate": "гъэщ1эгъуэн",
+    "kabardian": "гъэщ1эгъуэн",
     "type": "adj",
     "ipa": "ʁaʃʼaəʁʷan"
   },
@@ -72734,7 +72947,7 @@
         "examples": []
       }
     ],
-    "cognate": "псалъэ",
+    "kabardian": "псалъэ",
     "type": "noun",
     "ipa": "ɡʷəɕaːʔa"
   },
@@ -72768,7 +72981,7 @@
         "examples": []
       }
     ],
-    "cognate": "щы1эц1э",
+    "kabardian": "щы1эц1э",
     "type": "noun",
     "ipa": "pqəʁʷaːt͡sʼ"
   },
@@ -72901,7 +73114,7 @@
         "examples": []
       }
     ],
-    "cognate": "пычын",
+    "kabardian": "пычын",
     "type": "verb",
     "ipa": "pəkʲən"
   },
@@ -72929,7 +73142,7 @@
     "synonyms": [
       "щаибжъэ"
     ],
-    "cognate": "шае",
+    "kabardian": "шае",
     "type": "noun",
     "ipa": "ɕaːja"
   },
@@ -73241,7 +73454,7 @@
     "synonyms": [
       "1эплъэк1"
     ],
-    "cognate": "нэ1аплъэщ1",
+    "kabardian": "нэ1аплъэщ1",
     "type": "noun",
     "ipa": "naʔaːpɬat͡ʃʼ"
   },
@@ -73258,7 +73471,7 @@
         ]
       }
     ],
-    "cognate": "л1о",
+    "kabardian": "л1о",
     "type": "pron",
     "ipa": "ɬʼaw"
   },
@@ -73275,7 +73488,7 @@
       "л1эу",
       "сыд"
     ],
-    "cognate": "сыт",
+    "kabardian": "сыт",
     "type": "pron",
     "ipa": "ʂəd"
   },
@@ -73423,7 +73636,7 @@
       "нэпэшъоон",
       "нэгушъо етын"
     ],
-    "cognate": "нэпэуэн",
+    "kabardian": "нэпэуэн",
     "type": "verb",
     "ipa": "napawan"
   },
@@ -73439,7 +73652,7 @@
     "synonyms": [
       "нэпэшъоон"
     ],
-    "cognate": "нэпэуэн",
+    "kabardian": "нэпэуэн",
     "type": "verb",
     "ipa": "napawan"
   },
@@ -73715,7 +73928,7 @@
         "examples": []
       }
     ],
-    "cognate": "щауэ",
+    "kabardian": "щауэ",
     "type": "noun",
     "ipa": "ʂaːwa"
   },
@@ -73817,7 +74030,7 @@
     "synonyms": [
       "лъэк1ап1э"
     ],
-    "cognate": "лъэнк1ап1э",
+    "kabardian": "лъэнк1ап1э",
     "type": "noun",
     "ipa": "ɬakʲʼaːpʼa"
   },
@@ -73842,7 +74055,7 @@
     "synonyms": [
       "шъхьэк1ьэ"
     ],
-    "cognate": "щхьэк1э",
+    "kabardian": "щхьэк1э",
     "type": "adv",
     "ipa": "ʂħaːt͡ʃʼa"
   },
@@ -73881,7 +74094,7 @@
       "пае",
       "фэш1"
     ],
-    "cognate": "папщ1э",
+    "kabardian": "папщ1э",
     "type": "conj",
     "ipa": "faʃʼət͡ʃʼa"
   },
@@ -74094,7 +74307,7 @@
         "examples": []
       }
     ],
-    "cognate": "щэныншэ",
+    "kabardian": "щэныншэ",
     "type": "adj",
     "ipa": "ʃant͡ʂa"
   },
@@ -74162,7 +74375,7 @@
     "synonyms": [
       "орэда1у"
     ],
-    "cognate": "уэрэджы1ак1уэ",
+    "kabardian": "уэрэджы1ак1уэ",
     "type": "noun",
     "ipa": "waradəʔʷ"
   },
@@ -74498,7 +74711,7 @@
         ]
       }
     ],
-    "cognate": "щапхъэ",
+    "kabardian": "щапхъэ",
     "type": "noun",
     "ipa": "ɕəsa"
   },
@@ -74516,7 +74729,7 @@
         ]
       }
     ],
-    "cognate": "ущыгун",
+    "kabardian": "ущыгун",
     "type": "noun",
     "ipa": "wəɕəɡʷən"
   },
@@ -74562,7 +74775,7 @@
     "synonyms": [
       "псэори"
     ],
-    "cognate": "псори",
+    "kabardian": "псори",
     "type": "adv",
     "ipa": "pstawri"
   },
@@ -74578,7 +74791,7 @@
     "synonyms": [
       "пстэури"
     ],
-    "cognate": "псори",
+    "kabardian": "псори",
     "type": "adv",
     "ipa": "psawari"
   },
@@ -75469,7 +75682,7 @@
         ]
       }
     ],
-    "cognate": "хуэпэн",
+    "kabardian": "хуэпэн",
     "type": "verb",
     "ipa": "fapan"
   },
@@ -75498,7 +75711,7 @@
     "synonyms": [
       "псынк1эу"
     ],
-    "cognate": "щ1эхыу",
+    "kabardian": "щ1эхыу",
     "type": "adv",
     "ipa": "ʃʼaxaw"
   },
@@ -75537,7 +75750,7 @@
       "мытэрэз",
       "тэрэзыдж"
     ],
-    "cognate": "пхэнж",
+    "kabardian": "пхэнж",
     "type": "adj",
     "ipa": "pxand͡ʒ"
   },
@@ -75670,7 +75883,7 @@
         ]
       }
     ],
-    "cognate": "удзэгун",
+    "kabardian": "удзэгун",
     "type": "verb",
     "ipa": "wət͡sakʷən"
   },
@@ -75759,7 +75972,7 @@
         "examples": []
       }
     ],
-    "cognate": "мащэ",
+    "kabardian": "мащэ",
     "type": "noun",
     "ipa": "maːʃa"
   },
@@ -75790,7 +76003,7 @@
       "лыдын",
       "ц1ыон"
     ],
-    "cognate": "ц1уун",
+    "kabardian": "ц1уун",
     "type": "verb",
     "ipa": "t͡sʼəwən"
   },
@@ -75848,7 +76061,7 @@
     "synonyms": [
       "ш1ош1ун"
     ],
-    "cognate": "ф1эщ1ын",
+    "kabardian": "ф1эщ1ын",
     "type": "verb",
     "ipa": "ʃʷaʃʼən"
   },
@@ -75941,7 +76154,7 @@
         "examples": []
       }
     ],
-    "cognate": "нэмыщ1",
+    "kabardian": "нэмыщ1",
     "type": "adj",
     "ipa": "namt͡ʃʼ"
   },
@@ -76119,7 +76332,7 @@
     "synonyms": [
       "шъуты"
     ],
-    "cognate": "пхэ",
+    "kabardian": "пхэ",
     "type": "noun",
     "ipa": "pxat͡ʃʼ"
   },
@@ -76189,7 +76402,7 @@
     "synonyms": [
       "1эк1эк1ьын"
     ],
-    "cognate": "1эщ1эк1ын",
+    "kabardian": "1эщ1эк1ын",
     "type": "verb",
     "ipa": "ʔat͡ʃʼat͡ʃʼən"
   },
@@ -76207,7 +76420,7 @@
         ]
       }
     ],
-    "cognate": "1эщ1эзын",
+    "kabardian": "1эщ1эзын",
     "type": "verb",
     "ipa": "ʔat͡ʃʼazən"
   },
@@ -76225,7 +76438,7 @@
         ]
       }
     ],
-    "cognate": "1эщ1эук1эн",
+    "kabardian": "1эщ1эук1эн",
     "type": "verb",
     "ipa": "ʔat͡ʃʼawt͡ʃʼan"
   },
@@ -76258,7 +76471,7 @@
     "synonyms": [
       "фэшъхьаф"
     ],
-    "cognate": "нэмыщ1",
+    "kabardian": "нэмыщ1",
     "type": "adj",
     "ipa": "namət͡ʃʼ"
   },
@@ -76356,7 +76569,7 @@
         "examples": []
       }
     ],
-    "cognate": "къуэрылъху",
+    "kabardian": "къуэрылъху",
     "type": "noun",
     "ipa": "qʷarəɬf"
   },
@@ -76369,7 +76582,7 @@
         "examples": []
       }
     ],
-    "cognate": "зэхэшын",
+    "kabardian": "зэхэшын",
     "type": "verb",
     "ipa": "zaxaɕən"
   },
@@ -76463,7 +76676,7 @@
       "нэпэон",
       "нэпэшъоон"
     ],
-    "cognate": "нэпэфэуэн",
+    "kabardian": "нэпэфэуэн",
     "type": "verb",
     "ipa": "naɡʷəʃʷa jatən"
   },
@@ -77100,7 +77313,7 @@
         ]
       }
     ],
-    "cognate": "1ущэщэн",
+    "kabardian": "1ущэщэн",
     "type": "verb",
     "ipa": "ʔʷəʂaʂan"
   },
@@ -77228,7 +77441,7 @@
         ]
       }
     ],
-    "cognate": "ек1уэщэн",
+    "kabardian": "ек1уэщэн",
     "type": "verb",
     "ipa": "jakʷʼaʂan"
   },
@@ -77303,7 +77516,7 @@
         "examples": []
       }
     ],
-    "cognate": "насып",
+    "kabardian": "насып",
     "type": "noun",
     "ipa": "thatən"
   },
@@ -77316,7 +77529,7 @@
         "examples": []
       }
     ],
-    "cognate": "насып",
+    "kabardian": "насып",
     "type": "noun",
     "ipa": "thajat"
   },
@@ -77387,7 +77600,7 @@
         ]
       }
     ],
-    "cognate": "хьейнапэ",
+    "kabardian": "хьейнапэ",
     "type": "noun",
     "ipa": "ħajənaːp"
   },
@@ -77581,7 +77794,7 @@
         ]
       }
     ],
-    "cognate": "щыгъэтын",
+    "kabardian": "щыгъэтын",
     "type": "verb",
     "ipa": "zaʔʷənan"
   },
@@ -78026,7 +78239,7 @@
         "examples": []
       }
     ],
-    "cognate": "к1уэдыгъуаф1э",
+    "kabardian": "к1уэдыгъуаф1э",
     "type": "adj",
     "ipa": "kʷʼadəʑəʁʷaʃʷʼ"
   },
@@ -78055,7 +78268,7 @@
         "examples": []
       }
     ],
-    "cognate": "к1уэдыгъуаф1э",
+    "kabardian": "к1уэдыгъуаф1э",
     "type": "adj",
     "ipa": "kʷʼadəʁʷaʃʷʼ"
   },
@@ -78827,7 +79040,7 @@
         "examples": []
       }
     ],
-    "cognate": "мылъхукъуэ",
+    "kabardian": "мылъхукъуэ",
     "type": "noun",
     "ipa": "məɬfəqʷa"
   },
@@ -78844,7 +79057,7 @@
         "examples": []
       }
     ],
-    "cognate": "мылъхукъуэ",
+    "kabardian": "мылъхукъуэ",
     "type": "noun",
     "ipa": "məɬfəqʷa"
   },
@@ -78857,7 +79070,7 @@
         "examples": []
       }
     ],
-    "cognate": "лъыхугъэ",
+    "kabardian": "лъыхугъэ",
     "type": "noun",
     "ipa": "ɬfəʁa"
   },
@@ -78878,7 +79091,7 @@
         "examples": []
       }
     ],
-    "cognate": "лъыхугъэ",
+    "kabardian": "лъыхугъэ",
     "type": "noun",
     "ipa": "ɬfəʁa"
   },
@@ -78891,7 +79104,7 @@
         "examples": []
       }
     ],
-    "cognate": "щ1элэ-гъуалэхэр",
+    "kabardian": "щ1элэ-гъуалэхэр",
     "type": "noun",
     "ipa": "t͡ʃʼaɮa ʁʷaːɮaxar"
   },
@@ -78904,7 +79117,7 @@
         "examples": []
       }
     ],
-    "cognate": "папщ1э",
+    "kabardian": "папщ1э",
     "type": "conj",
     "ipa": "paːpt͡ʃʼa"
   },
@@ -79130,7 +79343,7 @@
     "synonyms": [
       "1ук1эхьан"
     ],
-    "cognate": "щ1эхьэн",
+    "kabardian": "щ1эхьэн",
     "type": "verb",
     "ipa": "t͡ʃʼəħaːn"
   },
@@ -79148,7 +79361,7 @@
         ]
       }
     ],
-    "cognate": "щ1эхьэн",
+    "kabardian": "щ1эхьэн",
     "type": "verb",
     "ipa": "t͡ʂʼəħan"
   },
@@ -79927,7 +80140,7 @@
       "гьэч",
       "джэнчы"
     ],
-    "cognate": "джэш",
+    "kabardian": "джэш",
     "type": "noun",
     "ipa": "ɡʲaʃ"
   },
@@ -79944,7 +80157,7 @@
       "джэнчы",
       "гьэш"
     ],
-    "cognate": "джэш",
+    "kabardian": "джэш",
     "type": "noun",
     "ipa": "ɡʲat͡ʃ"
   },
@@ -79960,7 +80173,7 @@
     "synonyms": [
       "занк1э"
     ],
-    "cognate": "занщ1э",
+    "kabardian": "занщ1э",
     "type": "adj",
     "ipa": "zaːt͡ʃʼa"
   },
@@ -80030,7 +80243,7 @@
         "examples": []
       }
     ],
-    "cognate": "гъуэзыпс",
+    "kabardian": "гъуэзыпс",
     "type": "noun",
     "ipa": "ʁʷazəps"
   },
@@ -80083,7 +80296,7 @@
       "лъэкъуац1э",
       "л1экъуац1э"
     ],
-    "cognate": "л1экъуэц1э",
+    "kabardian": "л1экъуэц1э",
     "type": "noun",
     "ipa": "wənaʁʷat͡sʼa"
   },
@@ -80096,7 +80309,7 @@
         "examples": []
       }
     ],
-    "cognate": "псыфалъэ",
+    "kabardian": "псыфалъэ",
     "type": "noun",
     "ipa": "psəʃʷaːɬa"
   },
@@ -80683,7 +80896,7 @@
         "examples": []
       }
     ],
-    "cognate": "щ1эн",
+    "kabardian": "щ1эн",
     "type": "noun",
     "ipa": "t͡ʃʼan"
   },
@@ -80777,7 +80990,7 @@
         "examples": []
       }
     ],
-    "cognate": "куэпкъ",
+    "kabardian": "куэпкъ",
     "type": "noun",
     "ipa": "kʷapq"
   },
@@ -80795,7 +81008,7 @@
         ]
       }
     ],
-    "cognate": "махэ",
+    "kabardian": "махэ",
     "type": "adj",
     "ipa": "məpəta"
   },
@@ -80859,7 +81072,7 @@
         "examples": []
       }
     ],
-    "cognate": "щэк1",
+    "kabardian": "щэк1",
     "type": "noun",
     "ipa": "ʃat͡ʃʼ"
   },
@@ -80938,7 +81151,7 @@
         "examples": []
       }
     ],
-    "cognate": "щ1эуфэн",
+    "kabardian": "щ1эуфэн",
     "type": "verb",
     "ipa": "t͡ʂʼawχʷəban"
   },
@@ -80960,7 +81173,7 @@
         ]
       }
     ],
-    "cognate": "щ1эуфэн",
+    "kabardian": "щ1эуфэн",
     "type": "verb",
     "ipa": "t͡ʂʼawχʷəman"
   },
@@ -80973,7 +81186,7 @@
         "examples": []
       }
     ],
-    "cognate": "щ1эуфэ",
+    "kabardian": "щ1эуфэ",
     "type": "noun",
     "ipa": "t͡ʂʼawχʷəma"
   },
@@ -81025,7 +81238,7 @@
         ]
       }
     ],
-    "cognate": "щ1элъхьэн",
+    "kabardian": "щ1элъхьэн",
     "type": "verb",
     "ipa": "t͡ʂʼaɬħan"
   },
@@ -81226,7 +81439,7 @@
     "synonyms": [
       "1азэ"
     ],
-    "cognate": "хуэ1аз",
+    "kabardian": "хуэ1аз",
     "type": "adj",
     "ipa": "faʔaːz"
   },
@@ -81352,7 +81565,7 @@
       "ехьагъушъугъун",
       "шъухъогъон"
     ],
-    "cognate": "ефыгъуэн",
+    "kabardian": "ефыгъуэн",
     "type": "verb",
     "ipa": "jaʃʷʁʷən"
   },
@@ -81393,7 +81606,7 @@
     "synonyms": [
       "хъуак1о"
     ],
-    "cognate": "1ахъуэ",
+    "kabardian": "1ахъуэ",
     "type": "noun",
     "ipa": "ʔaχʷa"
   },
@@ -81423,7 +81636,7 @@
         "examples": []
       }
     ],
-    "cognate": "1эхъуэгъу",
+    "kabardian": "1эхъуэгъу",
     "type": "noun",
     "ipa": "ʔaχʷaʁʷ"
   },
@@ -81525,7 +81738,7 @@
         ]
       }
     ],
-    "cognate": "гъуэщэн",
+    "kabardian": "гъуэщэн",
     "type": "verb",
     "ipa": "ʁʷaɕan"
   },
@@ -81625,7 +81838,7 @@
       "еш1эн",
       "къэшъон"
     ],
-    "cognate": "джэгун",
+    "kabardian": "джэгун",
     "type": "verb",
     "ipa": "qajʃʼan"
   },
@@ -81661,7 +81874,7 @@
       "къеш1эн",
       "къэшъон"
     ],
-    "cognate": "ещ1эн",
+    "kabardian": "ещ1эн",
     "type": "verb",
     "ipa": "jaʃʼan"
   },
@@ -81823,7 +82036,7 @@
         ]
       }
     ],
-    "cognate": "езэшын",
+    "kabardian": "езэшын",
     "type": "verb",
     "ipa": "jazaʃən"
   },
@@ -81945,7 +82158,7 @@
         ]
       }
     ],
-    "cognate": "щ1этэкъун",
+    "kabardian": "щ1этэкъун",
     "type": "verb",
     "ipa": "t͡ʂʼataqʷən"
   },
@@ -81966,7 +82179,7 @@
     "synonyms": [
       "ипхъыхьан"
     ],
-    "cognate": "щ1этэкъун",
+    "kabardian": "щ1этэкъун",
     "type": "verb",
     "ipa": "jətaqʷaħən"
   },
@@ -82042,7 +82255,7 @@
         ]
       }
     ],
-    "cognate": "фиин",
+    "kabardian": "фиин",
     "type": "verb",
     "ipa": "ʃʷəjan"
   },
@@ -82208,7 +82421,7 @@
         "examples": []
       }
     ],
-    "cognate": "т1эп1ын",
+    "kabardian": "т1эп1ын",
     "type": "verb",
     "ipa": "zaɡʷatʼapʼət͡ʃʼən"
   },
@@ -82233,7 +82446,7 @@
     "synonyms": [
       "п1эрк1ьын"
     ],
-    "cognate": "п1энк1ын",
+    "kabardian": "п1энк1ын",
     "type": "verb",
     "ipa": "pʷʼant͡ʃʼəm"
   },
@@ -82249,7 +82462,7 @@
     "synonyms": [
       "п1онк1ын"
     ],
-    "cognate": "п1энк1ын",
+    "kabardian": "п1энк1ын",
     "type": "verb",
     "ipa": "pʼankʲʼəm"
   },
@@ -82419,7 +82632,7 @@
     "synonyms": [
       "губгъэн фэш1ын"
     ],
-    "cognate": "губгъэн хуэщ1ын",
+    "kabardian": "губгъэн хуэщ1ын",
     "type": "verb",
     "ipa": "ɡʷəbʁan faɬaʁʷən"
   },
@@ -82444,7 +82657,7 @@
     "synonyms": [
       "губгъэн фэлъэгъун"
     ],
-    "cognate": "губгъэн хуэщ1ын",
+    "kabardian": "губгъэн хуэщ1ын",
     "type": "verb",
     "ipa": "ɡʷəbʁan faʃʼən"
   },
@@ -82502,7 +82715,7 @@
     "synonyms": [
       "мэкьэрэзын"
     ],
-    "cognate": "мэджэрэзын",
+    "kabardian": "мэджэрэзын",
     "type": "verb",
     "ipa": "t͡ʃarazən"
   },
@@ -82564,7 +82777,7 @@
       "гукъау",
       "нэшхъэигъу"
     ],
-    "cognate": "гухэщ1",
+    "kabardian": "гухэщ1",
     "type": "noun",
     "ipa": "ɡʷəxat͡ʃʼ"
   },
@@ -82610,7 +82823,7 @@
       "гукъау",
       "нэшхъэигъу"
     ],
-    "cognate": "гуауэ",
+    "kabardian": "гуауэ",
     "type": "noun",
     "ipa": "ɡʷaːwa"
   },
@@ -82654,7 +82867,7 @@
         "examples": []
       }
     ],
-    "cognate": "жэгъуэгъун",
+    "kabardian": "жэгъуэгъун",
     "type": "verb",
     "ipa": "d͡ʒaʁʷəɡʷən"
   },
@@ -82674,7 +82887,7 @@
     "synonyms": [
       "джэгъогъу"
     ],
-    "cognate": "жагъуэ",
+    "kabardian": "жагъуэ",
     "type": "noun",
     "ipa": "d͡ʒaʁʷ"
   },
@@ -83079,7 +83292,7 @@
     "synonyms": [
       "тегъэстык1ьын"
     ],
-    "cognate": "тегъэсык1ын",
+    "kabardian": "тегъэсык1ын",
     "type": "verb",
     "ipa": "tajʁasət͡ʃʼən"
   },
@@ -83177,7 +83390,7 @@
       "ет1агъо",
       "хьаплъы"
     ],
-    "cognate": "къэхьэуафэ",
+    "kabardian": "къэхьэуафэ",
     "type": "adj",
     "ipa": "qaːħawaːʃʷa"
   },
@@ -83236,7 +83449,7 @@
     "synonyms": [
       "зэуал1"
     ],
-    "cognate": "зэуак1уэ",
+    "kabardian": "зэуак1уэ",
     "type": "noun",
     "ipa": "zawaːkʷʼa"
   },
@@ -83321,7 +83534,7 @@
       "къещэк1ын",
       "къещыхьак1ын"
     ],
-    "cognate": "к1уэц1ышыхьын",
+    "kabardian": "к1уэц1ышыхьын",
     "type": "verb",
     "ipa": "kʷʼat͡sʼəɕəħaːn"
   },
@@ -83408,7 +83621,7 @@
         "examples": []
       }
     ],
-    "cognate": "псо",
+    "kabardian": "псо",
     "type": "adj",
     "ipa": "psaːwa"
   },
@@ -83453,7 +83666,7 @@
     "synonyms": [
       "зыук1ыжьын"
     ],
-    "cognate": "зыл1эжын",
+    "kabardian": "зыл1эжын",
     "type": "verb",
     "ipa": "zaːɬʼaʑən"
   },
@@ -83534,7 +83747,7 @@
         ]
       }
     ],
-    "cognate": "хуэф1",
+    "kabardian": "хуэф1",
     "type": "verb",
     "ipa": "faʃʷʼən"
   },
@@ -83552,7 +83765,7 @@
         ]
       }
     ],
-    "cognate": "хуэф1",
+    "kabardian": "хуэф1",
     "type": "verb",
     "ipa": "faʃʷʼə"
   },
@@ -83686,7 +83899,7 @@
     "synonyms": [
       "к1оч1адж"
     ],
-    "cognate": "махэ",
+    "kabardian": "махэ",
     "type": "adj",
     "ipa": "qaːrəwənt͡ʂ"
   },
@@ -84345,7 +84558,7 @@
         "examples": []
       }
     ],
-    "cognate": "махэ",
+    "kabardian": "махэ",
     "type": "adj",
     "ipa": "qaːrəwənt͡ʂ"
   },
@@ -84625,7 +84838,7 @@
         "examples": []
       }
     ],
-    "cognate": "нэщэнэ",
+    "kabardian": "нэщэнэ",
     "type": "noun",
     "ipa": "naʃaːn"
   },
@@ -84643,7 +84856,7 @@
         ]
       }
     ],
-    "cognate": "нэщэнэ",
+    "kabardian": "нэщэнэ",
     "type": "noun",
     "ipa": "naʃaːn"
   },
@@ -84715,7 +84928,7 @@
     "synonyms": [
       "зэпыун"
     ],
-    "cognate": "зэтеувэн",
+    "kabardian": "зэтеувэн",
     "type": "verb",
     "ipa": "zatajwt͡ʃʷan"
   },
@@ -84753,7 +84966,7 @@
         "examples": []
       }
     ],
-    "cognate": "теувэн",
+    "kabardian": "теувэн",
     "type": "verb",
     "ipa": "tajdt͡ʃʷan"
   },
@@ -84778,7 +84991,7 @@
         ]
       }
     ],
-    "cognate": "псэхэл1э",
+    "kabardian": "псэхэл1э",
     "type": "noun",
     "ipa": "psaxaɬʼz"
   },
@@ -85022,7 +85235,7 @@
         ]
       }
     ],
-    "cognate": "техьэн",
+    "kabardian": "техьэн",
     "type": "verb",
     "ipa": "tajħaːn"
   },
@@ -85418,7 +85631,7 @@
         ]
       }
     ],
-    "cognate": "гъэпсэхун",
+    "kabardian": "гъэпсэхун",
     "type": "verb",
     "ipa": "ʁapsafən"
   },
@@ -85455,7 +85668,7 @@
         "examples": []
       }
     ],
-    "cognate": "яжьэ",
+    "kabardian": "яжьэ",
     "type": "noun",
     "ipa": "staːf"
   },
@@ -85578,7 +85791,7 @@
       "лъэрыгъачъэ",
       "кушъхьэфачъэ"
     ],
-    "cognate": "лъакъуэрыгъажэ",
+    "kabardian": "лъакъуэрыгъажэ",
     "type": "noun",
     "ipa": "ɬaqʷarəʁaːt͡ʂa"
   },
@@ -85595,7 +85808,7 @@
       "кушъхьэфачъэ",
       "лъэкъорыгъачъэ"
     ],
-    "cognate": "лъакъуэрыгъажэ",
+    "kabardian": "лъакъуэрыгъажэ",
     "type": "noun",
     "ipa": "ɬarəʁaːt͡ʂa"
   },
@@ -85623,7 +85836,7 @@
         "examples": []
       }
     ],
-    "cognate": "шыд",
+    "kabardian": "шыд",
     "type": "noun",
     "ipa": "ɕədə"
   },
@@ -85694,7 +85907,7 @@
     "synonyms": [
       "зек1о"
     ],
-    "cognate": "гъуэгурык1уэныгъэ",
+    "kabardian": "гъуэгурык1уэныгъэ",
     "type": "noun",
     "ipa": "ʁʷaɡʷəwanakʷʼənər"
   },
@@ -85771,7 +85984,7 @@
         "examples": []
       }
     ],
-    "cognate": "л1эужьыгъуэ",
+    "kabardian": "л1эужьыгъуэ",
     "type": "noun",
     "ipa": "ɬʼawʒəʁʷa"
   },
@@ -85799,7 +86012,7 @@
     "synonyms": [
       "унэгъуац1э"
     ],
-    "cognate": "л1экъуэц1э",
+    "kabardian": "л1экъуэц1э",
     "type": "noun",
     "ipa": "ɬʼaqʷaːt͡sʼa"
   },
@@ -85885,7 +86098,7 @@
         "examples": []
       }
     ],
-    "cognate": "л1эужь",
+    "kabardian": "л1эужь",
     "type": "noun",
     "ipa": "ɬʼawəʒ"
   },
@@ -85943,7 +86156,7 @@
         ]
       }
     ],
-    "cognate": "хэкъутыхьын",
+    "kabardian": "хэкъутыхьын",
     "type": "verb",
     "ipa": "xaqʷətəħaːn"
   },
@@ -86011,7 +86224,7 @@
         "examples": []
       }
     ],
-    "cognate": "фызабэ",
+    "kabardian": "фызабэ",
     "type": "noun",
     "ipa": "ʃʷəzaːba"
   },
@@ -86148,7 +86361,7 @@
     "synonyms": [
       "гъусэн"
     ],
-    "cognate": "щ1ыгъун",
+    "kabardian": "щ1ыгъун",
     "type": "verb",
     "ipa": "t͡ʃʼəʁʷən"
   },
@@ -86374,7 +86587,7 @@
         "examples": []
       }
     ],
-    "cognate": "лъэщ",
+    "kabardian": "лъэщ",
     "type": "adj",
     "ipa": "ɬaʃ"
   },
@@ -86947,7 +87160,7 @@
         "examples": []
       }
     ],
-    "cognate": "мэлыхъуэгъу",
+    "kabardian": "мэлыхъуэгъу",
     "type": "noun",
     "ipa": "maɮəχʷaʁʷ"
   },
@@ -87036,7 +87249,7 @@
         "examples": []
       }
     ],
-    "cognate": "щыгу",
+    "kabardian": "щыгу",
     "type": "noun",
     "ipa": "ʃəɡʷ"
   },
@@ -87061,7 +87274,7 @@
         "examples": []
       }
     ],
-    "cognate": "щыгъуэ",
+    "kabardian": "щыгъуэ",
     "type": "noun",
     "ipa": "ʂəʁʷa"
   },
@@ -87074,7 +87287,7 @@
         "examples": []
       }
     ],
-    "cognate": "унафэ",
+    "kabardian": "унафэ",
     "type": "noun",
     "ipa": "wənaːʂʷa"
   },
@@ -87366,7 +87579,7 @@
         "examples": []
       }
     ],
-    "cognate": "щэн",
+    "kabardian": "щэн",
     "type": "noun",
     "ipa": "ʃan"
   },
@@ -87774,7 +87987,7 @@
         "examples": []
       }
     ],
-    "cognate": "шхы1эн",
+    "kabardian": "шхы1эн",
     "type": "noun",
     "ipa": "t͡ʃxəʔaːn"
   },
@@ -87803,7 +88016,7 @@
     "synonyms": [
       "щысэ"
     ],
-    "cognate": "щапхъэ",
+    "kabardian": "щапхъэ",
     "type": "noun",
     "ipa": "ʃaːpχa"
   },
@@ -88533,7 +88746,7 @@
         ]
       }
     ],
-    "cognate": "щ1эп",
+    "kabardian": "щ1эп",
     "type": "noun",
     "ipa": "t͡ʃʼap"
   },
@@ -89716,7 +89929,7 @@
     "synonyms": [
       "нэгу"
     ],
-    "cognate": "нэк1у",
+    "kabardian": "нэк1у",
     "type": "noun",
     "ipa": "napaːʃʷa"
   },
@@ -89803,7 +90016,7 @@
     "synonyms": [
       "къэкъун"
     ],
-    "cognate": "къэцыфын",
+    "kabardian": "къэцыфын",
     "type": "verb",
     "ipa": "qaqʷəʃʷən"
   },
@@ -89824,7 +90037,7 @@
     "synonyms": [
       "къэкъушъун"
     ],
-    "cognate": "къэцыфын",
+    "kabardian": "къэцыфын",
     "type": "verb",
     "ipa": "qaqʷən"
   },
@@ -90726,7 +90939,7 @@
     "ipa": "bəχʷ"
   },
   {
-    "word": "шык1эпшынэ къыфеон",
+    "word": "шык1эпщынэ къыфеон",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -90737,7 +90950,7 @@
         "meaning": "(slang) to complain to someone repeatedly (to the point of annoyance)",
         "examples": [
           {
-            "sentence": "Шъузыр '''шык1эпшынэ къэсфео'''",
+            "sentence": "Шъузыр '''шык1эпщынэ къэсфео'''",
             "translation": "The woman '''is complaining to me'''."
           }
         ],
@@ -90888,7 +91101,7 @@
     "synonyms": [
       "псыкъу"
     ],
-    "cognate": "хыкхъуэ",
+    "kabardian": "хыкхъуэ",
     "type": "noun",
     "ipa": "xəqʷə"
   },
@@ -90982,7 +91195,7 @@
     "synonyms": [
       "псыкъу"
     ],
-    "cognate": "хыкхъуэ",
+    "kabardian": "хыкхъуэ",
     "type": "noun",
     "ipa": "xəqʷa"
   },
@@ -91141,7 +91354,7 @@
         "examples": []
       }
     ],
-    "cognate": "пхъурылъху",
+    "kabardian": "пхъурылъху",
     "type": "noun",
     "ipa": "pχərəɬf"
   },
@@ -92283,7 +92496,7 @@
     "synonyms": [
       "жъгъэй"
     ],
-    "cognate": "ц1ык1у",
+    "kabardian": "ц1ык1у",
     "type": "adj",
     "ipa": "ʂħajə"
   },
@@ -92604,7 +92817,7 @@
         ]
       }
     ],
-    "cognate": "къитхъун",
+    "kabardian": "къитхъун",
     "type": "verb",
     "ipa": "jətχʷən"
   },
@@ -92617,7 +92830,7 @@
         "examples": []
       }
     ],
-    "cognate": "итхъун",
+    "kabardian": "итхъун",
     "type": "verb",
     "ipa": "qjətχʷən"
   },
@@ -92666,7 +92879,7 @@
     "synonyms": [
       "гъэчанын"
     ],
-    "cognate": "лъын",
+    "kabardian": "лъын",
     "type": "verb",
     "ipa": "ʁawt͡ʃəjan"
   },
@@ -92796,7 +93009,7 @@
         "examples": []
       }
     ],
-    "cognate": "чэнж",
+    "kabardian": "чэнж",
     "type": "adj",
     "ipa": "t͡ʃand͡ʒ"
   },
@@ -94783,7 +94996,7 @@
         "examples": []
       }
     ],
-    "cognate": "щыгъэтын",
+    "kabardian": "щыгъэтын",
     "type": "verb",
     "ipa": "zaʔʷənan"
   },
@@ -97188,7 +97401,7 @@
         "examples": []
       }
     ],
-    "cognate": "нэз",
+    "kabardian": "нэз",
     "type": "noun",
     "ipa": "t͡saːt͡ʃʼa"
   },
@@ -97201,7 +97414,7 @@
         "examples": []
       }
     ],
-    "cognate": "нэз",
+    "kabardian": "нэз",
     "type": "noun",
     "ipa": "t͡saːkʲʼa"
   },
@@ -97473,7 +97686,7 @@
     "synonyms": [
       "шъохъу-т1ыхъу"
     ],
-    "cognate": "хъу",
+    "kabardian": "хъу",
     "type": "noun",
     "ipa": "χʷəpt͡sʼ"
   },
@@ -97553,7 +97766,7 @@
     "synonyms": [
       "хъупц1"
     ],
-    "cognate": "хъу",
+    "kabardian": "хъу",
     "type": "noun",
     "ipa": "ʃʷaχʷ tʼəχʷ"
   },
@@ -97889,7 +98102,7 @@
     "synonyms": [
       "жъутхэн"
     ],
-    "cognate": "убжьытхэн",
+    "kabardian": "убжьытхэн",
     "type": "noun",
     "ipa": "wəʒʷəntxan"
   },
@@ -98753,7 +98966,7 @@
         "examples": []
       }
     ],
-    "cognate": "къыдэгъэж",
+    "kabardian": "къыдэгъэж",
     "type": "noun",
     "ipa": "qədaʁat͡ʂ"
   },
@@ -98970,7 +99183,7 @@
     "synonyms": [
       "хьэк1ут1э"
     ],
-    "cognate": "гудэ",
+    "kabardian": "гудэ",
     "type": "noun",
     "ipa": "ħakʷaːkʷa"
   },
@@ -98986,7 +99199,7 @@
     "synonyms": [
       "хьакуако"
     ],
-    "cognate": "гудэ",
+    "kabardian": "гудэ",
     "type": "noun",
     "ipa": "ħakʷʼətʼa"
   },
@@ -99072,7 +99285,7 @@
     "synonyms": [
       "ахъщэ"
     ],
-    "cognate": "ахъшэ",
+    "kabardian": "ахъшэ",
     "type": "noun",
     "ipa": "naʁat͡sʼəw"
   },
@@ -99269,7 +99482,7 @@
       "игъэсэн",
       "фэш1ын"
     ],
-    "cognate": "хуэщ1ын",
+    "kabardian": "хуэщ1ын",
     "type": "verb",
     "ipa": "zafaʃʼən"
   },
@@ -99642,7 +99855,7 @@
     "synonyms": [
       "ныбжьыкъу"
     ],
-    "cognate": "жьауэ",
+    "kabardian": "жьауэ",
     "type": "noun",
     "ipa": "ʑaːwa"
   },
@@ -100591,7 +100804,7 @@
         "examples": []
       }
     ],
-    "cognate": "джабэ",
+    "kabardian": "джабэ",
     "type": "noun",
     "ipa": "t͡ʃʼaːpa"
   },
@@ -100604,7 +100817,7 @@
         "examples": []
       }
     ],
-    "cognate": "джабэ",
+    "kabardian": "джабэ",
     "type": "noun",
     "ipa": "t͡ʃʼaːpa"
   },
@@ -101578,7 +101791,7 @@
         "examples": []
       }
     ],
-    "cognate": "къанжэ",
+    "kabardian": "къанжэ",
     "type": "verb",
     "ipa": "qaːnʒa"
   },
