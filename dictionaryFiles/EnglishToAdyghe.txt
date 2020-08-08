@@ -456,7 +456,7 @@
     "highland": "бгы; бгылъэ; 1ошъхьэлъэ"
   },
   {
-    "lowland": "лъэгуан; ч1ыох; к1эй (valley)"
+    "lowland": "лъэгуан; ч1ыох; к1эй (valley); охы"
   },
   {
     "navel": "ныбыдж"
@@ -1185,7 +1185,7 @@
     "young person": "ныбжьык1э"
   },
   {
-    "page": "нэк1убгъу; тхьапэ"
+    "page": "нэк1убгъу"
   },
   {
     "song": "орэд"
@@ -1221,7 +1221,7 @@
     "book": "тхылъ"
   },
   {
-    "paper": "тхылъып1э"
+    "paper": "тхьапэ; тхылъып1э"
   },
   {
     "tissue": "тхылъып1э"
@@ -1788,10 +1788,10 @@
     "scab": "ягъэ; егъанэ (Shapsug)"
   },
   {
-    "pacifier": "хьэшъобыдз; хьашъобыдз"
+    "pacifier": "хьашъобыдз"
   },
   {
-    "sleeve": "гъуапэ; 1ашъхьэ; 1эгъуапэ (of a shirt); гъопэк1ыхь (long-sleeved); 1эпэгъуапэ (cuff)"
+    "sleeve": "гъуапэ; 1ашъхьэ; 1эгъуапэ (of a shirt); гъопэк1ыхь (long-sleeved); гъопэк1ако (short-sleeved); 1эпэгъуапэ (cuff)"
   },
   {
     "sleeveless": "гъуапэ зыпымыт (щыгъын); гъуапэнчъэ"
@@ -1800,7 +1800,10 @@
     "cuff": "1эпэгъуапэ"
   },
   {
-    "long-sleeved shirt": "гъопэк1ыхь"
+    "long-sleeved": "гъопэк1ыхь"
+  },
+  {
+    "short-sleeved": "гъопэк1ако"
   },
   {
     "wool": "цы"
@@ -1821,7 +1824,13 @@
     "socks": "лъэпэд"
   },
   {
+    "stocking": "лъэпэд"
+  },
+  {
     "ring": "1элъын; 1елъын"
+  },
+  {
+    "hoop": "хъурджан"
   },
   {
     "necklace": "джэгъуч1элъ"
@@ -1869,22 +1878,10 @@
     "jubbah": "къэптан"
   },
   {
-    "mission": "пшъэрылъ"
+    "mission": "пшъэрылъ; гъэцэк1эны"
   },
   {
-    "goal": "пшъэрылъ"
-  },
-  {
-    "objective": "пшъэрылъ"
-  },
-  {
-    "assignment": "пшъэрылъ; 1офш1эн"
-  },
-  {
-    "errand": "пшъэрылъ"
-  },
-  {
-    "commission": "пшъэрылъ"
+    "assignment": "пшъэрылъ; 1офш1эн; гъэцэк1эны"
   },
   {
     "duty": "пшъэрылъ"
@@ -1929,7 +1926,7 @@
     "sin": "гунахь"
   },
   {
-    "leaf": "тхьапэ"
+    "leaf": "тхьапэ; пк1ашъ"
   },
   {
     "vale": "к1эй"
@@ -2028,6 +2025,15 @@
     "hunger": "мэлак1э (hunger); мэлак1э л1эн (to be hungry)"
   },
   {
+    "to be nervous": "гумэк1ын; пэн"
+  },
+  {
+    "to colden": "гъэучъы1ын"
+  },
+  {
+    "to feel nervous": "гумэк1ын; пэн"
+  },
+  {
     "starvation": "гъаблэ"
   },
   {
@@ -2037,7 +2043,7 @@
     "to feel hot": "фабэ пэн"
   },
   {
-    "to die": "л1эн; л1ык1ын (to die off something); хэл1эхьан (to die in a war/forest); тел1эхьан (to die above something); ч1эл1эхьан (to die under something); ил1эхьан (to die inside something); пыл1ык1ын (to die slowly, to die from bleeding)"
+    "to die": "л1эн; ил1ык1ын (to die off something); хэл1эхьан (to die in a war/forest); тел1эхьан (to die above something); ч1эл1эхьан (to die under something); ил1эхьан (to die inside something); пыл1ык1ын (to die slowly, to die from bleeding)"
   },
   {
     "wisp": "1оталъ"
@@ -2071,6 +2077,9 @@
   },
   {
     "to lead": "щэн (to lead/take someone to); пэщэн (to lead as a leader); тещэн (to take/lead someone to above something); хэщэн (to take/lead someone to among other people or objects); хэщэн (to take/lead someone to an area liquid, gas, plants or trees); дэщэн (to take/lead someone to a yard); ищэн (to take/lead someone to inside something); дэщэен (to lead/take someone up); ещэхын (to lead/take someone down); къещэк1ын (to take/lead someone around)"
+  },
+  {
+    "to escort": "щэн (to escort someone to); хэщэн (to escort someone to among other people or objects); хэщэн (to escort someone to an area liquid, gas, plants or trees); дэщэн (to escort someone to a yard); ищэн (to escort someone to inside something); дэщэен (to escort someone up); ещэхын (to escort someone down); къещэк1ын (to escort someone around)"
   },
   {
     "to get sad": "нэшхъэин; нэшхъэеу хъугъэ; зэгожъын"
@@ -2136,13 +2145,13 @@
     "that (invisible)": "а"
   },
   {
-    "arrogant": "пагэ"
+    "arrogant": "пагэ; зызыш1ош1ыжьырэ"
   },
   {
-    "haughty": "пагэ"
+    "haughty": "пагэ; зызыш1ош1ыжьырэ"
   },
   {
-    "prideful": "пагэ"
+    "prideful": "пагэ; зызыш1ош1ыжьырэ"
   },
   {
     "stick": "пхъапэ"
@@ -2169,10 +2178,10 @@
     "that other": "адрэ; модрэ"
   },
   {
-    "to pray": "нэмаз ш1ын; тхьэм елъэ1ун"
+    "to pray": "елъэ1ун (to pray to); нэмаз ш1ын (to do prayer); тхьэм елъэ1ун (to pray to god)"
   },
   {
-    "to beg": "лъэ1он; к1элъэ1ун (to beg for)"
+    "to beg": "лъэ1он (to be begging); елъэ1ун (to beg someone); к1элъэ1ун (to beg for)"
   },
   {
     "to worship": "фэпщыл1ын"
@@ -2187,16 +2196,19 @@
     "urethra": "былыхъу (childish)"
   },
   {
-    "urine": "гъутхьапс"
+    "urine": "гъутхьапс; щэхэпс"
   },
   {
-    "piss": "гъутхьэпс"
+    "piss": "гъутхьэпс; щэхэпс"
   },
   {
-    "like that": "ащтэу"
+    "pee": "гъутхьэпс; щэхэпс"
   },
   {
-    "like this": "мыщтэу"
+    "like that": "ащтэу; мощтэу; ащфэд; мощфэд; ащфэдэу; мощфэдэу"
+  },
+  {
+    "like this": "мыщтэу; мыщфэд; мыщфэдэу"
   },
   {
     "midnight": "чэщныкъо"
@@ -3552,7 +3564,7 @@
     "woodpecker": "пхъэу1у"
   },
   {
-    "problem": "1офы; 1офыгъу; проблэм; бырсыр (trouble); пшъэрылъ; 1офыгъу (task)"
+    "problem": "1офы; проблэм; бырсыр (trouble)"
   },
   {
     "to throw": "дзын; лъыдзын (to throw toward); тедзэн (to throw on); блэдзын (to throw pass); шъхьадэдзын (to throw over); шъхьапырыдзын (to throw beyond); тедзын (to throw off from above something); 1удзэн (to throw near); 1удзын (to throw away); ч1эдзэн (to throw under); ч1эдзын (to throw away from under); хэдзэн (to throw among people/objects or into an area with gas or liquid); хэдзын (to throw away from among people/objects or outside an area with gas or liquid); дэдзыен (to throw up); едзыхын (to throw down); жэхэдзэн (to throw intensively onto someone); зэк1эдзэн (to throw back); шъхьэдэдзын (to throw over); жэхэдзэн (to intensively throw something against); итэкъон (to put/throw stuff inside something); тетэкъон (to put/throw stuff on something); ч1этэкъон (to put/throw stuff under something); дэтэкъон (to put/throw stuff inside another object, to put/throw stuff between); къотэкъон (to put/throw stuff behind something); хэтэкъон (to scatter in, to put/throw stuff among other objects/people, to throw/put stuff in an area with fire, plants, gas or liquid); готэкъон / бгъодэтэкъон (to put/throw stuff besides something); жэхэтэкъон (to put/throw stuff against something); итэкъун / къитэкъун (to throw/put away stuff from inside something); тетэкъун / къытетэкъун (to throw/put away stuff from on something); ч1этэкъун / къыч1этэкъун (to throw/put away stuff from under something); дэтэкъун / къыдэтэкъун (to throw/put away stuff from inside another object, to throw/put away stuff from between); къотэкъун / къыкъотэкъун (to throw/put away stuff from behind something); хэтэкъун / къыхэтэкъун (to throw/put away stuff from among other objects/people, to throw/put away stuff from an area with fire, gas or liquid); готэкъун / бгъодэтэкъун (to throw/put away stuff from besides something); хэупц1эн / жэхэуп1эн (to throw and smash something against something); 1оф хэдзэн (to put/throw someone in a troublesome situation)"
@@ -5109,7 +5121,7 @@
     "worth": "пк1э; уасэ (cost)"
   },
   {
-    "value": "пк1э (worth); уасэ (cost)"
+    "value": "пк1э (worth); уасэ (cost); пхъатэ (the degree of importance given to something)"
   },
   {
     "rent car": "бэджэндыку"
@@ -9588,7 +9600,7 @@
     "toilet": "псыунэ"
   },
   {
-    "toilet room": "щагуик1ып1э"
+    "toilet room": "щагуик1ып1э; (dialectal) щауик1ып1"
   },
   {
     "restroom": "щагуик1ып1э"
@@ -15412,6 +15424,9 @@
   },
   {
     "unpleasant": "гумы1у; гумыхь; мыгопэ"
+  },
+  {
+    "haze": "пщэсэй"
   },
   {
     "vow": "тхьары1у"

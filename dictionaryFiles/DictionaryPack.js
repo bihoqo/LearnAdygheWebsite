@@ -4950,18 +4950,6 @@
     "ipa": "gʷəʃtaʁʷaːd͡ʒ"
   },
   {
-    "word": "гущык1ыгъо",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "disgusting (repulsive, distasteful)",
-        "examples": []
-      }
-    ],
-    "type": "adj",
-    "ipa": "gʷəɕət͡ʃʼəʁʷa"
-  },
-  {
     "word": "псэнчъэ",
     "lang": "Adyghe",
     "definitions": [
@@ -8363,14 +8351,14 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "swing",
+        "meaning": "(dialectal) swing",
         "examples": []
       }
     ],
     "synonyms": [
-      "кьэрхъон",
       "хъэрен"
     ],
+    "shapsug": "кьэрхъон",
     "type": "noun",
     "ipa": "t͡ʃʼarχʷan"
   },
@@ -8379,7 +8367,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "A prince.",
+        "meaning": "prince",
         "examples": [
           {
             "sentence": "си '''пщы''' къэк1уагъ",
@@ -8395,13 +8383,6 @@
             "translation": "My '''father-in-law''' came."
           }
         ]
-      },
-      {
-        "meaning": "(Abzakh dialect) spear",
-        "examples": [],
-        "tags": [
-          "Abzakh dialect"
-        ]
       }
     ],
     "type": "noun",
@@ -8412,7 +8393,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "scab",
+        "meaning": "scab (on the body)",
         "examples": []
       }
     ],
@@ -8420,7 +8401,7 @@
     "ipa": "jaʁaːna"
   },
   {
-    "word": "хьэшъобыдз",
+    "word": "хьашъобыдз",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -8430,18 +8411,6 @@
     ],
     "type": "noun",
     "ipa": "ħaʂʷabəd͡z"
-  },
-  {
-    "word": "шъхьэгьашъу",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"шъхьэджашъу\"",
-        "examples": []
-      }
-    ],
-    "type": "adj",
-    "ipa": "ʂħaɡʲaːʃʷ"
   },
   {
     "word": "1эгъуапэ",
@@ -8456,30 +8425,28 @@
     "ipa": "ʔaʁʷaːpa"
   },
   {
-    "word": "гъопэк1эхь",
+    "word": "гъопэк1ыхь",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "long-sleeved shirt",
         "examples": [
           {
-            "sentence": "к1алэм '''гъопэк1эхь''' шэгъ",
+            "sentence": "к1алэм '''гъопэк1ыхь''' щыгъ",
             "translation": "The boy is wearing a '''long-sleeved shirt'''."
           },
           {
-            "sentence": "'''гъопэк1эхь''' шылъ",
+            "sentence": "'''гъопэк1ыхь''' щылъ",
             "translation": "Wear a '''long-sleeved shirt'''."
           },
           {
-            "sentence": "'''гъопэк1эхьэр''' гъэмафэм фэш, гъопэк1ако к1ымафэм фэш",
+            "sentence": "'''гъопэк1ыхьэр''' гъэмафэм фэш1, гъопэк1ако к1ымафэм фэш1",
             "translation": "'''long-sleeved shirt''' is for the summer and short-sleeved shirt is for winter."
           }
         ]
       }
     ],
-    "synonyms": [
-      "гъопэк1ьэхь"
-    ],
+    "shapsug": "гъопэк1ьэхь",
     "type": "noun",
     "ipa": "ʁʷaːpat͡ʃʼaħ"
   },
@@ -8488,7 +8455,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "hair (Usually of animal or human's body)",
+        "meaning": "hair (usually of animal or human's body)",
         "examples": []
       },
       {
@@ -8498,34 +8465,6 @@
     ],
     "type": "noun",
     "ipa": "t͡sə"
-  },
-  {
-    "word": "гьанэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "(Shapsug) alternative form of \"джанэ\"",
-        "examples": [],
-        "tags": [
-          "Shapsug",
-          "alternative_spelling"
-        ]
-      }
-    ],
-    "type": "noun",
-    "ipa": "ɡʲaːna"
-  },
-  {
-    "word": "сак1о",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"сако\"",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "saːkʷʼa"
   },
   {
     "word": "к1эпхын",
@@ -8540,7 +8479,7 @@
     "ipa": "t͡ʃʼapxən"
   },
   {
-    "word": "гъошэгь",
+    "word": "гъошэдж",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -8559,9 +8498,6 @@
         "meaning": "alternative form of \"цуакъэ\"",
         "examples": []
       }
-    ],
-    "synonyms": [
-      "чъуакъо"
     ],
     "kabardian": "вакъэ",
     "type": "noun",
@@ -8600,6 +8536,18 @@
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "alternative form of \"пэ1отелъхьэ\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "paʔʷataːlħa"
+  },
+  {
+    "word": "пэ1отелъхьэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
         "meaning": "helmet",
         "examples": []
       }
@@ -8612,12 +8560,36 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "socks",
+        "meaning": "socks; stocking",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "ɬapad"
+  },
+  {
+    "word": "1алъын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"1элъын\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʔaːɬən"
+  },
+  {
+    "word": "хъурджан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "hoop",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "χʷərd͡ʒaːn"
   },
   {
     "word": "1элъын",
@@ -8644,6 +8616,42 @@
     "ipa": "d͡ʒaʁʷaɬ"
   },
   {
+    "word": "гущык1ыгъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "disgusting (repulsive, distasteful)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "gʷəɕət͡ʃʼəʁʷ"
+  },
+  {
+    "word": "джэгъуап1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "disgusting (repulsive, distasteful)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "d͡ʒaʁʷaːpʼ"
+  },
+  {
+    "word": "гохьыдж",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "unpleasant",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "gʷəħəd͡ʒ"
+  },
+  {
     "word": "цокъэк1ыхь",
     "lang": "Adyghe",
     "definitions": [
@@ -8654,18 +8662,6 @@
     ],
     "type": "noun",
     "ipa": "t͡sʷaqʷakʲʼaħ"
-  },
-  {
-    "word": "1экощ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "umbrella",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ʔakʷʼaɕ"
   },
   {
     "word": "пщагъо",
@@ -8680,6 +8676,30 @@
     "ipa": "pɕaːʁʷ"
   },
   {
+    "word": "пщэс",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "fog",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "pɕas"
+  },
+  {
+    "word": "пщэсэй",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "haze",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "pɕasaj"
+  },
+  {
     "word": "жьао",
     "lang": "Adyghe",
     "definitions": [
@@ -8691,21 +8711,6 @@
     "kabardian": "жьауэ",
     "type": "noun",
     "ipa": "ʑaːwa"
-  },
-  {
-    "word": "1эбычъу",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"1эбыцу\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "1эбыцу"
-    ],
-    "type": "noun",
-    "ipa": "ʔabət͡ʃʷ"
   },
   {
     "word": "ахъщалъэ",
@@ -8730,30 +8735,6 @@
     ],
     "type": "noun",
     "ipa": "txəɬəɬ"
-  },
-  {
-    "word": "гъошэгь ч1эгъыч1элъ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"гъончэдж ч1эгъыч1элъ\"",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ʁʷaʃaɡʲ t͡ʂʼaʁət͡ʂʼaɬ"
-  },
-  {
-    "word": "цыгьан",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"цыджанэ\"",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "t͡səɡʲaːn"
   },
   {
     "word": "пшъэдэлъ",
@@ -8811,7 +8792,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "necktie",
+        "meaning": "(Shapsug) necktie",
         "examples": []
       }
     ],
@@ -8841,7 +8822,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "scarf (neck)",
+        "meaning": "(Shapsug) scarf (neck)",
         "examples": []
       }
     ],
@@ -8850,21 +8831,6 @@
     ],
     "type": "noun",
     "ipa": "dəjdaɬ"
-  },
-  {
-    "word": "пшъэдалхь",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "necktie",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "дыйдалхь"
-    ],
-    "type": "noun",
-    "ipa": "pʂadaːlħ"
   },
   {
     "word": "тыгъэнэгъунджэ",
@@ -8889,11 +8855,16 @@
       {
         "meaning": "sun's heat",
         "examples": []
+      },
+      {
+        "meaning": "intense heat",
+        "examples": []
       }
     ],
     "synonyms": [
       "тыгъэстыр"
     ],
+    "shapsug": "тыгъэстыр",
     "type": "noun",
     "ipa": "təʁanastər"
   },
@@ -8918,7 +8889,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "task, problem",
+        "meaning": "task, work to do",
         "examples": [
           {
             "sentence": "'''Пшъэрылъ''' зыфэш1ыжьын",
@@ -8927,11 +8898,11 @@
         ]
       },
       {
-        "meaning": "object, objective, aim, goal, mission, end",
+        "meaning": "mission",
         "examples": []
       },
       {
-        "meaning": "assignment, commission, errand",
+        "meaning": "assignment",
         "examples": []
       },
       {
@@ -8955,16 +8926,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "task, problem",
-        "examples": []
-      },
-      {
-        "meaning": "object, objective, aim, goal, mission, end",
-        "examples": []
-      },
-      {
-        "meaning": "assignment, commission, errand",
-        "examples": []
+        "meaning": "(Shapsug) task, work to do",
+        "examples": [
+          {
+            "sentence": "'''Дыйрылъ''' зыфэш1ыжьын",
+            "translation": "To give oneself '''tasks'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -9007,7 +8975,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "leather corset (which used to be worn by girls)",
+        "meaning": "leather corset (which used to be worn by young women)",
         "examples": []
       }
     ],
@@ -9153,18 +9121,6 @@
     "ipa": "səħaːt"
   },
   {
-    "word": "цу1",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "buttons (clothes and pants)",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "t͡ʃʷəʔ"
-  },
-  {
     "word": "мэз",
     "lang": "Adyghe",
     "definitions": [
@@ -9185,7 +9141,7 @@
         "examples": []
       },
       {
-        "meaning": "cotton wool (Sweet)",
+        "meaning": "cotton wool (sweet)",
         "examples": []
       },
       {
@@ -9216,12 +9172,12 @@
         "meaning": "age",
         "examples": [
           {
-            "sentence": "хьэпщ '''уиныбжьэ'''",
+            "sentence": "Тхьэпш '''уиныбжьэ'''",
             "translation": "How '''old''' are you? - (How much your '''age''')."
           },
           {
-            "sentence": "'''уиныбжь''' бэ",
-            "translation": "You are old - (Your '''age''' is a lot)."
+            "sentence": "'''уиныбжьыр''' бэ",
+            "translation": "You are old."
           },
           {
             "sentence": "'''синыбжь''' сэ бгъу",
@@ -9234,7 +9190,7 @@
     "ipa": "nəbʑ"
   },
   {
-    "word": "гонэхь",
+    "word": "гонахь",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -9259,11 +9215,27 @@
       {
         "meaning": "leaf",
         "examples": []
+      },
+	  {
+        "meaning": "paper (book)",
+        "examples": []
       }
     ],
     "kabardian": "тхьэмпэ",
     "type": "noun",
     "ipa": "tħaːpa"
+  },
+  {
+    "word": "пк1ашъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "leaf",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "pt͡ʃʼaːʂ"
   },
   {
     "word": "коц",
@@ -9285,17 +9257,21 @@
         "meaning": "vale, dale",
         "examples": [
           {
-            "sentence": "'''к1эйым''' сехыт",
+            "sentence": "'''к1эим''' сехыщт",
             "translation": "I will go down '''to the vale'''."
           },
           {
-            "sentence": "'''к1эйым''' дэсхэр",
+            "sentence": "'''к1эим''' дэсхэр",
             "translation": "the people that are (sitting) '''in the vale'''."
           }
         ]
       },
       {
         "meaning": "valley",
+        "examples": []
+      },
+      {
+        "meaning": "lowland",
         "examples": []
       }
     ],
@@ -9305,6 +9281,18 @@
     ],
     "type": "noun",
     "ipa": "t͡ʃʼaj"
+  },
+  {
+    "word": "к1ах",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "lower, down (from a higher to a lower position, downwards)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃʼaːx"
   },
   {
     "word": "къэц",
@@ -9356,7 +9344,7 @@
     "ipa": "t͡ʃʼaħə"
   },
   {
-    "word": "хыгъунэ",
+    "word": "хы гъунэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -9371,7 +9359,7 @@
       "хыгъунэ"
     ],
     "type": "noun",
-    "ipa": "xəʁʷəna"
+    "ipa": "xə ʁʷəna"
   },
   {
     "word": "хыгъунэ",
@@ -9389,7 +9377,7 @@
       "хыгъунэ"
     ],
     "type": "noun",
-    "ipa": "xə ʁʷəna"
+    "ipa": "xəʁʷəna"
   },
   {
     "word": "тэрэз",
@@ -9415,7 +9403,7 @@
             "translation": "The boy is coming to my house '''a lot'''."
           },
           {
-            "sentence": "'''Бэрэ''' тхылъхэмэ саджэ",
+            "sentence": "'''Бэрэ''' тхылъмэ саджэ",
             "translation": "I read the books '''many times'''."
           }
         ]
@@ -9434,12 +9422,29 @@
     "ipa": "bara"
   },
   {
-    "word": "иужым",
+    "word": "ыуж",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "after",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''ыуж''' 1ут пшъашъэр хэт ош1а?",
+            "translation": "Do you know the girl that is standing '''after''' the boy?"
+          },
+		  {
+            "sentence": "Мы фылымым '''ыуж''' сыд тыш1эщтыр?",
+            "translation": "What we going to do '''after''' this movie?"
+          },
+		  {
+            "sentence": "'''Сыужы''' оры лэжьэщтыр",
+            "translation": "'''After me''' you're the one that going to work."
+          },
+		  {
+            "sentence": "Ащ '''ыужэу''' уцу",
+            "translation": "Stood '''after''' him."
+          }
+        ]
       }
     ],
     "type": "adv",
@@ -9453,11 +9458,11 @@
         "meaning": "early",
         "examples": [
           {
-            "sentence": "'''пасэу''' скъэк1уагъ",
+            "sentence": "'''пасэу''' сыкъэк1уагъ",
             "translation": "I came '''early'''."
           },
           {
-            "sentence": "'''пасэу''' непэ тагъэлэжэт",
+            "sentence": "'''пасэу''' непэ тагъэлэжьэщт",
             "translation": "Today they will make us work '''early'''."
           },
           {
@@ -9478,8 +9483,21 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"пасэ\"",
-        "examples": []
+        "meaning": "early",
+        "examples": [
+          {
+            "sentence": "'''пасэу''' сыкъэк1уагъ",
+            "translation": "I came '''early'''."
+          },
+          {
+            "sentence": "'''пасэу''' непэ тагъэлэжьэщт",
+            "translation": "Today they will make us work '''early'''."
+          },
+          {
+            "sentence": "'''пасэ'''",
+            "translation": "It's '''early'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -9496,11 +9514,11 @@
         "meaning": "late",
         "examples": [
           {
-            "sentence": "'''лъэжъуагъэу''' скъэк1уагъ",
+            "sentence": "'''лъэжъуагъэу''' сыкъэк1уагъ",
             "translation": "I came '''to late'''."
           },
           {
-            "sentence": "'''лъэжъуагъэу''' непэ тагъэлэжэт",
+            "sentence": "'''лъэжъуагъэу''' непэ тагъэлэжьэщт",
             "translation": "Today they will make us work '''late'''."
           }
         ]
@@ -9514,7 +9532,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "right (the opposite of left)",
+        "meaning": "right (right side or direction)",
         "examples": []
       }
     ],
@@ -9604,10 +9622,6 @@
             "translation": "He is an beekeeper '''expert''', but he does not want to be in a beekeeping job."
           }
         ]
-      },
-      {
-        "meaning": "doctor",
-        "examples": []
       }
     ],
     "synonyms": [
@@ -9629,23 +9643,15 @@
     "ipa": "ʔaɬmaq"
   },
   {
-    "word": "апшъ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "wrist",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "aːpʂ"
-  },
-  {
     "word": "мэлак1э л1эн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to starve (To be very hungry, to die from hunger).",
+        "meaning": "to starve (to be very hungry, to die from hunger)",
+        "examples": []
+      },
+	  {
+        "meaning": "to be hungry",
         "examples": []
       }
     ],
@@ -9692,14 +9698,38 @@
     "ipa": "faːba pan"
   },
   {
-    "word": "л1ык1ын",
+    "word": "пэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to be nervous, to feel nervoust",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "pan"
+  },
+  {
+    "word": "чъы1эл1апх",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "a person who is too sensitive to cold",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "t͡ʂəʔaɬʼaːpx"
+  },
+  {
+    "word": "ил1ык1ын",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to die (caused by something)",
         "examples": [
           {
-            "sentence": "уысым к1алэр '''ил1ык1эгъ'''",
+            "sentence": "узым к1алэр '''ил1ык1ыгъ'''",
             "translation": "The boy '''died from''' the disease."
           }
         ]
@@ -9707,18 +9737,6 @@
     ],
     "type": "verb",
     "ipa": "ɬˤʼəkʲʼən"
-  },
-  {
-    "word": "1оталъ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "wisp",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ʔʷataːɬ"
   },
   {
     "word": "1уагъэ",
@@ -9740,17 +9758,17 @@
         "meaning": "to sell",
         "examples": [
           {
-            "sentence": "К1алэм '''ещэ''' бэнанэ",
-            "translation": "The boy ''''is selling''' a banana."
+            "sentence": "К1алэм '''ещэ''' мы1эрыс",
+            "translation": "The boy ''''is selling''' an apple."
           },
           {
-            "sentence": "К1алэм '''ищэрэп''' мыр",
+            "sentence": "К1алэм '''ыщэрэп''' мыр",
             "translation": "The boy ''''is not selling''' this."
           }
         ]
       },
       {
-        "meaning": "to take someone to, to bring someone somewhere",
+        "meaning": "to take someone to; to bring someone to; to escort someone to; to walk someone to",
         "examples": [
           {
             "sentence": "К1алэм '''ешэ''' пшъашъэр еджап1эм",
@@ -9778,7 +9796,7 @@
         "meaning": "to lead",
         "examples": [
           {
-            "sentence": "тхьаматым тэ заом '''тещэ'''",
+            "sentence": "тхьаматэм тэ заом '''тещэ'''",
             "translation": "The leader '''is leading''' us to the war."
           }
         ]
@@ -9815,6 +9833,18 @@
     ],
     "type": "verb",
     "ipa": "zaɡʷaʐən"
+  },
+  {
+    "word": "зэгонэсыгъэх",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "respecting/fitting/pleasing with each other",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "psəwəna"
   },
   {
     "word": "псыунэ",
@@ -9973,23 +10003,11 @@
     "ipa": "jaʑxa"
   },
   {
-    "word": "дыуэр",
+    "word": "мор",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "that, that person: that person or object (absolutive case)",
-        "examples": []
-      }
-    ],
-    "type": "pron",
-    "ipa": "dəwar"
-  },
-  {
-    "word": "уэр",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "that",
+        "meaning": "that (visible)",
         "examples": []
       }
     ],
@@ -9997,7 +10015,7 @@
     "ipa": "war"
   },
   {
-    "word": "мэхэр",
+    "word": "мыхэр",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -10019,7 +10037,7 @@
         "meaning": "smell",
         "examples": [
           {
-            "sentence": "Пшъашъэм къэгъагъэмэ '''ямэ''' шъу елъэгъу",
+            "sentence": "Пшъашъэм къэгъагъэмэ '''ямэ''' шӏу елъэгъу",
             "translation": "The girl loves the flower's '''smell'''."
           }
         ]
@@ -10027,21 +10045,6 @@
     ],
     "type": "noun",
     "ipa": "ma"
-  },
-  {
-    "word": "дыухэр",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "(absolutive case) those",
-        "examples": [],
-        "tags": [
-          "absolutive case"
-        ]
-      }
-    ],
-    "type": "pron",
-    "ipa": "dəwar"
   },
   {
     "word": "ащгъум",
@@ -10055,37 +10058,11 @@
     "type": "adv"
   },
   {
-    "word": "чъуман",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"цуманэ\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "цуманэ"
-    ],
-    "type": "noun",
-    "ipa": "t͡ʃʷəmaːn"
-  },
-  {
-    "word": "ашафы",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "millet",
-        "examples": []
-      }
-    ],
-    "type": "noun"
-  },
-  {
     "word": "мэу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "here",
+        "meaning": "(dialectal) here",
         "examples": [
           {
             "sentence": "'''мэу''' къак1у",
@@ -10106,109 +10083,36 @@
     "ipa": "maw"
   },
   {
-    "word": "уыд",
+    "word": "мок1э",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "there",
+        "meaning": "there (visible)",
         "examples": [
           {
-            "sentence": "'''уыд'''э к1о",
+            "sentence": "'''мок1э'''э к1о",
             "translation": "go '''there'''"
           },
           {
-            "sentence": "'''уыд'''э гъэт1ылъ",
+            "sentence": "'''мок1э''' гъэт1ылъ",
             "translation": "put it '''there'''"
           },
           {
-            "sentence": "'''уыд'''э ущымыщх",
+            "sentence": "'''мок1э''' ущымыщх",
             "translation": "don't eat '''there'''"
           }
         ]
       }
     ],
     "type": "adv",
-    "ipa": "wəd"
-  },
-  {
-    "word": "1а",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "that",
-        "examples": [
-          {
-            "sentence": "'''а''' бэнанэ",
-            "translation": "'''that''' banana"
-          },
-          {
-            "sentence": "'''а''' пшъашъэ",
-            "translation": "'''that''' girl"
-          },
-          {
-            "sentence": "'''а''' к1алэм е1уэ",
-            "translation": "'''that''' boy is saying"
-          }
-        ]
-      }
-    ],
-    "type": "det",
-    "ipa": "ʔaː"
-  },
-  {
-    "word": "дыу",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "that",
-        "examples": [
-          {
-            "sentence": "'''дыу''' бэнанэ",
-            "translation": "'''that''' banana"
-          },
-          {
-            "sentence": "'''дыу''' пшъашъэ",
-            "translation": "'''that''' girl"
-          },
-          {
-            "sentence": "'''дыу''' к1алэм е1уэ",
-            "translation": "'''that''' boy is saying"
-          }
-        ]
-      }
-    ],
-    "type": "det",
-    "ipa": "dəw"
-  },
-  {
-    "word": "мэхъагьэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"мэхъаджэ\"",
-        "examples": []
-      }
-    ],
-    "type": "adj",
-    "ipa": "maχaːɡʲa"
-  },
-  {
-    "word": "мэбагъо",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "it abounds",
-        "examples": []
-      }
-    ],
-    "type": "verb"
+    "ipa": "mawt͡ʃʼa"
   },
   {
     "word": "пхъатэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "importnace",
+        "meaning": "importnace; value (the degree of importance given to something)",
         "examples": []
       }
     ],
@@ -10223,7 +10127,7 @@
         "meaning": "arrogant, haughty, prideful",
         "examples": [
           {
-            "sentence": "К1алэм '''пагэу''' и1уагъэ",
+            "sentence": "К1алэм '''пагэу''' ы1уагъэ",
             "translation": "The boy said '''arrogantly'''."
           },
           {
@@ -10231,14 +10135,10 @@
             "translation": "The boy '''is arrogant'''."
           },
           {
-            "sentence": "'''Зымгъэпаг'''",
+            "sentence": "'''Зымыгъэпаг'''",
             "translation": "'''Don't be arrogant'''."
           }
         ]
-      },
-      {
-        "meaning": "haughty",
-        "examples": []
       }
     ],
     "type": "adj",
@@ -10273,27 +10173,48 @@
     "type": "noun"
   },
   {
-    "word": "мэдрэ",
+    "word": "мыдрэ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "this other",
         "examples": [
           {
-            "sentence": "'''мэдрэ''' бэнанэ",
+            "sentence": "'''мыдрэ''' бэнанэ",
             "translation": "'''this other''' banana"
           },
           {
-            "sentence": "'''мэдрэ''' пшъашъэ",
+            "sentence": "'''мыдрэ''' пшъашъэ",
             "translation": "'''this other''' girl"
           },
           {
-            "sentence": "'''мэдрэ''' к1алэм е1уэ",
+            "sentence": "'''мыдрэ''' к1алэм е1о",
             "translation": "'''this other''' boy is saying"
+          }
+        ]
+      }
+    ],
+    "type": "det",
+    "ipa": "madra"
+  },
+  {
+    "word": "модрэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "that other (visible)",
+        "examples": [
+          {
+            "sentence": "'''модрэ''' бэнанэ",
+            "translation": "'''that other''' banana"
           },
           {
-            "sentence": "'''мэдрэ''' мэгъэ",
-            "translation": "'''this other''' year"
+            "sentence": "'''модрэ''' пшъашъэ",
+            "translation": "'''that other''' girl"
+          },
+          {
+            "sentence": "'''модрэ''' к1алэм е1о",
+            "translation": "'''that other''' boy is saying"
           }
         ]
       }
@@ -10306,7 +10227,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "that other",
+        "meaning": "that other (invisible)",
         "examples": [
           {
             "sentence": "'''адрэ''' бэнанэ",
@@ -10317,127 +10238,17 @@
             "translation": "'''that other''' girl"
           },
           {
-            "sentence": "'''адрэ''' к1алэм е1уэ",
+            "sentence": "'''адрэ''' к1алэм е1о",
             "translation": "'''that other''' boy is saying"
           },
           {
-            "sentence": "'''адрэ''' мэгъэ",
+            "sentence": "'''адрэ''' мыгъэ",
             "translation": "'''that other''' year"
           }
         ]
       }
     ],
     "type": "det"
-  },
-  {
-    "word": "мэдрэр",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "(absolutive case) this other",
-        "examples": [
-          {
-            "sentence": "'''мэдрэр''' мак1о",
-            "translation": "'''this other''' is going"
-          },
-          {
-            "sentence": "'''мэдрэр''' дахэ",
-            "translation": "'''this other''' is pretty"
-          }
-        ],
-        "tags": [
-          "absolutive case"
-        ]
-      }
-    ],
-    "type": "pron",
-    "ipa": "madra"
-  },
-  {
-    "word": "адрэр",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "(absolutive case) that other",
-        "examples": [
-          {
-            "sentence": "'''адрэр''' мак1о",
-            "translation": "'''that other''' is going"
-          },
-          {
-            "sentence": "'''адрэр''' дахэ",
-            "translation": "'''that other''' is pretty"
-          }
-        ],
-        "tags": [
-          "absolutive case"
-        ]
-      }
-    ],
-    "type": "pron"
-  },
-  {
-    "word": "уыдрэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "that other",
-        "examples": [
-          {
-            "sentence": "'''уыдрэ''' бэнанэ",
-            "translation": "'''that other''' banana"
-          },
-          {
-            "sentence": "'''уыдрэ''' пшъашъэ",
-            "translation": "'''that other''' girl"
-          },
-          {
-            "sentence": "'''уыдрэ''' к1алэм е1уэ",
-            "translation": "'''that other''' boy is saying"
-          },
-          {
-            "sentence": "'''уыдрэ''' мэгъэ",
-            "translation": "'''that other''' year"
-          }
-        ]
-      }
-    ],
-    "type": "det"
-  },
-  {
-    "word": "уыдрэр",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "(absolutive case) that other",
-        "examples": [
-          {
-            "sentence": "'''уыдрэр''' мак1о",
-            "translation": "'''that other''' is going"
-          },
-          {
-            "sentence": "'''уыдрэр''' дахэ",
-            "translation": "'''that other''' is pretty"
-          }
-        ],
-        "tags": [
-          "absolutive case"
-        ]
-      }
-    ],
-    "type": "pron"
-  },
-  {
-    "word": "гьары",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"джары\"",
-        "examples": []
-      }
-    ],
-    "type": "adv",
-    "ipa": "ɡʲaːrə"
   },
   {
     "word": "лъэ1он",
@@ -10447,19 +10258,55 @@
         "meaning": "to pray, to beg",
         "examples": [
           {
-            "sentence": "тхьэм '''елъэ1у''' нэхь 1эш1эхыу къупфиш1ныу",
-            "translation": "'''Prey/beg''' god to make it easier for you."
+            "sentence": "л1ым '''мэлъа1о'''",
+            "translation": "The man is '''begging'''."
+          },
+		  {
+            "sentence": "лъэ1уак1ор ахъщэм '''фэлъа1о'''",
+            "translation": "The beggar is '''begging''' for money."
+          },
+		  {
+            "sentence": "тхьэм '''елъэ1у''' нfхь 1эш1эхэу къыпфиш1нэу",
+            "translation": "'''Prey to''' god to make it easier for you."
           },
           {
-            "sentence": "к1алэр тхьэм '''елъэ1о''' псэоныу",
-            "translation": "The boy '''is preying/begging''' god to stay healthy."
+            "sentence": "к1алэр тхьэм '''елъэ1у''' псэонэу",
+            "translation": "The boy '''is praying to''' god to stay healthy."
           },
           {
-            "sentence": "к1алэр иятэ '''елъэ1о''' джэгуалъэ къыфищэфныу",
+            "sentence": "к1алэр иятэ '''елъэ1у''' джэгуалъэ къыфищэфнэу",
             "translation": "The boy '''is begging''' his father to buy him a toy."
           },
           {
-            "sentence": "'''усэлъэ1у''' ащтыу умыш1",
+            "sentence": "'''усэлъэ1у''' ащтэу умыш1",
+            "translation": "'''I am begging you''' not to do that."
+          }
+        ]
+      }
+    ],
+    "type": "verb"
+  },
+  {
+    "word": "елъэ1ун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to pray to, to beg someone",
+        "examples": [
+          {
+            "sentence": "тхьэм '''елъэ1у''' нахь 1эш1эхэу къыпфиш1нэу",
+            "translation": "'''Prey to''' god to make it easier for you."
+          },
+          {
+            "sentence": "к1алэр тхьэм '''елъэ1у''' псэонэу",
+            "translation": "The boy '''is praying to''' god to stay healthy."
+          },
+          {
+            "sentence": "к1алэр иятэ '''елъэ1у''' джэгуалъэ къыфищэфнэу",
+            "translation": "The boy '''is begging''' his father to buy him a toy."
+          },
+          {
+            "sentence": "'''усэлъэ1у''' ащтэу умыш1",
             "translation": "'''I am begging you''' not to do that."
           }
         ]
@@ -10510,7 +10357,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "urine, piss",
+        "meaning": "urine, piss, pee",
         "examples": []
       }
     ],
@@ -10529,7 +10376,19 @@
     "ipa": "aːʃto"
   },
   {
-    "word": "мэшто",
+    "word": "мыщтэу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "like this",
+        "examples": []
+      }
+    ],
+    "type": "adv",
+    "ipa": "maʃto"
+  },
+  {
+    "word": "мощтэу",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -10548,11 +10407,11 @@
         "meaning": "midnight",
         "examples": [
           {
-            "sentence": "'''чэщныкъом''' тк1от йуропа",
-            "translation": "'''In midnight''', we will go to Europe."
+            "sentence": "'''чэщныкъом''' тык1ощт къалэм",
+            "translation": "'''In midnight''', we will go to the city."
           },
           {
-            "sentence": "'''чэщныкъом''' томэр къэк1уагъ",
+            "sentence": "'''чэщныкъом''' Томэр къэк1уагъ",
             "translation": "'''In midnight''' Tom came."
           }
         ]
@@ -28305,7 +28164,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "button",
+        "meaning": "button (clothes and pants)",
         "examples": []
       }
     ],
@@ -38309,7 +38168,7 @@
     "ipa": "məʁʷa"
   },
   {
-    "word": "гъопэк1аку",
+    "word": "гъопэк1ако",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -49894,7 +49753,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"гонэхь\"",
+        "meaning": "alternative form of \"гонахь\"",
         "examples": []
       }
     ],
