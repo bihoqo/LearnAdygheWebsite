@@ -11659,7 +11659,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "reasonable",
+        "meaning": "comprehension, understanding",
         "examples": []
       }
     ],
@@ -11683,7 +11683,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "drawing horse",
+        "meaning": "gelding (a castrated male horse)",
         "examples": []
       }
     ],
@@ -11697,10 +11697,6 @@
       {
         "meaning": "hunter",
         "examples": []
-      },
-      {
-        "meaning": "honeycomb",
-        "examples": []
       }
     ],
     "type": "noun",
@@ -11711,7 +11707,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "ivy, lablab",
+        "meaning": "ivy",
         "examples": []
       }
     ],
@@ -11722,7 +11718,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Atlas silk",
+        "meaning": "atlas silk",
         "examples": []
       }
     ],
@@ -11733,7 +11729,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "pumpkin",
+        "meaning": "gourd",
         "examples": []
       }
     ],
@@ -11773,7 +11769,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "diamond (brilliant)",
+        "meaning": "brillant (precious stone)",
         "examples": []
       }
     ],
@@ -11805,7 +11801,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "ablution (with Muslims)",
+        "meaning": "(Islam) ablution (the act of washing or cleansing)",
         "examples": []
       }
     ],
@@ -11828,7 +11824,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "white cotton cloth",
+        "meaning": "coarse calico",
         "examples": []
       }
     ],
@@ -11840,7 +11836,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "unknown, unseen",
+        "meaning": "unknown",
         "examples": []
       }
     ],
@@ -11884,23 +11880,11 @@
     "ipa": "aːnd͡ʒaraf ʂʷaw"
   },
   {
-    "word": "антыр",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "clematis, jasmine",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "aːntər"
-  },
-  {
     "word": "нэк1ымазэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "ramadan",
+        "meaning": "ramadan; fasting month",
         "examples": []
       }
     ],
@@ -11954,7 +11938,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "dish, plate, saucer",
+        "meaning": "dish, plate, saucer, bowl",
         "examples": []
       }
     ],
@@ -11973,11 +11957,11 @@
     "type": "noun"
   },
   {
-    "word": "апк1мыжъ",
+    "word": "апчмыжъу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "crystal rock",
+        "meaning": "сrystalline rock",
         "examples": []
       }
     ],
@@ -12001,7 +11985,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "сrystal lens, magnifying glass, glass lens",
+        "meaning": "magnifying lens, glass lens",
         "examples": []
       }
     ],
@@ -12022,6 +12006,36 @@
     ],
     "type": "noun",
     "ipa": "aːpkʲʂħatat"
+  },
+  {
+    "word": "остыгъэшъхьэтет",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "lamp glass",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "остыгъэ"
+    ],
+    "type": "noun",
+    "ipa": "wastəʁaʂħatajt"
+  },
+  {
+    "word": "остыгъашъхь",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "burner (of a gas range, heater or light using liquid or gas fuel)",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "остыгъэ"
+    ],
+    "type": "noun",
+    "ipa": "wastəʁaʂħatajt"
   },
   {
     "word": "к1эгъэнэн",
@@ -12125,8 +12139,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"япэрэ\"",
-        "examples": []
+        "meaning": "first",
+        "examples": [
+          {
+            "sentence": "'''апэрэ''' ц1ыфым ы1уагъ",
+            "translation": "'''the first''' guy said."
+          },
+		  {
+            "sentence": "сэ '''апэрэу''' сыкъэсыгъ",
+            "translation": "I came '''first'''."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -12138,7 +12161,12 @@
     "definitions": [
       {
         "meaning": "firstly, for the first time",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "сэ '''апэрэу''' сыкъэсыгъ",
+            "translation": "I came '''first'''."
+          }
+        ]
       }
     ],
     "type": "adv",
@@ -12150,10 +12178,6 @@
     "definitions": [
       {
         "meaning": "country",
-        "examples": []
-      },
-      {
-        "meaning": "state",
         "examples": []
       }
     ],
@@ -12273,29 +12297,6 @@
     "ipa": "aːrχʷaʐ"
   },
   {
-    "word": "архъуан",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "vortex",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "aːrχʷaːn"
-  },
-  {
-    "word": "арыкъ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "Artificial channel; brook; irrigation ditch; ravine; rivulet.",
-        "examples": []
-      }
-    ],
-    "type": "noun"
-  },
-  {
     "word": "арышъ",
     "lang": "Adyghe",
     "definitions": [
@@ -12361,18 +12362,18 @@
     "ipa": "aːsɬaːnʃər"
   },
   {
-    "word": "аужым",
+    "word": "ауж",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "at last",
-        "examples": [
+        "examples":  
           {
-            "sentence": "'''Аужым''' ит к1алэр",
+            "sentence": "'''Аужэу''' ит к1алэр",
             "translation": "The boy is standing '''last'''."
           },
           {
-            "sentence": "Фылымым '''иаужырэ''' дакъэм твист и1агъ",
+            "sentence": "Фылымым '''аужырэ''' такъикъэм твист и1агъ",
             "translation": "The '''last''' minute of the film had a twist."
           }
         ]
@@ -12407,7 +12408,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Ouch, ach: an expression of pain.",
+        "meaning": "ouch, ach: an expression of pain.",
         "examples": [
           {
             "sentence": "'''ахъ!''', мэузы ар",
@@ -12484,7 +12485,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "A coin toss, a coin flip.",
+        "meaning": "alternative form of \"ахъщэдэфый\"",
         "examples": []
       }
     ],
@@ -12496,11 +12497,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "small money",
-        "examples": []
-      },
-      {
-        "meaning": "coin",
+        "meaning": "alternative form of \"ахъщэжъгъэй\"",
         "examples": []
       }
     ],
@@ -12519,7 +12516,7 @@
             "translation": "Every year the people that are working '''are changing'''."
           },
           {
-            "sentence": "К1алэм ику '''зиблыхъогъ'''",
+            "sentence": "К1алэм ику '''зиблыхъугъ'''",
             "translation": "The boy '''has replaced''' his car."
           },
           {
@@ -12527,11 +12524,11 @@
             "translation": "'''Replace''' this broken table."
           },
           {
-            "sentence": "Пхъэнт1эк1оу узисэ '''зэблэпхъурагъуа?'''",
-            "translation": "'''Do you wanna replace''' the chair you are sitting in?"
+            "sentence": "Пхъэнт1эк1оу узисэр '''зэблэпхъунэу''' уфая?",
+            "translation": "'''Do you want to replace''' the chair you are sitting in?"
           },
           {
-            "sentence": "Къэгъагъэм ишъо '''зэблэхъу'''",
+            "sentence": "Къэгъагъэм ышъо '''зэблэхъу'''",
             "translation": "The flower's color '''changes'''."
           }
         ]
@@ -12545,7 +12542,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Exchange office, bank",
+        "meaning": "alternative form of \"ахъщэзэблэхъущ\"",
         "examples": []
       }
     ],
@@ -12557,7 +12554,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "counterfeit money",
+        "meaning": "alternative form of \"ахъщэмык1у\"",
         "examples": []
       }
     ],
@@ -12569,7 +12566,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Forfeited money",
+        "meaning": "alternative form of \"ахъщэнэпц1\"",
         "examples": []
       }
     ],
@@ -12577,11 +12574,11 @@
     "ipa": "aːχt͡ʃanapt͡sʼ"
   },
   {
-    "word": "ахъчэнэпц1ш1",
+    "word": "ахъщэнэпц1ш1",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "forfeiter",
+        "meaning": "counterfeit money",
         "examples": []
       }
     ],
@@ -12593,7 +12590,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"1эхын\"",
+        "meaning": "misspelled of \"1ыхын\"",
         "examples": []
       }
     ],
@@ -12629,7 +12626,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "actor, comedian",
+        "meaning": "comedian",
         "examples": []
       }
     ],
@@ -12641,7 +12638,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "old goat",
+        "examples": []
+      },
+	  {
         "meaning": "ibex",
+        "examples": []
+      },
+	  {
+        "meaning": "clown",
         "examples": []
       }
     ],
@@ -12656,23 +12661,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "unaccountable; unacknowledged; unrecognized",
+        "meaning": "unacknowledged; unrecognized",
         "examples": []
       }
     ],
     "type": "adj"
-  },
-  {
-    "word": "аш1эгъудж",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "crop, harvest, produce, yield",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "aːʃʼaʁʷəd͡ʒ"
   },
   {
     "word": "ашъо",
@@ -12686,32 +12679,18 @@
             "translation": "He wears the '''chain mail''', he holds the shield."
           }
         ]
-      },
-      {
-        "meaning": "armor",
-        "examples": []
       }
     ],
     "type": "noun",
     "ipa": "aːʂʷa"
   },
   {
-    "word": "ашъок1ад",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "leather, sole",
-        "examples": []
-      }
-    ],
-    "type": "noun"
-  },
-  {
     "word": "ашъоку",
     "lang": "Adyghe",
+	"etymology": "From ашъо (armor) + ку (wagon)",
     "definitions": [
       {
-        "meaning": "tank (armoured fighting vehicle)",
+        "meaning": "tank (armored fighting vehicle)",
         "examples": [],
         "tags": [
           "armoured fighting vehicle"
@@ -12727,6 +12706,10 @@
     "definitions": [
       {
         "meaning": "place",
+        "examples": []
+      },
+	  {
+        "meaning": "area",
         "examples": []
       }
     ],
@@ -12746,7 +12729,7 @@
     "ipa": "bʁʷadad"
   },
   {
-    "word": "мыжъок1ашъхъ",
+    "word": "мыжъо-пшэхъо зэхэлъ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -12755,14 +12738,14 @@
       }
     ],
     "type": "noun",
-    "ipa": "məʐʷakʲaːʂχ"
+    "ipa": "məʐʷa-pʃaχʷa zaxaɬ"
   },
   {
     "word": "купсэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "The soft internal portion of bread which is surrounded by crust; the crumb. (Compare the German term Krume and the French term mie.)",
+        "meaning": "The soft internal portion of bread which is surrounded by crust; the crumb.",
         "examples": [],
         "tags": [
           "Compare the German term Krume and the French term mie."
@@ -12844,10 +12827,6 @@
         "meaning": "three",
         "examples": []
       }
-    ],
-    "synonyms": [
-      "шъы",
-      "----"
     ],
     "type": "num",
     "ipa": "ɕə"
@@ -13102,44 +13081,23 @@
     "ipa": "ʃant͡ʂa"
   },
   {
-    "word": "плэлэжъ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"пэлэлэжъ\"",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "plˠalˠaʐ"
-  },
-  {
     "word": "емынэ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "plague",
-        "examples": [
-          {
-            "sentence": "'''Емынэ''' елъэгъужьын",
-            "translation": "May (s)he get a '''plague'''; literary: May (s)he see a plague."
-          }
-        ]
+        "examples": []
       },
       {
         "meaning": "(Kfar Kama dialect) (slang) a lot (of)",
         "examples": [
           {
-            "sentence": "К1алэм ахъчэ '''емынэ''' и1",
+            "sentence": "К1алэм ахъщэ '''емынэ''' и1",
             "translation": "The boy has '''a lot of''' money."
           },
           {
-            "sentence": "К1алэ '''емынэ''' е1о ар",
+            "sentence": "К1элэ '''емынэм''' е1о ар",
             "translation": "'''a lot''' of boys say that."
-          },
-          {
-            "sentence": "пшъашъэ '''емынэ''' уи1",
-            "translation": "You have '''a lot of''' girls."
           }
         ],
         "tags": [
@@ -13160,16 +13118,13 @@
         "examples": []
       },
       {
-        "meaning": "bull (Animal)",
+        "meaning": "bull (animal)",
         "examples": []
       },
       {
-        "meaning": "buffalo",
+        "meaning": "bullock  (animal)",
         "examples": []
       }
-    ],
-    "synonyms": [
-      "чъу"
     ],
     "kabardian": "вы",
     "type": "noun",
@@ -13203,7 +13158,7 @@
     "ipa": "jənəʐ"
   },
   {
-    "word": "дэгъналъэ",
+    "word": "дэгъэналъэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -13249,7 +13204,7 @@
     "ipa": "psaːwa"
   },
   {
-    "word": "шэзгъэ",
+    "word": "щэзгъэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -13304,7 +13259,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "smug; complacent",
+        "meaning": "smug; self-satisfied; complacent",
         "examples": []
       }
     ],
@@ -13323,7 +13278,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "blouse, bra, corset",
+        "meaning": "blouse, bra",
         "examples": []
       }
     ],
@@ -13365,7 +13320,7 @@
         "meaning": "to go away from the side of something",
         "examples": [
           {
-            "sentence": "'''Къысбгъодэк1'''.",
+            "sentence": "'''Къызбгъодэк1'''.",
             "translation": "'''Go away from me'''."
           },
           {
@@ -13398,7 +13353,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "feeble, frail, very weak",
+        "meaning": "helpless, very weak",
         "examples": []
       }
     ],
@@ -13410,7 +13365,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "an almond",
+        "meaning": "almond",
         "examples": []
       }
     ],
@@ -13441,7 +13396,7 @@
             "translation": "The man '''is very rich'''."
           },
           {
-            "sentence": "Л1ы '''бэежъэр''' мак1о",
+            "sentence": "Л1ы '''бэежъыр''' мак1о",
             "translation": "'''The very rich''' man is going."
           }
         ]
@@ -13451,11 +13406,11 @@
     "ipa": "bajaʐ"
   },
   {
-    "word": "бэйкол",
+    "word": "байкол",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "entourage (of a king), escort",
+        "meaning": "royal bodyguard",
         "examples": []
       }
     ],
@@ -13463,16 +13418,16 @@
     "ipa": "baːkʷal"
   },
   {
-    "word": "бэйкъогъуз",
+    "word": "1офтабг",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "cockroach",
+        "meaning": "commissionaire",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "baːjqʷaʁʷəz"
+    "ipa": "baːkʷal"
   },
   {
     "word": "бакъмэр",
@@ -13485,6 +13440,42 @@
     ],
     "type": "adj",
     "ipa": "baːqmar"
+  },
+  {
+    "word": "лъыкъэ-псыкъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "covered in blood",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "naqa-paːq"
+  },
+  {
+    "word": "нэкъэ-пакъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "mutilated face",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "naqa-paːq"
+  },
+  {
+    "word": "накъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "weak-sighted",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "naːqa"
   },
   {
     "word": "бамык1",
@@ -13511,18 +13502,6 @@
     "ipa": "jabanən"
   },
   {
-    "word": "мэгъын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"гъын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "maʁən"
-  },
-  {
     "word": "баргъ",
     "lang": "Adyghe",
     "definitions": [
@@ -13539,7 +13518,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "cotton cloth, Print cloth",
+        "meaning": "chintz, calico, printed cotton (fabric)",
         "examples": []
       }
     ],
@@ -13634,23 +13613,23 @@
         "meaning": "too much, very much, too many",
         "examples": [
           {
-            "sentence": "к1алэм ахъчэ '''бащэ''' и1",
+            "sentence": "к1алэм ахъщэ '''бащэ''' и1",
             "translation": "The boy has '''too much''' money."
           },
           {
-            "sentence": "'''бащэрэ''' уиунэ скъак1о",
+            "sentence": "'''бащэрэ''' уиунэ сыкъак1о",
             "translation": "I am coming to your house '''too much'''."
           },
           {
-            "sentence": "к1алэ '''бащэм''' е1уэ ар",
+            "sentence": "к1элэ '''бащэм''' е1о ар",
             "translation": "'''Too many''' of the boys say that."
           },
           {
-            "sentence": "пшъашъэ '''бащэ''' уи1",
-            "translation": "You have '''too many''' girls."
+            "sentence": "сабый '''бащэ''' уи1",
+            "translation": "You have '''too many''' children."
           },
           {
-            "sentence": "'''бащэм''' е1уэ ар",
+            "sentence": "'''бащэм''' е1о ар",
             "translation": "'''Too many people''' say that."
           }
         ]
@@ -13660,11 +13639,11 @@
     "ipa": "baːɕa"
   },
   {
-    "word": "бгалэ",
+    "word": "бгал",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "curser",
+        "meaning": "curser; a person that often curses",
         "examples": []
       }
     ],
@@ -13706,7 +13685,7 @@
     "ipa": "bʁaːʁa"
   },
   {
-    "word": "шамйэ",
+    "word": "шамые",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -13718,23 +13697,11 @@
     "ipa": "ʃaːmja"
   },
   {
-    "word": "гьаур",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"джаур\"",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ɡʲaːwər"
-  },
-  {
     "word": "ешъок1у",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "a person that drinks a lot",
+        "meaning": "alternative form of \"ешъуак1о\"",
         "examples": []
       }
     ],
@@ -13742,7 +13709,7 @@
     "ipa": "jaʂʷakʷʼ"
   },
   {
-    "word": "рэхьэнйэл",
+    "word": "рихьаныел",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -13762,7 +13729,7 @@
         "examples": []
       },
       {
-        "meaning": "root (Plant's root)",
+        "meaning": "root (plant's root)",
         "examples": []
       },
       {
@@ -13830,13 +13797,26 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "dough",
+        "meaning": "alternative form of \"тхьацу\"",
         "examples": []
       }
     ],
     "kabardian": "тхьэв",
     "type": "noun",
     "ipa": "tħat͡ʃʷ"
+  },
+  {
+    "word": "тхьацу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "dough",
+        "examples": []
+      }
+    ],
+    "kabardian": "тхьэв",
+    "type": "noun",
+    "ipa": "tħaːt͡ʃʷ"
   },
   {
     "word": "алъмэкъ",
@@ -13862,7 +13842,7 @@
     "type": "adj"
   },
   {
-    "word": "быдзталъхьэ",
+    "word": "быдзыталъхьэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -13926,7 +13906,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "a rotten smell; stench",
+        "meaning": "moldy smell",
         "examples": []
       }
     ],
@@ -13989,7 +13969,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Two-shutter door",
+        "meaning": "two-shutter door",
         "examples": []
       }
     ],
@@ -14013,24 +13993,12 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "annoying, Leaning while walking, talkative",
+        "meaning": "someone who leans while walking",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "bʁʷənd͡ʒərəkʷʼ"
-  },
-  {
-    "word": "бгъурыш1",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "attached to the side, hanging, Reserve horse to a wagon",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "bʁʷərəʃʼ"
   },
   {
     "word": "мы1уш",
@@ -14045,23 +14013,11 @@
     "ipa": "məʔʷəʃ"
   },
   {
-    "word": "бгъусы",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "big bed cover, big quilt",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "bʁʷəsə"
-  },
-  {
     "word": "бгъушы",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "hay, straw",
+        "meaning": "hay",
         "examples": []
       }
     ],
@@ -14075,10 +14031,6 @@
       {
         "meaning": "falcon (used for hunting)",
         "examples": []
-      },
-      {
-        "meaning": "hawk (domesticated)",
-        "examples": []
       }
     ],
     "type": "noun",
@@ -14089,7 +14041,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "glade",
+        "meaning": "young ewe (female sheep)",
         "examples": []
       }
     ],
@@ -14101,7 +14053,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "new house",
+        "meaning": "new building",
         "examples": []
       }
     ],
@@ -14134,11 +14086,23 @@
     "ipa": "bʁaʐ"
   },
   {
+    "word": "къэхъугъак1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "newborn",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "qaχʷəʁaːt͡ʃʼ"
+  },
+  {
     "word": "бгъэк1эс",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "baby, infant, suckling",
+        "meaning": "baby, infant, newborn",
         "examples": []
       }
     ],
@@ -14150,7 +14114,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "breast meat (of a bird)",
+        "meaning": "chicken breast (food)",
         "examples": []
       }
     ],
@@ -14162,7 +14126,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "sedge; bulrush (dried)",
+        "meaning": "sedge",
         "examples": []
       }
     ],
@@ -14170,16 +14134,16 @@
     "ipa": "bʁanə"
   },
   {
-    "word": "бгъэпс",
+    "word": "псыуц",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "belt; string, thread",
+        "meaning": "sedge",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "bʁaps"
+    "ipa": "psəwət͡s"
   },
   {
     "word": "бгъэузы",
@@ -14198,7 +14162,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "decoration",
+        "meaning": "badge",
         "examples": []
       },
       {
@@ -14240,6 +14204,10 @@
       {
         "meaning": "brooch",
         "examples": []
+      },
+	  {
+        "meaning": "chest clip",
+        "examples": []
       }
     ],
     "type": "noun",
@@ -14273,7 +14241,7 @@
     "ipa": "bɣəbza"
   },
   {
-    "word": "бгыгъуан",
+    "word": "бгыгъуанэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -14289,7 +14257,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "beam, girder",
+        "meaning": "beam, girder, bar, baulk",
         "examples": []
       }
     ],
@@ -14297,11 +14265,23 @@
     "ipa": "bɣəqʷ"
   },
   {
-    "word": "бгыкъупхъ",
+    "word": "пхъэцу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "rafter",
+        "meaning": "rafter (series of sloped beams)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "pχat͡ʃʷ"
+  },
+  {
+    "word": "бгыкъупхъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "material for crossbeam, beams",
         "examples": []
       }
     ],
@@ -14313,7 +14293,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "mountainous region",
+        "meaning": "hilly",
         "examples": []
       }
     ],
@@ -14321,11 +14301,35 @@
     "ipa": "bɣəɬa"
   },
   {
+    "word": "1ошъхьалъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "hilly",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʔʷaʂħaːɬa"
+  },
+  {
+    "word": "т1ыбгы-сыбг",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "bumpy; hilly; uneven",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʔʷaʂħaːɬa"
+  },
+  {
     "word": "бгынагъэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "neglected",
+        "meaning": "abandoned (forsaken, deserted)",
         "examples": []
       }
     ],
@@ -14338,10 +14342,6 @@
     "definitions": [
       {
         "meaning": "beltless",
-        "examples": []
-      },
-      {
-        "meaning": "a person that wears no belt",
         "examples": []
       }
     ],
@@ -14389,7 +14389,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Mountain slope.",
+        "meaning": "mountain edge",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "bɣəpa"
+  },
+  {
+    "word": "бгы1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "mountain edge",
         "examples": []
       }
     ],
@@ -14456,7 +14468,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Mountain base.",
+        "meaning": "foot of the hill; mountain base",
         "examples": []
       }
     ],
@@ -14468,7 +14480,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "mountainside",
+        "meaning": "foot of the hill; mountain base",
         "examples": []
       }
     ],
@@ -14492,7 +14504,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "curser",
+        "meaning": "curser; one who curses/damns a lot",
         "examples": []
       }
     ],
@@ -14529,38 +14541,36 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "spade",
+        "meaning": "grain shovel (wheat, etc.)",
         "examples": []
       }
     ],
-    "synonyms": [
-      "белэ"
-    ],
     "type": "noun",
     "ipa": "ʐʷatχʷ"
+  },
+  {
+    "word": "лэжьыгъацэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "grain",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ɮaʑəʁaːt͡sa"
   },
   {
     "word": "байлэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "haybale",
+        "meaning": "(dialectal) haybale",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "baːjla"
-  },
-  {
-    "word": "бетэман",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "miserable, nothing, trifle, unlucky, useless",
-        "examples": []
-      }
-    ],
-    "type": "adj"
   },
   {
     "word": "бжалэ",
@@ -14575,11 +14585,15 @@
     "ipa": "bʒaːla"
   },
   {
-    "word": "бжамэ",
+    "word": "к1эпсэжъый",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "packthread",
+        "examples": []
+      },
+	  {
+        "meaning": "small rope",
         "examples": []
       }
     ],
@@ -14587,11 +14601,35 @@
     "ipa": "bʒaːma"
   },
   {
+    "word": "тхьак1умак1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "earlobe",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "tħaːkʷʼəmaːt͡ʃʼ"
+  },
+  {
+    "word": "к1эгъутхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to wet (to accidentally/uncontrollably urinate)",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "t͡ʃʼaʁʷətħaːn"
+  },
+  {
     "word": "бжъаб",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "ibex",
+        "meaning": "large-horned deer",
         "examples": []
       }
     ],
@@ -14614,7 +14652,7 @@
     "ipa": "bʐaːkʷa"
   },
   {
-    "word": "бэкълауэ",
+    "word": "бэкъылао",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -74045,7 +74083,7 @@
         "examples": []
       },
       {
-        "meaning": "mannerless (literally); unmannered; ill-mannered",
+        "meaning": "mannerless; unmannered; ill-mannered",
         "examples": []
       }
     ],
@@ -100622,18 +100660,6 @@
     ],
     "type": "noun",
     "ipa": "qʷəʂħat͡ʂʼas"
-  },
-  {
-    "word": "к1эпсэжъый",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "small rope",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "t͡ʃʼapsaʐəj"
   },
   {
     "word": "шытехъу",

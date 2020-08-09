@@ -393,7 +393,7 @@
     "angle": "къуапэ; къогъо"
   },
   {
-    "corner": "къогъо; къуач1э; къуапэ"
+    "corner": "къогъо; къуач1э; къуапэ; (dialectal) къурнэ"
   },
   {
     "solitude": "зэкъоныгъ"
@@ -1974,7 +1974,10 @@
     "to have the right to": "фитын"
   },
   {
-    "pocket": "джыбэ"
+    "pocket": "джыбэ; бгъэджыб (chest pocket)"
+  },
+  {
+    "newborn": "къэхъугъак1"
   },
   {
     "tongs": "1адэ"
@@ -2472,25 +2475,28 @@
     "bear cub": "акъуш"
   },
   {
-    "reasonable": "акъылыгъу"
+    "comprehension": "акъылыгъу"
   },
   {
     "Allah": "Алахь"
   },
   {
-    "drawing horse": "алашэ"
+    "gelding": "алашэ"
   },
   {
     "hunter": "шак1о"
   },
   {
-    "honeycomb": "шъоу хьакIу"
+    "huntress": "бзылъфыгъ шак1о"
+  },
+  {
+    "honeycomb": "шъоу хьак1у"
   },
   {
     "ivy": "алмэстышъхьэц"
   },
   {
-    "lablab": "алмэстышъхьэц"
+    "gourd": "алыркъэб"
   },
   {
     "atlas silk": "алтэс"
@@ -2571,7 +2577,16 @@
     "bowl": "апскурб; апс курб"
   },
   {
-    "crystal rock": "апк1мыжъ"
+    "magnifying lens": "апчхьэл"
+  },
+  {
+    "lamp glass": "апчшъхьэтет; остыгъэшъхьэтет"
+  },
+  {
+    "burner": "остыгъашъхь"
+  },
+  {
+    "glass lens": "апчхьэл"
   },
   {
     "glass installer": "апчхалъхь"
@@ -2643,7 +2658,7 @@
     "boa constrictor": "архъожъ"
   },
   {
-    "vortex": "архъуан"
+    "vortex": "жьы корен; жьы хьарз"
   },
   {
     "therefor": "арышъ; ащ пае; ащ фэш1ык1э"
@@ -2733,7 +2748,7 @@
     "hauberk": "ашъо"
   },
   {
-    "armor": "ашъо (chain mail); мэ1у (shield)"
+    "armor": "ашъо (chain mail); мэ1у (shield); 1ашэ-шъуашэхэр"
   },
   {
     "leather": "к1ышъо; шъо"
@@ -2835,13 +2850,13 @@
     "giant": "иныжъ"
   },
   {
-    "clothespin": "дэгъыналъэ"
+    "clothespin": "дэгъэналъэ"
   },
   {
     "deep": "куу"
   },
   {
-    "yoghurt": "шэзгъэ; щэгъапц1э"
+    "yoghurt": "щэзгъэ; щэгъапц1э"
   },
   {
     "laundry": "гык1ап1э (wash-house); гык1ыгъэ (laundries)"
@@ -2961,7 +2976,7 @@
     "too many": "бащэ"
   },
   {
-    "curser": "бгалэ"
+    "curser": "бгэрый / бгал (one who curses/damns a lot); хъонал (one who swears a lot)"
   },
   {
     "sheaf": "бганэ"
@@ -2991,7 +3006,7 @@
     "small width": "зэжъу"
   },
   {
-    "dough": "тхьэцу"
+    "dough": "тхьацу"
   },
   {
     "lonely": "зизэкъо; закъо; пыдзыгъэ"
@@ -3033,7 +3048,7 @@
     "straw": "уарзэ"
   },
   {
-    "glade": "бгъэбзы"
+    "ewe": "бгъэбзы"
   },
   {
     "chest pocket": "бгъэджыб"
@@ -3048,13 +3063,16 @@
     "bulrush": "бгъэны"
   },
   {
-    "sedge": "бгъэны"
+    "sedge": "бгъэны; псыуц"
   },
   {
     "tuberculosis": "жъэгъэуз; бгъэузы"
   },
   {
     "decoration": "гъэдэхэныр, гъэкIэрэкIэныр"
+  },
+  {
+    "badge": "бгъэхалъхь"
   },
   {
     "medal": "бгъэхалъхь"
@@ -3078,7 +3096,7 @@
     "defamatory poetry": "бгыбзэ"
   },
   {
-    "tunnel": "бгыгъуан"
+    "tunnel": "бгыгъуанэ"
   },
   {
     "beam": "бгыкъу"
@@ -3087,19 +3105,25 @@
     "girder": "бгыкъу"
   },
   {
-    "rafter": "бгыкъупхъ"
+    "rafter": "пхъэцу"
   },
   {
     "mountainous region": "бгылъэ"
   },
   {
-    "neglected": "бгынагъэ"
+    "hilly": "бгылъэ; 1ошъхьалъэ; т1ыбгы-сыбг"
+  },
+  {
+    "bumpy": "т1ыбгы-сыбг"
+  },
+  {
+    "forsaken": "бгынагъэ; бгынэжьыгъэ; ч1эдзыжьыгъэ"
   },
   {
     "beltless": "бгынт1э"
   },
   {
-    "abandoned": "бгынэжьыгъэ; ч1эдзыжьыгъэ"
+    "abandoned": "бгынагъэ; бгынэжьыгъэ; ч1эдзыжьыгъэ"
   },
   {
     "deserted": "нэк1ы; унэк1ыгъэ"
@@ -3111,7 +3135,7 @@
     "to desert": "бгынэн"
   },
   {
-    "mountain slope": "бгыпэ"
+    "mountain edge": "бгыпэ; бгы1у"
   },
   {
     "waistband": "бгырыпх"
@@ -3141,10 +3165,16 @@
     "mountain peak": "бгышъхь"
   },
   {
-    "curser": "бгэрый"
+    "spade": "къазгъыр"
   },
   {
-    "spade": "жъотхъу"
+    "earlobe": "тхьак1умак1"
+  },
+  {
+    "ear lobe": "тхьак1умак1"
+  },
+  {
+    "to wet": "к1эгъутхьан (to accidentally/uncontrollably urinate)"
   },
   {
     "liana": "бжалэ"
@@ -3156,13 +3186,10 @@
     "packthread": "бжамэ"
   },
   {
-    "ibex": "бжъаб"
-  },
-  {
     "hornless": "бжъако"
   },
   {
-    "baklava": "бэкълауэ"
+    "baklava": "бэкъылао"
   },
   {
     "to waste": "ч1эфын; ахъщэ гъэк1он (to waste money); гъэк1одын"
@@ -4035,10 +4062,10 @@
     "to slow down": "жъажъэу хъун; гъэжъэжъэн; зыгъэжъэжъэн"
   },
   {
-    "stench": "шъумэ"
+    "stench": "шъумэ; мэ 1ай"
   },
   {
-    "stink": "шъумэ"
+    "stink": "шъумэ; мэ 1ай"
   },
   {
     "to envy": "шхъогъон; хъопсэн; ехъопсэн (to envy someone); ешхъогъон (to envy someone); шъугъон"
@@ -4992,10 +5019,10 @@
     "not smooth": "быргусыргу"
   },
   {
-    "uneven": "быргусыргу (uneven road)"
+    "uneven": "быргусыргу (uneven road); т1ыбгы-сыбг (hilly, bumpy)"
   },
   {
-    "bumpy": "быргыт1ырг"
+    "bumpy": "мэшабэ зи1э; быргыт1ырг"
   },
   {
     "tapeworm": "быркусын"
@@ -5961,9 +5988,6 @@
     "root": "лъапсэ; дакъэ"
   },
   {
-    "spade": "къазгъыр"
-  },
-  {
     "gum": "цэлы (flesh round the teeth); сакъыз (gum to chew)"
   },
   {
@@ -6358,6 +6382,15 @@
   },
   {
     "to act slowly": "жъэжъэн"
+  },
+  {
+    "slowly": "жъажъэу; ц1ык1у-ц1ык1оу (little by little)"
+  },
+  {
+    "little by little": "ц1ык1у-ц1ык1оу; т1эк1у-т1эк1оу"
+  },
+  {
+    "gradually": "игъорыгъоу; ц1ык1у-ц1ык1оу; мэк1э-мак1эу"
   },
   {
     "to get weaker": "жъэжъэн"
@@ -6858,10 +6891,10 @@
     "myopic": "набгъэ"
   },
   {
-    "weak-sighted": "набгъэ"
+    "weak-sighted": "набгъэ; накъэ"
   },
   {
-    "poorly seeing": "набгъэ"
+    "poorly seeing": "набгъэ; накъэ"
   },
   {
     "half-blind": "набгъэ"
@@ -11187,7 +11220,7 @@
     "to damn": "бгын; ебгын (to damn someone); еук1ын"
   },
   {
-    "to swear": "хъонэн; ехъонын (to swear someone); хэхъонэн / жэхэхъонэн (to swear at someone's face); хэхъонэхьан / жэхэхъонэхьан (to intensively swear at someone's face)"
+    "to swear": "хъонэн; ехъонын (to swear someone); хэхъонэн / жэхэхъонэн (to swear at someone's face); хэхъонэхьан / жэхэхъонэхьан (to intensively swear at someone's face); хъуанэ егъэшхын (to sweat at someone)"
   },
   {
     "ladle": "къашыкъ"
@@ -15885,7 +15918,7 @@
     "recklessly": "емыгупшысэу; хъущтым пымылъэу"
   },
   {
-    "nonsense": "шъхьэубат; мышъо-мыл; (slightly vulgar) хьэшъутыубат"
+    "nonsense": "шъхьэубат; мышъо-мыл; (slightly vulgar) хьэшъутыубат; (vulgar) шъхьи шъути и1эп"
   },
   {
     "to fart": "къэкъун; къэкъушъун; (Shapsug) къэхъун / къэхъушъун"
@@ -17271,10 +17304,16 @@
     "to imitate": "зыпэш1ыжьын"
   },
   {
-    "bullshit": "(slightly vulgar) хьэшъутыубат"
+    "royal bodyguard": "байкол"
   },
   {
-    "horseshit": "(slightly vulgar) хьэшъутыубат"
+    "commissionaire": "1офтабг"
+  },
+  {
+    "bullshit": "(slightly vulgar) хьэшъутыубат; (vulgar) шъхьи шъути и1эп"
+  },
+  {
+    "horseshit": "(slightly vulgar) хьэшъутыубат; (vulgar) шъхьи шъути и1эп"
   },
   {
     "to bullshit": "(slightly vulgar) хьэшъутыубэтэн; (slightly vulgar) хьэшъуты гъэчэн"
