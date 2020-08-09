@@ -186,7 +186,7 @@
     "lemon": "лимон"
   },
   {
-    "meat": "лы"
+    "meat": "лы; лалэ"
   },
   {
     "flesh": "лы"
@@ -2274,7 +2274,7 @@
     "steel": "шыр; щылыч"
   },
   {
-    "needle": "мастэ"
+    "needle": "мастэ; куцэ (needle for knitting)"
   },
   {
     "pill": "уцы; 1эзэгъу уц"
@@ -3192,7 +3192,7 @@
     "baklava": "бэкъылао"
   },
   {
-    "to waste": "ч1эфын; ахъщэ гъэк1он (to waste money); гъэк1одын"
+    "to waste": "(slang) ахъщэ ч1эфын; ахъщэ гъэк1он (to waste money); гъэк1одын"
   },
   {
     "horse-cloth": "шытехъу"
@@ -3276,6 +3276,9 @@
     "stump": "пхъэтакъэ"
   },
   {
+    "powder-flask": "гынылъ; бжъэкъожъый (gun powder horn)"
+  },
+  {
     "oatmeal": "п1аст1э"
   },
   {
@@ -3345,13 +3348,16 @@
     "trumpet": "турбэ; онджэкъ"
   },
   {
-    "bugler": "бжъэмыяпщ"
+    "trumpet blower": "бжъэмыяпщ"
+  },
+  {
+    "to be okay": "зэгъэн; езэгъыгъ (to be okay with)"
   },
   {
     "flutist": "бжъэмыяпщ"
   },
   {
-    "feeding bottle": "бжъэшъу"
+    "feeding-bottle": "бжъэшъу"
   },
   {
     "price": "уасэ"
@@ -3390,10 +3396,7 @@
     "leek": "бжыны ц1ын"
   },
   {
-    "boxing": "бжыхьак1э"
-  },
-  {
-    "Autumn beginning": "бжыхьапэ"
+    "stable fly": "хьэбадзэ"
   },
   {
     "winter crop(s)": "бжыхьас"
@@ -3429,13 +3432,10 @@
     "beekeeper": "бжьахъо"
   },
   {
-    "male bee": "бжьаш1о"
+    "drone": "бжьаш1о; бжьэш1ожъ"
   },
   {
-    "sting (bee),": "бжьащэ"
-  },
-  {
-    "stinger (bee),": "бжьащэ"
+    "bee sting": "бжьащэ"
   },
   {
     "yoke": "бжьы"
@@ -3483,13 +3483,10 @@
     "bee family": "бжьэбын"
   },
   {
-    "bee queen": "бжьэпщ; бжьэпащ"
+    "bee queen": "бжьэпщ"
   },
   {
-    "bee swarm": "бжьэпч1"
-  },
-  {
-    "bee swarm": "бжьэцы"
+    "bee swarm": "бжьэпч1; бжьэцы"
   },
   {
     "to beekeep": "бжьэхъон"
@@ -3501,13 +3498,13 @@
     "dress designer": "бзак1о"
   },
   {
-    "tailor's cutter": "бзак1о"
+    "cutter": "бзак1о"
   },
   {
     "mute": "бзако (unable to speak)"
   },
   {
-    "quiver": "сагъындакъ; 1убырылъ; бзалъ; бзэкъулъ"
+    "quiver": "сагъындакъ; 1убырылъ; бзалъэ; бзэкъулъ"
   },
   {
     "eloquent": "бзаш1у"
@@ -3546,7 +3543,7 @@
     "fodder": "1ус; былым1ус"
   },
   {
-    "driver": "кугъачъ; куф; зефак1о; кузеф; кушъхьа1ыгъ; шыкуау"
+    "driver": "кугъачъ; куф; зефак1о; кузеф; кушъхьа1ыгъ"
   },
   {
     "defective": "сэкъат"
@@ -3636,10 +3633,10 @@
     "latticework": "сэрай"
   },
   {
-    "kid": "к1элэхъу; к1элэц1ык1у"
+    "kid": "к1элэхъу; к1элэц1ык1у; чэц1ы (kid, young goat)"
   },
   {
-    "kid (young goat)": "чэц1ы"
+    "delight": "гуапэ"
   },
   {
     "swallow": "пц1ашхъо"
@@ -3846,10 +3843,13 @@
     "criminal": "бзэджаш1э"
   },
   {
+    "felon": "бзэджаш1э"
+  },
+  {
     "iteration": "къырик1огъу"
   },
   {
-    "rogue": "бзэджаш1э"
+    "mischief-maker": "ш1ык1ай; шхъухьаш1э"
   },
   {
     "to do mischief": "ш1ык1эен; бзэджэн"
@@ -4347,25 +4347,28 @@
     "snakehead": "блашъхьэ"
   },
   {
-    "to loose": "гъэлэлэн; т1упщын; ит1упщыхьан (to let loose inside something); хэт1упщыхьан (to let loose something into the water, sea, gas, fire, forest)"
+    "loose": "ланлэ"
   },
   {
-    "to let loose": "гъэлэлэн; т1упщын; итIупщыхьан; ит1упщыхьан (to let loose inside something); хэт1упщыхьан (to let loose something into the water, sea, gas, fire, forest)"
+    "to loose": "гъэлэнлэн; т1упщын; ит1упщыхьан (to let loose inside something); хэт1упщыхьан (to let loose something into the water, sea, gas, fire, forest)"
   },
   {
-    "to free": "гъэлэлэн; т1упщын; ит1упщыхьан (to free inside something); хэт1упщыхьан (to free something into the water, sea, gas, fire, forest)"
+    "to let loose": "гъэлэнлэн; т1упщын; итIупщыхьан; ит1упщыхьан (to let loose inside something); хэт1упщыхьан (to let loose something into the water, sea, gas, fire, forest)"
   },
   {
-    "to release": "гъэлэлэн; т1упщын; ит1упщыхьан (to release inside something); хэт1упщыхьан (to release something into the water, sea, gas, fire, forest)"
+    "to free": "гъэлэнлэн; т1упщын; ит1упщыхьан (to free inside something); хэт1упщыхьан (to free something into the water, sea, gas, fire, forest)"
+  },
+  {
+    "to release": "гъэлэнлэн; т1упщын; ит1упщыхьан (to release inside something); хэт1упщыхьан (to release something into the water, sea, gas, fire, forest)"
   },
   {
     "to launch": "т1упщын; дэфыен (to launch upward); дэгъэбыбэен (to launch high)"
   },
   {
-    "to set free": "гъэлэлэн; т1упщын"
+    "to set free": "гъэлэнлэн; т1упщын"
   },
   {
-    "to let go": "гъэлэлэн; т1упщын"
+    "to let go": "гъэлэнлэн; т1упщын"
   },
   {
     "to pass quickly": "псынк1эу блэк1ын; блихын"
@@ -12366,7 +12369,7 @@
     "bedsheet": "п1этехъо"
   },
   {
-    "blanket": "чхы1эн; п1этехъо"
+    "blanket": "чхы1ан; п1этехъо"
   },
   {
     "scales": "п1оны (scales of fish, reptiles, etc.); шъуамп1э"
@@ -12792,10 +12795,28 @@
     "to inform": "е1отэн / е1отэжьын (to inform someone); макъэ егъэ1ун (to inform someone), къэбар егъэш1эн (to inform someone)"
   },
   {
-    "to shiver": "к1эзэзын; тхытхын"
+    "to shiver": "тхытхын"
   },
   {
-    "to tremble": "к1эзэзын; тхытхын"
+    "to tremble": "зэзэн; к1эзэзын"
+  },
+  {
+    "to quake": "сысын"
+  },
+  {
+    "to vibrate": "зэзэн; гъэзэзэн (to vibrate something)"
+  },
+  {
+    "to grow up": "ины хъун; хэхъон"
+  },
+  {
+    "grownup": "такъыр; зыныбжь икъугъэ"
+  },
+  {
+    "grown-up": "такъыр; зыныбжь икъугъэ"
+  },
+  {
+    "earthquake": "ч1ыгусысыныгъ"
   },
   {
     "to shake": "сысын; гъэсысын (to shake something); гъэшк1олъэн (to shake a liquid in a container); зэзэн; гъэзэзэн (to shake something); зыгъэзэзэн (to shake oneself); тхытхын (to shiver, to tremble); к1эзэзын (to shiver, to tremble)"
@@ -12864,7 +12885,16 @@
     "to glue": "тепк1эн (to get glued on); тегъэпк1эн (to glue something on something); ч1эпк1эн (to get glued under); ч1эгъэпк1эн (to glue something under something); ипк1эн (to get glued inside); игъэпк1эн (to glue something inside something); пыпк1эн (to get glued on the surface of an object); пыгъэпк1эн (to glue something on the surface of an object); дэпк1эн (to get glued inside another object); дэгъэпк1эн (to glue something inside another object)"
   },
   {
+    "to plaster": "тепк1эн (to get plastered on); тегъэпк1эн (to plaster something on something); ч1эпк1эн (to get plastered under); ч1эгъэпк1эн (to plaster something under something); ипк1эн (to get plastered inside); игъэпк1эн (to plaster something inside something); пыпк1эн (to get plastered on the surface of an object); пыгъэпк1эн (to plaster something on the surface of an object); дэпк1эн (to get plastered inside another object); дэгъэпк1эн (to plaster something inside another object)"
+  },
+  {
+    "to paste": "тепк1эн (to get pasted on); тегъэпк1эн (to paste something on something); ч1эпк1эн (to get pasted under); ч1эгъэпк1эн (to paste something under something); ипк1эн (to get pasted inside); игъэпк1эн (to paste something inside something); пыпк1эн (to get pasted on the surface of an object); пыгъэпк1эн (to paste something on the surface of an object); дэпк1эн (to get pasted inside another object); дэгъэпк1эн (to paste something inside another object)"
+  },
+  {
     "glued": "тепк1агъ"
+  },
+  {
+    "streetwalker": "гъогутет"
   },
   {
     "to chase": "лъежьэн (to chase after); лъычъэн (to run after)"
@@ -15511,6 +15541,9 @@
   },
   {
     "satisfaction": "гухахъо"
+  },
+  {
+    "compact": "пкъые"
   },
   {
     "pleasure": "гухахъо"
