@@ -19704,6 +19704,61 @@
     "ipa": "blajd͡zən"
   },
   {
+    "word": "те1эшъхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to overcome a temptation",
+        "examples": [
+          {
+            "sentence": "К1алэр '''зыте1эшъхьашъурэп'''",
+            "translation": "The boy '''can't hold self'."
+          }
+        ]
+      }
+    ],
+    "shapsug": "гъэлэлэн",
+    "type": "verb",
+    "ipa": "ʁalanlan"
+  },
+  {
+    "word": "гъэпсэолъэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to apply, to use",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʁapsawaɬan"
+  },
+  {
+    "word": "гъэфедэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to apply; to use; to make use of",
+        "examples": [
+          {
+            "sentence": "Ш1эныгъэу и1эр '''ыгъэфедэн'''",
+            "translation": "'''To make use off''' his knowledge."
+          },
+		  {
+            "sentence": "Техникэр '''гъэфедэн'''",
+            "translation": "'''To use''' the technique."
+          },
+		  {
+            "sentence": "Уатэр '''гъэфедэн'''",
+            "translation": "'''To use''' the hammer."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʁapsawaɬan"
+  },
+  {
     "word": "гъэлэнлэн",
     "lang": "Adyghe",
     "definitions": [

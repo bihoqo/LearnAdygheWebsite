@@ -9003,10 +9003,16 @@
     "to supply": "1эк1эгъэхьан, егъэгъотын"
   },
   {
-    "to gather": "зэхэхьан (people to gather around); щызэ1ук1эн (to gather at a certain place); угъоин / къэугъоин (to gather to one place); зэ1угъэк1эн (to make people or objects gather at a certian place); зэхэугъоен / зэк1эугъоен (to gather together)"
+    "to gather": "зэхэхьан (people to gather around); щызэ1ук1эн (to gather at a certain place); угъоин / къэугъоин (to gather to one place); зэ1угъэк1эн (to make people or objects gather at a certian place); зэхэугъоен / зэк1эугъоен (to gather together); зэугъоил1эн (to concentrate into one place)"
   },
   {
-    "to collect": "угъоин; къэугъоин; зэ1угъэк1эн; зэхэугъоен / зэк1эугъоен (to collect to one place); зэтеплъхьан (to collect things and save them for the future), зэхэплъхьан"
+    "to concentrate": "щызэрэугъоин / зэугъоил1эн (to focus); зэугъоил1агъэ хъун (to focus); зэхэугъоен (to concentrate into one place)"
+  },
+  {
+    "to concentrate": "щызэрэугъоин / зэугъоил1эн (to focus); зэугъоил1агъэ хъун (to focus); зэхэугъоен (to concentrate into one place)"
+  },
+  {
+    "to load": "узэндын; (Shapsug) узэдын"
   },
   {
     "to save": "къэгъэнэжьын (to save someone); къыхэхыжьын (to save someone from a bad or dangerous siuation); зэтеплъхьан (to collect things and save them for the future); къэгъэнэн (to save something for later); гъэт1ылъын / 1угъэт1ылъык1ын (to lay and save something for the future); гъэш1он (to save something for the future); къэгъэнэхъэжьын (to revive)"
@@ -9016,6 +9022,9 @@
   },
   {
     "to return to life": "къэнэхъэжьын; къэгъэнэхъэжьын (to return someone to life)"
+  },
+  {
+    "to kiss ass": "(vulgar) ышъуты ебэун; (vulgar) ышъуты фебзэин"
   },
   {
     "to arrest": "къэгъэуцун (to stop); убытын / къэубытын; дэубытэн (to arrest in); иубытэн (to arrest inside)"
@@ -13125,7 +13134,16 @@
     "stepfather": "тынэп1ос"
   },
   {
-    "to overcome": "тек1он"
+    "to use": "рилэжьэн; гъэфедэн"
+  },
+  {
+    "to make use of": "гъэфедэн"
+  },
+  {
+    "to apply": "гъэфедэн"
+  },
+  {
+    "to overcome": "тек1он; те1эшъхьан (to overcome a temptation)"
   },
   {
     "to fall in love": "тел1эхьан; тенэц1эхьан"
@@ -16638,10 +16656,10 @@
     "to be able of": "лъэк1ын; фэлъэк1ын; ипш1э къик1ын"
   },
   {
-    "to be able to": "лъэк1ын; фэлъэк1ын; ипш1э къик1ын"
+    "for example": "гущы1эм пае; тэгъаӏу (let's say)"
   },
   {
-    "for example": "гущы1эм пае; гущы1эм фэш1ык1э"
+    "let's say": "тэгъаӏу"
   },
   {
     "to whinge": "гъынэнэн"
