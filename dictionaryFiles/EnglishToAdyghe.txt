@@ -1185,7 +1185,7 @@
     "young person": "ныбжьык1э"
   },
   {
-    "page": "нэк1убгъу"
+    "page": "нэк1убгъу; (dialectal) тхьапэ"
   },
   {
     "song": "орэд"
@@ -3870,6 +3870,9 @@
     "jail": "хьапс"
   },
   {
+    "prison": "хьапс"
+  },
+  {
     "licker": "бзэяк1о"
   },
   {
@@ -3948,7 +3951,7 @@
     "mountain": "къушъхьэ"
   },
   {
-    "friendship": "зэкъошныгъ"
+    "brotherhood": "зэкъошныгъ"
   },
   {
     "field": "шъофы (field outisde vilage); хьасэ (field for agriculture); хъуп1э (field with livestock); губгъо (wild field); лэжьыгъэш1апэ (working field)"
@@ -3967,6 +3970,9 @@
   },
   {
     "hairhead": "шъхьэц"
+  },
+  {
+    "equally": "зэфэдэу; зэфэдизэу"
   },
   {
     "young bird": "бзыушыр"
@@ -4257,13 +4263,13 @@
     "sunbeam": "тыгъэнэбзый"
   },
   {
-    "to puke": "къэжьын"
+    "to puke": "къэжын"
   },
   {
-    "to vomit": "къэжьын"
+    "to vomit": "къэжын"
   },
   {
-    "to rain": "къешхын"
+    "to rain": "къещхын"
   },
   {
     "to vote": "мэтэн; шъэф хэдзын; шъхьэихыгъэ хэдзын; макъэ етын (to give one's vote to)"
@@ -5142,7 +5148,13 @@
     "worth": "пк1э; уасэ (cost)"
   },
   {
+    "worthy": "зыфэш1ыпхъэ; зытефэрэ; зифэшъошэ"
+  },
+  {
     "value": "пк1э (worth); уасэ (cost); пхъатэ (the degree of importance given to something)"
+  },
+  {
+    "valuable": "пк1э зи1; уасэ зи1э"
   },
   {
     "rent car": "бэджэндыку"
@@ -10557,13 +10569,13 @@
     "to flatter": "еубзэн"
   },
   {
-    "to insinuate": "еубзэн"
+    "to insinuate": "е1ок1ын"
+  },
+  {
+    "to hint": "е1ок1ын"
   },
   {
     "to suck up to": "еубзэн"
-  },
-  {
-    "to lick someone's boots": "еубзэн"
   },
   {
     "to wheedle": "еубзэн"
@@ -15585,7 +15597,7 @@
     "to light, to light up, to illuminate": "тепсэн"
   },
   {
-    "yogurt": "щэгъэпц1агъэ"
+    "yogurt": "щхыу; щхыузыгъ (labneh); щэгъэпц1агъэ"
   },
   {
     "to scribble": "уц1элэн; теуц1элэн (to scribble on)"

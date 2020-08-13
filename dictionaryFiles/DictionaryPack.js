@@ -14923,9 +14923,7 @@
         ]
       }
     ],
-    "synonyms": [
-      "зэгок1ьын"
-    ],
+    "shapsug": "зэгок1ьын",
     "type": "verb",
     "ipa": "zaɡʷat͡ʃʼən"
   },
@@ -14956,6 +14954,7 @@
         ]
       }
     ],
+    "shapsug": "зэгогъэк1ьын",
     "type": "verb",
     "ipa": "zaɡʷaʁat͡ʃʼən"
   },
@@ -14977,6 +14976,7 @@
         ]
       }
     ],
+    "shapsug": "зэпыгъэк1ьын",
     "type": "verb",
     "ipa": "zapəʁat͡ʃʼən"
   },
@@ -15243,6 +15243,7 @@
   {
     "word": "парчэ",
     "lang": "Adyghe",
+	"etymology": "From Turkey",
     "definitions": [
       {
         "meaning": "piece",
@@ -17707,7 +17708,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "jail",
+        "meaning": "jail; prison",
         "examples": []
       }
     ],
@@ -17914,7 +17915,7 @@
       }
     ],
     "type": "noun",
-    "ipa": "bzəwpt͡sˤʼ"
+    "ipa": "bzəwpt͡sʼ"
   },
   {
     "word": "бзыуубыт",
@@ -17940,23 +17941,23 @@
             "translation": "'''Catch''' the boy!."
           },
           {
-            "sentence": "ахэр тыгъэделэхи як1ыбк1э '''къэтыубытгъэх'''",
+            "sentence": "ахэр тыгъэделэхи ак1ыбык1э '''къэтыубытыгъэх'''",
             "translation": "We fooled them, and '''we caught them''' behind."
           },
           {
-            "sentence": "к1алэм ишынэхьыжъ '''къышъоубытэгъ''', ишынэхьык1 '''къышъоубытгъэп'''",
+            "sentence": "к1алэм ышынахьыжъ '''къышъоубытыгъ''', ышынахьык1 '''къышъоубытгъэп'''",
             "translation": "The boy '''could catch''' his older brother but '''couldn't catch''' his younger brother."
           },
           {
-            "sentence": "к1алэм '''къеубыты''' л1эр",
+            "sentence": "к1алэм '''къеубыты''' л1ыр",
             "translation": "The boy is '''catching''' the man."
           },
           {
-            "sentence": "к1алэм '''къиубытыт''' л1эр",
+            "sentence": "к1алэм '''къиубытыщт''' л1ыр",
             "translation": "The boy '''will catch''' the man."
           },
           {
-            "sentence": "к1алэм '''къиубытэгъ''' л1эр",
+            "sentence": "к1алэм '''къиубытыгъ''' л1ыр",
             "translation": "The boy '''caught''' the man."
           }
         ]
@@ -17971,26 +17972,22 @@
           {
             "sentence": "'''къэубытыгу''' хьанцэ",
             "translation": "'''Hold''' the shovel '''for now'''."
-          },
-          {
-            "sentence": "джэгуалъэхэр '''къэсыубытрагъох'''",
-            "translation": "'''I wanna hold''' the toys."
           }
         ]
       },
       {
-        "meaning": "to capture, to make something yours (Like a room, house, territory, vehicle, animal, any object)",
+        "meaning": "to capture; to take hold; to make something yours (like a room, house, territory, vehicle, animal, any object)",
         "examples": [
           {
             "sentence": "ныпыр '''къэубытын'''",
             "translation": "'''Capture''' the flag."
           },
           {
-            "sentence": "къэбэртайхэмэ мы к1ыпэ яубытэгъ",
-            "translation": "The Kabardians '''hold''' this area."
+            "sentence": "дзэм мы к1ыпэ ыубытыгъ",
+            "translation": "The army '''took hold''' this area."
           },
           {
-            "sentence": "яунэ '''сыубытыт'''",
+            "sentence": "яунэ '''сыубытыщт'''",
             "translation": "'''I will capture''' their house."
           }
         ]
@@ -18012,7 +18009,7 @@
         "meaning": "quiet, silence",
         "examples": [
           {
-            "sentence": "К1алэ '''шъэфэр''' мэшхагъ",
+            "sentence": "К1алэ '''шъэфэр''' шхагъ",
             "translation": "'''The quiet''' boy ate."
           },
           {
@@ -18052,7 +18049,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "friendship",
+        "meaning": "brotherhood",
         "examples": []
       }
     ],
@@ -18113,8 +18110,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"шъхьэфитынгъэ\"",
-        "examples": []
+        "meaning": "freedom",
+        "examples": [
+          {
+            "sentence": "'''Шъхьафитыныгъэ''' си1эба сыфаер сыш1энэу",
+            "translation": "Don't I have the '''freedom''' to do as I like."
+          }
+        ]
       }
     ],
     "type": "adv",
@@ -18130,7 +18132,7 @@
       }
     ],
     "type": "noun",
-    "ipa": "ɬˤʼaʃʼaʁʷ"
+    "ipa": "ɬʼaʃʼaʁʷ"
   },
   {
     "word": "бзыухьакуаку",
@@ -18298,25 +18300,16 @@
     "ipa": "ʁaɬaʐʷan"
   },
   {
-    "word": "губгъэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"губгъо\"",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ɡʷəbʁa"
-  },
-  {
     "word": "гъуамэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "smell",
+        "meaning": "(Shapsug) smell",
         "examples": []
       }
+    ],
+    "synonyms": [
+      "мэ"
     ],
     "type": "noun",
     "ipa": "ʁʷaːma"
@@ -18327,7 +18320,12 @@
     "definitions": [
       {
         "meaning": "stench, stink",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "шхыным '''шъумэ''' пэу",
+            "translation": "'''A stench''' emits from the food."
+          }
+        ]
       }
     ],
     "kabardian": "бамэ",
@@ -18335,16 +18333,34 @@
     "ipa": "ʂʷəːma"
   },
   {
-    "word": "хъопсэн",
+    "word": "ехъопсэн",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to envy",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "сэ л1ым '''сехъуапсэ'''",
+            "translation": "I '''envy''' the man."
+          },
+		  {
+            "sentence": "'''усэхъуапсэрэп'''",
+            "translation": "'''I don't envy''' you."
+          }
+        ]
       },
       {
         "meaning": "to lust",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "к1алэр '''мэхъуапсэ'''",
+            "translation": "The boy '''envies'''."
+          },
+          {
+            "sentence": "к1алэр пшъашъэм '''ехъупсэ'''",
+            "translation": "The boy '''lusts for''' the girl."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -18352,9 +18368,21 @@
       "шхъогъон",
       "шъугъон",
       "ехьагъушъугъун",
-      "шъухъогъон"
+      "шъухъогъон",
+	  "енэц1ын"
     ],
-    "kabardian": "енэц1ын",
+    "type": "verb",
+    "ipa": "jaχʷapsan"
+  },
+  {
+    "word": "хъопсэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"ехъопсэн\"",
+        "examples": []
+      }
+    ],
     "type": "verb",
     "ipa": "χʷapsan"
   },
@@ -18363,9 +18391,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to look lustfully",
+        "meaning": "to lust (more specifically: to look lustfully)",
         "examples": [
           {
+            "sentence": "К1алэр '''мэнац1э'''",
+            "translation": "The boy '''lusts'''."
+          },
+		  {
             "sentence": "Тигъунэгъум ыпшъашъэ '''сенэц1ы'''",
             "translation": "'''I am lusting for ''' my neighbor's daughter."
           }
@@ -18373,7 +18405,12 @@
       },
       {
         "meaning": "to look with a lot of desire",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1элэц1ык1ур джэгуалъэхэмэ '''анэц1ы'''",
+            "translation": "The little boy '''desires'' the toys."
+          }
+        ]
       },
       {
         "meaning": "to look enviously",
@@ -18383,25 +18420,25 @@
         "meaning": "to long for",
         "examples": [
           {
-            "sentence": "КIалэм иджанэхэм '''санэцIы'''",
+            "sentence": "КIалэм иджанэхэм '''санэц1ы'''",
             "translation": "'''I am longing for''' the boy's clothes."
           },
           {
-            "sentence": "Гонахьхэм '''уамынэц1'''",
-            "translation": "'''Don't long for''' (to do) the sins."
+            "sentence": "Гунахьыхэм '''уамынэц1'''",
+            "translation": "'''Don't long for''' (doing) the sins."
           }
         ]
       }
     ],
     "synonyms": [
-      "хъопсэн",
-      "----"
+      "хъопсэн"
     ],
+    "shapsug": "енэс1ын",
     "type": "verb",
     "ipa": "janat͡sʼən"
   },
   {
-    "word": "нэц1ын",
+    "word": "нэц1эн",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -18409,8 +18446,9 @@
         "examples": []
       }
     ],
+    "shapsug": "нэс1эн",
     "type": "verb",
-    "ipa": "nat͡sʼən"
+    "ipa": "nat͡sʼan"
   },
   {
     "word": "нэгъуч1ыц",
@@ -18439,15 +18477,15 @@
             "translation": "'''Touch''' the wall."
           },
           {
-            "sentence": "Анэм уи1э шъоик1э '''унэмыс'''",
+            "sentence": "1анэм у1э ш1оик1э '''унэмыс'''",
             "translation": "'''Don't touch''' the table with your dirty hands."
           },
           {
-            "sentence": "К1алэр анэм '''нэсы'''",
+            "sentence": "К1алэр 1анэм '''нэсы'''",
             "translation": "The boy '''is touching''' the table."
           },
           {
-            "sentence": "К1алэр къэцым '''нэсрэп'''",
+            "sentence": "К1алэр къэцым '''нэсырэп'''",
             "translation": "The boy '''is not touching''' the thorn."
           }
         ]
@@ -18460,15 +18498,15 @@
             "translation": "'''Have you reached''' the city?."
           },
           {
-            "sentence": "Уиунэ '''сыкъынэсымэ''' къик1",
-            "translation": "'''If I reach''' your house come out."
+            "sentence": "Уиунэ '''сызкъэсык1э''' къик1",
+            "translation": "'''When I reach''' your house come out."
           },
           {
             "sentence": "К1уи унэ плъыжьым '''унэсымэ''' къэуцу",
             "translation": "Go and '''when you reach''' the red house stop."
           },
           {
-            "sentence": "Левил 4-м '''сыкънэсышъурэп'''",
+            "sentence": "Левил 4-м '''сыкъынэсышъурэп'''",
             "translation": "'''I can't reach''' level 4."
           }
         ]
@@ -18479,24 +18517,21 @@
     "ipa": "nasən"
   },
   {
-    "word": "мэстын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"стын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "mastən"
-  },
-  {
     "word": "гъэстын",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to burn, to make something burn",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм пхъэхэр '''егъэстых'''",
+            "translation": "The boy '''burns''' the woods."
+          },
+          {
+            "sentence": "Сэ уцыр '''сэгъэсты'''",
+            "translation": "'''I burn''' the plant."
+          },
+        ]
       }
     ],
     "type": "verb",
@@ -18512,9 +18547,9 @@
       }
     ],
     "synonyms": [
-      "гъэпсык1ьын",
       "зыгъэпсык1ын"
     ],
+    "shapsug": "гъэпсык1ьын",
     "type": "verb",
     "ipa": "ʁapsət͡ʃʼən"
   },
@@ -18524,12 +18559,24 @@
     "definitions": [
       {
         "meaning": "harm",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "к1алэм '''ягъэ''' къегъак1о",
+            "translation": "The boy brings '''harm'''."
+          },
+          {
+            "sentence": "мыщ '''ягъэ''' къыуигъэк1ыщтэп",
+            "translation": "This won't '''harn''' you"
+          }
+        ]
       },
       {
-        "meaning": "scab (body)",
+        "meaning": "scab (on the body)",
         "examples": []
       }
+    ],
+    "synonyms": [
+      "егъанэ"
     ],
     "type": "noun",
     "ipa": "jaːʁa"
@@ -18552,21 +18599,17 @@
         ]
       },
       {
-        "meaning": "to bother, to disturb someone",
+        "meaning": "to bother someone; to disturb someone",
         "examples": [
           {
             "sentence": "к1алэм '''ягъэ''' пшъашъэм '''регъэк1ы'''",
             "translation": "the boy '''is bothering''' the girl."
           },
           {
-            "sentence": "'''ягъэ''' к1алэхэмэ '''ямгък1'''",
+            "sentence": "'''ягъэ''' к1алэхэмэ '''амыгъэк1'''",
             "translation": "'''don't bother''' the kids."
           }
         ]
-      },
-      {
-        "meaning": "to get in someone's way",
-        "examples": []
       }
     ],
     "synonyms": [
@@ -18580,14 +18623,14 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to interfere with; to bring harm",
+        "meaning": "to bring harm; to disturb",
         "examples": [
           {
             "sentence": "к1алэм '''ягъэ къегъэк1о'''",
-            "translation": "the boy '''is bringing harm'''"
+            "translation": "the boy '''is disturbing'''"
           },
           {
-            "sentence": "'''ягъэ къэмыгъак1у''', к1алэр еджэн е1уэ",
+            "sentence": "'''ягъэ къэмыгъак1у''', к1алэр еджэн е1о",
             "translation": "'''do not disturb''', the boy is trying to learn."
           }
         ]
@@ -18657,32 +18700,11 @@
     "type": "verb"
   },
   {
-    "word": "ук1эпхъэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to trim",
-        "examples": [
-          {
-            "sentence": "Сэ чъыгыр '''сэук1апхъэ'''",
-            "translation": "I am trimming the tree."
-          },
-          {
-            "sentence": "Л1ыхэр мэзым хахьэх чъыгыхэр'''яук1эпхъэнхэу'''",
-            "translation": "The men are entering the forest to trim the trees."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "wt͡ʃʼapχan"
-  },
-  {
     "word": "бзэмы1у",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "dumb (someone that can not communicate due to ignorance of one or another language)",
+        "meaning": "someone that can not communicate due to ignorance of one or another language",
         "examples": []
       }
     ],
@@ -18699,7 +18721,16 @@
       },
       {
         "meaning": "to assemble; to lay together; to put together; to pile up",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Пхъэхэр к1алэм '''зэхелъхьэх'''",
+            "translation": "The boy '''piles up''' the woods together."
+          },
+		  {
+            "sentence": "Пхъэшъхьэ-мышъхьэхэр '''зэхалъхьэх'''",
+            "translation": "'''Put''' the fruits together."
+          }
+        ]
       },
       {
         "meaning": "to compose",
@@ -18741,7 +18772,12 @@
       },
       {
         "meaning": "to arrange, to organize",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм унэр тэрэзэу  '''егъэпсы'''",
+            "translation": "The boy '''arranges''' the house correctly."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -18801,7 +18837,7 @@
         ]
       },
       {
-        "meaning": "to tidy up; to clean up",
+        "meaning": "to make an area or a thing clean; to pick up a mess; to tidy",
         "examples": [
           {
             "sentence": "уиунэ '''зэ1эх'''",
@@ -18839,23 +18875,11 @@
     "ipa": "zaʔapaʃən"
   },
   {
-    "word": "зэгъэфэгъэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to arrange",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "zaʁafaʁan"
-  },
-  {
     "word": "зэгъэфэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to pretty up (to make oneself or someone else look better by dressing up, for example)",
+        "meaning": "to dress up beautifully (to make oneself or someone else look better by dressing up)",
         "examples": [
           {
             "sentence": "К1алэм '''зегъафэ''' тиунэ къэк1оти",
@@ -18970,7 +18994,7 @@
     "word": "егъэк1ун",
     "lang": "Adyghe",
     "definitions": [
-      {
+      {
         "meaning": "to make something fit in place",
         "examples": []
       },
@@ -19035,7 +19059,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to come up to, to come towards, to approach",
+        "meaning": "to come up to; to come towards; to approach",
         "examples": [
           {
             "sentence": "К1алэр тхьэматэм '''ек1угъ''' еупч1ынэу",
@@ -19044,6 +19068,10 @@
           {
             "sentence": "Ныом узы 1ае '''къек1угъ'''",
             "translation": "A horrible illness '''came to''' the old woman."
+          },
+          {
+            "sentence": "Чэздэсым ц1ыфы бэ '''къек1угъ'''",
+            "translation": "A lot of people '''came to''' the part."
           }
         ]
       },
@@ -19073,7 +19101,7 @@
         "examples": [
           {
             "sentence": "1офымк1э ухъонэныр '''ек1урэп'''",
-            "translation": "Cursing in work '''is not appropriate'''."
+            "translation": "Swearing in work '''is not appropriate'''."
           }
         ]
       },
@@ -19171,11 +19199,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "chirp",
-        "examples": []
-      },
-      {
-        "meaning": "Sing (a bird),",
+        "meaning": "to chirp (for bird and instrument)",
         "examples": []
       }
     ],
@@ -19201,7 +19225,12 @@
   {
     "word": "бзэутэ",
     "lang": "Adyghe",
-    "definitions": [],
+    "definitions": [
+      {
+        "meaning": "wool beater",
+        "examples": []
+      }
+    ],
     "type": "noun",
     "ipa": "bzawta"
   },
@@ -19238,7 +19267,29 @@
     "ipa": "bzaxən"
   },
   {
-    "word": "мэмэхын",
+    "word": "ук1эпхъэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to trim",
+        "examples": [
+          {
+            "sentence": "Сэ чъыгыр '''сэук1апхъэ'''",
+            "translation": "I am trimming the tree."
+          },
+          {
+            "sentence": "Л1ыхэр мэзым хахьэх чъыгыхэр'''аук1эпхъэнхэу'''",
+            "translation": "The men are entering the forest to trim the trees."
+          }
+        ]
+      }
+    ],
+    "shapsug": "ук1ьэпхъэн",
+    "type": "verb",
+    "ipa": "wt͡ʃʼapχan"
+  },
+  {
+    "word": "мэхын",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -19247,37 +19298,25 @@
       }
     ],
     "type": "verb",
-    "ipa": "mamaxən"
+    "ipa": "maxən"
   },
   {
-    "word": "мэмэхын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"мэхын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "mamaxən"
-  },
-  {
-    "word": "къэжьын",
+    "word": "къэжын",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to puke, to vomit",
         "examples": [
           {
-            "sentence": "к1алэр '''къэжьы'''",
+            "sentence": "к1алэр '''къэжы'''",
             "translation": "The boy '''is puking'''."
           },
           {
-            "sentence": "к1алэр '''къэжьэгъ'''",
+            "sentence": "к1алэр '''къэжыгъ'''",
             "translation": "The boy '''puked'''."
           },
           {
-            "sentence": "'''укъэжьыт''' уэр уыщхымэ",
+            "sentence": "'''укъэжыщт''' мор ушхымэ",
             "translation": "'''You will puke''' if you eat that."
           }
         ]
@@ -19285,6 +19324,18 @@
     ],
     "type": "verb",
     "ipa": "qaʑən"
+  },
+  {
+    "word": "щхыузыгъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "labneh (Yogurt that has been strained to filter or remove the whey and thus has a consistency between that of yoghurt and cheese)",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɕxəwzəʁ"
   },
   {
     "word": "къещхын",
@@ -19303,7 +19354,7 @@
           },
           {
             "sentence": "Унэм '''къещхэ'''",
-            "translation": "It is raining in the house (the rain is entering the house)."
+            "translation": "It is raining in the house."
           },
           {
             "sentence": "Ощх '''къещхы'''",
@@ -19316,7 +19367,7 @@
     "ipa": "qajʃxən"
   },
   {
-    "word": "мэтэн",
+    "word": "тэн",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -19365,7 +19416,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Linotype, literature",
+        "meaning": "linotype, literature",
         "examples": []
       }
     ],
@@ -19416,17 +19467,17 @@
           },
           {
             "sentence": "тиунэ '''къеблагъ'''",
-            "translation": "'''Come near''' my house (You are welcome to come to my house)."
+            "translation": "'''Come near''' my house."
           },
           {
-            "sentence": "к1алэр пшъашъэм '''еблэгъагъэп'''",
-            "translation": "The boy '''didn't gone near''' the girl."
+            "sentence": "к1алэр къэцым '''еблэгъагъэп'''",
+            "translation": "The boy '''didn't went near''' the thorn."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "jablaʁan"
+    "ipa": "jabɮaʁan"
   },
   {
     "word": "блантхъэ",
@@ -67481,23 +67532,6 @@
     "ipa": "jaʃʷʼəχʷəʁʷan"
   },
   {
-    "word": "шъхьэфитынгъэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "freedom",
-        "examples": [
-          {
-            "sentence": "'''Шъхьафитынгъэ''' си1эба сыфаер сыш1энэу",
-            "translation": "Don't I have the '''freedom''' to do as i like."
-          }
-        ]
-      }
-    ],
-    "type": "noun",
-    "ipa": "ʂħafitnəʁa"
-  },
-  {
     "word": "къэсын",
     "lang": "Adyghe",
     "definitions": [
@@ -86615,7 +86649,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to express something concerning; to express something according to",
+        "meaning": "to express something concerning; to express something according to (more specifically: to say something correspondingly)",
         "examples": [
           {
             "sentence": "Л1ым дэеу ыш1агъэхэм дэгъоп '''ес1ол1энэу''' си1эр",
@@ -102031,6 +102065,18 @@
     ],
     "type": "verb",
     "ipa": "wəzandən"
+  },
+  {
+    "word": "е1ок1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to insinuate; to hint",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "jaʔʷat͡ʃʼən"
   },
   {
     "word": "ефэнды",
