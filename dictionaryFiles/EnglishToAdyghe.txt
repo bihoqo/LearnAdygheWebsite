@@ -5448,6 +5448,9 @@
     "forbearing": "бэщы1; бэщэч; къинбэщэч"
   },
   {
+    "endurant": "лъэпшъэрыхь; бэщэч; къинбэщэч"
+  },
+  {
     "heavyweight": "бэщэч"
   },
   {
@@ -5703,7 +5706,7 @@
     "three steps (Said to places that are very close)": "хьэлъэбэкъищ"
   },
   {
-    "cold": "чъы1э; чъы1агъ; пэпскъик1 (illness); чъы1ал1э (fever cold)"
+    "cold": "чъы1э; чъы1агъ; пэпскъичъ (illness); чъы1ал1э (fever cold)"
   },
   {
     "fever cold": "чъы1ал1э"
@@ -8316,7 +8319,10 @@
     "to scratch": "ц1энтхъун (to leave a scratch); п1эстхъэн (to be scratching); еп1эстхъын (to scratch someone); ц1этхъун (Shapsug); п1эсхъэн (Shapsug); жэхэтхъон (to scratch someone's face); ет1эхъун (to scratch an itch); зэт1эхъун (to scratch oneself due to itchiness)"
   },
   {
-    "to scrape": "ц1энтхъун"
+    "to scrape": "тетхэхьан (in the context of drawing); ц1энтхъун (in the context of scratching)"
+  },
+  {
+    "string": "бзэпсы (bow-string); чыданэ (of a musical instrument)"
   },
   {
     "to splash": "утхэн; теупц1эн (extremely intensive)"
@@ -9394,6 +9400,24 @@
   },
   {
     "to invite": "къегъэблэгъэн; къеджэн (to call someone to come)"
+  },
+  {
+    "boot": "щазмэ"
+  },
+  {
+    "spike heel": "пхъэ1ун"
+  },
+  {
+    "stiletto heel": "пхъэ1ун"
+  },
+  {
+    "to resole": "к1э1ул1эн"
+  },
+  {
+    "cobbler": "щазмаш1э"
+  },
+  {
+    "shoemaker": "щазмаш1э"
   },
   {
     "hard": "пытэ (firm); (dialectal) къэпы (firm); къин (difficult); хьылъэ (difficult); -гъуае (hard sufix)"
@@ -14106,7 +14130,7 @@
     "to crack": "чэн; (Shapsug) кьэн; гъэчэн (to crack something)"
   },
   {
-    "to sew": "дэн (to be sewing); дын (to sew something); зэпыдэн (to sew somethings together); пыдэн (to sew something to something, to connect something to something by sewing); ч1эдэн (to sew something under something); тедэн (to sew something on something); хздэн (to sew something through)"
+    "to sew": "дэн (to be sewing); дын (to sew something); зэпыдэн (to sew somethings together); пыдэн (to sew something to something, to connect something to something by sewing); ч1эдэн (to sew something under something); тедэн (to sew something on something); хздэн (to sew something through); к1эбзэн / к1эдэн (to sew below, to sole)"
   },
   {
     "before": "ыпэу; ыпэк1э; ыпэрэ (the one before);(dialectal) ипэу; нахь ыпэу / нахьыпэу (before someone/something else); анахь ыпэу (before everyone else); нэмысэу (before it reaches a certain time); нэмысыпэу (just before it reaches a certain time)"

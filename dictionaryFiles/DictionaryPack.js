@@ -23785,19 +23785,136 @@
     "ipa": "baɕəʔ"
   },
   {
+    "word": "щазмаш1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "cobbler, shoemaker (person who repairs shoes)",
+        "examples": []
+      }
+    ],
+    "type": "noun"
+    "ipa": "pχaʔʷən"
+  },
+  {
+    "word": "щазмэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "boot",
+        "examples": []
+      }
+    ],
+    "type": "noun"
+    "ipa": "pχaʔʷən"
+  },
+  {
+    "word": "пхъэ1ун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "spike heel, stiletto heel",
+        "examples": []
+      }
+    ],
+    "type": "noun"
+    "ipa": "pχaʔʷən"
+  },
+  {
+    "word": "к1эбзэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to sew a sole on, to sole (a shoe)",
+        "examples": []
+      },
+	  {
+        "meaning": "to sew from below",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "к1эдэн"
+    ],
+    "type": "verb"
+    "ipa": "t͡ʃʼabzan"
+  },
+  {
+    "word": "к1эдэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to sew a sole on, to sole (a shoe)",
+        "examples": [
+          {
+            "sentence": "Чэмышъор цуакъэм '''к1адэ'''",
+            "translation": "Cowskin is '''sole''' under a shoe."
+          }
+        ]
+      },
+	  {
+        "meaning": "to sew from below",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "к1эбзэн"
+    ],
+    "type": "verb",
+    "ipa": "t͡ʃʼadan"
+  },
+  {
+    "word": "к1абз",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "backing (material added behind or underneath)",
+        "examples": []
+      },
+	  {
+        "meaning": "lining, cushion",
+        "examples": []
+      }
+    ],
+    "type": "verb"
+    "ipa": "t͡ʃʼaːbz"
+  },
+  {
+    "word": "к1э1ул1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to resole (shoes)",
+        "examples": []
+      }
+    ],
+    "type": "verb"
+    "ipa": "t͡ʃʼaʔʷəɬʼan"
+  },
+  {
     "word": "бэщэч",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "heavyweight",
-        "examples": []
-      },
-      {
-        "meaning": "forbearing",
+        "meaning": "heavyweight; heavily-loaded",
         "examples": []
       }
     ],
+    "shapsug": "бэщэкь",
     "type": "adj"
+    "ipa": "baɕat͡ʃ"
+  },
+  {
+    "word": "лъэпшъэрыхь",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "hardy, sturdy, endurant",
+        "examples": []
+      },
+    ],
+    "type": "adj"
+    "ipa": "ɬapʂarəħ"
   },
   {
     "word": "зы1эжэн",
@@ -23842,10 +23959,14 @@
       {
         "meaning": "to contradict each other",
         "examples": []
+      },
+	  {
+        "meaning": "to stumble into each other",
+        "examples": []
       }
     ],
-    "type": "adj",
-    "ipa": "zəʔaʒaʑən"
+    "type": "verb",
+    "ipa": "zapaʃʷʼawan"
   },
   {
     "word": "къэбэртай",
@@ -23877,30 +23998,6 @@
     "ipa": "ɬaʔʷaːkʷʼa"
   },
   {
-    "word": "хьэбадзэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "flea",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ħabaːd͡za"
-  },
-  {
-    "word": "папс1э",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"папц1э\"",
-        "examples": []
-      }
-    ],
-    "type": "adj",
-    "ipa": "paːpsʼa"
-  },
-  {
     "word": "п1уак1э",
     "lang": "Adyghe",
     "definitions": [
@@ -23910,6 +24007,7 @@
       }
     ],
     "kabardian": "п1ащ1э",
+    "shapsug": "п1ак1э",
     "type": "adj",
     "ipa": "pʷʼaːt͡ʃa"
   },
@@ -23921,20 +24019,21 @@
         "meaning": "to raise, to adopt",
         "examples": [
           {
-            "sentence": "сэ мы к1алэ '''сып1ут'''",
+            "sentence": "сэ мы к1алэ '''сып1ущт'''",
             "translation": "'''I will adopt''' this boy."
           },
           {
-            "sentence": "томэр аслъаным '''ип1огъ'''",
-            "translation": "Aslan '''raised''' Tom."
+            "sentence": "Аслъаным Куджаныр '''ып1угъ'''",
+            "translation": "Aslan '''raised''' Kujan."
           },
           {
-            "sentence": "мы к1алэр '''яп1огъ'''",
-            "translation": "'''They adopted/raised''' this boy - this boy '''was adopted'''."
+            "sentence": "мы к1алэр '''ап1угъ'''",
+            "translation": "'''They adopted/raised''' this boy."
           }
         ]
       }
     ],
+    "shapsug": "п1ын",
     "type": "verb",
     "ipa": "pʷʼən"
   },
@@ -23973,14 +24072,14 @@
     ],
     "kabardian": "п1ащ1э",
     "type": "adj",
-    "ipa": "pʷʼaːnt͡ʃa"
+    "ipa": "pʷʼaːnt͡ʃʼa"
   },
   {
     "word": "п1эстхъэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to scratch (With fingernails or foot-nails)",
+        "meaning": "to scratch (with fingernails, foot-nails or claws)",
         "examples": [
           {
             "sentence": "чэтыур '''мэп1астхъэ'''",
@@ -23989,6 +24088,25 @@
         ]
       }
     ],
+    "shapsug": "п1эсхъэн",
+    "type": "verb",
+    "ipa": "pʼastχan"
+  },
+  {
+    "word": "еп1эстхъын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to scratch someone (with fingernails, foot-nails or claws)",
+        "examples": [
+          {
+            "sentence": "чэтыур к1алэм '''еп1эстхъыгъ'''",
+            "translation": "The cat '''scratched''' the boy."
+          }
+        ]
+      }
+    ],
+    "shapsug": "еп1эсхъын",
     "type": "verb",
     "ipa": "pʼastχan"
   },
@@ -24013,6 +24131,7 @@
         "examples": []
       }
     ],
+    "shapsug": "схъэн",
     "type": "verb",
     "ipa": "stχan"
   },
@@ -24029,77 +24148,42 @@
     "ipa": "sχan"
   },
   {
-    "word": "шу",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"шыу\"",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ʃəw"
-  },
-  {
-    "word": "мэтк1ун",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"тк1ун\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "matkʷʼən"
-  },
-  {
-    "word": "мэсэн",
+    "word": "сэн",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to be trained",
         "examples": [
           {
-            "sentence": "кIалэр '''мэсагъ'''",
+            "sentence": "к1алэр '''сагъэ'''",
             "translation": "The boy is '''trained'''."
           },
           {
-            "sentence": "кIалэр '''мэсагъэп'''",
+            "sentence": "к1алэр '''сагъэп'''",
             "translation": "The boy is '''is not trained'''."
           }
         ]
       },
       {
-        "meaning": "to be taught how to behave well.",
+        "meaning": "to be taught how to behave well",
         "examples": [
           {
-            "sentence": "кIалэр '''мэсэрагъоп'''",
+            "sentence": "к1алэр '''сэнэу''' фаеп",
             "translation": "The boy '''does not want to learn how to behave-well'''."
           },
           {
-            "sentence": "кIалэр '''мэсагъ'''",
+            "sentence": "к1алэр '''сагъ'''",
             "translation": "The boy '''taught how to behave-well'''."
           }
         ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "masan"
-  },
-  {
-    "word": "мэш1ык1эен",
-    "lang": "Adyghe",
-    "definitions": [
+      },
       {
-        "meaning": "alternative form of \"ш1ык1эен\"",
+        "meaning": "to be tamed",
         "examples": []
       }
     ],
-    "synonyms": [
-      "мэш1ык1ьэен"
-    ],
     "type": "verb",
-    "ipa": "maʃʼət͡ʃʼajan"
+    "ipa": "san"
   },
   {
     "word": "щы1",
@@ -24133,16 +24217,16 @@
             "translation": "'''I know''' what you told me."
           },
           {
-            "sentence": "'''Сымыш1эрэ''' а к1алэм къуи1уагъэхэр",
-            "translation": "'''I don't know''' the thing that boy told you."
+            "sentence": "'''Сымыш1эрэ''' а к1алэм къыуи1уагъэхэр",
+            "translation": "'''I don't know''' the things that boy told you."
           },
           {
-            "sentence": "Сэ дзэмк1э сыш1ыхэрэр '''яш1эу''' хъутыхэп",
+            "sentence": "Сэ дзэмк1э сыш1ыхэрэр '''аш1эу''' хъутыхэп",
             "translation": "'''They''' are not allowed '''to know''' what I am doing in the army."
           },
           {
-            "sentence": "Тхьапщ '''ош1а''' пл1ым щы хэбгъахъомэ?",
-            "translation": "'''Do you know''' how much if you add three to four."
+            "sentence": "Тхьапш '''ош1а''' пл1ым щы хэбгъахъомэ?",
+            "translation": "'''Do you know''' how much if you add three to four?"
           }
         ]
       },
@@ -24188,9 +24272,6 @@
         ]
       }
     ],
-    "synonyms": [
-      "щкъэн"
-    ],
     "kabardian": "щ1эн",
     "type": "verb",
     "ipa": "ʃˈan"
@@ -24212,7 +24293,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "oil, earth oil, petroleum",
+        "meaning": "oil, earth oil, ground oil, petroleum",
         "examples": []
       }
     ],
@@ -24322,12 +24403,12 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "landscape, territory",
+        "meaning": "natural territory, landschaft",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "t͡ʃəɬatajpɬ"
+    "ipa": "t͡ʃʼəɬatajpɬ"
   },
   {
     "word": "ч1ымэтх",
@@ -24351,7 +24432,7 @@
       }
     ],
     "type": "noun",
-    "ipa": "t͡ʃəwaps"
+    "ipa": "t͡ʃʼəwaps"
   },
   {
     "word": "ч1ыопс к1ыб",
@@ -24384,7 +24465,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "beet",
+        "meaning": "beet (the root plant Beta vulgaris)",
         "examples": []
       },
       {
@@ -24419,7 +24500,7 @@
       }
     ],
     "type": "noun",
-    "ipa": "t͡ʃətχət͡saxar"
+    "ipa": "t͡ʃʼətχət͡saxar"
   },
   {
     "word": "ч1ыгъэш1у",
@@ -24435,7 +24516,7 @@
       }
     ],
     "type": "noun",
-    "ipa": "t͡ʂʼʁaʃʷʼ"
+    "ipa": "t͡ʂʼəʁaʃʷʼ"
   },
   {
     "word": "чъыг",
@@ -24463,18 +24544,14 @@
       }
     ],
     "type": "noun",
-    "ipa": "t͡ʃəʔʷən"
+    "ipa": "t͡ʃʼəʔʷən"
   },
   {
     "word": "лъэт1эн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "noose",
-        "examples": []
-      },
-      {
-        "meaning": "loop",
+        "meaning": "simple knot",
         "examples": []
       }
     ],
@@ -24482,16 +24559,16 @@
     "ipa": "ɬatʼan"
   },
   {
-    "word": "чыдан",
+    "word": "чыданэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Iron cable, Iron wire",
+        "meaning": "string (of a musical instrument)",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "t͡ʃədaːn"
+    "ipa": "t͡ʃədaːna"
   },
   {
     "word": "лъэецуакъэ",
@@ -24537,18 +24614,19 @@
         "examples": []
       }
     ],
-    "synonyms": [
-      "чэтыщх"
-    ],
     "type": "noun",
     "ipa": "t͡ʃəfət"
   },
   {
-    "word": "чэл",
+    "word": "чэлы",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "hut",
+        "meaning": "a simple wooden hut",
+        "examples": []
+      },
+	  {
+        "meaning": "shelter of branches",
         "examples": []
       }
     ],
@@ -24559,19 +24637,54 @@
     "ipa": "t͡ʃal"
   },
   {
-    "word": "пщып1э",
+    "word": "чыл",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "hut",
+        "meaning": "a simple wooden hut",
+        "examples": []
+      },
+	  {
+        "meaning": "shelter of branches",
         "examples": []
       }
     ],
     "synonyms": [
-      "чэл"
+      "пщып1э"
     ],
     "type": "noun",
-    "ipa": "t͡ʃal"
+    "ipa": "t͡ʃəl"
+  },
+  {
+    "word": "пщып1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "a simple wooden hut",
+        "examples": []
+      },
+	  {
+        "meaning": "shelter of branches",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "чэлы"
+    ],
+    "type": "noun",
+    "ipa": "pɕəpʼa"
+  },
+  {
+    "word": "бгъэнышъхьэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "house-top (sedge-covered)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "bʁanəʂħa"
   },
   {
     "word": "бгъэнышъхьэун",
@@ -24591,6 +24704,10 @@
     "definitions": [
       {
         "meaning": "asylum",
+        "examples": []
+      },
+	  {
+        "meaning": "refuge (place)",
         "examples": []
       }
     ],
@@ -24690,7 +24807,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "dates  (fruit)",
+        "meaning": "dates (fruit)",
         "examples": []
       }
     ],
@@ -24713,7 +24830,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "kopek, kopeck; also copeck (one 100th of ruble, the monetary unit of Russia)",
+        "meaning": "kopek, kopeck; copeck (one 100th of ruble, the monetary unit of Russia)",
         "examples": []
       }
     ],
@@ -24765,7 +24882,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "candy",
+        "meaning": "(Kfar Kama dialect) candy",
         "examples": []
       }
     ],
@@ -24813,11 +24930,11 @@
         "meaning": "waste",
         "examples": [
           {
-            "sentence": "Чэмым и '''ебз'''",
+            "sentence": "Чэмым '''иебз'''",
             "translation": "A cow's '''waste'''."
           },
           {
-            "sentence": "Унэр '''ебзыхэм''' яфэдэу къэлъагъо",
+            "sentence": "Унэр '''ебзыхэм''' афэдэу къэлъагъо",
             "translation": "The house looks like a '''waste'''."
           }
         ]
@@ -24852,14 +24969,14 @@
     "ipa": "ħaɬabaqiɕ"
   },
   {
-    "word": "пэпскъик1",
+    "word": "пэпскъичъ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "cold (a common, usually harmless, viral illness, usually with congestion of the nasal passages and sometimes fever)",
         "examples": [
           {
-            "sentence": "'''спэпскъик1'''",
+            "sentence": "'''спэпскъичъ'''",
             "translation": "'''I have cold'''."
           }
         ]
@@ -24951,9 +25068,7 @@
         "examples": []
       }
     ],
-    "synonyms": [
-      "хъо (Shapsug)"
-    ],
+    "shapsug": "къо (son); хъо (pig)",
     "kabardian": "къуэ (son); кхъуэ (pig)",
     "type": "noun",
     "ipa": "qʷa"
@@ -24990,7 +25105,7 @@
         "meaning": "what",
         "examples": [
           {
-            "sentence": "'''сыд''' о уиц1э?",
+            "sentence": "'''сыд''' о уц1э?",
             "translation": "'''what''' is your name?"
           },
           {
@@ -25008,7 +25123,8 @@
       "л1эу",
       "шъыд"
     ],
-    "kabardian": "сыт",
+    "shapsug": "л1эу; шъыд",
+    "kabardian": "сыт; л1о",
     "type": "pron",
     "ipa": "səd"
   },
@@ -25025,33 +25141,36 @@
     "ipa": "ɬaw"
   },
   {
-    "word": "хьапщ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"тхьапш\"",
-        "examples": []
-      }
-    ],
-    "type": "pron",
-    "ipa": "ħapɕ"
-  },
-  {
-    "word": "тэщтэу",
+    "word": "таущтэу",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "how",
         "examples": [
           {
-            "sentence": "'''тэщту''' ар уш1э?",
+            "sentence": "'''таущтэу''' ар уш1э?",
             "translation": "'''how''' you do that?"
           },
           {
-            "sentence": "'''тэщту''' уэк1о?",
+            "sentence": "'''таущтэу''' ок1о?",
             "translation": "'''how''' you walk?"
           }
         ]
+      }
+    ],
+    "synonyms": [
+      "сыдэущтэу"
+    ],
+    "type": "pron",
+    "ipa": "taːwəɕtaw"
+  },
+  {
+    "word": "тэщтэу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"таущтэу\"",
+        "examples": []
       }
     ],
     "synonyms": [
@@ -25072,7 +25191,7 @@
             "translation": "'''how''' you do that?"
           },
           {
-            "sentence": "'''сыдэущтэу''' уэк1о?",
+            "sentence": "'''сыдэущтэу''' ок1о?",
             "translation": "'''how''' you walk?"
           }
         ]
@@ -25081,6 +25200,7 @@
     "synonyms": [
       "тэщтэу"
     ],
+    "shapsug": "к1ьак1ьэ",
     "type": "pron",
     "ipa": "sədawɕtaw"
   },
@@ -25095,18 +25215,6 @@
     ],
     "type": "noun",
     "ipa": "pχə"
-  },
-  {
-    "word": "таущтэу",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "how",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "taːwəɕtaw"
   },
   {
     "word": "къэбастхъэ",
@@ -25187,6 +25295,23 @@
     ],
     "type": "noun",
     "ipa": "xawɬagʷan"
+  },
+  {
+    "word": "хэулъыихьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to rust in",
+        "examples": [
+          {
+            "sentence": "гъуч1ы1унэр пхъэмбгъум '''хэулъыихьагъ'''",
+            "translation": "The nail '''rusted in''' the board."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "xawɬəjəħaːn"
   },
   {
     "word": "хэщыт1эн",
@@ -25281,9 +25406,6 @@
         "meaning": "pear",
         "examples": []
       }
-    ],
-    "synonyms": [
-      "кхъужъы"
     ],
     "kabardian": "кхъужьы",
     "type": "noun",
@@ -94946,23 +95068,6 @@
     ],
     "type": "noun",
     "ipa": "t͡ʃaməʃʷa"
-  },
-  {
-    "word": "к1эдэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to sew a sole on, to sole (a shoe)",
-        "examples": [
-          {
-            "sentence": "Чэмышъор цуакъэм '''к1адэ'''",
-            "translation": "Cowskin is '''sole''' under a shoe."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "t͡ʃʼadan"
   },
   {
     "word": "шъэожъые",
