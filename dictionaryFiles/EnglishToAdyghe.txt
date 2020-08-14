@@ -4380,7 +4380,7 @@
     "to pass quickly": "псынк1эу блэк1ын; блихын"
   },
   {
-    "to slip by": "блехын"
+    "to slip by": "блихын"
   },
   {
     "armpit": "блыгу; блыгу ч1эгъ (under armpit); блыгуч1"
@@ -4432,6 +4432,12 @@
   },
   {
     "to evaporate": "гъушъын; гъэгъушъын"
+  },
+  {
+    "to heat up": "плъын; гъэплъын (to heat up something)"
+  },
+  {
+    "to phone": "теон; фэтеон (to phone someone); (dialectal) феон (to phone someone)"
   },
   {
     "billygoat": "ачъэ"
@@ -4645,6 +4651,9 @@
   },
   {
     "to tear": "пычын (to pick); хэтхъын / пытхъын (to tear off from); зэхэтхъын / зэпытхъын (to tear off from itself); къыпышъунк1ык1ын; 1утхъын (to tear off); зэхэгъэтэкъун (to tear down and collapse)"
+  },
+  {
+    "nothing but": "зак1"
   },
   {
     "to demolish": "зэхэгъэтэкъун (to demolish something and make it collapse)"
