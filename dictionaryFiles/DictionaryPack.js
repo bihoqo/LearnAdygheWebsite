@@ -21369,6 +21369,10 @@
           {
             "sentence": "Пщэрэр пчъэм '''блэк1ышъурэп'''",
             "translation": "The fat one '''can't pass''' the door."
+          },
+          {
+            "sentence": "Экзамыным '''сыблэк1ыгъ'''",
+            "translation": "'''I passed''' the exam."
           }
         ]
       }
@@ -21420,23 +21424,32 @@
         ]
       },
       {
-        "meaning": "to emerge",
+        "meaning": "to emerge from",
         "examples": []
       },
       {
         "meaning": "to get decreased",
         "examples": [
           {
-            "sentence": "Температурэр '''хэк1эгъ'''",
+            "sentence": "Температурэр '''хэк1ыгъ'''",
             "translation": "The temperature '''decreased'''."
           },
           {
-            "sentence": "К1элэ пщэрым '''хэк1эгъ''' къишэк1ырэ",
-            "translation": "The fat boy '''lost''' some weight."
+            "sentence": "Къещхырэпи, хым и1этыгъак1э '''хэк1ы'''",
+            "translation": "The sea's height '''is decreasing''' because it doesn't rain."
+          }
+        ]
+      },
+      {
+        "meaning": "to lose wight",
+        "examples": [
+          {
+            "sentence": "К1элэ пщэрым '''хэк1ыгъ'''",
+            "translation": "The fat boy '''lost some weight'''."
           },
           {
-            "sentence": "Хым и1этгъак1э '''хэк1ы''' къемыщхэу",
-            "translation": "The sea's height '''is decreasing''' when it doesn't rain."
+            "sentence": "'''Къыпхэк1ыгъ''",
+            "translation": "'''You lost weight'''."
           }
         ]
       }
@@ -21562,7 +21575,6 @@
         ]
       }
     ],
-    "kabardian": "блын",
     "type": "verb",
     "ipa": "blan"
   },
@@ -21668,15 +21680,15 @@
         "meaning": "to miss a target (to fail to hit)",
         "examples": [
           {
-            "sentence": "К1алэр к1эрахъомк1э '''блэогъ''' тхьэк1умэк1эхьым",
-            "translation": "The boy '''is missed''' the rabbit with the gun."
+            "sentence": "К1алэр к1эрахъомк1э '''блэугъ''' тхьак1умэк1ыхьэм",
+            "translation": "The boy '''missed''' the rabbit with the gun."
           },
           {
-            "sentence": "К1алэр '''къэсблэуы'''",
+            "sentence": "К1алэр '''къэсблэу'''",
             "translation": "The boy '''is missing me'''."
           },
           {
-            "sentence": "Мыжъо сэдзым '''сыблэуи''' апчым тэзгъэфагъэ",
+            "sentence": "Мыжъо сэдзым '''сыблэуи''' апчым тезгъэфагъ",
             "translation": "When I threw a rock, '''I missed and''' hit the glass."
           },
           {
@@ -21684,16 +21696,12 @@
             "translation": "'''Don't miss'''."
           },
           {
-            "sentence": "'''Укъэсблэуы'''",
+            "sentence": "'''Укъэсблэу'''",
             "translation": "'''You are missing me'''."
           },
           {
-            "sentence": "'''Блэу'''",
-            "translation": "'''Miss'''."
-          },
-          {
-            "sentence": "К1алэхэр '''блэуытых'''",
-            "translation": "The boys '''will miss'''."
+            "sentence": "'''Блэу!'''",
+            "translation": "'''Miss!'''."
           }
         ]
       }
@@ -21734,7 +21742,7 @@
         "examples": []
       },
       {
-        "meaning": "disregard, negligence",
+        "meaning": "disregard, lack of attention, inattention",
         "examples": [
           {
             "sentence": "'''нэмыплъ''' етын",
@@ -21758,15 +21766,21 @@
         "meaning": "to run past, to run through; to rush past",
         "examples": [
           {
-            "sentence": "конторам '''блэхъушъутын'''",
+            "sentence": "Конторам '''блэхъушъутын'''",
             "translation": "'''To run past''' the office."
+          },
+		  {
+            "sentence": "К1алэр гъогум '''блэхъушъуты'''",
+            "translation": "The boy '''is running past''' the road."
+          },
+		  {
+            "sentence": "К1алэр '''къэсблэхъушъутыгъ'''",
+            "translation": "The boy '''ran past me'''."
           }
         ]
       }
     ],
-    "synonyms": [
-      "блэшъутын"
-    ],
+    "shapsug": "блэшъутын",
     "type": "verb",
     "ipa": "blaχʷəʂʷtən"
   },
@@ -21775,7 +21789,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to underrate, to disregard, to look down on",
+        "meaning": "(dialectal) to underrate, to disregard, to look down on",
         "examples": [
           {
             "sentence": "К1алэр л1ым '''ехъушъутао'''",
@@ -21799,11 +21813,11 @@
         "meaning": "to fly off",
         "examples": [
           {
-            "sentence": "Бзыур'''мэбыбжьы'''",
+            "sentence": "Бзыур'''мэбыбыжьы'''",
             "translation": "The bird '''is flying away'''."
           },
           {
-            "sentence": "Бжьэр унэм '''1убыбжьы'''",
+            "sentence": "Бжьэр унэм '''1убыбыжьы'''",
             "translation": "The bee '''is flying away''' from the house."
           }
         ]
@@ -21828,7 +21842,7 @@
             "translation": "The bee '''flow''' inside the house."
           },
           {
-            "sentence": "Ц1ыфэр '''быбышъутэп'''",
+            "sentence": "Ц1ыфэр '''быбышъущтэп'''",
             "translation": "The human '''can't fly'''."
           },
           {
@@ -21960,55 +21974,15 @@
         "examples": []
       }
     ],
-    "synonyms": [
-      "мэушъы",
-      "мэлъэхъу"
-    ],
     "type": "noun",
     "ipa": "bəɬətərəkʷʼ"
-  },
-  {
-    "word": "мэушъы",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"ушъын\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "былъытырык1у",
-      "мэлъэхъу"
-    ],
-    "type": "noun",
-    "ipa": "mawʂə"
-  },
-  {
-    "word": "мэлъэхъу",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "trot",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "мэушъы",
-      "былъытырык1у"
-    ],
-    "type": "noun",
-    "ipa": "maɬaχʷ"
   },
   {
     "word": "былымахъу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "herdsman",
-        "examples": []
-      },
-      {
-        "meaning": "shepherd",
+        "meaning": "herdsman (shepherd / cowherd); stockbreeder",
         "examples": []
       }
     ],
@@ -22062,8 +22036,21 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to steal",
-        "examples": []
+        "meaning": "to steal something",
+        "examples": [
+          {
+            "sentence": "Л1ым ахъщэ '''етыгъу'''",
+            "translation": "The man '''steals''' money."
+          },
+		  {
+            "sentence": "Мы кур '''къатыгъугъ'''",
+            "translation": "This car '''is stolen'''."
+          },
+		  {
+            "sentence": "К1алэм '''ш1оптыгъугъа''' мыр?",
+            "translation": "'''Did you steal''' this from the boy?"
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -22113,6 +22100,18 @@
     "ipa": "bələməɬʼa"
   },
   {
+    "word": "нэйпсый",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "greedy; avid; covetous",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "naj[səj"
+  },
+  {
     "word": "былымыпс",
     "lang": "Adyghe",
     "definitions": [
@@ -22148,15 +22147,7 @@
         "examples": []
       },
       {
-        "meaning": "Family children",
-        "examples": []
-      },
-      {
-        "meaning": "group",
-        "examples": []
-      },
-      {
-        "meaning": "spouse",
+        "meaning": "sons and daughters of the family",
         "examples": []
       }
     ],
@@ -22168,7 +22159,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "childless, a person without family,",
+        "meaning": "childless",
+        "examples": []
+      },
+	  {
+        "meaning": "a person without family",
         "examples": []
       }
     ],
@@ -22236,6 +22231,9 @@
         "examples": []
       }
     ],
+    "synonyms": [
+      "быракъ"
+    ],
     "type": "noun",
     "ipa": "nəp"
   },
@@ -22256,7 +22254,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "fat",
+        "meaning": "fat (overweight)",
         "examples": []
       }
     ],
@@ -22271,7 +22269,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "fat",
+        "meaning": "(dialectal) fat",
         "examples": []
       }
     ],
@@ -22290,8 +22288,8 @@
         "meaning": "fluffy",
         "examples": [
           {
-            "sentence": "чэтыуым ишъхьэц '''бырацэ'''",
-            "translation": "The cat's hair is '''fluffy'''."
+            "sentence": "чэтыум '''бырацэ'''",
+            "translation": "The cat is '''fluffy'''."
           }
         ]
       },
@@ -22353,6 +22351,18 @@
     ],
     "type": "verb",
     "ipa": "bərsərən"
+  },
+  {
+    "word": "1упчъэпчъэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to mutter",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʔʷəpt͡ʂanpt͡ʂan"
   },
   {
     "word": "зэгъэлъагъэ",

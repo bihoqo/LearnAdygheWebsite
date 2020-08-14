@@ -873,7 +873,16 @@
     "family": "бын; унагъо; быныуын"
   },
   {
+    "offspring": "къытек1ыгъэр"
+  },
+  {
+    "descendant": "къытек1ыгъэр"
+  },
+  {
     "child": "бын (son or daughter); сабый"
+  },
+  {
+    "to mutter": "1упчъэпчъэн"
   },
   {
     "July": "бэдзэогъумаз"
@@ -2196,10 +2205,10 @@
     "strawberry": "цумпэ; цумпэ1эрыс"
   },
   {
-    "penis": "манэ; хьэмашэ; цыулэ (childish); былыхъу (childish); (vulgar, slang) к1э"
+    "penis": "манэ; хьэмашэ; цыулэ / былыхъу (childish); былыхъу (childish); (vulgar, slang) к1э"
   },
   {
-    "urethra": "былыхъу (childish)"
+    "urethra": "манэ; хьэмашэ"
   },
   {
     "urine": "гъутхьапс; щэхэпс"
@@ -4656,6 +4665,9 @@
     "nothing but": "зак1"
   },
   {
+    "to lose weight": "хэк1ын"
+  },
+  {
     "to demolish": "зэхэгъэтэкъун (to demolish something and make it collapse)"
   },
   {
@@ -4911,7 +4923,7 @@
     "to look down on": "ехъушъутэон; зэмыпэсын; нэмыплъ ехын"
   },
   {
-    "to underrate": "ехъушъутэон; зэмыпэсын; нэмыплъ ехын"
+    "to underrate": "уасэ фэмыш1ын"
   },
   {
     "to disregard": "ехъушъутэон; зэмыпэсын; нэмыплъ ехын"
@@ -4980,7 +4992,7 @@
     "cattle theft": "былымтыгъу"
   },
   {
-    "to steal": "тыгъун; тыгъон; ш1отыгъон (to steal from)"
+    "to steal": "тыгъун; тыгъон (to steal something); ш1отыгъон (to steal from)"
   },
   {
     "pestilence": "емынэ; былымыл1э (for animals)"
@@ -16686,10 +16698,13 @@
     "to whinge": "гъынэнэн"
   },
   {
-    "to disregard": "пхъэтэпэмыхьы ш1ын / пхъатэ емытын (to deliberately pay no attention to)"
+    "to disregard": "пхъэтэпэмыхьы ш1ын / пхъатэ емытын (to deliberately pay no attention to); нэмыплъ ехын"
   },
   {
     "to caress": "гъэш1он; едэхэш1эн"
+  },
+  {
+    "to underestimate": "уасэ фэмыш1ын"
   },
   {
     "to fondle": "едэхэш1эн"
