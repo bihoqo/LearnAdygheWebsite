@@ -22470,7 +22470,12 @@
     "definitions": [
       {
         "meaning": "to be bended; to be curved; to be crooked",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Гъуч1ыр '''щыгъэ'''",
+            "translation": "The iron '''was crooked'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -22494,7 +22499,12 @@
     "definitions": [
       {
         "meaning": "to bend; to curve; to crook",
-        "examples": []
+         "examples": [
+          {
+            "sentence": "Гъуч1ыр л1ым '''ыгъэщыгъ'''",
+            "translation": "The man '''crooked''' the iron."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -22575,10 +22585,6 @@
       {
         "meaning": "scabby",
         "examples": []
-      },
-      {
-        "meaning": "scab",
-        "examples": []
       }
     ],
     "type": "noun",
@@ -22590,10 +22596,6 @@
     "definitions": [
       {
         "meaning": "very-long-lived person",
-        "examples": []
-      },
-      {
-        "meaning": "centenarian",
         "examples": []
       }
     ],
@@ -22696,13 +22698,14 @@
       }
     ],
     "type": "noun"
+    "ipa": "bad͡ʒaːt͡ʃʼa"
   },
   {
     "word": "гъэпл1эн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to compress",
+        "meaning": "to adjust; to fine-tune",
         "examples": [
           {
             "sentence": "Тутыныр ыгъэпл1агъ",
@@ -22744,13 +22747,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "spider net",
+        "meaning": "spider's web",
         "examples": []
       }
     ],
-    "synonyms": [
-      "бэгьэхъ"
-    ],
+    "shapsug": "бэгьэхъ",
     "type": "noun",
     "ipa": "bad͡ʒəχ"
   },
@@ -22997,7 +22998,7 @@
       "сатыу"
     ],
     "type": "noun",
-    "ipa": "saːtəw"
+    "ipa": "ɕan-ɕafan"
   },
   {
     "word": "бэдзэр",
@@ -23121,7 +23122,7 @@
       }
     ],
     "type": "adv",
-    "ipa": "bakʲaːj"
+    "ipa": "bat͡ʃʼaːj"
   },
   {
     "word": "илъэсыбэ",
@@ -23148,7 +23149,8 @@
         "examples": []
       }
     ],
-    "type": "adj"
+    "type": "adj",
+    "ipa": "bat͡ʃʼə"
   },
   {
     "word": "нахь бэк1э",
@@ -23159,7 +23161,8 @@
         "examples": []
       }
     ],
-    "type": "adv"
+    "type": "adv",
+    "ipa": "naːħ bat͡ʃʼa"
   },
   {
     "word": "бэкъогъу",
@@ -23211,7 +23214,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "diaper, nappy",
+        "meaning": "diaper",
         "examples": []
       }
     ],
@@ -23242,7 +23245,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "    edible root, root vegetable",
+        "meaning": "edible root; root vegetable",
         "examples": []
       }
     ],
@@ -23314,7 +23317,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "assailant, fighter, wrestler,",
+        "meaning": "fighter, champion",
         "examples": []
       }
     ],
@@ -23380,7 +23383,7 @@
     ],
     "synonyms": [
       "къэ",
-      "хъэ"
+      "(Shapsug) хъэ"
     ],
     "kabardian": "бэн",
     "type": "noun",
@@ -23403,11 +23406,12 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to wrestle (to the fullest)",
+        "meaning": "to have a satisfaction after wrestling",
         "examples": []
       }
     ],
     "type": "verb"
+    "ipa": "banat͡ʃʼən"
   },
   {
     "word": "бэнэн",
@@ -23421,16 +23425,16 @@
             "translation": "'''I am fighting''' with the boy."
           },
           {
-            "sentence": "К1алэм '''мэбанэ'''",
+            "sentence": "К1алэр '''мэбанэ'''",
             "translation": "The boy '''is brawling'''."
           },
           {
-            "sentence": "К1алит1ор '''зэбэныжьых'''",
+            "sentence": "К1алит1ур '''зэбэных'''",
             "translation": "The two boys are '''fighting each other'''."
           },
           {
-            "sentence": "К1алэмрэ Томымрэ '''зэбэных'''",
-            "translation": "The boy and Top '''are brawling'''."
+            "sentence": "К1алэмрэ Куджанымрэ '''зэбэных'''",
+            "translation": "The boy and Kujan '''are brawling'''."
           },
           {
             "sentence": "Уишъыпкъэу л1ыжъым '''уебэныщта?'''",
@@ -23598,7 +23602,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "kind, generous",
+        "meaning": "good-natured",
         "examples": []
       }
     ],
@@ -23698,18 +23702,18 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Since a long time",
+        "meaning": "since a long time",
         "examples": [
           {
-            "sentence": "'''бэш1агъи''' к1алэр сиунэ къэк1ожьгъэп",
+            "sentence": "'''бэш1агъи''' к1алэр сиунэ къэк1ожьыгъэп",
             "translation": "'''Since a long time''' the boy haven't come back to my house."
           },
           {
-            "sentence": "'''бэш1агъи''' услъэгъужьгъэп",
+            "sentence": "'''бэш1агъи''' услъэгъужьыгъэп",
             "translation": "'''Since a long time''' I didn't see you."
           },
           {
-            "sentence": "'''бэш1агъ''' хъугъэ узэрэлэжьэжьгъэ",
+            "sentence": "'''бэш1агъ''' хъугъэ узэрэлэжьэжьыгъэ",
             "translation": "'''It have been a long time''' since you worked."
           }
         ]
@@ -60694,18 +60698,6 @@
     ],
     "type": "verb",
     "ipa": "ɡʷəjaʁʷən"
-  },
-  {
-    "word": "гугъуемыл1",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "careless",
-        "examples": []
-      }
-    ],
-    "type": "adj",
-    "ipa": "ɡʷəʁʷeməlʼ"
   },
   {
     "word": "1эпы1эгъоу фэхъун",
