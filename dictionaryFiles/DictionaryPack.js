@@ -25651,6 +25651,18 @@
     "ipa": "baːd͡ʒaʂ"
   },
   {
+    "word": "хьэ1уцыдз",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "jackal",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ħaʔʷət͡səd͡z"
+  },
+  {
     "word": "1эндыкъ",
     "lang": "Adyghe",
     "definitions": [
@@ -25803,6 +25815,22 @@
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "alternative form of \"хьадэпчэмы1у\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "хьанчэмы1у"
+    ],
+    "kabardian": "шылъэгу",
+    "type": "noun",
+    "ipa": "ħadapt͡ʃaməʔʷ"
+  },
+  {
+    "word": "хьадэпчэмы1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
         "meaning": "turtle",
         "examples": []
       }
@@ -25819,7 +25847,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "turtle",
+        "meaning": "alternative form of \"хьадэпчэмы1у\"",
         "examples": []
       }
     ],
@@ -25871,7 +25899,7 @@
     "ipa": "qaːtər"
   },
   {
-    "word": "чъыгшъхьацыз",
+    "word": "чъыгышъхьэцыз",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -26020,6 +26048,7 @@
         "examples": []
       }
     ],
+    "shapsug": "мэзкьэт",
     "kabardian": "мэзджэд",
     "type": "noun",
     "ipa": "mazt͡ʃat"
@@ -26074,6 +26103,7 @@
         "examples": []
       }
     ],
+    "shapsug": "дышъэкьэт",
     "type": "noun",
     "ipa": "dəʐat͡ʃat"
   },
@@ -26086,19 +26116,22 @@
         "examples": []
       }
     ],
-    "synonyms": [
-      "псыкьэт"
-    ],
+    "shapsug": "псыкьэт",
     "kabardian": "псыджэд",
     "type": "noun",
     "ipa": "psət͡ʃat"
   },
   {
-    "word": "ч1ыбзу",
+    "word": "ч1ыбзыу",
     "lang": "Adyghe",
-    "definitions": [],
+    "definitions": [
+      {
+        "meaning": "cricket (insect)",
+        "examples": []
+      }
+    ],
     "type": "noun",
-    "ipa": "t͡ʃˈəbzəw"
+    "ipa": "t͡ʂəbzəw"
   },
   {
     "word": "пхъац1э",
@@ -26117,11 +26150,11 @@
     "ipa": "pχaːt͡sˈa"
   },
   {
-    "word": "чъыгы шъуамп1",
+    "word": "чъыгышъо",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "[]",
+        "meaning": "tree peel",
         "examples": []
       }
     ],
@@ -26148,7 +26181,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "butterfly",
+        "meaning": "(dialectal) butterfly",
         "examples": []
       }
     ],
@@ -26182,9 +26215,7 @@
         "examples": []
       }
     ],
-    "synonyms": [
-      "багьэ"
-    ],
+    "shapsug": "багьэ",
     "type": "noun",
     "ipa": "bad͡ʒə"
   },
@@ -26233,9 +26264,7 @@
         "examples": []
       }
     ],
-    "synonyms": [
-      "хьантыкъуакъу"
-    ],
+    "shapsug": "хьантыкъуакъу",
     "kabardian": "хьэндыркъуакъуэ",
     "type": "noun",
     "ipa": "ħantˈaːrqʷ"
@@ -26358,7 +26387,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "fat",
+        "meaning": "fat (heavyweight)",
         "examples": [
           {
             "sentence": "к1алэр '''пщэры'''",
@@ -26369,7 +26398,7 @@
             "translation": "'''Make yourself fat'''."
           },
           {
-            "sentence": "бэрэ шхи '''пщэрэу''' хъут",
+            "sentence": "бэрэ шхи '''пщэрэу''' хъущт",
             "translation": "Eat a lot and you will become '''fat'''."
           },
           {
@@ -26402,35 +26431,27 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(Literary) few",
+        "meaning": "few",
         "examples": [
           {
             "sentence": "к1элэ '''мак1''' и1э",
-            "translation": "He have '''few''' boys."
+            "translation": "(S)he have '''few''' boys."
           },
           {
-            "sentence": "ахъшэ '''мак1э''' къыситгъэ",
+            "sentence": "ахъщэ '''мак1э''' къыситыгъ",
             "translation": "He gave me '''few''' money."
           },
           {
-            "sentence": "к1элэхэр '''мак1эу''' екъух",
+            "sentence": "к1алэхэр '''мак1эу''' екъух",
             "translation": "The boys are '''few'''."
           },
           {
-            "sentence": "ахъшэ мак1э къыситгъэ",
-            "translation": "The beautiful '''boy'''."
+            "sentence": "'''мак1э''' ыш1эрэр",
+            "translation": "'''Few''' what he knows."
           },
           {
-            "sentence": "'''мак1э''' иш1эрэ",
-            "translation": "'''Few''' what he knows - '''Few''' what he does."
-          },
-          {
-            "sentence": "л1ыжъым иныбжьэ '''мак1эп'''",
+            "sentence": "л1ыжъым иныбжь '''мак1эп'''",
             "translation": "The age of the old man '''is not little'''."
-          },
-          {
-            "sentence": "к1элэхэмэ сибэнанэ яшхыгъым фэшк1э, бэнанэу си1э нэхь '''мак1эу''' мэхъогъ",
-            "translation": "Because the boys ate my bananas, my bananas that I have become '''fewer'''."
           }
         ],
         "tags": [
@@ -26439,7 +26460,7 @@
       }
     ],
     "synonyms": [
-      "тэк1у"
+      "т1эк1у"
     ],
     "type": "adv",
     "ipa": "maːt͡ʃa"
