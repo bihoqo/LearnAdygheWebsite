@@ -34469,21 +34469,26 @@
         "meaning": "to leave someone, to separate from",
         "examples": [
           {
-            "sentence": "К1алэм зэзаохэрэ '''зэпигъэк1ыжьгъэх'''",
-            "translation": "The boy '''separated''' those that fought."
+            "sentence": "К1алэм зэзаохэрэр '''зэпигъэк1ыжьыгъэх'''",
+            "translation": "The boy '''separated''' those that are fighting."
           },
           {
-            "sentence": "Ду к1элит1у зэзаохэрэр '''зэпигъэк1ыжьхэба'''",
-            "translation": "'''Separate''' those two boys that are fighting each other '''already'''."
+            "sentence": "Мо к1элит1у зэзаохэрэр '''зэпыгъэк1ыжьых'''",
+            "translation": "'''Separate''' those two boys that are fighting '''each other'''."
           },
           {
-            "sentence": "'''Узпык1ыжьыт'''",
+            "sentence": "'''Узпык1ыжьыщт'''",
             "translation": "'''I will leave you'''."
           },
           {
             "sentence": "К1алэр пшъашъэм '''пык1ыжьыгъ'''",
             "translation": "The boy '''left''' the girl."
-          },
+          }
+        ]
+      },
+      {
+        "meaning": "to come off; to detach",
+        "examples": [
           {
             "sentence": "USB-эр сомпыютэрым '''къыпык1ырэп'''",
             "translation": "The USB '''doesn't come off''' the computer."
@@ -34498,15 +34503,9 @@
             "translation": "That man '''divorced from''' his wife."
           }
         ]
-      },
-      {
-        "meaning": "to come off",
-        "examples": []
       }
     ],
-    "synonyms": [
-      "пык1ьын"
-    ],
+    "shapsug": "пык1ьын",
     "type": "verb",
     "ipa": "pəkʲʼən"
   },
@@ -34544,6 +34543,7 @@
     "synonyms": [
       "еджэн (to be reading)"
     ],
+    "shapsug": "гьын",
     "type": "verb",
     "ipa": "d͡ʒən"
   },
@@ -34559,20 +34559,9 @@
     "synonyms": [
       "еджэн (to be reading)"
     ],
+    "shapsug": "игьын",
     "type": "verb",
     "ipa": "d͡ʒən"
-  },
-  {
-    "word": "егьэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"еджэн\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "jaɡʲan"
   },
   {
     "word": "еджэн",
@@ -34586,12 +34575,12 @@
             "translation": "The boy '''is calling''' the girl."
           },
           {
-            "sentence": "пшъашъэр '''къоджэ'''",
+            "sentence": "пшъашъэр '''къыоджэ'''",
             "translation": "The girl '''is calling you'''."
           },
           {
             "sentence": "к1алэхэмэ '''шъукъадж'''",
-            "translation": "'''Call''' the boys (Said to plural)"
+            "translation": "'''Call''' the boys."
           },
           {
             "sentence": "тик1алэ Томк1э '''теджэщт'''",
@@ -34651,7 +34640,7 @@
           },
           {
             "sentence": "к1алэр тхылъык1э '''еджэ'''",
-            "translation": "The boy '''is studying''' with (using) the book."
+            "translation": "The boy '''is studying''' with the book."
           }
         ]
       }
@@ -34659,6 +34648,7 @@
     "synonyms": [
       "джын (to compete reading)"
     ],
+    "shapsug": "егьэн",
     "type": "verb",
     "ipa": "jad͡ʒan"
   },
@@ -34675,55 +34665,11 @@
     "ipa": "tad͡ʒən"
   },
   {
-    "word": "тэгьын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"тэджын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "taɡʲən"
-  },
-  {
-    "word": "угьын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to dance",
-        "examples": [
-          {
-            "sentence": "К1алэр '''къэугьы'''",
-            "translation": "The boy '''is dancing'''."
-          },
-          {
-            "sentence": "К1алэр дахэу '''угьы'''",
-            "translation": "The boy '''is dancing''' beautifully."
-          },
-          {
-            "sentence": "'''Угьынэу''' уш1а?",
-            "translation": "Do you know how '''to dance'''?."
-          },
-          {
-            "sentence": "Синыбджэгъухэр сич1ылэ '''шыугьытых'''",
-            "translation": "My friends '''are gonna dance''' in our village."
-          }
-        ]
-      }
-    ],
-    "synonyms": [
-      "къэшъон"
-    ],
-    "type": "verb",
-    "ipa": "wəɡʲən"
-  },
-  {
     "word": "уджын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to dance",
+        "meaning": "(dialectal) to dance",
         "examples": [
           {
             "sentence": "К1алэр '''къэуджы'''",
@@ -34738,33 +34684,19 @@
             "translation": "Do you know how '''to dance'''?."
           },
           {
-            "sentence": "Синыбджэгъухэр сич1ылэ '''шыуджытых'''",
-            "translation": "My friends '''are gonna dance''' in our village."
+            "sentence": "Синыбджэгъухэр сичылэ '''къыщыуджыщтых'''",
+            "translation": "My friends '''are going to dance''' in our village."
           }
         ]
       }
     ],
     "synonyms": [
       "еш1эн",
-      "къэшъон",
-      "----"
+      "къэшъон"
     ],
-    "kabardian": "джэгун",
+    "shapsug": "угьын; къэугьын",
     "type": "verb",
     "ipa": "wd͡ʒən"
-  },
-  {
-    "word": "лъапс1э",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"лъапц1э\"",
-        "examples": []
-      }
-    ],
-    "kabardian": "лъапц1э",
-    "type": "adj",
-    "ipa": "ɬaːpsʼa"
   },
   {
     "word": "непэ",
@@ -34774,19 +34706,17 @@
         "meaning": "today",
         "examples": [
           {
-            "sentence": "'''непэ''' тк1от йуропа",
-            "translation": "'''Today''', we will go to Europe."
+            "sentence": "'''непэ''' тык1ощт йуропа",
+            "translation": "'''Today''', we will go to Европа."
           },
           {
-            "sentence": "'''непэ''' томэр къэк1уагъ",
-            "translation": "'''Today''' Tom came."
+            "sentence": "'''непэ''' Куджаныр къэк1уагъ",
+            "translation": "'''Today''' Kujan came."
           }
         ]
       }
     ],
-    "synonyms": [
-      "нэпэ"
-    ],
+    "shapsug": "нэпэ",
     "kabardian": "нобэ",
     "type": "adv",
     "ipa": "najpa"
@@ -34805,6 +34735,18 @@
     "ipa": "nəbʁʷə"
   },
   {
+    "word": "былымышъхь",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "cattle head",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "bəɮəməʂħa"
+  },
+  {
     "word": "пчъын",
     "lang": "Adyghe",
     "definitions": [
@@ -34813,29 +34755,25 @@
         "examples": [
           {
             "sentence": "К1алэм '''епчъы'''.",
-            "translation": "t=The boy '''is counting'''."
+            "translation": "The boy '''is counting'''."
           },
           {
             "sentence": "Сэ Адыгэбзэк1э '''сэпчъы'''.",
-            "translation": "t='''I am counting''' in Circassian."
+            "translation": "'''I am counting''' in Circassian."
           },
           {
-            "sentence": "К1алэм бэнанэхэр '''епчъых'''.",
-            "translation": "t=The boy '''is counting''' the bananas."
+            "sentence": "К1алэм мы1эрысхэр '''епчъых'''.",
+            "translation": "The boy '''is counting''' the apples."
           },
           {
-            "sentence": "Хьэпщ бэнанэу ти1э '''пчъы'''.",
-            "translation": "t='''Count''' how many bananas we have."
+            "sentence": "Тхьапш мы1эрысэу ти1эр '''пчъы'''.",
+            "translation": "'''Count''' how many apples we have."
           },
           {
-            "sentence": "К1элэцык1ум шъэ нэс '''къипчъышъут'''.",
-            "translation": "t=The little boy '''can count''' to a hundred."
+            "sentence": "К1элэц1ык1ум шъэ нэс '''къипчъышъущт'''.",
+            "translation": "The little boy '''can count''' to a hundred."
           }
         ]
-      },
-      {
-        "meaning": "to calculate",
-        "examples": []
       },
       {
         "meaning": "to enumerate, to list (to specify each member of a sequence individually in incrementing order)",
@@ -34853,7 +34791,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "right (the opposite of left)",
+        "meaning": "right (the right direction)",
         "examples": []
       }
     ],
@@ -34876,7 +34814,7 @@
             "translation": "'''Do you hold''' the key?"
           },
           {
-            "sentence": "К1элэцык1у '''сы1эгъ'''",
+            "sentence": "К1элэц1ык1у '''сы1ыгъ'''",
             "translation": "'''I am holding''' a little boy."
           },
           {
@@ -34884,7 +34822,7 @@
             "translation": "'''I was holding''' an apple."
           },
           {
-            "sentence": "Пшъашъэм тхылъ бэ '''и1ыгъ'''",
+            "sentence": "Пшъашъэм тхылъ бэ '''ы1ыгъ'''",
             "translation": "The girl '''holds''' a lot books."
           },
           {
@@ -34892,12 +34830,8 @@
             "translation": "Write '''with (using)''' the pencil '''you holding'''."
           },
           {
-            "sentence": "Зы тон '''сы1ыгъэшъутэп'''",
+            "sentence": "Зы тон '''сы1ыгъэшъущтэп'''",
             "translation": "'''I can't hold''' 1 ton."
-          },
-          {
-            "sentence": "Мыехэр тэрэзэу 1ыгъэх '''къуп1эпызытых'''",
-            "translation": "Hold the apples correctly '''you will drop them'''."
           }
         ]
       },
@@ -34905,7 +34839,7 @@
         "meaning": "to maintain",
         "examples": [
           {
-            "sentence": "Л1ым фабрикэр изакъоу ыӏыгъ",
+            "sentence": "Л1ым фабрикэр изакъоу '''ыӏыгъ'''",
             "translation": "The man '''maintains''' the factory alone"
           }
         ]

@@ -7800,7 +7800,7 @@
     "to separate": "пык1ын (do disconnect, to separate from); зэпыдзын (to isolate to two groups); зэгогъэк1ын; зэпыгъэк1ын; зэхэдзын (to separate into sub-groups)"
   },
   {
-    "to divorce from": "пык1ыжьын"
+    "to disconnect": "пык1ын"
   },
   {
     "to name": "ц1э усын; ц1э фэусын (to give a name to); иунашъо ш1ын (to mention)"
@@ -17377,6 +17377,9 @@
   },
   {
     "special": "пстэуми афэмыдэ"
+  },
+  {
+    "to detach": "пык1ын (to be detached); пыхын (to detach)"
   },
   {
     "detached": "пстэуми афэмыдэ"
