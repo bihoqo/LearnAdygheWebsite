@@ -7797,9 +7797,6 @@
     "gloomy": "ш1унк1ы"
   },
   {
-    "haze": "ш1унк1ы"
-  },
-  {
     "to separate": "пык1ын (do disconnect, to separate from); зэпыдзын (to isolate to two groups); зэгогъэк1ын; зэпыгъэк1ын; зэхэдзын (to separate into sub-groups)"
   },
   {

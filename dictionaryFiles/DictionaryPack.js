@@ -33734,7 +33734,7 @@
             "translation": "Adam '''is not in''' my house."
           },
           {
-            "sentence": "Куджаныр шъунэ'''иса'''?",
+            "sentence": "Куджаныр шъуиунэ'''иса'''?",
             "translation": "'''Is''' Kujan '''in''' your house?"
           },
           {
@@ -33764,21 +33764,6 @@
     "type": "name"
   },
   {
-    "word": "Адыгэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "republic c/Russia",
-        "examples": [],
-        "tags": [
-          "place",
-          "republic"
-        ]
-      }
-    ],
-    "type": "name"
-  },
-  {
     "word": "кущэрэхъ",
     "lang": "Adyghe",
     "definitions": [
@@ -33798,15 +33783,16 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to become stuck (trapped and unable to move)",
-        "examples": []
+        "meaning": "to become stuck in (trapped and unable to move)",
+        "examples": [
+          {
+            "sentence": "Пчъэм '''сыдэнагъ'''",
+            "translation": "'''I am stuck in''' the door."
+          }
+        ]
       },
       {
-        "meaning": "to become stuck (unable to progress)",
-        "examples": []
-      },
-      {
-        "meaning": "to stay, remain (should have the prefix къы- /qə-/)",
+        "meaning": "to become stuck in (unable to progress)",
         "examples": []
       }
     ],
@@ -33866,48 +33852,46 @@
     "ipa": "pʼəraːɡʷ"
   },
   {
-    "word": "тэнэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"тенэн\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "tanan"
-  },
-  {
     "word": "ч1энэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to become stuck (trapped and unable to move)",
-        "examples": []
+        "meaning": "to become stuck under (trapped and unable to move)",
+        "examples": [
+          {
+            "sentence": "1энэ ч1эгъым '''сыч1энагъ'''",
+            "translation": "'''I am stuck under''' the table."
+          }
+        ]
       },
       {
-        "meaning": "to become stuck (unable to progress)",
-        "examples": []
-      },
-      {
-        "meaning": "to stay, remain (should have the prefix къы- /qə-/)",
+        "meaning": "to become stuck under (unable to progress)",
         "examples": []
       }
     ],
     "type": "verb",
-    "ipa": "t͡ʃanan"
+    "ipa": "t͡ʃʼanan"
   },
   {
     "word": "1унэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to become stuck (trapped and unable to move)",
+        "meaning": "to become stuck near (trapped and unable to move)",
         "examples": []
       },
       {
         "meaning": "to become stuck (unable to progress)",
         "examples": []
+      },
+      {
+        "meaning": "to stay, remain (usaully has the prefix къы- /qə-/)",
+        "examples": [
+          {
+            "sentence": "1энэ ч1эгъым '''сыч1энагъ'''",
+            "translation": "'''I am stuck under''' the table."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -33918,20 +33902,32 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to stay behind, to remain",
+        "meaning": "to stay behind; to remain; to linger",
         "examples": [
           {
             "sentence": "К1алэр '''къы1унагъ''' иныбжьэгъу''' паплъэу",
             "translation": "The boy '''stayed behind''' waiting for his friend."
+          },
+		  {
+            "sentence": "К1алэр тучаным '''къы1унагъ'''",
+            "translation": "The boy '''stayed behind''' neat the shop."
+          },
+		  {
+            "sentence": "Маш1ор '''къы1унагъ'''",
+            "translation": "The fire '''lingered'''."
           }
         ]
       },
       {
-        "meaning": "to leave someone behind",
+        "meaning": "to leave someone/something behind",
         "examples": [
           {
             "sentence": "К1алэр иныбжьэгъу '''къы1уинагъ''' изакъоу",
             "translation": "The boy '''left''' his friend alone."
+          },
+		  {
+            "sentence": "Сишхын чъыгым ыдэжь '''къы1уснагъ'''",
+            "translation": "I '''left''' my food near the table."
           }
         ]
       }
@@ -33978,15 +33974,16 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to become stuck (trapped and unable to move)",
-        "examples": []
+        "meaning": "to become stuck within an area with gas, liquid or solid (trapped and unable to move)",
+        "examples": [
+          {
+            "sentence": "Хым '''сыкъыхэнагъ'''",
+            "translation": "'''I got stuck in''' the sea."
+          }
+        ]
       },
       {
-        "meaning": "to become stuck (unable to progress)",
-        "examples": []
-      },
-      {
-        "meaning": "to stay, remain (should have the prefix къы- /qə-/)",
+        "meaning": "to become stuck within an area with gas, liquid or solid (unable to progress)",
         "examples": []
       }
     ],
@@ -34009,7 +34006,7 @@
             "translation": "the tree '''got on fire'''."
           },
           {
-            "sentence": "газ пхъэхэмэ яхэпк1эмэ '''маш1о хэнэт'''",
+            "sentence": "газ пхъэхэмэ ахэпк1эмэ '''маш1о хэнэт'''",
             "translation": "If you spell gas on the woods '''they will get on fire'''."
           },
           {
@@ -34027,15 +34024,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to become stuck (trapped and unable to move)",
+        "meaning": "to get stuck and undetachable",
         "examples": []
       },
       {
-        "meaning": "to become stuck (unable to progress)",
-        "examples": []
-      },
-      {
-        "meaning": "to stay, remain (should have the prefix къы- /qə-/)",
+        "meaning": "to get stuck on a tree",
         "examples": []
       }
     ],
@@ -34051,9 +34044,7 @@
         "examples": []
       }
     ],
-    "synonyms": [
-      "пк1ат1э"
-    ],
+    "shapsug": "пк1ат1э",
     "kabardian": "пщ1ант1эпс",
     "type": "noun",
     "ipa": "pt͡ʃaːntʼa"
@@ -34066,12 +34057,12 @@
         "meaning": "butt, buttock",
         "examples": [
           {
-            "sentence": "К1алэм '''ишъуты''' ч1эшъутыр",
+            "sentence": "К1алэм '''ышъуты''' ч1эшъутыр",
             "translation": "Kick the boy in the '''butt'''."
           },
           {
-            "sentence": "'''Уишъуты''' къыч1эщы",
-            "translation": "'''Your butt''' is visible."
+            "sentence": "'''Ушъуты''' къыч1эщы",
+            "translation": "'''Your butt''' is exposed."
           }
         ]
       }
@@ -34123,37 +34114,6 @@
     "ipa": "daːwa"
   },
   {
-    "word": "кьэрхъон",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "swing",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "к1эрхъон",
-      "хъэрен"
-    ],
-    "type": "noun",
-    "ipa": "kʲarχʷan"
-  },
-  {
-    "word": "бзыук1ьалъэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"бзыук1алъэ\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "бзыук1алъэ"
-    ],
-    "type": "noun",
-    "ipa": "bzəwkʲʼaːɬa"
-  },
-  {
     "word": "пэгущы1эжьын",
     "lang": "Adyghe",
     "definitions": [
@@ -34194,6 +34154,7 @@
     "synonyms": [
       "ц1ап1э"
     ],
+    "shapsug": "бзагьэ",
     "type": "adj",
     "ipa": "bzaːd͡ʒa"
   },
@@ -34206,7 +34167,7 @@
         "examples": []
       },
       {
-        "meaning": "half dead",
+        "meaning": "halfdead",
         "examples": []
       }
     ],
@@ -34225,11 +34186,11 @@
             "translation": "The house is '''far away'''."
           },
           {
-            "sentence": "К1алэм '''чыжьэу''' 1ут",
+            "sentence": "К1алэр '''чыжьэу''' 1ут",
             "translation": "The boy is standing'''far away'''."
           },
           {
-            "sentence": "Мэзыр зыш1у '''чыжьэ'''",
+            "sentence": "Мэзыр зыш1оу '''чыжьэ'''",
             "translation": "The forest is really '''far away'''."
           },
           {
@@ -34244,6 +34205,23 @@
     "ipa": "t͡ʃəʑa"
   },
   {
+    "word": "зэпэчыжьэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "far away from each other",
+        "examples": [
+          {
+            "sentence": "Тиунэхэр '''зэпэчыжьэх'''",
+            "translation": "Our houses '''are far away from each other''''."
+          }
+        ]
+      }
+    ],
+    "type": "adv",
+    "ipa": "zapat͡ʃəʑa"
+  },
+  {
     "word": "гъэ1улэн",
     "lang": "Adyghe",
     "definitions": [
@@ -34253,8 +34231,7 @@
       }
     ],
     "synonyms": [
-      "гъэделэн",
-      "----"
+      "гъэделэн"
     ],
     "type": "verb",
     "ipa": "ʁaʔʷəlan"
@@ -34271,7 +34248,7 @@
             "translation": "The boy '''fooled''' the man."
           },
           {
-            "sentence": "Ащ '''сигъэдели''' телефон убэтагъэ къысишагъ",
+            "sentence": "Ащ '''сигъэдели''' телефон убэтагъэ къысищагъ",
             "translation": "He '''fooled me''' and sold me a broken mobile phone."
           },
           {
@@ -34279,15 +34256,15 @@
             "translation": "'''I couldn't fool him''' with the table's price."
           },
           {
-            "sentence": "Мо к1алэхэмк1э на1э тегъэт, '''уагъэделэни''' уи ахъщэ зэк1эр къып1ахыщт",
-            "translation": "Take care from those boys over there, '''they will deceive you''' and take all your money."
+            "sentence": "Мо к1алэхэмк1э зыфэсакъ, '''уагъэделэни''' уи ахъщэ зэк1эр къыпы1ахыщт",
+            "translation": "Be careful from those boys over there, '''they will deceive you''' and take all your money."
           },
           {
-            "sentence": "Футболистым ипэ итэ '''къигъэдели''' блэк1ыгъ",
+            "sentence": "Футболистым ыпэ итэ '''къигъэдели''' блэк1ыгъ",
             "translation": "The soccer player '''fooled''' the one that was in front of him and he passed him."
           },
           {
-            "sentence": "Ахэр '''тыгъэделэхи''' як1ыбк1э къэтыубытгъэх",
+            "sentence": "Ахэр '''тыгъэделэхи''' як1ыбк1э къэтыубытыгъэх",
             "translation": "'''We fooled''' them, and we caught them behind."
           }
         ]
@@ -34372,7 +34349,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "sharp (Able to cut easily)",
+        "meaning": "sharp (something that cuts easily)",
         "examples": [
           {
             "sentence": "Чатэр '''чан'''",
@@ -34401,35 +34378,20 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "nit",
+        "meaning": "nit (louse egg)",
         "examples": []
       }
     ],
-    "synonyms": [
-      "с1ак1ьэ"
-    ],
+    "shapsug": "с1ак1ьэ",
     "type": "noun",
     "ipa": "t͡sʼaːt͡ʃa"
-  },
-  {
-    "word": "с1ак1ьэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "nit",
-        "examples": []
-      }
-    ],
-    "kabardian": "ц1ак1э",
-    "type": "noun",
-    "ipa": "sʼaːkʲʼa"
   },
   {
     "word": "къамц1ыч",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "wart",
+        "meaning": "wart (type of growth occurring on the skin)",
         "examples": []
       }
     ],
@@ -34488,11 +34450,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "darkness",
+        "meaning": "dark",
         "examples": []
       },
-      {
-        "meaning": "haze",
+	  {
+        "meaning": "darkness",
         "examples": []
       }
     ],
