@@ -39020,18 +39020,30 @@
         "meaning": "even if that, even if so",
         "examples": [
           {
-            "sentence": "'''Арми''' л1ым ыш1агъэр, хьапсым ч1агъэт1ысхьэн фэягъэп",
+            "sentence": "'''Арми''' л1ым ыш1агъэр, хьапсым ч1агъэт1ысхьан фэягъэп",
             "translation": "'''Even if that''' what the man did, they shouldn't have put him in jail."
           },
           {
-            "sentence": "'''Арми''' п1орэр, шъофым тыхэгъахь",
-            "translation": "'''Even if that''' what you say, let us enter the field."
+            "sentence": "'''Арми''' хъугъэр, зи зихъук1ырэп",
+            "translation": "'''Even if that''' is what happened, it changes nothing."
           }
         ]
       }
     ],
     "type": "adv",
-    "ipa": "aːma"
+    "ipa": "aːrməj"
+  },
+  {
+    "word": "аущытми",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "even if that, even if so",
+        "examples": []
+      }
+    ],
+    "type": "adv",
+    "ipa": "aːwɕetməj"
   },
   {
     "word": "к1эупк1эн",
@@ -39080,12 +39092,12 @@
         "meaning": "to name (someone)",
         "examples": [
           {
-            "sentence": "бзылъфыгъэм и к1алэ Том '''фиусэгъ'''.",
-            "translation": "The woman '''named''' her son Tom."
+            "sentence": "бзылъфыгъэм ык1алэ Куджан '''фиусэгъ'''.",
+            "translation": "The woman '''named''' her son Kujan."
           },
           {
-            "sentence": "ахэмэ я пшъашъэхэмэ '''афаусыгъэхэр''' ц1э дахэх.",
-            "translation": "The names '''they gave''' their daughters are beautiful."
+            "sentence": "ахэмэ апшъашъэхэмэ '''афаусыгъэхэр''' ц1э дахэх.",
+            "translation": "The names '''they gave''' to their daughters are beautiful names."
           }
         ]
       },
@@ -39095,15 +39107,28 @@
           {
             "sentence": "л1ыхъужъым орэд '''фаусы'''.",
             "translation": "'''They compose''' a song about the brave person."
+          },
+		  {
+            "sentence": "сиятэжъ орэд '''ыусыгъ'''.",
+            "translation": "My grandfather '''composed''' a song."
+          }
+        ]
+      },
+      {
+        "meaning": "to lie",
+        "examples": [
+          {
+            "sentence": "к1алэм пц1ы '''еусы'''.",
+            "translation": "The boy '''is lying'''."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "wsən"
+    "ipa": "wəsən"
   },
   {
-    "word": "гу тэпсэфэн",
+    "word": "гутепсэфэн",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -39112,7 +39137,7 @@
       }
     ],
     "type": "verb",
-    "ipa": "ɡʷə tapsafan"
+    "ipa": "ɡʷətajpsafan"
   },
   {
     "word": "ерагъ",
@@ -39122,30 +39147,26 @@
         "meaning": "weak, poor (of low quality)",
         "examples": [
           {
-            "sentence": "синэхэ '''ерагъэх'''",
+            "sentence": "снэхэр '''ерагъэх'''",
             "translation": "My eyes '''are poor'''."
           },
           {
-            "sentence": "синэхэмэ '''ерагъэу''' ялъэгъу",
-            "translation": "My eyes '''barley''' see."
+            "sentence": "снэхэмэ '''ерагъэу''' алъэгъу",
+            "translation": "My eyes see '''poorly'''."
           },
           {
-            "sentence": "л1ыжъэр '''ерагъэу''' мак1о",
-            "translation": "The old man '''barley''' goes."
+            "sentence": "л1ыжъыр '''ерагъэу''' мак1о",
+            "translation": "The old man is going '''poorly'''."
           },
           {
             "sentence": "'''ерагъэм''' 1эпы1эгъу фэхъу",
-            "translation": "Help '''the weak people'''."
+            "translation": "Help '''the weak ones'''."
           },
           {
             "sentence": "мы кур '''ерагъ'''",
             "translation": "This car is '''poor'''."
           }
         ]
-      },
-      {
-        "meaning": "barely",
-        "examples": []
       }
     ],
     "type": "adj",
