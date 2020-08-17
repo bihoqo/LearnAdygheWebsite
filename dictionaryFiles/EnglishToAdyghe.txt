@@ -2274,9 +2274,6 @@
     "most": "ибэ"
   },
   {
-    "several": "заулэ"
-  },
-  {
     "let's": "нек1о"
   },
   {
@@ -2940,7 +2937,7 @@
     "property": "мылъку"
   },
   {
-    "full": "изы; шхэк1ын (having eaten to satisfaction)"
+    "full": "изы; изэу; шхэк1ын (having eaten to satisfaction)"
   },
   {
     "satiated": "шхэк1ыгъ (having eaten to satisfaction)"
@@ -4395,7 +4392,7 @@
     "to slip by": "блихын"
   },
   {
-    "armpit": "блыгу; блыгу ч1эгъ (under armpit); блыгуч1"
+    "armpit": "блыгу; блыгу ч1эгъ (under armpit); блыгуч1; гужъуак1э"
   },
   {
     "underarm": "блыгу; блыгуч1"
@@ -5967,7 +5964,7 @@
     "tool": "1эмэ-псым; 1эдэ-уад"
   },
   {
-    "hook": "хьэбзыу (bird)"
+    "hook": "къакъыщ; хьэбзыу (bird)"
   },
   {
     "slotted tail": "бзук1эзэгох"
@@ -6540,9 +6537,6 @@
     "high": "лъагэ; 1этыгъэ"
   },
   {
-    "handcuffs": "1эхъу-пшъэхъухэр"
-  },
-  {
     "snowflake": "осыц"
   },
   {
@@ -6559,6 +6553,36 @@
   },
   {
     "English language": "инджылыбзэ"
+  },
+  {
+    "prisoner": "хьапсэч1эс"
+  },
+  {
+    "irons": "1эхъу ("hand shackles); лъэхъу (leg shackles); 1эхъу-лъэхъу"
+  },
+  {
+    "shackles": "1эхъу ("hand shackles); лъэхъу (leg shackles); 1эхъу-лъэхъу"
+  },
+  {
+    "hand shackles": "1эхъу; 1эхъу-лъэхъу"
+  },
+  {
+    "leg shackles": "1эхъу; 1эхъу-лъэхъу"
+  },
+  {
+    "manacles": "1эхъу (for hands); лъэхъу (for legs); 1эхъу-лъэхъу"
+  },
+  {
+    "fetters": "1эхъу (for hands); лъэхъу (for legs); 1эхъу-лъэхъу"
+  },
+  {
+    "gyves": "лъэхъу"
+  },
+  {
+    "handcuffs": "1эхъу; 1эхъу-пшъэхъухэр"
+  },
+  {
+    "legcuffs": "лъэхъу"
   },
   {
     "bracelet": "1эхъу; 1эшъхьэхъу"
@@ -7902,7 +7926,7 @@
     "hide and seek": "кукунэгъэбылъ"
   },
   {
-    "to search": "лъыхъун"
+    "to search": "лъыхъун (to search someone, to look for someone); хэплъыхьан (to take a good look into area with trees, plants, fire, liquid or gas, to take a good look among people or objects); теплъыхьан (to take a good look on something); ч1эплъыхьан (to take a good look under something); иплъыхьан (to take a good look inside something); дэплъыхьан (to take a good look in something, to take a good look between); пыплъыхьан (to take a good look on someone's clothes); къэплъыхьан / зыплъыхьан (to take a good look around)"
   },
   {
     "to look for": "лъыхъун"
@@ -7926,7 +7950,7 @@
     "full": "изы"
   },
   {
-    "drink": "шъоны"
+    "drink": "шъоны; ешъоны"
   },
   {
     "to pinch": "еп1эск1ун"
@@ -8127,7 +8151,13 @@
     "mallet": "фыгу"
   },
   {
-    "mad": "хьэшхъурэ1у"
+    "rabid": "хьэшхъурэ1у"
+  },
+  {
+    "hydrophobia": "хьэшхъурэ1у"
+  },
+  {
+    "rabies": "хьэшхъурэ1у"
   },
   {
     "to carry out, to fulfill": "гъэцэк1эн"
@@ -8154,49 +8184,22 @@
     "spicy": "стыр"
   },
   {
-    "good manners": "ш1ык1аш1у"
+    "good manners": "шэн дах"
   },
   {
-    "manner, method": "ш1ык1э"
+    "bad manners": "шэн 1ай"
   },
   {
-    "the way/manner/method something is structured": "ш1ык1э"
-  },
-  {
-    "noble": "ш1уш1э"
+    "well-mannered": "гъэсагъэ; шэныш1у; ш1ык1аш1у"
   },
   {
     "benefactor": "ш1уш1э"
   },
   {
-    "Arm pit": "гужъуак1э"
-  },
-  {
     "knowledge": "ш1эныгъэ"
   },
   {
-    "alternative form of \"егъэджэн\"": "гъэджэн"
-  },
-  {
-    "alternative form of \"гъэджэн\"": "гъэгьэн"
-  },
-  {
-    "alternative form of \"гущы1эн\"": "мэгущы1эн"
-  },
-  {
     "film": "фылым"
-  },
-  {
-    "alternative form of \"ежьашъо\"": "яжьашъу"
-  },
-  {
-    "alternative form of \"ежьашъо\"": "яжьашъу"
-  },
-  {
-    "a tree or plant that is full of fruits and vegetables": "пызы"
-  },
-  {
-    "alternative form of \"блэк1ын\"": "блэк1ьын"
   },
   {
     "Josef (name)": "Иусыф"
@@ -8223,13 +8226,28 @@
     "Noah (name)": "Нухь"
   },
   {
-    "a few, several, some": "къаум"
+    "several": "заулэ; къаум"
   },
   {
-    "police; cop": "хьэубыт"
+    "some": "къаум"
   },
   {
-    "corridor, passage, passageway": "хьэят"
+    "a few": "мак1э; т1эк1у"
+  },
+  {
+    "police": "хьэубыт"
+  },
+  {
+    "policeman": "хьэубыт"
+  },
+  {
+    "cop": "хьэубыт"
+  },
+  {
+    "hall": "хьэят"
+  },
+  {
+    "corridor": "хьэят"
   },
   {
     "Saturday": "шэмбэт"
@@ -8358,7 +8376,7 @@
     "too early": "жьыщэ"
   },
   {
-    "bent": "1онт1агъ; жэ1онт1агъ"
+    "bent": "1онт1агъ"
   },
   {
     "to bend": "щын; гъэщын (to bend something); уфэн"
@@ -8391,10 +8409,7 @@
     "stupid": "делэ"
   },
   {
-    "loose jaw": "жэ1улэл"
-  },
-  {
-    "foolishness": "делагъэ; жэ1улэлыгъ; (vulgar) цумэнагъэ"
+    "foolishness": "делагъэ; (vulgar) цумэнагъэ"
   },
   {
     "insanity": "делагъэ"
@@ -8478,7 +8493,7 @@
     "untalkative": "жэмай"
   },
   {
-    "talkative": "гущы1эрый; гущы1ал; жэмачыу; жэмы1ан; ба1о; жэхъу; гущы1эгъал; 1оржъор"
+    "talkative": "гущы1эрый; гущы1ал; жэмачыу; жэмы1ан; ба1о; гущы1эгъал; 1оржъор"
   },
   {
     "phrasemonger": "гущыIэрый, шъхьэубат; мышъомылы1у"
@@ -8511,16 +8526,10 @@
     "gaper": "жэукъ"
   },
   {
-    "onlooker": "плъак1о; к1элъыплъак1о; жэрыплъ"
+    "onlooker": "плъак1о; к1элъыплъак1о"
   },
   {
     "observer": "плъак1о, к1элъыплъак1о"
-  },
-  {
-    "unmarked": "жэрыплъагъ"
-  },
-  {
-    "unidentified": "жэрыплъагъ"
   },
   {
     "heedlessness": "жэукъыныр"
@@ -10518,7 +10527,7 @@
     "to tickle": "лыджын; гъэлыджын (to tickle someone)"
   },
   {
-    "to look": "плъэн; еплъын (to look at); теплъэн (to look on); xэплъэн (to look among, to look inside an area with either gas, solid or liquid); дэплъэн (to look into); иплъэн (to look inside); пыплъэн (to look on clothes or tree); гоплъэн / бгъодэплъэн (to look besides); къоплъэн (to look behind); зэк1эплъэн / зэплъэк1ын (to look back); лъыплъэн (to look after); дэплъэен (to look up); еплъэхын (to look under); шъхьадэплъын (to look over); къэплъэхьан (to look around)"
+    "to look": "плъэн; еплъын (to look at) теплъэн (to look on); xэплъэн (to look among, to look inside an area with either gas, solid or liquid); дэплъэн (to look into); иплъэн (to look inside); пыплъэн (to look on clothes or tree); гоплъэн / бгъодэплъэн (to look besides); къоплъэн (to look behind); зэк1эплъэн / зэплъэк1ын (to look back); лъыплъэн (to look after); дэплъэен (to look up); еплъэхын (to look under); шъхьадэплъын (to look over);  хэплъыхьан (to take a good look into area with trees, plants, fire, liquid or gas, to take a good look among people or objects); теплъыхьан (to take a good look on something); ч1эплъыхьан (to take a good look under something); иплъыхьан (to take a good look inside something); дэплъыхьан (to take a good look in something, to take a good look between); пыплъыхьан (to take a good look on someone's clothes); къэплъыхьан / зыплъыхьан (to take a good look around)"
   },
   {
     "to get drunk": "утэшъон; шъхьэ убытын; зешъок1ыжьын (to get drunk)"
@@ -11608,6 +11617,12 @@
   },
   {
     "to petrify": "къын (to become petrified); гъэкъын (to stupefied)"
+  },
+  {
+    "stream": "псышкуашку"
+  },
+  {
+    "brook": "псышкуашку"
   },
   {
     "midstream": "псыгу"
@@ -14706,6 +14721,12 @@
     "wire": "гъуч1ыч"
   },
   {
+    "palate": "1ушъхь"
+  },
+  {
+    "poppy": "1ушъхь"
+  },
+  {
     "nail": "гъуч1ы1унэ; бжъанэ (claw)"
   },
   {
@@ -16275,7 +16296,7 @@
     "hasten": "ш1уабэ"
   },
   {
-    "to weave": "шъэн"
+    "to weave": "шъэн; хъэн"
   },
   {
     "well-dressed": "зэгъэфагъ; к1эрак1эу фэпэгъэ; к1эрак1; дахэу фэпэгъэ; дахэу зэгъэфагъэ; щыгъын дах зыщыгъэр"
