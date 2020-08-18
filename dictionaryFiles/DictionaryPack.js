@@ -4419,26 +4419,6 @@
     "ipa": "baraskaf"
   },
   {
-    "word": "огу",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "grey; greyish",
-        "examples": []
-      },
-      {
-        "meaning": "atmosphere",
-        "examples": []
-      },
-      {
-        "meaning": "space",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "wagʷ"
-  },
-  {
     "word": "бэрчэшху",
     "lang": "Adyghe",
     "definitions": [
@@ -39173,6 +39153,54 @@
     "ipa": "jaraːʁ"
   },
   {
+    "word": "шъорыогу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "freckled",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "ʃʷarəwagʷ"
+  },
+  {
+    "word": "шъорыогухэр",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "freckles",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "ʃʷarəwagʷxar"
+  },
+  {
+    "word": "огу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "grey; greyish",
+        "examples": []
+      },
+      {
+        "meaning": "atmosphere",
+        "examples": []
+      },
+      {
+        "meaning": "space",
+        "examples": []
+      },
+      {
+        "meaning": "freckle (face)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "wagʷ"
+  },
+  {
     "word": "гъолъын",
     "lang": "Adyghe",
     "definitions": [
@@ -39183,12 +39211,16 @@
             "sentence": "Л1ыр п1эм '''хэгъолъыхьагъ'''",
             "translation": "The man '''lied down''' into the bed."
           },
+		  {
+            "sentence": "К1алэр чъыгым '''ч1эгъолъыхьагъ'''",
+            "translation": "The man '''lied down''' into the bed."
+          },
           {
             "sentence": "К1алэр '''гъолъыгъ'''",
             "translation": "The boy '''lied down'''."
           },
           {
-            "sentence": "К1алэр '''мэгъолъырэп'''",
+            "sentence": "К1алэр '''гъолъырэп'''",
             "translation": "The boy '''is not lying down'''."
           },
           {
@@ -42837,7 +42869,7 @@
             "translation": "The boy '''is listening'''."
           },
           {
-            "sentence": "К1алэр '''мэда1орэп'''",
+            "sentence": "К1алэр '''да1орэп'''",
             "translation": "The boy '''is not listening'''."
           },
           {
@@ -42854,7 +42886,7 @@
         "meaning": "to listen and obey",
         "examples": [
           {
-            "sentence": "Сик1алэ '''мэда1орэп'''",
+            "sentence": "Сик1алэ '''да1орэп'''",
             "translation": "My boy '''is not obeying'''."
           }
         ]
@@ -44624,7 +44656,7 @@
         "meaning": "heater",
         "examples": [
           {
-            "sentence": "'''Гъэфэбалъэр''' мэлажэрэп",
+            "sentence": "'''Гъэфэбалъэр''' лажэрэп",
             "translation": "The '''heater''' isn’t working."
           }
         ]
@@ -44641,7 +44673,7 @@
         "meaning": "air-conditioner; air-conditioning",
         "examples": [
           {
-            "sentence": "'''Жьыгъэкъабзэ''' мэлажэрэп",
+            "sentence": "'''Жьыгъэкъабзэ''' лажэрэп",
             "translation": "The '''air-conditioning''' isn’t working."
           }
         ]
