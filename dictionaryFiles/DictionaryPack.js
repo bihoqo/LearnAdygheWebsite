@@ -41213,18 +41213,6 @@
     "ipa": "dajfəjan"
   },
   {
-    "word": "дехьыен",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"дэхьыен\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "dajħəjan"
-  },
-  {
     "word": "дехьыхын",
     "lang": "Adyghe",
     "definitions": [
@@ -41237,27 +41225,36 @@
     "ipa": "dajħəxən"
   },
   {
-    "word": "ецэгъон",
+    "word": "цэгъон",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to harden",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Хьалыгъур '''цэгъонэу''' ежьагъ.",
+            "translation": "The bread started '''to harden'''."
+          }
+        ]
       }
     ],
     "type": "verb",
-    "ipa": "jat͡səʁʷan"
+    "ipa": "t͡saʁʷan"
   },
   {
     "word": "ечъэхын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to run down a slope, to slide down a slope",
+        "meaning": "to run down (a slope), to slide down (a slope)",
         "examples": [
           {
             "sentence": "Псыр '''ечъэхы''' гъогум",
             "translation": "The water '''slides down''' from the road."
+          },
+		  {
+            "sentence": "К1алэр '''къечъэхы'''",
+            "translation": "The boy '''is running down'''."
           }
         ]
       }
@@ -41270,17 +41267,21 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to build in",
+        "meaning": "to build in (yard, village, area)" ,
         "examples": [
           {
             "sentence": "'''дэсш1ыхьагъ''' унэ къалэм",
             "translation": "'''I build''' a house in the city."
+          },
+		  {
+            "sentence": "щагум 1анэ л1ым '''дыреш1ыхьэ'''",
+            "translation": "The man '''is building''' a table '''in''' the yard."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "jaʃʼəħaːn"
+    "ipa": "daʃʼəħaːn"
   },
   {
     "word": "шын",
@@ -41290,15 +41291,15 @@
         "meaning": "to measure",
         "examples": [
           {
-            "sentence": "к1алэм '''ешы''' ик1эхьыгъэ к1апсэм.",
+            "sentence": "к1алэм '''ешы''' ик1ыхьагъэ к1апсэм.",
             "translation": "The boy '''measures''' the rope's length."
           },
           {
-            "sentence": "'''шы''' хьапщ сик1эхьыгъэ",
-            "translation": "'''measure''' my height."
+            "sentence": "'''шы''' тхьапш сицуакъэ ииныгъэ",
+            "translation": "'''measure''' how huge is my shoes."
           },
           {
-            "sentence": "къишэк1ыгъэ килэу-гырамк1э '''яшы''', к1эхьыгъэ метерк1э '''яшы'''",
+            "sentence": "къищэчыгъэ килэу-гырамк1э '''ашы''', к1ыхьагъэ метерк1э '''ашы'''",
             "translation": "'''They measure''' weight with Kilograms and '''they measure''' length with meters."
           }
         ]
@@ -41308,74 +41309,92 @@
     "ipa": "ʃən"
   },
   {
-    "word": "дещыен",
+    "word": "дэщыен",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to raise (hold up)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "джанэм и1эгъуапэхэр '''дэщыеных'''.",
+            "translation": "'''To raise''' the sleeves' of the shirt"
+          },
+          {
+            "sentence": "музикэм имакъэ к1алэм '''дещые'''",
+            "translation": "The boy '''raises''' the volume of the music."
+          },
+          {
+            "sentence": "телевидением имакъэ т1эк1у '''дэщай'''",
+            "translation": "'''Raise''' the volume of the television by little."
+          }
+        ]
       },
       {
-        "meaning": "to take someone up",
-        "examples": []
+        "meaning": "to take/lead someone up",
+        "examples": [
+          {
+            "sentence": "сшы къушъхьэм '''дэсщыягъ'''.",
+            "translation": "'''I took''' my brother '''up''' the mountain"
+          },
+          {
+            "sentence": "'''шы''' тхьапш сицуакъэ ииныгъэ",
+            "translation": "'''measure''' how huge is my shoes."
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "dajɕəjan"
   },
   {
-    "word": "дэщэн",
+    "word": "зыдэщэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to take someone with oneself",
+        "meaning": "to take someone along",
         "examples": [
           {
-            "sentence": "томэр хым '''дэпщэрагъоба?'''",
-            "translation": "'''Don't you want to bring''' Tom '''with you''' to the sea?"
+            "sentence": "Куджаныр хым '''къыздащ'''",
+            "translation": "'''Bring''' Kujan '''with you'''."
           },
           {
-            "sentence": "томым '''дищагъ''' хым ик1алит1у",
-            "translation": "Tom '''took''' both his boys to the sea."
+            "sentence": "Куджаным ык1элит1у хым '''зыдищагъ'''",
+            "translation": "Kujan '''took''' his two children '''with him''' to the sea."
           },
           {
-            "sentence": "сиунэ укъак1омэ '''къыздащ''' к1алэр",
+            "sentence": "сиунэ укъызк1ок1э '''къыздащ''' к1алэр",
             "translation": "When you come to my house '''bring''' the boy '''with you'''."
           },
           {
-            "sentence": "дезэртым к1алэр '''дащ'''",
-            "translation": "'''Take''' the boy '''with you''' in the desert."
-          },
-          {
-            "sentence": "томым '''дещэ''' махък1эхэр дезэртым",
-            "translation": "Tom '''is taking''' the camels '''with him''' in the desert."
+            "sentence": "шъофым к1алэр '''зыдащ'''",
+            "translation": "'''Take''' the boy '''with you''' in the fields."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "daɕan"
+    "ipa": "zədaɕan"
   },
   {
     "word": "дэгъэуцон",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to place/put somethings somewhere",
+        "meaning": "to place something in (area, village, yard, between)",
         "examples": [
           {
-            "sentence": "томым псы '''дигъэуцуагъ''' фриджым",
-            "translation": "Tom '''put''' water in the fridge."
+            "sentence": "К1алэм псы гъэучъы1алъэм '''дигъэуцуагъ'''",
+            "translation": "The boy '''put''' water in the fridge."
           },
           {
-            "sentence": "томым анэ '''дегъэуцо''' сишау",
-            "translation": "Tom '''is placing''' table in my yard."
+            "sentence": "Куджаным 1анэр щагум '''дегъэуцо'''",
+            "translation": "Kujan '''is placing''' the table in the yard."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "daʁawat͡sʷan"
+    "ipa": "daʁawat͡ʃʷan"
   },
   {
     "word": "гъэуцун",
@@ -41385,19 +41404,19 @@
         "meaning": "to place",
         "examples": [
           {
-            "sentence": "Томым псы '''егъэуцу'''",
-            "translation": "Tom '''is placing''' water."
+            "sentence": "К1алэм псы '''егъэуцу'''",
+            "translation": "The boy '''is placing''' water."
           },
           {
-            "sentence": "Томым шъхьэхъор '''егъэуцу'''",
-            "translation": "Tom '''is placing''' the flowerpot."
+            "sentence": "Пкъэухэр '''агъэуцух'''",
+            "translation": "'''They are placing''' pillars."
           },
           {
-            "sentence": "Томым 1анэм псы '''тегъэуцо'''",
-            "translation": "Tom '''is placing''' water on the table."
+            "sentence": "К1алэм псы 1анэм '''тегъэуцо'''",
+            "translation": "The boy '''is placing''' water '''on''' the table."
           },
           {
-            "sentence": "Псы '''гъэуцу'''",
+            "sentence": "Псы '''къэгъэуцу'''",
             "translation": "'''Place''' a water."
           }
         ]
@@ -41406,44 +41425,36 @@
         "meaning": "to stop someone/something",
         "examples": [
           {
-            "sentence": "'''Гъэуцу'''",
-            "translation": "'''stop it'''."
+            "sentence": "'''Къэгъэуцу'''",
+            "translation": "'''Stop it'''."
           },
           {
             "sentence": "'''Гъэуцуба'''",
-            "translation": "'''stop it already'''."
+            "translation": "'''Stop it already'''."
           },
           {
-            "sentence": "К1алэм пшъашъэр '''къегъэуцу'''",
-            "translation": "the boy '''is stopping''' the girl."
+            "sentence": "Пшъашъэм к1алэр '''къегъэуцу'''",
+            "translation": "The girl '''is stopping''' the boy."
           },
           {
-            "sentence": "К1элэр '''къэпгъэуцугъ'''",
-            "translation": "'''you stopped''' the boy."
+            "sentence": "Кур '''къэбгъэуцушъущта'''?",
+            "translation": "'''Can you stop''' the car?"
           },
           {
             "sentence": "Кур '''къэсэгъэуцу'''",
             "translation": "'''I am stopping''' the cat."
           },
           {
-            "sentence": "К1алэр гъогум темыхьагъэу '''къэгъэуцу'''",
-            "translation": "'''stop''' the boy before he goes on the road."
+            "sentence": "К1элэц1ык1ур гъогум темыхьагъэу '''къэгъэуцу'''",
+            "translation": "'''Stop''' the little boy before he goes on the road."
           },
           {
             "sentence": "Мэш1окур '''къэсгъэуцушъущтэп'''",
             "translation": "'''I will not be capable to stop''' the train."
           },
           {
-            "sentence": "К1алэм пшъашъэр '''къыгъэуцугъ'''",
-            "translation": "The boy '''stopped''' the girl."
-          },
-          {
-            "sentence": "К1алэм сомпыютэрэр '''къегъэуцу'''",
-            "translation": "The boy '''is stopping''' the computer."
-          },
-          {
-            "sentence": "Полисым '''укъигъэуцущт'''",
-            "translation": "The police '''gonna stop you'''."
+            "sentence": "Хьэубытым '''укъигъэуцущт'''",
+            "translation": "The police '''is going to stop you'''."
           }
         ]
       }
@@ -41459,20 +41470,33 @@
         "meaning": "to agree upon with",
         "examples": [
           {
-            "sentence": "Томым '''къэсдещтэ'''",
+            "sentence": "Томым '''къэсдештэ'''",
             "translation": "Tom '''is agreeing with me'''."
           },
           {
-            "sentence": "Томэр к1алым '''дещтэ'''",
+            "sentence": "Куджаным к1алэм '''дрештэ'''",
             "translation": "Tom '''is agreeing''' with the boy."
           },
           {
-            "sentence": "К1алэр пшъашъэм '''дрищтагъ'''",
+            "sentence": "К1алэм пшъашъэм '''дриштагъ'''",
             "translation": "The boy '''agreed''' with what girl."
           },
           {
-            "sentence": "'''Къыпдэсыщтэнэу''' сыфаеп",
+            "sentence": "'''Къыпдэсыштэнэу''' сыфаеп",
             "translation": "'''I don't want to agree with you'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "to lift with",
+        "examples": [
+          {
+            "sentence": "К1алэм 1анэр пшъашъэм '''дештэ'''",
+            "translation": "The boy '''is lifting''' the table '''with''' the girl."
+          },
+          {
+            "sentence": "К1алэм сэ дэлъхьап1эр '''къыдэсэштэ'''",
+            "translation": "'''I am lifting''' the closet '''with''' the boy."
           }
         ]
       }
@@ -41486,14 +41510,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to start, to begin",
+        "meaning": "to start; to begin",
         "examples": [
           {
-            "sentence": "К1алэр '''ежьэ'''",
-            "translation": "The boy '''is starting'''."
-          },
-          {
-            "sentence": "К1алэр '''ежьэ''' мак1о",
+            "sentence": "К1алэр '''ежьэ''' к1оу",
             "translation": "The boy '''is starting''' to go."
           },
           {
@@ -41501,26 +41521,31 @@
             "translation": "'''Don't start'''."
           },
           {
-            "sentence": "К1алэхэр мэджэгухэу '''ежьагъэх'''",
+            "sentence": "К1алэхэр джэгухэу '''ежьагъэх'''",
             "translation": "The boys '''started''' playing."
           },
           {
-            "sentence": "Л1ыр мэлажэу '''ежьагъэ'''",
-            "translation": "The man '''started''' to work."
+            "sentence": "Л1ыр лажьэу '''ежьагъэ'''",
+            "translation": "The man '''started''' working."
           },
           {
-            "sentence": "Филымыр '''ежьагъ'''",
+            "sentence": "Филымыр '''къежьагъ'''",
             "translation": "the film '''has started'''."
           }
         ]
       },
       {
-        "meaning": "to go off (to the road), to depart",
-        "examples": []
-      },
-      {
-        "meaning": "to set out on a journey.",
-        "examples": []
+        "meaning": "to go off (to the road); to depart; to set out on a journey",
+        "examples": [
+          {
+            "sentence": "К1алэр '''ежьагъ'''",
+            "translation": "The boy '''went off'''."
+          },
+		  {
+            "sentence": "К1алэр '''ежьэ'''",
+            "translation": "The boy '''is going off'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -41531,7 +41556,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to comb the hair up, to raise the hair,",
+        "meaning": "to comb the hair up; to brush the hair up; to raise the hair",
         "examples": []
       }
     ],
@@ -41581,7 +41606,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to fit by arranging things(such as plans, cycles and music)",
+        "meaning": "to fit by arranging things (such as plans, cycles and music)",
         "examples": []
       },
       {
@@ -41597,7 +41622,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to pull up, to pull upwards",
+        "meaning": "to pull up; to pull upwards",
         "examples": []
       }
     ],
@@ -41605,36 +41630,52 @@
     "ipa": "daɬaʂʷajan"
   },
   {
+    "word": "елъэшъожьэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to drag",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "jaɬaʃʷaʑan"
+  },
+  {
     "word": "дэлъхьан",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to put between; to put inside another object; to put in a defined area",
+        "meaning": "to put between; to put inside another object; to put in a defined area (area, yard, village)",
         "examples": [
           {
             "sentence": "Къэлэмыр тхылъым '''дэлъхьан'''",
-            "translation": "'''To put''' pencil inside a book"
+            "translation": "'''To put''' pencil '''inside''' a book"
+          },
+		  {
+            "sentence": "Л1ым лыр гъэучъы1алъэм '''делъхьэ'''",
+            "translation": "The man '''puts''' the meat '''inside''' the fridge."
+          },
+		  {
+            "sentence": "1анэр щагум '''далъхь'''",
+            "translation": "'''Put''' the table '''inside''' the yard"
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "daɬħan"
+    "ipa": "daɬħaːn"
   },
   {
     "word": "делашъу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "crazy looking, foolish",
+        "meaning": "crazy looking",
         "examples": [
           {
             "sentence": "о к1алэр '''делашъу'''",
-            "translation": "That boy '''is foolish'''."
-          },
-          {
-            "sentence": "о к1алэр '''делашъогор'''",
-            "translation": "That boy '''is some foolish'''."
+            "translation": "That boy '''crazy looking'''."
           }
         ]
       }
@@ -41651,7 +41692,7 @@
         "examples": [
           {
             "sentence": "о к1алэм '''иделагъэ''' бэ",
-            "translation": "That boy's '''foolishness''' is alot."
+            "translation": "That boy's '''foolishness''' is a lot."
           }
         ]
       }
@@ -41677,7 +41718,7 @@
       }
     ],
     "synonyms": [
-      "делэхъан"
+      "(Kfar Kama dialect) делэхъан"
     ],
     "type": "noun",
     "ipa": "dajlaɕ"
@@ -41695,49 +41736,28 @@
     "ipa": "dajlaʐ"
   },
   {
-    "word": "тэтхык1ьын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"тэтхык1ын\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "тэтхык1ын"
-    ],
-    "type": "verb",
-    "ipa": "tatxəkʲʼən"
-  },
-  {
-    "word": "тэтхык1ын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"тетхык1ын\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "тэтхык1ьын"
-    ],
-    "type": "verb",
-    "ipa": "tatxət͡ʃʼən"
-  },
-  {
     "word": "дэтхъын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to pull out (usually a page)",
-        "examples": []
+        "meaning": "to pull out from inside another object (usually a page)",
+        "examples": [
+          {
+            "sentence": "К1алэр тхьапэр '''детхъы'''",
+            "translation": "The boy '''is pulling''' paper."
+          },
+		  {
+            "sentence": "К1алэр тхьапэр тхылъым '''къыдетхъы'''",
+            "translation": "The boy '''is pulling''' paper '''off''' the book."
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "datχən"
   },
   {
-    "word": "деджэгъу",
+    "word": "дэджэгъу",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -41753,8 +41773,9 @@
       "десэгъу",
       "дестэгъу"
     ],
+    "shapsug": "дэгьэгъу",
     "type": "noun",
-    "ipa": "dajd͡ʒaʁʷ"
+    "ipa": "dad͡ʒaʁʷ"
   },
   {
     "word": "ушъыен",
