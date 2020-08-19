@@ -7896,27 +7896,6 @@
     "ipa": "d͡ʒaʑən"
   },
   {
-    "word": "тегъэфэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to make an object hit someone or something (usually by throwing)",
-        "examples": [
-          {
-            "sentence": "топымк1э чъыгым '''тегъаф'''",
-            "translation": "'''Hit''' the tree with a ball."
-          },
-          {
-            "sentence": "топыр удзымэ апчым '''тепгъэфэщт'''",
-            "translation": "If you throw the ball you will '''hit''' the glass."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "taʁafan"
-  },
-  {
     "word": "тефэн",
     "lang": "Adyghe",
     "definitions": [
@@ -40187,6 +40166,15 @@
             "translation": "'''I went astray''' on the road and I went with the wrong road."
           }
         ]
+      },
+	  {
+        "meaning": "to err",
+        "examples": [
+          {
+            "sentence": "Л1ыжъыр '''хэгъощагъ''' уцэу ыдырын фаемк1э",
+            "translation": "The old-man '''erred''' with the medicine he needs to swallow."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -40226,11 +40214,15 @@
         "examples": []
       },
       {
-        "meaning": "to illuminate",
+        "meaning": "to illuminate; to light",
         "examples": [
           {
             "sentence": "Л1ым унэр '''къегъэнэфы'''",
             "translation": "The man '''illuminates''' the house."
+          },
+		  {
+            "sentence": "Гъогур ламбэк1э '''къэгъэнэф'''",
+            "translation": "'''Light''' the road with a lamp."
           }
         ]
       }
@@ -40729,7 +40721,7 @@
       }
     ],
     "type": "verb",
-    "ipa": "dapʼətʼan"
+    "ipa": "t͡ʂʼapʼətʼan"
   },
   {
     "word": "дэп1ыт1эн",
@@ -40819,6 +40811,27 @@
             "translation": "The boy '''fits''' the books '''on''' the shelf."
           }
         ]
+      },
+	  {
+        "meaning": "to make an object hit someone or something (usually by throwing)",
+        "examples": [
+          {
+            "sentence": "топымк1э чъыгым '''тегъаф'''",
+            "translation": "'''Hit''' the tree with a ball."
+          },
+          {
+            "sentence": "топыр удзымэ апчым '''тебгъэфэщт'''",
+            "translation": "If you throw the ball you will '''hit''' the glass."
+          },
+          {
+            "sentence": "к1эрахъор чъыгым фэгъэпси, '''тегъэфэн''' 1о",
+            "translation": "Aim at the tree with the tree and try '''to hit it'''."
+          },
+          {
+            "sentence": "экзаменымк1э к1алэм джэуап тэрэзым '''тригъэфагъ'''",
+            "translation": "In the exam, the boy '''nailed''' the correct answer."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -40850,7 +40863,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to illuminate, to brighten, to shine",
+        "meaning": "to illuminate, to brighten, to light",
         "examples": [
           {
             "sentence": "Унэр '''къэгъапс'''",
@@ -40897,6 +40910,10 @@
           {
             "sentence": "Саусырыкъо мыжъор къушъхьэм '''дигъэбыбэягъ'''",
             "translation": "Sosruko '''launched''' the rock '''up''' the mountain."
+          },
+		  {
+            "sentence": "К1алэр топым ешъутыри уашъом '''дигъэбыбэягъ'''",
+            "translation": "The boy kicked the ball and '''launched it up''' to sky."
           }
         ]
       },
@@ -41058,31 +41075,31 @@
     "ipa": "daʁatən"
   },
   {
-    "word": "дэгъэт1ысхьэн",
+    "word": "дэгъэт1ысхьан",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to make/allow someone or something to sit (In some area)",
+        "meaning": "to make/allow someone or something to sit in (area, village, yard, between, inside another object)",
         "examples": []
       }
     ],
     "type": "verb",
-    "ipa": "daʁatʼəsħan"
+    "ipa": "daʁatʼəsħaːn"
   },
   {
     "word": "дэгъэт1эт1эн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to drizzle into a bread",
+        "meaning": "to drizzle into a bread (or any other object); to dribble; to drop sticky substance into",
         "examples": [
           {
-            "sentence": "к1алэм кум '''дегъэт1ат1э''' псы",
-            "translation": "The boy '''is spilling''' water into the car."
+            "sentence": "к1алэм кетчуп '''дегъэт1ат1э''' тхылъым",
+            "translation": "The boy '''is drizzling''' ketchup into the book."
           },
           {
-            "sentence": "к1алэм ихьэлэгъу '''дегъэт1ат1э''' кетчуп",
-            "translation": "The boy '''is spilling''' ketchup into his bread."
+            "sentence": "к1алэм ихьалыгъу '''дегъэт1ат1э''' кетчуп",
+            "translation": "The boy '''is drizzling''' ketchup onto his bread."
           }
         ]
       }
@@ -41091,11 +41108,11 @@
     "ipa": "daʁatʼatʼan"
   },
   {
-    "word": "зэгъэгожъын",
+    "word": "зэгогъэжъын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to make someone sad",
+        "meaning": "(dialectal) to make someone sad/upset/agitated",
         "examples": [
           {
             "sentence": "'''сэбэгъэгужъы'''",
@@ -41103,13 +41120,13 @@
           },
           {
             "sentence": "к1алэм пшъашъэр '''егъэгожъы'''",
-            "translation": "The boy '''is making''' the girl '''sad'''."
+            "translation": "The boy '''is upsetting''' the girl."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "zaʁaɡʷaʐən"
+    "ipa": "zaɡʷaʁaʐən"
   },
   {
     "word": "дэгъэщтыхьан",
@@ -41117,47 +41134,48 @@
     "definitions": [
       {
         "meaning": "to freeze inside another object (like a fridge)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "к1алэм лыхэр гъэучъы1алъэр '''дигъэщтыхьагъэх'''",
+            "translation": "The boy '''froze''' the meats '''inside''' the fridge."
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "daʁaɕtəħaːn"
   },
   {
-    "word": "дэхьын",
+    "word": "зыдэхьын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to take somethings with oneself",
+        "meaning": "to take something along",
         "examples": [
           {
-            "sentence": "томым хым '''дихьэгъ''' бэнанэрэ мыерэ",
-            "translation": "Tom '''took with him''' an apple and a banana to the sea."
+            "sentence": "Куджаным хым '''зыдихьыгъ''' къо1усрэ мы1эрысрэ",
+            "translation": "Kujan '''took with him''' an apple and a banana to the sea."
           },
           {
-            "sentence": "сиунэ укъак1омэ '''къэздахь''' сидиск",
-            "translation": "When you come to my house '''bring with you''' the disk."
+            "sentence": "сиунэ укъак1омэ '''къыздахь''' сидиск",
+            "translation": "When you come to my house '''bring''' my disk '''with you'''."
           },
           {
-            "sentence": "дезэртым псы '''дахь'''",
-            "translation": "'''Take''' water '''with you''' in the desert."
-          },
-          {
-            "sentence": "томым '''дехьы''' псы дезэртым",
-            "translation": "Tom '''is taking''' water '''with him''' in the desert."
+            "sentence": "шъофым псы '''зыдахь'''",
+            "translation": "'''Take''' water '''with you''' to the fields."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "daħən"
+    "ipa": "zədaħən"
   },
   {
     "word": "дэупсэен",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to cut the hair upwards,",
+        "meaning": "to cut the hair upwards",
         "examples": []
       }
     ],
@@ -41170,15 +41188,25 @@
     "definitions": [
       {
         "meaning": "to launch upward",
-        "examples": []
-      },
-      {
-        "meaning": "to raise upward",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Саусырыкъо мыжъор къушъхьэм '''дифыягъ'''",
+            "translation": "Sosruko '''launched''' the rock '''up''' the mountain."
+          },
+		  {
+            "sentence": "К1алэр топым ешъутыри уашъом '''дифыягъ'''",
+            "translation": "The boy kicked the ball and '''launched it up''' to sky."
+          }
+        ]
       },
       {
         "meaning": "to drive upward",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Чэмахъом чэмыхэр 1уашъхьэм '''дифыягъэх'''",
+            "translation": "The cowherd '''drove''' the cows '''up''' the hill."
+          }
+        ]
       }
     ],
     "type": "verb",
