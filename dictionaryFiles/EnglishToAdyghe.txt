@@ -1629,7 +1629,7 @@
     "tray": "тэпсэ"
   },
   {
-    "to see": "лъэгъун"
+    "to see": "лъэгъун; телъэгъон (to see on); дэлъэгъон (to see in, to see between); къолъэгъон (to see behind); хэлъэгъон (to see within a mass of gas, solid or liquid); ч1элъэгъон (to see under); илъэгъон (to see inside)"
   },
   {
     "to flee": "ежьэжьын; к1э1эжьын / к1этхъун (to run off, to flee or depart quickly); ш1уежьэжьын (to flee from)"
@@ -6711,7 +6711,7 @@
     "to be evidence of": "шыхьатэу теуцон; къэушыхьатын"
   },
   {
-    "plunderer": "хъунк1ак1о"
+    "plunderer": "техак1о; хъунк1ак1о"
   },
   {
     "smoke": "1угъо; къугъо (Shapsug)"
@@ -8682,7 +8682,7 @@
     "chestnut": "шхъомч"
   },
   {
-    "edible": "шхышъун; ашхырэ"
+    "eatable": "шхышъун; пшхы хъущт; ашхырэ"
   },
   {
     "fearless": "щынэ зымыш1эрэ"
@@ -8733,7 +8733,7 @@
     "wrongdoing": "мыхъо-мыш1"
   },
   {
-    "singer": "орэды1у; орэда1у (Shapsug)"
+    "singer": "орэды1о; орэда1о (Shapsug)"
   },
   {
     "mesh": "хъагъэ"
@@ -8772,7 +8772,19 @@
     "Marjoram ": "дадыу"
   },
   {
-    "deficiency": "щык1агъэ; дагъо; ныкъо-тыркъуагъ; дефект; нэц1эк1"
+    "deficiency": "щык1агъэ; дагъо; дефект; нэц1эк1"
+  },
+  {
+    "crippled": "ныкъо-тыркъу"
+  },
+  {
+    "mutilated": "ныкъо-тыркъу"
+  },
+  {
+    "maimed": "ныкъо-тыркъу"
+  },
+  {
+    "deficit": "щык1агъ; дагъо; дефект; нэц1эк1"
   },
   {
     "deficit": "щык1агъ; дагъо; ныкъо-тыркъуагъ; дефект; нэц1эк1"
@@ -8901,7 +8913,13 @@
     "to be happy": "тхъэжьын; гъэтхъэжьын (to make someone happy)"
   },
   {
-    "to dare to": "екун; тегушхон"
+    "to dare to": "екун"
+  },
+  {
+    "to hand out": "гощын"
+  },
+  {
+    "shelf": "телъхьап1э; дэлъхьап1э"
   },
   {
     "to jeopardize": "гъэон"
