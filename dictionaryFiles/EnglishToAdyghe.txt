@@ -4377,7 +4377,7 @@
     "to let loose": "гъэлэнлэн; т1упщын; итIупщыхьан; ит1упщыхьан (to let loose inside something); хэт1упщыхьан (to let loose something into the water, sea, gas, fire, forest)"
   },
   {
-    "to free": "гъэлэнлэн; т1упщын; ит1упщыхьан (to free inside something); хэт1упщыхьан (to free something into the water, sea, gas, fire, forest)"
+    "to free": "гъэлэнлэн (to set free); т1упщын; ит1упщыхьан (to free inside something); хэт1упщыхьан (to free something into the water, sea, gas, fire, forest)"
   },
   {
     "to release": "гъэлэнлэн; т1упщын; ит1упщыхьан (to release inside something); хэт1упщыхьан (to release something into the water, sea, gas, fire, forest)"
@@ -9096,10 +9096,10 @@
     "fellow-student": "деджэгъу; курсэгъу"
   },
   {
-    "lecture": "ушъыи"
+    "to admonish": "ушъыен"
   },
   {
-    "to lecture": "ушъыен"
+    "to exhort": "ушъыен"
   },
   {
     "reproach": "гые"
@@ -9156,7 +9156,7 @@
     "to encircle": "къэухъурэин (to encircle someone, something or a place); къэуцухьан; къэдзыхьан (to besiege); иш1эхьан / къиш1эхьан (to encircle inside); къэгъэк1ухьан (to encircle with)"
   },
   {
-    "to surround": "къещэк1ын (to wrap); къещыхьак1ын (to wrap); къэухъурэин (to surround someone, something or a place); къэуцухьан; къэдзыхьан (to besiege); къэгъэк1ухьан (to surround in a circle)"
+    "to surround": "къещэк1ын / къещыхьак1ын (to wrap); къэухъурэин (to surround someone, something or a place); къэуцухьан; къэдзыхьан (to besiege); къэгъэк1ухьан (to surround in a circle)"
   },
   {
     "to round up": "зэ1угъэк1эн; зэхэугъоен (to besiege)"
@@ -9177,10 +9177,16 @@
     "to pile in": "деуп1эп1эн"
   },
   {
-    "instead of": "ыч1ып1эк1э, ыч1ып1э"
+    "instead": "ыч1ып1эк1э; ыч1ып1эу; ащ ыч1ып1эк1э (instead of that); (Arabic) ибэдалэу"
   },
   {
-    "to rub": "щыхъон"
+    "to rub": "щыфэн (to smear); щыхъон (to rub against); щыгъэхъон (to rub against something)"
+  },
+  {
+    "slut": "шэмджэн; ш1ои (dirty)"
+  },
+  {
+    "bayonet": "пчыпыджын"
   },
   {
     "to go away": "1ук1ын / 1ук1ыжьын; 1угъэк1ын (to make someone go away from); 1ухъушъутын (to run away); (Shapsug) 1ушъутын (to run away)"
@@ -9273,7 +9279,7 @@
     "slim": "оды"
   },
   {
-    "target": "псагъ"
+    "target": "псагъэ"
   },
   {
     "purpose": "гухэлъ; мурад"
@@ -14239,9 +14245,6 @@
   },
   {
     "childbirth": "лъфыгъэ"
-  },
-  {
-    "instead of": "ич1ып1эк1э"
   },
   {
     "to enrich": "гъэбаин; баи ш1ын; гъэунэн"
