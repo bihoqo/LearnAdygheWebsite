@@ -7392,9 +7392,6 @@
     "cold weather": "чъы1этагъ"
   },
   {
-    "curtain": "пэ1ухъо"
-  },
-  {
     "cart": "ку; кухьэ"
   },
   {
@@ -9339,7 +9336,7 @@
     "rice": "пындж; пыдж (Shapsug)"
   },
   {
-    "what else": "сыд джыри; сыд нэмык1эу"
+    "what else": "сыд джыри; сыд ык1и; сыд нэмык1эу"
   },
   {
     "season": "лъэхъаны; сезон"
@@ -15294,6 +15291,18 @@
     "behind": "к1ыб; ык1ыбык1э; къо- (prepositional verval suffix)"
   },
   {
+    "fortochka": "шъхьаныгъупчъэжъый"
+  },
+  {
+    "shutter": "шъхьаныгъупчъэещал1"
+  },
+  {
+    "curtains": "пэ1ухъо; шъхьаныгъупчъэ1ухъу"
+  },
+  {
+    "curtain": "пэ1ухъо; шъхьаныгъупчъэ1ухъу"
+  },
+  {
     "pass": "блэ- (prepositional verval suffix)"
   },
   {
@@ -16765,6 +16774,9 @@
   },
   {
     "to close eyes": "гъэуп1ыц1эн"
+  },
+  {
+    "to close": "егъэсэн; гъэуп1ыц1эн (to close eyes); 1ухъон (to close a window by hanging something over it)"
   },
   {
     "shawl": "шъхьэтехъу (a square piece of cloth worn as a covering for the head, neck, and shoulders)"

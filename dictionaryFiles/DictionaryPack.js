@@ -42923,11 +42923,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "how much",
+        "meaning": "how much; how many",
         "examples": [
           {
             "sentence": "Сыхьатыр '''тхьапш''' хъугъэ, къысэп1ошъущта?",
-            "translation": "Can you tell me '''how much''' the time?"
+            "translation": "Can you tell me what time is it?"
           },
           {
             "sentence": "'''Тхьапш''' мыщ иуасэ?",
@@ -42935,7 +42935,7 @@
           },
           {
             "sentence": "'''Тхьапш''' шыхэу уи1эр?",
-            "translation": "'''How much''' brothers you have?"
+            "translation": "'''How many''' brothers you have?"
           },
           {
             "sentence": "'''Тхьапш''' сыхьатыр?",
@@ -42958,11 +42958,11 @@
         "meaning": "minute",
         "examples": [
           {
-            "sentence": "Зы сыхьатыр '''такъикъ''' тIокIищ мэхъу.",
-            "translation": "An hour has sixty minutes. ."
+            "sentence": "Зы сыхьатыр '''такъикъ''' т1ок1ищ мэхъу",
+            "translation": "An hour has sixty '''minutes'''."
           },
           {
-            "sentence": "'''Такъикъит1ук1э''' унэм сыкъик1ыт",
+            "sentence": "'''Такъикъит1ук1э''' унэм сыкъик1ыщт",
             "translation": "'''In two minute''' I will come out from the house."
           }
         ]
@@ -43000,7 +43000,7 @@
         "meaning": "weird",
         "examples": [
           {
-            "sentence": "Ц1ыф '''гъэш1эгъоныба''' ор",
+            "sentence": "Ц1ыф '''гъэш1эгъоныба''' мор",
             "translation": "That is a '''weird''' person '''right'''?"
           },
           {
@@ -43065,38 +43065,31 @@
     "definitions": [
       {
         "meaning": "equal",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ахъщтэу ты1ыгъэхэр '''зэфэдизых'''",
+            "translation": "The money that we have '''is equal'''."
+          },
+          {
+            "sentence": "Къэсхьыгъэр мыщ '''фэдизэп'''",
+            "translation": "What I brought '''is not equal''' to this."
+          }
+        ]
       },
       {
         "meaning": "much",
         "examples": [
           {
-            "sentence": "Сыд '''фэдиз''' хъугъа мыщ шъузыщы1эр?",
-            "translation": "How '''long/much''' have you been here for?"
+            "sentence": "Сыд '''фэдизырэ''' мыщ шъущы1эщт?",
+            "translation": "For how '''much''' will you be staying?"
           },
           {
-            "sentence": "Сыд '''фэдизрэ''' мыщ шъущы1эщт?",
-            "translation": "How '''long/much''' will you be staying?"
-          },
-          {
-            "sentence": "Сыд '''фэдиз''' мыщ тафэрэ?",
+            "sentence": "Сыд '''фэдиз''' мыщ тафэрэр?",
             "translation": "How '''much''' this cost?"
           },
           {
-            "sentence": "А '''фэдизыу'''",
-            "translation": "That '''much'''."
-          },
-          {
-            "sentence": "Тэ '''фэдиз''' мыщ тафэрэ?",
-            "translation": "How '''much''' this cost?"
-          },
-          {
-            "sentence": "А '''фэдизыу''' дахэ пшъашъэр?",
-            "translation": "Is the girl pretty that '''much'''?"
-          },
-          {
-            "sentence": "Къэсхьыгъэр мыщ '''фэдизэп'''",
-            "translation": "What I brought '''is not as much''' as this."
+            "sentence": "А '''фэдиэыу''' лъап1а кур?",
+            "translation": "Is the car that expensive?"
           }
         ]
       }
@@ -43112,11 +43105,11 @@
         "meaning": "friend",
         "examples": [
           {
-            "sentence": "Томым Мартэр '''иныбджэгъу'''",
-            "translation": "Marta is Tom's '''friend'''."
+            "sentence": "Томым Нартым '''иныбджэгъу'''",
+            "translation": "Tom is Nart's '''friend'''."
           },
           {
-            "sentence": "К1алэм '''иныбджэгъухэр''' къек1уалъэх",
+            "sentence": "К1алэм '''иныбджэгъухэр''' къак1ох",
             "translation": "The boy's '''friends''' are coming close."
           },
           {
@@ -43127,9 +43120,10 @@
       }
     ],
     "synonyms": [
-      "шъэогъу"
+      "шъэогъу",
+      "пшъэшъэгъу",
+      "гъусэ"
     ],
-    "kabardian": "гъусэ",
     "type": "noun",
     "ipa": "nəbd͡ʒaʁʷ"
   },
@@ -43141,8 +43135,12 @@
         "meaning": "party",
         "examples": [
           {
-            "sentence": "Мыщ '''чэщдэс''' щыIа?",
+            "sentence": "Мыщ '''чэщдэс''' щы1а?",
             "translation": "There is a party here?"
+          },
+		  {
+            "sentence": "Ныпчыхьэ '''чэщдэс''' тыщы1эщт",
+            "translation": "Tonight I will be '''in the night'''."
           }
         ]
       }
@@ -43158,24 +43156,28 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to sit (In some specific area)",
+        "meaning": "to sit (area, yard, between)",
         "examples": [
           {
-            "sentence": "К1алэр шаум '''дэс'''",
+            "sentence": "К1алэр щагум '''дэс'''",
             "translation": "The boy '''is sitting''' in the yard."
           }
         ]
       },
       {
-        "meaning": "to settle (In some specific area)",
+        "meaning": "to settle (in some specific area)",
         "examples": [
           {
             "sentence": "К1алэр чылэм '''дэс'''",
             "translation": "The boy '''is settling''' in the village."
           },
           {
-            "sentence": "К1алэр къалэм '''дэсыгу'''",
-            "translation": "The boy '''is settling in''' the city '''for now'''."
+            "sentence": "К1алэр къалэм '''дэсы'''",
+            "translation": "The boy '''is settling in''' the city."
+          },
+          {
+            "sentence": "Къуаджэм '''дэс'''",
+            "translation": "'''Be''' in the village."
           }
         ]
       },
@@ -43183,7 +43185,7 @@
         "meaning": "to be in some specific area",
         "examples": [
           {
-            "sentence": "Шаум '''дэс'''",
+            "sentence": "Щагум '''дэс'''",
             "translation": "'''Be''' in the yard."
           },
           {
@@ -43191,8 +43193,8 @@
             "translation": "'''Be''' in the village."
           },
           {
-            "sentence": "К1алэр къалэм '''дэсыгу'''",
-            "translation": "The boy '''is in''' the city '''for now'''."
+            "sentence": "К1алэр къалэм '''дэсы'''",
+            "translation": "The boy '''is in''' the city."
           }
         ]
       }
@@ -43246,16 +43248,20 @@
             "translation": "'''Where''' is the boy going?"
           },
           {
-            "sentence": "'''тыдэ''' так1о?",
+            "sentence": "'''тыдэ''' тэк1о?",
             "translation": "'''Where''' are we going?"
           },
           {
-            "sentence": "'''тыдэ''' шы1эх мыехэр",
+            "sentence": "'''тыдэ''' щы1эх мы1эрысхэр",
             "translation": "'''Where''' are the apples?"
           },
           {
-            "sentence": "'''тыдэ''' усхьыт",
+            "sentence": "'''тыдэ''' усхьыщт",
             "translation": "'''Where''' I will take you?"
+          },
+          {
+            "sentence": "'''тыдэ''' ущеджэ?",
+            "translation": "'''Where''' are you studying?"
           }
         ]
       }
@@ -43278,18 +43284,6 @@
     "ipa": "tada"
   },
   {
-    "word": "шыдгъо",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"шъыдгъо\"",
-        "examples": []
-      }
-    ],
-    "type": "adv",
-    "ipa": "ʃədʁʷa"
-  },
-  {
     "word": "дэ1он",
     "lang": "Adyghe",
     "definitions": [
@@ -43305,7 +43299,7 @@
             "translation": "The boy '''is not listening'''."
           },
           {
-            "sentence": "'''Шъукъэда1у''' ц1ыфыхэр, '''шъукъэда1у''' псэори",
+            "sentence": "'''Шъукъэда1у''' ц1ыфыхэр, '''шъукъэда1у''' пстэумк1и",
             "translation": "'''Listen''' people, '''listen''' all of you."
           },
           {
@@ -43336,6 +43330,7 @@
         "examples": []
       }
     ],
+    "shapsug": "пыдж",
     "type": "noun",
     "ipa": "pənd͡ʒ"
   },
@@ -43349,12 +43344,58 @@
           {
             "sentence": "'''Сыд джыри''' тищык1агъэр?",
             "translation": "'''What else''' do we need?"
+          },
+		  {
+            "sentence": "'''Сыд джыри''' узыфаер?",
+            "translation": "'''What else''' do you want?"
           }
         ]
       }
     ],
     "type": "adv",
     "ipa": "səd d͡ʒəri"
+  },
+  {
+    "word": "сыд ык1и",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "what else",
+        "examples": [
+          {
+            "sentence": "'''Сыд ык1и''' тищык1агъэр?",
+            "translation": "'''What else''' do we need?"
+          },
+		  {
+            "sentence": "'''Сыд ык1и''' узыфаер?",
+            "translation": "'''What else''' do you want?"
+          }
+        ]
+      }
+    ],
+    "type": "adv",
+    "ipa": "səd ət͡ʃʼəj"
+  },
+  {
+    "word": "сыд нэмык1эу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "what else",
+        "examples": [
+          {
+            "sentence": "'''Сыд нэмык1эу''' тищык1агъэр?",
+            "translation": "'''What else''' do we need?"
+          },
+		  {
+            "sentence": "'''Сыд нэмык1эу''' узыфаер?",
+            "translation": "'''What else''' do you want?"
+          }
+        ]
+      }
+    ],
+    "type": "adv",
+    "ipa": "səd namət͡ʃʼaw"
   },
   {
     "word": "жъоркъы",
@@ -43391,28 +43432,28 @@
       }
     ],
     "type": "verb",
-    "ipa": "qinpsan"
+    "ipa": "qəjpsan"
   },
   {
     "word": "къесын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to fall snow, to snow",
+        "meaning": "to fall snow; to snow",
         "examples": [
           {
             "sentence": "К1ымафэм ос '''къесы'''",
             "translation": "It '''snows''' in winter."
           },
           {
-            "sentence": "Нэущы '''къесыт'''",
+            "sentence": "Неущы '''къесыщт'''",
             "translation": "Tomorrow '''it will snow'''"
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "qesən"
+    "ipa": "qajsən"
   },
   {
     "word": "тыгъэпсы",
@@ -43420,7 +43461,12 @@
     "definitions": [
       {
         "meaning": "sunny",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Непэ '''тыгъэпсы'''",
+            "translation": "Today '''is sunny'''."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -43432,11 +43478,84 @@
     "definitions": [
       {
         "meaning": "above",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр унэм '''ышъхьагъы''' тес",
+            "translation": "The boy is sitting '''on top of''' the house."
+          }
+        ]
       }
     ],
     "type": "adv",
     "ipa": "əʂħaːʁ"
+  },
+  {
+    "word": "ышъхьагъымк1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "above",
+        "examples": [
+          {
+            "sentence": "К1алэр унэм '''ышъхьагъымк1э''' тес",
+            "translation": "The boy is sitting '''on top of''' the house."
+          }
+        ]
+      }
+    ],
+    "type": "adv",
+    "ipa": "əʂħaːʁəmt͡ʃʼa"
+  },
+  {
+    "word": "ышъхьагък1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "above",
+        "examples": [
+          {
+            "sentence": "К1алэр унэм '''ышъхьагък1э''' тес",
+            "translation": "The boy is sitting '''on top of''' the house."
+          }
+        ]
+      }
+    ],
+    "type": "adv",
+    "ipa": "əʂħaːʁət͡ʃʼa"
+  },
+  {
+    "word": "ык1ы1умк1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "surface of",
+        "examples": [
+          {
+            "sentence": "К1алэр унэм '''ык1ы1умк1э''' тес",
+            "translation": "The boy is sitting '''on the surface of''' the house."
+          }
+        ]
+      }
+    ],
+    "type": "adv",
+    "ipa": "ət͡ʃʼəʔʷəmt͡ʃʼa"
+  },
+  {
+    "word": "ык1ы1ук1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "surface of",
+        "examples": [
+          {
+            "sentence": "К1алэр унэм '''ык1ы1ук1э''' тес",
+            "translation": "The boy is sitting '''on the surface of''' the house."
+          }
+        ]
+      }
+    ],
+    "type": "adv",
+    "ipa": "ət͡ʃʼəʔʷət͡ʃʼa"
   },
   {
     "word": "ыч1эгъы",
@@ -43456,7 +43575,42 @@
     "definitions": [
       {
         "meaning": "behind",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Ск1ыб''' мэхъу",
+            "translation": "'''My back''' is aching."
+          },
+		  {
+            "sentence": "Унэм '''ык1ыб''' дэт к1алэр",
+            "translation": "The boy '''is behind''' the house."
+          },
+		  {
+            "sentence": "'''Ск1ыб''' къыдэуцу",
+            "translation": "Stand '''behind me'''."
+          }
+        ]
+      }
+    ],
+    "kabardian": "щ1ыб",
+    "type": "noun",
+    "ipa": "t͡ʃʼəb"
+  },
+  {
+    "word": "ык1ыбык1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "behind",
+        "examples": [
+          {
+            "sentence": "Унэм '''ык1ыбык1э''' топыр дэт",
+            "translation": "The ball '''is behind''' the house."
+          },
+		  {
+            "sentence": "Кум '''ык1ыбык1э''' жэхэхьагъ",
+            "translation": "(S)he crashed '''from''' the car's '''back'''."
+          }
+        ]
       }
     ],
     "kabardian": "щ1ыб",
@@ -43471,7 +43625,7 @@
         "meaning": "bathroom",
         "examples": [
           {
-            "sentence": "Мыщ дэжьым пщэрыхьап1эр ыкIи '''гъэпскIып1эр''' щыIэх",
+            "sentence": "Мыщ дэжьым пщэрыхьап1эр ык1и '''гъэпск1ып1эр''' щы1эх",
             "translation": "The kitchen and '''bathroom''' are here."
           }
         ]
@@ -43488,7 +43642,7 @@
         "meaning": "bedroom",
         "examples": [
           {
-            "sentence": "МодыкIэ унэшхор ык1и '''чъыяп1эр''' щы1эх",
+            "sentence": "Модык1э унэшхор ык1и '''чъыяп1эр''' щы1эх",
             "translation": "The living room and '''bedroom''' are there."
           }
         ]
@@ -43554,7 +43708,7 @@
             "translation": "'''Open''' the door.."
           },
           {
-            "sentence": "пчъэр '''1ухэгъ'''",
+            "sentence": "пчъэр '''1ухыгъ'''",
             "translation": "The door '''is open'''."
           },
           {
@@ -43562,11 +43716,11 @@
             "translation": "The boy is '''opening''' the door."
           },
           {
-            "sentence": "к1алэм пчъэр '''1уихэгъ'''",
+            "sentence": "к1алэм пчъэр '''1уихыгъ'''",
             "translation": "The boy is '''opened''' the door."
           },
           {
-            "sentence": "к1алэм пчъэр '''къу1урегъэх'''",
+            "sentence": "к1алэм пчъэр '''къы1урегъэх'''",
             "translation": "'''Make''' the boy '''open''' the door."
           }
         ]
@@ -43579,7 +43733,7 @@
             "translation": "'''Take''' the table '''away''' from the tree."
           },
           {
-            "sentence": "К1алэм 1эгуаоу чъыгым '''1уехы'''",
+            "sentence": "К1алэм топыр чъыгым '''1уехы'''",
             "translation": "The boy '''is talking''' the ball '''away''' from the tree."
           },
           {
@@ -43630,7 +43784,7 @@
       "гъэкъэбзэн"
     ],
     "type": "verb",
-    "ipa": "wqabzən"
+    "ipa": "wəqabzən"
   },
   {
     "word": "тхьак1ын",
@@ -43640,11 +43794,11 @@
         "meaning": "to wash",
         "examples": [
           {
-            "sentence": "Сил1ы кур '''етхьак1ы'''",
-            "translation": "My husband '''is washing''' the car."
+            "sentence": "Л1ым кур '''етхьак1ы'''",
+            "translation": "The man '''is washing''' the car."
           },
           {
-            "sentence": "Тхьэмгъупчэр '''сэтхьэк1эгъ'''",
+            "sentence": "Шъхьаныгъупчъэр '''сытхьэк1ыгъ'''",
             "translation": "'''I washed''' the window."
           },
           {
@@ -43652,7 +43806,7 @@
             "translation": "The woman '''is washing'''."
           },
           {
-            "sentence": "Хэта шъхьангъупчъэхэр '''зытхьакIрэр?'''",
+            "sentence": "Хэта шъхьангъупчъэхэр '''зытхьак1ырэр?'''",
             "translation": "Who '''washes''' the windows?"
           }
         ]
@@ -43661,6 +43815,61 @@
     "kabardian": "тхьэщ1ын",
     "type": "verb",
     "ipa": "tħat͡ʃən"
+  },
+  {
+    "word": "1ухъон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to close (e.g. a window) by hanging something over it",
+        "examples": [
+          {
+            "sentence": "пэ1ухъор шъхьаныгъупчъэм '''1ухъон'''",
+            "translation": "'''To close''' the curtain of the window."
+          }
+        ]
+      }
+    ],
+    "kabardian": "тхьэщ1ын",
+    "type": "verb",
+    "ipa": "ʔʷəχʷan"
+  },
+  {
+    "word": "шъхьаныгъупчъэ1ухъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "curtains (window)",
+        "examples": []
+      }
+    ],
+    "kabardian": "тхьэщ1ын",
+    "type": "verb",
+    "ipa": "tħat͡ʃən"
+  },
+  {
+    "word": "шъхьаныгъупчъэжъый",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "fortochka",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʂħaːnəʁʷəpt͡ʂaʐəj"
+  },
+  {
+    "word": "шъхьаныгъупчъэещал1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "shutter",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʂħaːnəʁʷəpt͡ʂaʐəj"
   },
   {
     "word": "лъэсын",
@@ -43726,6 +43935,10 @@
           {
             "sentence": "'''Джэхашъор''' ш1ои",
             "translation": "'''The floor''' is dirty."
+          },
+          {
+            "sentence": "Л1ым '''джэхашъор''' етхьак1ы",
+            "translation": "The man is washing '''the floor'''."
           }
         ]
       }
@@ -43745,7 +43958,7 @@
             "translation": "'''The dishes''' are dirty."
           },
           {
-            "sentence": "Хэта '''шыкъухэр''' зытхьак1рэр?",
+            "sentence": "Хэта '''шыкъухэр''' зытхьак1ырэр?",
             "translation": "Who does the '''dishes'''?"
           }
         ]
@@ -43762,6 +43975,10 @@
         "meaning": "to cook",
         "examples": [
           {
+            "sentence": "Бзылъфыгъэм шхын '''епщэрыхьы'''",
+            "translation": "The woman '''is coocking''' food."
+          },
+		  {
             "sentence": "Сыда непэ '''упщэрыхьащтыр?'''",
             "translation": "What '''you gonna cook''' today?"
           },
@@ -43795,14 +44012,18 @@
         "meaning": "vegetable",
         "examples": [
           {
-            "sentence": "Are you grilling the '''vegetables''' on this grill?",
-            "translation": "'''Хэтэрык1хэр''' зэрыбгъажъэхэрэр мы грилыр ара?"
+            "sentence": "'''Хэтэрык1'' закъу сышхырэр",
+            "translation": "I only eat '''vegetables'''."
+          },
+		  {
+            "sentence": "'''Хэтэрык1хэр''' зэрыбгъажъэхэрэр мы грилыр ара?",
+            "translation": "Are you grilling the '''vegetables''' on this grill?"
           }
         ]
       }
     ],
     "type": "noun",
-    "ipa": "xatarət͡ʃ"
+    "ipa": "xatarət͡ʃʼ"
   },
   {
     "word": "пхъэшъхьэмышъхьэхэр",
