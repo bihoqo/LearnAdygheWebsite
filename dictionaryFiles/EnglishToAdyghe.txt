@@ -13854,7 +13854,7 @@
     "to anticipate for": "щыгугъын"
   },
   {
-    "shroud": "чэфын / чэфыныпхъ (the dress for the dead; a winding sheet)"
+    "shroud": "хьэдэтехъу (the dress for the dead; a winding sheet)"
   },
   {
     "pit": "курбы; машэ"

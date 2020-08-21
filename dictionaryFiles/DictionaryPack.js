@@ -47117,7 +47117,7 @@
         "meaning": "dive",
         "examples": [
           {
-            "sentence": "'''Ч1ырыгъыс''' уеш1а?",
+            "sentence": "'''Ч1ырыгъыс''' уш1эшъущта?",
             "translation": "Can you '''dive'''?"
           }
         ]
@@ -47135,8 +47135,21 @@
         "examples": []
       }
     ],
+    "shapsug": "нэгъургьэ",
     "type": "noun",
     "ipa": "naʁʷənd͡ʒa"
+  },
+  {
+    "word": "хьэдэтехъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "shroud",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ħadatajχʷ"
   },
   {
     "word": "чъы1э л1эн",
@@ -99043,7 +99056,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "i wish; if only",
+        "meaning": "I wish; if only",
         "examples": []
       }
     ],
