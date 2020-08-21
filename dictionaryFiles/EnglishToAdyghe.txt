@@ -7833,7 +7833,7 @@
     "to name": "ц1э усын; ц1э фэусын (to give a name to); иунашъо ш1ын (to mention)"
   },
   {
-    "to read": "еджэн (to be reading); джын (to complete reading); хэджэхьан (to read through)"
+    "to read": "еджэн (to be reading); джын (to complete reading a certain portion); хэджэхьан (to read through)"
   },
   {
     "to be reading": "еджэн"
@@ -9513,6 +9513,9 @@
     "to sense": "хэш1ык1ын; зэхэш1эн"
   },
   {
+    "forgetful": "щыгъупшал; щыгъупшапх"
+  },
+  {
     "to forget": "щыгъупшын / къыщыгъупшын; зыщыгъэгъупшын (to try to forget); шъхьэ ик1ын (to forget temporarily)"
   },
   {
@@ -9633,7 +9636,7 @@
     "tea": "чае; щае; щаибжъэ (a glass of tea)"
   },
   {
-    "beef": "чэмыл; былымылы"
+    "beef": "чэмыл; цулы; былымылы"
   },
   {
     "pork": "къолы"
@@ -9648,19 +9651,28 @@
     "hospital": "сымэджэщ"
   },
   {
-    "to shave": "упсэн; упсын (to shave something); зыупсэн (to shave yourself)"
+    "to plane": "упсэн"
+  },
+  {
+    "plane": "пхъэпс"
+  },
+  {
+    "to shave": "упсэн; упсын (to shave something); зыупсэн (to shave yourself); теупсын (to shave off)"
   },
   {
     "soup": "хьантхъупсы (millet soup); лэпсы; стырыпс"
   },
   {
-    "if not": "хьаумэ; амырмэ; умыармэ"
+    "if not": "хьаумэ; армырымэ; амырмэ; умыармэ"
   },
   {
     "else if": "хьаумэ; умыармэ"
   },
   {
     "sausage": "нэкулъ"
+  },
+  {
+    "baloney": "нэкулъ"
   },
   {
     "omelette": "к1энк1эжъапхъэ"
@@ -9687,7 +9699,10 @@
     "base": "лъапсэ (root); лъач1 (basis that upon which anything is founded); дзап1э (army base); жьыдзап1э (air force base)"
   },
   {
-    "skate shoes": "пцыкъу"
+    "foundation": "лъач1"
+  },
+  {
+    "to chatter": "зэутэк1ын"
   },
   {
     "to be in a hurry": "гузэжъон; тхъытхъын"
@@ -9723,7 +9738,7 @@
     "garage": "гараж"
   },
   {
-    "to bump": "еутэк1ын (to bump into); зэутэк1ын (to bump each other)"
+    "to bump": "еутэк1ын (to bump into); зэутэк1ын (to bump each other); егъэутэк1ын (to make something bump into)"
   },
   {
     "to bump into": "еутэк1ын"
@@ -14721,7 +14736,7 @@
     "dreadful": "гуих"
   },
   {
-    "terrible": "дэи; 1ае; гомыхь"
+    "terrible": "дэи; 1ае"
   },
   {
     "fearful": "щынэгъо; гуих"
@@ -16785,6 +16800,9 @@
     "veil": "шъхьэтехъу; шашыф"
   },
   {
+    "translator": "зэдзэк1ак1о"
+  },
+  {
     "headscarf": "шъхьэтехъу"
   },
   {
@@ -17041,6 +17059,9 @@
   },
   {
     "plank": "пхъэмбгъу"
+  },
+  {
+    "to feel": "хэш1ык1ын; зэхэш1эн"
   },
   {
     "to feel sorry for": "гук1эгъу фэлъэгъун"

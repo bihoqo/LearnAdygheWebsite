@@ -10527,6 +10527,19 @@
             "translation": "Today, the road is '''crowded'''."
           }
         ]
+      },
+	  {
+        "meaning": "noisy",
+        "examples": [
+          {
+            "sentence": "Унэр '''щыбырысыр''' дэд",
+            "translation": "The room is too '''noisy'''."
+          },
+          {
+            "sentence": "Щагур '''бырысыр'''",
+            "translation": "The yard '''is noisy'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -26373,7 +26386,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "few",
+        "meaning": "few (in amount)",
         "examples": [
           {
             "sentence": "к1элэ '''мак1''' и1э",
@@ -44072,7 +44085,24 @@
       "къуе-мый"
     ],
     "type": "noun",
-    "ipa": "pχaːʂħaməʂħ"
+    "type": "noun",
+    "ipa": "pχaːʂħaməʂħa"
+  },
+  {
+    "word": "пхъэшъхьэ-мышъхьэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "fruit",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "пк1ышъхьэмышъхьэ",
+      "къуе-мый"
+    ],
+    "type": "noun",
+    "ipa": "pχaːʂħa-məʂħa"
   },
   {
     "word": "к1эсэн",
@@ -44082,7 +44112,7 @@
         "meaning": "to like",
         "examples": [
           {
-            "sentence": "Музыкэр '''уик1аса?'''",
+            "sentence": "Музикэр '''уик1аса?'''",
             "translation": "Do you '''like''' music?"
           },
           {
@@ -44096,6 +44126,10 @@
           {
             "sentence": "Сэ '''усик1ас'''",
             "translation": "'''I like you'''."
+          },
+          {
+            "sentence": "Тутын сешъоныр '''сик1эсагъ'''",
+            "translation": "'''I liked''' to smoke."
           }
         ]
       }
@@ -44155,7 +44189,7 @@
     "ipa": "naɡʷəʃʷʼ"
   },
   {
-    "word": "зэдзэк1ак1у",
+    "word": "зэдзэк1ак1о",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -44169,7 +44203,24 @@
       }
     ],
     "type": "noun",
-    "ipa": "zad͡zat͡ʃaːkʷʼ"
+    "ipa": "zad͡zat͡ʃʼaːkʷʼ"
+  },
+  {
+    "word": "нэш1о-гуш1о",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "affable; neighborly; communicable; forthcoming",
+        "examples": [
+          {
+            "sentence": "бысым '''нэш1о-гуш1у'''",
+            "translation": "'''affable''' host."
+          }
+        ]
+      }
+    ],
+    "type": "adj",
+    "ipa": "naʃʷʼa-gʷəʃʷʼa"
   },
   {
     "word": "зэдзэк1ын",
@@ -44183,24 +44234,24 @@
             "translation": "I '''translate''' books."
           },
           {
-            "sentence": "УрысыбзэкIэ тхылъыр адыгабзэкIэ зэдзэкIын",
+            "sentence": "Урысыбзэк1э тхылъыр адыгабзэк1э '''зэдзэк1ын'''",
             "translation": "'''To translate''' a Russian book to Adyghe."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "zad͡zat͡ʃən"
+    "ipa": "zad͡zat͡ʃʼən"
   },
   {
     "word": "хэк1отагъ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "became late, became old",
+        "meaning": "became late; became old",
         "examples": [
           {
-            "sentence": "бзылъфыгъэ '''хэк1отагъ'''",
+            "sentence": "бзылъфыгъэ '''хэк1отагъэ'''",
             "translation": "old woman."
           },
           {
@@ -44219,7 +44270,12 @@
     "definitions": [
       {
         "meaning": "cigarette",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''тутын''' сешъо",
+            "translation": "I am smoking '''cigarettes'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -44242,15 +44298,15 @@
           },
           {
             "sentence": "Сэ сычъые '''сш1оигъу'''",
-            "translation": "'''I want''' to sleep."
+            "translation": "'''I would like''' to sleep."
           },
           {
             "sentence": "Тэ теджэ '''тшIоигъу'''",
-            "translation": "'''We want''' to read."
+            "translation": "'''We would like''' to read."
           },
           {
             "sentence": "Тутын уешъо '''пш1оигъуа?'''",
-            "translation": "'''Would you want''' to smoke?"
+            "translation": "'''Would you like''' to smoke?"
           },
           {
             "sentence": "Сэ тутын сешъо сш1оигъуагъ",
@@ -44265,7 +44321,7 @@
             "translation": "'''I want''' to ask you something."
           },
           {
-            "sentence": "Тэ унэм тыкIожьы '''тш1оигъуагъ'''",
+            "sentence": "Тэ унэм тык1ожьы '''тш1оигъуагъ'''",
             "translation": "'''We want''' to drive home."
           },
           {
@@ -44273,7 +44329,7 @@
             "translation": "'''Do you want''' to eat here?"
           },
           {
-            "sentence": "Ахэр телефонкIэ теохэ '''ашIоигъуагъ'''",
+            "sentence": "Ахэр телефонк1э теохэ '''аш1оигъуагъ'''",
             "translation": "'''They want''' to make a call."
           },
           {
@@ -44281,7 +44337,7 @@
             "translation": "'''Do you want''' to visit friends? (said to plural)"
           },
           {
-            "sentence": "Мыщк1э сыублэмэ '''сш1оигъу'''",
+            "sentence": "Мык1э сыублэмэ '''сш1оигъу'''",
             "translation": "'''I want''' to start with this."
           },
           {
@@ -44302,7 +44358,7 @@
         "meaning": "to want",
         "examples": [
           {
-            "sentence": "Тэ '''тфае'''",
+            "sentence": "Тэ '''тыфае'''",
             "translation": "'''We want'''."
           },
           {
@@ -44314,16 +44370,16 @@
             "translation": "What '''do you want to do'''?"
           },
           {
-            "sentence": "Ащ сыкIонэу '''сыфаеп'''",
+            "sentence": "Ащ сык1онэу '''сыфаеп'''",
             "translation": "'''I don’t want''' to go there."
           },
           {
-            "sentence": "Дискотекэм шъукIонэу '''шъуфая?'''",
-            "translation": "'''Do you want''' to go to the disco? (said to plural)"
+            "sentence": "Чэщдэсым шъук1онэу '''шъуфая?'''",
+            "translation": "'''Do you want''' to go to the party?"
           },
           {
-            "sentence": "Бананэ '''сыфай'''",
-            "translation": "'''I want''' a banana."
+            "sentence": "Мы1эрыс '''сыфай'''",
+            "translation": "'''I want''' an apple."
           },
           {
             "sentence": "К1алэр мые '''фай'''",
@@ -44341,7 +44397,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "must",
+        "meaning": "must; need to",
         "examples": [
           {
             "sentence": "Сык1он '''фай'''",
@@ -44352,7 +44408,7 @@
             "translation": "I '''must''' pay the hotel."
           },
           {
-            "sentence": "О Iофыбэ пшIэн '''фае'''",
+            "sentence": "О 1офыбэ пш1эн '''фае'''",
             "translation": "You '''must''' do a lot work."
           }
         ]
@@ -44397,8 +44453,12 @@
         "meaning": "better",
         "examples": [
           {
-            "sentence": "'''Нахьыш1у''' т1эк1у ушхымэ",
-            "translation": "'''It is better''' if you eat less."
+            "sentence": "Джы '''сынахьыш1у'''",
+            "translation": "'''I am better''' now."
+          },
+		  {
+            "sentence": "'''Нахьыш1ущт''' нахь т1эк1у ушхымэ",
+            "translation": "'''It will be better''' if you eat less."
           },
           {
             "sentence": "'''Нахьыш1у''' тызэдак1омэ",
@@ -44431,10 +44491,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "mostly",
+        "meaning": "mostly; most of the time",
         "examples": [
           {
-            "sentence": "'''нахьыбэрэм''' синанэжъ иунэ сэк1о",
+            "sentence": "'''нахьыбэрэм''' снанэжъ яунэ сэк1о",
             "translation": "I go to my grandmother's house '''mostly'''."
           },
           {
@@ -44455,7 +44515,7 @@
         "meaning": "more often",
         "examples": [
           {
-            "sentence": "'''нахьыбэрэ''' синанэжъ иунэ сык1он фак",
+            "sentence": "'''нахьыбэрэ''' снанэжъ яунэ сык1он фай",
             "translation": "I need to go to my grandmother's house '''more often'''."
           },
           {
@@ -44476,8 +44536,12 @@
         "meaning": "to make someone close to something",
         "examples": [
           {
-            "sentence": "к1алэр тиунэ егъэблэгъ",
+            "sentence": "к1алэр тиунэ егъэблагъ",
             "translation": "'''Make''' the boy '''to come near to our house'''."
+          },
+		  {
+            "sentence": "к1эк1эц1ык1ухэр маш1ом къемыгъэблагъэх",
+            "translation": "'''Don't allow''' the kids '''to come near''' the fire."
           }
         ]
       }
@@ -44493,7 +44557,11 @@
         "meaning": "to welcome, to invite",
         "examples": [
           {
-            "sentence": "Ары, тэри '''тыкъырагъэблэгъагъ'''",
+            "sentence": "к1алэр тиунэ къегъэблагъ",
+            "translation": "'''Welcome''' the boy to our house."
+          },
+		  {
+            "sentence": "ары, тэри '''тыкъырагъэблэгъагъ'''",
             "translation": "Indeed, '''we''' have also '''been invited'''."
           },
           {
@@ -44507,8 +44575,13 @@
         ]
       },
       {
-        "meaning": "to make someone close to oneself",
-        "examples": []
+        "meaning": "to make someone close",
+        "examples": [
+		  {
+            "sentence": "к1эк1эц1ык1ухэр маш1ом къемыгъэблагъэх",
+            "translation": "'''Don't allow''' the kids '''to come near''' the fire."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -44522,8 +44595,12 @@
         "meaning": "hard, difficult",
         "examples": [
           {
-            "sentence": "Ау урыгущыIэныр ыкIи утхэныр '''хьылъэ'''",
+            "sentence": "Ау угущы1эныр ык1и утхэныр '''хьылъэ'''",
             "translation": "But speaking and writing '''is difficult'''."
+          },
+		  {
+            "sentence": "1офы '''хьылъэ''' л1ым еш1э",
+            "translation": "The man is doing a '''difficult''' work."
           }
         ]
       }
@@ -44551,11 +44628,11 @@
             "translation": "'''Do you understand''' what I am saying?"
           },
           {
-            "sentence": "Къэп1орэ сэ '''сыгуры1урэп'''",
+            "sentence": "Къэп1орэр сэ '''къызгуры1урэп'''",
             "translation": "'''I don't understand''' what you are saying."
           },
           {
-            "sentence": "Адыгабзэ '''къыгуры1о''''",
+            "sentence": "Адыгабзэ '''къызгуры1о''''",
             "translation": "'''I understand''' Circassian."
           },
           {
@@ -44563,7 +44640,7 @@
             "translation": "'''I did not understand''' what you said."
           },
           {
-            "sentence": "Къас1орэр '''къыбгуры1ошъуа'''?",
+            "sentence": "Къэс1орэр '''къыбгуры1ошъуа'''?",
             "translation": "'''Can you understand''' what I am saying."
           },
           {
@@ -44578,42 +44655,44 @@
     "ipa": "ɡʷərəʔʷan"
   },
   {
-    "word": "хэш1ык1ьын",
+    "word": "къыгуры1он",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"хэш1ык1ын\"",
+        "meaning": "alternative form of \"гуры1он\"",
         "examples": []
       }
     ],
-    "synonyms": [
-      "хэш1ык1ын"
-    ],
+    "kabardian": "гуры1уэн",
     "type": "verb",
-    "ipa": "xaʃʼəkʲən"
+    "ipa": "qəɡʷərəʔʷan"
   },
   {
     "word": "хэш1ык1ын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to have knowledge about some technical stuff or subject, to have an understanding about a certain subject",
+        "meaning": "to be familiar with; to have knowledge about some technical stuff or subject; to have an understanding about a certain subject",
         "examples": [
           {
-            "sentence": "К1алэр кумэ '''яхеш1ык1ы'''",
+            "sentence": "К1алэр кумэ '''ахеш1ык1ы'''",
             "translation": "The boy '''is familiar with''' cars."
           },
           {
-            "sentence": "Докторым узхэмэ яхеш1ык1ы",
+            "sentence": "Докторым узхэмэ '''ахеш1ык1ы'''",
             "translation": "The doctor '''is familiar with''' the diseases."
           },
           {
-            "sentence": "Докторым узхэмэ яхиш1ык1эгъ",
+            "sentence": "Докторым узхэмэ '''ахиш1ык1ыгъ'''",
             "translation": "The doctor '''was familiar with''' the diseases."
           },
           {
-            "sentence": "хэсэш1ык1ы сомпйутэрым",
+            "sentence": "'''хэсэш1ык1ы''' сомпыютэрхэмэ",
             "translation": "'''I am familiar with''' the computer."
+          },
+          {
+            "sentence": "'''хэмыш1ык1ырэм''' укъытемыгущы1",
+            "translation": "Don't talk about '''stuff you don't understand'''."
           }
         ]
       },
@@ -44621,7 +44700,7 @@
         "meaning": "to feel; to sense",
         "examples": [
           {
-            "sentence": "Синыбэк1э 1аеу '''хэсэш1ык1ы'''",
+            "sentence": "Сныбэк1э 1аеу '''хэсэш1ык1ы'''",
             "translation": "'''I feel''' awful with my stomach."
           },
           {
@@ -44629,15 +44708,13 @@
             "translation": "The boy '''is feeling''' cold."
           },
           {
-            "sentence": "К1алэр зэрэкъак1орэр '''хэсэш1ык1ы'''",
-            "translation": "'''I sense''' that the boy is coming"
+            "sentence": "К1алэр зэрэкъэк1орэр '''хэсэш1ык1ы'''",
+            "translation": "'''I sense''' that the boy is coming."
           }
         ]
       }
     ],
-    "synonyms": [
-      "хэш1ык1ьын"
-    ],
+    "shapsug": "хэш1ык1ьын",
     "type": "verb",
     "ipa": "xaʃʼət͡ʃʼən"
   },
@@ -44653,7 +44730,7 @@
             "translation": "The boy '''feels''' cold."
           },
           {
-            "sentence": "Нэмык1ым игумэк1 ащ зэхиш1эрэп",
+            "sentence": "Нэмык1ым игумэк1 ащ '''зэхиш1эрэп'''",
             "translation": "He '''does not sense''' the suffering of others."
           }
         ]
@@ -44685,27 +44762,56 @@
         "meaning": "to be late; to be behind time; to be behind schedule; to come not on time; to be running late",
         "examples": [
           {
+            "sentence": "Пшъашъэр '''мэлъажъо'''",
+            "translation": "The girl '''is being late'''."
+          },
+		  {
             "sentence": "К1алэр классым '''къэлъэжъуагъ'''",
             "translation": "The boy '''came late''' to class."
           },
           {
             "sentence": "О бэрэ '''укъэлъажъо'''",
-            "translation": "'''You are late''' a lot of times."
-          }
-        ]
-      },
-      {
-        "meaning": "to be delayed",
-        "examples": [
-          {
-            "sentence": "К1алэр классым иуахътэ къэсыгъэп, '''къэлъэжъуагъ'''",
-            "translation": "The boy did not came in time to class, '''he was delayed'''."
+            "translation": "'''You are late''' a lot."
           }
         ]
       }
     ],
     "type": "verb",
     "ipa": "qaɬaʐʷan"
+  },
+  {
+    "word": "щыгъупшал",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "forgetful",
+        "examples": [
+          {
+            "sentence": "Л1ыжъыр '''щыгъупшал'''",
+            "translation": "The old-man '''is forgetful'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɕəʁʷəpʃaːɮ"
+  },
+  {
+    "word": "щыгъупшапх",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "forgetful",
+        "examples": [
+          {
+            "sentence": "Л1ыжъыр '''щыгъупшапх'''",
+            "translation": "The old-man '''is forgetful'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɕəʁʷəpʃaːpx"
   },
   {
     "word": "щыгъупшын",
@@ -44719,36 +44825,32 @@
             "translation": "'''You forgot me''' and turned yourself to him."
           },
           {
-            "sentence": "'''Усыщыгъупшэгъ''' хэт о?",
-            "translation": "'''I forgot you''' who you are?"
+            "sentence": "'''Усщыгъупшыгъ''' хэт о",
+            "translation": "'''I forgot you''' who you are."
           },
           {
-            "sentence": "'''Сщыгъупшагъ'''",
+            "sentence": "'''Сщыгъупшыгъ'''",
             "translation": "'''I forgot'''."
           },
           {
-            "sentence": "'''Сщыгъупшагъ'''",
-            "translation": "'''I forgot'''."
+            "sentence": "Ар сыш1энэу '''къысщыгъупшыгъ'''",
+            "translation": "'''I forgot''' to do that."
           },
           {
-            "sentence": "'''Къупщымгъупшыгъэу''' псы ешъу",
+            "sentence": "'''Къыпщымыгъупшыгъэу''' псы ешъу",
             "translation": "Drink water '''before you forget'''."
           },
           {
-            "sentence": "'''Къэсщыгъупшэгъ''' псы къэсхьынэу",
-            "translation": "'''I forgot''' to bring water."
+            "sentence": "'''Къэсщыгъупшыгъ''' колэ къэсхьынэу",
+            "translation": "'''I forgot''' to bring cola."
           },
           {
-            "sentence": "К1алэм '''щыгъупшэгъ''' тиунэ къэк1онэу",
-            "translation": "The boy '''forgot''' to come our house."
+            "sentence": "К1алэм '''щыгъупшыгъ''' тиунэ къэк1онэу",
+            "translation": "The boy '''forgot''' to come to our house."
           },
           {
-            "sentence": "Л1ыжъым '''щыгъупшы''' сиц1э",
-            "translation": "The old man '''forgets''' my name."
-          },
-          {
-            "sentence": "'''Къушъущыгъупшыт''' шъуеджэжьнэу",
-            "translation": "'''You will forget''' to read/study again. (said to plural)."
+            "sentence": "Л1ыжъым ренэу '''щыгъупшы''' сц1э",
+            "translation": "The old-man always '''forgets''' my name."
           }
         ]
       }
@@ -44761,7 +44863,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be late",
+        "meaning": "to be late and miss something as a result",
         "examples": [
           {
             "sentence": "Автобусым '''укъыщинагъа?'''",
@@ -44772,16 +44874,12 @@
             "translation": "The boy '''got late''' to work."
           },
           {
-            "sentence": "Л1эр 1офым '''къыщенэ'''",
+            "sentence": "Л1ыр 1офым '''къыщенэ'''",
             "translation": "The man '''is becoming late''' to work."
           },
           {
-            "sentence": "Л1ыжъэр 1офым '''къыщинэт'''",
+            "sentence": "Л1ыжъыр 1офым '''къыщинэщт'''",
             "translation": "The old man '''will be late''' to work."
-          },
-          {
-            "sentence": "1офым '''укъыщымнэрагъомэ''' псынч1эу к1о",
-            "translation": "'''If you don't want to late''' to work go fast."
           }
         ]
       },
@@ -44793,26 +44891,26 @@
             "translation": "The boy '''surpassed''' the girl '''by far'''."
           },
           {
-            "sentence": "Псынк1эу умч1эмэ '''укъыщанэт'''",
-            "translation": "If you don't run fast '''they will surpass you by far'''."
+            "sentence": "Псынк1эу умычъэмэ '''укъыщанэщт''' к1алэхэмэ",
+            "translation": "If you don't run fast the boys '''will surpass you by far'''."
           },
           {
             "sentence": "Ливилк1э Томым '''сыкъыщинагъ'''",
             "translation": "Tom '''surpassed''' me with the levels '''by far'''."
           },
           {
-            "sentence": "'''Укъыщэсанэ'''",
+            "sentence": "'''Укъыщэсэнэ'''",
             "translation": "'''I am surpassing you by far'''."
           },
           {
-            "sentence": "Йусыфым ишыхэмэ '''къышани''' тыгъужъым ишхэгъ",
-            "translation": "Joseph's brothers '''surpassed him by far''' and as a result the wolf ate him."
+            "sentence": "Йусыфым ышыхэмэ '''къышани''' тыгъужъым ышхыгъ",
+            "translation": "Joseph's brothers '''surpassed him by far''' and the wolf ate him."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "qəɕinan"
+    "ipa": "qəɕəjnan"
   },
   {
     "word": "дырын",
@@ -44869,15 +44967,23 @@
           },
           {
             "sentence": "Пшъашъэр '''къэс1ук1агъ'''",
+            "translation": "The girl '''met me'''."
+          },
+          {
+            "sentence": "Пшъашъэм '''с1ук1агъ'''",
             "translation": "I '''met''' the girl."
           },
           {
-            "sentence": "Л1ым итхьэматэ '''1ок1э'''",
+            "sentence": "Л1ым итхьэматэ ежь '''1ок1э'''",
             "translation": "The man '''is meeting''' with his boss."
           },
           {
             "sentence": "Докторым '''сы1ук1эн''' фай",
             "translation": "'''I need to meet''' the doctor."
+          },
+          {
+            "sentence": "Сэшъхьахы докторым '''сы1ук1энэ'''",
+            "translation": "I am lazy '''to meet''' the doctor."
           },
           {
             "sentence": "Докторым '''сы1ук1эшъурэп'''",
@@ -44889,63 +44995,85 @@
         "meaning": "to catch up with someone (before it is too late)",
         "examples": [
           {
-            "sentence": "К1алэр пшъашъэм '''1ук1агъ'''",
+            "sentence": "К1алэр пшъашъэм '''1ук1эжьыгъ'''",
             "translation": "The boy '''caught up''' with the girl."
           },
           {
-            "sentence": "Нахь псынк1эу сычъэмэ '''ус1ук1эщт'''",
-            "translation": "If i will run faster '''I will catch up to''' you."
-          },
-          {
-            "sentence": "К1элэц1ык1ур '''къэс1ук1эшъурэп'''",
-            "translation": "The little boy '''can't catch up''' with me."
-          },
-          {
-            "sentence": "Ливилк1э Томэр '''къэс1ук1агъ'''",
-            "translation": "Tom '''caught up''' with me with the level."
+            "sentence": "Нахь псынк1эу сычъэмэ '''ус1ук1эжьыщт'''",
+            "translation": "If I run faster '''I will catch up to''' you."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "ʔʷət͡ʃan"
+    "ipa": "ʔʷət͡ʃʼan"
+  },
+  {
+    "word": "1ук1эжьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to meet again",
+        "examples": [
+          {
+            "sentence": "Неущ '''тызэ1ук1эжьыщт'''",
+            "translation": "'''We will meet again''' tomorrow?"
+          },
+          {
+            "sentence": "К1алэм пшъашъэр '''1ук1ыжьыгъ'''",
+            "translation": "The boy '''met''' the girl '''again'''."
+          }
+        ]
+      },
+      {
+        "meaning": "to catch up with someone (before it is too late)",
+        "examples": [
+          {
+            "sentence": "К1алэр пшъашъэм '''1ук1эжьыгъ'''",
+            "translation": "The boy '''caught up''' with the girl."
+          },
+          {
+            "sentence": "Нахь псынк1эу сычъэмэ '''ус1ук1эжьыщт'''",
+            "translation": "If I run faster '''I will catch up to''' you."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʔʷət͡ʃʼaʑən"
   },
   {
     "word": "течъын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to surpass",
+        "meaning": "to surpass; to outrun",
         "examples": [
           {
-            "sentence": "К1алэр пшъашъэм '''тэчъэгъ'''",
-            "translation": "The boy '''surpassed''' the girl."
+            "sentence": "К1алэр пшъашъэм '''тэчъыгъ'''",
+            "translation": "The boy '''outran''' the girl."
           },
           {
-            "sentence": "Псынч1эу умч1эмэ '''къуптэчъытых'''",
-            "translation": "If you don't run fast '''they will surpass you'''."
+            "sentence": "Псынк1эу умычъэмэ '''къыптечъытых'''",
+            "translation": "If you don't run fast '''they will outrun you'''."
           },
           {
-            "sentence": "Ливилк1э Томэр '''къэстэчъы'''",
+            "sentence": "Ливилк1э Томэр '''къэстечъы'''",
             "translation": "Tom '''is surpassing''' me with the levels."
           },
           {
-            "sentence": "'''Къэстэчъы'''",
+            "sentence": "'''Къэстечъы'''",
             "translation": "'''Surpass me'''."
           },
           {
-            "sentence": "Тестыхымк1э пшъашъэмэ '''сатэчъыт'''",
-            "translation": "'''I will surpass''' the girls in the tests."
-          },
-          {
-            "sentence": "К1элэц1ык1ор '''къэстэчъышъурэп'''",
-            "translation": "The little boy '''can't surpass me'''."
+            "sentence": "К1элэц1ык1ур '''къэстечъышъурэп'''",
+            "translation": "The little boy '''can't outrun me'''."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "tat͡ʂən"
+    "ipa": "tajt͡ʂən"
   },
   {
     "word": "1ук1ыхьан",
@@ -44967,15 +45095,23 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to rest, to take a break",
+        "meaning": "to rest; to take a break",
         "examples": [
           {
-            "sentence": "Л1ым '''зегъэпсэфы''' 1офым икъынэужь",
+            "sentence": "Л1ым '''зегъэпсэфы''' 1офым икъынэужы",
             "translation": "The man '''is resting''' after work."
           },
+		  {
+            "sentence": "Л1ым 1офш1эгъум ыужым зигъэпсэфыгъ",
+            "translation": "The man '''rested''' after work."
+          },
+		  {
+            "sentence": "Т1эк1урэ '''зыгъэпсэф'''",
+            "translation": "'''Take''' a little '''break'''."
+          },
           {
-            "sentence": "Седжэгъахэмэ т1эк1у '''зысгъэпсэфынэу''' щагум сыкъик1ыщт",
-            "translation": "After I have finished studying, I will come out to the yard '''to rest''' briefly."
+            "sentence": "Седжэгъахэмэ т1эк1урэ '''зызгъэпсэфынэу''' щагум сыкъик1ыщт",
+            "translation": "After I finish studying, I will come out to the yard '''to rest''' briefly."
           }
         ]
       }
@@ -45015,11 +45151,11 @@
         "meaning": "soon",
         "examples": [
           {
-            "sentence": "'''т1эк1угъаш1эмэ''' сышхэт",
+            "sentence": "'''т1эк1угъаш1эмэ''' сышхэщт",
             "translation": "I will eat '''soon'''."
           },
           {
-            "sentence": "'''т1эк1угъаш1эмэ''' филмэр къиулэт",
+            "sentence": "'''т1эк1угъаш1эмэ''' филымыр къиублэщт",
             "translation": "'''Soon''' the film will start."
           },
           {
@@ -45055,7 +45191,16 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "A stopping place, station",
+        "meaning": "station; stop (place where buses, trams or trains halt to let passengers get on and off)",
+        "examples": [
+          {
+            "sentence": "Автобус '''уцуп1эм''' дэжь сыкъыплъы1ухьащт",
+            "translation": "I will pick you up at the bus '''stop'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "a stopping place",
         "examples": [
           {
             "sentence": "Автобус '''уцуп1эм''' дэжь сыкъыплъы1ухьащт",
@@ -45075,12 +45220,28 @@
         "meaning": "to need something required",
         "examples": [
           {
-            "sentence": "Такси '''сищык1эт'''",
+            "sentence": "Такси '''сищык1эщт'''",
             "translation": "'''I will need''' a taxi."
           },
           {
             "sentence": "Хьанцэ '''ущэк1э'''",
-            "translation": "'''you need''' a shovel."
+            "translation": "'''You need''' a shovel."
+          },
+          {
+            "sentence": "Досторым сык1он '''ищэк1агъэп'''",
+            "translation": "'''I don't need''' to go to the doctor."
+          },
+          {
+            "sentence": "Псынк1эу сычъэнэу '''ищык1агъэп''' устечъын пае",
+            "translation": "'''I don't need''' to run fast to outrun you."
+          },
+          {
+            "sentence": "Зы уат '''сищык1эгъагъэр'''",
+            "translation": "What '''I needed was''' one hammer."
+          },
+          {
+            "sentence": "Зы уатэ '''сыщэк1э'''",
+            "translation": "What '''I needed was''' one hammer."
           }
         ]
       }
@@ -45097,7 +45258,7 @@
         "examples": [
           {
             "sentence": "'''Къухьэуцуп1эм''' шъук1у",
-            "translation": "Go to the harbour / harbor (am.)"
+            "translation": "Go to the '''harbor'''"
           }
         ]
       }
@@ -45135,7 +45296,7 @@
         "meaning": "unattractive; bad-looking",
         "examples": [
           {
-            "sentence": "СызэреплъырэмкIэ, ар '''теплъаджэ'''",
+            "sentence": "Сызэреплъырэмк1э, ар '''теплъаджэ'''",
             "translation": "I find that '''unattractive'''."
           }
         ]
@@ -45157,6 +45318,18 @@
     "ipa": "gʷərməq"
   },
   {
+    "word": "гъэдэ1огъой",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "intractable, not easy to manage, hard to tame, hard to control",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "ʁadaʔʷaʁʷaj"
+  },
+  {
     "word": "зэщыгъо",
     "lang": "Adyghe",
     "definitions": [
@@ -45170,6 +45343,10 @@
           {
             "sentence": "Сызэреплъырэмк1э, ар '''зэщыгъо'''",
             "translation": "I find that '''boring'''."
+          },
+		  {
+            "sentence": "Къэлэ '''зэщыгъу'''",
+            "translation": "'''Boring''' city."
           }
         ]
       }
@@ -45182,11 +45359,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "terrible",
+        "meaning": "unpleasant",
         "examples": [
           {
-            "sentence": "СызэреплъырэмкIэ, ар '''гомыхь'''",
-            "translation": "I find that '''terrible'''."
+            "sentence": "Сызэреплъырэмк1э, ар '''гомыхь'''",
+            "translation": "I find that '''unpleasant'''."
+          },
+		  {
+            "sentence": "Мэ '''гомыхь'''",
+            "translation": "'''Unpleasant''' smell."
+          },
+		  {
+            "sentence": "Мэ '''гомыхь''' сэу",
+            "translation": "I am smelling an '''unpleasant''' smell."
           }
         ]
       }
@@ -45202,8 +45387,8 @@
         "meaning": "breakfast",
         "examples": [
           {
-            "sentence": "Сыхьатыр тхьапшым '''пчэдыжьышхэ''' арагъэшIыра?",
-            "translation": "What time do you serve '''breakfast'''?"
+            "sentence": "Сыхьатыр тхьапшым '''пчэдыжьышхэ''' шъош1ы?",
+            "translation": "When do you (all) make '''breakfast'''?"
           }
         ]
       }
@@ -45219,8 +45404,8 @@
         "meaning": "launch",
         "examples": [
           {
-            "sentence": "Сыхьатыр тхьапшым '''щэджэгъуашхэ''' арагъэшIыра?",
-            "translation": "What time do you serve '''launch'''?"
+            "sentence": "Сыхьатыр тхьапшым '''щэджэгъуашхэ''' шъош1ы?",
+            "translation": "When do you (all) make '''launch'''?"
           }
         ]
       }
@@ -45236,8 +45421,8 @@
         "meaning": "dinner for evening",
         "examples": [
           {
-            "sentence": "Сыхьатыр тхьапшым '''пчыхьэшъхьашхэ''' арагъэшIыра?",
-            "translation": "What time do you serve '''dinner for evening'''?"
+            "sentence": "Сыхьатыр тхьапшым '''пчыхьэшъхьашхэ''' шъош1ы?",
+            "translation": "When do you (all) make '''dinner for evening'''?"
           }
         ]
       }
@@ -45253,21 +45438,21 @@
         "meaning": "to fulfill",
         "examples": [
           {
-            "sentence": "Уи1офыхэр '''бгъэцэк1эжьыных''' фаей",
+            "sentence": "Уи1офыхэр '''бгъэцэк1эжьыных''' фаех",
             "translation": "You need '''to fulfull''' your tasks."
           }
         ]
       },
       {
-        "meaning": "to repair; to fix; to mend",
+        "meaning": "to repair; to fix",
         "examples": [
           {
-            "sentence": "Мыр '''бгъэцэк1эжьын''' плъэк1ыщтба?",
-            "translation": "Can you get it '''repaired'''?"
-          },
-          {
-            "sentence": "Сыхьатыр '''бгъэцэкIэжьын''' плъэкIыщта?",
+            "sentence": "Сыхьатыр '''бгъэцэк1эжьын''' плъэк1ыщта?",
             "translation": "Can '''you fix''' the clock?"
+          },
+		  {
+            "sentence": "Л1ым унашъхьэр '''егъэцэк1эжьы'''?",
+            "translation": "The man '''repairs''' the roof."
           }
         ]
       }
@@ -45278,28 +45463,19 @@
       "ш1ыжьын"
     ],
     "type": "verb",
-    "ipa": "ʁat͡sat͡ʃaʑən"
+    "ipa": "ʁat͡sat͡ʃʼaʑən"
   },
   {
     "word": "бырысыр",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "noisy",
-        "examples": [
-          {
-            "sentence": "Унэр '''щыбырысыр''' дэд",
-            "translation": "The room is too '''noisy'''."
-          },
-          {
-            "sentence": "Щагур '''бырысыр'''",
-            "translation": "The yard '''is noisy'''."
-          }
-        ]
+        "meaning": "alternative form of \"бырсыр\"",
+        "examples": []
       }
     ],
     "type": "adj",
-    "ipa": "ɕəbərəsər"
+    "ipa": "bərəsər"
   },
   {
     "word": "гъэфэбалъэ",
@@ -45309,7 +45485,7 @@
         "meaning": "heater",
         "examples": [
           {
-            "sentence": "'''Гъэфэбалъэр''' лажэрэп",
+            "sentence": "'''Гъэфэбалъэр''' лажьэрэп",
             "translation": "The '''heater''' isn’t working."
           }
         ]
@@ -45326,7 +45502,7 @@
         "meaning": "air-conditioner; air-conditioning",
         "examples": [
           {
-            "sentence": "'''Жьыгъэкъабзэ''' лажэрэп",
+            "sentence": "'''Жьыгъэкъабзэ''' лажьэрэп",
             "translation": "The '''air-conditioning''' isn’t working."
           }
         ]
@@ -45336,36 +45512,45 @@
     "ipa": "ʑəʁaqaːbza"
   },
   {
-    "word": "лъэп1а1о",
+    "word": "лъэп1ае",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "very expensive",
+        "meaning": "too expensive",
         "examples": [
           {
-            "sentence": "Ар сэркIэ '''лъэп1а1о'''",
-            "translation": "That’s '''too expensive''' for me."
+            "sentence": "Цуакъэр '''лъэп1ае'''",
+            "translation": "The shoe is '''too expensive'''."
           }
         ]
       }
     ],
     "type": "adj",
-    "ipa": "ɬapʼaːʔʷa"
+    "ipa": "ɬapʼaːja"
   },
   {
     "word": "щаибжъэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "tea",
+        "meaning": "cup of tea",
         "examples": []
       }
     ],
-    "synonyms": [
-      "щае"
-    ],
     "type": "noun",
     "ipa": "ɕaːjəbʐa"
+  },
+  {
+    "word": "щэябжъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"щаибжъэ\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ɕajaːbʐa"
   },
   {
     "word": "былымылы",
@@ -45385,6 +45570,18 @@
     "ipa": "bələmələ"
   },
   {
+    "word": "цулы",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "bull meat",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃʷəɮə"
+  },
+  {
     "word": "къолы",
     "lang": "Adyghe",
     "definitions": [
@@ -45393,6 +45590,7 @@
         "examples": []
       }
     ],
+    "shapsug": "хъолы",
     "type": "noun",
     "ipa": "qʷalə"
   },
@@ -45414,10 +45612,6 @@
           {
             "sentence": "'''Гохьэу''' мэщхы",
             "translation": "laughs '''pleasantly'''."
-          },
-          {
-            "sentence": "Мыр '''гохьэп'''",
-            "translation": "That '''doesn’t taste good'''."
           }
         ]
       },
@@ -45438,9 +45632,19 @@
     "definitions": [
       {
         "meaning": "hospital",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Сымэджэщым''' сык1ощт",
+            "translation": "I will go to '''the hospital'''."
+          },
+		  {
+            "sentence": "Сятэ '''сымэджэщым''' ащагъ",
+            "translation": "They took my father '''to the hospital'''."
+          }
+        ]
       }
     ],
+    "shapsug": "сымэгьащ",
     "type": "noun",
     "ipa": "səmad͡ʒaɕ"
   },
@@ -45456,14 +45660,47 @@
             "translation": "The boy '''is shaving''' the sheep."
           },
           {
-            "sentence": "Мэлыр '''упсы'''",
-            "translation": "'''Shave''' the sheep."
+            "sentence": "Мэлым ыцыхэр '''упсых'''",
+            "translation": "'''Shave''' the sheep's wools."
+          },
+          {
+            "sentence": "Л1ым ыжак1э '''еупсы'''",
+            "translation": "The man '''shaves''' his beard."
           }
         ]
       }
     ],
     "type": "verb",
     "ipa": "wəpsən"
+  },
+  {
+    "word": "теупсын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to shave off",
+        "examples": [
+          {
+            "sentence": "Л1ым ыжак1э '''теупсы'''",
+            "translation": "The man '''shaves off''' his beard."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "tajwəpsən"
+  },
+  {
+    "word": "зэк1эупсыхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to shave",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "zat͡ʃʼawəpsəħaːn"
   },
   {
     "word": "упсэн",
@@ -45477,10 +45714,61 @@
             "translation": "The boy '''is shaving'''."
           }
         ]
+      },
+	  {
+        "meaning": "to plane",
+        "examples": [
+          {
+            "sentence": "пхъэпсык1э '''упсэн'''",
+            "translation": "'''To plane''' using a plane."
+          },
+		  {
+            "sentence": "Пхъаш1эм пхъэпсымк1э пхъэмбгъур '''ыупси''' зэщизэу, джашъоу ыш1ыгъ",
+            "translation": "The carpenter with the plane '''planed''' the wooden plank evenly and made it smooth."
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "wəpsan"
+  },
+  {
+    "word": "пхъэпс",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "plane (a tool)",
+        "examples": [
+          {
+            "sentence": "К1алэр '''маупсэ'''",
+            "translation": "The boy '''is shaving'''."
+          },
+		  {
+            "sentence": "Пхъаш1эм '''пхъэпсымк1э''' пхъэмбгъур ыупси зэщизэу, джашъоу ыш1ыгъ",
+            "translation": "The carpenter with '''the plane''' planed the wooden plank evenly and made it smooth."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "wəpsan"
+  },
+  {
+    "word": "зэщизэу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "evenly",
+        "examples": [
+          {
+            "sentence": "Пхъаш1эм пхъэпсымк1э пхъэмбгъур ыупси '''зэщизэу''', джашъоу ыш1ыгъ",
+            "translation": "The carpenter with the plane planed the wooden plank '''evenly''' and made it smooth."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "zaɕəjzaw"
   },
   {
     "word": "стырыпс",
@@ -45516,15 +45804,76 @@
     "ipa": "pt͡ʃəʂħaməʂħa"
   },
   {
+    "word": "пк1ышъхьэ-мышъхьэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "fruit",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "пхъэшъхьэмышъхьэ",
+      "къуе-мый"
+    ],
+    "type": "noun",
+    "ipa": "pt͡ʃəʂħa-məʂħa"
+  },
+  {
     "word": "хьаумэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "if not, else if",
+        "meaning": "if not; else if; or else",
         "examples": [
           {
             "sentence": "О электричества '''хьаумэ''' гьаза узэрыпщэрыхьэрэр?",
             "translation": "Do you cook on an electric '''or''' a gas stove?"
+          },
+		  {
+            "sentence": "Нахь псынк1эу тыгъачъ, '''хьаумэ''' тучанэр къыфиш1ыжьыгъэу тынэсыщт",
+            "translation": "Let us run faster, '''if not''' we will reach the shop when it's closed already."
+          },
+          {
+            "sentence": "Едж дэгъоу, '''хьаумэ''' тестыр къыпфэш1ыщтэп",
+            "translation": "Study good, '''or else''' you won't be able to do the test."
+          },
+          {
+            "sentence": "Жакет къызщилъ, '''хьаумэ''' чъы1э ул1эщт",
+            "translation": "Wear coat '''or else''' you will be cold."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "амырымэ",
+      "армырымэ"
+    ],
+    "type": "adv",
+    "ipa": "ħaːwma"
+  },
+  {
+    "word": "армырымэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "if not; else if; or else",
+        "examples": [
+          {
+            "sentence": "О электричества '''хьаумэ''' гьаза узэрыпщэрыхьэрэр?",
+            "translation": "Do you cook on an electric '''or''' a gas stove?"
+          },
+		  {
+            "sentence": "Нахь псынк1эу тыгъачъ, '''хьаумэ''' тучанэр къыфиш1ыжьыгъэу тынэсыщт",
+            "translation": "Let us run faster, '''if not''' we will reach the shop when it's closed already."
+          },
+          {
+            "sentence": "Едж дэгъоу, '''хьаумэ''' тестыр къыпфэш1ыщтэп",
+            "translation": "Study good, '''or else''' you won't be able to do the test."
+          },
+          {
+            "sentence": "Жакет къызщилъ, '''хьаумэ''' чъы1э ул1эщт",
+            "translation": "Wear coat '''or else''' you will be cold."
           }
         ]
       }
@@ -45537,7 +45886,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "sausage",
+        "meaning": "sausage, baloney",
         "examples": []
       }
     ],
@@ -45553,8 +45902,9 @@
         "examples": []
       }
     ],
+    "shapsug": "к1ьэк1ьэжъапхъэ",
     "type": "noun",
-    "ipa": "t͡ʃant͡ʃaʐaːpχa"
+    "ipa": "t͡ʃʼant͡ʃʼaʐaːpχa"
   },
   {
     "word": "къэбэскъэ ш1о1у",
@@ -45580,8 +45930,12 @@
             "translation": "I think this is my '''seat'''."
           },
           {
-            "sentence": "Енэгуягъо, сэ '''сит1ысып1э''' утес}} I think you’re sitting in '''my seat'''.",
-            "translation": ""
+            "sentence": "Енэгуягъо, сэ '''сит1ысып1э''' утес",
+            "translation": "I think you’re sitting in '''my seat'''."
+          },
+          {
+            "sentence": "Зы '''т1ысып1э''' горэ щы1а?",
+            "translation": "Is there '''a seat''' left?"
           }
         ]
       }
@@ -45595,7 +45949,16 @@
     "definitions": [
       {
         "meaning": "border",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "къэралыгъом '''игъунапкъэ'''",
+            "translation": "'''The borders''' of the state."
+          },
+		  {
+            "sentence": "гъунапкъэм зэпырык1ын",
+            "translation": "To cross '''the border'''."
+          }
+        ]
       },
       {
         "meaning": "boundary, border, borderline, frontier (the line or frontier area separating regions)",
@@ -45622,7 +45985,7 @@
           },
           {
             "sentence": "К1алэм игъусэ '''гужъон''' фаеу зэхъум ежь ащ емыжэу ежьэжьыгъ",
-            "translation": "When the boy's partner had to come late, he went off without waiting for him."
+            "translation": "When the boy's partner had '''to come late''', he went off without waiting for him."
           }
         ]
       }
@@ -45638,7 +46001,7 @@
         "meaning": "to be late; to be behind schedule",
         "examples": [
           {
-            "sentence": "Мэш1окур къэк1асэ",
+            "sentence": "Мэш1окур '''къэк1асэ'''",
             "translation": "The train '''is being late'''."
           }
         ]
@@ -45655,12 +46018,12 @@
         "meaning": "to be late; to be behind time; to be behind schedule; to come not on time; to be running late",
         "examples": [
           {
-            "sentence": "Мэш1окур къэгужъо",
+            "sentence": "Мэш1окур '''къэгужъо'''",
             "translation": "The train '''is being late'''."
           },
           {
-            "sentence": "К1алэм игъусэ '''гужъон''' фаеу зэхъум ежь ащ емыжэу ежьэжьыгъ",
-            "translation": "When the boy's partner had to come late, he went off without waiting for him."
+            "sentence": "К1алэм игъусэ '''къэгужъон''' фаеу зэхъум ежь ащ емыжэу ежьэжьыгъ",
+            "translation": "When the boy's partner had '''to come late''', he went off without waiting for him."
           }
         ]
       },
@@ -45677,7 +46040,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "skate shoes",
+        "meaning": "alternative form of \"пцыкъо\"",
         "examples": []
       }
     ],
@@ -45702,7 +46065,21 @@
     "definitions": [
       {
         "meaning": "foundation, base, basis (that upon which anything is founded)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Унэ '''лъач1'''",
+            "translation": "House's '''base'''"
+          }
+        ]
+      },
+	  {
+        "meaning": "property; belongings",
+        "examples": [
+          {
+            "sentence": "Унэгъо '''лъач1'''",
+            "translation": "Family's '''property'''"
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -45753,19 +46130,31 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "a bit (few)",
+        "meaning": "a bit; a little bit of; few",
         "examples": [
           {
             "sentence": "К1алэм шхын '''т1эк1у''' ышхыгъэ",
             "translation": "The boy ate '''a bit of''' food."
           },
           {
-            "sentence": "К1алэм '''т1эк1у''' тхылъэу и1э",
-            "translation": "The boy have '''a bit of''' books."
+            "sentence": "К1алэм '''т1эк1у''' тхылъэу и1эр",
+            "translation": "The amount of books the boy has is '''few'''."
           },
           {
-            "sentence": "Шъоущыгъу '''т1эк1у''' къыхалъхь и шае",
+            "sentence": "Шъоущыгъу '''т1эк1у''' къыхалъхь сичае",
             "translation": "Put '''a bit of''' sugar in my tea."
+          },
+          {
+            "sentence": "'''Т1эк1у''' сынахь дэгъу",
+            "translation": "I am '''a bit''' better."
+          },
+          {
+            "sentence": "К1алэр '''т1эк1у''' гущы1агъэ нахь, афэдиз бэу къи1отагъэп",
+            "translation": "The boy spoke '''a little bit''', he did not tell that much."
+          },
+          {
+            "sentence": "'''Т1эк1у''' нахь жъажъэу к1о",
+            "translation": "Go '''a bit''' slower."
           }
         ]
       }
@@ -45783,9 +46172,9 @@
       }
     ],
     "synonyms": [
-      "псык1э",
       "псынк1э"
     ],
+    "kabardian": "чъык1ьай",
     "kabardian": "псынщ1э",
     "type": "adj",
     "ipa": "t͡ʃəkʲaːj"
@@ -45807,19 +46196,47 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to bump between each other",
+        "meaning": "to bump against each other",
         "examples": [
           {
             "sentence": "Кухэр '''зэутэк1ыгъэх'''",
             "translation": "The cars '''clashed'''."
-          },
+          }
+        ]
+      },
+	  {
+        "meaning": "to chatter (teeth)",
+        "examples": [
           {
             "sentence": "Чъы1э сыл1эмэ, сцэхэр '''зэутэк1ых'''",
-            "translation": "When I am cold, my teeth '''are clashing'''."
+            "translation": "When I am cold, my teeth '''are chattering'''."
           }
         ]
       }
     ],
+    "shapsug": "зэутэк1ьын",
+    "type": "verb",
+    "ipa": "zawtat͡ʃən"
+  },
+  {
+    "word": "егъэутэк1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to make something bump against",
+        "examples": [
+          {
+            "sentence": "Пхъэр пчъэм '''ебэгъэутэк1ы'''",
+            "translation": "'''You're bumping''' the wood '''against''' the door."
+          },
+		  {
+            "sentence": "Зыфэсакъ, апчыр дэпкъым '''емыгъэутэк1'''",
+            "translation": "Watch out, '''don't bump''' the glass '''against''' the wall."
+          }
+        ]
+      }
+    ],
+    "shapsug": "егъэутэк1ьын",
     "type": "verb",
     "ipa": "zawtat͡ʃən"
   },
@@ -45828,47 +46245,34 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to bump into, to bump (against)",
+        "meaning": "to bump into; to bump against",
         "examples": [
           {
-            "sentence": "К1алэм '''сеутэк1эгъ'''",
+            "sentence": "К1алэм '''сеутык1эгъ'''",
             "translation": "'''I bumped into''' the boy."
           },
           {
-            "sentence": "псынк1эу учъымэ к1алэм '''уеутэк1ыт'''",
-            "translation": "If you run fast '''you will bump into''' the boy."
+            "sentence": "псынк1эу учъэмэ чъыгым '''уеутэк1ыщт'''",
+            "translation": "If you run fast '''you will bump into''' the tree."
           },
           {
             "sentence": "Къэуцу! дэпкъым '''уеутэк1ы'''",
             "translation": "Stop! '''You are bumping into''' the wall."
           },
           {
-            "sentence": "К1алэр '''еутэк1эгъ'''",
-            "translation": "The boy '''clashed'''."
+            "sentence": "Л1ы утэшъуагъэр ц1ыфымэ '''аутэк1эу''' ахэк1ы",
+            "translation": "The drunked man went through the people '''bumping into them'''."
+          },
+          {
+            "sentence": "Зы дэпкъыми '''уемыутык1эу''' унэм ик1",
+            "translation": "Get out of the house '''without bumping against''' any wall."
           }
         ]
       }
     ],
-    "synonyms": [
-      "еутэк1ьын"
-    ],
+    "shapsug": "еутэк1ьын",
     "type": "verb",
     "ipa": "jawtat͡ʃʼən"
-  },
-  {
-    "word": "еутэк1ьын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"еутэк1ын\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "еутэк1ын"
-    ],
-    "type": "verb",
-    "ipa": "jawtakʲʼən"
   },
   {
     "word": "1эпы1эгъу",
@@ -46130,8 +46534,21 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"т1эк1угъаш1эмэ\"",
-        "examples": []
+        "meaning": "soon",
+        "examples": [
+          {
+            "sentence": "'''т1эк1уш1эмэ''' сышхэщт",
+            "translation": "I will eat '''soon'''."
+          },
+          {
+            "sentence": "'''т1эк1уш1эмэ''' филымыр къиублэщт",
+            "translation": "'''Soon''' the film will start."
+          },
+          {
+            "sentence": "'''т1эк1уш1эмэ'''",
+            "translation": "'''soon'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -49187,7 +49604,12 @@
     "definitions": [
       {
         "meaning": "even; flat; smooth",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Пхъаш1эм пхъэпсымк1э пхъэмбгъур ыупси '''зэщизэу''', джашъоу ыш1ыгъ",
+            "translation": "The carpenter with the plane planed the wooden plank '''evenly''' and made it smooth."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -55176,18 +55598,6 @@
     "ipa": "tfəj"
   },
   {
-    "word": "амэрмэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"амырмэ\"",
-        "examples": []
-      }
-    ],
-    "type": "adv",
-    "ipa": "aːmarma"
-  },
-  {
     "word": "сэмэркъэу дэш1ын",
     "lang": "Adyghe",
     "definitions": [
@@ -59563,7 +59973,11 @@
           {
             "sentence": "Ахэмэ ахъышэ '''ящык1агъэп'''",
             "translation": "They '''don't need''' money."
-          }
+          },
+          {
+            "sentence": "Зы уатэ '''сищык1агъ'''",
+            "translation": "'''I need''' one hammer."
+          },
         ]
       }
     ],
@@ -75589,19 +76003,27 @@
     "ipa": "aːmarmi"
   },
   {
-    "word": "амырмэ",
+    "word": "амырымэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "if not (can be used like or else)",
+        "meaning": "if not; else if; or else",
         "examples": [
           {
-            "sentence": "Нахь псынк1эу тыгъачъ, '''амэрмэ''' тучанэ къыфишъыжьыгъэу тынэсыщт",
+            "sentence": "О электричества '''хьаумэ''' гьаза узэрыпщэрыхьэрэр?",
+            "translation": "Do you cook on an electric '''or''' a gas stove?"
+          },
+		  {
+            "sentence": "Нахь псынк1эу тыгъачъ, '''хьаумэ''' тучанэр къыфиш1ыжьыгъэу тынэсыщт",
             "translation": "Let us run faster, '''if not''' we will reach the shop when it's closed already."
           },
           {
-            "sentence": "Едж дэгъоу, '''амэрмэ''' тестыр къыпфэш1ыщтэп",
-            "translation": "Study good, '''if not''' you will not be capable of doing the test."
+            "sentence": "Едж дэгъоу, '''хьаумэ''' тестыр къыпфэш1ыщтэп",
+            "translation": "Study good, '''or else''' you won't be able to do the test."
+          },
+          {
+            "sentence": "Жакет къызщилъ, '''хьаумэ''' чъы1э ул1эщт",
+            "translation": "Wear coat '''or else''' you will be cold."
           }
         ]
       }
@@ -76415,6 +76837,15 @@
       {
         "meaning": "to spin",
         "examples": []
+      },
+	  {
+        "meaning": "to complete reading a certain portion",
+        "examples": [
+          {
+            "sentence": "Нэк1ымазэм къур1анэр зэрэпсаоу '''сыджыгъ'''",
+            "translation": "In Ramadan, '''I read''' the whole Quran."
+          }
+        ]
       }
     ],
     "synonyms": [
