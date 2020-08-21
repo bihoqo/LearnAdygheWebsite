@@ -1104,6 +1104,9 @@
     "wife": "шъуз; шъхьэгъусэ (nowdays used as spouse)"
   },
   {
+    "nowdays": "непэ непэк1э"
+  },
+  {
     "large": "ины"
   },
   {
@@ -9738,6 +9741,9 @@
     "garage": "гараж"
   },
   {
+    "later": "ет1анэ; ет1анэк1э; (dialectal) ет1уанэ"
+  },
+  {
     "to bump": "еутэк1ын (to bump into); зэутэк1ын (to bump each other); егъэутэк1ын (to make something bump into)"
   },
   {
@@ -9756,7 +9762,7 @@
     "and then": "ет1анэ / ет1анэк1э; (dialectal) ет1уанэ / ет1уанэк1э"
   },
   {
-    "then": "ет1анэ / ет1анэк1э; (dialectal) ет1уанэ / ет1уанэк1э"
+    "then": "ет1анэ / ет1анэк1э; (dialectal) ет1уанэ / ет1уанэк1э; ащыгъум (then, at that time); джащыгъум (then, at that time)"
   },
   {
     "traffic light": "гъозэнэфы"
@@ -14229,10 +14235,13 @@
     "before": "ыпэу; ыпэк1э; ыпэрэ (the one before);(dialectal) ипэу; нахь ыпэу / нахьыпэу (before someone/something else); анахь ыпэу (before everyone else); нэмысэу (before it reaches a certain time); нэмысыпэу (just before it reaches a certain time)"
   },
   {
-    "after": "ыуж; ыужык1э; ыужырэ (the one after);(dialectal) иуж; ыкъынэуж (after someone/something else); акъынэуж (after everyone else); къэсыгъахэу (after it reaches a certain time)"
+    "after": "ыуж; ыужык1э; ыужырэ (the one after);(dialectal) иуж; ыкъынэуж / ыкъынэужк1э (after someone/something else); акъынэуж / акъынэужк1э (after everyone else); къэсыгъахэу (after it reaches a certain time)"
   },
   {
     "coat hanger": "щыгъын пылъап1э; джэнэпылъап1"
+  },
+  {
+    "swimming pool": "есып1э"
   },
   {
     "nonuterine son": "мылъфыкъо"

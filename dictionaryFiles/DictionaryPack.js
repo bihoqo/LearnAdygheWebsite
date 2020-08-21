@@ -694,6 +694,14 @@
 		  {
             "sentence": "Л1ыжъым '''ыцэхэр''' 1утэкъух",
             "translation": "The oldman's '''teeth''' are breaking off."
+          },
+		  {
+            "sentence": "Пшъашъэм цэлъэк1эк1э '''ыцэхэр''' елъэк1ых",
+            "translation": "The girl brushes her '''teeth''' using the toothbrush."
+          },
+		  {
+            "sentence": "'''Уцэхэр''' тэрэзэу лъэк1ых",
+            "translation": "Brush your '''teeth''' appropriately."
           }
         ]
       },
@@ -1580,6 +1588,14 @@
           {
             "sentence": "'''Сшъхьэц''' сэжьы",
             "translation": "I am brushing '''my hair'''."
+          },
+		  {
+            "sentence": "Пшъашъэм мажьэк1э '''ышъхьэц''' ежьы",
+            "translation": "The girl brushes her '''hair''' using the hairbrush."
+          },
+		  {
+            "sentence": "'''Ушъхьэц''' тэрэзэу жьы",
+            "translation": "Brush your '''hair''' appropriately."
           }
         ]
       }
@@ -2150,7 +2166,12 @@
     "definitions": [
       {
         "meaning": "fingernail",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''1эбжъэнэпыупк1ык1э''' пшъашъэм ы1эбжъанэр преупк1ых",
+            "translation": "The girl cuts her '''fingernails''' using the nail clipper."
+          }
+        ]
       }
     ],
     "kabardian": "1эбжьанэ",
@@ -7430,12 +7451,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "hairbrush",
-        "examples": []
-      },
-      {
-        "meaning": "comb",
-        "examples": []
+        "meaning": "hairbrush; comb",
+        "examples": [
+          {
+            "sentence": "Пшъашъэм '''мажьэк1э''' ышъхьэц ежьы",
+            "translation": "The girl brushes her hair '''using the hairbrush'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -15446,6 +15468,14 @@
           {
             "sentence": "Псым ухэк1ыжьмэ 1эплъэк1ык1э '''зылъэк1ыжь'''",
             "translation": "When you will come out from the water '''brush yourself''' with a towel."
+          },
+		  {
+            "sentence": "Пшъашъэм цэлъэк1эк1э ыцэхэр '''елъэк1ых'''",
+            "translation": "The girl '''brushes''' her teeth using the toothbrush."
+          },
+		  {
+            "sentence": "Уцэхэр тэрэзэу '''лъэк1ых'''",
+            "translation": "'''Brush''' your teeth appropriately."
           }
         ]
       },
@@ -15479,6 +15509,24 @@
     "kabardian": "лъэк1ын (to be capable of); лъэщ1ын (to brush)",
     "type": "verb",
     "ipa": "ɬat͡ʃʼən"
+  },
+  {
+    "word": "телъэк1ык1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to wipe off from something's surface",
+        "examples": [
+          {
+            "sentence": "Ш1оир 1анэр к1алэм '''телъэк1ык1ы'''",
+            "translation": "The boy '''wipes''' the dirty stuff '''from''' the table"
+          }
+        ]
+      }
+    ],
+    "shapsug": "телъэк1ык1ьын",
+    "type": "verb",
+    "ipa": "tajɬat͡ʃʼət͡ʃʼən"
   },
   {
     "word": "бжъакъо",
@@ -31915,12 +31963,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to comb",
-        "examples": []
-      },
-      {
-        "meaning": "to brush hair",
-        "examples": []
+        "meaning": "to comb; to brush hair",
+        "examples": [
+          {
+            "sentence": "Пшъашъэм мажьэк1э ышъхьэц '''ежьы'''",
+            "translation": "The girl '''brushes''' her hair using the hairbrush."
+          },
+		  {
+            "sentence": "Ушъхьэц тэрэзэу '''жьы'''",
+            "translation": "'''Brush''' your hair appropriately."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -46311,8 +46364,58 @@
             "translation": "Eat '''and then''' go to school."
           },
           {
-            "sentence": "'''Ет1анэ''' джабгъумк1э жъугъази метришъэ шъук1у",
-            "translation": "'''And then''' go right for a hundred meters."
+            "sentence": "Джабгъумк1э зыгъази '''ет1анэ''' метеришъэ занк1эу к1о",
+            "translation": "Turn right '''and then''' go straight for a hundred meters."
+          }
+        ]
+      },
+	  {
+        "meaning": "later",
+        "examples": [
+          {
+            "sentence": "'''Ет1анэк1э''' тыгъэк1у тучаным",
+            "translation": "Let's go '''later''' to the shop."
+          },
+          {
+            "sentence": "'''Ет1анэ''' тэ чэщдэсым тыкъэк1ощт",
+            "translation": "'''Later''' we will come to the party."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "ет1уанэ"
+    ],
+    "type": "adv",
+    "ipa": "jatʼaːna"
+  },
+  {
+    "word": "ет1анэк1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "and then",
+        "examples": [
+          {
+            "sentence": "Шхи '''ет1анэк1э''' еджап1эм к1о",
+            "translation": "Eat '''and then''' go to school."
+          },
+          {
+            "sentence": "Джабгъумк1э зыгъази '''ет1анэк1э''' метеришъэ занк1эу к1о",
+            "translation": "Turn right '''and then''' go straight for a hundred meters."
+          }
+        ]
+      },
+	  {
+        "meaning": "later",
+        "examples": [
+          {
+            "sentence": "'''Ет1анэк1э''' тыгъэк1у тучаным",
+            "translation": "Let's go '''later''' to the shop."
+          },
+          {
+            "sentence": "'''Ет1анэк1э''' тэ чэщдэсым тыкъэк1ощт",
+            "translation": "'''Later''' we will come to the party."
           }
         ]
       }
@@ -46425,6 +46528,18 @@
     "ipa": "ɕaːɡʷit͡ʃəpʼa"
   },
   {
+    "word": "щагу ик1ып1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "toilet, restroom",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ɕaːɡʷit͡ʃəpʼa"
+  },
+  {
     "word": "джыри",
     "lang": "Adyghe",
     "definitions": [
@@ -46432,8 +46547,16 @@
         "meaning": "again",
         "examples": [
           {
+            "sentence": "тхыдэр '''джыри''' къэ1отэжь",
+            "translation": "tell the story '''again'''."
+          },
+		  {
             "sentence": "'''джыри''' ощхыр къыублагъ",
             "translation": "it began to rain '''again'''."
+          },
+		  {
+            "sentence": "'''джыри''' къэхь колэ",
+            "translation": "bring cola '''again'''."
           },
           {
             "sentence": "ар '''джыри''' къэгужъуагъ",
@@ -46447,7 +46570,7 @@
       }
     ],
     "type": "adv",
-    "ipa": "d͡ʒəri"
+    "ipa": "d͡ʒərəj"
   },
   {
     "word": "къэгъэлъэгъоны",
@@ -46491,7 +46614,7 @@
         "meaning": "to demonstrate",
         "examples": [
           {
-            "sentence": "К1элэегъаджэм '''къегъэлъэгъо''' таущтэу упч1эр къыч1ыбгъэк1ыжьыщт",
+            "sentence": "К1элэегъаджэм '''къегъэлъэгъо''' таущтэу упч1эр къык1эбгъэк1ыжьыщт",
             "translation": "The teacher '''demonstrate''' how to solve the question."
           }
         ]
@@ -46505,7 +46628,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "pool",
+        "meaning": "swimming pool",
         "examples": []
       }
     ],
@@ -46517,7 +46640,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "very loud",
+        "meaning": "(slightly) too loud",
         "examples": [
           {
             "sentence": "Т1эк1у '''лъэшы1о'''",
@@ -46562,7 +46685,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to show",
+        "meaning": "to show someone; to make someone see",
         "examples": [
           {
             "sentence": "Сэ '''къыозгъэлъэгъущт'''",
@@ -46573,8 +46696,8 @@
             "translation": "The boy '''shows''' his sister the film."
           },
           {
-            "sentence": "'''Егъэлъэгъу''' гъогор",
-            "translation": "'''Show''' him the road."
+            "sentence": "'''Егъэлъэгъу''' к1элэц1ык1ум гъогур",
+            "translation": "'''Show''' the kid the road."
           }
         ]
       }
@@ -46594,15 +46717,15 @@
             "translation": "'''Are you waiting''' for someone?"
           },
           {
-            "sentence": "К1алэм пшъашъым '''паплъэ'''",
-            "translation": "The boy '''is waiting''' for the girl."
+            "sentence": "Хъулъфыгъэр мэш1окум '''паплъэ'''",
+            "translation": "The man '''is waiting''' for the train."
           },
           {
             "sentence": "'''Шъукъэспаплъ'''",
             "translation": "'''Wait for me''' (said to plural)."
           },
           {
-            "sentence": "К1алэм '''cпэплъэрагъоп'''",
+            "sentence": "К1алэм '''cыпэплъэнэу''' сыфаеп",
             "translation": "'''I don't want to wait''' for the boy."
           },
           {
@@ -46610,7 +46733,7 @@
             "translation": "'''Don't wait''' for the boy."
           },
           {
-            "sentence": "К1алэр '''пэплъагъ''' Томым, пшъашъэр '''пэплъэт''' Дэянэм",
+            "sentence": "К1алэр '''пэплъагъ''' Томым, пшъашъэр '''пэплъэщт''' Дэянэм",
             "translation": "The boy '''waited''' for Tom, the girl '''will wait''' for Diana."
           }
         ]
@@ -46630,7 +46753,7 @@
         "meaning": "travel guide",
         "examples": [
           {
-            "sentence": "'''Гъогурыгъуазэр''' зыдапштэ пшIоигъуа?",
+            "sentence": "'''Гъогурыгъуазэр''' зыдапштэ пш1оигъуа?",
             "translation": "Do you want to take a '''travel guide'''?"
           }
         ]
@@ -46648,9 +46771,7 @@
         "examples": []
       }
     ],
-    "synonyms": [
-      "гъошэгь"
-    ],
+    "shapsug": "гъошэгь; гъочэгь",
     "kabardian": "гъуэншэдж",
     "type": "noun",
     "ipa": "ʁʷant͡ʃad͡ʒ"
@@ -46664,6 +46785,7 @@
         "examples": []
       }
     ],
+    "kabardian": "щ1ак1уэ",
     "type": "noun",
     "ipa": "t͡ʃaːkʷʼa"
   },
@@ -46688,7 +46810,12 @@
     "definitions": [
       {
         "meaning": "shoe",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Щырыкъу''' дахэ щыгъ",
+            "translation": "(S)he is wearing a beautiful '''shoes'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -46715,7 +46842,12 @@
     "definitions": [
       {
         "meaning": "nail clipper",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''1эбжъэнэпыупк1ык1э''' пшъашъэм ы1эпжъанэхэр преупк1ых",
+            "translation": "The girl cuts her fingernails using the '''nail clipper'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -46726,16 +46858,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "hairbrush",
-        "examples": []
-      },
-      {
-        "meaning": "comb",
-        "examples": []
+        "meaning": "hairbrush; comb",
+         "examples": [
+          {
+            "sentence": "Пшъашъэм '''шъхьэмажьэк1э''' ышъхьэц ежьы",
+            "translation": "The girl brushes her hair '''using the hairbrush'''."
+          }
+        ]
       }
     ],
     "synonyms": [
-      "мажь"
+      "мажьэ"
     ],
     "type": "noun",
     "ipa": "ʂħamaːʑa"
@@ -46746,7 +46879,16 @@
     "definitions": [
       {
         "meaning": "toothbrush",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Пшъашъэм '''цэлъэк1эк1э''' ыцэхэр елъэк1ых",
+            "translation": "The girl brushes her teeth using the '''toothbrush'''."
+          },
+		  {
+            "sentence": "Уцэхэр тэрэзэу '''цэлъэк1эк1э''' лъэк1ых",
+            "translation": "Brush your teeth appropriately '''with the toothbrush'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -46772,21 +46914,6 @@
     "ipa": "zʁapst͡ʃʼən"
   },
   {
-    "word": "зыгъэпсык1ьын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"зыгъэпсык1ын\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "зыгъэпсык1ын"
-    ],
-    "type": "verb",
-    "ipa": "zʁapskʲən"
-  },
-  {
     "word": "к1асэ",
     "lang": "Adyghe",
     "definitions": [
@@ -46794,19 +46921,21 @@
         "meaning": "late",
         "examples": [
           {
-            "sentence": "'''КIасэу''' сыкъэкIожьы сшIоигъоп",
+            "sentence": "'''К1асэу''' сыкъэк1ожьы сш1оигъоп",
             "translation": "I don’t want to arrive '''late'''."
           },
           {
-            "sentence": "'''КIасэ''' хъугъэ",
+            "sentence": "'''К1асэ''' хъугъэ",
             "translation": "It is already '''late'''."
+          },
+		  {
+            "sentence": "Сызык1ежьэжьыгъэр '''к1асэ''' хъугъэшъ ары",
+            "translation": "I’m going''' because it is '''late''' already."
           }
         ]
       }
     ],
-    "synonyms": [
-      "к1ьасэ"
-    ],
+    "shapsug": "к1ьасэ",
     "type": "adj",
     "ipa": "t͡ʃʼaːsa"
   },
@@ -46827,29 +46956,21 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "separately",
+        "meaning": "separately; one by one",
         "examples": [
           {
-            "sentence": "'''Шъхьаф-шъхьафэу''' ыпкIэ къэтты хъущта?",
+            "sentence": "'''Шъхьаф-шъхьафэу''' ыпк1э къэтты хъущта?",
             "translation": "May we pay '''separately'''?"
+          },
+		  {
+            "sentence": "Ахъщэр '''шъхьаф-шъхьафэу''' ыгъэт1ылъыгъ",
+            "translation": "(S)he saved money '''one by one'''."
           }
         ]
       }
     ],
     "type": "adj",
     "ipa": "ʂħaːf ʂħaːfaw"
-  },
-  {
-    "word": "мэпшъын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"пшъын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "mapʂən"
   },
   {
     "word": "зэк1ежьэжьын",
@@ -46860,7 +46981,7 @@
         "examples": [
           {
             "sentence": "'''Сызык1ежьэжьыгъэр''' к1асэ хъугъэшъ ары",
-            "translation": "'''I’m going''' because it is already late."
+            "translation": "'''I’m going''' because it is late already."
           },
           {
             "sentence": "'''Сызык1ежьэжьырэр''' сыпшъыгъэшъ ары",
@@ -46881,7 +47002,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to become unwell; to become slightly ill",
+        "meaning": "to become unwell; to become (slightly) ill",
         "examples": [
           {
             "sentence": "'''Сыгъойщэягъ'''",
@@ -46907,6 +47028,10 @@
           {
             "sentence": "Сэ '''сылымышх'''",
             "translation": "'''I am a vegetarian'''."
+          },
+		  {
+            "sentence": "'''Лымышхыр''' ц1ыфэу лы зимышхырэр ары",
+            "translation": "'''A vegetarian''' is a person that eats no meat."
           }
         ]
       }
@@ -46938,8 +47063,8 @@
             "translation": "The pants '''is on him'''."
           },
           {
-            "sentence": "К1алэмэ яджанэхэр '''ящыгъэх'''",
-            "translation": "The boys '''are wearing''' their shirts."
+            "sentence": "К1алэмэ яджанэ дахэрэр '''ящыгъэх'''",
+            "translation": "The boys '''are wearing''' their beautiful clothes."
           }
         ]
       }
@@ -46967,16 +47092,16 @@
             "translation": "The boy '''is not wearing''' a shirt."
           },
           {
-            "sentence": "Джанэ джадэр '''щыслъэшъурэп'''",
-            "translation": "'''I can't wear''' the big shirt."
+            "sentence": "Джанэ ц1ык1ур '''щыслъэшъурэп'''",
+            "translation": "'''I can't wear''' the tiny shirt."
           },
           {
             "sentence": "Гъончэджэр '''щылъ'''",
             "translation": "'''Wear''' the pants."
           },
           {
-            "sentence": "К1алэмэ яджанэхэр '''щалъэх'''",
-            "translation": "The boys '''are wearing''' their shirts."
+            "sentence": "К1алэмэ яджанэ дахэхэр '''щалъэх'''",
+            "translation": "The boys '''are wearing''' their beautiful clothes."
           }
         ]
       }
@@ -66116,7 +66241,12 @@
     "definitions": [
       {
         "meaning": "table",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''1анэхэр''' шъхьаф-шъхьафэу къэхьых",
+            "translation": "Bring the '''tables''' separately."
+          }
+        ]
       },
       {
         "meaning": "table (three-legged)",
@@ -73270,6 +73400,10 @@
           {
             "sentence": "Слъэбжъанэхэр '''пысыупк1ын''' фаех",
             "translation": "'''I''' need '''to cut''' my toenails."
+          },
+          {
+            "sentence": "1эбжъэнэпыупк1ык1э пшъашъэм ы1эбжъанэр '''преупк1ых'''",
+            "translation": "The girl '''cuts''' her fingernails using the nail clipper."
           }
         ]
       }
@@ -80480,6 +80614,10 @@
           {
             "sentence": "Бэрэ учъымэ '''упшъыщт'''",
             "translation": "If you run a lot '''you will get tired'''."
+          },
+		  {
+            "sentence": "Сызык1ежьэжьырэр '''сыпшъыгъэшъ''' ары",
+            "translation": "I’m going because '''I’m tired'''."
           }
         ]
       }
