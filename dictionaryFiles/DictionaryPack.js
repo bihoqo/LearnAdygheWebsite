@@ -5955,6 +5955,10 @@
           {
             "sentence": "зэ1ушъух Инджылыбзэ '''тхылъыхэр''' теджэнфэщк1э",
             "translation": "Open your '''books''' that we could study."
+          },
+          {
+            "sentence": "Тхылъ1ыгъып1эм сык1онышъ, '''тхылъ''' къисхынэу сыфай",
+            "translation": "I want to go to the library to borrow '''a book'''."
           }
         ]
       }
@@ -47131,13 +47135,30 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "eyeglasses",
-        "examples": []
+        "meaning": "glasses; eyeglasses",
+        "examples": [
+          {
+            "sentence": "К1алэм '''нэгъунджэхэр''' зытелъхьэх",
+            "translation": "The boy puts on '''glasses'''."
+          }
+        ]
       }
     ],
     "shapsug": "нэгъургьэ",
     "type": "noun",
     "ipa": "naʁʷənd͡ʒa"
+  },
+  {
+    "word": "те1эбэш1эхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to touch all over something",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "tajʔabaʃʷaħaːn"
   },
   {
     "word": "хьэдэтехъу",
@@ -47152,21 +47173,37 @@
     "ipa": "ħadatajχʷ"
   },
   {
+    "word": "зэофал1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "someone who's thursy to fight",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "zawafaːɬʼ"
+  },
+  {
     "word": "чъы1э л1эн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be cold, to freeze from cold",
+        "meaning": "to be cold; to feel cold",
         "examples": [
           {
-            "sentence": "Чэщым удэк1мэ '''чъы1э ул1эт'''",
+            "sentence": "Чэщым удэк1ымэ '''чъы1э ул1эщт'''",
             "translation": "If you go out at night '''you will be cold'''."
+          },
+		  {
+            "sentence": "'''чъы1э сэл1э'''",
+            "translation": "'''I am cold'''."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "t͡ʃəʔa ɬʼan"
+    "ipa": "t͡ʂəʔa ɬʼan"
   },
   {
     "word": "чъы1э",
@@ -47174,7 +47211,16 @@
     "definitions": [
       {
         "meaning": "cold",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ныпчыхьэ '''чъы1э'''",
+            "translation": "Tonight '''is cold'''."
+          },
+		  {
+            "sentence": "Сыдэу '''чъы1э''' мы шхыныр",
+            "translation": "This food is so '''cold'''."
+          }
+        ]
       }
     ],
     "kabardian": "щ1ы1э",
@@ -47186,7 +47232,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "very cold",
+        "meaning": "too cold",
         "examples": [
           {
             "sentence": "Псыр '''чъы1а1о'''.",
@@ -47199,6 +47245,44 @@
     "ipa": "t͡ʂəʔaːʔʷa"
   },
   {
+    "word": "зыпэц1эжьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(vulgar) to have the urge to take a shit",
+        "examples": [
+          {
+            "sentence": "Сэ '''сызыпэц1эжьы'''",
+            "translation": '''I want to take a shit'''."
+          },
+		  {
+            "sentence": "'''Узыпэц1эжьа?'''",
+            "translation": '''Do you want to take a shit?'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zəpat͡sʼaʑən"
+  },
+  {
+    "word": "зыпэц1ырык1ыжьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(vulgar) to have the urge to take a shit",
+        "examples": [
+          {
+            "sentence": "Сэ '''сызпэц1эрык1ыжьы'''",
+            "translation": '''I want to take a shit'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zəpat͡sʼarət͡ʃʼəʑən"
+  },
+  {
     "word": "тэкъон",
     "lang": "Adyghe",
     "definitions": [
@@ -47206,7 +47290,7 @@
         "meaning": "to crumble",
         "examples": [
           {
-            "sentence": "Хьалыгъор '''мэтакъо'''",
+            "sentence": "Хьалыгъур '''мэтакъо'''",
             "translation": "The bread is '''crumbling'''."
           }
         ]
@@ -47221,7 +47305,12 @@
     "definitions": [
       {
         "meaning": "to crumble",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Хьалыгъур '''мэушкъои'''",
+            "translation": "The bread is '''crumbling'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -47283,18 +47372,6 @@
     "ipa": "ʁazjatɕaːpʼa"
   },
   {
-    "word": "нэ1азэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "optician",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "naʔaːza"
-  },
-  {
     "word": "хьалыгъущап1э",
     "lang": "Adyghe",
     "definitions": [
@@ -47310,6 +47387,18 @@
     ],
     "type": "noun",
     "ipa": "ħaːləʁʷɕaːpʼa"
+  },
+  {
+    "word": "хьалыгъугъажъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "baker",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ħaːləʁʷʁaʐ"
   },
   {
     "word": "хьалыгъугъэжъап1э",
@@ -47400,6 +47489,7 @@
         ]
       }
     ],
+    "shapsug": "нысэпхъапэ",
     "type": "noun",
     "ipa": "nəsχaːpa"
   },
@@ -47546,16 +47636,13 @@
     "ipa": "dəʂat͡ʃ"
   },
   {
-    "word": "1аш1у 1уш1у",
+    "word": "1аш1у-1уш1у",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"1аш1у-1уш1у\"",
+        "meaning": "alternative form of \"1эш1у-1уш1у\"",
         "examples": []
       }
-    ],
-    "synonyms": [
-      "1аш1у-1уш1у"
     ],
     "type": "noun",
     "ipa": "ʔaːʃʷʼə ʔʷəʃʷʼ"
@@ -47566,11 +47653,21 @@
     "definitions": [
       {
         "meaning": "bag, sack",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Тхылъхэр '''1алъмэкъ''' илъхьах",
+            "translation": "Put the books inside the '''bag'''."
+          }
+        ]
       },
       {
         "meaning": "handbag",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Шхынхэр '''1алъмэкъ''' илъых",
+            "translation": "The foods are in the '''handbag'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -47593,11 +47690,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "boss, manager",
+        "meaning": "head; boss; manager",
         "examples": [
           {
             "sentence": "Ар '''ти1эшъхьэтет'''",
             "translation": "That is '''our boss'''."
+          },
+		  {
+            "sentence": "1офш1ап1эм '''и1эшъхьэтет'''",
+            "translation": "'''The manager of''' work."
+          },
+		  {
+            "sentence": "Хэгъэгум '''и1эшъхьэтет'''",
+            "translation": "'''The head of''' the country."
           }
         ]
       }
@@ -47648,7 +47753,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "unemployed",
+        "meaning": "unemployed; workless; jobless",
         "examples": [
           {
             "sentence": "'''1офш1энынчъэу''' мы къэралыгъом исыр бэ дэд",
@@ -47661,6 +47766,23 @@
     "ipa": "ʔʷafʃʼanənt͡ʂa"
   },
   {
+    "word": "дэдзагъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(slang) unemployed",
+        "examples": [
+          {
+            "sentence": "Л1ыр '''дэдзагъ'''",
+            "translation": "The man '''is unemployed'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "dad͡zaːʁ"
+  },
+  {
     "word": "1оржъор",
     "lang": "Adyghe",
     "definitions": [
@@ -47668,7 +47790,7 @@
         "meaning": "twaddler, babbler",
         "examples": [
           {
-            "sentence": "ЦIыф 1оржъор",
+            "sentence": "Ц1ыф '''1оржъор'''",
             "translation": "A '''babbler''' person."
           }
         ]
@@ -47696,24 +47818,24 @@
             "translation": "He is '''bored'''."
           },
           {
-            "sentence": "Ар '''зэщырэп'''",
-            "translation": "He is '''not bored'''."
+            "sentence": "К1алэр '''зэщырэп'''",
+            "translation": "The boy is '''not bored'''."
           },
           {
-            "sentence": "'''Себыгъэзащы'''",
-            "translation": "'''You bored me'''."
+            "sentence": "'''Себыгъэзэщы'''",
+            "translation": "'''You are boring me'''."
           },
           {
-            "sentence": "К1алэм пшъашъэр '''регъэзащы'''",
-            "translation": "The boy is '''boring''' the girl."
+            "sentence": "К1алэм пшъашъэр '''ригъэзэщыгъ'''",
+            "translation": "The boy is '''bored''' the girl."
           },
           {
-            "sentence": "К1алэм '''Серегъэзащы'''",
+            "sentence": "К1алэм '''cырегъэзэщы'''",
             "translation": "The boy '''is boring''' me."
           },
           {
-            "sentence": "Л1ыжъхэмэ '''урагъэзэщыт'''",
-            "translation": "The old men '''will bore''' you."
+            "sentence": "Л1ыжъыхэмэ '''урагъэзэщыщт'''",
+            "translation": "The old-men '''will bore''' you."
           }
         ]
       }
@@ -47730,6 +47852,10 @@
         "meaning": "to be hungry",
         "examples": [
           {
+            "sentence": "К1алэр '''мэлак1э''' л1агъэ",
+            "translation": "The boy was '''hungry'''."
+          },
+		  {
             "sentence": "Шъо '''шъумэлак1а'''?",
             "translation": "Are you '''hungry'''? (said to plural)"
           },
@@ -47751,6 +47877,10 @@
         "meaning": "to be thirsty",
         "examples": [
           {
+            "sentence": "К1алэр '''псы фал1э'''",
+            "translation": "The boy '''is thirsty'''."
+          },
+		  {
             "sentence": "Ахэр '''псы фэл1эх'''",
             "translation": "'''They are thirsty'''."
           },
@@ -47792,20 +47922,16 @@
         "meaning": "headache",
         "examples": [
           {
-            "sentence": "'''Шъхьэузым''' бэрэ сегъэгумэкIы",
+            "sentence": "'''Шъхьэузым''' бэрэ се1э",
             "translation": "I often have '''headaches'''."
           },
           {
-            "sentence": "А пшъашъэм '''шъхьэузым''' къысеты",
+            "sentence": "А пшъашъэм '''шъхьэуз''' къысеты",
             "translation": "That girl gives me a '''headache'''."
           },
           {
-            "sentence": "Узым '''шъхьэузым''' къысеты",
+            "sentence": "Узым '''шъхьэуз''' къысеты",
             "translation": "That illness gives me a '''headache'''."
-          },
-          {
-            "sentence": "Чъы1эм '''шъхьэузым''' къуитыт",
-            "translation": "The cold will give you a '''headache'''."
           },
           {
             "sentence": "'''Шъхьэузы''' си1",
@@ -97343,6 +97469,10 @@
           {
             "sentence": "1офы бэу еджап1эмк1э '''къэсталъхьагъ'''",
             "translation": "'''They gave me''' a lot of tasks in school."
+          },
+		  {
+            "sentence": "К1алэм нэгъунджэхэр '''зытелъхьэх'''",
+            "translation": "The boy '''puts on''' glasses."
           }
         ]
       }
