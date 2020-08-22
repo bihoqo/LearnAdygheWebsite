@@ -5713,7 +5713,12 @@
     "definitions": [
       {
         "meaning": "snow",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1элэц1ык1ум осыл1 '''осым''' хеш1ыхьэ",
+            "translation": "The boy makes a snowman in '''the snow'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -35852,6 +35857,10 @@
 		  {
             "sentence": "к1алэр километыр чъэн '''ы1уагъ'''",
             "translation": "the boy '''tried''' to run one kilometer."
+          },
+          {
+            "sentence": "К1алэм Адыгэбзэк1э гущы1ак1э зэригъэш1эн '''е1о'''",
+            "translation": "The boy '''is trying''' to learn how to speak the Adyghe language."
           }
         ]
       }
@@ -47998,15 +48007,47 @@
     "ipa": "txət͡sʼa"
   },
   {
+    "word": "лъэшын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to become stronger, to intensify, to gain strength",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɬaʃən"
+  },
+  {
+    "word": "гъэлъэшын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to make stronger, to intensify something, to grand strength",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʁaɬaʃən"
+  },
+  {
     "word": "лъэшы",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "strong, powerful",
+        "meaning": "strong; powerful",
         "examples": [
           {
             "sentence": "Ы1эхэр '''лъэшых'''",
             "translation": "His arms '''are strong'''."
+          },
+		  {
+            "sentence": "Тихэгъэгу къэралыгъо '''лъэш'''",
+            "translation": "Our country is a '''powerful''' state."
+          },
+		  {
+            "sentence": "К1алэр отычк1э '''лъэшэу''' чъыгым еуагъ",
+            "translation": "The boy stroke the tree '''powerfully''' with the axe."
           }
         ]
       },
@@ -48028,6 +48069,9 @@
         "examples": []
       }
     ],
+    "synonyms": [
+      "к1уач1э"
+    ],
     "kabardian": "лъэщ",
     "type": "adj",
     "ipa": "ɬaʃə"
@@ -48037,8 +48081,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "coat",
-        "examples": []
+        "meaning": "overcoat; topcoat",
+        "examples": [
+          {
+            "sentence": "К1алэм '''ипалътэу''' зыщихыгъ",
+            "translation": "The boy takes off '''his overcoat'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -48050,18 +48099,48 @@
     "definitions": [
       {
         "meaning": "snowman",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1элэц1ык1ум '''осыл1''' осым хеш1ыхьэ",
+            "translation": "The boy makes '''a snowman''' in the snow."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "wasəɬʼ"
   },
   {
+    "word": "хэш1ыхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to make/build something within a mass of liquid; gas or solid",
+        "examples": [
+          {
+            "sentence": "К1элэц1ык1ум осыл1 осым '''хеш1ыхьэ'''",
+            "translation": "The boy '''makes''' a snowman '''in''' the snow."
+          },
+		  {
+            "sentence": "Хым унэ '''хэпш1ыхьашъущтэп'''",
+            "translation": "'''You can't make''' a house '''in''' the house."
+          },
+		  {
+            "sentence": "К1алэм чъыгым сурэт '''хиш1ыхьагъ'''",
+            "translation": "The boy '''made''' a picture '''on''' the tree."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "xaʃʼəħaːn"
+  },
+  {
     "word": "зэгъэш1эн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to learn",
+        "meaning": "to learn; to make oneself know",
         "examples": [
           {
             "sentence": "'''Зэгъаш1!'''",
@@ -48072,24 +48151,28 @@
             "translation": "The boy '''is learning''' the Adyghe language."
           },
           {
+            "sentence": "К1алэм Адыгэбзэк1э гущы1ак1э '''зэригъэш1эн''' е1о",
+            "translation": "The boy is trying '''to learn''' how to speak the Adyghe language."
+          },
+          {
             "sentence": "'''Зэсэгъаш1э'''",
             "translation": "'''I am learning'''."
           },
           {
             "sentence": "'''Зэтэгъаш1э''' урысыбзэ",
-            "translation": "'''We are learning''' the Russian language.."
+            "translation": "'''We are learning''' the Russian language."
           },
           {
-            "sentence": "'''Зэшъогъаш1э''' шъупчъык1э",
-            "translation": "'''You are learning''' to count. (said to plural)."
+            "sentence": "'''Зэбэгъаш1а''' упчъык1э?",
+            "translation": "'''Are you learning''' how to count?"
           },
           {
-            "sentence": "'''Зэбгъэш1агъэ''' укъэшъонэ?",
-            "translation": "'''Did you learned''' to dance?"
+            "sentence": "'''Зэбгъэш1агъа''' къэшъуак1э?",
+            "translation": "'''Did you learn''' how to dance?"
           },
           {
-            "sentence": "К1алэм '''зыригъэш1агъ''' мэтхэнэ",
-            "translation": "the boy '''learned''' to write."
+            "sentence": "К1алэм '''зэригъэш1агъ''' тхэнэу",
+            "translation": "The boy '''learned''' to write."
           }
         ]
       }
@@ -48102,7 +48185,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to ask a question",
+        "meaning": "to ask",
         "examples": [
           {
             "sentence": "К1алэр пшъашъэм '''еупч1ы''' сыд ыц1э",
@@ -48113,12 +48196,12 @@
             "translation": "'''I am asking you''' what you want?"
           },
           {
-            "sentence": "Томэр '''къысэупч1ыгъ''' сыдигъо тыдэк1ы",
+            "sentence": "Томыр '''къысэупч1ыгъ''' сыдигъо тыдэк1ы",
             "translation": "Tom '''asked''' me when we are going out."
           },
           {
             "sentence": "Пшъашъэм '''сеупч1ынэу''' сыфай сырик1асэмэ",
-            "translation": "'''I wanna ask''' the girl if she likes me."
+            "translation": "'''I want to ask''' the girl if she likes me."
           },
           {
             "sentence": "'''еупч1ы''' къытдэшхэщтымэ",
@@ -48127,6 +48210,7 @@
         ]
       }
     ],
+    "kabardian": "упщ1эн",
     "type": "verb",
     "ipa": "wəpt͡ʃʼan"
   },
@@ -48135,31 +48219,31 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to reply, to answer",
+        "meaning": "to give reply; to give answer",
         "examples": [
           {
             "sentence": "Пшъашъэм к1алэм '''джэуап ритыгъ'''",
-            "translation": "The girl '''replied''' the boy."
+            "translation": "The girl '''replied to''' the boy."
           },
           {
             "sentence": "'''Джэуап къысэт''' сыд уфаемк1э?",
             "translation": "'''reply me''' in what you want?"
           },
           {
-            "sentence": "Томэр '''джэуап''' к1алэм '''ритыгъэп''' сыдигъо дэк1ыщтых",
-            "translation": "Tom '''didn't reply''' the boy about when they gonna go out."
+            "sentence": "Томыр '''джэуап''' к1алэм '''ритыгъэп''' сыдигъо дэк1ыщтых",
+            "translation": "Tom '''did not reply''' the boy about when they are going to go out."
           },
           {
             "sentence": "'''Джэуап къысэмыт!'''",
-            "translation": "'''Don't reply me!'''."
+            "translation": "'''Don't answer me!'''."
           },
           {
             "sentence": "Пшъашъэм '''джэуап реты''' к1алэм ик1асэмэ",
             "translation": "The girl '''is replying''' the boy if she likes him."
           },
           {
-            "sentence": "'''Джэуап естыщт''' шхэщтымэ",
-            "translation": "'''I will answer him''' if he gonna eat."
+            "sentence": "'''Джэуап естыщт''' ежь шхэщтымэ",
+            "translation": "'''I will answer him''' if he is going to eat."
           }
         ]
       }
@@ -48175,7 +48259,7 @@
         "meaning": "answer",
         "examples": [
           {
-            "sentence": "Тестымк1э '''джэуап''' тэрэзэр къэшъугъэк1эхь.",
+            "sentence": "Тестымк1э '''джэуап''' тэрэзэр къэшъугъэчъыхь.",
             "translation": "In the test circle the right '''answer'''."
           }
         ]
@@ -48188,38 +48272,42 @@
     "ipa": "d͡ʒawaːp"
   },
   {
-    "word": "къэгъэчэхьан",
+    "word": "къэухъурэин",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to circle",
+        "meaning": "to circle; to encircle",
         "examples": [
           {
-            "sentence": "Тестымк1э джэуап тэрэзэр '''къэшъугъэчэхь'''",
-            "translation": "In the test circle the right answer."
+            "sentence": "Тестымк1э джэуап тэрэзэр '''къэшъугъэухъурэй'''",
+            "translation": "In the test '''circle''' the right answer."
           },
           {
-            "sentence": "'''къэгъэчэхь''' мэлхэр",
-            "translation": "'''Circle''' the sheeps."
+            "sentence": "'''Къэухъурэй''' мэлхэр",
+            "translation": "'''Encircle''' the sheeps."
           },
           {
-            "sentence": "'''къэсэгъэчэхьы''' чъыгыхэр",
-            "translation": "'''I circle''' the trees."
+            "sentence": "'''Къэсэухъурэи''' чъыгыхэр",
+            "translation": "'''I am encircling''' the trees."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "qaʁat͡ʃaħən"
+    "ipa": "qawχʷərajən"
   },
   {
     "word": "псэун",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to live (To have permanent residence somewhere, to inhabit)",
+        "meaning": "to live (to have permanent residence somewhere, to inhabit)",
         "examples": [
           {
+            "sentence": "Сэ Туркуям '''сыщэпсэу'''",
+            "translation": "'''I live''' in Turkey."
+          },
+		  {
             "sentence": "'''Узыщыпсэурэр''' Берлина?",
             "translation": "Do '''you live''' in Berlin?"
           },
@@ -48228,7 +48316,7 @@
             "translation": "Yes, '''I live''' in Berlin."
           },
           {
-            "sentence": "Т1эк1у ш1агъа мыщ '''узыщыпсэурэр?'''",
+            "sentence": "Бэ ш1агъа мыщ '''узыщыпсэурэр?'''",
             "translation": "Have '''you lived''' here long?"
           }
         ]
@@ -48236,6 +48324,21 @@
     ],
     "type": "verb",
     "ipa": "psawən"
+  },
+  {
+    "word": "къэк1ухьал",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "idler; lounger; a person that goes for a walk a lot",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "гъусэ пшъашъэ"
+    ],
+    "type": "noun",
+    "ipa": "pʂaʂaʁʷ"
   },
   {
     "word": "пшъэшъэгъу",
@@ -48249,7 +48352,7 @@
             "translation": "Do you have a '''girlfriend'''?"
           },
           {
-            "sentence": "'''Сипшъэшъэгъу''' къыдэсэк1охьы чылэр",
+            "sentence": "'''Сипшъэшъэгъу''' къыдэсэк1ухьэ чылэр",
             "translation": "I am walking around the village with '''my friend'''"
           }
         ]
@@ -48269,15 +48372,15 @@
         "meaning": "to be ready",
         "examples": [
           {
-            "sentence": "К1алэр дэк1нэу '''хьазыр'''.",
+            "sentence": "К1алэр дэк1ынэу '''хьазыр'''.",
             "translation": "The boy '''is ready''' to go out."
           },
           {
-            "sentence": "К1алэр дэхьэ '''сыхьазырэп'''.",
-            "translation": "The boy still '''isn't ready'''."
+            "sentence": "К1алэр джыри '''хьазырэп'''.",
+            "translation": "The boy is still '''not ready'''."
           },
           {
-            "sentence": "Мары '''сыхьазырыт'''.",
+            "sentence": "Мары '''сыхьазырыщт'''.",
             "translation": "In just a moment '''I will be ready'''."
           }
         ]
@@ -48299,73 +48402,73 @@
           },
           {
             "sentence": "К1алэм чэщдэс '''егъэухьазыры'''",
-            "translation": "The boy '''preparing''' a party."
+            "translation": "The boy '''is preparing''' a party."
           },
           {
             "sentence": "Мары '''сызгъэухьазырыщт'''",
             "translation": "A moment, '''I will get myself prepared'''."
           },
           {
-            "sentence": "К1алэм еджап1эм къыщи1ущтыхэр '''егъэухьазырых'''",
-            "translation": "The boy '''prepares''' the things he gonna say in school."
+            "sentence": "К1алэм еджап1эм къыщы1ощтыхэр '''егъэухьазырых'''",
+            "translation": "The boy '''prepares''' the things he is going to say in school."
           },
           {
-            "sentence": "Тэ еджап1эм къыщыт1ощтыхэр '''тыгъэухьазырыгъэхэп'''",
-            "translation": "We didn't '''prepare''' the things we gonna say in school."
+            "sentence": "Тэ классым къыщыт1ощтыхэр '''тыгъэухьазырыгъэхэп'''",
+            "translation": "We didn't '''prepare''' the things we are going to say in class."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "ħaːzərən"
+    "ipa": "ʁawħaːzərən"
   },
   {
     "word": "зыгъэухьазырын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to get ready",
+        "meaning": "to get ready; to ger prepared",
         "examples": [
           {
-            "sentence": "'''згъэухьазыр'''",
+            "sentence": "'''Зыгъэухьазыр'''",
             "translation": "'''Get ready'''."
           },
           {
-            "sentence": "К1алэм дэк1нэу '''зигъэухьазырэгъ'''",
+            "sentence": "К1алэм дэк1ынэу '''зигъэухьазырыгъ'''",
             "translation": "The boy '''got ready''' to go out."
           },
           {
-            "sentence": "'''зысгъэухьазыры''' сышхынэу",
+            "sentence": "'''Зэсэгъэухьазыры''' сышхэнэу",
             "translation": "'''I got ready''' to eat."
           },
           {
-            "sentence": "К1алэр дэхьэ '''зегъэухьазыры'''",
-            "translation": "The boy still '''getting ready'''."
+            "sentence": "К1алэм джыри '''зегъэухьазыры'''",
+            "translation": "The boy is still '''getting ready'''."
           },
           {
-            "sentence": "Мары '''зысзгъэухьазырыт'''",
+            "sentence": "Мары '''зызгъэухьазырыщт'''",
             "translation": "'''I will get ready''' soon."
           },
           {
-            "sentence": "'''зытгъэухьазыргъэп''' непэ",
+            "sentence": "'''Зыдгъэухьазырыгъэп''' непэ",
             "translation": "'''We didn't got ready''' today."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "ħaːzərən"
+    "ipa": "zəʁawħaːzərən"
   },
   {
     "word": "псэлъыхъо",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "boyfriend",
+        "meaning": "fiance; bridegroom (more specifically: a person in a period of development towards an intimate relationship wherein a couple get to know each other and decide if there will be an engagement, followed by marriage)",
         "examples": [
           {
-            "sentence": "Ау '''псэлъыхъо''' иI",
-            "translation": "But she already has '''a boyfriend'''."
+            "sentence": "Ащ '''псэлъыхъо''' и1",
+            "translation": "She has '''a fiance'''."
           }
         ]
       }
@@ -48378,15 +48481,27 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "different, separated",
+        "meaning": "different; separate",
         "examples": [
           {
-            "sentence": "'''шъхьафы''' ар",
+            "sentence": "'''Шъхьафы''' ар",
             "translation": "That's '''different'''."
           },
           {
-            "sentence": "'''шъхьафы''' горэ къахь",
+            "sentence": "'''Шъхьафы''' горэ къахь",
             "translation": "Bring something '''different'''."
+          },
+          {
+            "sentence": "Л1ым унэ шъхьаф '''шъхьаф''' и1",
+            "translation": "The man has a '''separate''' house."
+          },
+          {
+            "sentence": "Куджаныр унэ '''шъхьафым''' ис",
+            "translation": "Kujan is staying in a '''separate''' house."
+          },
+          {
+            "sentence": "Куджаным и1оф '''шъхьафы'''",
+            "translation": "Kujan's work is '''different'''."
           }
         ]
       }
@@ -48402,7 +48517,7 @@
         "meaning": "to take a haircut",
         "examples": [
           {
-            "sentence": "Сшъхьац '''къысфык1эупхъухьан''' плъэкIыщта?",
+            "sentence": "Сшъхьац '''къысфык1эупхъухьан''' плъэк1ыщта?",
             "translation": "Can you '''cut''' my hair?"
           },
           {
@@ -48410,21 +48525,21 @@
             "translation": "The boy '''took a haircut'''."
           },
           {
-            "sentence": "'''к1эсыупхъухьат'''",
+            "sentence": "'''к1эсыупхъухьэщт'''",
             "translation": "'''I will take a haircut'''."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "t͡ʃawpχʷəħaːn"
+    "ipa": "t͡ʃʼawpχʷəħaːn"
   },
   {
     "word": "дысы",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "steep, precipitous",
+        "meaning": "steep",
         "examples": [
           {
             "sentence": "Бгы дыс",
@@ -48433,19 +48548,19 @@
         ]
       },
       {
-        "meaning": "rude; cheeky",
+        "meaning": "harsh; abrupt (offensive, critical, or acrimonious); cheeky",
         "examples": [
           {
-            "sentence": "кIэлэцIыкIу '''дысых'''",
-            "translation": "'''Rude''' children"
+            "sentence": "к1элэц1ык1у '''дысы'''",
+            "translation": "'''Cheeky''' child"
           },
           {
-            "sentence": "джэуап дыс",
-            "translation": "Rude answer."
+            "sentence": "джэуап '''дыс'''",
+            "translation": "Harsh answer."
           },
           {
-            "sentence": "гущы1э дыс",
-            "translation": "Rude word."
+            "sentence": "гущы1э '''дыс'''",
+            "translation": "'''Harsh''' word."
           }
         ]
       }
@@ -48458,17 +48573,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "well behaved",
+        "meaning": "obedient, dutiful, a person that obeys",
         "examples": [
           {
-            "sentence": "кIэлэцIыкIу '''IорышIэх'''",
-            "translation": "'''well behaved''' child."
+            "sentence": "к1элэц1ык1у '''1орыш1эх'''",
+            "translation": "'''An obedient''' child."
           }
         ]
-      },
-      {
-        "meaning": "obedient, dutiful, a person that obeys",
-        "examples": []
       }
     ],
     "type": "adj",
@@ -48486,7 +48597,7 @@
             "translation": "The boy '''broke''' the table."
           },
           {
-            "sentence": "Апчэр '''сэубатэ'''",
+            "sentence": "Апчыр '''сэубатэ'''",
             "translation": "I am '''breaking''' the window."
           },
           {
@@ -48508,7 +48619,7 @@
     "ipa": "wəbatan"
   },
   {
-    "word": "зэхэубэтэхьан",
+    "word": "зэхэубэтыхьан",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -48520,7 +48631,7 @@
     "ipa": "zaxawbətaħaːn"
   },
   {
-    "word": "зэхэкъутэхьан",
+    "word": "зэхэкъутыхьан",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -48539,18 +48650,14 @@
         "meaning": "to talk a conversation with a potential romantic partner",
         "examples": [
           {
-            "sentence": "К1алэр '''мэпсалъыхъо'''",
+            "sentence": "К1алэр '''мэпсэлъыхъо'''",
             "translation": "The boy '''is talking'''."
           },
           {
-            "sentence": "К1алэр пшъашъэм '''дэпсалъыхъо'''",
+            "sentence": "К1алэр пшъашъэм '''дэпсэлъыхъо'''",
             "translation": "The boy '''is talking with''' the girl."
           }
         ]
-      },
-      {
-        "meaning": "to flirt",
-        "examples": []
       }
     ],
     "kabardian": "псэлъыхъун",
@@ -48562,7 +48669,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "graveyard",
+        "meaning": "alternative form of \"къэхалъэ\"",
         "examples": []
       }
     ],
@@ -48583,9 +48690,13 @@
             "sentence": "'''Занк1эу''' к1о",
             "translation": "Go '''right away'''."
           },
+		  {
+            "sentence": "Докторым '''занк1эу''' ыдэжь к1о",
+            "translation": "Go to the doctor '''right away'''."
+          },
           {
             "sentence": "К1алэр '''занк1эу''' еджагъэ",
-            "translation": "The boy studied''' right away'''."
+            "translation": "The boy called him/her '''right away'''."
           }
         ]
       }
@@ -90745,7 +90856,7 @@
         "meaning": "answer",
         "examples": [
           {
-            "sentence": "Тестымк1э '''пэгъодз''' тэрэзэр къэшъугъэк1эхь.",
+            "sentence": "Тестымк1э '''пэгъодз''' тэрэзэр къэшъугъэчъэхь.",
             "translation": "In the test circle the right '''answer'''."
           }
         ]
@@ -94461,7 +94572,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to circle something; to surround something",
+        "meaning": "to circle something; to encircle something; to surround something",
         "examples": [
           {
             "sentence": "Тиунэр къэцык1э '''къэгъэк1ухьагъ'''",
@@ -94484,7 +94595,44 @@
             "translation": "'''Circle''' the sheeps."
           },
           {
-            "sentence": "'''Къэсэгъэк1ухьы''' чъыгыхэр",
+            "sentence": "'''Къэсэгъэк1ухьэ''' чъыгыхэр",
+            "translation": "'''I circle''' the trees."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "qaʁakʷʼəħaːn"
+  },
+  {
+    "word": "къэгъэчъыхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to circle something; to encircle something; to surround something",
+        "examples": [
+          {
+            "sentence": "Тиунэр къэцык1э '''къэгъэчъыхьагъ'''",
+            "translation": "My house '''is surrounded''' with thorns."
+          },
+          {
+            "sentence": "Джэуап тэрэзыр '''къэгъэчъыхь'''",
+            "translation": "'''Circle''' the right answer."
+          },
+          {
+            "sentence": "Ц1ыфы делэк1э '''сыкъэгъэчъыхьагъ'''",
+            "translation": "'''I am surrounded''' with foolish people."
+          },
+          {
+            "sentence": "Тестымк1э джэуап тэрэзэр '''къэшъугъэчъыхь'''",
+            "translation": "In the test '''circle''' the right answer."
+          },
+          {
+            "sentence": "'''Къэгъэчъыхь''' мэлхэр",
+            "translation": "'''Circle''' the sheeps."
+          },
+          {
+            "sentence": "'''Къэсэгъэчъыхьэ''' чъыгыхэр",
             "translation": "'''I circle''' the trees."
           }
         ]

@@ -2376,7 +2376,7 @@
     "neighbor": "гъунэгъу"
   },
   {
-    "well-behaved": "1асэ; гъэсагъ"
+    "well-behaved": "гъэсагъэ; 1асэ; 1орыш1э (obedient)"
   },
   {
     "industrious": "нэутх"
@@ -4608,7 +4608,7 @@
     "to fix": "гъэтэрэзыжьын (recorrect); ш1ыжьын (to repair); дыжьын (to sew up), гъэцэк1эжьын (to mend)"
   },
   {
-    "to destroy": "гъэон; зэхэкъутэн; зэхэкъутэхьан; зэхэубэтэн; зэхэубэтэхьан; гъэухъэрэбын (from Arabic)"
+    "to destroy": "гъэон; зэхэкъутэн; зэхэкъутыхьан; зэхэубэтэн; зэхэубэтыхьан; гъэухъэрэбын (from Arabic)"
   },
   {
     "to ruin": "гъэон (to destroy, to spoil); гъэсэкъатын (to make something dysfunctional); унэхъун; гъэунэхъун; зэ1ыгъэхьан (to make something dysfunctional)"
@@ -4692,7 +4692,7 @@
     "old": "жъы"
   },
   {
-    "to completely break": "зэхэубэтэхьан; зэхэкъутэхьан"
+    "to completely break": "зэхэубэтыхьан; зэхэкъутыхьан"
   },
   {
     "straight standing": "зандэ"
@@ -9144,7 +9144,7 @@
     "to close in": "иубытэн"
   },
   {
-    "to enclose": "къэш1ыхьан; къеш1эк1ын; къэухъурэин, къэуцухьан; къэдзыхьан"
+    "to enclose": "къэш1ыхьан; къеш1эк1ын; къэухъурэин; къэуцухьан; къэдзыхьан"
   },
   {
     "to lock": "егъэтын (to lock a door or a locker); дэгъэт1ысхьан (to lock someone or something in); игъэт1ысхьан (to lock someone or something inside); иш1эхьан / къиш1эхьан (to lock inside by encircling)"
@@ -9153,10 +9153,10 @@
     "to gather round": "къэухъурэин (to gather people or objects and make a round circle); къэуцухьан; къэдзыхьан (to besiege)"
   },
   {
-    "to encircle": "къэухъурэин (to encircle someone, something or a place); къэуцухьан; къэдзыхьан (to besiege); иш1эхьан / къиш1эхьан (to encircle inside); къэгъэк1ухьан (to encircle with)"
+    "to encircle": "къэухъурэин (to encircle someone, something or a place); къэуцухьан; къэдзыхьан (to besiege); иш1эхьан / къиш1эхьан (to inclose something in a circle); къэгъэк1ухьан / къэгъэчъыхьан (to surround in a circle)"
   },
   {
-    "to surround": "къещэк1ын / къещыхьак1ын (to wrap); къэухъурэин (to surround someone, something or a place); къэуцухьан; къэдзыхьан (to besiege); къэгъэк1ухьан (to surround in a circle)"
+    "to surround": "къещэк1ын / къещыхьак1ын (to wrap); къэухъурэин (to surround someone, something or a place); къэуцухьан; къэдзыхьан (to besiege); къэгъэк1ухьан / къэгъэчъыхьан (to surround in a circle)"
   },
   {
     "to round up": "зэ1угъэк1эн; зэхэугъоен (to besiege)"
@@ -10020,6 +10020,12 @@
     "coat": "к1ако; палътэу (topcoat, over coat); сако (Shapsug)"
   },
   {
+    "topcoat": "палътэу"
+  },
+  {
+    "overcoat": "палътэу"
+  },
+  {
     "snowman": "осыл1"
   },
   {
@@ -10038,7 +10044,7 @@
     "reply": "джэуап; пэгъодз"
   },
   {
-    "to circle": "; къэгъэк1ухьан (to encircle with); хъурайк1э къэгъэк1ухьан"
+    "to circle": "къэухъурэин; къэгъэк1ухьан / къэгъэчъыхьан (to encircle with); хъурайк1э къэгъэк1ухьан; хъурайк1э къэгъэчъыхьан"
   },
   {
     "to live": "псэун (to inhabit); щы1эн (to exist, to be alive)"
@@ -15541,6 +15547,9 @@
   },
   {
     "to go around": "къыдэк1ухьан; къыухьан"
+  },
+  {
+    "to go for a walk": "къэк1ухьан"
   },
   {
     "blackness": "ш1уц1агъэ"
