@@ -50024,18 +50024,13 @@
         "meaning": "glance; look; view",
         "examples": [
           {
-            "sentence": "К1алэм '''инэплъэгъу''' ик1",
+            "sentence": "'''Синэплъэгъу''' ик1",
             "translation": "Get out from my '''view'''."
           },
           {
             "sentence": "1уашъхьэр си '''нэплъэгъу''' и1",
             "translation": "The mount is in my '''view'''."
-          }
-        ]
-      },
-      {
-        "meaning": "glance; look",
-        "examples": [
+          },
           {
             "sentence": "'''нэплъэгъу''' тедзэн",
             "translation": "'''To glimpse at''' someone"
@@ -50047,7 +50042,7 @@
         ]
       },
       {
-        "meaning": "relief, the removal of stress or discomfort.",
+        "meaning": "relief, the removal of stress or discomfort",
         "examples": [
           {
             "sentence": "Л1ым '''нэплъэгъу''' ыгъотыжьыгъ",
@@ -50058,6 +50053,23 @@
     ],
     "type": "noun",
     "ipa": "napɬaʁʷ"
+  },
+  {
+    "word": "рэхьатыгъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "rest, peace (more specifically: time of comfort)",
+        "examples": [
+          {
+            "sentence": "'''рэхьатыгъо''' сищык1агъ",
+            "translation": "I need '''a rest'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "raħaːtəʁʷa"
   },
   {
     "word": "нэ1у",
@@ -50109,38 +50121,23 @@
         "meaning": "to be shy",
         "examples": [
           {
-            "sentence": "К1алэр '''мэук1ытэу''' пшъашъэм дэгущы1эшъурэп",
-            "translation": "The boy while being shy '''can't talk''' to the girl."
+            "sentence": "К1алэр '''ук1ытэу''' пшъашъэм дэгущы1эшъурэп",
+            "translation": "The boy '''being shy''' can't talk to the girl."
           },
           {
             "sentence": "К1алэр '''мэук1ытэ'''",
             "translation": "The boy '''is shy'''."
           },
           {
-            "sentence": "'''Умыук1ытэу''' къэсдэгуща1",
-            "translation": "Talk to me '''while not being shy'''."
+            "sentence": "'''Умыук1ытэу''' къэсдэгущы1",
+            "translation": "Talk to me '''without being shy'''."
           }
         ]
       }
     ],
-    "synonyms": [
-      "ук1ьытэн"
-    ],
+    "shapsug": "ук1ьытэн",
     "type": "verb",
     "ipa": "wət͡ʃʼətan"
-  },
-  {
-    "word": "ук1ьытэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"ук1ытэн\"",
-        "examples": []
-      }
-    ],
-    "kabardian": "ук1ытэн",
-    "type": "verb",
-    "ipa": "wəkʲʼətan"
   },
   {
     "word": "щыук1ытэн",
@@ -50150,11 +50147,11 @@
         "meaning": "to be ashamed of",
         "examples": [
           {
-            "sentence": "'''Усшэук1ытэ'''",
+            "sentence": "'''Усщэук1ытэ'''",
             "translation": "'''I am ashamed of you'''."
           },
           {
-            "sentence": "К1алэм иш1агъэм '''шыук1ытэ'''",
+            "sentence": "К1алэм ыш1агъэм '''щэук1ытэ'''",
             "translation": "The boy '''is ashamed of''' what he done."
           }
         ]
@@ -50163,32 +50160,15 @@
         "meaning": "to be shy from",
         "examples": [
           {
-            "sentence": "К1алэр пшъашъэм '''шэук1ытэ'''",
+            "sentence": "К1алэр пшъашъэм '''щэук1ытэ'''",
             "translation": "The boy '''is shy''' from the girl."
           }
         ]
       }
     ],
-    "synonyms": [
-      "шыук1ьытэн"
-    ],
+    "shapsug": "щыук1ьытэн",
     "type": "verb",
     "ipa": "ʃəwt͡ʃʼətan"
-  },
-  {
-    "word": "шыук1ьытэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"шыук1ытэн\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "шыук1ытэн"
-    ],
-    "type": "verb",
-    "ipa": "ʃəwkʲʼətan"
   },
   {
     "word": "зэщиз",
@@ -50213,7 +50193,12 @@
     "definitions": [
       {
         "meaning": "even; flat; smooth",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Зэныбжьэу''' зэтырилъхьагъ",
+            "translation": "To put on each other '''smoothly'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -50232,27 +50217,6 @@
     "ipa": "zaʂħazaːʂʷ"
   },
   {
-    "word": "мэбэгъон",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to multiply, to become bigger (in numbers)",
-        "examples": []
-      },
-      {
-        "meaning": "to breed",
-        "examples": [
-          {
-            "sentence": "чэтхэр '''мэбэгъох'''",
-            "translation": "The chickens '''are breeding'''."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "mabaʁʷan"
-  },
-  {
     "word": "ц1ашъутэ",
     "lang": "Adyghe",
     "definitions": [
@@ -50260,7 +50224,7 @@
         "meaning": "slippery, low-friction surface",
         "examples": [
           {
-            "sentence": "Джыхашъор '''ц1ашъутэ'''",
+            "sentence": "Джэхашъор '''ц1ашъутэ'''",
             "translation": "The floor is '''slip'''."
           }
         ]
@@ -50318,12 +50282,12 @@
             "translation": "The boy '''is slipping'''."
           },
           {
-            "sentence": "Си1э бэнанэр '''ч1ыц1эшъутык1ы'''",
+            "sentence": "С1э къо1усыр '''ч1эц1эшъутык1ы'''",
             "translation": "The banana '''is slipping''' from my hand."
           },
           {
-            "sentence": "К1алэр бэнанэм таучи, '''ц1эшъутагъ'''",
-            "translation": "The boy step on the banana and '''he slipped'''."
+            "sentence": "К1алэр къо1усым тецуи, '''ц1эшъутагъ'''",
+            "translation": "The boy step on the banana and '''slipped'''."
           }
         ]
       },
@@ -50332,15 +50296,11 @@
         "examples": []
       },
       {
-        "meaning": "to loss the right way, to do the wrong things",
+        "meaning": "to loss the right way; to go astray",
         "examples": [
           {
-            "sentence": "к1алэр '''мэц1эшъути''' гонэхьхэр елэжьгъэх",
-            "translation": "The boy '''lost the right way''' and communed sins."
-          },
-          {
-            "sentence": "к1алэм и1иман куачэби, псычыу '''мэц1эшъутэ'''",
-            "translation": "Because the boy's faith isn't strong, '''he losses the right way''' fast."
+            "sentence": "к1алэр '''ц1ашъути''' гонахьыхэр ылэжьыгъэх",
+            "translation": "The boy '''went astray''' and commited sins."
           }
         ]
       }
@@ -50358,7 +50318,12 @@
       },
       {
         "meaning": "rough, not smooth; uneven; surface with high friction",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "цы '''пхъаш'''",
+            "translation": "'''rough''' wool."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -50394,30 +50359,34 @@
           {
             "sentence": "Неущы пасэу '''укъэущыжьын''' фай",
             "translation": "You must '''wake up''' early tomorrow."
+          },
+          {
+            "sentence": "'''Сыкъэущышъурэп'''",
+            "translation": "'''I can't wake up'''."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "qapɕən"
+    "ipa": "qawɕən"
   },
   {
     "word": "къэгъэущын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to awake someone",
+        "meaning": "to awake someone up",
         "examples": [
           {
-            "sentence": "К1алэр '''къэcгъэущы'''",
-            "translation": "I am '''is awaking''' the boy."
+            "sentence": "К1алэр '''къэcэгъэущы'''",
+            "translation": "'''I am is awaking up''' the boy."
           },
           {
             "sentence": "К1алэм пшъашъэр '''къегъэущы'''",
-            "translation": "The boy '''is awaking''' the girl."
+            "translation": "The boy '''is awaking up''' the girl."
           },
           {
-            "sentence": "Бэрэ ушысмэ чэщым '''укъэсгъэущышъутэп'''",
+            "sentence": "Бэрэ ущысымэ чэщым '''укъэсгъэущышъущтэп'''",
             "translation": "If you stay late night '''I will not be able to awake you'''."
           }
         ]
@@ -50438,7 +50407,7 @@
             "translation": "The bridge '''is tearing apart'''."
           },
           {
-            "sentence": "Унэм рокет тафэмэ '''зэхэтэкъущт'''",
+            "sentence": "Унэм рокет тефэмэ '''зэхэтэкъущт'''",
             "translation": "If a rocket hits the house, '''it will be torn into pieces'''."
           }
         ]
@@ -50452,10 +50421,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be torn apart emotionally, to fall apart (To be emotionally in crisis)",
+        "meaning": "to be torn apart emotionally, to fall apart (to be emotionally in crisis)",
         "examples": [
           {
-            "sentence": "Бзылъфыгъэм ик1алэ заум хэук1ахьэм '''зэгоутэгъ'''",
+            "sentence": "Бзылъфыгъэм ык1алэ заом хэук1ыхьэм '''зэгоутыгъ'''",
             "translation": "When the woman's child was killed in war '''she was in crisis'''."
           }
         ]
@@ -50465,7 +50434,11 @@
         "examples": [
           {
             "sentence": "К1алэм чъыгыр '''зэгуеуты'''",
-            "translation": "The boy '''is splitting''' the tree"
+            "translation": "The boy '''is splitting''' the tree."
+          },
+		  {
+            "sentence": "Л1ым чъыгыр отычк1э '''зэгуиутыгъ'''",
+            "translation": "The man '''cleaved''' the tree with an axe."
           }
         ]
       }
@@ -50493,10 +50466,6 @@
         "meaning": "arranged, organized",
         "examples": [
           {
-            "sentence": "К1алэр '''зэгъэфагъэм''' итаплъэ дахэ",
-            "translation": "The '''organized''' boy looks beautiful."
-          },
-          {
             "sentence": "Унэр '''зэгъэфагъэп'''",
             "translation": "The house '''is not organized'''."
           },
@@ -50511,18 +50480,6 @@
     "ipa": "zaʁafaːʁ"
   },
   {
-    "word": "къэпш1эн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"къэш1эн\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "qapʃʼan"
-  },
-  {
     "word": "къэш1эн",
     "lang": "Adyghe",
     "definitions": [
@@ -50530,8 +50487,8 @@
         "meaning": "to figure out",
         "examples": [
           {
-            "sentence": "Тестымк1э, к1алэм джэуапхэр '''къиш1агъэх'''",
-            "translation": "In the test, The boy '''figured out''' the answers."
+            "sentence": "Тестымк1э к1алэм джэуапхэр '''къиш1агъэх'''",
+            "translation": "In the test the boy '''figured out''' the answers."
           },
           {
             "sentence": "Къэсш1эщт хэт мы1эрысэр зышхыгъэр",

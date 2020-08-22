@@ -210,7 +210,7 @@
     "peaceful": "мамыр"
   },
   {
-    "peace": "мамырныгъ"
+    "peace": "мамырныгъ; рэхьатыгъо (rest)"
   },
   {
     "to burn": "стын; гъэстын; естыл1эн (to stick to the hot surface as a result of burning); тегъэстыхьан (to burn onto something); тегъэстык1ын (to burn off something); хэгъэстык1ын (to burn into something); хэстыхьан (to burn in fire)"
@@ -7494,7 +7494,7 @@
     "rank": "теуцогъу"
   },
   {
-    "rest": "гъэпсэфыгъо; зыгъэпсэфын (to rest); зэпыугъо (resting time)"
+    "rest": "гъэпсэфыгъо; зыгъэпсэфын (to rest); зэпыугъо (resting time); рэхьатыгъо"
   },
   {
     "break": "гъэпсэфыгъо (break for rest); зэпыугъо (resting time)"
