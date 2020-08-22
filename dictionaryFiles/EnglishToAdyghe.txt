@@ -16839,7 +16839,7 @@
     "to close": "егъэсэн; гъэуп1ыц1эн (to close eyes); 1ухъон (to close a window by hanging something over it)"
   },
   {
-    "shawl": "шъхьэтехъу (a square piece of cloth worn as a covering for the head, neck, and shoulders)"
+    "shawl": "шъхьэтехъу (a square piece of cloth worn as a covering for the head, neck, and shoulders); шал"
   },
   {
     "veil": "шъхьэтехъу; шашыф"

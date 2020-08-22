@@ -17518,27 +17518,6 @@
     "ipa": "kʷaːnfa"
   },
   {
-    "word": "к1осэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to turn off (lamp, fire, etc.)",
-        "examples": [
-          {
-            "sentence": "Ламбэр '''к1осагъ'''",
-            "translation": "The lamp '''turned off'''."
-          },
-		  {
-            "sentence": "Маш1ор '''къэк1уасэ'''",
-            "translation": "The fire '''is turning off'''."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "kʷʼasan"
-  },
-  {
     "word": "кушъэ",
     "lang": "Adyghe",
     "definitions": [
@@ -49000,12 +48979,12 @@
         "meaning": "punishment",
         "examples": [
           {
-            "sentence": "К1алэр '''пщынэжьым''' ш1ык1эгъ",
+            "sentence": "К1алэр '''пщынэжьым''' ш1ок1ыгъ",
             "translation": "The boy avoided '''the punishment'''."
           },
 		  {
             "sentence": "Л1ым '''пщынэжь''' тефэ",
-            "translation": "'''A punishment''' is on the man."
+            "translation": "'''A punishment''' was emposed on the man."
           }
         ]
       }
@@ -50501,10 +50480,6 @@
           {
             "sentence": "'''Къаш1''' тэры сиунэ",
             "translation": "'''Figure out''' which one is my house."
-          },
-          {
-            "sentence": "'''Къасш1эмэ''' ахъщэ къысэт",
-            "translation": "'''If I figure the right answer''' give me money."
           }
         ]
       }
@@ -50520,11 +50495,11 @@
         "meaning": "to remember",
         "examples": [
           {
-            "sentence": "Мы к1алэр '''къэспш1эжьырэп'''",
+            "sentence": "Мы к1алэр '''къэсыш1эжьырэп'''",
             "translation": "'''I can't remember''' this boy."
           },
           {
-            "sentence": "к1алэм иц1э '''къэсш1эжьыгъ'''",
+            "sentence": "К1алэм ыц1э '''къэсш1эжьыгъ'''",
             "translation": "'''I remembered''' the boy's name."
           },
           {
@@ -50532,12 +50507,8 @@
             "translation": "'''Do you remember me'''."
           },
           {
-            "sentence": "Сиджанэ плъыжь '''къэш1эжь'''",
-            "translation": "'''Remember''' my red shirt."
-          },
-          {
-            "sentence": "Гущы1эхэр '''къэш1эжьых'''",
-            "translation": "'''Remember''' the words."
+            "sentence": "К1элэегъаджэм къи1отагъэр '''къэбэш1эжьа'''?",
+            "translation": "'''Do you remember''' what the teacher told?"
           }
         ]
       },
@@ -50545,24 +50516,20 @@
         "meaning": "to recognize",
         "examples": [
           {
-            "sentence": "Мы к1алэр '''къэспш1эжрэп'''",
+            "sentence": "Мы к1алэр '''къэсыш1эжьырэп'''",
             "translation": "'''I can't recognize''' this boy."
           },
           {
-            "sentence": "к1алэм иц1э '''къэсш1эжэгъ''' тхылъымк1э",
+            "sentence": "К1алэм ыц1э '''къэсш1эжьыгъ''' тхылъымк1э",
             "translation": "'''I recognized''' the boy's name in the book."
           },
           {
-            "sentence": "к1алэм иц1э '''къэсэш1эжы'''",
+            "sentence": "К1алэм ыц1э '''къэсэш1эжьы'''",
             "translation": "'''I recognizing''' the boy's name."
           },
           {
-            "sentence": "'''Сыкъэбэш1эжа'''?",
-            "translation": "'''Do you recognize me'''."
-          },
-          {
-            "sentence": "Гущы1эхэр '''къэш1эжых'''",
-            "translation": "'''Recognize''' the words."
+            "sentence": "'''Сыкъэбэш1эжьа'''?",
+            "translation": "'''Do you recognize me'''?"
           },
           {
             "sentence": "Джы '''укъэсш1эжьыгъ'''",
@@ -50575,62 +50542,38 @@
     "ipa": "qaʃʼaʑən"
   },
   {
-    "word": "къэпш1эжын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"къэш1эжын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "qapʃʼaʑən"
-  },
-  {
     "word": "телъхьажьын",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to blame",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''тыралъхьажьыгъ''' хъугъэр",
+            "translation": "'''They blamed''' the boy for what happened."
+          },
+		  {
+            "sentence": "Сэ '''къыстемылъхьэжь''' ар",
+            "translation": "'''Don't blame me''' on that."
+          }
+        ]
       },
       {
         "meaning": "to put one's assignments on someone else",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Сэ мы 1орыш1энхэр '''къэстелъхьэх'''",
+            "translation": "'''Put''' these tasks '''on me'''."
+          },
+		  {
+            "sentence": "Зи '''къыстемылъхь''', бащэ джы сшъхьэ телъ",
+            "translation": "'''Don't give me''' anymore [assignments], there is a lot [of things] on my head right now."
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "tajɬħaːʑən"
-  },
-  {
-    "word": "гукъэк1ьын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"гукъэк1ын\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "гукъэк1ын"
-    ],
-    "type": "verb",
-    "ipa": "ɡʷəqakʲʼən"
-  },
-  {
-    "word": "гукъэк1ьыжьын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"гукъэк1ыжьын\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "гукъэк1ыжьын"
-    ],
-    "type": "verb",
-    "ipa": "ɡʷəqakʲʼəʑən"
   },
   {
     "word": "гъэк1осэн",
@@ -50641,7 +50584,7 @@
         "examples": [
           {
             "sentence": "К1алэм ыгу къэк1ыжьыгъ маш1ор '''зэримыгъэк1осагъэ'''",
-            "translation": "The boy suddenly remembered he didn't '''extinguished''' the fire."
+            "translation": "The boy [suddenly] remembered he didn't '''turn off''' the fire."
           },
           {
             "sentence": "Маш1ор '''гъэк1уас'''",
@@ -50657,12 +50600,12 @@
         "meaning": "to turn off the light",
         "examples": [
           {
-            "sentence": "К1алэм нэфынэр '''егъэк1уасэ'''",
-            "translation": "The boy '''turning off''' the light."
+            "sentence": "К1алэм ламбэр '''егъэк1уасэ'''",
+            "translation": "The boy '''is turning off''' the light."
           },
           {
             "sentence": "Тыгъэр '''сыгъэк1осэшъущтэп'''",
-            "translation": "'''I can't turning off''' the sun."
+            "translation": "'''I can't turn off''' the sun."
           }
         ]
       },
@@ -50674,8 +50617,12 @@
             "translation": "'''Turn off''' the car."
           },
           {
-            "sentence": "Сомпйутэрэр к1алэм '''егъэк1уасэ'''",
+            "sentence": "Компыютэрыр к1алэм '''егъэк1уасэ'''",
             "translation": "The boy '''is turning''' the computer '''off'''."
+          },
+          {
+            "sentence": "Телевидениер '''сыгъэк1осагъ'''",
+            "translation": "'''I turned off''' the television."
           }
         ]
       }
@@ -50684,32 +50631,19 @@
     "ipa": "ʁakʷʼasan"
   },
   {
-    "word": "мэк1осэн",
+    "word": "к1осэн",
     "lang": "Adyghe",
     "definitions": [
-      {
+	  {
         "meaning": "to be extinguished",
         "examples": [
           {
             "sentence": "Маш1ор '''мэк1уасэ'''",
-            "translation": "The fire '''is shuts down'''."
+            "translation": "The fire '''is extinguishing'''."
           },
           {
-            "sentence": "Тыгъэр '''мэк1осэтэп'''",
+            "sentence": "Тыгъэр '''к1осэщтэп'''",
             "translation": "The sun '''will not extinguish'''."
-          }
-        ]
-      },
-      {
-        "meaning": "light to be turned off",
-        "examples": [
-          {
-            "sentence": "Нафнэр '''мэк1уасэ'''",
-            "translation": "The light '''is turning off'''."
-          },
-          {
-            "sentence": "Тыгъэр '''мэк1осэтэп'''",
-            "translation": "The sun '''will not turn off'''."
           }
         ]
       },
@@ -50721,8 +50655,16 @@
             "translation": "The car '''is turning off'''."
           },
           {
-            "sentence": "Сомпйутэрэр '''къэк1осагъ'''",
+            "sentence": "Компыютэрыр '''къэк1осагъ'''",
             "translation": "The computer '''turned off'''."
+          },
+		  {
+            "sentence": "Ламбэр '''к1осагъ'''",
+            "translation": "The lamp '''turned off'''."
+          },
+		  {
+            "sentence": "Нэфынэр '''мэк1уасэ'''",
+            "translation": "The light '''is turning off'''."
           }
         ]
       }
@@ -50731,31 +50673,19 @@
     "ipa": "makʷʼasan"
   },
   {
-    "word": "пщыгъупшын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"щыгъупшын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "pɕəʁʷəpʃən"
-  },
-  {
     "word": "зэгоожьын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to blame oneself",
+        "meaning": "to be hard on oneself (usaully by blaming oneself)",
         "examples": [
           {
-            "sentence": "К1алэр '''зэгоожьы''' пшъашъэр мэл1агъи",
-            "translation": "The boy '''is blaming himself''' because the girl died."
+            "sentence": "К1алэр '''зэгоожьы''' пшъашъэр л1агъи",
+            "translation": "The boy '''is being hard on himself''' because the girl died."
           },
           {
-            "sentence": "'''Узэмгуужь'''",
-            "translation": "'''Don't blame yourself'''."
+            "sentence": "'''Узэмыгоужь'''",
+            "translation": "'''Don't be hard on yourself'''."
           }
         ]
       }
@@ -50768,7 +50698,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "neck slap; slap in the neck",
+        "meaning": "(Shapsug) neck slap; slap in the neck",
         "examples": []
       }
     ],
@@ -50781,18 +50711,6 @@
     "definitions": [
       {
         "meaning": "to buckle up, to zip up, to button up",
-        "examples": []
-      }
-    ],
-    "type": "adj",
-    "ipa": "tʷʼəʔʷəʁa"
-  },
-  {
-    "word": "т1у1угъэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "wrinkly",
         "examples": []
       }
     ],
@@ -50819,29 +50737,12 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "jacket; coat",
+        "meaning": "(dialectal) jacket; coat",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "saːkʷa"
-  },
-  {
-    "word": "дэщэен",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to raise",
-        "examples": [
-          {
-            "sentence": "уиджанэ и1эпэгъуапэхэ '''дэщыех'''",
-            "translation": "'''Raised''' your shirt's sleeves.."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "daɕəjan"
   },
   {
     "word": "1ут1эны",
@@ -50890,6 +50791,10 @@
           {
             "sentence": "Уи1эгъуапэхэр '''дэщаех'''",
             "translation": "'''Raise''' your sleeves.."
+          },
+		  {
+            "sentence": "К1алэм и1эпэгъуапэхэ '''дэщаех'''",
+            "translation": "The boy '''raises''' his shirt's sleeves."
           }
         ]
       },
@@ -50905,6 +50810,18 @@
     ],
     "type": "verb",
     "ipa": "daɕajan"
+  },
+  {
+    "word": "шал",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "shawl",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʂaːɮ"
   },
   {
     "word": "шъхьэтепхъу",
@@ -50935,14 +50852,14 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to strike with pointy or sharp things, to stab",
+        "meaning": "to strike with pointy or sharp things; to stab",
         "examples": [
           {
-            "sentence": "Уи1эбжъанэхэмк1э '''укъысэмпыдж'''",
+            "sentence": "У1эбжъанэхэмк1э '''укъысэмыпыдж'''",
             "translation": "'''Don't stab me''' with your nails."
           },
           {
-            "sentence": "К1алэр 1эпхъуамбэхэмк1э '''късэпыджы'''",
+            "sentence": "К1алэр 1эхъуамбэхэмк1э '''къысэпыджы'''",
             "translation": "The boy is '''stabbing me''' with his fingers."
           }
         ]
@@ -50957,38 +50874,9 @@
         ]
       }
     ],
-    "synonyms": [
-      "епыгьын"
-    ],
+    "shapsug": "епыгьын",
     "type": "verb",
     "ipa": "japəd͡ʒən"
-  },
-  {
-    "word": "епыгьын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"епыджын\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "епыджын"
-    ],
-    "type": "verb",
-    "ipa": "japəɡʲən"
-  },
-  {
-    "word": "мэпыджэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"пыджэн\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "mapəd͡ʒan"
   },
   {
     "word": "пыджэн",
@@ -50998,8 +50886,8 @@
         "meaning": "to strike with pointy things, to stab (usually done to annoy or bug someone thus it can also be to bug someone)",
         "examples": [
           {
-            "sentence": "Томэр '''мэпыджэ'''",
-            "translation": "Tom '''is bugging'''."
+            "sentence": "Томыр '''мэпыджэ'''",
+            "translation": "Tom '''is stabbing'''."
           },
           {
             "sentence": "К1алэм и1эбжъанэхэмк1э '''мэпыджэ'''",
@@ -51008,26 +50896,9 @@
         ]
       }
     ],
-    "synonyms": [
-      "мэпыгьэн"
-    ],
+    "shapsug": "пыгьэн",
     "type": "verb",
     "ipa": "pəd͡ʒan"
-  },
-  {
-    "word": "мэпыгьэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"мэпыджэн\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "мэпыджэн"
-    ],
-    "type": "verb",
-    "ipa": "mapəɡʲan"
   },
   {
     "word": "хэпыджэн",
@@ -51037,40 +50908,23 @@
         "meaning": "to stab someone or something",
         "examples": [
           {
-            "sentence": "Томэр к1алэм къэлэм папц1эк1э '''хэпыджэ'''",
+            "sentence": "Томыр к1алэм къэлэм папц1эк1э '''хэпыджэ'''",
             "translation": "Tom '''is stabbing''' the boy with a sharp pencil."
           },
           {
-            "sentence": "Уи1эбжъанэхэмк1э '''укъсэхэмпыдж'''",
+            "sentence": "У1эбжъанэхэмк1э '''укъысхэмыпыдж'''",
             "translation": "'''Don’t stab me''' with your nails."
           },
           {
-            "sentence": "Цыф ц1апэм '''хэпыджы''' шъэжъыек1э иук1эгъ",
-            "translation": "The mean person '''stabbed''' him with a knife and killed him."
+            "sentence": "Ц1ыфы ц1ап1эм шъэжъыек1э '''хэпыджи''' л1ым ыук1ыгъ",
+            "translation": "The wicked person '''stabbed''' the man with a knife and killed him."
           }
         ]
       }
     ],
-    "synonyms": [
-      "хэпыгьэн"
-    ],
+    "shapsug": "хэпыгьэн",
     "type": "verb",
     "ipa": "xapəd͡ʒan"
-  },
-  {
-    "word": "хэпыгьэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"хэпыджэн\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "хэпыджэн"
-    ],
-    "type": "verb",
-    "ipa": "xapəɡʲan"
   },
   {
     "word": "нэмаздэкъ",
@@ -51085,7 +50939,7 @@
     "ipa": "namaːzdaq"
   },
   {
-    "word": "к1ьэхьылэхь",
+    "word": "к1эхьы-лэхь",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -51094,14 +50948,14 @@
       }
     ],
     "type": "adj",
-    "ipa": "kʲʼaħəlaħ"
+    "ipa": "t͡ʃʼaħə-ɮaħ"
   },
   {
     "word": "зегъэхьын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to get lost, to go away and disappear (to beat it, to piss off, to bugger off) (Used to tell somebody to go away)",
+        "meaning": "to get lost; to go away and disappear (to beat it, to piss off, to bugger off) (used to tell somebody to go away)",
         "examples": [
           {
             "sentence": "'''Зегъэхь''' о чыжьэу",
@@ -51125,7 +50979,7 @@
         "meaning": "far away",
         "examples": [
           {
-            "sentence": "к1алэр '''чыжьэу''' мэк1уагъ",
+            "sentence": "к1алэр '''чыжьэу''' к1уагъэ",
             "translation": "The boy went '''far away'''."
           },
           {
@@ -51139,14 +50993,26 @@
     "ipa": "t͡ʃəʑaw"
   },
   {
+    "word": "ш1оу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "excellently",
+        "examples": []
+      }
+    ],
+    "type": "adv",
+    "ipa": "ʃʷʼaw"
+  },
+  {
     "word": "зыш1оу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "very, really",
+        "meaning": "very; really",
         "examples": [
           {
-            "sentence": "Шхынэр '''зыш1оу''' аш1у",
+            "sentence": "Шхынэр '''зыш1оу''' 1аш1у",
             "translation": "The food '''is very''' tasty/sweet."
           },
           {
@@ -51158,124 +51024,109 @@
             "translation": "The boy '''is really''' strong."
           },
           {
-            "sentence": "Анэр '''зыш1оу''' цык1у",
+            "sentence": "1анэр '''зыш1оу''' ц1ык1у",
             "translation": "The table '''is really''' small."
           }
         ]
       }
     ],
     "type": "adv",
-    "ipa": "zəʃʷʼəw"
+    "ipa": "zəʃʷʼaw"
   },
   {
     "word": "щыгъэзыен",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to put away something to another place/spot (usually to a small distance away)",
+        "meaning": "to put away something to another place/spot (usually to move a small distance away to make space)",
         "examples": [
           {
-            "sentence": "К1алэм анэр '''шегъэзые'''",
+            "sentence": "К1алэм 1анэр '''щегъэзые'''",
             "translation": "The boy '''is moving''' the table."
           },
           {
-            "sentence": "Анэр хьак1эщым '''шыгъэзый'''",
+            "sentence": "1анэр хьак1эщым '''щыгъэзый'''",
             "translation": "'''Move''' the table to the living room."
           },
           {
-            "sentence": "Анэр '''шызгъэзыешъурэп''' унашъхьэм",
-            "translation": "'''I am not capable of moving''' the table to the roof."
+            "sentence": "Шхынхэр '''щымыгъэзыеу''' шхы.",
+            "translation": "Eat the food '''without putting it aside'''."
           },
           {
-            "sentence": "Анэу о '''шыбгъэзыйгъэм''' сыфай",
-            "translation": "I want the table '''you moved'''."
-          },
-          {
-            "sentence": "Мы шхынхэр шъо '''шышъугъэзыещт'''.",
-            "translation": "'''You (plural) gonna move''' these dinners."
-          },
-          {
-            "sentence": "Анэр пык1эм '''шыгъэзыий''' сыблэгъэк1",
-            "translation": "'''Move''' the table away from the door and let me pass."
+            "sentence": "1анэ пчъэм '''щыгъэзыий''' сыблэгъэк1",
+            "translation": "'''Move''' the table '''away from''' the door and let me pass."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "ʃəʁazəjan"
+    "ipa": "ɕəʁazəjan"
   },
   {
     "word": "зыщыгъэзыен",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to move oneself to another place/spot (usually move a small distance from the spot oneself is standing)",
+        "meaning": "to move oneself to another place/spot (usually to move a small distance away to make space)",
         "examples": [
           {
-            "sentence": "К1алэм '''зышыгъэзыегъ''' гъогум",
+            "sentence": "К1алэм '''зыщыгъэзыегъ''' гъогум",
             "translation": "The boy '''moved''' from the road."
           },
           {
-            "sentence": "'''Зышыгъэзыегу'''",
+            "sentence": "'''Зыщыгъэзыегу'''",
             "translation": "'''Move a bit for now'''."
           },
           {
-            "sentence": "Гъогум сыблэк1ышъурэп, ц1ыфыхэмэ '''зышагъэзыерэп'''",
-            "translation": "I can't pass the road, the people '''aren't moving''' from there."
-          },
-          {
-            "sentence": "Тэк1у '''шыгъэзыий''' сыблэгъэк1",
+            "sentence": "Т1эк1у '''щыгъэзыий''' сыблэгъэк1",
             "translation": "'''Move''' a bit and let me pass."
           },
           {
-            "sentence": "Компьютерым '''зышыгъэзый'''",
-            "translation": "'''Move''' from the computer."
-          },
-          {
-            "sentence": "'''Зышышъугъэзыий''' сыблэшъугъэк1 гъогум псык1эу!",
-            "translation": "'''Move a bit''' and let me pass the road fast! (said to plural)."
+            "sentence": "Компыютэрым '''зыщыгъэзый'''",
+            "translation": "'''Move awway''' from the computer."
           }
         ]
       },
       {
         "meaning": "to sidestep; to step aside; to make way",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Гъогум сыблэк1ышъурэп, ц1ыфыхэмэ '''зыщагъэзыерэп'''",
+            "translation": "I can't pass the road, the people '''are not stepping aside''' from there."
+          }
+        ]
       }
     ],
     "type": "verb",
-    "ipa": "zəʃəʁazəjan"
+    "ipa": "zəɕəʁazəjan"
   },
   {
     "word": "блэгъэк1ын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to let someone past, to let someone cross",
+        "meaning": "to let someone pass, to let someone cross",
         "examples": [
           {
             "sentence": "К1алэр унэм '''блэгъэк1'''",
-            "translation": "'''Let''' the boy '''past''' the house."
+            "translation": "'''Let''' the boy '''pass''' the house."
           },
           {
-            "sentence": "К1алэр пшъашъэм '''блигъэк1ырэп'''",
-            "translation": "The girl '''doesn't let''' the boy '''past'''."
+            "sentence": "К1алэр Куджаным '''блигъэк1ырэп'''",
+            "translation": "Kujan '''doesn't let''' the boy '''pass'''."
           },
           {
             "sentence": "Псыхъом псынк1эу '''сыблэгъэк1'''",
-            "translation": "'''Let me past''' the river fast."
-          },
-          {
-            "sentence": "К1элэ пщэрэр пчъэм '''благъэк1ырэп''', о '''ублагъэк1ы'''",
-            "translation": "'''They aren't letting''' the fat boy '''past''' the door, '''they let you pass it'''."
+            "translation": "'''Let me pass''' the river fast."
           },
           {
             "sentence": "Зыщышъугъэзыий '''сыблэшъугъэк1''' гъогум псынк1эу!",
-            "translation": "Move aside '''and let me past''' the road fast (said to plural)."
+            "translation": "Move aside '''and let me pass''' the road fast."
           }
         ]
       },
       {
-        "meaning": "to let an opportunity past",
+        "meaning": "to let an opportunity pass",
         "examples": []
       },
       {
@@ -51288,21 +51139,19 @@
         ]
       }
     ],
-    "synonyms": [
-      "блэгъэк1ьын"
-    ],
+    "shapsug": "блэгъэк1ьын",
     "type": "verb",
     "ipa": "blaʁat͡ʃən"
   },
   {
-    "word": "мэзэгъэн",
+    "word": "зэгъэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to get along",
+        "meaning": "to be pleased; to get along (more specifically: to get satisfied/sufficed with the situation)",
         "examples": [
           {
-            "sentence": "К1алэр унэм '''мэзэгъэу''' исэп",
+            "sentence": "К1алэр унэм '''зэгъэу''' исэп",
             "translation": "The boy '''doesn't get along''' in the house."
           },
           {
@@ -51310,49 +51159,61 @@
             "translation": "The boy '''is getting along'''."
           },
           {
-            "sentence": "К1алэр '''мэзагъэрэп'''",
-            "translation": "The boy '''is not getting along'''."
+            "sentence": "К1алэр '''загъэрэп'''",
+            "translation": "The boy '''is not satisfied'''."
+          },
+		  {
+            "sentence": "Сыд, '''узагъэрэба?'''",
+            "translation": "What? '''aren't you getting satisfied?'''"
+          },
+          {
+            "sentence": "К1алэр пхъэнт1эк1ум '''загъэу''' исэп",
+            "translation": "The boy is not sitting '''pleased''' in the chair."
+          },
+          {
+            "sentence": "Шыр '''загъэрэп'''",
+            "translation": "The horse '''is not pleased'''"
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "mazaʁan"
+    "ipa": "zaʁan"
   },
   {
     "word": "езэгъын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to get along with; to be fine with; to be okay with",
+        "meaning": "to get along with; to be fine with; to be okay with; to be pleased with (more specifically: to be satisfied/sufficed with)",
         "examples": [
           {
             "sentence": "К1алэр унэм '''изагъэрэп'''",
-            "translation": "The boy '''doesn't get along''' inside the house."
+            "translation": "The boy '''doesn't get along inside''' the house."
           },
           {
-            "sentence": "К1алэр пшъашъэм '''езэгъырэп'''",
-            "translation": "The boy '''doesn't get along with''' the girl - The boy '''isn't fine with''' the girl."
+            "sentence": "Непэ непэк1э ц1ыфыхэр яшъхьэгъусэхэмэ '''езэгъыжьыхэрэп'''",
+            "translation": "Nowdays people ''are not sufficed''' with their spouses."
           },
           {
             "sentence": "К1алэр кум '''езэгъырэп'''",
-            "translation": "The boy '''isn't fine with''' the car."
+            "translation": "The boy '''is not fine with''' the car."
           },
           {
-            "sentence": "Уиянэ къыуитыгъэм '''езыгъ'''",
-            "translation": "'''Get along with''' that your mother gave you - '''Be fine/enough with''' that your mother gave you."
+            "sentence": "Уянэ къыуитыгъэм '''езыгъ'''",
+            "translation": "'''Be pleased with''' what your mother gave you."
           },
           {
             "sentence": "Тестым къисхыгъэм '''сезэгъы'''",
-            "translation": "'''I am getting fine with''' what i got in the test."
+            "translation": "'''I am fine with''' what I got in the test."
           },
           {
             "sentence": "Л1ымрэ шъузымрэ '''зэзэгъыхэрэп'''",
             "translation": "The man and the woman '''aren't getting along with each other'''."
           },
           {
-            "sentence": "'''Зегъэзэгъ''' къыуатыгъэм",
-            "translation": "'''Get yourself along with''' what you got."
+            "sentence": "'''Зегъэзыгъ''' къыуатыгъэм",
+            "translation": "'''Be pleased with''' what you got."
           }
         ]
       }
@@ -51361,46 +51222,34 @@
     "ipa": "jazaʁən"
   },
   {
-    "word": "мэгубжын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"губжын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "maɡʷəbʒən"
-  },
-  {
     "word": "губжын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to get angry, to get mad",
+        "meaning": "to get angry; to get mad",
         "examples": [
           {
-            "sentence": "'''Угуабжа?'''",
+            "sentence": "'''Угубжа?'''",
             "translation": "'''Are you getting angry?'''"
           },
           {
-            "sentence": "К1алэр '''мэгуабжы'''",
+            "sentence": "К1алэр '''мэгубжы'''",
             "translation": "The boy '''is getting angry'''."
           },
           {
-            "sentence": "Л1ыжъыр псынк1эу '''мэгуабжы'''",
+            "sentence": "Л1ыжъыр псынк1эу '''мэгубжы'''",
             "translation": "The old-man '''is getting angry''' fast."
           },
           {
-            "sentence": "Л1ыжъыр '''гуабжэу''' дэк1ыгъ",
-            "translation": "The old-man went out '''angry'''."
+            "sentence": "Л1ыжъыр '''губжыгъэу''' дэк1ыгъ",
+            "translation": "The old-man went out '''angryly'''."
           },
           {
             "sentence": "Л1ыжъыр ренэу '''мэгубжы'''",
             "translation": "The old-man is always '''mad'''."
           },
           {
-            "sentence": "Мы хьэр '''мэгуабжырэп'''",
+            "sentence": "Мы хьэр '''губжырэп'''",
             "translation": "This dog '''doesn't get mad'''."
           }
         ]
@@ -51414,10 +51263,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to get angry at, to get mad at",
+        "meaning": "to get angry at; to get mad at",
         "examples": [
           {
-            "sentence": "К1алэр пшъашъэм '''фэгуабжэгъ'''",
+            "sentence": "К1алэр пшъашъэм '''фэгабжыгъ'''",
             "translation": "The boy '''got mad at''' the girl."
           },
           {
@@ -51425,24 +51274,24 @@
             "translation": "The boy '''is getting mad at''' the girl."
           },
           {
-            "sentence": "'''Укъэсфэгуабжа?'''",
+            "sentence": "'''Укъэсфэгубжа?'''",
             "translation": "'''Are you mad at me?'''."
           },
           {
-            "sentence": "К1элэцык1ум '''уфэмгуабж''', иш1агъэ гулъитэрэп",
-            "translation": "'''Don't get angry at''' the little boy, he doesn't understand what he done."
+            "sentence": "К1элэц1ык1ум '''уфэмгубж''', ыш1агъэр къыгуры1орэп",
+            "translation": "'''Don't get angry at''' the little boy, he doesn't understand what he did."
           },
           {
-            "sentence": "'''Усфэгуабжы'''",
+            "sentence": "'''Усфэгубжы'''",
             "translation": "'''I am mad at you'''."
           }
         ]
       },
       {
-        "meaning": "to get angry for someone, to get mad for someone,",
+        "meaning": "to get angry for someone's sake",
         "examples": [
           {
-            "sentence": "'''Усфэгуабжы'''",
+            "sentence": "'''Усфэгубжы'''",
             "translation": "'''I am mad for you'''."
           }
         ]
@@ -52565,7 +52414,7 @@
         "meaning": "to make something function, to make something work",
         "examples": [
           {
-            "sentence": "Сомпыютэрэр '''къыпфэгъэлажьа?'''",
+            "sentence": "Компыютэрэр '''къыпфэгъэлажьа?'''",
             "translation": "'''Are you capable of making''' the computer '''to work'''?."
           }
         ]
@@ -57200,7 +57049,7 @@
             "translation": "The boy '''moved away''' from the wall."
           },
           {
-            "sentence": "Сомпютэрым '''зыщыдзый'''",
+            "sentence": "Компютэрым '''зыщыдзый'''",
             "translation": "'''Move away''' from the computer."
           },
           {
@@ -61705,7 +61554,7 @@
         "meaning": "to install",
         "examples": [
           {
-            "sentence": "Сомпыютэрым фаилхэр '''хэутых'''",
+            "sentence": "Компыютэрым фаилхэр '''хэутых'''",
             "translation": "'''Install''' the files to the computer."
           }
         ]
@@ -68491,7 +68340,7 @@
             "translation": "Leave the car for a moment, '''you overused it'''"
           },
           {
-            "sentence": "Сомпыютэрым '''ышъуты ипхыжьыгъ'''",
+            "sentence": "Компыютэрым '''ышъуты ипхыжьыгъ'''",
             "translation": "'''You used the hell out of''' the computer?"
           }
         ],
@@ -85908,7 +85757,7 @@
             "translation": "The house '''was disarrayed'''."
           },
           {
-            "sentence": "Сомпыютэрэр '''зэ1ыхьагъ'''",
+            "sentence": "Компыютэрэр '''зэ1ыхьагъ'''",
             "translation": "The computer '''was disarrayed'''."
           }
         ]
@@ -90071,35 +89920,6 @@
     ],
     "type": "noun",
     "ipa": "wət͡ʃʼətaːʁʷa"
-  },
-  {
-    "word": "зэгъэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to be pleased",
-        "examples": []
-      },
-      {
-        "meaning": "to stop moving after being pleased",
-        "examples": [
-          {
-            "sentence": "Сыд '''узагъэрэба?'''",
-            "translation": "'''Aren't you pleased?'''"
-          },
-          {
-            "sentence": "К1алэр пхъэнт1эк1ум '''загъэу''' исэп",
-            "translation": "The boy is not sitting '''pleased''' in the chair."
-          },
-          {
-            "sentence": "Шыр '''загъэрэп'''",
-            "translation": "The horse '''is not pleased'''"
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "zaʁan"
   },
   {
     "word": "ныбжьи",
@@ -96439,7 +96259,7 @@
         "meaning": "to make something cease to function; to make something dysfunctional",
         "examples": [
           {
-            "sentence": "Сомпыютэрэр '''зы1игъэхьагъ'''",
+            "sentence": "Компыютэрэр '''зы1игъэхьагъ'''",
             "translation": "'''Don't ruin''' my computer."
           }
         ]
