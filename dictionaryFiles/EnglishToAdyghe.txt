@@ -7584,7 +7584,13 @@
     "to become dirty": "уш1оин"
   },
   {
-    "to erase": "уш1оин (to be erase); гъэуш1оин (to erase); тегъэуш1ойк1ын (to erase from above)"
+    "on the contrary": "нахь"
+  },
+  {
+    "actaully": "нахь (actaully it is); шъыпкъэмк1э"
+  },
+  {
+    "to erase": "уш1оин (to be erase); гъэуш1оин (to erase); тегъэуш1оик1ын (to erase from above)"
   },
   {
     "to delete": "уш1оин (to be deleted); гъэуш1оин (to delete); тегъэуш1ойк1ын (to delete from above)"
@@ -10512,6 +10518,9 @@
     "to enrage": "гъэгубжын; зэк1эгъэстыхьан"
   },
   {
+    "fussy": "пэчъэчъал"
+  },
+  {
     "misdeed": "псэк1од"
   },
   {
@@ -10566,7 +10575,7 @@
     "comfortable": "гупсэф; рэхьат"
   },
   {
-    "to be comfortable": "фэрэхьатын (to be comfortable for)"
+    "rasp": "гъуч1ахъу"
   },
   {
     "pride": "шъхьэ1атынгъэ; пэгэныгъ; зыш1ош1ыжьыныгъ; зыщытхъужьыныгъ"
