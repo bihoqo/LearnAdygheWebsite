@@ -21271,6 +21271,35 @@
     "ipa": "bləpq"
   },
   {
+    "word": "1алджанэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"1элджанэ\"",
+        "examples": []
+      }
+    ],
+    "shapsug": "1элгьанэ",
+    "type": "noun",
+    "ipa": "ʔald͡ʒaːana"
+  },
+  {
+    "word": "1эблэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "forearm",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "1элджанэ",
+      "1элджанэ"
+    ],
+    "type": "noun",
+    "ipa": "ʔabɮa"
+  },
+  {
     "word": "1элджанэ",
     "lang": "Adyghe",
     "definitions": [
@@ -21278,6 +21307,9 @@
         "meaning": "forearm",
         "examples": []
       }
+    ],
+    "synonyms": [
+      "1эблэ"
     ],
     "shapsug": "1элгьанэ",
     "type": "noun",
@@ -51305,25 +51337,55 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to anger; to make someone angry or mad",
+        "meaning": "to infuriate; to anger; make furious or mad with anger",
         "examples": [
           {
-            "sentence": "К1алэр '''гъэгуабж'''",
-            "translation": "'''Make''' the boy '''angry'''."
+            "sentence": "К1алэр '''гъэгубж'''",
+            "translation": "'''Anger''' the boy."
           },
           {
             "sentence": "К1алэм пшъашъэр '''егъэгубжы'''",
-            "translation": "The boy '''making''' the girl '''angry'''."
+            "translation": "The boy '''is infuriating''' the girl."
           },
           {
             "sentence": "Л1ыжъэр '''къэшъумыгъэгубж'''",
-            "translation": "'''Don't make''' the old-man '''angry''' (said to plural)."
+            "translation": "'''Don't infuriate''' the old-man."
           }
         ]
       }
     ],
     "type": "verb",
     "ipa": "ʁaɡʷəbʒən"
+  },
+  {
+    "word": "зэк1эгъэстыхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to enrage",
+        "examples": [
+          {
+            "sentence": "К1алэр '''зэк1эгъэстыхь'''",
+            "translation": "'''Enrage''' the boy."
+          },
+          {
+            "sentence": "К1алэм пшъашъэр '''зэк1егъэстыхьэ'''",
+            "translation": "The boy '''is enraging''' the girl."
+          }
+        ]
+      },
+	  {
+        "meaning": "to heat up (by fire or gas)",
+        "examples": [
+          {
+            "sentence": "Хьакур л1ым '''зэк1егъэстыхьэ'''",
+            "translation": "The man '''is heating up''' the oven."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zat͡ʃʼaʁastəħaːn"
   },
   {
     "word": "шъхьатэ",
@@ -51345,14 +51407,30 @@
         "meaning": "sleeve",
         "examples": [
           {
-            "sentence": "О '''уи1ащхьит1укlэ''' къысфэщэфыжь",
-            "translation": "Buy for me '''with your both arms'''."
+            "sentence": "джэнэ '''1ашъхь'''",
+            "translation": "'''The sleeve''' of a shirt."
           }
         ]
+      },
+	  {
+        "meaning": "forearm",
+        "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "ʔaɕħa"
+    "ipa": "ʔaʂħa"
+  },
+  {
+    "word": "1эпкъынэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "finger joints",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʔapqəna"
   },
   {
     "word": "псэк1од",
@@ -51386,31 +51464,43 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to like something, to be pleased with",
+        "meaning": "alternative form of \"гу е1ун\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɡʷjaʔʷən"
+  },
+  {
+    "word": "гу е1ун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to like something; to be pleased with (more specifically: to be fond of)",
         "examples": [
           {
             "sentence": "Мы к1алэр '''сыгу е1у'''",
-            "translation": "'''I like''' this boy; '''I am pleased with''' this boy."
+            "translation": "'''I am fond of''' this boy."
           },
           {
-            "sentence": "Къап1орэ '''тыгу е1у'''",
+            "sentence": "Къэп1орэр '''тыгу е1у'''",
             "translation": "'''We like''' what you say."
           },
           {
-            "sentence": "Мы к1алэм иш1эрэ '''сыгу е1урэп'''",
-            "translation": "'''I don't like''' what this boy does; '''I am not pleased with''' what this boy does."
+            "sentence": "Мы к1алэм ыш1эрэ '''сыгу е1урэп'''",
+            "translation": "'''I am not fond of''' what this boy is doing."
           },
           {
-            "sentence": "К1алэм шхынэр '''игу е1огъ'''",
+            "sentence": "К1алэм шхынэр '''ыгу е1угъ'''",
             "translation": "The boy '''liked''' the dinner."
           },
           {
-            "sentence": "Анэу янахь '''уигу е1урэ''' къашт",
-            "translation": "Pick the table '''you are''' most '''pleased with'''."
+            "sentence": "1анэу анахь '''угу е1урэ''' къашт",
+            "translation": "Pick the table '''you are''' most '''fond of'''."
           },
           {
-            "sentence": "К1алэр пшъашъэр '''игу е1огъ'''",
-            "translation": "The boy '''was pleased with''' the girl."
+            "sentence": "К1алэр пшъашъэм '''ыгу е1огъ'''",
+            "translation": "The girl '''was fond of''' the boy."
           }
         ]
       }
@@ -51423,8 +51513,33 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"1ун\"",
-        "examples": []
+        "meaning": "to hear",
+        "examples": [
+          {
+            "sentence": "Мы к1алэм ы1орэр '''сэ1у'''",
+            "translation": "'''I hear''' what this boy is saying."
+          },
+          {
+            "sentence": "Къэп1орэр '''тэ1урэп'''",
+            "translation": "'''We don't hear''' what you are saying."
+          },
+          {
+            "sentence": "Къэс1орэр '''о1урэба?'''",
+            "translation": "'''Don't you hear''' what I am saying?"
+          },
+          {
+            "sentence": "Л1ыжъым имакъэ '''шъо1умэ''' шъу1ухъушъут",
+            "translation": "'''If you hear''' the old-man's voice run away."
+          },
+          {
+            "sentence": "Къэс1орэр к1алэхэмэ '''а1у''' дэгъоу",
+            "translation": "The boys '''hear''' good what I am saying."
+          },
+          {
+            "sentence": "Мэзымк1э ц1ыфымэ уимакъэ '''а1ущтэп'''",
+            "translation": "In the forest people '''will not hear''' your voice."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -51435,33 +51550,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to hear",
-        "examples": [
-          {
-            "sentence": "Мы к1алэм и1орэ '''сэ1у'''",
-            "translation": "'''I hear''' what this boy is saying."
-          },
-          {
-            "sentence": "Къап1орэ '''тэ1урэп'''",
-            "translation": "'''We don't hear''' what you are saying."
-          },
-          {
-            "sentence": "Къас1орэ '''о1урэба?'''",
-            "translation": "'''Don't you hear''' what I am saying?"
-          },
-          {
-            "sentence": "Л1ыжъым имакъэ '''шъо1умэ''' шъуч1",
-            "translation": "'''If you hear''' the old-man's voice run (said to plural)."
-          },
-          {
-            "sentence": "Къас1орэ к1алэхэмэ '''я1у''' дэгъу",
-            "translation": "The boys '''hear''' what i am saying cleverly."
-          },
-          {
-            "sentence": "Мэзымк1э ц1ыфмэ уимакъэ '''я1утэп'''",
-            "translation": "In the forest people '''will not hear''' your voice."
-          }
-        ]
+        "meaning": "alternative form of \"е1ун\"",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -51472,10 +51562,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to make a sound/noise or make something do noise (Like using a device or instrument to make noise/sound for example radio)",
+        "meaning": "to make a sound/noise; to make something else do noise (like using a device or instrument to make noise/sound for example radio)",
         "examples": [
           {
-            "sentence": "Макъэ '''къэмгъэ1у''' блэк1",
+            "sentence": "Макъэ '''къэмыгъэ1оу''' блэк1",
             "translation": "Pass '''without making noise'''."
           },
           {
@@ -51483,16 +51573,16 @@
             "translation": "The boy '''is making''' too much '''noise'''."
           },
           {
-            "sentence": "Пшынэр имакъэ нахь '''къэгъэ1у'''",
+            "sentence": "Пщынэр имакъэ нахь '''къэгъэ1у'''",
             "translation": "'''Make''' the accordion's '''noise higher'''."
           },
           {
-            "sentence": "К1алэм орэдыхэр '''къирегъа1о'''",
+            "sentence": "К1алэм орэдыхэр '''къырегъа1о'''",
             "translation": "The boy '''is playing''' the songs (with a device/instrument)."
           },
           {
-            "sentence": "Мыш макъэ бэу '''къегъэ1у'''",
-            "translation": "This thing '''making''' too much '''noise'''."
+            "sentence": "Мыщ макъэ бэу '''къегъэ1у'''",
+            "translation": "This thing '''makes''' too much '''noise'''."
           }
         ]
       }
@@ -71247,18 +71337,6 @@
     ],
     "type": "verb",
     "ipa": "bɮat͡ʂən"
-  },
-  {
-    "word": "гу е1ун",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"гуе1ун\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "ɡʷjaʔʷən"
   },
   {
     "word": "шъхьапырык1ын",

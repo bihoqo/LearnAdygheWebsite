@@ -4452,7 +4452,7 @@
     "to evaporate": "гъушъын; гъэгъушъын"
   },
   {
-    "to heat up": "плъын; гъэплъын (to heat up something)"
+    "to heat up": "плъын; гъэплъын (to heat up something); зэк1эгъэстыхьан"
   },
   {
     "to phone": "теон; фэтеон (to phone someone); (dialectal) феон (to phone someone)"
@@ -10504,6 +10504,12 @@
   },
   {
     "to anger": "гъэгубжын"
+  },
+  {
+    "to infuriate": "гъэгубжын"
+  },
+  {
+    "to enrage": "гъэгубжын; зэк1эгъэстыхьан"
   },
   {
     "misdeed": "псэк1од"
@@ -17893,6 +17899,12 @@
   },
   {
     "mill": "шъхьалы"
+  },
+  {
+    "to like": "к1эсэн; ук1эсын (to start liking something); гу е1ун"
+  },
+  {
+    "to be fond of": "гу е1ун"
   },
   {
     "hey": "сэлам; ш1уфэс; ал (oi, expresses an order with a touch of threat); (Shapsug) к1элэ (oi, expresses an order with a touch of threat)"
