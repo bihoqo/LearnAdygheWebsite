@@ -2847,7 +2847,7 @@
     "three hundred": "шъищ"
   },
   {
-    "half": "ныкъо"
+    "half": "ныкъо; азы ныкъо (a half of)"
   },
   {
     "two thousand": "минит1у"
@@ -2988,7 +2988,7 @@
     "hood": "шъхьарыхъон; башлыкъ"
   },
   {
-    "too much": "бащэ; бащэу; блифыгъэу / блифэу"
+    "too much": "бащэ; бащэу; блифыгъэу / блифэу (excessively); илыягъэу (too much than what is needed); (Arabic) зыядэу (excessively)"
   },
   {
     "too many": "бащэ"
@@ -10692,7 +10692,7 @@
     "to rejoice": "гуш1он; щыгуш1ук1ын (to rejoice for)"
   },
   {
-    "to trust": "цыхьэ фэш1ын; щыгугъун"
+    "to trust": "цыхьэ фэш1ын; щыгугъын (to rely on)"
   },
   {
     "to be jealous": "шхъогъон; ешхъогъон (to be jealous of)"
@@ -10716,10 +10716,10 @@
     "to give": "тын; етын (to give something to someone)"
   },
   {
-    "dream": "пк1ыхь; пк1ыхьап1"
+    "dream": "пк1ыхь; пк1ыхьап1э"
   },
   {
-    "time": "уахътэ; гъо; чэзыу (turn); игъу (one's time); лъэхъан (era); гъогогъу (as in гъогогъуищы: three times); -гъу (suffix)"
+    "time": "уахътэ; гъо; чэзыу (turn); игъу (one's time); лъэхъаны (era); гъогогъу (as in гъогогъуищы: three times); -гъу (suffix)"
   },
   {
     "times": "гъогогъу (as in гъогогъуищы: three times)"
@@ -10767,7 +10767,7 @@
     "to wheedle": "еубзэн"
   },
   {
-    "lipstick": "1упэлэн; 1упш1эгъал"
+    "lipstick": "1упэлэн; 1упш1эгъал; 1упэгъал"
   },
   {
     "line": "сатыр"
@@ -10797,10 +10797,10 @@
     "everything": "зэк1эри; пстэуми; пстэур; зэпсэу (Shapsug)"
   },
   {
-    "everyone": "зэк1эри; пстэуми; пстэур; зэпсэу (Shapsug); хэти"
+    "everyone": "зэк1эри; пстэу / пстэуми / пстэур; (dialectal) псэу / псэуми / псэур / зэпсэу; (dialectal) зэужь / зэужьэу / зэужьэуми / зэужьэур; хэти"
   },
   {
-    "everybody": "зэк1эри; пстэуми; пстэур; зэпсэу (Shapsug)"
+    "everybody": "зэк1эри; пстэу / пстэуми / пстэур; (dialectal) псэу / псэуми / псэур / зэпсэу; (dialectal) зэужь / зэужьэу / зэужьэуми / зэужьэур; хэти"
   },
   {
     "to approach slowly": "лъык1ошъэн"
@@ -15066,10 +15066,7 @@
     "freak": "нэджэ-1удж"
   },
   {
-    "to distrust": "цыхьэ мыш1ын; цыхьэ фэмыш1ын"
-  },
-  {
-    "to trust": "цыхьэ мыш1ын; цыхьэ фэмыш1ын"
+    "to distrust": "цыхьэ мыш1ын; цыхьэ фэмыш1ын (to distrust someone)"
   },
   {
     "to spare": "шъхьасын (to have mercy for); гъэш1он (to spare for the future); лъэхэнэн (to spare/forgive someone from a grudge, punishment or debt)"
@@ -15669,7 +15666,10 @@
     "superfluous": "илыягъ"
   },
   {
-    "excessive": "илыягъ"
+    "excessive": "илыягъ; (Arabic) зыядэ"
+  },
+  {
+    "excessively": "илыягъэу; (Arabic) зыядэу"
   },
   {
     "feast": "ешхэ-ешъу"
