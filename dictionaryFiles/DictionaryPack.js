@@ -53707,35 +53707,56 @@
     "ipa": "t͡ʃəfa t͡ʃʼatən"
   },
   {
-    "word": "мэкьэн",
+    "word": "къэухын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"чэн\"",
+        "meaning": "to finish",
+        "examples": []
+      },
+	  {
+        "meaning": "(very vulgar) to ejaculate",
         "examples": []
       }
     ],
     "type": "verb",
-    "ipa": "makʲan"
+    "ipa": "qawxaən"
   },
   {
-    "word": "дек1эк1ьын",
+    "word": "теухэхьан",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be in favor of someone, to support someone",
+        "meaning": "to finish on",
+        "examples": []
+      },
+	  {
+        "meaning": "(very vulgar) to ejaculate on",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "tajxaħaːn"
+  },
+  {
+    "word": "дечъэк1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to offer someone support/help",
         "examples": [
           {
-            "sentence": "К1алэр '''къесдек1эк1ьы'''",
+            "sentence": "К1алэр '''къесдечъэк1ы'''",
             "translation": "The boy '''is supporting me'''."
           },
           {
-            "sentence": "Сэсымаджэм сиянэ '''къэсдек1эк1ьaгъ'''",
-            "translation": "When i was sick my mother '''supported me'''."
+            "sentence": "Сысымаджэм сянэ '''къэсдечъэк1ыгъ'''",
+            "translation": "When I was sick my mother '''supported me'''."
           }
         ]
       }
     ],
+    "shapsug": "дечъэк1ьын",
     "type": "verb",
     "ipa": "dait͡ʃakʲən"
   },
@@ -53757,7 +53778,20 @@
     "definitions": [
       {
         "meaning": "entrance, entry",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Унагъор парк '''дэхьап1эмк1э''' паркым дахьэх",
+            "translation": "The family enter the part '''from''' the park's '''entrance'''."
+          },
+		  {
+            "sentence": "Щагу '''дэхьап1э'''",
+            "translation": "Yard '''entrance'''."
+          },
+		  {
+            "sentence": "Фабрикэм '''идэхьап1э''' дэжь къэрэгъулыр 1ус",
+            "translation": "A guard is standing near the '''entrance''' of the factory."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -53774,8 +53808,16 @@
         "meaning": "gate",
         "examples": [
           {
-            "sentence": "К1алэр '''къэлапчъэм''' блэк1ышъурэп",
+            "sentence": "К1алэр '''къэлапчъэм''' блэк1ыхъушъурэп",
             "translation": "The boy is not capable of passing '''the gate'''."
+          },
+		  {
+            "sentence": "К1алэм '''къэлапчъэр''' 1уехы",
+            "translation": "The boy opens '''the gate'''."
+          },
+		  {
+            "sentence": "Пшъашъэм '''къэлапчъэр''' фиш1ыгъ",
+            "translation": "The girl closed '''the gate'''."
           }
         ]
       }
@@ -53788,11 +53830,32 @@
     "ipa": "qalaːpt͡ʃ"
   },
   {
+    "word": "ц1ык1у-шъок1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "trifle (little things)",
+        "examples": [
+          {
+            "sentence": "'''ц1ык1у-шъок1умэ''' атегущы1эн",
+            "translation": "to talk about '''trifles'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡sʼəkʷʼ-ʃʷakʷʼʼ"
+  },
+  {
     "word": "пчъэ1у",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"пчъэ1упэ\"",
+        "meaning": "a place where a lot of people gather",
+        "examples": []
+      },
+	  {
+        "meaning": "in front of the door; a place near the door (stove)",
         "examples": []
       }
     ],
@@ -53822,33 +53885,6 @@
     ],
     "type": "noun",
     "ipa": "pt͡ʃaʔʷəpa"
-  },
-  {
-    "word": "мэук1ытэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"ук1ытэн\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "ук1ьытэн"
-    ],
-    "type": "verb",
-    "ipa": "mawt͡ʃətan"
-  },
-  {
-    "word": "къузмэзадэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "one that is resting after a great meal",
-        "examples": []
-      }
-    ],
-    "type": "adj",
-    "ipa": "qʷəzmazaːda"
   },
   {
     "word": "ныбэкъ",
@@ -53884,6 +53920,14 @@
           {
             "sentence": "К1алэр '''ч1ыфэ''' ч1эт",
             "translation": "The boy is in '''debt'''."
+          },
+		  {
+            "sentence": "Л1ыр '''ч1ыфэм''' хэт",
+            "translation": "The man is in '''debt'''."
+          },
+		  {
+            "sentence": "К1алэм '''ч1ыфэ''' телъ",
+            "translation": "A '''debt''' is on the boy."
           }
         ]
       }
@@ -53899,12 +53943,12 @@
         "meaning": "to break the fast",
         "examples": [
           {
-            "sentence": "Муслымхэр нэк1мазэм пч1ыхьэм '''хэ1ажьых'''",
-            "translation": "The Muslim's in the Ramadan '''break the fast''' in the evening."
+            "sentence": "Бысылмэнхэр нэк1мазэм пчыхьэм '''хэ1ажьых'''",
+            "translation": "The Muslims in the Ramadan '''break the fast''' in the evening."
           },
           {
-            "sentence": "Нэпч1ыхьэ лык1э '''тыхэ1эжьыт'''",
-            "translation": "Tonight '''we gonna break the fast''' with meat."
+            "sentence": "Ныпчыхьэ лык1э '''тыхэ1эжьыщт'''",
+            "translation": "Tonight '''we are going to break the fast''' with meat."
           }
         ]
       }
@@ -53981,19 +54025,19 @@
             "translation": "The boy '''is going'''."
           },
           {
-            "sentence": "К1элэцык1ор '''мэхъыешъуа?'''",
+            "sentence": "К1элэц1ык1ур '''хъыешъуа?'''",
             "translation": "'''Can''' the little boy '''move?'''."
           },
           {
-            "sentence": "Л1ыжъэр '''мэхъыешъурэп'''",
-            "translation": "The old man '''can't move'''."
+            "sentence": "Л1ыжъыр '''хъыешъурэп'''",
+            "translation": "The old-man '''can't move'''."
           },
           {
             "sentence": "'''Шъухъыеба''' сэ1о",
             "translation": "'''Move''' I say (said to plural)."
           },
           {
-            "sentence": "Нэущынэс мыжъом уеплъыгъэми '''мэмыхъыен'''",
+            "sentence": "Неущы нэс мыжъом уеплъыгъэми '''мыхъыен'''",
             "translation": "Even if you look at the rock until tomorrow '''it won't move'''."
           }
         ]
@@ -54003,43 +54047,27 @@
     "ipa": "χəjan"
   },
   {
-    "word": "мэхъыен",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"хъыен\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "maχəjan"
-  },
-  {
-    "word": "зэхъок1ьын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"зэхъок1ын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "zaχʷakʲʼən"
-  },
-  {
     "word": "зэхъок1ын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to change something, to make something different",
+        "meaning": "to change something; to make something different",
         "examples": [
           {
-            "sentence": "К1алэм ику '''зихъук1эгъ'''",
+            "sentence": "К1алэм ику '''зихъук1ыгъ'''",
             "translation": "The boy '''has changed''' his car."
           },
           {
-            "sentence": "Гьирэ '''зэхъок1'''",
+            "sentence": "Гирэ '''зэхъок1'''",
             "translation": "'''Change''' the gear."
+          },
+          {
+            "sentence": "Уашъом ышъо '''зэхъок1ыгъ'''",
+            "translation": "The sky's color '''has changed'''."
+          },
+          {
+            "sentence": "О лъэшэу '''узэхъок1ыгъ'''",
+            "translation": "'''You changed''' greatly."
           }
         ]
       },
@@ -54047,16 +54075,13 @@
         "meaning": "to become different",
         "examples": [
           {
-            "sentence": "Л1ыжъымэ яшъхьэц ишъо фыжьэу '''зэхъок1ы'''",
+            "sentence": "Л1ыжъымэ ашъхьэц ашъо фыжьэу '''зэхъок1ы'''",
             "translation": "The old-men's hair's color '''are changing to''' white."
-          },
-          {
-            "sentence": "Томэр зыш1у '''зэхъок1эгъ'''",
-            "translation": "Tom '''has changed''' a lot."
           }
         ]
       }
     ],
+    "shapsug": "зэхъок1ьын",
     "type": "verb",
     "ipa": "zaχʷat͡ʃʼən"
   },
@@ -73537,7 +73562,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to crush",
+        "meaning": "to squeeze",
         "examples": []
       }
     ],
@@ -89784,6 +89809,18 @@
           {
             "sentence": "К1алэр '''дэхьагъом''' 1ут",
             "translation": "The boy stand near the '''entrance'''."
+          },
+		  {
+            "sentence": "Унагъор парк '''дэхьэгъомк1э''' паркым дахьэх",
+            "translation": "The family enter the part '''from''' the park's '''entrance'''."
+          },
+		  {
+            "sentence": "Щагу '''дэхьагъо'''",
+            "translation": "Yard '''entrance'''."
+          },
+		  {
+            "sentence": "Фабрикэм '''идэхьэгъу''' дэжь къэрэгъулыр 1ус",
+            "translation": "A guard is standing near the '''entrance''' of the factory."
           }
         ]
       }
