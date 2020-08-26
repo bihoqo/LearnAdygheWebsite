@@ -1110,7 +1110,7 @@
     "large": "ины"
   },
   {
-    "girl": "пшъашъэ"
+    "girl": "пшъашъэ; пшъэшъэжъый / пшъэшъэ ц1ык1у (little girl)"
   },
   {
     "young woman": "пшъашъэ"
@@ -1689,7 +1689,7 @@
     "to come across": "тефэн; зэтефэн (to come across each other); зэ1ууп1эн (to come across with each other)"
   },
   {
-    "to encounter": "тефэн"
+    "to encounter": "тефэн (coincidentally); пэгъок1ын (usaully intentionally)"
   },
   {
     "to receive": "пэгъок1ын (to welcome someone as a host); къы1ук1эхьан (to receive something)"
@@ -2148,16 +2148,16 @@
     "millet": "мэщы, гъажъо"
   },
   {
-    "here": "мыдэ, мык1э, (dialectal) мэу, (dialectal) мы т1эк1ум"
+    "here": "мыдэ, мык1э, мэу, (dialectal) мы т1эк1ум"
   },
   {
-    "there (visible)": "модэ, мок1э, (dialectal) моу, (dialectal) мо т1эк1ум; (dialectal) удэ, (dialectal) оук1э, (dialectal) оу, (dialectal) у т1эк1ум"
+    "there (visible)": "модэ, мок1э, моу, (dialectal) мо т1эк1ум; (dialectal) удэ, (dialectal) оук1э, (dialectal) оу, (dialectal) у т1эк1ум"
   },
   {
-    "there (invisible)": "адэ, ак1э, (dialectal) ау, (dialectal) а т1эк1ум"
+    "there (invisible)": "адэ, ак1э, ау, (dialectal) а т1эк1ум"
   },
   {
-    "there": "адэ, ак1э, (dialectal) ау, (dialectal) а т1эк1ум; модэ, мок1э, (dialectal) моу, (dialectal) мо т1эк1ум"
+    "there": "адэ, ак1э, ау, (dialectal) а т1эк1ум; модэ, мок1э, моу, (dialectal) мо т1эк1ум"
   },
   {
     "that": "а (invisible); мо (visible)"
@@ -4539,7 +4539,7 @@
     "to pick up": "штэн / къэштэн; къэ1этын (to lift); техын (to pick up from)"
   },
   {
-    "to lift": "къэ1этын; къэштэн (to pick up); къэгъэтэджын (to stand up something)"
+    "to lift": "къэ1этын; къэштэн (to pick up); къэгъэтэджын (to stand up something); те1этык1ын (to lift from above something)"
   },
   {
     "to stand up": "къэтэджын (to stand up); къэгъэтэджын (to stand up something); къызшъхьапк1этын (to stand up instantly)"
@@ -5526,7 +5526,7 @@
     "to adopt": "п1ун"
   },
   {
-    "to raise": "п1ун (to adopt); дэщэен; дэ1этэен; 1этын; чӏыхын (Shapsug); ч1ыгъэк1ын (Shapsug); дэхьыен; дэгъэк1оен"
+    "to raise": "п1ун (to adopt); дэщэен; дэ1этэен; 1этын; чӏыхын (Shapsug); ч1ыгъэк1ын (Shapsug); дэхьыен; дэгъэк1оен; те1этык1ын (to lift from above)"
   },
   {
     "mat": "п1уаблэ"
@@ -9672,7 +9672,7 @@
     "soup": "хьантхъупсы (millet soup); лэпсы; стырыпс"
   },
   {
-    "if not": "хьаумэ; армырымэ; амырмэ; умыармэ"
+    "if not": "хьаумэ; армырмэ; амырмэ; умыармэ"
   },
   {
     "else if": "хьаумэ; умыармэ"
@@ -11187,7 +11187,7 @@
     "for the time being": "джырэк1э; (dialectal) иджырэк1э"
   },
   {
-    "hell": "джэхьнэм"
+    "hell": "джэхьнэм; джэхьнэм маш1о"
   },
   {
     "playmate": "джэгогъу"
@@ -11218,6 +11218,9 @@
   },
   {
     "to hate": "уджэгъун; фэмылъэгъун (despise)"
+  },
+  {
+    "adjective": "плъышъуац1"
   },
   {
     "to despise": "фэмылъэгъун"
@@ -11382,7 +11385,10 @@
     "ew": "тфый"
   },
   {
-    "even if not": "умыарми; амырми"
+    "even if not": "амырми; армырми; умыарми (even if that is not the case)"
+  },
+  {
+    "either way": "амырми; армырми"
   },
   {
     "or rather": "амырэу"
@@ -11661,7 +11667,7 @@
     "as a result": "арти"
   },
   {
-    "so": "арти (thus); сыдэу (so much); (dialectal) шъыдэу"
+    "so": "арти (thus); сыдэу (so much); (dialectal) шъыдэу; джарэу"
   },
   {
     "steering wheel": "гъэзалъэ"
@@ -12687,7 +12693,7 @@
     "toast (a proposed salutation (e.g. to say \"cheers\"))": "хъохъу"
   },
   {
-    "to happen": "щыш1ын (something to happen to someone); хъун / къэхъун (to occur); къехъул1эн (an incident to happen to someone)"
+    "to happen": "щыш1ын (something to happen to someone); хъун / къэхъун (to occur); къехъул1эн (an incident to happen to someone); техъухьан (to happen above something); ч1эхъухьан (to happen under something); хэхъухьан (to happen within an area of mass); ихъухьан (to happen inside something)"
   },
   {
     "to become": "хъун"
@@ -13467,7 +13473,7 @@
     "open-hearted": "гупц1анэ"
   },
   {
-    "little girl": "пшъэшъэжъый"
+    "little girl": "пшъэшъэжъый; пшъэшъэ ц1ык1у"
   },
   {
     "to cut off": "пыупк1ын"
