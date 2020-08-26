@@ -57203,7 +57203,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(vulgar) idiot, dumb fuck",
+        "meaning": "(vulgar) idiot, dumb fuck (literally means: dick of an ox)",
         "examples": [
           {
             "sentence": "'''Уцумана'''? уатэ къэхь къыос1уи отыч къэсфэбэхьа?",
@@ -57216,13 +57216,6 @@
         ],
         "tags": [
           "vulgar"
-        ]
-      },
-      {
-        "meaning": "(literally vulgar) dick of an ox",
-        "examples": [],
-        "tags": [
-          "literally vulgar"
         ]
       }
     ],
