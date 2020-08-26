@@ -15947,7 +15947,7 @@
     "lang": "Adyghe",
     "definitions": [ 
       {
-        "meaning": "to battle, to fight",
+        "meaning": "to fight",
         "examples": [
           {
             "sentence": "К1алэр '''мэзао''' заумк1э",
@@ -15990,7 +15990,15 @@
             "translation": "There two boys '''are fighting each other'''."
           }
         ]
+      },
+	  {
+        "meaning": "to battle",
+        "examples": []
       }
+    ],
+    "synonyms": [
+      "езэон",
+      "зэзэон"
     ],
     "type": "verb",
     "ipa": "zawan"
@@ -56984,39 +56992,11 @@
     "ipa": "qədakʷʼaħən"
   },
   {
-    "word": "хэпк1ьэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to spill a liquid onto another liquid.",
-        "examples": [
-          {
-            "sentence": "Санэ псым '''хапкьэмэ''' егъэплъыжьыт",
-            "translation": "If you spill grape on water it will make it red."
-          },
-          {
-            "sentence": "Шхъуант1эрэ гъожьырэ '''зэхапкьэхэмэ''' уцышъоу хъущт",
-            "translation": "'''If you spill''' yellow and blue '''into each other''' it will turn to green."
-          },
-          {
-            "sentence": "Псыхъ псым '''хапкьэмэ''' мэуш1оит",
-            "translation": "'''If you spill''' mud on water it will make it dirty."
-          }
-        ]
-      }
-    ],
-    "synonyms": [
-      "хэпк1эн"
-    ],
-    "type": "verb",
-    "ipa": "xapkʲan"
-  },
-  {
     "word": "хэгъэузык1ын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to make someone feel pain or to hurt (In general)",
+        "meaning": "to make someone feel pain",
         "examples": [
           {
             "sentence": "'''Къэсхэбгъэузык1ы'''",
@@ -57027,32 +57007,15 @@
             "translation": "'''You are hurting''' the boy"
           },
           {
-            "sentence": "Л1ы лъэшым '''хэбгъэузык1ышъутэп'''",
+            "sentence": "Л1ы к1уач1эм '''хэбгъэузык1ышъущтэп'''",
             "translation": "'''You can't hurt''' the strong man."
           }
         ]
       }
     ],
-    "synonyms": [
-      "хэгъэузык1ьын"
-    ],
+    "shapsug": "хэгъэузык1ьын",
     "type": "verb",
     "ipa": "xaʁawzet͡ʃən"
-  },
-  {
-    "word": "хэгъэузык1ьын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"хэгъэузык1ын\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "хэгъэузык1ын"
-    ],
-    "type": "verb",
-    "ipa": "xaʁawzekʲən"
   },
   {
     "word": "хьэдэгъу",
@@ -57072,7 +57035,12 @@
     "definitions": [
       {
         "meaning": "Asian",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Къэфкъазым '''нэзэжъу''' заулэ ит",
+            "translation": "In Kafkaz, there are a lot of '''Asians'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -57088,7 +57056,8 @@
       }
     ],
     "synonyms": [
-      "тхьацэ"
+      "тхьацэ",
+      "хьэцэ1ук1"
     ],
     "type": "adj",
     "ipa": "ħaːt͡saʁʷəj"
@@ -57108,18 +57077,6 @@
     ],
     "type": "adj",
     "ipa": "tħaːt͡sa"
-  },
-  {
-    "word": "мэзэон",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"зэон\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "mazawan"
   },
   {
     "word": "гущы1эш1у",
@@ -57150,24 +57107,45 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"зэон\"",
+        "meaning": "to fight someone",
+        "examples": [
+          {
+            "sentence": "К1алэр л1ым '''езао'''",
+            "translation": "the boy '''is fighting''' the man."
+          },
+          {
+            "sentence": "Мо хэр '''къысэзэотых'''",
+            "translation": "Those [people] '''will fight with me'''."
+          },
+          {
+            "sentence": "К1алэм '''уезэошъущта'''",
+            "translation": "'''Can you fight''' the boy"
+          },
+          {
+            "sentence": "Дунай зао ят1унэмк1э Джармынрэ Урысыемрэ '''зэзэуагъэх'''",
+            "translation": "In World War 2 Germany and Russian '''fought each other'''."
+          },
+          {
+            "sentence": "Модэ к1элит1у '''зэзаох'''",
+            "translation": "There two boys '''are fighting each other'''."
+          },
+          {
+            "sentence": "Сыбгъэгубжымэ '''усэзэощт'''",
+            "translation": "If you angry me '''I will fight you'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "to battle someone",
         "examples": []
       }
+    ],
+    "synonyms": [
+      "зэон",
+      "зэзэон"
     ],
     "type": "verb",
     "ipa": "jazawan"
-  },
-  {
-    "word": "мэбзэин",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"бзэен\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "mabzajən"
   },
   {
     "word": "бзэин",
@@ -57180,30 +57158,6 @@
     ],
     "type": "verb",
     "ipa": "bzajən"
-  },
-  {
-    "word": "мэбыбын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"быбын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "mabəbən"
-  },
-  {
-    "word": "мэбэнэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"бэнэн\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "mabanan"
   },
   {
     "word": "гоуцон",
@@ -85013,6 +84967,10 @@
           }
         ]
       }
+    ],
+    "synonyms": [
+      "зэон",
+      "езэон"
     ],
     "type": "verb",
     "ipa": "zazawan"
