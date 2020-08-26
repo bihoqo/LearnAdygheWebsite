@@ -41591,6 +41591,19 @@
             "translation": "The police '''is going to stop you'''."
           }
         ]
+      },
+      {
+        "meaning": "to arrest",
+        "examples": [
+          {
+            "sentence": "Хьэубытым '''укъигъэуцущт'''",
+            "translation": "The police '''is going to arrest you'''."
+          },
+          {
+            "sentence": "Хьэубытым к1алэр '''къигъэуцугъ'''",
+            "translation": "The police '''arrested''' the boy."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -56716,12 +56729,16 @@
         "meaning": "to laguh at; to make fun of",
         "examples": [
           {
-            "sentence": "ЗэкIэ ащ '''дэхьащхы'''",
+            "sentence": "Зэк1э ащ '''дэхьащхы'''",
             "translation": "everybody '''makes fun of''' him."
+          },
+		  {
+            "sentence": "Ахэр о '''къыдэхьащхыгъэх'''",
+            "translation": "'''They made fun of you'''."
           },
           {
             "sentence": "'''Укъыздэхьащха'''?",
-            "translation": "'''Are you kidding''' me?"
+            "translation": "'''Are you kidding me'''?"
           }
         ]
       }
@@ -56755,11 +56772,11 @@
         "examples": [
           {
             "sentence": "Л1ыжьыр '''къыобгыгъ'''",
-            "translation": "The old man '''cursed you'''."
+            "translation": "The old-man '''cursed you'''."
           },
           {
             "sentence": "Л1ыр к1алэм ыгъэчъыерэпи '''ебгыгъ'''",
-            "translation": "The man '''is damned''' the boy because he does not let him sleep."
+            "translation": "The man '''damned''' the boy because he does not let him sleep."
           }
         ]
       }
@@ -56773,7 +56790,12 @@
     "definitions": [
       {
         "meaning": "ladle",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Бзылъфыгъэм '''къашыкъымк1э''' лэпсыр лагъэм рилъхьагъ",
+            "translation": "The woman put soup into the plate '''with the ladle'''."
+          }
+        ]
       },
       {
         "meaning": "scoop",
@@ -56888,11 +56910,23 @@
     "ipa": "zapəwʁʷa"
   },
   {
+    "word": "лъэоян",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "step, rung (of a ladder)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ɬawajaːn"
+  },
+  {
     "word": "къэлэдэс",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "townsman",
+        "meaning": "townsman; town-dweller; city-dweller",
         "examples": [
           {
             "sentence": "К1алэр '''къэлэдэс'''",
@@ -56907,55 +56941,6 @@
     ],
     "type": "noun",
     "ipa": "qaɮadas"
-  },
-  {
-    "word": "шъутыпс1э",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"шъутыпц1э\"",
-        "examples": []
-      }
-    ],
-    "type": "adj",
-    "ipa": "ʃʷətəpsʼa"
-  },
-  {
-    "word": "къэгъэуцун",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to stop someone/something",
-        "examples": []
-      },
-      {
-        "meaning": "to arrest",
-        "examples": [
-          {
-            "sentence": "Полисым '''укъигъэуцут'''",
-            "translation": "The police '''gonna arrest you'''."
-          },
-          {
-            "sentence": "Полисым к1алэр '''къигъэуцогъ'''",
-            "translation": "The police '''arrested''' the boy."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "qaʁawt͡sʷən"
-  },
-  {
-    "word": "мэуцун",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"уцун\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "mawt͡sʷən"
   },
   {
     "word": "къэк1охьын",
