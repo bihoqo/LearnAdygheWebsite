@@ -57184,25 +57184,19 @@
             "translation": "'''Stop besides''' the car."
           }
         ]
+      },
+      {
+        "meaning": "(Shapsug) to beat someone",
+        "examples": [
+          {
+            "sentence": "К1алэм '''сыгоуцущт''' сигъэгуабжымэ",
+            "translation": "'''I will beat''' the boy if he makes me mad."
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "ɡʷawt͡sʷan"
-  },
-  {
-    "word": "чъу",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"цу\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "цу"
-    ],
-    "type": "noun",
-    "ipa": "t͡ʃʷə"
   },
   {
     "word": "цуманэ",
