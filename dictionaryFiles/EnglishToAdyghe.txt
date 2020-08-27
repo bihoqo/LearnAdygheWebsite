@@ -2157,7 +2157,22 @@
     "there (invisible)": "адэ, ак1э, ау, (dialectal) а т1эк1ум"
   },
   {
-    "there": "адэ, ак1э, ау, (dialectal) а т1эк1ум; модэ, мок1э, моу, (dialectal) мо т1эк1ум"
+    "there": "адэ, ак1э, ау, (dialectal) а т1эк1ум; модэ, мок1э, моу, (dialectal) мо т1эк1ум; щы1эн (there is/are, there was/were, there exist)"
+  },
+  {
+    "there is": "щы1 (there is, there exist)"
+  },
+  {
+    "there are": "щы1эх (there are, there exists)"
+  },
+  {
+    "there was": "щы1агъ (there was, there existed)"
+  },
+  {
+    "there were": "щы1агъэх (there were, there existed)"
+  },
+  {
+    "there exist": "щы1 (there is, there exist)"
   },
   {
     "that": "а (invisible); мо (visible)"
@@ -7317,7 +7332,7 @@
     "talebearer": "бзэгухь, зэщыгъэхьак1о"
   },
   {
-    "gossip": "бзэгухь, бзэгу хьын; убын"
+    "gossip": "бзэгухь; бзэгу хьын; убын"
   },
   {
     "to speak-ill": "убын (to speak-ill about)"
@@ -7332,16 +7347,16 @@
     "to badmouth": "убын"
   },
   {
-    "gossiper": "бзэгухь, бзэгу зихьырэр; зэщыгъэхьак1о"
+    "gossiper": "бзэгухь; бзэгу зихьырэр; зэщыгъэхьак1о"
   },
   {
-    "to gossip": "бзэгухьын, зэщыгъэхьак1о"
+    "to gossip": "бзэгухьын"
   },
   {
-    "tale-bearer": "бзэгухь, зэщыгъэхьак1о"
+    "tale-bearer": "бзэгухь; зэщыгъэхьак1о"
   },
   {
-    "scandal-monger": "бзэгухь, зэщыгъэхьак1о"
+    "scandal-monger": "бзэгухь; зэщыгъэхьак1о"
   },
   {
     "expressive": "жабзэ зы1улъ; гущы1эк1э1аз; жаш1у"
@@ -7473,7 +7488,19 @@
     "land": "ч1ыгу; ч1ышъхьашъу (land surface); ч1ылъэ; ч1ыналъэ"
   },
   {
-    "earth": "ч1ыгу; ч1ышъхьашъу (land surface); ч1ылъэ; ч1ыналъэ"
+    "amazing": "гъэш1эгъон; (slang) ц1ап1э (amazing, awesome, nice, cool)"
+  },
+  {
+    "to display": "къэгъэлъэгъон (to show); егъэлъэгъун (to show someone); зэрихьан (to display; to demonstrate; to exhibit)"
+  },
+  {
+    "to demonstrate": "къэгъэлъэгъон (to show); егъэлъэгъун (to show someone)"
+  },
+  {
+    "to exhibit": "къэгъэлъэгъон (to show); егъэлъэгъун (to show someone); зэрихьан (to display; to demonstrate; to exhibit)"
+  },
+  {
+    "earth": "дунай (planet earth); ч1ыгу; ч1ышъхьашъу (land surface); ч1ылъэ; ч1ыналъэ"
   },
   {
     "soil": "ч1ыгу; ч1ылъэ; ч1ыналъэ"
@@ -7710,13 +7737,13 @@
     "to request": "гук1ае е1он; еуч1ын (to ask for a request); к1эдэун (to demand)"
   },
   {
-    "to press on": "зыригъэнэн / зэбгъэнэн; къаигъэ ыш1ыгъ; инатэу фэхъун (to insist for); к1эдэун (to demand)"
+    "to press on": "тетын; темык1ын; пхырыгъэк1ын; зыригъэнэн / зегъэнэн (to persist); инатэу фэхъун (to become persistent for)"
   },
   {
-    "to persist": "зыригъэнэн / зэбгъэнэн; къаигъэ ыш1ыгъ; инатэу фэхъун (to insist for); к1эдэун (to demand)"
+    "to persist": "зыригъэнэн / зэбгъэнэн; къаигъэ ыш1ыгъ; инатэу фэхъун (to become persistent for); тетын; темык1ын; пхырыгъэк1ын"
   },
   {
-    "to insist": "зыригъэнэн / зэбгъэнэн; къаигъэ ыш1ыгъ; инатэу фэхъун (to insist for); к1эдэун (to demand)"
+    "to insist": "тетын; темык1ын; пхырыгъэк1ын; зыригъэнэн / зегъэнэн (to persist); инатэу фэхъун (to become persistent for)"
   },
   {
     "to sue": "едэон"
@@ -9759,6 +9786,21 @@
     "to bump into": "еутэк1ын"
   },
   {
+    "to donate": "гупык1–тын"
+  },
+  {
+    "wholeheartedly": "гу пык1эу"
+  },
+  {
+    "wholehearted": "гупык1"
+  },
+  {
+    "selfless": "зэмыблэжь"
+  },
+  {
+    "to give charity": "гупык1–тын"
+  },
+  {
     "help": "1эпы1эгъу"
   },
   {
@@ -11529,10 +11571,13 @@
     "to initiate": "къегъэжьэн; ублэн"
   },
   {
-    "to avoid": "ш1ок1ын; емыблэгъэн (to not get close to)"
+    "to avoid": "ш1ок1ын (to successfully avoid); емыблэгъэн (to not get close to); зыщыдзыен (to avoid)"
   },
   {
     "to try to forget": "зыщыгъэгъупшын"
+  },
+  {
+    "to fantasize": "к1эхъопсын"
   },
   {
     "to undress": "щыхын"
@@ -12301,6 +12346,9 @@
   },
   {
     "to gossip": "бзэгухьын; бзэгу фэхьын; убын"
+  },
+  {
+    "to urge": "егъэзын"
   },
   {
     "whip": "к1анлъэ; къамыщ"
@@ -17452,9 +17500,6 @@
   },
   {
     "rat": "шъуае (rat, animal); бзэгухь (someone that tells other's secrets to an authority or an enemy)"
-  },
-  {
-    "to gossip": "бзэгухьын"
   },
   {
     "to snitch": "бзэгухьын"
