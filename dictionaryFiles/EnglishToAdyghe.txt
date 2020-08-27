@@ -6162,7 +6162,19 @@
     "to create": "ш1ын (to make); къигъэш1ын (to create from nothing); къэгъэхъун (to make something appear)"
   },
   {
-    "squeamish": "1умпэм"
+    "squeamish": "зыгъэгусал"
+  },
+  {
+    "oversensitive": "зыгъэгусал"
+  },
+  {
+    "careful": "сакъ; сакъыныгъэ зыхэлъ"
+  },
+  {
+    "wary": "сакъ; сакъыныгъэ зыхэлъ"
+  },
+  {
+    "cautious": "сакъ; сакъыныгъэ зыхэлъ"
   },
   {
     "fastidious": "1умпэм"
@@ -7755,10 +7767,10 @@
     "persistent": "къаигъэ; инат"
   },
   {
-    "unsympathetic": "гумыхь; гомы1у; мыгопэ"
+    "unsympathetic": "гомыхь; гомы1у; мыгопэ"
   },
   {
-    "dislikable": "гумыхь; гомы1у; мыгопэ"
+    "dislikable": "гомыхь; гомы1у"
   },
   {
     "likable": "гохьы; го1у"
@@ -7783,9 +7795,6 @@
   },
   {
     "abominable": "гуштэгъуадж; гущык1ыгъо"
-  },
-  {
-    "squeamish": "мэхъэшал"
   },
   {
     "easily disgusted": "мэхъэшал"
@@ -11652,7 +11661,7 @@
     "to stretch": "къудыин (to stretch by pulling forcefully); зэпыщын / зэхэщын (to stretch out)"
   },
   {
-    "to dizzy": "гъэпрэзэн"
+    "to dizzy": "унэзэн; гъэунэзэн; прэзэн; гъэпрэзэн"
   },
   {
     "to bewilder": "гупшысэгъу хэдзэн; егъэгупшысэн; ыш1эн ымыш1эу ш1ын"
@@ -15795,7 +15804,7 @@
     "to trot": "ушъын"
   },
   {
-    "unpleasant": "гумы1у; гумыхь; мыгопэ"
+    "unpleasant": "гумы1у; гомыхь"
   },
   {
     "haze": "пщэсэй"

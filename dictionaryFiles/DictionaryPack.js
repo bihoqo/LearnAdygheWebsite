@@ -45643,11 +45643,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "unpleasant",
+        "meaning": "unpleasant; dislikable",
         "examples": [
           {
             "sentence": "Сызэреплъырэмк1э, ар '''гомыхь'''",
-            "translation": "I find that '''unpleasant'''."
+            "translation": "From how I look at it, that is'''dislikable'''."
           },
 		  {
             "sentence": "Мэ '''гомыхь'''",
@@ -58621,23 +58621,27 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to put one's hands into, to touch deeply",
+        "meaning": "to put one's hand into a liquid or gas",
         "examples": [
           {
             "sentence": "К1алэр псым '''хэ1абэ'''",
             "translation": "The boy '''is putting his hands into''' the water."
           },
-          {
-            "sentence": "К1алэр хым '''хэ1аби''' хихэгъ мыжъо",
-            "translation": "The boy '''put his hands into''' the sea and took a rock."
+		  {
+            "sentence": "Маш1ом '''ухэ1абэмэ''', у1э къистыщт",
+            "translation": "'''If you put your hand into''' the fire, it will burn it."
           },
           {
-            "sentence": "Шхыным '''ухэм1аб'''",
-            "translation": "'''Don't touch''' the food."
+            "sentence": "К1алэр хым '''хэ1аби''' хихыгъ пцэжъые",
+            "translation": "The boy '''put his hands into''' the sea and took a fish."
           },
           {
-            "sentence": "Ул1ымэ къэцым '''хэ1аб'''",
-            "translation": "If you are a man '''put your hands into''' the thorn."
+            "sentence": "Шхыным '''ухэмы1аб'''",
+            "translation": "'''Don't put your hand into''' the food."
+          },
+          {
+            "sentence": "Ул1ымэ къэцыхэмэ '''ахэ1аб'''",
+            "translation": "If you are a man '''put your hands into''' the thorns."
           }
         ]
       }
@@ -58653,18 +58657,43 @@
         "meaning": "to touch",
         "examples": [
           {
-            "sentence": "1анэм уи1э ш1оик1э '''утемы1'''",
+            "sentence": "1анэм у1э ш1оик1э '''утемы1'''",
             "translation": "'''Don't touch''' the table with your dirty hands."
           },
           {
-            "sentence": "Гъуч1ы фабэм к1алэр '''те1эм''' и1э къистыгъ",
-            "translation": "When the boy '''touched''' the hot iron, it burned his hands."
+            "sentence": "Гъуч1ы фабэм к1алэр '''те1эм''' ы1э къистыгъ",
+            "translation": "When the boy '''touched''' the hot iron, it burned his hand."
           }
         ]
       }
     ],
     "type": "verb",
     "ipa": "tajʔan"
+  },
+  {
+    "word": "фэлъэ1он",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to prayer for",
+        "examples": [
+          {
+            "sentence": "Зыщыщэми дэуахьык1э '''фэлъа1о'''.",
+            "translation": "'''(S)he prays for''' the ones (s)he belongs to."
+          },
+          {
+            "sentence": "Иунагъо дэуахьык1э '''фэлъа1о'''.",
+            "translation": "'''(S)he prays for''' his family."
+          },
+          {
+            "sentence": "'''Къэсфэлъа1у'''",
+            "translation": "'''Pray for me'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "faɬaʔʷan"
   },
   {
     "word": "дэуахьы",
@@ -58675,7 +58704,7 @@
         "examples": [
           {
             "sentence": "Зыщыщэми '''дэуахьык1э''' фэлъа1о.",
-            "translation": "He prays for the ones that he belong to."
+            "translation": "He prays for the ones he belongs to."
           },
           {
             "sentence": "Иунагъо '''дэуахьык1э''' фэлъа1о.",
@@ -58699,47 +58728,47 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be from; to be a part of a group of some kind; to be belong to",
+        "meaning": "to be from; to be a part/member of a group of some kind; to be belong to",
         "examples": [
           {
-            "sentence": "Томэр Адыгэмэ '''ащыщ'''.",
-            "translation": "'''He is one of''' the Adyghe people."
+            "sentence": "Куджаныр Адыгэмэ '''ащыщ'''.",
+            "translation": "'''Kujan is one of''' the Adyghe people."
           },
           {
             "sentence": "К1алэр къашъохэмэ '''ащыщагъэ'''.",
-            "translation": "The boy '''was belong to''' the dancers."
+            "translation": "The boy '''was a member of''' the dancers."
           },
           {
             "sentence": "К1алэр къалэм '''щыщ'''.",
-            "translation": "The boy '''is belong to''' the city."
+            "translation": "The boy '''is from''' the city."
           },
           {
             "sentence": "Шъыпкъэу '''укъэтщыщэмэ''' къэтдак1у.",
             "translation": "'''If you are''' truly '''one of us''' come with us."
           },
           {
-            "sentence": "Мыер пхъэшъхьэмышъхьэхэмэ '''ащыщ'''.",
-            "translation": "The apple '''is belong to''' the fruits."
+            "sentence": "Мыер пхъэшъхьэ-мышъхьэхэмэ '''ащыщ'''.",
+            "translation": "The apple '''belongs to''' the fruit family."
           },
           {
             "sentence": "'''Зыщыщэми''' дэуахьык1э фэлъа1о.",
-            "translation": "He prays for '''the ones that he belong to'''."
+            "translation": "He prays for '''the ones he belongs to'''."
           },
           {
-            "sentence": "У к1алэм ишэн зыгорэми '''щыщэп'''.",
-            "translation": "That boy's behavior '''doesn't belong''' to anything."
+            "sentence": "Мо к1алэм ишэн зыгорэми '''щыщэп'''.",
+            "translation": "That boy's behavior '''doesn't belong''' to anything (meant to indicate bad behavior)."
           },
           {
-            "sentence": "Мо к1алэр '''къэтщыщ''', ау мо пшъашъэр '''къэтщыщэп'''.",
-            "translation": "That boy '''is one of us''', but that girl '''is not one of us'''."
+            "sentence": "Мы к1алэр '''къэтщыщ''', ау мо пшъашъэр '''къэтщыщэп'''.",
+            "translation": "This boy '''is one of us''', but that girl '''is not one of us'''."
           },
           {
-            "sentence": "У л1ыр шъуук1, Ор къытэзаохэмэ '''ащыщ'''.",
-            "translation": "Kill that man (said to plural), he '''is one of''' the people that are attacking us."
+            "sentence": "Мо л1ыр шъуук1, мор къытэзаохэмэ '''ащыщ'''.",
+            "translation": "Kill that man, he '''is one of''' the people that are attacking us."
           },
           {
             "sentence": "'''Шъусщыщэнэу''' сыфай.",
-            "translation": "I wanna '''be one of you guys'''."
+            "translation": "I want to '''be one of you guys'''."
           }
         ]
       }
@@ -58748,23 +58777,35 @@
     "ipa": "ɕəɕan"
   },
   {
-    "word": "мэмэхъэшэн",
+    "word": "сакъ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"мэхъэшэн\"",
+        "meaning": "careful, cautious; wary",
         "examples": []
       }
     ],
-    "type": "verb",
-    "ipa": "mamaχaʃan"
+    "type": "adj",
+    "ipa": "saːq"
+  },
+  {
+    "word": "зыгъэгусал",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "squeamish; easily bothered or upset; oversensitive",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "zəʁagʷəsaːɮ"
   },
   {
     "word": "мэхъэшал",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "squeamish; easily disgusted; someone who gets disgusted easily",
+        "meaning": "easily disgusted; one who gets disgusted easily",
         "examples": []
       }
     ],
@@ -58776,12 +58817,24 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "unpleasant; dislikable",
+        "meaning": "alternative form of \"гомыхь\"",
         "examples": []
       }
     ],
     "type": "adj",
     "ipa": "gʷəməħ"
+  },
+  {
+    "word": "мыгуапэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"мыгопэ\"",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "məgʷapa"
   },
   {
     "word": "мыгопэ",
@@ -58796,16 +58849,37 @@
     "ipa": "məgʷapa"
   },
   {
-    "word": "гомы1у",
+    "word": "гумы1у",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "dislikable",
+        "meaning": "alternative form of \"гомы1у\"",
         "examples": []
       }
     ],
     "type": "adj",
     "ipa": "gʷəməħ"
+  },
+  {
+    "word": "гомы1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "unpleasant; dislikable",
+        "examples": [
+          {
+            "sentence": "Къэбар '''гомы1у''' къыпфэсхьыгъ, ук1алэ заом хэук1эхьагъ",
+            "translation": "I brought you '''an unpleasant''' news, your son was killed in battle."
+          },
+		  {
+            "sentence": "Ар ц1ыф '''гомы1у''', ащ пае ныбджэгъу и1эп",
+            "translation": "That is '''a dislikable''' person, that is why (s)he has no friends."
+          }
+        ]
+      }
+    ],
+    "type": "adj",
+    "ipa": "gʷaməħ"
   },
   {
     "word": "гъэмэхъэшэн",
@@ -58816,7 +58890,7 @@
         "examples": [
           {
             "sentence": "К1алэм '''сегъэмэхъашэ'''.",
-            "translation": "The boy '''is disgusting me'''."
+            "translation": "The boy '''disgusts me'''."
           },
           {
             "sentence": "'''Сэбэгъэмэхъашэ'''.",
@@ -58825,6 +58899,10 @@
           {
             "sentence": "К1алэм пшъашъэр '''егъэмэхъашэ''' иджанэ шъоихэмк1э.",
             "translation": "The boy '''is disgusting''' the girl with his dirty clothes."
+          },
+          {
+            "sentence": "Уишхак1э '''сегъэмэхъашэ'''."
+            "translation": "The way you eat '''disgusts''' me."
           }
         ]
       }
@@ -58837,36 +58915,12 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"мэут1эт1эн\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "wətʼatʼan"
-  },
-  {
-    "word": "мэут1эт1эн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
         "meaning": "alternative form of \"т1эт1эн\"",
         "examples": []
       }
     ],
     "type": "verb",
     "ipa": "wətʼatʼan"
-  },
-  {
-    "word": "мэт1эт1эн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"т1эт1эн\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "matʼatʼan"
   },
   {
     "word": "мэт1ат1э",
@@ -58893,12 +58947,16 @@
         "meaning": "to drip (a sticky substances) on; to drizzle on",
         "examples": [
           {
-            "sentence": "Шъоур анэм '''тет1ат1э'''.",
+            "sentence": "Шъоур 1анэм '''тет1ат1э'''.",
             "translation": "The honey '''is dripping on''' the table."
           },
           {
-            "sentence": "К1элэц1ык1ур шхэу иджанэ '''тет1ат1э''' шъоу.",
-            "translation": "The boy '''drips''' honey '''on''' his shirt while eating."
+            "sentence": "К1элэц1ык1ур шхэу иджанэ '''тет1эт1агъ''' шъоур.",
+            "translation": "While the boy was eating, the honey '''dripped on''' his shirs."
+          },
+          {
+            "sentence": "К1элэц1ык1ур шъоу ихьалыгъу '''трегъэт1ат1э'''.",
+            "translation": "The little boy '''drizzles''' honey on his bread."
           }
         ]
       }
@@ -58916,20 +58974,12 @@
           {
             "sentence": "'''Умыгъэт1ат1''' шхынэр.",
             "translation": "'''Don't drip''' the food."
+          },
+          {
+            "sentence": "К1элэц1ык1ур шъоу ихьалыгъу '''трегъэт1ат1э'''.",
+            "translation": "The little boy '''drizzles''' honey on his bread."
           }
         ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "ʁatʼatʼan"
-  },
-  {
-    "word": "тэгъэт1эт1эн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"тегъэт1эт1эн\"",
-        "examples": []
       }
     ],
     "type": "verb",
@@ -58943,11 +58993,19 @@
         "meaning": "to tear off (intensively) something from something; to rip away from; to pull off",
         "examples": [
           {
-            "sentence": "Л1ым чъыгым икъуамэхэр '''петхъых'''",
+            "sentence": "Л1ым чъыгым икъутамэхэр '''петхъых'''",
             "translation": "The man '''tears off''' the tree's branches."
           },
+		  {
+            "sentence": "Ц1ыфым ы1эхэр къины '''пыпытхъыныхэр'''",
+            "translation": "It is hard '''to rip''' a human's arms '''off'''."
+          },
+		  {
+            "sentence": "Цухэмэ абжъэхэр '''патхъых'''",
+            "translation": "'''They rip off''' the oxen's horns"
+          },
           {
-            "sentence": "IэкIэ шэкIым '''питхъын''' фае хъугъэ",
+            "sentence": "1эк1э шэк1ым '''питхъын''' фае хъугъэ",
             "translation": "(S)he had to '''tear off''' the cloth using his hands."
           }
         ]
@@ -58968,11 +59026,11 @@
             "translation": "The boy '''is pulling''' the rope."
           },
           {
-            "sentence": "К1апсэр бащэу '''укъудыимэ''' зэпытхъыт",
-            "translation": "'''if you pull''' the rope too much it tear."
+            "sentence": "К1апсэр бащэу '''укъудыимэ''' зэпытхъыщт",
+            "translation": "'''If you pull''' the rope too much it will tear."
           },
           {
-            "sentence": "Пчъэр '''къудыйи''' ихь",
+            "sentence": "Пчъэр '''къудыий''' ихь",
             "translation": "'''Pull''' the door and enter."
           }
         ]
@@ -58980,6 +59038,27 @@
     ],
     "type": "verb",
     "ipa": "qʷədəjən"
+  },
+  {
+    "word": "зэпыщын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to stretch out",
+        "examples": [
+          {
+            "sentence": "К1алэм к1апсэр '''зэпещы'''",
+            "translation": "The boy '''is stretch''' the rope."
+          },
+          {
+            "sentence": "К1апсэр бащэу '''зэпыпщымэ''' зэпытхъыщт",
+            "translation": "'''If you stretch''' the rope too much it will tear."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zapəɕən"
   },
   {
     "word": "екъудыин",
@@ -58992,6 +59071,18 @@
     ],
     "type": "verb",
     "ipa": "qʷədəjən"
+  },
+  {
+    "word": "пырэзэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"прэзэн\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "prazan"
   },
   {
     "word": "прэзэн",
@@ -59038,18 +59129,6 @@
     ],
     "type": "verb",
     "ipa": "ʁaprazan"
-  },
-  {
-    "word": "мэц1эшъутэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"ц1эшъутэн\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "mat͡sʼaʃʷtan"
   },
   {
     "word": "щыхьэн",
@@ -78929,18 +79008,6 @@
     "ipa": "zaxaɕən"
   },
   {
-    "word": "зэпыщын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to stretch out",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "zapəɕən"
-  },
-  {
     "word": "гъэфыкъон",
     "lang": "Adyghe",
     "definitions": [
@@ -85086,7 +85153,12 @@
     "definitions": [
       {
         "meaning": "grief, distress, sadness",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Къэбар '''гукъау''' къыпфэсхьыгъ, ук1алэ заом хэук1эхьагъ",
+            "translation": "I brought you '''misfortunate''' news, your son was killed in battle."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -89738,18 +89810,6 @@
     "ipa": "wəʂən"
   },
   {
-    "word": "гумы1у",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "unpleasant",
-        "examples": []
-      }
-    ],
-    "type": "adj",
-    "ipa": "ɡʷəməʔʷ"
-  },
-  {
     "word": "тхьары1у",
     "lang": "Adyghe",
     "definitions": [
@@ -90691,6 +90751,10 @@
           {
             "sentence": "Сиятэ 1эш1у-1уш1ухэр '''къыхьыгъэх'''",
             "translation": "My father '''brought''' sweets."
+          },
+		  {
+            "sentence": "Къэбар гомы1у '''къыпфэсхьыгъ'''",
+            "translation": "'''I brought you''' an unpleasant news."
           }
         ]
       },
@@ -91709,6 +91773,10 @@
           {
             "sentence": "щэнаутэу къы1уихырэм шъхьэр '''егъэуназэ'''",
             "translation": "The poison that emits from the area '''spins''' the head '''to dizziness'''."
+          },
+		  {
+            "sentence": "К1алэр '''сэгъэунэзэ'''",
+            "translation": "'''I am making''' the boy '''dizzy'''."
           }
         ]
       }
@@ -93094,7 +93162,16 @@
     "definitions": [
       {
         "meaning": "news, piece of news",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Къэбар''' гомы1у къыпфэсхьыгъ",
+            "translation": "I brought you an unpleasant '''news'''."
+          },
+		  {
+            "sentence": "'''Къэбар''' дэгъу сэ1угъ",
+            "translation": "I heard good '''news'''."
+          }
+        ]
       },
       {
         "meaning": "tidings",
@@ -98767,6 +98844,10 @@
           {
             "sentence": "К1алэм дэпкъэу ылэрэм нахь бэ шъо '''тегъэт1ат1э'''.",
             "translation": "The boy '''is spilling''' more color than he uses on the wall."
+          },
+          {
+            "sentence": "К1элэц1ык1ур шъоу ихьалыгъу '''трегъэт1ат1э'''.",
+            "translation": "The little boy '''drizzles''' honey on his bread."
           }
         ]
       }
