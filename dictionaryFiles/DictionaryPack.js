@@ -36435,6 +36435,18 @@
           {
             "sentence": "К1алэм '''ыщэфыгъ''' телевидение к1э",
             "translation": "The boy '''bought''' a new television."
+          },
+		  {
+            "sentence": "К1алэм ыянэ ш1ухьафтын '''фещэфы'''",
+            "translation": "The boy '''is buying''' a gift '''for''' his mother."
+          },
+		  {
+            "sentence": "Щэ '''къыпфэсщэфыгъ'''",
+            "translation": "'''I bought for you''' milk."
+          },
+		  {
+            "sentence": "Зыгорэ '''къэсфэпщэфышъущта'''?",
+            "translation": "'''Can you buy for me''' something?"
           }
         ]
       }
@@ -50790,6 +50802,10 @@
           {
             "sentence": "К1алэм маш1ор '''егъэк1уасэ'''",
             "translation": "The boy '''is extinguishing''' the fire."
+          },
+		  {
+            "sentence": "К1алэм ыгукъэк1ыжьыгъ маш1ор '''зэримыгъэк1осагъэр'''",
+            "translation": "The boy suddenly remembered that '''he didn't extinguish the fire'''."
           }
         ]
       },
@@ -52901,7 +52917,7 @@
             "translation": "'''Give me''' the ball."
           },
           {
-            "sentence": "Сэ ш1ухьафтын Куджаным '''есэты'''",
+            "sentence": "Сэ ш1ухьафтыныр Куджаным '''есэты'''",
             "translation": "'''I am giving''' the gift to Kujan."
           },
           {
@@ -59147,19 +59163,37 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to make someone scream,yell,shout",
+        "meaning": "to make someone yell/shout",
         "examples": [
           {
             "sentence": "К1алэм пшъашъэр '''егъэкуо'''",
             "translation": "The boy '''is making''' the girl '''scream'''."
           },
           {
-            "sentence": "'''Сыкъэмгъэкуу'''",
+            "sentence": "'''Сыкъэмыгъэкуу'''",
             "translation": "'''Don't make me shout'''."
           }
         ]
       }
     ],
+    "type": "verb",
+    "ipa": "ʁakʷəwan"
+  },
+  {
+    "word": "гъэк1ыин",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to make someone scream",
+        "examples": [
+          {
+            "sentence": "К1алэм пшъашъэр '''егъээк1ыи'''",
+            "translation": "The boy '''is making''' the girl '''scream'''."
+          }
+        ]
+      }
+    ],
+    "shapsug": "гъэк1ьыин",
     "type": "verb",
     "ipa": "ʁakʷəwan"
   },
@@ -59172,37 +59206,22 @@
         "examples": []
       }
     ],
-    "synonyms": [
-      "угь",
-      "----"
-    ],
+    "shapsug": "угь",
     "type": "noun",
     "ipa": "wəd͡ʒ"
   },
   {
-    "word": "угь",
+    "word": "гу къэк1ын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"удж\"",
+        "meaning": "alternative form of \"гукъэк1ын\"",
         "examples": []
       }
     ],
-    "kabardian": "удж",
-    "type": "noun",
-    "ipa": "wəɡʲ"
-  },
-  {
-    "word": "ф1эжъыуф1",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"фэжъыуф\"",
-        "examples": []
-      }
-    ],
-    "type": "adj",
-    "ipa": "fˠaʐəwfˠ"
+    "shapsug": "гу къэк1ьын",
+    "type": "verb",
+    "ipa": "ɡʷə qat͡ʃʼən"
   },
   {
     "word": "гукъэк1ын",
@@ -59225,14 +59244,12 @@
           },
           {
             "sentence": "К1алэм '''ыгукъэк1ыгъ''' игъусэ пшъашъэ ш1ухьафтын фырищэфынэу",
-            "translation": "The boy '''suddenly thought''' about buying a present for his girlfriend."
+            "translation": "The boy '''got the idea of''' buying a present for his girlfriend."
           }
         ]
       }
     ],
-    "synonyms": [
-      "гукъэк1ьын"
-    ],
+    "shapsug": "гукъэк1ьын",
     "type": "verb",
     "ipa": "ɡʷəqat͡ʃʼən"
   },
@@ -59245,7 +59262,7 @@
         "examples": [
           {
             "sentence": "К1алэм '''ыгукъэк1ыжьыгъ''' маш1ор зэримыгъэк1осагъэр",
-            "translation": "The boy '''suddenly remembered''' he didn't extinguished the fire."
+            "translation": "The boy '''suddenly remembered''' he didn't extinguish the fire."
           },
           {
             "sentence": "Мо к1алэр '''угукъэк1ыжьа'''?",
@@ -59260,15 +59277,17 @@
             "translation": "'''I can't remember''' anything."
           },
           {
+            "sentence": "Джы '''угукъэк1ыжьыгъа''' тучаным зэрэтык1он фэягъэр",
+            "translation": "'''Did you suddenly remembered''' that we should have gone to the shop."
+          },
+          {
             "sentence": "Чэщым '''угукъэк1ыжьыгъа''' хым тхэхьанэу?",
-            "translation": "'''Do you suddenly remembered''' in the night that we should enter the sea?"
+            "translation": "'''Did you suddenly remembered''' in the night that we should enter the sea?"
           }
         ]
       }
     ],
-    "synonyms": [
-      "гукъэк1ьыжьын"
-    ],
+    "shapsug": "гукъэк1ьыжьын",
     "type": "verb",
     "ipa": "ɡʷəqat͡ʃʼəʑən"
   },
@@ -59282,7 +59301,31 @@
       }
     ],
     "type": "verb",
-    "ipa": "jəɡʷə xat͡ʃən"
+    "ipa": "əɡʷə xat͡ʃʼən"
+  },
+  {
+    "word": "ыгу хэк1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"гухэк1ын\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "jəɡʷə xat͡ʃʼən"
+  },
+  {
+    "word": "гу хэк1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"гухэк1ын\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɡʷəxat͡ʃʼən"
   },
   {
     "word": "ш1ухьафтын",
@@ -59290,7 +59333,28 @@
     "definitions": [
       {
         "meaning": "present, gift",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''ш1ухьафтын''' пшъашъэм фехьы.",
+            "translation": "The boy is bringing '''a gift''' to the girl."
+          },
+		  {
+            "sentence": "К1алэм ыянэ '''ш1ухьафтын''' фещэфы.",
+            "translation": "The boy is buying '''a gift''' for his mother."
+          },
+		  {
+            "sentence": "'''ш1ухьафтын''' гъэш1эгъон горэ сэ къыпфэсхьыщт.",
+            "translation": "I will bring you an out of the ordinary '''gift'''."
+          },
+          {
+            "sentence": "Сэ '''ш1ухьафтыныр''' Куджаным есэты",
+            "translation": "I am giving '''the gift''' to Kujan."
+          },
+          {
+            "sentence": "К1алэм ыгукъэк1ыгъ игъусэ пшъашъэ '''ш1ухьафтын''' фырищэфынэу",
+            "translation": "The boy got the idea of buying '''a present''' for his girlfriend."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -59300,18 +59364,113 @@
     "ipa": "ʃʷʼəħaːftən"
   },
   {
+    "word": "фэщэфын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to buy for",
+        "examples": [
+		  {
+            "sentence": "К1алэм ыянэ ш1ухьафтын '''фещэфы'''",
+            "translation": "The boy '''is buying''' a gift '''for''' his mother."
+          },
+		  {
+            "sentence": "Щэ '''къыпфэсщэфыгъ'''",
+            "translation": "'''I bought for you''' milk."
+          },
+		  {
+            "sentence": "Зыгорэ '''къэсфэпщэфышъущта'''?",
+            "translation": "'''Can you buy for me''' something?"
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "faɕafən"
+  },
+  {
+    "word": "хьыжьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to return something",
+        "examples": [
+          {
+            "sentence": "Тучаным ш1ухьафтыныр '''хьыжь'''",
+            "translation": "'''Return''' the gift to the shop."
+          },
+		  {
+            "sentence": "К1алэм кур тучаным '''ехьыжьы'''",
+            "translation": "The boy '''returns''' the car to the shop."
+          },
+		  {
+            "sentence": "К1алэм кур л1ым '''фихьыжьыгъ'''",
+            "translation": "The boy '''returned''' the car to the man."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ħəʑən"
+  },
+  {
+    "word": "етыжьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to give back",
+        "examples": [
+          {
+            "sentence": "1унк1ыбзэхэр джыри '''къысатыжьыгъэп'''",
+            "translation": "'''They''' still haven't '''given''' the keys '''back to me'''."
+          },
+		  {
+            "sentence": "Пшъашъэм ш1ухьафтыныр '''етыжьы'''",
+            "translation": "'''Give back''' the gift to the girl."
+          },
+		  {
+            "sentence": "К1алэм кур л1ым '''ритыжьыгъ'''",
+            "translation": "The boy '''gave back''' the car to the man."
+          },
+		  {
+            "sentence": "Ахъщэ т1эк1у джы къысэт, ет1анэ '''къыостыжьыщт'''",
+            "translation": "Give me some money now, '''I will give it to you back''' later."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ħəʑən"
+  },
+  {
     "word": "гъэзэжьын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to return (from where you came)",
+        "meaning": "to return (to return back to where one came)",
         "examples": [
           {
-            "sentence": "Уиунэ '''гъэзэжь'''",
+            "sentence": "Тучаным ш1ухьафтыныр '''егъэзэжь'''",
+            "translation": "'''Return''' the gift to the shop."
+          },
+		  {
+            "sentence": "К1алэм кур тучаным '''егъэзэжьы'''",
+            "translation": "The boy '''returns''' the car to the shop."
+          },
+		  {
+            "sentence": "Уунэ '''гъэзэжь'''",
             "translation": "'''Return''' to your home."
           },
+		  {
+            "sentence": "Нек1о '''тыгъэзэжьыщт'''",
+            "translation": "Let's '''return'''."
+          },
+		  {
+            "sentence": "К1алжм яунэ '''ыгъэзэжьыгъ'''",
+            "translation": "The boy '''returned''' home."
+          },
           {
-            "sentence": "Л1ым елъэгъум зэрэблэмк1ышъущтэ '''зигъэзэжьыгъ'''",
+            "sentence": "Л1ым елъэгъум зэрэблэмык1ышъущтэ '''зигъэзэжьыгъ'''",
             "translation": "When the man saw that he can't pass,'''he returned'''."
           }
         ]
@@ -59319,18 +59478,6 @@
     ],
     "type": "verb",
     "ipa": "ʁazaʑən"
-  },
-  {
-    "word": "мэк1одын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"к1одын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "makʷʼadən"
   },
   {
     "word": "джыджэн",
@@ -59342,27 +59489,19 @@
           {
             "sentence": "Мыжъор '''мэджыджэ'''",
             "translation": "The rock is '''rolling'''."
+          },
+		  {
+            "sentence": "Топыр гъогум '''еджыджэхы'''",
+            "translation": "The ball '''is rolling down''' the road."
+          },
+		  {
+            "sentence": "К1алэм топыр '''егъэджыджэ'''",
+            "translation": "The boy '''is rolling''' the ball."
           }
         ]
       }
     ],
     "synonyms": [
-      "джын"
-    ],
-    "type": "verb",
-    "ipa": "mad͡ʒəd͡ʒan"
-  },
-  {
-    "word": "мэджыджэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"джыджэн\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "джыджэн",
       "джын"
     ],
     "type": "verb",
@@ -59376,18 +59515,22 @@
         "meaning": "to roll down",
         "examples": [
           {
-            "sentence": "Мыжъор 1уашъхьэм '''еджыджэхы'''",
+            "sentence": "Мыжъор 1уашъхьэм '''къеджыджэхы'''",
             "translation": "The rock is '''rolling from''' the hill."
           },
           {
-            "sentence": "1эгуаор '''еджыджэхэгъ''' гъогум",
+            "sentence": "Топыр '''еджыджэхыгъ''' гъогум",
             "translation": "The ball '''rolled to''' the road."
+          },
+		  {
+            "sentence": "Топыр гъогум '''еджыджэхы'''",
+            "translation": "The ball '''is rolling down''' the road."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "jad͡ʒəd͡ʒan"
+    "ipa": "jad͡ʒəd͡ʒaxən"
   },
   {
     "word": "гъэджыджэн",
@@ -59397,16 +59540,20 @@
         "meaning": "to roll",
         "examples": [
           {
-            "sentence": "1эгуаор '''къэгъэджыдж'''",
+            "sentence": "Топыр '''къэсфэгъэджыдж'''",
             "translation": "'''Roll''' the ball '''to me'''."
           },
           {
-            "sentence": "1эгуаор '''гъэджыдж'''",
+            "sentence": "Топыр '''гъэджыдж'''",
             "translation": "'''Roll''' the ball."
           },
           {
-            "sentence": "Мыжъо джадэр '''умгъэджыдж'''",
+            "sentence": "Мыжъо джадэр '''умыгъэджыдж'''",
             "translation": "'''Don't roll''' the big rock."
+          },
+		  {
+            "sentence": "К1алэм топыр '''егъэджыджэ'''",
+            "translation": "The boy '''is rolling''' the ball."
           }
         ]
       }
@@ -71586,8 +71733,7 @@
       }
     ],
     "synonyms": [
-      "ш1ухьафтын",
-      "----"
+      "ш1ухьафтын"
     ],
     "type": "noun",
     "ipa": "tənə"

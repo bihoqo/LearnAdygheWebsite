@@ -9933,7 +9933,10 @@
     "separately": "шъхьаф-шъхьафэу; зыр зырэу (one by one)"
   },
   {
-    "to return": "къэгъэзэжьын (to return back to where one came); к1ожьын (to go back there); къэк1ожьын (to return back here); зэк1ежьэжьын; дэхьажьын (to head back)"
+    "to return": "етыжьын (to give back); хьыжьын (to return something); гъэзэжьын (to return back to where one came); къэгъэзэжьын (to return back here); к1ожьын (to go back there); къэк1ожьын (to return back here); зэк1ежьэжьын; дэхьажьын (to head back)"
+  },
+  {
+    "to give back": "етыжьын"
   },
   {
     "to go back": "к1ожьын"
@@ -11661,7 +11664,7 @@
     "to stretch": "къудыин (to stretch by pulling forcefully); зэпыщын / зэхэщын (to stretch out)"
   },
   {
-    "to dizzy": "унэзэн; гъэунэзэн; прэзэн; гъэпрэзэн"
+    "to dizzy": "унэзэн (to get dizzy); гъэунэзэн (to make dizzy); прэзэн (to get dizzy); гъэпрэзэн  (to make dizzy)"
   },
   {
     "to bewilder": "гупшысэгъу хэдзэн; егъэгупшысэн; ыш1эн ымыш1эу ш1ын"
