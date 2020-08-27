@@ -59586,7 +59586,7 @@
         "meaning": "top",
         "examples": [
           {
-            "sentence": "Унэм '''ик1ы1у''' тэфагъ мыжъор",
+            "sentence": "Унэм '''ык1ы1у''' тефагъ мыжъор",
             "translation": "The rock fell on '''the top''' of the house."
           }
         ]
