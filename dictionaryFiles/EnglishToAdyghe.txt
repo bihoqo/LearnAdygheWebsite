@@ -3132,10 +3132,10 @@
     "tunnel": "бгыгъуанэ"
   },
   {
-    "beam": "бгыкъу"
+    "beam": "бгыкъу; к1эбгыкъу"
   },
   {
-    "girder": "бгыкъу"
+    "girder": "бгыкъу; к1эбгыкъу"
   },
   {
     "rafter": "пхъэцу"
@@ -3384,7 +3384,7 @@
     "trumpet blower": "бжъэмыяпщ"
   },
   {
-    "to be okay": "зэгъэн; езэгъыгъ (to be okay with)"
+    "to be okay": "хъун (to be okay, to be allowed, to be permitted); зэгъэн (to be okay with the siuation)"
   },
   {
     "flutist": "бжъэмыяпщ"
@@ -4491,7 +4491,10 @@
     "to be heated": "плъын"
   },
   {
-    "to heat": "плъын (to be heated); гъэплъын (to heat something)"
+    "to heat": "гъэфэбэн (to warm something); плъын (to be heated); гъэплъын (to heat something)"
+  },
+  {
+    "to warm": "гъэфэбэн (to warm something)"
   },
   {
     "isolated": "пыдзыгъ"
@@ -11709,7 +11712,7 @@
     "to carry": "хьын; фэхьын (to carry for, to carry to); дэхьын (to take/carry something along); зехьан / зэрихьан (to carry something); къехьак1ын (to carry around); дэхьыен (to carry up); ехьэхын (to carry down); ехьыл1эн (to carry to)"
   },
   {
-    "to try out": "плъэк1ун"
+    "to try out": "уплъэк1ун"
   },
   {
     "to try": "1он"
@@ -11718,16 +11721,13 @@
     "to attempt": "1он"
   },
   {
-    "to kill": "ук1ын; гъэл1эн (to cause to die); хиук1ыхьан (to kill in a war/forest); хэук1ыхьан (to be killed in a war/forest); (dialectal) гъэк1одын; гъэл1эн; 1эк1эук1эн (to kill somebody inadvertently)"
+    "to kill": "ук1ын; гъэл1эн (to cause to die); хиук1ыхьан (to kill in a war/forest); хэук1ыхьан (to be killed in a war/forest); (dialectal) гъэк1одын; гъэл1эн (to make someone die, to cause someone's death); 1эк1эук1эн (to kill somebody inadvertently)"
   },
   {
     "thus": "арти"
   },
   {
     "as a result": "арти"
-  },
-  {
-    "so": "арти (thus); сыдэу (so much); (dialectal) шъыдэу; джарэу"
   },
   {
     "steering wheel": "гъэзалъэ"
@@ -11758,6 +11758,9 @@
   },
   {
     "accordion": "пщынэ"
+  },
+  {
+    "drum": "шъондырып"
   },
   {
     "to shuck": "дзуцон"
@@ -11791,6 +11794,12 @@
   },
   {
     "to scurry": "к1и1эн; к1итхъун"
+  },
+  {
+    "to dash away": "к1и1эн; к1итхъун"
+  },
+  {
+    "to scurry away": "к1и1эн; к1итхъун"
   },
   {
     "to stupefy": "къын (to get stupefied); гъэкъын (to stupefied)"
@@ -13263,7 +13272,10 @@
     "to please": "гъэрэзэн"
   },
   {
-    "to dismiss": "1угъэк1ын; тегъэк1ын (to dismiss a boss/leader)"
+    "to quit work": "1ук1ын"
+  },
+  {
+    "to dismiss": "1угъэк1ын (to dismiss an employee); тегъэк1ын (to dismiss a boss/leader)"
   },
   {
     "to discharge": "1угъэк1ын; тегъэк1ын (to discharge a boss/leader)"
@@ -13302,7 +13314,16 @@
     "to gather stuff": "къэщыпын; къэугъоин"
   },
   {
-    "because": "сыда п1омэ; (dialectal) шъыда п1омэ; (slang) сыда / шъыда; ащ фэш1к1э (because of that); ащ пае (because of that)"
+    "because": "сыда п1омэ (the reason is, the purpose is); (dialectal) шъыда п1омэ; ащ пае / ащ фэш1к1э / арти (because of that); арти (so, therefore); (dialectal) зары"
+  },
+  {
+    "therefore": "арти (so, therefore)"
+  },
+  {
+    "so": "арти (so, therefore); сыдэу (so much); (dialectal) шъыдэу; джарэу"
+  },
+  {
+    "sickly": "сымэджал; узыгъэл"
   },
   {
     "whore": "(vulgar) къэхьыпэ"
@@ -17025,16 +17046,10 @@
     "alcoholic": "ешъуак1о; ешъорый"
   },
   {
-    "because of that; for that": "ащ пае"
+    "because of that": "ащ пае; ащ фэш1к1э; арти"
   },
   {
-    "because of that; for that": "ащ фэш1ык1э"
-  },
-  {
-    "because (for what cause, reason, or purpose)": "сыда п1омэ"
-  },
-  {
-    "(dialectal) because (for what cause, reason, or purpose)": "зары"
+    "for that": "ащ пае; ащ фэш1к1э; арти"
   },
   {
     "hair lash (head)": "шъхьацышъо"
@@ -17328,16 +17343,16 @@
     "to get it": "хэхьан"
   },
   {
-    "to examine": "плъэк1ун; ушэтын"
+    "to examine": "уплъэк1ун; ушэтын"
   },
   {
-    "to check": "плъэк1ун; ушэтын"
+    "to check": "уплъэк1ун; ушэтын"
   },
   {
-    "to verify": "плъэк1ун; ушэтын"
+    "to verify": "уплъэк1ун; ушэтын"
   },
   {
-    "to test": "плъэк1ун; ушэтын"
+    "to test": "уплъэк1ун; ушэтын"
   },
   {
     "to dam": "дзон"
