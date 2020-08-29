@@ -61295,11 +61295,20 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(Kfar Kama dialect) to be totally frozen",
+        "meaning": "(Kfar Kama dialect) to be frozen within an area with some mass (liquid or gas)",
         "examples": [
           {
             "sentence": "Иныжъэр осым '''хэкъыхьагъ'''",
             "translation": "The giant '''was frozen''' in the snow"
+          }
+        ]
+      },
+	  {
+        "meaning": "to get stupefied within an area with some mass (liquid or gas)",
+        "examples": [
+          {
+            "sentence": "Л1ыр осым '''хэкъыхьагъ'''",
+            "translation": "The man '''was stupefied''' in the snow"
           }
         ]
       }
@@ -61313,11 +61322,20 @@
     "definitions": [
       {
         "meaning": "to get stupefied",
-        "examples": []
-      },
-      {
-        "meaning": "to get frozen with terror",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''къыгъэ'''",
+            "translation": "The boy '''got stupefied'''."
+          },
+		  {
+            "sentence": "Л1ыр '''мэкъы'''",
+            "translation": "The man '''is getting stupefied'''."
+          },
+		  {
+            "sentence": "Щэнаутым л1ыр '''егъэкъы'''",
+            "translation": "The poison '''stupefies''' the man."
+          }
+        ]
       },
       {
         "meaning": "to turn into a stone",
@@ -61329,14 +61347,19 @@
         ]
       },
       {
-        "meaning": "to become petrified",
-        "examples": []
+        "meaning": "to become petrified; to get immobilized with fright; to get frozen with terror",
+        "examples": [
+          {
+            "sentence": "Дзак1ом къумбылэр елъэгъум '''къыгъэ'''",
+            "translation": "When the soldier saw the bomb '''he got petrified'''."
+          }
+        ]
       },
       {
         "meaning": "(Kfar Kama dialect) to be frozen",
         "examples": [
           {
-            "sentence": "Хьэлыгъур '''мэкъы'''",
+            "sentence": "Хьалыгъур '''мэкъы'''",
             "translation": "The bread '''is freezing'''."
           },
           {
@@ -61348,7 +61371,7 @@
             "translation": "The boy '''is freezing''', he is in the cold."
           },
           {
-            "sentence": "Хьэлэгъор '''къыгъа?'''",
+            "sentence": "Хьалыгъур '''къыгъа?'''",
             "translation": "'''Did''' the bread''' froze'''?"
           }
         ],
@@ -61365,6 +61388,24 @@
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "to stupefy",
+        "examples": [
+		  {
+            "sentence": "Щэнаутым л1ыр '''егъэкъы'''",
+            "translation": "The poison '''stupefies''' the man."
+          }
+        ]
+      },
+	  {
+        "meaning": "to petrify; to immobilize with fright; to freeze with terror",
+        "examples": [
+          {
+            "sentence": "Дзак1ом къумбылэр елъэгъум '''къыгъэ'''",
+            "translation": "When the soldier saw the bomb '''he got petrified'''."
+          }
+        ]
+      },
+	  {
         "meaning": "to make someone or something into a stone",
         "examples": [
           {
@@ -61377,15 +61418,15 @@
         "meaning": "to freeze (Kfar Kama dialect)",
         "examples": [
           {
-            "sentence": "Хьэлэгъор рифрыджыреторым '''егъэкъы'''",
+            "sentence": "Хьалыгъур рифрыджыреторым '''егъэкъы'''",
             "translation": "The refrigerator '''is freezing''' the bread."
           },
           {
-            "sentence": "Хьэлэгъор '''гъэкъы'''",
+            "sentence": "Хьалыгъур '''гъэкъы'''",
             "translation": "'''Freeze''' the bread."
           },
           {
-            "sentence": "К1алэм хьэлэгъухэр '''егъэкъых'''",
+            "sentence": "К1алэм хьалыгъухэр '''егъэкъых'''",
             "translation": "The boy '''is freezing''' the breads."
           }
         ]

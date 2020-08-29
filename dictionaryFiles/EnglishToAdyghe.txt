@@ -9015,9 +9015,6 @@
     "to make someone sad": "зэгъэгожъын"
   },
   {
-    "to freeze": "чъы1э л1эн (to be cold); щтын (to be frozen); гъэщтын (to freeze); дэщтыхьан (to be frozen inside a firdge); дэгъэщтыхьан (to freeze inside a firdge); хэщтыхьан (to be frozen in a liquid or gas); хэгъэщтыхьан (to freeze in a liquid or gas); чъын (Shapsug); гъэчъын (Shapsug)"
-  },
-  {
     "to drive": "фын (to drive a vehicle or cattle); ифын (to drive/push from an area, to drive from inside); 1уфын (to drive away from near); дэфыен (to drive up); ефэхын (to drive down); блэфын (to drive pass); ч1эфын (to drive from under); тефын (to drive from above); хэфын (to drive from among other people/animals/objects, to drive from an area with gas or liquid, to drive from the forest or field); дэфын (to drive from a defined area such as a yard, area, village, etc.); къофын (to drive from behind)"
   },
   {
@@ -11802,10 +11799,16 @@
     "to scurry away": "к1и1эн; к1итхъун"
   },
   {
-    "to stupefy": "къын (to get stupefied); гъэкъын (to stupefied)"
+    "to stupefy": "къын (to get stupefied); гъэкъын (to stupefied); текъыхьан (to get stupefied looking at someone)"
   },
   {
     "to petrify": "къын (to become petrified); гъэкъын (to stupefied)"
+  },
+  {
+    "to stun": "зэтенэн (to get stunned); зэтегъэнэн (to stun someone)"
+  },
+  {
+    "to freeze": "чъы1э л1эн (to be cold); щтын (to be frozen); гъэщтын (to freeze something); дэщтыхьан (to be frozen inside a firdge); дэгъэщтыхьан (to freeze something inside a firdge); хэщтыхьан (to be frozen in a liquid or gas); хэгъэщтыхьан (to freeze something in a liquid or gas); чъын (Shapsug); къын (to stupefy); текъыхьан (to get stupefied looking at someone)"
   },
   {
     "stream": "псышкуашку"
@@ -15312,7 +15315,7 @@
     "to halt": "къэуцун; къэгъэуцун; зэпыун; зэпыгъэун; зэтеуцон; зэтегъэуцон"
   },
   {
-    "to pause": "къэуцун; къэгъэуцун; зэпыун; зэпыгъэун; зэтеуцон; зэтегъэуцон"
+    "to pause": "къэуцун; къэгъэуцун; зэпыун; зэпыгъэун; зэтеуцон; зэтегъэуцон; зэтегъэнэн"
   },
   {
     "to come to a halt": "къэуцун; зэпыун; зэтеуцон"
