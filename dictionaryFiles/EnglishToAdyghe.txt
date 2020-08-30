@@ -273,7 +273,7 @@
     "village": "кой; къуаджэ; чылэ"
   },
   {
-    "to pay": "тын; ахъщэ тын"
+    "to pay": "тын; ахъщэ тын; лъытын (to pay for)"
   },
   {
     "chickpeas": "лэблэбый; лэблэб; хьумус; бзыулъахъ (wild chickpeas)"
@@ -11979,7 +11979,7 @@
     "incorrect": "1онтагъ; мытэрэз"
   },
   {
-    "to stumble": "лъэпэон; лъэпэш1оон; ш1онэн"
+    "to stumble": "лъэпэон / елъэпэон; лъэпэш1оон; ш1онэн"
   },
   {
     "to dust": "сэпэон"
@@ -13275,10 +13275,13 @@
     "to please": "гъэрэзэн"
   },
   {
-    "to quit work": "1ук1ын"
+    "to quit work": "1офым 1ук1ын"
   },
   {
-    "to dismiss": "1угъэк1ын (to dismiss an employee); тегъэк1ын (to dismiss a boss/leader)"
+    "to hire": "1офым 1угъэхьан"
+  },
+  {
+    "to dismiss": "1офым 1угъэк1ын (to dismiss an employee); тегъэк1ын (to dismiss a boss/leader)"
   },
   {
     "to discharge": "1угъэк1ын; тегъэк1ын (to discharge a boss/leader)"
