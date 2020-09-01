@@ -1680,7 +1680,7 @@
     "to fall": "ебэджын (to fall on the ground); тебэджэн (to fall on something by slipping); ефэхын / къефэхын (to fall downward); едзыхын / къедзыхын (to fall downward); ет1эрэхын / къет1эрэхын (to drop downward); тет1эрын (to drop from); зэтефэн (to drop on each other); зэхэфэн (to drop into each other); ук1орэин"
   },
   {
-    "to drop": "1эпызын (to drop from the hand); къизын (to drop from inside something); къетк1ухын (to drip from); 1эпызын (to drop unintentionally); 1эпыт1эрын (to let slip unintentionally); къытезын (to drop from); къыпызын (to drop off a tree), къыпытэкъун (to drop from the tree around it); зэтефэн (to drop on each other); зэхэфэн (to drop into each other); 1эк1эзын (to drop something unintentionally from the hand)"
+    "to drop": "1эпызын / къы1эк1эзын (to drop from the hand, to drop unintentionally); изын / къизын (to drop from inside something); тезын / къытезын (to drop from); пызын / къыпызын (to drop off a tree); къыпытэкъун (to drop from the tree around it); зэтефэн (to drop on each other); зэхэфэн (to drop into each other); 1эк1эзын (to drop something unintentionally from the hand)"
   },
   {
     "to meet": "тефэн (to come across, to encounter coincidentally); 1ук1эн (to meet); пэгъок1ын (to welcome, to approach, to encounter intentionally); зэ1ук1эн (to meet up)"

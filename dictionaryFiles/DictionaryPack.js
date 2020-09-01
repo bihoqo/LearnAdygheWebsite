@@ -63766,6 +63766,43 @@
 		  {
             "sentence": "Апчыр '''къыс1эпымыгъэз''', уубэтэщт",
             "translation": "'''Don't let yourself drop''' the glass, you will break it."
+          },
+		  {
+            "sentence": "Л1ым ы1ыгъ лагъэр '''1эпызыгъ'''",
+            "translation": "The man '''dropped''' the plane he's holding."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʔapəzən"
+  },
+  {
+    "word": "къы1эк1эзын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to slowly drop something unintentionally (from one's hand)",
+        "examples": [
+          {
+            "sentence": "Къыс1ых колэр псынк1эу, '''къэс1эк1эзы'''",
+            "translation": "Take the cola from me fast, '''I am dropping it'''."
+          },
+		  {
+            "sentence": "Мы1эрысхэр '''къэс1эк1эзыхи''' ч1ыгум тефагъэх",
+            "translation": "'''I dropped''' the apples and they hit the ground."
+          },
+		  {
+            "sentence": "Апчыр '''къыс1эк1эмыгъэз''', уубэтэщт",
+            "translation": "'''Don't let yourself drop''' the glass, you will break it."
+          },
+		  {
+            "sentence": "Л1ым ы1ыгъ лагъэр '''1эк1эзыгъ'''",
+            "translation": "The man '''dropped''' the plane he's holding."
+          },
+		  {
+            "sentence": "Мы1эрысхэр '''къып1эк1эзых'''",
+            "translation": "'''You are dropping''' the apples."
           }
         ]
       }
@@ -63816,7 +63853,16 @@
     "definitions": [
       {
         "meaning": "to drop something from",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Сыхьатыр л1ым иджыбэ '''къизыгъ'''",
+            "translation": "The watch '''dropped''' from the man's pocket."
+          },
+		  {
+            "sentence": "Мы1эрысыр матэм '''къезы'''",
+            "translation": "The apple '''is dropping''' from the basket."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -63826,10 +63872,17 @@
     "word": "изын",
     "lang": "Adyghe",
     "definitions": [
-      {
-        "meaning": "to drop something from",
-        "examples": []
-      }
+      "meaning": "to drop something from",
+        "examples": [
+          {
+            "sentence": "Сыхьатыр л1ым иджыбэ '''къизыгъ'''",
+            "translation": "The watch '''dropped''' from the man's pocket."
+          },
+		  {
+            "sentence": "Мы1эрысыр матэм '''езы'''",
+            "translation": "The apple '''is dropping''' from the basket."
+          }
+        ]
     ],
     "type": "verb",
     "ipa": "jəzən"
@@ -63840,7 +63893,12 @@
     "definitions": [
       {
         "meaning": "to make someone drop something (from one's hand)",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Апчыр '''къыс1эпымыгъэз''', уубэтэщт",
+            "translation": "'''Don't let yourself drop''' the glass, you will break it."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -63852,7 +63910,29 @@
     "definitions": [
       {
         "meaning": "to make someone drop something (from one's hand)",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Апчыр '''къыс1эпымыгъэт1эр''', уубэтэщт",
+            "translation": "'''Don't let yourself drop''' the glass, you will break it."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʔapəʁatʼarən"
+  },
+  {
+    "word": "къы1эк1эгъэзын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to make someone drop something (from one's hand)",
+        "examples": [
+		  {
+            "sentence": "Апчыр '''къыс1эк1эмыгъэз''', уубэтэщт",
+            "translation": "'''Don't let yourself drop''' the glass, you will break it."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -63863,15 +63943,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to fall off from",
+        "meaning": "to fall off a tree; to detach and fall; to fall from a hanging state",
         "examples": [
           {
             "sentence": "Мыехэр чъыгым '''пызых'''",
             "translation": "The apples '''are falling off''' from the tree."
           },
           {
-            "sentence": "Мыер чъыгым '''пызы'''",
-            "translation": "The apple '''is falling off''' from the tree."
+            "sentence": "Къутамыр чъыгым '''къыпызы'''",
+            "translation": "The branch '''is falling''' from the tree."
           }
         ]
       }
@@ -63924,14 +64004,23 @@
             "translation": "The boy '''is smart'''."
           },
           {
-            "sentence": "Сэ '''сэ1акъыл, ''' о ук1уач1.",
-            "translation": "'''I am smart''', you are strong."
+            "sentence": "Сэ '''сы1акъыл.",
+            "translation": "'''I am smart'''."
           }
         ]
       },
       {
         "meaning": "brain",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ц1ыфым '''ыакъылк1э''' егупшысэ.",
+            "translation": "The boy is thinking '''with his brain'''."
+          },
+		  {
+            "sentence": "К1алэр '''акъыл''' и1эп.",
+            "translation": "The boy '''has no brain'''."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -79604,7 +79693,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to drop something unintentionally (from one's hand)",
+        "meaning": "alternative form of \"1эк1эзын\"",
         "examples": [
           {
             "sentence": "Мы1эрысхэр '''къып1эк1эзых'''",
