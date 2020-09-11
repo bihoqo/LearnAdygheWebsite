@@ -64034,7 +64034,7 @@
         "meaning": "to become healthy again, to become cured, to recover",
         "examples": [
           {
-            "sentence": "Тыгъуасэ '''сыхъужьэгъ'''",
+            "sentence": "Тыгъуасэ '''сыхъужьыгъ'''",
             "translation": "'''I was cured''' yesterday."
           },
           {
@@ -64046,12 +64046,16 @@
             "translation": "'''You will be cured''' in a week."
           },
           {
-            "sentence": "'''Ухъужьырагъомэ''' псы бэу ешъу",
+            "sentence": "'''Ухъужьынэу''' уфаемэ, псы бэу ешъу",
             "translation": "'''If you want to be cured''' drink a lot water."
           },
           {
-            "sentence": "Сыд мыр '''сыхъужьырэп'''",
-            "translation": "What is this '''I am not becoming healthy again'''."
+            "sentence": "Сику '''хъужьыгъ'''",
+            "translation": "My car '''was recovered'''."
+          },
+          {
+            "sentence": "Тыгъуасэ сисыхьат псы зыдахьэм сэкъатыгъагъ, ау непэ '''хъужьыгъэ'''",
+            "translation": "Yesterday when water got in to my watch it got ruined, however today it was restored."
           }
         ]
       }
@@ -64061,11 +64065,15 @@
     "ipa": "χʷəʑən"
   },
   {
-    "word": "мэхъужьын",
+    "word": "дыдыд",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"хъужьын\"",
+        "meaning": "expression of feeling cold",
+        "examples": []
+      },
+	  {
+        "meaning": "expression of fear",
         "examples": []
       }
     ],
@@ -64109,11 +64117,11 @@
         "meaning": "to be arrogant (more specifically: to think full of oneself)",
         "examples": [
           {
-            "sentence": "К1алэр '''зыш1ош1ужьы'''",
+            "sentence": "К1алэр '''зыш1ош1ыжьы'''",
             "translation": "The boy '''thinks full of himself'''."
           },
           {
-            "sentence": "'''Узыш1омыш1ужьы'''",
+            "sentence": "'''Узыш1омыш1ыжьы'''",
             "translation": "'''Don't be an arrogant'''."
           }
         ]
@@ -64137,11 +64145,11 @@
         "meaning": "easy",
         "examples": [
           {
-            "sentence": "Тесты '''1эш1эх'''",
+            "sentence": "Тест '''1эш1эх'''",
             "translation": "'''Easy''' test."
           },
           {
-            "sentence": "К1алэм '''1эш1эхэу''' кур иш1ыжьэгъ",
+            "sentence": "К1алэм '''1эш1эхэу''' кур ыш1ыжьыгъ",
             "translation": "The young man fixed the car '''easily'''."
           },
           {
@@ -64149,7 +64157,7 @@
             "translation": "This level '''is easy'''."
           },
           {
-            "sentence": "К1алэм тестыр къыныщт иш1ош1огъ, ау '''1эш1эхэу''' къыч1эк1ыжьэгъ",
+            "sentence": "К1алэм тестыр къиныщт ыш1ош1ыгъ, ау '''1эш1эхэу''' къыч1эк1ыжьыгъ",
             "translation": "The boy thought the test gonna be hard, but it was '''easy'''."
           }
         ]
@@ -64167,14 +64175,14 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "hard, difficult",
+        "meaning": "hard; difficult",
         "examples": [
           {
-            "sentence": "Тесты '''къины'''",
+            "sentence": "Тест '''къины'''",
             "translation": "'''Hard''' test."
           },
           {
-            "sentence": "К1алэм '''къинык1э''' кур иш1ыжьэгъ",
+            "sentence": "К1алэм '''къинык1э''' кур ыш1ыжьыгъ",
             "translation": "The young man fixed the car '''with great difficulty'''."
           },
           {
@@ -64182,8 +64190,12 @@
             "translation": "This level '''is hard'''."
           },
           {
-            "sentence": "К1алэм тестыр '''къиныщт''' иш1ош1огъ, ау 1эш1эхэу къыч1эк1ыжьэгъ",
+            "sentence": "К1алэм тестыр '''къиныщт''' ыш1ош1ыгъ, ау 1эш1эхэу къыч1эк1ыжьыгъ",
             "translation": "The boy thought the test '''gonna be hard''', but it was easy."
+          },
+          {
+            "sentence": "Сыда '''къин''' зэбэгъэхъужьы",
+            "translation": "Why you makes things '''hard''' for yourself?"
           }
         ]
       }
@@ -64194,6 +64206,51 @@
     "kabardian": "гугъу",
     "type": "adj",
     "ipa": "qəjnə"
+  },
+  {
+    "word": "натрыфыц",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "corn grain",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "naːrtəfət͡s"
+  },
+  {
+    "word": "натрыфышъхь",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "ear of corn",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "naːrtəfət͡ʂħa"
+  },
+  {
+    "word": "1энэк1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "empty-handed",
+        "examples": [
+          {
+            "sentence": "К1алэр '''1энэк1эу''' унэм ихьан",
+            "translation": "The boy went inside the house '''empty-handedly'''."
+          },
+		  {
+            "sentence": "Л1ыр '''1энэк1эу''' заом хэхьагъ",
+            "translation": "The man went to war '''empty-handedly'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʔanat͡ʃʼ"
   },
   {
     "word": "гугъэ",
@@ -64213,19 +64270,14 @@
     "definitions": [
       {
         "meaning": "to hope for",
-        "examples": [
-          {
-            "sentence": "Ащ и1оф ш1эхэу зэш1ок1ынк1э гугъэн фае, ау ш1эхэу зэш1ок1ыщтэп",
-            "translation": "'''He''' need '''to hope for''' his job to be solved quickly, but it won't be solved quickly."
-          }
-        ]
+        "examples": []
       },
       {
-        "meaning": "to rip off",
+        "meaning": "to peel grain",
         "examples": [
           {
             "sentence": "К1алэм натрыфыр '''егугъэ'''",
-            "translation": "The boy '''rips off''' the corn."
+            "translation": "The boy '''peels off''' the corn."
           }
         ]
       }
@@ -64238,29 +64290,62 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to put an afford in",
+        "meaning": "to put an afford into",
         "examples": [
           {
-            "sentence": "К1алэр иеджэн '''егугъу''' экзамыным блэк1ышъун пае",
+            "sentence": "К1алэм иеджэн '''егугъу''' экзамыным блэк1ышъун пае",
             "translation": "The boy '''puts afford in''' his studies in order for him to pass the exam successfully."
+          },
+		  {
+            "sentence": "Къэгъагъэхэмэ '''уагугъун''' фай дахэу къик1ынынэу",
+            "translation": "You need '''to put afford into''' the flowers so they will turn out to be beautiful."
+          },
+		  {
+            "sentence": "Къэгъагъэхэмэ '''уагугъун''' фай дахэу къик1ынынэу",
+            "translation": "You need '''to put afford into''' the flowers so they will turn out to be beautiful."
+          },
+		  {
+            "sentence": "Л1ыр и1офы'''егугъу'''",
+            "translation": "The man '''puts an effort into''' his job."
+          },
+          {
+            "sentence": "Л1ыр иунагъо '''егугъу'''",
+            "translation": "The man '''puts an effort into''' his family."
+          },
+          {
+            "sentence": "Еджэным '''уегугъун''' фай экзаменыр дэгъоу пш1ын пае",
+            "translation": "You need '''to put an efford into''' studying to doo good in the exam."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "ɡʷəʁən"
+    "ipa": "jaɡʷəʁʷən"
   },
   {
-    "word": "гугъон",
+    "word": "ыуж итын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"гугъэн\"",
-        "examples": []
+        "meaning": "to pursue; to strive",
+        "examples": [
+          {
+            "sentence": "К1алэр л1ым '''ыуж ит'''",
+            "translation": "The boy '''is pursuing''' the man."
+          },
+		  {
+            "sentence": "К1алэр экзаменым шъэ къырихыным '''ыуж ит'''",
+            "translation": "The boy '''is striving''' to get a hundred in the exam."
+          },
+		  {
+            "sentence": "К1алэр дзак1о хъуным '''ыуж ит'''",
+            "translation": "The boy '''is pursuing [the goal] of''' becoming a soldier."
+          }
+        ]
       }
     ],
     "type": "verb",
-    "ipa": "ɡʷəʁʷan"
+    "ipa": "əwəʒ jətən"
   },
   {
     "word": "гуегъун",
@@ -64270,20 +64355,20 @@
         "meaning": "to feel sorry for; to feel pity for; to pity",
         "examples": [
           {
-            "sentence": "Тхьамык1эхэр '''сигуегъух'''.",
+            "sentence": "Тхьамык1эхэр '''сыгуегъух'''.",
             "translation": "'''I feel sorry for''' the poor people."
           },
           {
-            "sentence": "К1алэм чэтыор '''ыгуегъужьи''' ып1ыжьэгъ.",
+            "sentence": "К1алэм чэтыур '''ыгуегъужьи''' ып1ужьыгъ.",
             "translation": "The boy '''felt sorry for''' the cat and adopted him."
           },
           {
-            "sentence": "Мо к1элэ мыгъор '''угуегъунэу''' щытэп.",
-            "translation": "'''You can't feel sorry for''' that cruel child."
+            "sentence": "Мо к1элэ бзаджэм '''угуегъунэу''' щытэп.",
+            "translation": "'''You can't feel sorry for''' that wicked child."
           },
           {
             "sentence": "К1алэхэмэ '''амыгуегъоу''' чэтыу щырэр чъы1эм хагъэнагъ.",
-            "translation": "The boys '''without feeling pity for''' the cub cat left the cat in the out cold."
+            "translation": "The boys '''without feeling pity for''' the cub cat left the cat in the cold."
           }
         ]
       }
@@ -64300,9 +64385,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to help (usually small help); to aid; to assist",
+        "meaning": "to help; to aid; to assist",
         "examples": [
           {
+            "sentence": "К1алэр пшъашъэм '''1эпы1эгъоу фэхъугъ'''",
+            "translation": "The boy '''assisted''' the girl."
+          },
+		  {
             "sentence": "'''1эпы1эгъоу укъысфэхъун''' плъэк1ыщта?",
             "translation": "'''Can you help me'''?"
           },
@@ -64311,7 +64400,7 @@
             "translation": "'''Help''' the boy with the studies."
           },
           {
-            "sentence": "'''1эпы1эгъоу''' сыгорэ '''къэсфэхъущта'''?",
+            "sentence": "'''1эпы1эгъоу''' зыгорэ '''къэсфэхъушъущта'''?",
             "translation": "'''Can''' someone '''help me'''?"
           }
         ]
@@ -64325,16 +64414,21 @@
     "ipa": "ʔapəʔaʁʷaw faχʷən"
   },
   {
-    "word": "махь",
+    "word": "мэхь",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "here take this",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Мэхь''' мы къэгъагъэр",
+            "translation": "'''Take''' this flower."
+          }
+        ]
       }
     ],
     "type": "intj",
-    "ipa": "maːħ"
+    "ipa": "maħ"
   },
   {
     "word": "егъуин",
@@ -64344,61 +64438,30 @@
         "meaning": "to be throwing stuff at someone",
         "examples": [
           {
-            "sentence": "К1алэр чэтыуым '''егъуи'''",
-            "translation": "The boy '''is throwing (some object)''' at the cat."
-          },
-          {
-            "sentence": "1алэр мыжъок1э чэтыум '''егъуйи'''",
-            "translation": "The boy '''is throwing rocks''' at the cat."
-          },
-          {
-            "sentence": "К1элэцык1ор джэгуалъэхэмк1э '''къысэгъуйи'''",
-            "translation": "The little boy '''threw''' toys '''at me'''."
+            "sentence": "К1алэр чэтыум '''егъуи'''",
+            "translation": "The boy '''is throwing stuff''' at the cat."
           },
           {
             "sentence": "'''Егъуй''' мощ",
-            "translation": "'''Throw at''' that."
+            "translation": "'''Throw stuff at''' that."
           },
           {
             "sentence": "'''Уемыгъуй'''",
-            "translation": "'''Don't throw at him/she/it'''."
+            "translation": "'''Don't throw stuff at him/her/it'''."
           },
           {
-            "sentence": "К1алэр мыек1э '''къысэгъуегъ'''",
+            "sentence": "К1алэр мыек1э '''къысэгъуигъ'''",
             "translation": "The boy '''threw''' an apple on me."
           },
           {
             "sentence": "К1алэр '''къэгъуе'''",
-            "translation": "The boy '''is throwing (toward us)'''."
-          },
-          {
-            "sentence": "'''Шъукъэмыгъуй'''",
-            "translation": "'''Don't throw stuff (toward us)'''."
-          },
-          {
-            "sentence": "'''Шъукъытэмыгъуй'''",
-            "translation": "'''Don't throw stuff on us'''."
+            "translation": "The boy '''is throwing stuff toward us'''."
           }
         ]
       }
     ],
     "type": "verb",
     "ipa": "jaʁʷəjən"
-  },
-  {
-    "word": "ч1эрэп",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "(slang) I don't know",
-        "examples": [],
-        "tags": [
-          "slang"
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "t͡ʂʼarap"
   },
   {
     "word": "джэуап етын",
@@ -64422,6 +64485,10 @@
           {
             "sentence": "Мыр '''къабла'''?",
             "translation": "Is this '''approval'''?"
+          },
+		  {
+            "sentence": "Пшъагъэм иянэ ятэ '''къаблэу''' уаш1ыщтэп",
+            "translation": "The girl's parents will not '''approve''' you."
           }
         ]
       }
@@ -64430,97 +64497,84 @@
     "ipa": "qaːbla"
   },
   {
-    "word": "1ьалэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "(Abzakh dialect) boy",
-        "examples": [],
-        "tags": [
-          "Abzakh dialect"
-        ]
-      },
-      {
-        "meaning": "(Abzakh dialect) young man",
-        "examples": [],
-        "tags": [
-          "Abzakh dialect"
-        ]
-      }
-    ],
-    "synonyms": [
-      "к1алэ"
-    ],
-    "kabardian": "щ1алэ",
-    "type": "noun",
-    "ipa": "ʔʲaːla"
-  },
-  {
-    "word": "мэчъэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"чъэн\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "mat͡ʂan"
-  },
-  {
-    "word": "ма1ьэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "(Abzakh dialect) alternative form of \"мак1э\"",
-        "examples": [],
-        "tags": [
-          "Abzakh dialect",
-          "alternative_spelling"
-        ]
-      }
-    ],
-    "synonyms": [
-      "т1эк1у"
-    ],
-    "type": "adv",
-    "ipa": "maːʔʲa"
-  },
-  {
     "word": "гъэц1ыон",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to make something shine",
-        "examples": [
-          {
-            "sentence": "Кур '''къэгъэц1ыу'''",
-            "translation": "'''Make''' the car '''shine'''."
-          }
-        ]
+        "meaning": "alternative form of \"гъэц1ыун\"",
+        "examples": []
       }
     ],
     "type": "verb",
     "ipa": "ʁat͡sʼəwan"
   },
+  
   {
-    "word": "мэц1ыон",
+    "word": "ц1ыун",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"ц1ыун\"",
-        "examples": []
+        "meaning": "to shine",
+        "examples": [
+          {
+            "sentence": "Дышъэр '''мэц1ыо'''",
+            "translation": "The gold '''shines'''."
+          },
+          {
+            "sentence": "Жъуагъохэр '''мэц1ыох'''",
+            "translation": "The stars '''are shining'''."
+          },
+          {
+            "sentence": "'''Ц1ыурэ''' пстэури дышъэп",
+            "translation": "All the things that '''shine''' are not gold."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "жъыун",
+      "лыдын",
+      "ц1ыон"
+    ],
+    "kabardian": "ц1уун",
+    "type": "verb",
+    "ipa": "t͡sʼəwən"
+  },
+  {
+    "word": "гъэц1ыун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to make something shine (to reflect light)",
+        "examples": [
+          {
+            "sentence": "Кур '''къэгъэц1ыу'''",
+            "translation": "'''Make''' the car '''shine'''."
+          },
+		  {
+            "sentence": "Тыгъэм кур '''егъэц1ыу'''",
+            "translation": "The sun '''makes''' the car '''shine'''."
+          },
+		  {
+            "sentence": "Нэфнэм чэтыум ынэхэр '''къегъэц1ыух'''",
+            "translation": "The light '''makes''' the cat's eyes '''shine'''."
+          },
+		  {
+            "sentence": "Нэфнэм дышъэр '''егъэц1ыу'''",
+            "translation": "The light '''makes''' the gold '''shine'''."
+          }
+        ]
       }
     ],
     "type": "verb",
-    "ipa": "mat͡sʼəwan"
+    "ipa": "ʁat͡sʼəwən"
   },
   {
     "word": "ц1ыон",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"мэц1ыон\"",
+        "meaning": "alternative form of \"ц1ыун\"",
         "examples": []
       }
     ],
@@ -79259,37 +79313,6 @@
     "ipa": "maːʃa"
   },
   {
-    "word": "ц1ыун",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to shine, to glitter, to sparkle, to flash",
-        "examples": [
-          {
-            "sentence": "Дышъэр '''мэц1ыо'''",
-            "translation": "The gold '''shines'''."
-          },
-          {
-            "sentence": "Жъуагъохэр '''мэц1ыох'''",
-            "translation": "The stars '''are shining'''."
-          },
-          {
-            "sentence": "'''Ц1ыурэ''' пстэури дышъэп",
-            "translation": "All the things that '''shine''' are not gold."
-          }
-        ]
-      }
-    ],
-    "synonyms": [
-      "жъыун",
-      "лыдын",
-      "ц1ыон"
-    ],
-    "kabardian": "ц1уун",
-    "type": "verb",
-    "ipa": "t͡sʼəwən"
-  },
-  {
     "word": "гугъын",
     "lang": "Adyghe",
     "definitions": [
@@ -82719,35 +82742,6 @@
           {
             "sentence": "Псэу у1ыгъыр тэрэзэу  къэгъагъэхэм '''атепыгощэн''' фай",
             "translation": "'''You''' need '''to distribute''' the water you have '''between''' the flowers."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "ɡʷaɕən"
-  },
-  {
-    "word": "егугъун",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to put an effort into",
-        "examples": [
-          {
-            "sentence": "Л1ыр и1офы'''егугъу'''",
-            "translation": "The man '''puts an effort into''' his job."
-          },
-          {
-            "sentence": "Л1ыр иунагъо '''егугъу'''",
-            "translation": "The man '''puts an effort into''' his family."
-          },
-          {
-            "sentence": "Еджэным '''уегугъун''' фай экзаменым дэгъоу пш1ын пае",
-            "translation": "You need '''to put an efford into''' studying to doo good in the exam."
-          },
-          {
-            "sentence": "Къэгъагъэм тэрэзэу '''сегугъугъэпи''' гугъэ",
-            "translation": "Because '''I did not''' corrently '''put an efford into''' the flower, it dried out."
           }
         ]
       }

@@ -273,7 +273,7 @@
     "village": "кой; къуаджэ; чылэ"
   },
   {
-    "to pay": "тын; ахъщэ тын; лъытын (to pay for)"
+    "to pay": "тын; ахъщэ тын"
   },
   {
     "chickpeas": "лэблэбый; лэблэб; хьумус; бзыулъахъ (wild chickpeas)"
@@ -1680,7 +1680,7 @@
     "to fall": "ебэджын (to fall on the ground); тебэджэн (to fall on something by slipping); ефэхын / къефэхын (to fall downward); едзыхын / къедзыхын (to fall downward); ет1эрэхын / къет1эрэхын (to drop downward); тет1эрын (to drop from); зэтефэн (to drop on each other); зэхэфэн (to drop into each other); ук1орэин"
   },
   {
-    "to drop": "1эпызын / къы1эк1эзын (to drop from the hand, to drop unintentionally); изын / къизын (to drop from inside something); тезын / къытезын (to drop from); пызын / къыпызын (to drop off a tree); къыпытэкъун (to drop from the tree around it); зэтефэн (to drop on each other); зэхэфэн (to drop into each other); 1эк1эзын (to drop something unintentionally from the hand)"
+    "to drop": "1эпызын (to drop from the hand); къизын (to drop from inside something); къетк1ухын (to drip from); 1эпызын (to drop unintentionally); 1эпыт1эрын (to let slip unintentionally); къытезын (to drop from); къыпызын (to drop off a tree), къыпытэкъун (to drop from the tree around it); зэтефэн (to drop on each other); зэхэфэн (to drop into each other); 1эк1эзын (to drop something unintentionally from the hand)"
   },
   {
     "to meet": "тефэн (to come across, to encounter coincidentally); 1ук1эн (to meet); пэгъок1ын (to welcome, to approach, to encounter intentionally); зэ1ук1эн (to meet up)"
@@ -3132,10 +3132,10 @@
     "tunnel": "бгыгъуанэ"
   },
   {
-    "beam": "бгыкъу; к1эбгыкъу"
+    "beam": "бгыкъу"
   },
   {
-    "girder": "бгыкъу; к1эбгыкъу"
+    "girder": "бгыкъу"
   },
   {
     "rafter": "пхъэцу"
@@ -3384,7 +3384,7 @@
     "trumpet blower": "бжъэмыяпщ"
   },
   {
-    "to be okay": "хъун (to be okay, to be allowed, to be permitted); зэгъэн (to be okay with the siuation)"
+    "to be okay": "зэгъэн; езэгъыгъ (to be okay with)"
   },
   {
     "flutist": "бжъэмыяпщ"
@@ -4491,10 +4491,7 @@
     "to be heated": "плъын"
   },
   {
-    "to heat": "гъэфэбэн (to warm something); плъын (to be heated); гъэплъын (to heat something)"
-  },
-  {
-    "to warm": "гъэфэбэн (to warm something)"
+    "to heat": "плъын (to be heated); гъэплъын (to heat something)"
   },
   {
     "isolated": "пыдзыгъ"
@@ -6165,19 +6162,7 @@
     "to create": "ш1ын (to make); къигъэш1ын (to create from nothing); къэгъэхъун (to make something appear)"
   },
   {
-    "squeamish": "зыгъэгусал"
-  },
-  {
-    "oversensitive": "зыгъэгусал"
-  },
-  {
-    "careful": "сакъ; сакъыныгъэ зыхэлъ"
-  },
-  {
-    "wary": "сакъ; сакъыныгъэ зыхэлъ"
-  },
-  {
-    "cautious": "сакъ; сакъыныгъэ зыхэлъ"
+    "squeamish": "1умпэм"
   },
   {
     "fastidious": "1умпэм"
@@ -7770,10 +7755,10 @@
     "persistent": "къаигъэ; инат"
   },
   {
-    "unsympathetic": "гомыхь; гомы1у; мыгопэ"
+    "unsympathetic": "гумыхь; гомы1у; мыгопэ"
   },
   {
-    "dislikable": "гомыхь; гомы1у"
+    "dislikable": "гумыхь; гомы1у; мыгопэ"
   },
   {
     "likable": "гохьы; го1у"
@@ -7798,6 +7783,9 @@
   },
   {
     "abominable": "гуштэгъуадж; гущык1ыгъо"
+  },
+  {
+    "squeamish": "мэхъэшал"
   },
   {
     "easily disgusted": "мэхъэшал"
@@ -9015,6 +9003,9 @@
     "to make someone sad": "зэгъэгожъын"
   },
   {
+    "to freeze": "чъы1э л1эн (to be cold); щтын (to be frozen); гъэщтын (to freeze); дэщтыхьан (to be frozen inside a firdge); дэгъэщтыхьан (to freeze inside a firdge); хэщтыхьан (to be frozen in a liquid or gas); хэгъэщтыхьан (to freeze in a liquid or gas); чъын (Shapsug); гъэчъын (Shapsug)"
+  },
+  {
     "to drive": "фын (to drive a vehicle or cattle); ифын (to drive/push from an area, to drive from inside); 1уфын (to drive away from near); дэфыен (to drive up); ефэхын (to drive down); блэфын (to drive pass); ч1эфын (to drive from under); тефын (to drive from above); хэфын (to drive from among other people/animals/objects, to drive from an area with gas or liquid, to drive from the forest or field); дэфын (to drive from a defined area such as a yard, area, village, etc.); къофын (to drive from behind)"
   },
   {
@@ -9273,7 +9264,7 @@
     "to strive": "егугъун"
   },
   {
-    "to pursue": "егугъун"
+    "to pursue": "ыуж итын"
   },
   {
     "to endeavor": "егугъун"
@@ -9933,10 +9924,7 @@
     "separately": "шъхьаф-шъхьафэу; зыр зырэу (one by one)"
   },
   {
-    "to return": "етыжьын (to give back); хьыжьын (to return something); гъэзэжьын (to return back to where one came); къэгъэзэжьын (to return back here); к1ожьын (to go back there); къэк1ожьын (to return back here); зэк1ежьэжьын; дэхьажьын (to head back)"
-  },
-  {
-    "to give back": "етыжьын"
+    "to return": "къэгъэзэжьын (to return back to where one came); к1ожьын (to go back there); къэк1ожьын (to return back here); зэк1ежьэжьын; дэхьажьын (to head back)"
   },
   {
     "to go back": "к1ожьын"
@@ -11559,7 +11547,13 @@
     "to force": "егъэзын; егъэзыгъэк1э егъэш1эн (to forcefully make someone do something)"
   },
   {
-    "forcefully": "егъэзыгъэу; егъэзыгъэк1э"
+    "forcefully": "егъэзыгъэу; егъэзыгъэк1э; л1ыгъэк1э"
+  },
+  {
+    "empty-handed": "1энэк1"
+  },
+  {
+    "to put an afford into": "егугъун"
   },
   {
     "to topple": "егъэбэджын"
@@ -11664,7 +11658,7 @@
     "to stretch": "къудыин (to stretch by pulling forcefully); зэпыщын / зэхэщын (to stretch out)"
   },
   {
-    "to dizzy": "унэзэн (to get dizzy); гъэунэзэн (to make dizzy); прэзэн (to get dizzy); гъэпрэзэн  (to make dizzy)"
+    "to dizzy": "гъэпрэзэн"
   },
   {
     "to bewilder": "гупшысэгъу хэдзэн; егъэгупшысэн; ыш1эн ымыш1эу ш1ын"
@@ -11709,7 +11703,7 @@
     "to carry": "хьын; фэхьын (to carry for, to carry to); дэхьын (to take/carry something along); зехьан / зэрихьан (to carry something); къехьак1ын (to carry around); дэхьыен (to carry up); ехьэхын (to carry down); ехьыл1эн (to carry to)"
   },
   {
-    "to try out": "уплъэк1ун"
+    "to try out": "плъэк1ун"
   },
   {
     "to try": "1он"
@@ -11718,13 +11712,16 @@
     "to attempt": "1он"
   },
   {
-    "to kill": "ук1ын; гъэл1эн (to cause to die); хиук1ыхьан (to kill in a war/forest); хэук1ыхьан (to be killed in a war/forest); (dialectal) гъэк1одын; гъэл1эн (to make someone die, to cause someone's death); 1эк1эук1эн (to kill somebody inadvertently)"
+    "to kill": "ук1ын; гъэл1эн (to cause to die); хиук1ыхьан (to kill in a war/forest); хэук1ыхьан (to be killed in a war/forest); (dialectal) гъэк1одын; гъэл1эн; 1эк1эук1эн (to kill somebody inadvertently)"
   },
   {
     "thus": "арти"
   },
   {
     "as a result": "арти"
+  },
+  {
+    "so": "арти (thus); сыдэу (so much); (dialectal) шъыдэу; джарэу"
   },
   {
     "steering wheel": "гъэзалъэ"
@@ -11755,9 +11752,6 @@
   },
   {
     "accordion": "пщынэ"
-  },
-  {
-    "drum": "шъондырып"
   },
   {
     "to shuck": "дзуцон"
@@ -11793,22 +11787,10 @@
     "to scurry": "к1и1эн; к1итхъун"
   },
   {
-    "to dash away": "к1и1эн; к1итхъун"
-  },
-  {
-    "to scurry away": "к1и1эн; к1итхъун"
-  },
-  {
-    "to stupefy": "къын (to get stupefied); гъэкъын (to stupefied); текъыхьан (to get stupefied looking at someone)"
+    "to stupefy": "къын (to get stupefied); гъэкъын (to stupefied)"
   },
   {
     "to petrify": "къын (to become petrified); гъэкъын (to stupefied)"
-  },
-  {
-    "to stun": "зэтенэн (to get stunned); зэтегъэнэн (to stun someone)"
-  },
-  {
-    "to freeze": "чъы1э л1эн (to be cold); щтын (to be frozen); гъэщтын (to freeze something); дэщтыхьан (to be frozen inside a firdge); дэгъэщтыхьан (to freeze something inside a firdge); хэщтыхьан (to be frozen in a liquid or gas); хэгъэщтыхьан (to freeze something in a liquid or gas); чъын (Shapsug); къын (to stupefy); текъыхьан (to get stupefied looking at someone)"
   },
   {
     "stream": "псышкуашку"
@@ -11979,7 +11961,7 @@
     "incorrect": "1онтагъ; мытэрэз"
   },
   {
-    "to stumble": "лъэпэон / елъэпэон; лъэпэш1оон; ш1онэн"
+    "to stumble": "лъэпэон; лъэпэш1оон; ш1онэн"
   },
   {
     "to dust": "сэпэон"
@@ -13275,13 +13257,7 @@
     "to please": "гъэрэзэн"
   },
   {
-    "to quit work": "1офым 1ук1ын"
-  },
-  {
-    "to hire": "1офым 1угъэхьан"
-  },
-  {
-    "to dismiss": "1офым 1угъэк1ын (to dismiss an employee); тегъэк1ын (to dismiss a boss/leader)"
+    "to dismiss": "1угъэк1ын; тегъэк1ын (to dismiss a boss/leader)"
   },
   {
     "to discharge": "1угъэк1ын; тегъэк1ын (to discharge a boss/leader)"
@@ -13320,16 +13296,7 @@
     "to gather stuff": "къэщыпын; къэугъоин"
   },
   {
-    "because": "сыда п1омэ (the reason is, the purpose is); (dialectal) шъыда п1омэ; ащ пае / ащ фэш1к1э / арти (because of that); арти (so, therefore); (dialectal) зары"
-  },
-  {
-    "therefore": "арти (so, therefore)"
-  },
-  {
-    "so": "арти (so, therefore); сыдэу (so much); (dialectal) шъыдэу; джарэу"
-  },
-  {
-    "sickly": "сымэджал; узыгъэл"
+    "because": "сыда п1омэ; (dialectal) шъыда п1омэ; (slang) сыда / шъыда; ащ фэш1к1э (because of that); ащ пае (because of that)"
   },
   {
     "whore": "(vulgar) къэхьыпэ"
@@ -15318,7 +15285,7 @@
     "to halt": "къэуцун; къэгъэуцун; зэпыун; зэпыгъэун; зэтеуцон; зэтегъэуцон"
   },
   {
-    "to pause": "къэуцун; къэгъэуцун; зэпыун; зэпыгъэун; зэтеуцон; зэтегъэуцон; зэтегъэнэн"
+    "to pause": "къэуцун; къэгъэуцун; зэпыун; зэпыгъэун; зэтеуцон; зэтегъэуцон"
   },
   {
     "to come to a halt": "къэуцун; зэпыун; зэтеуцон"
@@ -15834,7 +15801,7 @@
     "to trot": "ушъын"
   },
   {
-    "unpleasant": "гумы1у; гомыхь"
+    "unpleasant": "гумы1у; гумыхь; мыгопэ"
   },
   {
     "haze": "пщэсэй"
@@ -17052,10 +17019,16 @@
     "alcoholic": "ешъуак1о; ешъорый"
   },
   {
-    "because of that": "ащ пае; ащ фэш1к1э; арти"
+    "because of that; for that": "ащ пае"
   },
   {
-    "for that": "ащ пае; ащ фэш1к1э; арти"
+    "because of that; for that": "ащ фэш1ык1э"
+  },
+  {
+    "because (for what cause, reason, or purpose)": "сыда п1омэ"
+  },
+  {
+    "(dialectal) because (for what cause, reason, or purpose)": "зары"
   },
   {
     "hair lash (head)": "шъхьацышъо"
@@ -17349,16 +17322,16 @@
     "to get it": "хэхьан"
   },
   {
-    "to examine": "уплъэк1ун; ушэтын"
+    "to examine": "плъэк1ун; ушэтын"
   },
   {
-    "to check": "уплъэк1ун; ушэтын"
+    "to check": "плъэк1ун; ушэтын"
   },
   {
-    "to verify": "уплъэк1ун; ушэтын"
+    "to verify": "плъэк1ун; ушэтын"
   },
   {
-    "to test": "уплъэк1ун; ушэтын"
+    "to test": "плъэк1ун; ушэтын"
   },
   {
     "to dam": "дзон"
