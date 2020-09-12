@@ -66226,45 +66226,6 @@
     "ipa": "χadan"
   },
   {
-    "word": "пае",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "for",
-        "examples": [
-          {
-            "sentence": "Ащ '''пае''' ащ ымыш1эн щы1эп",
-            "translation": "'''For the sake of''' him/her, there's nothing (s)he won't do."
-          }
-        ]
-      },
-      {
-        "meaning": "in order to",
-        "examples": [
-          {
-            "sentence": "Баеу ухъун '''пае''' акъыл уи1эн фае",
-            "translation": "'''In order to''' become rich you must be smart."
-          },
-          {
-            "sentence": "Ущхэн '''пае''', улэжэн фае.",
-            "translation": "'''In order to''' eat, you must work."
-          },
-          {
-            "sentence": "Iофыр шIэхэу ыгъэцэкIэным '''пае''' тхъытхъын фэягъэ",
-            "translation": "He had to hurry '''in order to''' do the work quickly."
-          }
-        ]
-      }
-    ],
-    "synonyms": [
-      "фэш1",
-      "фэш1к1э"
-    ],
-    "kabardian": "папщ1э",
-    "type": "conj",
-    "ipa": "paːja"
-  },
-  {
     "word": "гъусэн",
     "lang": "Adyghe",
     "definitions": [
@@ -73287,44 +73248,6 @@
     "ipa": "qaɕəpən"
   },
   {
-    "word": "фэш1",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "for",
-        "examples": [
-          {
-            "sentence": "Сиянэ '''фэш1''' тучанэм сызфак1орэ",
-            "translation": "It is '''for''' my mother I am going to the shop."
-          }
-        ]
-      },
-      {
-        "meaning": "because of",
-        "examples": [
-          {
-            "sentence": "К1алэм '''фэш1''' пшъашъэр зыфэгъырэр",
-            "translation": "It is '''because of''' the boy that the girl is crying."
-          }
-        ]
-      }
-    ],
-    "type": "adv",
-    "ipa": "faʃʼ"
-  },
-  {
-    "word": "фэш1ык1э",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"фэш1к1э\"",
-        "examples": []
-      }
-    ],
-    "type": "adv",
-    "ipa": "faʃʼət͡ʃʼa"
-  },
-  {
     "word": "къэхьыпэ",
     "lang": "Adyghe",
     "definitions": [
@@ -77674,9 +77597,42 @@
             "sentence": "Сиянэ '''фэш1к1э''' тучаным сэк1о",
             "translation": "I am going to the shop '''for''' my mother."
           },
+		  {
+            "sentence": "'''Офэш1к1э''' чэщдэс аш1ыщт",
+            "translation": "They will arrange a party '''for you'''."
+          },
           {
             "sentence": "Мэфэк1ым '''фэш1к1э''' джэнэ к1эхэр пщэфын фай",
             "translation": "'''For''' the holiday, you must buy new clothes."
+          },
+		  {
+            "sentence": "'''Ощфэш1к1э''' унэм тыкъэк1уагъ",
+            "translation": "We came to the house '''for you'''."
+          },
+		  {
+            "sentence": "К1элэц1ык1ум  '''фэш1к1э''' къахьыгъ джэгуалъэ",
+            "translation": "They brought toy '''for''' the little kid."
+          },
+		  {
+            "sentence": "Ащ '''фэш1к1э''' ащ ымыш1эн щы1эп",
+            "translation": "'''For the sake of''' him/her, there's nothing (s)he won't do."
+          }
+        ]
+      },
+      {
+        "meaning": "in order to",
+        "examples": [
+          {
+            "sentence": "Баеу ухъун '''фэш1к1э''' акъыл уи1эн фае",
+            "translation": "'''In order to''' become rich you must be smart."
+          },
+          {
+            "sentence": "Ушхэн '''фэш1к1э''', улэжэн фае.",
+            "translation": "'''In order to''' eat, you must work."
+          },
+          {
+            "sentence": "1офыр ш1эхэу ыгъэцэк1эным '''фэш1к1э''' тхъытхъын фэягъэ",
+            "translation": "He had to hurry '''in order to''' do the work quickly."
           }
         ]
       }
@@ -77688,6 +77644,120 @@
     "kabardian": "папщ1э",
     "type": "conj",
     "ipa": "faʃʼət͡ʃʼa"
+  },
+  
+  {
+    "word": "фэш1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "for",
+        "examples": [
+          {
+            "sentence": "Сиянэ '''фэш1''' тучанэм сызфак1орэ",
+            "translation": "It is '''for''' my mother I am going to the shop."
+          },
+		  {
+            "sentence": "Мы шхыныхыр '''ощфэш1ых'''",
+            "translation": "These foods are '''for you'''."
+          },
+		  {
+            "sentence": "Мы ш1ухьафтыныр '''сэщфэш1а'''?",
+            "translation": "Is this gift '''for me'''?"
+          }
+        ]
+      },
+      {
+        "meaning": "because of",
+        "examples": [
+          {
+            "sentence": "К1алэм '''фэш1''' пшъашъэр зыфэгъырэр",
+            "translation": "It is '''because of''' the boy that the girl is crying."
+          }
+        ]
+      }
+    ],
+    "type": "adv",
+    "ipa": "faʃʼ"
+  },
+  {
+    "word": "фэш1ык1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"фэш1к1э\"",
+        "examples": []
+      }
+    ],
+    "type": "adv",
+    "ipa": "faʃʼət͡ʃʼa"
+  },
+  {
+    "word": "пае",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "for",
+        "examples": [
+          {
+            "sentence": "'''Ощпае''' унэм тыкъэк1уагъ",
+            "translation": "We came to the house '''for you'''."
+          },
+		  {
+            "sentence": "К1элэц1ык1ум  '''пае''' къахьыгъ джэгуалъэ",
+            "translation": "They brought toy '''for''' the little kid."
+          },
+		  {
+            "sentence": "Мы шхыныхыр '''ощпаех'''",
+            "translation": "These foods are '''for you'''."
+          },
+		  {
+            "sentence": "Мы ш1ухьафтыныр '''сэщпая'''?",
+            "translation": "Is this gift '''for me'''?"
+          },
+		  {
+            "sentence": "Ащ '''пае''' ащ ымыш1эн щы1эп",
+            "translation": "'''For the sake of''' him/her, there's nothing (s)he won't do."
+          },
+		  {
+            "sentence": "Сиянэ '''пае''' тучаным сэк1о",
+            "translation": "I am going to the shop '''for''' my mother."
+          },
+          {
+            "sentence": "Мэфэк1ым '''пае''' джэнэ к1эхэр пщэфын фай",
+            "translation": "'''For''' the holiday, you must buy new clothes."
+          },
+		  {
+            "sentence": "'''Ощпае''' чэщдэс аш1ыщт",
+            "translation": "They will arrange a party '''for you'''."
+          }
+        ]
+      },
+      {
+        "meaning": "in order to",
+        "examples": [
+          {
+            "sentence": "Баеу ухъун '''пае''' акъыл уи1эн фае",
+            "translation": "'''In order to''' become rich you must be smart."
+          },
+          {
+            "sentence": "Ушхэн '''пае''', улэжэн фае.",
+            "translation": "'''In order to''' eat, you must work."
+          },
+          {
+            "sentence": "1офыр ш1эхэу ыгъэцэк1эным '''пае''' тхъытхъын фэягъэ",
+            "translation": "He had to hurry '''in order to''' do the work quickly."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "фэш1",
+      "фэш1к1э"
+    ],
+    "kabardian": "папщ1э",
+    "type": "conj",
+    "ipa": "paːja"
   },
   {
     "word": "зэдзэк1ак1о",
@@ -77701,8 +77771,12 @@
         "meaning": "translator",
         "examples": [
           {
-            "sentence": "Сэ '''сызэдзэкIакIу'''.",
+            "sentence": "Сэ '''сызэдзэк1ак1у'''.",
             "translation": "I am '''a translator'''."
+          },
+		  {
+            "sentence": "Тищык1агъ '''зэдзэк1ак1у'''.",
+            "translation": "We need '''a translator'''."
           }
         ]
       }
@@ -77721,6 +77795,14 @@
             "sentence": "К1алэр '''къэкъыегъ'''",
             "translation": "The boy '''burped'''."
           },
+		  {
+            "sentence": "Содэм '''укъигъэкъыищт'''",
+            "translation": "Coda '''will make you burp'''."
+          },
+		  {
+            "sentence": "Хэт '''къэтхэкъыигъэр'''?",
+            "translation": "Who is the one '''that burped among us'''?"
+          },
           {
             "sentence": "'''Укъэмыкъый'''",
             "translation": "'''Don't burp'''."
@@ -77729,7 +77811,12 @@
       },
       {
         "meaning": "to hiccup",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ашъыу, '''сыкъэкъыеу''' сежьагъ",
+            "translation": "Argh, I began '''hiccuping'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -77740,59 +77827,30 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "burp",
+        "meaning": "adhesive, sticky",
         "examples": []
       }
     ],
-    "type": "verb",
+    "type": "adj",
     "ipa": "qajə"
-  },
-  {
-    "word": "къэин",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"къыин\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "qaqəjən"
   },
   {
     "word": "ук1ытапх",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "a shy person",
+        "meaning": "shy",
         "examples": [
           {
             "sentence": "К1алэр '''ук1ытапх'''",
-            "translation": "The boy '''is a shy person'''."
+            "translation": "The boy '''is shy'''."
           }
         ]
       }
     ],
-    "synonyms": [
-      "ук1ьытапх"
-    ],
+    "shapsug": "ук1ьытапх",
     "type": "adj",
     "ipa": "wt͡ʃʼətaːpx"
-  },
-  {
-    "word": "ук1ьытапх",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"ук1ытапх\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "ук1ытапх"
-    ],
-    "type": "adj",
-    "ipa": "wkʲʼətaːpx"
   },
   {
     "word": "ук1ытапхэ",
