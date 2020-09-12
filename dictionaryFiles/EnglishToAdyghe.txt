@@ -7716,7 +7716,10 @@
     "to demand": "к1эдэун"
   },
   {
-    "to disagree": "дэмыштэн; мыдэн, емыуцол1эн; пэ1у1ожьын (to whine against someone disagreeably)"
+    "to disagree": "дэмыштэн (to disagree with); мыдэн (to refuse), емыуцол1эн; пэ1у1ожьын (to whine against someone disagreeably)"
+  },
+  {
+    "to refuse": "мыдэн"
   },
   {
     "to agree": "дэштэн (to agree with); дегъэштэн (to agree with); дэн, еуцол1эн"
@@ -9754,6 +9757,9 @@
   },
   {
     "to be uneasy ": "гумэк1ын; гузэжъон"
+  },
+  {
+    "to unease": "гъэгумэк1ын"
   },
   {
     "a bit ": "т1эк1у; мак1э"
@@ -12027,7 +12033,10 @@
     "nothing": "зи; зыци; зыпари"
   },
   {
-    "nobody": "зи; зыми (ergative case)"
+    "nobody": "зи; зыми (ergative case); зыгори"
+  },
+  {
+    "dry land": "ч1ылъэ"
   },
   {
     "to remind": "гукъэгъэк1ын"
@@ -12138,10 +12147,10 @@
     "to rot": "шъун; гъэшъун (to rot something)"
   },
   {
-    "to sneeze": "псын / къэпсын; ц1этхын (Shapsug)"
+    "to sneeze": "псын / къэпсын; (Shapsug) ц1этхын; (Shapsug) тец1этхэн (to sneeze on)"
   },
   {
-    "to worry": "гу1эн; гъэгу1эн (to worry someone); гумэк1ын; гъэгумэк1ын (to worry someone); фэгу1эн (to worry for someone); тегу1эхьан (to worry about)"
+    "to worry": "гу1эн; гъэгу1эн (to worry someone); гумэк1ын (to feel anxious / uneasy); гъэгумэк1ын (to worry someone); фэгу1эн (to worry for someone); тегу1эхьан (to worry about)"
   },
   {
     "to be anxious": "гумэк1ын"
@@ -12154,6 +12163,21 @@
   },
   {
     "anxiety": "гумэк1ыгъу"
+  },
+  {
+    "dusk": "пчап"
+  },
+  {
+    "twilight": "пчап"
+  },
+  {
+    "violin": "шык1эпщынэ (Circassian violin)"
+  },
+  {
+    "winemaker": "сэнэш1 / сэнаш1э"
+  },
+  {
+    "vintner": "сэнэш1 / сэнаш1э"
   },
   {
     "whole": "псэу"
@@ -12256,6 +12280,15 @@
   },
   {
     "to press out": "к1эфызык1ын / хэфызык1ын"
+  },
+  {
+    "harness-maker": "шъуаш1э"
+  },
+  {
+    "saddler": "шъуаш1э"
+  },
+  {
+    "saddle-make": "шъуаш1э"
   },
   {
     "badly": "дэеу; 1аеу"
@@ -15255,6 +15288,9 @@
     "breathe": "(Shapsug) фапщэ"
   },
   {
+    "usually": "нахь бэм"
+  },
+  {
     "to convert": "зэблэдзын (to convert something into another thing)"
   },
   {
@@ -15993,7 +16029,10 @@
     "head of": "л1ышъхьэ"
   },
   {
-    "chief": "л1ышъхьэ; пащ"
+    "main": "шъхьа1э"
+  },
+  {
+    "chief": "л1ышъхьэ / пащ (leader, boss); шъхьа1э"
   },
   {
     "leader": "пащ"
@@ -17667,7 +17706,7 @@
     "skimmer": "къашыкъгъуанэ"
   },
   {
-    "drawer": "къыдэгъэчъ"
+    "drawer": "дэгъэчъ / къыдэгъэчъ"
   },
   {
     "to mimic": "зыпэш1ыжьын"
