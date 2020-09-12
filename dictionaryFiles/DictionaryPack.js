@@ -66087,7 +66087,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "spear",
+        "meaning": "spear; pike; lance",
         "examples": [
           {
             "sentence": "Шыудзэхэр '''пчык1э''' мэзаох",
@@ -66098,14 +66098,6 @@
             "translation": "The man thrusted '''with the spear''' and made the enemy fall off the horse."
           }
         ]
-      },
-      {
-        "meaning": "pike",
-        "examples": []
-      },
-      {
-        "meaning": "lance",
-        "examples": []
       }
     ],
     "kabardian": "бжы",
@@ -66230,15 +66222,23 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be with, to be associate with someone",
+        "meaning": "to be with; to be together with; to accompany someone",
         "examples": [
           {
+            "sentence": "Куджаныр '''къысигъус'''",
+            "translation": "Kujan '''is with me'''."
+          },
+		  {
+            "sentence": "Хэт '''къыуигъусэхэр'''?",
+            "translation": "Who '''are with you'''?"
+          },
+		  {
             "sentence": "К1алэмрэ пшъашъэмрэ '''зэгъусэх'''",
             "translation": "The boy and the girl '''are together'''."
           },
           {
-            "sentence": "К1алэм '''сыригъусэу''' былым тылъэхъу",
-            "translation": "'''(Being) with''' the boy we are searching for fortune."
+            "sentence": "Сятэ '''сыригъусэу''' шъофым тыхэхьагъ",
+            "translation": "I went to the fields '''with''' my father"
           },
           {
             "sentence": "Саусырыкъо зыгори '''ригъусагъэп'''",
@@ -66246,31 +66246,27 @@
           },
           {
             "sentence": "Л1ыхэр '''зэгъусэхэу''' мэзым хахьэх",
-            "translation": "The men '''(being) together''' went into the forest."
+            "translation": "The men went into the forest '''together'''."
           },
           {
             "sentence": "Томыр сэ '''сигъус'''",
             "translation": "Tom '''is with me (accompanying me)'''."
           },
           {
-            "sentence": "Дзэк1ол1ыхэр '''згъусэхэу''' къэттехьагъэх",
+            "sentence": "Дзэк1ол1ыхэр '''зэгъусэхэу''' къэттехьагъэх",
             "translation": "The soldiers attacked us '''together'''."
           },
           {
-            "sentence": "'''Къысигъусэр''' к1уач1а?",
-            "translation": "Is '''the person with me''' strong?"
+            "sentence": "К1алэр Нартым '''ригъусэу''' яунэ к1уагъэх",
+            "translation": "The boy went '''with''' Nart to his house."
           },
           {
-            "sentence": "К1алэр Томым '''ригъусэу''' иунэ к1уагъэх",
-            "translation": "The boy went '''with Tom''' to his house."
+            "sentence": "Куджанымрэ Саусырымрэ чэщдэсым '''зэгъусэхэу''' к1уагъэх",
+            "translation": "Kujan and Sawser gone to the party '''together'''."
           },
           {
-            "sentence": "Томымрэ Джекобымрэ заом '''згъусэхэу''' к1уагъэх",
-            "translation": "Tom and Jecob gone to the war '''together'''."
-          },
-          {
-            "sentence": "'''Укъысигъусэу''' былым къуздэлъыхъута?",
-            "translation": "Will you search '''accompanying me''' for the treasure?"
+            "sentence": "'''Укъысигъусэу''' топым къыздэблъыхъушъущта?",
+            "translation": "Can you search the ball '''with me'''."
           }
         ]
       }
@@ -66287,7 +66283,12 @@
     "definitions": [
       {
         "meaning": "cry",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1элэц1ык1у '''гъы''' макъэ зэхэсэхы",
+            "translation": "I hear '''a cry''' of a child."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -66301,8 +66302,12 @@
         "meaning": "binocular",
         "examples": [
           {
-            "sentence": "'''Нэрыплъымк1э''' удэ еплъ мэзым",
+            "sentence": "'''Нэрыплъымк1э''' модэ еплъ мэзым",
             "translation": "'''Using the binocular''' look at the forest there."
+          },
+		  {
+            "sentence": "Сыд фэдиз чыжьэу '''нэрыплъымк1э''' уплъэшъущт?",
+            "translation": "How far can you see '''using binocular'''?"
           }
         ]
       }
