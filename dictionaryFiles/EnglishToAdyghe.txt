@@ -9729,6 +9729,9 @@
     "sausage": "нэкулъ"
   },
   {
+    "to get infected with": "пыхьан"
+  },
+  {
     "baloney": "нэкулъ"
   },
   {

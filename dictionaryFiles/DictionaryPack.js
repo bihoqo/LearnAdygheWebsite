@@ -1442,7 +1442,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "disease, illness",
+        "meaning": "disease, illness, sickness",
         "examples": [
           {
             "sentence": "'''Уз''' горэм уегъэгумэк1а?",
@@ -1451,6 +1451,14 @@
 		  {
             "sentence": "Л1ыжъым '''узы''' пылъ",
             "translation": "The old man has an '''illness'''"
+          },
+		  {
+            "sentence": "Л1ым '''узы''' пыхьагъ",
+            "translation": "The man got infected with '''a disease'''."
+          },
+		  {
+            "sentence": "Садэжь укъэмык1у, '''узыр''' къэспыбгъэхьэщт",
+            "translation": "Don't come close to me, you will get me infected with '''the disease'''."
           }
         ]
       },
@@ -90759,6 +90767,19 @@
           {
             "sentence": "Легохэр '''зэпыхьах'''",
             "translation": "The Legos are '''attaching with each other'''."
+          }
+        ]
+      },
+      {
+        "meaning": "to get infected with",
+        "examples": [
+          {
+            "sentence": "Л1ым узы '''пыхьагъ'''",
+            "translation": "The man '''got infected with''' a disease."
+          },
+		  {
+            "sentence": "Садэжь укъэмык1у, узыр '''къэспыбгъэхьэщт'''",
+            "translation": "Don't come close to me, '''you will get me infected with''' the disease."
           }
         ]
       },
