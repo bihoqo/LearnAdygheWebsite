@@ -2031,7 +2031,7 @@
     "carpus": "1апшъэ"
   },
   {
-    "to starve": "мэлак1э л1эн"
+    "to starve": "мэлак1э л1эн; мэлак1эм ыгъэл1эн; гъаблэм ыгъэл1эн"
   },
   {
     "to be thirsty": "псыфал1э л1эн"
@@ -2145,7 +2145,25 @@
     "smell": "мэ; гъуамэ (Shapsug)"
   },
   {
-    "millet": "мэщы, гъажъо"
+    "millet": "фыгу; мэщы (millet (standing)), гъажъо (millet (grain))"
+  },
+  {
+    "blush": "нэк1ущыф"
+  },
+  {
+    "blusher": "нэк1ущыф"
+  },
+  {
+    "wooden mortar": "гурхъу"
+  },
+  {
+    "foot mortar": "гурхъу"
+  },
+  {
+    "to moisten": "гъэулэбын"
+  },
+  {
+    "to damp": "гъэулэбын"
   },
   {
     "here": "мыдэ, мык1э, мэу, (dialectal) мы т1эк1ум"
@@ -3681,7 +3699,10 @@
     "kid": "к1элэхъу; к1элэц1ык1у; чэц1ы (kid, young goat)"
   },
   {
-    "delight": "гуапэ"
+    "delight": "гуш1уагъо; гуапэ"
+  },
+  {
+    "delightful": "гуш1уагъо; гуапэ"
   },
   {
     "swallow": "пц1ашхъо"
@@ -8211,9 +8232,6 @@
     "short": "к1ьако"
   },
   {
-    "mallet": "фыгу"
-  },
-  {
     "rabid": "хьэшхъурэ1у"
   },
   {
@@ -10332,7 +10350,10 @@
     "sister-in-law": "нысэ (one's brother's wife); пщыпхъу (one's husband's sister); ш1упщыпхъу (one's wife's sister)"
   },
   {
-    "food": "шхыны, гъомыл, гъоылапхъэ (foodstuff)"
+    "food": "шхыны, гъомыл, гъомлапхъэ (foodstuff)"
+  },
+  {
+    "food store": "гъомылэщ"
   },
   {
     "foodstuff": "гъоылапхъэ"
@@ -12652,6 +12673,9 @@
   },
   {
     "blacksmith": "гъук1э"
+  },
+  {
+    "colostrum": "гъук1э"
   },
   {
     "smithy": "к1ыщ"

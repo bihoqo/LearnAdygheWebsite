@@ -8633,18 +8633,6 @@
     "ipa": "ħaʂʷabəd͡z"
   },
   {
-    "word": "1эгъуапэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "sleeve (of a shirt)",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ʔaʁʷaːpa"
-  },
-  {
     "word": "гъопэк1ыхь",
     "lang": "Adyghe",
     "definitions": [
@@ -36675,7 +36663,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "mallet",
+        "meaning": "millet",
         "examples": []
       }
     ],
@@ -67999,8 +67987,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "gift for good news",
-        "examples": []
+        "meaning": "gift (for the good news)",
+        "examples": [
+          {
+            "sentence": "'''Гуш1уапк1э''' ритыгъ",
+            "translation": "(S)he gave him/her a '''gift'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -68011,8 +68004,26 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "preface",
-        "examples": []
+        "meaning": "prologue, foreword, preface, introduction",
+        "examples": [
+          {
+            "sentence": "Тхылъым '''игущы1ап'''",
+            "translation": "'''The introduction of''' the book."
+          },
+		  {
+            "sentence": "Тхылъым '''гущы1апэ''' фитхыгъ",
+            "translation": "(S)he wrote a '''preface''' for the book."
+          }
+        ]
+      },
+	  {
+        "meaning": "opening speech",
+        "examples": [
+          {
+            "sentence": "'''Гущы1апэр''' ыштагъ, апэу къэгущы1агъ",
+            "translation": "(S)he took the '''opening speech''', (s)he spoke first."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -68024,7 +68035,12 @@
     "definitions": [
       {
         "meaning": "starvation",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''гъаблэм''' ыгъэл1агъ",
+            "translation": "The boy died from '''starvation'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -68036,7 +68052,12 @@
     "definitions": [
       {
         "meaning": "to starve",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''гъаблэм ыгъэл1агъ'''",
+            "translation": "The boy '''starved'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -68047,12 +68068,64 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "millet",
+        "meaning": "millet (grain)",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "ʁaːʒʷa"
+  },
+  {
+    "word": "мэщы",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "millet (standing)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "maɕ"
+  },
+  {
+    "word": "гурхъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "wooden mortar",
+        "examples": []
+      },
+	  {
+        "meaning": "foot mortar",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "gʷərχʷ"
+  },
+  {
+    "word": "гъэулэбын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to moisten, to damp, to wet",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "gʷərχʷ"
+  },
+  {
+    "word": "нэк1ущыф",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "blush, blusher, rouge",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "nakʷʼɕəf"
   },
   {
     "word": "гъалэ",
@@ -68072,22 +68145,31 @@
     "definitions": [
       {
         "meaning": "fellow traveler",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр л1ым '''гъогогъу''' фэхъуи, къалэм зэдэк1уагъэх",
+            "translation": "The boy became a '''fellow traveler''' to the man, and together they went to the city."
+          }
+        ]
       },
       {
         "meaning": "time; instance",
         "examples": [
           {
-            "sentence": "'''Гъогогъу''' заулэрэ кIуагъэ, ау ригъотагъэп",
+            "sentence": "'''Гъогогъу''' заулэрэ к1уагъэ, ау ригъотагъэп",
             "translation": "He went many '''times''', but he didn't find it in it."
           },
           {
-            "sentence": "'''ГъогогъуитIо''' лъигъэкIуагъ",
+            "sentence": "'''Гъогогъуит1о''' лъигъэк1уагъ",
             "translation": "He send him '''two times'''"
           },
           {
             "sentence": "'''Гъогогъуищэ''' шъуиунэ сыкъэк1уагъ",
             "translation": "I came to your house '''three times'''"
+          },
+          {
+            "sentence": "К1алэр '''гъогогъуипл1эрэ''' к1эрахъомк1э уагъэ",
+            "translation": "The boy shot with the gun '''four times'''."
           }
         ]
       }
@@ -68100,11 +68182,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "have a nice day",
-        "examples": []
-      },
-      {
-        "meaning": "have a nice trip",
+        "meaning": "have a nice day; have a nice trip",
         "examples": []
       }
     ],
@@ -68137,8 +68215,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "steam",
-        "examples": []
+        "meaning": "steam (water vapor in general)",
+        "examples": [
+          {
+            "sentence": "Ч1ыгум '''гъозыр''' шъхьарехы",
+            "translation": "'''Steam''' rises from the ground."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -68158,16 +68241,84 @@
     "ipa": "ʁʷaməɮ"
   },
   {
+    "word": "мыхьамел",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "bread and salt",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "məħaːməɮ"
+  },
+  {
+    "word": "гъомылэщ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "food store",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʁʷaməɮaɕ"
+  },
+  {
     "word": "гъуапэ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "sleeve",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Джанэм '''гъуапэхэр''' педэжьых",
+            "translation": "(S)he sews '''the sleeves''' to the shirt."
+          },
+		  {
+            "sentence": "Джэнэ '''гъопэ''' к1ыхь",
+            "translation": "Long '''sleeved''' shirt."
+          },
+		  {
+            "sentence": "'''Уигъуапэхэр''' дэщаех",
+            "translation": "Raise your '''sleeves'''."
+          }
+        ]
       }
+    ],
+    "synonyms": [
+      "1эгъуапэ"
     ],
     "type": "noun",
     "ipa": "ʁʷaːpa"
+  },
+  {
+    "word": "1эгъуапэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "sleeve (of a shirt)",
+        "examples": [
+          {
+            "sentence": "Джанэм '''1эгъуапэхэр''' педэжьых",
+            "translation": "(S)he sews '''the sleeves''' to the shirt."
+          },
+		  {
+            "sentence": "Джэнэ '''1эгъопэ''' к1ыхь",
+            "translation": "Long '''sleeved''' shirt."
+          },
+		  {
+            "sentence": "'''Уи1эгъуапэхэр''' дэщаех",
+            "translation": "Raise your '''sleeves'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "гъуапэ"
+    ],
+    "type": "noun",
+    "ipa": "ʔaʁʷaːpa"
   },
   {
     "word": "гъудэ",
@@ -68175,15 +68326,16 @@
     "definitions": [
       {
         "meaning": "gadfly",
-        "examples": []
-      },
-      {
-        "meaning": "gadfly",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Гъудыр''' лъэшэу мэцакъэ",
+            "translation": "'''The gadfly''' bites hard."
+          }
+        ]
       }
     ],
     "type": "noun",
-    "ipa": "ʁʷənd"
+    "ipa": "ʁʷəda"
   },
   {
     "word": "гъук1э",
@@ -68192,6 +68344,31 @@
       {
         "meaning": "blacksmith",
         "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʁʷət͡ʃʼa"
+  },
+  {
+    "word": "щэгъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "colostrum",
+        "examples": []
+      },
+	  {
+        "meaning": "an instance of carrying",
+        "examples": [
+          {
+            "sentence": "Мэкъур '''щэщэгъук1э''' къыщагъ",
+            "translation": "(S)he brought the hay in '''three carryings'''."
+          },
+		  {
+            "sentence": "Т1ощэгъу хъугъэ",
+            "translation": "It reached '''two carryings'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -103843,18 +104020,6 @@
     ],
     "type": "noun",
     "ipa": "maqʷmaɕəʃʼ"
-  },
-  {
-    "word": "мэщы",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "millet",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "maɕ"
   },
   {
     "word": "тыгъоснахьыпэ",
