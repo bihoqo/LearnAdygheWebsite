@@ -67374,7 +67374,7 @@
           },
           {
             "sentence": "Зыми ар '''ешъугъурэп'''",
-            "translation": "He does '''not envy''' anyone."
+            "translation": "(S)he does '''not envy''' anyone."
           }
         ]
       }
@@ -67397,21 +67397,33 @@
         "meaning": "to become inflated, to become bigger in a round shape (usually by air)",
         "examples": [
           {
-            "sentence": "Бэлунэр '''мэпщы'''",
+            "sentence": "Щэрэбыр '''мэпщы'''",
             "translation": "The balloon '''is inflating'''."
           },
           {
-            "sentence": "Бэлунэр '''пщыгъэ'''",
+            "sentence": "Щэрэбыр '''пщыгъэ'''",
             "translation": "The balloon '''inflated'''."
+          },
+          {
+            "sentence": "К1алэм щэрэбыр '''егъэпщы'''",
+            "translation": "The boy '''is inflating''' the balloon."
           }
         ]
       },
       {
-        "meaning": "to swell (Usually a specific spot)",
+        "meaning": "to swell",
         "examples": [
           {
-            "sentence": "К1алэр пхъэк1э слъакъо къуеом, слъакъо '''пщэгъэ'''",
-            "translation": "When the boy struck my leg with a wood, my leg '''swell'''."
+            "sentence": "Слъакъо '''пщыгъэ'''",
+            "translation": "My leg '''swelled'''."
+          },
+		  {
+            "sentence": "Сшъхьэ бжьэ къеуи, '''ыгъэпщыгъ'''",
+            "translation": "A bee sting my head, it '''swelled''' it."
+          },
+		  {
+            "sentence": "К1алэр пхъэк1э слъакъо къеом, слъакъо '''пщыгъэ'''",
+            "translation": "When the boy struck my leg with a wood, my leg '''swelled'''."
           }
         ]
       }
@@ -67420,27 +67432,17 @@
     "ipa": "pɕən"
   },
   {
-    "word": "к1ьэй",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"к1эй\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "к1эй"
-    ],
-    "type": "noun",
-    "ipa": "kʲʼaj"
-  },
-  {
     "word": "гъымакъэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "cry noise",
-        "examples": []
+        "meaning": "a cry noise; the sound of a cry",
+        "examples": [
+          {
+            "sentence": "К1элэц1ык1у '''гъымакъэ''' зэхэсэхы",
+            "translation": "I hear '''a cry''' of a child."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -67457,25 +67459,29 @@
             "sentence": "К1алэр '''мэгущы1э'''",
             "translation": "The boy '''is talking'''."
           },
+		  {
+            "sentence": "К1алэр Адыгэбзэк1э '''гущы1эшъурэпышъ''', тэ Урысыбзэк1э '''къытдэгущы1э'''",
+            "translation": "'''Because''' the boy '''cannot speak''' Circassian, '''he speaks with us''' in Russian."
+          },
           {
             "sentence": "Адыгэбзэк1э '''огущы1а?'''",
             "translation": "'''Do you speak''' Circassian?"
           },
           {
-            "sentence": "Ары Адыгэбзэк1э '''сэгушы1э'''",
-            "translation": "Indeed, i am speaking Circassian."
+            "sentence": "Ары, Адыгэбзэк1э '''сэгушы1э'''",
+            "translation": "Indeed, I am speaking Circassian."
           },
           {
             "sentence": "К1алэм '''сыдэгущы1э'''",
             "translation": "'''I am talking with''' the boy."
           },
           {
-            "sentence": "Телефонымк1э '''сыгуща1эу укъэсдэмыгущы1'''",
-            "translation": "'''While I am talking''' in the phone, '''don't talk with me'''."
+            "sentence": "Телефонымк1э '''сыгущы1эу укъэсдэмыгущы1'''",
+            "translation": "'''While I am talking''' on the phone, '''don't talk to me'''."
           },
           {
             "sentence": "К1алэр телефонымк1э '''мэгущы1э''' непенэу",
-            "translation": "The boy '''is talking''' in the phone the whole day."
+            "translation": "The boy '''is talking''' on the phone the whole day."
           },
           {
             "sentence": "'''Усдэгущы1эмэ''' снэ къыч1аплъ",
