@@ -67530,7 +67530,7 @@
         "meaning": "box",
         "examples": [
           {
-            "sentence": "К1алэм '''къэмланхэр''' зэ1уихэгъ",
+            "sentence": "К1алэм '''къэмланхэр''' зэ1уихыгъэх",
             "translation": "The boy opened '''the boxes'''."
           }
         ]
@@ -67556,17 +67556,12 @@
     "ipa": "jawawaj"
   },
   {
-    "word": "лъэужьэу",
+    "word": "л1эужьэу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "whatever",
-        "examples": [
-          {
-            "sentence": "К1алэм '''лъэужьэу''' зиш1ыгъэми зыфаер къы1ук1эхьагъэп",
-            "translation": "'''Whatever''' the boy has done, he didn't got what he wanted."
-          }
-        ]
+        "meaning": "(Shapsug) alternative form of \"сыдэу\"",
+        "examples": []
       }
     ],
     "synonyms": [
@@ -67585,42 +67580,233 @@
           {
             "sentence": "'''Сыдэу''' дахэ мы дунаир",
             "translation": "This world '''is so''' beautiful."
-          }
-        ]
-      },
-      {
-        "meaning": "whatever",
-        "examples": [
-          {
-            "sentence": "К1алэм '''сыдэу''' зиш1ыгъэми зыфаер къы1ук1эхьагъэп",
-            "translation": "'''Whatever''' the boy has done, he didn't got what he wanted."
+          },
+		  {
+            "sentence": "'''Сыдэу''' уделэ",
+            "translation": "You are '''so''' stupid."
+          },
+		  {
+            "sentence": "'''Сыдэу''' къин мы 1офыр",
+            "translation": "This task is '''so''' hard."
           }
         ]
       }
     ],
-    "synonyms": [
-      "лъэужьэу",
-      "шъыдэу"
-    ],
+    "shapsug": "лъэужьэу; шъыдэу",
     "type": "adv",
     "ipa": "sədaw"
   },
   {
-    "word": "ипашъхьэ",
+    "word": "ыпашъхьэ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "in front of",
         "examples": [
           {
-            "sentence": "К1алэм унэм '''ипашъхьэ''' иуцуагъ",
+            "sentence": "К1алэр унэм '''ыпашъхьэ''' ыуцуагъ",
             "translation": "The boy stood '''in front of''' the house."
+          },
+		  {
+            "sentence": "К1алэр '''сыпашъхьэ''' ит",
+            "translation": "The boy stands '''in front of me'''."
+          },
+		  {
+            "sentence": "Чъыгым '''ыпашъхьэ''' 1ут матэр",
+            "translation": "The basket is '''in front of''' the tree."
+          },
+		  {
+            "sentence": "Л1ым '''ыпашъхьэк1э''' учъэн",
+            "translation": "To run '''in front of''' the man."
+          },
+		  {
+            "sentence": "'''Спашъхьэк1э''' 1ут псыхъор",
+            "translation": "'''In front of me''' there is the river."
+          },
+		  {
+            "sentence": "Куджаным зыгорэ ыук1ыгъ нэмык1 ц1ыфымэ '''апашъхьэк1э'''",
+            "translation": "Kujan killed someone '''in front of''' other people."
+          },
+		  {
+            "sentence": "Ц1ыфэу нэмазэ зиш1ырэм '''ыпашъхьэк1э''' ублэк1эу хъущтэп",
+            "translation": "It is not okay to go pass someone that prays '''in the front of him/her'''."
+          },
+		  {
+            "sentence": "Уятэ '''ыпашъхьэк1э''' ухъуанэу хъущтэп",
+            "translation": "It is not okay to swear '''in front of''' your father."
+          },
+		  {
+            "sentence": "'''Упашъхьэ''' 1утыр плъэгъурэба?",
+            "translation": "Don't you see the thing '''in front of you'''?"
           }
         ]
       }
     ],
     "type": "postp",
+    "ipa": "əpaːʂħa"
+  },
+  {
+    "word": "ипашъхьэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"ыпашъхьэ\"",
+        "examples": []
+      }
+    ],
+    "type": "postp",
     "ipa": "jəpaːʂħa"
+  },
+  {
+    "word": "ыпэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "in front of",
+        "examples": [
+          {
+            "sentence": "К1алэр унэм '''ыпэ''' ыуцуагъ",
+            "translation": "The boy stood '''in front of''' the house."
+          },
+		  {
+            "sentence": "К1алэр '''сыпэ''' ит",
+            "translation": "The boy stands '''in front of me'''."
+          },
+		  {
+            "sentence": "Чъыгым '''ыпэ''' 1ут матэр",
+            "translation": "The basket is '''in front of''' the tree."
+          },
+		  {
+            "sentence": "Л1ым '''ыпэк1э''' учъэн",
+            "translation": "To run '''in front of''' the man."
+          },
+		  {
+            "sentence": "'''Спэк1э''' 1ут псыхъор",
+            "translation": "'''In front of me''' there is the river."
+          },
+		  {
+            "sentence": "Куджаным зыгорэ ыук1ыгъ нэмык1 ц1ыфымэ '''апэк1э'''",
+            "translation": "Kujan killed someone '''in front of''' other people."
+          },
+		  {
+            "sentence": "Ц1ыфэу нэмазэ зиш1ырэм '''ыпэк1э''' ублэк1эу хъущтэп",
+            "translation": "It is not okay to go pass someone that prays '''in the front of him/her'''."
+          },
+		  {
+            "sentence": "Уятэ '''ыпэк1э''' ухъуанэу хъущтэп",
+            "translation": "It is not okay to swear '''in front of''' your father."
+          },
+		  {
+            "sentence": "'''Упэ''' 1утыр плъэгъурэба?",
+            "translation": "Don't you see the thing '''in front of you'''?"
+          }
+        ]
+      }
+    ],
+    "type": "postp",
+    "ipa": "əpa"
+  },
+  {
+    "word": "ипэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"ыпэ\"",
+        "examples": []
+      }
+    ],
+    "type": "postp",
+    "ipa": "jəpa"
+  },
+  {
+    "word": "ыпашъхьэк1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "in front of",
+        "examples": [
+		  {
+            "sentence": "Л1ым '''ыпашъхьэк1э''' учъэн",
+            "translation": "To run '''in front of''' the man."
+          },
+		  {
+            "sentence": "'''Спашъхьэк1э''' 1ут псыхъор",
+            "translation": "'''In front of me''' there is the river."
+          },
+		  {
+            "sentence": "Куджаным зыгорэ ыук1ыгъ нэмык1 ц1ыфымэ '''апашъхьэк1э'''",
+            "translation": "Kujan killed someone '''in front of''' other people."
+          },
+		  {
+            "sentence": "Ц1ыфэу нэмазэ зиш1ырэм '''ыпашъхьэк1э''' ублэк1эу хъущтэп",
+            "translation": "It is not okay to go pass someone that prays '''in the front of him/her'''."
+          },
+		  {
+            "sentence": "Уятэ '''ыпашъхьэк1э''' ухъуанэу хъущтэп",
+            "translation": "It is not okay to swear '''in front of''' your father."
+          }
+        ]
+      }
+    ],
+    "type": "postp",
+    "ipa": "əpaːʂħat͡ʃʼa"
+  },
+  {
+    "word": "ипашъхьэк1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"ыпашъхьэк1э\"",
+        "examples": []
+      }
+    ],
+    "type": "postp",
+    "ipa": "jəpaːʂħat͡ʃʼa"
+  },
+  {
+    "word": "ыпэк1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "in front of",
+        "examples": [
+		  {
+            "sentence": "Л1ым '''ыпэк1э''' учъэн",
+            "translation": "To run '''in front of''' the man."
+          },
+		  {
+            "sentence": "'''Спэк1э''' 1ут псыхъор",
+            "translation": "'''In front of me''' there is the river."
+          },
+		  {
+            "sentence": "Куджаным зыгорэ ыук1ыгъ нэмык1 ц1ыфымэ '''апэк1э'''",
+            "translation": "Kujan killed someone '''in front of''' other people."
+          },
+		  {
+            "sentence": "Ц1ыфэу нэмазэ зиш1ырэм '''ыпэк1э''' ублэк1эу хъущтэп",
+            "translation": "It is not okay to go pass someone that prays '''in the front of him/her'''."
+          },
+		  {
+            "sentence": "Уятэ '''ыпэк1э''' ухъуанэу хъущтэп",
+            "translation": "It is not okay to swear '''in front of''' your father."
+          }
+        ]
+      }
+    ],
+    "type": "postp",
+    "ipa": "əpat͡ʃʼa"
+  },
+  {
+    "word": "ипэк1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"ыпэк1э\"",
+        "examples": []
+      }
+    ],
+    "type": "postp",
+    "ipa": "jəpat͡ʃʼa"
   },
   {
     "word": "къутамэ",
@@ -67638,21 +67824,17 @@
             "translation": "The bird sits on the branch."
           },
           {
-            "sentence": "Узытес '''къутамэр''' къеуупкIэхын",
-            "translation": "To cut down the branch you are sitting on."
+            "sentence": "Узытес '''къутамэр''' зэпык1ыщт",
+            "translation": "'''The branch''' you're sitting on will snap."
+          },
+          {
+            "sentence": "Узымы1этыщт '''къутамэм''' утемыуцу",
+            "translation": "Do not stand on a '''branch''' that cannot lift you."
           }
         ]
-      },
-      {
-        "meaning": "bough",
-        "examples": []
       }
     ],
-    "synonyms": [
-      "куамэ",
-      "къуамэ"
-    ],
-    "kabardian": "гуанэ",
+    "shapsug": "къуамэ",
     "type": "noun",
     "ipa": "qʷətaːma"
   },
@@ -67693,23 +67875,17 @@
     "definitions": [
       {
         "meaning": "pupil; student",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''К1элэеджак1охэр''' экзаменым феджэх",
+            "translation": "'''The students''' are studying for the exam."
+          }
+        ]
       }
     ],
+    "shapsug": "к1элэегьак1о",
     "type": "noun",
     "ipa": "t͡ʃʼaɮajad͡ʒaːkʷʼa"
-  },
-  {
-    "word": "к1элэегьак1о",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"к1элэеджак1о\"",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "t͡ʃʼalajaɡʲaːkʷʼa"
   },
   {
     "word": "шъхьахын",
@@ -67725,6 +67901,14 @@
           {
             "sentence": "'''Сэшъхьахы''' тучанэм сык1онэ",
             "translation": "'''I am being lazy''' to go to the shop."
+          },
+          {
+            "sentence": "'''Умышъхьахэу''' уи1оф ух",
+            "translation": "Finish your work '''without being lazy'''."
+          },
+          {
+            "sentence": "К1алэр тхылъ еджэнк1э '''мэшъхьахы'''",
+            "translation": "The boy '''is being lazy''' to study using a book."
           }
         ]
       }
@@ -67739,7 +67923,12 @@
     "definitions": [
       {
         "meaning": "sleep",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Чъые''' къыпыщэк1э",
+            "translation": "You're missing '''sleeps'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -67750,14 +67939,37 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "delight",
-        "examples": []
+        "meaning": "delightful",
+        "examples": [
+          {
+            "sentence": "Непэ мэфэ '''гуш1уагъу'''",
+            "translation": "Today is a '''delightful''' day."
+          },
+		  {
+            "sentence": "Ащ къехъул1агъэр '''гуш1огъошху'''",
+            "translation": "The thing that happened to him is very '''delightful'''."
+          },
+		  {
+            "sentence": "Ар къэбар '''гуш1уагъу'''",
+            "translation": "That is a '''delightful''' news."
+          }
+        ]
       },
       {
         "meaning": "(Shapsug dialect) funny",
-        "examples": [],
-        "tags": [
-          "Shapsug dialect"
+        "examples": [
+          {
+            "sentence": "Ц1ыфы '''гуш1уагъу'''",
+            "translation": "'''Funny''' person."
+          },
+		  {
+            "sentence": "Ащ къехъул1агъэр '''гуш1огъошху'''",
+            "translation": "The thing that happened to him is very '''funny'''."
+          },
+		  {
+            "sentence": "Ар къэбар '''гуш1уагъу'''",
+            "translation": "That is a '''funny''' news."
+          }
         ]
       }
     ],
@@ -67771,7 +67983,12 @@
     "definitions": [
       {
         "meaning": "courageous, daring, audacious",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Гушхоу''' л1ыр мэзек1о",
+            "translation": "The man behaves '''courageously'''."
+          }
+        ]
       }
     ],
     "type": "adj",
