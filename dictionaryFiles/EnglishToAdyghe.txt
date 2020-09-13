@@ -2694,7 +2694,19 @@
     "vortex": "жьы корен; жьы хьарз"
   },
   {
-    "therefor": "арышъ; ащ пае; ащ фэш1ык1э"
+    "therefor": "арышъ / арти (because of that; because that is the case; so; therefore; for that reason; due to that); ащ пае / ащ фэш1к1э / джащ пае / джащ фэш1ык1э (for that reason or cause, because of that)"
+  },
+  {
+    "because of that": "арышъ / арти (because of that; because that is the case; so; therefore; for that reason; due to that); ащ пае / ащ фэш1к1э / джащ пае / джащ фэш1ык1э (for that reason or cause, because of that)"
+  },
+  {
+    "due to that": "арышъ / арти (because of that; because that is the case; so; therefore; for that reason; due to that); ащ пае / ащ фэш1к1э / джащ пае / джащ фэш1ык1э (for that reason or cause, because of that)"
+  },
+  {
+    "due to this": "мыщ пае / мыщ фэш1к1э (for this reason or cause, because of this)"
+  },
+  {
+    "because of this": "мыщ пае / мыщ фэш1к1э (for this reason or cause, because of this)"
   },
   {
     "but": "ау"
@@ -8088,7 +8100,7 @@
     "to bite": "цэкъэн; хэцэкъэн (to bite something)"
   },
   {
-    "long": "к1ыхьэ; (dialectal) к1ахьы"
+    "long": "к1ыхьэ; (dialectal) к1ахьы; к1ыхьэ-лыхь (sluggish, slow and prolonged)"
   },
   {
     "tall": "к1ыхьэ; (dialectal) к1ахьы"
@@ -9159,6 +9171,9 @@
     "to load": "узэндын; (Shapsug) узэдын"
   },
   {
+    "to reload": "узэндыжьын; (Shapsug) узэдыжьын"
+  },
+  {
     "to save": "къэгъэнэжьын (to save someone); къыхэхыжьын (to save someone from a bad or dangerous siuation); зэтеплъхьан (to collect things and save them for the future); къэгъэнэн (to save something for later); гъэт1ылъын / 1угъэт1ылъык1ын (to lay and save something for the future); гъэш1он (to save something for the future); къэгъэнэхъэжьын (to revive)"
   },
   {
@@ -9885,7 +9900,10 @@
     "space": "огу"
   },
   {
-    "pants": "гъончэдж; (dialectal) гъочэдж; (dialectal) гъошэдж"
+    "pants": "гъончэдж (pants, trousers); (dialectal) гъошэдж / гъочэдж; гъончэдж ч1эгъч1элъ / гъончэдж цӏыкӏу (underwear)"
+  },
+  {
+    "trousers": "гъончэдж; (dialectal) гъочэдж; (dialectal) гъошэдж"
   },
   {
     "felt cloak": "к1ак1о"
@@ -11721,13 +11739,13 @@
     "to kill": "ук1ын; гъэл1эн (to cause to die); хиук1ыхьан (to kill in a war/forest); хэук1ыхьан (to be killed in a war/forest); (dialectal) гъэк1одын; гъэл1эн; 1эк1эук1эн (to kill somebody inadvertently)"
   },
   {
-    "thus": "арти"
+    "thus": "арышъ / арти (because of that; because that is the case; so; therefore; for that reason; due to that)"
   },
   {
-    "as a result": "арти"
+    "as a result": "арышъ / арти (because of that; because that is the case; so; therefore; for that reason; due to that)"
   },
   {
-    "so": "арти (thus); сыдэу (so much); (dialectal) шъыдэу; джарэу"
+    "so": "арышъ / арти (because of that; because that is the case; so; therefore; for that reason; due to that); сыдэу (so much); (dialectal) шъыдэу; джарэу"
   },
   {
     "steering wheel": "гъэзалъэ"
@@ -12327,7 +12345,7 @@
     "for": "пае; фэш1; фэш1к1э; (uncommon) папк1э"
   },
   {
-    "in order to": "ащ пае; ащ фэш1к1э"
+    "in order to": "ащ пае / ащ фэш1к1э / джащ пае / джащ фэш1ык1э"
   },
   {
     "to be with": "гъусэн"
@@ -12390,25 +12408,79 @@
     "to urge": "егъэзын"
   },
   {
-    "whip": "к1анлъэ; къамыщ"
+    "whip": "(Shapsug) к1энлъэ; къамыщ; к1эпщ / шыукъамыщ (horsewhip)"
+  },
+  {
+    "horsewhip": "к1эпщы; шыукъамыщ"
   },
   {
     "lash": "къамыщ"
   },
   {
+    "charioteer": "шао; шыкуао"
+  },
+  {
+    "cart driver": "шао; шыкуао"
+  },
+  {
+    "coachman": "шао; шыкуао"
+  },
+  {
+    "wagoner": "шао; шыкуао"
+  },
+  {
     "elastic": "уфэупц1э (уфэ-упц1); лант1э"
   },
   {
-    "very long": "к1ыхьэ-лыхь"
+    "sluggish": "к1ыхьэ-лыхь (slow and prolonged)"
   },
   {
-    "very tall": "к1ыхьэ-лыхь"
+    "prolonged": "к1ыхьэ-лыхь (slow and prolonged)"
   },
   {
-    "sluggish": "жъажъэ; к1ыхьэ-лыхь"
+    "underwear": "ч1эгъч1элъ; джэнэ ч1эгъч1элъ (undershirt); гъончэдж ч1эгъч1элъ (underpants)"
   },
   {
-    "underwear": "гъончэдж ч1эгъыч1элъ; гъончэдж ц1ык1у"
+    "underclothes": "ч1эгъч1элъ; джэнэ ч1эгъч1элъ (undershirt); гъончэдж ч1эгъч1элъ (underpants)"
+  },
+  {
+    "underpants": "гъончэдж ч1эгъч1элъ"
+  },
+  {
+    "boxers": "гъончэдж ч1эгъч1элъ; гъончэдж цӏыкӏу"
+  },
+  {
+    "briefs": "гъончэдж ч1эгъч1элъ; гъончэдж цӏыкӏу"
+  },
+  {
+    "bloomers": "гъончэдж ч1эгъч1элъ; гъончэдж цӏыкӏу"
+  },
+  {
+    "panties": "гъончэдж ч1эгъч1элъ; гъончэдж цӏыкӏу"
+  },
+  {
+    "butt-huggers": "гъончэдж ч1эгъч1элъ; гъончэдж цӏыкӏу"
+  },
+  {
+    "undies": "гъончэдж ч1эгъч1элъ; гъончэдж цӏыкӏу"
+  },
+  {
+    "tighty whities": "гъончэдж ч1эгъч1элъ; гъончэдж цӏыкӏу"
+  },
+  {
+    "knickers": "гъончэдж ч1эгъч1элъ; гъончэдж цӏыкӏу"
+  },
+  {
+    "drawers": "гъончэдж ч1эгъч1элъ; гъончэдж цӏыкӏу"
+  },
+  {
+    "shreddies": "гъончэдж ч1эгъч1элъ; гъончэдж цӏыкӏу"
+  },
+  {
+    "longjohns": "гъончэдж ч1эгъч1элъ; гъончэдж цӏыкӏу"
+  },
+  {
+    "thong": "гъончэдж ч1эгъч1элъ; гъончэдж цӏыкӏу"
   },
   {
     "to shower": "зыгъэпск1ын (to take a shower); зыгъэпк1ын (to take a shower); гъэпск1ын (to shower someone); гъэпк1ын (to shower someone)"
@@ -12421,6 +12493,9 @@
   },
   {
     "to bath": "зыгъэпск1ын (to take a bath); зыгъэпк1ын (to take a bath); гъэпск1ын (to bath someone); гъэпк1ын (to bath someone)"
+  },
+  {
+    "to bathe": "зыгъэпск1ын (to take a bath); зыгъэпк1ын (to take a bath); гъэпск1ын (to bath someone); гъэпк1ын (to bath someone)"
   },
   {
     "card": "карт"
@@ -13329,7 +13404,7 @@
     "to gather stuff": "къэщыпын; къэугъоин"
   },
   {
-    "because": "сыда п1омэ; (dialectal) шъыда п1омэ; (slang) сыда / шъыда; ащ фэш1к1э (because of that); ащ пае (because of that)"
+    "because": "-ти / -шъ (reason suffix); сыда п1омэ (that is because, the reason for that is); (dialectal) шъыда п1омэ; ащ фэш1к1э / ащ пае / джащ пае / джащ фэш1ык1э (for that reason or cause, because of that)"
   },
   {
     "whore": "(vulgar) къэхьыпэ"
@@ -16110,9 +16185,6 @@
     "to take a nap": "хэпэзэн; шъхьэукъэн; т1эк1у хэчъыен"
   },
   {
-    "horsewhip": "к1эпщы; чы уфэ-упц1"
-  },
-  {
     "very huge": "шъэджэшъэжъ"
   },
   {
@@ -17056,12 +17128,6 @@
   },
   {
     "alcoholic": "ешъуак1о; ешъорый"
-  },
-  {
-    "because of that; for that": "ащ пае"
-  },
-  {
-    "because of that; for that": "ащ фэш1ык1э"
   },
   {
     "because (for what cause, reason, or purpose)": "сыда п1омэ"

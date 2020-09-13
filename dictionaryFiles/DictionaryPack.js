@@ -240,6 +240,14 @@
           {
             "sentence": "К1алэр '''мао'''",
             "translation": "The boy '''is hitting'''."
+          },
+		  {
+            "sentence": "Шыкуаор къамыщык1э шымэ '''яо'''",
+            "translation": "The wagoner '''is striking''' the horses '''with a whip'''."
+          },
+		  {
+            "sentence": "Л1ыр пщыл1ым къамыщык1э '''ео'''",
+            "translation": "The man '''is striking''' the slave with a whip."
           }
         ]
       },
@@ -7916,8 +7924,16 @@
         "meaning": "to look",
         "examples": [
           {
-            "sentence": "К1алэр пшъашъэм '''еплъы'''",
-            "translation": "The boy '''is looking''' at the girl."
+            "sentence": "Чыжьэу '''сэплъэ'''",
+            "translation": "'''I am looking''' far away."
+          },
+		  {
+            "sentence": "К1алэр чъыгым '''еплъы'''",
+            "translation": "The boy '''is looking''' at the tree."
+          },
+		  {
+            "sentence": "Л1ыр '''нэрыплъымк1э''' маплъэ",
+            "translation": "The man is looking '''with the binocular'''."
           },
           {
             "sentence": "Унэ плъыжьым '''еплъ'''",
@@ -9980,11 +9996,11 @@
         "meaning": "to get sad, to get upset",
         "examples": [
           {
-            "sentence": "К1алэм и ныбджэгъу л1агъи '''зэгожъы'''",
+            "sentence": "К1алэм и ныбджэгъу л1агъэти '''зэгожъы'''",
             "translation": "The boy '''is sad''' because his friend died."
           },
           {
-            "sentence": "К1элэц1ык1ум и джэгуалъэр ыутэтагъи '''зэгожъыгъ'''",
+            "sentence": "К1элэц1ык1ум и джэгуалъэр ыутэтагъэти '''зэгожъыгъ'''",
             "translation": "The boy '''got sad''' because he broke his toy."
           },
           {
@@ -12454,18 +12470,6 @@
     ],
     "type": "noun",
     "ipa": "aːrχʷaʐ"
-  },
-  {
-    "word": "арышъ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "therefor",
-        "examples": []
-      }
-    ],
-    "type": "adv",
-    "ipa": "aːrəʂ"
   },
   {
     "word": "арышъхьае",
@@ -19085,7 +19089,7 @@
         "meaning": "to dress up beautifully (to make oneself or someone else look better by dressing up)",
         "examples": [
           {
-            "sentence": "К1алэм '''зегъафэ''' тиунэ къэк1оти",
+            "sentence": "К1алэм '''зегъафэ''' тиунэ къэк1ощтышъ",
             "translation": "The boy '''was dressed smartly''' because he will come to my house."
           }
         ]
@@ -27253,7 +27257,7 @@
         ]
       },
       {
-        "meaning": "small, tiny",
+        "meaning": "tiny (the size of a coin)",
         "examples": [
           {
             "sentence": "Лыр '''Жъгъэеу''' ш1ын",
@@ -41734,6 +41738,10 @@
         "meaning": "to stop someone/something",
         "examples": [
           {
+            "sentence": "Шаом кур '''къыгъэуцугъ'''",
+            "translation": "The wagoner '''stopped''' the carriage."
+          },
+		  {
             "sentence": "'''Къэгъэуцу'''",
             "translation": "'''Stop it'''."
           },
@@ -41742,8 +41750,8 @@
             "translation": "'''Stop it already'''."
           },
           {
-            "sentence": "Пшъашъэм к1алэр '''къегъэуцу'''",
-            "translation": "The girl '''is stopping''' the boy."
+            "sentence": "К1алэм филымыр '''къегъэуцу'''",
+            "translation": "The boy '''is stopping''' the film."
           },
           {
             "sentence": "Кур '''къэбгъэуцушъущта'''?",
@@ -49182,7 +49190,7 @@
             "translation": "'''You cannot evade me'''."
           },
           {
-            "sentence": "К1алэр псынк1и иныжъым '''ш1ок1ышъу'''",
+            "sentence": "К1алэр псынк1эшъ иныжъым '''ш1ок1ышъу'''",
             "translation": "Because the boy is fast '''he can get away from''' the giant."
           }
         ]
@@ -50956,7 +50964,7 @@
         "meaning": "to be hard on oneself (usaully by blaming oneself)",
         "examples": [
           {
-            "sentence": "К1алэр '''зэгоожьы''' пшъашъэр л1агъи",
+            "sentence": "К1алэр '''зэгоожьы''' пшъашъэр л1агъэти",
             "translation": "The boy '''is being hard on himself''' because the girl died."
           },
           {
@@ -59892,11 +59900,43 @@
     "ipa": "aːrəti"
   },
   {
+    "word": "арышъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "because of that; because that is the case; so; therefore; for that reason; due to that",
+        "examples": [
+          {
+            "sentence": "К1алэм ылъакъо зэпик1ыгъ, '''арышъ''' иунэ тхьэмафэ илъыгъ",
+            "translation": "The boy broke his leg, '''therefore''' he was lying down in his home for a week."
+          },
+          {
+            "sentence": "Джэхашъор ц1ашъутэ, '''арышъ''' къэшъумычъэхь",
+            "translation": "The floor is slippery, '''so''' don't run around"
+          },
+          {
+            "sentence": "Л1ыр сымаджэ, '''арышъ''' сымэджэщым тыщэн фай",
+            "translation": "The man is sick, '''therefore''' we need to take him to the hospital."
+          },
+		  {
+            "sentence": "Хьак1э тиунэ къэк1ощт, '''арышъ''' сыгъэзэжьын фай",
+            "translation": "A guest will come to my house, '''therefore''' I need to return."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "арти"
+    ],
+    "type": "adv",
+    "ipa": "aːrəʂ"
+  },
+  {
     "word": "арти",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "because of that; so; therefore; for that reason",
+        "meaning": "because of that; because that is the case; so; therefore; for that reason; due to that",
         "examples": [
           {
             "sentence": "К1алэм ылъакъо зэпик1ыгъ, '''арти''' иунэ тхьэмафэ илъыгъ",
@@ -59917,6 +59957,9 @@
         ]
       }
     ],
+    "synonyms": [
+      "арышъ"
+    ],
     "type": "adv",
     "ipa": "aːrti"
   },
@@ -59925,7 +59968,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "because of that; for that",
+        "meaning": "because of that; for that; for that reason; for that cause",
         "examples": [
           {
             "sentence": "Хьак1э тиунэ къэк1ощт, '''ащ пае''' сыгъэзэжьын фай",
@@ -59957,7 +60000,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "because of that; for that",
+        "meaning": "because of that; for that; for that reason; for that cause",
         "examples": [
           {
             "sentence": "Хьак1э тиунэ къэк1ощт, '''ащ фэш1ык1э''' сыгъэзэжьын фай",
@@ -66308,6 +66351,10 @@
 		  {
             "sentence": "Сыд фэдиз чыжьэу '''нэрыплъымк1э''' уплъэшъущт?",
             "translation": "How far can you see '''using binocular'''?"
+          },
+		  {
+            "sentence": "Л1ыр '''нэрыплъымк1э''' маплъэ",
+            "translation": "The man is looking '''with the binocular'''."
           }
         ]
       }
@@ -66335,12 +66382,12 @@
         "meaning": "so much",
         "examples": [
           {
-            "sentence": "К1алэр къэсынэс '''зыб''' ригъэхьыра",
-            "translation": "It's taking '''so''' much time until the boy"
+            "sentence": "К1алэр къэсынэс '''зыб''' ригъэхьырэр",
+            "translation": "It takes '''so''' much time until the boy arrives."
           },
           {
             "sentence": "'''Зыб''' унэм иуасэ",
-            "translation": "The house '''so much'''."
+            "translation": "The house costs '''so much'''."
           }
         ]
       }
@@ -66356,6 +66403,10 @@
         "meaning": "even more",
         "examples": [
           {
+            "sentence": "Сэ '''нахьыеу''' 1азэу сыхъугъ",
+            "translation": "I became '''even more''' skilled."
+          },
+		  {
             "sentence": "Кур '''нахьыеу''' угъэсэкъатыщт",
             "translation": "You will ruin the car '''even more'''."
           }
@@ -66379,9 +66430,7 @@
         ]
       }
     ],
-    "synonyms": [
-      "лъы къикьын"
-    ],
+    "shapsug": "лъы къик1ьын",
     "type": "verb",
     "ipa": "ɬə qəjt͡ʃʼən"
   },
@@ -66390,7 +66439,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to come out from",
+        "meaning": "to come out from inside",
         "examples": [
           {
             "sentence": "К1алэр унэм '''къек1ы'''",
@@ -66401,8 +66450,12 @@
             "translation": "'''Come out from''' the house."
           },
           {
-            "sentence": "Сишы унэм '''къик1ыгъэп'''",
+            "sentence": "Сшы унэм '''къик1ыгъэп'''",
             "translation": "My brother '''didn't came out from''' the house."
+          },
+          {
+            "sentence": "Баджэр бым къик1ыгъ",
+            "translation": "The fox '''came out of''' the burrow."
           }
         ]
       },
@@ -66424,7 +66477,7 @@
         "examples": [
           {
             "sentence": "Къэсфэгъэгъу 1аеу '''сыкъык1ыгъэмэ''', аргъэп синетгъэр.",
-            "translation": "I'm sorry if I came horrible; that wasn't my intention."
+            "translation": "I'm sorry if I came horrible, that wasn't my intention."
           }
         ]
       },
@@ -66432,37 +66485,19 @@
         "meaning": "to turn out being; to end up being",
         "examples": [
           {
-            "sentence": "ШIухьафтынэу сикъэшъэн къыситыгъэр 1элъынэу '''къик1ыгъ'''",
-            "translation": "The gift my lover gave me '''turned out''' to be a ring."
-          },
-          {
             "sentence": "Пшъашъэм джанэу щилъагъэр дахэу '''къик1ыгъ'''",
-            "translation": "The dress the girl wear '''ended up being''' beautiful."
+            "translation": "The dress the girl wore '''ended up being''' beautiful."
           },
           {
             "sentence": "Шхыныр 1эш1оу '''къек1ы'''",
-            "translation": "The food '''turns out to be''' tasty"
+            "translation": "The food '''turns out to be''' tasty."
           }
         ]
       }
     ],
-    "synonyms": [
-      "къик1ьын"
-    ],
+    "shapsug": "къик1ьын",
     "type": "verb",
     "ipa": "qəjt͡ʃʼən"
-  },
-  {
-    "word": "мэгъэгъэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"гъэгъэн\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "maʁaʁan"
   },
   {
     "word": "гъэгъэн",
@@ -66472,11 +66507,11 @@
         "meaning": "to bloom",
         "examples": [
           {
-            "sentence": "'''Мэгъагъэ''' тихэкур",
+            "sentence": "'''Мэгъагъэ''' тич1ыгу",
             "translation": "Our land '''is blooming'''."
           },
           {
-            "sentence": "Къэгъагъэ '''мэгъагъэ'''",
+            "sentence": "Къэгъагъэр '''мэгъагъэ'''",
             "translation": "The flower '''is blooming'''."
           }
         ]
@@ -66540,7 +66575,24 @@
     "definitions": [
       {
         "meaning": "horseman",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Шыур''' ц1ыфэу шым тесыр ары",
+            "translation": "'''A horsemen''' is a person that sits on a horse."
+          },
+		  {
+            "sentence": "'''Шыухэр''' къак1ох",
+            "translation": "'''The horsemen''' are coming."
+          },
+		  {
+            "sentence": "Дзэр '''шыуишъэу''' екъух",
+            "translation": "The army is consistent of '''hundred horsemen'''."
+          },
+		  {
+            "sentence": "'''Шыур''' къамыщымк1э шым еуагъ",
+            "translation": "'''The horseman''' stroke the horse with a whip."
+          }
+        ]
       }
     ],
     "kabardian": "шу",
@@ -66552,7 +66604,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"пчъэ\"",
+        "meaning": "misspelled of \"пчъэ\"",
         "examples": []
       }
     ],
@@ -66565,23 +66617,25 @@
     "definitions": [
       {
         "meaning": "ceiling",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ыр к1ашъом дэк1оягъ",
+            "translation": "The man went up '''the ceiling'''."
+          },
+		  {
+            "sentence": "'''К1ашъом''' еплъ",
+            "translation": "Look at '''the ceiling'''."
+          },
+		  {
+            "sentence": "Тиунэ '''ик1ашъо''' псы къыпэчъы",
+            "translation": "Water is dripping from my house's '''ceiling'''."
+          }
+        ]
       }
     ],
+    "shapsug": "к1ьашъо",
     "type": "noun",
     "ipa": "t͡ʃʼaːʃʷa"
-  },
-  {
-    "word": "к1ьашъо",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"к1ашъо\"",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "kʲʼaːʃʷa"
   },
   {
     "word": "къамыщ",
@@ -66589,15 +66643,169 @@
     "definitions": [
       {
         "meaning": "whip; lash",
-        "examples": []
+		"examples": [
+          {
+            "sentence": "Шыур ''''къамыщымк1э''' шым еуагъ",
+            "translation": "The horseman stroke the horse '''with a whip'''."
+          },
+		  {
+            "sentence": "Шыкуаор '''къамыщык1э''' шымэ яо",
+            "translation": "The wagoner is striking the horses '''with a whip'''."
+          },
+		  {
+            "sentence": "Л1ыр пщыл1ым '''къамыщык1э''' ео",
+            "translation": "The man is striking the slave '''with a whip'''."
+          }
+        ]
       }
     ],
     "synonyms": [
       "к1энлъэ",
-      "к1эпщы"
+      "к1эпщы",
+	  "шыукъамыщ"
     ],
     "type": "noun",
     "ipa": "qaːməɕ"
+  },
+  {
+    "word": "к1эпщы",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "horsewhip",
+        "examples": [
+		  {
+            "sentence": "Л1ыр шым '''к1эпщык1э''' ео",
+            "translation": "The man is striking the horse '''with a horsewhip'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "к1энлъэ",
+      "къамыщ",
+	  "шыукъамыщ"
+    ],
+    "shapsug": "к1ьэпщы",
+    "type": "noun",
+    "ipa": "t͡ʃʼapɕə"
+  },
+  {
+    "word": "шыукъамыщ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "horsewhip",
+        "examples": [
+		  {
+            "sentence": "Л1ыр шым '''к1эпщык1э''' ео",
+            "translation": "The man is striking the horse '''with a horsewhip'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "к1энлъэ",
+      "къамыщ",
+      "к1эпщы"
+    ],
+    "type": "noun",
+    "ipa": "ʃəwqaːməɕ"
+  },
+  {
+    "word": "к1энлъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(Shapsug) whip",
+        "examples": [
+          {
+            "sentence": "Шыур ''''к1энлъэмк1э''' шым еуагъ",
+            "translation": "The horseman stroke the horse '''with a whip'''."
+          },
+		  {
+            "sentence": "Шыкуаор '''к1энлъэк1э''' шымэ яо",
+            "translation": "The wagoner is striking the horses '''with a whip'''."
+          },
+		  {
+            "sentence": "Л1ыр пщыл1ым '''к1энлъэк1э''' ео",
+            "translation": "The man is striking the slave '''with a whip'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "к1эпщы",
+      "къамыщ",
+	  "шыукъамыщ"
+    ],
+    "shapsug": "к1ьэнлъэ",
+    "type": "noun",
+    "ipa": "t͡ʃʼanɬa"
+  },
+  {
+    "word": "к1эпщ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"к1эпщы\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃʼapɕ"
+  },
+  {
+    "word": "шыкуао",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "charioteer, coachman, wagoner (someone who drives a wagon), cart driver",
+        "examples": [
+          {
+            "sentence": "'''Шыкуаом''' кур къыгъэуцугъ",
+            "translation": "'''The wagoner''' stopped the carriage."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "шао"
+    ],
+    "type": "noun",
+    "ipa": "ʃəkʷaːwa"
+  },
+  {
+    "word": "шао",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "charioteer, coachman, wagoner (someone who drives a wagon), cart driver",
+        "examples": [
+          {
+            "sentence": "'''Шаом''' кур къыгъэуцугъ",
+            "translation": "'''The wagoner''' stopped the carriage."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "шыкуао"
+    ],
+    "type": "noun",
+    "ipa": "ʃaːwa"
+  },
+  {
+    "word": "шыку",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "horse-drawn carriage",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃəkʷ"
   },
   {
     "word": "зэщыгъэхьак1о",
@@ -66617,7 +66825,16 @@
     "definitions": [
       {
         "meaning": "to start a conflict between people",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1элэ бзаджэм адрэ к1элит1ур '''зэщыгъэхьагъэх'''",
+            "translation": "The awful boy '''made''' the other two boys '''conflict between themselves'''."
+          },
+		  {
+            "sentence": "Куджаным '''тызэщыгъэхьан''' е1о",
+            "translation": "Kujan is trying '''to make us conflict with each other'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -66628,28 +66845,71 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "very long",
-        "examples": []
-      },
-      {
-        "meaning": "very tall",
-        "examples": []
+        "meaning": "sluggish; slow and prolonged",
+        "examples": [
+          {
+            "sentence": "Мы филымыр сыдэу '''к1ыхьэ-лыхь'''",
+            "translation": "This film is so '''long'''."
+          },
+		  {
+            "sentence": "Л1ым и1офы '''к1ыхьэ-лыхьэу''' еш1ы",
+            "translation": "The man does his work '''sluggishly'''."
+          },
+		  {
+            "sentence": "Л1ым 1офыр '''к1ыхьэ-лыхьэ''' ымыш1эу псынк1эу зэш1уихыгъ",
+            "translation": "The man not doing his work '''sluggishly''', did it fast."
+          }
+        ]
       }
     ],
+    "shapsug": "к1ьэхьы-лэхь",
     "type": "adj",
     "ipa": "t͡ʃʼəħa-ɮəħa"
   },
   {
-    "word": "гъончэдж ч1эгъыч1элъ",
+    "word": "гъончэдж ч1эгъч1элъ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "underwear",
+        "meaning": "underpants (boxers, briefs, panties, etc)",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "ʁʷant͡ʃad͡ʒ t͡ʂʼaʁət͡ʂʼaɬ"
+  },
+  {
+    "word": "джэнэ ч1эгъч1элъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "undershirt (an undergarment worn beneath a shirt, often collarless and sleeveless)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "d͡ʒana t͡ʂʼaʁət͡ʂʼaɬ"
+  },
+  {
+    "word": "ч1эгъч1элъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "underwear (clothes worn next to the skin, underneath outer clothing)",
+        "examples": [
+          {
+            "sentence": "Джэнэ '''ч1эгъч1элъ'''",
+            "translation": "'''Undershirt'''."
+          },
+		  {
+            "sentence": "Гъончэдж '''ч1эгъч1элъ'''",
+            "translation": "'''Underpants'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʂʼaʁət͡ʂʼaɬ"
   },
   {
     "word": "гъэчэрэзын",
@@ -66674,24 +66934,28 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to shower, to bath, to lave",
+        "meaning": "to make someone take a shower, to bathe someone",
         "examples": [
           {
             "sentence": "К1алэм '''зегъэпсык1ы'''",
-            "translation": "the boy '''is taking a shower''' (the boy is showering himself)"
+            "translation": "The boy '''is taking a shower'''."
           },
           {
-            "sentence": "Пшъашъэм ик1алэхэ '''егъэпсыык1ых'''",
-            "translation": "the girl '''is showering''' her boys (children)"
+            "sentence": "Пшъашъэм чэтыухэр '''егъэпсык1ых'''",
+            "translation": "The girl '''is bathing''' the cats"
+          },
+          {
+            "sentence": "'''Узгъэпсык1ынэу''' уфая?",
+            "translation": "Do you want '''me to bathe you'''?"
           }
         ]
       }
     ],
     "synonyms": [
-      "гъэпсык1ьын",
       "зыгъэпск1ын",
       "гъэпк1ын"
     ],
+    "shapsug": "гъэпсык1ьын",
     "type": "verb",
     "ipa": "ʁapsət͡ʃʼən"
   },
@@ -66707,32 +66971,19 @@
             "translation": "The boy '''is taking a shower'''."
           },
           {
-            "sentence": "Псынк1эу '''згъэпск1'''",
+            "sentence": "Псынк1эу '''зыгъэпск1'''",
             "translation": "'''Take a shower''' fast."
           },
           {
-            "sentence": "'''Зыщыбгъэпск1ышъунэу''' щыта?",
+            "sentence": "'''Зыщыбгъэпск1ышъунэу''' ау щыта?",
             "translation": "'''Can one take a shower''' there?"
           }
         ]
       }
     ],
-    "synonyms": [
-      "зыгъэпсык1ьын"
-    ],
+    "shapsug": "зыгъэпсык1ьын",
     "type": "verb",
     "ipa": "zʁapst͡ʃʼən"
-  },
-  {
-    "word": "гъэпс1ын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"гъэпс1эн\"",
-        "examples": []
-      }
-    ],
-    "type": "noun"
   },
   {
     "word": "гъэпц1ын",
@@ -66750,7 +67001,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"жэхэпк1эн\"",
+        "meaning": "(Shapsug) alternative form of \"жэхэпк1эн\"",
         "examples": []
       }
     ],
@@ -66762,24 +67013,12 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "card",
+        "meaning": "(Kfar Kama dialect) card",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "pkʲan"
-  },
-  {
-    "word": "мэпк1эн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"пк1эн\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "mapt͡ʃʼan"
   },
   {
     "word": "къуладжэ",
@@ -66789,7 +67028,7 @@
         "meaning": "(Shapsug) deep valley; chasm; abyss",
         "examples": [
           {
-            "sentence": "Уинэ1э зытэгъэтыжь, '''къоладжым''' уимыш1ахэу уифэщт",
+            "sentence": "Уинэ1э зытегъэтыжь, '''къоладжым''' уимыш1ахэу уифэщт",
             "translation": "Take care of yourself (Be careful), you will fall into '''the deep valley''' accidentally."
           }
         ]
@@ -66803,38 +67042,33 @@
     "ipa": "qʷəlaːd͡ʒa"
   },
   {
-    "word": "кьэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"чэ\"",
-        "examples": []
-      }
-    ],
-    "kabardian": "к1э",
-    "type": "noun",
-    "ipa": "kʲa"
-  },
-  {
     "word": "ц1ык1у",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "little",
+        "meaning": "little; small",
         "examples": [
           {
             "sentence": "к1элэ '''ц1ык1у'''",
             "translation": "'''Little''' boy."
           },
           {
-            "sentence": "к1алэр '''ц1ык1у'''",
-            "translation": "The boy ''''is little'''."
+            "sentence": "1анэр '''ц1ык1у'''",
+            "translation": "The table ''''is small'''."
+          },
+          {
+            "sentence": "Унэ '''ц1ык1у''' сихьагъ",
+            "translation": "I went inside the ''''small''' house."
+          },
+          {
+            "sentence": "Чъыгы '''ц1ык1ур''' инэу хъущт псы ч1эбгъэхьэмэ",
+            "translation": "The '''small''' tree will become big if you pour water into it."
           }
         ]
       }
     ],
     "synonyms": [
-      "жъгъэй"
+      "жъгъэй (size of a coin)"
     ],
     "type": "adj",
     "ipa": "t͡sʼəkʷʼ"
@@ -66845,8 +67079,37 @@
     "definitions": [
       {
         "meaning": "sweater",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Чъы1эмэ '''цыджани''' зыщылъ",
+            "translation": "If it is cold, wear '''sweater as well'''."
+          }
+        ]
       }
+    ],
+    "synonyms": [
+      "цык1эк1"
+    ],
+    "shapsug": "цыгьанэ",
+    "type": "noun",
+    "ipa": "t͡səd͡ʒaːna"
+  },
+  {
+    "word": "цык1эк1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "sweater",
+        "examples": [
+          {
+            "sentence": "Чъы1эмэ '''цык1эк1и''' зыщылъ",
+            "translation": "If it is cold, wear '''sweater as well'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "цыджанэ"
     ],
     "type": "noun",
     "ipa": "t͡səd͡ʒaːna"
@@ -66857,7 +67120,20 @@
     "definitions": [
       {
         "meaning": "baldhead",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ы '''шъхьэджашъу'''",
+            "translation": "'''Bold''' man."
+          },
+		  {
+            "sentence": "Л1ыжъы '''шъхьэджашъом''' къыси1уагъ",
+            "translation": "The '''bold''' old-man told me."
+          },
+		  {
+            "sentence": "Сшъхьэц етэкъу, '''шъхьэджашъоу''' сыхъущт",
+            "translation": "My hair is shedding, I will become '''bold'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -66868,11 +67144,11 @@
     "ipa": "ʂħad͡ʒaːʃʷ"
   },
   {
-    "word": "фэжъыуф",
+    "word": "фожъыуфо",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "very big",
+        "meaning": "(Shapsug) very big",
         "examples": []
       }
     ],
@@ -67019,8 +67295,41 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"шхъогъон\"",
-        "examples": []
+        "meaning": "to envy, to feel displeasure or hatred towards (someone) for their good fortune, possessions or success",
+        "examples": [
+          {
+            "sentence": "Ар к1алэм '''ешхъуагъо'''",
+            "translation": "He '''envies''' the boy."
+          },
+          {
+            "sentence": "К1алэр сэ сызэрэбаем фэш1ык1э '''къысэшхъуагъо'''",
+            "translation": "The boy '''envies me''' because I am rich."
+          },
+          {
+            "sentence": "Уику к1э дахэм фэш1ык1э '''къыошхъогъощтых'''",
+            "translation": "Because of your beautiful new car '''they are going to envy you'''"
+          },
+          {
+            "sentence": "'''Ушхъуагъоу''' хъущтэп",
+            "translation": "You can't '''be envious'''."
+          },
+          {
+            "sentence": "Л1ыр баешъ ц1ыфыхэр '''ешхъуагъох'''",
+            "translation": "Because the man is rich, people '''are envy of him'''."
+          },
+          {
+            "sentence": "К1алэм '''уемышхъуагъу'''",
+            "translation": "'''Don't be envy of''' the boy."
+          },
+          {
+            "sentence": "К1алэр пшъашъэм '''ешхъуагъо'''",
+            "translation": "The boy '''is jealous of''' the girl."
+          },
+          {
+            "sentence": "К1алэр '''къысэшхъуагъо'''",
+            "translation": "The boy '''is jealous of me'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -67032,18 +67341,6 @@
     ],
     "type": "verb",
     "ipa": "jaʃχʷaʁʷan"
-  },
-  {
-    "word": "мэшъухъогъон",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"шъухъогъон\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "ʃʷəχʷaʁʷan"
   },
   {
     "word": "ешъухъогъон",
@@ -67068,7 +67365,7 @@
         "meaning": "to be envy of",
         "examples": [
           {
-            "sentence": "Л1ыр баий ц1ыфыхэр '''ешъугъух'''",
+            "sentence": "Л1ыр баешъ ц1ыфыхэр '''ешъугъух'''",
             "translation": "Because the man is rich, people '''are envy of him'''."
           },
           {
@@ -68661,7 +68958,7 @@
             "translation": "The knife '''is sharp'''."
           },
           {
-            "sentence": "Апч убытагъэ '''чыяни''' укъиу1эщт",
+            "sentence": "Апч убытагъэ '''чыянэти''' укъиу1эщт",
             "translation": "Because the broken window is '''sharp''', it will wound you."
           },
           {
@@ -71782,7 +72079,7 @@
             "translation": "'''Inform widely about''' our religion (said to plural)."
           },
           {
-            "sentence": "К1алэм къищэтыти иныбджэгъухэр '''фэк1аджэх'''",
+            "sentence": "К1алэм къищэтышъ иныбджэгъухэр '''фэк1аджэх'''",
             "translation": "Because the young man gonna merry, his friends are '''informing widely about it for him'''."
           }
         ]
@@ -74461,11 +74758,11 @@
         "examples": [
           {
             "sentence": "Ц1ыф горэхэр яш1ош1ухъунгъэ '''фэл1эщтых'''",
-            "translation": "t=Some people '''will died''' for their belies."
+            "translation": "Some people '''will died''' for their belies."
           },
           {
             "sentence": "Ц1ыфэр '''зыфэл1агъэр''' узым фэш1",
-            "translation": "t='''The reason''' the person '''died was''' because of the illness."
+            "translation": "'''The reason''' the person '''died was''' because of the illness."
           }
         ]
       },
@@ -75508,7 +75805,7 @@
             "translation": "'''I tie''' the man's sadness '''to''' what happens in his house."
           },
           {
-            "sentence": "Уишъхьэ узы '''емыгъэпх''' хьабэу ущыхырэм, ар учъыерэпи ары.",
+            "sentence": "Ушъхьэузы '''емыгъэпх''' уцэу ушыхырэм, ар учъыерэпи ары.",
             "translation": "'''Don't tie''' your headache to the pills you're eating, it is because you aren't sleeping."
           }
         ]
@@ -77592,6 +77889,22 @@
           {
             "sentence": "Узым '''фэш1к1э''' л1ыжъыр ыл1ык1ыгъ",
             "translation": "'''Because of''' the illness, the old man died."
+          },
+          {
+            "sentence": "К1алэр сэ сызэрэбаем '''фэш1ык1э''' къысэшхъуагъо",
+            "translation": "The boy envies me '''because''' I am rich."
+          },
+          {
+            "sentence": "Ку к1э ущэфын '''фэш1ык1э''' ахъщэ у1ыгъэжьэп",
+            "translation": "'''Because''' you bought a new car, you no longer have money."
+          },
+          {
+            "sentence": "'''Ощфэш1к1э''' экзаменыр дэгъоу сыш1ыгъ",
+            "translation": "'''Because of you''' I did the exam well."
+          },
+          {
+            "sentence": "'''Сэщфэш1к1э''' 1офыр нахь 1эш1эхэу хъугъэх",
+            "translation": "'''Because of me''' the tasks became easier."
           }
         ]
       },
@@ -77752,6 +78065,35 @@
           {
             "sentence": "1офыр ш1эхэу ыгъэцэк1эным '''пае''' тхъытхъын фэягъэ",
             "translation": "He had to hurry '''in order to''' do the work quickly."
+          }
+        ]
+      },
+	  {
+        "meaning": "because of",
+        "examples": [
+          {
+            "sentence": "К1алэм '''пае''' пшъашъэр мэгъы",
+            "translation": "The girl is crying '''because of''' the boy."
+          },
+          {
+            "sentence": "Узым '''пае''' л1ыжъыр ыл1ык1ыгъ",
+            "translation": "'''Because of''' the illness, the old man died."
+          },
+          {
+            "sentence": "К1алэр сэ сызэрэбаем '''пае''' къысэшхъуагъо",
+            "translation": "The boy envies me '''because''' I am rich."
+          },
+          {
+            "sentence": "Ку к1э ущэфын '''пае''' ахъщэ у1ыгъэжьэп",
+            "translation": "'''Because''' you bought a new car, you no longer have money."
+          },
+          {
+            "sentence": "'''Ощпае''' экзаменыр дэгъоу сыш1ыгъ",
+            "translation": "'''Because of you''' I did the exam well."
+          },
+          {
+            "sentence": "'''Сэщпае''' 1офыр нахь 1эш1эхэу хъугъэх",
+            "translation": "'''Because of me''' the tasks became easier."
           }
         ]
       }
@@ -78535,7 +78877,7 @@
             "translation": "Why could you not come '''on time'''?"
           },
           {
-            "sentence": "'''Игъом''' сыкъызыкIэмыкIошъугъэр автобусхэр зекIощтыгъэхэпышъ ары.",
+            "sentence": "'''Игъом''' сыкъызык1эмык1ошъугъэр автобусхэр зек1ощтыгъэхэпышъ ары.",
             "translation": "I could not come '''on time''' because there were no buses."
           }
         ]
@@ -79241,7 +79583,7 @@
           },
           {
             "sentence": "Хьак1эр '''ежьэжьын''' ы1уи шъхьак1эм, бысымым '''ригъэжьэжьыгъэп'''",
-            "translation": "Because the guest tried '''to run away''', the owner didn't let him."
+            "translation": "The guest tried '''to run away''', however the owner didn't let him."
           }
         ]
       },
@@ -81574,7 +81916,7 @@
             "translation": "Physics '''is tied to''' mathematics."
           },
           {
-            "sentence": "Уишъхьэ узы '''егъэпхыгъэп''' хьабэу ущыхырэм, ар учъыерэпи ары.",
+            "sentence": "Ушъхьэузы '''егъэпхыгъэп''' хьабэу ущыхырэм, ар учъыерэпи ары.",
             "translation": "Your headache '''is not tied to''' the pills you're eating, it is because you aren't sleeping."
           }
         ]
@@ -81760,7 +82102,7 @@
             "translation": "My mother and father '''kicked me out of''' the house."
           },
           {
-            "sentence": "Л1ым к1алэр унэм '''рифыгъ''' 1аеу мэзак1оу щытыгъи ары",
+            "sentence": "Л1ым к1алэр унэм '''рифыгъ''' 1аеу зек1оу щытыгъэти",
             "translation": "The man '''ejected''' the boy '''from''' the house because he was behaving inappropriately."
           },
           {
@@ -82211,7 +82553,7 @@
         "meaning": "to sulk; to express offence by remaining sullenly silent or withdrawn",
         "examples": [
           {
-            "sentence": "К1элэц1ык1ум '''зегъэгусэ''' иянэ 1эш1ухэр къыритхэрэпи ары",
+            "sentence": "К1элэц1ык1ум '''зегъэгусэ''' ыянэ 1эш1ухэр къыритхэрэпи ары",
             "translation": "The little boy '''sulks''' because his mother doesn't give him sweets."
           },
           {
@@ -82262,7 +82604,7 @@
         "examples": [
           {
             "sentence": "Сэ о '''усэш1ужьы'''",
-            "translation": "t='''I am reconciling with you'''."
+            "translation": "'''I am reconciling with you'''."
           },
           {
             "sentence": "К1алэм пшъашъэм '''еш1ужьыгъ'''",
@@ -85590,7 +85932,7 @@
         "meaning": "to make someone tired by annoying or frustrating",
         "examples": [
           {
-            "sentence": "К1элэц1ык1ухэм '''сырагъэзэщыгъ''' ренэу ауш1оеу джэхашъор",
+            "sentence": "К1элэц1ык1ухэмэ '''сырагъэзэщыгъ''', сыда п1омэ ренэу ауш1ои джэхашъор",
             "translation": "The little kids '''tired me''' because they always dirty the floor."
           },
           {
@@ -85733,7 +86075,7 @@
             "translation": "You need to be '''a complete''' person."
           },
           {
-            "sentence": "Армэу ц1ыфым '''игъэкъугъэ''' ц1ыфы нэмык1 ылъэгъун лъэк1ырэп, ежь фэдэпи",
+            "sentence": "Армэу ц1ыфым '''игъэкъугъэ''' ц1ыфы нэмык1 ылъэгъун лъэк1ырэп, ежь фэдэпышъ",
             "translation": "A lazy person cannot see a different '''complete''' person, because he's not like him."
           }
         ]
@@ -89258,7 +89600,7 @@
             "translation": "The boy '''blocked''' the hole."
           },
           {
-            "sentence": "Л1ыжъым илъынтфэхэр '''шъыбыгъэхи''', лъы тэрэзэу арик1ожьырэп",
+            "sentence": "Л1ыжъым илъынтфэхэр '''шъыбыгъэхэти''', лъы тэрэзэу арик1ожьырэп",
             "translation": "Because the old man's veins '''got sealed''', blood doesn't flow them right."
           },
           {
@@ -92253,51 +92595,6 @@
     "ipa": "t͡ʃʼap"
   },
   {
-    "word": "к1эпщы",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "horsewhip",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "к1энлъэ",
-      "къамыщ"
-    ],
-    "type": "noun",
-    "ipa": "t͡ʃʼapɕə"
-  },
-  {
-    "word": "к1энлъэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "whip",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "к1эпщы",
-      "къамыщ",
-      "к1ьэнлъэ"
-    ],
-    "type": "noun",
-    "ipa": "t͡ʃʼanɬa"
-  },
-  {
-    "word": "к1эпщ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"к1эпщы\"",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "t͡ʃʼapɕ"
-  },
-  {
     "word": "шъэджэшъэжъ",
     "lang": "Adyghe",
     "definitions": [
@@ -94364,7 +94661,7 @@
             "translation": "That one is good in speech, you won't be able to be his talking partner."
           },
           {
-            "sentence": "Ар ащ гущыIэгъу фэхъугъэти гукъаоу иIэхэр къыриIуагъ.",
+            "sentence": "Ар ащ гущы1эгъу фэхъугъэти гукъаоу и1эхэр къыри1уагъ.",
             "translation": "Because he became his talking buddy, he told him the misfortunes he have."
           }
         ]
@@ -96024,7 +96321,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "small, tiny",
+        "meaning": "tiny (the size of a coin)",
         "examples": []
       }
     ],
@@ -98073,7 +98370,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "because (for what cause, reason, or purpose)",
+        "meaning": "because (more specifically: that is because; the reason for that is)",
         "examples": [
           {
             "sentence": "Экзамыным бэрэ седжэщт, '''сыда п1омэ''' къиныщт",
