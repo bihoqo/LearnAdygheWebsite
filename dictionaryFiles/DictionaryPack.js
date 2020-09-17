@@ -69498,12 +69498,67 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "pair",
-        "examples": []
+        "meaning": "by two",
+        "examples": [
+          {
+            "sentence": "К1алэм '''мэтк1ут''' мыжъор лавэм хабдзэмэ",
+            "translation": "If you thrrock will melt."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "tʷʼərətʷʼ"
+  },
+  {
+    "word": "пэпчъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "each time; everytime; at each occasion that",
+        "examples": [
+          {
+            "sentence": "Шъуиунэ сыкъак1о '''пэпчъ''' филым теплъы",
+            "translation": "'''Everytime''' I come to your house, we watch a movie."
+          },
+		  {
+            "sentence": "Ар къалэм к1о '''пэпчъ''' ащ зыгорэ къыщэфыгъэу къэк1ожьырэп",
+            "translation": "'''Everytime''' (s)he goes to the city, (s)he returns buying something."
+          },
+		  {
+            "sentence": "К1алэр къак1о '''пэпчъ''' л1ым к1алэр зыгорэ къыфимыш1эу ыгъэк1ожьыгъэп",
+            "translation": "'''Everytime''' the boy comes, the man does not let the boy to return without doing something for the him."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "papt͡ʂ"
+  },
+  {
+    "word": "къэс",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "every (day, month, year...)",
+        "examples": [
+          {
+            "sentence": "Илъэс '''късы''' Америкэм сэк1о",
+            "translation": "I go to America '''every''' year."
+          },
+		  {
+            "sentence": "Мафэ '''късы''' сэчъэ",
+            "translation": "I run '''every''' day."
+          },
+		  {
+            "sentence": "Чэщы '''късы''' филым теплъы",
+            "translation": "'''Every''' night we watch a movie."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "qas"
   },
   {
     "word": "т1урыт1у къашъо",

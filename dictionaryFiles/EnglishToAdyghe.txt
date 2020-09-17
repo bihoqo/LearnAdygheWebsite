@@ -12856,7 +12856,7 @@
   },
   {
     "elderly": "т1урыс; зыныбжь хэк1отэгъэ"
-  }
+  },
   {
     "well-worn": "т1урыс"
   },
@@ -13983,10 +13983,16 @@
     "seriously": "шъыпкъэу"
   },
   {
-    "each": "сыдрэ (each thing); хэтрэ (each person); (dialectal) тэдрэ / тэдрэз; къэс (each time, day, month, year...); шъхьадж"
+    "each": "сыдрэ (each thing); хэтрэ (each person); (dialectal) тэдрэ / тэдрэз; къэс (each time, each day, each month, each year...); шъхьадж; пэпчъ (each time, at each occasion that)"
   },
   {
-    "evey": "сыдрэ (every thing); хэтрэ (every person); пэпчъ; къэс (evey time, day, month, year...)"
+    "every": "пэпчъ (everytime, at each occasion that); къэс (every time, every day, every month, every year...)"
+  },
+  {
+    "everytime": "пэпчъ (everytime, at each occasion that); къэс (every time, every day, every month, every year...)"
+  },
+  {
+    "every time": "пэпчъ (everytime, at each occasion that); къэс (every time, every day, every month, every year...)"
   },
   {
     "many": "бэ; 1аджэ / 1эджы"
