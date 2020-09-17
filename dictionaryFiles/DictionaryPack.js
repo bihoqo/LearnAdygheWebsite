@@ -69123,7 +69123,7 @@
         "meaning": "to go/move near a bit; to move forward/on/further",
         "examples": [
           {
-            "sentence": "Аужырэу щысыхэр '''къылъык1отэн''' фаех еры щы1эн пае",
+            "sentence": "Аужьырэу щысыхэр '''къылъык1отэн''' фаех еры щы1эн пае",
             "translation": "The ones that sit last need '''move forward''' in order to make up space."
           },
           {
@@ -69178,23 +69178,60 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "trail",
-        "examples": []
-      },
-      {
-        "meaning": "path, way, road",
-        "examples": []
+        "meaning": "path, trail (a trail for the use of, or worn by, pedestrians)",
+        "examples": [
+          {
+            "sentence": "Мэзым '''лъагъо''' пхырэк1ынэу",
+            "translation": "'''A trail''' to pass the forest with."
+          },
+		  {
+            "sentence": "Л1ыр '''лъагъом''' тетэу к1озэ мэзым хэк1ыгъ",
+            "translation": "The man went on '''the path''' and entered the forest."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "ɬaːʁʷa"
   },
   {
+    "word": "гъогулъагъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"лъагъо\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʁʷagʷɬaːʁʷa"
+  },
+  {
+    "word": "джэхэшъотедз",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "floormat (a mat that is laid on the floor)",
+        "examples": []
+      },
+	  {
+        "meaning": "doormat",
+        "examples": []
+      },
+	  {
+        "meaning": "floor covering",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "d͡ʒaxaʃʷatajd͡z"
+  },
+  {
     "word": "п1астэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "porridge",
+        "meaning": "porridge (dish of cooked grain or groats)",
         "examples": []
       }
     ],
@@ -69218,9 +69255,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "coverlet",
+        "meaning": "coverlet; sheet; bed-sheet",
         "examples": []
       }
+    ],
+    "synonyms": [
+      "п1этехъо",
+      "чхы1ан"
     ],
     "type": "noun",
     "ipa": "pʼated͡za"
@@ -69229,18 +69270,45 @@
     "word": "п1этехъо",
     "lang": "Adyghe",
     "definitions": [
-      {
-        "meaning": "bed sheet",
-        "examples": []
-      },
-      {
-        "meaning": "blanket",
-        "examples": []
+	  {
+        "meaning": "bedspread, bedcover (topmost covering of a bed)",
+        "examples": [
+          {
+            "sentence": "Бзылъфыгъэм п1эм '''п1этехъо''' фыжь тырихъуагъ",
+            "translation": "The woman covered the bed with a white '''bedspread'''."
+          }
+        ]
       }
+    ],
+    "synonyms": [
+      "п1этедзэ",
+      "чхы1ан"
     ],
     "kabardian": "п1этепхъуэ",
     "type": "noun",
     "ipa": "pʼateχʷa"
+  },
+  {
+    "word": "чхы1ан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "blanket",
+        "examples": [
+          {
+            "sentence": "К1алэм '''чхы1ан''' зытехъо",
+            "translation": "The boy covers himself with a '''blanket'''."
+          },
+		  {
+            "sentence": "Тхьапш '''чхы1анэу''' къыптелъыр?",
+            "translation": "How many '''blankets''' on you?"
+          }
+        ]
+      }
+    ],
+    "kabardian": "шхы1эн",
+    "type": "noun",
+    "ipa": "t͡ʃxəʔaːn"
   },
   {
     "word": "п1оны",
@@ -69248,7 +69316,12 @@
     "definitions": [
       {
         "meaning": "scales (of fish, reptiles, etc.)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Пцэжъыем '''п1онхэр''' и1эх",
+            "translation": "The fish has '''scales'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -69260,7 +69333,12 @@
     "definitions": [
       {
         "meaning": "set (complete set)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Щыгъын '''зэштэгъу'''",
+            "translation": "'''Full set''' of clothes."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -69272,11 +69350,16 @@
     "definitions": [
       {
         "meaning": "alimony",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1эу гок1ыжьыгъэм сабыер '''п1упк1э''' шъузым ритыгъ",
+            "translation": "The divorced man gave the child to the '''alimony''' woman."
+          }
+        ]
       }
     ],
     "type": "noun",
-    "ipa": "pʷʼənt͡ʃʼa"
+    "ipa": "pʷʼəpt͡ʃʼa"
   },
   {
     "word": "1упк1э",
@@ -69284,15 +69367,25 @@
     "definitions": [
       {
         "meaning": "expressive",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''1упк1э''' еджэн",
+            "translation": "'''Expressive''' reading."
+          }
+        ]
       },
       {
-        "meaning": "clever; witty",
-        "examples": []
+        "meaning": "witty",
+        "examples": [
+          {
+            "sentence": "гущы1э '''1упк1'''",
+            "translation": "'''witty''' word."
+          }
+        ]
       }
     ],
     "type": "noun",
-    "ipa": "pʷʼənt͡ʃʼa"
+    "ipa": "ʔʷəpt͡ʃʼa"
   },
   {
     "word": "т1ыргъон",
@@ -69312,9 +69405,7 @@
         ]
       }
     ],
-    "synonyms": [
-      "т1ыгъон"
-    ],
+    "shapsug": "т1ыгъон",
     "type": "verb",
     "ipa": "tʼərʁʷan"
   },
@@ -92613,19 +92704,6 @@
     ],
     "type": "adj",
     "ipa": "qʷapazaːnd"
-  },
-  {
-    "word": "чхы1ан",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "blanket",
-        "examples": []
-      }
-    ],
-    "kabardian": "шхы1эн",
-    "type": "noun",
-    "ipa": "t͡ʃxəʔaːn"
   },
   {
     "word": "шапхъэ",

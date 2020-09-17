@@ -12780,16 +12780,19 @@
     "to move a bit": "лъык1отэн"
   },
   {
-    "to move": "хъыен; кощын (to move elsewhere); к1отэн (to move forward); лъык1отэн (to move forward/away a bit); зэк1эк1он (to move back)"
+    "to move": "хъыен; кощын (to move elsewhere); к1отэн (to move forward); лъык1отэн (to move forward/away a bit); зэк1эк1он (to move backward)"
   },
   {
-    "trail": "лъагъо"
+    "trail": "лъагъо; гъогулъагъо"
   },
   {
-    "path": "гъогу; лъагъо"
+    "path": "гъогу; лъагъо; гъогулъагъо"
   },
   {
-    "road": "лъагъо"
+    "floormat": "джэхэшъотедз"
+  },
+  {
+    "doormat": "джэхэшъотедз"
   },
   {
     "way": "гъогу; лъагъо; 1эмал (method, way, means)"
@@ -12798,19 +12801,28 @@
     "porridge": "п1астэ"
   },
   {
-    "coverlet": "п1этедзэ"
+    "coverlet": "п1этехъо; п1этедзэ"
   },
   {
-    "bed sheet": "п1этехъо"
+    "bedspread": "п1этехъо"
   },
   {
-    "bed-sheet": "п1этехъо"
+    "bedcover": "п1этехъо"
   },
   {
-    "bedsheet": "п1этехъо"
+    "sheet": "п1этехъо; п1этедзэ"
   },
   {
-    "blanket": "чхы1ан; п1этехъо"
+    "bed sheet": "п1этехъо; п1этедзэ"
+  },
+  {
+    "bed-sheet": "п1этехъо; п1этедзэ"
+  },
+  {
+    "bedsheet": "п1этехъо; п1этедзэ"
+  },
+  {
+    "blanket": "чхы1ан"
   },
   {
     "scales": "п1оны (scales of fish, reptiles, etc.); шъуамп1э"
@@ -12822,10 +12834,10 @@
     "preservation": "ухъумэныр"
   },
   {
-    "to ripen": "т1ыргъон; (Shapsug) т1ыгъон"
+    "to ripen": "т1ыргъон; (Shapsug) т1ыгъон; игъо хъун"
   },
   {
-    "to mature": "т1ыргъон (to ripen); (Shapsug) т1ыгъон"
+    "to mature": "хэхъон / пкъым къиуцон / такъырэу хъун / инэу хъун (to grow up); игъо хъун; т1ыргъон (to ripen); (Shapsug) т1ыгъон (to ripen)"
   },
   {
     "gorge": "т1уак1э"
