@@ -30504,18 +30504,6 @@
     "ipa": "ɮaʑəʁaʃʼaːpʼa"
   },
   {
-    "word": "шъхьалы",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "mill",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ʂħaːlə"
-  },
-  {
     "word": "оры",
     "lang": "Adyghe",
     "definitions": [
@@ -49033,31 +49021,6 @@
     "kabardian": "занщ1эу",
     "type": "adv",
     "ipa": "zaːnt͡ʃaw"
-  },
-  {
-    "word": "зыплъыхьан",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to look around",
-        "examples": [
-          {
-            "sentence": "К1алэм '''зеплъыхьэ'''",
-            "translation": "The boy '''is looking around'''."
-          },
-          {
-            "sentence": "'''Зэсэплъыхьэ'''",
-            "translation": "'''I am looking around'''."
-          },
-          {
-            "sentence": "'''Зыплъэхьи''' къэгъот джанэр",
-            "translation": "'''Look around''' and find the shirt."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "zəpɬaħaːn"
   },
   {
     "word": "фэмэн",
@@ -68406,11 +68369,142 @@
     "definitions": [
       {
         "meaning": "fur coat",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''джэдыгу''' зыщылъагъ",
+            "translation": "The boy put on '''fur coat'''."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "d͡ʒadəɡʷ"
+  },
+  {
+    "word": "зыплъыхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to look around oneself; to look around the area where oneself is standing",
+        "examples": [
+          {
+            "sentence": "К1алэм '''зеплъыхьэ'''",
+            "translation": "The boy '''is looking around'''."
+          },
+          {
+            "sentence": "'''Зэсэплъыхьэ'''",
+            "translation": "'''I am looking around'''."
+          },
+          {
+            "sentence": "'''Зыплъыхьи''' къэгъот 1унк1ыбзэр",
+            "translation": "'''Look around''' and find the key."
+          },
+          {
+            "sentence": "Л1ыр шъофым хахьи '''зыплъыхьагъ''' ихьэ ыгъотынэу",
+            "translation": "The man went inside the forest and '''looked around''' to find his dog."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zəpɬaħaːn"
+  },
+  {
+    "word": "къэплъыхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to look around a certian place/area; to look around somewhere",
+        "examples": [
+          {
+            "sentence": "Л1ым шъофыр '''къыплъыхьагъ''', ихьэ лъыхъоу",
+            "translation": "The man '''looked around''' the forest, looking for his dog."
+          },
+		  {
+            "sentence": "Пшъашъэм к1алэм ищылъак1э '''къыплъыхьагъ'''",
+            "translation": "The girl '''looked and examined''' the boy's wearing."
+          },
+		  {
+            "sentence": "Чылэр сэ '''къысыплъыхьагъ'''",
+            "translation": "'''I looked around in''' the village."
+          },
+          {
+            "sentence": "Л1ым шъофыр '''къыплъыхьагъ''' ихьэ ыгъотынэу",
+            "translation": "The man '''looked around''' the forest to find his dog."
+          }
+        ]
+      },
+	  {
+        "meaning": "to examine/inspect/survey",
+        "examples": [
+          {
+            "sentence": "Л1ым сыдэжь сызэк1ом, '''сыкъыплъыхьагъ'''",
+            "translation": "When I went to the man, '''he looked and examined me'''."
+          },
+		  {
+            "sentence": "Пшъашъэм к1алэм ищылъак1э '''къыплъыхьагъ'''",
+            "translation": "The girl '''looked and examined''' the boy's wearing."
+          },
+		  {
+            "sentence": "Докторым сымаджэр '''къыплъыхьагъ'''",
+            "translation": "The doctor '''examined''' the patient."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "qapɬəħaːn"
+  },
+  {
+    "word": "зыузэнк1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to straighten oneself; to straighten up",
+        "examples": [
+          {
+            "sentence": "К1алэм '''зыузэнк1ыгъ'''",
+            "translation": "The boy '''straighten up'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zəwzant͡ʃʼən"
+  },
+  {
+    "word": "чау",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "pow (indicates the sound that a strong impact on the skin makes)",
+        "examples": [
+          {
+            "sentence": "К1алэм ыпшъэбы сыдауи '''чау''' къезгъэ1уагъ",
+            "translation": "I hit the boy's neck and made it say '''pow'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃʼaːw"
+  },
+  {
+    "word": "шъхьалы",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "mill",
+        "examples": [
+		  {
+            "sentence": "Коц дзыо заулэ '''шъхьалым''' тыхьын фае",
+            "translation": "We need to take several hay sacks to '''the mill'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʂħaːlə"
   },
   {
     "word": "дзыо",
@@ -68418,7 +68512,20 @@
     "definitions": [
       {
         "meaning": "bag; sack",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''дзыом''' коц ритэкъуагъ",
+            "translation": "The boy throw hay inside the '''sack'''."
+          },
+		  {
+            "sentence": "Коц '''дзыо''' заулэ шъхьалым тыхьын фае",
+            "translation": "We need to take several hay '''sacks''' to the mill."
+          },
+		  {
+            "sentence": "Къэхь '''дзыор''', къутамэхэр итдзэжьыщтых",
+            "translation": "Bring '''the sack''', we will throw the branches to it."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -68453,7 +68560,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "brake",
+        "meaning": "brake, brakes",
         "examples": []
       }
     ],
@@ -68465,8 +68572,22 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "core",
-        "examples": []
+        "meaning": "core (middle soft part)",
+        "examples": [
+          {
+            "sentence": "Хьалыгъу '''купк1'''",
+            "translation": "'''Core''' of a bread."
+          }
+        ]
+      },
+	  {
+        "meaning": "essence",
+        "examples": [
+		  {
+            "sentence": "Упч1эм '''ыкупк1''' къыбгуры1он",
+            "translation": "To understand '''the essence''' of the question."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -68478,7 +68599,16 @@
     "definitions": [
       {
         "meaning": "stubborn",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Ар ц1ыф '''къаигъ'''",
+            "translation": "That is a '''subborn''' person."
+          },
+		  {
+            "sentence": "Л1ым '''къаигъэ''' ыш1ыгъ",
+            "translation": "The man was '''subborn'''."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -68490,7 +68620,37 @@
     "definitions": [
       {
         "meaning": "shed",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Къакъырым''' чэмхэр ч1этых",
+            "translation": "The cows are under the '''shed'''."
+          },
+		  {
+            "sentence": "Л1ым хьанцэхэр '''къакъырым''' щы1ыгъых",
+            "translation": "The man stores the shovels inside the '''shed'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "qaːqər"
+  },
+  {
+    "word": "щы1ыгъын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to store in; to be storing something in",
+        "examples": [
+		  {
+            "sentence": "Л1ым хьанцэхэр къакъырым '''щы1ыгъых'''",
+            "translation": "The man '''stores''' the shovels inside the shed."
+          },
+		  {
+            "sentence": "Гыныр дэгъэчъым '''щысы1ыгъ'''",
+            "translation": "'''I store''' the gunpowder in the drawer"
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -68501,7 +68661,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "reed",
+        "meaning": "(plant) cane, rush, reed",
+        "examples": []
+      },
+	  {
+        "meaning": "a kind of musical instrument among the Circassians; reed or iron tube with three holes",
         "examples": []
       }
     ],
@@ -68514,7 +68678,16 @@
     "definitions": [
       {
         "meaning": "strength; force",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Мы л1ым '''къарыу''' и1",
+            "translation": "This man has '''strength'''."
+          },
+		  {
+            "sentence": "Урысыер '''къарыушху'''",
+            "translation": "Russia is very '''strong'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -68524,15 +68697,47 @@
     "ipa": "qaːrəw"
   },
   {
-    "word": "къогъо",
+    "word": "дорэщ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "gorge, pass, ravine",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "dawraɕ"
+  },
+  {
+    "word": "къогъу",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "corner",
         "examples": [
           {
-            "sentence": "К1алэр '''къогъом''' къохьагъэ",
+            "sentence": "К1алэр '''къогъум''' къохьагъэ",
+            "translation": "The boy went to '''the corner'''."
+          },
+		  {
+            "sentence": "К1алэр '''къогъум''' къохьагъэ",
             "translation": "The boy went '''to the corner'''."
+          },
+		  {
+            "sentence": "Пхъэнк1ыпхъэр '''къогъум''' къолъ",
+            "translation": "The broom is in '''the corner'''."
+          },
+		  {
+            "sentence": "Хьэм чэтыур '''къогъум''' къыкъуиубытагъ",
+            "translation": "The dog caught the cat in '''the corner'''."
+          },
+		  {
+            "sentence": "Чылэр къушъхьэ '''къогъум''' къос",
+            "translation": "The village is in '''the corner''' of the mountain."
+          },
+		  {
+            "sentence": "К1элэегъаджэм к1алэу мыда1орэр '''къогъум''' къуегъэуцо",
+            "translation": "The teacher places kids that are disobedient into '''the corner'''."
           }
         ]
       }
@@ -68541,21 +68746,31 @@
     "ipa": "qʷaʁʷa"
   },
   {
-    "word": "къохьэн",
+    "word": "къохьан",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to go to the corner of",
         "examples": [
           {
-            "sentence": "К1алэр къогъом '''къохьагъэ'''",
-            "translation": "The boy '''went to the corner'''."
+            "sentence": "К1алэр къогъум '''къохьагъэ'''",
+            "translation": "The boy '''went to''' the corner."
+          }
+        ]
+      },
+	  {
+        "meaning": "to go behind",
+        "examples": [
+          {
+            "sentence": "К1алэр чъыгым '''къохьагъ'''",
+            "translation": "The boy '''went behind''' the tree."
           }
         ]
       }
     ],
+	"kabardian": "къуэхьэн"
     "type": "verb",
-    "ipa": "qʷaħan"
+    "ipa": "qʷaħaːn"
   },
   {
     "word": "къохьап1э",
@@ -68563,7 +68778,20 @@
     "definitions": [
       {
         "meaning": "west",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Къохьап1эмк1э''' тыгъэр къохьажьы",
+            "translation": "The sun sets '''in the west'''."
+          },
+		  {
+            "sentence": "'''Къохьап1эмк1э''' сыкъэк1ы",
+            "translation": "I am coming '''from the west'''."
+          },
+		  {
+            "sentence": "'''Къохьап1эмк1э''' к1о",
+            "translation": "Go '''to the west'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -68578,12 +68806,26 @@
     "definitions": [
       {
         "meaning": "east",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Къок1ып1эмк1э''' тыгъэр къыкъок1ы",
+            "translation": "The sun rises '''from the east'''."
+          },
+		  {
+            "sentence": "'''Къок1ып1эмк1э''' сыкъэк1ы",
+            "translation": "I am coming '''from the east'''."
+          },
+		  {
+            "sentence": "'''Къок1ып1эмк1э''' к1о",
+            "translation": "Go '''to the east'''."
+          }
+        ]
       }
     ],
     "synonyms": [
       "тыгъэкъок1ып1"
     ],
+    "shapsug": "къок1ьып1э",
     "type": "noun",
     "ipa": "qʷat͡ʃʼəpʼa"
   },
@@ -68592,7 +68834,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "fold",
+        "meaning": "fold, plait, crease",
         "examples": []
       }
     ],
@@ -68605,7 +68847,24 @@
     "definitions": [
       {
         "meaning": "bribe",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ц1ыфэу '''къуалъхьэхэр''' зиштэрэр чыжьэу нэсыщтэп",
+            "translation": "A person that takes '''bribes''' won't reach far."
+          },
+		  {
+            "sentence": "К1алэм л1ым '''къуалъхьэ''' ритыгъ",
+            "translation": "The boy gave the man '''bribe'''."
+          },
+		  {
+            "sentence": "Мы хьэубытым '''къуалъхьэ''' а1ехы",
+            "translation": "This cop takes '''bribe'''."
+          },
+		  {
+            "sentence": "Ар '''къолъхьэ''' ш1ык1эм фэ1аз",
+            "translation": "(S)he is good in '''bribing'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -68628,8 +68887,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "ash tree",
-        "examples": []
+        "meaning": "ash-tree",
+        "examples": [
+          {
+            "sentence": "'''К1аир''' дэгъоу мэсты",
+            "translation": "'''Ash-tree''' burns good."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -68640,7 +68904,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to harness",
+        "meaning": "to hang up",
+        "examples": []
+      },
+	  {
+        "meaning": "to connect something under something",
         "examples": []
       }
     ],
@@ -68652,15 +68920,27 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to return (there)",
+        "meaning": "to return (there; from which one came)",
         "examples": [
           {
+            "sentence": "Укъыздэк1ыгъэм '''к1ожь'''",
+            "translation": "'''Return''' from where you came."
+          },
+		  {
             "sentence": "К1алэр уиунэ '''мэк1ожьы'''",
             "translation": "The boy '''is returning''' to your house."
           },
           {
             "sentence": "К1алэр '''мэк1ожьы'''",
             "translation": "The boy '''is returning'''."
+          },
+          {
+            "sentence": "Сэ т1эк1у ш1эмэ '''сыкъэк1ожьыщт'''",
+            "translation": "'''I will come back''' soon."
+          },
+          {
+            "sentence": "К1алэр яунэ '''к1ожьи''', ахъщэ къишти, тадэжь '''къэк1ожьыгъ'''",
+            "translation": "The boy '''returned home''', took money and '''returned back''' to us."
           }
         ]
       }
@@ -68673,7 +68953,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to return (here), to return back",
+        "meaning": "to return (here); to return back; to come back again",
         "examples": [
           {
             "sentence": "К1алэр уиунэ '''къэк1ожьы'''",
@@ -68682,6 +68962,14 @@
           {
             "sentence": "К1алэр '''къэк1ожьы'''",
             "translation": "The boy '''is returning back here'''."
+          },
+		  {
+            "sentence": "Сэ т1эк1у ш1эмэ '''сыкъэк1ожьыщт'''",
+            "translation": "'''I will come back''' soon."
+          },
+          {
+            "sentence": "К1алэр яунэ к1ожьи, ахъщэ къишти, тадэжь '''къэк1ожьыгъ'''",
+            "translation": "The boy returned home, took money and '''returned back''' to us."
           }
         ]
       }
@@ -68694,10 +68982,23 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "weak, fragile",
-        "examples": []
-      }
-    ],
+        "meaning": "infirm; feeble; one that lacks strength",
+        "examples": [
+          {
+            "sentence": "Ар сымэджагъэшъ '''к1оч1аджэ''' хъугъэ",
+            "translation": "Becuase (s)he is sick, (s)he became '''feeble'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "weak",
+        "examples": [
+          {
+            "sentence": "Ку '''к1оч1адж'''",
+            "translation": "'''Weak''' car."
+          }
+        ]
+      },
     "synonyms": [
       "къарыунчъэ"
     ],
@@ -68710,20 +69011,64 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "impassable roads, flooded roads",
-        "examples": []
+        "meaning": "impassable road, flooded road",
+        "examples": [
+          {
+            "sentence": "Гъогур '''к1уаджэу''' хъугъэ",
+            "translation": "The road became '''flooded'''."
+          },
+		  {
+            "sentence": "Уаем гъогур '''к1уаджэу''' ыш1ыгъ",
+            "translation": "The strong rain '''flooded''' the road."
+          },
+		  {
+            "sentence": "Гъогур '''к1уаджэшъ''' ухэк1ын плъэк1ыщтэп",
+            "translation": "Because the road '''is flooded''', you cannot pass it."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "kʷʼaːd͡ʒ"
   },
   {
+    "word": "ик1ып1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "exit; a way out",
+        "examples": [
+          {
+            "sentence": "Тыдэ щы1 унэм '''иик1ып1э'''?",
+            "translation": "Where is the '''way out''' of the house?"
+          },
+		  {
+            "sentence": "Унэм ык1ьб '''иик1ып1эмк1э''' сыкъик1ыгъ",
+            "translation": "I went out from the house's back '''exit'''."
+          }
+        ]
+      }
+    ],
+    "shapsug": "ик1ьып1э",
+    "type": "noun",
+    "ipa": "jət͡ʃʼəpʼa"
+  },
+  {
     "word": "к1уап1э",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "a place where a group goes to gathers",
-        "examples": []
+        "meaning": "gathering place (a place where a group goes to or gathers)",
+        "examples": [
+          {
+            "sentence": "Мы ч1ып1эр к1элэ-гъолэ '''к1уап1эу''' хъугъэ",
+            "translation": "This place became '''a gathering place''' for youngers."
+          },
+		  {
+            "sentence": "Ащ еджап1эр '''к1уап1эу''' ыш1ыгъ",
+            "translation": "(S)he made school '''the gathering place'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -68733,24 +69078,36 @@
     "word": "лъык1отэн",
     "lang": "Adyghe",
     "definitions": [
-      {
-        "meaning": "to move away a bit",
+	  {
+        "meaning": "to move a bit",
         "examples": [
           {
             "sentence": "'''Шъулъык1уат'''",
-            "translation": "'''Move away''' (said to plural)"
+            "translation": "'''Move away'''."
           },
           {
-            "sentence": "Т1эк1у '''лъык1отии''' укъынэсыщт",
-            "translation": "'''Move away''' a bit and you will reach it"
+            "sentence": "Т1эк1у '''лъык1уати''' укъынэсыщт",
+            "translation": "'''Move''' a bit and you will reach it"
           },
           {
-            "sentence": "Т1эк1у '''лъык1оти''' сыблэгъэк1",
+            "sentence": "Т1эк1у '''лъык1уати''' сыблэгъэк1",
             "translation": "'''Move''' a bit and let me pass."
           },
           {
-            "sentence": "'''Шъулъык1уат шъулъык1уат''' тиблэшъугъэк1",
-            "translation": "'''Move away move away''' let us pass. (said to plural)"
+            "sentence": "'''Шъулъык1уат''', тиблэшъугъэк1",
+            "translation": "'''Move away''', let us pass."
+          },
+          {
+            "sentence": "Телевижыным '''къылъык1уати''' нахь дэгъоу улъэгъущт",
+            "translation": "'''Move near''' the television and you will see better."
+          },
+          {
+            "sentence": "Дзэр '''къылъык1уатэ'''",
+            "translation": "The army '''is advancing [here]'''."
+          },
+		  {
+            "sentence": "Мышъэр ц1ык1у ц1ык1оу '''къылъык1уатэ'''",
+            "translation": "The bear '''is moving [here]''' slowly."
           }
         ]
       }
@@ -68763,11 +69120,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to move near a bit",
+        "meaning": "to go/move near a bit; to move forward/on/further",
         "examples": [
           {
+            "sentence": "Аужырэу щысыхэр '''къылъык1отэн''' фаех еры щы1эн пае",
+            "translation": "The ones that sit last need '''move forward''' in order to make up space."
+          },
+          {
             "sentence": "'''Шъукъылъык1уат'''",
-            "translation": "'''Come near''' (said to plural)"
+            "translation": "'''Come near'''"
           },
           {
             "sentence": "Типыйхэр '''къылъык1уатэх'''",
@@ -68776,6 +69137,14 @@
           {
             "sentence": "Телевижыным '''къылъык1уати''' нахь дэгъоу улъэгъущт",
             "translation": "'''Move near''' the television and you will see better."
+          },
+          {
+            "sentence": "Дзэр '''къылъык1уатэ'''",
+            "translation": "The army '''is advancing [here]'''."
+          },
+		  {
+            "sentence": "Мышъэр ц1ык1у ц1ык1оу '''къылъык1уатэ'''",
+            "translation": "The bear '''is moving [here]''' slowly."
           }
         ]
       }
@@ -68788,8 +69157,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to move",
-        "examples": []
+        "meaning": "to advance, to move/push forward/on/further, to gain/make ground, to make headway",
+        "examples": [
+		  {
+            "sentence": "Дзэр '''к1отэнэу''' ежьагъэ",
+            "translation": "The army started '''to advance'''."
+          },
+		  {
+            "sentence": "У1агъэм щэр бэрэ хэлъмэ '''к1отэнк1э''' щынагъо",
+            "translation": "It is dangerous if the bullet stays for too long in the wound and '''it moves deeper'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -91013,7 +91391,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to express something concerning; to express something according to (more specifically: to say something correspondingly)",
+        "meaning": "to say something about someone or something; to say something concerning; to say something according to; to say something correspondingly to",
         "examples": [
           {
             "sentence": "Л1ым дэеу ыш1агъэхэм дэгъоп '''ес1ол1энэу''' си1эр",
@@ -91367,26 +91745,6 @@
     ],
     "type": "verb",
     "ipa": "ʔʷəħaːn"
-  },
-  {
-    "word": "къохьан",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to go behind",
-        "examples": [
-          {
-            "sentence": "К1алэр чъыгым '''къохьагъ'''",
-            "translation": "The boy '''went behind''' the tree."
-          }
-        ]
-      }
-    ],
-    "synonyms": [
-      "къуэхьэн"
-    ],
-    "type": "verb",
-    "ipa": "qʷaħaːn"
   },
   {
     "word": "к1оц1ыхьан",
@@ -97980,7 +98338,20 @@
     "definitions": [
       {
         "meaning": "bag; sack",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''щэуалэм''' коц ритэкъуагъ",
+            "translation": "The boy throw hay inside the '''sack'''."
+          },
+		  {
+            "sentence": "Коц '''щэуалэ''' заулэ шъхьалым тыхьын фае",
+            "translation": "We need to take several hay '''sacks''' to the mill."
+          },
+		  {
+            "sentence": "Къэхь '''щэуалэр''', къутамэхэр итдзэжьыщтых",
+            "translation": "Bring '''the sack''', we will throw the branches to it."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -103243,9 +103614,12 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "drawer",
+        "meaning": "alternative form of \"дэгъэчъ\"",
         "examples": []
       }
+    ],
+    "synonyms": [
+      "дэгъэчъ"
     ],
     "kabardian": "къыдэгъэж",
     "type": "noun",
@@ -103257,8 +103631,16 @@
     "definitions": [
       {
         "meaning": "drawer",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Гыныр '''дэгъэчъым''' щысы1ыгъ",
+            "translation": "I store the gunpowder in '''the drawer'''"
+          }
+        ]
       }
+    ],
+    "synonyms": [
+      "къыдэгъэчъ"
     ],
     "kabardian": "къыдэгъэж",
     "type": "noun",

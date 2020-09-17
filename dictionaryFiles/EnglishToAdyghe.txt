@@ -393,10 +393,10 @@
     "wing": "тамэ"
   },
   {
-    "angle": "къуапэ; къогъо"
+    "angle": "къуапэ; къогъу"
   },
   {
-    "corner": "къогъо; къуач1э; къуапэ; (dialectal) къурнэ"
+    "corner": "къогъу; къуач1э; къуапэ; (dialectal) къурнэ"
   },
   {
     "solitude": "зэкъоныгъ"
@@ -4209,7 +4209,10 @@
     "to beautify": "зэгъэфэн"
   },
   {
-    "to straighten": "узэнк1ын; узэпкъын; узэфын"
+    "to straighten": "узэнк1ын; узэпкъын; зыузэнк1ын (to straighten oneself); узэфын"
+  },
+  {
+    "to straighten up": "зыузэнк1ын (to straighten oneself)"
   },
   {
     "to make straight": "узэнк1ын; узэпкъын; узэфын"
@@ -10734,7 +10737,7 @@
     "to tickle": "лыджын; гъэлыджын (to tickle someone)"
   },
   {
-    "to look": "плъэн; еплъын (to look at) теплъэн (to look on); xэплъэн (to look among, to look inside an area with either gas, solid or liquid); дэплъэн (to look into); иплъэн (to look inside); пыплъэн (to look on clothes or tree); гоплъэн / бгъодэплъэн (to look besides); къоплъэн (to look behind); зэк1эплъэн / зэплъэк1ын (to look back); лъыплъэн (to look after); дэплъэен (to look up); еплъэхын (to look under); шъхьадэплъын (to look over);  хэплъыхьан (to take a good look into area with trees, plants, fire, liquid or gas, to take a good look among people or objects); теплъыхьан (to take a good look on something); ч1эплъыхьан (to take a good look under something); иплъыхьан (to take a good look inside something); дэплъыхьан (to take a good look in something, to take a good look between); пыплъыхьан (to take a good look on someone's clothes); къэплъыхьан / зыплъыхьан (to take a good look around)"
+    "to look": "плъэн; еплъын (to look at) теплъэн (to look on); xэплъэн (to look among, to look inside an area with either gas, solid or liquid); дэплъэн (to look into); иплъэн (to look inside); пыплъэн (to look on clothes or tree); гоплъэн / бгъодэплъэн (to look besides); къоплъэн (to look behind); зэк1эплъэн / зэплъэк1ын (to look back); лъыплъэн (to look after); дэплъэен (to look up); еплъэхын (to look under); шъхьадэплъын (to look over);  хэплъыхьан (to take a good look into area with trees, plants, fire, liquid or gas, to take a good look among people or objects); теплъыхьан (to take a good look on something); ч1эплъыхьан (to take a good look under something); иплъыхьан (to take a good look inside something); дэплъыхьан (to take a good look in something, to take a good look between); пыплъыхьан (to take a good look on someone's clothes and examine it); къэплъыхьан (to look around in a certain area and examining it); зыплъыхьан (to look around oneself, to look around the area where oneself is standing)"
   },
   {
     "to get drunk": "утэшъон; шъхьэ убытын; зешъок1ыжьын (to get drunk)"
@@ -11058,7 +11061,13 @@
     "halfdead": "ныкъуал1э"
   },
   {
-    "weak": "махэ; к1оч1адж (low-powered); ерагъ (something that needs aid/help); к1оч1энчъэ (powerless); къарыунчъэ (forceless)"
+    "weak": "махэ; к1оч1адж (weak, infirm, feeble); ерагъ (something that needs aid/help); к1оч1энчъэ (powerless); къарыунчъэ (forceless)"
+  },
+  {
+    "infirm": "к1оч1адж"
+  },
+  {
+    "feeble": "к1оч1адж"
   },
   {
     "forceless": "къарыунчъэ"
@@ -12711,7 +12720,13 @@
     "brake": "кулъэшъу"
   },
   {
-    "core": "купк1ы"
+    "brakes": "кулъэшъу"
+  },
+  {
+    "core": "купк1ы (middle soft part)"
+  },
+  {
+    "essence": "мэхьанэ / мэхьанэу и1эр (meaning); купк1ы"
   },
   {
     "pith": "купк1ы"
@@ -13437,7 +13452,16 @@
     "to gather stuff": "къэщыпын; къэугъоин"
   },
   {
-    "because": "-ти / -шъ (reason suffix); сыда п1омэ (that is because, the reason for that is); (dialectal) шъыда п1омэ; ащ фэш1к1э / ащ пае / джащ пае / джащ фэш1ык1э (for that reason or cause, because of that)"
+    "passage": "зэпырык1ып1э (the passage between two places)"
+  },
+  {
+    "exit": "ик1ып1э"
+  },
+  {
+    "gathering place": "к1уап1э"
+  },
+  {
+    "because": "-эти / -эшъ (reason suffix); сыда п1омэ (that is because, the reason for that is); (dialectal) шъыда п1омэ; ащ фэш1к1э / ащ пае / джащ пае / джащ фэш1ык1э (for that reason or cause, because of that)"
   },
   {
     "whore": "(vulgar) къэхьыпэ"
@@ -16275,6 +16299,9 @@
     "turning zone": "къэгъэзэгъу"
   },
   {
+    "to store": "гъэт1ылъын; щы1ыгъын (to store in)"
+  },
+  {
     "significance": "пк1э"
   },
   {
@@ -17460,7 +17487,13 @@
     "to get it": "хэхьан"
   },
   {
-    "to examine": "плъэк1ун; ушэтын"
+    "to examine": "плъэк1ун (to check); къэплъыхьан (to take a look and examine); ушэтын"
+  },
+  {
+    "to inspect": "къэплъыхьан"
+  },
+  {
+    "to survey": "къэплъыхьан"
   },
   {
     "to check": "плъэк1ун; ушэтын"
