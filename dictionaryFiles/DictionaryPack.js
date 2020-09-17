@@ -69392,7 +69392,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to ripen, to mature",
+        "meaning": "to ripen",
         "examples": [
           {
             "sentence": "Нашэр '''т1ыргъуагъэ'''",
@@ -69430,7 +69430,12 @@
     "definitions": [
       {
         "meaning": "gorge, ravine, canyon",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Т1уак1эр''' ч1ып1эу къушъхьит1ум азыфагур ары",
+            "translation": "'''A gorge''' is the place between two mountains."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -69442,19 +69447,47 @@
     "definitions": [
       {
         "meaning": "to exploit",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Капиталистхэмэ ц1ыф '''гъэпщыл1ыныр''' яшэн",
+            "translation": "Capitalists '''exploit''' people."
+          }
+        ]
+      },
+	  {
+        "meaning": "to operate",
+        "examples": [
+          {
+            "sentence": "Работхэр гъэпщыл1ыных",
+            "translation": "'''To operate''' robots."
+          }
+        ]
       }
     ],
     "type": "verb",
-    "ipa": "ʁapɕəlʼən"
+    "ipa": "ʁapɕəɬʼən"
   },
   {
     "word": "т1урыс",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "old",
-        "examples": []
+        "meaning": "elderly",
+        "examples": [
+          {
+            "sentence": "Л1ы '''т1урыс'''",
+            "translation": "'''Elderly''' man."
+          }
+        ]
+      },
+	  {
+        "meaning": "well-worn (showing signs of wear because of extensive use)",
+        "examples": [
+          {
+            "sentence": "Щыгъын '''т1урыс'''",
+            "translation": "'''Well-worn''' clothes."
+          }
+        ]
       }
     ],
     "type": "adj",
