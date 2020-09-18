@@ -69604,7 +69604,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "legend",
+        "meaning": "adventure",
+        "examples": []
+      },
+	  {
+        "meaning": "incident",
         "examples": []
       }
     ],
@@ -69612,24 +69616,21 @@
     "ipa": "ħəjʂ"
   },
   {
-    "word": "хъыбый",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "weak",
-        "examples": []
-      }
-    ],
-    "type": "adj",
-    "ipa": "χəbəj"
-  },
-  {
     "word": "хъызмэт",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "household",
-        "examples": []
+        "meaning": "chore; housework",
+        "examples": [
+          {
+            "sentence": "К1алэм '''хъызмэт''' еш1э",
+            "translation": "The boy is doing '''chores'''."
+          },
+		  {
+            "sentence": "'''Хъызмэт''' 1офыр ухыжьырэп",
+            "translation": "There is no end to '''the chores'''."
+          }
+        ]
       }
     ],
     "type": "noun",

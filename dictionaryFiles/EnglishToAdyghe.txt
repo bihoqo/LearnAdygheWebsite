@@ -12891,7 +12891,13 @@
     "to decide": "ихъухьан"
   },
   {
-    "household": "хъызмэт"
+    "housework": "хъызмэт (chores, housework)"
+  },
+  {
+    "chore": "хъызмэт (chores, housework)"
+  },
+  {
+    "chores": "хъызмэт (chores, housework)"
   },
   {
     "peach": "хъырцэ"
