@@ -10776,6 +10776,12 @@
     "to tickle": "лыджын; гъэлыджын (to tickle someone)"
   },
   {
+    "to get furious": "зэк1эплъыхьан"
+  },
+  {
+    "to rage": зэк1эплъыхьан"
+  },
+  {
     "to look": "плъэн; еплъын (to look at) теплъэн (to look on); xэплъэн (to look among, to look inside an area with either gas, solid or liquid); дэплъэн (to look into); иплъэн (to look inside); пыплъэн (to look on clothes or tree); гоплъэн / бгъодэплъэн (to look besides); къоплъэн (to look behind); зэк1эплъэн / зэплъэк1ын (to look back); лъыплъэн (to look after); дэплъэен (to look up); еплъэхын (to look under); шъхьадэплъын (to look over);  хэплъыхьан (to take a good look into area with trees, plants, fire, liquid or gas, to take a good look among people or objects); теплъыхьан (to take a good look on something); ч1эплъыхьан (to take a good look under something); иплъыхьан (to take a good look inside something); дэплъыхьан (to take a good look in something, to take a good look between); пыплъыхьан (to take a good look on someone's clothes and examine it); къэплъыхьан (to look around in a certain area and examining it); зыплъыхьан (to look around oneself, to look around the area where oneself is standing)"
   },
   {

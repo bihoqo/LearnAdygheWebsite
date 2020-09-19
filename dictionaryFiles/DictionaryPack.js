@@ -72297,8 +72297,8 @@
             "translation": "The boy '''is walking backward'''."
           },
           {
-            "sentence": "Ку '''зэк1эк1ошъурэп'''",
-            "translation": "The car '''can't run backward'''."
+            "sentence": "Т1эк1у '''зэк1ак1у'''",
+            "translation": "'''Go back''' a bit."
           }
         ]
       }
@@ -72330,14 +72330,87 @@
             "translation": "The boy '''is looking back'''."
           },
           {
-            "sentence": "К1алэр '''зэк1аплъэм''' силъэгъогъ",
+            "sentence": "К1алэр '''зэк1аплъэм''' сылъэгъугъ",
             "translation": "When the boy '''looked back''' he saw me."
+          },
+		  {
+            "sentence": "Саусырыкъо къеджагъэхэми '''зэк1эплъагъэп''' ихэбзагъэпи",
+            "translation": "Even though they called Sosruko, he '''didn't look back''' because it was not his custom."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "зэплъэк1ын"
+    ],
+    "type": "verb",
+    "ipa": "zat͡ʃʼakʷʼan"
+  },
+  {
+    "word": "зэплъэк1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to glance back, to look back",
+        "examples": [
+		  {
+            "sentence": "'''Зэплъэк1'''",
+            "translation": "'''Look back'''."
+          },
+          {
+            "sentence": "'''Узэмыплъэк1'''",
+            "translation": "'''Don't look back'''."
+          },
+          {
+            "sentence": "'''Узэмыплъэк1эу''' чъэ",
+            "translation": "Run '''without looking back'''."
+          },
+          {
+            "sentence": "К1алэр '''зэплъэк1ы'''",
+            "translation": "The boy '''is looking back'''."
+          },
+          {
+            "sentence": "К1алэр '''зэплъэк1ым''' сылъэгъугъ",
+            "translation": "When the boy '''looked back''' he saw me."
+          },
+		  {
+            "sentence": "Саусырыкъо къеджагъэхэми '''зэплъэк1ыгъэп''' ихэбзагъэпи",
+            "translation": "Even though they called Sosruko, he '''didn't look back''' because it was not his custom."
+          }
+        ]
+      },
+      {
+        "meaning": "to turn to look",
+        "examples": [
+          {
+            "sentence": "'''Зэплъэк1и''' гъогум къыблэк1",
+            "translation": "'''Turn and look''' when you pass the road."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "зэк1эплъэн"
+    ],
+    "type": "verb",
+    "ipa": "zapɬat͡ʃʼən"
+  },
+  {
+    "word": "зэк1эплъыхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to get furious",
+        "examples": [
+          {
+            "sentence": "Л1ыр '''зэк1эплъыхьагъ'''",
+            "translation": "The man '''got furious'''."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "zat͡ʃʼakʷʼan"
+    "ipa": "ʔaban"
   },
   {
     "word": "1эбэн",
@@ -89094,32 +89167,6 @@
     ],
     "type": "verb",
     "ipa": "ʃʷajəʁʷad͡ʒan"
-  },
-  {
-    "word": "зэплъэк1ын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to glance back, to look back",
-        "examples": [
-          {
-            "sentence": "Саусырыкъо къеджагъэхэми '''зэплъэк1ыгъэп''' ихэбзагъэпи",
-            "translation": "Even though they called him, Sosruko '''didn't look back''' because it was not his custom."
-          }
-        ]
-      },
-      {
-        "meaning": "to turn to look",
-        "examples": [
-          {
-            "sentence": "'''Зэплъэк1и''' гъогум къыблэк1",
-            "translation": "'''Turn and look''' when you pass the road."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "zapɬat͡ʃʼən"
   },
   {
     "word": "фэш1ун",
