@@ -5097,7 +5097,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "disgusting, repulsive, nasty",
+        "meaning": "unpleasant",
         "examples": []
       }
     ],
@@ -5718,18 +5718,6 @@
     "kabardian": "техак1уэ",
     "type": "noun",
     "ipa": "ħaːʂʷa"
-  },
-  {
-    "word": "къыцэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "peach",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "qət͡sa"
   },
   {
     "word": "лъэмыдж",
@@ -8828,8 +8816,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "disgusting (repulsive, distasteful)",
-        "examples": []
+        "meaning": "loathsome",
+        "examples": [
+          {
+            "sentence": "Ц1ыфы '''гущык1ыгъо''' мыжъор лавэм хабдзэмэ",
+            "translation": "'''Loathsome''' person."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -8854,10 +8847,47 @@
       {
         "meaning": "unpleasant",
         "examples": []
+      },
+	  {
+        "meaning": "detestable",
+        "examples": []
       }
     ],
     "type": "noun",
     "ipa": "gʷəħəd͡ʒ"
+  },
+  {
+    "word": "ышъуты къеон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(slang) to get butthurt",
+        "examples": [
+          {
+            "sentence": "Ц1ыфыхэмэ '''ашъуты къео''' 1офы дэгъу си1эти",
+            "translation": "People '''get butthurt''' because I have a good job."
+          },
+		  {
+            "sentence": "Сыда '''ушъуты къео'''?",
+            "translation": "Why '''are you getting butthurt'''?"
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "əʃʷətə qajwan"
+  },
+  {
+    "word": "шъуты къеон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"ышъуты къеон\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʃʷətə qajwan"
   },
   {
     "word": "цокъэк1ыхь",
@@ -26491,22 +26521,6 @@
     "ipa": "ħaːmpɬəʑ"
   },
   {
-    "word": "лэжьак1о",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "a person that works a lot, a person that works hard",
-        "examples": []
-      },
-      {
-        "meaning": "worker",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "laʑaːkʷʼa"
-  },
-  {
     "word": "лэгъупкъопс",
     "lang": "Adyghe",
     "definitions": [
@@ -34575,35 +34589,6 @@
     "kabardian": "пжэндэхъу",
     "type": "noun",
     "ipa": "pt͡ʃandaχʷ"
-  },
-  {
-    "word": "чан",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "sharp (something that cuts easily)",
-        "examples": [
-          {
-            "sentence": "Чатэр '''чан'''",
-            "translation": "The sword '''is sharp'''."
-          },
-          {
-            "sentence": "Шъэжъыер '''чан'''",
-            "translation": "The knife '''is sharp'''."
-          }
-        ]
-      },
-      {
-        "meaning": "sharp (intelligent)",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "чыян (Shapsug)"
-    ],
-    "kabardian": "жан",
-    "type": "adj",
-    "ipa": "t͡ʃaːn"
   },
   {
     "word": "ц1ак1э",
@@ -69642,11 +69627,106 @@
     "definitions": [
       {
         "meaning": "toiler; worker; a person who toils or labors",
+        "examples": [
+          {
+            "sentence": "Чылэм '''и1офыш1эхэр''' къэк1уагъэх унэр аш1ынэу",
+            "translation": "The village's '''toilers''' came to build a house."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "1офш1ак1о",
+      "лэжьак1о"
+    ],
+    "type": "noun",
+    "ipa": "ʔʷafəʃʼa"
+  },
+  {
+    "word": "1офш1ак1о",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "toiler; worker; a person who toils or labors",
+        "examples": [
+          {
+            "sentence": "Чылэм '''и1офш1ак1охэр''' къэк1уагъэх унэр аш1ынэу",
+            "translation": "The village's '''toilers''' came to build a house."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "1офыш1э",
+      "лэжьак1о"
+    ],
+    "type": "noun",
+    "ipa": "ʔʷafəʃʼaːkʷʼa"
+  },
+  
+  {
+    "word": "лэжьак1о",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "worker",
+        "examples": [
+          {
+            "sentence": "Чылэм '''илэжьак1охэр''' къэк1уагъэх унэр аш1ынэу",
+            "translation": "The village's '''workers''' came to build a house."
+          },
+		  {
+            "sentence": "Фабрикэм щылажьэхэмэ '''лэжьак1ок1э''' уаджэшъущт",
+            "translation": "You can call people that work in a factory as '''workers'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "1офыш1э",
+      "1офш1ак1о"
+    ],
+    "type": "noun",
+    "ipa": "laʑaːkʷʼa"
+  },
+  {
+    "word": "чырак1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "farm laborer; cotter",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "ʔʷafəʃʼa"
+    "ipa": "t͡ʃəraːkʷʼ"
+  },
+  {
+    "word": "1офш1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"1офыш1э\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʔʷafʃʼa"
+  },
+  {
+    "word": "къыцэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "peach",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "хъырцэ"
+    ],
+    "type": "noun",
+    "ipa": "qət͡sa"
   },
   {
     "word": "хъырцэ",
@@ -69669,6 +69749,9 @@
         "examples": []
       }
     ],
+    "synonyms": [
+      "къыцэ"
+    ],
     "type": "noun",
     "ipa": "χətəw"
   },
@@ -69677,7 +69760,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "jay",
+        "meaning": "(bird) jay",
         "examples": []
       }
     ],
@@ -69689,9 +69772,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "well",
-        "examples": []
+        "meaning": "well; goodness",
+        "examples": [
+          {
+            "sentence": "'''Xъяр''' къышъудэрэхъу",
+            "translation": "May '''goodness''' will be with you."
+          }
+        ]
       }
+    ],
+    "synonyms": [
+      "ш1у"
     ],
     "type": "noun",
     "ipa": "χəjaːr"
@@ -69701,7 +69792,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "good bye",
+        "meaning": "goodbye",
         "examples": []
       }
     ],
@@ -69721,11 +69812,84 @@
     "ipa": "χʷat͡ʃʼəʁ"
   },
   {
+    "word": "хъок1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to grind (to remove material by rubbing rapidly)",
+        "examples": [
+          {
+            "sentence": "Тэрэзэу '''хъок1''' джэхашъор псык1э",
+            "translation": "'''Grind''' the floor correctly with water."
+          },
+		  {
+            "sentence": "К1алэм благъэр хъэдэнк1э '''ехъок1ы'''",
+            "translation": "The boy '''is grinding''' the plate with a rag."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "χʷat͡ʃʼən"
+  },
+  {
+    "word": "уджэшъун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to bare; to strip",
+        "examples": [
+          {
+            "sentence": "Жьыбгъэм чъыгыхэр '''ыуджэшъугъ'''",
+            "translation": "The wind '''striped''' the trees."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "wəd͡ʒaʃʷən"
+  },
+  {
+    "word": "упц1энын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to strip; to make naked",
+        "examples": [
+          {
+            "sentence": "Ц1ыфым '''сеупц1эны'''",
+            "translation": "The person '''is striping'''."
+          },
+		  {
+            "sentence": "Жьыбгъэм чъыгыхэр '''ыупц1эныгъ'''",
+            "translation": "The wind '''striped''' the trees."
+          },
+		  {
+            "sentence": "Шъэожъыер '''упц1эни''' псым халъхь",
+            "translation": "'''Strip''' the kid and put him into the water."
+          }
+        ]
+      }
+    ],
+    "shapsug": "упс1энын",
+    "type": "verb",
+    "ipa": "wəpt͡sʼanən"
+  },
+  {
     "word": "хъоршэр",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "sly",
+        "meaning": "sly, crafty, cunning",
+        "examples": [
+          {
+            "sentence": "Ц1ыфы '''хъоршэр'''",
+            "translation": "'''Sly''' person."
+          }
+        ]
+      },
+	  {
+        "meaning": "arch, playful (knowing, clever, mischievous)",
         "examples": []
       }
     ],
@@ -69733,24 +69897,96 @@
     "ipa": "χʷarʃar"
   },
   {
+    "word": "хые",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "innocent, not guilty",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "xəja"
+  },
+  {
     "word": "хъот",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "snowstorm",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Хъотым''' гъогур ч1игъэсэягъ",
+            "translation": "The '''snowstorm''' covered the road."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "χʷat"
   },
   {
+    "word": "ч1эгъэсэен",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to cover and bury something",
+        "examples": [
+          {
+            "sentence": "Хъотым гъогур '''ч1игъэсэягъ'''",
+            "translation": "The snowstorm '''covered''' the road."
+          },
+		  {
+            "sentence": "Хьадэр ят1эм '''ч1игъэсэягъ'''",
+            "translation": "'''They buried''' the corpse under the dirt."
+          },
+		  {
+            "sentence": "Унэр къызэхафи ис цӏыфыхэр '''ч1игъэсэягъэх'''",
+            "translation": "The house collapsed and '''buried''' the people in it."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "t͡ʂʼaʁasajan"
+  },
+  {
+    "word": "ч1эухъубэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to cover and bury something; to put stuff on something and bury it",
+        "examples": [
+          {
+            "sentence": "Хъотым гъогур '''ч1иухъубагъ'''",
+            "translation": "The snowstorm '''covered''' the road."
+          },
+		  {
+            "sentence": "Хьадэр ят1эм '''ч1иухъубагъ'''",
+            "translation": "'''They buried''' the corpse under the dirt."
+          },
+		  {
+            "sentence": "Унэр къызэхафи ис цӏыфыхэр '''ч1иухъубагъэх'''",
+            "translation": "The house collapsed and '''buried''' the people in it."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "t͡ʂʼawχʷəban"
+  },
+  {
     "word": "хъоу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "shallow gully",
-        "examples": []
+        "meaning": "deep ravine",
+        "examples": [
+          {
+            "sentence": "Шыур '''хъоум''' дэхьагъ",
+            "translation": "The horseman went to the '''ravine'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -69764,8 +70000,8 @@
         "meaning": "toast (a proposed salutation (e.g. to say \"cheers\"))",
         "examples": [
           {
-            "sentence": "хъохъу къэ1он",
-            "translation": "To make toast for."
+            "sentence": "'''хъохъу''' къэ1он",
+            "translation": "To make '''toast'''."
           }
         ]
       }
@@ -69778,8 +70014,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "ravine",
-        "examples": []
+        "meaning": "gully",
+        "examples": [
+          {
+            "sentence": "'''Хъуатэм''' псы дэт",
+            "translation": "There is water in '''the gully'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -69793,45 +70034,45 @@
         "meaning": "to happen",
         "examples": [
           {
-            "sentence": "ары '''мэхъугъэ'''",
-            "translation": "That's what '''happened'''."
+            "sentence": "ары '''хъугъэ'''",
+            "translation": "That is what '''happened'''."
           },
           {
-            "sentence": "'''мэхъугъэр''' сыд уэш1а?",
-            "translation": "'''Do''' you know what '''happened?'''"
+            "sentence": "'''хъугъэр''' сыд ош1а?",
+            "translation": "'''Do''' you know what '''happened'''?"
           },
           {
-            "sentence": "сыд '''мэхъугъэр'''?",
+            "sentence": "сыд '''хъугъэр'''?",
             "translation": "What '''happened'''?"
           },
           {
-            "sentence": "ау ук1омэ дэйы '''рэхъутэр'''",
-            "translation": "If you go there, '''the thing that will happen''' will be bad."
+            "sentence": "арэп '''хъугъэр'''",
+            "translation": "That is '''not what happened.'''"
           },
           {
-            "sentence": "ар '''махъутэп'''",
-            "translation": "That '''will not happen.'''"
+            "sentence": "сыд мы унэм '''ихъухьагъэр'''?",
+            "translation": "What '''happened''' inside this house?"
+          },
+          {
+            "sentence": "хы ч1эгъым гъэш1эгъоныхэр '''ч1эхъухьэх'''",
+            "translation": "Odd stuff '''happen''' under the sea."
           }
         ]
       },
       {
-        "meaning": "to become, to turn to",
+        "meaning": "to become; to turn to",
         "examples": [
           {
-            "sentence": "илъэсипл1ык1э л1ыу '''сыхъут'''",
-            "translation": "In ten years '''I will become''' a man."
+            "sentence": "илъэсипл1ык1э докторэу '''сыхъущт'''",
+            "translation": "In four years '''I will become''' a doctor."
           },
           {
-            "sentence": "дахэу '''ухъурагъуа?'''",
-            "translation": "'''Do you want to become''' pretty."
+            "sentence": "1азэу '''ухъунэу''' уфая?",
+            "translation": "Do you want '''to become''' skilled?"
           },
           {
-            "sentence": "гъожьырэ шъухъуант1эрэ зэхэбхьагъэхэмэ уыушъоу '''хъущт'''",
+            "sentence": "гъожьырэ шхъуант1эрэ зэхэбгъэхьэхэмэ уцышъоу '''хъущт'''",
             "translation": "If you mix yellow and blue, '''I will become''' green."
-          },
-          {
-            "sentence": "шхъуант1эрэ гъожьырэ '''зэхапк1эмэ''' уцышъоу хъущт",
-            "translation": "'''If you spill''' yellow and blue '''into each other''' it will turn to green."
           }
         ]
       },
@@ -69864,11 +70105,43 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to burp",
+        "meaning": "alternative form of \"къыин\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "qaqəjən"
+  },
+  {
+    "word": "къэин",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"шъао\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "qəjən"
+  },
+  {
+    "word": "къыин",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to burp; to belch",
         "examples": [
           {
             "sentence": "К1алэр '''къэкъыегъ'''",
             "translation": "The boy '''burped'''."
+          },
+		  {
+            "sentence": "Содэм '''укъигъэкъыищт'''",
+            "translation": "Soda '''will make you burp'''."
+          },
+		  {
+            "sentence": "Хэт '''къэтхэкъыигъэр'''?",
+            "translation": "Who is the one '''that burped among us'''?"
           },
           {
             "sentence": "'''Укъэмыкъый'''",
@@ -69878,65 +70151,103 @@
       },
       {
         "meaning": "to hiccup",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ашъыу, '''сыкъэкъыеу''' сежьагъ",
+            "translation": "Argh, I began '''hiccuping'''."
+          },
+		  {
+            "sentence": "Сэ '''сыкъыеу''' сежьагъ",
+            "translation": "I started to '''hiccup'''."
+          }
+        ]
       }
     ],
     "type": "verb",
-    "ipa": "qaqəjən"
-  },
-  {
-    "word": "хьак1эн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to hiccup",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "qaqəjən"
+    "ipa": "qəjən"
   },
   {
     "word": "л1эгъэпалъ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "a person that looks like dead (probably from laziness or weak-willedness)",
+        "meaning": "corpselike; a person that looks like a corpse",
+        "examples": [
+          {
+            "sentence": "'''Л1эгъэпалъэр''' ц1ыфэу л1агъэм фэдэу къэлъагъорэр",
+            "translation": "(S)he is well yet '''corpselike'''."
+          },
+		  {
+            "sentence": "Ар псэу шъхьак1эм '''л1эгъэпалъ'''",
+            "translation": "(S)he is well yet '''corpselike'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɬʼaʁapaːɬ"
+  },
+  {
+    "word": "л1эгъэпапк1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"л1эгъэпалъ\"",
         "examples": []
       }
     ],
     "type": "verb",
-    "ipa": "qaqəjən"
+    "ipa": "ɬʼaʁapaːpt͡ʃʼ"
+  },
+  
+  {
+    "word": "чан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "sharp (something that cuts easily)",
+        "examples": [
+          {
+            "sentence": "Чатэр '''чан'''",
+            "translation": "The sword '''is sharp'''."
+          },
+          {
+            "sentence": "Шъэжъыер '''чан'''",
+            "translation": "The knife '''is sharp'''."
+          },
+          {
+            "sentence": "Апч убытагъэ '''чанэти''' укъиу1эщт",
+            "translation": "Because the broken glass is '''sharp''', it will wound you."
+          },
+          {
+            "sentence": "Уинэ1э зытегъэт, апч убытагъэр '''чанэ'''",
+            "translation": "Be careful, the broken glass '''is sharp'''."
+          }
+        ]
+      },
+      {
+        "meaning": "sharp (intelligent)",
+        "examples": [
+          {
+            "sentence": "Ц1ыфы '''чан'''",
+            "translation": "A '''sharp''' person."
+          }
+        ]
+      }
+    ],
+    "shapsug": "чыян",
+    "kabardian": "жан",
+    "type": "adj",
+    "ipa": "t͡ʃaːn"
   },
   {
     "word": "чыян",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "sharp (Able to cut easily)",
-        "examples": [
-          {
-            "sentence": "Чатэр '''чыян '''",
-            "translation": "The sword '''is sharp'''."
-          },
-          {
-            "sentence": "Шъэжъыер '''чыян '''",
-            "translation": "The knife '''is sharp'''."
-          },
-          {
-            "sentence": "Апч убытагъэ '''чыянэти''' укъиу1эщт",
-            "translation": "Because the broken window is '''sharp''', it will wound you."
-          },
-          {
-            "sentence": "Уинэ1э зытэгъэт, апч убытагъэр '''чыянэ'''",
-            "translation": "Be careful, the broken window '''is sharp'''."
-          }
-        ]
-      },
-      {
-        "meaning": "dishing",
+        "meaning": "alternative form of \"чан\"",
         "examples": []
-      }
+      },
     ],
     "synonyms": [
       "чан"
@@ -69983,6 +70294,14 @@
 		  {
             "sentence": "Лагъэхэр '''1анэм''' ык1ы1у тешъулъхьэх",
             "translation": "Put the plates on the surface of '''the table'''."
+          },
+		  {
+            "sentence": "К1алэр '''1анэм''' к1элъыс",
+            "translation": "The boy is sitting on '''the table'''."
+          },
+		  {
+            "sentence": "Унагъор '''1анэм''' 1ус",
+            "translation": "The family is sitting around '''the table'''."
           }
         ]
       },
@@ -70002,38 +70321,38 @@
         "meaning": "ugly",
         "examples": [
           {
-            "sentence": "Цыфы '''1ае'''",
+            "sentence": "Ц1ыфы '''1ае'''",
             "translation": "'''Ugly''' man."
           }
         ]
       },
       {
-        "meaning": "bad-tasting, bad taste, distasteful",
+        "meaning": "bad-tasting; bad taste; distasteful",
         "examples": [
           {
             "sentence": "Шхын '''1ае'''",
             "translation": "'''Bad tasting''' food."
           },
           {
-            "sentence": "Сиянэ шхын '''1ае''' непэ къиш1эгъ",
+            "sentence": "Сянэ шхын '''1ае''' непэ къиш1ыгъ",
             "translation": "My mother made a '''bad tasting''' food today."
           }
         ]
       },
       {
-        "meaning": "indecent",
+        "meaning": "indecent; rude; inappropriate",
         "examples": [
           {
             "sentence": "К1алэр '''1аеу''' мэгущы1э.",
             "translation": "The boy is speaking '''rudely'''."
           },
           {
-            "sentence": "Уижьэ гущ1э '''1аехэр''' къыдэмыкъэк1.",
-            "translation": "Don't say '''rude''' words."
+            "sentence": "Ужэ гущы1э '''1аехэр''' къыдэмыкъэк1.",
+            "translation": "Don't let '''rude''' words slip your mouth."
           },
           {
             "sentence": "К1алэм '''1аеу''' зеш1ы.",
-            "translation": "The boy is acting '''rude'''."
+            "translation": "The boy is acting '''indecently'''."
           },
           {
             "sentence": "'''1аеу''' къысэплъы л1ыр.",
@@ -70042,17 +70361,13 @@
         ]
       },
       {
-        "meaning": "disgusting",
+        "meaning": "disgusting; nasty",
         "examples": [
           {
             "sentence": "Жьыр '''1аеу''' къэлъагъо",
-            "translation": "The vomit looks '''disgusting'''."
+            "translation": "Vomit looks '''nasty'''."
           }
         ]
-      },
-      {
-        "meaning": "nasty",
-        "examples": []
       },
       {
         "meaning": "awful; horrible",
@@ -79096,44 +79411,6 @@
     ],
     "type": "noun",
     "ipa": "zad͡zat͡ʃʼaːkʷʼa"
-  },
-  {
-    "word": "къыин",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to burp",
-        "examples": [
-          {
-            "sentence": "К1алэр '''къэкъыегъ'''",
-            "translation": "The boy '''burped'''."
-          },
-		  {
-            "sentence": "Содэм '''укъигъэкъыищт'''",
-            "translation": "Coda '''will make you burp'''."
-          },
-		  {
-            "sentence": "Хэт '''къэтхэкъыигъэр'''?",
-            "translation": "Who is the one '''that burped among us'''?"
-          },
-          {
-            "sentence": "'''Укъэмыкъый'''",
-            "translation": "'''Don't burp'''."
-          }
-        ]
-      },
-      {
-        "meaning": "to hiccup",
-        "examples": [
-          {
-            "sentence": "Ашъыу, '''сыкъэкъыеу''' сежьагъ",
-            "translation": "Argh, I began '''hiccuping'''."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "qəjən"
   },
   {
     "word": "къэи",

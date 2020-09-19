@@ -7809,19 +7809,25 @@
     "mean": "ц1ап1э / пц1ап1э; гук1эгъу зыхэмылъ; гук1эгъунчъэ"
   },
   {
-    "loathsome": "гущык1ыгъо; гохьыдж"
+    "loathsome": "гущык1ыгъо; гохьыдж; 1эежъ"
+  },
+  {
+    "to get butthurt": "ышъуты къеон"
   },
   {
     "vile": "ц1ап1э / пц1ап1э"
   },
   {
-    "disgusting": "1ае; 1эежъ; угъэмэхъэшэнэу щыт; гуштэгъуадж; гущык1ыгъо, гуштэгъоджэ, 1эе дэд"
+    "disgusting": "1ае; 1эежъ; угъэмэхъэшэнэу щыт; гущык1ыгъо (loathsome)"
   },
   {
     "foul": "1эежъ; ц1ап1э / пц1ап1э; нэпэнчъэ; нэпэтехныгъэ"
   },
   {
-    "abominable": "гуштэгъуадж; гущык1ыгъо"
+    "abominable": "гущык1ыгъо (loathsome); гуштэгъуадж"
+  },
+  {
+    "detestable": "гущык1ыгъо (loathsome); гуштэгъуадж; гохьыдж"
   },
   {
     "squeamish": "мэхъэшал"
@@ -7830,10 +7836,10 @@
     "easily disgusted": "мэхъэшал"
   },
   {
-    "nasty": "1ае; 1эежъ; 1эе дэд; угъэмэхъэшэнэу щыт; гуштэгъуадж; гущык1ыгъо"
+    "nasty": "1ае; 1эежъ; угъэмэхъэшэнэу щыт"
   },
   {
-    "repulsive": "1эежъ; гуштэгъуадж; гущык1ыгъо"
+    "repulsive": "1эежъ; гуштэгъуадж"
   },
   {
     "heartless": "гук1эгъу зыхэмылъ; гук1эгъунчъэ"
@@ -8541,10 +8547,13 @@
     "big beard": "жэк1эшху"
   },
   {
-    "to belch": "къыин; жэкъун"
+    "to belch": "къыин / къэкъыин; жэкъун"
   },
   {
-    "to burp": "къыин; жэкъун"
+    "to burp": "къыин / къэкъыин; жэкъун"
+  },
+  {
+    "corpselike": "л1эгъэпалъ"
   },
   {
     "ski road": "жэлъак1у"
@@ -9252,7 +9261,10 @@
     "instead": "ыч1ып1эк1э; ыч1ып1эу; ащ ыч1ып1эк1э (instead of that); (Arabic) ибэдалэу"
   },
   {
-    "to rub": "щыфэн (to smear); щыхъон (to rub against); щыгъэхъон (to rub against something)"
+    "to rub": "щыфэн (to smear); щыхъон (to rub against, a friction to be caused between); щыгъэхъон (to rub against something, to cause a friction between); хъок1ын (to grind, to remove material by rubbing rapidly)"
+  },
+  {
+    "to strip": "упц1энын / пц1анэу ш1ын (to strip, to make naked); уджэшъун"
   },
   {
     "slut": "шэмджэн; ш1ои (dirty)"
@@ -10195,6 +10207,9 @@
   },
   {
     "rude": "дысы; 1эдэбынчъэ; джырыкъу"
+  },
+  {
+    "rudely": "1аеу"
   },
   {
     "cheeky": "дысы"
@@ -12843,7 +12858,7 @@
     "gorge": "т1уак1э"
   },
   {
-    "ravine": "т1уак1э; хъуат"
+    "ravine": "т1уак1э; хъоу (deep ravine)"
   },
   {
     "canyon": "т1уак1э"
@@ -12891,6 +12906,9 @@
     "to decide": "ихъухьан"
   },
   {
+    "farm laborer": "чырак1у"
+  },
+  {
     "housework": "хъызмэт (chores, housework)"
   },
   {
@@ -12912,16 +12930,13 @@
     "good bye": "хъярк1э"
   },
   {
+    "goodbye": "хъярк1э"
+  },
+  {
     "shabby": "хъок1ыгъ"
   },
   {
-    "sly": "хъоршэр"
-  },
-  {
     "snowstorm": "хъот"
-  },
-  {
-    "shallow gully": "хъоу"
   },
   {
     "toast (a proposed salutation (e.g. to say \"cheers\"))": "хъохъу"
@@ -12943,9 +12958,6 @@
   },
   {
     "bad-tasting": "1ае"
-  },
-  {
-    "distasteful": "1ае"
   },
   {
     "bad taste": "1ае"
@@ -13518,7 +13530,10 @@
     "to function like": "зек1он"
   },
   {
-    "to grind": "хьаджын; убын"
+    "to grind": "хьаджын; убын; хъок1ын (to grind, to remove material by rubbing rapidly)"
+  },
+  {
+    "to mill": "хьаджын"
   },
   {
     "to last": "ыкъудыин (to last a certain amount of time)"
@@ -14940,7 +14955,7 @@
     "explosives": "лагъымэ"
   },
   {
-    "to bury": "ч1эт1эн; ч1элъхьан; гъэт1ылъын"
+    "to bury": "(most common) ч1элъхьан (to bury under something, to put something under something); ч1эгъэсэен / ч1эухъубэн (to cover and bury something, to put stuff on something and bury it); (offensive) ч1эт1эн (to bury, to plant under); (some dialects) гъэт1ылъын"
   },
   {
     "until now": "джынэс; (dialecal) иджынэс"
@@ -16029,7 +16044,13 @@
     "cunning": "тхьагъэпц1ы; хъоршэр"
   },
   {
+    "sly": "тхьагъэпц1; хъоршэр"
+  },
+  {
     "artful": "тхьагъэпц1ы; хъоршэр"
+  },
+  {
+    "innocent": "хые"
   },
   {
     "to be crafty": "шъорыш1ын"
