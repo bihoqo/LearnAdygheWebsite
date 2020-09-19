@@ -96901,11 +96901,15 @@
         "examples": []
       },
       {
-        "meaning": "to come to one's senses",
+        "meaning": "to come to one's senses; to get ahold of oneself",
         "examples": [
           {
             "sentence": "Ц1ыфым '''зыкъиш1эжьыгъ'''",
-            "translation": "The person '''come to one's senses'''."
+            "translation": "The person '''come to his senses'''."
+          },
+		  {
+            "sentence": "'''Зыкъэш1эжь'''",
+            "translation": "'''Get ahold of yourself'''."
           }
         ]
       }

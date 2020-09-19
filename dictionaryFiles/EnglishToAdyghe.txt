@@ -7815,6 +7815,9 @@
     "to get butthurt": "ышъуты къеон"
   },
   {
+    "to get ahold of oneself": "зыкъэш1эжьын"
+  },
+  {
     "vile": "ц1ап1э / пц1ап1э"
   },
   {
