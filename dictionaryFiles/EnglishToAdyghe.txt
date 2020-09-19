@@ -645,13 +645,25 @@
     "cock": "атакъэ"
   },
   {
-    "homosexual": "атакъэ; мыхъумыбз"
+    "homosexual": "мыхъумыбз; (slang) атакъэ"
   },
   {
-    "gay": "атакъэ; мыхъумыбз"
+    "gay": "мыхъумыбз; (slang) атакъэ"
   },
   {
     "duck": "псычэты"
+  },
+  {
+    "personally": "ышъхьэк1э"
+  },
+  {
+    "pleasant smell": "мэ 1эш1у"
+  },
+  {
+    "good smell": "мэ 1эш1у"
+  },
+  {
+    "bad smell": "мэ 1ае"
   },
   {
     "goose": "къаз"
@@ -2922,7 +2934,7 @@
     "yoghurt": "щэзгъэ; щэгъапц1э"
   },
   {
-    "laundry": "гык1ап1э (wash-house); гык1ыгъэ (laundries)"
+    "laundry": "гык1ап1э (wash-house); гык1ыгъэ (laundries); гык1алъэ (washing machine)"
   },
   {
     "to launder": "гык1эн (to do laundry), гык1ын (to launder something)"
@@ -4587,7 +4599,7 @@
     "to gulp down": "псы ек1эхын (ащ псы рек1эхы - (s)he gulps down water)"
   },
   {
-    "to pick up": "штэн / къэштэн; къэ1этын (to lift); техын (to pick up from)"
+    "to pick up": "штэн / къэштэн (to take, to lift, to hold and pick up); къэ1этын (to lift and raise up); техын (to pick up from above); щыпын / къэщыпын (to pick up stuff/people usaully from the ground); тещыпык1ын (to pick up stuff from)"
   },
   {
     "to lift": "къэ1этын; къэштэн (to pick up); къэгъэтэджын (to stand up something); те1этык1ын (to lift from above something)"
@@ -4614,12 +4626,6 @@
     "to spill": "тек1утэн (to spill drops on); ч1эк1утэн (to spill drops under); ик1утэн (to spill drops inside); тек1эн (to spill on); хэк1эн (to spill a liquid to another liquid); ик1эн (to spill inside); ч1эк1эн (to spill under); жэхэк1эн (to spill on someone intensively); ек1эхын (to pour down)"
   },
   {
-    "to wrinkle": "зэлъэн (to become wrinkled); ц1ыц1ын (to wrinkle paper)"
-  },
-  {
-    "wrinkle": "ц1ыц1ыгъэ"
-  },
-  {
     "to pour": "игъэхъон; ик1эн (intensive); ик1утэн (slightly intensive); ек1эхын (to pour down)"
   },
   {
@@ -4632,22 +4638,34 @@
     "to compress": "хэц1ыц1эн; зэхэц1ыц1эн"
   },
   {
-    "to squish": "ц1ыц1ын"
+    "to wrinkle": "зэлъэн (to become wrinkled); ц1ыц1ын (to wrinkle a fabric/paper by pressing it)"
   },
   {
-    "to squeeze": "ц1ыц1ын"
+    "to crumple": "ц1ыц1ын (to wrinkle a fabric/paper by pressing it)"
   },
   {
-    "to squash": "ц1ыц1ын"
+    "to rumple": "ц1ыц1ын (to wrinkle a fabric/paper by pressing it)"
   },
   {
-    "to apply pressure": "ц1ыц1ын"
+    "wrinkle": "ц1ыц1ыгъэ"
+  },
+  {
+    "to squish": "ц1ыц1ын; дэц1ыц1эн (to squeeze into, to compress into, to squish in, to squash into)"
+  },
+  {
+    "to squeeze": "ц1ыц1ын; дэц1ыц1эн (to squeeze into, to compress into, to squish in, to squash into)"
+  },
+  {
+    "to squash": "ц1ыц1ын; дэц1ыц1эн (to squeeze into, to compress into, to squish in, to squash into, to crush, to press between two hard objects)"
+  },
+  {
+    "to crush": "ц1ыц1ын; дэц1ыц1эн (to squeeze into, to compress into, to squish in, to squash into, to crush, to press between two hard objects)"
   },
   {
     "to correct": "гъэтэрэзын"
   },
   {
-    "to recorrect": "гъэтэрэзын"
+    "to recorrect": "гъэтэрэзыжьын"
   },
   {
     "to sew up": "дыжьын (to seal by sewing)"
@@ -8364,7 +8382,7 @@
     "to honor": "лъытэн; пхъатэ етын; пхъатэ фэш1ын"
   },
   {
-    "to understand": "гуры1он / къыгуры1он (to understand meaning); хэхьан (to get it); зэхэхын (to make out clearly what have been said or heard); (Shapsug) гулъытэн"
+    "to understand": "гуры1он / къыгуры1он (to understand meaning); хэхьан (to get it); зэхэхын (to make out clearly what have been said or heard); (Shapsug) гулъытэн; гурыгъэ1он (to make someone understand)"
   },
   {
     "to notice": "гулъытэн"
@@ -8679,7 +8697,7 @@
     "to cover": "хъумэн (to cover for protection); бгъэн (to thatch); техъон (to lay to cover); теп1он (to lit); ч1эухъумэн (to cover under something); теухъумэн (to cover on something); иухъумэн (to cover inside something)"
   },
   {
-    "to pick": "хэхын / къыхэхын; пычын (to pull off fruit or flower); хэдэн (to pick something out of)"
+    "to pick": "хэхын / къыхэхын; пычын (to pull off fruit or flower); хэдэн (to pick something out of); щыпын / къэщыпын (to pick up stuff/people usaully from the ground); тещыпык1ын (to pick up stuff from)"
   },
   {
     "to select": "хэхын / къыхэхын"
@@ -9015,16 +9033,13 @@
     "to spare onself": "зэблэжьын"
   },
   {
-    "to crush": "п1ырт1ын; къузын; ек1эхын (to crush down)"
+    "to crash down": "ек1эхын (to crush down)"
   },
   {
-    "to crush down": "ек1эхын (to crush down)"
+    "to have a crush on": "тел1эхьан (to fall in love); тенэц1эхьан (to fall in love)"
   },
   {
-    "to have a crush on": "тел1эхьан  (to fall in love); тенэц1эхьан (to fall in love)"
-  },
-  {
-    "to crash": "хэхьан (to crash into); жэхэхьан (to collidate into); к1оц1ыхьан (to intensively crash into); дэфэн (to drive off)"
+    "to crash": "хэхьан (to crash into); жэхэхьан (to collidate into); к1оц1ыхьан (to intensively crash into); дэфэн (to drive off); ек1эхын (to crasj down)"
   },
   {
     "to implant": "хэлъхьан; гъэт1ысын / хэгъэт1ысыхьан; т1эн (Shapsug); хэт1эн (Shapsug)"
@@ -9192,7 +9207,10 @@
     "to supply": "1эк1эгъэхьан, егъэгъотын"
   },
   {
-    "to gather": "зэхэхьан (people to gather around); щызэ1ук1эн (to gather at a certain place); угъоин / къэугъоин (to gather to one place); зэ1угъэк1эн (to make people or objects gather at a certian place); зэхэугъоен / зэк1эугъоен (to gather together); зэугъоил1эн (to concentrate into one place)"
+    "to gather": "зэхэхьан (people to gather around); щызэ1ук1эн (to gather at a certain place); угъоин / къэугъоин (to gather stuff/people); зэ1угъэк1эн (to make people or objects gather at a certian place); зэхэугъоен / зэк1эугъоен (to gather people/stuff together); зэугъоил1эн (to concentrate into one place)"
+  },
+  {
+    "to collect": "угъоин / къэугъоин (to collect stuff/people); зэ1угъэк1эн (to make a collection); зэхэугъоен / зэк1эугъоен (to collect people/stuff together); зэугъоил1эн (to concentrate into one place); щыпын / къэщыпын (to pick up stuff/people usaully from the ground); тещыпык1ын (to pick up stuff from)"
   },
   {
     "to concentrate": "щызэрэугъоин / зэугъоил1эн (to focus); зэугъоил1агъэ хъун (to focus); зэхэугъоен (to concentrate into one place)"
@@ -9426,7 +9444,10 @@
     "rice": "пындж; пыдж (Shapsug)"
   },
   {
-    "what else": "сыд джыри; сыд ык1и; сыд нэмык1эу"
+    "what else": "сыд ехъурэу; сыд джыри; сыд ык1и; сыд нэмык1эу; сыд фэшъхьафэу"
+  },
+  {
+    "else": "ехъурэу; нэмык1эу; фэшъхьафэу"
   },
   {
     "season": "лъэхъаны; сезон"
@@ -11538,6 +11559,9 @@
     "laughing-stock": "к1энэк1алъ"
   },
   {
+    "laughingstock": "к1энэк1алъ"
+  },
+  {
     "to ridicule": "хьайнапэу ш1ын; к1энэк1алъэ ш1ын"
   },
   {
@@ -12981,7 +13005,10 @@
     "pencil-box": "къэлэмдалъхьэ"
   },
   {
-    "letter": "хьарыф; тхыпкъэ"
+    "letter": "хьарыф"
+  },
+  {
+    "template": "тхыпкъэ"
   },
   {
     "alphabet": "хьарыфылъ; тхыпкъылъэ; алфавит"
@@ -13023,6 +13050,12 @@
     "skillful": "фэ1аз; 1эпэ1ас; фэкъулай; фэ1эпы1ас"
   },
   {
+    "skilled": "фэ1аз; 1эпэ1ас; фэкъулай; фэ1эпы1ас"
+  },
+  {
+    "masterful": "фэ1аз; 1эпэ1ас; фэкъулай; фэ1эпы1ас"
+  },
+  {
     "pyramid": "пирамида"
   },
   {
@@ -13038,7 +13071,7 @@
     "square": "пл1эмый"
   },
   {
-    "rectangle": "зэпэзэдакъ"
+    "rectangle": "зэпэзэдакъ; зэпэпл1эмый"
   },
   {
     "triangle": "щэный"
@@ -13047,10 +13080,10 @@
     "right-angled": "къопэзанд"
   },
   {
-    "to croak": "къокъон"
+    "to croak": "къокъэн"
   },
   {
-    "to ribbit": "къокъон"
+    "to ribbit": "къокъэн"
   },
   {
     "cheerful": "чэфы; нэш1о-гуш1у"
@@ -13092,7 +13125,7 @@
     "joke": "сэмэркъэу"
   },
   {
-    "to crumple": "ц1ыц1ын"
+    "gag": "сэмэркъэу"
   },
   {
     "acquaintance": "нэ1уасэ"
@@ -13110,7 +13143,16 @@
     "comedian": "сэмэркъэуш1ыл"
   },
   {
+    "joker": "сэмэркъэуш1ыл"
+  },
+  {
+    "jester": "сэмэркъэуш1ыл"
+  },
+  {
     "faith": "ш1ошъхъуныгъэ"
+  },
+  {
+    "belief": "ш1ошъхъуныгъэ"
   },
   {
     "to believe": "ш1ошъ хъун"
@@ -13128,7 +13170,7 @@
     "to keep an eye on": "лъыплъэн"
   },
   {
-    "to kick": "шъутырын; ешъутырын (to kick something or someone); хэшъутырэн / жэхэшъутырэн (to intensively kick someone or something); хэшъутырэхьан (to continuously kick someone, to beat someone by kicking them); ч1эшъутырэн (to kick under); ишъутырэн (to kick inside)"
+    "to kick": "шъутырын; ешъутырын (to kick something or someone); хэшъутырэн / жэхэшъутырэн (to intensively kick someone or something); хэшъутырыхьан (to continuously kick someone, to beat someone by kicking them); ч1эшъутырэн (to kick under); ишъутырэн (to kick inside)"
   },
   {
     "to screw": "(vulgar) п1ысын"
@@ -13482,10 +13524,10 @@
     "to plunge": "хэсэн (to plunge into)"
   },
   {
-    "to pick up stuff": "къэщыпын; къэугъоин"
+    "to pick up stuff": "къэщыпын; тещыпык1ын (to pick up stuff from)"
   },
   {
-    "to gather stuff": "къэщыпын; къэугъоин"
+    "to gather stuff": "къэугъоин"
   },
   {
     "passage": "зэпырык1ып1э (the passage between two places)"
@@ -15018,10 +15060,16 @@
     "old hag": "ныожъ"
   },
   {
-    "to unstitch": "т1эп1ын; гъэт1эп1ын; зэгот1эп1ык1ын"
+    "to unstitch": "т1эп1ын / гъэт1эп1ын (to be unstitched); зэгот1эп1ык1ын / зэгогъэт1эп1ык1ын (to rip (a garment) at the seams; to unstitch)"
   },
   {
-    "to rip": "т1эп1ын; гъэт1эп1ын; зэгот1эп1ык1ын"
+    "to unseam": "т1эп1ын / гъэт1эп1ын (to be unstitched); зэгот1эп1ык1ын / зэгогъэт1эп1ык1ын (to rip (a garment) at the seams; to unstitch)"
+  },
+  {
+    "to rip": "1утхъын / къыхэтхъын (to rip off); т1эп1ын / гъэт1эп1ын (to be unstitched); зэгот1эп1ык1ын / зэгогъэт1эп1ык1ын (to rip (a garment) at the seams; to unstitch)"
+  },
+  {
+    "washer": "гык1алъэ (washing machine)"
   },
   {
     "to pop": "п1онк1ын (to bubble up from heat); (Shapsug) п1эрк1ын"
@@ -17340,12 +17388,6 @@
     "master": "фэкъулай; фэ1эпы1ас"
   },
   {
-    "skillful": "фэкъулай; фэ1эпы1ас"
-  },
-  {
-    "skilled": "фэкъулай; фэ1эпы1ас"
-  },
-  {
     "competent": "фэкъулай; фэ1эпы1ас"
   },
   {
@@ -17863,6 +17905,9 @@
   },
   {
     "to dirty": "уш1оин (to make it dirty); ц1элэн; уц1эп1ын"
+  },
+  {
+    "filth": "ш1ои"
   },
   {
     "to stain": "ц1элэн; уц1эп1ын; теуц1эн (to stain on); хэупц1эн (to stain on intensive); жэхэупц1эн (to stain on very intensive)"
