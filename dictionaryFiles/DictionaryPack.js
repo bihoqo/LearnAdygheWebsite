@@ -42657,6 +42657,10 @@
 		  {
             "sentence": "к1алэм к1апсэр '''егъэланлэ'''",
             "translation": "The boy '''loosens''' the rope."
+          },
+		  {
+            "sentence": "Пытащэу пхыгъэшъ т1эк1у '''гъэлэнлэн''' фае",
+            "translation": "Because it is tied too firmly, it must be '''loosen''' a bit."
           }
         ]
       },
@@ -72115,8 +72119,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to ripple",
-        "examples": []
+        "meaning": "to ripple, to be rough (waves)",
+        "examples": [
+          {
+            "sentence": "хыр '''мэуалъэ'''",
+            "translation": "The sea is '''rippling'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -72128,21 +72137,32 @@
     "definitions": [
       {
         "meaning": "to suck",
-        "examples": [],
-        "tags": [
-          "Standard"
-        ]
-      },
-      {
-        "meaning": "(vulgar) to perform oral sex",
-        "examples": [],
-        "tags": [
-          "Standard",
-          "vulgar"
+        "examples": [
+          {
+            "sentence": "Вампирым улъ '''к1ишъущт'''",
+            "translation": "The vampire '''will suck''' the blood out of you."
+          },
+		  {
+            "sentence": "Л1ым псыр турбэм '''к1ыпшъугъ'''",
+            "translation": "The man '''sucks''' the water out of the pipe."
+          },
+		  {
+            "sentence": "Къэгъагъэм псы '''к1эшъун'''",
+            "translation": "'''To suck''' the water out of a flower."
+          }
         ]
       },
       {
         "meaning": "to drain by extracting water",
+        "examples": [
+          {
+            "sentence": "Л1ым уцым псы '''к1ешъу'''",
+            "translation": "The man '''extracts''' the water out of the plant."
+          }
+        ]
+      },
+      {
+        "meaning": "(vulgar) to perform oral sex",
         "examples": []
       }
     ],
@@ -72157,18 +72177,26 @@
         "meaning": "(vulgar, slang) to overuse",
         "examples": [
           {
-            "sentence": "Кур гъэлалэба зэ, '''ышъуты ипхыгъ'''",
+            "sentence": "Кур гъэланлэба зэ, '''ышъуты ипхыгъ'''",
             "translation": "Leave the car for a moment, '''you overused it'''"
           },
           {
             "sentence": "Компыютэрым '''ышъуты ипхыжьыгъ'''",
             "translation": "'''You used the hell out of''' the computer?"
           }
-        ],
-        "tags": [
-          "vulgar",
-          "slang"
         ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "əʃʷətə lan"
+  },
+  {
+    "word": "шъуты ихын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"ышъуты ихын\"",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -72205,9 +72233,6 @@
             "sentence": "'''Ышъуты исагъ''', мы фылымым нахь бэрэ сеплъышъущтэп",
             "translation": "'''Fuck it''', I can't continue watching this movie any longer."
           }
-        ],
-        "tags": [
-          "vulgar"
         ]
       }
     ],
@@ -72229,19 +72254,11 @@
             "sentence": "А к1алэм '''сытец1'''",
             "translation": "'''I don't give a damn about''' that boy."
           }
-        ],
-        "tags": [
-          "vulgar",
-          "slang"
         ]
       },
       {
         "meaning": "(vulgar) to shit on",
-        "examples": [],
-        "tags": [
-          "vulgar",
-          "slang"
-        ]
+        "examples": []
       }
     ],
     "type": "verb",
