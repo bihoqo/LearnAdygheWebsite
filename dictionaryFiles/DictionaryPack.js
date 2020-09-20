@@ -58696,27 +58696,6 @@
     "ipa": "xaʔaban"
   },
   {
-    "word": "те1эн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to touch",
-        "examples": [
-          {
-            "sentence": "1анэм у1э ш1оик1э '''утемы1'''",
-            "translation": "'''Don't touch''' the table with your dirty hands."
-          },
-          {
-            "sentence": "Гъуч1ы фабэм к1алэр '''те1эм''' ы1э къистыгъ",
-            "translation": "When the boy '''touched''' the hot iron, it burned his hand."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "tajʔan"
-  },
-  {
     "word": "фэлъэ1он",
     "lang": "Adyghe",
     "definitions": [
@@ -72539,8 +72518,12 @@
             "translation": "'''Don't touch''' my hair."
           },
           {
-            "sentence": "Компыютэрым '''утемы1аб'''",
-            "translation": "'''Don't touch''' the computer."
+            "sentence": "Компыютэрым у1э ш1оик1э '''уте1абэ'''",
+            "translation": "'''You're touching''' the computer with your filthy hands."
+          },
+          {
+            "sentence": "Чэтыум '''утемы1аб''', бжьыдзэхэр хэсых",
+            "translation": "'''Don't touch''' the cat, it has fleas."
           }
         ]
       }
@@ -72549,26 +72532,92 @@
     "ipa": "ʔaban"
   },
   {
+    "word": "те1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to touch",
+        "examples": [
+          {
+            "sentence": "1анэм у1э ш1оик1э '''утемы1'''",
+            "translation": "'''Don't touch''' the table with your dirty hands."
+          },
+          {
+            "sentence": "Гъуч1ы фабэм к1алэр '''те1эм''' ы1э къистыгъ",
+            "translation": "When the boy '''touched''' the hot iron, it burned his hand."
+          },
+		  {
+            "sentence": "Сшъхьэц '''укъытемы1'''",
+            "translation": "'''Don't touch''' my hair."
+          },
+          {
+            "sentence": "Компыютэрым у1э ш1оик1э '''уте1э'''",
+            "translation": "'''You're touching''' the computer with your filthy hands."
+          },
+          {
+            "sentence": "Чэтыум '''утемы1''', бжьыдзэхэр хэсых",
+            "translation": "'''Don't touch''' the cat, it has fleas."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "tajʔan"
+  },
+  {
+    "word": "те1эбэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to reach out and touch something",
+        "examples": [
+          {
+            "sentence": "Сшъхьэц '''укъытемы1аб'''",
+            "translation": "'''Don't touch''' my hair."
+          },
+          {
+            "sentence": "Компыютэрым у1э ш1оик1э '''уте1абэ'''",
+            "translation": "'''You're touching''' the computer with your filthy hands."
+          },
+          {
+            "sentence": "Чэтыум '''утемы1аб''', бжьыдзэхэр хэсых",
+            "translation": "'''Don't touch''' the cat, it has fleas."
+          },
+		  {
+            "sentence": "1анэм у1э ш1оик1э '''утемы1аб'''",
+            "translation": "'''Don't touch''' the table with your dirty hands."
+          },
+          {
+            "sentence": "Гъуч1ы фабэм к1алэр '''те1абэм''' ы1э къистыгъ",
+            "translation": "When the boy '''touched''' the hot iron, it burned his hand."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "tajʔaban"
+  },
+  {
     "word": "лъы1эбэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to try to reach for something, to attempt to reach for",
+        "meaning": "to reach out one's hand toward something; to try to reach; to reach out one's hand for",
         "examples": [
           {
-            "sentence": "Л1ыжъэр ибэщ '''лъы1эбэшъурэп'''",
-            "translation": "The old man '''can't reach''' his stick."
-          },
-          {
             "sentence": "К1алэр мыем '''лъэ1абэ'''",
-            "translation": "The boy '''is trying to reach''' the apples."
+            "translation": "The boy '''is reaching out for''' the apples."
+          },
+		  {
+            "sentence": "Лъэ1уак1о ахъщэр къы1ихынэу '''лъы1эбагъ'''",
+            "translation": "The beggar '''reached out''' to take money from him/her."
           },
           {
             "sentence": "Ремот контролым '''сылъэ1абэ''' сыщысэу",
-            "translation": "'''I am trying to reach''' the remote control while sitting."
+            "translation": "'''I am reaching out for''' the remote control while sitting."
           },
           {
-            "sentence": "Сишъхьэц '''къулъымы1аб'''",
+            "sentence": "Сшъхьэц '''укъылъымы1аб'''",
             "translation": "'''Don't try to touch''' my hair."
           }
         ]
@@ -72588,6 +72637,18 @@
     ],
     "type": "verb",
     "ipa": "ɬəʔaban"
+  },
+  {
+    "word": "къулайцыз",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "poor",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "qʷəɮaːjt͡səz"
   },
   {
     "word": "егъэчъэхын",
@@ -72761,6 +72822,10 @@
       {
         "meaning": "to successfully reach for (usually with the hands)",
         "examples": [
+          {
+            "sentence": "Л1ыжъым ибэщ ежь '''лъы1эбэшъурэп'''",
+            "translation": "The old man '''can't reach''' his stick."
+          },
           {
             "sentence": "К1алэ к1ыхьэр чъыгым мыеу пытым '''нэ1эбэсы'''",
             "translation": "The long boy '''is reaching''' the apple on the tree."

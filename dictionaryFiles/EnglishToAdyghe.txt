@@ -4164,10 +4164,10 @@
     "to long for": "к1эхъопсын (to miss someone); енэц1ын (to desire)"
   },
   {
-    "to touch": "нэсын; те1эн (to touch with hand); те1эбэн (to touch); е1эн (to touch with hand); те1эбэхьан (to touch all over something)"
+    "to touch": "нэсын; те1эн (to touch with hand); те1эбэн (to reach out and touch something with the hand); е1эн (to touch with hand); те1эбэхьан (to touch all over something)"
   },
   {
-    "to reach": "нэсын (to successfully reach); лъы1эбэн / лъы1эсын (to attempt to reach); нэ1эбэсын (to successful reach with the hands or legs)"
+    "to reach": "нэсын (to successfully reach); лъы1эбэн / лъы1эсын (to attempt to reach, to reach out one's hand toward something); нэ1эбэсын (to successful reach with the hands or legs)"
   },
   {
     "to arrive": "къэсын"
