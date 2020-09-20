@@ -62396,6 +62396,38 @@
     "ipa": "txəɬəɕa"
   },
   {
+    "word": "ефэхын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"къефэхын\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "къедзыхын",
+      "къет1эрэхын"
+    ],
+    "type": "verb",
+    "ipa": "qajfaxən"
+  },
+  {
+    "word": "едзыхын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"къедзыхын\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "къедзыхын",
+      "къет1эрэхын"
+    ],
+    "type": "verb",
+    "ipa": "qajfaxən"
+  },
+  {
     "word": "къедзыхын",
     "lang": "Adyghe",
     "definitions": [
@@ -62417,6 +62449,30 @@
           {
             "sentence": "К1алэр лъэоим '''укъедзыхыгъ'''",
             "translation": "The boy '''fell down from''' the ladder."
+          },
+		  {
+            "sentence": "Зыфэсакъ, чъыгым '''укъедзыхыщт'''",
+            "translation": "Be careful, '''you will fall down from''' the tree."
+          },
+          {
+            "sentence": "К1алэр лъэоим '''къедзыхыгъ'''",
+            "translation": "The boy '''fell down''' from the ladder."
+          },
+		  {
+            "sentence": "К1алэр унашъхьэм '''къедзыхыгъ'''",
+            "translation": "The boy '''fell''' off the roof."
+          },
+          {
+            "sentence": "Унашъхьэм '''уедзыхнэу''' уфая?",
+            "translation": "Do you want '''to fall''' off the roof?."
+          },
+          {
+            "sentence": "'''Уесгъэдзыхыщт''' унашъхьэм",
+            "translation": "'''I will make you fall''' off the roof."
+          },
+          {
+            "sentence": "Фэсакъ!, унашъхьэм утец1эшъутык1ыни '''укъедзыхыщт'''",
+            "translation": "Careful!, you will slip over the root and '''fall off it'''."
           }
         ]
       }
@@ -62450,6 +62506,30 @@
           {
             "sentence": "К1алэр лъэоим '''укъефэхыгъ'''",
             "translation": "The boy '''fell down from''' the ladder."
+          },
+		  {
+            "sentence": "Зыфэсакъ, чъыгым '''укъефэхыщт'''",
+            "translation": "Be careful, '''you will fall down from''' the tree."
+          },
+          {
+            "sentence": "К1алэр лъэоим '''къефэхыгъ'''",
+            "translation": "The boy '''fell down''' from the ladder."
+          },
+		  {
+            "sentence": "К1алэр унашъхьэм '''къефэхыгъ'''",
+            "translation": "The boy '''fell''' off the roof."
+          },
+          {
+            "sentence": "Унашъхьэм '''уефэхнэу''' уфая?",
+            "translation": "Do you want '''to fall''' off the roof?."
+          },
+          {
+            "sentence": "'''Уесгъэфэхыщт''' унашъхьэм",
+            "translation": "'''I will make you fall''' off the roof."
+          },
+          {
+            "sentence": "Фэсакъ!, унашъхьэм утец1эшъутык1ыни '''укъефэхыщт'''",
+            "translation": "Careful!, you will slip over the root and '''fall off it'''."
           }
         ]
       }
@@ -62475,6 +62555,22 @@
           {
             "sentence": "К1алэр лъэоим '''къет1эрэхыгъ'''",
             "translation": "The boy '''fell down''' from the ladder."
+          },
+		  {
+            "sentence": "К1алэр унашъхьэм '''къет1эрэхыгъ'''",
+            "translation": "The boy '''fell''' off the roof."
+          },
+          {
+            "sentence": "Унашъхьэм '''ует1эрэхнэу''' уфая?",
+            "translation": "Do you want '''to fall''' off the roof?."
+          },
+          {
+            "sentence": "'''Уесгъэт1эрэхыщт''' унашъхьэм",
+            "translation": "'''I will make you fall''' off the roof."
+          },
+          {
+            "sentence": "Фэсакъ!, унашъхьэм утец1эшъутык1ыни '''укъет1эрэхыщт'''",
+            "translation": "Careful!, you will slip over the root and '''fall off it'''."
           }
         ]
       }
@@ -72717,29 +72813,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(Shapsug) to fall (from something)",
-        "examples": [
-          {
-            "sentence": "К1алэр унашъхьэм '''ет1эрэхэгъ'''",
-            "translation": "The boy '''fell''' from the roof."
-          },
-          {
-            "sentence": "Унашъхьэм '''ует1эрэхнэу''' уфая?",
-            "translation": "Do you want '''to fall''' from the roof?."
-          },
-          {
-            "sentence": "'''Уесгъэт1эрэхыт''' унашъхьэм",
-            "translation": "'''I will make you fall''' from the roof."
-          },
-          {
-            "sentence": "К1алэр дыущ '''ет1эрахы'''",
-            "translation": "The boy '''is falling''' from that thing."
-          },
-          {
-            "sentence": "Фэсакъ!, унашъхьэм утэц1эшъутык1ыни '''укъует1эрэхыщт'''",
-            "translation": "Careful!, you will slip over the root and '''fall from it'''."
-          }
-        ]
+        "meaning": "alternative form of \"къет1эрэхын\"",
+        "examples": []
       }
     ],
     "type": "verb",
