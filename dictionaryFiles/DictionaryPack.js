@@ -72664,19 +72664,23 @@
           {
             "sentence": "Кӏалэм мыжъор ӏуашъхьэм '''регъэчъэхы'''",
             "translation": "The boy '''is sliding''' the rock off the hill"
+          },
+          {
+            "sentence": "Кур гъогум '''къечъэхыщт'''",
+            "translation": "The wagon '''will slide down''' the road."
           }
         ]
       },
       {
-        "meaning": "to speak bad on something to hurt its reputation",
+        "meaning": "to insult someone; to speak bad on something to hurt his/her reputation",
         "examples": [
           {
-            "sentence": "Тхьэл1ык1ум яц1ыфымэ ятхьэхэр '''ригъэчъэхыгъэх'''",
-            "translation": "The prophet '''spoke bad''' on the gods of his people."
+            "sentence": "Тхьэл1ык1ум иц1ыфыхэмэ ятхьэхэр '''ригъэчъэхыгъэх'''",
+            "translation": "The prophet '''insulted''' on the gods of his people."
           },
           {
             "sentence": "К1алэр '''езгъэчъэхыгъ'''",
-            "translation": "I '''spoke bad''' to the boy."
+            "translation": "I '''insulted''' to the boy."
           },
           {
             "sentence": "К1алэр непэ '''епгъэчъэхыгъ'''",
@@ -72689,23 +72693,7 @@
         ]
       },
       {
-        "meaning": "to roast someone",
-        "examples": []
-      },
-      {
         "meaning": "to make someone run downward",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "jaʁat͡ʂaxən"
-  },
-  {
-    "word": "гъэчъэхын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"ригъэчъэхын\"",
         "examples": []
       }
     ],
@@ -72729,7 +72717,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to fall (from something)",
+        "meaning": "(Shapsug) to fall (from something)",
         "examples": [
           {
             "sentence": "К1алэр унашъхьэм '''ет1эрэхэгъ'''",

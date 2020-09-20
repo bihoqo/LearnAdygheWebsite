@@ -2298,13 +2298,10 @@
     "to slide down": "ечъэхын (to slide down); егъэчъэхын (to slide someone or something down); ец1эшъутэхын (to slide down on a slippery surface); егъэц1эшъутэхын (to slide someone or something down on a slippery surface); ецохъохын (to slide down on a rough surface); егъэцохъохын (to slide someone or something down on a rough surface)"
   },
   {
-    "to insult": "ушъхьэк1ун; шъхьак1о ехын; егъэчъэхын; 1аеу дэгущы1эн"
+    "to insult": "ушъхьэк1ун; шъхьак1о ехын; егъэчъэхын (to insult someone and hurt its reputation); 1аеу дэгущы1эн (to speak with someone badly, to speak ill with someone)"
   },
   {
     "to offend": "ыгу хэгъэк1ын; шъхьак1о ехын"
-  },
-  {
-    "to roast": "егъэчъэхын"
   },
   {
     "basalt": "мыжъодэбыш"
