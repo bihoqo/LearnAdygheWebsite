@@ -65794,11 +65794,27 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to squeeze",
+        "meaning": "to wring, to press tightly; to squeeze something (the effect of the squeezing is reversible)",
         "examples": [
           {
-            "sentence": "К1алэм '''мэтк1ут''' мыжъор лавэм хабдзэмэ",
-            "translation": "If you thrrock will melt."
+            "sentence": "К1алэм хъэдэныр '''ефызы'''",
+            "translation": "The boy is '''wringing''' the towel."
+          },
+		  {
+            "sentence": "'''Сэбэфызы'''",
+            "translation": "'''You're squeezing me'''."
+          },
+		  {
+            "sentence": "Чэтыур '''пфызэу''' хъущтэп",
+            "translation": "It is not okay '''to squeezing''' the cat."
+          },
+		  {
+            "sentence": "Сэнаш1эм саным ипсыхэр '''къык1ифызык1ыгъэх'''.",
+            "translation": "The winemaker '''squeezed out''' the grape's liquid."
+          },
+		  {
+            "sentence": "К1алэм псыр 1аплъэк1ым '''къык1ефызык1ы'''.",
+            "translation": "The boy '''squeezes''' the water '''out''' of the towel."
           }
         ]
       }
@@ -65814,7 +65830,7 @@
         "meaning": "to squeeze out, to press out",
         "examples": [
           {
-            "sentence": "сэнаш1эм саным ипсыхэр '''къык1ифызык1ыгъэх'''.",
+            "sentence": "Сэнаш1эм саным ипсыхэр '''къык1ифызык1ыгъэх'''.",
             "translation": "The winemaker '''squeezed out''' the grape's liquid."
           },
 		  {
@@ -65827,6 +65843,18 @@
     "shapsug": "к1эфызык1ьын",
     "type": "verb",
     "ipa": "t͡ʃʼafəzət͡ʃʼən"
+  },
+  {
+    "word": "зэхэпфызэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to squeeze in, to pack tightly together",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaxafəzan"
   },
   {
     "word": "хэфызык1ын",
@@ -69962,6 +69990,10 @@
         ]
       }
     ],
+    "synonyms": [
+      "ч1эухъубэн",
+      "ч1эухъумэн"
+    ],
     "type": "verb",
     "ipa": "t͡ʂʼaʁasajan"
   },
@@ -69970,25 +70002,87 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to cover and bury something; to put stuff on something and bury it",
+        "meaning": "alternative form of \"ч1эухъумэн\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "t͡ʂʼawχʷəban"
+  },
+  {
+    "word": "ч1эухъумэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to cover something; to put something under a cover",
         "examples": [
           {
-            "sentence": "Хъотым гъогур '''ч1иухъубагъ'''",
-            "translation": "The snowstorm '''covered''' the road."
+            "sentence": "Сымаджэр чых1эным '''ч1эухъумэн'''",
+            "translation": "'''To cover''' the sick with a blanket."
           },
 		  {
-            "sentence": "Хьадэр ят1эм '''ч1иухъубагъ'''",
+            "sentence": "Хъотым гъогур '''ч1иухъубагъ'''",
+            "translation": "The snowstorm '''covered''' the road."
+          }
+        ]
+      },
+	  {
+        "meaning": "to bury something; to put stuff on something and bury it",
+        "examples": [
+          {
+            "sentence": "Хьадэр ч1ыгуи '''ч1эухъумагъ'''",
+            "translation": "'''They buried''' the body under the ground."
+          },
+		  {
+            "sentence": "Хьадэр ят1эм '''ч1иухъумагъ'''",
             "translation": "'''They buried''' the corpse under the dirt."
           },
 		  {
-            "sentence": "Унэр къызэхафи ис цӏыфыхэр '''ч1иухъубагъэх'''",
+            "sentence": "Унэр къызэхафи ис цӏыфыхэр '''ч1иухъумагъэх'''",
             "translation": "The house collapsed and '''buried''' the people in it."
           }
         ]
       }
     ],
+    "kabardian": "щ1эуфэн",
     "type": "verb",
-    "ipa": "t͡ʂʼawχʷəban"
+    "ipa": "t͡ʂʼawχʷəman"
+  },
+  {
+    "word": "чых1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"чхы1ан\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃʼəxʔan"
+  },
+  {
+    "word": "цыяпхъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "cloth, broadcloth",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡səjaːpχ"
+  },
+  {
+    "word": "щыухьэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "cloth, broadcloth",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ɕəwħa"
   },
   {
     "word": "хъоу",
@@ -71435,11 +71529,19 @@
         ]
       },
       {
-        "meaning": "to squeeze; to squash; to squish; to apply (intensive) pressure",
+        "meaning": "to squeeze something (the effect of the squeezing is irreversible); to squash; to squish; to apply (intensive) pressure; to compress",
         "examples": [
           {
             "sentence": "К1алэм и1эр пчъэм '''дэц1ыц1агъ'''",
             "translation": "The boy's arm '''was squeezed''' between the door."
+          },
+		  {
+            "sentence": "К1алэм пластикэр '''ыц1ыц1ыгъ'''",
+            "translation": "The boy '''squeezed''' the plastic."
+          },
+		  {
+            "sentence": "Апчыр '''уц1ыц1ымэ''', чэни убэтэщт",
+            "translation": "'''If you squeeze''' glass, it will crack and will break."
           },
           {
             "sentence": "К1алэм бадзэр '''ыц1ыц1ыгъ'''",
@@ -72420,12 +72522,12 @@
         "meaning": "to reach out, to extend one's hand(s) forward.",
         "examples": [
           {
-            "sentence": "'''Къэ1аби''' си1э къаубыт уемыт1ырэхыгъэу",
+            "sentence": "'''Къэ1аби''' с1э къаубыт уемыфэхыгъэу",
             "translation": "'''Reach out and ''' hold my hand before you fall."
           },
           {
             "sentence": "К1алэр и1э ш1оихэмк1э '''мэ1абэ'''",
-            "translation": "The boy '''is reaching out''' with his dirty hands."
+            "translation": "The boy '''is reaching out''' with his filthy hands."
           }
         ]
       },
@@ -72433,8 +72535,12 @@
         "meaning": "to reach out and touch",
         "examples": [
           {
-            "sentence": "Сишъхьэц '''укъытемы1аб'''",
+            "sentence": "Сшъхьэц '''укъытемы1аб'''",
             "translation": "'''Don't touch''' my hair."
+          },
+          {
+            "sentence": "Компыютэрым '''утемы1аб'''",
+            "translation": "'''Don't touch''' the computer."
           }
         ]
       }
@@ -72466,6 +72572,18 @@
             "translation": "'''Don't try to touch''' my hair."
           }
         ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɬəʔaban"
+  },
+  {
+    "word": "п1ырт1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to squeeze",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -84386,10 +84504,15 @@
           {
             "sentence": "Апчыр '''мачэ'''",
             "translation": "The glass '''is cracking'''."
+          },
+		  {
+            "sentence": "Апчыр уц1ыц1ымэ, '''чэни''' убэтэщт",
+            "translation": "If you squeeze glass, '''it will crack''' and will break."
           }
         ]
       }
     ],
+    "shapsug": "кьэн",
     "type": "verb",
     "ipa": "t͡ʃan"
   },
@@ -86597,41 +86720,6 @@
     ],
     "type": "noun",
     "ipa": "maħaːna"
-  },
-  {
-    "word": "ч1эухъубэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"ч1эухъумэн\"",
-        "examples": []
-      }
-    ],
-    "kabardian": "щ1эуфэн",
-    "type": "verb",
-    "ipa": "t͡ʂʼawχʷəban"
-  },
-  {
-    "word": "ч1эухъумэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to cover under something",
-        "examples": [
-          {
-            "sentence": "сымаджэр чыхIэным '''чIэухъумэн'''",
-            "translation": "'''To cover''' the sick with a blanket."
-          },
-          {
-            "sentence": "хьадэр ч1ыгуи '''чIаухъумагъ'''",
-            "translation": "'''They covered''' the body under the ground."
-          }
-        ]
-      }
-    ],
-    "kabardian": "щ1эуфэн",
-    "type": "verb",
-    "ipa": "t͡ʂʼawχʷəman"
   },
   {
     "word": "ч1эухъумэ",

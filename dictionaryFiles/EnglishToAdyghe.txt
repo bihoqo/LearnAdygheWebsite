@@ -4653,7 +4653,16 @@
     "to squish": "ц1ыц1ын; дэц1ыц1эн (to squeeze into, to compress into, to squish in, to squash into)"
   },
   {
-    "to squeeze": "ц1ыц1ын; дэц1ыц1эн (to squeeze into, to compress into, to squish in, to squash into)"
+    "to wring": "фызын"
+  },
+  {
+    "to squeeze": "фызын (to wring, to press tightly, to squeeze something (the effect of the squeezing is reversible)); ц1ыц1ын (to squeeze something (the effect of the squeezing is irreversible), to compress, to squish, to squash); к1эфызык1ын / хэфызык1ын (to squeeze out); дэц1ыц1эн (to squeeze into, to compress into, to squish in, to squash into); п1ырт1ын; зэхэпфызэн (to squeeze in, to pack tightly together)"
+  },
+  {
+    "to squeeze out": "к1эфызык1ын / хэфызык1ын"
+  },
+  {
+    "to press out": "к1эфызык1ын / хэфызык1ын"
   },
   {
     "to squash": "ц1ыц1ын; дэц1ыц1эн (to squeeze into, to compress into, to squish in, to squash into, to crush, to press between two hard objects)"
@@ -7797,6 +7806,12 @@
     "to press on": "тетын; темык1ын; пхырыгъэк1ын; зыригъэнэн / зегъэнэн (to persist); инатэу фэхъун (to become persistent for)"
   },
   {
+    "to press": "те1унк1эн (to press/click on something); фызын (to wring, to press tightly, to squeeze something (the effect of the squeezing is reversible))"
+  },
+  {
+    "to click": "те1унк1эн (to press/click on something)"
+  },
+  {
     "to persist": "зыригъэнэн / зэбгъэнэн; къаигъэ ыш1ыгъ; инатэу фэхъун (to become persistent for); тетын; темык1ын; пхырыгъэк1ын"
   },
   {
@@ -8059,9 +8074,6 @@
   },
   {
     "to pinch": "еп1эск1ун"
-  },
-  {
-    "to poke": "ет1ыргун"
   },
   {
     "marriage partner": "шъхьэгъусэ"
@@ -8694,7 +8706,7 @@
     "breakable": "махэ; убэтэгъош1у"
   },
   {
-    "to cover": "хъумэн (to cover for protection); бгъэн (to thatch); техъон (to lay to cover); теп1он (to lit); ч1эухъумэн (to cover under something); теухъумэн (to cover on something); иухъумэн (to cover inside something)"
+    "to cover": "хъумэн (to cover for protection); бгъэн (to thatch); техъон (to lay to cover); теп1он (to lit);  ч1эухъумэн / ч1эухъубэн / ч1эгъэсэен (to cover something, to bury something); теухъумэн (to cover on something); иухъумэн (to cover inside something)"
   },
   {
     "to pick": "хэхын / къыхэхын; пычын (to pull off fruit or flower); хэдэн (to pick something out of); щыпын / къэщыпын (to pick up stuff/people usaully from the ground); тещыпык1ын (to pick up stuff from)"
@@ -10779,7 +10791,7 @@
     "to get furious": "зэк1эплъыхьан"
   },
   {
-    "to rage": зэк1эплъыхьан"
+    "to rage": зэк1эплъыхьан (to get furious)"
   },
   {
     "to look": "плъэн; еплъын (to look at) теплъэн (to look on); xэплъэн (to look among, to look inside an area with either gas, solid or liquid); дэплъэн (to look into); иплъэн (to look inside); пыплъэн (to look on clothes or tree); гоплъэн / бгъодэплъэн (to look besides); къоплъэн (to look behind); зэк1эплъэн / зэплъэк1ын (to look back); лъыплъэн (to look after); дэплъэен (to look up); еплъэхын (to look under); шъхьадэплъын (to look over);  хэплъыхьан (to take a good look into area with trees, plants, fire, liquid or gas, to take a good look among people or objects); теплъыхьан (to take a good look on something); ч1эплъыхьан (to take a good look under something); иплъыхьан (to take a good look inside something); дэплъыхьан (to take a good look in something, to take a good look between); пыплъыхьан (to take a good look on someone's clothes and examine it); къэплъыхьан (to look around in a certain area and examining it); зыплъыхьан (to look around oneself, to look around the area where oneself is standing)"
@@ -12378,15 +12390,6 @@
     "to lose": "гъэк1одын; ш1ок1одын; хэгъэк1одэн (to lose among other people or objects, in a forest or an area with solid, liquid or gas); ч1эгъэк1одэн (to lose under something); игъэк1одэн (to lose inside something); ш1ок1он (to lose money in gambling or business)"
   },
   {
-    "to squeeze": "фызын; к1эфызык1ын / хэфызык1ын (to squeeze out)"
-  },
-  {
-    "to squeeze out": "к1эфызык1ын / хэфызык1ын"
-  },
-  {
-    "to press out": "к1эфызык1ын / хэфызык1ын"
-  },
-  {
     "harness-maker": "шъуаш1э"
   },
   {
@@ -12870,7 +12873,7 @@
     "bedsheet": "п1этехъо; п1этедзэ"
   },
   {
-    "blanket": "чхы1ан"
+    "blanket": "чхы1ан / чых1эн"
   },
   {
     "scales": "п1оны (scales of fish, reptiles, etc.); шъуамп1э"
@@ -15006,16 +15009,22 @@
     "explosives": "лагъымэ"
   },
   {
-    "to bury": "(most common) ч1элъхьан (to bury under something, to put something under something); ч1эгъэсэен / ч1эухъубэн (to cover and bury something, to put stuff on something and bury it); (offensive) ч1эт1эн (to bury, to plant under); (some dialects) гъэт1ылъын"
+    "to bury": "(most common) ч1элъхьан (to bury under something, to put something under something);  ч1эухъумэн / ч1эухъубэн / ч1эгъэсэен (to cover something, to bury something); (offensive) ч1эт1эн (to bury, to plant under); (some dialects) гъэт1ылъын"
   },
   {
     "until now": "джынэс; (dialecal) иджынэс"
   },
   {
-    "until": "нэс; хъуфэ (until it happens); -фэ (until suffix); -нэс (until suffix)"
+    "until": "нэс; хъуфэ (until it happens); -фэ / -нэс (until suffix)"
   },
   {
     "to lay down": "гъэт1ылъын"
+  },
+  {
+    "cloth": "цыяпхъ; щыухьэ"
+  },
+  {
+    "broadcloth": "цыяпхъ; щыухьэ"
   },
   {
     "vulgarity": "губгъэн"
@@ -16821,7 +16830,7 @@
     "grandchildren (on the line of the daughter); one's daughter's children": "пхъурылъф"
   },
   {
-    "to push": "1унк1эн (to push someone); т1ыргун (to push someone); (Shapsug) егук1эн; ифын (to drive/push from an area, to drive/push from inside); 1уфын (to drive/push from near); дэфыен (to drive/push up); ефэхын (to drive/push down); блэфын (to drive/push pass); ч1эфын (to drive/push from under); тефын (to drive/push from above); хэфын (to drive/push from among other people/animals/objects, to drive/push from an area with gas or liquid, to drive/push from the forest or field); дэфын (to drive/push from a defined area such as a yard, area, village, etc.); къофын (to drive/push from behind); е1эн (to push with might)"
+    "to push": "1унк1эн (to push someone); т1ыргун / ет1ыргун (to push someone); (Shapsug) егук1эн; ифын (to drive/push from an area, to drive/push from inside); 1уфын (to drive/push from near); дэфыен (to drive/push up); ефэхын (to drive/push down); блэфын (to drive/push pass); ч1эфын (to drive/push from under); тефын (to drive/push from above); хэфын (to drive/push from among other people/animals/objects, to drive/push from an area with gas or liquid, to drive/push from the forest or field); дэфын (to drive/push from a defined area such as a yard, area, village, etc.); къофын (to drive/push from behind); е1эн (to push with might)"
   },
   {
     "gallop": "хьапк1"
