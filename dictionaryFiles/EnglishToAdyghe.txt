@@ -3660,7 +3660,7 @@
     "to throw away": "тедзын / къытедзын (to throw on); 1удзын / къы1удзын (to throw away, to throw elsewhere); идзын / къыидзын (to throw away from inside); дэдзын / къыдэдзын (to throw away from inside another object or from between); ч1эдзын / къыч1эдзын (to throw away from under); хэдзын / къыхэдзын (to throw away from among people/objects or outside an area with gas or liquid); пыдзын / къыпыдзын (to throw away from the surface of a body); жэхэдзын / къыжэхэдзын (to intensively throw away from someone); къызтедзын / къызпэдзын (to throw something away from oneself); итэкъун / къитэкъун (to throw away stuff from inside something); тетэкъун / къытетэкъун (to throw away stuff from on something); ч1этэкъун / къыч1этэкъун (to throw away stuff from under something); дэтэкъун / къыдэтэкъун (to throw away stuff from inside another object, to throw away stuff from between); къотэкъун / къыкъотэкъун (to throw away stuff from behind something); хэтэкъун / къыхэтэкъун (to throw away stuff from among other objects/people, to throw away stuff from an area with fire, gas or liquid); готэкъун / бгъодэтэкъун (to throw away stuff from besides something)"
   },
   {
-    "to scatter": "итэкъон / итэкъухьан / ипхъыхьан (to scatter stuff inside something); тетэкъон / тетэкъухьан (to scatter stuff on something); ч1этэкъон / ч1этэкъухьан (to scatter stuff under something); дэтэкъон / дэтэкъухьан (to scatter stuff inside a yard, to scatter stuff inside another object, to scatter stuff in between); къотэкъон / къотэкъухьан (to scatter stuff behind something); хэтэкъон / хэтэкъухьан (to scatter in, to scatter stuff among other objects/people, to scatter stuff in an area with fire, plants, gas or liquid); зэхэфын / зэбгырыфын (to forcefully drive away and scatter in different directions); зэбгырытэкъун (to scatter in all directions)"
+    "to scatter": "итэкъон / итэкъухьан / ипхъыхьан (to scatter stuff inside something); тетэкъон / тетэкъухьан (to scatter stuff on something); ч1этэкъон / ч1этэкъухьан (to scatter stuff under something); дэтэкъон / дэтэкъухьан (to scatter stuff inside a yard, to scatter stuff inside another object, to scatter stuff in between); къотэкъон / къотэкъухьан (to scatter stuff behind something); хэтэкъон / хэтэкъухьан (to scatter in, to scatter stuff among other objects/people, to scatter stuff in an area with fire, plants, gas or liquid); зэхэфын / зэбгырыфын (to forcefully drive away and scatter in different directions); зэбгырытэкъун (to scatter in all directions); зэхэдзын / зэпыдзын (to scatter a group, to break a group apart, to separate a group)"
   },
   {
     "to come into existence": "къэхъун"
@@ -7950,7 +7950,7 @@
     "gloomy": "ш1унк1ы"
   },
   {
-    "to separate": "пык1ын (do disconnect, to separate from); зэпыдзын (to isolate to two groups); зэгогъэк1ын; зэпыгъэк1ын; зэхэдзын (to separate into sub-groups)"
+    "to separate": "пык1ын (do disconnect, to separate from); зэгогъэк1ын; зэпыгъэк1ын; зэхэдзын / зэпыдзын (to scatter a group, to break a group apart, to separate a group); пык1ыжьын (to get separated from); зэпык1ыжьын (to get separated from each other)"
   },
   {
     "to disconnect": "пык1ын"
@@ -11133,7 +11133,7 @@
     "infirm": "к1оч1адж"
   },
   {
-    "feeble": "к1оч1адж"
+    "feeble": "к1оч1адж; хъыбэй; къарыунчъ"
   },
   {
     "forceless": "къарыунчъэ"
@@ -13323,6 +13323,9 @@
     "to get rusted": "улъыин"
   },
   {
+    "to rust": "улъыин"
+  },
+  {
     "rusted": "улъыягъ"
   },
   {
@@ -13368,7 +13371,10 @@
     "to step on": "теуцон; хэуцон (to step on liquid or gas); иуцон (to step inside)"
   },
   {
-    "to fold": "зэтеупл1энк1эн; (Shapsug) зэтеул1эк1эн"
+    "to fold": "зэтеупл1энк1эн (to fold up somethng; to layer up somethng); (Shapsug) зэтеул1эк1эн"
+  },
+  {
+    "to layer": "зэтеупл1энк1эн (to fold up somethng; to layer up somethng); (Shapsug) зэтеул1эк1эн"
   },
   {
     "to stack": "зэтелъхьан (to stack on each other); зэч1элъхьан (to stack under each other); зэтеуцон (to put on each other)"
@@ -13408,6 +13414,15 @@
   },
   {
     "to distinguish": "зэхэдзын (to distinguish between); язэфэмыдэныгъэ къэ1ошъун (to be able to tell the difference between)"
+  },
+  {
+    "to differentiate": "зэхэдзын (to distinguish between, to differentiate)"
+  },
+  {
+    "to differentiate": "зэхэдзын (to distinguish between, to differentiate)"
+  },
+  {
+    "to discriminate": "зэхэдзын (to discriminate; to make distinctions)"
   },
   {
     "to segregate": "зэпыдзын; зэхэдзын"
@@ -15456,7 +15471,10 @@
     "to quit": "хэнэжьын / к1энэжьын / щыун (to quit doing something, to get out of the habit of); 1ук1ыжьын (to quit job); уцужьын (to stop doing something); умыш1ыжьын (to not do something any longer)"
   },
   {
-    "to divorce": "щынэжьын; пык1ыжьын"
+    "to divorce": "щынэжьын (to divorce from, to abandon); пык1ыжьын (to divorce from, to break up with); зэпык1ыжьын (to divorce from each other, to break up from each other)"
+  },
+  {
+    "to break up": "пык1ыжьын (to end a relationship); зэпык1ыжьын (to end a relationship with each othe)"
   },
   {
     "to be disarray": "зэ1ыхьан"

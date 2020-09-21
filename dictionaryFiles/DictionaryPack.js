@@ -34736,11 +34736,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to divorce from",
+        "meaning": "to divorce from; to break up from; to end a relationship",
         "examples": [
           {
             "sentence": "Мо л1ыр ишъуз '''пык1ыжьыгъ'''",
             "translation": "That man '''divorced from''' his wife."
+          },
+		  {
+            "sentence": "К1алэр пшъашъэм '''пык1ыжьыгъ'''",
+            "translation": "The young man '''broke up with''' the girl."
           }
         ]
       }
@@ -42635,6 +42639,10 @@
 		  {
             "sentence": "уицуакъэмэ алъапсэхэр '''къэланлэх'''",
             "translation": "Your shoe ties '''are getting loosed'''."
+          },
+		  {
+            "sentence": "Уицуакъэ илъапсэхэр '''ланлэх'''",
+            "translation": "Your shoelaces '''are loosed'''."
           }
         ]
       },
@@ -73655,8 +73663,8 @@
         "meaning": "to gaze exaggeratedly at someone, to stare really intently or really earnestly at someone",
         "examples": [
           {
-            "sentence": "Сэхъуанэм '''нэк1э сырак1эгъ''' л1ыжъыхэмэ",
-            "translation": "When I cursed the old men '''stared at me'''."
+            "sentence": "Зысэхъуанэм '''нэк1э сырак1ыгъ''' л1ыжъыхэмэ",
+            "translation": "When I swore, the old men '''stared at me'''."
           }
         ]
       }
@@ -73704,39 +73712,19 @@
     "ipa": "ʔazəʁʷ"
   },
   {
-    "word": "мэузын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"узын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "wəzən"
-  },
-  {
-    "word": "мэулэлэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"улэлэн\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "wəlalan"
-  },
-  {
     "word": "улъыин",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to get rusted",
+        "meaning": "to rust; to get rusted",
         "examples": [
           {
             "sentence": "Гъуч1ыр '''улъыигъ'''",
             "translation": "The iron '''became rusted'''."
+          },
+		  {
+            "sentence": "Гъуч1ыр '''мэулъые'''",
+            "translation": "The iron '''becomes rusted'''."
           }
         ]
       }
@@ -73745,41 +73733,21 @@
     "ipa": "wəɬəjən"
   },
   {
-    "word": "мэулъыен",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"улъыин\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "mawəɬəjan"
-  },
-  {
-    "word": "улэлэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to hang loosed (and possible to bounce freely)",
-        "examples": [
-          {
-            "sentence": "Уицуакъэ илъапсэхэр '''мэулалэх'''",
-            "translation": "Your shoelaces '''are loosed and bouncing freely'''."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "wəɮaɮan"
-  },
-  {
     "word": "хъыбэй",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "weak, feeble",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ц1ыф '''хъыбэй'''",
+            "translation": "A '''weak''' person."
+          },
+		  {
+            "sentence": "Унэ '''хъыбэй'''",
+            "translation": "A '''feeble''' house."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -73793,8 +73761,8 @@
         "meaning": "to be closed from all sides",
         "examples": [
           {
-            "sentence": "Мафэ дахэм к1алэр яунэ '''зэтеухьэлагъи''' ис",
-            "translation": "In the beautiful day the boy is sitting in the house '''closed in all sides'''."
+            "sentence": "Мафэ дахэм к1алэр яунэ '''зэтеухьэлагъэу''' ис",
+            "translation": "In the beautiful day the boy is sitting in his house '''closed in all sides'''."
           },
           {
             "sentence": "Мы унэр '''зэтеухьэлагъ'''",
@@ -73804,19 +73772,7 @@
       }
     ],
     "type": "verb",
-    "ipa": "zatawħalan"
-  },
-  {
-    "word": "мэунэхъун",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"унэхъун\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "mawənaχʷən"
+    "ipa": "zatajwħalan"
   },
   {
     "word": "епхын",
@@ -73831,74 +73787,26 @@
     "ipa": "japxən"
   },
   {
-    "word": "к1эгьэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"к1эджэн\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "t͡ʃʼaɡʲan"
-  },
-  {
     "word": "к1эджэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to announce",
-        "examples": []
-      },
-      {
-        "meaning": "to declare openly",
-        "examples": []
-      },
-      {
         "meaning": "to inform widely about",
         "examples": [
           {
-            "sentence": "Ти дин '''шъук1адж'''",
-            "translation": "'''Inform widely about''' our religion (said to plural)."
+            "sentence": "Тидин '''шъук1адж'''",
+            "translation": "'''Inform widely about''' our religion."
           },
           {
             "sentence": "К1алэм къищэтышъ иныбджэгъухэр '''фэк1аджэх'''",
-            "translation": "Because the young man gonna merry, his friends are '''informing widely about it for him'''."
+            "translation": "Because the young man going to merry, his friends are '''informing widely about it for him'''."
           }
         ]
       }
     ],
+	"shapsug": "к1эгьэн"
     "type": "verb",
     "ipa": "t͡ʃʼad͡ʒan"
-  },
-  {
-    "word": "мэук1ын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to be killed",
-        "examples": [
-          {
-            "sentence": "Л1ыр '''мэук1эгъ'''",
-            "translation": "The man '''was killed'''."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "mawt͡ʃʼən"
-  },
-  {
-    "word": "мэтхытхын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"тхытхын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "matxətxən"
   },
   {
     "word": "тхытхын",
@@ -73910,9 +73818,16 @@
           {
             "sentence": "Л1ыр '''мэтхытхы'''",
             "translation": "The man '''is shivering'''."
+          },
+		  {
+            "sentence": "К1алэм щынагъо горэ къызэхехым тхытхэу ыублагъ",
+            "translation": "When the boy heard something dangerous he started '''to shiver'''."
           }
         ]
       }
+    ],
+    "synonyms": [
+      "к1эзэзын"
     ],
     "type": "verb",
     "ipa": "txətxən"
@@ -73927,6 +73842,10 @@
           {
             "sentence": "Л1ыр '''гъоч1эгъым''' ч1эс",
             "translation": "The man is sitting in '''the cave'''."
+          },
+		  {
+            "sentence": "Ц1ыфыхэр '''гъоч1эгъым''' ч1эхьагъэх",
+            "translation": "The people went inside '''the cave'''."
           }
         ]
       }
@@ -73942,7 +73861,7 @@
         "meaning": "to step on liquid",
         "examples": [
           {
-            "sentence": "Псыжъым '''ухауцо'''!",
+            "sentence": "Псынжъым '''ухауцо'''!",
             "translation": "'''You are stetting inside''' the mud!"
           },
           {
@@ -73952,6 +73871,10 @@
           {
             "sentence": "Псым '''ухэмыуцоу''' блэк1",
             "translation": "Pass the water without '''stepping in it'''."
+          },
+          {
+            "sentence": "Маш1ом '''ухауцомэ''', улъакъо ыгъэстыщт",
+            "translation": "'''If you step''' on fire, it will burn your leg."
           }
         ]
       }
@@ -73960,30 +73883,11 @@
     "ipa": "xawt͡sʷən"
   },
   {
-    "word": "хьа1ьэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "(Abzakh dialect) guest",
-        "examples": [],
-        "tags": [
-          "Abzakh dialect"
-        ]
-      }
-    ],
-    "synonyms": [
-      "хьак1э"
-    ],
-    "kabardian": "хьащ1э",
-    "type": "noun",
-    "ipa": "ħaːʔʲa"
-  },
-  {
     "word": "зэтеупл1энк1эн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to fold",
+        "meaning": "to fold up somethng; to layer up somethng",
         "examples": [
           {
             "sentence": "Тхылъып1э '''зэтеупл1анк1'''",
@@ -73996,6 +73900,7 @@
         ]
       }
     ],
+    "shapsug": "зэтеупл1эк1эн",
     "type": "verb",
     "ipa": "zatajwpɬʼat͡ʃʼan"
   },
@@ -74004,44 +73909,48 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to stack",
+        "meaning": "to stack; to pile; to stack things on each other; to pile things on each other",
         "examples": [
           {
-            "sentence": "Тхылъыхэр '''зэтелъхьах'''",
+            "sentence": "Тхылъыхэр '''зэтелъхьэх'''",
             "translation": "'''Stack''' the books."
           },
           {
-            "sentence": "Л1ым пхъэхэр '''зэтелъхьах'''",
+            "sentence": "Л1ым пхъэхэр '''зэтелъхьэх'''",
             "translation": "The man '''is stacking''' the woods."
+          },
+          {
+            "sentence": "Сэ апчыхэр '''зэтесэлъхьагъэх'''",
+            "translation": "'''I put''' the glasses '''on each other'''."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "zataɬħan"
+    "ipa": "zatajɬħaːn"
   },
   {
     "word": "фэгъэпсын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to point to, to aim for",
+        "meaning": "to point to; to aim for",
         "examples": [
           {
-            "sentence": "К1эрагъор '''къэсфэмыгъэпс'''",
+            "sentence": "К1эрахъор '''къэсфэмыгъэпс'''",
             "translation": "'''Don't aim''' the gun '''at me'''."
           },
           {
-            "sentence": "Ц1ыфыхэмэ уи1эхъуамбэ '''яфэмыгъэпс'''",
+            "sentence": "Ц1ыфыхэмэ у1эхъуамбэ '''афэмыгъэпс'''",
             "translation": "'''Don't point''' your hand on people."
           },
           {
-            "sentence": "Л1ым щэбзащэр мыем '''фигъэпсэгъ'''",
+            "sentence": "Л1ым щэбзащэр мы1эрысэм '''фигъэпсыгъ'''",
             "translation": "The man '''pointed''' the arrow to the apple."
           },
           {
-            "sentence": "Снайперым риохэмэ тэрэзэу '''ягъэпсын''' фае",
-            "translation": "The people that shot with a sniper need '''to aim''' correctly."
+            "sentence": "Шхончыр псэушъхьэм '''фэгъэпсын''' ",
+            "translation": "'''To aim''' the rifle on the animal."
           }
         ]
       }
@@ -74075,11 +73984,24 @@
         ]
       },
       {
-        "meaning": "have it coming (appropriate penalty); deserve",
+        "meaning": "have it coming (appropriate penalty)",
         "examples": [
           {
             "sentence": "Ащ '''фэшъуаш''', тестым ухэпц1ахьэмэ ухадзыщт",
             "translation": "'''He had it coming''', if you cheat on the test you will be kicked-out."
+          }
+        ]
+      },
+      {
+        "meaning": "deserve; appropriate",
+        "examples": [
+          {
+            "sentence": "Ащ '''фэшъуаш''' ахъщэу къыратыгъэр",
+            "translation": "The money (s)he earned '''is appropriate'''."
+          },
+		  {
+            "sentence": "Ц1ыфыхэр зэрэкъыпдэзекӏохэрэр '''къыпфэшъуаш'''",
+            "translation": "How people behave with you '''is appropriate'''."
           }
         ]
       }
@@ -74095,7 +74017,7 @@
         "meaning": "to mean",
         "examples": [
           {
-            "sentence": "Сыд '''къебгъэхьырэ'''?",
+            "sentence": "Сыд '''къебгъэхьырэр'''?",
             "translation": "What '''do you mean'''?"
           },
           {
@@ -74109,17 +74031,17 @@
         ]
       },
       {
-        "meaning": "someone to make/allow someone else to bring a",
+        "meaning": "to make someone bring something",
         "examples": [
           {
-            "sentence": "Сик1алэ псы к1элэц1ык1умэ '''къаригъэхьыщт'''",
-            "translation": "My boy '''will make''' the children '''to bring''' water."
+            "sentence": "К1алэм псы '''къесэгъэхьы'''",
+            "translation": "'''I am making''' the boy '''bring''' water."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "qəreʁaħən"
+    "ipa": "qajʁaħən"
   },
   {
     "word": "зыгъэсамбырын",
@@ -74135,16 +74057,12 @@
           {
             "sentence": "К1алэм '''зыгъэсамбырэу''' паплъэ",
             "translation": "The boy is waiting '''while being patient'''."
-          },
-          {
-            "sentence": "А к1алэм семыонэ '''зэсэгъэсамбыры'''",
-            "translation": "'''I am making myself patient''' not to hit that boy."
           }
         ]
       }
     ],
     "synonyms": [
-      "гъэбыяун"
+      "зыгъэбыяун"
     ],
     "type": "verb",
     "ipa": "zəʁasaːmbərən"
@@ -74154,7 +74072,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be stacked",
+        "meaning": "to be stacked, to be piled up",
         "examples": [
           {
             "sentence": "Тхылъыхэр '''зэтелъых'''",
@@ -74168,19 +74086,7 @@
       }
     ],
     "type": "verb",
-    "ipa": "zataɬən"
-  },
-  {
-    "word": "ащ шъхьэк1ьэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"шъхьак1э\"",
-        "examples": []
-      }
-    ],
-    "type": "adv",
-    "ipa": "aːɕ ʂħakʲʼa"
+    "ipa": "zatajɬən"
   },
   {
     "word": "зэхэдзын",
@@ -74194,75 +74100,12 @@
             "translation": "'''I distinguish between''' the male cat and female cat."
           },
           {
-            "sentence": "Шъохэ '''зэхэбдзыхэрэба?'''",
+            "sentence": "Шъохэр '''зэхэбдзыхэрэба?'''",
             "translation": "'''Don't you distinguish between''' the colors?."
-          }
-        ]
-      },
-      {
-        "meaning": "to separate into groups, to segregate",
-        "examples": [
-          {
-            "sentence": "К1алэхэмрэ пшъашъэхэмрэ '''зэхэдзых'''",
-            "translation": "'''Separate''' the boys and girls '''into groups'''."
           },
           {
-            "sentence": "Л1ым зырзырэу '''тызэхидзэгъ'''",
-            "translation": "The man '''separated''' us '''into''' singles."
-          },
-          {
-            "sentence": "Т1урыт1оу '''зэхэдзыгъэхэу''' л1ыхэр мэзым хахьэх",
-            "translation": "The men are entering the forest '''separated into''' pairs."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "zaxad͡zən"
-  },
-  {
-    "word": "зэпыдзын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to separate into singles/sub groups",
-        "examples": [
-          {
-            "sentence": "Л1ым зырзырэу '''тызэпидзыгъ'''",
-            "translation": "The man '''separated''' us '''into''' singles."
-          },
-          {
-            "sentence": "Ц1ыфыхэр '''зэпыдзых'''",
-            "translation": "'''Separate''' the people '''to sub groups'''."
-          },
-          {
-            "sentence": "Топ плъыжьыхэмрэ шхъуант1эхмрэ '''зэпэсэдзых'''",
-            "translation": "'''I am separating''' between the red and blue balls."
-          },
-          {
-            "sentence": "Л1ым к1алэхэр '''зэпидзыгъэх'''",
-            "translation": "The man '''separated''' the boys."
-          }
-        ]
-      },
-      {
-        "meaning": "to isolate",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "zapəd͡zən"
-  },
-  {
-    "word": "зэхэдзышъун",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to be able to tell the difference between, to be able to distinguish",
-        "examples": [
-          {
-            "sentence": "Чэтыу хъумрэ бзымрэ '''зэхэсэдзышъух'''",
-            "translation": "'''I can tell difference between''' the male cat and female cat."
+            "sentence": "Колэу шъоущыгъу зыхэлъымрэ зыхэмылъымрэ '''зэхэбэдзышъуа'''?",
+            "translation": "'''Can you distinguish between''' a Cola that has sugar with one that has not?"
           },
           {
             "sentence": "К1элэц1ык1ум цыгъорэ шъуаемрэ '''зэхедзышъух'''",
@@ -74275,29 +74118,89 @@
         ]
       },
       {
-        "meaning": "to be able to separate into groups, to be able to segregate",
+        "meaning": "to differentiate; to discriminate; to make distinctions; to segregate",
         "examples": [
           {
-            "sentence": "Тэ ш1ошъхъуныгъэ зи1эхэмк1э '''тызэхадзышъутэп'''",
-            "translation": "'''They can't separate us''' the believes."
+            "sentence": "Ащ ц1ыфыхэр '''зэхедзых'''",
+            "translation": "'''(S)he discriminates''' between people."
+          },
+          {
+            "sentence": "Куджаным '''зэхэдз''' и1эп",
+            "translation": "Kujan '''does not discriminates'''."
+          },
+          {
+            "sentence": "Шхыныхэр '''зэхэздзыхэрэп'''",
+            "translation": "'''I don't differentiate''' between foods."
+          }
+        ]
+      }
+      {
+        "meaning": "to separate a group; to break a group apart; to scatter a group",
+        "examples": [
+          {
+            "sentence": "К1алэхэмрэ пшъашъэхэмрэ '''зэхэдзых'''",
+            "translation": "'''Separate''' the boys and girls '''[into different groups]'''."
+          },
+		  {
+            "sentence": "Топ плъыжьыхэмрэ фыжьыхэмрэ к1алэм '''зэхидзыгъэх'''",
+            "translation": "The boy '''separated''' the red and white balls."
+          },
+          {
+            "sentence": "Л1ым зырзырэу '''тызэхидзыгъ'''",
+            "translation": "The man '''separated''' us '''into''' singles."
+          },
+          {
+            "sentence": "Т1урыт1оу '''зэхэдзыгъэхэу''' л1ыхэр мэзым хахьэх",
+            "translation": "The men are entering the forest '''separated into''' pairs."
+          },
+          {
+            "sentence": "Чэмыхэр '''зэхэдзых'''",
+            "translation": "'''Separate''' the cows."
+          },
+          {
+            "sentence": "Ешъон плъыжьыхэмрэ шхъуант1эхмрэ '''зэпэсэдзых'''",
+            "translation": "'''I am separating''' between the red and blue drinks."
           }
         ]
       }
     ],
+    "synonyms": [
+      "зэпыдзын"
+    ],
     "type": "verb",
-    "ipa": "zaxad͡zəʃʷən"
+    "ipa": "zaxad͡zən"
   },
   {
-    "word": "зэпык1ьын",
+    "word": "зэпыдзын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"пык1ьын\"",
-        "examples": []
+        "meaning": "to separate a group; to break a group apart; to scatter a group",
+        "examples": [
+          {
+            "sentence": "Л1ым зырзырэу '''тызэпидзыгъ'''",
+            "translation": "The man '''separated''' us '''into''' singles."
+          },
+          {
+            "sentence": "Ц1ыфыхэр '''зэпыдзых'''",
+            "translation": "'''Separate''' the people '''[to sub-groups]'''."
+          },
+          {
+            "sentence": "Топ плъыжьыхэмрэ шхъуант1эхмрэ '''зэпэсэдзых'''",
+            "translation": "'''I am separating''' between the red and blue balls."
+          },
+          {
+            "sentence": "Л1ым к1алэхэр '''зэпидзыгъэх'''",
+            "translation": "The man '''separated''' the boys."
+          }
+        ]
       }
     ],
+    "synonyms": [
+      "зэхэдзын"
+    ],
     "type": "verb",
-    "ipa": "zapəkʲʼən"
+    "ipa": "zapəd͡zən"
   },
   {
     "word": "зэпык1ын",
@@ -74321,8 +74224,17 @@
         ]
       },
       {
-        "meaning": "to separate from each other (divorce)",
-        "examples": []
+        "meaning": "to separate from each other; to divorce; to break up",
+        "examples": [
+          {
+            "sentence": "Сянэрэ сятэрэ '''зэпык1ыжьыгъэх'''",
+            "translation": "My mother and father '''divorced'''."
+          },
+		  {
+            "sentence": "К1алэмрэ пшъашъэмрэ '''зэпык1ыжьыгъэх'''",
+            "translation": "The boy and the girl '''broke up'''."
+          }
+        ]
       },
       {
         "meaning": "to come off",
@@ -74330,10 +74242,34 @@
       }
     ],
     "synonyms": [
-      "пык1ын"
+      "пык1ын",
+      "зэш1ок1ын"
     ],
+    "shapsug": "зэпык1ьын",
     "type": "verb",
     "ipa": "zapət͡ʃʼən"
+  },
+  {
+    "word": "зэпык1ыжьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to separate from each other; to divorce; to break up; to end a relationship with each other",
+        "examples": [
+          {
+            "sentence": "Сянэрэ сятэрэ '''зэпык1ыжьыгъэх'''",
+            "translation": "My mother and father '''divorced'''."
+          },
+		  {
+            "sentence": "К1алэмрэ пшъашъэмрэ '''зэпык1ыжьыгъэх'''",
+            "translation": "The boy and the girl '''broke up'''."
+          }
+        ]
+      }
+    ],
+    "shapsug": "зэпык1ьыжьын",
+    "type": "verb",
+    "ipa": "zapət͡ʃʼəʑən"
   },
   {
     "word": "пыхын",
