@@ -74344,7 +74344,7 @@
         ]
       },
       {
-        "meaning": "to get glued on something",
+        "meaning": "to get glued on something; to stick something on",
         "examples": [
           {
             "sentence": "С1э 1анэм '''тепк1агъ'''",
@@ -74362,18 +74362,35 @@
     "definitions": [
       {
         "meaning": "cross",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Л1ыр '''къащым''' къыпыхыжь",
+            "translation": "Unhang the man from '''the cross'''."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "qaɕ"
   },
   {
+    "word": "зэхэпцэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to put together; to knock together; to knit together",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaxapt͡san"
+  },
+  {
     "word": "кушъо",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "side panel (car)",
+        "meaning": "side panel (of a car, wagon, carriage)",
         "examples": []
       }
     ],
@@ -74401,14 +74418,14 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "very dirty (covered with or containing unpleasant substances such as dirt or grime or mud)",
+        "meaning": "very dirty, very filthy",
         "examples": [
           {
             "sentence": "Унэр '''ш1оибахь'''",
             "translation": "The house '''is really dirty'''."
           },
           {
-            "sentence": "'''Ш1оибахьэу''' ухъогъ",
+            "sentence": "'''Ш1оибахьэу''' ухъугъ",
             "translation": "You became '''really dirty'''."
           }
         ]
@@ -74425,6 +74442,14 @@
         "meaning": "to chase after",
         "examples": [
           {
+            "sentence": "Хьэр л1ым '''лъежьэ'''",
+            "translation": "The dog '''chases after''' the man."
+          },
+		  {
+            "sentence": "Хьэр чэтыум '''лъежьагъ'''",
+            "translation": "The dog '''chased after''' the cat."
+          },
+		  {
             "sentence": "'''Укъыслъемыжь'''",
             "translation": "'''Don't chase after me'''."
           },
@@ -74433,7 +74458,7 @@
             "translation": "'''Chase after''' me and the boy."
           },
           {
-            "sentence": "К1алэр зэгуабжым '''къэтлъежагъ'''",
+            "sentence": "К1алэр зэгубжым '''къэтлъежагъ'''",
             "translation": "When the boy got mad '''he chased after us'''."
           },
           {
@@ -74447,6 +74472,9 @@
         ]
       }
     ],
+    "synonyms": [
+      "лъежьэн"
+    ],
     "type": "verb",
     "ipa": "ɬajʑan"
   },
@@ -74458,7 +74486,15 @@
         "meaning": "to run after",
         "examples": [
           {
-            "sentence": "'''Къуслъымычъ'''",
+            "sentence": "Хьэр л1ым '''лъэчъэ'''",
+            "translation": "The dog '''runs after''' the man."
+          },
+		  {
+            "sentence": "Хьэр чэтыум '''лъычъагъ'''",
+            "translation": "The dog '''ran after''' the cat."
+          },
+		  {
+            "sentence": "'''Укъыслъымычъ'''",
             "translation": "'''Don't run after me'''."
           },
           {
@@ -74466,22 +74502,43 @@
             "translation": "'''Don't run after''' the car."
           },
           {
-            "sentence": "'''Къэслъычъи''' мые къустыщт",
-            "translation": "'''Run after me''' and I will give you an apple."
+            "sentence": "'''Къэслъычъи''' зыгорэ къыостыщт",
+            "translation": "'''Run after me''' and I will give you something."
           },
           {
-            "sentence": "К1элэц1ык1ухэр '''зэлъэчъэжых'''",
+            "sentence": "К1элэц1ык1ухэр '''зэлъэчъэжьых'''",
             "translation": "The little kids '''are running after each other'''."
           },
           {
-            "sentence": "К1элэц1ык1у мыгъомэ '''уалъымычъ'''",
-            "translation": "'''Don't run after''' the mean kids."
+            "sentence": "К1элэ псынк1эм '''улъычъэми''', ук1эхьэщтэп",
+            "translation": "'''Even if you run after''' the fast boy, you won't pass him."
           }
         ]
       },
       {
-        "meaning": "to chase",
-        "examples": []
+        "meaning": "to chase after",
+        "examples": [
+          {
+            "sentence": "'''Укъыслъымычъ'''",
+            "translation": "'''Don't chase after me'''."
+          },
+          {
+            "sentence": "К1алэмрэ сэрэ '''къэтлъычъ'''",
+            "translation": "'''Chase after''' me and the boy."
+          },
+          {
+            "sentence": "К1алэр зэгубжым '''къэтлъычъагъ'''",
+            "translation": "When the boy got mad '''he chased after us'''."
+          },
+          {
+            "sentence": "К1элэц1ык1ухэр '''зэлъычъэжьых'''",
+            "translation": "The little kids '''are chasing each other'''."
+          },
+          {
+            "sentence": "Джы '''услъычъэщт'''",
+            "translation": "Now '''I going to chase after you'''."
+          }
+        ]
       }
     ],
     "synonyms": [
