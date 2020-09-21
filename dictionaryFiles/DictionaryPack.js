@@ -74276,11 +74276,23 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to pick from a hanging state (like a shirt, fruit on tree etc.)",
+        "meaning": "to unhang; to take down something (such as a picture, fruit or shirt) from a hanging position",
         "examples": [
           {
             "sentence": "Щыгъын пылъап1эм '''къыпых''' джанэр",
-            "translation": "'''Pick''' the shirt from the coat hanger."
+            "translation": "'''Unhang''' the shirt from the hanger."
+          },
+		  {
+            "sentence": "Л1ыр къащым '''къыпыхыжь'''",
+            "translation": "'''Unhang''' the man from the cross."
+          },
+		  {
+            "sentence": "К1алэм сурэтыр дэпкъым '''къыпехы'''",
+            "translation": "The boy '''unhangs''' the picture from the wall."
+          },
+		  {
+            "sentence": "Пшъашъэм мы1эрысхэр чъыгым '''къыпихыгъэх'''",
+            "translation": "The girl '''picked''' the apples from the tree."
           }
         ]
       },
@@ -74288,7 +74300,7 @@
         "meaning": "to unplug",
         "examples": [
           {
-            "sentence": "USB-эр сомпыютэрым '''къыпых'''",
+            "sentence": "USB-эр компыютэрым '''къыпых'''",
             "translation": "'''Unplug''' the USB from the computer."
           }
         ]
@@ -74305,7 +74317,7 @@
             "translation": "'''You can take''' a lot '''from''' studying."
           },
           {
-            "sentence": "К1алэм иныбджэгъухэм яшэн 1аехэр '''къыаприхыгъэх'''",
+            "sentence": "К1алэм иныбджэгъухэм яшэн 1аехэр '''къаприхыгъэх'''",
             "translation": "The boy '''took''' the bad behaviors '''from''' his friends."
           }
         ]
@@ -74339,6 +74351,18 @@
     ],
     "type": "verb",
     "ipa": "tajpt͡ʃʼan"
+  },
+  {
+    "word": "къащ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "cross",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "qaɕ"
   },
   {
     "word": "кушъо",

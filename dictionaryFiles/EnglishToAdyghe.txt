@@ -13434,6 +13434,9 @@
     "to unplug": "пыхын"
   },
   {
+    "to unhang": "пыхын"
+  },
+  {
     "to plug": "пыхьан (to be plugging successfully); пылъхьан (to plug something to something)"
   },
   {
