@@ -4233,10 +4233,22 @@
     "to come up to": "ек1ун"
   },
   {
-    "to come up with": "къыч1эхын; къэгупшысын; зэхэлъхьан"
+    "to come up with": "къэугупшысын / къэгупшысын / къыч1эхын (to invent something, to come up with, to make up something, to think out something, to devise, to contrive, to create in one's mind); зэхэлъхьан (to put together)"
   },
   {
-    "to invent": "(Shapsug) къыч1эхын; (Shapsug) къыч1эгъэк1ын; къэгупшысын; зэхэлъхьан"
+    "to devise": "къэугупшысын / къэгупшысын / къыч1эхын (to invent something, to come up with, to make up something, to think out something, to devise, to contrive, to create in one's mind); зэхэлъхьан (to put together)"
+  },
+  {
+    "to contrive": "къэугупшысын / къэгупшысын / къыч1эхын (to invent something, to come up with, to make up something, to think out something, to devise, to contrive, to create in one's mind); зэхэлъхьан (to put together)"
+  },
+  {
+    "to invent": "къэугупшысын / къэгупшысын / къыч1эхын (to invent something, to come up with, to make up something, to think out something, to devise, to contrive, to create in one's mind); зэхэлъхьан (to put together)"
+  },
+  {
+    "to make up": "къэугупшысын / къэгупшысын / къыч1эхын (to invent something, to come up with, to make up something, to think out something, to devise, to contrive, to create in one's mind); зэхэлъхьан (to put together)"
+  },
+  {
+    "to think out": "къэугупшысын / къэгупшысын / къыч1эхын (to invent something, to come up with, to make up something, to think out something, to devise, to contrive, to create in one's mind); зэхэлъхьан (to put together)"
   },
   {
     "to come towards": "ек1ун"
@@ -11478,16 +11490,13 @@
     "to shout": "куон; текуон (to shout at); ц1эц1эн (to scold); тец1эц1эн / тец1эц1эхьан (to scold someone)"
   },
   {
-    "to nag": "щыхьан"
-  },
-  {
-    "to find fault": "щыхьан"
+    "to nag": "ышъхьэ тесын; ыпшъэбы дэсын; щыхьан"
   },
   {
     "to scream": "к1ыин"
   },
   {
-    "to yell": "куон; текуон (to yell at); тец1эц1эн / тец1эц1эхьан (to scold)"
+    "to yell": "куон; текуон (to yell at); тец1эц1эн / тец1эц1эхьан (to scold); щыхьан (to yell at)"
   },
   {
     "to scold": "ц1эц1эн; тец1эц1эн / тец1эц1эхьан (to scold someone)"
@@ -12222,7 +12231,7 @@
     "careless": "емыгугъурэ; гугъуемыл1; пхъэтэпэмыхь"
   },
   {
-    "to help": "дэ1эпы1эн; 1эпы1эгъоу фэхъун"
+    "to help": "дэ1эпы1эн; 1эпы1эгъоу фэхъун; 1эпы1эн"
   },
   {
     "to aid": "дэ1эпы1эн; 1эпы1эгъоу фэхъун; де1эн; дечъэк1ын"
@@ -12873,7 +12882,13 @@
     "blanket": "чхы1ан / чых1эн"
   },
   {
-    "scales": "п1оны (scales of fish, reptiles, etc.); шъуамп1э"
+    "scales": "п1оны (scales of fish, reptiles, etc.); шъуамп1э; щэчалъэ (scales, balance, tool to measure weight, weighing-machine)"
+  },
+  {
+    "balance": "щэчалъэ (scales, balance, tool to measure weight, weighing-machine)"
+  },
+  {
+    "weighing-machine": "щэчалъэ (scales, balance, tool to measure weight, weighing-machine)"
   },
   {
     "alimony": "п1упк1э"
@@ -13251,9 +13266,6 @@
     "a lot": "бэ; бэрэ; 1эджы"
   },
   {
-    "to stroke": "1э щыфэн; (Shapsug) епэш1эн"
-  },
-  {
     "to bless": "напк1э техын; нэш1у щыфэн"
   },
   {
@@ -13285,6 +13297,9 @@
   },
   {
     "dizzy": "(Shapsug) шъхьэпразэ; шъхьэуназэ"
+  },
+  {
+    "nauseous": "(Shapsug) шъхьэпразэ; шъхьэуназэ"
   },
   {
     "to evade": "ш1ок1ын; 1эпык1ын"
@@ -14589,7 +14604,16 @@
     "to knock": "теон"
   },
   {
-    "to pat": "теон"
+    "to pat": "теон; 1э щыфэн (to pat, to stroke, to pet, to fondle); (Shapsug) епэш1эн (to pat, to stroke, to pet, to fondle)"
+  },
+  {
+    "to stroke": "1э щыфэн (to pat, to stroke, to pet, to fondle); (Shapsug) епэш1эн (to pat, to stroke, to pet, to fondle)"
+  },
+  {
+    "to pet": "1э щыфэн (to pat, to stroke, to pet, to fondle); (Shapsug) епэш1эн (to pat, to stroke, to pet, to fondle)"
+  },
+  {
+    "to fondle": "1э щыфэн (to pat, to stroke, to pet, to fondle); (Shapsug) епэш1эн (to pat, to stroke, to pet, to fondle)"
   },
   {
     "eater": "шхак1о"
@@ -16945,18 +16969,6 @@
   },
   {
     "to be resolved": "зэпэч1эк1ын"
-  },
-  {
-    "to make up": "къэугупшысын"
-  },
-  {
-    "to think out": "къэугупшысын"
-  },
-  {
-    "to devise": "къэугупшысын"
-  },
-  {
-    "to contrive": "къэугупшысын"
   },
   {
     "stuffily": "гопэгъу (in a poorly-ventilated and close manner)"

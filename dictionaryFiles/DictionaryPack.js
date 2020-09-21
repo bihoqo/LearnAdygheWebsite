@@ -21371,7 +21371,12 @@
     "definitions": [
       {
         "meaning": "wall",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Унэ '''блынхэр''' фыжьык1э лагъэх",
+            "translation": "'''The walls''' of the house are colored white."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -72825,23 +72830,39 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "all",
+        "meaning": "all; everyone; everything",
         "examples": [
           {
-            "sentence": "Пшъашъэ '''зэк1эм''' уанахьы дах",
-            "translation": "You are the most beautiful '''among all''' the girls."
+            "sentence": "Тыдэ щы1 сищыгъын '''зэк1эр'''?",
+            "translation": "Where are '''all''' my clothes?"
           },
-          {
-            "sentence": "Синыбджэгъу '''зэк1эм''' сыкъеджэщт непчыхьэ",
+		  {
+            "sentence": "Ахъщэу у1ыгъэ '''зэк1эр''' 1анэм къытелъхь",
+            "translation": "Put '''all''' the money you got on the table."
+          },
+		  {
+            "sentence": "Синыбджэгъу '''зэк1эм''' сыкъеджэщт ныпчыхьэ",
             "translation": "I will call '''all''' my friends tonight."
           },
           {
-            "sentence": "Адыгэ '''зэк1а''' къэк1уагъэр?",
-            "translation": "The people that came were '''all''' Circassians?."
+            "sentence": "'''Зэк1эм''' ещэфы кухэр",
+            "translation": "'''Everyone''' buys cars."
           },
           {
-            "sentence": "Дыджы '''зэак1''' к1алэм къыхьыгъэр",
-            "translation": "'''All''' the things the boy brought are bitter."
+            "sentence": "А тучаным ешъонэу щащэ '''зэк1эр''' чъы1эх",
+            "translation": "'''All''' the drinks that sell in that shop are cold."
+          },
+          {
+            "sentence": "Чылэм ц1ыфэу дэсыр '''зэк1э''' адыгэх",
+            "translation": "'''All''' the people in the village are Circassians."
+          },
+          {
+            "sentence": "Сытхыгъ '''зэк1эм''' къедж",
+            "translation": "Read '''everything''' I wrote."
+          },
+          {
+            "sentence": "Шхынэу сыщагъ '''зэк1эм''' афэдиз ахъщэ бэу къыхэсыхыгъэп",
+            "translation": "I did not earn that much from '''all''' the food I sold."
           }
         ]
       }
@@ -72866,15 +72887,20 @@
           },
           {
             "sentence": "'''1эджы''' ыш1агъ ащ",
-            "translation": "He did '''A lot of things'''."
+            "translation": "(S)he did '''A lot of things'''."
           },
           {
             "sentence": "К1алэм '''1эджи''' е1о",
             "translation": "The boy '''is saying a lot of things'''."
+          },
+          {
+            "sentence": "'''1эджы''' ш1агъи",
+            "translation": "'''Long time''' ago."
           }
         ]
       }
     ],
+    "shapsug": "1эгьы",
     "type": "adv",
     "ipa": "ʔad͡ʒə"
   },
@@ -72891,10 +72917,10 @@
           },
           {
             "sentence": "К1алэ к1ыхьэр чъыгым мыеу пытым '''нэ1эбэсы'''",
-            "translation": "The long boy '''is reaching''' the apple on the tree."
+            "translation": "The tall boy '''is reaching''' the apple on the tree."
           },
           {
-            "sentence": "К1элэц1ык1ор 1анэм '''нэ1эбэсырэп'''",
+            "sentence": "К1элэц1ык1ур 1анэм '''нэ1эбэсырэп'''",
             "translation": "The little boy '''is not reaching''' the table."
           },
           {
@@ -72903,7 +72929,7 @@
           },
           {
             "sentence": "К1алэм ылъакъок1э римотым '''нэ1эбэсын''' е1о",
-            "translation": "The boy '''is''' trying '''to reach''' the remote control with his feet."
+            "translation": "The boy is trying '''to reach''' the remote control with his feet."
           }
         ]
       }
@@ -72912,11 +72938,40 @@
     "ipa": "naʔabasən"
   },
   {
+    "word": "1э щыфэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to be nice to someone, to show a friendly disposition",
+        "examples": []
+      },
+	  {
+        "meaning": "to pat, to stroke, to pet, to fondle",
+        "examples": [
+          {
+            "sentence": "Пшъашъэр чэтыум '''1э щефэ'''",
+            "translation": "The girl '''is stroking''' the cat."
+          },
+          {
+            "sentence": "Чэтыу сымаджэм '''1э щымыф'''",
+            "translation": "'''Don't stroke''' the sick cat."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "едэхэш1эн",
+      "гъэш1он"
+    ],
+    "type": "verb",
+    "ipa": "ʔa ɕəfan"
+  },
+  {
     "word": "епэш1эн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to stroke",
+        "meaning": "(Shapsug) to pat, to stroke, to pet, to fondle",
         "examples": [
           {
             "sentence": "Пшъашъэр чэтыум '''епаш1э'''",
@@ -72979,23 +73034,11 @@
     "ipa": "jaːzəra"
   },
   {
-    "word": "мэуц1элэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"уц1элэн\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "mawt͡sʼalan"
-  },
-  {
     "word": "къэгъэфын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to cause, to make it occur, to make it so that",
+        "meaning": "to cause, to make it occur, to make it so that, to make it happen",
         "examples": [
           {
             "sentence": "Сэ фылым теплъышъунэу '''къэзгъэфыщт'''",
@@ -73003,15 +73046,7 @@
           },
           {
             "sentence": "Пшъашъэм сы1ук1энэу '''къэбгъэфышъущта'''?",
-            "translation": "'''Can you cause it''' so that I could meet the girl?"
-          },
-          {
-            "sentence": "К1элэ мыгъохэмэ '''къагъэфыщт''' Томэр бэнанэм къытэц1эшъутык1ынэу.",
-            "translation": "The mean boys '''will cause it''' so Tom will slip over the banana"
-          },
-          {
-            "sentence": "Дзак1ом к1эрахъок1э еуагъ дзак1ом ик1эрахъо къыдихынэу '''фимыгъафэу'''",
-            "translation": "He shot the soldier with a gun before the soldier had the change to draw his gun."
+            "translation": "'''Can you make it occur that''' that I could meet the girl?"
           }
         ]
       }
@@ -73024,11 +73059,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to cause, to occur, to be so that",
+        "meaning": "to cause, to occur, to be so that, to happen",
         "examples": [
           {
-            "sentence": "Тэущтэу '''къэфышъущт''' к1элэегъаджэм тызрегъэджэн фаер ымыш1эу",
-            "translation": "How '''can it be caused''' so that the teacher know what to teach us."
+            "sentence": "Непэ 1офы бэ ти1эу '''къэфыгъ'''",
+            "translation": "'''It happened''' to day that we had a lot of work."
+          },
+		  {
+            "sentence": "Сыдэущтэу  '''къэфышъущт''' к1элэегъаджэм тызрегъэджэн фаер ымыш1эу",
+            "translation": "How '''can it happen''' that the teacher does not know what needs to be taught."
           },
           {
             "sentence": "Непэ къещхынэу '''къифагъ''' мафэхэмк1э",
@@ -73048,73 +73087,45 @@
         "meaning": "to make someone slip over a",
         "examples": [
           {
-            "sentence": "К1алэр пшъашъэм е1унк1и джэхашъом '''къитигъэц1эшъутык1ыгъ'''",
+            "sentence": "К1алэр пшъашъэм е1унк1и джэхашъом '''къытегъэц1эшъутык1ыгъ'''",
             "translation": "The boy pushed the girl and '''made her slip over''' the surface."
           },
           {
-            "sentence": "Шэйтаным гъогу тэрэзым '''утигъэц1эшъутык1ыщт'''",
+            "sentence": "Шэйтаным гъогу тэрэзым '''утегъэц1эшъутык1ыщт'''",
             "translation": "The devil '''will slip you from''' the right path."
           }
         ]
       }
     ],
-    "synonyms": [
-      "тэгъэц1эшъутык1ьын"
-    ],
+    "shapsug": "тэгъэц1эшъутык1ьын",
     "type": "verb",
     "ipa": "taʁat͡sʼaʃʷtət͡ʃʼən"
   },
   {
-    "word": "тэц1эшъутык1ын",
+    "word": "тец1эшъутык1ын",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to slip over a",
         "examples": [
           {
-            "sentence": "К1алэр джыхашъо ц1ышъутэм '''тэц1эшъутык1эгъ'''",
+            "sentence": "К1алэр джэхашъо ц1ашъутэм '''тэц1эшъутык1эгъ'''",
             "translation": "The boy '''slipped over''' the slippery surface."
           },
           {
-            "sentence": "Фэсакъ!, унашъхьэм '''утэц1эшъутык1ыни''' укъует1эрэхыщт",
+            "sentence": "Фэсакъ!, унашъхьэм '''утец1эшъутык1ыни''' укъефэхыщт",
             "translation": "Careful!, '''you will slip over''' the root and fall from it."
           },
           {
-            "sentence": "К1элэ мыгъохэмэ къагъэфыщт Томэр бэнанэм '''къытэц1эшъутык1ынэу'''",
-            "translation": "The mean boys will arrange it so Tom '''will slip over''' the banana"
+            "sentence": "К1алэр къо1усым '''тец1эшъутык1ыгъ'''",
+            "translation": "The boy '''slipped over''' the banana"
           }
         ]
       }
     ],
-    "synonyms": [
-      "тэц1эшъутык1ьын"
-    ],
+    "shapsug": "тэц1эшъутык1ьын",
     "type": "verb",
     "ipa": "tat͡sʼaʃʷtət͡ʃʼən"
-  },
-  {
-    "word": "тэц1эшъутык1ьын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"тэц1эшъутык1ын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "tat͡sʼaʃʷtəkʲʼən"
-  },
-  {
-    "word": "мэш1ухъогъон",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"шхъогъон\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "maʃʷʼəχʷəʁʷan"
   },
   {
     "word": "ш1ухъогъон",
@@ -73163,8 +73174,12 @@
             "translation": "'''The train''' '''arrived'''."
           },
 		  {
-            "sentence": "'Мэш1окур '''къэсыфэ''' сыпаплъэ",
+            "sentence": "Мэш1окур '''къэсыфэ''' сыпаплъэ",
             "translation": "I am waiting for the train '''to arrive'''."
+          },
+		  {
+            "sentence": "Гъэмафэр '''къэсыгъ'''",
+            "translation": "Summer '''arrived'''."
           }
         ]
       }
@@ -73177,16 +73192,52 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"блэн\"",
+        "meaning": "alternative form of \"блыны\"",
         "examples": []
       }
     ],
     "synonyms": [
-      "блэн",
-      "----"
+      "дэпкъ"
     ],
     "type": "verb",
     "ipa": "blən"
+  },
+  {
+    "word": "дэпкъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"дэпкъы\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "блыны"
+    ],
+    "type": "verb",
+    "ipa": "dapq"
+  },
+  {
+    "word": "щэчалъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "scales, balance, tool to measure weight, weighing-machine",
+        "examples": [
+          {
+            "sentence": "К1алэр '''щэчалъэк1э''' мэщачэ",
+            "translation": "The boy meatures weight '''with the weighing-machine'''."
+          },
+		  {
+            "sentence": "'''Щэчалъэмк1э''' томатым ионтэгъуагъэр зэгъаш1",
+            "translation": "Figure the tomato's weight '''with the weighing-machine'''."
+          }
+        ]
+      }
+    ],
+    "shapsug": "щэкьалъэ",
+    "type": "noun",
+    "ipa": "ɕat͡ʃaːɬa"
   },
   {
     "word": "щэчын",
@@ -73194,6 +73245,23 @@
     "definitions": [
       {
         "meaning": "to measure weight",
+        "examples": [
+          {
+            "sentence": "К1алэр щэчалъэк1э '''мэщачэ'''",
+            "translation": "The boy '''meatures weight''' with the weighing-machine."
+          },
+		  {
+            "sentence": "К1алэр '''зыщэчыжьыгъ'''",
+            "translation": "The boy '''measured his own weight'''"
+          },
+          {
+            "sentence": "К1алэр томатымхэр '''къещэчых'''",
+            "translation": "The boy '''measures the weight of''' the tomatoes."
+          }
+        ]
+      },
+	  {
+        "meaning": "to weight",
         "examples": [
           {
             "sentence": "К1алэм 79 килограм '''къещэчы'''",
@@ -73204,42 +73272,27 @@
             "translation": "These apples '''weight''' 5 kilograms."
           },
           {
+            "sentence": "Тхьапш зы томатым '''къищэчырэр'''?",
+            "translation": "How much one tomato '''weights'''?"
+          },
+          {
+            "sentence": "Тхьапш томатипл1ым '''къащэчырэр'''?",
+            "translation": "How much four tomatoes '''weight'''?"
+          },
+          {
             "sentence": "Зыб '''къэпщэчырэр'''",
             "translation": "'''You are weighing''' so much."
+          },
+          {
+            "sentence": "Тхьапш '''къэпщэчырэр'''?",
+            "translation": "How much '''you weight'''?"
           }
         ]
       }
     ],
-    "synonyms": [
-      "щэкьын",
-      "къэщэкьын"
-    ],
+    "shapsug": "щэкьын; къэщэкьын",
     "type": "verb",
     "ipa": "ɕat͡ʃən"
-  },
-  {
-    "word": "щэкьын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"щэчын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "ɕakʲən"
-  },
-  {
-    "word": "къэщэкьын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"щэчын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "qaɕakʲən"
   },
   {
     "word": "къэщэчын",
@@ -73251,7 +73304,7 @@
       }
     ],
     "type": "verb",
-    "ipa": "qaɕat͡ʃən"
+    "ipa": "qaʃat͡ʃən"
   },
   {
     "word": "мэзпчэн",
@@ -73269,41 +73322,150 @@
     "type": "noun",
     "ipa": "mazpt͡ʃan"
   },
+    {
+    "word": "къэугупшысын",
+    "lang": "Adyghe",
+    "definitions": [
+	{
+        "meaning": "to invent, to come up with, to make up, to think out, to devise, to contrive, to create in one's mind",
+        "examples": [
+          {
+            "sentence": "Ньютон физика '''къыгупшысыгъ'''",
+            "translation": "Newton '''invented''' physics."
+          },
+		  {
+            "sentence": "Хэт телефонэр '''къызгупшысыгъэр'''?",
+            "translation": "Who '''invented''' the telephone?"
+          },
+          {
+            "sentence": "Зыгорэ к1эу '''къэугупшыс'''",
+            "translation": "'''Invent''' something new."
+          },
+		  {
+            "sentence": "Ку к1эу '''къаугупшысыгъэр''' плъэгъугъа?",
+            "translation": "Did you see the new car '''they invented'''?."
+          },
+		  {
+            "sentence": "А тхыдэжъыр '''къэугупшысыгъ'''",
+            "translation": "That story '''is made up'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "къыч1эхын"
+    ],
+    "type": "verb",
+    "ipa": "qawɡʷəpʃəsən"
+  },
   {
-    "word": "мэк1ьыин",
+    "word": "къыч1эхын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"мэк1ыин\"",
+        "meaning": "to invent, to come up with, to make up, to think out, to devise, to contrive, to create in one's mind",
+        "examples": [
+          {
+            "sentence": "Ньютон физика '''къыч1ихыгъ'''",
+            "translation": "Newton '''invented''' physics."
+          },
+		  {
+            "sentence": "Хэт телефонэр '''къызч1ихыгъэр'''?",
+            "translation": "Who '''invented''' the telephone?"
+          },
+          {
+            "sentence": "Зыгорэ к1эу '''къыч1эх'''",
+            "translation": "'''Invent''' something new."
+          },
+		  {
+            "sentence": "Ку к1эу '''къыч1ахыгъэр''' плъэгъугъа?",
+            "translation": "Did you see the new car '''they invented'''?."
+          },
+		  {
+            "sentence": "А тхыдэжъыр '''къыч1эхыгъ'''",
+            "translation": "That story '''is made up'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "къэугупшысын"
+    ],
+    "type": "verb",
+    "ipa": "qət͡ʃʼaxən"
+  },
+  {
+    "word": "ч1эгъэк1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"къыч1эгъэк1ын\"",
         "examples": []
       }
     ],
     "type": "verb",
-    "ipa": "makʲʼəjən"
+    "ipa": "t͡ʂʼaʁat͡ʃʼən"
+  },
+  {
+    "word": "къэгупшысын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"къэугупшысын\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "къыч1эхын"
+    ],
+    "type": "verb",
+    "ipa": "qaɡʷəpʃəsən"
   },
   {
     "word": "къыч1эгъэк1ын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to invent something",
+        "meaning": "to free from prison",
         "examples": [
           {
-            "sentence": "Хэт телефонэр '''къэзч1игъэк1ыгъэр?'''",
+            "sentence": "Л1ыр хьапсым '''къыч1агъэк1ыжьыгъ'''",
+            "translation": "They '''set''' the man '''free''' from prison."
+          }
+        ]
+      },
+      {
+        "meaning": "to let someone get out from under something; to make someone get out from under something",
+        "examples": [
+          {
+            "sentence": "К1алэм ышы унэ ч1эгъым '''къыч1егъэк1ы'''",
+            "translation": "The boy '''is making''' his brother '''come out under''' the house."
+          }
+        ]
+      },
+      {
+        "meaning": "to solve",
+        "examples": [
+          {
+            "sentence": "К1алэм матэматикэ упч1ыр '''къык1игъэк1ыжьыгъ'''",
+            "translation": "The boy '''solved''' the math question."
+          }
+        ]
+      },
+	  {
+        "meaning": "to invent something; to come up with",
+        "examples": [
+          {
+            "sentence": "Хэт телефонэр '''къэзч1игъэк1ыгъэр'''?",
             "translation": "Who '''invented''' the telephone?"
           },
           {
             "sentence": "Зыгорэ к1эу '''къыч1эгъэк1ы'''",
             "translation": "'''Invent''' something new."
-          }
-        ]
-      },
-      {
-        "meaning": "to make someone get out from under something",
-        "examples": [
-          {
-            "sentence": "К1алэм ишы унэ ч1эгъым '''къыч1егъэк1ы'''",
-            "translation": "The boy '''is making''' his brother '''come out under''' the house."
+          },
+		  {
+            "sentence": "Ку к1эу '''къыч1агъэк1ыгъэр''' плъэгъугъа?",
+            "translation": "Did you see the new car '''they invented'''?."
           }
         ]
       }
@@ -73323,11 +73485,11 @@
             "translation": "The girl '''is screaming'''."
           },
           {
-            "sentence": "Тэщтэу '''ок1ыи'''",
-            "translation": "How '''you scream'''?."
+            "sentence": "Стхьак1умэ '''укъек1ые'''",
+            "translation": "'''You're screaming into''' my eat."
           },
           {
-            "sentence": "Пшъэшъэ ц1ык1ухэмэ яфэдэ '''мэк1ыегъ'''",
+            "sentence": "Пшъэшъэ ц1ык1ухэмэ яфэдэ '''к1ыегъ'''",
             "translation": "(S)he '''screamed''' like a little girl."
           }
         ]
@@ -73338,33 +73500,6 @@
     ],
     "type": "verb",
     "ipa": "mat͡ʃʼəjən"
-  },
-  {
-    "word": "мэк1ыин",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"к1ыин\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "mat͡ʃʼəjən"
-  },
-  {
-    "word": "к1ьэлъыон",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"к1элъыон\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "к1элъыон"
-    ],
-    "type": "verb",
-    "ipa": "kʲʼaɬəwən"
   },
   {
     "word": "к1элъыон",
@@ -73385,34 +73520,18 @@
       }
     ],
     "synonyms": [
-      "к1ьэлъыон"
+      "к1энэк1эн"
     ],
+    "shapsug": "к1ьэлъыон",
     "type": "verb",
     "ipa": "t͡ʃʼaɬəwən"
-  },
-  {
-    "word": "т1эрэхьан",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to roll around",
-        "examples": [
-          {
-            "sentence": "1эгуаор '''мэт1эрэхьэу''' щагум дэлъ",
-            "translation": "The ball is in the yard '''rolling around'''."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "tʼaraħən"
   },
   {
     "word": "шъхьэпразэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "dizzy",
+        "meaning": "dizzy; nauseous",
         "examples": [
           {
             "sentence": "'''Ушъхьэпраза?'''",
@@ -73429,24 +73548,17 @@
     "ipa": "ʂħapraːza"
   },
   {
-    "word": "1эпык1ьын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"1эпык1ын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "ʔapəkʲʼən"
-  },
-  {
     "word": "1эпы1эн",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to help",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Уиныбджэгъумэ '''уа1эпы1эн'''",
+            "translation": "'''To help''' your friends."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -73463,6 +73575,10 @@
         "meaning": "to help; to aid; to assist",
         "examples": [
           {
+            "sentence": "Уиныбджэгъумэ '''уадэ1эпы1эн'''",
+            "translation": "'''To help''' your friends."
+          },
+		  {
             "sentence": "Л1ыжъым '''дэ1эпы1'''",
             "translation": "'''Help''' the old man."
           },
@@ -73479,12 +73595,12 @@
             "translation": "The boy '''is helping''' the man."
           },
           {
-            "sentence": "Сиятэ '''сыдэ1эпы1эн''' фай",
+            "sentence": "Сятэ '''сыдэ1эпы1эн''' фай",
             "translation": "I need '''to help''' my father."
           },
           {
-            "sentence": "Непэ сиятэ и1офк1э '''сыдэ1эпы1эрагъу'''",
-            "translation": "Today '''I want to help''' my father with his work."
+            "sentence": "Непэ сятэ и1офк1э '''сыдэ1эпы1агъ'''",
+            "translation": "Today '''I helped''' my father with his work."
           }
         ]
       }
@@ -73501,15 +73617,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to evade",
+        "meaning": "to evade, to successfully espace someone",
         "examples": [
           {
-            "sentence": "Уич1ыфэ утын фаем о '''уш1о1эпык1ышъутэп'''",
+            "sentence": "Уич1ыфэ утын фаем о '''у1эпык1ышъутэп'''",
             "translation": "'''You can't evade''' the dept you need to pay."
           },
           {
             "sentence": "А ц1ыф бзаджэм '''сы1эпык1ыгъ'''",
             "translation": "'''I evaded''' that bad person."
+          },
+          {
+            "sentence": "Автобусыр '''къэс1эпык1ыгъ'''",
+            "translation": "The bus '''evaded''' me."
           }
         ]
       },
@@ -73519,17 +73639,11 @@
           {
             "sentence": "'''Къэс1эпык1ы''', псыунэм сихьан фай",
             "translation": "'''I can't hold my pee''', I need to enter the restroom."
-          },
-          {
-            "sentence": "'''Къумы1эпык1ыгъэу''' псыунэм шыгъутхь",
-            "translation": "'''Before you release your pee (by not being to hold it anymore)''' go to the toilet to pee."
           }
         ]
       }
     ],
-    "synonyms": [
-      "1эпык1ьын"
-    ],
+    "shapsug": "1эпык1ьын",
     "type": "verb",
     "ipa": "ʔapət͡ʃʼən"
   },
@@ -81152,26 +81266,6 @@
     ],
     "type": "noun",
     "ipa": "ʁapsafəʁʷa"
-  },
-  {
-    "word": "къыч1эхын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to invent or come up with an idea or concept.",
-        "examples": [
-          {
-            "sentence": "Ньютон физика '''къыч1ихыгъ'''",
-            "translation": "Newton '''invented''' physics."
-          }
-        ]
-      }
-    ],
-    "synonyms": [
-      "къэгупшысын"
-    ],
-    "type": "verb",
-    "ipa": "qət͡ʃʼaxən"
   },
   {
     "word": "мык1э",
@@ -96079,13 +96173,12 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to ridicule, to mock",
-        "examples": []
-      },
-      {
-        "meaning": "to make a little joke, to poke fun",
+        "meaning": "to ridicule, to mock, to make fun of, to scoff, to make a little joke, to poke fun",
         "examples": []
       }
+    ],
+    "synonyms": [
+      "к1элъыон"
     ],
     "type": "verb",
     "ipa": "t͡ʃʼanat͡ʃʼan"
@@ -97703,53 +97796,6 @@
     "ipa": "zapat͡ʃʼat͡ʃʼən"
   },
   {
-    "word": "ч1эгъэк1ын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to let out, to let go, to release, to set free",
-        "examples": [
-          {
-            "sentence": "Л1ыр хьапсым '''къыч1агъэк1ыжьыгъ'''",
-            "translation": "They '''set''' the math '''free''' from prison."
-          }
-        ]
-      },
-      {
-        "meaning": "to let someone get out from under something",
-        "examples": []
-      },
-      {
-        "meaning": "to solve",
-        "examples": [
-          {
-            "sentence": "К1алэм матэматикэ упч1ыр '''къык1игъэк1ыжьыгъ'''",
-            "translation": "The boy '''solved''' the math question."
-          }
-        ]
-      },
-      {
-        "meaning": "to let someone raise up",
-        "examples": []
-      },
-      {
-        "meaning": "to raise something upward; to elevate someone",
-        "examples": []
-      },
-      {
-        "meaning": "to invent something",
-        "examples": [
-          {
-            "sentence": "Ку к1эу '''къыч1агъэк1ыгъэр''' плъэгъугъа?",
-            "translation": "Did you see the new car '''they invented'''."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "t͡ʂʼaʁat͡ʃʼən"
-  },
-  {
     "word": "зэпэч1эк1ын",
     "lang": "Adyghe",
     "definitions": [
@@ -97781,23 +97827,6 @@
     ],
     "type": "verb",
     "ipa": "t͡ʃʼaʁat͡ʃʼən"
-  },
-  {
-    "word": "къэугупшысын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to make up, to think out, to devise, to contrive, to invent",
-        "examples": [
-          {
-            "sentence": "джэгукIакIэ '''къэугупшысын'''",
-            "translation": "come up with a new game."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "qawɡʷəpʃəsən"
   },
   {
     "word": "гопэгъу",
@@ -99049,29 +99078,6 @@
     ],
     "type": "verb",
     "ipa": "zaqʷad͡zan"
-  },
-  {
-    "word": "къэгупшысын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to think up; to create in one's mind",
-        "examples": []
-      },
-      {
-        "meaning": "to come up with (an idea or concept)",
-        "examples": []
-      },
-      {
-        "meaning": "to invent",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "къыч1эхын"
-    ],
-    "type": "verb",
-    "ipa": "qaɡʷəpʃəsən"
   },
   {
     "word": "пшъэшъэ гъусэ",
@@ -108162,22 +108168,6 @@
     ],
     "type": "adj",
     "ipa": "paʁʷnaʁʷ"
-  },
-  {
-    "word": "1э щыфэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to be nice to someone, to show a friendly disposition",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "едэхэш1эн",
-      "гъэш1он"
-    ],
-    "type": "verb",
-    "ipa": "ʔa ɕəfan"
   },
   {
     "word": "тхыкъупшъхьан",
