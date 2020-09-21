@@ -74335,7 +74335,11 @@
         "examples": [
           {
             "sentence": "К1элэц1ык1ур 1анэм '''тепк1э'''",
-            "translation": "The little boy '''is jumping''' on the table."
+            "translation": "The little boy '''is jumping on''' the table."
+          },
+		  {
+            "sentence": "Мышъэр л1ым '''тепк1агъ'''",
+            "translation": "The bear '''jumped on''' the man."
           }
         ]
       },
@@ -74343,7 +74347,7 @@
         "meaning": "to get glued on something",
         "examples": [
           {
-            "sentence": "Си1э 1анэм '''тепк1агъ'''",
+            "sentence": "С1э 1анэм '''тепк1агъ'''",
             "translation": "My arm '''got glued on''' the table."
           }
         ]
