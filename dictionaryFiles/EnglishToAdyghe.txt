@@ -11280,10 +11280,16 @@
     "bite me": "сихьэе шхы; устец1"
   },
   {
+    "lighter": "к1эгъэналъэ"
+  },
+  {
     "to turn over": "зэпырыгъэзэн (to turn something upside down)"
   },
   {
     "to turn": "зэн / къэзэн (to turn); гъэзэн / къэгъэзэн (to turn around something); зыгъэзэн / зыкъэгъэзэн (to turn oneself around); зэпырыгъэзэн (to turn something upside down); зыкъэгъэзык1ын (to turn oneself around)"
+  },
+  {
+    "to turn on": "хэгъэнэн"
   },
   {
     "to dehydrate": "гъун (to get dehydrated); гъэгъун"

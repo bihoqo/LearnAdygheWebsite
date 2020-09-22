@@ -34394,7 +34394,16 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"маш1о к1эгъэнэн\"",
+        "meaning": "to turn on",
+        "examples": [
+          {
+            "sentence": "Кур '''зэк1эгъан'''",
+            "translation": "'''Turn on''' the car."
+          }
+        ]
+      },
+	  {
+        "meaning": "to ignite; alternative form of \"маш1о к1эгъэнэн\"",
         "examples": []
       }
     ],
@@ -34406,7 +34415,24 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"маш1о хэгъэнэн\"",
+        "meaning": "to turn on",
+        "examples": [
+          {
+            "sentence": "Кур '''хэгъан'''",
+            "translation": "'''Turn on''' the car."
+          },
+		  {
+            "sentence": "К1алэм ламбэ '''хегъанэ'''",
+            "translation": "'''Turn on''' the car."
+          },
+		  {
+            "sentence": "Телевидениер '''хэсэгъанэ'''",
+            "translation": "'''I turned on''' the television."
+          }
+        ]
+      },
+	  {
+        "meaning": "to ignite; alternative form of \"маш1о хэгъэнэн\"",
         "examples": []
       }
     ],
@@ -75537,7 +75563,7 @@
             "translation": "'''Quit''' that bad behaving."
           },
           {
-            "sentence": "Уи1эхъуамбэмэ уацэкъэу '''хэбнэжьын''' фай",
+            "sentence": "У1эхъуамбэмэ уацэкъэу '''хэбнэжьын''' фай",
             "translation": "'''You must quit''' biting your teeth."
           },
           {
@@ -75547,8 +75573,43 @@
         ]
       }
     ],
+    "synonyms": [
+      "к1энэжьын"
+    ],
     "type": "verb",
     "ipa": "xanaʑən"
+  },
+  {
+    "word": "к1энэжьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to quit doing something, to get out of the habit (of), to break oneself of the habit (of)",
+        "examples": [
+          {
+            "sentence": "Сэ тутын сешъоу '''к1эснэжьыгъ'''",
+            "translation": "'''I quit''' smoking cigarettes."
+          },
+          {
+            "sentence": "А шэн 1аер '''к1энэжь'''",
+            "translation": "'''Quit''' that bad behaving."
+          },
+          {
+            "sentence": "У1эхъуамбэмэ уацэкъэу '''к1эбнэжьын''' фай",
+            "translation": "'''You must quit''' biting your teeth."
+          },
+          {
+            "sentence": "'''К1эмынэжь''' ащтэу пш1эу",
+            "translation": "'''Don't quit''' doing that."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "хэнэжьын"
+    ],
+    "type": "verb",
+    "ipa": "t͡ʃʼanaʑən"
   },
   {
     "word": "хэгъэнэжьын",
