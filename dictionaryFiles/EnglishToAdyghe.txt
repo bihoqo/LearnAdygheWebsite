@@ -13596,9 +13596,6 @@
     "to please": "гъэрэзэн"
   },
   {
-    "to please": "гъэрэзэн"
-  },
-  {
     "to dismiss": "1угъэк1ын; тегъэк1ын (to dismiss a boss/leader)"
   },
   {

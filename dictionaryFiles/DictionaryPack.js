@@ -75435,7 +75435,7 @@
             "translation": "'''I prefer''' water than Cola."
           },
           {
-            "sentence": "Адыгэбзэк1э тыгущы1энэ '''нахь къетэгъэк1ы'''",
+            "sentence": "Адыгэбзэк1э тыгущы1эныр '''нахь къетэгъэк1ы'''",
             "translation": "'''We prefer''' speaking Circassian."
           }
         ]
@@ -75450,11 +75450,16 @@
     "definitions": [
       {
         "meaning": "to respect",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''шъхьэк1афэ феш1ы''' нахьыжъым",
+            "translation": "The boy '''respects''' the elderly."
+          }
+        ]
       }
     ],
     "type": "verb",
-    "ipa": "ʂħat͡ʃʼaːfa"
+    "ipa": "ʂħat͡ʃʼaːfa faʃʼən"
   },
   {
     "word": "шъхьэк1афэ",
@@ -75462,7 +75467,16 @@
     "definitions": [
       {
         "meaning": "respect",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''шъхьэк1афэ''' феш1ы нахьыжъым",
+            "translation": "The boy '''respects''' the elderly."
+          },
+		  {
+            "sentence": "Уятэ уянэ '''шъхьэк1афэ''' апхын фай",
+            "translation": "You need to '''respect''' your father and mother."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -75473,35 +75487,33 @@
     "ipa": "ʂħat͡ʃʼaːfa"
   },
   {
-    "word": "рэзэгъэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"зэгъэн\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "razaʁan"
-  },
-  {
     "word": "гъэрэзэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to make someone satisfied, to please someone",
+        "meaning": "to satisfy; to make someone satisfied",
         "examples": [
           {
-            "sentence": "Сыд '''узимыгъэзагъэрэ?'''",
-            "translation": "What '''doesn't make you satisfied?'''"
+            "sentence": "Сыд '''узимыгъэзагъэрэр?'''",
+            "translation": "What is '''making you unsatisfied'''?"
           },
+		  {
+            "sentence": "К1алэм шхынэу ышхыгъэм ыныбэ '''ыгъэрагъэрэп'''",
+            "translation": "The food the boy aye '''does not satisfy''' his stomach"
+          }
+        ]
+      },
+	  {
+	  {
+        "meaning": "to please someone",
+        "examples": [
           {
             "sentence": "К1алэр '''угъэрэзэшъущта?'''",
-            "translation": "'''Can you satisfied''' the boy?"
+            "translation": "'''Can you please''' the boy?"
           },
           {
-            "sentence": "К1алэм пшъашъэр '''игъэрэзагъ'''",
-            "translation": "The boy '''satisfied''' the girl."
+            "sentence": "К1алэм пшъашъэр '''ыгъэрэзагъ'''",
+            "translation": "The boy '''pleased''' the girl."
           }
         ]
       }
@@ -95165,7 +95177,16 @@
     "definitions": [
       {
         "meaning": "respect",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''лъытэныгъэ''' феш1ы нахьыжъым",
+            "translation": "The boy '''respects''' the elderly."
+          },
+		  {
+            "sentence": "Уятэ уянэ '''лъытэныгъэ''' апхын фай",
+            "translation": "You need to '''respect''' your father and mother."
+          }
+        ]
       }
     ],
     "synonyms": [
