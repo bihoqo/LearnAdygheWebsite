@@ -7338,7 +7338,7 @@
     "spoken language": "жабзэ"
   },
   {
-    "speech": "псалъэ; жабзэ"
+    "speech": "гущы1э; псалъэ; жабзэ"
   },
   {
     "talk": "жабзэ"
@@ -8481,10 +8481,10 @@
     "string": "бзэпсы (bow-string); чыданэ (of a musical instrument)"
   },
   {
-    "to splash": "утхэн; теупц1эн (extremely intensive)"
+    "to splash": "утхэн; теутхэн (to splash on); тегъэц1ырэн (to spray burst liquid on)"
   },
   {
-    "to spatter": "утхэн; теупц1эн (extremely intensive)"
+    "to spatter": "утхэн; теутхэн (to spatter on); тегъэц1ырэн (to spray burst liquid on)"
   },
   {
     "very early": "жьыщэ"
@@ -13647,6 +13647,9 @@
     "to gather stuff": "къэугъоин"
   },
   {
+    "to collect stuff": "къэугъоин"
+  },
+  {
     "passage": "зэпырык1ып1э (the passage between two places)"
   },
   {
@@ -14451,7 +14454,7 @@
     "to single": "гъэлыгъон (to single an animal)"
   },
   {
-    "to spank": "теуп1эп1эн"
+    "to spank": "1эгушъок1э еон; теуп1эп1эн"
   },
   {
     "to splatter": "теутхэн (to splatter on)"
@@ -14487,7 +14490,7 @@
     "to perceive": "хилъэгъон"
   },
   {
-    "to twist": "гъэчэрэзын"
+    "to twist": "гъэчэрэзын (to spin); гъэ1онт1эн (to bend, to curve)"
   },
   {
     "extra": "лые (spare, something beyond what is due, usual, expected, or necessary)"
@@ -15189,7 +15192,7 @@
     "desperate": "егъэзыгъ"
   },
   {
-    "to strew": "итэкъухьан; ч1этэкъун"
+    "to strew": "итэкъухьан; ч1этэкъун; теутэн (to cause a substance to fall in fine drops or small pieces)"
   },
   {
     "complete": "псао (whole); ухыгъ (done, completed); икъугъэ; игъэкъугъэ"

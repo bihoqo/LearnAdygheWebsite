@@ -2945,7 +2945,16 @@
     "definitions": [
       {
         "meaning": "salt",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Шхыным '''щыгъу''' ищык1агъ",
+            "translation": "The food needs '''salt'''."
+          },
+		  {
+            "sentence": "Бзылъфыгъэм '''щыгъу''' шхыным теутагъ",
+            "translation": "The woman sprinkled '''salt''' on the food."
+          }
+        ]
       }
     ],
     "kabardian": "шыгъу",
@@ -75752,7 +75761,15 @@
           },
           {
             "sentence": "К1алэм '''енэпэшъуао'''",
-            "translation": "He/She '''is slapping''' the boy."
+            "translation": "(S)he '''is slapping''' the boy."
+          },
+          {
+            "sentence": "Пшъашъэр к1алэм '''енэпэшъоуагъ'''",
+            "translation": "The girl '''slapped''' the boy."
+          },
+          {
+            "sentence": "К1алэм сигъэгубжыгъэти, '''сенэпэшъоуагъ'''",
+            "translation": "Because the boy made me angry, '''I slapped him'''."
           }
         ]
       }
@@ -83042,6 +83059,22 @@
           {
             "sentence": "Пшъашъэм '''нэгушъо''' к1алэм '''ритыгъ'''",
             "translation": "The girl '''slapped''' the boy; literary: the girl '''give a slap''' to the boy."
+          },
+		  {
+            "sentence": "'''Нэгушъо къысаты'''",
+            "translation": "'''They are slapping me'''."
+          },
+          {
+            "sentence": "К1алэм '''нэгушъо реты'''",
+            "translation": "(S)he '''is slapping''' the boy."
+          },
+          {
+            "sentence": "Пшъашъэр к1алэм '''нэгушъо реты'''",
+            "translation": "The girl '''slapped''' the boy."
+          },
+          {
+            "sentence": "К1алэм сигъэгубжыгъэти, '''нэгушъо естыгъ'''",
+            "translation": "Because the boy made me angry, '''I slapped him'''."
           }
         ]
       }
@@ -83081,6 +83114,10 @@
           {
             "sentence": "'''нэгушъоутын''' уфая?",
             "translation": "Do you want '''a slap'''?"
+          },
+		  {
+            "sentence": "к1элэ бзаджэм '''нэгушъоутын''' ищык1агъ",
+            "translation": "The mischievous boy needs '''a slap'''."
           }
         ]
       }
@@ -83117,14 +83154,18 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to whine against someone disagreeably",
+        "meaning": "to whine against someone disagreeably; to argue against",
         "examples": [
           {
-            "sentence": "К1алэр к1элэегъаджэм '''пэ1о1ожьы'''",
+            "sentence": "К1алэр к1элэегъаджэм '''пэ1у1ожьы'''",
             "translation": "The boy '''argues with''' the teacher."
           },
+		  {
+            "sentence": "Уятэ ятнэ '''упэ1у1ожьэу''' хъущтэп",
+            "translation": "It is not okay ''to argue with''' your parents."
+          },
           {
-            "sentence": "'''Укъыспэмы1о1ожь'''",
+            "sentence": "'''Укъыспэмы1у1ожь'''",
             "translation": "'''Don't argue with me'''."
           }
         ]
@@ -83150,19 +83191,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to single (an animal), to scorch",
+        "meaning": "to burn slightly; to singe (an animal); to scorch",
         "examples": [
           {
             "sentence": "Чэтыр '''гъэлыгъон'''}}",
-            "translation": ""
+            "translation": "'''To scorch''' the chicken"
           },
           {
             "sentence": "Мэлышъхьэр '''гъэлыгъон''' фае}}",
-            "translation": ""
+            "translation": "You need '''to singe''' the sheep's head."
           },
           {
-            "sentence": "Лъакъохэр '''гъэлыгъонхэ''' фае}}",
-            "translation": ""
+            "sentence": "Лъакъохэр '''угъэлыгъонхэ''' фае}}",
+            "translation": "You need '''to scorch''' the legs."
           }
         ]
       }
@@ -83175,13 +83216,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to curve, to bend",
-        "examples": [
-          {
-            "sentence": "Къины гъуч1ы '''пгъэ1орт1эныр'''",
-            "translation": "It's hard to '''bend''' an iron."
-          }
-        ]
+        "meaning": "alternative form of \"гъэ1онт1эн\"",
+        "examples": []
       }
     ],
     "synonyms": [
@@ -83195,32 +83231,26 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to curve, to bend",
+        "meaning": "to curve; to bend; to twist",
         "examples": [
           {
             "sentence": "Къины гъуч1ы '''пгъэ1онт1эныр'''",
             "translation": "It's hard to '''bend''' an iron."
+          },
+		  {
+            "sentence": "К1алэм джэмышхэр '''егъэ1уант1э'''",
+            "translation": "The boy '''bends''' the spoon."
+          },
+		  {
+            "sentence": "К1алэр топ джэгоу, ебэджи ылъакъо '''ыгъэ1онт1эжьыгъ'''",
+            "translation": "The boy while playing soccer, he fell and '''twisted''' his leg."
           }
         ]
       }
     ],
-    "synonyms": [
-      "гъэ1орт1эн"
-    ],
+    "shapsug": "гъэ1орт1эн",
     "type": "verb",
     "ipa": "ʁaʔʷantʼan"
-  },
-  {
-    "word": "теуп1эп1эн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to spank",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "tajwpʼapʼan"
   },
   {
     "word": "теутхэн",
@@ -83257,7 +83287,12 @@
     "definitions": [
       {
         "meaning": "to splash; to splatter",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Псы '''мэутхэ'''",
+            "translation": "Water '''splashes'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -83268,11 +83303,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to sprinkle, To cause (a substance) to fall in fine drops (for a liquid substance) or small pieces (for a solid substance)",
+        "meaning": "to sprinkle; to strew; to cause (a substance) to fall in fine drops (for a liquid substance) or small pieces (for a solid substance)",
         "examples": [
           {
-            "sentence": "хьаджыгъэр 1анэм '''теутэн'''",
+            "sentence": "Хьаджыгъэр 1анэм '''теутэн'''",
             "translation": "'''To sprinkle''' flour on the table."
+          },
+		  {
+            "sentence": "Бзылъфыгъэм щыгъу шхыным '''теутагъ'''",
+            "translation": "The woman '''sprinkled''' salt on the food."
           }
         ]
       }
@@ -83318,7 +83357,7 @@
         "meaning": "exactly like, identical in all forms",
         "examples": [
           {
-            "sentence": "Сишы мощ '''фэдэ къэгъэчъыгъ'''",
+            "sentence": "Сшы мощ '''фэдэ къэгъэчъыгъ'''",
             "translation": "My brother '''is exactly like''' that."
           }
         ]
@@ -83332,10 +83371,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "identically in all forms",
+        "meaning": "exactly identically",
         "examples": [
           {
-            "sentence": "Сишы мощ '''фэдэ къэгъэчъыгъэу''' мак1о",
+            "sentence": "Сшы мощ '''фэдэ къэгъэчъыгъэу''' мак1о",
             "translation": "My brother walks '''exactly like''' that."
           }
         ]
@@ -83360,7 +83399,7 @@
             "translation": "The man '''got ruined due to''' gambling."
           },
           {
-            "sentence": "Пачъыхьыр и былым '''теунэхъухьагъ'''",
+            "sentence": "Пачъыхьыр имылъку '''теунэхъухьагъ'''",
             "translation": "The king '''got ruined due to''' his fortune."
           }
         ]
@@ -83389,8 +83428,8 @@
         "meaning": "God forbid, may god not allow it",
         "examples": [
           {
-            "sentence": "'''Тхьэм емыд''', к1алэр мэмысмэджэнэу",
-            "translation": "'''God forbid''', the boy from getting sick."
+            "sentence": "'''Тхьэм емыд''' к1алэр мысымэджэнэу",
+            "translation": "'''God forbid''' the boy from getting sick."
           }
         ]
       }
