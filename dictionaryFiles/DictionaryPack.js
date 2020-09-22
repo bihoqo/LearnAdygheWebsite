@@ -75807,24 +75807,32 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to thrust into, to plunge into, to stick into",
+        "meaning": "to thrust into; to plunge into",
+        "examples": [
+          {
+            "sentence": "Чатэр '''хас''' ц1ыфым",
+            "translation": "'''Thrust''' the sword into the person."
+          },
+          {
+            "sentence": "Шыум чатэр л1ым '''хисагъ'''",
+            "translation": "The horseman '''thrusted''' the sword '''into''' the man."
+          },
+		  {
+            "sentence": "Топыр джэгуалъэхэм к1алэм '''ахисагъ'''",
+            "translation": "The boy '''squeezed''' the ball '''into''' the toys."
+          }
+        ]
+      },
+	  {
+        "meaning": "to (forcefully) stick something into",
         "examples": [
           {
             "sentence": "Шъэжъыер пц1эжъыем '''хэмыс'''",
             "translation": "'''Don't stick''' the fish with the knife."
           },
-          {
-            "sentence": "Чатэр '''хас''' ц1ыфым",
-            "translation": "'''Thrust''' the sword into the person."
-          }
-        ]
-      },
-      {
-        "meaning": "to place something into forcefully",
-        "examples": [
-          {
-            "sentence": "Топыр джэгуалъэхэм к1алэм '''ахисагъ'''",
-            "translation": "The boy '''placed''' the ball '''into''' the toys '''forcefully'''."
+		  {
+            "sentence": "Куджаным '''зыкъэтхисэн''' е1о",
+            "translation": "Kujan is trying '''to stick himself among us'''."
           }
         ]
       }
@@ -75912,10 +75920,7 @@
     "definitions": [
       {
         "meaning": "(vulgar) whore",
-        "examples": [],
-        "tags": [
-          "vulgar"
-        ]
+        "examples": []
       }
     ],
     "type": "noun",
@@ -75926,9 +75931,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to drag something around",
+        "meaning": "to drag something",
         "examples": [
           {
+            "sentence": "Л1ыжъым '''зелъэшъужьы'''",
+            "translation": "The old-man '''is dragging himself'''."
+          },
+		  {
             "sentence": "К1алэм 1анэр '''къелъэшъу'''",
             "translation": "The boy '''is dragging''' the table here."
           },
@@ -75939,6 +75948,18 @@
           {
             "sentence": "'''Сымылъэшъуба''', сэ сизакъоу сыкъэк1ощт",
             "translation": "'''Don't drag me around''', I will come by myself."
+          },
+		  {
+            "sentence": "Шъуинэ '''зыкъэслъэшъугъ'''",
+            "translation": "'''I dragged myself''' to your house."
+          },
+          {
+            "sentence": "1анэр садэжь '''къэлъэшъу'''",
+            "translation": "'''Drag''' the table to me."
+          },
+          {
+            "sentence": "Л1ы у1агъэр '''къалъэшъу'''",
+            "translation": "'''They are dragging''' the wounded man"
           }
         ]
       }
@@ -75947,28 +75968,61 @@
     "ipa": "ɬaʃʷən"
   },
   {
-    "word": "рилъэшъон",
+    "word": "къэлъэшъун",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to drag inside",
+        "meaning": "to drag something here; to drag something toward the speaker",
         "examples": [
           {
-            "sentence": "Гъуанэ ш1уц1эм ик1оц1 '''урилъэшъощт'''",
-            "translation": "A black hole '''will drag you inside'''."
+            "sentence": "Шъуинэ '''зыкъэслъэшъугъ'''",
+            "translation": "'''I dragged myself''' to your house."
+          },
+		  {
+            "sentence": "К1алэм 1анэр '''къелъэшъу'''",
+            "translation": "The boy '''is dragging''' the table here."
+          },
+          {
+            "sentence": "1анэр садэжь '''къэлъэшъу'''",
+            "translation": "'''Drag''' the table to me."
+          },
+          {
+            "sentence": "Л1ы у1агъэр '''къалъэшъу'''",
+            "translation": "'''They are dragging''' the wounded man '''to here'''"
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "rəjɬaʃʷan"
+    "ipa": "ɬaʃʷən"
+  },
+  {
+    "word": "илъэшъон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to drag something inside",
+        "examples": [
+          {
+            "sentence": "Гъонэ-ш1уц1эм ык1оц1 '''урилъэшъощт'''",
+            "translation": "A black hole '''will drag you inside'''."
+          },
+		  {
+            "sentence": "К1элэц1ык1ур унэм '''ислъэшъуагъ'''",
+            "translation": "'''I dragged''' the little kid '''into''' the house."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "jəɬaʃʷan"
   },
   {
     "word": "тхъын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to tear something off",
+        "meaning": "to tear off",
         "examples": []
       }
     ],
@@ -76000,29 +76054,18 @@
           },
           {
             "sentence": "Пхъэм к1алэр '''блэпк1ы'''",
-            "translation": "The boy '''is pass jumping''' the wood."
+            "translation": "The boy '''is jumping over''' the wood."
           },
           {
-            "sentence": "Унэм о '''ублэпк1ын''' лъэк1ыщтэп",
+            "sentence": "Унэм о '''ублэпк1ын''' плъэк1ыщтэп",
             "translation": "You can't '''jump over''' the house"
           }
         ]
       }
     ],
+    "shapsug": "блэпк1ьын",
     "type": "verb",
     "ipa": "blapt͡ʃʼən"
-  },
-  {
-    "word": "блэпк1ьын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"блэпк1ын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "blaptkʲʼən"
   },
   {
     "word": "зэблэчъын",

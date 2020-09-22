@@ -13665,7 +13665,7 @@
     "whore": "(vulgar) къэхьыпэ"
   },
   {
-    "to drag": "лъэшъун; къелъэшъок1ын (to drag around); ч1элъэшъон (to drag to under something); ч1элъэшъун / къыч1элъэшъун (to drag from under something); телъэшъон (to drag to above something); телъэшъун / къытелъэшъун (to drag from above something); илъэшъон (to drag to inside something); илъэшъун / къыилъэшъун (to drag from inside something); хэлъэшъон (to drag through, to drag to an area with liquid or gas, to drag to among people/objects/plants); хэлъэшъун / къыхэлъэшъун (to drag from among people/objects/trees, to drag from an area of gas or liquid); къолъэшъон (to drag to behind something); къолъэшъун / къыкъолъэшъун (to drag from behind something)"
+    "to drag": "лъэшъун (to drag something); къэлъэшъун (to drag something here); къелъэшъок1ын (to drag around); ч1элъэшъон (to drag to under something); ч1элъэшъун / къыч1элъэшъун (to drag from under something); телъэшъон (to drag to above something); телъэшъун / къытелъэшъун (to drag from above something); илъэшъон (to drag to inside something); илъэшъун / къыилъэшъун (to drag from inside something); хэлъэшъон (to drag through, to drag to an area with liquid or gas, to drag to among people/objects/plants); хэлъэшъун / къыхэлъэшъун (to drag from among people/objects/trees, to drag from an area of gas or liquid); къолъэшъон (to drag to behind something); къолъэшъун / къыкъолъэшъун (to drag from behind something)"
   },
   {
     "to jump pass": "блэпк1ын; шъхьапырыпк1ын"
@@ -14449,9 +14449,6 @@
   },
   {
     "to overstate": "егъэлыен"
-  },
-  {
-    "to single": "гъэлыгъон (to single an animal)"
   },
   {
     "to spank": "1эгушъок1э еон; теуп1эп1эн"
@@ -16488,7 +16485,10 @@
     "very huge": "шъэджэшъэжъ"
   },
   {
-    "to singe": "лыгъон"
+    "to singe": "лыгъон; гъэлыгъон (to single an animal)"
+  },
+  {
+    "to single": "гъэзэкъон (to make something alone)"
   },
   {
     "to scorch": "лыгъон; гъэлыгъон"
