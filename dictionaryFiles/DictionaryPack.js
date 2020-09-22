@@ -34590,22 +34590,6 @@
     "ipa": "bzaːd͡ʒa"
   },
   {
-    "word": "ныкъол1агъэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "undead",
-        "examples": []
-      },
-      {
-        "meaning": "halfdead",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "nəqʷaɬʼaːʁa"
-  },
-  {
     "word": "чыжьэ",
     "lang": "Adyghe",
     "definitions": [
@@ -42134,11 +42118,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to put between; to put inside another object; to put in a defined area (area, yard, village)",
+        "meaning": "to put between; to put inside another object; to store inside another object; to put in a defined area (area, yard, village)",
         "examples": [
           {
             "sentence": "Къэлэмыр тхылъым '''дэлъхьан'''",
             "translation": "'''To put''' pencil '''inside''' a book"
+          },
+		  {
+            "sentence": "Джанэр дэлъхьап1эм к1алэм '''делъхьэ'''",
+            "translation": "The boy '''put''' the shirt in the closet"
+          },
+		  {
+            "sentence": "К1алэм сыхьатыр дэгъэчъым '''дилъхьагъ'''",
+            "translation": "The boy '''put''' the watch in the drawer"
           },
 		  {
             "sentence": "Л1ым лыр гъэучъы1алъэм '''делъхьэ'''",
@@ -55025,23 +55017,6 @@
     "kabardian": "гъуэмылапхъэ",
     "type": "noun",
     "ipa": "ʁʷaməlaːpχa"
-  },
-  {
-    "word": "ныкъуал1э",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "halfdead",
-        "examples": [
-          {
-            "sentence": "Саусырыкъо мэз гъунэм тыгъужъ '''ныкъуал1э''' горэ 1улъэу ылъэгъугъ",
-            "translation": "Sosruko saw a '''half dead''' wolf laying on the edge of the forest."
-          }
-        ]
-      }
-    ],
-    "type": "adj",
-    "ipa": "nəqʷaːɬʼa"
   },
   {
     "word": "языфагу",
@@ -75058,15 +75033,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to go berserk; to get out of control due to anger or excitement",
+        "meaning": "to kick all over the place, in all directions",
         "examples": [
           {
-            "sentence": "К1алэм '''зеохьыжьы'''",
-            "translation": "The boy '''is going apeshit'''."
-          },
-          {
-            "sentence": "Цум т1асхьэхэмэ '''зеохьыжьы'''",
-            "translation": "If people sit down on an ox '''it gets out of control'''."
+            "sentence": "К1алэм '''зешъутырыхьэ'''",
+            "translation": "The boy '''is kicing [all over the place]'''."
           }
         ]
       }
@@ -75079,19 +75050,67 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "closet",
+        "meaning": "car storage (trunk); closet; locker; storage; an object or place in which somethings are stored",
+        "examples": [
+		  {
+            "sentence": "Джанэр '''дэлъып1эм''' к1алэм делъхьэ",
+            "translation": "The boy put the shirt in '''the closet'''"
+          },
+		  {
+            "sentence": "Кум '''идэлъып1э''' ык1ыбык1э шхыныхэр дэлъых",
+            "translation": "The foods are in the car's '''trunk''' from the back."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "дэлъхьап1э"
+    ],
+    "type": "noun",
+    "ipa": "daɬəpʼa"
+  },
+  {
+    "word": "дэлъхьап1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "car storage (trunk); closet; locker; storage; an object or place in which stuff are stored",
+        "examples": [
+		  {
+            "sentence": "Джанэр '''дэлъхьап1эм''' к1алэм делъхьэ",
+            "translation": "The boy put the shirt in '''the closet'''"
+          },
+		  {
+            "sentence": "Кум '''идэлъхьап1э''' ык1ыбык1э шхыныхэр дэлъых",
+            "translation": "The foods are in the car's '''trunk''' from the back."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "дэлъып1э"
+    ],
+    "type": "noun",
+    "ipa": "daɬħaːpʼa"
+  },
+  {
+    "word": "илъхьап1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "storeroom; boxroom; a room used for storage",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "daɬəpʼa"
+    "ipa": "daɬħaːpʼa"
   },
   {
     "word": "гъэлак1о",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "house painter",
+        "meaning": "dyer; house painter; painter",
         "examples": [
           {
             "sentence": "'''Гъэлак1ом''' дэпкъыр егъалэ.",
@@ -75109,12 +75128,19 @@
     "definitions": [
       {
         "meaning": "grave",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Хьадэр '''къэ''' ч1алъхьагъ",
+            "translation": "They lied the corpse in '''the grave'''."
+          },
+		  {
+            "sentence": "Къэхалъэр ары '''къэхэр''' зыдэтыр",
+            "translation": "It is the graveyard that contains '''the graves'''."
+          }
+        ]
       }
     ],
-    "synonyms": [
-      "хъэ"
-    ],
+    "shapsug": "хъэ",
     "kabardian": "кхъэ",
     "type": "noun",
     "ipa": "qa"
@@ -75125,12 +75151,23 @@
     "definitions": [
       {
         "meaning": "graveyard",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Къэхалъэр''' ары къэхэр зыдэтыр",
+            "translation": "It is '''the graveyard''' that contains '''the graves'''."
+          },
+		  {
+            "sentence": "'''Къэхалъэм''' хьадэхэр ч1алъхьэжьых",
+            "translation": "They bury corpses in '''the graveyard'''."
+          },
+		  {
+            "sentence": "Мыщ ыкъынэуж '''къэхалъэм''' техыщт",
+            "translation": "After this, we will go down to '''the graveyard'''."
+          }
+        ]
       }
     ],
-    "synonyms": [
-      "хъэхалъэ"
-    ],
+    "shapsug": "хъэхалъэ",
     "type": "noun",
     "ipa": "qaxaːɬa"
   },
@@ -75140,7 +75177,12 @@
     "definitions": [
       {
         "meaning": "air force base",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Жьыдзап1эм''' дзэм икъухьэлъатыхэр дэтых",
+            "translation": "The army's airplanes are in '''the air force base'''"
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -75152,7 +75194,41 @@
     "definitions": [
       {
         "meaning": "air force",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Жьыдзэм''' дзэм икъухьэлъатыхэр егъэзек1ох",
+            "translation": "'''The air force''' manages the army's airplanes."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʑəd͡za"
+  },
+  {
+    "word": "гъэзек1он",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to manage someone or something; to administrate; to conduct (meeting, negotiations, conversation); to be in charge of (people or tasks)",
+        "examples": [
+		  {
+            "sentence": "Тхьэматэх ц1ыфыхэр '''егъэзек1ох'''",
+            "translation": "The leader '''manages''' the people."
+          },
+		  {
+            "sentence": "Хэт мы 1офыр '''зигъэзек1орэр'''?",
+            "translation": "Who '''manages''' this work?"
+          },
+		  {
+            "sentence": "Еджап1эм и1эшъхьэтет к1элэегъаджэхэр '''егъэзек1ох'''",
+            "translation": "The school's principal '''manages''' the teachers."
+          },
+		  {
+            "sentence": "Жьыдзэм дзэм икъухьэлъатыхэр '''егъэзек1ох'''",
+            "translation": "The air force '''manages''' the army's airplanes."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -75163,20 +75239,18 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "greetings",
-        "examples": []
+        "meaning": "greeting, salute; salutation",
+        "examples": [
+          {
+            "sentence": "Хьак1эм '''ш1уфэс''' рихыгъ",
+            "translation": "(S)he '''greeted''' the guest."
+          }
+        ]
       }
     ],
     "kabardian": "ф1эхъус",
     "type": "intj",
     "ipa": "ʃʷʼəfas"
-  },
-  {
-    "word": "к1эк1ьащын",
-    "lang": "Adyghe",
-    "definitions": [],
-    "type": "noun",
-    "ipa": "t͡ʃʼakʲʼaːɕən"
   },
   {
     "word": "шъхьэныкъо",
@@ -75189,6 +75263,55 @@
     ],
     "type": "adj",
     "ipa": "ʂħanəqʷa"
+  },
+  {
+    "word": "ныкъуал1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "halfdead",
+        "examples": [
+          {
+            "sentence": "Саусырыкъо мэз гъунэм тыгъужъ '''ныкъуал1э''' горэ 1улъэу ылъэгъугъ",
+            "translation": "Sosruko saw a '''halfdead''' wolf laying on the edge of the forest."
+          },
+		  {
+            "sentence": "Мэлыр тыгъужъым '''ныкъуал1эу''' ыш1ыгъ",
+            "translation": "The wolf left the sheep '''halfdead'''."
+          },
+		  {
+            "sentence": "'''Ныкъол1эу''' дзак1ор заом къыщрагъэнагъ",
+            "translation": "They left the soldier in the war '''halfdead'''."
+          }
+        ]
+      }
+    ],
+    "type": "adj",
+    "ipa": "nəqʷaːɬʼa"
+  },
+  {
+    "word": "ныкъол1агъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"ныкъуал1э\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "nəqʷaɬʼaːʁa"
+  },
+  {
+    "word": "ныкъол1ы",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"ныкъуал1э\"",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "nəqʷaɬʼə"
   },
   {
     "word": "цолъын",
@@ -75213,9 +75336,13 @@
             "sentence": "Дэшхынэр '''сэгъэунэшк1у'''",
             "translation": "'''I am chewing''' the food."
           },
+		  {
+            "sentence": "К1алэм шхыныр '''егъэунэш1у'''",
+            "translation": "The boy '''is chewing''' the food."
+          },
           {
             "sentence": "Сакъызэр дахэу '''угъэунэшк1у'''",
-            "translation": "'''Chew''' the gum with good manners."
+            "translation": "'''Chew''' the gum appropriately."
           }
         ]
       }
@@ -75233,11 +75360,24 @@
     "definitions": [
       {
         "meaning": "to inhale; to breathe",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''жьы къещы'''",
+            "translation": "The boy '''is breathing'''."
+          },
+          {
+            "sentence": "Пцэжъыер псы ч1эгъым '''жьы къыщещышъу'''",
+            "translation": "The fish '''can breathe''' under the water."
+          },
+          {
+            "sentence": "Бэрэ учъэмэ нахь псынк1эу '''жьы къэпщыщт'''",
+            "translation": "If you run a lot '''you will breathe''' faster."
+          }
+        ]
       }
     ],
     "synonyms": [
-      "фэпшэн"
+      "фэпщэн"
     ],
     "type": "verb",
     "ipa": "ʑə qaɕan"
@@ -75250,11 +75390,11 @@
         "meaning": "to happen to someone",
         "examples": [
           {
-            "sentence": "'''Къэсщыш1эгъ''' ар",
+            "sentence": "'''Къэсщыш1ыгъ''' ар",
             "translation": "That '''happened to me'''."
           },
           {
-            "sentence": "Ащтэу '''къупщыш1ынэу''' уфая?",
+            "sentence": "Ащтэу '''къыпщыш1ынэу''' уфая?",
             "translation": "Do you want that '''to happen to you'''?."
           },
           {
@@ -75262,7 +75402,7 @@
             "translation": "'''May''' that '''not happen to''' the boy."
           },
           {
-            "sentence": "К1алэр зыфэмсакъэмэ 1аегорэ '''щыш1ыщт'''",
+            "sentence": "К1алэр зыфэмысакъэмэ 1ае горэ '''щыш1ыщт'''",
             "translation": "If the boy won't be cautious something bad '''will happen to him'''."
           }
         ]
@@ -75292,7 +75432,7 @@
         "examples": [
           {
             "sentence": "Сэ псыр '''нахь къесэгъэк1ы''' Колам",
-            "translation": "'''I prefer''' water than cola."
+            "translation": "'''I prefer''' water than Cola."
           },
           {
             "sentence": "Адыгэбзэк1э тыгущы1энэ '''нахь къетэгъэк1ы'''",

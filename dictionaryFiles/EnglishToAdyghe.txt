@@ -7890,12 +7890,6 @@
     "evil": "бзаджэ"
   },
   {
-    "undead": "ныкъол1агъэ"
-  },
-  {
-    "half dead": "ныкъол1агъэ"
-  },
-  {
     "to fool": "гъэделэн; гъэпц1эн; (slightly vulgar) ышъуты лэн"
   },
   {
@@ -10440,6 +10434,12 @@
     "to manage": "гъэзек1он (to manage something or someone); лъэк1ын / фэлъэк1ын (to manage to do, to be able to do); зэпыгъэфэн (to arrange)"
   },
   {
+    "to administrate": "гъэзек1он"
+  },
+  {
+    "to conduct": "гъэзек1он"
+  },
+  {
     "relief": "нэплъэгъу"
   },
   {
@@ -11121,7 +11121,10 @@
     "foodstuffs": "гъомылапхъэ"
   },
   {
-    "halfdead": "ныкъуал1э"
+    "halfdead": "ныкъуал1э; ныкъол1ы; ныкъол1агъэ"
+  },
+  {
+    "half dead": "ныкъуал1э; ныкъол1ы; ныкъол1агъэ"
   },
   {
     "weak": "махэ; к1оч1адж (weak, infirm, feeble); ерагъ (something that needs aid/help); к1оч1энчъэ (powerless); къарыунчъэ (forceless)"
@@ -13515,10 +13518,37 @@
     "to gift": "етэн (to give presents)"
   },
   {
-    "closet": "дэлъып1э; дэлъхьап1э"
+    "closet": "дэлъхьап1э / дэлъып1э (an object or place in which stuff are stored)"
+  },
+  {
+    "locker": "дэлъхьап1э / дэлъып1э (an object or place in which stuff are stored)
+  },
+  {
+    "trunk": "дэлъхьап1э / дэлъып1э (an object or place in which stuff are stored)"
+  },
+  {
+    "car storage": "дэлъхьап1э / дэлъып1э (an object or place in which stuff are stored)"
+  },
+  {
+    "storage": "дэлъхьап1э / дэлъып1э (an object or place in which stuff are stored); илъхьап1э (storeroom)"
+  },
+  {
+    "storeroom": "илъхьап1э"
+  },
+  {
+    "store-room": "илъхьап1э"
+  },
+  {
+    "boxroom": "илъхьап1э"
+  },
+  {
+    "painter": "гъэлак1о"
   },
   {
     "house painter": "гъэлак1о"
+  },
+  {
+    "dyer": "гъэлак1о"
   },
   {
     "air force base": "жьыдзап1э"
@@ -13527,7 +13557,16 @@
     "air force": "жьыдзэ"
   },
   {
-    "greetings": "ш1уфэс"
+    "greetings": "ш1уфэс; сэлам"
+  },
+  {
+    "greeting": "ш1уфэс; сэлам"
+  },
+  {
+    "salutation": "ш1уфэс; сэлам"
+  },
+  {
+    "salute": "ш1уфэс; сэлам"
   },
   {
     "to masticate": "уцэ1ун"
@@ -13539,7 +13578,7 @@
     "to happen to": "щыш1ын"
   },
   {
-    "to prefer": "нахь къигъэк1ын; нахь къыхэхын, нахь къэштэн"
+    "to prefer": "нахь къигъэк1ын; нахь къыхэхын; нахь къэштэн"
   },
   {
     "polite": "шъхьэк1афэ; 1эдэб"
@@ -14685,7 +14724,10 @@
     "before": "ыпэу; ыпэк1э; ыпэрэ (the one before);(dialectal) ипэу; нахь ыпэу / нахьыпэу (before someone/something else); анахь ыпэу (before everyone else); нэмысэу (before it reaches a certain time); нэмысыпэу (just before it reaches a certain time)"
   },
   {
-    "after": "ыуж; ыужык1э; ыужырэ (the one after);(dialectal) иуж; ыкъынэуж / ыкъынэужк1э (after someone/something else); акъынэуж / акъынэужк1э (after everyone else); къэсыгъахэу (after it reaches a certain time)"
+    "after": "ыуж; ыужык1э; ыужырэ (the one after);(dialectal) иуж; ыкъынэуж / ыкъынэужк1э (after someone/something else); акъынэуж / акъынэужк1э (after everyone else); къэсыгъахэу (after it reaches a certain time); ыкъынэуж (afterward)"
+  },
+  {
+    "afterward": "ыкъынэуж"
   },
   {
     "coat hanger": "щыгъын пылъап1э; джэнэпылъап1"
