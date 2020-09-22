@@ -213,9 +213,6 @@
     "peace": "мамырныгъ; рэхьатыгъо (rest)"
   },
   {
-    "to burn": "стын; гъэстын; естыл1эн (to stick to the hot surface as a result of burning); тегъэстыхьан (to burn onto something); тегъэстык1ын (to burn off something); хэгъэстык1ын (to burn into something); хэстыхьан (to burn in fire)"
-  },
-  {
     "soap": "сабын"
   },
   {
@@ -7746,15 +7743,6 @@
     "to leave behind": "къы1унэн / къы1угъэнэн"
   },
   {
-    "to get on fire": "маш1о хэнэн; маш1о къык1энэн"
-  },
-  {
-    "to ignite": "маш1о хэнэн (to get on fire); маш1о хэгъэнэн; маш1о кӏэгъэнэн"
-  },
-  {
-    "to set on fire": "маш1о хэгъэнэн; маш1о кӏэгъэнэн"
-  },
-  {
     "sweat": "пк1ант1э; пк1ат1э (Shapsug)"
   },
   {
@@ -8832,10 +8820,19 @@
     "to take fright": "щынэн; щтэн"
   },
   {
-    "to scare": "гъэщынэн (to scare someone); гъэщтэн (to scare someone)"
+    "to scare": "гъэщынэн (to scare someone); гъэщтэн (to scare someone); (vulgar)  ч1эгъэц1эн (to scare the shit out of)"
   },
   {
     "to get scared": "щынэн (to be scared); щтэн (to be scared); щыщынэн (to be scared of); щыщтэн (to be scared of)"
+  },
+  {
+    "to coat": "ин (to cover with a coating of some material; to daub; to stucco; to plaster); к1эен (to coat under)"
+  },
+  {
+    "to stucco": "ин (to coat or decorate with stucco); к1эен (to stucco under)"
+  },
+  {
+    "to plaster": "ин (to cover or coat something with plaster); к1эен (to plaster under)"
   },
   {
     "herald": "гъоу"
@@ -9852,7 +9849,7 @@
     "to be in a hurry": "гузэжъон; тхъытхъын"
   },
   {
-    "to hurry": "гузэжъон (to be in a hurry); тхъытхъын (to be in a hurry); гъэпсынк1эн (to hasten); гъэгузэжъон (to make someone hurry); хъыжъэн"
+    "to hurry": "гузэжъон (to be in a hurry); тхъытхъын (to be in a hurry); гъэпсынк1эн (to hasten); гъэгузэжъон (to make someone hurry); хъыжъэн (to be in a hurry)"
   },
   {
     "to be anxious": "гумэк1ын; гузэжъон; гу къеон"
@@ -13482,7 +13479,40 @@
     "clothes hanger": "джэнэпылъап1"
   },
   {
-    "hanger": "пылъап1; щыгъын пылъап1; пылъалъэ"
+    "hanger": "пылъап1э; щыгъын пылъап1э; пылъалъэ"
+  },
+  {
+    "to give presents": "етэн"
+  },
+  {
+    "to get agitated": "зэк1эплъыхьан; етэн"
+  },
+  {
+    "to burn": "стын (to be burning); гъэстын (to burn something); естыл1эн (to stick to the hot surface as a result of burning); тегъэстыхьан (to burn onto something); тегъэстык1ын (to burn off something); хэгъэстык1ын (to burn into something); хэстыхьан (to burn in fire); маш1о хэнэн / маш1о к1энэн (to catch fire; to combust; to get ignited; to begin to burn; to inflame; to go up in flames); маш1о хэгъэнэн / маш1о кӏэгъэнэн (to ignite, to cause to begin to burn, to set on fire); зэхэнэн / зэк1энэн (to catch fire by itself)"
+  },
+  {
+    "to ignite": "маш1о хэнэн / маш1о к1энэн (to get ignited); маш1о хэгъэнэн / маш1о кӏэгъэнэн (to ignite, to cause to begin to burn)"
+  },
+  {
+    "to set on fire": "маш1о хэгъэнэн / маш1о кӏэгъэнэн (to ignite, to cause to begin to burn)"
+  },
+  {
+    "to catch fire": "маш1о хэнэн / маш1о к1энэн; зэхэнэн / зэк1энэн (to catch fire by itself); зэхэнэн / зэк1энэн (to catch fire by itself)"
+  },
+  {
+    "to combust": "зэхэнэн / зэк1энэн (to catch fire by itself)"
+  },
+  {
+    "to inflame": "маш1о хэгъэнэн / маш1о кӏэгъэнэн (to cause to begin to burn)"
+  },
+  {
+    "to kindle": "маш1о хэгъэнэн / маш1о кӏэгъэнэн (to kindle, to start fire); зэхэнэн / зэк1энэн (to catch fire by itself)"
+  },
+  {
+    "to go up in flames": "маш1о хэнэн / маш1о к1энэн (to catch fire; to combust; to get ignited; to begin to burn; to inflame; to go up in flames)"
+  },
+  {
+    "to gift": "етэн (to give presents)"
   },
   {
     "closet": "дэлъып1э; дэлъхьап1э"
@@ -14661,6 +14691,9 @@
     "coat hanger": "щыгъын пылъап1э; джэнэпылъап1"
   },
   {
+    "peg": "пылъап1э (device used to hang up coats, shirts, etc)"
+  },
+  {
     "swimming pool": "есып1э"
   },
   {
@@ -14698,9 +14731,6 @@
   },
   {
     "to guard someone": "къэгъэгъунэн"
-  },
-  {
-    "to daub all over": "к1эен"
   },
   {
     "final": "аужырэ; аужыпкъэрэ"
@@ -17715,7 +17745,7 @@
     "to smear": "щыфэн; тец1элэн; тефэхьан"
   },
   {
-    "to daub": "щыфэн; тец1элэн; тефэхьан"
+    "to daub": "щыфэн; тец1элэн; тефэхьан; ин (to coat (with clay or cement); to daub; to stucco; to plaster); к1эен (to coat under)"
   },
   {
     "headboard": "п1эшъхьагъ"

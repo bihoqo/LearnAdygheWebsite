@@ -12239,18 +12239,6 @@
     "ipa": "wastəʁaʂħatajt"
   },
   {
-    "word": "к1эгъэнэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to ignite; to set on fire",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "t͡ʃʼaʁanan"
-  },
-  {
     "word": "къэушыхьатын",
     "lang": "Adyghe",
     "definitions": [
@@ -34236,39 +34224,231 @@
       {
         "meaning": "to become stuck within an area with gas, liquid or solid (unable to progress)",
         "examples": []
+      },
+      {
+        "meaning": "to get ignited; alternative form of \"маш1о хэнэн\"",
+        "examples": []
       }
     ],
     "type": "verb",
     "ipa": "xanan"
   },
   {
+    "word": "к1энэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to get ignited; alternative form of \"маш1о к1энэн\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "t͡ʃʼanan"
+  },
+  {
     "word": "маш1о хэнэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to ignite, to get on fire",
+        "meaning": "to catch fire; to combust; to get ignited; to begin to burn; to inflame; to go up in flames",
         "examples": [
           {
             "sentence": "'''маш1о хэнагъ'''",
-            "translation": "'''It got on fire'''."
+            "translation": "'''It cought fire'''."
           },
           {
             "sentence": "чъыгым '''маш1о хэнагъ'''",
-            "translation": "the tree '''got on fire'''."
+            "translation": "the tree '''cought fire'''."
           },
           {
-            "sentence": "газ пхъэхэмэ ахэпк1эмэ '''маш1о хэнэт'''",
-            "translation": "If you spell gas on the woods '''they will get on fire'''."
+            "sentence": "газ пхъэхэмэ ахэпк1эмэ '''маш1о ахэнэщт'''",
+            "translation": "If you spill gas on the woods '''they will be set on fire'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "маш1о к1энэн"
+    ],
+    "type": "verb",
+    "ipa": "maːʂʷʼa xanan"
+  },
+  {
+    "word": "маш1о к1энэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to catch fire; to combust; to get ignited; to begin to burn; to inflame; to go up in flames",
+        "examples": [
+          {
+            "sentence": "'''маш1о к1энагъ'''",
+            "translation": "'''It cought fire'''."
           },
           {
-            "sentence": "'''маш1о хэгъан!'''",
-            "translation": "'''sit it on fire'''."
+            "sentence": "чъыгым '''маш1о к1энагъ'''",
+            "translation": "the tree '''cought fire'''."
+          },
+          {
+            "sentence": "газ пхъэхэмэ ахэпк1эмэ '''маш1о ак1энэщт'''",
+            "translation": "If you spill gas on the woods '''they will be set on fire'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "маш1о хэнэн"
+    ],
+    "type": "verb",
+    "ipa": "maːʂʷʼa xanan"
+  },
+  {
+    "word": "маш1о хэгъэнэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to set on fire; to ignite; to cause to begin to burn; to inflame something; to kindle; to start fire",
+        "examples": [
+          {
+            "sentence": "'''Маш1о хэгъан'''",
+            "translation": "'''Kindle fire'''."
+          },
+		  {
+            "sentence": "Л1ым чъыгым '''маш1о хигъэнагъ'''",
+            "translation": "The man '''set''' the tree '''on fire'''."
+          },
+          {
+            "sentence": "Хэт '''маш1ор зыхигъэнагъэр'''?",
+            "translation": "Who '''kindled''' the fire?"
+          },
+          {
+            "sentence": "Л1ым газк1э пхъэм '''маш1о хегъанэ'''",
+            "translation": "The man '''sets''' the wood '''on fire''' with gas."
+          },
+          {
+            "sentence": "Пчык1э пхъэ-унэм къызеом, унэм '''маш1о хигъэнагъ'''",
+            "translation": "When lightning stroke the wooden-house, it '''set''' the house '''on fire'''."
+          },
+		  {
+            "sentence": "Л1ым пхъэхэр '''зэхигъэнагъэх''' газк1э",
+            "translation": "The man '''ignited''' the woods with gas."
+          },
+		  {
+            "sentence": "Пчык1э чъыгым къеуи '''зэхигъэнагъ'''",
+            "translation": "Lightning stroke the tree and '''set it on fire'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "маш1о к1эгъэнэн"
+    ],
+    "type": "verb",
+    "ipa": "maːʂʷʼa xaʁanan"
+  },
+  {
+    "word": "маш1о к1эгъэнэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to set on fire; to ignite; to cause to begin to burn; to inflame something; to kindle; to start fire",
+        "examples": [
+          {
+            "sentence": "'''Маш1о к1эгъан'''",
+            "translation": "'''Kindle fire'''."
+          },
+		  {
+            "sentence": "Л1ым чъыгым '''маш1о к1игъэнагъ'''",
+            "translation": "The man '''set''' the tree '''on fire'''."
+          },
+          {
+            "sentence": "Хэт '''маш1ор зык1игъэнагъэр'''?",
+            "translation": "Who '''kindled''' the fire?"
+          },
+          {
+            "sentence": "Л1ым газк1э пхъэм '''маш1о к1егъанэ'''",
+            "translation": "The man '''sets''' the wood '''on fire''' with gas."
+          },
+          {
+            "sentence": "Пчык1э пхъэ-унэм къызеом, унэм '''маш1о к1игъэнагъ'''",
+            "translation": "When lightning stroke the wooden-house, it '''set''' the house '''on fire'''."
+          },
+		  {
+            "sentence": "Л1ым пхъэхэр '''зэк1игъэнагъэх''' газк1э",
+            "translation": "The man '''ignited''' the woods with gas."
+          },
+		  {
+            "sentence": "Пчык1э чъыгым къеуи '''зэк1игъэнагъ'''",
+            "translation": "Lightning stroke the tree and '''set it on fire'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "маш1о хэгъэнэн"
+    ],
+    "type": "verb",
+    "ipa": "maːʂʷʼa t͡ʃʼaʁanan"
+  },
+  {
+    "word": "к1эгъэнэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"маш1о к1эгъэнэн\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃʼaʁanan"
+  },
+  {
+    "word": "хэгъэнэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"маш1о хэгъэнэн\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "xaʁanan"
+  },
+  {
+    "word": "зэк1энэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to catch fire (by itself); to combust; to kindle",
+        "examples": [
+          {
+            "sentence": "Унэр '''зэк1энагъ'''",
+            "translation": "The house '''caught fire'''."
+          },
+		  {
+            "sentence": "Пчык1э чъыгым къеуагъэшъ чъыгыр '''зэк1энагъ'''",
+            "translation": "Because lightning stroke the tree, the tree '''combusted'''."
+          },
+		  {
+            "sentence": "Маш1ор '''зэк1энагъ'''",
+            "translation": "The fire '''kindled'''."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "maːʂʷa xanan"
+    "ipa": "zat͡ʃʼanan"
+  },
+  {
+    "word": "зэхэнэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"зэк1энэн\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaxanan"
   },
   {
     "word": "пынэн",
@@ -74548,7 +74728,7 @@
     "ipa": "ɬət͡ʂan"
   },
   {
-    "word": "лъэгъуен",
+    "word": "лъэгъуин",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -74567,33 +74747,6 @@
     ],
     "type": "verb",
     "ipa": "ɬaʁʷəjan"
-  },
-  {
-    "word": "мэгъуен",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"гъуен\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "ʁʷəjan"
-  },
-  {
-    "word": "зэгок1ьын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"зэгок1ын\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "зэгок1ын"
-    ],
-    "type": "verb",
-    "ipa": "zaɡʷatkʲʼən"
   },
   {
     "word": "хъыжъэн",
@@ -74622,35 +74775,11 @@
     "ipa": "χəʐan"
   },
   {
-    "word": "мэс1ын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"с1ын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "sʼən"
-  },
-  {
-    "word": "къэс1ын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"с1ын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "sʼən"
-  },
-  {
     "word": "ц1ын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(vulgar) to take a shit,",
+        "meaning": "(vulgar) to take a shit; to shit; to crap",
         "examples": [
           {
             "sentence": "К1алэр '''мэц1ы'''",
@@ -74660,38 +74789,12 @@
             "sentence": "'''Укъэмыц1'''",
             "translation": "'''Don't shit'''."
           }
-        ],
-        "tags": [
-          "vulgar"
         ]
       }
     ],
+    "shapsug": "с1ын",
     "type": "verb",
     "ipa": "t͡sʼən"
-  },
-  {
-    "word": "с1ын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"ц1ын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "sʼən"
-  },
-  {
-    "word": "мэц1ын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"ц1ын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "mat͡sʼən"
   },
   {
     "word": "къэц1ын",
@@ -74706,18 +74809,6 @@
     "ipa": "t͡sʼən"
   },
   {
-    "word": "ч1эс1эн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"ч1эц1эн\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "t͡ʃʼasʼan"
-  },
-  {
     "word": "ч1эц1эн",
     "lang": "Adyghe",
     "definitions": [
@@ -74728,9 +74819,6 @@
             "sentence": "Хьэр унэ ч1эгъым '''ч1эц1агъ'''",
             "translation": "The dog '''took a shit under''' the house."
           }
-        ],
-        "tags": [
-          "vulgar"
         ]
       },
       {
@@ -74744,13 +74832,10 @@
             "sentence": "К1алэр чъыгым къепк1эщтыгъ, ау '''къыч1эц1агъ'''",
             "translation": "The boy was going to jump off the tree, but he '''chicken out'''."
           }
-        ],
-        "tags": [
-          "vulgar",
-          "slang"
         ]
       }
     ],
+    "shapsug": "ч1эс1эн",
     "type": "verb",
     "ipa": "t͡ʂʼat͡sʼan"
   },
@@ -74762,29 +74847,15 @@
         "meaning": "(vulgar) to scare the shit out of, to make someone feel very frightened",
         "examples": [
           {
-            "sentence": "Фылым уигъэшынэным к1алэр '''къыч1игъэц1агъ'''",
+            "sentence": "Фылым угъэшынэным к1алэр '''къыч1игъэц1агъ'''",
             "translation": "The harrow movie '''scared the shit out of''' the boy."
           }
-        ],
-        "tags": [
-          "vulgar"
         ]
       }
     ],
+    "shapsug": "ч1эгъэс1эн",
     "type": "verb",
     "ipa": "t͡ʂʼat͡sʼan"
-  },
-  {
-    "word": "ч1эгъэс1эн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"ч1эгъэц1эн\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "t͡ʃʼaʁasʼan"
   },
   {
     "word": "гъэ1орыш1эн",
@@ -74804,20 +74875,54 @@
     "ipa": "ʁaʔʷarʃʼan"
   },
   {
-    "word": "иен",
+    "word": "ин",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"к1эен\"",
-        "examples": []
+        "meaning": "to coat; to cover with a coating of some material; to daub; to stucco; to plaster",
+        "examples": [
+          {
+            "sentence": "Лэжьак1охэмэ дэпкъыхэр '''аижьых'''",
+            "translation": "The workers '''are coating''' the walls."
+          },
+		  {
+            "sentence": "Л1ым дэпкъыр '''еи'''",
+            "translation": "The man '''coats''' the wall."
+          },
+		  {
+            "sentence": "Дэпкъыр '''сыигъ'''",
+            "translation": "'''I coated''' the wall."
+          },
+		  {
+            "sentence": "Зэманым дэпкъыхэр псынжъык1э '''аищтыгъэх'''",
+            "translation": "In the past, they used to '''coat''' walls with mud."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "jən"
+  },
+  
+  {
+    "word": "к1эен",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to coat under something; to daub under something; to stucco under something; to plaster under something",
+        "examples": [
+          {
+            "sentence": "Л1ым к1ашъор к1эи",
+            "translation": "The man '''is coating''' the ceiling."
+          }
+        ]
       }
     ],
     "synonyms": [
-      "к1эен",
-      "----"
+      "ин"
     ],
     "type": "verb",
-    "ipa": "jajən"
+    "ipa": "t͡ʃʼajan"
   },
   {
     "word": "тыны",
@@ -74825,7 +74930,12 @@
     "definitions": [
       {
         "meaning": "present, gift",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''тыны''' пшъашъэм феш1ы",
+            "translation": "The boy is preparing '''a gift''' for the girl."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -74840,19 +74950,33 @@
     "definitions": [
       {
         "meaning": "coat hanger, clothes hanger",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Джанэр '''джэнэпылъап1ым''' пылъ",
+            "translation": "The shirt hangs on '''the coat hanger'''."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "d͡ʒanapəɬaːpʼ"
   },
   {
-    "word": "пылъап1",
+    "word": "пылъап1э",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "hanger",
-        "examples": []
+        "meaning": "hanger; coat hanger, peg (device used to hang up coats, shirts, etc)",
+        "examples": [
+          {
+            "sentence": "Щыгъынхэр '''пылъап1эм''' пылъых",
+            "translation": "The clothes are hanged on '''the hanger'''."
+          },
+		  {
+            "sentence": "Сиджанэр '''пылъап1эм''' къыпых",
+            "translation": "Unhang my shirt from '''the hanger'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -74862,7 +74986,75 @@
     "ipa": "pəɬaːpʼ"
   },
   {
-    "word": "зыохьын",
+    "word": "етэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to give presents; to gift",
+        "examples": [
+          {
+            "sentence": "К1алэр хьак1эм '''етэ'''",
+            "translation": "The boy '''gives present''' to the guest."
+          }
+        ]
+      },
+	  {
+        "meaning": "to get agitated",
+        "examples": [
+          {
+            "sentence": "Цур '''мэятэ'''",
+            "translation": "The ox '''is getting agitated'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zəwaħən"
+  },
+  {
+    "word": "зыухьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"зыохьан\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "zəwaħən"
+  },
+  {
+    "word": "зыохьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to strike all over the place, in all directions",
+        "examples": [
+          {
+            "sentence": "К1алэм к1эрахъок1э '''зеохьэ'''",
+            "translation": "The boy '''is shooting [all over the place]'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "to go berserk; to get out of control due to anger or excitement",
+        "examples": [
+          {
+            "sentence": "К1алэм '''зеохьыжьы'''",
+            "translation": "The boy '''is going berserk'''."
+          },
+          {
+            "sentence": "Цум утет1ысхьэмэ '''зеохьыжьы'''",
+            "translation": "If you sit on an ox '''it will go berserk'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zəwaħən"
+  },
+  {
+    "word": "зышъутырыхьан",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -85055,45 +85247,6 @@
     ],
     "type": "verb",
     "ipa": "naʔa taʁatən"
-  },
-  {
-    "word": "к1эен",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to smear",
-        "examples": [
-          {
-            "sentence": "кIашъор кIэен",
-            "translation": "smear the ceiling"
-          }
-        ]
-      },
-      {
-        "meaning": "to daub all over",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "еин"
-    ],
-    "type": "verb",
-    "ipa": "t͡ʃʼajan"
-  },
-  {
-    "word": "еин",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"к1эен\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "к1эен"
-    ],
-    "type": "verb",
-    "ipa": "jajən"
   },
   {
     "word": "1опщын",
