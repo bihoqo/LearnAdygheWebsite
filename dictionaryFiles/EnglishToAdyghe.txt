@@ -2109,6 +2109,9 @@
     "to hold": "1ыгъэн"
   },
   {
+    "to keep": "1ыгъэн"
+  },
+  {
     "to lead": "щэн (to lead/take someone to); пэщэн (to lead as a leader); тещэн (to take/lead someone to above something); хэщэн (to take/lead someone to among other people or objects); хэщэн (to take/lead someone to an area liquid, gas, plants or trees); дэщэн (to take/lead someone to a yard); ищэн (to take/lead someone to inside something); дэщэен (to lead/take someone up); ещэхын (to lead/take someone down); къещэк1ын (to take/lead someone around)"
   },
   {
@@ -7521,7 +7524,7 @@
     "intelligible": "гуры1огъош1у"
   },
   {
-    "apparent": "нэрылъэгъу"
+    "apparent": "къыхэщы; нэрылъэгъу"
   },
   {
     "seemingly": "зэрэкъэлъагъорэмк1э; итеплъэк1э; инахэк1э"
@@ -12108,16 +12111,19 @@
     "to drag out": "хэлъэшъун"
   },
   {
-    "to stand out": "къыхэщын (to stand out from among other people or objects)"
+    "to stand out": "къыхэщын (to stand out from among other people or objects); къыхэгъэщын (to make something stand out)"
   },
   {
-    "to stick out": "къыхэщын (to stick out from among); къищын (to stick out from inside something); къыч1эщын (to stick out from under something); къытещын (to stick out from above something); къыпыщын (to stick out from a tree); къыкъощын (to stick out from behind something)"
+    "to stick out": "къыхэщын (to stick out from among); къищын (to stick out from inside something); къыч1эщын (to stick out from under something); къытещын (to stick out from above something); къыпыщын (to stick out from a tree); къыкъощын (to stick out from behind something); къыхэгъэщын (to make something stick out)"
   },
   {
-    "to be prominent": "къыхэщын"
+    "to be apparent": "къыхэщын; къыхэгъэщын (to make something apparent)"
   },
   {
-    "to be noticeable": "къыхэщын"
+    "to be prominent": "къыхэщын; къыхэгъэщын (to make something prominent)"
+  },
+  {
+    "to be noticeable": "къыхэщын; къыхэгъэщын (to make something noticeable)"
   },
   {
     "noticeable": "къыхэщы"
@@ -13947,6 +13953,9 @@
     "to expose": "къык1эгъэщын (to expose something, to make it seeable); к1э1отык1ыжьын (to expose or rat out someone); егъэун (to direct toward something that emits heat); зегъэун (to direct oneself toward something that emits heat)"
   },
   {
+    "to highlight": "къыхэгъэщын"
+  },
+  {
     "to find out": "къык1эгъэщын"
   },
   {
@@ -15546,7 +15555,7 @@
     "to get out of the habit": "хэнэжьын; к1энэжьын; щыун; щысэхъук1ын"
   },
   {
-    "to quit": "хэнэжьын / к1энэжьын / щыун (to quit doing something, to get out of the habit of); 1ук1ыжьын (to quit job); уцужьын (to stop doing something); умыш1ыжьын (to not do something any longer)"
+    "to quit": "хэнэжьын / к1энэжьын / щыун (to quit doing something, to get out of the habit of); хэгъэнэжьын / к1эгъэнэжьын (to make someone quit something); 1ук1ыжьын (to quit job); уцужьын (to stop doing something); умыш1эжьын (to not do something any longer)"
   },
   {
     "to divorce": "щынэжьын (to divorce from, to abandon); пык1ыжьын (to divorce from, to break up with); зэпык1ыжьын (to divorce from each other, to break up from each other)"

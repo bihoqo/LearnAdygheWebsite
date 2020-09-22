@@ -34175,6 +34175,27 @@
     "ipa": "qəʔʷənan"
   },
   {
+    "word": "к1эгъэналъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "lighter",
+        "examples": [
+          {
+            "sentence": "'''К1эгъэналъэк1э''' тутыным маш1о пыгъэнэн",
+            "translation": "To lit the cigarette '''with a lighter'''."
+          },
+		  {
+            "sentence": "'''К1эгъэналъэ''' шъу1ыгъа?",
+            "translation": "Do you have '''a lighter'''?"
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃʼaʁanaːɬa"
+  },
+  {
     "word": "къы1угъэнэн",
     "lang": "Adyghe",
     "definitions": [
@@ -35219,15 +35240,31 @@
     "ipa": "d͡ʒaːbʁʷa"
   },
   {
+    "word": "1ыгъын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"1ыгъэн\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʔəʁan"
+  },
+  {
     "word": "1ыгъэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to hold",
+        "meaning": "to hold; to keep",
         "examples": [
           {
             "sentence": "1унк1ыбзэр '''у1ыгъа'''?",
             "translation": "'''Do you hold''' the key?"
+          },
+		  {
+            "sentence": "К1эгъэналъэ '''шъу1ыгъа'''?",
+            "translation": "'''Do you have''' a lighter?"
           },
           {
             "sentence": "К1элэц1ык1у '''сы1ыгъ'''",
@@ -63399,9 +63436,17 @@
         ]
       },
 	  {
-        "meaning": "to stand out; to stick out; to be noticeable; to be prominent",
+        "meaning": "to be apparent; to stand out; to stick out; to be noticeable; to be prominent",
         "examples": [
           {
+            "sentence": "Ц1ыфыхэмэ '''уакъыхэщы'''",
+            "translation": "'''You stand out among''' the people."
+          },
+		  {
+            "sentence": "Топ плъыжьыр фыжьыхэмэ '''къахэщы'''",
+            "translation": "The red ball '''stands out among''' the white ones."
+          },
+		  {
             "sentence": "Ц1ыфымэ к1алэ шъхьэц гъожьы зи1эр '''къахэщы'''",
             "translation": "The boy with the blond hair '''is noticeable''' among the people."
           },
@@ -75624,7 +75669,7 @@
           },
           {
             "sentence": "А шэн 1аер к1алэм '''хезгъэнэжьыщт'''",
-            "translation": "'''I will make''' that boy '''quit''' that bad behaving."
+            "translation": "'''I will make''' that boy '''quit''' that bad behavior."
           }
         ]
       }
@@ -75633,25 +75678,66 @@
     "ipa": "xaʁanaʑən"
   },
   {
-    "word": "хэгъэщын",
+    "word": "къыхэгъэщын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to make or find a partner for a romantic relationship.",
+        "meaning": "to make or find a partner for a romantic relationship",
         "examples": [
           {
-            "sentence": "Пшъашъэгорэ '''къыхэпхэщын''' фай",
+            "sentence": "Пшъашъэ горэ '''къыхэпгъэщын''' фай",
             "translation": "'''You''' need '''to find''' a girlfriend."
           },
           {
-            "sentence": "Гъусэ к1алэ дэхьэ '''къыхэпхэщыгъэба'''?",
+            "sentence": "Гъусэк1алэ джыри '''къыхэпхэщыгъэба'''?",
             "translation": "'''Have you''' still '''not made''' a boyfriend?"
+          }
+        ]
+      },
+	  {
+        "meaning": "to make something stand out; to make somethig noticable; to make something stick out; to make something apparent",
+        "examples": [
+          {
+            "sentence": "К1алэр зегупшысэрэр '''къыхигъэщырэп'''",
+            "translation": "The boy '''is not showing''' what he is thinking."
+          },
+          {
+            "sentence": "К1алэр зэрэтхьамык1ыр ишэнк1э '''къыхэщы'''",
+            "translation": "'''It is apparent''' that the boy is poor by his behavior."
+          },
+          {
+            "sentence": "Уиджэнэ плъыжь ц1ыфыхэмэ '''уакъыхегъэщы'''",
+            "translation": "Your red shirt '''makes you stand out''' among the people."
           }
         ]
       }
     ],
     "type": "verb",
+    "ipa": "qəxaʁaɕən"
+  },
+  {
+    "word": "хэгъэщын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"къыхэгъэщын\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
     "ipa": "xaʁaɕən"
+  },
+  {
+    "word": "к1эгъэщын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"къык1эгъэщын\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "t͡ʃʼaʁaɕən"
   },
   {
     "word": "нэпэшъоон",
