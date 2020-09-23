@@ -2088,28 +2088,28 @@
     "to take": "щэн (to take/lead someone to somewhere); хьын (to take/carry something to somewhere); штэн / къэштэн (to grab something to take); ш1охьын (to take something from someone against his interest or will); 1ыхын / къы1эхын (to take something from someone by hand); техын / къытехын (to take off something from above something); ч1эхын / къыч1эхын (to take something from under something); дэхын / къыдэхын (to take something from inside another object); ихын / къыихын (to take something from inside something); пыхын / къыпыхын (to take down from a hanging position, to unhang); хэхын / къыхэхын (to take something from through something or from an area with gas or liquid); къохын / къыкъохын (to take something from behind something); гохын / къыгохын / бгъодэхын / къыбгъодэхын (to take something from besides something); к1оц1ыхын / къык1оц1ыхын (to take something from inside something's body); тещэн (to take/lead someone to above something); хэщэн (to take/lead someone to among other people or objects); хэщэн (to take/lead someone to an area liquid, gas, plants or trees); дэщэн (to take/lead someone to a yard); ищэн (to take/lead someone to inside something); къощэн (to take/lead someone to behind something); пыхын (to take something like knowledge, behavior from someone); дэщэен (to lead/take someone up); ещэхын (to lead/take someone down); къещэк1ын (to take/lead someone around)"
   },
   {
-    "to grasp": "убытын; зы1эк1эубытэн"
+    "to grasp": "къэубытын (to take hold, to grib, to grasp, to catch and hold, to grab by catching); зы1эк1эубытэн"
   },
   {
-    "to grip": "убытын; зы1эк1эубытэн; пытэу 1ыгъэн (to grip tightly)"
+    "to take hold": "къэубытын (to take hold, to grib, to grasp, to catch and hold, to grab by catching); зы1эк1эубытэн"
   },
   {
-    "to grab": "убытын / къэубытын; зы1эк1эубытэн"
+    "to grip": "къэубытын (to take hold, to grib, to grasp, to catch and hold), to grab by catching; зы1эк1эубытэн; пытэу 1ыгъэн (to grip tightly)"
   },
   {
-    "to seize": "ш1оубытын (to seize from someone); къытехын (to seize ball, base, land, place); 1ыхын / къы1ыхын (to seize an item/object from someone);"
+    "to grab": "штэн / къэштэн (to take and grab from something); къэубытын (to take hold, to grib, to grasp, to catch and hold, to grab by catching); зы1эк1эубытэн"
   },
   {
-    "to snatch": "пхъотэн; къыш1опхъотэн (to snatch from someone)"
-  },
-  {
-    "to catch hold of": "щэн"
-  },
-  {
-    "to hold": "1ыгъэн"
+    "to hold": "1ыгъэн; къэубытын (to take hold, to grib, to grasp, to catch and hold, to grab by catching)
   },
   {
     "to keep": "1ыгъэн"
+  },
+  {
+    "to seize": "къытехын (to capture from, to overtake from, to seize from, to deliberately take from); 1ыхын / къы1ыхын (to seize an item/object from someone); ш1оубытын (to seize something against the other's will or interest); къы1эпхъотэн / къыш1опхъотэн (to snatch from someone, to attempt to seize something from someone suddenly)"
+  },
+  {
+    "to snatch": "пхъотэн; къы1эпхъотэн (to snatch from someone); къыш1опхъотэн (to snatch from someone)"
   },
   {
     "to lead": "щэн (to lead/take someone to); пэщэн (to lead as a leader); тещэн (to take/lead someone to above something); хэщэн (to take/lead someone to among other people or objects); хэщэн (to take/lead someone to an area liquid, gas, plants or trees); дэщэн (to take/lead someone to a yard); ищэн (to take/lead someone to inside something); дэщэен (to lead/take someone up); ещэхын (to lead/take someone down); къещэк1ын (to take/lead someone around)"
@@ -2961,10 +2961,10 @@
     "prairie": "бгъодж"
   },
   {
-    "work": "1офы (work, job); лъэжьап1э (workplace, worksite); 1офш1эн (work to do, tasks)"
+    "work": "1офы (work, job); лъэжьап1э (workplace, worksite); пшъэрылъ (task); 1офш1эн (work to do, tasks); хъызмэт (chores, housework)"
   },
   {
-    "to work": "1офы ш1эн (to do work); лъэжьэн (to work); пылэжьэхьан (to work on something)"
+    "to work": "1оф ш1эн (to do work); лъэжьэн (to work); пылэжьэхьан (to work on something)"
   },
   {
     "to work on": "пылэжьэхьан"
@@ -3199,9 +3199,6 @@
   },
   {
     "deserted": "нэк1ы; унэк1ыгъэ"
-  },
-  {
-    "to leave": "бгынэн (to abandon/desert); ик1ын (to go out); ик1ыжьын (to leave the house/family); пык1ыжьын (to divorce); хэк1ын (to leave a company or group); къинэн (to leave something behind); тегъэнэн / къытегъэнэн (to leave something above something); ч1эгъэнэн / къыч1эгъэнэн (to leave something under something); хэгъэнэн / къыхэгъэнэн (to leave something in an area with liquid or gas, to leave something in the forest); дэгъэнэн / къыдэгъэнэн (to leave something in); игъэнэн / къигъэнэн (to leave something inside); 1угъэнэн / къы1угъэнэн (to leave something near)"
   },
   {
     "to desert": "бгынэн"
@@ -4014,7 +4011,7 @@
     "to hold with strength": "пытэу убытын; пытэу 1ыгъэх"
   },
   {
-    "to capture": "убытын; ш1оубытын (to capture from); къытехын (to capture from)"
+    "to capture": "къэубытын; ш1оубытын (to capture something against the other's will or interest); къытехын (to capture from, to overtake from, to seize from, to deliberately take from)"
   },
   {
     "quiet": "шъэфы"
@@ -4608,13 +4605,19 @@
     "to be dizzy": "унэзэн; (Shapsug) прэзэн"
   },
   {
+    "to operate": "1оф ш1эн / лэжьэн (to perform a work or labor); зек1он (to act)"
+  },
+  {
+    "to enslave": "пщыл1ы ш1ын; гъэпщылIын"
+  },
+  {
     "to drink": "ешъон; хэшъон (to drink from a container directly or from a sea/river); ишъун (to drink up liquid from something); ишъук1ын (to completely drink up liquid from something); ешъук1ын (to be saturated after drinking)"
   },
   {
     "to gulp down": "псы ек1эхын (ащ псы рек1эхы - (s)he gulps down water)"
   },
   {
-    "to pick up": "штэн / къэштэн (to take, to lift, to hold and pick up); къэ1этын (to lift and raise up); техын (to pick up from above); щыпын / къэщыпын (to pick up stuff/people usaully from the ground); тещыпык1ын (to pick up stuff from)"
+    "to pick up": "штэн / къэштэн (to take, to lift, to hold and pick up); къэ1этын (to lift and raise up); техын (to pick up from above); щыпын / къэщыпын (to pick up stuff/people usaully from the ground); тещыпык1ын (to pick up stuff from); пхъотэн (to pick up suddenly, to snatch)"
   },
   {
     "to lift": "къэ1этын; къэштэн (to pick up); къэгъэтэджын (to stand up something); те1этык1ын (to lift from above something)"
@@ -5097,7 +5100,7 @@
     "cattle theft": "былымтыгъу"
   },
   {
-    "to steal": "тыгъун; тыгъон (to steal something); ш1отыгъон (to steal from)"
+    "to steal": "тыгъун; тыгъон (to steal something); ш1отыгъон (to steal from); къы1эпхъотэн / къыш1опхъотэн (to snatch from someone)"
   },
   {
     "pestilence": "емынэ; былымыл1э (for animals)"
@@ -7743,10 +7746,10 @@
     "to stay": "къы1унэн (to stay behind); исын; илъын (to stay overnight)"
   },
   {
-    "to remain": "къы1унэн (to remain behind); къинэн (to remian inside); къэнэн (leftover); гъэкъэнэн (to leave remaining)"
+    "to remain": "къы1унэн (to remain behind); къинэн (to remian inside); къэнэн (leftover); гъэкъэнэн (to leave remaining, to leave leftovers); къэгъэнэжьын (to remain leftovers)"
   },
   {
-    "to leave": "къы1унэн (to remain behind); къинэн (to remian inside); къигъэнэн (to leave something behind); гъэкъэнэн (to leave remainings)"
+    "to leave": " гъэкъэнэн (to leave remainings); къэгъэнэжьын (to remain leftovers); бгынэн (to abandon/desert); ик1ын (to go out); ик1ыжьын (to leave the house/family); пык1ыжьын (to divorce); хэк1ын (to leave a company or group); къинэн (to leave something behind); тегъэнэн / къытегъэнэн (to leave something above something); ч1эгъэнэн / къыч1эгъэнэн (to leave something under something); хэгъэнэн / къыхэгъэнэн (to leave something in an area with liquid or gas, to leave something in the forest); дэгъэнэн / къыдэгъэнэн (to leave something in); 1угъэнэн / къы1угъэнэн (to leave something near); къы1унэн (to leave behind)"
   },
   {
     "to stay behind": "къы1унэн"
@@ -9705,7 +9708,7 @@
     "to choke down": "дырын"
   },
   {
-    "to overtake": "течъын; к1эхьан; ыпэ ишъын"
+    "to overtake": "ш1оубытын (to overtake something against the other's will or interest); къытехын (to capture from, to overtake from, to seize from, to deliberately take from); к1эхьан / течъын / ыпэ ишъын (to outrun, to pass a more slowly moving object or entity)"
   },
   {
     "to sidestep": "зыщыгъэзыен; зыщыдзыен"
@@ -9717,7 +9720,7 @@
     "to make way": "зыщыгъэзыен; зыщыдзыен"
   },
   {
-    "to catch up": "пхъотэн (to grab), къэубытын (to grab); к1эхьан (to catch up to someone); лъык1эхьан (to catch up to someone)"
+    "to catch up": "пхъотэн (to pick up suddenly); к1эхьан (to catch up with someone, to reach something that had been ahead); лъык1эхьан (to catch up to someone)"
   },
   {
     "to rest": "зыгъэпсэфын"
@@ -10161,7 +10164,7 @@
     "colleague": "1офш1эгъу"
   },
   {
-    "task": "1офш1эн; пшъэрылъ"
+    "task": "1офш1эн; пшъэрылъ; хъызмэт (chores, housework)"
   },
   {
     "unemployed": "1офш1энынчъэ"
@@ -11895,7 +11898,7 @@
     "as a result": "арышъ / арти (because of that; because that is the case; so; therefore; for that reason; due to that)"
   },
   {
-    "so": "арышъ / арти (because of that; because that is the case; so; therefore; for that reason; due to that); сыдэу (so much); (dialectal) шъыдэу; джарэу"
+    "so": "арышъ / арти (because of that; because that is the case; so; therefore; for that reason; due to that); сыдэу (so much); (dialectal) шъыдэу; джарэу; нэмы1эк1э (so much that)"
   },
   {
     "steering wheel": "гъэзалъэ"
@@ -13770,6 +13773,15 @@
     "uh": "мыст (space filler or pause during conversation)"
   },
   {
+    "er": "мыст (space filler or pause during conversation)"
+  },
+  {
+    "erm": "мыст (space filler or pause during conversation)"
+  },
+  {
+    "um": "мыст (space filler or pause during conversation)"
+  },
+  {
     "to become out of order": "мэсэкъатын"
   },
   {
@@ -14005,9 +14017,6 @@
   },
   {
     "low kick": "лъэкъопц1анэ"
-  },
-  {
-    "to snatch": "къы1эпхъотэн"
   },
   {
     "to care for": "фигъэпэн"
@@ -18069,7 +18078,7 @@
     "fruit": "пхъэшъхьэмышъхь; пк1ышъхьэмышъхьэ"
   },
   {
-    "to take off": "щыхын (to take off clothes, to undress); зытехын (to take off an item such as a hat, mask, necklace or clock); лъэтэн / быбын (to fly, to take off to the sky)"
+    "to take off": "техын / къытехын (to take off an object from); щыхын (to take off clothes, to undress); зытехын (to take off an item such as a hat, mask, necklace or clock from oneself); лъэтэн / быбын (to fly, to take off to the sky)"
   },
   {
     "to smile": "щхыпц1ын; (Shapsug) гуш1опс1ын; 1угуш1ук1ын"

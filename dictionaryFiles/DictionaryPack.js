@@ -18191,48 +18191,64 @@
     "ipa": "bzəwwəbət"
   },
   {
-    "word": "убытын",
+    "word": "къэубытын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to catch",
+        "meaning": "to catch; to capture",
         "examples": [
           {
-            "sentence": "'''къэубыт''' к1алэр!",
+            "sentence": "'''Къэубыт''' к1алэр!",
             "translation": "'''Catch''' the boy!."
           },
           {
-            "sentence": "ахэр тыгъэделэхи ак1ыбык1э '''къэтыубытыгъэх'''",
+            "sentence": "Ахэр тыгъэделэхи ак1ыбык1э '''къэтыубытыгъэх'''",
             "translation": "We fooled them, and '''we caught them''' behind."
           },
           {
-            "sentence": "к1алэм ышынахьыжъ '''къышъоубытыгъ''', ышынахьык1 '''къышъоубытгъэп'''",
+            "sentence": "К1алэм ышынахьыжъ '''къышъоубытыгъ''', ышынахьык1 '''къышъоубытгъэп'''",
             "translation": "The boy '''could catch''' his older brother but '''couldn't catch''' his younger brother."
           },
           {
-            "sentence": "к1алэм '''къеубыты''' л1ыр",
+            "sentence": "К1алэм '''къеубыты''' л1ыр",
             "translation": "The boy is '''catching''' the man."
           },
           {
-            "sentence": "к1алэм '''къиубытыщт''' л1ыр",
+            "sentence": "К1алэм '''къиубытыщт''' л1ыр",
             "translation": "The boy '''will catch''' the man."
           },
           {
-            "sentence": "к1алэм '''къиубытыгъ''' л1ыр",
+            "sentence": "К1алэм '''къиубытыгъ''' л1ыр",
             "translation": "The boy '''caught''' the man."
           }
         ]
       },
       {
-        "meaning": "to hold with strength, to grip",
+        "meaning": "to take hold, to grib, to grasp, to catch and hold, to grab by catching",
         "examples": [
           {
-            "sentence": "'''къэубыт''' мыжъор",
-            "translation": "'''Hold''' the rock."
+            "sentence": "Хъурэр джы '''къэсыубытыгъ'''",
+            "translation": "Now '''I grasped''' what is happning."
+          },
+		  {
+            "sentence": "'''Къэубыт''' мыжъор",
+            "translation": "'''Take hold of''' the rock."
+          },
+		  {
+            "sentence": "Топк1э топыр '''къэбыубытэу''' хъущтэп",
+            "translation": "In soccer, it is forbidden '''to grab''' the ball."
+          },
+		  {
+            "sentence": "К1алэм дахэу топыр '''къиубытыгъ'''",
+            "translation": "The boy '''grabbed''' the ball nicely."
           },
           {
-            "sentence": "'''къэубытыгу''' хьанцэ",
-            "translation": "'''Hold''' the shovel '''for now'''."
+            "sentence": "'''Къэубытыгу''' хьанцэ",
+            "translation": "'''Grab''' the shovel '''for now'''."
+          },
+          {
+            "sentence": "К1алэр ефэхэу, л1ым к1алэм ы1э '''къиубыти''', къиштэжьи,  къигъэнэжьыгъ",
+            "translation": "While the boy was falling, the man '''grabbed''' the boy's arm, lifted him and saved him."
           }
         ]
       },
@@ -18240,18 +18256,35 @@
         "meaning": "to capture; to take hold; to make something yours (like a room, house, territory, vehicle, animal, any object)",
         "examples": [
           {
-            "sentence": "ныпыр '''къэубытын'''",
+            "sentence": "Ныпыр '''къэубытын'''",
             "translation": "'''Capture''' the flag."
           },
           {
-            "sentence": "дзэм мы к1ыпэ ыубытыгъ",
+            "sentence": "Дзэм мы к1ыпэ ыубытыгъ",
             "translation": "The army '''took hold''' this area."
           },
           {
-            "sentence": "яунэ '''сыубытыщт'''",
+            "sentence": "Яунэ '''сыубытыщт'''",
             "translation": "'''I will capture''' their house."
           }
         ]
+      }
+    ],
+    "synonyms": [
+      "зы1эк1эубытэн",
+      "етхъон",
+      "пхъотэн"
+    ],
+    "type": "verb",
+    "ipa": "qawbətən"
+  },
+  {
+    "word": "убытын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"къэубытын\"",
+        "examples": []
       }
     ],
     "synonyms": [
@@ -20643,11 +20676,30 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to take something; to pick up something; to get into one's hands, with or without force",
+        "meaning": "alternative form of \"къэштэн\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "къэштэн"
+    ],
+    "type": "verb",
+    "ipa": "ʃtan"
+  },
+  {
+    "word": "къэштэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to take something; to pick up something; to grab something and pick it up from the ground or from on something",
         "examples": [
           {
             "sentence": "'''къашт''' уатэ",
             "translation": "'''Pick up''' the hammer."
+          },
+		  {
+            "sentence": "л1ым чатэр '''къештэ'''",
+            "translation": "The man '''grabs''' the sword."
           },
 		  {
             "sentence": "мы 1офыр о '''штэ''', сэ адрэ 1офыхэр '''сыштэщтых'''",
@@ -20664,7 +20716,7 @@
         ]
       },
 	  {
-        "meaning": "to lift",
+        "meaning": "to lift, to raise (usaully from the ground or from on something)",
         "examples": [
           {
             "sentence": "1анэр '''къашт'''",
@@ -20690,8 +20742,11 @@
         ]
       }
     ],
+    "synonyms": [
+      "штэн"
+    ],
     "type": "verb",
-    "ipa": "ʃtan"
+    "ipa": "qaʃtan"
   },
   {
     "word": "гопк1эн",
@@ -21376,6 +21431,10 @@
           {
             "sentence": "л1ыжъыр '''жъажъэу''' мак1о",
             "translation": "The old-man is walking '''slowly'''."
+          },
+          {
+            "sentence": "Кур '''жъажъэ''' нэмы1эк1э автобус къэтечъыгъ",
+            "translation": "The car was so '''slow''' we were overtaken by a bus."
           }
         ]
       },
@@ -45726,7 +45785,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to surpass; to outrun",
+        "meaning": "to surpass; to outrun; to run faster than something and passing it",
         "examples": [
           {
             "sentence": "К1алэр пшъашъэм '''тэчъыгъ'''",
@@ -45747,6 +45806,10 @@
           {
             "sentence": "К1элэц1ык1ур '''къэстечъышъурэп'''",
             "translation": "The little boy '''can't outrun me'''."
+          },
+          {
+            "sentence": "Кур жъажъэ нэмы1эк1э автобус '''къэтечъыгъ'''",
+            "translation": "The car was so slow '''we were overtaken by''' a bus."
           }
         ]
       }
@@ -62782,6 +62845,10 @@
           {
             "sentence": "Фэсакъ!, унашъхьэм утец1эшъутык1ыни '''укъедзыхыщт'''",
             "translation": "Careful!, you will slip over the root and '''fall off it'''."
+          },
+          {
+            "sentence": "К1алэр '''едзыхэу''', л1ым к1алэм ы1э къиубыти, къиштэжьи,  къигъэнэжьыгъ",
+            "translation": "'''While''' the boy '''was falling''', the man grabbed the boy's arm, lifted him and saved him."
           }
         ]
       }
@@ -62839,6 +62906,10 @@
           {
             "sentence": "Фэсакъ!, унашъхьэм утец1эшъутык1ыни '''укъефэхыщт'''",
             "translation": "Careful!, you will slip over the root and '''fall off it'''."
+          },
+          {
+            "sentence": "К1алэр '''ефэхэу''', л1ым к1алэм ы1э къиубыти, къиштэжьи,  къигъэнэжьыгъ",
+            "translation": "'''While''' the boy '''was falling''', the man grabbed the boy's arm, lifted him and saved him."
           }
         ]
       }
@@ -62880,6 +62951,10 @@
           {
             "sentence": "Фэсакъ!, унашъхьэм утец1эшъутык1ыни '''укъет1эрэхыщт'''",
             "translation": "Careful!, you will slip over the root and '''fall off it'''."
+          },
+          {
+            "sentence": "К1алэр '''ет1эрэхэу''', л1ым к1алэм ы1э къиубыти, къиштэжьи,  къигъэнэжьыгъ",
+            "translation": "'''While''' the boy '''was falling''', the man grabbed the boy's arm, lifted him and saved him."
           }
         ]
       }
@@ -69875,11 +69950,15 @@
         ]
       },
 	  {
-        "meaning": "to operate",
+        "meaning": "to enslave",
         "examples": [
           {
-            "sentence": "Работхэр гъэпщыл1ыных",
-            "translation": "'''To operate''' robots."
+            "sentence": "Пщым ц1ыфыхэр '''егъэпщыл1ых'''",
+            "translation": "The prince '''enslaves''' people."
+          },
+		  {
+            "sentence": "Зэманым ц1ыф ш1уц1эхэр '''агъэпщыл1ыщтыгъэх'''",
+            "translation": "In the past, '''they used to enslave''' black people."
           }
         ]
       }
@@ -70049,6 +70128,10 @@
 		  {
             "sentence": "'''Хъызмэт''' 1офыр ухыжьырэп",
             "translation": "There is no end to '''the chores'''."
+          },
+		  {
+            "sentence": "Унэ1утым щагу '''хъызмэтхэр''' еш1эх",
+            "translation": "The servant is doing yard '''chores'''."
           }
         ]
       }
@@ -75417,6 +75500,10 @@
 		  {
             "sentence": "Жьыдзэм дзэм икъухьэлъатыхэр '''егъэзек1ох'''",
             "translation": "The air force '''manages''' the army's airplanes."
+          },
+		  {
+            "sentence": "Работхэр '''гъэзек1оных'''",
+            "translation": "'''To operate''' robots."
           }
         ]
       }
@@ -76925,7 +77012,12 @@
     "definitions": [
       {
         "meaning": "servant; house serf; menial",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Унэ1утым''' щагу хъызмэтхэр еш1эх",
+            "translation": "'''The servant''' is doing yard chores."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -76936,11 +77028,23 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "uh (Space filler or pause during conversation)",
+        "meaning": "uh; er; erm; um (Space filler or pause during conversation)",
         "examples": [
           {
             "sentence": "Ащ иц1агъэ, '''мыст''', Аслъан",
             "translation": "His name was, '''uh''', Aslan."
+          },
+		  {
+            "sentence": "Къэхь '''мыстыр'''",
+            "translation": "Bring the '''uh'''."
+          },
+		  {
+            "sentence": "К1алэр '''гъэмыст'''",
+            "translation": "'''Make''' the boy '''um'''."
+          },
+		  {
+            "sentence": "'''Мыстым''', ы1уагъ",
+            "translation": "'''Uh''' said."
           }
         ]
       }
@@ -76956,12 +77060,33 @@
         "meaning": "to save",
         "examples": [
           {
-            "sentence": "К1алэм пшъашъэр '''къигъэгэжьэгъ'''",
+            "sentence": "К1алэм пшъашъэр '''къигъэнэжьыгъ'''",
             "translation": "The boy '''saved''' the girl."
           },
           {
             "sentence": "К1алэр '''къэгъэнэжь'''",
             "translation": "'''Save''' the boy."
+          },
+          {
+            "sentence": "Докторым ц1ыфыхэр '''къегъэнэжьы'''",
+            "translation": "The doctor '''saves''' people."
+          },
+          {
+            "sentence": "К1алэр ефэхэу, л1ым к1алэм ы1э къиубыти, къиштэжьи,  '''къигъэнэжьыгъ'''",
+            "translation": "While the boy was falling, the man grabbed the boy's arm, lifted him and '''saved him'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "to remain leftovers, to leave leftovers",
+        "examples": [
+          {
+            "sentence": "К1алэм мы1эрысэр '''къигъэнэжьыгъ'''",
+            "translation": "The boy '''left''' the apple [as a leftover]."
+          },
+          {
+            "sentence": "Уишхын '''къэмыгъэнэжь'''",
+            "translation": "'''Don't leave''' your food [as a leftover]."
           }
         ]
       }
@@ -79374,7 +79499,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to take off; to remove an object from above something",
+        "meaning": "to take off; to remove an object from above something; alternative form of \"техын\"",
         "examples": [
           {
             "sentence": "К1алэм джэгуалъэр 1анэм '''трехы'''",
@@ -79383,7 +79508,7 @@
         ]
       },
       {
-        "meaning": "to capture from; to seize something from someone and take control of (ex. ball, base, land, place)",
+        "meaning": "to capture from; to seize something from someone and take control of (ex. ball, base, land, place); to overtake",
         "examples": [
           {
             "sentence": "К1алэм торыр '''къыстехы'''",
@@ -86018,7 +86143,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to overtake someone and surpass him, to catch up with someone",
+        "meaning": "to catch up with someone, to reach something that had been ahead",
         "examples": [
           {
             "sentence": "К1алэр ыпэ итым '''кIэхьан'''",
@@ -86029,28 +86154,32 @@
             "translation": "'''To catch up with''' an advanced worker."
           },
           {
-            "sentence": "Шыр адрэ шым к1эхьанк1э т1эк1у нахь и1эжьэп",
+            "sentence": "Шыр адрэ шым '''к1эхьанк1э''' т1эк1у нахь и1эжьэп",
             "translation": "'''To catch up with''' an advanced worker."
           },
-		            {
-            "sentence": "К1алэр л1ым '''1ук1эхьагъ'''",
+		  {
+            "sentence": "К1алэр л1ым '''к1эхьагъ'''",
             "translation": "The boy '''caught up with''' the man."
           },
           {
-            "sentence": "Нахь псынч1эу сычъэмэ '''ус1ук1эхьэщт'''",
+            "sentence": "Нахь псынч1эу сычъэмэ '''уск1эхьэщт'''",
             "translation": "If I will run faster '''I will overtake''' you."
           },
           {
-            "sentence": "К1элэц1к1ур '''къыс1ук1эхьашъурэп'''",
+            "sentence": "К1элэц1к1ур '''къыск1эхьашъурэп'''",
             "translation": "The little boy '''can't catch up''' with me."
           },
           {
-            "sentence": "Ливилк1э Томэр '''къыс1ук1эхьагъ'''",
+            "sentence": "Ливилк1э Томэр '''къыск1эхьагъ'''",
             "translation": "Tom '''caught up and surpassed''' me with the level."
           },
           {
-            "sentence": "Ливилк1э Томым '''сы1ук1эхьагъ'''",
+            "sentence": "Ливилк1э Томым '''сык1эхьагъ'''",
             "translation": "'''I caught up and surpassed''' Tom with the level."
+          },
+          {
+            "sentence": "Кур жъажъэ нэмы1эк1э автобус '''къэтк1эхьагъ'''",
+            "translation": "The car was so slow '''we were overtaken by''' a bus."
           }
         ]
       }
@@ -104461,7 +104590,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to snatch",
+        "meaning": "to pick up suddenly",
+        "examples": []
+      },
+	  {
+        "meaning": "to snatch; to seize something suddenly",
         "examples": []
       }
     ],
