@@ -1863,7 +1863,7 @@
     "hoop": "хъурджан"
   },
   {
-    "necklace": "джэгъуч1элъ"
+    "necklace": "жэгъуч1элъ; (dialectal) джэгъуч1элъ"
   },
   {
     "umbrella": "щэтыр, щамсый"
@@ -2931,7 +2931,7 @@
     "yoghurt": "щэзгъэ; щэгъапц1э"
   },
   {
-    "laundry": "гык1ап1э (wash-house); гык1ыгъэ (laundries); гык1алъэ (washing machine)"
+    "laundry": "гык1ап1э (wash-house); гык1ыгъэ (laundry, that which needs to be, is being, or has been laundered); гык1алъэ (washing machine)"
   },
   {
     "to launder": "гык1эн (to do laundry), гык1ын (to launder something)"
@@ -3672,22 +3672,28 @@
     "to come into being": "къэхъун; къалъфын; къыхэхъохьан (to come into being among)"
   },
   {
-    "permitted": "хъущт; адагъэ"
+    "permitted": "хъущт (okay, permitted, allowed, lawful, permissible, approved); адагъэ"
   },
   {
-    "allowed": "хъущт; адагъэ"
+    "allowed": "хъущт (okay, permitted, allowed, lawful, permissible, approved); адагъэ"
   },
   {
-    "lawful": "хъущт"
+    "lawful": "хъущт (okay, permitted, allowed, lawful, permissible, approved)"
   },
   {
-    "permissible": "хъущт"
+    "permissible": "хъущт (okay, permitted, allowed, lawful, permissible, approved)"
   },
   {
-    "ok": "хъущт; дэгъу"
+    "approved": "хъущт (okay, permitted, allowed, lawful, permissible, approved); адагъэ"
   },
   {
-    "okay": "хъущт; дэгъу"
+    "ok": "хъущт (it is okay); дэгъу (okay, sure, no problem, all right)"
+  },
+  {
+    "okay": "хъущт (it is okay); дэгъу (okay, sure, no problem, all right)"
+  },
+  {
+    "all right": "дэгъу (okay, sure, no problem, all right); зэк1эр дэгъу (everything is good)"
   },
   {
     "squirrel": "цызэ"
@@ -4866,7 +4872,10 @@
     "astrologer": "блэбгъуплъ"
   },
   {
-    "to pass": "блэк1ын; блэхъушъутын; блэшъутын (Shapsug); блэчъын (to pass running); зэблэчъын (to cross running); зэпычын / зэпырык1ын (to cross)"
+    "somehow": "зыгорашъу; зыгорашъоу"
+  },
+  {
+    "somehow": "зыгорашъу; зыгорашъоу"
   },
   {
     "to bypass": "блэк1ын"
@@ -8217,7 +8226,25 @@
     "to dig": "т1ын; тхъун (to shovel out)"
   },
   {
-    "related to": "теуфагъэу; ехьыл1агъэу; егъэпхыгъэу"
+    "related to": "теуфагъэу; ехьыл1агъэу; егъэпхыгъэу; ащ теуфагъэу / ащ ехьыл1агъэу / ащ егъэпхыгъэу (regarding that, in respect to that, regarding that, as regards to that, concerning that)"
+  },
+  {
+    "relatably": "теуфагъэу; ехьыл1агъэу; егъэпхыгъэу; ащ теуфагъэу / ащ ехьыл1агъэу / ащ егъэпхыгъэу (regarding that, in respect to that, regarding that, as regards to that, concerning that)"
+  },
+  {
+    "concerning": "теуфагъэу; ехьыл1агъэу; егъэпхыгъэу; ащ теуфагъэу / ащ ехьыл1агъэу / ащ егъэпхыгъэу (regarding that, in respect to that, regarding that, as regards to that, concerning that)"
+  },
+  {
+    "as regards to": "теуфагъэу; ехьыл1агъэу; егъэпхыгъэу; ащ теуфагъэу / ащ ехьыл1агъэу / ащ егъэпхыгъэу (regarding that, in respect to that, regarding that, as regards to that, concerning that)"
+  },
+  {
+    "about": "теуфагъэу; ехьыл1агъэу; егъэпхыгъэу; ащ теуфагъэу / ащ ехьыл1агъэу / ащ егъэпхыгъэу (regarding that, in respect to that, regarding that, as regards to that, concerning that)"
+  },
+  {
+    "regarding": "теуфагъэу; ехьыл1агъэу; егъэпхыгъэу; ащ теуфагъэу / ащ ехьыл1агъэу / ащ егъэпхыгъэу (regarding that, in respect to that, regarding that, as regards to that, concerning that)"
+  },
+  {
+    "in respect to": "теуфагъэу; ехьыл1агъэу; егъэпхыгъэу; ащ теуфагъэу / ащ ехьыл1агъэу / ащ егъэпхыгъэу (regarding that, in respect to that, regarding that, as regards to that, concerning that)"
   },
   {
     "track": "ужы; лъэуж"
@@ -8772,7 +8799,7 @@
     "to compose": "орэд усын"
   },
   {
-    "barely": "ерагъэу; ерагъэк1э; л1ыгъэк1э; зыгорашъоу"
+    "barely": "ерагъэу; ерагъэк1э; л1ыгъэк1э; зыгорашъоу (somehow)"
   },
   {
     "to lie down": "гъолъын"
@@ -9165,7 +9192,7 @@
     "to glorify": "дэхьыен; щытхъун / къыщытхъун; щытхъук1э фэусэн; ищытхъу 1он"
   },
   {
-    "to pull": "хэтхъын (to pull off from in something); пытхъын (to pull off something); пычын (to pick a fruit or flower); дэлъэшъоен (to pull up); елъэшъохын (to pull down);дэтхъын (to pull out from inside another object like a book); къудыин (to stretch); хэщын (to pull someone out of a certain situation)"
+    "to pull": "къудыин / къэкъудыин (to apply a force to (an object) so that it comes toward the person or thing applying the force); хэтхъын (to pull/tear off from in something); пытхъын (to pull/tear off something); пычын (to pick a fruit or flower); дэлъэшъоен (to pull up); елъэшъохын (to pull down); дэтхъын (to pull out from inside another object like a book); хэщын (to pull someone out of a certain situation)"
   },
   {
     "to pull up": "дэлъэшъоен"
@@ -9535,6 +9562,9 @@
   },
   {
     "nice": "хъупхъэ (kind); ш1у (well); дэгъу (good); (slang) ц1ап1э (awesome)"
+  },
+  {
+    "nicely": "дахэу; дэгъоу"
   },
   {
     "modest": "шъырыт"
@@ -11793,7 +11823,13 @@
     "to disgust": "мэхъэшэн; гъэмэхъэшэн (to disgust someone)"
   },
   {
-    "to stretch": "къудыин (to stretch by pulling forcefully); зэпыщын / зэхэщын (to stretch out)"
+    "to stretch": "къудыин (to stretch by pulling forcefully); зэпыщын / зэхэщын (to stretch); зыкъудыин / зыгъэшъомбгъон (to outstretch); зэхэк1ын"
+  },
+  {
+    "to stretch out": "зэхэк1ын (to extend, to stretch out such as a rubber, human growing, plant growing, etc)"
+  },
+  {
+    "to outstretch": "зыкъудыин / зыгъэшъомбгъон (to extend by stretching )"
   },
   {
     "to dizzy": "гъэпрэзэн"
@@ -13164,7 +13200,7 @@
     "acquaintance": "нэ1уасэ"
   },
   {
-    "to refer": "гъэк1он, лъыгъэк1он"
+    "to refer": "зыфи1орэр (what (s)he refers to); лъыгъэк1он"
   },
   {
     "to do again": "ш1ыжьын; къытегъэзэн"
@@ -13263,7 +13299,10 @@
     "to reach out": "1эбэн; лъы1эбэн (to reach out for)"
   },
   {
-    "to extend": "1эбэн; лъы1эбэн (to reach out for)"
+    "to extend": "зэхэк1ын; лъы1эбэн (to reach out with the hands to grab/touch something)"
+  },
+  {
+    "to expand": "зэхэк1ын"
   },
   {
     "to speak bad": "егъэчъэхын"
@@ -13677,7 +13716,7 @@
     "to treat": "дэзек1он (to treat someone with a certian behavior)"
   },
   {
-    "to deal with": "дэзек1он (to deal with someone with a certian behavior); езэгъын (to be able to deal with)"
+    "to deal with": "дэзек1он (to deal with someone with a certian behavior); езэгъын (to deal okayly with)"
   },
   {
     "to act like": "зек1он"
@@ -14547,7 +14586,7 @@
     "to do intentionally": "ыш1эу ыш1эн; ымыш1ахэу ыш1эн"
   },
   {
-    "shame": "хьайнапэ"
+    "shame": "ук1ытэныгъэ; хьайнапэ; ук1ыт"
   },
   {
     "disgrace": "хьайнапэ"
@@ -15633,13 +15672,19 @@
     "to go bad": "нахь дэеу хъун; зэщыкъон"
   },
   {
-    "hot-tempered": "губжыпх; губжыгъош1у"
+    "hot-tempered": "губжыпх; губжыл; губжыгъош1у"
   },
   {
-    "quick-tempered": "губжыпх; губжыгъош1у"
+    "quick-tempered": "губжыпх; губжыл; губжыгъош1у"
   },
   {
-    "irascible": "губжыпх; губжыгъош1у"
+    "irascible": "губжыпх; губжыл; губжыгъош1у"
+  },
+  {
+    "short-tempered": "губжыпх; губжыл; губжыгъош1у"
+  },
+  {
+    "ill-tempered": "губжыпх; губжыл; губжыгъош1у"
   },
   {
     "to get through": "ипшын / къипшын"
@@ -16461,7 +16506,7 @@
     "humility": "нэхаш (the quality of being modest)"
   },
   {
-    "shamefulness": "ук1ытагъо"
+    "shamefulness": "ук1ытэныгъэ; ук1ытагъо"
   },
   {
     "to stop moving after being pleased": "зэгъэн"
@@ -16755,7 +16800,7 @@
     "to point": "фэгъэзэн"
   },
   {
-    "to redirect": "фэгъэзэжьын"
+    "to redirect": "фэгъэзэжьын; лъыгъэк1ожьын"
   },
   {
     "to turn toward": "фэгъэзэн"

@@ -8813,12 +8813,24 @@
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "alternative form of \"жэгъуч1элъ\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "d͡ʒaʁʷt͡ʃʼaɬ"
+  },
+  {
+    "word": "жэгъуч1элъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
         "meaning": "necklace",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "d͡ʒaʁʷaɬ"
+    "ipa": "ʒaʁʷt͡ʃʼaɬ"
   },
   {
     "word": "гущык1ыгъо",
@@ -17176,10 +17188,43 @@
     "definitions": [
       {
         "meaning": "ok; okay",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ар '''хъущт'''",
+            "translation": "That is '''okay'''."
+          },
+		  {
+            "sentence": "Ар '''хъущтэп'''",
+            "translation": "That is '''not okay'''."
+          },
+          {
+            "sentence": "Зэманым ар '''хъущт'''",
+            "translation": "In the past, that was '''okay'''."
+          },
+          {
+            "sentence": "Зэманым ар '''хъущтыгъэп'''",
+            "translation": "In the past, that was not '''okay'''."
+          },
+          {
+            "sentence": "Чэщым удэк1эу '''хъущтэп'''",
+            "translation": "'''It is not okay''' to out in the night."
+          },
+          {
+            "sentence": "Компыютэрым уджэгоу '''хъущт'''",
+            "translation": "'''It is okay''' to play on the computer."
+          },
+          {
+            "sentence": "Уянэ уятэ уанэкъокъоу '''хъущтэп'''",
+            "translation": "'''It is not okay''' to argue with your parents."
+          },
+          {
+            "sentence": "Ухъуанэу '''хъущтэп'''",
+            "translation": "'''It is not okay''' to swear."
+          }
+        ]
       },
       {
-        "meaning": "permitted, allowed, lawful, permissible",
+        "meaning": "permitted, allowed, lawful, permissible, approved",
         "examples": [
           {
             "sentence": "'''хъущта''' сыдэк1эу?",
@@ -19131,6 +19176,10 @@
           {
             "sentence": "Сиянэ сиджанэхэр '''зигъэфагъэх'''",
             "translation": "My mother '''organized''' my clothes."
+          },
+		  {
+            "sentence": "Удэлъхьап1э дахэу '''зэгъаф'''",
+            "translation": "'''Organize''' your closet nicely."
           }
         ]
       }
@@ -20354,7 +20403,12 @@
     "definitions": [
       {
         "meaning": "basket",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Гык1ыгъэхэр '''матэм''' илъхьэх",
+            "translation": "Put the laundries into '''the basket'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -51706,7 +51760,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to get along with; to be fine with; to be okay with; to be pleased with (more specifically: to be satisfied/sufficed with)",
+        "meaning": "to get along with; to deal okayly with; to be fine with; to be okay with; to be pleased with (more specifically: to be satisfied/sufficed with)",
         "examples": [
           {
             "sentence": "К1алэр унэм '''изагъэрэп'''",
@@ -57838,13 +57892,25 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Misspelled of \"убэн\"",
+        "meaning": "misspelled of \"убэн\"",
         "examples": []
       },
       {
         "meaning": "to pound, to crush, to grind (to make smaller by breaking with a device)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ым щыбжьый '''еубы'''",
+            "translation": "The man '''grinds''' the pepper."
+          },
+		  {
+            "sentence": "Л1ым щыгъур '''ыубыгъ'''",
+            "translation": "The man '''pounded''' the salt."
+          }
+        ]
       }
+    ],
+    "synonyms": [
+      "хьаджын"
     ],
     "type": "verb",
     "ipa": "wəbən"
@@ -59280,36 +59346,23 @@
     "ipa": "pətχən"
   },
   {
-    "word": "къудыин",
+    "word": "ыкъудыин",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to stretch; to stretch by pulling",
-        "examples": [
-          {
-            "sentence": "К1алэм к1апсэр '''екъудыи'''",
-            "translation": "The boy '''is pulling''' the rope."
-          },
-          {
-            "sentence": "К1апсэр бащэу '''укъудыимэ''' зэпытхъыщт",
-            "translation": "'''If you pull''' the rope too much it will tear."
-          },
-          {
-            "sentence": "Пчъэр '''къудыий''' ихь",
-            "translation": "'''Pull''' the door and enter."
-          }
-        ]
+        "meaning": "alternative form of \"къудыин\"",
+        "examples": []
       }
     ],
     "type": "verb",
-    "ipa": "qʷədəjən"
+    "ipa": "əqʷədəjən"
   },
   {
     "word": "зэпыщын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to stretch out",
+        "meaning": "to stretch",
         "examples": [
           {
             "sentence": "К1алэм к1апсэр '''зэпещы'''",
@@ -59318,9 +59371,25 @@
           {
             "sentence": "К1апсэр бащэу '''зэпыпщымэ''' зэпытхъыщт",
             "translation": "'''If you stretch''' the rope too much it will tear."
+          },
+		  {
+            "sentence": "Фылымыр бащэу '''зэпащыгъ'''",
+            "translation": "They '''stretched''' the movie too much."
+          },
+		  {
+            "sentence": "К1алэм хьашъор '''зэпещы'''",
+            "translation": "The boy '''stretches''' the rubber."
+          },
+		  {
+            "sentence": "Сакъызэр '''зэпымыщ'''",
+            "translation": "'''Don't stretch''' the gum."
           }
         ]
       }
+    ],
+    "synonyms": [
+      "къудыин",
+      "зэхэщын"
     ],
     "type": "verb",
     "ipa": "zapəɕən"
@@ -70524,6 +70593,43 @@
             "translation": "Don't scratch that '''even if it's itchy'''."
           }
         ]
+      },
+      {
+        "meaning": "to be okay",
+        "examples": [
+          {
+            "sentence": "Ар '''хъущт'''",
+            "translation": "That is '''okay'''."
+          },
+		  {
+            "sentence": "Ар '''хъущтэп'''",
+            "translation": "That is '''not okay'''."
+          },
+          {
+            "sentence": "Зэманым ар '''хъущт'''",
+            "translation": "In the past, that was '''okay'''."
+          },
+          {
+            "sentence": "Зэманым ар '''хъущтыгъэп'''",
+            "translation": "In the past, that was not '''okay'''."
+          },
+          {
+            "sentence": "Чэщым удэк1эу '''хъущтэп'''",
+            "translation": "'''It is not okay''' to out in the night."
+          },
+          {
+            "sentence": "Компыютэрым уджэгоу '''хъущт'''",
+            "translation": "'''It is okay''' to play on the computer."
+          },
+          {
+            "sentence": "Уянэ уятэ уанэкъокъоу '''хъущтэп'''",
+            "translation": "'''It is not okay''' to argue with your parents."
+          },
+          {
+            "sentence": "Ухъуанэу '''хъущтэп'''",
+            "translation": "'''It is not okay''' to swear."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -74518,6 +74624,10 @@
             "translation": "'''Unhang''' the shirt from the hanger."
           },
 		  {
+            "sentence": "Гык1ыгъэхэр к1апсэм '''къыпыхых'''",
+            "translation": "'''Unhang''' the laundries from the rope."
+          }
+		  {
             "sentence": "Л1ыр къащым '''къыпыхыжь'''",
             "translation": "'''Unhang''' the man from the cross."
           },
@@ -76119,39 +76229,61 @@
         ]
       }
     ],
+    "shapsug": "шъхьэпык1ьын",
     "type": "verb",
-    "ipa": "ʂħapat͡ʃʼən"
+    "ipa": "ʂħapərət͡ʃʼən"
   },
   {
-    "word": "шъхьэпэк1ьын",
+    "word": "шъхьэпырык1ын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"шъхьэпэк1ын\"",
+        "meaning": "alternative form of \"шъхьапырык1ын\"",
         "examples": []
       }
     ],
     "type": "verb",
-    "ipa": "ʂħapakʲʼən"
+    "ipa": "ʂħapərət͡ʃʼən"
   },
   {
-    "word": "гык1ыгъ",
+    "word": "шъхьапык1ын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "laundry",
+        "meaning": "alternative form of \"шъхьапырык1ын\"",
         "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʂħapət͡ʃʼən"
+  },
+  {
+    "word": "гык1ыгъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "laundry; that which needs to be, is being, or has been laundered",
+        "examples": [
+		  {
+            "sentence": "'''Гык1ыгъэхэр''' к1апсэм '''къыпыхых'''",
+            "translation": "Unhang '''the laundries''' from the rope."
+          },
+		  {
+            "sentence": "'''Гык1ыгъэхэр''' матэм илъыхьэх",
+            "translation": "Put '''the laundries''' into the basket."
+          }
+        ]
       }
     ],
     "type": "noun",
-    "ipa": "ɣət͡ʃʼəʁ"
+    "ipa": "ɣət͡ʃʼəʁa"
   },
   {
-    "word": "егъэусыен",
+    "word": "гъэусыен",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"гъэусыен\"",
+        "meaning": "alternative form of \"егъэусыен\"",
         "examples": []
       }
     ],
@@ -76159,42 +76291,33 @@
     "ipa": "ʁawsəjan"
   },
   {
-    "word": "гъэусыен",
+    "word": "егъэусыен",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to lean an object on something",
         "examples": [
           {
-            "sentence": "Пчъэр дэпкъым к1алэм '''регъэусые'''",
-            "translation": "The boy '''leas''' the door '''on''' the wall."
+            "sentence": "Пхъэнк1ыпхъыр дэпкъым к1алэм '''регъэусые'''",
+            "translation": "The boy '''leans''' the broom '''on''' the wall."
           },
           {
             "sentence": "1анэм '''земыгъэусый'''",
-            "translation": "'''Don't lay''' on the table."
+            "translation": "'''Don't lean''' on the table."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "ʁawsəhan"
+    "ipa": "jaʁawsəjan"
   },
   {
     "word": "гъэусыен",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to lean an object on something",
-        "examples": [
-          {
-            "sentence": "Пчъэр дэпкъым к1алэм '''регъэусые'''",
-            "translation": "The boy '''leas''' the door '''on''' the wall."
-          },
-          {
-            "sentence": "1анэм '''земыгъэусый'''",
-            "translation": "'''Don't lay''' on the table."
-          }
-        ]
+        "meaning": "alternative form of \"егъэусыен\"",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -76217,11 +76340,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "related to",
+        "meaning": "related to; relatably; regarding; concerning; as regards; about; in respect to",
         "examples": [
           {
             "sentence": "К1алэм еджэным ''''ехьыл1агъэу''' къэбар къе1уатэ",
             "translation": "The boy talks about things '''related to''' studying."
+          },
+		  {
+            "sentence": "К1алэм ''''ехьыл1агъэу''' сыд о1угъэр?",
+            "translation": "What you heard '''concerning''' the boy?"
+          },
+		  {
+            "sentence": "Матиматикэм ''''ехьыл1агъэу''' зыгорэм теджэ",
+            "translation": "We are studying something '''related to''' math."
           }
         ]
       }
@@ -76230,6 +76361,7 @@
       "теуфагъэу",
       "егъэпхыгъэу"
     ],
+    "kabardian": "теухуауэ",
     "type": "adv",
     "ipa": "jaħəɬʼaːʁaw"
   },
@@ -76238,11 +76370,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "related to",
+        "meaning": "related to; relatably; regarding; concerning; as regards; about; in respect to",
         "examples": [
           {
             "sentence": "К1алэм еджэным ''''егъэпхыгъэу''' къэбар къе1уатэ",
             "translation": "The boy talks about things '''related to''' studying."
+          },
+		  {
+            "sentence": "К1алэм ''''егъэпхыгъэу''' сыд о1угъэр?",
+            "translation": "What you heard '''concerning''' the boy?"
+          },
+		  {
+            "sentence": "Матиматикэм ''''егъэпхыгъэу''' зыгорэм теджэ",
+            "translation": "We are studying something '''related to''' math."
           }
         ]
       }
@@ -76251,6 +76391,7 @@
       "теуфагъэу",
       "ехьыл1агъэу"
     ],
+    "kabardian": "теухуауэ",
     "type": "adv",
     "ipa": "jaʁapxəʁaw"
   },
@@ -76259,11 +76400,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "related to",
+        "meaning": "related to; relatably; regarding; concerning; as regards; about; in respect to",
         "examples": [
           {
             "sentence": "К1алэм еджэным ''''теуфагъэу''' къэбар къе1уатэ",
             "translation": "The boy talks about things '''related to''' studying."
+          },
+		  {
+            "sentence": "К1алэм ''''теуфагъэу''' сыд о1угъэр?",
+            "translation": "What you heard '''concerning''' the boy?"
+          },
+		  {
+            "sentence": "Матиматикэм ''''теуфагъэу''' зыгорэм теджэ",
+            "translation": "We are studying something '''related to''' math."
           }
         ]
       }
@@ -76272,76 +76421,137 @@
       "ехьыл1агъэу",
       "егъэпхыгъэу"
     ],
+    "kabardian": "теухуауэ",
     "type": "adv",
     "ipa": "tajfaːʁaw"
   },
   {
-    "word": "зэрихьэн",
+    "word": "дэзэк1он",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to commit, to do, to carry out",
+        "meaning": "alternative form of \"дэзек1он\"",
         "examples": []
-      }
-    ],
-    "synonyms": [
-      "зэрихьан"
-    ],
-    "type": "verb",
-    "ipa": "zariħan"
-  },
-  {
-    "word": "дэзек1он",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to treat someone like",
-        "examples": [
-          {
-            "sentence": "К1алэм дахэу ц1ыфыхэр '''дэзак1ох'''",
-            "translation": "The people '''are treating''' the boy nicely."
-          },
-          {
-            "sentence": "1аеу к1алэм '''удэмызак1у'''",
-            "translation": "'''Don't tread''' the boy badly."
-          },
-          {
-            "sentence": "Убзаджэти 1аеу '''къыпдэзек1ох'''",
-            "translation": "Because you are mean, '''they are treating you''' badly."
-          }
-        ]
       }
     ],
     "type": "verb",
     "ipa": "dazakʷʼan"
   },
   {
-    "word": "зек1он",
+    "word": "дахэу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to act like, to behave like",
+        "meaning": "nicely",
         "examples": [
           {
-            "sentence": "К1алэр дахэу '''мэзак1о'''",
-            "translation": "The boy '''is acting''' nicely."
+            "sentence": "К1алэм '''дахэу''' ц1ыфыхэр дэзек1ох",
+            "translation": "The people '''are treating''' the boy '''nicely'''."
+          },
+		  {
+            "sentence": "К1алэм '''дахэу''' л1ыр къыдэзек1орэп",
+            "translation": "The man does not treat the boy '''nicely'''."
+          },
+		  {
+            "sentence": "Удэлъхьап1э '''дахэу''' зэгъаф",
+            "translation": "Organize your closet '''nicely'''."
+          },
+		  {
+            "sentence": "К1алэр '''дахэу''' мэзек1о",
+            "translation": "The boy is acting '''nicely'''."
           },
           {
-            "sentence": "1аеу к1алэр '''мэзак1орэп'''",
-            "translation": "The boy '''doesn't behave''' bad."
+            "sentence": "К1алэр '''дахэу''' зек1орэп",
+            "translation": "The boy doesn't behave '''nicely'''."
           }
         ]
       }
     ],
+    "type": "adv",
+    "ipa": "daːxaw"
+  },
+  {
+    "word": "дэзек1он",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to treat someone like; to deal with someone with a certian behavior; to behave in a certain manner with someone",
+        "examples": [
+          {
+            "sentence": "К1алэм дахэу ц1ыфыхэр '''дэзек1ох'''",
+            "translation": "The people '''are treating''' the boy nicely."
+          },
+		  {
+            "sentence": "К1алэм дахэу л1ыр '''къыдэзек1орэп'''",
+            "translation": "The man '''does not treat''' the boy nicely."
+          },
+          {
+            "sentence": "1аеу к1алэм '''удэмызек1у'''",
+            "translation": "'''Don't tread''' the boy badly."
+          },
+          {
+            "sentence": "Убзаджэти 1аеу '''къыпдэзек1ох'''",
+            "translation": "Because you are mean, '''they are treating you''' badly."
+          },
+		  {
+            "sentence": "Губжыпхымэ '''адэзек1ок1э''' пш1эн фай мы 1офымк1э",
+            "translation": "In this job, you need to know '''how to deal with''' short-tempered people."
+          },
+		  {
+            "sentence": "Ащтэу '''укъыдэмызек1о'''",
+            "translation": "'''Don't behave with me''' like that."
+          }
+        ]
+      }
+    ],
+    "shapsug": "дэзэк1он",
+    "type": "verb",
+    "ipa": "dazajkʷʼan"
+  },
+  {
+    "word": "зек1он",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to act like; to behave like",
+        "examples": [
+          {
+            "sentence": "К1алэр дахэу '''мэзек1о'''",
+            "translation": "The boy '''is acting''' nicely."
+          },
+		  {
+            "sentence": "Ащтэу '''умызек1у'''",
+            "translation": "'''Don't act like''' that."
+          },
+		  {
+            "sentence": "1аеу '''узек1уагъ'''",
+            "translation": "'''You acted''' awfully."
+          },
+          {
+            "sentence": "1аеу к1алэр '''зек1уагъэп'''",
+            "translation": "The boy '''did not behave''' awfully."
+          },
+		  {
+            "sentence": "К1алэм дахэу ц1ыфыхэр '''дэзек1ох'''",
+            "translation": "The people '''are treating''' the boy nicely."
+          },
+		  {
+            "sentence": "К1алэм дахэу л1ыр '''къыдэзек1орэп'''",
+            "translation": "The man '''does not treat''' the boy nicely."
+          }
+        ]
+      }
+    ],
+    "shapsug": "зэк1он",
     "type": "verb",
     "ipa": "zakʷʼan"
   },
   {
-    "word": "мэзэк1он",
+    "word": "зэк1он",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"зэк1он\"",
+        "meaning": "alternative form of \"зек1он\"",
         "examples": []
       }
     ],
@@ -76364,19 +76574,15 @@
             "translation": "'''Why''' you like the color red?"
           },
           {
-            "sentence": "'''Хьа''' сыд шы1а?",
-            "translation": "'''Why''' what there is?"
+            "sentence": "'''Хьа''' сыд щы1а?",
+            "translation": "'''Why''' what is there?"
           }
-        ],
-        "tags": [
-          "Abzakh dialect"
         ]
       }
     ],
     "synonyms": [
       "шъыда",
-      "сыда",
-      "щтэ"
+      "сыда"
     ],
     "type": "adv",
     "ipa": "ħaː"
@@ -76387,14 +76593,38 @@
     "definitions": [
       {
         "meaning": "to grind",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ым коцыр '''ехьаджы'''",
+            "translation": "The man '''grinds''' the wheat."
+          },
+		  {
+            "sentence": "Коц '''ахьаджи''' хьалыгъу дэгъу раш1ы",
+            "translation": "'''They grind''' wheat and make a bread with is."
+          }
+        ]
       }
+    ],
+    "synonyms": [
+      "убын"
     ],
     "type": "verb",
     "ipa": "ħaːd͡ʒən"
   },
   {
-    "word": "ыкъудыин",
+    "word": "укъудыин",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"къудыин\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "wəqʷədəjən"
+  },
+  {
+    "word": "къудыин",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -76405,20 +76635,69 @@
             "translation": "The movie '''lasted''' too much."
           },
           {
-            "sentence": "Фылымым тхьапщ '''ыкъудыищтэр'''?",
+            "sentence": "Фылымым тхьапш '''ыкъудыищтыр'''?",
             "translation": "For how much the movie '''will last'''?"
+          },
+          {
+            "sentence": "Тхьапш шъуи1офы '''ыкъудыищтыр'''?",
+            "translation": "For how much your work '''gonna last'''?"
           }
         ]
       },
       {
-        "meaning": "to stretch; to stretch by pulling",
+        "meaning": "to pull; to apply a force to (an object) so that it comes toward the person or thing applying the force",
         "examples": [
           {
             "sentence": "К1алэм к1апсэр '''ыкъудыи'''",
             "translation": "The boy '''is pulling''' the rope."
+          },
+		  {
+            "sentence": "Пхъыр '''къыкъудыий''' ч1ыгум къыхэтхъ",
+            "translation": "'''Pull''' the carrot and pull it out of the ground."
+          },
+		  {
+            "sentence": "'''Сымыкъудый'''",
+            "translation": "'''Don't pull me'''."
+          },
+		  {
+            "sentence": "Хьашъор '''къыдыин''' 1о",
+            "translation": "Try '''to pull''' the rubber."
+          },
+          {
+            "sentence": "К1апсэр бащэу '''укъудыимэ''' зэпытхъыщт",
+            "translation": "'''If you pull''' the rope too much it will tear."
+          },
+          {
+            "sentence": "Пчъэр '''къэкъудыий''' унэм къихь",
+            "translation": "'''Pull''' the door and enter the house."
+          }
+        ]
+      },
+      {
+        "meaning": "to stretch",
+        "examples": [
+          {
+            "sentence": "Фылымыр бащэу '''акъудыигъ'''",
+            "translation": "They '''stretched''' the movie too much."
+          },
+		  {
+            "sentence": "Л1ым '''зекъудыежьы'''",
+            "translation": "The man '''outstretches'''."
+          },
+		  {
+            "sentence": "К1алэм хьашъор '''екъудыи'''",
+            "translation": "The boy '''stretches''' the rubber."
+          },
+		  {
+            "sentence": "Сакъызэр '''умыкъудый'''",
+            "translation": "'''Don't stretch''' the gum."
           }
         ]
       }
+    ],
+    "synonyms": [
+      "зэхэщын",
+      "зэпыщын"
     ],
     "type": "verb",
     "ipa": "əqʷədəjən"
@@ -76451,6 +76730,19 @@
             "translation": "Don't '''collapse''' the house."
           }
         ]
+      },
+	  {
+        "meaning": "to stretch out (something that stretches out); to extend",
+        "examples": [
+          {
+            "sentence": "1анэр '''зэхэгъэк1'''",
+            "translation": "'''Extend''' the table."
+          },
+          {
+            "sentence": "Хьашъор '''къызэхэк1ы'''",
+            "translation": "The rubber '''streches out'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -76461,13 +76753,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to become very stubborn",
-        "examples": [
-          {
-            "sentence": "К1алэр '''инатэу ихьагъ'''",
-            "translation": "The boy '''became very stubborn'''."
-          }
-        ]
+        "meaning": "alternative form of \"инатэу хъун\"",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -76478,7 +76765,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "disobedient; unruly",
+        "meaning": "alternative form of \"мыда1о\"",
         "examples": []
       }
     ],
@@ -76497,7 +76784,7 @@
             "translation": "The man '''became persistent''' to go to America."
           },
           {
-            "sentence": "Еджэнымк1э '''зыбгъэнэн''' фай 1офы дэгъу угъотыжьын пае",
+            "sentence": "Еджэнымк1э '''зебгъэнэн''' фай 1офы дэгъу угъотыжьын пае",
             "translation": "'''You''' need '''to become persistent''' in the studies to find a good job later."
           }
         ]
@@ -76519,18 +76806,6 @@
     "ipa": "zajʁanan"
   },
   {
-    "word": "зэбгъэнэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"зыригъэнэн\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "zabʁanan"
-  },
-  {
     "word": "инатэу хъун",
     "lang": "Adyghe",
     "definitions": [
@@ -76538,7 +76813,7 @@
         "meaning": "to become very stubborn",
         "examples": [
           {
-            "sentence": "К1алэр '''инатэу ихьагъ'''",
+            "sentence": "К1алэр '''инатэу хъугъ'''",
             "translation": "The boy '''became very stubborn'''."
           }
         ]
@@ -76557,6 +76832,10 @@
           {
             "sentence": "К1алэр '''инат'''",
             "translation": "The boy '''is stubborn'''."
+          },
+		  {
+            "sentence": "К1алэр '''инатэу''' хъугъ",
+            "translation": "The boy became very '''stubborn'''."
           }
         ]
       }
@@ -76569,11 +76848,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "modesty, humility",
+        "meaning": "shame",
         "examples": [
           {
-            "sentence": "[[шъуашэ",
-            "translation": "Шъуашэмэ]] [[анахь]] [[дахэ]]р '''укIыт'''"
+            "sentence": "К1алэм '''ук1ытэ''' ынэгу ч1элъэп",
+            "translation": "The boy has no '''shame'''."
+          },
+		  {
+            "sentence": "'''Ук1ыт''' зыфа1орэр ыш1эрэп",
+            "translation": "He does not know what they call '''shame'''."
           }
         ]
       }
@@ -76599,23 +76882,17 @@
     "definitions": [
       {
         "meaning": "capability",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''лъэк1''' и1эп",
+            "translation": "The boy has no '''capabilities'''."
+          }
+        ]
       }
     ],
+    "shapsug": "лъэк1ь",
     "type": "noun",
-    "ipa": "ɬat͡ʃʼn"
-  },
-  {
-    "word": "лъэк1ь",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"лъэк1\"",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ɬakʼʲ"
+    "ipa": "ɬat͡ʃʼ"
   },
   {
     "word": "унэзэн",
@@ -76627,12 +76904,20 @@
           {
             "sentence": "к1алэр '''мэуназэ'''",
             "translation": "The boy '''is getting dizzy'''."
+          },
+		  {
+            "sentence": "узым '''сегъэуназэ'''",
+            "translation": "The illness '''makes me dizzy'''."
+          },
+		  {
+            "sentence": "Сыбыгъэрсысэу '''сыбгъэунэзагъ'''",
+            "translation": "By shaking me, '''you made me dizzy'''."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "wnazan"
+    "ipa": "wənazan"
   },
   {
     "word": "унэ1ут",
@@ -83024,9 +83309,34 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to stretch out",
-        "examples": []
+        "meaning": "to stretch",
+        "examples": [
+          {
+            "sentence": "К1алэм к1апсэр '''зэхещы'''",
+            "translation": "The boy '''is stretch''' the rope."
+          },
+          {
+            "sentence": "К1апсэр бащэу '''зэхэпщымэ''' зэпытхъыщт",
+            "translation": "'''If you stretch''' the rope too much it will tear."
+          },
+		  {
+            "sentence": "Фылымыр бащэу '''зэхащыгъ'''",
+            "translation": "They '''stretched''' the movie too much."
+          },
+		  {
+            "sentence": "К1алэм хьашъор '''зэхещы'''",
+            "translation": "The boy '''stretches''' the rubber."
+          },
+		  {
+            "sentence": "Сакъызэр '''зэхэмыщ'''",
+            "translation": "'''Don't stretch''' the gum."
+          }
+        ]
       }
+    ],
+    "synonyms": [
+      "къудыин",
+      "зэпыщын"
     ],
     "kabardian": "зэхэшын",
     "type": "verb",
@@ -90931,12 +91241,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "hot-tempered, quick-tempered, irascible",
+        "meaning": "hot-tempered, quick-tempered, irascible, short of temper, short-tempered, petulant, ill-tempered, a person that easily gets angry or often gets angry",
         "examples": []
       }
     ],
     "synonyms": [
-      "губжыгъош1у"
+      "губжыгъош1у",
+      "губжыл"
     ],
     "type": "adj",
     "ipa": "ɡʷəbʒəpx"
@@ -90946,15 +91257,32 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "hot-tempered, quick-tempered, irascible",
+        "meaning": "hot-tempered, quick-tempered, irascible, short of temper, short-tempered, petulant, ill-tempered, a person that easily gets angry or often gets angry",
         "examples": []
       }
     ],
     "synonyms": [
-      "губжыпх"
+      "губжыпх",
+      "губжыл"
     ],
     "type": "adj",
     "ipa": "ɡʷəbʒəʁʷaʃʷʼ"
+  },
+  {
+    "word": "губжыл",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "hot-tempered, quick-tempered, irascible, short of temper, short-tempered, petulant, ill-tempered, a person that easily gets angry or often gets angry",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "губжыпх",
+      "губжыгъош1у"
+    ],
+    "type": "adj",
+    "ipa": "ɡʷəbʒəɮ"
   },
   {
     "word": "губж",
