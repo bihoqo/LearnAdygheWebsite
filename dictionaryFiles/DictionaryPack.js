@@ -78080,7 +78080,7 @@
         "meaning": "to die for something or someone",
         "examples": [
           {
-            "sentence": "Ц1ыф горэхэр яш1ош1ухъунгъэ '''фэл1эщтых'''",
+            "sentence": "Ц1ыф горэхэр аш1ошъыхъурэм '''фэл1эщтых'''",
             "translation": "Some people '''will died''' for their belies."
           },
           {
@@ -78094,15 +78094,12 @@
         "examples": [
           {
             "sentence": "Сэ шхын 1эш1умэ '''сафал1э'''",
-            "translation": "t='''I love''' sweet foods."
+            "translation": "'''I love''' sweet foods."
           },
           {
             "sentence": "К1алэр пшъашъэм '''фал1э'''",
-            "translation": "t=The boy '''loves''' the girl."
+            "translation": "The boy '''loves''' the girl."
           }
-        ],
-        "tags": [
-          "slang"
         ]
       }
     ],
@@ -78110,11 +78107,11 @@
     "ipa": "faɬʼan"
   },
   {
-    "word": "зэгощын",
+    "word": "щэжьын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to stretch",
+        "meaning": "to return to",
         "examples": []
       }
     ],

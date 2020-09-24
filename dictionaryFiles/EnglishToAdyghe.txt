@@ -2112,10 +2112,10 @@
     "to snatch": "пхъотэн; къы1эпхъотэн (to snatch from someone); къыш1опхъотэн (to snatch from someone)"
   },
   {
-    "to lead": "щэн (to lead/take someone to); пэщэн (to lead as a leader); тещэн (to take/lead someone to above something); хэщэн (to take/lead someone to among other people or objects); хэщэн (to take/lead someone to an area liquid, gas, plants or trees); дэщэн (to take/lead someone to a yard); ищэн (to take/lead someone to inside something); дэщэен (to lead/take someone up); ещэхын (to lead/take someone down); къещэк1ын (to take/lead someone around)"
+    "to lead": "щэн (to lead/take someone to); пэщэн (to lead as a leader); тещэн (to take/lead someone to above something); хэщэн (to take/lead someone to among other people or objects); хэщэн (to take/lead someone to an area liquid, gas, plants or trees); дэщэн (to take/lead someone to a yard); ищэн (to take/lead someone to inside something); дэщэен (to lead/take someone up); ещэхын (to lead/take someone down); къещэк1ын (to take/lead someone around); щэжьын (to lead someone back to, to take someone back to, to return someone back to)"
   },
   {
-    "to escort": "щэн (to escort someone to); хэщэн (to escort someone to among other people or objects); хэщэн (to escort someone to an area liquid, gas, plants or trees); дэщэн (to escort someone to a yard); ищэн (to escort someone to inside something); дэщэен (to escort someone up); ещэхын (to escort someone down); къещэк1ын (to escort someone around)"
+    "to escort": "щэн (to escort someone to); хэщэн (to escort someone to among other people or objects); хэщэн (to escort someone to an area liquid, gas, plants or trees); дэщэн (to escort someone to a yard); ищэн (to escort someone to inside something); дэщэен (to escort someone up); ещэхын (to escort someone down); къещэк1ын (to escort someone around); щэжьын (to escort someone back to, to take someone back to, to return someone back to)"
   },
   {
     "to get sad": "нэшхъэин; нэшхъэеу хъугъэ; зэгожъын"
@@ -13260,10 +13260,10 @@
     "to sculpture based off": "теш1ык1ын"
   },
   {
-    "to masturbate": "(vulgar) 1эк1э еон; (very vulgar) 1эк1э теш1ык1ын (to masturbate off something)"
+    "to masturbate": "1эк1э ш1ын; (vulgar) 1эк1э еон; (very vulgar) 1эк1э теш1ык1ын (to masturbate off something)"
   },
   {
-    "to jerk off": "(vulgar) 1эк1э еон; (very vulgar) 1эк1э теш1ык1ын (to masturbate off something)"
+    "to jerk off": "1эк1э ш1ын; (vulgar) 1эк1э еон; (very vulgar) 1эк1э теш1ык1ын (to masturbate off something)"
   },
   {
     "to sculpture based off": "теш1ык1ын"
