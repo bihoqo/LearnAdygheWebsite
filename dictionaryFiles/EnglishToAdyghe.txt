@@ -5613,9 +5613,6 @@
     "to annoy": "ягъэ егъэк1ын; пшъэбы дэсын; шъхьэ тесын"
   },
   {
-    "to disturb": "ягъэ егъэк1ын; къин егъэхъун"
-  },
-  {
     "beggar": "лъэ1уак1о"
   },
   {
@@ -14319,7 +14316,13 @@
     "to outfly": "тебыбын"
   },
   {
-    "to outdistance": "течъын; (slang) тебыбын; ыпэ ишъын; к1ок1э тек1ын"
+    "to flow": "чъэн (псыр); течъын (to flow off something); ч1эчъын (to drip from under, to flow from beneath something, to leak from beneath something)"
+  },
+  {
+    "to leak": "ч1эчъын (to leak from beneath something)"
+  },
+  {
+    "to outdistance": "течъын; (slang) тебыбын (literally means: to outfly); ыпэ ишъын; к1ок1э тек1ын"
   },
   {
     "only": "ны1эп"
@@ -15621,10 +15624,13 @@
     "mess": "зэ1ыгъэхьагъ; зэгъэфагъэп (not arranged)"
   },
   {
-    "to become dysfunctional": "зэ1ыхьан; сэкъатын"
+    "to freak out": "зэ1ыхьан; зэ1ыгъэхьан (to make someone freakout)"
   },
   {
-    "to freakout": "зэ1ыхьан; зэ1ыгъэхьан (to make someone freakout)"
+    "to lose composure": "зэ1ыхьан"
+  },
+  {
+    "to lose self control": "зэ1ыхьан"
   },
   {
     "to lose mind": "зэ1ыхьан"
@@ -15663,7 +15669,13 @@
     "to commiserate": "шъхьасын; гук1эгъу фэш1ын; гу егъун  (гуегъун)"
   },
   {
-    "to break down": "зэщыкъон (device, machine, etc.)"
+    "to break down": "сэкъатын (device, machine, etc.); зэ1ыхьан; зэщыкъон (device, machine, etc.)"
+  },
+  {
+    "to become malfunctional": "сэкъатын (device, machine, etc.); зэ1ыхьан; зэщыкъон (device, machine, etc.)"
+  },
+  {
+    "to become dysfunctional": "сэкъатын (device, machine, etc.); зэ1ыхьан; зэщыкъон (device, machine, etc.)"
   },
   {
     "to get exhausted": "пшъын / къэпшъын"
@@ -17538,22 +17550,34 @@
     "to talk about": "тегущы1эн"
   },
   {
-    "to complicate": "зэхэлъэшъуагъэ ш1ын; зэхэфыгъуае ш1ын"
+    "to complicate": "зэхэлъэшъуагъэ ш1ын; зэхэфыгъуае ш1ын; зэ1ыш1эн"
   },
   {
-    "to disarray": "зэ1ыгъэхьан"
+    "to disorganize": "зэ1ыгъэхьан (to disorganize, to disarray; to disorder; to make a mess; to mess up; to make anarchy; to make chaos)"
   },
   {
-    "to confuse": "зэ1ыш1эн; зэ1ыгъэхьан"
+    "to disarray": "зэ1ыгъэхьан (to disorganize, to disarray; to disorder; to make a mess; to mess up; to make anarchy; to make chaos)"
   },
   {
-    "to make anarchy": "зэ1ыгъэхьан"
+    "to mess up": "зэ1ыгъэхьан (to disorganize, to disarray; to disorder; to make a mess; to mess up; to make anarchy; to make chaos)"
   },
   {
-    "to make mess": "зэ1ыгъэхьан"
+    "to disturb": "ягъэ егъэк1ын / къин егъэхъун (to annoy, to interrupt and harm, to get in the way of someone); зэ1ыхьан; зэ1ыгъэхьан (to disturb someone, to have a negative emotional impact, to cause emotional distress or confusion)"
   },
   {
-    "to make chaos": "зэ1ыгъэхьан"
+    "to confuse": "зэ1ыгъэхьан; зэ1ыш1эн"
+  },
+  {
+    "to make anarchy": "зэ1ыгъэхьан (to disarray; to disorder; to make a mess; to mess up; to make anarchy; to make chaos)"
+  },
+  {
+    "to make mess": "зэ1ыгъэхьан (to disarray; to disorder; to make a mess; to mess up; to make anarchy; to make chaos)"
+  },
+  {
+    "to make a mess": "зэ1ыгъэхьан (to disarray; to disorder; to make a mess; to mess up; to make anarchy; to make chaos)"
+  },
+  {
+    "to make chaos": "зэ1ыгъэхьан (to disarray; to disorder; to make a mess; to mess up; to make anarchy; to make chaos)"
   },
   {
     "doorjamb": "пчъаблэ"

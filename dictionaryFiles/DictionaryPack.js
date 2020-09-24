@@ -45785,7 +45785,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to surpass; to outrun; to run faster than something and passing it",
+        "meaning": "to surpass; to outrun; to outdistance; to run faster than something and passing it",
         "examples": [
           {
             "sentence": "К1алэр пшъашъэм '''тэчъыгъ'''",
@@ -45810,6 +45810,49 @@
           {
             "sentence": "Кур жъажъэ нэмы1эк1э автобус '''къэтечъыгъ'''",
             "translation": "The car was so slow '''we were overtaken by''' a bus."
+          },
+		  {
+            "sentence": "'''Шъукъэстечъышъущтэп'''",
+            "translation": "'''You cannot outrun me'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "to flow off",
+        "examples": [
+          {
+            "sentence": "Къещхырэ псыр ушашъхьэм '''къытечъы'''",
+            "translation": "The rain is '''flowing off''' the roof."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "tajt͡ʂən"
+  },
+  {
+    "word": "тебыбын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to outfly (to fly better, faster, or further than)",
+        "examples": [
+          {
+            "sentence": "Къухьэлъатэр бзыум '''течъыгъ'''",
+            "translation": "The airplane '''outflew''' the bird."
+          }
+        ]
+      },
+	  {
+        "meaning": "(slang) to outrun",
+        "examples": [
+          {
+            "sentence": "Кур к1алэм '''тебыбыгъ'''",
+            "translation": "The car '''outran''' the boy."
+          },
+		  {
+            "sentence": "'''Шъукъэстебыбышъущтэп'''",
+            "translation": "'''You cannot outrun me'''."
           }
         ]
       }
@@ -77095,16 +77138,219 @@
     "ipa": "qaʁanaʑən"
   },
   {
-    "word": "сэкъатын",
+    "word": "зэ1ыхьан",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to become out of order, to be ruined (usually machines)",
+        "meaning": "to be disarray; to be thrown into disorder; to become messed up",
+        "examples": [
+          {
+            "sentence": "Унэр '''зэ1ыхьагъ'''",
+            "translation": "The house '''was disarrayed'''."
+          },
+          {
+            "sentence": "Компыютэрэр '''зэ1ыхьагъ'''",
+            "translation": "The computer '''was disarrayed'''."
+          }
+        ]
+      },
+      {
+        "meaning": "to become out of order; to be ruined (usually machines); to become dysfunctional; to break down (machine); to become malfunctional",
+        "examples": [
+          {
+            "sentence": "Кур '''зэ1ыхьагъ'''",
+            "translation": "The car '''broke down'''."
+          },
+		  {
+            "sentence": "Л1ым машинэр '''зэ1игъэхьагъ'''",
+            "translation": "The man '''broke down''' the machine."
+          },
+		  {
+            "sentence": "Машинэр псы дахьи '''зэ1ыхьагъ'''",
+            "translation": "Water entered the machine and '''it became malfunctional'''."
+          },
+		  {
+            "sentence": "Кофе сикомпыютэр теск1агъэти, '''зэ1ыхьагъ'''",
+            "translation": "Because I spilled coffee on my computer, '''it broke down'''."
+          }
+        ]
+      },
+      {
+        "meaning": "to freak out; to lose composure; to lose self control; to become disturbed; to lose one's sanity; to become insane/mad",
+        "examples": [
+          {
+            "sentence": "К1алэм иянэ '''зэ1ыхьагъ''' унэр зэрэш1оир зелъэгъум",
+            "translation": "The mother of the boy '''freaked out''' when she saw how the house was dirty."
+          },
+		  {
+            "sentence": "Зыгорэ къыос1ощт, ау къыос1омэ '''укъызэ1ымыхь'''",
+            "translation": "I will tell you somehting, but when I tell you '''don't freak out'''."
+          },
+		  {
+            "sentence": "Пшъашъэр къызэумэзэхым '''зэ1ыхьагъ'''",
+            "translation": "The girl '''freaked out''' when it became dark."
+          },
+		  {
+            "sentence": "Бзылъфыгъэм цыгъо зелъэгъум '''къызэ1ыхьагъ'''",
+            "translation": "When the woman saw a house '''she freaked out'''."
+          },
+		  {
+            "sentence": "Пачъыхьыр '''зэ1ыхьи''' ц1ыфыхэр ыук1эу ежьагъ",
+            "translation": "The king '''became mad''' and start to kill people."
+          },
+		  {
+            "sentence": "К1алэр '''зэ1ыхьи''' унашъхьэм къепк1агъ",
+            "translation": "The boy '''became mad''' and jumped off the roof."
+          },
+		  {
+            "sentence": "Л1ым изакъоу, ц1ыф къыдэмыгущы1эу, '''зэ1ыхьэу''' ыублагъ",
+            "translation": "The boy being alone, not talking to anybody, started '''to lose his sanity'''."
+          }
+        ]
+      },
+      {
+        "meaning": "to get confused",
+        "examples": [
+          {
+            "sentence": "'''Сызэ1ыхьагъ'''",
+            "translation": "'''I became confused'''."
+          },
+		  {
+            "sentence": "Хъурэмк1э л1ыр '''зэ1ыхьагъ'''",
+            "translation": "The man '''became confused''' due to what is happening."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaʔaħan"
+  },
+  {
+    "word": "зэ1эхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"зэ1ыхьан\"",
         "examples": []
       }
     ],
     "type": "verb",
-    "ipa": "masaqaːtən"
+    "ipa": "zaʔaħan"
+  },
+  {
+    "word": "зы1ыгъэхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"зы1эгъэхьан\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaʔaʁaħaːn"
+  },
+  {
+    "word": "зы1эгъэхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"зэ1ыгъэхьан\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaʔaʁaħaːn"
+  },
+  {
+    "word": "зэ1ыгъэхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to disorganize; to disarray; to disorder; to make a mess; to mess up; to make anarchy; to make chaos",
+        "examples": [
+          {
+            "sentence": "Сику '''зэ1эбгъэхьагъ'''",
+            "translation": "'''You disarrayed''' my car."
+          },
+          {
+            "sentence": "К1алэм унэм '''зэ1игъэхьагъ'''",
+            "translation": "The boy '''disarrayed''' the house."
+          }
+        ]
+      },
+      {
+        "meaning": "to make something cease to function; to make something dysfunctional; to cause a break down (machine); to make malfunctional",
+        "examples": [
+          {
+            "sentence": "Компыютэрэр '''зы1игъэхьагъ'''",
+            "translation": "'''Don't ruin''' my computer."
+          },
+		  {
+            "sentence": "Л1ым машинэр '''зэ1игъэхьагъ'''",
+            "translation": "The man '''broke down''' the machine."
+          },
+		  {
+            "sentence": "Машинэр псы дахьи '''зэ1игъэхьагъ'''",
+            "translation": "Water entered the machine and '''made it malfunctional'''."
+          }
+        ]
+      },
+      {
+        "meaning": "to disturb someone; to confuse someone; to have a negative emotional impact, to cause emotional distress or confusion",
+        "examples": [
+          {
+            "sentence": "Зэ '''сызэ1ыбгъэхьагъ'''",
+            "translation": "Wait, '''you confused me'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaʔaʁaħan"
+  },
+  {
+    "word": "зэ1эгъэхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"зэ1ыгъэхьан\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaʔaʁaħaːn"
+  },
+  {
+    "word": "сэкъатын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to become out of order; to be ruined (usually machines); to become dysfunctional; to break down (machine); to become malfunctional",
+        "examples": [
+          {
+            "sentence": "Кур '''сэкъатыгъ'''",
+            "translation": "The car '''broke down'''."
+          },
+		  {
+            "sentence": "Л1ым машинэр '''ыгъэсэкъатыгъ'''",
+            "translation": "The man '''broke down''' the machine."
+          },
+		  {
+            "sentence": "Машинэр псы дахьи '''сэкъатыгъ'''",
+            "translation": "Water entered the machine and '''it became malfunctional'''."
+          },
+		  {
+            "sentence": "Кофе сикомпыютэр теск1агъэти, '''сэкъатыгъ'''",
+            "translation": "Because I spilled coffee on my computer, '''it broke down'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "зэщыкъон"
+    ],
+    "type": "verb",
+    "ipa": "saqaːtən"
   },
   {
     "word": "гъэсэкъатын",
@@ -82312,40 +82558,6 @@
     ],
     "type": "verb",
     "ipa": "ʃʷa hajt͡ʂən"
-  },
-  {
-    "word": "течъын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "a liquid to slide off above something",
-        "examples": []
-      },
-      {
-        "meaning": "to surpass; to overtake",
-        "examples": [
-          {
-            "sentence": "К1алэр джэгумк1э къэстечъыгъ",
-            "translation": "The boy overtook me in the game."
-          }
-        ]
-      },
-      {
-        "meaning": "to outrun, to outdistance",
-        "examples": [
-          {
-            "sentence": "Руслъан Асхьадэ течъыгъ",
-            "translation": "Ruslan outran Askhad in the race."
-          }
-        ]
-      }
-    ],
-    "synonyms": [
-      "ыпэ ишъын",
-      "к1ок1э тек1ын"
-    ],
-    "type": "verb",
-    "ipa": "thajt͡ʂən"
   },
   {
     "word": "иупк1ын",
@@ -91153,89 +91365,6 @@
     ],
     "type": "verb",
     "ipa": "ɕəsaχʷət͡ʃʼən"
-  },
-  {
-    "word": "зэ1ыхьан",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to be disarray, to be thrown into disorder",
-        "examples": [
-          {
-            "sentence": "Унэр '''зэ1ыхьагъ'''",
-            "translation": "The house '''was disarrayed'''."
-          },
-          {
-            "sentence": "Компыютэрэр '''зэ1ыхьагъ'''",
-            "translation": "The computer '''was disarrayed'''."
-          }
-        ]
-      },
-      {
-        "meaning": "to become dysfunctional",
-        "examples": []
-      },
-      {
-        "meaning": "to freakout",
-        "examples": []
-      },
-      {
-        "meaning": "to lose one's sanity; to become insane",
-        "examples": [
-          {
-            "sentence": "К1алэм иянэ  '''зэ1ыхьагъ''' унэр зэрэш1оир елъэгъум",
-            "translation": "The mother of the boy '''freaked out''' when she saw how the house was dirty."
-          }
-        ]
-      },
-      {
-        "meaning": "to get very confused",
-        "examples": [
-          {
-            "sentence": "'''Сызэ1ыхьагъ'''",
-            "translation": "'''I became confused'''."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "zaʔaħan"
-  },
-  {
-    "word": "зэ1эхьан",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"зэ1ыхьан\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "zaʔaħan"
-  },
-  {
-    "word": "зы1ыгъэхьан",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"зы1эгъэхьан\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "zaʔaʁaħaːn"
-  },
-  {
-    "word": "зы1эгъэхьан",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"зэ1ыгъэхьан\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "zaʔaʁaħaːn"
   },
   {
     "word": "шъхьасын",
@@ -101568,61 +101697,6 @@
     ],
     "type": "verb",
     "ipa": "zaxaɬaʃʷaːʁa ʃʼən"
-  },
-  {
-    "word": "зэ1ыгъэхьан",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to disarray; to disorder; to make a mess",
-        "examples": [
-          {
-            "sentence": "Си ку '''зэ1эбгъахьагъ'''",
-            "translation": "'''You disarrayed''' my car."
-          },
-          {
-            "sentence": "К1алэм унэм '''зэ1эбгъахьагъ'''",
-            "translation": "The boy '''disarrayed''' the house."
-          }
-        ]
-      },
-      {
-        "meaning": "to make something cease to function; to make something dysfunctional",
-        "examples": [
-          {
-            "sentence": "Компыютэрэр '''зы1игъэхьагъ'''",
-            "translation": "'''Don't ruin''' my computer."
-          }
-        ]
-      },
-      {
-        "meaning": "to really confuse someone",
-        "examples": [
-          {
-            "sentence": "Зэ '''сызэ1ыбгъэхьагъ'''",
-            "translation": "Wait, '''you confused me'''."
-          }
-        ]
-      },
-      {
-        "meaning": "to make anarchy/chaos/mess",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "zaʔaʁaħan"
-  },
-  {
-    "word": "зэ1эгъэхьан",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"зэ1ыгъэхьан\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "zaʔaʁaħaːn"
   },
   {
     "word": "пчъаблэ",
