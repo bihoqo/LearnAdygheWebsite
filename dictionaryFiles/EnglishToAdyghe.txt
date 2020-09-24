@@ -4680,9 +4680,6 @@
     "to wring": "фызын"
   },
   {
-    "to squeeze": "фызын (to wring, to press tightly, to squeeze something (the effect of the squeezing is reversible)); ц1ыц1ын (to squeeze something (the effect of the squeezing is irreversible), to compress, to squish, to squash); к1эфызык1ын / хэфызык1ын (to squeeze out); дэц1ыц1эн (to squeeze into, to compress into, to squish in, to squash into); п1ырт1ын; зэхэпфызэн (to squeeze in, to pack tightly together)"
-  },
-  {
     "to squeeze out": "к1эфызык1ын / хэфызык1ын"
   },
   {
@@ -4710,7 +4707,13 @@
     "to fix": "гъэтэрэзыжьын (recorrect); ш1ыжьын (to repair); дыжьын (to sew up), гъэцэк1эжьын (to mend)"
   },
   {
-    "to destroy": "гъэон; зэхэкъутэн; зэхэкъутыхьан; зэхэубэтэн; зэхэубэтыхьан; гъэухъэрэбын (from Arabic)"
+    "to destroy": "гъэон; убэтэн; зэхэкъутэн; зэхэкъутыхьан; зэхэубэтэн; зэхэубэтыхьан; (from Arabic) гъэухъэрэбын"
+  },
+  {
+    "to demolish": "он (to be demolished); зэхэкъутэн (to be demolished); гъэон (to demolish something); зэхэгъэкъутэн (to demolish something)"
+  },
+  {
+    "to wreck": "гъэон; убэтэн; къутэн; зэхэкъутэн; зэхэкъутыхьан; зэхэубэтэн; зэхэубэтыхьан"
   },
   {
     "to ruin": "гъэон (to destroy, to spoil); гъэсэкъатын (to make something dysfunctional); унэхъун; гъэунэхъун; зэ1ыгъэхьан (to make something dysfunctional)"
@@ -4761,7 +4764,7 @@
     "to run over": "иутын"
   },
   {
-    "to fracture": "зэпык1ын"
+    "to fracture": "зэпык1ын; къутэн"
   },
   {
     "to come off": "пык1ын"
@@ -13893,6 +13896,9 @@
     "to go to waste": "сапэм дэк1оен"
   },
   {
+    "to be in vain": "сапэм дэк1оен"
+  },
+  {
     "to have chills": "шъхьацышъо тэджын"
   },
   {
@@ -14118,13 +14124,19 @@
     "repeatedly": "къытэгъэзагъэу"
   },
   {
-    "to shove": "дэкон (to cram/shove something inside another object, to cram/shove in between); хэкон (to cram/shove through); 1удзын (to shove someone away); икон (to cram/shove inside); ч1экон (to cram/shove under); е1унк1эн (to push someone); игъэзыхьан (to forcefully shove inside); чӏэгъэзыхьан (to forcefully shove under something); хэгъэзыхьан (to forcefully shove through); дэгъэзыхьан (to forcefully shove into); къогъэзыхьан (to forcefully shove behind); т1ыргун (to shove, to push)"
-  },
-  {
     "to tuck": "дэкон"
   },
   {
-    "to cram": "дэкон (to cram something into, to cram in between); хэкон (to cram through); икон (to cram inside); ч1экон (to cram under); дэгъэзыхьан (to forcefully cram something in between, to forcefully cram something inside another object); игъэзыхьан (to forcefully cram inside); чӏэгъэзыхьан (to forcefully cram under something)"
+    "to squeeze": "фызын (to wring, to press tightly, to squeeze something (the effect of the squeezing is reversible)); ц1ыц1ын (to squeeze something (the effect of the squeezing is irreversible), to compress, to squish, to squash); к1эфызык1ын / хэфызык1ын (to squeeze out); дэц1ыц1эн (to squeeze into, to compress into, to squish in, to squash into); п1ырт1ын; зэхэпфызэн (to squeeze in, to pack tightly together); дэкон / дэкоцэн (to press and squeeze into something, to press and squeeze in between); хэкон / хэкоцэн (to press and squeeze through something); икон / икоцэн (to press and squeeze inside something); ч1экон / ч1экоцэн (to press and squeeze under something); текон / текоцэн (to press and squeeze above something); дэгъэзыхьан (to forcefully squeeze something in between, to forcefully squeeze something inside another object); игъэзыхьан (to forcefully squeeze inside); чӏэгъэзыхьан (to forcefully squeeze under something); хэгъэзыхьан (to forcefully squeeze through); къогъэзыхьан (to forcefully squeeze behind)"
+  },
+  {
+    "to cram": "дэкон / дэкоцэн (to cram into something, to cram in between); хэкон / хэкоцэн (to cram through something); икон / икоцэн (to cram inside something); ч1экон / ч1экоцэн (to cram under something); текон / текоцэн (to cram above something); дэгъэзыхьан (to forcefully cram something in between, to forcefully cram something inside another object); игъэзыхьан (to forcefully cram inside); чӏэгъэзыхьан (to forcefully cram under something); хэгъэзыхьан (to forcefully cram through); къогъэзыхьан (to forcefully cram behind)"
+  },
+  {
+    "to shove": "дэкон / дэкоцэн (to shove into something, to shove in between); хэкон / хэкоцэн (to shove through something); икон / икоцэн (to shove inside something); ч1экон / ч1экоцэн (to shove under something); текон / текоцэн (to shove above something); дэгъэзыхьан (to forcefully shove something in between, to forcefully shove something inside another object); игъэзыхьан (to forcefully shove inside); чӏэгъэзыхьан (to forcefully shove under something); хэгъэзыхьан (to forcefully shove through); къогъэзыхьан (to forcefully shove behind); т1ыргун (to shove, to push)"
+  },
+  {
+    "to stuff": "дэкон / дэкоцэн (to stuff into something, to stuff in between); хэкон / хэкоцэн (to stuff through something); икон / икоцэн (to stuff inside something); ч1экон / ч1экоцэн (to stuff under something); текон / текоцэн (to stuff above something)"
   },
   {
     "when": "сыдигъо; (dialectal) тэщгъум; (dialectal) шъыдигъо / шъыдгъо; зэхъум (when it happened); зыхъурэм / зыхъук1э (when it happens)"

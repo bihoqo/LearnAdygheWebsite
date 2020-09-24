@@ -49304,39 +49304,6 @@
     "ipa": "ʔʷarəʃʼa"
   },
   {
-    "word": "убэтэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to shatter, to destroy (cannot be repaired anymore)",
-        "examples": [
-          {
-            "sentence": "К1алэм 1анэр '''ыубэтагъ'''",
-            "translation": "The boy '''broke''' the table."
-          },
-          {
-            "sentence": "Апчыр '''сэубатэ'''",
-            "translation": "I am '''breaking''' the window."
-          },
-          {
-            "sentence": "Унэр '''умыубат'''",
-            "translation": "Don't '''destroy''' the house."
-          },
-          {
-            "sentence": "К1алэр кумк1э дафи кур '''ыубэтагъ'''",
-            "translation": "The boy '''destroyed''' the car by crashing with/using it."
-          },
-          {
-            "sentence": "К1алэм 1анэр '''еубатэ'''",
-            "translation": "The boy '''is destroying''' the table."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "wəbatan"
-  },
-  {
     "word": "зэхэубэтыхьан",
     "lang": "Adyghe",
     "definitions": [
@@ -78613,43 +78580,30 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to put/push someone or something forcefully between something or inside another object",
-        "examples": [
-          {
-            "sentence": "Мы тхылък1эр модэ тхылъжъымэ '''адэкуац'''",
-            "translation": "'''Put''' this new book there '''against''' the old books."
-          },
-          {
-            "sentence": "Дэпкъым '''сыдэбэкуацэ'''",
-            "translation": "'''You are pushing me against''' the wall."
-          },
-          {
-            "sentence": "Тхылъхэр '''зэдэкоцагъэх'''",
-            "translation": "The books '''are compressed'''."
-          }
-        ]
+        "meaning": "alternative form of \"дэкон\"",
+        "examples": []
       }
     ],
     "type": "verb",
     "ipa": "dakʷat͡san"
   },
   {
-    "word": "сапэм ч1ык1ын",
+    "word": "сапэм дэк1оен",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to go to waste,",
+        "meaning": "to go to waste; to be in vain",
         "examples": [
           {
-            "sentence": "К1алэр еш1агъэ купэр '''сапэм ч1ык1ыгъ'''",
+            "sentence": "К1алэр ыш1агъэ зэк1эр '''сапэм дэк1оягъ'''",
             "translation": "All the things the boy did '''gone to waste'''."
           },
           {
-            "sentence": "Узеджагъ купэ '''сапэм ч1ык1ыщт''' экзаменым укъимык1ымэ",
+            "sentence": "Узеджагъ зэк1эр '''сапэм дэк1оещт''' экзаменым укъимык1ымэ",
             "translation": "All your studies '''will go to waste''' if you don't pass the exam."
           },
           {
-            "sentence": "Л1ым тхьэмафэм гонахьэу ылэжьыгъэхэмэ ипсапэ купэ '''сапэм ч1ыгъэк1ыгъэх'''",
+            "sentence": "Л1ым тхьэмафэм гонахьэу ылэжьыгъэхэмэ ипсапэ зэк1эхэр '''сапэм дигъэк1оягъэх'''",
             "translation": "The sins the man did in the week, '''wasted''' all the good deeds he done."
           }
         ]
@@ -78695,7 +78649,7 @@
     "ipa": "d͡ʒəxawan"
   },
   {
-    "word": "джыхэупс1эн",
+    "word": "джыхэупц1эн",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -78707,27 +78661,23 @@
     "ipa": "d͡ʒəxawpsʼan"
   },
   {
-    "word": "хэупс1эн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"хэупц1эн\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "xawpsʼan"
-  },
-  {
     "word": "хэупц1эн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to throw an object against something forcefully",
+        "meaning": "to throw and smash something against",
         "examples": [
           {
-            "sentence": "К1алэм апчыр дэпкъым '''хиупц1и''' икъутагъ",
+            "sentence": "К1элэц1ык1у бзаджэмэ к1энк1эхэр дэпкъым '''хаупц1эх'''",
+            "translation": "The naughty kids '''are throwing''' the eggs '''against''' the wall."
+          },
+		  {
+            "sentence": "К1алэм апчыр дэпкъым '''хиупц1и''' ыкъутагъ",
             "translation": "The boy '''smashed''' the glass '''against''' the wall and broke it to pieces."
+          },
+		  {
+            "sentence": "К1алэхэмэ пицэ ашхэу, Куджаным к1алэр ыгъэгубжыгъэшъ, к1алэм пицэ къишти, Куджаным ынахэ '''хиупц1агъ'''",
+            "translation": "While the boys were eating pizza, because Kujan made the boy angry, the boy grabbed the pizza and '''throw it against''' Kujan's face."
           }
         ]
       },
@@ -78735,29 +78685,131 @@
         "meaning": "to stain forcefully, to make a mark on a surface or a piece of clothing forcefully",
         "examples": [
           {
-            "sentence": "Шъохэр фыжьы дэпкъым '''хэмыупц1эх'''",
+            "sentence": "Шъохэр дэпкъы фыжьым '''хэмыупц1эх'''",
             "translation": "'''Don't stain''' the colors '''on''' the white wall."
           }
         ]
       }
     ],
+    "shapsug": "хэупс1эн",
     "type": "verb",
     "ipa": "xawpt͡sʼan"
+  },
+  
+  {
+    "word": "убэтэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to break; to shatter",
+        "examples": [
+          {
+            "sentence": "1анэм '''мэубэтэ'''",
+            "translation": "The table '''shatters'''."
+          },
+		  {
+            "sentence": "Шъхьангъупчъэр '''убэтагъэ'''",
+            "translation": "The window '''shattered'''."
+          },
+		  {
+            "sentence": "К1алэм 1анэр '''ыубэтагъ'''",
+            "translation": "The boy '''broke''' the table."
+          },
+          {
+            "sentence": "Апчыр '''сэубатэ'''",
+            "translation": "I am '''breaking''' the window."
+          }
+        ]
+      },
+	  {
+        "meaning": "to destroy; to wreck",
+        "examples": [
+          {
+            "sentence": "Унэр '''умыубат'''",
+            "translation": "Don't '''destroy''' the house."
+          },
+          {
+            "sentence": "К1алэр кумк1э дафи кур '''ыубэтагъ'''",
+            "translation": "The boy '''destroyed''' the car by crashing with/using it."
+          },
+          {
+            "sentence": "К1алэм 1анэр '''еубатэ'''",
+            "translation": "The boy '''is destroying''' the table."
+          },
+		  {
+            "sentence": "Унэр '''къызэхэубатэ'''",
+            "translation": "The house '''is collapsing'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "wəbatan"
   },
   {
     "word": "къутэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to break (can be repaired)",
+        "meaning": "to break; to shatter",
         "examples": [
           {
+            "sentence": "1анэм '''мэкъутэ'''",
+            "translation": "The table '''breaks'''."
+          },
+		  {
+            "sentence": "Шъхьангъупчъэр '''къутагъэ'''",
+            "translation": "The window '''broke'''."
+          },
+		  {
             "sentence": "К1алэм 1анэр '''ыкъутагъ'''",
             "translation": "The boy '''broke''' the table."
           },
           {
             "sentence": "Ушхымэ уинэк1ы '''ыкъутэщт'''",
             "translation": "If you eat '''it will break''' your fest."
+          },
+		  {
+            "sentence": "'''Сымыш1ахэу''' сыкъутагъ 1анэр.",
+            "translation": "I broke the table '''by mistake'''."
+          },
+          {
+            "sentence": "Ку къутагъэр тракторым '''пыш1агъ'''",
+            "translation": "The destroyed car '''is connected''' to the tractor."
+          },
+		  {
+            "sentence": "К1алэм апчыр дэпкъым '''хиупц1и''' ыкъутагъ",
+            "translation": "The boy '''smashed''' the glass '''against''' the wall and broke it to pieces."
+          }
+        ]
+      },
+	  {
+        "meaning": "to destroy; to wreck",
+        "examples": [
+          {
+            "sentence": "Унэр '''къызэхэкъутэ'''",
+            "translation": "The house '''is collapsing'''."
+          },
+		  {
+            "sentence": "Унэр '''умыкъут'''",
+            "translation": "Don't '''destroy''' the house."
+          },
+          {
+            "sentence": "К1алэр кумк1э дафи кур '''ыкъутагъ'''",
+            "translation": "The boy '''destroyed''' the car by crashing with/using it."
+          },
+          {
+            "sentence": "К1алэм 1анэр '''екъутэ'''",
+            "translation": "The boy '''is destroying''' the table."
+          }
+        ]
+      },
+	  {
+        "meaning": "to fracture",
+        "examples": [
+          {
+            "sentence": "К1алэм ылъакъо '''къутагъ'''",
+            "translation": "The boy's leg '''fractured'''."
           }
         ]
       }
@@ -78766,7 +78818,7 @@
     "ipa": "qʷətan"
   },
   {
-    "word": "джыхэхьэн",
+    "word": "джыхэхьан",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -78782,28 +78834,44 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to collide into",
+        "meaning": "to collide into; to knock against, to bump against",
         "examples": [
           {
-            "sentence": "К1алэр шымк1э адрэ шым '''еол1агъ''",
+            "sentence": "К1алэр шымк1э адрэ шым '''еол1агъ'''",
             "translation": "The boy '''collieded''' with the horse '''into''' the other horse."
+          },
+		  {
+            "sentence": "К1алэм ы1энтэгъук1э шъхьангъупчъэм '''еуал1и''' ыгъэчагъ",
+            "translation": "The boy '''knocked''' the window with his elbow and made it crack."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "d͡ʒəxaħan"
+    "ipa": "jawaɬʼan"
   },
   {
     "word": "жэхэхьан",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to collide with, to crash into",
+        "meaning": "to collide into; to crash into",
         "examples": [
           {
-            "sentence": "К1алэр дэпкъым '''жэхэхьагъ'''!",
-            "translation": "The boy '''collided with''' the wall."
+            "sentence": "К1алэр дэпкъым '''жэхэхьагъ'''",
+            "translation": "The boy '''crashed into''' the wall."
+          },
+		  {
+            "sentence": "Кур чъыгым '''жэхэхьагъ'''",
+            "translation": "The car '''crashed into''' the tree."
+          },
+		  {
+            "sentence": "'''Укъэсжэхахьэ'''",
+            "translation": "'''You are bumping into me'''."
+          },
+		  {
+            "sentence": "Куит1ур '''зэжэхэхьагъэх'''",
+            "translation": "The two cars '''crashed into each other'''."
           }
         ]
       }
@@ -78822,9 +78890,13 @@
             "sentence": "'''Сшъхьацышъо огъэтэджы'''",
             "translation": "'''You give me the chills'''."
           },
+		  {
+            "sentence": "Мы орэдым '''сшъхьацышъо егъэтэджы'''",
+            "translation": "This song '''gives me chills'''."
+          },
           {
             "sentence": "К1алэм ышъхьацышъо '''къегъэтэджы'''",
-            "translation": "The boy '''gives''' him '''chills'''."
+            "translation": "The boy '''gives''' him/her '''chills'''."
           }
         ]
       }
@@ -86278,11 +86350,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to crack",
+        "meaning": "to crack something",
         "examples": [
           {
             "sentence": "Апчыр к1алэм '''ыгъэчагъ'''",
             "translation": "The boy '''cracked''' the glass."
+          },
+		  {
+            "sentence": "К1алэм ы1энтэгъук1э шъхьангъупчъэм еуал1и '''ыгъэчагъ'''",
+            "translation": "The boy knocked the window with his elbow and '''made it crack'''."
           }
         ]
       }
@@ -96633,7 +96709,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to cram/shove an object into",
+        "meaning": "to stuff something into; to cram something into; to press and squeeze something into; to shove something into",
         "examples": [
           {
             "sentence": "Джанэхэр дэлъып1эм '''дакох'''",
@@ -96646,6 +96722,18 @@
           {
             "sentence": "Тхылъыр ардэ тхылъит1ум '''даку'''",
             "translation": "'''Shove''' the book '''in between''' the other two books."
+          },
+		  {
+            "sentence": "Мы тхылък1эр модэ тхылъжъымэ '''адэкуац'''",
+            "translation": "'''Put''' this new book there '''against''' the old books."
+          },
+          {
+            "sentence": "Дэпкъым '''сыдэбэкуацэ'''",
+            "translation": "'''You are pushing me against''' the wall."
+          },
+          {
+            "sentence": "Тхылъхэр '''зэдэкоцагъэх'''",
+            "translation": "The books '''are compressed'''."
           }
         ]
       },
