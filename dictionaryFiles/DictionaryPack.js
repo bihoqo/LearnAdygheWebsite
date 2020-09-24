@@ -68807,7 +68807,20 @@
     "definitions": [
       {
         "meaning": "blacksmith",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Гъук1эр''' мэгъук1э",
+            "translation": "'''The blacksmith''' forges."
+          },
+		  {
+            "sentence": "К1ыщым '''гъук1эр''' щэгъук1э",
+            "translation": "'''The blacksmith''' is forging in the smithy."
+          },
+		  {
+            "sentence": "'''Гъук1эр''' гъук1энэу к1ыщым к1уагъэ",
+            "translation": "'''The blacksmith''' went to the smithy to forge."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -78126,8 +78139,8 @@
         "meaning": "to run off from under something; to dash off from under something",
         "examples": [
           {
-            "sentence": "К1алэр унэ ч1эгъым '''къы1эшъуты'''",
-            "translation": "t=The boy '''running away''' from under the house."
+            "sentence": "К1алэр унэ ч1эгъым '''къыч1эхъушъуты'''",
+            "translation": "The boy '''is running away''' from under the house."
           }
         ]
       }
@@ -78210,7 +78223,7 @@
         "meaning": "appropriately/accordingly as one deserves; deservingly",
         "examples": [
           {
-            "sentence": "Къинэу мэлажьэрэм '''фэшъуашэу''' ахъщэ къыратыщт",
+            "sentence": "Къинэу лажьэрэм '''фэшъуашэу''' ахъщэ къыратыщт",
             "translation": "One that works hard will get money '''appropriately'''"
           },
           {
@@ -78220,15 +78233,14 @@
           {
             "sentence": "Уасэу утырэм '''фэшъуашэу''' къэпщэфырэр дэгъущт",
             "translation": "The thing you buy will be good '''accordingly''' on the price you pay."
-          }
-        ]
-      },
-      {
-        "meaning": "accordingly",
-        "examples": [
+          },
           {
-            "sentence": "Пый дзэр зэрэзак1орэм '''фэшъуашэу''' шъори шъухъый",
-            "translation": "You (pl.) move '''accordingly''' to how the enemy army behaves."
+            "sentence": "К1алэм ыш1эрэм '''фэшъуашэу''' тызек1ощт",
+            "translation": "We will response '''accordingly''' to what the boy does"
+          },
+		  {
+            "sentence": "Пый дзэр зэрэзек1орэм '''фэшъуашэу''' шъори шъухъый",
+            "translation": "You move '''accordingly''' to how the enemy army behaves."
           }
         ]
       }
@@ -78237,35 +78249,27 @@
     "ipa": "faʃʷaːʃaw"
   },
   {
-    "word": "иш1уагъэ ек1ьын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"иш1уагъэ ек1ын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "jəʃʷʼaːʁa jakʲʼən"
-  },
-  {
     "word": "иш1уагъэ ек1ын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to benefit from it",
+        "meaning": "to benefit",
         "examples": [
           {
-            "sentence": "К1алэр '''иш1уагъэ къигъэк1ыщтэп'''",
-            "translation": "'''You will not benefit''' from the boy."
+            "sentence": "Уцым '''иш1уагъэ къыуигъэк1ыщтэп'''",
+            "translation": "The plant '''won't benefit you'''."
           },
           {
-            "sentence": "Бэрэ уеджэмэ '''иш1уагъэ къыигъэк1ыщт'''",
+            "sentence": "Бэрэ уеджэмэ '''иш1уагъэ къыуигъэк1ыщт'''",
             "translation": "Studying a lot '''will benefit you'''."
           },
           {
-            "sentence": "К1алэм тхылъым '''иш1уагъэ ек1ы'''",
-            "translation": "The boy '''is benefiting from ''' the book."
+            "sentence": "К1алэм тхылъым '''иш1уагъэ регъэк1ы'''",
+            "translation": "The book '''benefits''' the boy."
+          },
+          {
+            "sentence": "Бзэ зэбгъэш1эным '''иш1уагъэ сигъэк1ыгъ'''",
+            "translation": "Learning a language '''benefited me'''."
           }
         ]
       }
@@ -78279,11 +78283,72 @@
     "definitions": [
       {
         "meaning": "smithy, farriery, forge",
+        "examples": [
+          {
+            "sentence": "'''К1ыщым''' гъук1эр щэгъук1э",
+            "translation": "The blacksmith is forging in '''the smithy'''."
+          },
+		  {
+            "sentence": "Гъук1эр гъук1энэу '''к1ыщым''' к1уагъэ",
+            "translation": "The blacksmith went to '''the smithy''' to forge."
+          }
+        ]
+      }
+    ],
+    "shapsug": "к1ьыщ",
+    "shapsug": "к1ыщ",
+    "type": "noun",
+    "ipa": "t͡ʃʼəɕ"
+  },
+  {
+    "word": "гъук1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to forge; to blacksmith",
+        "examples": [
+		  {
+            "sentence": "Гъук1эр '''мэгъук1э'''",
+            "translation": "The blacksmith '''forges'''."
+          },
+		  {
+            "sentence": "К1ыщым гъук1эр '''щэгъук1э'''",
+            "translation": "The blacksmith '''is forging in''' the smithy."
+          },
+		  {
+            "sentence": "Гъук1эр '''гъук1энэу''' к1ыщым к1уагъэ",
+            "translation": "The blacksmith went to the smithy '''to forge'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "to crack from dryness; to crack (with heat)",
+        "examples": [
+		  {
+            "sentence": "Пхъэчаир '''гъук1агъэ'''",
+            "translation": "The barrel '''cracks'''."
+          },
+		  {
+            "sentence": "Пхъэчаир '''гъук1энэу''' ежьагъ",
+            "translation": "The barrel started '''to crack'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʁʷət͡ʃʼan"
+  },
+  {
+    "word": "щыдыбжь",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "forge (blacksmith)",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "t͡ʃʼəɕ"
+    "ipa": "ɕədəbʑ"
   },
   {
     "word": "к1оц1ылъхьан",
@@ -78314,7 +78379,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be dropped behind something",
+        "meaning": "to be dropped from behind something",
         "examples": []
       },
       {
@@ -78322,7 +78387,7 @@
         "examples": [
           {
             "sentence": "К1алэр '''къозыгъ'''",
-            "translation": "The boy '''appeared suddenly and surprisingly'''."
+            "translation": "The boy '''appeared [suddenly]'''."
           }
         ]
       }
@@ -78342,30 +78407,22 @@
             "translation": "The boy '''is freezing''' the water."
           },
           {
-            "sentence": "Хьэлэгъор '''гъэщты'''",
+            "sentence": "Хьалыгъур '''гъэщты'''",
             "translation": "'''Freeze''' the bread."
           },
           {
-            "sentence": "К1алэм хьэлэгъухэр '''егъэщтых'''",
+            "sentence": "К1алэм хьалыгъухэр '''егъэщтых'''",
             "translation": "The boy '''is freezing''' the breads."
+          },
+          {
+            "sentence": "Псыр гъэучъы1алъэм '''дэгъэщтыхь'''",
+            "translation": "'''Freeze''' the water '''inside''' the refrigerator."
           }
         ]
       }
     ],
     "type": "verb",
     "ipa": "ʁaɕtən"
-  },
-  {
-    "word": "мэщтын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"щтын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "maqən"
   },
   {
     "word": "хэщтыхьан",
@@ -78377,35 +78434,51 @@
           {
             "sentence": "Иныжъэр осым '''хэщтыхьагъ'''",
             "translation": "The giant '''was frozen''' in the snow"
+          },
+		  {
+            "sentence": "Зыфэсакъ, псым '''ухэщтыхьэщт'''",
+            "translation": "Careful, '''you will freeze in''' the water"
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "xaqaħən"
+    "ipa": "xaɕtəħaːn"
   },
   {
     "word": "щтын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be frozen",
+        "meaning": "to freeze; to become frozen",
         "examples": [
           {
-            "sentence": "Хьэлэгъор '''мэкъы'''",
+            "sentence": "Хьалыгъур '''мэщты'''",
             "translation": "The bread '''is freezing'''."
           },
+		  {
+            "sentence": "Сэ '''сыщтыгъ'''",
+            "translation": "'''I froze'''."
+          },
           {
-            "sentence": "Чэщым '''сыкъэу''' сыхэт",
+            "sentence": "Чэщым '''сыщтэу''' сыхэт",
             "translation": "'''I am''' standing at the night '''freezing'''."
           },
           {
-            "sentence": "К1алэр '''мэкъы''', чъы1эм хэт",
+            "sentence": "К1алэр '''мэщты''', чъы1эм хэт",
             "translation": "The boy '''is freezing''', he is in the cold."
           },
           {
-            "sentence": "Хьэлэгъор '''мэкъыгъа?'''",
+            "sentence": "Хьалыгъур '''щтыгъа?'''",
             "translation": "'''Did''' the bread''' froze'''?"
+          },
+		  {
+            "sentence": "Зыфэсакъ, псым '''ухэщтыхьэщт'''",
+            "translation": "Careful, '''you will freeze in''' the water"
+          },
+          {
+            "sentence": "Псыр гъэучъы1алъэм '''дэщтыхьагъ'''",
+            "translation": "The water '''froze inside''' the refrigerator."
           }
         ]
       }
@@ -78418,8 +78491,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Adam's apple",
-        "examples": []
+        "meaning": "Adam's apple; laryngeal prominence; the lump in the throat",
+        "examples": [
+          {
+            "sentence": "Л1ым '''ытыкъын''' мэузы",
+            "translation": "The man's '''Adam's apple''' is hurting."
+          },
+		  {
+            "sentence": "Л1ыр хым хэхьагъ '''ытыкъын''' псыр къэсэу",
+            "translation": "The man entered the sea where the water reaches '''his Adam's apple'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -78433,8 +78515,16 @@
         "meaning": "to make someone regret",
         "examples": [
           {
-            "sentence": "к1алэм '''сык1игъэгъожьыгъ'''",
+            "sentence": "К1алэм '''сык1игъэгъожьыгъ'''",
             "translation": "The boy '''made me regret it'''."
+          },
+		  {
+            "sentence": "К1алэр '''к1эбгъэгъожьыгъ'''",
+            "translation": "'''You made''' the boy '''regret'''."
+          },
+		  {
+            "sentence": "'''Сык1эмыгъэгъожь'''",
+            "translation": "'''Don't make me regret'''."
           }
         ]
       }
@@ -78455,10 +78545,10 @@
     "ipa": "jəd͡ʒə"
   },
   {
-    "word": "к1ьэрыт",
+    "word": "к1эрыт",
     "lang": "Adyghe",
     "definitions": [
-      {
+	  {
         "meaning": "worthless",
         "examples": [
           {
@@ -78480,6 +78570,7 @@
         ]
       }
     ],
+    "shapsug": "к1ьэрыт",
     "type": "noun",
     "ipa": "kʲʼarət"
   },
@@ -78489,7 +78580,12 @@
     "definitions": [
       {
         "meaning": "goodness",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "А к1алэм '''ш1угъэ''' къыпык1ырэп",
+            "translation": "No '''goodness''' comes from that boy."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -78500,8 +78596,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "badness",
-        "examples": []
+        "meaning": "badness; harmness",
+        "examples": [
+          {
+            "sentence": "А к1алэм '''дэигъэ''' къыпык1ырэр ны1эп",
+            "translation": "Only '''harmness''' comes out of that boy."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -93909,6 +94010,10 @@
           {
             "sentence": "Ц1ыфыхэр дэпкъым '''хэхьашъущтэп'''",
             "translation": "Humans '''can't go through''' the wall"
+          },
+		  {
+            "sentence": "Л1ыр хым '''хэхьагъ''' ытамэ псыр къэсэу",
+            "translation": "The man '''entered''' the sea where the water reaches his shoulder."
           }
         ]
       }
