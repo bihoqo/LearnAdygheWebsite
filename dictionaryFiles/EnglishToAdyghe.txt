@@ -2076,7 +2076,7 @@
     "to feel hot": "фабэ пэн"
   },
   {
-    "to die": "л1эн; ил1ык1ын (to die off something); хэл1эхьан (to die in a war/forest); тел1эхьан (to die above something); ч1эл1эхьан (to die under something); ил1эхьан (to die inside something); пыл1ык1ын (to die slowly, to die from bleeding)"
+    "to die": "л1эн; ил1ык1ын (to die off something); хэл1эхьан (to die in a war/forest); тел1эхьан (to die above something); ч1эл1эхьан (to die under something); ил1эхьан (to die inside something); пыл1ык1ын (to die slowly, to die from bleeding); ш1ол1эн (to die on someone, to die against someone's will or interest)"
   },
   {
     "wisp": "1оталъ"
@@ -4641,7 +4641,10 @@
     "to rub in": "щыфэн; тефэхьан; теуц1элэн"
   },
   {
-    "to spill": "тек1утэн (to spill drops on); ч1эк1утэн (to spill drops under); ик1утэн (to spill drops inside); тек1эн (to spill on); хэк1эн (to spill a liquid to another liquid); ик1эн (to spill inside); ч1эк1эн (to spill under); жэхэк1эн (to spill on someone intensively); ек1эхын (to pour down)"
+    "to spill": "тек1утэн (to spill drops on); ч1эк1утэн (to spill drops under); ик1утэн (to spill drops inside); тек1эн (to spill on); хэк1эн (to spill a liquid to another liquid); ик1эн (to spill inside); ч1эк1эн (to spill under); жэхэк1эн (to spill on someone intensively); ек1эхын (to pour down); хэк1утэн (to drip something into something like a fire, food, any substance, any liquid, etc.)"
+  },
+  {
+    "to drip": "къетк1ухын (to drop small amount of liquid on something one drop at a time); тетк1он (to fall one drop on something one drop at a time); т1эт1эн (to be dripping, sticky substances), тегъэт1эт1эн (to drip sticky substances on); тет1эт1эн (to be dripping on, sticky substances); хэк1утэн (to drip something into something like a fire, food, any substance, any liquid, etc.)"
   },
   {
     "to pour": "игъэхъон; ик1эн (intensive); ик1утэн (slightly intensive); ек1эхын (to pour down)"
@@ -8085,7 +8088,10 @@
     "to be defeated": "къагъэмартын; къытек1оных; пщэн (Shapsug)"
   },
   {
-    "to defeat": "гъэмартын; тек1он; гъэпщэн (Shapsug))"
+    "to defeat": "гъэмартын; тек1он; гъэпщэн (Shapsug)"
+  },
+  {
+    "to overpower": "тек1он; фикъун"
   },
   {
     "to beat": "гъэмартын (to win); тек1он (to overcome); гъэпщэн (Shapsug); пызэохьан (to beat physically); фын; хэохьан (to beat with fists); хэшъутырэхьан (to beat with kicks); пэлъэшын (to overpower); (vulgar) шъутыкӏэ гъэк1он"
@@ -8934,7 +8940,7 @@
     "deficit": "щык1агъ; дагъо; ныкъо-тыркъуагъ; дефект; нэц1эк1"
   },
   {
-    "to lack": "щык1эн / къыщык1эн"
+    "to lack": "къыщык1эн"
   },
   {
     "defect": "дефект; дагъо; сэкъат; лажьэ (a defect)"
@@ -9693,7 +9699,7 @@
     "to be delayed": "къэлъэжъон"
   },
   {
-    "to surpass": "тек1он (to overcome); течъын (to surpass, to outrun); к1эхьан (to catch up to someone and maybe even surpass); ыпэ ишъын (to outrun); къыщынэн (to surpass someone and leave him/her behind)"
+    "to surpass": "тек1он (to overcome, to surpass); течъын (to surpass, to outrun); к1эхьан (to catch up to someone and maybe even surpass); ыпэ ишъын (to outrun); къыщынэн (to surpass someone and leave him/her behind)"
   },
   {
     "to swallow": "дырын"
@@ -9735,7 +9741,10 @@
     "station": "уцуп1э"
   },
   {
-    "to need": "щык1эн (to need something required); ищык1агъ (needed)"
+    "to need": "щык1эн (to require, to need something required); ищык1агъ (needed)"
+  },
+  {
+    "to require": "щык1эн (to require, to need something required); ищык1агъ (required)"
   },
   {
     "landing-stage": "къухьэуцуп1э"
@@ -13743,7 +13752,7 @@
     "to last": "ыкъудыин (to last a certain amount of time)"
   },
   {
-    "to collapse": "зэхэк1ын (to break and collapse usaully from heavy-weight); зэхэфэн; зэхэон"
+    "to collapse": "зэхэк1ын (to snap and collapse usaully from heavy-weight); зэхэфэн; зэхэон; зэхэутын (to collapse from inside)"
   },
   {
     "to become stubborn": "инатэу ихьэн"
@@ -13803,10 +13812,10 @@
     "to mark": "едзын"
   },
   {
-    "to sign": "едзын; к1этхэн"
+    "to outline": "едзын"
   },
   {
-    "to outline": "едзын"
+    "to sign": "едзын; к1этхэн"
   },
   {
     "bright skinned": "фыжьыбз"
@@ -13833,7 +13842,10 @@
     "to apply": "гъэфедэн"
   },
   {
-    "to overcome": "тек1он; те1эшъхьан (to overcome a temptation)"
+    "to overcome": "тек1он (to overcome, to surpass); фикъун (to overcome with strength); те1эшъхьан (to overcome a temptation)"
+  },
+  {
+    "to prevail": "тек1он (to overcome, to surpass); фикъун"
   },
   {
     "to fall in love": "тел1эхьан; тенэц1эхьан"
@@ -14316,7 +14328,7 @@
     "to outfly": "тебыбын"
   },
   {
-    "to flow": "чъэн (псыр); течъын (to flow off something); ч1эчъын (to drip from under, to flow from beneath something, to leak from beneath something)"
+    "to flow": "чъэн (псыр); течъын (to flow off something); ч1эчъын (to drip from under, to flow from beneath something, to leak from beneath something); псы тегъэчъын (to flow water on)"
   },
   {
     "to leak": "ч1эчъын (to leak from beneath something)"
@@ -14632,9 +14644,6 @@
   },
   {
     "to be enough": "икъун; фикъун (to be enough for)"
-  },
-  {
-    "to be superior in strength; to prevail": "фикъун"
   },
   {
     "sullen": "нэхай"
@@ -17725,9 +17734,6 @@
   },
   {
     "to be dripping": "т1эт1эн (sticky substances like honey, cake and color liquid)"
-  },
-  {
-    "to drip": "къетк1ухын (to drop small amount of liquid on something one drop at a time); тетк1он (to fall one drop on something one drop at a time); т1эт1эн (to be dripping, sticky substances), тегъэт1эт1эн (to drip sticky substances on); тет1эт1эн (to be dripping on, sticky substances)"
   },
   {
     "to sin": "гонахь гъэхъэн; псэк1од ш1эн; гунахь ш1эн; гунахь зехьан"

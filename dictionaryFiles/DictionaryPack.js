@@ -45998,43 +45998,6 @@
     "ipa": "wət͡sʷəpʼam"
   },
   {
-    "word": "щык1эн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to need something required",
-        "examples": [
-          {
-            "sentence": "Такси '''сищык1эщт'''",
-            "translation": "'''I will need''' a taxi."
-          },
-          {
-            "sentence": "Хьанцэ '''ущэк1э'''",
-            "translation": "'''You need''' a shovel."
-          },
-          {
-            "sentence": "Досторым сык1он '''ищэк1агъэп'''",
-            "translation": "'''I don't need''' to go to the doctor."
-          },
-          {
-            "sentence": "Псынк1эу сычъэнэу '''ищык1агъэп''' устечъын пае",
-            "translation": "'''I don't need''' to run fast to outrun you."
-          },
-          {
-            "sentence": "Зы уат '''сищык1эгъагъэр'''",
-            "translation": "What '''I needed was''' one hammer."
-          },
-          {
-            "sentence": "Зы уатэ '''сыщэк1э'''",
-            "translation": "What '''I needed was''' one hammer."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "ɕət͡ʃʼan"
-  },
-  {
     "word": "къухьэуцуп1э",
     "lang": "Adyghe",
     "definitions": [
@@ -71288,6 +71251,10 @@
             "sentence": "Неущы нысащэ '''щы1эщт'''",
             "translation": "'''There will be''' a wedding tomorrow."
           },
+          {
+            "sentence": "Сшъхьэ къихьагъ тыдэ к1алэр '''щы1эшъущт'''",
+            "translation": "It came to my mind '''where''' the boy '''might be'''."
+          },
 		  {
             "sentence": "'''щы1''' икъун бэнанэ",
             "translation": "There is enough bananas."
@@ -74376,9 +74343,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to stack; to pile; to stack things on each other; to pile things on each other",
+        "meaning": "to stack; to pile; to stack things on each other; to pile things on each other; to put objects on each other",
         "examples": [
           {
+            "sentence": "К1алэм тхылъхэр '''зэтелъхьэх'''",
+            "translation": "The boy '''is stacking''' the books."
+          },
+		  {
             "sentence": "Тхылъыхэр '''зэтелъхьэх'''",
             "translation": "'''Stack''' the books."
           },
@@ -77511,11 +77482,28 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to collapse (into one another)",
+        "meaning": "to collapse",
         "examples": [
           {
             "sentence": "Унэр '''къызэхафэ'''",
             "translation": "The house is '''collapsing'''."
+          },
+		  {
+            "sentence": "Псы сыфал1эу '''сыкъысэхэфагъ'''",
+            "translation": "'''I collapse''' being thursy."
+          }
+        ]
+      },
+	  {
+        "meaning": "to fall into one another",
+        "examples": [
+          {
+            "sentence": "Унэр '''къызэхафэ'''",
+            "translation": "The house is '''collapsing'''."
+          },
+		  {
+            "sentence": "Пхъэнт1эк1урхэр '''къызэхэфагъэх'''",
+            "translation": "The chairs '''are falling into each other'''."
           }
         ]
       }
@@ -77533,7 +77521,7 @@
         "examples": [
           {
             "sentence": "Унэр '''къызэхэуты'''",
-            "translation": "The house is '''breading down from inside'''."
+            "translation": "The house is '''breaking down from inside'''."
           }
         ]
       }
@@ -77546,7 +77534,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to throw stuff into somewhere",
+        "meaning": "to throw stuff into inside another object; to throw stuff between something",
         "examples": [
           {
             "sentence": "Пхъэхэр моу '''дэтакъох'''",
@@ -77571,19 +77559,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to throw stuff from somewhere",
+        "meaning": "to throw stuff out from inside another object; to throw stuff out from between something",
         "examples": [
           {
-            "sentence": "Пхъэхэр моу '''къыдэтакъух'''",
-            "translation": "'''Throw''' the woods '''from''' here."
+            "sentence": "Пхъэхэр моу '''къыдэтэкъух'''",
+            "translation": "'''Throw''' the woods '''out from''' here."
           },
           {
             "sentence": "Дэлъып1эм джанэхэр '''къыдэтэкъужьын'''",
-            "translation": "'''Throw''' the clothes '''from''' the closet."
+            "translation": "'''Throw''' the clothes '''out from''' the closet."
           },
           {
             "sentence": "К1алэм гъуч1ыхэр щагум '''къыдетакъух'''",
-            "translation": "The boy '''is throwing''' the irons '''from''' the yard."
+            "translation": "The boy '''is throwing''' the irons '''out from''' the yard."
           }
         ]
       }
@@ -77608,11 +77596,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to mark",
+        "meaning": "to mark; to outline",
         "examples": [
           {
-            "sentence": "Х хьэрыфк1э '''едзыгъэр'''",
-            "translation": "'''The marked''' in the letter x."
+            "sentence": "Гущы1эр анахь к1ыхьэр '''едз'''",
+            "translation": "'''Outline''' the longest word."
+          },
+          {
+            "sentence": "Гущы1эу умыш1эхэрэр к1алэм '''редзых'''",
+            "translation": "The boy '''outlines''' the words he does not know."
           },
           {
             "sentence": "Ц1эхэр '''едзых'''",
@@ -77668,8 +77660,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to spill water on",
-        "examples": []
+        "meaning": "to flow water on",
+        "examples": [
+          {
+            "sentence": "К1алэм '''псы''' кум '''тегъэчъы'''",
+            "translation": "The boy '''flows water on''' the car."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -77680,11 +77677,23 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to spill something inside a liquid",
+        "meaning": "to drip something into something like a fire, food, any substance, any liquid, etc.",
         "examples": [
           {
-            "sentence": "Мыепсым псы '''къыхэк1ут'''",
-            "translation": "'''Spill''' water on the apple-juice."
+            "sentence": "Псы сишхын '''хэк1утагъ'''",
+            "translation": "Water '''was spilled into''' my food."
+          },
+		  {
+            "sentence": "К1алэм колэм псы '''хек1утэ'''",
+            "translation": "The boy '''drips''' water into the Cola."
+          },
+		  {
+            "sentence": "Газ '''хэк1ут''' маш1ом нахь къызык1энэн пае",
+            "translation": "''Spill''' gas into the fire to ignite it more."
+          },
+		  {
+            "sentence": "Л1ым пхъэмэ газ '''ахек1утэ'''",
+            "translation": "The man '''drips''' gas '''into''' the woods"
           }
         ]
       }
@@ -77697,32 +77706,81 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "something to come to the mind",
+        "meaning": "to come to the mind",
         "examples": [
           {
-            "sentence": "К1алэм '''ишъхьэ къихьагъ''' еджэнэу дэгъу",
-            "translation": "Studying good '''came''' to the boy's '''mind'''."
+            "sentence": "К1алэм '''ышъхьэ къихьагъ''' еджэнэу дэгъу",
+            "translation": "It '''came''' to the boy's '''mind''' to study good."
           },
           {
-            "sentence": "'''Сишъхьэ къихьагъ''' унэ сыш1ынэу",
-            "translation": "'''It came to my mind''' to build a house."
+            "sentence": "'''Сшъхьэ къихьагъ''' тыдэ к1алэр щы1эшъущт",
+            "translation": "'''It came to my mind''' where the boy might be."
           },
           {
-            "sentence": "Сыд '''яшъхьэ къихьагъэр'''",
+            "sentence": "Сыд '''ашъхьэ къихьагъэр'''",
             "translation": "What '''came to their minds'''."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "tajt͡ʃʼan"
+    "ipa": "ʂħam qəjħaːn"
+  },
+  {
+    "word": "фэныкъон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to need something required; to require",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "fanəqʷan"
+  },
+  {
+    "word": "щык1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to need something required; to require",
+        "examples": [
+          {
+            "sentence": "Такси '''сищык1эщт'''",
+            "translation": "'''I will need''' a taxi."
+          },
+          {
+            "sentence": "Хьанцэ '''ущэк1э'''",
+            "translation": "'''You need''' a shovel."
+          },
+          {
+            "sentence": "Досторым сык1он '''ищэк1агъэп'''",
+            "translation": "'''I don't need''' to go to the doctor."
+          },
+          {
+            "sentence": "Псынк1эу сычъэнэу '''ищык1агъэп''' устечъын пае",
+            "translation": "'''I don't need''' to run fast to outrun you."
+          },
+          {
+            "sentence": "Зы уат '''сищык1эгъагъэр'''",
+            "translation": "What '''I needed was''' one hammer."
+          },
+          {
+            "sentence": "Зы уатэ '''сыщэк1э'''",
+            "translation": "What '''I needed was''' one hammer."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɕət͡ʃʼan"
   },
   {
     "word": "къыщык1эн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to lack something, to have something missing that is required",
+        "meaning": "to lack something; to have something missing that is required or needed",
         "examples": [
           {
             "sentence": "Доктор, к1алэм псы '''къыщэк1э'''",
@@ -77767,54 +77825,236 @@
     "ipa": "nənapʼas"
   },
   {
+    "word": "тынэп1эс",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"тынэп1ос\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "tənapʼas"
+  },
+  {
     "word": "нынэп1ос",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "stepmother",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Нынэп1осыр''' к1алэм фэбзадж",
+            "translation": "'''The stepmother''' is treating the boy badly."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "nənapʷʼas"
   },
   {
-    "word": "зэтелъхьэн",
+    "word": "тынэп1ос",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to stack, to put objects on each other",
+        "meaning": "stepfather",
         "examples": [
           {
-            "sentence": "К1алэм тхылъхэр '''зэтелъхьэх'''",
-            "translation": "The boy '''is stacking''' the books."
+            "sentence": "'''Тынэп1осыр''' к1алэм фэбзадж",
+            "translation": "'''The stepfather''' is treating the boy badly."
           }
         ]
       }
     ],
+    "type": "noun",
+    "ipa": "tənapʷʼas"
+  },
+  {
+    "word": "фэбзэджэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to treat someone badly",
+        "examples": [
+          {
+            "sentence": "Тынэп1осыр к1алэм '''фэбзаджэ'''",
+            "translation": "The stepfather '''is treating''' the boy '''badly'''."
+          },
+		  {
+            "sentence": "'''Укъэсфэбзэджагъ'''",
+            "translation": "'''You treated me badly'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "to behave mischievously with; to be troublesome for",
+        "examples": [
+		  {
+            "sentence": "К1элэц1ык1ур ыянэ '''фэбзаджэ'''",
+            "translation": "The kid '''is behaving mischievously with''' his mother."
+          }
+        ]
+      }
+    ],
+    "shapsug": "фэбзэгьэн",
+    "type": "noun",
+    "ipa": "fabzad͡ʒan"
+  },
+  {
+    "word": "фикъун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to suffice for; to be enough for; to be sufficient for",
+        "examples": [
+          {
+            "sentence": "К1алэм мы1эрыс т1у фэпхьымэ '''фикъущт'''",
+            "translation": "Two apples '''will be enough for''' the boy."
+          },
+          {
+            "sentence": "Непэ тызеджагъэр '''къэсфекъу'''",
+            "translation": "The amount we studied today '''is enough for me'''."
+          },
+          {
+            "sentence": "Шхынэу сышхыгъэр '''къэсфикъурэп''', джыри сэлак1э",
+            "translation": "The amount of food I ate '''is not enough for me''', I am still hungry."
+          },
+          {
+            "sentence": "Пачъыхьым зыгори '''фикъужьырэп'''",
+            "translation": "Nothing '''is enough for''' the king '''anymore'''."
+          },
+          {
+            "sentence": "Экзамыным къисхыгъэр сэ '''къэсфекъу'''",
+            "translation": "What I got in the exam '''is enough for me'''"
+          },
+          {
+            "sentence": "Ахъщэу къыостыгъэр '''зыфигъэкъужь'''",
+            "translation": "'''Be enough''' with the money I gave you."
+          }
+        ]
+      },
+      {
+        "meaning": "to be superior in strength; to prevail against; to overcome with strength",
+        "examples": [
+          {
+            "sentence": "К1алэр '''къэсфекъу'''",
+            "translation": "The boy '''is overcoming me'''."
+          },
+		  {
+            "sentence": "Куджаныр л1ым '''фекъу'''",
+            "translation": "Kujan '''is overcoming''' the man."
+          },
+		  {
+            "sentence": "Л1ыр ипый '''фикъурэп'''",
+            "translation": "The man '''can't prevail against''' his enemy."
+          },
+		  {
+            "sentence": "Зы1э зык1э '''усфикъущт'''",
+            "translation": "'''I will overcome you''' in one hand."
+          },
+		  {
+            "sentence": "Саусырыкъо Тутэрэщ '''фикъушъугъ''' аужырэм",
+            "translation": "Sosruko '''prevailed against''' Totrash in the end."
+          },
+		  {
+            "sentence": "Л1ыр узым '''фикъугъ'''",
+            "translation": "The man '''prevailed against''' the disease."
+          },
+		  {
+            "sentence": "К1алэр ахэмэ '''афикъугъ'''",
+            "translation": "The boy '''prevailed against them'''."
+          },
+		  {
+            "sentence": "'''Укъысфикъущтэп'''",
+            "translation": "'''You will not prevailed against me'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "to overpower",
+        "examples": [
+		  {
+            "sentence": "Урыс дзэр адыгэ дзэм '''къыфикъугъ'''",
+            "translation": "The Russian army '''overpowered''' the Circassian army."
+          },
+		  {
+            "sentence": "Хэт Голиаф '''фикъушъущтыр'''?",
+            "translation": "Who can '''overpower''' Goliath?"
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "гъэмартын",
+      "тек1он",
+      "гъэпщэн"
+    ],
     "type": "verb",
-    "ipa": "zatajɬħan"
+    "ipa": "fəjqʷən"
   },
   {
     "word": "тек1он",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to overcome (To win or prevail in some sort of battle, contest, etc)",
+        "meaning": "to overcome (to win or prevail in some sort of battle, contest, etc); to win against; to surpass someone; to defeat someone; to overpower",
         "examples": [
           {
             "sentence": "К1алэр '''къэстек1о'''",
-            "translation": "The boy '''is overcoming''' me."
+            "translation": "The boy '''is overcoming me'''."
+          },
+		  {
+            "sentence": "Куджаныр л1ым '''тек1о'''",
+            "translation": "Kujan '''is overcoming''' the man."
+          },
+		  {
+            "sentence": "Л1ыр ипый '''тек1ошъурэп'''",
+            "translation": "The man '''can't prevail against''' his enemy."
+          },
+		  {
+            "sentence": "Зы1э зык1э '''устек1ощт'''",
+            "translation": "'''I will overcome you''' in one hand."
+          },
+		  {
+            "sentence": "Саусырыкъо Тутэрэщ '''тек1ошъугъ''' аужырэм",
+            "translation": "Sosruko '''prevailed against''' Totrash in the end."
+          },
+		  {
+            "sentence": "Л1ыр узым '''тек1огъ'''",
+            "translation": "The man '''prevailed against''' the disease."
+          },
+		  {
+            "sentence": "К1алэр ахэмэ '''атек1уагъ'''",
+            "translation": "The boy '''prevailed against them'''."
+          },
+		  {
+            "sentence": "'''Укъыстек1ощтэп'''",
+            "translation": "'''You will not win against me'''."
+          },
+		  {
+            "sentence": "К1алэр зэпачъэмк1э '''атек1уагъ'''",
+            "translation": "The boy '''defeated them''' in the race."
           }
         ]
       },
-      {
-        "meaning": "to become greater than something else",
-        "examples": []
+	  {
+        "meaning": "to overpower",
+        "examples": [
+		  {
+            "sentence": "Урыс дзэр адыгэ дзэм '''къытек1уагъ'''",
+            "translation": "The Russian army '''overpowered''' the Circassian army."
+          },
+		  {
+            "sentence": "Хэт Голиаф '''тек1ошъущтыр'''?",
+            "translation": "Who can '''overpower''' Goliath?"
+          }
+        ]
       }
     ],
     "synonyms": [
       "гъэмартын",
+      "фикъун",
       "гъэпщэн"
     ],
     "type": "verb",
@@ -85110,52 +85350,6 @@
     ],
     "type": "adj",
     "ipa": "xaʃʼaːʁ"
-  },
-  {
-    "word": "фикъун",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to suffice, to be sufficient / enough",
-        "examples": [
-          {
-            "sentence": "К1алэр мы1эрыс т1у фэпхьымэ '''фикъущт'''",
-            "translation": "Two apples '''will be enough for''' the boy."
-          },
-          {
-            "sentence": "Непэ тызэрэуагъэр '''къэсфекъу'''",
-            "translation": "The amount we fought today '''is enough for me'''."
-          },
-          {
-            "sentence": "Шхынэу сышхыгъэр '''къэсфикъурэп''', джыри сэлак1э",
-            "translation": "The amount of food I ate '''is not enough for me''', I am still hungry."
-          },
-          {
-            "sentence": "Пачъыхьым зыгори '''фикъужьрэп'''",
-            "translation": "Nothing '''is enough for''' the king."
-          },
-          {
-            "sentence": "Экзамыным къисхыгъэр сэ '''къэсфекъу'''",
-            "translation": "What I got in the exam '''is enough for me'''"
-          },
-          {
-            "sentence": "Ахъщэу къыостыгъэр '''зыфигъэкъужь'''",
-            "translation": "'''Be enough''' with the money I gave you."
-          }
-        ]
-      },
-      {
-        "meaning": "to be superior in strength; to prevail",
-        "examples": [
-          {
-            "sentence": "Л1ыр ипый фикъурэп",
-            "translation": "The man '''can't prevail against''' his enemy."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "fəjqʷən"
   },
   {
     "word": "нэхай",
