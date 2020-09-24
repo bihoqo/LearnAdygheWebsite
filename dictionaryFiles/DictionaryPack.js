@@ -78111,7 +78111,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to return to",
+        "meaning": "to return someone to; to escort someone back to",
         "examples": []
       }
     ],
@@ -78119,37 +78119,11 @@
     "ipa": "zaɡʷaɕən"
   },
   {
-    "word": "ч1ышъутын",
+    "word": "ч1эхъушъутын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to run and climb up",
-        "examples": [
-          {
-            "sentence": "К1алэр чъыгым '''ч1ышъутэгъ'''",
-            "translation": "t=The boy '''ran and climbed up''' the tree."
-          }
-        ]
-      },
-      {
-        "meaning": "to run off upwards, to flee upwards",
-        "examples": [
-          {
-            "sentence": "К1алэр 1ушъхьэм '''ч1ышъуты'''",
-            "translation": "t=The boy '''is running up''' the mound."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "t͡ʂʼəʃʷtən"
-  },
-  {
-    "word": "ч1эшъутын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to run off/flea from under something",
+        "meaning": "to run off from under something; to dash off from under something",
         "examples": [
           {
             "sentence": "К1алэр унэ ч1эгъым '''къы1эшъуты'''",
@@ -78158,6 +78132,7 @@
         ]
       }
     ],
+    "shapsug": "ч1эшъутын",
     "type": "verb",
     "ipa": "t͡ʂʼaʃʷtən"
   },

@@ -1653,7 +1653,10 @@
     "to depart": "ежьэн; 1ук1ыжьын; гъогум техьан; дэхьажьын (to head back); к1э1эн / к1этхъун (to run off, to depart quickly)"
   },
   {
-    "to run off": "к1э1эн; к1этхъун"
+    "to run off": "к1э1эн; к1этхъун; блэчъын / блэхъушъутын (to run past); техъушъутын (to run off from on something); ч1эхъушъутын (to run from under, to run from a lying position); ихъушъутын (to run out from inside something); дэхъушъутын (to run out from a yard, area or settlement); хэхъушъутын (to run out of an area with liquid or gas, to run out from among people/objects, to run out of a forest); къохъушъутын (to run out from behind); къыгохъушъутын / къыбгъодэхъушъутын (to run out from besides)"
+  },
+  {
+    "to dash off": "к1э1эн; к1этхъун; блэчъын / блэхъушъутын (to dash past); техъушъутын (to dash off from above something); ч1эхъушъутын (to dash off from under, to dash off from a lying position); ихъушъутын (to dash out from inside something); дэхъушъутын (to dash out from a yard, area or settlement); хэхъушъутын (to dash out of an area with liquid or gas, to dash out from among people/objects, to dash out of a forest); къохъушъутын (to dash out from behind); къыгохъушъутын / къыбгъодэхъушъутын (to dash out from besides)"
   },
   {
     "to run": "чъэн; чъын (to run a certain distance); ечъэжьэн (to leave quickly); к1э1эн / к1этхъун (to run off, to flee or depart quickly); зэк1эчъэн (to run backward); дэчъэен (to run upward); ечъэхын (to run downward); лъычъэн (to run toward, to run following); ечъэл1эн / къечъэл1эн (to approach while running); телъэдэн (to run onto/into); ч1элъэдэн (to run under); илъэдэн (to run inside, to go inside running); къилъэдэн (to come inside running); дэлъэдэн (to run inside a yard, area or settlement); хэлъэдэн (to run among people/objects, to run through, to run in an area with liquid or gas, to run into); къолъэдэн (to run behind); голъэдэн / бгъодэлъэдэн (to run besides or from the side of); жэхэлъэдэн (to run straight into/against); лъежьэн (to chase); ичъын (to run out from); къэчъыхьан (to run around); блэчъын / блэхъушъутын (to run past); техъушъутын (to run off); ч1эхъушъутын (to run from under, to run from a lying position); ихъушъутын (to run out from inside something); дэхъушъутын (to run out from a yard, area or settlement); хэхъушъутын (to run out of an area with liquid or gas, to run out from among people/objects, to run out of a forest); къохъушъутын (to run out from behind); къыгохъушъутын / къыбгъодэхъушъутын (to run out from besides); зэхэчъын (to spread); зэбгырычъын (to spread); зэпырычъын (to run across)"
@@ -10068,10 +10071,13 @@
     "separately": "шъхьаф-шъхьафэу; зыр зырэу (one by one)"
   },
   {
-    "to return": "къэгъэзэжьын (to return back to where one came); к1ожьын (to go back there); къэк1ожьын (to return back here); зэк1ежьэжьын; дэхьажьын (to head back)"
+    "to return": "къэгъэзэжьын (to return back to where one came); к1ожьын (to go back there); къэк1ожьын (to return back here); зэк1ежьэжьын; дэхьажьын (to head back); етыжьын / егъэзэжьын (to return something to, to give back something to); щэжьын (to return someone to, to escort someone back to)"
   },
   {
-    "to go back": "к1ожьын"
+    "to give back": "етыжьын / егъэзэжьын (to return something to, to give back something to)"
+  },
+  {
+    "to go back": "к1ожьын; гъэзэжьын"
   },
   {
     "to become unwell": "гъойщэен"
