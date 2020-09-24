@@ -76477,6 +76477,10 @@
             "translation": "The boy talks about things '''related to''' studying."
           },
 		  {
+            "sentence": "Ти1оф ''''ехьыл1агъэу''' зыгорэ сыухыжьын фай",
+            "translation": "I need to finish something '''related to''' our work."
+          },
+		  {
             "sentence": "К1алэм ''''ехьыл1агъэу''' сыд о1угъэр?",
             "translation": "What you heard '''concerning''' the boy?"
           },
@@ -76513,6 +76517,10 @@
 		  {
             "sentence": "Матиматикэм ''''егъэпхыгъэу''' зыгорэм теджэ",
             "translation": "We are studying something '''related to''' math."
+          },
+		  {
+            "sentence": "Ти1оф ''''егъэпхыгъэу''' зыгорэ сыухыжьын фай",
+            "translation": "I need to finish something '''related to''' our work."
           }
         ]
       }
@@ -76543,6 +76551,10 @@
 		  {
             "sentence": "Матиматикэм ''''теуфагъэу''' зыгорэм теджэ",
             "translation": "We are studying something '''related to''' math."
+          },
+		  {
+            "sentence": "Ти1оф ''''теуфагъэу''' зыгорэ сыухыжьын фай",
+            "translation": "I need to finish something '''related to''' our work."
           }
         ]
       }
@@ -77279,7 +77291,7 @@
         ]
       },
       {
-        "meaning": "to make something cease to function; to make something dysfunctional; to cause a break down (machine); to make malfunctional",
+        "meaning": "to defect; to make something dysfunctional; to cause a break down (machine); to make malfunctional",
         "examples": [
           {
             "sentence": "Компыютэрэр '''зы1игъэхьагъ'''",
@@ -77296,7 +77308,7 @@
         ]
       },
       {
-        "meaning": "to disturb someone; to confuse someone; to have a negative emotional impact, to cause emotional distress or confusion",
+        "meaning": "to disturb someone; to confuse someone; to have a negative emotional impact, to cause emotional distress or confusion; to mess up with someone's head",
         "examples": [
           {
             "sentence": "Зэ '''сызэ1ыбгъэхьагъ'''",
@@ -77362,6 +77374,18 @@
           {
             "sentence": "кур '''угъэсэкъатыгъ'''",
             "translation": "'''You ruined''' the car."
+          },
+		  {
+            "sentence": "Компыютэрэр '''умыгъэсэкъат'''",
+            "translation": "'''Don't ruin''' my computer."
+          },
+		  {
+            "sentence": "Л1ым машинэр '''ыгъэсэкъатыгъ'''",
+            "translation": "The man '''broke down''' the machine."
+          },
+		  {
+            "sentence": "Машинэр псы дахьи '''ыгъэсэкъатыгъ'''",
+            "translation": "Water entered the machine and '''made it malfunctional'''."
           }
         ]
       }
@@ -77374,28 +77398,37 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to do something for someone",
+        "meaning": "to make/build something for someone",
         "examples": [
           {
             "sentence": "К1алэм унэ сэ '''фэсэш1ы'''",
             "translation": "'''I am doing''' a house '''for''' the boy."
+          },
+		  {
+            "sentence": "Тянэ шхын '''къэтфеш1ы'''",
+            "translation": "Our mother '''makes''' food '''for us'''."
           }
         ]
       },
       {
-        "meaning": "to close something (to move so that an opening is closed)",
+        "meaning": "to close something",
+        "examples": [
+          {
+            "sentence": "Шъхьангъупчъэр '''фэш1'''",
+            "translation": "'''Close''' the window."
+          }
+        ]
+      },
+      {
+        "meaning": "to close (a device)",
         "examples": [
           {
             "sentence": "К1алэм Радиор '''феш1ы'''",
             "translation": "The boy '''closes''' the radio."
           },
           {
-            "sentence": "Хьэнэфые '''фэш1'''",
-            "translation": "'''Close''' the water pipe."
-          },
-          {
             "sentence": "Шъутелефонхэ '''фэшъуш1ых'''",
-            "translation": "'''Close''' your phones (said to plural)."
+            "translation": "'''Close''' your phones."
           }
         ]
       }
@@ -77422,25 +77455,8 @@
         ]
       },
       {
-        "meaning": "alternative form of \"гъэсэн\"",
+        "meaning": "to close; alternative form of \"игъэсэн\"",
         "examples": []
-      },
-      {
-        "meaning": "alternative form of \"игъэсэн\"",
-        "examples": []
-      },
-      {
-        "meaning": "to close something",
-        "examples": [
-          {
-            "sentence": "Пчъэр к1алэм '''регъасэ'''",
-            "translation": "The boy '''closes''' the door."
-          },
-          {
-            "sentence": "Пчъэр '''егъас'''",
-            "translation": "'''Close''' the door."
-          }
-        ]
       }
     ],
     "type": "verb",
@@ -77454,8 +77470,16 @@
         "meaning": "fully",
         "examples": [
           {
-            "sentence": "Къаом псы '''изэу''' ыгъахъу",
+            "sentence": "Щылъэм псы '''изэу''' ыгъахъу",
             "translation": "Fill the bucket '''fully''' with water."
+          },
+		  {
+            "sentence": "Матэм '''изэу''' мы1эрысхэр илъыс",
+            "translation": "The basket is '''filled''' with apples."
+          },
+		  {
+            "sentence": "Апчыр '''изэу''' ш1ы",
+            "translation": "'''Fill''' the glass."
           }
         ]
       }
@@ -77469,12 +77493,15 @@
     "definitions": [
       {
         "meaning": "scythe",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''щэмэджык1э''' мэкъухэр реупк1ых",
+            "translation": "The boy cuts the hays '''using a scythe'''."
+          }
+        ]
       }
     ],
-    "synonyms": [
-      "щэмэгь"
-    ],
+    "shapsug": "щэмэгь",
     "kabardian": "шэмэдж",
     "type": "noun",
     "ipa": "ɕamaɡʲʼ"
@@ -77484,7 +77511,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to collapse",
+        "meaning": "to collapse (into one another)",
         "examples": [
           {
             "sentence": "Унэр '''къызэхафэ'''",
@@ -100621,6 +100648,14 @@
           {
             "sentence": "К1алэм шъхьаншъупчъэ '''ригъэсагъ'''",
             "translation": "The boy '''closed''' the window."
+          },
+		  {
+            "sentence": "Пчъэр к1алэм '''регъасэ'''",
+            "translation": "The boy '''closes''' the door."
+          },
+          {
+            "sentence": "Пчъэр '''егъас'''",
+            "translation": "'''Close''' the door."
           }
         ]
       }

@@ -13788,7 +13788,7 @@
     "to dysfunction": "сэкъатын (to become dysfunctional); сэкъатэу хъун (to become dysfunctional)"
   },
   {
-    "to ruin something (usually machines), to defect": "гъэсэкъатын"
+    "to defect": "зэ1ыгъэхьан; гъэсэкъатын"
   },
   {
     "to do for": "фэш1эн"
@@ -17565,7 +17565,7 @@
     "to disturb": "ягъэ егъэк1ын / къин егъэхъун (to annoy, to interrupt and harm, to get in the way of someone); зэ1ыхьан; зэ1ыгъэхьан (to disturb someone, to have a negative emotional impact, to cause emotional distress or confusion)"
   },
   {
-    "to confuse": "зэ1ыгъэхьан; зэ1ыш1эн"
+    "to confuse": "зэ1ыхьан (to be confused); зэ1ыгъэхьан (to confuse someone); зэ1ыш1эн"
   },
   {
     "to make anarchy": "зэ1ыгъэхьан (to disarray; to disorder; to make a mess; to mess up; to make anarchy; to make chaos)"
