@@ -56924,7 +56924,16 @@
     "definitions": [
       {
         "meaning": "little girl",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Пшъэшъэжъыер''' мэджэгу",
+            "translation": "'''The little girl''' is playing."
+          },
+          {
+            "sentence": "'''Пшъэшъэжъыер''' мэщхы",
+            "translation": "'''The little girl''' laughs"
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -79260,7 +79269,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to tell",
+        "meaning": "to tell; to narrate",
         "examples": [
           {
             "sentence": "Л1ыжъым пшысэ '''къе1уатэ'''",
@@ -79343,6 +79352,18 @@
     "ipa": "daħaːɕx"
   },
   {
+    "word": "къэщхын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"щхын\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "qaɕxən"
+  },
+  {
     "word": "щхын",
     "lang": "Adyghe",
     "definitions": [
@@ -79353,27 +79374,27 @@
             "sentence": "К1алэр '''мэщхы'''",
             "translation": "The boy '''is laughing'''."
           },
+		  {
+            "sentence": "К1элэц1ык1м '''сегъэщхы'''",
+            "translation": "The kid '''makes me laugh'''."
+          },
           {
             "sentence": "О лъэшэу '''узэрэщхырэр'''' – арэущтэу лъэшыщэу '''умыщх!'''",
             "translation": "You '''laugh''' so loudly – '''don’t laugh''' so loudly!"
+          },
+          {
+            "sentence": "Пшъэшъэжъыер ымакъэ 1этыгъэу '''къэщхыгъ'''",
+            "translation": "The girl '''laughed''' loudly"
+          },
+          {
+            "sentence": "К1алэр '''щхагъэ''' нэмы1эк1э ыныбэ узы хъугъ",
+            "translation": "The boy '''laughed''' so much that his stomach started to ache"
           }
         ]
       }
     ],
     "type": "verb",
     "ipa": "ɕxən"
-  },
-  {
-    "word": "гъэпхын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"егъэпхын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "jaʁapxən"
   },
   {
     "word": "егъэпхын",
@@ -79383,8 +79404,8 @@
         "meaning": "to relate to",
         "examples": [
           {
-            "sentence": "Шъхьэнгъупчъыр зэрэубэтагъыр сиянэ '''къысегъэпхы'''",
-            "translation": "My mother '''is relates me to''' how the window was broken."
+            "sentence": "Шъхьангъупчъыр зэрэубэтагъыр сянэ '''къысегъэпхы'''",
+            "translation": "My mother '''is relating''' how the window was broken '''to me'''."
           },
           {
             "sentence": "Тыгъуасэ хъугъэмрэ непэ хъугъэмрэ '''зэбгъэпхышъущтыхэп'''",
@@ -79400,7 +79421,7 @@
         "meaning": "to tie to",
         "examples": [
           {
-            "sentence": "Матиматикэр физикам '''епгъэпхышъущт'''",
+            "sentence": "Матиматикэр физикэм '''епгъэпхышъущт'''",
             "translation": "'''You can tie''' mathematics '''to''' physics."
           },
           {
@@ -79445,13 +79466,19 @@
     "definitions": [
       {
         "meaning": "sleep paralysis",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''чэщтео''' къытеуагъ",
+            "translation": "The boy has '''sleep paralysis'''."
+          }
+        ]
       },
       {
         "meaning": "an evil spirit that appears to someone sleeping and does not allow him/her to move and wake up",
         "examples": []
       }
     ],
+    "shapsug": "чэщтао",
     "kabardian": "жэщтеу",
     "type": "noun",
     "ipa": "t͡ʃaɕtajw"
@@ -79484,6 +79511,19 @@
             "translation": "'''I won''' a gold medal."
           }
         ]
+      },
+	  {
+        "meaning": "to take out from inside",
+        "examples": [
+          {
+            "sentence": "К1алэм псы унэм '''къырехы'''",
+            "translation": "The boy '''is taking''' water '''from''' the house."
+          },
+          {
+            "sentence": "Матэм зы мы1эрыс '''къих'''",
+            "translation": "'''Take''' an apple '''from''' the basket."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -79505,15 +79545,15 @@
             "translation": "'''I earn''' a lot of money in work."
           },
           {
-            "sentence": "Л1ым ахъщэ бэ '''къегъахъэ'''",
-            "translation": "The man '''is earning''' a lot of money."
+            "sentence": "Тхьамык1эм ахъщэ мак1э '''къигъахъэрэр'''",
+            "translation": "The amount of money a poor guy '''earns''' is small"
           },
           {
             "sentence": "Ахъщэ '''къэсгъэхъагъ'''",
             "translation": "'''I earned''' money."
           },
           {
-            "sentence": "Дышъэхэ '''сэгъахъэх'''",
+            "sentence": "Дышъэхэ '''къэсэгъахъэх'''",
             "translation": "'''I am earning''' golds."
           },
           {
@@ -79526,17 +79566,22 @@
           },
           {
             "sentence": "Тхьэм игубжь '''угъэхъэщт''' гонахь улыжьымэ",
-            "translation": "If you do sin '''you will earn''' god's anger."
+            "translation": "If you do sin '''you will earn''' God's anger."
           },
           {
             "sentence": "К1алэм гонахь '''егъахъэ'''",
-            "translation": "The boy '''is earning''' a sin (The boy is sinning)."
+            "translation": "The boy '''is earning''' a sin."
           }
         ]
       },
       {
         "meaning": "to get ahold of a certain possession",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Чатэ '''къэсгъэхъэшъугъ'''",
+            "translation": "'''I successfully got ahold of''' a sword."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -79559,8 +79604,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "health",
+        "meaning": "wholeness",
         "examples": []
+      },
+	  {
+        "meaning": "health",
+        "examples": [
+          {
+            "sentence": "Тэу щыт л1ыжъым '''ипсэонгъэ'''",
+            "translation": "How is the old-man's '''health'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -79576,6 +79630,10 @@
           {
             "sentence": "Фылымыр '''къыухыгъ'''",
             "translation": "The film '''ended'''."
+          },
+		  {
+            "sentence": "Сыдигъо фылымыр '''къыухыщт'''?",
+            "translation": "When the film '''will end'''?"
           }
         ]
       }
@@ -79591,8 +79649,12 @@
         "meaning": "lap",
         "examples": [
           {
-            "sentence": "К1элэц1ык1ор и янэ и '''кок1ы''' исэгъ",
+            "sentence": "К1элэц1ык1ур ыянэ '''ыкок1ы''' исыгъ",
             "translation": "The little boy was sitting in his mother's '''lap'''."
+          },
+		  {
+            "sentence": "'''Сыкок1ы''' къит1ысхь",
+            "translation": "Sit in '''my lap'''."
           }
         ]
       },
@@ -79600,8 +79662,12 @@
         "meaning": "midst",
         "examples": [
           {
-            "sentence": "Илъэсым '''икок1ык1э''' уеджагъа?",
+            "sentence": "Илъэсым '''ыкок1ык1э''' уеджагъа?",
             "translation": "Did you studied '''in the midst''' of the year?"
+          },
+		  {
+            "sentence": "Тхьэмафэм '''ыкок1ы''' фылым тежъугъэплъ",
+            "translation": "Let us watch a movie in the '''midst''' of the  week"
           }
         ]
       }
@@ -79640,13 +79706,19 @@
     "definitions": [
       {
         "meaning": "kindhearted; kind-hearted",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ц1ыф '''гупц1ан'''",
+            "translation": "A '''kind-hearted''' person."
+          }
+        ]
       },
       {
         "meaning": "open-hearted",
         "examples": []
       }
     ],
+    "shapsug": "гупс1анэ",
     "type": "adj",
     "ipa": "ɡʷəpt͡sʼaːna"
   },
@@ -79656,7 +79728,12 @@
     "definitions": [
       {
         "meaning": "truthful",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ц1ыф '''шъыпкъэ1о'''",
+            "translation": "A '''truthful''' person."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -79679,7 +79756,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "little girl",
+        "meaning": "alternative form of \"пшъэшъэжъые\"",
         "examples": []
       }
     ],
@@ -79704,11 +79781,44 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "first; as first",
+        "meaning": "firstly; first; as first",
         "examples": [
           {
-            "sentence": "К1алэр нахьыпэ к1уи къеплъи, ет1анэ къыщэфыгъ",
-            "translation": "The boy went '''firstly''', looked, and then bought it."
+            "sentence": "'''Санахьыпэу''' унэм сихьагъ",
+            "translation": "I entered the house '''first''' [among the others]."
+          },
+		  {
+            "sentence": "Хэт '''анахьыпэу''' къэсыгъэр мэу?",
+            "translation": "Who came here '''first'''?"
+          },
+		  {
+            "sentence": "К1алэр '''нахьыпэ''' к1уи къеплъи, ет1анэ къыщэфыгъ",
+            "translation": "The boy went '''first''', looked, and then bought it."
+          }
+        ]
+      }
+    ],
+    "type": "adv",
+    "ipa": "naːħəpa"
+  },
+  {
+    "word": "апэу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "firstly; first; as first",
+        "examples": [
+          {
+            "sentence": "'''Апэу''' унэм сихьагъ",
+            "translation": "I entered the house '''first''' [among the others]."
+          },
+		  {
+            "sentence": "Хэт '''апэу''' къэсыгъэр мэу?",
+            "translation": "Who came here '''first'''?"
+          },
+		  {
+            "sentence": "К1алэр '''апэу''' к1уи къеплъи, ет1анэ къыщэфыгъ",
+            "translation": "The boy went '''first''', looked, and then bought it."
           }
         ]
       }
@@ -79721,18 +79831,26 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to cut off (hair, tree branches)",
+        "meaning": "to cut off (hair, tree branches, rope, connection); to disconnect by cutting",
         "examples": [
           {
             "sentence": "К1алэм хьалыгъу такъыр '''пеупк1ы'''",
             "translation": "The boy '''cuts''' a piece of bread."
+          },
+		  {
+            "sentence": "К1алэм к1апсэр '''пиупк1ыгъ'''",
+            "translation": "The boy '''cut''' the rope."
+          },
+		  {
+            "sentence": "А ц1ыфыр бзаджэти, сэ ар '''пысыупк1ыгъ'''",
+            "translation": "Because that boy is awful, '''I cut my connections with him'''."
           },
           {
             "sentence": "К1алэм '''пеупк1ы''' чъыгыр",
             "translation": "The boy '''is cutting off''' the tree."
           },
           {
-            "sentence": "Сшъхьэц '''пысыук1ыщт''' т1эк1умаш1эмэ",
+            "sentence": "Сшъхьэц '''пысыук1ыщт''' т1эк1уш1эмэ",
             "translation": "'''I will cut''' my hair soon."
           },
           {
@@ -79758,66 +79876,18 @@
         "examples": [
           {
             "sentence": "'''нэчыхьытх''' непэ щы1",
-            "translation": "There is '''a nakahitkh''' today."
+            "translation": "There is '''a marriage ceremony''' today."
+          },
+		  {
+            "sentence": "'''нэчыхьытхым''' тызэдэк1ощта?",
+            "translation": "Shall we go together to '''the marriage ceremony'''?"
           }
         ]
       }
     ],
+    "shapsug": "нэкьыхьытх",
     "type": "noun",
     "ipa": "nat͡ʃəħətx"
-  },
-  {
-    "word": "нэкьыхьытх",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"нэчыхьытх\"",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "nakʲəħətx"
-  },
-  {
-    "word": "мэцыгъон",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"цыгъон\"",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "mat͡səʁʷan"
-  },
-  {
-    "word": "ецыгъон",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"цыгъон\"",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "jat͡səʁʷan"
-  },
-  {
-    "word": "цыгъон",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to bite (small bite)",
-        "examples": [
-          {
-            "sentence": "цыгъоц1ык1ор '''къысэцыгъо'''",
-            "translation": "The little mouse '''is biting me'''."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "t͡səʁʷan"
   },
   {
     "word": "щыгъэ1эн",
@@ -79832,7 +79902,7 @@
         "examples": [
           {
             "sentence": "К1алэм тыгъужъхэр ыук1ыхи яшыр ц1ык1ухэр '''щыгъэ1агъэх'''.",
-            "translation": "The boy killed the wolfs, and '''let''' their little cubs '''to live'''."
+            "translation": "The young man killed the wolfs, and '''let''' their little cubs '''to live'''."
           },
           {
             "sentence": "Фылымымк1э л1ыр '''щагъа1эрэп'''.",
@@ -79842,7 +79912,7 @@
       }
     ],
     "type": "noun",
-    "ipa": "ɕəʔan"
+    "ipa": "ɕəʁaʔan"
   },
   {
     "word": "лэжьын",
@@ -79853,8 +79923,13 @@
         "examples": []
       },
       {
-        "meaning": "to practice (to perform or observe in a habitual fashion)",
-        "examples": []
+        "meaning": "to practice (to perform or observe in a habitual fashion); to commit",
+        "examples": [
+          {
+            "sentence": "Л1ым гонахьхэр '''елэжьых'''",
+            "translation": "The man '''commits''' sins."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -79866,7 +79941,12 @@
     "definitions": [
       {
         "meaning": "marriageable age for woman",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Пшъагъэм '''идэк1огъу''' къэсыгъ",
+            "translation": "The girl reached '''her marriageable age''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -79878,7 +79958,12 @@
     "definitions": [
       {
         "meaning": "marriageable age for man",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''икъэщэгъу''' къэсыгъ",
+            "translation": "The boy reached '''his marriageable age''."
+          }
+        ]
       },
       {
         "meaning": "the time of marriage",
@@ -79894,7 +79979,16 @@
     "definitions": [
       {
         "meaning": "base",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Дзап1эм''' дзэл1ыхэр дэсых",
+            "translation": "The soldiers are in '''the base'''"
+          },
+		  {
+            "sentence": "'''Дзап1эм''' тыщы1",
+            "translation": "We are in the '''the base'''"
+          }
+        ]
       }
     ],
     "type": "noun",

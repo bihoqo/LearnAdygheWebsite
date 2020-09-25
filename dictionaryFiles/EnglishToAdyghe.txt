@@ -2682,7 +2682,7 @@
     "at the beginning": "апэ"
   },
   {
-    "firstly": "апэрэу"
+    "firstly": "апэрэу; нахьыпэу"
   },
   {
     "country": "хэгъэгу"
@@ -11778,7 +11778,7 @@
     "clothing": "щыгъын"
   },
   {
-    "first": "апэрэ; (dialectal) япэрэ"
+    "first": "апэрэ; (dialectal) япэрэ; нахьыпэ"
   },
   {
     "tomorrow": "неущы; нэущы (Shapsug)"
@@ -13927,6 +13927,12 @@
   },
   {
     "great smell": "мэ 1эш1у"
+  },
+  {
+    "to take out": "къихын (to take out from inside something); къыдэхын (to take out from inside another object)"
+  },
+  {
+    "to narrate": "къэ1отэн"
   },
   {
     "to tell": "1отэн / къэ1отэн"
