@@ -3579,7 +3579,10 @@
     "mute": "бзако (unable to speak)"
   },
   {
-    "quiver": "сагъындакъ; 1убырылъ; бзалъэ; бзэкъулъ"
+    "quiver": "сагъындакъ; бзалъэ; бзэкъулъ"
+  },
+  {
+    "holster": "к1эрэхъуалъ; 1убырылъ"
   },
   {
     "eloquent": "бзаш1у"
@@ -7755,10 +7758,10 @@
     "to stay": "къы1унэн (to stay behind); исын; илъын (to stay overnight)"
   },
   {
-    "to remain": "къы1унэн (to remain behind); къинэн (to remian inside); къэнэн (leftover); гъэкъэнэн (to leave remaining, to leave leftovers); къэгъэнэжьын (to remain leftovers)"
+    "to remain": "къы1унэн (to remain behind); къинэн (to remian inside); къэнэн (to remain leftover); гъэкъэнэн (to leave remaining, to leave leftovers); къэгъэнэжьын (to remain leftovers); къинэжьын (to leave/remain inside leftovers); къытенэжьын (to leave/remain above leftovers); къыч1энэжьын (to leave/remain beneath leftovers); къыпыэнэжьын (to leave/remain on a tree leftovers)"
   },
   {
-    "to leave": " гъэкъэнэн (to leave remainings); къэгъэнэжьын (to remain leftovers); бгынэн (to abandon/desert); ик1ын (to go out); ик1ыжьын (to leave the house/family); пык1ыжьын (to divorce); хэк1ын (to leave a company or group); къинэн (to leave something behind); тегъэнэн / къытегъэнэн (to leave something above something); ч1эгъэнэн / къыч1эгъэнэн (to leave something under something); хэгъэнэн / къыхэгъэнэн (to leave something in an area with liquid or gas, to leave something in the forest); дэгъэнэн / къыдэгъэнэн (to leave something in); 1угъэнэн / къы1угъэнэн (to leave something near); къы1унэн (to leave behind)"
+    "to leave": " гъэкъэнэн (to leave remainings); къэгъэнэжьын (to remain leftovers); бгынэн (to abandon/desert); ик1ын (to go out); ик1ыжьын (to leave the house/family); пык1ыжьын (to divorce); хэк1ын (to leave a company or group); къинэн (to leave something behind); тегъэнэн / къытегъэнэн (to leave something above something); ч1эгъэнэн / къыч1эгъэнэн (to leave something under something); хэгъэнэн / къыхэгъэнэн (to leave something in an area with liquid or gas, to leave something in the forest); дэгъэнэн / къыдэгъэнэн (to leave something in); 1угъэнэн / къы1угъэнэн (to leave something near); къы1унэн (to leave behind); къинэжьын (to leave/remain inside leftovers); къытенэжьын (to leave/remain above leftovers); къыч1энэжьын (to leave/remain beneath leftovers); къыпыэнэжьын (to leave/remain on a tree leftovers)"
   },
   {
     "to stay behind": "къы1унэн"
@@ -10854,7 +10857,10 @@
     "to rage": зэк1эплъыхьан (to get furious)"
   },
   {
-    "to look": "плъэн; еплъын (to look at) теплъэн (to look on); xэплъэн (to look among, to look inside an area with either gas, solid or liquid); дэплъэн (to look into); иплъэн (to look inside); пыплъэн (to look on clothes or tree); гоплъэн / бгъодэплъэн (to look besides); къоплъэн (to look behind); зэк1эплъэн / зэплъэк1ын (to look back); лъыплъэн (to look after); дэплъэен (to look up); еплъэхын (to look under); шъхьадэплъын (to look over);  хэплъыхьан (to take a good look into area with trees, plants, fire, liquid or gas, to take a good look among people or objects); теплъыхьан (to take a good look on something); ч1эплъыхьан (to take a good look under something); иплъыхьан (to take a good look inside something); дэплъыхьан (to take a good look in something, to take a good look between); пыплъыхьан (to take a good look on someone's clothes and examine it); къэплъыхьан (to look around in a certain area and examining it); зыплъыхьан (to look around oneself, to look around the area where oneself is standing)"
+    "to watch": еплъын; лъыплъэн (to watch over)"
+  },
+  {
+    "to look": "плъэн; еплъын (to look at); теплъэн (to look on); xэплъэн (to look among, to look inside an area with either gas, solid or liquid); дэплъэн (to look into); иплъэн (to look inside); пыплъэн (to look on clothes or tree); гоплъэн / бгъодэплъэн (to look besides); къоплъэн (to look behind); зэк1эплъэн / зэплъэк1ын (to look back); лъыплъэн (to look after); дэплъэен (to look up); еплъэхын (to look under); шъхьадэплъын (to look over);  хэплъыхьан (to take a good look into area with trees, plants, fire, liquid or gas, to take a good look among people or objects); теплъыхьан (to take a good look on something); ч1эплъыхьан (to take a good look under something); иплъыхьан (to take a good look inside something); дэплъыхьан (to take a good look in something, to take a good look between); пыплъыхьан (to take a good look on someone's clothes and examine it); къэплъыхьан (to look around in a certain area and examining it); зыплъыхьан (to look around oneself, to look around the area where oneself is standing)"
   },
   {
     "to get drunk": "утэшъон; шъхьэ убытын; зешъок1ыжьын (to get drunk)"
@@ -11347,6 +11353,21 @@
   },
   {
     "to dehydrate": "гъун (to get dehydrated); гъэгъун"
+  },
+  {
+    "to be in": "илъын; дэлъын"
+  },
+  {
+    "to be unber": "ч1элъын"
+  },
+  {
+    "to be on": "телъын"
+  },
+  {
+    "to be besides": "голъын / бгъодэлъын"
+  },
+  {
+    "to be": "щытын (to be a, to be the); телъын (to be on); ч1элъын (to be unber, to be beneath); илъын (to be in); дэлъын (to be in); хэлъын (to be within, to be among, to be within an area of liquid, solid or gas, to be in the forest or plants); къолъын (to be behind); пылъын (to be attached on, to be on a tree, to be connected to); голъын / бгъодэлъын (to be besides)"
   },
   {
     "to lie": "пц1ын (to speak falsehood); пц1ы усын (to speak falsehood); пс1ын (Shapsug, to speak falsehood); фэп1ын (to lie to someone); пц1ы фэусын (to lie to someone); щылъын (to be lying); телъын (to be lying on); ч1элъын (to be lying under); хэлъын (to be lying within some area with liquid, gas or solid); дэлъын (to be lying in); илъын (to be lying inside); къолъын (to be lying behind); голъын / бгъодэлъын (to be lying under); гъолъын (to lie down); тегъолъхьан (to lie down on something); ч1эгъолъхьан (to lie down under something); хэгъолъхьан (to lie down within an area with liquid, solid or gas); дэгъолъхьан (to lie down in); игъолъхьан (to lie down inside); гогъолъхьан / бгъодэгъолъхьан (to lie down besides); къогъолъхьан (to lie down behind)"
@@ -12168,10 +12189,10 @@
     "to drag out": "хэлъэшъун"
   },
   {
-    "to stand out": "къыхэщын (to stand out from among other people or objects); къыхэгъэщын (to make something stand out); къык1эщын (to stand out from beneath); къищын (to stand out from inside something); къытещын (to stand out from above something); къыпыщын (to stand out from the edge of something)"
+    "to stand out": "къыхэщын (to stand out from among other people or objects); къыхэгъэщын (to make something stand out); къык1эщын (to stand out from beneath)"
   },
   {
-    "to stick out": "къыхэщын (to stick out from among); къищын (to stick out from inside something); къыч1эщын (to stick out from under something); къытещын (to stick out from above something); къыпыщын (to stick out from a tree); къыкъощын (to stick out from behind something); къыхэгъэщын (to make something stick out)"
+    "to stick out": "къыхэщын (to stick out from among); къищын (to stick out from inside something); къыч1эщын (to stick out from under something); къытещын (to stick out from above something); къыпыщын (to stick out from a tree, to stick out from the tip of something); къыкъощын (to stick out from behind something); къыхэгъэщын (to make something stick out)"
   },
   {
     "to be apparent": "къыхэщын; къыхэгъэщын (to make something apparent)"
@@ -14073,13 +14094,13 @@
     "to sway": "к1эрэон; гъэк1эрэон (to sway something or someone)"
   },
   {
-    "pug nose": "пакъ"
+    "pug nose": "пакъэ"
   },
   {
-    "snub-nosed": "пакъ"
+    "snub-nosed": "пакъэ"
   },
   {
-    "bluntnose": "пакъ"
+    "bluntnose": "пакъэ"
   },
   {
     "to help someone medically": "е1эзэн"

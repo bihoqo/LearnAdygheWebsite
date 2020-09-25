@@ -2348,6 +2348,10 @@
         "meaning": "skin",
         "examples": []
       },
+	  {
+        "meaning": "leather",
+        "examples": []
+      },
       {
         "meaning": "color",
         "examples": []
@@ -2953,6 +2957,10 @@
 		  {
             "sentence": "Бзылъфыгъэм '''щыгъу''' шхыным теутагъ",
             "translation": "The woman sprinkled '''salt''' on the food."
+          },
+		  {
+            "sentence": "'''Щыгъур''' 1энэ къуапэм къолъ",
+            "translation": "'''The salt''' is in the table corner."
           }
         ]
       }
@@ -5408,11 +5416,15 @@
           },
           {
             "sentence": "Европа '''сык1орагъу'''",
-            "translation": "'''I want to go''' to the party."
+            "translation": "'''I want to go''' to Europa."
           },
           {
             "sentence": "Чэщдэсым нек1о '''тызэдэк1ощт'''",
             "translation": "Let's '''go together''' to the party."
+          },
+          {
+            "sentence": "Сшынахьыжъ еджап1эм '''к1уагъэпышъ''', сэри '''сык1онэу''' сыфаеп",
+            "translation": "'''Because''' my older brother '''did not went''' to schoo, I also don't want '''to go'''."
           }
         ]
       },
@@ -5434,6 +5446,10 @@
           {
             "sentence": "Сэ бэрэ '''сэк1о'''",
             "translation": "'''I walk''' a lot."
+          },
+          {
+            "sentence": "Лъак1ок1э мазэм '''уш1ошъущтэп'''",
+            "translation": "'''You cannot walk to''' the moon."
           }
         ]
       }
@@ -6764,8 +6780,37 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "arrow",
+        "meaning": "alternative form of \"щэбзащэ\"",
         "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ɕabzaːɕ"
+  },
+  {
+    "word": "щэбзащэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "arrow",
+        "examples": [
+          {
+            "sentence": "Сагъындакъыр '''щэбзащэхэр''' зыралъхьэрэр",
+            "translation": "A quiver is where '''arrows''' are put."
+          },
+		  {
+            "sentence": "Сагъындакъым '''щэбзащэхэр''' илъых",
+            "translation": "'''The arrows''' are in the quiver."
+          },
+		  {
+            "sentence": "Сагъындакъым '''щэбзащэ''' къинэжьыгъэп",
+            "translation": "No '''arrow''' was left in the quiver."
+          },
+          {
+            "sentence": "Л1ым '''щэбзащэр''' мы1эрысэм '''фигъэпсыгъ'''",
+            "translation": "The man pointed '''the arrow''' to the apple."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -7998,6 +8043,72 @@
     ],
     "type": "verb",
     "ipa": "pɬan"
+  },
+  {
+    "word": "еплъын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to look at",
+        "examples": [
+          {
+            "sentence": "К1алэр пшъашъэм '''еплъы'''",
+            "translation": "The boy '''is looking''' at the girl."
+          },
+          {
+            "sentence": "Унэ плъыжьым '''еплъ'''",
+            "translation": "'''Look at''' the red house."
+          },
+          {
+            "sentence": "Зыкъэгъази '''къысэплъ'''",
+            "translation": "Turn yourself and '''look at me'''."
+          },
+          {
+            "sentence": "Ныор къэгъагъэхэм '''аплъынэр''' ик1ас",
+            "translation": "The old-woman likes '''to look at''' the flowers."
+          },
+          {
+            "sentence": "'''Къэсфеплъ''' сиятэ къэсыгъэмэ",
+            "translation": "'''Look for me''' if my father came."
+          },
+		  {
+            "sentence": "Матэм псы илъымэ '''еплъ'''",
+            "translation": "'''Look''' if there is water in the basket."
+          }
+        ]
+      },
+	  {
+        "meaning": "to watch",
+        "examples": [
+		  {
+            "sentence": "К1алэр фылымым '''еплъы'''",
+            "translation": "The boy '''is watching''' the film."
+          },
+		  {
+            "sentence": "Сэ хъурэм '''сеплъы'''",
+            "translation": "'''I am watching''' what going on."
+          },
+		  {
+            "sentence": "Сэ л1ит1ур зэзаоу '''сеплъыгъ'''",
+            "translation": "'''I watched''' the two men fighting."
+          },
+		  {
+            "sentence": "Джантый фылымым '''еплъынэу''' фаепи, нэмык1 фылым '''теплъын''' фай",
+            "translation": "Because Janty does not want '''to watch''' the film, we need '''to watch''' something else."
+          },
+		  {
+            "sentence": "Аужырэм '''теплъыжьыгъэп''' фылымым",
+            "translation": "In the end '''we didn't watch''' the film."
+          },
+		  {
+            "sentence": "Л1ыр фылым дэгъумэ '''аплъы'''",
+            "translation": "The man '''is watching''' good films."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "japɬən"
   },
   {
     "word": "лъэгъун",
@@ -52837,39 +52948,6 @@
     "ipa": "txan"
   },
   {
-    "word": "еплъын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to look at",
-        "examples": [
-          {
-            "sentence": "К1алэр пшъашъэм '''еплъы'''",
-            "translation": "The boy '''is looking''' at the girl."
-          },
-          {
-            "sentence": "Унэ плъыжьым '''еплъ'''",
-            "translation": "'''Look at''' the red house."
-          },
-          {
-            "sentence": "Зыкъэгъази '''къысэплъ'''",
-            "translation": "Turn yourself and '''look at me'''."
-          },
-          {
-            "sentence": "Ныор къэгъагъэхэм '''аплъынэр''' ик1ас",
-            "translation": "The old-woman likes '''to look at''' the flowers."
-          },
-          {
-            "sentence": "'''Къэсфеплъ''' сиятэ къэсыгъэмэ",
-            "translation": "'''Look for me''' if my father came."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "japɬən"
-  },
-  {
     "word": "утэшъон",
     "lang": "Adyghe",
     "definitions": [
@@ -62190,6 +62268,14 @@
           {
             "sentence": "Сизакъоу '''сыкъэнэнэу''' сш1оигъу",
             "translation": "'''I''' want '''to be left''' alone."
+          },
+		  {
+            "sentence": "Сагъындакъым щэбзащэ '''къинэжьыгъэп'''",
+            "translation": "No arrow '''was left in''' the quiver."
+          },
+		  {
+            "sentence": "Зы мы1эрыс матэм '''къинэжьыгъ'''",
+            "translation": "One apple '''was left''' in the basket."
           }
         ]
       }
@@ -80505,7 +80591,12 @@
     "definitions": [
       {
         "meaning": "rag",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Тыдэ щы1 '''хъэдэн ц1ынэр'''?",
+            "translation": "Where is the '''rag'''?"
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -80519,7 +80610,7 @@
         "meaning": "to rock; to cause to shake or sway",
         "examples": [
           {
-            "sentence": "Л1ыр '''к1ыраоу''' мак1о",
+            "sentence": "Л1ыр '''к1эраоу''' мак1о",
             "translation": "The man is going while '''swaying'''."
           },
           {
@@ -80537,24 +80628,34 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "angle; corner",
+        "meaning": "angle",
         "examples": []
+      },
+	  {
+        "meaning": "corner",
+        "examples": [
+		  {
+            "sentence": "Щыгъур 1энэ '''къуапэм''' къолъ",
+            "translation": "The salt is in the table '''corner'''."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "qʷaːpa"
   },
   {
-    "word": "пакъ",
+    "word": "пакъэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "pug nose",
-        "examples": []
-      },
-      {
-        "meaning": "snub-nosed",
-        "examples": []
+        "meaning": "pug nose; snub-nosed",
+        "examples": [
+          {
+            "sentence": "К1элэ '''пакъ'''",
+            "translation": "A '''snub-nosed''' boy."
+          }
+        ]
       },
       {
         "meaning": "bluntnose",
@@ -80586,7 +80687,20 @@
     "definitions": [
       {
         "meaning": "quiver (case for holding arrows)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Сагъындакъыр''' щэбзащэхэр зыралъхьэрэр",
+            "translation": "'''A quiver''' is where arrows are put."
+          },
+		  {
+            "sentence": "'''Сагъындакъым''' щэбзащэхэр илъых",
+            "translation": "The arrows are in '''the quiver'''."
+          },
+		  {
+            "sentence": "'''Сагъындакъым''' щэбзащэ къинэжьыгъэп",
+            "translation": "No arrow was left in '''the quiver'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -80597,9 +80711,45 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "quiver (case for holding arrows)",
-        "examples": []
+        "meaning": "holster",
+        "examples": [
+          {
+            "sentence": "'''1убырылъыр''' к1эрахъор зэрылърэ шъор ары",
+            "translation": "'''A holster''' is the leather where the gun is stored."
+          },
+		  {
+            "sentence": "Л1ым ик1эрахъохэр '''1убырылъым''' илъых",
+            "translation": "The man's guns are in '''the holster'''."
+          }
+        ]
       }
+    ],
+    "synonyms": [
+      "к1эрэхъуалъ"
+    ],
+    "type": "noun",
+    "ipa": "ʔʷbərəɬ"
+  },
+  {
+    "word": "к1эрэхъуалъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "holster",
+        "examples": [
+          {
+            "sentence": "'''К1эрэхъуалъэр''' к1эрахъор зэрылърэ шъор ары",
+            "translation": "'''A holster''' is the leather where the gun is stored."
+          },
+		  {
+            "sentence": "Л1ым ик1эрахъохэр '''к1эрэхъуалъэм''' илъых",
+            "translation": "The man's guns are in '''the holster'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "1убырылъ"
     ],
     "type": "noun",
     "ipa": "ʔʷbərəɬ"
@@ -90679,11 +90829,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to fight",
+        "meaning": "to fight (each other)",
         "examples": [
           {
-            "sentence": "шъэожъыехэр зэзэуагъэх",
+            "sentence": "Шъэожъыехэр '''зэзэуагъэх'''",
             "translation": "The boys '''are fighting'''."
+          },
+		  {
+            "sentence": "Сэ л1ит1ур '''зэзаоу''' сеплъыгъ",
+            "translation": "I watched the two men '''fighting each other'''."
           }
         ]
       },
@@ -90691,7 +90845,7 @@
         "meaning": "to be in war with each other",
         "examples": [
           {
-            "sentence": "хэгъэгухэр зэзаох",
+            "sentence": "Хэгъэгухэр зэзаох",
             "translation": "The countries '''are in war with each other'''."
           }
         ]
@@ -96262,8 +96416,33 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to lie inside",
-        "examples": []
+        "meaning": "to lie inside; to be in",
+        "examples": [
+		  {
+            "sentence": "Л1ым ик1эрахъохэр к1эрэхъуалъэм '''илъых'''",
+            "translation": "The man's guns are '''in''' the holster."
+          },
+		  {
+            "sentence": "Гык1ыгъэхэр матэм '''илъыгъэх'''",
+            "translation": "The laundries '''were in''' the basket."
+          },
+          {
+            "sentence": "Пхъуантэм ык1оц1ы '''илъыхэр''' къихых",
+            "translation": "Take out the stuff '''that are inside''' the box."
+          },
+		  {
+            "sentence": "Шхынхэр 1алъмэкъым '''илъых'''",
+            "translation": "The foods are '''in''' the handbag."
+          },
+		  {
+            "sentence": "Сагъындакъым щэбзащэхэр '''илъых'''",
+            "translation": "The arrows are '''in''' the quiver."
+          },
+		  {
+            "sentence": "Матэм псы '''илъымэ''' еплъ",
+            "translation": "Look if there is water '''in''' the basket."
+          }
+        ]
       },
       {
         "meaning": "to stay for the night, to stay overnight",
@@ -96299,7 +96478,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to remain inside; to left inside",
+        "meaning": "to remain inside; to leave inside",
         "examples": [
           {
             "sentence": "К1алэр Америкэм к1ом къинэжьыгъ",
@@ -96312,6 +96491,35 @@
           {
             "sentence": "Синыбджэгъухэр дэк1ыхи унэм '''сыкъыранагъ''' сизакъоу",
             "translation": "My friends went out '''and left me''' alone."
+          },
+		  {
+            "sentence": "Сагъындакъым щэбзащэ '''къинэжьыгъэп'''",
+            "translation": "No arrow '''was left in''' the quiver."
+          },
+		  {
+            "sentence": "Зы мы1эрыс матэм '''къинэжьыгъ'''",
+            "translation": "One apple '''was left''' in the basket."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃəbʁa"
+  },
+  {
+    "word": "къинэжьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to remain inside leftovers; to leave inside leftovers",
+        "examples": [
+		  {
+            "sentence": "Сагъындакъым щэбзащэ '''къинэжьыгъэп'''",
+            "translation": "No arrow '''was left in''' the quiver."
+          },
+		  {
+            "sentence": "Зы мы1эрыс матэм '''къинэжьыгъ'''",
+            "translation": "One apple '''was left''' in the basket."
           }
         ]
       }
