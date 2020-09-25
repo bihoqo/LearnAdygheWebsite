@@ -10569,7 +10569,7 @@
     "uneven": "пхъашэ"
   },
   {
-    "to wake up": "къэущын; къэущыжьын; къэгъэущын (to awake someone up); къэгъэущыжьын (to awake someone up); къыхэущык1ын (to wake up from something)"
+    "to wake up": "къэущын; къэущыжьын; къэгъэущын (to awake someone up); къэгъэущыжьын (to awake someone up); къыхэущык1ын (to wake up from a dream)"
   },
   {
     "to be torn into pieces": "зэхэтэкъун"
@@ -14145,6 +14145,9 @@
     "to bewray": "к1э1отык1ын"
   },
   {
+    "to tell on": "к1э1отык1ын"
+  },
+  {
     "to rat out": "к1э1отык1ын"
   },
   {
@@ -15117,10 +15120,10 @@
     "woodchip": "пхъэчыпэ; пхъэжъые"
   },
   {
-    "handful": "1ап1э"
+    "handful": "1ап1э; 1апл1э"
   },
   {
-    "armful": "1ап1э"
+    "armful": "1ап1э; 1апл1э"
   },
   {
     "a handful of": "1ап1э"

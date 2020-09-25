@@ -81153,12 +81153,48 @@
         "examples": []
       }
     ],
-    "synonyms": [
-      "щаибжъэ"
-    ],
     "kabardian": "шае",
     "type": "noun",
     "ipa": "ɕaːja"
+  },
+  {
+    "word": "щай",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"щае\"",
+        "examples": []
+      }
+    ],
+    "kabardian": "шае",
+    "type": "noun",
+    "ipa": "ɕaːj"
+  },
+  {
+    "word": "чае",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"щае\"",
+        "examples": []
+      }
+    ],
+    "kabardian": "шае",
+    "type": "noun",
+    "ipa": "t͡ʃʼaːja"
+  },
+  {
+    "word": "чай",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"щае\"",
+        "examples": []
+      }
+    ],
+    "kabardian": "шае",
+    "type": "noun",
+    "ipa": "t͡ʃʼaːj"
   },
   {
     "word": "шхъуат1э",
@@ -81168,9 +81204,6 @@
         "meaning": "alternative form of \"шхъуант1э\"",
         "examples": []
       }
-    ],
-    "synonyms": [
-      "гъэушхъонтын"
     ],
     "type": "noun",
     "ipa": "ʃχʷaːtʼa"
@@ -81195,7 +81228,7 @@
         "meaning": "talkative, a person that tend to talk a lot",
         "examples": [
           {
-            "sentence": "Сишы '''гущы1эрый'''",
+            "sentence": "Сшы '''гущы1эрый'''",
             "translation": "My brother is '''talkative'''."
           }
         ]
@@ -81245,31 +81278,24 @@
     "ipa": "ʁaqarqatan"
   },
   {
-    "word": "ч1э1отык1ьын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"ч1э1отык1ын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "t͡ʂʼaʔʷatəkʲʼən"
-  },
-  {
     "word": "к1э1отык1ын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to bewray, to reveal, to divulge, to make something known (especially a secret)",
+        "meaning": "to tell on, to reveal, to rat out, to make something known (especially a secret)",
         "examples": [
           {
             "sentence": "К1алэм пшъашъэм ыш1агъэхэр '''къык1и1утык1ыгъэх''' к1элэегъаджэм ыпашъхьэк1э",
             "translation": "The boy '''revealed''' the girl's doings in front of the teacher."
+          },
+		  {
+            "sentence": "'''Сык1эмы1отык1'''",
+            "translation": "'''Don't tell on me."
           }
         ]
       }
     ],
+    "shapsug": "к1э1отык1ьын",
     "type": "verb",
     "ipa": "t͡ʂʼaʔʷatət͡ʃʼən"
   },
@@ -81295,18 +81321,6 @@
     "ipa": "qətaʁazan"
   },
   {
-    "word": "къыхэущык1ьын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"къыхэущык1ын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "qəxawɕəkʲʼən"
-  },
-  {
     "word": "къыхэущык1ын",
     "lang": "Adyghe",
     "definitions": [
@@ -81314,12 +81328,13 @@
         "meaning": "to wake up from something (usually a dream)",
         "examples": [
           {
-            "sentence": "К1алэр пщыхьым къыхэущык1ыгъ",
-            "translation": "The boy '''awoke''' from a dream."
+            "sentence": "К1алэр пчыхьым '''къыхэущык1ыгъ'''",
+            "translation": "The boy '''awoke from''' a dream."
           }
         ]
       }
     ],
+	"shapsug": "къыхэущык1ьын"
     "type": "verb",
     "ipa": "qəxawɕət͡ʃʼən"
   },
@@ -81343,17 +81358,25 @@
         "meaning": "to drink up liquid from inside something",
         "examples": [
           {
-            "sentence": "Псы тас '''ишъун'''",
+            "sentence": "Псы тасым '''ишъун'''",
             "translation": "'''To drink up''' the water inside the mug."
           }
         ]
       },
       {
-        "meaning": "to drink up; to finish one's drink.",
+        "meaning": "to drink up; to finish one's drink",
         "examples": [
           {
             "sentence": "К1алэм щэр '''решъу'''",
             "translation": "The boy '''is drinking up''' the milk."
+          },
+		  {
+            "sentence": "К1алэм псыр апчым '''ришъугъ'''",
+            "translation": "The boy '''drank up''' the water '''from''' the glass."
+          },
+		  {
+            "sentence": "Сыд фэдиз ц1ыф уищык1агъэр хыр '''ипшъун''' пае?",
+            "translation": "How many people you need '''to drink up''' the sea?"
           }
         ]
       }
@@ -81366,11 +81389,23 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to drink liquid from inside something fully",
+        "meaning": "to drink up from; to fully drink liquid from inside something",
         "examples": [
           {
             "sentence": "Махъщэм '''ришъук1ыгъ''' псынэр",
-            "translation": "The camel '''drank''' the (whole) well."
+            "translation": "The camel '''drank up''' the well."
+          },
+		  {
+            "sentence": "К1алэм щэр '''решъук1ы'''",
+            "translation": "The boy '''is drinking up''' the milk."
+          },
+		  {
+            "sentence": "К1алэм псыр апчым '''ришъук1ыгъ'''",
+            "translation": "The boy '''drank up''' the water '''from''' the glass."
+          },
+		  {
+            "sentence": "Сыд фэдиз ц1ыф уищык1агъэр хыр '''ипшъук1ын''' пае?",
+            "translation": "How many people you need '''to drink up''' the sea?"
           }
         ]
       }
@@ -81391,20 +81426,13 @@
         "examples": []
       },
       {
-        "meaning": "to make someone go off road",
-        "examples": []
-      },
-      {
-        "meaning": "to make someone go astray",
-        "examples": []
-      },
-      {
-        "meaning": "to make someone lose their way",
-        "examples": []
-      },
-      {
-        "meaning": "to make someone confused",
-        "examples": []
+        "meaning": "to make someone go off road; to make someone lose their way; to make someone go astray; to make someone confused",
+        "examples": [
+          {
+            "sentence": "Пщагъом '''сыхигъэгъощагъ'''",
+            "translation": "The fog '''made me lose my way'''."
+          }
+        ]
       }
     ],
     "type": "verb",
