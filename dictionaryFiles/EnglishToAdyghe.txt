@@ -285,7 +285,7 @@
     "head": "шъхьэ"
   },
   {
-    "hair": "шъхьацы (hair on head); цы (hair on body)"
+    "hair": "шъхьацы (hair on head); цы (hair on body, wool)"
   },
   {
     "forehead": "нат1э"
@@ -11778,7 +11778,7 @@
     "clothing": "щыгъын"
   },
   {
-    "first": "апэрэ; (dialectal) япэрэ; нахьыпэ"
+    "first": "апэрэ (first one); (dialectal) япэрэ (first one); апэу; нахьыпэ"
   },
   {
     "tomorrow": "неущы; нэущы (Shapsug)"

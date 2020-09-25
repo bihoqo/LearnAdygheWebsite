@@ -8660,11 +8660,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "hair (usually of animal or human's body)",
+        "meaning": "hair",
         "examples": []
       },
       {
         "meaning": "wool",
+        "examples": []
+      },
+      {
+        "meaning": "body hair",
         "examples": []
       }
     ],
