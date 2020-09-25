@@ -288,6 +288,9 @@
     "hair": "шъхьацы (hair on head); цы (hair on body, wool)"
   },
   {
+    "body hair": "цы"
+  },
+  {
     "forehead": "нат1э"
   },
   {
@@ -12165,7 +12168,7 @@
     "to drag out": "хэлъэшъун"
   },
   {
-    "to stand out": "къыхэщын (to stand out from among other people or objects); къыхэгъэщын (to make something stand out)"
+    "to stand out": "къыхэщын (to stand out from among other people or objects); къыхэгъэщын (to make something stand out); къык1эщын (to stand out from beneath); къищын (to stand out from inside something); къытещын (to stand out from above something); къыпыщын (to stand out from the edge of something)"
   },
   {
     "to stick out": "къыхэщын (to stick out from among); къищын (to stick out from inside something); къыч1эщын (to stick out from under something); къытещын (to stick out from above something); къыпыщын (to stick out from a tree); къыкъощын (to stick out from behind something); къыхэгъэщын (to make something stick out)"
@@ -14010,7 +14013,7 @@
     "to bring to attention": "унашъо фэш1ын"
   },
   {
-    "to mention": "иунашъо ш1ын; игугъу ш1ын, ыц1э къэ1он"
+    "to mention": "иунашъо ш1ын; игугъу ш1ын; ыц1э къэ1он"
   },
   {
     "to compliment": "щытхъун"

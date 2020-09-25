@@ -5399,12 +5399,41 @@
         "meaning": "to go",
         "examples": [
           {
-            "sentence": "к1алэр уиунэ '''мак1о'''",
-            "translation": "The boy '''is going''' to your house."
+            "sentence": "К1алэр Америкэм '''мак1о'''",
+            "translation": "The boy '''is going''' to America."
           },
           {
-            "sentence": "к1алэр '''мак1о'''",
-            "translation": "The boy '''is going'''."
+            "sentence": "Л1ыр тучаным '''к1уагъэ'''",
+            "translation": "The man '''went''' to the shop."
+          },
+          {
+            "sentence": "Европа '''сык1орагъу'''",
+            "translation": "'''I want to go''' to the party."
+          },
+          {
+            "sentence": "Чэщдэсым нек1о '''тызэдэк1ощт'''",
+            "translation": "Let's '''go together''' to the party."
+          }
+        ]
+      },
+	  {
+        "meaning": "to walk",
+        "examples": [
+          {
+            "sentence": "К1алэр '''мак1о'''",
+            "translation": "The boy '''walks'''."
+          },
+		  {
+            "sentence": "К1алэр уиунэ '''мак1о'''",
+            "translation": "The boy '''is walking''' to your house."
+          },
+          {
+            "sentence": "Л1ыжъыр '''к1ошъурэпи''', п1эм къыхэк1ырэп",
+            "translation": "'''Because''' the old man '''can't walk''', he does not get off the bed."
+          },
+          {
+            "sentence": "Сэ бэрэ '''сэк1о'''",
+            "translation": "'''I walk''' a lot."
           }
         ]
       }
@@ -78028,6 +78057,10 @@
 		  {
             "sentence": "К1алэр зэпачъэмк1э '''атек1уагъ'''",
             "translation": "The boy '''defeated them''' in the race."
+          },
+		  {
+            "sentence": "К1алэр пшъашъэм джэгумк1э '''тек1ошъугъэпи''', ы1э къи1этыгъ",
+            "translation": "'''Because''' the boy '''couldn't defeat''' the girl in the game, he gave up."
           }
         ]
       },
@@ -78847,11 +78880,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to collide into; to knock against, to bump against",
+        "meaning": "to knock against, to bump against",
         "examples": [
           {
             "sentence": "К1алэр шымк1э адрэ шым '''еол1агъ'''",
-            "translation": "The boy '''collieded''' with the horse '''into''' the other horse."
+            "translation": "The boy '''bumped''' with the horse '''against''' the other horse."
           },
 		  {
             "sentence": "К1алэм ы1энтэгъук1э шъхьангъупчъэм '''еуал1и''' ыгъэчагъ",
@@ -80015,24 +80048,27 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "center",
+        "meaning": "middle (centre, midpoint)",
         "examples": [
           {
             "sentence": "Чылэ '''гузэгу'''",
             "translation": "'''Center of''' the village."
-          }
-        ]
-      },
-      {
-        "meaning": "middle",
-        "examples": [
-          {
+          },
+		  {
+            "sentence": "Чылэ '''гузэгум''' тучаныр 1ут",
+            "translation": "In the '''middle of''' the village, there is the shop."
+          },
+		  {
             "sentence": "Мэфэ '''гузэгу'''",
             "translation": "'''Middle of''' the day."
           },
           {
             "sentence": "Сэ '''ыгузэгук1э''' сыщысынэу сыфай",
             "translation": "I want to sit '''in the middle'''."
+          },
+		  {
+            "sentence": "Унэм '''ыгузэгу''' 1анэ ит",
+            "translation": "In the '''middle of''' the house, there is a table."
           }
         ]
       }
@@ -80040,6 +80076,7 @@
     "synonyms": [
       "пчэгу"
     ],
+    "shapsug": "бзэгу",
     "type": "noun",
     "ipa": "ɡʷəzaɡʷ"
   },
@@ -80053,12 +80090,12 @@
           {
             "sentence": "Мэфэ '''пчэгу'''",
             "translation": "'''Middle of''' the day."
+          },
+		  {
+            "sentence": "Чылэ '''пчэгум''' тучаныр 1ут",
+            "translation": "In the '''middle of''' the village, there is the shop."
           }
         ]
-      },
-      {
-        "meaning": "circle area",
-        "examples": []
       }
     ],
     "synonyms": [
@@ -80095,6 +80132,31 @@
     "ipa": "wənaːʃʷa faʃʼən"
   },
   {
+    "word": "игугъу ш1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to bring to attention for someone",
+        "examples": [
+          {
+            "sentence": "К1алэм о '''уигугъу сфиш1ыгъ'''",
+            "translation": "The boy '''mentioned you to me'''."
+          },
+          {
+            "sentence": "Л1ыжъым '''игугъу фэмыш1''' к1алэм",
+            "translation": "'''Do not mention''' the old man '''to the''' boy."
+          },
+          {
+            "sentence": "К1алэм '''игугъу фэш1''' зэрэеджэн фаер",
+            "translation": "'''Mention to''' the boy that he needs to study."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "jəgʷəʁʷ ʃʼən"
+  },
+  {
     "word": "унашъо ш1ын",
     "lang": "Adyghe",
     "definitions": [
@@ -80111,21 +80173,30 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to compliment, to praise",
+        "meaning": "to compliment; to praise",
         "examples": [
           {
-            "sentence": "К1алэр пшъашъэм '''къыщэтхъу'''",
-            "translation": "The boy '''is praising''' the girl."
+            "sentence": "К1алэр шак1ом '''къыщэтхъу'''",
+            "translation": "The boy '''is praising''' the hunter."
           },
           {
             "sentence": "Ц1ыфыхэр '''къэсщэтхъух'''",
             "translation": "People '''are praising me'''."
+          },
+          {
+            "sentence": "К1алэр пшъашъэм '''щытхъугъ''' пшъашъэм итхак1э дахэ фэш1ык1э",
+            "translation": "The boy '''complimented''' the girl for her beautiful writing."
           }
         ]
       },
       {
         "meaning": "to brag about",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''къызыщытхъужьы'''",
+            "translation": "The boy '''is bragging about himself'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -80136,24 +80207,23 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to reveal; to uncover; to show and display that which was hidden.",
+        "meaning": "to expose; to reveal; to uncover; to show and display that which was hidden",
         "examples": [
           {
-            "sentence": "Л1ыр зэрэбзаджэр '''къык1эзгъэщыгъ'''",
-            "translation": "'''I revealed''' that the man is evil."
-          }
-        ]
-      },
-      {
-        "meaning": "to expose",
-        "examples": [
-          {
+            "sentence": "Л1ым пц1ыусыр '''къык1эзгъэщыгъ'''",
+            "translation": "The man '''exposed''' the liar."
+          },
+		  {
             "sentence": "Л1ыр хэпц1ахьэу '''къык1агъэщыгъ''' джэгумк1э",
             "translation": "'''They exposed''' the man for cheating in the game."
           },
           {
-            "sentence": "К1алэм и1эхэ '''къык1егъэщых'''",
+            "sentence": "К1алэм и1эхэр '''къык1егъэщых'''",
             "translation": "The boy '''exposes''' his arms."
+          },
+          {
+            "sentence": "К1алэм '''сыкъык1игъэщыгъ'''",
+            "translation": "The boy '''exposed me'''."
           }
         ]
       },
@@ -80161,8 +80231,16 @@
         "meaning": "to find out; to discover",
         "examples": [
           {
-            "sentence": "К1алэм иятэ хэт '''къык1эзгъэщыгъ'''",
+            "sentence": "К1алэм ыятэ хэт '''къык1эзгъэщыгъ'''",
             "translation": "'''I found out''' who is the boy's father."
+          },
+		  {
+            "sentence": "Л1ыр зэрэбаер '''къык1эзгъэщыгъ'''",
+            "translation": "'''I found out''' that the man is rich."
+          },
+		  {
+            "sentence": "Шъузым ил1 ыгъэбылърэр '''къык1игъэщыгъ'''",
+            "translation": "The woman '''found out''' what her husband was hiding."
           }
         ]
       }
@@ -80175,10 +80253,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be exposed",
+        "meaning": "to be exposed from beneath; to be visible from beneath; to stick out from beneath",
         "examples": [
           {
-            "sentence": "Л1ыр иныбэ '''къык1эщы'''",
+            "sentence": "Л1ым ыныбэ '''къык1эщы'''",
             "translation": "The man's belly '''is exposed'''."
           }
         ]
@@ -80192,8 +80270,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "a kick for stumbling someone, a kick to trip over someone",
-        "examples": []
+        "meaning": "a kick for stumbling someone; a kick to trip over someone",
+        "examples": [
+          {
+            "sentence": "'''Лъэкъопц1анэр''' лъакъо нэмык1 ц1ыфым лъэпэш1оонэу",
+            "translation": "'''Stumbling leg''' is a leg that stumbles other people."
+          },
+		  {
+            "sentence": "Футболист '''лъэкъопц1анэ''' адрэм к1илъхьагъ",
+            "translation": "The football-player '''slide kicked''' the other."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -80204,7 +80291,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to snatch",
+        "meaning": "alternative form of \"пхъотэн\"",
         "examples": []
       }
     ],
@@ -80234,14 +80321,14 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to snatch something from someone",
+        "meaning": "to snatch something from someone; to seize something from someone suddenly",
         "examples": [
           {
             "sentence": "К1алэм джэгуалъэр пшъашъэм '''къыш1уипхъотагъ'''",
             "translation": "The boy '''snatched''' the toy from the girl."
           },
           {
-            "sentence": "К1алэм джэгуалъэр '''къэсш1уипхъотэ'''",
+            "sentence": "К1алэм джэгуалъэр '''къэсш1уипхъутагъ'''",
             "translation": "The boy '''snatched''' the toy '''from me'''."
           }
         ]
@@ -80255,11 +80342,35 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to take off; to remove an object from above something; alternative form of \"техын\"",
+        "meaning": "to take off; to remove an object from above something",
         "examples": [
           {
-            "sentence": "К1алэм джэгуалъэр 1анэм '''трехы'''",
-            "translation": "The boy '''takes off''' the toy from the table."
+            "sentence": "Л1ым унашъхьэм топыр '''къытехыжьы'''",
+            "translation": "The man '''is taking''' the ball '''off''' the house."
+          },
+		  {
+            "sentence": "Лагъэхэр 1анэм '''тесэхыжьых'''",
+            "translation": "'''I am taking''' the plates '''off''' the table."
+          },
+		  {
+            "sentence": "Псыр газым '''темыхыгу'''",
+            "translation": "'''Don't take''' the water '''off''' the gas '''for now'''."
+          },
+		  {
+            "sentence": "К1алэм тхылъып1эхэр 1анэм '''трехых'''",
+            "translation": "The boy '''takes''' the papers '''off''' the table."
+          },
+		  {
+            "sentence": "Л1ым ипа1о '''къызтехы'''",
+            "translation": "The man '''takes off''' his hat."
+          },
+		  {
+            "sentence": "Улъакъохэр '''къэстехых'''",
+            "translation": "'''Take''' your legs '''off''' me."
+          },
+		  {
+            "sentence": "Унэхэр к1алэм '''темыхых'''",
+            "translation": "'''Don't take''' your eyes '''off''' the boy."
           }
         ]
       },
@@ -80267,8 +80378,16 @@
         "meaning": "to capture from; to seize something from someone and take control of (ex. ball, base, land, place); to overtake",
         "examples": [
           {
-            "sentence": "К1алэм торыр '''къыстехы'''",
-            "translation": "The boy '''seized''' the ball from me."
+            "sentence": "К1алэм топыр пшъашъэм '''къытехыгъ'''",
+            "translation": "The boy '''seized''' the ball from the girl."
+          },
+		  {
+            "sentence": "К1алэм сич1ып1э '''къэстехыгъ'''",
+            "translation": "The boy '''seized''' my seat '''from me'''."
+          },
+		  {
+            "sentence": "Урыс дзэм к1эир Адыгэ дзэм '''къытехыгъ'''",
+            "translation": "The Russian army '''seized''' the valley from the Circassian army."
           }
         ]
       }
@@ -80293,12 +80412,25 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to take hold of something against the owner's interest or will",
-        "examples": []
-      },
-      {
-        "meaning": "to capture from",
-        "examples": []
+        "meaning": "to take hold of something against the owner's interest or will; to capture something from someone; to seize something from someone; to overtake from",
+        "examples": [
+          {
+            "sentence": "К1алэм пхъэнт1эк1ур пшъашъэм '''шъуиубытыгъ'''",
+            "translation": "The boy '''take hold of''' the chair against the girl's interest."
+          },
+		  {
+            "sentence": "К1алэм топыр пшъашъэм '''шъуиубытыгъ'''",
+            "translation": "The boy '''seized''' the ball from the girl."
+          },
+		  {
+            "sentence": "К1алэм сич1ып1э '''къэсшъуиубытыгъ'''",
+            "translation": "The boy '''seized''' my seat '''from me'''."
+          },
+		  {
+            "sentence": "Урыс дзэм к1эир Адыгэ дзэм '''шъуиубытыгъ'''",
+            "translation": "The Russian army '''seized''' the valley from the Circassian army."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -80312,16 +80444,24 @@
         "meaning": "to care for",
         "examples": [
           {
-            "sentence": "К1алэм '''сыфегъапэ'''",
-            "translation": "'''I care for''' the boy."
+            "sentence": "Сянэ '''сыфегъапэ'''",
+            "translation": "'''I care for''' my mother."
+          },
+		  {
+            "sentence": "Ащ '''сыфигъапэрэп'''",
+            "translation": "'''I don't care for''' that."
+          },
+		  {
+            "sentence": "Тышхыщтым '''сыфигъапэрэп'''",
+            "translation": "'''I don't care''' what we will eat."
           },
           {
             "sentence": "К1алэр пшъашъэм '''фегъапэ'''",
             "translation": "The boy '''cares for''' the girl."
           },
           {
-            "sentence": "К1алэр иянэ тхьамык1эм '''фегъапэ'''",
-            "translation": "The boy '''cares''' for his poor mother."
+            "sentence": "Л1ыр тхьамык1эхэмэ '''афегъапэ'''",
+            "translation": "The man '''cares for''' the poor."
           }
         ]
       }
@@ -80337,7 +80477,7 @@
         "meaning": "to surrender",
         "examples": [
           {
-            "sentence": "'''Си1э къэсэ1эты'''",
+            "sentence": "'''С1э къэсэ1эты'''",
             "translation": "'''I surrender'''."
           }
         ]
@@ -80346,8 +80486,12 @@
         "meaning": "to give up",
         "examples": [
           {
-            "sentence": "К1алэр емыджэшъоу зэхъум '''и1э къи1этыгъ'''",
+            "sentence": "К1алэр емыджэшъоу зэхъум '''ы1э къи1этыжьыгъ'''",
             "translation": "When the boy couldn't study, '''he gave up'''."
+          },
+		  {
+            "sentence": "К1алэр пшъашъэм джэгумк1э тек1ошъугъэпи, '''ы1э къи1этыгъ'''",
+            "translation": "Because the boy couldn't defeat the girl in the game, '''he gave up'''."
           }
         ]
       }
