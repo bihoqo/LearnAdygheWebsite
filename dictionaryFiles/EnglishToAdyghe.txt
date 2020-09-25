@@ -13758,7 +13758,7 @@
     "to jump over": "блэпк1ын; шъхьадэпк1ын"
   },
   {
-    "to treat": "дэзек1он (to treat someone with a certian behavior)"
+    "to treat": "е1эзэн (to treat medically); дэзек1он (to treat someone with a certian behavior)"
   },
   {
     "to deal with": "дэзек1он (to deal with someone with a certian behavior); езэгъын (to deal okayly with)"

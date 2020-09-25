@@ -8074,6 +8074,10 @@
 		  {
             "sentence": "Матэм псы илъымэ '''еплъ'''",
             "translation": "'''Look''' if there is water in the basket."
+          },
+          {
+            "sentence": "Зыгорэ '''къызэбгъэплъи''' къызэбгъэ1эзагъа?",
+            "translation": "Did you '''let''' anybody '''look at you''' and treat you?"
           }
         ]
       },
@@ -80772,7 +80776,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to help someone medically",
+        "meaning": "to treat someone medically; to help someone medically",
         "examples": [
           {
             "sentence": "Докторыр ц1ыфыхэмэ '''я1азэ'''",
@@ -80781,6 +80785,10 @@
           {
             "sentence": "Докторыр сэ '''къысэ1азэ'''",
             "translation": "The doctor helps me medically."
+          },
+          {
+            "sentence": "Зыгорэ къызэбгъэплъи '''къызэбгъэ1эзагъа'''?",
+            "translation": "Did you let anybody look at you and '''treat you'''?"
           }
         ]
       }
@@ -80821,7 +80829,7 @@
         "meaning": "to lie somewhere within a mass (gas, solid or liquid)",
         "examples": [
           {
-            "sentence": "пIэм '''хэлъын'''",
+            "sentence": "п1эм '''хэлъын'''",
             "translation": "'''to lie''' in bed."
           }
         ]
