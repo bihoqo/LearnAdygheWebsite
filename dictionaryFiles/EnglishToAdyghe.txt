@@ -8163,7 +8163,7 @@
     "to copulate": "дэгъолъын; бгъодэхьан; ек1ол1эн; гогъолъхьан; бгъодэгъолъхьан"
   },
   {
-    "to have": "и1эн"
+    "to have": "и1эн; хэлъын (to have a certain characteristic such as kindness, stingyness, meanness, mercy, etc.)"
   },
   {
     "to moo": "быун"
@@ -12930,7 +12930,7 @@
     "to move a bit": "лъык1отэн"
   },
   {
-    "to move": "хъыен; кощын (to move elsewhere); к1отэн (to move forward); лъык1отэн (to move forward/away a bit); зэк1эк1он (to move backward)"
+    "to move": "хъыен; кощын (to move elsewhere); к1отэн (to move forward); лъык1отэн (to move forward/away a bit); гъэк1отэн / лъыгъэк1отэн (to move a little); зэк1эк1он (to move backward); егъэк1отыл1эн (to move something closer to something); фэгъэк1отэн (to bring something nearer to someone for him/her)"
   },
   {
     "trail": "лъагъо; гъогулъагъо"
@@ -13245,7 +13245,10 @@
     "acquaintance": "нэ1уасэ"
   },
   {
-    "to refer": "зыфи1орэр (what (s)he refers to); лъыгъэк1он"
+    "to refer": "зыфи1орэр (what (s)he refers to)"
+  },
+  {
+    "to forward": "лъыгъэк1ожьын (to forward something to)"
   },
   {
     "to do again": "ш1ыжьын; къытегъэзэн"
@@ -14112,7 +14115,7 @@
     "pronoun": "ц1эпапк1"
   },
   {
-    "to be situated": "щы1эн; хэлъын (to be situated inside a solid mass or in an area with liquid or gas)"
+    "to be situated": "щы1эн"
   },
   {
     "to relocate": "кощын; гъэкощын (to relocate something)"
@@ -14127,10 +14130,10 @@
     "to be a nomad": "кощын"
   },
   {
-    "as one pleases": "зэребылэу"
+    "as one pleases": "зэрэфаеу; зэрэш1оигъэу; зэребылэу"
   },
   {
-    "hug": "1апл1э"
+    "hug": "1апл1э; 1апл1ещэк1"
   },
   {
     "loquacious": "гущы1эрый; гущы1ал"
@@ -15129,7 +15132,7 @@
     "bundle": "1ап1э"
   },
   {
-    "to hug": "1апл1э ещэк1ын; 1апл1э фэш1ын; 1апл1эк1э  къещэк1ын"
+    "to hug": "1апл1э ещэк1ын; 1апл1э фэш1ын; 1апл1эк1э къещэк1ын"
   },
   {
     "sheaf": "пхыр; бганэ"
@@ -17082,7 +17085,7 @@
     "grandchildren (on the line of the daughter); one's daughter's children": "пхъурылъф"
   },
   {
-    "to push": "1унк1эн (to push someone); т1ыргун / ет1ыргун (to push someone); (Shapsug) егук1эн; ифын (to drive/push from an area, to drive/push from inside); 1уфын (to drive/push from near); дэфыен (to drive/push up); ефэхын (to drive/push down); блэфын (to drive/push pass); ч1эфын (to drive/push from under); тефын (to drive/push from above); хэфын (to drive/push from among other people/animals/objects, to drive/push from an area with gas or liquid, to drive/push from the forest or field); дэфын (to drive/push from a defined area such as a yard, area, village, etc.); къофын (to drive/push from behind); е1эн (to push with might)"
+    "to push": "1унк1эн (to push someone); т1ыргун / ет1ыргун (to push someone); (Shapsug) егук1эн; ифын (to drive/push from an area, to drive/push from inside); 1уфын (to drive/push from near); дэфыен (to drive/push up); ефэхын (to drive/push down); блэфын (to drive/push pass); ч1эфын (to drive/push from under); тефын (to drive/push from above); хэфын (to drive/push from among other people/animals/objects, to drive/push from an area with gas or liquid, to drive/push from the forest or field); дэфын (to drive/push from a defined area such as a yard, area, village, etc.); къофын (to drive/push from behind); е1эн (to push with might); егъэк1отыл1эн (to push something closer to something)"
   },
   {
     "gallop": "хьапк1"

@@ -1246,6 +1246,14 @@
 		  {
             "sentence": "'''Зао''' щы1агъ Урысыемрэ Гэрманыемрэ",
             "translation": "There was '''war''' between Russia and German."
+          },
+		  {
+            "sentence": "'''Заомк1э''', л1ым гук1эгъу хэмылъэу, 1ук1эрэр ыук1ыщтыгъ",
+            "translation": "'''In the war''', the man having no mercy, was killing everyone that he met."
+          },
+		  {
+            "sentence": "Л1ыгъэ къыпхэлъын фае '''заом''' ухэхьан пае",
+            "translation": "You need to have courage in order to go to war"
           }
         ]
       },
@@ -20712,6 +20720,10 @@
           {
             "sentence": "заом ухахьэмэ '''уаук1ыщт'''",
             "translation": "If you enter the war '''they will kill you'''."
+          },
+		  {
+            "sentence": "Заомк1э, л1ым гук1эгъу хэмылъэу, 1ук1эрэр '''ыук1ыщтыгъ'''",
+            "translation": "In the war, the man having no mercy, '''was killing''' everyone that he met."
           }
         ]
       }
@@ -45874,6 +45886,10 @@
           {
             "sentence": "Докторым '''сы1ук1эшъурэп'''",
             "translation": "'''I can't meet''' the doctor."
+          },
+		  {
+            "sentence": "Заомк1э, л1ым гук1эгъу хэмылъэу, '''1ук1эрэр''' ыук1ыщтыгъ",
+            "translation": "In the war, the man having no mercy, was killing everyone '''that''' he '''met'''."
           }
         ]
       },
@@ -78687,6 +78703,10 @@
           {
             "sentence": "А к1алэм '''ш1угъэ''' къыпык1ырэп",
             "translation": "No '''goodness''' comes from that boy."
+          },
+		  {
+            "sentence": "Л1ым '''ш1угъэ''' хэлъ",
+            "translation": "The man has '''goodness'''."
           }
         ]
       }
@@ -80805,6 +80825,9 @@
         "examples": []
       }
     ],
+    "synonyms": [
+      "щы1эц1э"
+    ],
     "kabardian": "щы1эц1э",
     "type": "noun",
     "ipa": "pqəʁʷaːt͡sʼ"
@@ -80826,7 +80849,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to lie somewhere within a mass (gas, solid or liquid)",
+        "meaning": "to lie/be somewhere within a mass (gas, solid or liquid)",
         "examples": [
           {
             "sentence": "п1эм '''хэлъын'''",
@@ -80835,8 +80858,29 @@
         ]
       },
       {
-        "meaning": "to be situated",
-        "examples": []
+        "meaning": "to have a certain characteristic (such as kindness, stingyness, meanness, mercy, etc.)",
+        "examples": [
+          {
+            "sentence": "Л1ым ш1угъэ '''хэлъ'''",
+            "translation": "The man ''has''' goodness."
+          },
+		  {
+            "sentence": "Л1ыгъэ '''къыпхэлъын''' фае заом ухэхьан пае",
+            "translation": "'''You''' need '''to have''' courage in order to go to war"
+          },
+		  {
+            "sentence": "Л1ым ц1эп1агъэ '''хэлъ'''",
+            "translation": "The man ''has''' meaness."
+          },
+		  {
+            "sentence": "Шъузым гук1эгъу бэ '''хэлъ'''",
+            "translation": "The woman ''has''' a lot of mercy."
+          },
+		  {
+            "sentence": "Заомк1э, л1ым гук1эгъу '''хэмылъэу''', 1ук1эрэр ыук1ыщтыгъ",
+            "translation": "In the war, the man '''having no''' mercy, was killing everyone that he met."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -80847,15 +80891,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to relocate",
-        "examples": []
-      },
-      {
-        "meaning": "to move something to somewhere else",
+        "meaning": "to relocate; to move (something) from one place to another",
         "examples": [
           {
             "sentence": "К1алэм 1анэр '''егъэкощы'''",
             "translation": "The boy '''is moving''' the table ('''to somewhere else''')."
+          },
+		  {
+            "sentence": "К1алэм 1анэр '''егъэкощы'''",
+            "translation": "The boy '''is relocating''' the table."
           }
         ]
       }
@@ -80864,19 +80908,78 @@
     "ipa": "ʁakʷaɕən"
   },
   {
+    "word": "гъэк1отэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to move a little",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʁakʷʼatan"
+  },
+  {
+    "word": "егъэк1отыл1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to push something to something; to move something closer to something",
+        "examples": [
+          {
+            "sentence": "Софэр дэпкъым '''егъэк1отыл1эн'''",
+            "translation": "'''To push''' the sofa against the wall."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "jaʁakʷʼatəɬʼan"
+  },
+  {
+    "word": "фэгъэк1отэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to move something closer to someone for him/her; to bring something nearer to someone for him/her",
+        "examples": [
+          {
+            "sentence": "Пхъэнт1эк1ур хьак1эм '''фэгъэк1отэн'''",
+            "translation": "'''To move''' the chair '''to''' the guest."
+          },
+		  {
+            "sentence": "Пхъэнт1эк1ур '''къэсфэбгъэк1отэшъущта'''?",
+            "translation": "'''Can you move''' the chair '''to me'''?"
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "faʁakʷʼatan"
+  },
+  {
     "word": "кощын",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to migrate",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ыр Америкэм '''кощыгъ'''",
+            "translation": "The man '''migrated to''' America."
+          },
+          {
+            "sentence": "Европа '''тыкощыгъ'''",
+            "translation": "'''we migrated''' to Europa."
+          }
+        ]
       },
       {
         "meaning": "to nomadize (to be a nomad)",
         "examples": []
       },
       {
-        "meaning": "to move to another place",
+        "meaning": "to be relocated; to move to another place",
         "examples": [
           {
             "sentence": "Л1ыр '''мэкощы'''",
@@ -80885,32 +80988,16 @@
           {
             "sentence": "К1алэр '''к1ощыгъ'''",
             "translation": "The boy '''moved away'''."
+          },
+          {
+            "sentence": "Тыдэ тучаныр '''к1ощыгъ'''?",
+            "translation": "Where did the shop '''moved'''?"
           }
         ]
-      },
-      {
-        "meaning": "to roam from place to place",
-        "examples": []
-      },
-      {
-        "meaning": "to be relocated",
-        "examples": []
       }
     ],
     "type": "verb",
     "ipa": "kʷaɕən"
-  },
-  {
-    "word": "ук1ьэпхъэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"ук1эпхъэн\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "wkʲʼapχan"
   },
   {
     "word": "зэребылэу",
@@ -80926,6 +81013,22 @@
           {
             "sentence": "'''Узэребылэу''' к1о",
             "translation": "Go '''as you please'''."
+          },
+          {
+            "sentence": "'''Сызэребылэу''' сызек1ощт",
+            "translation": "I will behave '''as I please'''."
+          },
+          {
+            "sentence": "Унэ '''узэребылэу''' уш1ышъущтэп",
+            "translation": "You cannot do a house '''as you please'''."
+          },
+          {
+            "sentence": "Джэгум к1алэр '''зэребылэу''' мэджэгу",
+            "translation": "The boy plays the game '''as he pleases'''."
+          },
+          {
+            "sentence": "Пщым '''зэребылэу''' еш1э",
+            "translation": "The prince does '''as he pleases'''."
           }
         ]
       }
@@ -80934,29 +81037,112 @@
     "ipa": "zarajbəɮaw"
   },
   {
-    "word": "пыкьын",
+    "word": "зэрэфаеу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"пычын\"",
+        "meaning": "as one pleases",
+        "examples": [
+          {
+            "sentence": "К1алэм '''зэрэфаеу''' унэр еш1ы",
+            "translation": "The boy is building the house '''as he pleases'''."
+          },
+          {
+            "sentence": "'''Узэрэфаеу''' к1о",
+            "translation": "Go '''as you please'''."
+          },
+          {
+            "sentence": "'''Сызэрэфаеу''' сызек1ощт",
+            "translation": "I will behave '''as I please'''."
+          },
+          {
+            "sentence": "Унэ '''узэрэфаеу''' уш1ышъущтэп",
+            "translation": "You cannot do a house '''as you please'''."
+          },
+          {
+            "sentence": "Джэгум к1алэр '''зэрэфаеу''' мэджэгу",
+            "translation": "The boy plays the game '''as he pleases'''."
+          },
+          {
+            "sentence": "Пщым '''зэрэфаеу''' еш1э",
+            "translation": "The prince does '''as he pleases'''."
+          }
+        ]
+      }
+    ],
+    "type": "adj",
+    "ipa": "zarafaːjaw"
+  },
+  {
+    "word": "1эпл1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"1апл1э\"",
         "examples": []
       }
     ],
-    "kabardian": "пычын",
-    "type": "verb",
-    "ipa": "pəkʲən"
+    "type": "noun",
+    "ipa": "ʔapɬʼ"
   },
   {
     "word": "1апл1э",
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "armful; handful",
+        "examples": [
+          {
+            "sentence": "Пхъэ '''1апл1э'''",
+            "translation": "'''Handful''' of woods."
+          },
+		  {
+            "sentence": "'''1апл1эр''' у1ит1ук1э зэк1эбыубытэшъущтыр ары",
+            "translation": "'''Armful''' is how much you can grab in both of your hands."
+          },
+		  {
+            "sentence": "К1алэм пхъэхэр зы '''1апл1эк1э''' къыхьыгъ",
+            "translation": "The boy brought the woods in one '''armful'''."
+          }
+        ]
+      },
+	  {
         "meaning": "hug",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Пшъашъэм ыянэ '''1апл1''' рищэк1ыгъ",
+            "translation": "The girl '''hugged''' her mother."
+          },
+		  {
+            "sentence": "Пшъашъэр '''1апл1э''' ещэк1ык1э къэспэгъок1ыгъ",
+            "translation": "The girl greeted me '''with a hug'''."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "ʔaːpɬʼa"
+  },
+  {
+    "word": "1апл1ещэк1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "hug",
+        "examples": [
+          {
+            "sentence": "'''1апл1ещэк1эр''' 1ит1умк1э зыгорэ зэк1эбыубытэныр ары",
+            "translation": "'''Hug''' is grabbing someone with both hands."
+          },
+		  {
+            "sentence": "Пшъашъэр '''1апл1ещэн1ык1э''' къэспэгъок1ыгъ",
+            "translation": "The girl greeted me '''with a hug'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʔaːpɬʼjaɕat͡ʃʼ"
   },
   {
     "word": "щае",
@@ -81954,6 +82140,10 @@
           {
             "sentence": "1офыр ш1эхэу ыгъэцэк1эным '''фэш1к1э''' тхъытхъын фэягъэ",
             "translation": "He had to hurry '''in order to''' do the work quickly."
+          },
+		  {
+            "sentence": "Л1ыгъэ къыпхэлъын фай заом ухэхьан '''фэш1ык1э'''",
+            "translation": "You need to have courage '''in order to''' go to war"
           }
         ]
       }
@@ -82068,6 +82258,10 @@
           {
             "sentence": "1офыр ш1эхэу ыгъэцэк1эным '''пае''' тхъытхъын фэягъэ",
             "translation": "He had to hurry '''in order to''' do the work quickly."
+          },
+		  {
+            "sentence": "Л1ыгъэ къыпхэлъын фай заом ухэхьан '''пае'''",
+            "translation": "You need to have courage '''in order to''' go to war"
           }
         ]
       },
@@ -94460,6 +94654,10 @@
           {
             "sentence": "К1алэр ц1ыфыхэр '''ахахьэ'''",
             "translation": "The boy '''joins''' the people."
+          },
+		  {
+            "sentence": "Л1ыгъэ къыпхэлъын фай заом '''ухэхьан''' пае",
+            "translation": "You need to have courage in order '''to join''' the war"
           }
         ]
       },
@@ -103282,7 +103480,16 @@
       },
       {
         "meaning": "mercy",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Шъузым '''гук1эгъу''' бэ хэлъ",
+            "translation": "The woman has a lot of '''mercy'''."
+          },
+		  {
+            "sentence": "Заомк1э, л1ым '''гук1эгъу''' хэмылъэу, 1ук1эрэр ыук1ыщтыгъ",
+            "translation": "In the war, the man having no '''mercy''', killed everyone that he met."
+          }
+        ]
       }
     ],
     "type": "noun",
