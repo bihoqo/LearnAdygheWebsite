@@ -5880,7 +5880,7 @@
     "to trample": "хэубэн"
   },
   {
-    "mixture": "зэхэгъэкIухьагъ, зэхэпхъагъ, зэхэлъ"
+    "mixture": "зэхэгъэк1ухьагъ; зэхэпхъагъ; зэхэлъ"
   },
   {
     "blend": "зэхэгъэк1ухьагъ; зэхэпхъагъ; зэхэлъ"
@@ -6408,7 +6408,7 @@
     "republic": "жъугъэхэку"
   },
   {
-    "to melt": "тк1ун, жъун; гъэтк1ун (to make something melt)"
+    "to melt": "тк1ун, жъун; гъэтк1ун (to make something melt); зэхэгъэтк1ухьан (to melt together)"
   },
   {
     "oldish": "жъы1о"
@@ -10401,7 +10401,7 @@
     "to do mistake": "хэукъон"
   },
   {
-    "to mistake": "хэукъон"
+    "to mistake": "хэукъон; зэхэгъощэн (to mistake one thing with the other)"
   },
   {
     "ring finger": "1эхъомбэ ц1эрамы1у"
@@ -10567,6 +10567,12 @@
   },
   {
     "uneven": "пхъашэ"
+  },
+  {
+    "to entangle": "зэкъогъэлъэдэн; зэхэлъэшъон; зэхэлъэхъыхьан; зэрыгъэлъэдэн"
+  },
+  {
+    "to tangle": "зэкъогъэлъэдэн; зэхэлъэшъон; зэхэлъэхъыхьан"
   },
   {
     "to wake up": "къэущын; къэущыжьын; къэгъэущын (to awake someone up); къэгъэущыжьын (to awake someone up); къыхэущык1ын (to wake up from a dream)"
@@ -15792,16 +15798,34 @@
     "to convert": "зэблэдзын (to convert something into another thing)"
   },
   {
-    "to mix-up": "зэ1ыш1эн; зэхэгъэк1ухьан; зэблэдзын (to mix-up between somethings usually by confusion, mistake, muddle or misunderstanding)"
+    "to mix-up": "зэ1ыш1эн; хэк1ухьан (to become mingled with; to become mixed with); хэгъэк1ухьан (to mingle with, to mix with); зэхэк1ухьан (to become mixed together, to become mingled together); зэхэгъэк1ухьан (to mix things together, to mingle things together); зэхэгъощэн / зэхэгъэк1ок1эн (to mix-up between somethings usually by confusion, mistake or misunderstanding)"
   },
   {
-    "to mix": "зэ1ыш1эн; зэхэгъэк1ухьан; зэблэдзын (to mix between somethings usually by confusion, mistake, muddle or misunderstanding)"
+    "to mix up": "зэ1ыш1эн; хэк1ухьан (to become mingled with; to become mixed with); хэгъэк1ухьан (to mingle with, to mix with); зэхэк1ухьан (to become mixed together, to become mingled together); зэхэгъэк1ухьан (to mix things together, to mingle things together); зэхэгъощэн / зэхэгъэк1ок1эн (to mix-up between somethings usually by confusion, mistake or misunderstanding)"
   },
   {
-    "to mix up": "зэ1ыш1эн; зэхэгъэк1ухьан; зэблэдзын (to mix-up between somethings usually by confusion, mistake, muddle or misunderstanding)"
+    "to mix": "зэ1ыш1эн; хэк1ухьан (to become mingled with; to become mixed with); хэгъэк1ухьан (to mingle with, to mix with); зэхэк1ухьан (to become mixed together, to become mingled together); зэхэгъэк1ухьан (to mix things together, to mingle things together); зэхэгъощэн / зэхэгъэк1ок1эн (to mix between somethings usually by confusion, mistake, muddle or misunderstanding)"
   },
   {
-    "to blend": "зэ1ыш1эн; зэхэгъэк1ухьан; зэблэдзын (to mix-up between somethings usually by confusion, mistake, muddle or misunderstanding)"
+    "to blend": "зэ1ыш1эн; зэхэгъэк1ухьан"
+  },
+  {
+    "to intermix": "зэ1ыш1эн; зэхэгъэк1ухьан"
+  },
+  {
+    "to stir": "зэ1ыш1эн"
+  },
+  {
+    "to mingle": "зэ1ыш1эн; хэк1ухьан (to become mingled with; to become mixed with); хэгъэк1ухьан (to mingle with, to mix with); зэхэк1ухьан (to become mixed together, to become mingled together); зэхэгъэк1ухьан (to mix things together, to mingle things together)"
+  },
+  {
+    "to combine": "зэхэгъэхьан; зэгогъэхьан"
+  },
+  {
+    "to fuse": "зэхэгъэхьан; зэхэк1ок1эн"
+  },
+  {
+    "to merge": "зэхэгъэхьан; зэхэк1ок1эн"
   },
   {
     "sign": "нэшанэ"
@@ -17613,7 +17637,10 @@
     "to talk about": "тегущы1эн"
   },
   {
-    "to complicate": "зэхэлъэшъуагъэ ш1ын; зэхэфыгъуае ш1ын; зэ1ыш1эн"
+    "to complicate": "зэ1ыш1эн / зэхэлъэшъон (to make things more confusing or more complicated); зэхэлъэшъуагъэу ш1ын; зэхэфыгъуаеу ш1ын; къинэу ш1ын (to make things more difficult)"
+  },
+  {
+    "to muddle up": "зэхэгъощэн (to muddle up one thing with another)"
   },
   {
     "to disorganize": "зэ1ыгъэхьан (to disorganize, to disarray; to disorder; to make a mess; to mess up; to make anarchy; to make chaos)"
@@ -17628,7 +17655,7 @@
     "to disturb": "ягъэ егъэк1ын / къин егъэхъун (to annoy, to interrupt and harm, to get in the way of someone); зэ1ыхьан; зэ1ыгъэхьан (to disturb someone, to have a negative emotional impact, to cause emotional distress or confusion)"
   },
   {
-    "to confuse": "зэ1ыхьан (to be confused); зэ1ыгъэхьан (to confuse someone); зэ1ыш1эн"
+    "to confuse": "зэ1ыхьан (to be confused); зэ1ыгъэхьан (to confuse someone); зэ1ыш1эн / зэхэлъэшъон (to make the siuation more confusing); зэхэгъощэн (to confuse one thing with the other); зэхэк1ок1эн (to become confused); зэхэгъэк1ок1эн (to confuse one thing with another)"
   },
   {
     "to make anarchy": "зэ1ыгъэхьан (to disarray; to disorder; to make a mess; to mess up; to make anarchy; to make chaos)"

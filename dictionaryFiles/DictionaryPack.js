@@ -81443,20 +81443,288 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to mix things together",
+        "meaning": "to tangle, to muddle up (to confuse one object with another object); to mix together; (literal meaning) to drag things together",
         "examples": []
       },
-      {
-        "meaning": "to misunderstand things together",
-        "examples": []
-      },
-      {
-        "meaning": "to complicate things together",
-        "examples": []
+	  {
+        "meaning": "to complicate (usaully by mixing too much things together); to make things more confusing or more complicated",
+        "examples": [
+          {
+            "sentence": "К1алэм хъурэр '''зэхилъэшъуагъ'''",
+            "translation": "The boy '''complicated''' what is happening."
+          },
+		  {
+            "sentence": "Бащэу '''зэхэбэлъашъо'''",
+            "translation": "'''You are complicating''' things too much."
+          },
+		  {
+            "sentence": "К1алэм ы1орэр '''зэхэлъэшъуагъ'''",
+            "translation": "What the boy says '''is complicated'''."
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "zaxaɬaʃʷan"
+  },
+  {
+    "word": "зэхэгъощэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to confuse (one thing with another); to mix up; to muddle up (one thing with another); to mistake (one thing for another)",
+        "examples": [
+          {
+            "sentence": "Уцы плъыжьымрэ гъожьымрэ '''зэхэзгъощагъэх'''",
+            "translation": "'''I muddled up''' the red pill with the yellow one."
+          },
+		  {
+            "sentence": "Бащэу '''зэхэбэлъашъо'''",
+            "translation": "'''You are complicating''' things too much."
+          },
+		  {
+            "sentence": "К1алэм ы1орэр '''зэхэлъэшъуагъ'''",
+            "translation": "What the boy says '''is complicated'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaxaʁʷaɕan"
+  },
+  {
+    "word": "зэхэк1ок1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to become mixed up, to become confused, to become jumbled",
+        "examples": [
+          {
+            "sentence": "'''Сызэхэк1ок1агъ''', симыш1ахэу ар синыбджэгъу хэзгъэк1ок1агъ",
+            "translation": "'''I became confused'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaxaʁakʷʼat͡ʃʼan"
+  },
+  {
+    "word": "хэк1ок1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to merge into; to disappear into/within",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "xakʷʼat͡ʃʼan"
+  },
+  {
+    "word": "зэхэщэпсыхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to merge together; to fuse together",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaxaɕapsəħaːn"
+  },
+  {
+    "word": "зэрыгъэлъэдэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to entangle",
+        "examples": [
+          {
+            "sentence": "1уданэр '''зэрыгъэлъэдэн'''",
+            "translation": "'''To entangle''' the threads."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaxaʁakʷʼat͡ʃʼan"
+  },
+  {
+    "word": "хэк1ухьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to become mingled with; to become mixed with",
+        "examples": [
+          {
+            "sentence": "Псыр щэм '''хэк1ухьагъ'''",
+            "translation": "The water '''mixed with''' the milk."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "xakʷʼəħaːn"
+  },
+  {
+    "word": "хэгъэк1ухьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to mingle with something; to mix with something",
+        "examples": [
+          {
+            "sentence": "К1алэм псыр щэм '''хигъэк1ухьагъ'''",
+            "translation": "The boy '''mixed''' the water '''with''' the milk."
+          },
+		  {
+            "sentence": "Щэр псым '''хэмыгъэк1ухь'''",
+            "translation": "'''Don't mix''' the milk '''with''' the water."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "xakʷʼəħaːn"
+  },
+  {
+    "word": "зэхэк1ухьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to become mixed together; to become mingled together",
+        "examples": [
+          {
+            "sentence": "Псымрэ щэмрэ '''зэхэк1ухьагъэх'''",
+            "translation": "The water and the milk '''mixed together'''."
+          },
+		  {
+            "sentence": "Сшъхьэ илъыр зэк1э '''сш1узэхэк1ухьагъ'''",
+            "translation": "Everything in my head '''got mixed up'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaxakʷʼəħaːn"
+  },
+  
+  {
+    "word": "зэхэгъэк1ухьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to mix things together; to mingle things together; to blend",
+        "examples": [
+          {
+            "sentence": "К1алэм псымрэ щэмрэ '''зэхигъэк1ухьагъэх'''",
+            "translation": "The boy '''mixed''' the water and the milk '''together'''."
+          },
+		  {
+            "sentence": "Машинэхэр щы1эх ибылъхьэхэрэр '''зэхагъэк1ухьэхэу'''",
+            "translation": "There are machines '''that mix''' the things you put in it '''together'''."
+          },
+		  {
+            "sentence": "Шхыныхэр '''зэхэгъэк1ухьаных'''",
+            "translation": "'''To mix''' foods."
+          },
+          {
+            "sentence": "К1алэм шъохэр '''зэхигъэк1ухьагъэх'''",
+            "translation": "The man '''mixed''' the colors."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaxaʁakʷʼəħaːn"
+  },
+  {
+    "word": "зэ1эш1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"зэ1ыш1эн\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaʔaʃʼan"
+  },
+  {
+    "word": "зэ1ыш1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to stir; to intermix; to mix, to mix up, to mingle, to blend",
+        "examples": [
+          {
+            "sentence": "Щыпсымрэ п1астэмрэ к1алэм '''зэ1еш1эх'''",
+            "translation": "The boy '''is stiring''' the ships with the kasha."
+          },
+		  {
+            "sentence": "Шхыныхэр '''зэ1ыш1эных'''",
+            "translation": "'''To mix''' foods."
+          },
+          {
+            "sentence": "К1алэм шъохэр '''зэ1иш1агъэх'''",
+            "translation": "The man '''mixed''' the colors."
+          }
+        ]
+      },
+	  {
+        "meaning": "to make things more confusing or more complicated",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaʔəʃʼan"
+  },
+  {
+    "word": "зэхэгъэк1ок1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to confuse one thing with another; to mix-up something",
+        "examples": [
+          {
+            "sentence": "Ар синыбджэгъу '''хэзгъэк1ок1агъ'''",
+            "translation": "'''I confused''' him with my friend."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaxaʁakʷʼat͡ʃʼan"
+  },
+  {
+    "word": "щыпсы",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "Ships (Circassian sauce)",
+        "examples": [
+          {
+            "sentence": "Сянэ ''щыпс''' дэгъу ыш1ыгъ",
+            "translation": "My mother made a good '''ships'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ɕəpsə"
+  },
+  {
+    "word": "бысымгуащэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "owner's wife; housewife",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "bəsəmgʷaːɕa"
   },
   {
     "word": "нэ1аплъэк1",
@@ -92581,46 +92849,28 @@
     "ipa": "jəpʃən"
   },
   {
-    "word": "зэ1ыш1эн",
+    "word": "зэхэгъэхьан",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to mix; to mix up; to blend",
-        "examples": [
-          {
-            "sentence": "Шхыныхэр '''зэ1ыш1эных'''",
-            "translation": "'''To mix''' foods."
-          },
-          {
-            "sentence": "К1алэм шъохэр '''зэ1иш1агъэх'''",
-            "translation": "The man '''mixed''' the colors."
-          }
-        ]
+        "meaning": "to combine; to add together",
+        "examples": []
       }
     ],
     "type": "verb",
-    "ipa": "zaʔəʃʼan"
+    "ipa": "zaxaʁaħaːn"
   },
   {
-    "word": "зэхэгъэк1ухьан",
+    "word": "зэхэгъэтк1ухьан",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to mix; to mix up; to blend",
-        "examples": [
-          {
-            "sentence": "Шхыныхэр '''зэхэгъэк1ухьаных'''",
-            "translation": "'''To mix''' foods."
-          },
-          {
-            "sentence": "К1алэм шъохэр '''зэ1иш1агъэх'''",
-            "translation": "The man '''mixed''' the colors."
-          }
-        ]
+        "meaning": "to melt together",
+        "examples": []
       }
     ],
     "type": "verb",
-    "ipa": "zaxaʁakʷʼəħaːn"
+    "ipa": "zaxaʁatkʷʼəħaːn"
   },
   {
     "word": "фэпщэн",
@@ -92689,10 +92939,6 @@
       },
       {
         "meaning": "to convert something into another thing",
-        "examples": []
-      },
-      {
-        "meaning": "to mix-up between (usually by confusion, mistake, muddle or misunderstanding)",
         "examples": []
       }
     ],
