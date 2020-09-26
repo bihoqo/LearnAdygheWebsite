@@ -4746,6 +4746,25 @@
         "examples": []
       }
     ],
+    "synonyms": [
+      "пчыхьашъхьэ"
+    ],
+    "kabardian": "пщыхьэщхьэ",
+    "type": "noun",
+    "ipa": "pt͡ʃəħa"
+  },
+  {
+    "word": "пчыхьашъхьэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "evening",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "пчыхьэ"
+    ],
     "kabardian": "пщыхьэщхьэ",
     "type": "noun",
     "ipa": "pt͡ʃəħa"
@@ -5383,12 +5402,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "guest",
-        "examples": []
-      },
-	  {
-        "meaning": "visitor",
-        "examples": []
+        "meaning": "visitor; guest",
+        "examples": [
+          {
+            "sentence": "Бысымгуащэм '''хьак1эхэр''' дэгъоу ыгъэхьак1агъэх",
+            "translation": "The housewife hosted the '''visitor''' well."
+          }
+        ]
       }
     ],
     "kabardian": "хьащ1э",
@@ -76088,40 +76108,6 @@
     "ipa": "t͡ʃʼaʁaɕən"
   },
   {
-    "word": "нэпэшъоон",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to slap someone's face",
-        "examples": [
-          {
-            "sentence": "'''Къысэнэпэшъуаох'''",
-            "translation": "'''They are slapping me'''."
-          },
-          {
-            "sentence": "К1алэм '''енэпэшъуао'''",
-            "translation": "(S)he '''is slapping''' the boy."
-          },
-          {
-            "sentence": "Пшъашъэр к1алэм '''енэпэшъоуагъ'''",
-            "translation": "The girl '''slapped''' the boy."
-          },
-          {
-            "sentence": "К1алэм сигъэгубжыгъэти, '''сенэпэшъоуагъ'''",
-            "translation": "Because the boy made me angry, '''I slapped him'''."
-          }
-        ]
-      }
-    ],
-    "synonyms": [
-      "нэпэон",
-      "нэгушъо етын"
-    ],
-    "kabardian": "нэпэфэуэн",
-    "type": "verb",
-    "ipa": "napaʃʷawan"
-  },
-  {
     "word": "лъын",
     "lang": "Adyghe",
     "definitions": [
@@ -81674,7 +81660,20 @@
       },
 	  {
         "meaning": "to make things more confusing or more complicated",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм хъурэр '''зэ1иш1агъ'''",
+            "translation": "The boy '''complicated''' what is happening."
+          },
+		  {
+            "sentence": "Бащэу '''зэ1ыбэш1э'''",
+            "translation": "'''You are complicating''' things too much."
+          },
+		  {
+            "sentence": "К1алэм ы1орэр '''зэ1иш1агъ'''",
+            "translation": "What the boy says '''is complicated'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -81715,16 +81714,85 @@
     "ipa": "ɕəpsə"
   },
   {
+    "word": "чэщ1ус",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "food for the night",
+        "examples": [
+          {
+            "sentence": "'''Чэщ1усыр''' шхынэу чэщым ашхырэр",
+            "translation": "'''Night food''' is a food that is eaten in the night."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃaɕʔʷəs"
+  },
+  {
     "word": "бысымгуащэ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "owner's wife; housewife",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Бысымгуащэм''' хьак1эхэр дэгъоу ыгъэхьак1агъэх",
+            "translation": "'''The housewife''' hosted the guests well."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "bəsəmgʷaːɕa"
+  },
+  {
+    "word": "гъэхьак1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to host someone; to welcome someone as a guest",
+        "examples": [
+          {
+            "sentence": "Бысымгуащэм хьак1эхэр дэгъоу '''ыгъэхьак1агъэх'''",
+            "translation": "The housewife '''hosted''' the guests well."
+          },
+		  {
+            "sentence": "Къэдгъотын фай зыгорэ '''тигъэхьак1эшъущтэу'''",
+            "translation": "We need to find someone '''that could host us'''."
+          }
+		  {
+            "sentence": "Гъэрек1о шъуичылэк1э '''тагъэхьак1агъ'''",
+            "translation": "Last year, '''they hosted us''' in your village."
+          },
+		  {
+            "sentence": "Ц1ыфыхэр дахэу '''угъэхьак1эн''' фаех Адыгэ хабзэмк1э",
+            "translation": "In the Circassian customs, you need '''to host''' [guests] well."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "хьак1эн"
+    ],
+    "type": "verb",
+    "ipa": "ʁaħaːt͡ʃʼan"
+  },
+  {
+    "word": "хьак1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"гъэхьак1эн\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "гъэхьак1эн"
+    ],
+    "type": "verb",
+    "ipa": "ħaːt͡ʃʼan"
   },
   {
     "word": "нэ1аплъэк1",
@@ -81752,11 +81820,20 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(archaic or dialectal) what (intangible)",
-        "examples": [],
-        "tags": [
-          "archaic",
-          "dialectal"
+        "meaning": "(archaic or dialectal) what",
+        "examples": [
+          {
+            "sentence": "'''л1эу''' хъугъэр?",
+            "translation": "'''what''' happened?"
+          },
+          {
+            "sentence": "'''л1эу''' пш1ырэ?",
+            "translation": "'''what''' are you doing?"
+          },
+          {
+            "sentence": "'''л1эу''' к1алэм къы1уагъэр?",
+            "translation": "'''What''' did the boy say?"
+          }
         ]
       }
     ],
@@ -81819,7 +81896,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to shove something through",
+        "meaning": "to shove something through/within; to stuff something through/within; to cram something through/within",
         "examples": [
           {
             "sentence": "К1алэм хьанцэр ят1эм '''хеко'''",
@@ -81867,8 +81944,28 @@
         "meaning": "when",
         "examples": [
           {
-            "sentence": "'''сыдигъо''' къэсыщт к1алэр?",
+            "sentence": "'''Сыдигъо''' гущы1эр п1ощтым фэд сыд уахътэк1",
+            "translation": "The word '''when''' is like saying in what time."
+          },
+		  {
+            "sentence": "'''Сыдигъо''' къэсыщт к1алэр?",
             "translation": "'''When''' will the boy arrive?"
+          },
+		  {
+            "sentence": "'''Сыдигъуа''' ар зыхъугъэр?",
+            "translation": "'''When''' that happened?"
+          },
+		  {
+            "sentence": "'''Сыдигъуа''' укъызык1уагъэр?",
+            "translation": "'''When''' did you came?"
+          },
+		  {
+            "sentence": "'''Сыдигъо''' укъэхъугъ?",
+            "translation": "'''When''' did you were born?"
+          },
+		  {
+            "sentence": "'''Сыдигъо''' гъэмафэр къихьащт?",
+            "translation": "'''When''' summer will arrive?"
           }
         ]
       }
@@ -81903,6 +82000,53 @@
     "type": "noun",
     "ipa": "janapaʃʷawan"
   },
+  
+  {
+    "word": "нэпэшъоон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to slap someone's face",
+        "examples": [
+          {
+            "sentence": "'''Къысэнэпэшъуаох'''",
+            "translation": "'''They are slapping me'''."
+          },
+		  {
+            "sentence": "'''Уснэпэшъоощт'''",
+            "translation": "'''I will slap you'''."
+          },
+          {
+            "sentence": "К1алэм '''енэпэшъуао'''",
+            "translation": "(S)he '''is slapping''' the boy."
+          },
+          {
+            "sentence": "К1алэр '''къенэпэшъуао'''",
+            "translation": "The boy '''is slapping''' him/her."
+          },
+          {
+            "sentence": "К1алэм '''енэпэшъуао'''",
+            "translation": "(S)he '''is slapping''' the boy."
+          },
+          {
+            "sentence": "Пшъашъэр к1алэм '''енэпэшъоуагъ'''",
+            "translation": "The girl '''slapped''' the boy."
+          },
+          {
+            "sentence": "К1алэм сигъэгубжыгъэти, '''сенэпэшъоуагъ'''",
+            "translation": "Because the boy made me angry, '''I slapped him'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "нэпэон",
+      "нэгушъо етын"
+    ],
+    "kabardian": "нэпэфэуэн",
+    "type": "verb",
+    "ipa": "napaʃʷawan"
+  },
   {
     "word": "нэпэон",
     "lang": "Adyghe",
@@ -81914,9 +82058,29 @@
             "sentence": "'''Къысэнэпаох'''",
             "translation": "'''They are slapping me'''."
           },
+		  {
+            "sentence": "'''Уснэпэощт'''",
+            "translation": "'''I will slap you'''."
+          },
           {
             "sentence": "К1алэм '''енэпао'''",
-            "translation": "(s)he '''is slapping''' the boy."
+            "translation": "(S)he '''is slapping''' the boy."
+          },
+          {
+            "sentence": "К1алэр '''къенэпао'''",
+            "translation": "The boy '''is slapping''' him/her."
+          },
+          {
+            "sentence": "К1алэм '''енэпао'''",
+            "translation": "(S)he '''is slapping''' the boy."
+          },
+          {
+            "sentence": "Пшъашъэр к1алэм '''енэпэуагъ'''",
+            "translation": "The girl '''slapped''' the boy."
+          },
+          {
+            "sentence": "К1алэм сигъэгубжыгъэти, '''сенэпэуагъ'''",
+            "translation": "Because the boy made me angry, '''I slapped him'''."
           }
         ]
       }
@@ -81946,7 +82110,7 @@
     "ipa": "napawan"
   },
   {
-    "word": "ишъхьэк1э къи1он",
+    "word": "ышъхьэк1э къи1он",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -81974,8 +82138,58 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to increase (intransitive)",
-        "examples": []
+        "meaning": "to increase; to be increased",
+        "examples": [
+          {
+            "sentence": "Ахъщэр '''хэхъуагъ'''",
+            "translation": "The money '''increased'''."
+          },
+		  {
+            "sentence": "Хьалыгъум иуасэ '''хэхъуагъ'''",
+            "translation": "The bread's price '''increased'''."
+          },
+		  {
+            "sentence": "Къэсщэчырэр '''хэхъуагъ'''",
+            "translation": "My weight '''increased'''."
+          },
+		  {
+            "sentence": "Шхын бащэ ушхымэ, '''къыпхэхъощт'''",
+            "translation": "If you eat too much, [your weight] '''will increase'''."
+          },
+		  {
+            "sentence": "Долларым иуасэ '''хахъуи''' мак1о",
+            "translation": "The dollar's price '''increases''' more and more."
+          },
+		  {
+            "sentence": "Хым и1этыгъагъэ '''хэхъуагъ'''",
+            "translation": "The sea's height '''increased'''."
+          },
+		  {
+            "sentence": "Л1ым илэжьапк1 '''хэхъуагъ'''",
+            "translation": "The man's salary '''increased'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "to grow",
+        "examples": [
+          {
+            "sentence": "К1алэм '''хэхъуагъ'''",
+            "translation": "The boy '''grew'''."
+          },
+		  {
+            "sentence": "Псым '''хэхъуагъ'''",
+            "translation": "The water '''grew'''."
+          },
+		  {
+            "sentence": "Чылэм бэу '''хэхъуагъ'''",
+            "translation": "The village '''grew''' a lot."
+          },
+		  {
+            "sentence": "Шъэожъыем псынк1эу '''хэхъо'''",
+            "translation": "The boy '''is growing''' fast."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -81986,12 +82200,80 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to increase (transitive)",
-        "examples": []
+        "meaning": "to increase; to make (a quantity, etc.) larger",
+        "examples": [
+          {
+            "sentence": "Ахъщэм '''хэгъэхъон'''",
+            "translation": "'''To increase''' the money."
+          },
+		  {
+            "sentence": "Хьалыгъум иуасэ хэгъэгум '''хигъэхъуагъ'''",
+            "translation": "The country '''increased''' the bread's price."
+          },
+		  {
+            "sentence": "Шхын бащэ ушхымэ, '''къыпхигъэхъощт'''",
+            "translation": "If you eat too much, '''It will increase''' [your weight]."
+          },
+		  {
+            "sentence": "Кум иуасэ '''хагъэхъошъурэп'''",
+            "translation": "'''They can't increase''' the car's price."
+          },
+		  {
+            "sentence": "Ощхым хым и1этыгъагъэр '''хегъахъо'''",
+            "translation": "The rain '''increases''' the sea's height."
+          },
+		  {
+            "sentence": "Л1ым илэжьапк1 '''къыфэхэгъэхъуагъ'''",
+            "translation": "'The man's salary '''was increased'''."
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "xaʁaχʷan"
+  },
+  {
+    "word": "лэжьапк1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "salary; wage",
+        "examples": [
+          {
+            "sentence": "Л1ым '''илэжьапк1''' хэхъуагъ",
+            "translation": "The man's '''salary''' increased."
+          },
+		  {
+            "sentence": "Тхьапш '''уилэжьапк1'''?",
+            "translation": "How much is '''your salary'''."
+          },
+		  {
+            "sentence": "'''Силэжьапк1''' бэп",
+            "translation": "'''My salary''' is not much."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "1офш1апк1"
+    ],
+    "type": "noun",
+    "ipa": "ɮaʑaːpt͡ʃʼ"
+  },
+  {
+    "word": "1офш1апк1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "salary; wage; alternative form of \"лэжьапк1\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "лэжьапк1"
+    ],
+    "type": "noun",
+    "ipa": "ʔʷafʃʼaːpt͡ʃʼ"
   },
   {
     "word": "къэраб",
@@ -82025,13 +82307,17 @@
             "translation": "The boy '''misbehaves'''."
           },
           {
+            "sentence": "К1элэц1ык1ухэр '''ш1ык1аехэу''' щагум дэтых.",
+            "translation": "The kids '''are doing trouble''' in the yard."
+          },
+          {
             "sentence": "Шъэожъыем '''ш1ык1эеныр''' ишэн",
             "translation": "It is the boy's behavior to '''get naughty'''."
           }
         ]
       },
       {
-        "meaning": "to frolic, to play about, to fool around, to get up to monkey tricks",
+        "meaning": "to frolic, to play about, to fool around",
         "examples": []
       }
     ],

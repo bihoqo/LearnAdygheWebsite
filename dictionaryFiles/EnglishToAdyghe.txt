@@ -969,7 +969,7 @@
     "oh my gosh": "апшъышъ"
   },
   {
-    "evening": "пчыхьэ; ныпчыхьэ (today's evening)"
+    "evening": "пчыхьэ; пчыхьашъхьэ; ныпчыхьэ (today's evening, this evening)"
   },
   {
     "tonight": "нычэпэ"
@@ -2436,7 +2436,7 @@
     "most": "анахь; янахь (Dialectal)"
   },
   {
-    "dinner": "дэшхын"
+    "dinner": "дэшхын; чэщ1ус (food for the night)"
   },
   {
     "under the house": "унэч1эгъ"
@@ -3433,6 +3433,12 @@
   },
   {
     "feeding-bottle": "бжъэшъу"
+  },
+  {
+    "wage": "лэжьапк1; 1офш1апк1"
+  },
+  {
+    "salary": "лэжьапк1; 1офш1апк1"
   },
   {
     "price": "уасэ"
@@ -4665,7 +4671,7 @@
     "to fill in": "игъэхъон; ик1эн (intensive); ик1утэн (slightly intensive); узэндын (to load); изэу ш1ын (to make full)"
   },
   {
-    "to compress": "хэц1ыц1эн; зэхэц1ыц1эн"
+    "to compress": "хэц1ыц1эн; зэхэц1ыц1эн; иц1ыц1эн (to squeeze inside, to compress inside, to squish inside, to squash inside); дэц1ыц1эн (to squeeze into, to compress into, to squish into, to squash into); тец1ыц1эн (to squeeze above, to compress above, to squish above, to squash above); ч1эц1ыц1эн (to squeeze under, to compress under, to squish under, to squash under); хэц1ыц1эн (to squeeze within/through, to compress within/through, to squish within/through, to squash within/through)"
   },
   {
     "to wrinkle": "зэлъэн (to become wrinkled); ц1ыц1ын (to wrinkle a fabric/paper by pressing it)"
@@ -4680,7 +4686,7 @@
     "wrinkle": "ц1ыц1ыгъэ"
   },
   {
-    "to squish": "ц1ыц1ын; дэц1ыц1эн (to squeeze into, to compress into, to squish in, to squash into)"
+    "to squish": "ц1ыц1ын; иц1ыц1эн (to squeeze inside, to compress inside, to squish inside, to squash inside); дэц1ыц1эн (to squeeze into, to compress into, to squish into, to squash into); тец1ыц1эн (to squeeze above, to compress above, to squish above, to squash above); ч1эц1ыц1эн (to squeeze under, to compress under, to squish under, to squash under); хэц1ыц1эн (to squeeze within/through, to compress within/through, to squish within/through, to squash within/through)"
   },
   {
     "to wring": "фызын"
@@ -4692,13 +4698,16 @@
     "to press out": "к1эфызык1ын / хэфызык1ын"
   },
   {
-    "to squash": "ц1ыц1ын; дэц1ыц1эн (to squeeze into, to compress into, to squish in, to squash into, to crush, to press between two hard objects)"
+    "to squash": "ц1ыц1ын; иц1ыц1эн (to squeeze inside, to compress inside, to squish inside, to squash inside); дэц1ыц1эн (to squeeze into, to compress into, to squish into, to squash into); тец1ыц1эн (to squeeze above, to compress above, to squish above, to squash above); ч1эц1ыц1эн (to squeeze under, to compress under, to squish under, to squash under); хэц1ыц1эн (to squeeze within/through, to compress within/through, to squish within/through, to squash within/through)"
   },
   {
     "to crush": "ц1ыц1ын; дэц1ыц1эн (to squeeze into, to compress into, to squish in, to squash into, to crush, to press between two hard objects)"
   },
   {
     "to correct": "гъэтэрэзын"
+  },
+  {
+    "to host": "гъэхьак1эн; хьак1эн"
   },
   {
     "to recorrect": "гъэтэрэзыжьын"
@@ -5878,6 +5887,9 @@
   },
   {
     "to trample": "хэубэн"
+  },
+  {
+    "housewife": "бысымгуащ"
   },
   {
     "mixture": "зэхэгъэк1ухьагъ; зэхэпхъагъ; зэхэлъ"
@@ -9639,7 +9651,7 @@
     "to make someone close to something": "егъэблэгъэн"
   },
   {
-    "to welcome": "пэгъок1ын (to welcome someone as a host); къегъэблэгъэн (to make someone come in or come closer)"
+    "to welcome": "пэгъок1ын (to welcome someone as a host); къегъэблэгъэн (to make someone come in or come closer); гъэхьак1эн (to host someone, to have a guest)"
   },
   {
     "to invite": "къегъэблэгъэн; къеджэн (to call someone to come)"
@@ -10461,7 +10473,10 @@
     "sister-in-law": "нысэ (one's brother's wife); пщыпхъу (one's husband's sister); ш1упщыпхъу (one's wife's sister)"
   },
   {
-    "food": "шхыны, гъомыл, гъомлапхъэ (foodstuff)"
+    "food": "шхыны, гъомыл, гъомлапхъэ (foodstuff); пчэдыжьышхэ (breakfast); щэджэгъуашхэ (launch); пчыхьэшъхьашхэ (supper, dinner for evening); чэщ1ус (food for the night)"
+  },
+  {
+    "supper": "пчыхьэшъхьашхэ"
   },
   {
     "food store": "гъомылэщ"
@@ -14169,7 +14184,7 @@
     "to tuck": "дэкон"
   },
   {
-    "to squeeze": "фызын (to wring, to press tightly, to squeeze something (the effect of the squeezing is reversible)); ц1ыц1ын (to squeeze something (the effect of the squeezing is irreversible), to compress, to squish, to squash); к1эфызык1ын / хэфызык1ын (to squeeze out); дэц1ыц1эн (to squeeze into, to compress into, to squish in, to squash into); п1ырт1ын; зэхэпфызэн (to squeeze in, to pack tightly together); дэкон / дэкоцэн (to press and squeeze into something, to press and squeeze in between); хэкон / хэкоцэн (to press and squeeze through something); икон / икоцэн (to press and squeeze inside something); ч1экон / ч1экоцэн (to press and squeeze under something); текон / текоцэн (to press and squeeze above something); дэгъэзыхьан (to forcefully squeeze something in between, to forcefully squeeze something inside another object); игъэзыхьан (to forcefully squeeze inside); чӏэгъэзыхьан (to forcefully squeeze under something); хэгъэзыхьан (to forcefully squeeze through); къогъэзыхьан (to forcefully squeeze behind)"
+    "to squeeze": "фызын (to wring, to press tightly, to squeeze something (the effect of the squeezing is reversible)); ц1ыц1ын (to squeeze something (the effect of the squeezing is irreversible), to compress, to squish, to squash); к1эфызык1ын / хэфызык1ын (to squeeze out); иц1ыц1эн (to squeeze inside, to compress inside, to squish inside, to squash inside); дэц1ыц1эн (to squeeze into, to compress into, to squish into, to squash into); тец1ыц1эн (to squeeze above, to compress above, to squish above, to squash above); ч1эц1ыц1эн (to squeeze under, to compress under, to squish under, to squash under); хэц1ыц1эн (to squeeze within/through, to compress within/through, to squish within/through, to squash within/through); п1ырт1ын; зэхэпфызэн (to squeeze in, to pack tightly together); дэгъэзыхьан (to forcefully squeeze something in between, to forcefully squeeze something inside another object); игъэзыхьан (to forcefully squeeze inside); чӏэгъэзыхьан (to forcefully squeeze under something); хэгъэзыхьан (to forcefully squeeze through); къогъэзыхьан (to forcefully squeeze behind)"
   },
   {
     "to cram": "дэкон / дэкоцэн (to cram into something, to cram in between); хэкон / хэкоцэн (to cram through something); икон / икоцэн (to cram inside something); ч1экон / ч1экоцэн (to cram under something); текон / текоцэн (to cram above something); дэгъэзыхьан (to forcefully cram something in between, to forcefully cram something inside another object); игъэзыхьан (to forcefully cram inside); чӏэгъэзыхьан (to forcefully cram under something); хэгъэзыхьан (to forcefully cram through); къогъэзыхьан (to forcefully cram behind)"
@@ -18006,22 +18021,19 @@
     "wash-tub": "хьакъуашъо; 1анлъэ"
   },
   {
-    "guileful": "хьилэ"
+    "guileful": "епц1ыжьырэ; къэрарынчъэ"
   },
   {
-    "insidious": "хьилэ"
+    "insidious": "тхьагъэпц1ы; хъоршэр"
   },
   {
-    "perfidious": "хьилэ"
+    "perfidious": "епц1ыжьырэ; къэрарынчъэ"
   },
   {
-    "crafty": "хьилэ"
+    "treacherous": "къучалыныгъэ"
   },
   {
-    "treacherous": "хьилэ"
-  },
-  {
-    "dishonest": "тхьагъэпц1"
+    "dishonest": "ук1ытэ зыхэмылъ"
   },
   {
     "munafiq": "тхьагъэпц1"
