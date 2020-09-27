@@ -20568,6 +20568,10 @@
         "meaning": "liar",
         "examples": [
           {
+            "sentence": "'''Пц1ырыер''' ц1ыфэу бэрэ пц1ы зиусырэр ары",
+            "translation": "'''A liar''' is a person that lies a lot."
+          },
+		  {
             "sentence": "К1алэр '''пц1ырый'''",
             "translation": "The boy '''is a liar'''."
           }
@@ -61277,7 +61281,7 @@
             "translation": "'''Don't lie''', '''lying''' is not okay."
           },
 		  {
-            "sentence": "'''Укъэсфэмып1'''",
+            "sentence": "'''Укъэсфэмыпц1'''",
             "translation": "'''Don't lie to me'''."
           },
 		  {
@@ -61326,7 +61330,7 @@
             "translation": "'''You are lying to them'''"
           },
 		  {
-            "sentence": "'''Укъэсфэмып1'''",
+            "sentence": "'''Укъэсфэмыпц1'''",
             "translation": "'''Don't lie to me'''."
           }
         ]
@@ -73499,10 +73503,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to successfully reach for (usually with the hands)",
+        "meaning": "to successfully reach for something (usually with the hands)",
         "examples": [
           {
-            "sentence": "Л1ыжъым ибэщ ежь '''лъы1эбэшъурэп'''",
+            "sentence": "Л1ыжъым ибэщ ежь '''нэ1эбэшъурэп'''",
             "translation": "The old man '''can't reach''' his stick."
           },
           {
@@ -73526,6 +73530,39 @@
     ],
     "type": "verb",
     "ipa": "naʔabasən"
+  },
+  {
+    "word": "лъы1эсын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to successfully reach for something (usually with the hands)",
+        "examples": [
+          {
+            "sentence": "Л1ыжъым ибэщ ежь '''лъы1эсышъурэп'''",
+            "translation": "The old man '''can't reach''' his stick."
+          },
+          {
+            "sentence": "К1алэ к1ыхьэр чъыгым мыеу пытым '''лъы1эсы'''",
+            "translation": "The tall boy '''is reaching''' the apple on the tree."
+          },
+          {
+            "sentence": "К1элэц1ык1ур 1анэм '''лъы1эсырэп'''",
+            "translation": "The little boy '''is not reaching''' the table."
+          },
+          {
+            "sentence": "Унашъхьэм '''улъы1эсышъущтэп'''",
+            "translation": "'''You can't reach''' the roof."
+          },
+          {
+            "sentence": "К1алэм ылъакъок1э римотым '''лъы1эсын''' е1о",
+            "translation": "The boy is trying '''to reach''' the remote control with his feet."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɬəʔasən"
   },
   {
     "word": "1э щыфэн",
@@ -80486,6 +80523,15 @@
             "translation": "The Russian army '''seized''' the valley from the Circassian army."
           }
         ]
+      },
+      {
+        "meaning": "to skin; to remove the skin/fur of an animal/human",
+        "examples": [
+          {
+            "sentence": "Л1ым мэлым ышъо '''трехы'''",
+            "translation": "The man '''skins''' the sheep."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -82339,28 +82385,42 @@
             "translation": "Let us go '''there'''."
           },
           {
-            "sentence": "'''Модэ''' плъэгъугъа ящэрэр?",
+            "sentence": "'''Модэ''' плъэгъугъа щащэрэр?",
             "translation": "Did you see what they're selling '''there'''?"
+          },
+          {
+            "sentence": "'''Модэ''' к1о",
+            "translation": "Go '''there'''"
+          },
+          {
+            "sentence": "'''Модэк1э''' к1алэр къэк1уагъ",
+            "translation": "The boy came from '''there'''"
+          },
+          {
+            "sentence": "'''Модэ''' тучаныр 1ут",
+            "translation": "The shop is '''there'''"
+          }
+          {
+            "sentence": "'''Модэк1э''' тучаныр 1ут",
+            "translation": "From '''there''' is the shop"
           }
         ]
       },
       {
-        "meaning": "(colloquial) Used to gain one's attention before making an inquiry or suggestion or when changing the topic of the conversation.",
+        "meaning": "(dialectal) used to gain one's attention before making an inquiry or suggestion or when changing the topic of the conversation.",
         "examples": [
           {
-            "sentence": "'''Модэ''', сыунэ тык1ожьымэ нахь ш1ущтыба",
-            "translation": "'''Say''', ain't it would be better to return to my house?"
+            "sentence": "'''Модэ''', сыунэ тык1ожьымэ нахь ш1ущтыба?",
+            "translation": "'''Say''', wouldn't it be better to return to my house?"
           },
           {
             "sentence": "'''Модэ''', фылым к1эр плъэгъугъа?",
             "translation": "'''Say''', did you saw the new movie?"
           }
-        ],
-        "tags": [
-          "colloquial"
         ]
       }
     ],
+    "shapsug": "удэ",
     "type": "adv",
     "ipa": "mawda"
   },
@@ -82372,11 +82432,11 @@
         "meaning": "actually, in truth",
         "examples": [
           {
-            "sentence": "'''шъыпкъэмк1э''', фылым к1эр афэдизэу дэгъоп къыса1уагъ",
+            "sentence": "'''Шъыпкъэмк1э''', фылым к1эр афэдизэу дэгъоп къыса1уагъ",
             "translation": "'''Actually''', I was told that the new movie is not that good."
           },
           {
-            "sentence": "'''шъыпкъэмк1э''', тиджагъа тимыджагъа, экзамыным тыблэк1ыщтыпи тыблэк1ыщтэп",
+            "sentence": "'''Шъыпкъэмк1э''', теджагъа темыджагъа, экзамыным тыблэк1ыщтыпи тыблэк1ыщтэп",
             "translation": "'''In truth''', either we study or not, we won't pass the exam."
           },
 		  {
@@ -82403,11 +82463,55 @@
     "definitions": [
       {
         "meaning": "to choose, to select, to pick out (literally: to accept something among)",
+        "examples": [
+          {
+            "sentence": "Л1ым ку плъыжьыр кухэмэ '''ахидагъ'''",
+            "translation": "The man '''choose''' the red car '''among''' the cars."
+          }
+        ]
+      },
+	  {
+        "meaning": "to sew through/within",
+        "examples": [
+          {
+            "sentence": "Бзылъфыгъэм джэнитур '''зэхидагъэх'''",
+            "translation": "The woman '''sewed''' the two shirts together."
+          }
+        ]
+      }
+	  {
+        "meaning": "to drive in (nail), to hammer in, to nail up",
         "examples": []
       }
     ],
     "type": "verb",
     "ipa": "xadan"
+  },
+  {
+    "word": "хэ1ул1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to nail down (to attach with a nail)",
+        "examples": [
+          {
+            "sentence": "Гъуч1ы1унит1ук1э пхъэмбгъур л1ым '''хе1ул1э'''",
+            "translation": "The man '''nails''' the board with two nails."
+          }
+        ]
+      },
+      {
+        "meaning": "to drive in (nail), to hammer in, to nail up",
+        "examples": [
+          {
+            "sentence": "Пчъэр л1ым '''хе1ул1э'''",
+            "translation": "The man '''hammers''' the door."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "xaʁadan"
   },
   {
     "word": "хэгъэдэн",
@@ -82437,7 +82541,7 @@
             "translation": "The boy '''killed it''' with his exams."
           },
           {
-            "sentence": "К1алэм и джанэк1э '''ыгъэбэдзэжьэу''' чэщдэсым къэк1уагъ",
+            "sentence": "К1алэм иджанэк1э '''ыгъэбэдзэжьэу''' чэщдэсым къэк1уагъ",
             "translation": "The boy came to the party '''killing it''' with his shirt."
           }
         ]
@@ -82452,11 +82556,28 @@
     "definitions": [
       {
         "meaning": "moonlight",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Мэзагъор''' мазэм нэфэу къегъэнэфырэр",
+            "translation": "'''The moonlight''' is the light that the moon shines."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "mazaːʁʷa"
+  },
+  {
+    "word": "ц1ышхъэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to shine",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡sʼəʃχan"
   },
   {
     "word": "тетыгъо",
@@ -82468,11 +82589,21 @@
       },
       {
         "meaning": "rule; dominion",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Пачъыхьэм '''итетыгъо''' зэухым ыкъо техьагъ",
+            "translation": "When the king's '''dominion''' over, his son took over."
+          }
+        ]
       },
       {
         "meaning": "term (goverment)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Хэгъэгум и1эшъхьэтет '''итетыгъо''' илъэсипл1",
+            "translation": "The head of the country's '''term''' is four years."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -82507,12 +82638,25 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "lad",
+        "meaning": "lad; teenager",
         "examples": []
       },
       {
-        "meaning": "teenager",
-        "examples": []
+        "meaning": "son",
+        "examples": [
+          {
+            "sentence": "Л1ыр '''ишъаомэ''' аригъусэу ч1ыгур ажъо",
+            "translation": "The man with '''his sons''' are plowing the land."
+          },
+		  {
+            "sentence": "Куджаным '''шъао''' къыфэхъугъ",
+            "translation": "'''A son''' was born for Kujan."
+          },
+		  {
+            "sentence": "О, сишъао, зэ къэда1у",
+            "translation": "O '''my son''', listen to me for a moment."
+          }
+        ]
       }
     ],
     "kabardian": "щауэ",
@@ -82541,6 +82685,18 @@
           {
             "sentence": "К1алэр '''ыгъапэрэп''' экзамыным",
             "translation": "The boy '''does not care for''' the exam."
+          },
+		  {
+            "sentence": "Сянэ '''сыфегъапэ'''",
+            "translation": "'''I care for''' my mother."
+          },
+		  {
+            "sentence": "Ащ '''ыгъапэрэп'''",
+            "translation": "'''(S)he does not care'''."
+          },
+		  {
+            "sentence": "Тышхыщтым '''сигъапэрэп'''",
+            "translation": "'''I don't care''' what we will eat."
           }
         ]
       }
@@ -82575,7 +82731,20 @@
     "definitions": [
       {
         "meaning": "to be pushed back",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Пхъэнт1эк1ур '''зэк1эхьашъущт'''",
+            "translation": ""
+          },
+		  {
+            "sentence": "1анэр '''зэк1эхьашъущт'''",
+            "translation": ""
+          },
+		  {
+            "sentence": "Софэр дэпкъым нэс '''зэк1эгъахь'''",
+            "translation": "'''Push''' the cofa till the wall."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -82606,42 +82775,32 @@
     "ipa": "ɬat͡ʃaːpʼa"
   },
   {
-    "word": "лъэк1ьап1э",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"лъэк1ап1э\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "лъэк1ап1э"
-    ],
-    "kabardian": "лъэнк1ап1э",
-    "type": "noun",
-    "ipa": "ɬakʲʼaːpʼa"
-  },
-  {
     "word": "шъхьак1э",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "however, although, yet",
+        "meaning": "however; although; yet",
         "examples": [
           {
-            "sentence": "Сык1омэ сш1оигъу '''шъхьак1э''', 1офым сыхэк1ын слъэк1ырэп",
-            "translation": "I want to go, '''however''' I can't leave work."
+            "sentence": "Чэщдэсым сык1онэу сыфай '''шъхьак1э''', 1офым сыхэк1ын слъэк1ырэп",
+            "translation": "I want to go to the party, '''however''' I can't leave work."
+          },
+		  {
+            "sentence": "Ар псэу '''шъхьак1эм''' л1эгъэпалъ",
+            "translation": "(S)he is healthy '''yet''' corpselike."
+          },
+		  {
+            "sentence": "Шыур кум шык1э лъежьагъ '''шъхьак1э''' к1эхьагъэп",
+            "translation": "The horseman with a horse ran after the car, '''however''' he did not reach it."
           },
           {
-            "sentence": "ХьакIэр ежьэжьын ыIуи шъхьакIэм, бысымым ригъэжьэжьыгъэп",
-            "translation": "I guest tried to run away, '''however''' the host didn't allow him."
+            "sentence": "Хьак1эр ежьэжьын ы1уи '''шъхьак1эм''', бысымым ригъэжьэжьыгъэп",
+            "translation": "The guest tried to run away, '''however''' the owner didn't let him."
           }
         ]
       }
     ],
-    "synonyms": [
-      "шъхьэк1ьэ"
-    ],
+    "shapsug": "шъхьэк1ьэ",
     "kabardian": "щхьэк1э",
     "type": "adv",
     "ipa": "ʂħaːt͡ʃʼa"
@@ -82923,34 +83082,56 @@
     "ipa": "qajə"
   },
   {
-    "word": "ук1ытапх",
+    "word": "ук1ытапхэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "shy; timid (lacking confidence); bashful (not liking to be noticed; socially timid)",
+        "examples": [
+          {
+            "sentence": "К1алэр '''ук1ытапх'''",
+            "translation": "The boy '''is shy'''."
+          },
+		  {
+            "sentence": "К1элэ '''ук1ытапхэ'''",
+            "translation": "A '''shy''' boy."
+          }
+        ]
+      }
+    ],
+    "shapsug": "ук1ьытапхэ",
+    "type": "adj",
+    "ipa": "wt͡ʃʼətaːpxa"
+  },
+  {
+    "word": "ук1ытал",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "shy",
         "examples": [
           {
-            "sentence": "К1алэр '''ук1ытапх'''",
+            "sentence": "К1алэр '''ук1ытал'''",
             "translation": "The boy '''is shy'''."
+          },
+		  {
+            "sentence": "К1элэ '''ук1ытал'''",
+            "translation": "A '''shy''' boy."
           }
         ]
       }
     ],
-    "shapsug": "ук1ьытапх",
     "type": "adj",
-    "ipa": "wt͡ʃʼətaːpx"
+    "ipa": "wt͡ʃʼətaːɮ"
   },
   {
-    "word": "ук1ытапхэ",
+    "word": "ук1ытапх",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"ук1ытапх\"",
+        "meaning": "alternative form of \"ук1ытапхэ\"",
         "examples": []
       }
-    ],
-    "synonyms": [
-      "ук1ьытапх"
     ],
     "type": "adj",
     "ipa": "wt͡ʃʼətaːpx"
@@ -82960,8 +83141,29 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "coward",
-        "examples": []
+        "meaning": "coward; faint-hearted; timid (lacking courage)",
+        "examples": [
+          {
+            "sentence": "К1алэр '''щтапхэ'''",
+            "translation": "The boy '''is a coward'''."
+          },
+		  {
+            "sentence": "К1элэ '''щтапхэ'''",
+            "translation": "A '''coward''' boy."
+          },
+		  {
+            "sentence": "Л1ым ишы '''щтапхэу''' хъугъэ",
+            "translation": "The man's horse became a '''coward'''."
+          },
+		  {
+            "sentence": "Л1ы '''щтапхэр''' заома1э ежьэжьыгъ",
+            "translation": "The '''coward''' man ran away in the war."
+          },
+		  {
+            "sentence": "К1элэ '''щтапхэм''' к1ый макъэр зэхехым занк1эу ежьэжьыгъ",
+            "translation": "When the '''coward''' boy heard the scream, he run off straight away."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -82970,6 +83172,51 @@
     ],
     "type": "adj",
     "ipa": "ɕtaːpxa"
+  },
+  {
+    "word": "щтэпхэрый",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "scaredy-cat; a person who is easily frightened, always anxious and easily scared",
+        "examples": [
+          {
+            "sentence": "К1алэр '''щтэпхэрый'''",
+            "translation": "The boy '''is a scaredy-cat'''."
+          },
+		  {
+            "sentence": "К1элэ '''щтэпхэрый'''",
+            "translation": "A '''scaredy-cat''' boy."
+          },
+		  {
+            "sentence": "Л1ым ишы '''щтэпхэрыеу''' хъугъэ",
+            "translation": "The man's horse became a '''scaredy-cat'''."
+          },
+		  {
+            "sentence": "Л1ы '''щтэпхэрыер''' заома1э ежьэжьыгъ",
+            "translation": "The '''scaredy-cat''' man ran away in the war."
+          },
+		  {
+            "sentence": "К1элэ '''щтэпхэрыем''' к1ый макъэр зэхехым занк1эу ежьэжьыгъ",
+            "translation": "When the '''scaredy-cat''' boy heard the scream, he run off straight away."
+          }
+        ]
+      }
+    ],
+    "type": "adj",
+    "ipa": "ɕtaːpxarəj"
+  },
+  {
+    "word": "щынэпхэрый",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"щтэпхэрый\"",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "ɕənapxarəj"
   },
   {
     "word": "щытапхэ",
@@ -83004,12 +83251,70 @@
     "ipa": "qarabʁa"
   },
   {
+    "word": "къэрабгъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "coward; faint-hearted; timid (lacking courage)",
+        "examples": [
+          {
+            "sentence": "К1алэр '''къэрабгъэ'''",
+            "translation": "The boy '''is a coward'''."
+          },
+		  {
+            "sentence": "К1элэ '''къэрабгъэ'''",
+            "translation": "A '''coward''' boy."
+          },
+		  {
+            "sentence": "Л1ы '''къэрабгъэр''' заома1э ежьэжьыгъ",
+            "translation": "The '''coward''' man ran away in the war."
+          },
+		  {
+            "sentence": "К1элэ '''къэрабгъэм''' к1ый макъэр зэхехым занк1эу ежьэжьыгъ",
+            "translation": "When the '''coward''' boy heard the scream, he run off straight away."
+          },
+		  {
+            "sentence": "Л1ым ишы '''къэрабгъэу''' хъугъэ",
+            "translation": "The man's horse became a '''coward'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "щынапхэ",
+      "щтапхэ"
+    ],
+    "type": "adj",
+    "ipa": "qaraːbʁa"
+  },
+  {
     "word": "щынапхэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "coward",
-        "examples": []
+        "meaning": "coward; faint-hearted; timid (lacking courage)",
+        "examples": [
+          {
+            "sentence": "К1алэр '''щынапхэ'''",
+            "translation": "The boy '''is a coward'''."
+          },
+		  {
+            "sentence": "К1элэ '''щынапхэ'''",
+            "translation": "A '''coward''' boy."
+          },
+		  {
+            "sentence": "Л1ы '''щынапхэр''' заома1э ежьэжьыгъ",
+            "translation": "The '''coward''' man ran away in the war."
+          },
+		  {
+            "sentence": "К1элэ '''щынапхэм''' к1ый макъэр зэхехым занк1эу ежьэжьыгъ",
+            "translation": "When the '''coward''' boy heard the scream, he run off straight away."
+          },
+		  {
+            "sentence": "Л1ым ишы '''щынапхэу''' хъугъэ",
+            "translation": "The man's horse became a '''coward'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -83018,18 +83323,6 @@
     ],
     "type": "adj",
     "ipa": "ɕənaːpxa"
-  },
-  {
-    "word": "лъы1эсын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to reach for",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "ɬəʔasən"
   },
   {
     "word": "шэнычъэ",
@@ -83041,7 +83334,16 @@
       },
       {
         "meaning": "mannerless; unmannered; ill-mannered",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''шэнычъэ'''",
+            "translation": "The boy '''is mannerless'''."
+          },
+		  {
+            "sentence": "К1элэ '''шэнычъэ'''",
+            "translation": "An '''ill-mannered''' boy."
+          }
+        ]
       }
     ],
     "kabardian": "щэныншэ",
@@ -83054,7 +83356,16 @@
     "definitions": [
       {
         "meaning": "composer",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Орэдусыр''' ц1ыфэу орэдхэр зитхырэр, ц1ыфэу орэдхэр зиусырэр",
+            "translation": "'''A composer''' is a person that writes songs."
+          },
+		  {
+            "sentence": "Л1ыр '''орэдус'''",
+            "translation": "The man '''is a composer'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -83068,8 +83379,36 @@
         "meaning": "to lie",
         "examples": [
           {
-            "sentence": "бзылъфыгъэм '''пц1ы еусы'''",
-            "translation": "The women '''is lying'''."
+            "sentence": "Пшъашъэм '''пц1ы еусы'''",
+            "translation": "The boy '''is lying'''."
+          },
+          {
+            "sentence": "К1алэр ыянэ '''пц1ы феусы'''",
+            "translation": "The boy '''lied''' to his mother."
+          },
+          {
+            "sentence": "К1алэр бэрэ '''пц1ы еусы'''",
+            "translation": "The boy '''is lying''' a lot."
+          },
+		  {
+            "sentence": "К1алэм '''пц1ы''' пшъашъэм '''фепц1ы'''",
+            "translation": "The boy '''is lying to''' the girl."
+          },
+		  {
+            "sentence": "К1алэр '''пц1ы къыпфеусы'''",
+            "translation": "The boy '''lied to you'''."
+          },
+		  {
+            "sentence": "'''Пц1ы умыус''', '''пц1ы усэу''' хъущтэп",
+            "translation": "'''Don't lie''', '''lying''' is not okay."
+          },
+          {
+            "sentence": "'''Пц1ы афэбэусы'''",
+            "translation": "'''You are lying to them'''"
+          },
+		  {
+            "sentence": "'''Пц1ы къэсфэмыус'''",
+            "translation": "'''Don't lie to me'''."
           }
         ]
       }
@@ -83081,12 +83420,52 @@
     "ipa": "pt͡sʼə wsən"
   },
   {
+    "word": "пц1ы фэусын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to lie to",
+        "examples": [
+		  {
+            "sentence": "К1алэм '''пц1ы''' пшъашъэм '''фепц1ы'''",
+            "translation": "The boy '''is lying to''' the girl."
+          },
+		  {
+            "sentence": "К1алэр '''пц1ы къыпфеусы'''",
+            "translat
+          {
+            "sentence": "'''Пц1ы афэбэусы'''",
+            "translation": "'''You are lying to them'''"
+          },
+		  {
+            "sentence": "'''Пц1ы къэсфэмыус'''",
+            "translation": "'''Don't lie to me'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "фэпц1ын"
+    ],
+    "type": "verb",
+    "ipa": "pt͡sʼə fawsən"
+  },
+  {
     "word": "пц1ыус",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "liar",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Пц1ыусыр''' ц1ыфэу бэрэ пц1ы зиусырэр ары",
+            "translation": "'''A liar''' is a person that lies a lot."
+          },
+		  {
+            "sentence": "К1алэр '''пц1ыус'''",
+            "translation": "The boy '''is a liar'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -83103,6 +83482,10 @@
         "meaning": "singer",
         "examples": [
           {
+            "sentence": "'''орэды1ор''' ц1ыфэу орэд къызи1орэр",
+            "translation": "A '''singer''' is a person that sings."
+          },
+		  {
             "sentence": "к1алэр '''орэды1о'''",
             "translation": "The boy is a '''singer'''."
           }
@@ -83111,6 +83494,22 @@
     ],
     "synonyms": [
       "орэда1у"
+    ],
+    "kabardian": "уэрэджы1ак1уэ",
+    "type": "noun",
+    "ipa": "waradəʔʷ"
+  },
+  {
+    "word": "орэда1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"орэды1о\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "орэды1о"
     ],
     "kabardian": "уэрэджы1ак1уэ",
     "type": "noun",
@@ -83134,7 +83533,7 @@
     "ipa": "waradəʔʷan"
   },
   {
-    "word": "гъэпщтын",
+    "word": "гъэпщтэн",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -83148,10 +83547,10 @@
       }
     ],
     "type": "verb",
-    "ipa": "ʁapɕtən"
+    "ipa": "ʁapɕtan"
   },
   {
-    "word": "пщтын",
+    "word": "пщтэн",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -83160,12 +83559,16 @@
           {
             "sentence": "щэр '''мэпщты'''",
             "translation": "The milk '''is boiling'''."
+          },
+		  {
+            "sentence": "щэр '''пщтэу''' ежьагъ",
+            "translation": "The milk started '''to boiling'''."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "pɕtən"
+    "ipa": "pɕtan"
   },
   {
     "word": "зэпыгъэчъын",
@@ -83179,7 +83582,7 @@
             "translation": "The boy '''splits''' the meat in half."
           },
           {
-            "sentence": "Гъуч1ыр къинэ '''зэпыбгъэчъынэ'''",
+            "sentence": "Гъуч1ыр къинэ '''зэпыбгъэчъыныр'''",
             "translation": "It is hard to '''split''' the iron '''in half'''."
           }
         ]
@@ -83196,39 +83599,19 @@
         "meaning": "to peel",
         "examples": [
           {
-            "sentence": "К1алэм мы1эрысэм ищъо '''зэтечы'''",
+            "sentence": "К1алэм мы1эрысым ышъо '''зэтечы'''",
             "translation": "The boy '''is peeling''' the apple."
+          },
+		  {
+            "sentence": "Пхъэшъхьэ-мышъхьэм ышъо '''течи''', ык1оц1 ылъыр шхы",
+            "translation": "'''Peel''' the fruit and eat the thing inside it."
           }
         ]
       }
     ],
-    "synonyms": [
-      "текьын"
-    ],
+    "shapsug": "текьын",
     "type": "verb",
     "ipa": "tajt͡ʃən"
-  },
-  {
-    "word": "текьын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"течын\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "течын"
-    ],
-    "type": "verb",
-    "ipa": "tajkʲən"
-  },
-  {
-    "word": "зэхэгъэшъухъон",
-    "lang": "Adyghe",
-    "definitions": [],
-    "type": "verb",
-    "ipa": "zaxaʁaʃʷəχʷan"
   },
   {
     "word": "зэхэгъэтэкъун",
@@ -87070,18 +87453,6 @@
     ],
     "type": "noun",
     "ipa": "ʃʷaːta"
-  },
-  {
-    "word": "фигъэпэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"фегъэпэн\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "fəjʁapan"
   },
   {
     "word": "къегъэсын",
@@ -96933,22 +97304,6 @@
     ],
     "type": "noun",
     "ipa": "pabzəd͡ʒən"
-  },
-  {
-    "word": "къэрабгъэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "coward",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "щынапхэ",
-      "щтапхэ"
-    ],
-    "type": "adj",
-    "ipa": "qaraːbʁa"
   },
   {
     "word": "шъхьас",

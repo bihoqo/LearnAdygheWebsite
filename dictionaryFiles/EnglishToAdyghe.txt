@@ -252,7 +252,7 @@
     "place": "ч1ып1э; -п1э (suffix); еры"
   },
   {
-    "there": "адэ; ак1э; адэк1э; ау (dialectal); аук1э (dialectal); а т1эк1ум (dialectal); модэ; мок1э; модэк1э"
+    "there": "адэ; ак1э; адэк1э; ау (dialectal); (dialectal) аук1э (from there); (dialectal) а т1эк1ум; модэ; мок1э); модэк1э"
   },
   {
     "but": "ау"
@@ -6336,7 +6336,7 @@
     "to plough": "жъон; гъэжъон"
   },
   {
-    "to boil": "жъон; гъэжъон; гъэпщтын (to boil milk)"
+    "to boil": "жъон (to be boiled); гъэжъон (to boil something); пщтэн (to be boiled (milk)); гъэпщтэн (to boil milk)"
   },
   {
     "to grind": "хьаджын; убын"
@@ -8763,6 +8763,9 @@
     "to pick": "хэхын / къыхэхын; пычын (to pull off fruit or flower); хэдэн (to pick something out of); щыпын / къэщыпын (to pick up stuff/people usaully from the ground); тещыпык1ын (to pick up stuff from)"
   },
   {
+    "to pluck": "пычын (flowers or fruits)"
+  },
+  {
     "to select": "хэхын / къыхэхын"
   },
   {
@@ -9141,7 +9144,7 @@
     "to freeze": "чъы1э л1эн (to be cold); щтын (to be frozen); гъэщтын (to freeze); дэщтыхьан (to be frozen inside a firdge); дэгъэщтыхьан (to freeze inside a firdge); хэщтыхьан (to be frozen in a liquid or gas); хэгъэщтыхьан (to freeze in a liquid or gas); чъын (Shapsug); гъэчъын (Shapsug)"
   },
   {
-    "to drive": "фын (to drive a vehicle or cattle); ифын (to drive/push from an area, to drive from inside); 1уфын (to drive away from near); дэфыен (to drive up); ефэхын (to drive down); блэфын (to drive pass); ч1эфын (to drive from under); тефын (to drive from above); хэфын (to drive from among other people/animals/objects, to drive from an area with gas or liquid, to drive from the forest or field); дэфын (to drive from a defined area such as a yard, area, village, etc.); къофын (to drive from behind)"
+    "to drive": "фын (to drive a vehicle or cattle); ифын (to drive/push from an area, to drive from inside); 1уфын (to drive away from near); дэфыен (to drive up); ефэхын (to drive down); блэфын (to drive pass); ч1эфын (to drive from under); тефын (to drive from above); хэфын (to drive from among other people/animals/objects, to drive from an area with gas or liquid, to drive from the forest or field); дэфын (to drive from a defined area such as a yard, area, village, etc.); къофын (to drive from behind); хэ1ун / хэ1ул1эн (to drive in nails)"
   },
   {
     "to drive away": "ифын / къифын (to drive away from an area); 1уфын / къы1уфын (to drive away from near); тефын / къытефын (to drive away from above); хэфын / къыхэфын (to drive away from among other people/animals/objects, to drive away from an area with gas or liquid, to drive away from the forest or field); дэфын / къыдэфын (to drive away from a defined area such as a yard, area, village, etc.); къофын / къыкъофын (to drive away from behind)"
@@ -10365,10 +10368,10 @@
     "to pierce": "хэ1ун"
   },
   {
-    "to nail": "хэ1ун"
+    "to nail": "хэ1ун; хэ1ул1эн (to nail down)"
   },
   {
-    "to hammer in": "хэ1ун"
+    "to hammer": "хэ1ун; хэ1ул1эн"
   },
   {
     "foreigner": "хымэ; хамэ"
@@ -11298,16 +11301,16 @@
     "to divide with,": "дэугощын"
   },
   {
-    "to skin": "шъо техын; гун; гугъэн"
+    "to skin": "шъо техын; шъо телъэшъун; гун; гугъэн"
   },
   {
     "to husk": "гун to husk (grain)"
   },
   {
-    "to rip off": "гугъэн"
+    "to rip off": "техын; тетхъын; телъэшъун; гугъэн"
   },
   {
-    "to peel": "течын (to tear off); шъо течын (to tear off the skin); шъуамп1э техын (to take off the peel); шъо техын (to take off the skin); гъэжъоп1он / тек1эп1ык1ын (to peel wheat-seeds and the like)"
+    "to peel": "течын (to peel fruit); шъо течын (to tear off the skin); шъуамп1э техын (to take off the peel); шъо техын (to take off the skin); гъэжъоп1он / тек1эп1ык1ын (to peel wheat-seeds and the like)"
   },
   {
     "to flay": "шъо техын; гун; гугъэн"
@@ -14283,7 +14286,16 @@
     "shy": "ук1ытапх"
   },
   {
+    "bashful": "ук1ытапх"
+  },
+  {
+    "timid": "ук1ытапх (lacking confidence); щтапхэ / щынапхэ / къэрабгъэ (lacking courage)"
+  },
+  {
     "coward": "щтапхэ; щынапхэ; къэрабгъэ; щтэпхэрый (scaredy-cat)"
+  },
+  {
+    "faint-hearted": "щтапхэ; щынапхэ; къэрабгъэ; щтэпхэрый (scaredy-cat)"
   },
   {
     "scaredy-cat": "щтэпхэрый"
