@@ -51185,6 +51185,19 @@
             "translation": "If a rocket hits the house, '''it will be torn into pieces'''."
           }
         ]
+      },
+	  {
+        "meaning": "to crumble; to break into crumbs",
+        "examples": [
+          {
+            "sentence": "Хьалыгъур '''зэхэтэкъугъ'''",
+            "translation": "The bread '''crumbled'''."
+          },
+          {
+            "sentence": "Хьалыгъур '''зэхэтэкъоу''' ежьагъ",
+            "translation": "The bread started '''to crumble'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -83618,13 +83631,34 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to tear something to pieces",
+        "meaning": "to crumble; to break into crumbs",
         "examples": [
           {
-            "sentence": "Лэжьак1охэмэ унэр '''зэхагъэтэкъогъ'''",
-            "translation": "The workers '''torn''' the house '''into pieces'''."
+            "sentence": "Л1ым хьалыгъур '''зэхигъэтэкъугъ'''",
+            "translation": "The man '''crumbled''' the bread."
+          },
+		  {
+            "sentence": "Хьалыгъур '''зэхэбэгъэтэкъу'''",
+            "translation": "'''You are crumbling''' the bread."
           }
         ]
+      },
+	  {
+        "meaning": "to fragment; to cause to be broken into pieces",
+        "examples": [
+          {
+            "sentence": "1анэр '''зэхагъэтэкъугъ'''",
+            "translation": "The house '''fragmented'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "to break up into parts",
+        "examples": []
+      }
+	  {
+        "meaning": "to disintegrate",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -83635,7 +83669,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to break (A part of something), to fracture",
+        "meaning": "to break (A part of something); to fracture",
         "examples": [
           {
             "sentence": "Къупышъхэр '''зэпыутыгъ'''",
@@ -83650,10 +83684,6 @@
             "translation": "When the rock was thrown and hit the ground, '''it fractured'''."
           }
         ]
-      },
-      {
-        "meaning": "to break in two",
-        "examples": []
       }
     ],
     "type": "verb",
@@ -83703,6 +83733,18 @@
           {
             "sentence": "'''Тэдрэз''' к1алэм т1эк1у ахъщэ ет",
             "translation": "Give '''each''' kid a bit of money."
+          },
+          {
+            "sentence": "'''Тэдрэз''' дэгъэчъым даплъи сисыхьат къэсфэгъот",
+            "translation": "Search '''each''' drawer and find my watch for me."
+          },
+          {
+            "sentence": "'''Тэдрэз''' унэм зы е т1у унапчъэ и1",
+            "translation": "'''Each''' house has one or two front doors."
+          },
+          {
+            "sentence": "'''Тэдрэз''' пхъэнт1эк1оу ти1эм лъэкъуипл1 и1",
+            "translation": "'''Each''' chair we have have four legs."
           }
         ]
       }
@@ -83722,8 +83764,8 @@
             "translation": "'''Each''' subject needs a pattern."
           },
           {
-            "sentence": "'''Cыдрэ''' к1алэм т1эк1у ахъщэ ет",
-            "translation": "Give '''each''' kid a bit of money."
+            "sentence": "Сыдрэ 1офи у1эхэр бгъэлэжьэн фай",
+            "translation": "In '''each''' task you need to work up your hands."
           }
         ]
       }
