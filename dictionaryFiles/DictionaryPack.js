@@ -519,10 +519,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "burrow",
+        "meaning": "burrow (hole for beasts like bears, foxes, etc.)",
         "examples": []
       },
-      {den
+      {
         "meaning": "small dimple in the form of a hole (can mean: den, lair, nest)",
         "examples": []
       }
@@ -5407,6 +5407,10 @@
           {
             "sentence": "Бысымгуащэм '''хьак1эхэр''' дэгъоу ыгъэхьак1агъэх",
             "translation": "The housewife hosted the '''visitor''' well."
+          },
+		  {
+            "sentence": "Бысымыр нэгуихыгъэу '''хьак1эм''' къыпэгъок1ыгъ",
+            "translation": "The host greeted the '''guest''' neighborly."
           }
         ]
       }
@@ -22949,7 +22953,12 @@
     "definitions": [
       {
         "meaning": "host",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Бысымыр нэгуихыгъэу хьак1эм къыпэгъок1ыгъ",
+            "translation": "'''The host''' greeted the guest neighborly."
+          }
+        ]
       },
       {
         "meaning": "owner",
@@ -35612,11 +35621,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "burrow",
-        "examples": []
-      },
-      {
-        "meaning": "small dimple in the form of a hole (can mean: den, lair, nest)",
+        "meaning": "alternative form of \"гъо\"",
         "examples": []
       }
     ],
@@ -46013,6 +46018,19 @@
             "translation": "The rain is '''flowing off''' the roof."
           }
         ]
+      },
+	  {
+        "meaning": "to wear off (color)",
+        "examples": [
+          {
+            "sentence": "Цуакъэм ышъо '''течъыгъ'''",
+            "translation": "The shoe's color '''wore off'''."
+          },
+		  {
+            "sentence": "Кум ышъо '''течъы'''",
+            "translation": "The car's color '''wears off'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -46805,21 +46823,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "if not; else if; or else",
-        "examples": [
-		  {
-            "sentence": "Нахь псынк1эу тыгъачъ, '''армырмэ''' тучанэр къыфиш1ыжьыгъэу тынэсыщт",
-            "translation": "Let us run faster, '''if not''' we will reach the shop when it's closed already."
-          },
-          {
-            "sentence": "Едж дэгъоу, '''армырмэ''' тестыр къыпфэш1ыщтэп",
-            "translation": "Study good, '''or else''' you won't be able to do the test."
-          },
-          {
-            "sentence": "Жакет къызщилъ, '''армырмэ''' чъы1э ул1эщт",
-            "translation": "Wear coat '''or else''' you will be cold."
-          }
-        ]
+        "meaning": "alternative form of \"амырмэ\"",
+        "examples": []
       }
     ],
     "type": "adv",
@@ -66218,6 +66223,10 @@
           {
             "sentence": "Ар '''зэол1''' л1эбланэщтыгъ.",
             "translation": "He used to be a brave '''fighter'''."
+          },
+		  {
+            "sentence": "'''Зэол1эхэр''' заом хэхьагъэх мэ1ухэр а1ыгъэхэу",
+            "translation": "'''The fighters''' went to war holding shields."
           }
         ]
       }
@@ -71420,24 +71429,28 @@
             "sentence": "Сшъхьэ къихьагъ тыдэ к1алэр '''щы1эшъущт'''",
             "translation": "It came to my mind '''where''' the boy '''might be'''."
           },
+          {
+            "sentence": "Мыгъэм Америка '''тыщы1агъ'''",
+            "translation": "This year '''we were''' in America."
+          },
 		  {
-            "sentence": "'''щы1''' икъун бэнанэ",
+            "sentence": "'''Щы1''' икъун бэнанэ",
             "translation": "There is enough bananas."
           },
           {
-            "sentence": "бэнанэ '''щы1''', мые '''щы1эп'''",
+            "sentence": "Къо1ус '''щы1''', мые '''щы1эп'''",
             "translation": "'''There are''' bananas, '''there aren't''' apples."
           },
           {
-            "sentence": "дракон '''щы1эп'''",
+            "sentence": "Блэгъожъ '''щы1эп'''",
             "translation": "There is no dragon."
           },
           {
-            "sentence": "драконхэ '''щы1эхэп'''",
+            "sentence": "Блэгъожъхэр '''щы1эхэп'''",
             "translation": "There are no dragons."
           },
           {
-            "sentence": "зэманым '''щы1агъ''' л1ыхъужъыхэр",
+            "sentence": "Зэманым '''щы1агъ''' л1ыхъужъыхэр",
             "translation": "In the past '''there were''' heroes."
           },
 		  {
@@ -75316,23 +75329,6 @@
     "shapsug": "ч1эгъэс1эн",
     "type": "verb",
     "ipa": "t͡ʂʼat͡sʼan"
-  },
-  {
-    "word": "гъэ1орыш1эн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to govern, to rule, to manage",
-        "examples": [
-          {
-            "sentence": "Шыр гъэсагъэу '''бгъэIорышIэн'''.}}",
-            "translation": ""
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "ʁaʔʷarʃʼan"
   },
   {
     "word": "ин",
@@ -82391,7 +82387,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "over there (Visible)",
+        "meaning": "over there (visible)",
         "examples": [
           {
             "sentence": "'''Модэ''' тыжъугъак1у",
@@ -83819,37 +83815,27 @@
         "meaning": "many",
         "examples": [
           {
-            "sentence": "'''1аджи''' ш1агъи, еджап1эм мак1охэу щытыгъэхэп",
-            "translation": "'''Long''' time ago, they weren't going to school."
+            "sentence": "'''1аджи''' ш1агъи, еджап1эхэр щы1агъэхэп",
+            "translation": "'''Long''' time ago, there weren't schools."
           },
           {
-            "sentence": "Ц1ыф '''Iаджи''' къызэ1ук1агъ",
+            "sentence": "Ц1ыф '''Iаджи''' къыс1ук1агъ",
             "translation": "I met with '''many''' people."
           },
           {
             "sentence": "Ащ '''1аджи''' ылъэгъугъ",
             "translation": "He saw '''many''' things."
+          },
+          {
+            "sentence": "Ащ '''1аджи''' ыш1агъ",
+            "translation": "He did '''many''' things."
           }
         ]
       }
     ],
-    "synonyms": [
-      "1эгьэ"
-    ],
+    "shapsug": "1эгьэ",
     "type": "adj",
     "ipa": "ʔaːd͡ʒa"
-  },
-  {
-    "word": "1эгьэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"1аджэ\"",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ʔaɡʲa"
   },
   {
     "word": "щысэ",
@@ -83872,6 +83858,9 @@
           }
         ]
       }
+    ],
+    "synonyms": [
+      "шапхъэ"
     ],
     "kabardian": "щапхъэ",
     "type": "noun",
@@ -83903,13 +83892,17 @@
         "meaning": "shield",
         "examples": [
           {
+            "sentence": "Зэол1эхэр заом хэхьагъэх '''мэ1ухэр''' а1ыгъэхэу",
+            "translation": "The fighters went to war holding '''shields'''."
+          },
+		  {
             "sentence": "Ашъор щыгъ, '''мэ1ур''' ы1ыгъ",
-            "translation": "He wears an armor, he holds a shield."
+            "translation": "He wears a chain mail, he holds a shield."
           }
         ]
       },
       {
-        "meaning": "fully filled",
+        "meaning": "(dialectal) fully filled",
         "examples": [
           {
             "sentence": "Ощхым фэш1ык1э гъогур псы '''мэ1у'''",
@@ -83917,7 +83910,7 @@
           },
           {
             "sentence": "Тиунэ шхын '''мэ1у'''",
-            "translation": "Out house '''is full with''' food."
+            "translation": "Oue house '''is full with''' food."
           }
         ]
       }
@@ -83966,8 +83959,13 @@
         "examples": []
       },
       {
-        "meaning": "sorrow",
-        "examples": []
+        "meaning": "sorrow; grief",
+        "examples": [
+          {
+            "sentence": "К1алэм '''гук1ае''' и1",
+            "translation": "The boy has '''grief'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -83997,11 +83995,19 @@
         "examples": [
           {
             "sentence": "'''I am sure''' that he’ll come",
-            "translation": "Сэ сэш1апэ ар къызэрэк1ощтыр."
+            "translation": "Сэ сыш1ап ар къызэрэк1ощтыр."
           },
           {
             "sentence": "'''Are you sure''' the boy will come?",
-            "translation": "'''Ош1эпа''' к1алэр зэрэкъэк1ощтыр?"
+            "translation": "'''Уш1эпа''' к1алэр зэрэкъэк1ощтыр?"
+          },
+          {
+            "sentence": "'''I am not sure''' who that was.",
+            "translation": "'''Сш1эпэп''' хэтыгъ ар."
+          },
+          {
+            "sentence": "'''I was certain of it'''.",
+            "translation": "'''Сш1апэу''' щытыгъ."
           }
         ]
       }
@@ -84035,11 +84041,11 @@
         "meaning": "time",
         "examples": [
           {
-            "sentence": "Ар '''игъом''' къэкIуагъа? Ар '''игъом''' къэкIошъугъэп.",
+            "sentence": "Ар '''игъом''' къэк1уагъа? Ар '''игъом''' къэк1ошъугъэп.",
             "translation": "Did he come '''on time'''? He could not come '''on time'''."
           },
           {
-            "sentence": "Сыда о '''игъом''' укъызыкIэмыкIошъугъэр?",
+            "sentence": "Сыда о '''игъом''' укъызык1эмык1ошъугъэр?",
             "translation": "Why could you not come '''on time'''?"
           },
           {
@@ -84063,9 +84069,15 @@
             "sentence": "Гъом тесэу блэкIыгъ.",
             "translation": "He passed while on the red animal."
           }
-        ],
-        "tags": [
-          "of an animal that has hair"
+        ]
+      },
+      {
+        "meaning": "hole (for snakes, insects, arthropods and such species)",
+        "examples": [
+		  {
+            "sentence": "Блэр '''гъом''' ихьажьыгъ",
+            "translation": "The snake went inside '''the hole'''."
+          }
         ]
       }
     ],
@@ -84080,7 +84092,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"мэц1ыон\"",
+        "meaning": "alternative form of \"ц1ыон\"",
         "examples": []
       }
     ],
@@ -84092,17 +84104,37 @@
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "alternative form of \"амал\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʔamaːl"
+  },
+  {
+    "word": "амал",
+    "lang": "Adyghe",
+    "definitions": [
+      {
         "meaning": "method, means, way",
         "examples": [
           {
-            "sentence": "'''1эмал''' гъотын",
-            "translation": "Find '''an opportunity'''."
+            "sentence": "'''амал''' гъотын",
+            "translation": "To find '''a way'''."
           },
           {
-            "sentence": "'''1эмал''' етын",
-            "translation": "Give '''an opportunity'''."
+            "sentence": "'''амал''' зыгорэм етын",
+            "translation": "To give '''means''' to someone."
+          },
+          {
+            "sentence": "Л1ыжъ сымаджэм '''амал''' и1эп къэнэхъэжьынэу",
+            "translation": "The ill old-man has no '''means''' to survive."
           }
         ]
+      },
+	  {
+        "meaning": "opportunity, chance, potential",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -84118,6 +84150,26 @@
           {
             "sentence": "'''Мыдэ''' къак1у",
             "translation": "Come '''over here'''."
+          },
+          {
+            "sentence": "'''Мыдэ''' 1улъыр къашх?",
+            "translation": "Grab that thing that lays '''over here'''."
+          },
+          {
+            "sentence": "'''Мыдэ''' over here",
+            "translation": "Come '''there'''"
+          },
+          {
+            "sentence": "'''Мыдэк1э''' к1алэр къэк1уагъ",
+            "translation": "The boy came from '''here'''"
+          },
+          {
+            "sentence": "'''Мыдэ''' тучаныр 1ут",
+            "translation": "The shop is '''here'''"
+          }
+          {
+            "sentence": "'''Мыдэк1э''' тучаныр 1ут",
+            "translation": "From '''here''' is the shop"
           }
         ]
       }
@@ -84133,16 +84185,16 @@
         "meaning": "next year",
         "examples": [
           {
-            "sentence": "'''къэк1орэ гъэм''' тк1от йуропа",
+            "sentence": "'''къэк1орэ гъэм''' тык1ощт Европа",
             "translation": "'''Next year''' we will go to Europe."
           },
           {
-            "sentence": "'''къэк1орэ гъэм''' пш1ы синыбжьыт",
+            "sentence": "'''къэк1орэ гъэм''' пш1ы синыбжьыщт",
             "translation": "'''Next year''' I will be ten years old."
           },
           {
-            "sentence": "'''къэк1орэ гъэм''' томэр къэк1от",
-            "translation": "'''Near year''' Tom will come."
+            "sentence": "'''къэк1орэ гъэм''' Куджаыр къэк1ощт",
+            "translation": "'''Next year''' Kujan will come."
           }
         ]
       }
@@ -84155,13 +84207,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "when",
-        "examples": [
-          {
-            "sentence": "'''Тэщгъум''' тыдэк1ыщт?",
-            "translation": "'''When''' we go out?"
-          }
-        ]
+        "meaning": "alternative form of \"сыдигъо\"",
+        "examples": []
       }
     ],
     "type": "adv",
@@ -84173,7 +84220,24 @@
     "definitions": [
       {
         "meaning": "this year",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''мыгъэм''' тык1ощт Европа",
+            "translation": "'''This year''' we will go to Europe."
+          },
+          {
+            "sentence": "'''мыгъэм''' пш1ы синыбжьыщт",
+            "translation": "'''This year''' I will be ten years old."
+          },
+          {
+            "sentence": "'''мыгъэм''' Америка тыщы1агъ",
+            "translation": "'''This year''' we were in America."
+          },
+          {
+            "sentence": "'''мыгъэм''' Куджаыр къэк1ощт",
+            "translation": "'''This year''' Kujan will come."
+          }
+        ]
       }
     ],
     "type": "adv",
@@ -84184,11 +84248,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "if not (if not the result will be)",
+        "meaning": "if that is not it",
         "examples": [
           {
-            "sentence": "Нахь псынк1эу тыгъачъ, '''умыармэ''' тучанэ ригъэсэжьыщт тынэмысыгъэу",
-            "translation": "Let us run faster, '''if not''' we will reach the shop when it's closed."
+            "sentence": "'''Умыармэ''' л1ым ыш1агъэр, сыда хьапсым ч1агъэт1ысхьагъ?",
+            "translation": "'''If that is not''' what the man did, they need to put him in jail."
+          },
+          {
+            "sentence": "'''Умыармэ''' узыфэягъэр, сыда къэсэбгъэхьыгъ?",
+            "translation": "'''If that is not''' what you wanted, why you made me bring it?"
           }
         ]
       }
@@ -84213,15 +84281,39 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "if that, if so",
+        "meaning": "if so, if that is the case",
         "examples": [
           {
-            "sentence": "'''Армэ''' л1ым ыш1агъэр, хьапсым ч1агъэт1ысхьэн фай",
+            "sentence": "'''Армэ''' л1ым ыш1агъэр, хьапсым ч1агъэт1ысхьан фай",
             "translation": "'''If that''' what the man did, they need to put him in jail."
           },
           {
-            "sentence": "'''Армэ''' п1орэр, шъофым къещхыщти тыхэшъущтэп",
+            "sentence": "'''Армэ''' п1орэр, шъофым тыхэшъущтэп къещхыщти",
             "translation": "'''If that''' what you say, we can't enter the field duo to the rail."
+          },
+          {
+            "sentence": "'''Армэ''' узыфэягъэр, сыда мыр къэсэбгъэхьыгъ?",
+            "translation": "'''If that is''' what you wanted, why you made me bring this?"
+          },
+          {
+            "sentence": "'''Армэ''' хъугъэр, тэ зыгори тыш1эшъущтэп",
+            "translation": "'''If that is''' what happen, then we cannoy do anything."
+          },
+          {
+            "sentence": "'''Армэ''' п1орэр, дэгъу ащыгъум",
+            "translation": "'''If that is''' what you're saying then good."
+          },
+          {
+            "sentence": "'''Армэ''' к1алэм ы1уагъэр, тыпэжъугъаплъ, армырмэ нек1о тежьэщт",
+            "translation": "'''If that is''' what the boy said, let's wait for him, otherwise, let's go."
+          },
+          {
+            "sentence": "'''Армэ''' фылымыр, тежъугъэплъ, армырмэ нэмык1 горэм тежъугъэплъ",
+            "translation": "'''If that is''' the movie, then let's watch it, otherwise, let's watch something else."
+          },
+          {
+            "sentence": "'''Армэ''', унэм тигъэс",
+            "translation": "'''If that is the case then''' let's stay home."
           }
         ]
       }
@@ -84246,19 +84338,47 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "if not; else if; or else",
+        "meaning": "if not; else; or else; otherwise",
         "examples": [
 		  {
-            "sentence": "Нахь псынк1эу тыгъачъ, '''амырмэ''' тучанэр къыфиш1ыжьыгъэу тынэсыщт",
-            "translation": "Let us run faster, '''if not''' we will reach the shop when it's closed already."
+            "sentence": "Нахь псынк1эу тыгъачъ, '''амырмэ''' тучанэр егъэсэгъахэу тыкъэнэсыщт",
+            "translation": "Let's run faster, '''otherwise''' we will arrive the shop when it's closed already."
           },
           {
-            "sentence": "Едж дэгъоу, '''амырмэ''' тестыр къыпфэш1ыщтэп",
+            "sentence": "Едж дэгъоу, '''амырмэ''' тестыр къыпфэш1ышъущтэп",
             "translation": "Study good, '''or else''' you won't be able to do the test."
           },
           {
             "sentence": "Жакет къызщилъ, '''амырмэ''' чъы1э ул1эщт",
             "translation": "Wear coat '''or else''' you will be cold."
+          },
+          {
+            "sentence": "Къещхыщтымэ унэм тигъэс, '''амырмэ''' нек1о тыдэк1ыщт",
+            "translation": "If it will rain let's stay home, '''if not''' let's go out."
+          },
+          {
+            "sentence": "Ухьазырмэ нек1о унэм тик1ыщт, '''амырмэ''' к1уи зыкъэгъэухьазыр",
+            "translation": "If you're ready let's go out, '''if not''' go and get ready."
+          },
+          {
+            "sentence": "Мы ш1ухьафтыныр сигъусэпшъагъэ ик1эсэщт, '''амырмэ''' сыд фэсщэфыщтыр сыш1эрэп",
+            "translation": "My girlfriend will like this gift, '''if not''' I had no idea what to buy for her."
+          },
+          {
+            "sentence": "Упшъыгъэмэ, зыгъэпсэф, '''амырмэ''' шъофым щычъ",
+            "translation": "If you're tired, get rest, '''if not''' run in the fields."
+          },
+          {
+            "sentence": "Тучаныр 1ухыгъэмэ нек1о чэт цагэ къы1этхыщт, '''амырмэ''' нек1о адрэ тучаным тык1они пицэ къы1этхыщт",
+            "translation": "If the shop is open let's take chicken breast from it, '''otherwise''' let's go to the other shop and take pizza."
+          },
+          {
+            "sentence": "Армэ к1алэм ы1уагъэр, тыпэжъугъаплъ, '''амырмэ''' нек1о тежьэщт",
+            "translation": "If that is what the boy said, let's wait for him, '''otherwise''', let's go."
+          },
+          {
+            "sentence": "Армэ фылымыр, тежъугъэплъ, '''амырмэ''' нэмык1 горэм тежъугъэплъ",
+            "translation": "If that is the movie, then let's watch it, '''otherwise''', let's watch something else."
           }
         ]
       }
@@ -84283,22 +84403,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "more than that",
-        "examples": [
-          {
-            "sentence": "Мы пшъашъэм '''а нахь''' дахэ щы1а?",
-            "translation": "Is there a girl '''more''' beautiful '''than her'''?"
-          }
-        ]
-      },
-      {
-        "meaning": "rather",
-        "examples": [
-          {
-            "sentence": "К1алэр к1уагъэп, '''а нахь''' чъагъэ",
-            "translation": "The boy didn't go, '''rather''' he ran."
-          }
-        ]
+        "meaning": "alternative form of \"анахь\"",
+        "examples": []
       }
     ],
     "type": "adv",
@@ -84309,13 +84415,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "more like",
-        "examples": [
-          {
-            "sentence": "К1алэр к1уагъэп, '''ар нахьыеу''' чъагъэ",
-            "translation": "The boy didn't go, '''more like''' he ran."
-          }
-        ]
+        "meaning": "that is more like",
+        "examples": []
       }
     ],
     "type": "adv",
@@ -84338,7 +84439,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "still",
+        "meaning": "alternative form of \"джыри\"",
         "examples": []
       }
     ],
@@ -84350,20 +84451,32 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to lose something",
+        "meaning": "to lose something; to lose the possession of",
         "examples": [
           {
-            "sentence": "К1алэр ахъщэ бэ '''ш1ок1уагъ'''",
+            "sentence": "К1алэм ахъщэ бэ '''ш1ок1уагъ'''",
             "translation": "The boy '''lost''' a lot of money."
+          },
+		  {
+            "sentence": "Сиунэ '''къэсш1ок1уагъ'''",
+            "translation": "'''I lost''' my house."
+          },
+		  {
+            "sentence": "Куджаным к1алэ '''ш1ок1уагъ'''",
+            "translation": "Kujan '''lost''' a son"
           }
         ]
       },
       {
-        "meaning": "to go against someone's will or interest",
+        "meaning": "to go to somewhere against someone's will or interest",
         "examples": [
           {
             "sentence": "Сик1алэ чэщдэсым '''къэсш1ок1уагъ'''",
             "translation": "My boy '''went''' to the party '''against my will'''."
+          },
+		  {
+            "sentence": "Куджаныр кином '''къэсш1ок1уагъ''' къытимы1оу",
+            "translation": "Kujan '''went to''' the cinema without telling us."
           }
         ]
       }
@@ -84381,6 +84494,10 @@
           {
             "sentence": "К1алэр '''гъойщай'''",
             "translation": "The boy is '''unwell'''."
+          },
+		  {
+            "sentence": "Т1эк1у '''гъойщаеу''' сыхъугъ",
+            "translation": "I became a bit '''unwell'''."
           }
         ]
       }
@@ -84389,27 +84506,106 @@
     "ipa": "ʁʷajɕaːj"
   },
   {
-    "word": "е1орыш1эн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"1орыш1эн\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "jaʔʷarʃʼan"
-  },
-  {
     "word": "1орыш1эн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to obey",
+        "meaning": "to obey; to be obeying",
         "examples": [
           {
-            "sentence": "К1алэр щъузым '''е1уарыш1э'''",
-            "translation": "The boy '''obeys''' to the woman."
+            "sentence": "К1алэр '''мэ1уарыш1э'''",
+            "translation": "The boy '''obeys'''."
+          },
+		  {
+            "sentence": "Сэ '''сэ1уарыш1э'''",
+            "translation": "'''I obeyed'''."
+          },
+		  {
+            "sentence": "О '''у1орыш1агъэп'''",
+            "translation": "'''You did not obey'''."
+          },
+		  {
+            "sentence": "К1алэр '''1орыш1агъ'''",
+            "translation": "The boy '''obayed'''."
+          },
+		  {
+            "sentence": "Ным ыкъо '''ыгъэ1орыш1эшъущтэп'''",
+            "translation": "The kid's mother '''cannot make him obey'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʔʷarʃʼan"
+  },
+  {
+    "word": "гъэ1орыш1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to govern, to rule",
+        "examples": []
+      },
+	  {
+        "meaning": "to manage",
+        "examples": [
+          {
+            "sentence": "Л1ым шыр '''егъэ1уарыш1э'''",
+            "translation": "The man '''manages''' the horse"
+          },
+		  {
+            "sentence": "Тхьэматэм лэжьак1охэр '''егъэ1уарыш1эх'''",
+            "translation": "The boss '''manages''' the workers"
+          },
+		  {
+            "sentence": "Шыр гъэсагъэу '''бгъэ1орыш1эн''' фай",
+            "translation": "You need '''to manage''' the horse tamely"
+          },
+		  {
+            "sentence": "Пщым пщыл1ыхэр '''егъэ1уарыш1эх'''",
+            "translation": "The prince '''manages''' the slaves."
+          }
+        ]
+      },
+	  {
+        "meaning": "to make someone obey",
+        "examples": [
+		  {
+            "sentence": "Ным ыкъо '''ыгъэ1орыш1эшъущтэп'''",
+            "translation": "The kid's mother '''cannot make him obey'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʁaʔʷarʃʼan"
+  },
+  {
+    "word": "фэ1орыш1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to obey someone",
+        "examples": [
+          {
+            "sentence": "К1алэр ыянэ '''фэ1уарыш1э'''",
+            "translation": "The boy '''obeys''' his mother."
+          },
+		  {
+            "sentence": "Уятэ '''уфэ1орыш1агъэп''', умык1у зэрэкъыуи1уагъэу ук1уагъ",
+            "translation": "'''You did not obey''' your father, even though he told you not to go, you went."
+          },
+		  {
+            "sentence": "Л1ыжъым '''сыфэ1орыш1агъ'''",
+            "translation": "'''I obeyed''' the old-man."
+          },
+		  {
+            "sentence": "Пщыл1ыхэу пщым '''фэмы1уарыш1эхэрэр''' аук1ых",
+            "translation": "The slaves that '''do not obey''' the prince get killed."
+          },
+		  {
+            "sentence": "Уянэ уятэ '''уафэмы1орыш1эмэ''', ори убынхэр '''къыпфэ1орыш1эжьыщтыхэп'''",
+            "translation": "If you '''do not obey''' your mom and dad, your children '''will also not obey you'''."
           }
         ]
       }
@@ -84438,7 +84634,7 @@
         "examples": [
           {
             "sentence": "Бысымыр '''нэгуихыгъэу''' хьак1эм къыпэгъок1ыгъ",
-            "translation": "The host ''."
+            "translation": "The host greeted the guest '''neighborly'''."
           }
         ]
       }
@@ -84468,8 +84664,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "merry fellow, humourist",
-        "examples": []
+        "meaning": "merry, humourist, jovial, cheery, good-humored, jolly",
+        "examples": [
+          {
+            "sentence": "Л1ыр '''нэш1о-гуш1у'''",
+            "translation": "The man '''is jolly'''."
+          },
+		  {
+            "sentence": "Бысымыр '''нэш1о-гуш1оу''' хьак1эм къыпэгъок1ыгъ",
+            "translation": "The host greeted the guest '''cheerily'''."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -84483,7 +84688,7 @@
         "meaning": "to be aware of",
         "examples": [
           {
-            "sentence": "'''СызэрэщыгъуазэмкIэ''', ар мыщ щэпсэу.",
+            "sentence": "'''Сызэрэщыгъуазэмк1э''', ар мыщ щэпсэу.",
             "translation": "'''As far as I know'''', he lives here."
           }
         ]
@@ -84498,7 +84703,16 @@
     "definitions": [
       {
         "meaning": "break for resting",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Лэжьак1охэр '''гъэпсэфыгъо''' ик1ыгъэх",
+            "translation": "The workers went out for '''break'''"
+          },
+		  {
+            "sentence": "Т1эк1уш1эмэ '''гъэпсэфыгъощт'''",
+            "translation": "Soon '''it would be break'''"
+          }
+        ]
       },
       {
         "meaning": "rest; relaxation",
@@ -84522,6 +84736,31 @@
           {
             "sentence": "'''Мык1э''' мамыр, зи уаий щы1эп",
             "translation": "It is peaceful '''here''', there is no bad weathers."
+          },
+		  {
+            "sentence": "'''Мык1э''' къэгъаз",
+            "translation": "'''Turn it''' to here."
+          },
+          {
+            "sentence": "Ят1эр хьанц1эмк1э '''мык1э''' къэфых.",
+            "translation": "Move the dirt with the shovel to '''here'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "from here",
+        "examples": [
+          {
+            "sentence": "'''Мык1э''' къа1у",
+            "translation": "Come '''from here'''."
+          },
+          {
+            "sentence": "'''Мык1э''' тучаныр 1ут",
+            "translation": "The shop is '''from here'''."
+          },
+		  {
+            "sentence": "Хэти '''мык1э''' къэблэк1ы",
+            "translation": "Everyone is passing '''from here'''."
           }
         ]
       }
@@ -84537,8 +84776,8 @@
         "meaning": "accurate; well-aimed, sharp (shooter)",
         "examples": [
           {
-            "sentence": "шэкIо щэрыу",
-            "translation": "accurate hunter."
+            "sentence": "шэк1о '''щэрыу'''",
+            "translation": "'''well-aimed''' hunter."
           }
         ]
       },
@@ -84546,8 +84785,8 @@
         "meaning": "graphic, picturesque, vivid (image-bearing)",
         "examples": [
           {
-            "sentence": "гущыIэ щэрыу",
-            "translation": "vivid word."
+            "sentence": "гущы1э '''щэрыу'''",
+            "translation": "'''vivid''' word."
           }
         ]
       }
@@ -84563,8 +84802,12 @@
         "meaning": "color to wear off",
         "examples": [
           {
-            "sentence": "Цуакъэм ишъо течъыгъ",
-            "translation": "The shoe's color wore off."
+            "sentence": "Цуакъэм '''ышъо течъыгъ'''",
+            "translation": "The shoe's '''color wore off'''."
+          },
+		  {
+            "sentence": "Кум '''ышъо течъы'''",
+            "translation": "The car's '''color wears off'''."
           }
         ]
       }
@@ -84577,18 +84820,22 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to cut down; to fell",
+        "meaning": "to cut down",
         "examples": [
           {
             "sentence": "К1алэм чъыгыр '''риупк1ыгъ'''",
-            "translation": "The boy '''felled''' the tree."
+            "translation": "The boy '''cut down''' the tree."
+          },
+		  {
+            "sentence": "К1алэм чъыгыр '''реупк1ы'''",
+            "translation": "The boy '''is cutting down''' the tree."
           },
           {
             "sentence": "Чъыгыр сэрэ орэ '''итыупк1ыщт'''",
-            "translation": "You and I '''gonna cut down''' the tree."
+            "translation": "You and I '''going to cut down''' the tree."
           },
           {
-            "sentence": "Чъыгыр '''иупк1ын'''",
+            "sentence": "Чъыгы '''иупк1ын'''",
             "translation": "'''To cut down''' a tree."
           },
           {

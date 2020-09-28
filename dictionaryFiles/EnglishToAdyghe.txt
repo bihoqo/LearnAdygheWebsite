@@ -129,13 +129,13 @@
     "strong weather": "уае"
   },
   {
-    "den": "бы; гъу"
+    "den": "бы; гъо"
   },
   {
-    "lair": "бы; гъу"
+    "lair": "бы; гъо"
   },
   {
-    "burrow": "бы; гъу"
+    "burrow": "бы; гъо"
   },
   {
     "thousand": "мин"
@@ -2184,7 +2184,13 @@
     "to damp": "гъэулэбын"
   },
   {
-    "here": "мыдэ, мык1э, мэу, (dialectal) мы т1эк1ум"
+    "here": "мыдэ; мык1э; мэу; (dialectal) мы т1эк1ум"
+  },
+  {
+    "from here": "мык1э; (dialectal) мэук1э"
+  },
+  {
+    "from there": "ак1э; (dialectal) аук1э; мок1э; (dialectal) моук1э; (dialectal) оук1э"
   },
   {
     "there (visible)": "модэ, мок1э, моу, (dialectal) мо т1эк1ум; (dialectal) удэ, (dialectal) оук1э, (dialectal) оу, (dialectal) у т1эк1ум"
@@ -2349,7 +2355,7 @@
     "zebra": "шыдкъолэн; шыкъолэн"
   },
   {
-    "hole": "курбы (hole in the ground); гъуанэ; машэ (hole in the ground)"
+    "hole": "курбы (hole in the ground); гъуанэ; машэ (hole in the ground); бы (burrow, hole for beasts like bears, foxes, etc.); гъо (hole for snakes, insects, arthropods and such species)"
   },
   {
     "close": "благъэ; пэблагъ (close to); пэгъунэгъу (close to)"
@@ -9525,9 +9531,6 @@
     "what else": "сыд ехъурэу; сыд джыри; сыд ык1и; сыд нэмык1эу; сыд фэшъхьафэу"
   },
   {
-    "else": "ехъурэу; нэмык1эу; фэшъхьафэу"
-  },
-  {
     "season": "лъэхъаны; сезон"
   },
   {
@@ -9612,7 +9615,19 @@
     "friendly": "нэгуихыгъэу"
   },
   {
-    "merry fellow": "нэш1о-гуш1у"
+    "merry": "нэш1о-гуш1у"
+  },
+  {
+    "good-humored": "нэш1о-гуш1у"
+  },
+  {
+    "jolly": "нэш1о-гуш1у"
+  },
+  {
+    "jovial": "нэш1о-гуш1у"
+  },
+  {
+    "cheery": "нэш1о-гуш1у"
   },
   {
     "humourist": "нэш1о-гуш1у"
@@ -9858,13 +9873,22 @@
     "soup": "хьантхъупсы (millet soup); лэпсы; стырыпс"
   },
   {
-    "if not": "хьаумэ; армырмэ; амырмэ; умыармэ"
+    "elsewise": "хьаумэ (if not); армырмэ (if that is not it, otherwise, else); амырмэ  (if that is not it, otherwise, else); умыармэ (if that is not it)"
   },
   {
-    "else if": "хьаумэ; армырмэ; амырмэ; умыармэ"
+    "otherwise": "хьаумэ (if not); армырмэ (if that is not it, otherwise, else); амырмэ  (if that is not it, otherwise, else); умыармэ (if that is not it)"
   },
   {
-    "or else": "хьаумэ; армырмэ; амырмэ; умыармэ"
+    "if not": "хьаумэ (if not); армырмэ (if that is not it, otherwise, else); амырмэ  (if that is not it, otherwise, else); умыармэ (if that is not it)"
+  },
+  {
+    "else": "хьаумэ (if not); армырмэ (if that is not it, otherwise, else); амырмэ  (if that is not it, otherwise, else); ехъурэу (something else); нэмык1эу (something different); фэшъхьафэу (something different)"
+  },
+  {
+    "or else": "хьаумэ (if not); армырмэ (if that is not it, otherwise, else); амырмэ  (if that is not it, otherwise, else)"
+  },
+  {
+    "if that is not it": "армырмэ (if that is not it, otherwise, else); амырмэ  (if that is not it, otherwise, else); умыармэ (if that is not it)"
   },
   {
     "sausage": "нэкулъ"
@@ -10509,7 +10533,7 @@
     "to carry out": "гъэцэк1эн"
   },
   {
-    "to manage": "гъэзек1он (to manage something or someone); лъэк1ын / фэлъэк1ын (to manage to do, to be able to do); зэпыгъэфэн (to arrange)"
+    "to manage": "гъэзек1он (to manage something or someone); лъэк1ын / фэлъэк1ын (to manage to do, to be able to do); зэпыгъэфэн (to arrange); гъэ1орыш1эн"
   },
   {
     "to administrate": "гъэзек1он"
@@ -12972,7 +12996,7 @@
     "doormat": "джэхэшъотедз"
   },
   {
-    "way": "гъогу; лъагъо; 1эмал (method, way, means)"
+    "way": "гъогу; лъагъо; амал (method, way, means)"
   },
   {
     "porridge": "п1астэ"
@@ -14364,10 +14388,19 @@
     "red-headed": "гъо"
   },
   {
-    "method": "ш1ык1э; 1эмал (method, means, way)"
+    "opportunity": "амал (opportunity, chance, potential)"
   },
   {
-    "means": "1эмал (method, way)"
+    "potential": "амал (opportunity, chance, potential)"
+  },
+  {
+    "chance": "амал (opportunity, chance, potential)"
+  },
+  {
+    "method": "ш1ык1э; амал (method, means, way)"
+  },
+  {
+    "means": "амал (method, means, way)"
   },
   {
     "next year": "къэк1орэ гъэ; к1элъык1о илъыс"
@@ -14376,13 +14409,16 @@
     "this year": "мыгъэ"
   },
   {
-    "if that": "армэ"
+    "if that": "армэ (if that, if so, if that is the case, in that case); арэу щытымэ (if that is how it is); армэмэ (if that is the case, in that case)"
   },
   {
-    "if so": "армэ"
+    "if so": "армэ (if that, if so, if that is the case, in that case); арэу щытымэ (if that is how it is); армэмэ (if that is the case, in that case)"
   },
   {
-    "if that is the case": "армэ"
+    "if that is the case": "армэ (if that, if so, if that is the case, in that case); арэу щытымэ (if that is how it is); армэмэ (if that is the case, in that case)"
+  },
+  {
+    "in that case": "афэдэмэ (in that case, if the case is like that); армэ (if that, if so, if that is the case); арэу щытымэ (if that is how it is); армэмэ (if that is the case)"
   },
   {
     "more than that": "ащ нахь"
@@ -14397,12 +14433,15 @@
     "lightly sick": "гъойщай"
   },
   {
-    "to obey": "дэ1он; 1орыш1эн"
+    "to obey": "дэ1он; 1орыш1эн (to be obeying); фэ1орыш1эн (to obey someone); гъэ1орыш1эн (to make someone obey)"
   },
   {
     "to be aware of": "къэбэр и1эн; щыгъозэн"
   },
   {
+    "well-informed": "зыш1эрэ; ш1эныгъэ зи1э"
+  },
+  { 
     "break for resting": "гъэпсэфыгъо"
   },
   {
@@ -15396,7 +15435,7 @@
     "laugh": "щхэны; дэхьащх"
   },
   {
-    "grief": "гъэны"
+    "grief": "гукъау; гъэны; гук1ае"
   },
   {
     "grief time": "нэшхъэигъу"
@@ -16053,7 +16092,7 @@
     "to walk": "к1он (to walk, to walk to somewhere); щык1он (to walk in a certain area); дэк1оен (to walk up); ехын (to walk down); къэк1ухьан (to walk around, to roam, to stroll, to ramble); зэк1эк1он (to walk backward)"
   },
   {
-    "to go": "к1он (to walk, to go to somewhere); щык1он (to go in a certain area); дэк1оен (to go up); ехын (to go down); къэк1ухьан (to walk around, to roam, to stroll, to ramble); зэк1эк1он / къызэк1эк1он (to go backward); техьан (to go on); ч1эхьан (to go under); хэхьан (to go to an area with some liquid or gas); хэхьан (to go into a forest or field); хэхьан (to go through); хэхьан (to go among other people/objects); гохьан / бгъодэхьан (to go besides); ихьан (to go inside); дэхьан (to enter a defined area, such as a yard, village, area, etc.); дэхьан (to go between); к1оц1ыхьан (to go within inside something); къохьан (to go behind); шъхьадэхьан (to go over); шъхьапырык1ын (to go beyond); фэ1офытэн (to go for someone to bring something)"
+    "to go": "к1он (to walk, to go to somewhere); щык1он (to go in a certain area); дэк1оен (to go up); ехын (to go down); къэк1ухьан (to walk around, to roam, to stroll, to ramble); зэк1эк1он / къызэк1эк1он (to go backward); техьан (to go on); ч1эхьан (to go under); хэхьан (to go to an area with some liquid or gas); хэхьан (to go into a forest or field); хэхьан (to go through); хэхьан (to go among other people/objects); гохьан / бгъодэхьан (to go besides); ихьан (to go inside); дэхьан (to enter a defined area, such as a yard, village, area, etc.); дэхьан (to go between); к1оц1ыхьан (to go within inside something); къохьан (to go behind); шъхьадэхьан (to go over); шъхьапырык1ын (to go beyond); фэ1офытэн (to go for someone to bring something); ш1ок1он (to go to somewhere against someone's will or interest)"
   },
   {
     "to come": "къэк1он; къыдэк1оен (to come up); къехын (to come down); къытехьан (to come on); къыч1эхьан (to come under); къыхэхьан (to come to an area with some liquid or gas); къыхэхьан (to come into a forest or field); хэхьан (to come through); къыхэхьан (to come among other people/objects); къыгохьан / къыбгъодэхьан (to come besides); къыихьан (to come inside); къыдэхьан (to enter a defined area, such as a yard, village, area, etc.); къыдэхьан (to come between); къык1оц1ыхьан (to come within inside something)"
