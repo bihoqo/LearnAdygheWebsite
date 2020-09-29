@@ -6659,7 +6659,16 @@
     "definitions": [
       {
         "meaning": "tree",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Чъыгы''' иупк1ын",
+            "translation": "To cut down '''a tree'''."
+          },
+          {
+            "sentence": "Зы '''чъыгы''' исыупк1ыгъэ ны1эп",
+            "translation": "I only cut down one '''tree'''."
+          }
+        ]
       }
     ],
     "kabardian": "жыг",
@@ -8706,7 +8715,12 @@
     "definitions": [
       {
         "meaning": "thief, burglar, robber",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Зэманым '''тыгъуак1омэ''' а1эхэр паук1ыщтыгъ",
+            "translation": "In the past they used to cut off arms of '''thieves'''."
+          }
+        ]
       }
     ],
     "kabardian": "хъунщ1ак1уэ",
@@ -41175,27 +41189,6 @@
     "ipa": "dabzət͡ʃʼan"
   },
   {
-    "word": "хэупк1ын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to cut out (to remove a portion out of something)",
-        "examples": [
-          {
-            "sentence": "Мы1эрысым хъурай '''хэупк1ын'''",
-            "translation": "'''To cut out''' a circle from the apple."
-          },
-		  {
-            "sentence": "Мыхэр тхьапэм к1алэм '''хеупк1ых'''",
-            "translation": "The boy '''cuts''' these '''out of''' the paper."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "xawpt͡ʃʼən"
-  },
-  {
     "word": "гупшысэн",
     "lang": "Adyghe",
     "definitions": [
@@ -62346,6 +62339,39 @@
     "ipa": "qanan"
   },
   {
+    "word": "къэнэжьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to be remained, to be left (leftovers)",
+        "examples": [
+		  {
+            "sentence": "Сагъындакъым щэбзащэ '''къинэжьыгъэп'''",
+            "translation": "No arrow '''was left in''' the quiver."
+          },
+		  {
+            "sentence": "Зы мы1эрыс матэм '''къинэжьыгъ'''",
+            "translation": "One apple '''was left''' in the basket."
+          },
+          {
+            "sentence": "Сизакъу ны1эп '''къэнэжьыгъэр'''",
+            "translation": "Only '''I remained'''."
+          },
+          {
+            "sentence": "Сизакъу '''къэнэжьыгъэр''' заом хэмыхьагъэу",
+            "translation": "Only '''I remained''' as someone who haven't entered the war."
+          },
+          {
+            "sentence": "Сшыхэмк1э сизакъу къэнэжьыгъэр икъэщэгъу къэмысыгъэу",
+            "translation": "Among my brothers, only I haven't reached the age of marriage."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "qanan"
+  },
+  {
     "word": "къэгъэнэн",
     "lang": "Adyghe",
     "definitions": [
@@ -73833,6 +73859,10 @@
 		  {
             "sentence": "Гъэмафэр '''къэсыгъ'''",
             "translation": "Summer '''arrived'''."
+          },
+		  {
+            "sentence": "Сыхьатныкъок1э '''сыкъэсыщт'''",
+            "translation": "'''I will arrive''' in half an hour."
           }
         ]
       }
@@ -80006,47 +80036,6 @@
     "ipa": "naːħəpa"
   },
   {
-    "word": "пыупк1ын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to cut off (hair, tree branches, rope, connection); to disconnect by cutting",
-        "examples": [
-          {
-            "sentence": "К1алэм хьалыгъу такъыр '''пеупк1ы'''",
-            "translation": "The boy '''cuts''' a piece of bread."
-          },
-		  {
-            "sentence": "К1алэм к1апсэр '''пиупк1ыгъ'''",
-            "translation": "The boy '''cut''' the rope."
-          },
-		  {
-            "sentence": "А ц1ыфыр бзаджэти, сэ ар '''пысыупк1ыгъ'''",
-            "translation": "Because that boy is awful, '''I cut my connections with him'''."
-          },
-          {
-            "sentence": "К1алэм '''пеупк1ы''' чъыгыр",
-            "translation": "The boy '''is cutting off''' the tree."
-          },
-          {
-            "sentence": "Сшъхьэц '''пысыук1ыщт''' т1эк1уш1эмэ",
-            "translation": "'''I will cut''' my hair soon."
-          },
-          {
-            "sentence": "Слъэбжъанэхэр '''пысыупк1ын''' фаех",
-            "translation": "'''I''' need '''to cut''' my toenails."
-          },
-          {
-            "sentence": "1эбжъэнэпыупк1ык1э пшъашъэм ы1эбжъанэр '''преупк1ых'''",
-            "translation": "The girl '''cuts''' her fingernails using the nail clipper."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "pəwpt͡ʃʼən"
-  },
-  {
     "word": "нэчыхьытх",
     "lang": "Adyghe",
     "definitions": [
@@ -80211,6 +80200,10 @@
 		  {
             "sentence": "Унэм '''ыгузэгу''' 1анэ ит",
             "translation": "In the '''middle of''' the house, there is a table."
+          },
+		  {
+            "sentence": "Фылымыр тыублэгъах '''ыгузэгук1э''' укъытхэхьанэу уфаемэ",
+            "translation": "We already started the movie if you want to join us '''in the middle of it'''."
           }
         ]
       }
@@ -84841,6 +84834,10 @@
           {
             "sentence": "Чъыгышхор '''имыупк1'''",
             "translation": "'''Don't cut down''' the big tree."
+          },
+          {
+            "sentence": "Зы чъыгы '''исыупк1ыгъэ''' ны1эп",
+            "translation": "'''I''' only '''cut down''' one tree."
           }
         ]
       }
@@ -84853,12 +84850,193 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to cut sideways",
-        "examples": []
+        "meaning": "to cut sideways; to cut off the side",
+        "examples": [
+          {
+            "sentence": "Хьалыгъу такъыр л1ым '''гуиупк1ын'''",
+            "translation": "The man '''cut off''' a piece of bread."
+          }
+        ]
       }
     ],
     "type": "adj",
     "ipa": "ɡʷawpt͡ʃʼən"
+  },
+  {
+    "word": "хэупк1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to cut out (to remove a portion out of something)",
+        "examples": [
+          {
+            "sentence": "Мы1эрысым хъурай '''хэупк1ын'''",
+            "translation": "'''To cut out''' a circle from the apple."
+          },
+		  {
+            "sentence": "Мыхэр тхьапэм к1алэм '''хеупк1ых'''",
+            "translation": "The boy '''cuts''' these '''out of''' the paper."
+          },
+		  {
+            "sentence": "Апэрэ такъэ видиом '''хэупк1'''",
+            "translation": "'''Cut out''' the first minute of the video."
+          },
+		  {
+            "sentence": "Мы фылымыр к1ыхьэщэ, зы сыхьатныкъо горэ '''хаупк1ын''' фай",
+            "translation": "This film is too long, they need '''to cut out''' half an hour from it."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "xawpt͡ʃʼən"
+  },
+  {
+    "word": "пыупк1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to cut off (hair, tree branches, ropes, connections or anything that is connected or attached to something); to disconnect by cutting",
+        "examples": [
+          {
+            "sentence": "К1алэм хьалыгъу такъыр '''пеупк1ы'''",
+            "translation": "The boy '''cuts off''' a piece of bread."
+          },
+		  {
+            "sentence": "К1алэм к1апсэр '''пиупк1ыгъ'''",
+            "translation": "The boy '''cut off''' the rope."
+          },
+		  {
+            "sentence": "А ц1ыфыр бзаджэти, сэ ар '''пысыупк1ыгъ'''",
+            "translation": "Because that boy is awful, '''I cut off my connections with him'''."
+          },
+          {
+            "sentence": "К1алэм '''пеупк1ы''' чъыгыр",
+            "translation": "The boy '''is cutting off''' the tree."
+          },
+          {
+            "sentence": "Сшъхьэц '''пысыук1ыщт''' т1эк1уш1эмэ",
+            "translation": "'''I will cut''' my hair soon."
+          },
+          {
+            "sentence": "Слъэбжъанэхэр '''пысыупк1ын''' фаех",
+            "translation": "'''I''' need '''to cut''' my toenails."
+          },
+          {
+            "sentence": "1эбжъэнэпыупк1ык1э пшъашъэм ы1эбжъанэр '''преупк1ых'''",
+            "translation": "The girl '''cuts''' her fingernails using the nail clipper."
+          },
+          {
+            "sentence": "1интернетыр '''къыпиук1ыгъ'''",
+            "translation": "The internet '''cut off'''."
+          },
+          {
+            "sentence": "Зэманым тыгъуак1омэ а1эхэр '''паук1ыщтыгъ'''",
+            "translation": "In the past '''they used to cut off''' thieves' arms."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "pəwpt͡ʃʼən"
+  },
+  {
+    "word": "сыхьатныкъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "half an hour; half-hour",
+        "examples": [
+          {
+            "sentence": "'''Сыхьатныкъок1э''' сыкъэсыщт",
+            "translation": "I will arrive in '''half an hour'''."
+          },
+		  {
+            "sentence": "'''Сыхьатныкъо''' хъугъи утпаплъэ",
+            "translation": "We have been waiting for you for '''half an hour'''."
+          },
+		  {
+            "sentence": "'''Сыхьатныкъо''' блэк1ыгъ фылымыр зэрэкъиублагъэр",
+            "translation": "It have been '''half an hour''' since the movie started."
+          },
+		  {
+            "sentence": "Мы фылымыр к1ыхьэщэ, зы '''сыхьатныкъо''' горэ хаупк1ын фай",
+            "translation": "This film is too long, they need to cut out '''half an hour''' from it.."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "səħaːtnəqʷa"
+  },
+  {
+    "word": "ублэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to start; to begin",
+        "examples": [
+          {
+            "sentence": "1офыр '''шъуубл'''",
+            "translation": "'''Start''' the work."
+          },
+		  {
+            "sentence": "Шъулажьэу '''шъуубл'''",
+            "translation": "'''Start''' working."
+          },
+		  {
+            "sentence": "Фылымыр '''къиублагъ'''",
+            "translation": "The movie '''started'''"
+          },
+		  {
+            "sentence": "К1алэм фылымыр '''ыублагъ'''",
+            "translation": "The boy '''started''' the movie."
+          },
+		  {
+            "sentence": "Л1ыр лажьэу '''ыублагъ'''",
+            "translation": "The man '''started''' working."
+          },
+		  {
+            "sentence": "Л1ым тутын ешъоу '''ыублагъ'''",
+            "translation": "The man '''started''' smoking."
+          },
+		  {
+            "sentence": "Сыхьатныкъо блэк1ыгъ фылымыр '''зэрэкъиублагъэр'''",
+            "translation": "It have been half an hour '''since''' the movie '''started'''."
+          },
+		  {
+            "sentence": "Теджэу '''тыжъугъэубл'''",
+            "translation": "'''Let's start''' studying."
+          },
+		  {
+            "sentence": "Фылымыр '''тыублэгъах''' ыгузэгук1э укъытхэхьанэу уфаемэ",
+            "translation": "'''We already started''' the movie if you want to join us in the middle of it."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "ежьэн",
+	  "егъэжьэн"
+    ],
+    "type": "verb",
+    "ipa": "wəbɮan"
+  },
+  {
+    "word": "къыублэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"ублэн\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "ежьэн",
+	  "егъэжьэн"
+    ],
+    "type": "verb",
+    "ipa": "qəwəbɮan"
   },
   {
     "word": "ны1эп",
@@ -84872,12 +85050,16 @@
             "translation": "I have '''only''' studied for a day."
           },
           {
-            "sentence": "Зы чъыгы исыпк1ыгъэ '''ны1эп'''",
+            "sentence": "Зы чъыгы исыупк1ыгъэ '''ны1эп'''",
             "translation": "I '''only''' cut down one tree."
           },
           {
             "sentence": "Оры '''ны1эп''' ащ цыхьэ зыфиш1ырэр",
-            "translation": "He trusts '''only''' you."
+            "translation": "(S)he '''only''' trusts you."
+          },
+          {
+            "sentence": "Сизакъу '''ны1эп''' къэнэжьыгъэр",
+            "translation": "'''Only''' I remained."
           },
           {
             "sentence": "Зы илъэс '''ны1эп''' теш1агъэр",

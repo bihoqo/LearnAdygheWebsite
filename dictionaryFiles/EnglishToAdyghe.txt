@@ -3867,13 +3867,10 @@
     "to cleave": "гоутын; зэгоутын; зэгогъэк1ын; зэгогъэлэтхъын"
   },
   {
-    "to cut": "бзын (to cut with scissors or knife or sword); пыупк1ын (to cut off hair or tree branches); иупк1ын (to cut down a tree); ш1обзын (to slice); упк1эн (to mow); упхъун (to cut hair or fur or grass); к1эупхъухьан (to take a haircut); хэупк1ын (to cut off); хэбзык1ын (to cut off); упк1эн (to mow); хын (to mow)"
+    "to cut": "бзын (to cut with scissors or knife or sword); пыупк1ын (to cut off something from); гоупк1ын (to cut off the side); иупк1ын (to cut down a tree); ш1обзын (to slice); упк1эн (to mow); упхъун (to cut hair or fur or grass); к1эупхъухьан (to take a haircut); хэупк1ын (to cut out a piece from); хэбзык1ын (to cut off); упк1эн (to mow); хын (to mow)"
   },
   {
     "to cut down": "иупк1ын"
-  },
-  {
-    "to fell": "иупк1ын"
   },
   {
     "to slice": "бзэн (to be slicing); бзын (to slice something or someone); упк1этэн (to slice into pieces); ш1обзын (to slice someone's body)"
@@ -7779,10 +7776,10 @@
     "to stay": "къы1унэн (to stay behind); исын; илъын (to stay overnight)"
   },
   {
-    "to remain": "къы1унэн (to remain behind); къинэн (to remian inside); къэнэн (to remain leftover); гъэкъэнэн (to leave remaining, to leave leftovers); къэгъэнэжьын (to remain leftovers); къинэжьын (to leave/remain inside leftovers); къытенэжьын (to leave/remain above leftovers); къыч1энэжьын (to leave/remain beneath leftovers); къыпыэнэжьын (to leave/remain on a tree leftovers)"
+    "to remain": "къы1унэн (to remain behind, to leave behind); къинэн (to remian inside, to leave inside); къэгъэнэн / къэгъэнэжьын (to remain something, to remain leftovers, to leave leftovers); къэнэн / къэнэжьын (something to remain as a leftover); къинэжьын (something to remain inside as a leftovers); къытенэжьын (to remain something above, to leave behind something above); къыч1энэжьын (to remain something under, to leave behind something under)"
   },
   {
-    "to leave": " гъэкъэнэн (to leave remainings); къэгъэнэжьын (to remain leftovers); бгынэн (to abandon/desert); ик1ын (to go out); ик1ыжьын (to leave the house/family); пык1ыжьын (to divorce); хэк1ын (to leave a company or group); къинэн (to leave something behind); тегъэнэн / къытегъэнэн (to leave something above something); ч1эгъэнэн / къыч1эгъэнэн (to leave something under something); хэгъэнэн / къыхэгъэнэн (to leave something in an area with liquid or gas, to leave something in the forest); дэгъэнэн / къыдэгъэнэн (to leave something in); 1угъэнэн / къы1угъэнэн (to leave something near); къы1унэн (to leave behind); къинэжьын (to leave/remain inside leftovers); къытенэжьын (to leave/remain above leftovers); къыч1энэжьын (to leave/remain beneath leftovers); къыпыэнэжьын (to leave/remain on a tree leftovers)"
+    "to leave": "къы1унэн (to remain behind, to leave behind); къинэн (to remian inside, to leave inside); къэгъэнэн / къэгъэнэжьын (to remain something, to remain leftovers, to leave leftovers); къэнэн / къэнэжьын (something to remain as a leftover); къинэжьын (something to remain inside as a leftovers); къытенэжьын (to remain something above, to leave behind something above); къыч1энэжьын (to remain something under, to leave behind something under); бгынэн (to abandon/desert); ик1ын (to go out); ик1ыжьын (to leave the house/family); пык1ыжьын (to divorce); хэк1ын (to leave a company or group); тегъэнэн / къытегъэнэн (to leave something above something); ч1эгъэнэн / къыч1эгъэнэн (to leave something under something); хэгъэнэн / къыхэгъэнэн (to leave something in an area with liquid or gas, to leave something in the forest); дэгъэнэн / къыдэгъэнэн (to leave something in); 1угъэнэн / къы1угъэнэн (to leave something near)"
   },
   {
     "to stay behind": "къы1унэн"
@@ -9067,6 +9064,9 @@
   },
   {
     "braid": "блэн (шъхьацыр)"
+  },
+  {
+    "half-hour": "сыхьатныкъо; сыхьат ныкъо"
   },
   {
     "to cut between": "дэбзык1ын"
@@ -14058,7 +14058,7 @@
     "little girl": "пшъэшъэжъый; пшъэшъэ ц1ык1у"
   },
   {
-    "to cut off": "пыупк1ын"
+    "to cut off": "пыупк1ын; гоупк1ын (to cut off the side)"
   },
   {
     "marriage": "нэчыхьытх (marriage registration ceremony); нысащэ (wedding party)"
