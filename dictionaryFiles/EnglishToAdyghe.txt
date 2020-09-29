@@ -7989,6 +7989,9 @@
     "to read": "еджэн (to be reading); джын (to complete reading a certain portion); хэджэхьан (to read through)"
   },
   {
+    "to reread": "еджэжьын (to read again)"
+  },
+  {
     "to be reading": "еджэн"
   },
   {
@@ -10122,7 +10125,7 @@
     "separately": "шъхьаф-шъхьафэу; зыр зырэу (one by one)"
   },
   {
-    "to return": "къэгъэзэжьын (to return back to where one came); к1ожьын (to go back there); къэк1ожьын (to return back here); зэк1ежьэжьын; дэхьажьын (to head back); етыжьын / егъэзэжьын (to return something to, to give back something to); щэжьын (to return someone to, to escort someone back to)"
+    "to return": "къэгъэзэжьын (to return back to where one came); к1ожьын (to go back there); къэк1ожьын (to return back here); зэк1ежьэжьын; дэхьажьын (to head back); ежьэжьын (to head back); етыжьын / егъэзэжьын (to return something to, to give back something to); щэжьын (to return someone to, to escort someone back to)"
   },
   {
     "to give back": "етыжьын / егъэзэжьын (to return something to, to give back something to)"
@@ -14475,7 +14478,7 @@
     "to escape": "ежьэжьын / къежьэжьын; ш1уежьэжьын (to run away from); 1эк1эк1ын (to let someone escape inadvertently)"
   },
   {
-    "to head back": "дэхьажьын"
+    "to head back": "дэхьажьын; ежьэжьын"
   },
   {
     "to resume": "егъэжьэжьын; ублэжьын; игъэкъужьын"
@@ -14490,7 +14493,7 @@
     "poorly dressed": "шъойцый (шъой-цый); шъо1удж"
   },
   {
-    "to dress": "фэпэн; щылъэн (to dress someone or something)"
+    "to dress": "фэпэн; щылъэн (to dress oneself or dress someone else)"
   },
   {
     "to wear": "щыгъын (to be wearing); щылъэн (to dress someone else); зыщылъэн (to wear something, to dress oneself)"

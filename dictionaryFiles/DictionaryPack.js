@@ -6185,6 +6185,10 @@
           {
             "sentence": "Тхылъ1ыгъып1эм сык1онышъ, '''тхылъ''' къисхынэу сыфай",
             "translation": "I want to go to the library to borrow '''a book'''."
+          },
+		  {
+            "sentence": "'''Тхылъым''' пшъашъэр щырэ еджэжьыгъ",
+            "translation": "The girl reread '''the book''' three times."
           }
         ]
       }
@@ -62362,8 +62366,8 @@
             "translation": "Only '''I remained''' as someone who haven't entered the war."
           },
           {
-            "sentence": "Сшыхэмк1э сизакъу къэнэжьыгъэр икъэщэгъу къэмысыгъэу",
-            "translation": "Among my brothers, only I haven't reached the age of marriage."
+            "sentence": "Сшыхэмк1э сизакъу '''къэнэжьыгъэр''' икъэщэгъу къэмысыгъэу",
+            "translation": "Among my brothers, only I '''left''' that haven't reached the age of marriage."
           }
         ]
       }
@@ -85088,7 +85092,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"ежьэжьын\"",
+        "meaning": "misspelled of \"ежьэжьын\"",
         "examples": []
       }
     ],
@@ -85100,7 +85104,16 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"ежьэжьын\"",
+        "meaning": "to reread; to read again",
+        "examples": [
+          {
+            "sentence": "Тхылъым пшъашъэр щырэ '''еджэжьыгъ'''",
+            "translation": "The girl '''reread''' the book three times."
+          }
+        ]
+      },
+	  {
+        "meaning": "to call someone again",
         "examples": []
       }
     ],
@@ -85112,19 +85125,35 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to run away",
+        "meaning": "to run away; to flee",
         "examples": [
           {
-            "sentence": "К1алэр пшъашъэм '''фежьэжьы'''",
-            "translation": "The boy is '''running away from''' the girl."
+            "sentence": "К1алэр ук1ак1ом '''ш1уежьэжьы'''",
+            "translation": "The boy is '''running away from''' the murderer."
+          },
+		  {
+            "sentence": "К1алэр тиунэ '''къежьэжьыгъ'''",
+            "translation": "The boy '''run away''' to our house."
+          },
+		  {
+            "sentence": "К1алэр чылэм '''ежьэжьыгъ'''",
+            "translation": "The boy '''run away''' to the village."
           },
           {
             "sentence": "Зэк1эм сыкъелъэгъум, '''сежьэжьыгъ''' псынк1эу",
             "translation": "When everyone say me, '''I ran away''' quickly."
           },
           {
-            "sentence": "Хьак1эр '''ежьэжьын''' ы1уи шъхьак1эм, бысымым '''ригъэжьэжьыгъэп'''",
-            "translation": "The guest tried '''to run away''', however the owner didn't let him."
+            "sentence": "К1алэм л1ыр зелъэгъум, '''ежьэжьыгъ'''",
+            "translation": "When the boy saw the man, '''he ran away'''."
+          },
+          {
+            "sentence": "'''Укъысш1уежьэжьышъущтэп'''",
+            "translation": "'''You cannot run away from me'''."
+          },
+		  {
+            "sentence": "Заомк1э '''ежьэжьыхэрэр''' щтэпхэрыех",
+            "translation": "'''The ones that flee''' in the war are cowards."
           }
         ]
       },
@@ -85132,14 +85161,19 @@
         "meaning": "to escape from",
         "examples": [
           {
-            "sentence": "Л1ыр хьапсым '''ежьэжьыгъ'''",
+            "sentence": "Л1ыр хьапсым '''къежьэжьыгъ'''",
             "translation": "The man '''escaped from''' prison."
           }
         ]
       },
       {
         "meaning": "to head back",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Хьак1эр '''ежьэжьын''' ы1уи шъхьак1эм, бысымым '''ригъэжьэжьыгъэп'''",
+            "translation": "The guest tried '''to head back''', however the owner '''didn't let him to head back'''."
+          }
+        ]
       },
       {
         "meaning": "to resume",
@@ -85162,12 +85196,42 @@
     "type": "verb",
     "ipa": "jaʑaʑən"
   },
+  
+  {
+    "word": "дэхьажьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to return (home); to depart and go home; to head back (to begin the act of returning to some place or thing)",
+        "examples": [
+          {
+            "sentence": "Унэм '''сыдэхьажьыщт'''",
+            "translation": "'''I will go back''' home."
+          },
+		  {
+            "sentence": "Куджаныр  '''дэхьажьыгъ'''",
+            "translation": "Kujan '''returned [home]'''."
+          },
+		  {
+            "sentence": " '''Тыдэхьажьыщта'''?",
+            "translation": "'''Shall we depart'''?"
+          },
+		  {
+            "sentence": "Хьак1эр '''дэхьажьын''' ы1уи шъхьак1эм, бысымым '''дигъэхьажьыгъэп'''",
+            "translation": "The guest tried '''to head back''', however the owner '''didn't let him to head back'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "daħaːʑən"
+  },
   {
     "word": "ш1уежьэжьын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to run away from",
+        "meaning": "to run away from; to flee from",
         "examples": [
           {
             "sentence": "Бланэр тыгъужъым '''ш1уежьэжьы'''",
@@ -85178,8 +85242,16 @@
             "translation": "The deer '''successfully ran away from''' the wolves."
           },
           {
-            "sentence": "К1алэр '''къэсш1уежьэжьын''' е1о",
+            "sentence": "К1алэр '''къэсш1уежьэжьын''' е1уагъ",
             "translation": "The boy tried '''to run away from me'''."
+          },
+		  {
+            "sentence": "К1алэр ук1ак1ом '''ш1уежьэжьы'''",
+            "translation": "The boy is '''running away from''' the murderer."
+          },
+          {
+            "sentence": "'''Укъысш1уежьэжьышъущтэп'''",
+            "translation": "'''You cannot run away from me'''."
           }
         ]
       }
@@ -85195,12 +85267,12 @@
         "meaning": "to get dressed, to dress up",
         "examples": [
           {
-            "sentence": "ЛIэу зызгъэпскIыгъэм '''зифэпэжьыгъ'''",
+            "sentence": "Л1эу зызгъэпск1ыгъэм '''зифэпэжьыгъ'''",
             "translation": "The man that showered, got dressed up."
           },
           {
             "sentence": "Ар джы шъойцыежьэп, '''зифэпэжьыгъ'''",
-            "translation": "Now, he is not poorly dressed anymore, he dressed up."
+            "translation": "Now he is not poorly dressed anymore, he dressed up."
           }
         ]
       }
@@ -85217,7 +85289,7 @@
         "examples": [
           {
             "sentence": "Ар джы '''шъойцыежьэп''', зифэпэжьыгъ",
-            "translation": "Now, he is not poorly dressed anymore, he dressed up."
+            "translation": "Now he is not poorly dressed anymore, he dressed up."
           }
         ]
       }
@@ -101306,18 +101378,6 @@
     ],
     "type": "noun",
     "ipa": "ʔaːħəɮ"
-  },
-  {
-    "word": "дэхьажьын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to head back (to begin the act of returning to some place or thing)",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "daħaːʑən"
   },
   {
     "word": "шъо1удж",
