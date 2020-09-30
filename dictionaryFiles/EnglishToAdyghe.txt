@@ -4203,7 +4203,10 @@
     "to interrupt": "зэпыгъэун"
   },
   {
-    "to ask": "упч1эн; еупчӏын (to ask someone); к1эупч1эн (to ask around)"
+    "to ask": "упч1эн; еупч1ын (to ask someone); к1эупч1эн (to ask around)"
+  },
+  {
+    "to question": "упч1эн; еупч1ын (to question someone); к1эупч1эн (to question around)"
   },
   {
     "dumb": "бзако (unable to speak); бзэмы1у (unable to communicate due to language barrier); шъхьэныкъо (stupid)"
@@ -12649,6 +12652,9 @@
   },
   {
     "to bloom": "гъэгъэн"
+  },
+  {
+    "to blossom": "гъэгъэн"
   },
   {
     "puppy": "хьэжъу; хьэщыр; хьажъу щыр"

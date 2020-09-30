@@ -19201,7 +19201,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to ask someone",
+        "meaning": "to ask someone; to question someone",
         "examples": [
           {
             "sentence": "к1алэр пшъашъэм '''еупч1ыгъ''' дэк1ынэу фаемэ",
@@ -49187,7 +49187,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to ask",
+        "meaning": "to ask; to question",
         "examples": [
           {
             "sentence": "К1алэр пшъашъэм '''еупч1ы''' сыд ыц1э",
@@ -64448,7 +64448,7 @@
     "ipa": "ʔapəzən"
   },
   {
-    "word": "къы1эк1эзын",
+    "word": "1эк1эзын",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -67249,7 +67249,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to bloom",
+        "meaning": "to bloom; to blossom",
         "examples": [
           {
             "sentence": "'''Мэгъагъэ''' тич1ыгу",
@@ -86359,8 +86359,8 @@
             "translation": "The boy '''got away''' from the dogs."
           },
           {
-            "sentence": "Шъукъэсыубытмэ '''шъукъыс1эк1эк1ыщтып'''",
-            "translation": "If I caught you (pl.) '''you won't get away from me'''."
+            "sentence": "Шъукъэсыубытымэ '''шъукъыс1эк1эк1ыщтып'''",
+            "translation": "If I caught you '''you won't get away from me'''."
           },
           {
             "sentence": "Пц1ы к1алэм '''1эк1эк1ыгъ'''.",
@@ -86386,15 +86386,13 @@
         ]
       }
     ],
-    "synonyms": [
-      "1эк1эк1ьын"
-    ],
+    "shapsug": "1эк1эк1ьын",
     "kabardian": "1эщ1эк1ын",
     "type": "verb",
     "ipa": "ʔat͡ʃʼat͡ʃʼən"
   },
   {
-    "word": "1эк1эзын",
+    "word": "къы1эк1эзын",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -86412,6 +86410,23 @@
     "ipa": "ʔat͡ʃʼazən"
   },
   {
+    "word": "1эк1ыб",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "foreign",
+        "examples": [
+          {
+            "sentence": "'''1эк1ыб''' хэгъэгу",
+            "translation": "'''Foreign''' country."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʔat͡ʃʼəb"
+  },
+  {
     "word": "1эк1эук1эн",
     "lang": "Adyghe",
     "definitions": [
@@ -86420,7 +86435,7 @@
         "examples": [
           {
             "sentence": "Зыфэсакъ, ус1ук1эмэ '''укъыс1эк1эук1эхьащт'''",
-            "translation": "Be careful!, if we meet '''I might kill you inadvertently'''\"."
+            "translation": "Be careful!, if we meet '''I might kill you inadvertently'''."
           }
         ]
       }
@@ -86430,6 +86445,23 @@
     "ipa": "ʔat͡ʃʼawt͡ʃʼan"
   },
   {
+    "word": "1эк1эу1эш1он",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to be pleased (with the food)",
+        "examples": [
+          {
+            "sentence": "Пшъашъэм ишхын сэ '''с1эк1эу1эш1уагъ'''",
+            "translation": "'''I was pleased''' the girl's dinner"
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʔat͡ʃʼawt͡ʃʼaʃʷʼan"
+  },
+  {
     "word": "нэмык1",
     "lang": "Adyghe",
     "definitions": [
@@ -86437,11 +86469,23 @@
         "meaning": "different, another (not the same)",
         "examples": [
           {
-            "sentence": "'''НэмыкI''' Iоф иI",
+            "sentence": "Фылым '''нэмык1''' тегъэплъ",
+            "translation": "Let's watch a '''different''' film."
+          },
+		  {
+            "sentence": "К1алэм ку '''нэмык1''' ы1ыгъ",
+            "translation": "The boy has a '''different''' car."
+          },
+		  {
+            "sentence": "К1алэр унэ '''нэмык1''' горэм ис",
+            "translation": "The boy is in a '''different''' house."
+          },
+		  {
+            "sentence": "'''Нэмык1''' 1оф и1",
             "translation": "He has '''another''' job."
           },
           {
-            "sentence": "'''НэмыкI''' к1ал",
+            "sentence": "'''Нэмык1''' к1ал",
             "translation": "'''Another''' boy."
           },
           {
@@ -86467,11 +86511,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to leave an object or someone on somewhere",
+        "meaning": "to leave an object or someone on something",
         "examples": [
           {
-            "sentence": "К1алэм и ахъщэ 1анэм '''къытыгъэнагъ'''",
+            "sentence": "К1алэм иахъщэ 1анэм '''къытегъэнагъ'''",
             "translation": "The boy '''left''' his money on the table."
+          },
+		  {
+            "sentence": "Уишхын 1анэм '''къытебгъэнагъ'''",
+            "translation": "'''You left''' your food '''on''' the table."
           }
         ]
       }
