@@ -438,7 +438,7 @@
     "back (body part)": "тхы"
   },
   {
-    "back": "тхы (body); к1ыб (back of something); тхыц1э (body); пхэк1 (rear); ыпхэк1ык1э (in the ); (vulgar) ышъутык1э (in the rear)"
+    "back": "тхы (body); к1ыб (back of something); ык1ыбык1э (from the back); тхыц1э (body); пхэк1 (rear); ыпхэк1ык1э (from the rear); (vulgar) ышъутык1э (from the rear)"
   },
   {
     "stomach": "ныбэ"
@@ -4278,7 +4278,7 @@
     "to come towards": "ек1ун"
   },
   {
-    "to approach": "ек1ун / ек1ол1эн (to approach someone); еблэгъэн (to get closer); ыдэжь к1он (to go near someone); 1ухьан (to go near a certain place such as a shop); (slang) дэублэн (to approach and speak to someone, seeking romance, love, etc.)"
+    "to approach": "ек1ун / ек1ол1эн (to approach someone); еблэгъэн (to get closer); ыдэжь к1он (to go near someone); 1ухьан (to go near a certain place such as a shop); (slang) дэублэн (to approach and speak to someone, seeking romance, love, etc.); ыпхэк1ы ихьан (to approach something's back); (vulgar) ышъуты ихьан (to approach something's rear)"
   },
   {
     "to be appropriate": "ек1ун"
@@ -5487,7 +5487,7 @@
     "gold-prospector": "дышъэлъыхъу"
   },
   {
-    "to struggle": "бэнэн; ебэнын (to struggle with somehting); щэ1эн; фэщы1эн (to manage to struggle something)"
+    "to struggle": "бэнэн; ебэнын (to struggle with somehting); щэ1эн (to endure, to bear); фэщэ1эн (to manage to endure/bear something)"
   },
   {
     "to kiss": "бэон; ебэун; узэбэун (to kiss each other)"
@@ -6459,7 +6459,10 @@
     "voice": "макъэ"
   },
   {
-    "sound": "макъэ"
+    "sound": "макъэ; 1эмэкъэ-лъэмакъ (sound from the movement of arms and legs)"
+  },
+  {
+    "noise": "макъэ; 1эмэкъэ-лъэмакъ (noise from the movement of arms and legs)"
   },
   {
     "cheese": "къуае; хъуае(Shapsug)"
@@ -7170,7 +7173,7 @@
     "to dance": "къэшъон; къеш1эн; уджын"
   },
   {
-    "to tie": "пхын (to tie); пыпхэн (to tie something to); егъэпхын (to tie something to something); зэк1оц1ыпхэн (to tie together), зэтепхэн (to tie one to the other), зэкъодзэн (to tie up, to fasten)"
+    "to tie": "пхын (to tie); пыпхэн (to tie something to); егъэпхын (to tie something to something); зэк1оц1ыпхэн (to tie together), зэтепхэн (to tie one to the other), зэкъодзэн (to tie up, to fasten); к1эпхэн (to tie under something)"
   },
   {
     "to chain": "пыш1эн"
@@ -7803,6 +7806,12 @@
     "buttock": "шъуты; пхэ; шъутыпашъо (butt skin)"
   },
   {
+    "asscheek": "шъуты; пхэ; шъутыпашъо (butt skin)"
+  },
+  {
+    "arsecheek": "шъуты; пхэ; шъутыпашъо (butt skin)"
+  },
+  {
     "appointment": "п1алъэ"
   },
   {
@@ -8097,10 +8106,10 @@
     "itch": "хъу; хъун (to itch); хъупц1"
   },
   {
-    "rash": "хъу; хъун (to itch); хъупц1"
+    "rash": "бжьыбжьын (to feel a rash, to feel burning sensation on the skin)"
   },
   {
-    "to itch": "хъун; хъупц1ын"
+    "to itch": "хъун; хъупц1ын; бжьыбжьын (to feel a rash, to feel burning sensation on the skin)"
   },
   {
     "to feel itch": "хъун; хъупц1ын"
@@ -8262,7 +8271,13 @@
     "hornbeam": "тфэи"
   },
   {
-    "to dig": "т1ын; тхъун (to shovel out)"
+    "to dig": "т1ын; (dialectal) тхъун; хэт1ык1ын (to dig out); (dialectal) хэтхъук1ын (to dig out)"
+  },
+  {
+    "to dig out": "хэт1ык1ын; (dialectal) хэтхъук1ын"
+  },
+  {
+    "to rake": "тхъун"
   },
   {
     "related to": "теуфагъэу; ехьыл1агъэу; егъэпхыгъэу; ащ теуфагъэу / ащ ехьыл1агъэу / ащ егъэпхыгъэу (regarding that, in respect to that, regarding that, as regards to that, concerning that)"
@@ -9199,6 +9214,12 @@
   },
   {
     "to begin": "ублэн; ежьэн / къежьэн"
+  },
+  {
+    "axe-handle": "ощык1; отычык1; обзэгъук1"
+  },
+  {
+    "axe helve": "ощык1; отычык1; обзэгъук1"
   },
   {
     "to go off": "текощык1ын"
@@ -10551,7 +10572,10 @@
     "alleviation": "нэплъэгъу"
   },
   {
-    "to bear": "зыщэ1эн (to bear something); фэщэ1эн (to be able to bear); фэлъэк1ын (to be able to bear)"
+    "to bear": "зыщэ1эн (to bear); щэ1эн (to endure, to bear); фэщэ1эн (to manage to endure/bear something)"
+  },
+  {
+    "to endure": "зыщэ1эн (to endure); щэ1эн (to endure, to bear); фэщэ1эн (to manage to endure/bear something)"
   },
   {
     "to stop": "уцун / къэуцун; къэгъэуцун (to stop someone or something); зэпыун (to break off); зэпыгъэун (to break off); зэтеуцон; зэтегъэуцон; уцужьын (to stop doing something)"
@@ -10794,7 +10818,7 @@
     "misdeed": "псэк1од"
   },
   {
-    "to hear": "е1ун; зэхэхын"
+    "to hear": "1ун / къэ1ун (to be heard); е1ун (to hear something); зэхэхын (to hear something)"
   },
   {
     "to make sound": "къэгъэ1ун"
@@ -14511,13 +14535,28 @@
     "wrongly": "къуанчэу; 1онт1агъэу; 1орт1агъэу (Shapsug); мытэрэзэу; хэукъоныгъэу; пхэнджэу"
   },
   {
-    "twisted": "пхэндж"
+    "twisted": "1онт1агъ"
   },
   {
-    "snowshoe": "пцыкъо"
+    "lumberman": "мэзтеупк1; мэзупк1"
   },
   {
-    "skating": "лъэрычъ"
+    "woodcutter": "мэзтеупк1; мэзупк1"
+  },
+  {
+    "lumberjack": "мэзтеупк1; мэзупк1"
+  },
+  {
+    "logger": "мэзтеупк1; мэзупк1"
+  },
+  {
+    "snowshoe": "пцыкъу"
+  },
+  {
+    "skates": "лъэрычъ"
+  },
+  {
+    "ice skate": "лъэрычъ"
   },
   {
     "skateboard": "лъэрычъ"
@@ -14601,16 +14640,16 @@
     "arse": "пхэк1; (vulgar) шъуты; (vulgar) пхэ; шъутыпашъо (arsecheek)"
   },
   {
-    "butt cheek": "(vulgar) шъуты; шъутыпашъо (butt cheek skin)"
+    "butt cheek": "пхэк1; (vulgar) шъуты; шъутыпашъо (butt cheek skin); (vulgar) пхэ"
   },
   {
-    "butt-cheek": "(vulgar) шъуты; шъутыпашъо (butt cheek skin)"
+    "butt-cheek": "пхэк1; (vulgar) шъуты; шъутыпашъо (butt cheek skin); (vulgar) пхэ"
   },
   {
-    "buttcheek": "(vulgar) шъуты; шъутыпашъо (butt cheek skin)"
+    "buttcheek": "пхэк1; (vulgar) шъуты; шъутыпашъо (butt cheek skin); (vulgar) пхэ"
   },
   {
-    "rear": "ык1ыбык1э (in the back); пхэк1; ыпхэк1ык1э (in the ); (vulgar) ышъутык1э (in the rear)"
+    "rear": "ык1ыбык1э (in the back); пхэк1 (rear); ыпхэк1ык1э (from the rear); (vulgar) ышъутык1э (from the rear)"
   },
   {
     "buttock": "пхэк1; (vulgar) ышъуты; (vulgar) пхэ"
@@ -17428,12 +17467,6 @@
   },
   {
     "blaze": "мэш1отхъуабз"
-  },
-  {
-    "to shovel out": "итхъун / къитхъун / итхъук1ын / къитхъук1ын; тхъун; ытхъун"
-  },
-  {
-    "to rake out": "итхъун / къитхъун / итхъук1ын / къитхъук1ын; тхъун; ытхъун"
   },
   {
     "to soften": "гъэушъэбын"

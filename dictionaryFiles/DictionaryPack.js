@@ -1030,8 +1030,24 @@
             "translation": "I don't eat '''meat'''."
           },
 		  {
+            "sentence": "Ц1ыфыхэр щы1эх '''лы''' амышхэу",
+            "translation": "There are people that do not eat '''meat'''."
+          },
+		  {
+            "sentence": "'''Лы''' сэгъажъэ",
+            "translation": "I am frying '''meat'''."
+          },
+		  {
             "sentence": "Мы '''лыр''' агъэстыгъ",
             "translation": "They burned this '''meat'''."
+          },
+		  {
+            "sentence": "'''Лыр''' лыц1энэу ежьагъ",
+            "translation": "'''The meat''' started to burn slightly."
+          },
+          {
+            "sentence": "'''Лыр''' щыуаным естыл1агъ",
+            "translation": "'''The meat''' stuck inside the pot."
           }
         ]
       },
@@ -5917,7 +5933,12 @@
     "definitions": [
       {
         "meaning": "ice",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм ылъакъо к1ипхагъ лъэрычъ '''мылым''' щычъэнэу",
+            "translation": "The boy tied ice skate under his feet to run on '''the ice'''."
+          }
+        ]
       }
     ],
     "kabardian": "мыл",
@@ -6620,7 +6641,13 @@
     "definitions": [
       {
         "meaning": "person, human",
-        "examples": []
+        "examples": [
+          ,
+		  {
+            "sentence": "'''Ц1ыфыхэр''' щы1эх лы амышхэу",
+            "translation": "There are '''people''' that do not eat meat."
+          }
+        ]
       }
     ],
     "kabardian": "ц1ыху",
@@ -33718,8 +33745,8 @@
     "word": "ощы",
     "lang": "Adyghe",
     "definitions": [
-      {
-        "meaning": "ax; woodchopper",
+	  {
+        "meaning": "(large and heavy) axe (tool); froe",
         "examples": []
       }
     ],
@@ -33731,6 +33758,36 @@
     "kabardian": "джыдэ",
     "type": "noun",
     "ipa": "waɕə"
+  },
+  {
+    "word": "мэзтеупк1",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "lumberman, lumberjack, logger, woodcutter",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "мэзупк1"
+    ],
+    "type": "noun",
+    "ipa": "maztajwəpt͡ʃʼ"
+  ,
+  {
+    "word": "мэзупк1",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "lumberman, lumberjack, logger, woodcutter",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "мэзтеупк1"
+    ],
+    "type": "noun",
+    "ipa": "mazwəpt͡ʃʼ"
   },
   {
     "word": "ожьы",
@@ -34874,6 +34931,31 @@
           {
             "sentence": "'''Ушъуты''' къыч1эщы",
             "translation": "'''Your butt''' is exposed."
+          }
+        ]
+      },
+	  {
+        "meaning": "close back, rear",
+        "examples": [
+          {
+            "sentence": "Гъогумк1э, сак1ыб дэт кур '''сшъуты''' къехьэ",
+            "translation": "On the road, the car behind me is coming to '''my rear'''."
+          },
+		  {
+            "sentence": "Кум '''ышъуты''' уимыхь",
+            "translation": "Don't get close to the car's '''rear'''."
+          },
+		  {
+            "sentence": "К1алэм '''ышъуты''' уитэу лъык1у",
+            "translation": "Follow the boy while being close to '''his back'''."
+          },
+		  {
+            "sentence": "Кур '''ушъутык1э''' къыпжэхэхьагъ",
+            "translation": "The car collapsed against you '''from the back'''."
+          },
+		  {
+            "sentence": "К1алэхэр '''зэшъуты''' итыхэу мак1ох",
+            "translation": "The boys are going one after the other's '''back'''."
           }
         ]
       }
@@ -36849,30 +36931,6 @@
     "kabardian": "дыгъурыгъу",
     "type": "noun",
     "ipa": "təʁʷrəʁʷə"
-  },
-  {
-    "word": "т1ын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to dig",
-        "examples": [
-          {
-            "sentence": "Къазгъырымк1э '''мат1эх'''",
-            "translation": "They are '''digging''' with the shovel."
-          },
-		  {
-            "sentence": "К1алэм машэ '''ыт1ыгъ'''",
-            "translation": "The boy '''dug''' a hole."
-          }
-        ]
-      }
-    ],
-    "synonyms": [
-      "тхъун"
-    ],
-    "type": "verb",
-    "ipa": "tʼən"
   },
   {
     "word": "ужы",
@@ -44466,6 +44524,59 @@
 		  {
             "sentence": "Сиджанэ пчъэм '''ык1ыб''' пылъагъ, къэсфэхь",
             "translation": "My shirt is hanged '''behind''' the door, bring it to me."
+          },
+		  {
+            "sentence": "Куджаныр к1алэхэмэ '''ак1ыб''' ит",
+            "translation": "Kujan '''is behind''' the boys."
+          },
+		  {
+            "sentence": "Матиматикэмк1э '''ык1ыб''' сыкъинагъ",
+            "translation": "I was left '''behind''' in math."
+          }
+        ]
+      },
+	  {
+        "meaning": "back, rear",
+        "examples": [
+          {
+            "sentence": "Унэм '''ык1ыбы''' хьанцэр дэт",
+            "translation": "The shovel is '''behind''' the house."
+          },
+		  {
+            "sentence": "Кум '''ык1ыбык1э''' псыхэр дэлъых",
+            "translation": "The water is in '''the back''' of the car."
+          },
+		  {
+            "sentence": "'''Сык1ыб''' мэузы",
+            "translation": "'''My back''' hurts."
+          },
+		  {
+            "sentence": "'''Ук1ыбык1э''' еплъ",
+            "translation": "Look '''behind your back'''."
+          },
+		  {
+            "sentence": "'''Ук1ыбык1э''' сыкъак1о",
+            "translation": "I am coming '''from your back'''."
+          },
+		  {
+            "sentence": "Гъогумк1э, сак1ыб дэт кур '''ск1ыбы''' къехьэ",
+            "translation": "On the road, the car behind me is coming to my rear."
+          },
+		  {
+            "sentence": "Кум '''ык1ыбы''' уимыхь",
+            "translation": "Don't get close to the car's '''rear'''."
+          },
+		  {
+            "sentence": "К1алэм '''ык1ыбы''' уитэу лъык1у",
+            "translation": "Follow the boy while being close to '''his back'''."
+          },
+		  {
+            "sentence": "Кур '''ук1ыбк1э''' къыпжэхэхьагъ",
+            "translation": "The car collapsed against you '''from the back'''."
+          },
+		  {
+            "sentence": "К1алэхэр '''зэк1ыбы''' итыхэу мак1ох",
+            "translation": "The boys are going one after the other's '''back'''."
           }
         ]
       }
@@ -44479,25 +44590,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "behind of",
-        "examples": [
-          {
-            "sentence": "'''Сык1ыб''' мэхъу",
-            "translation": "'''My back''' is aching."
-          },
-		  {
-            "sentence": "Унэм '''ык1ыб''' дэт к1алэр",
-            "translation": "The boy '''is behind''' the house."
-          },
-		  {
-            "sentence": "'''Сык1ыб''' къыдэуцу",
-            "translation": "Stand '''behind me'''."
-          },
-		  {
-            "sentence": "Сиджанэ пчъэм '''ык1ыб''' пылъагъ, къэсфэхь",
-            "translation": "My shirt is hanged '''behind''' the door, bring it to me."
-          }
-        ]
+        "meaning": "possesive form of \"к1ыб\"",
+        "examples": []
       }
     ],
     "kabardian": "ищ1ыб",
@@ -52344,8 +52438,33 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"е1ун\"",
+        "meaning": "alternative form of \"къэ1ун\"",
         "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʔʷən"
+  },
+  {
+    "word": "къэ1ун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to be heard",
+        "examples": [
+          {
+            "sentence": "Макъэ '''къэ1у'''",
+            "translation": "A noise '''is being heard'''."
+          },
+		  {
+            "sentence": "1эмэкъэ-лъэмакъэ '''къэ1угъ'''",
+            "translation": "A noise '''was heard'''."
+          },
+		  {
+            "sentence": "Зи 1эмэкъэ-лъэмакъэ '''къэ1урэп'''",
+            "translation": "No noise '''was heard'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -64043,31 +64162,6 @@
     "ipa": "zəɕaʔan"
   },
   {
-    "word": "фэщэ1эн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to bear something; to endure something",
-        "examples": [
-          {
-            "sentence": "'''Къыпфэща1а''' мы мыжъо онтэгъухэр ухьыхэу?",
-            "translation": "'''Do you bear''' those heavy stones you are carrying?"
-          },
-		  {
-            "sentence": "Л1ым къин бэ '''фэщэ1агъ''', сэ ахэр '''къэсфэщэ1эшъущтэп'''",
-            "translation": "The man '''endured''' a lot of hardship, '''I couldn't endure those'''."
-          },
-          {
-            "sentence": "Мы о фабэм хэсэу таущтэу к1алэм '''фэща1э'''?",
-            "translation": "How '''does''' the boy '''bear''' being in this hot weather?"
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "faɕaʔan"
-  },
-  {
     "word": "шъуамбгъо",
     "lang": "Adyghe",
     "definitions": [
@@ -71494,6 +71588,10 @@
 		  {
             "sentence": "Хэти инысащ '''щы1эр'''?",
             "translation": "Whose wedding '''is it'''?"
+          },
+		  {
+            "sentence": "Ц1ыфыхэр '''щы1эх''' лы амышхэу",
+            "translation": "'''There are''' people that do not eat meat."
           }
         ]
       },
@@ -82891,6 +82989,10 @@
 		  {
             "sentence": "Л1ыгъэ къыпхэлъын фай заом ухэхьан '''фэш1ык1э'''",
             "translation": "You need to have courage '''in order to''' go to war"
+          },
+		  {
+            "sentence": "К1алэм ылъакъо к1ипхагъ пцыкъур осым пхырымыбынэу щык1он '''фэш1к1э'''",
+            "translation": "The boy tied the snowshoe under his feet '''in order to''' go on the snow without struggling through it."
           }
         ]
       }
@@ -83009,6 +83111,10 @@
 		  {
             "sentence": "Л1ыгъэ къыпхэлъын фай заом ухэхьан '''пае'''",
             "translation": "You need to have courage '''in order to''' go to war"
+          },
+		  {
+            "sentence": "К1алэм ылъакъо к1ипхагъ пцыкъур осым пхырымыбынэу щык1он '''пае'''",
+            "translation": "The boy tied the snowshoe under his feet '''in order to''' go on the snow without struggling through it."
           }
         ]
       },
@@ -85285,7 +85391,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "someone poorly dressed",
+        "meaning": "poorly dressed",
         "examples": [
           {
             "sentence": "Ар джы '''шъойцыежьэп''', зифэпэжьыгъ",
@@ -85313,7 +85419,7 @@
             "translation": "The girl '''is dressing''' the baby."
           },
           {
-            "sentence": "ЛIэу зызгъэпскIыгъэм '''зифэпэжьыгъ'''",
+            "sentence": "Л1эу зызгъэпск1ыгъэм '''зифэпэжьыгъ'''",
             "translation": "The man that showered, '''dressed himself up'''."
           }
         ]
@@ -85336,11 +85442,7 @@
           },
           {
             "sentence": "'''Ш1эхэу''' к1уагъэ",
-            "translation": "He went '''quickly'''."
-          },
-          {
-            "sentence": "Ащ и1оф '''ш1эхэу''' зэш1ок1ынк1э гугъэн фае, ау '''ш1эхэу''' зэш1ок1ыщтэп",
-            "translation": "He hope for his job to be solved '''quickly''', but it won't be solved '''quickly'''."
+            "translation": "(S)he went '''quickly'''."
           }
         ]
       }
@@ -85372,14 +85474,18 @@
         "meaning": "wrong, incorrect",
         "examples": [
           {
-            "sentence": "Тэ гъогу пхэндж тызытехьагъэр.",
-            "translation": "We’re on the wrong road."
+            "sentence": "Тэ гъогу '''пхэндж''' тызытехьагъэр",
+            "translation": "We’re on the '''wrong''' road."
+          },
+		  {
+            "sentence": "Л1ым отычым отычык1ыр '''пхэнджэу''' пилъхьагъ",
+            "translation": "The man put the axe-handle on the axe '''wrongly'''."
+          },
+		  {
+            "sentence": "Тэ гъогу '''пхэндж''' тызытехьагъэр",
+            "translation": "We’re on the '''wrong''' road."
           }
         ]
-      },
-      {
-        "meaning": "twisted",
-        "examples": []
       }
     ],
     "synonyms": [
@@ -85392,24 +85498,121 @@
     "ipa": "pxand͡ʒ"
   },
   {
-    "word": "пцыкъо",
+    "word": "пцыкъу",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "snowshoe",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''пцыкъур''' к1ипхи осым хэхьагъ",
+            "translation": "The boy tied '''snowshoe''' under [his feet] and he entered the snow."
+          },
+		  {
+            "sentence": "К1алэм ылъакъо к1ипхагъ '''пцыкъур''' осым пхырымыбынэу щык1он пае",
+            "translation": "The boy tied '''the snowshoe''' under his feet in order to go on the snow without struggling through it."
+          }
+        ]
       }
     ],
     "type": "noun",
-    "ipa": "pt͡səqʷa"
+    "ipa": "pt͡səqʷ"
+  },
+  {
+    "word": "к1эпхэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to tie under",
+        "examples": [
+          {
+            "sentence": "К1алэм пцыкъур '''к1ипхи''' осым хэхьагъ",
+            "translation": "The boy '''tied''' snowshoe '''under''' [his feet] and he entered the snow."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "t͡ʃʼapxan"
+  },
+  {
+    "word": "щэ1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to endure; to bear",
+        "examples": [
+          {
+            "sentence": "Л1ым узыр '''ыщэ1агъ'''",
+            "translation": "The man '''endured''' the disease."
+          },
+		  {
+            "sentence": "Сэ а ц1ыф гущы1алэр '''сыщэ1агъ'''",
+            "translation": "'''I endured''' that talkative person."
+          },
+		  {
+            "sentence": "Тхьапшэрэ а ц1ыфыр '''тыщэ1эн''' фай?",
+            "translation": "For how much '''we''' need '''to endure''' that person?"
+          },
+		  {
+            "sentence": "Ц1ыфым '''зещэ1э'''",
+            "translation": "The person '''is enduring'''."
+          },
+		  {
+            "sentence": "Нахь бэрэ '''сызщэ1эшъущтэп''', джы сыгъутхьан фай",
+            "translation": "'''I cannot hold it''' any longer, I need to pee now."
+          },
+		  {
+            "sentence": "Л1ым т1ок1ипл1 цельсия хэтэу '''ыщэ1агъ'''",
+            "translation": "The man '''endured''' being in forty celsius."
+          },
+		  {
+            "sentence": "А ц1ыфым бэ '''ыщэ1агъ'''",
+            "translation": "That person '''endured''' a lot."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɕaʔan"
+  },
+  {
+    "word": "фэщэ1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to bear something successfully; to endure something successfully",
+        "examples": [
+          {
+            "sentence": "'''Къыпфэща1а''' мы мыжъо онтэгъухэр ухьыхэу?",
+            "translation": "'''Do you bear''' those heavy stones you are carrying?"
+          },
+		  {
+            "sentence": "Л1ым къин бэ '''фэщэ1агъ''', сэ ахэр '''къэсфэщэ1эшъущтэп'''",
+            "translation": "The man '''endured''' a lot of hardship, '''I couldn't endure those'''."
+          },
+          {
+            "sentence": "Мы о фабэм хэсэу таущтэу к1алэм '''фэща1э'''?",
+            "translation": "How '''does''' the boy '''bear''' being in this hot weather?"
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "faɕaʔan"
   },
   {
     "word": "лъэрычъ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "skates",
-        "examples": []
+        "meaning": "skates; ice skate",
+        "examples": [
+          {
+            "sentence": "К1алэм ылъакъо к1ипхагъ '''лъэрычъ''' мылым щычъэнэу",
+            "translation": "The boy tied '''ice skate''' under his feet to run on the ice."
+          }
+        ]
       },
       {
         "meaning": "skateboard",
@@ -85429,11 +85632,25 @@
     "definitions": [
       {
         "meaning": "to jump up",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Бланэр '''мэлъатэ'''",
+            "translation": "The deer '''jumps up'''."
+          },
+		  {
+            "sentence": "К1алэм пхъэм ощык1э зытеом, пхъэр '''къэлъэтагъ'''",
+            "translation": "When the boy hit the wood with the axe, the wood '''bounced up'''."
+          }
+        ]
       },
       {
         "meaning": "to take off; to take flight",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Бгъэр лъагэу '''мэлъатэ'''",
+            "translation": "The eagle '''takes off''' high."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -85448,10 +85665,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "that's enough, leave it be, oh well (An expression of mild disappointment or resignation)",
+        "meaning": "that's enough, leave it be, oh well (an expression of mild disappointment or resignation)",
         "examples": [
           {
-            "sentence": "'''Хъугъэ''', ыуж ик1",
+            "sentence": "'''Хъугъэ''', ыужы ик1",
             "translation": "'''That's enough''', leave it be."
           },
           {
@@ -85463,6 +85680,28 @@
     ],
     "type": "intj",
     "ipa": "χʷəʁa"
+  },
+  {
+    "word": "ыужы ик1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to leave someone be; to leave someone alone; to stop anooying/disturbing someone",
+        "examples": [
+          {
+            "sentence": "К1алэм '''ыужы ик1'''",
+            "translation": "'''Leave''' the boy."
+          },
+          {
+            "sentence": "'''Сыужы ик1'''",
+            "translation": "'''Leave me be'''."
+          }
+        ]
+      }
+    ],
+    "shapsug": "ыужы ик1ьын",
+    "type": "verb",
+    "ipa": "əwʒə jət͡ʃʼən"
   },
   {
     "word": "зэк1эм",
@@ -85489,16 +85728,17 @@
         "meaning": "suddenly, all of a sudden",
         "examples": [
           {
-            "sentence": "ар зэк1эм к1ыфы къэхъугъ",
+            "sentence": "ар '''зэк1эм''' к1ыфы къэхъугъ",
             "translation": "(s)he '''suddenly''' became pale."
           },
           {
-            "sentence": "зэк1эм ощх къешхыгъ",
+            "sentence": "'''зэк1эм''' ощх къешхыгъ",
             "translation": "'''Suddenly''' it started to rain."
           }
         ]
       }
     ],
+    "shapsug": "зэгьэм",
     "type": "adv",
     "ipa": "zat͡ʃʼam"
   },
@@ -85510,8 +85750,12 @@
         "meaning": "to become dull, to dull (lose a sharp edge)",
         "examples": [
           {
-            "sentence": "Щэмэджыр мэуцэку",
-            "translation": "the plait '''is becoming dulled'''."
+            "sentence": "Щэмэджыр '''мэуцэку'''",
+            "translation": "The scythe '''is becoming dull'''."
+          },
+		  {
+            "sentence": "Шъэжъыер '''уцэкугъ'''",
+            "translation": "The knife '''became dull'''."
           },
           {
             "sentence": "Шъэжъыер '''зэуцэкук1э''', нэмк1ыр шъэжъый къэхь",
@@ -85536,6 +85780,10 @@
         "meaning": "to complete reading a certain portion",
         "examples": [
           {
+            "sentence": "Пшъашъэм тхылъым ыныкъор '''ыджыгъ'''",
+            "translation": "The girl '''read''' half of the book."
+          },
+		  {
             "sentence": "Нэк1ымазэм къур1анэр зэрэпсаоу '''сыджыгъ'''",
             "translation": "In Ramadan, '''I read''' the whole Quran."
           }
@@ -85553,8 +85801,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"еджэн\"",
-        "examples": []
+        "meaning": "to call",
+        "examples": [
+          {
+            "sentence": "Пшъашъэм '''маджэ'''",
+            "translation": "The girl '''is calling'''."
+          },
+		  {
+            "sentence": "К1алэр '''джагъэ'''",
+            "translation": "The boy '''called'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -85565,7 +85822,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "shroud (the dress for the dead; a winding sheet.)",
+        "meaning": "shroud material (cloth and accessories)",
         "examples": []
       }
     ],
@@ -85577,17 +85834,70 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "pit",
-        "examples": []
-      },
-      {
-        "meaning": "hole (in the ground)",
-        "examples": []
+        "meaning": "pit; hole (in the ground)",
+        "examples": [
+          {
+            "sentence": "'''Машэр''' курбэу ч1ыгум хэт1ык1ыгъэр ары",
+            "translation": "'''A pit''' is a hole that was dug out of the group."
+          },
+		  {
+            "sentence": "Л1ым '''машэ''' ыт1ыгъ"
+            "translation": "The man dug '''a hole'''."
+          }
+        ]
       }
     ],
     "kabardian": "мащэ",
     "type": "noun",
     "ipa": "maːʃa"
+  },
+  {
+    "word": "т1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to dig",
+        "examples": [
+          {
+            "sentence": "Къазгъырымк1э '''мат1эх'''",
+            "translation": "They are '''digging''' with the shovel."
+          },
+		  {
+            "sentence": "К1алэм машэ '''ыт1ыгъ'''",
+            "translation": "The boy '''dug''' a hole."
+          },
+		  {
+            "sentence": "К1алэм курб '''ет1ы''' къэгъагъэ рилъхьанэу",
+            "translation": "The boy '''digs''' a hole to put flower in it."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "тхъун"
+    ],
+    "type": "verb",
+    "ipa": "tʼən"
+  },
+  {
+    "word": "хэт1ык1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to dig out",
+        "examples": [
+		  {
+            "sentence": "К1алэм машэ ч1ыгум '''хит1ык1ыгъ'''",
+            "translation": "The boy '''dug out''' a hole in the group."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "хэтхъук1ын"
+    ],
+    "type": "verb",
+    "ipa": "tʼən"
   },
   {
     "word": "гугъын",
@@ -85606,7 +85916,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to think that, to suppose; to reckon",
+        "meaning": "to think that; to suppose; to reckon",
         "examples": [
           {
             "sentence": "К1алэм чъы1агъ '''еш1ош1ы'''",
@@ -85621,12 +85931,12 @@
             "translation": "'''I don't think''' that."
           },
           {
-            "sentence": "А к1алэм сынахь к1уач1 '''сыш1ош1эгъ'''",
-            "translation": "'''I thought''' i was stronger then him."
+            "sentence": "А к1алэм сынахь к1уач1 '''сыш1ош1ыгъ'''",
+            "translation": "'''I thought''' I was stronger than him."
           },
           {
-            "sentence": "К1алэм тестыр къыныщт '''иш1ош1эгъ''', ау 1эш1эхэу къыч1эк1ыжьэгъ",
-            "translation": "The boy '''thought''' the test gonna be hard, but it was easy."
+            "sentence": "К1алэм тестыр къиныщт '''ыш1ош1ыгъ''', ау 1эш1эхэу къыч1эк1ыжьыгъ",
+            "translation": "The boy '''thought''' the test is going to be hard, but it turned out to be easy."
           }
         ]
       },
@@ -85640,9 +85950,7 @@
         ]
       }
     ],
-    "synonyms": [
-      "ш1ош1ун"
-    ],
+    "shapsug": "ш1ош1ун",
     "kabardian": "ф1эщ1ын",
     "type": "verb",
     "ipa": "ʃʷaʃʼən"
@@ -85684,7 +85992,7 @@
         "meaning": "to hurry",
         "examples": [
           {
-            "sentence": "Iофыр шIэхэу ыгъэцэкIэным пае '''тхъытхъын''' фэягъэ",
+            "sentence": "1офыр ш1эхэу ыгъэцэк1эным пае '''тхъытхъын''' фэягъэ",
             "translation": "He had '''to hurry''' in order to do the work quickly."
           }
         ]
@@ -85706,12 +86014,16 @@
         "meaning": "to worry",
         "examples": [
           {
-            "sentence": "Сиянэ '''мэгу1э'''",
+            "sentence": "'''Сэгу1агъ''' зыгорэ хъущтык1э",
+            "translation": "'''I was worried''' something was going to happen."
+          },
+		  {
+            "sentence": "Сянэ '''мэгу1э'''",
             "translation": "My mother '''worries'''."
           },
           {
-            "sentence": "Лъыжъым ыкъо заом мак1ом, '''гу1эу''' шысыгъ",
-            "translation": "When the old-man's son went to war, he was sitting '''worried'''."
+            "sentence": "Лъыжъым ыкъо заом зэк1ом, '''гу1эщтыгъагъ'''",
+            "translation": "When the old-man's son went to war, '''he was worried'''."
           },
           {
             "sentence": "'''Умыгуа1''', экзамыныр 1эш1эхэу къыч1эк1ыжьын",
@@ -85719,7 +86031,7 @@
           },
           {
             "sentence": "Ц1ык1у ц1ык1у, '''сэбэгъэгу1э'''",
-            "translation": "Slowly slowly, '''you're making me worry'''."
+            "translation": "Slowly, slowly, '''you're making me worry'''."
           }
         ]
       }
@@ -85746,15 +86058,21 @@
     "definitions": [
       {
         "meaning": "patient",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ц1ыфыр '''самбыр'''",
+            "translation": "The person '''is patient'''."
+          }
+        ]
       },
       {
-        "meaning": "calm",
-        "examples": []
-      },
-      {
-        "meaning": "quiet",
-        "examples": []
+        "meaning": "calm, pacific",
+        "examples": [
+          {
+            "sentence": "Сабый '''самбыр'''",
+            "translation": "'''A calm''' child."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -85777,6 +86095,48 @@
     "ipa": "saːmbərən"
   },
   {
+    "word": "к1ым-сым",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "an expression of silence",
+		"examples": [
+          {
+            "sentence": "Чэщ '''к1ы-сым'''",
+            "translation": "A silent '''night'''."
+          },
+		  {
+            "sentence": "К1ым-сым, зыгори къэ1урэп",
+            "translation": "'''Silent''', nothing was heard."
+          }
+        ]
+      }
+    ],
+    "type": "init",
+    "ipa": "t͡ʃʼəm-səm"
+  },
+  {
+    "word": "1эмэкъэ-лъэмакъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "noise (from the movement of arms and legs)",
+        "examples": [
+          {
+            "sentence": "'''1эмэкъэ-лъэмакъэ''' къэ1угъ",
+            "translation": "'''A noise''' was heard."
+          },
+		  {
+            "sentence": "Зи '''1эмэкъэ-лъэмакъэ''' къэ1урэп",
+            "translation": "No '''noise''' was heard."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʔamaqa-ɬamaːq"
+  },
+  {
     "word": "естыл1эн",
     "lang": "Adyghe",
     "definitions": [
@@ -85784,12 +86144,12 @@
         "meaning": "to stick to the (hot) surface as a result of burning",
         "examples": [
           {
-            "sentence": "Шхыныр '''естыл1агъ'''",
-            "translation": "The food '''was stuck (from burning)'''."
+            "sentence": "Шхыныр жъапхъэм '''естыл1агъ'''",
+            "translation": "The food '''was stuck inside''' the pan."
           },
           {
-            "sentence": "Щыуан нэзым '''естылIагъ'''",
-            "translation": "'''It stuck (from burning)''' on edge of the pot."
+            "sentence": "Лыр щыуан нэзым '''естыл1агъ'''",
+            "translation": "The meat '''stuck''' on edge of the pot."
           }
         ]
       }
@@ -85802,19 +86162,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to stick to the (hot) surface as a result of burning",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "t͡ʃʼarəstəħaːn"
-  },
-  {
-    "word": "к1эрыстыхьан",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to stick to the (hot) surface as a result of burning",
+        "meaning": "to burn under",
         "examples": []
       }
     ],
@@ -85827,23 +86175,16 @@
     "definitions": [
       {
         "meaning": "to burn slightly",
-        "examples": []
-      },
-      {
-        "meaning": "to crisp",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "ɮət͡sʼan"
-  },
-  {
-    "word": "лыц1агъэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "crispy",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Лыр '''мэлыц1э'''",
+            "translation": "The meat '''is burning slightly'''."
+          },
+		  {
+            "sentence": "Лыр '''лыц1энэу''' ежьагъ",
+            "translation": "The meat started '''to burn slightly'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -85854,12 +86195,50 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "nettle",
-        "examples": []
+        "meaning": "(plant) nettle",
+        "examples": [
+          {
+            "sentence": "'''Пшэсэныр''' уц ытхьапэ узынэск1э у1эр бжьыбжьэу ыш1ыщт",
+            "translation": "Nettle is a plant that when you touch its leaves, it will cause an instant rash on your hand."
+          },
+		  {
+            "sentence": "'''Пшэсэным''' у1эр ыгъэбжьыбжьыщт",
+            "translation": "'''A nettle''' will burn your hand."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "pʃasan"
+  },
+  {
+    "word": "бжьыбжьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to feel a rash; to feel burning sensation on the skin",
+        "examples": [
+          {
+            "sentence": "Спшъэбы укъыздаом спшъэбы '''бжьыбжьэу''' ежьагъ",
+            "translation": "When you slap my neck, my neck started to '''burn'''."
+          },
+		  {
+            "sentence": "Спшъэбы укъыдауи '''угъэбжьыбжьыгъ'''",
+            "translation": "You slap my neck and '''you made it burn'''."
+          },
+		  {
+            "sentence": "Пшэсэным у1эр '''ыгъэбжьыбжьыщт'''",
+            "translation": "A nettle '''will burn''' your hand."
+          },
+		  {
+            "sentence": "Пшэсэныр уц ытхьапэ узынэск1э у1эр '''бжьыбжьэу''' ыш1ыщт",
+            "translation": "Nettle is a plant that when you touch its leaves, it will '''cause an instant rash''' on your hand."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "bʑəbʑən"
   },
   {
     "word": "тегъэк1эн",
@@ -85903,12 +86282,38 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "back (body), rear",
-        "examples": []
+        "meaning": "close back, rear",
+        "examples": [
+          {
+            "sentence": "Гъогумк1э, сак1ыб дэт кур '''спхэк1ы''' къехьэ",
+            "translation": "On the road, the car behind me is coming to my rear."
+          },
+		  {
+            "sentence": "Кум '''ыпхэк1ы''' уимыхь",
+            "translation": "Don't get close to the car's '''rear'''."
+          },
+		  {
+            "sentence": "К1алэм '''ыпхэк1ы''' уитэу лъык1у",
+            "translation": "Follow the boy while being close to '''his back'''."
+          },
+		  {
+            "sentence": "Кур '''упхэк1ык1э''' къыпжэхэхьагъ",
+            "translation": "The car collapsed against you '''from the back'''."
+          },
+		  {
+            "sentence": "К1алэхэр '''зэпхэк1ы''' итыхэу мак1ох",
+            "translation": "The boys are going one after the other's '''back'''."
+          }
+        ]
       },
       {
-        "meaning": "buttock",
-        "examples": []
+        "meaning": "bottom, buttocks, asscheek, arsecheek, butt-cheek",
+        "examples": [
+          {
+            "sentence": "'''Спхэк1''' мэузы",
+            "translation": "'''My buttocks''' hurts."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -89596,6 +90001,10 @@
           {
             "sentence": "Хьэр '''щэгъутхьэ''' щагум",
             "translation": "The dog '''urinates''' in the yard."
+          },
+		  {
+            "sentence": "Нахь бэрэ сызщэ1эшъущтэп, джы '''сыгъутхьан''' фай",
+            "translation": "I cannot hold it any longer, I need '''to pee''' now."
           }
         ]
       }
@@ -97327,7 +97736,12 @@
       },
       {
         "meaning": "pot, cooker",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Лыр '''щыуаным''' естыл1агъ",
+            "translation": "The meat stuck inside '''the pot'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -98163,6 +98577,10 @@
 		  {
             "sentence": "Зы мы1эрыс матэм '''къинэжьыгъ'''",
             "translation": "One apple '''was left''' in the basket."
+          },
+		  {
+            "sentence": "Матиматикэмк1э ык1ыб '''сыкъинагъ'''",
+            "translation": "'''I was left''' behind in math."
           }
         ]
       }
@@ -105219,7 +105637,12 @@
     "definitions": [
       {
         "meaning": "axe handle, helve",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Л1ым '''ощык1ыр''' пилъхьагъ",
+            "translation": "The man put the '''axe-handle'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -105235,7 +105658,12 @@
     "definitions": [
       {
         "meaning": "axe handle, helve",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Л1ым отычым '''отычык1ыр''' пилъхьагъ",
+            "translation": "The man put the '''axe-handle''' on the axe."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -108854,7 +109282,12 @@
       },
       {
         "meaning": "dull, blunt",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Шъэжъыер '''цако'''",
+            "translation": "The knife '''is dull."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -109241,10 +109674,6 @@
     "definitions": [
       {
         "meaning": "to crumble, to fall to pieces; to disintegrate",
-        "examples": []
-      },
-      {
-        "meaning": "to crunch",
         "examples": []
       }
     ],
