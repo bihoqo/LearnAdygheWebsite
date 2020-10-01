@@ -6096,12 +6096,42 @@
         "meaning": "rain",
         "examples": [
           {
+            "sentence": "'''Ощхыр''' псы ошъуапщэмэ къач1эк1ыни ч1ыгум къетк1охынхэр",
+            "translation": "'''Rain''' is water coming out of the clouds and dropping down to earth."
+          },
+		  {
             "sentence": "'''Ощхы''' къещхы",
             "translation": "It is raining '''rain'''."
           },
           {
             "sentence": "'''Ощхым''' ухэмыхь",
             "translation": "Don't enter '''the rain'''."
+          }
+        ]
+      }
+    ],
+    "kabardian": "уэшх",
+    "type": "noun",
+    "ipa": "waɕxə"
+  },
+  {
+    "word": "къетк1ухын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to drip down; to drop down drops of liquid; to pour down drops of liquid",
+        "examples": [
+          {
+            "sentence": "Ощхыр псы ошъуапщэмэ къач1эк1ыни ч1ыгум '''къетк1охынхэр'''",
+            "translation": "Rain is water coming out of the clouds and '''dropping down''' to earth."
+          },
+		  {
+            "sentence": "Псы к1ашъомк1э '''къетк1ухы'''",
+            "translation": "Water '''is dripping down''' from the ceiling."
+          },
+          {
+            "sentence": "Ощхэу унашъхьэм къытещхэрэр унашъхьэм '''къетк1ухи''' щыгум дэтк1ужьы",
+            "translation": "The rain that falls on the roof '''drips down''' into the yard."
           }
         ]
       }
@@ -74635,6 +74665,10 @@
 		  {
             "sentence": "Ц1ыфыхэр '''гъоч1эгъым''' ч1эхьагъэх",
             "translation": "The people went inside '''the cave'''."
+          },
+		  {
+            "sentence": "'''Гъоч1эгъым''' чэщыбзыухэр ч1эсых",
+            "translation": "The bats are in '''the cave'''"
           }
         ]
       }
@@ -85724,7 +85758,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "at once; right away",
+        "meaning": "at once; right away; straight away",
         "examples": [
           {
             "sentence": "'''зэк1эм''' к1о",
@@ -85737,6 +85771,10 @@
           {
             "sentence": "ащ '''зэк1эм''' зэк1э къыгуры1уагъ",
             "translation": "(s)he understood everything '''at once'''"
+          },
+		  {
+            "sentence": "ар '''зэк1эм''' к1ыфы къэхъугъ",
+            "translation": "(s)he became pale '''straight away'''."
           }
         ]
       },
@@ -85746,10 +85784,6 @@
           {
             "sentence": "ар '''зэк1эм''' к1ыфы къэхъугъ",
             "translation": "(s)he '''suddenly''' became pale."
-          },
-          {
-            "sentence": "'''зэк1эм''' ощх къешхыгъ",
-            "translation": "'''Suddenly''' it started to rain."
           }
         ]
       }
@@ -86795,9 +86829,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to embarrass; to humiliate; to shame; to make someone embarrassed",
+        "meaning": "to embarrass; to humiliate; to shame; to make someone embarrassed; to disgrace someone",
         "examples": [
           {
+            "sentence": "О уятэ '''хьайнапэу умыш1'''",
+            "translation": "'''Don't disgrace''' your father."
+          },
+		  {
             "sentence": "Пшъашъэр к1алэм ынэгушъо еуи '''хьайнапэу ыш1ыгъ'''",
             "translation": "The girl slapped the boy's cheek and '''embarrassed him'''."
           },
@@ -87299,10 +87337,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "God forbid, may god not allow it",
+        "meaning": "God forbid, may God not allow it",
         "examples": [
           {
-            "sentence": "'''Тхьэм емыд''' к1алэр мысымэджэнэу",
+            "sentence": "'''Тхьэм емыд''' к1алэр сымэджэнэу",
             "translation": "'''God forbid''' the boy from getting sick."
           }
         ]
@@ -87316,8 +87354,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "I am ruined (beset with unfortunate circumstances that seem difficult or impossible to overcome)",
-        "examples": []
+        "meaning": "I am doomed; I am ruined (beset with unfortunate circumstances that seem difficult or impossible to overcome)",
+        "examples": [
+          {
+            "sentence": "'''Сыунэхъугъ''', джы сыд сыш1эщтыр?",
+            "translation": "'''I am doomed''', what am I going to do now?"
+          }
+        ]
       }
     ],
     "type": "phrase",
@@ -87332,8 +87375,20 @@
         "examples": []
       }
     ],
-    "type": "noun",
+    "type": "verb",
     "ipa": "paɕam"
+  },
+  {
+    "word": "пэщагъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "command, leadership",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "aːʁa"
   },
   {
     "word": "пэк1эрэплъын",
@@ -87352,15 +87407,23 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to look after",
+        "meaning": "to look after; to take care of",
         "examples": [
           {
-            "sentence": "К1алэр и шыпхъу '''пык1эрэплъы'''",
+            "sentence": "К1алэр ышыпхъу '''пык1эрэплъы'''",
             "translation": "The boy '''is looking after''' his sister."
           },
           {
             "sentence": "К1алэц1ык1ум '''пык1эрэплъ'''",
             "translation": "'''Look after''' the little boy."
+          },
+          {
+            "sentence": "Пшъашъэр ежь ищылъак1э '''пык1эрэплъы'''",
+            "translation": "The girl '''is looking after''' her own dressing."
+          },
+          {
+            "sentence": "К1алэр ику '''пык1эрэплъы'''",
+            "translation": "The young man '''is taking care of''' his car."
           }
         ]
       }
@@ -87378,6 +87441,18 @@
           {
             "sentence": "1анэм псы '''тебэк1утэ!'''",
             "translation": "'''You are spilling''' water on the table!"
+          },
+		  {
+            "sentence": "Ощх псыхэр унашъхьэм '''къытек1утэх'''",
+            "translation": "The rain drops are '''pouring on''' the roof."
+          },
+		  {
+            "sentence": "Псы '''къэстебэк1утэ'''",
+            "translation": "'''You're spilling''' water '''on me'''."
+          },
+		  {
+            "sentence": "Джэхашъом колэ '''тек1утагъ'''",
+            "translation": "Cola '''was spilled''' on the floor."
           }
         ]
       }
@@ -87393,17 +87468,25 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to drip on (to let fall in drops)",
+        "meaning": "to drip on (to let fall in drops, one at a time)",
         "examples": [
           {
             "sentence": "1анэм псы '''тетк1о'''",
             "translation": "Water '''is dripping''' on the table."
+          },
+		  {
+            "sentence": "Къещхырэ псыр '''къэстетк1о'''",
+            "translation": "The raining water '''is dripping on me'''."
+          },
+		  {
+            "sentence": "К1ашъом псы къыч1эк1и джэхашъом '''тетк1о'''",
+            "translation": "Water is coming from the ceiling and '''dripping on''' the floor."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "tajkʷʼətan"
+    "ipa": "tajkʷʼan"
   },
   {
     "word": "шъхьэ1ужъу",
@@ -87422,11 +87505,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "your work is not well (Used to express: You will be in a really problematic situation)",
+        "meaning": "your work is not well (used to express: you will be in a really problematic situation)",
         "examples": [
           {
             "sentence": "Къак1орэ экзамыным ублэмык1ымэ, '''уи1оф ш1оп'''",
-            "translation": "If you don't pass the upcoming exam, '''your work is not well'''."
+            "translation": "If you don't pass the upcoming exam, '''your situation will not be well'''."
           }
         ]
       }
@@ -87440,7 +87523,16 @@
     "definitions": [
       {
         "meaning": "to put someone in a troublesome situation",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''1офым тыхэбдзагъ'''",
+            "translation": "'''You put us in a troublesome situation'''."
+          },
+		  {
+            "sentence": "Экзамыным '''1офым сыхидзагъ'''",
+            "translation": "The exam '''put me in a troublesome situation'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -87456,6 +87548,10 @@
           {
             "sentence": "Пчъэр '''егъэтыгъ'''",
             "translation": "The door '''is locked'''."
+          },
+		  {
+            "sentence": "Къутэр '''егъэтыгъ'''",
+            "translation": "The box '''is locked'''."
           }
         ]
       }
@@ -87464,29 +87560,29 @@
     "ipa": "jaʁatəʁ"
   },
   {
-    "word": "нао",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "a bit (few) (Abzakh dialect)",
-        "examples": [
-          {
-            "sentence": "1елэм шхын '''нао''' ышхыгъэ",
-            "translation": "The boy ate '''a bit of''' food."
-          }
-        ]
-      }
-    ],
-    "type": "adv",
-    "ipa": "naːwa"
-  },
-  {
     "word": "хын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to mow, to cut",
-        "examples": []
+        "meaning": "to reap, to cut (for example a grain) with a sickle, scythe, or reaping machine)",
+        "examples": [
+          {
+            "sentence": "Коцыр '''хын'''",
+            "translation": "'''To reap''' wheat."
+          },
+		  {
+            "sentence": "Мэщыр тыхын фае",
+            "translation": "'''We''' need to '''reap''' the millet."
+          },
+		  {
+            "sentence": "Л1ым коцыр '''ехы'''",
+            "translation": "The man '''reaps''' wthe heat."
+          },
+		  {
+            "sentence": "Л1ыхэмэ коцыр '''ахыжьы'''",
+            "translation": "The men '''are reaping''' the wheat."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -87497,11 +87593,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to make out, to discern",
+        "meaning": "to make out; to make sense; to comprehend; to understand or grasp fully and thoroughly",
         "examples": [
           {
             "sentence": "Хъурэр джэгумк1э '''зэхэсыш1ык1ырэп'''",
-            "translation": "'''I can't make out''' what happening in the game."
+            "translation": "'''I can't make out''' what happens in the game."
+          },
+		  {
+            "sentence": "Джэгумк1э хъурэр '''зэхэсш1ык1ышъурэп''', ц1ыфы бащэ джэгу",
+            "translation": "'''I can't understand''' what happens in the game, there is too many people playing."
           },
           {
             "sentence": "К1алэм ытхыгъэр к1элэегъаджэм '''зэхыш1ык1ырэп'''",
@@ -87514,6 +87614,7 @@
         ]
       }
     ],
+    "shapsug": "зэхэш1ык1ьын",
     "type": "verb",
     "ipa": "zaxaʃʼət͡ʃʼən"
   },
@@ -87522,28 +87623,18 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to twist",
-        "examples": []
-      },
-      {
-        "meaning": "to whirl, to spin",
-        "examples": []
+        "meaning": "to whirl, to twist",
+        "examples": [
+          {
+            "sentence": "Патефоным ык1 '''гъэчэрэгъун''' фае",
+            "translation": "You need '''to whirl''' the gramophone's tail."
+          }
+        ]
       }
     ],
+    "shapsug": "гъэкьэрэгъун",
     "type": "verb",
     "ipa": "ʁat͡ʃaraʁʷən"
-  },
-  {
-    "word": "гъэкьэрэгъун",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"гъэчэрэгъун\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "ʁakaraʁʷən"
   },
   {
     "word": "лые",
@@ -87552,23 +87643,32 @@
       {
         "meaning": "spare; extra (beyond what is due, usual, expected, or necessary); superfluous, excess, spare",
         "examples": [
-          {
-            "sentence": "билет '''лые''' горэ шъуи1эба?.",
-            "translation": "Do you have an '''spare''' ticket?"
+		  {
+            "sentence": "тикит '''лые''' горэ шъуи1а?",
+            "translation": "Do you have a '''spare''' ticket?"
           },
           {
             "sentence": "Ар '''лые''' хъугъэ",
-            "translation": "He/she/it became '''extra'''."
+            "translation": "It became '''extra'''."
           },
           {
             "sentence": "Ц1ыф '''лые''' щы1эп",
-            "translation": "There is no '''spare''' person."
+            "translation": "There are no '''extra''' people."
           }
         ]
       },
       {
         "meaning": "harm, damage",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "К1алэм '''лые''' къысихыгъ",
+            "translation": "The boy '''brought me harm'''"
+          },
+		  {
+            "sentence": "К1алэм '''лые''' л1ым рихыгъ",
+            "translation": "The boy '''brought harm''' to the man"
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -87580,7 +87680,12 @@
     "definitions": [
       {
         "meaning": "bat",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Гъоч1эгъым '''чэщыбзыухэр''' ч1эсых",
+            "translation": "'''The bats''' are in the cave"
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -87594,8 +87699,38 @@
         "meaning": "to whisper",
         "examples": [
           {
-            "sentence": "ащ '''Iушъэшъэныр''' икIас",
+            "sentence": "К1алэр '''мэ1ушъашъэ''",
+            "translation": "The boy '''whispers'''."
+          },
+		  {
+            "sentence": "Ащ '''1ушъэшъэныр''' ик1ас",
             "translation": "He likes '''to whisper'''."
+          }
+        ]
+      }
+    ],
+    "kabardian": "1ущэщэн",
+    "type": "verb",
+    "ipa": "ʔʷəʂaʂan"
+  },
+  {
+    "word": "е1ушъэшъэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to whisper to",
+        "examples": [
+          {
+            "sentence": "К1алэр пшъашъэм '''е1ушъашъэ'''",
+            "translation": "The boy '''whispers to''' the girl."
+          },
+		  {
+            "sentence": "Пшъашъэр стхьак1умэ '''е1ушъашъэ'''",
+            "translation": "The girl '''whispers to''' my ear."
+          },
+		  {
+            "sentence": "К1алэр '''къысэ1ушъашъэ'''",
+            "translation": "The boy '''whispers to me'''."
           }
         ]
       }
@@ -87627,7 +87762,7 @@
         "meaning": "simple, basic",
         "examples": [
           {
-            "sentence": "Бгырыпх '''Iэпс-лъэпс''' ыбгы илъ",
+            "sentence": "Бгырыпх '''1эпс-лъэпс''' ыбгы илъ",
             "translation": "A '''simple''' belt is on his waist."
           }
         ]
@@ -87714,16 +87849,16 @@
         "meaning": "to sneak up to",
         "examples": [
           {
+            "sentence": "Шак1ор '''мэк1уашъэ'''",
+            "translation": "The hunter '''is sneaking up'''."
+          },
+		  {
             "sentence": "Шак1ор бланэм '''ек1уашъэ'''",
             "translation": "The hunter '''is sneaking up to''' the deer."
           },
           {
             "sentence": "К1алэр '''къысэк1уашъэ''' сымыш1эу",
             "translation": "The boy '''is sneaking me''' without me knowing."
-          },
-          {
-            "sentence": "Уи1оф жъажъэу зэрапш1эрэм '''сыкъегъэхы'''",
-            "translation": "The slow way you're doing your work '''is irritating me'''."
           }
         ]
       }
@@ -87733,29 +87868,17 @@
     "ipa": "jakʷʼaʂan"
   },
   {
-    "word": "мэк1ошъэн",
+    "word": "к1ошъэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to sneak up",
+        "meaning": "alternative form of \"мэк1ошъэн\"",
         "examples": [
           {
             "sentence": "Шак1ор '''мэк1уашъэ'''",
             "translation": "The hunter '''is sneaking up'''."
           }
         ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "makʷʼaʂan"
-  },
-  {
-    "word": "к1ошъэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"мэк1ошъэн\"",
-        "examples": []
       }
     ],
     "type": "verb",
@@ -87766,17 +87889,21 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "suddenly",
+        "meaning": "suddenly; out of nowhere; out of the blue; unexpectedly",
         "examples": [
           {
-            "sentence": "К1алэр '''ошIэ-дэмышIэу''' унэм къихьагъ",
+            "sentence": "К1алэр '''ош1э-дэмыш1эу''' унэм къихьагъ",
             "translation": "The boy '''suddenly''' entered the house."
+          },
+		  {
+            "sentence": "Хьэр '''ош1э-дэмыш1эу''' къачъэу ыублагъ",
+            "translation": "The dog '''suddenly''' start to run [here]."
+          },
+          {
+            "sentence": "'''Ош1э-дэмыш1эу''' ощх къещхыгъ",
+            "translation": "'''Suddenly''' it started to rain."
           }
         ]
-      },
-      {
-        "meaning": "unexpectedly",
-        "examples": []
       }
     ],
     "type": "adv",
@@ -87823,7 +87950,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"гъолагъу\"",
+        "meaning": "alternative form of \"гъонлагъэ\"",
         "examples": []
       }
     ],
@@ -87836,7 +87963,12 @@
     "definitions": [
       {
         "meaning": "to do intentionally",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм л1ыр ыук1ыгъ '''ыш1эрэр ыш1эу'''",
+            "translation": "The boy killed the man '''knowing what he was doing'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -87859,11 +87991,23 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "shame; shameful; shamefulness",
+        "meaning": "shame; shameful; shamefulness; embarrassment",
         "examples": [
           {
-            "sentence": "'''Хьаинап''' уш1эрэба",
+            "sentence": "'''Хьаинапыр''' уш1эрэба",
             "translation": "Don't you know '''shame'''?."
+          },
+		  {
+            "sentence": "К1алэр '''хьаинапэу''' хъугъэ",
+            "translation": "The boy became '''embarrassed'''."
+          },
+		  {
+            "sentence": "К1алэр джанэу зыщилъагъэр '''хьаинап'''",
+            "translation": "The clothes the boy wore '''is shameful'''."
+          },
+		  {
+            "sentence": "К1алэр ''хьаинапэу''' зек1уагъ",
+            "translation": "The boy behaved '''shamefully'''."
           }
         ]
       },
@@ -87881,6 +88025,14 @@
           {
             "sentence": "'''Хьаинап''' пш1агъэр",
             "translation": "What you did was '''disgrace'''."
+          },
+		  {
+            "sentence": "Ар '''хьаинапыр'''",
+            "translation": "That's a '''disgrace'''."
+          },
+		  {
+            "sentence": "'''Хьаинап''' хъугъэр",
+            "translation": "What happened was a '''disgrace'''."
           }
         ]
       }
@@ -87912,34 +88064,18 @@
         "meaning": "to shame someone; to disgrace someone",
         "examples": [
           {
-            "sentence": "О уиятэ '''ыпапэр темых'''",
+            "sentence": "О уятэ '''ыпапэр темых'''",
             "translation": "'''Don't disgrace''' your father."
+          },
+		  {
+            "sentence": "К1алэм '''сыпапэ техыгъ'''",
+            "translation": "The boy '''disgraced''' me."
           }
         ]
       }
     ],
     "synonyms": [
       "хьайнапэу ш1ын"
-    ],
-    "type": "verb",
-    "ipa": "naːpar tajxən"
-  },
-  {
-    "word": "хьайнапэу ш1ын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to shame someone; to disgrace someone",
-        "examples": [
-          {
-            "sentence": "О уиятэ '''хьайнапэу умыш1'''",
-            "translation": "'''Don't shame''' your father."
-          }
-        ]
-      }
-    ],
-    "synonyms": [
-      "папэр тепхын"
     ],
     "type": "verb",
     "ipa": "naːpar tajxən"
@@ -89899,7 +90035,7 @@
     "ipa": "t͡sʼaɬan"
   },
   {
-    "word": "гъолагъэ",
+    "word": "гъонлагъ",
     "lang": "Adyghe",
     "definitions": [
       {

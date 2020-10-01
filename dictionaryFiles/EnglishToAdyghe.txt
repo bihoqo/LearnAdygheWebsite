@@ -1695,7 +1695,7 @@
     "to fall": "ебэджын (to fall on the ground); тебэджэн (to fall on something by slipping); ефэхын / къефэхын (to fall downward); едзыхын / къедзыхын (to fall downward); ет1эрэхын / къет1эрэхын (to drop downward); тет1эрын (to drop from); зэтефэн (to drop on each other); зэхэфэн (to drop into each other); ук1орэин"
   },
   {
-    "to drop": "1эпызын (to drop from the hand); къизын (to drop from inside something); къетк1ухын (to drip from); 1эпызын (to drop unintentionally); 1эпыт1эрын (to let slip unintentionally); къытезын (to drop from); къыпызын (to drop off a tree); къыпытэкъун (to drop from the tree around it); зэтефэн (to drop on each other); зэхэфэн (to drop into each other); 1эк1эзын (to drop something unintentionally from the hand); пызын / къыпызын (to drop off from a tree); изын / къизын (to drop off from inside something); тезын / къытезын (to drop off from above something); ч1эзын / къыч1эзын (to drop off from under something); зэтетэкъун (to drop off from each other)"
+    "to drop": "1эпызын (to drop from the hand); къизын (to drop from inside something); къетк1ухын (to drip from, to drop down drops of liquid); 1эпызын (to drop unintentionally); 1эпыт1эрын (to let slip unintentionally); къытезын (to drop from); къыпызын (to drop off a tree); къыпытэкъун (to drop from the tree around it); зэтефэн (to drop on each other); зэхэфэн (to drop into each other); 1эк1эзын (to drop something unintentionally from the hand); пызын / къыпызын (to drop off from a tree); изын / къизын (to drop off from inside something); тезын / къытезын (to drop off from above something); ч1эзын / къыч1эзын (to drop off from under something); зэтетэкъун (to drop off from each other); тетк1он (to drip liquid on something one drop at a time)"
   },
   {
     "to meet": "тефэн (to come across, to encounter coincidentally); 1ук1эн (to meet); пэгъок1ын (to welcome, to approach, to encounter intentionally); зэ1ук1эн (to meet up)"
@@ -2094,7 +2094,7 @@
     "to take": "щэн (to take/lead someone to somewhere); хьын (to take/carry something to somewhere); штэн / къэштэн (to grab something to take); ш1охьын (to take something from someone against his interest or will); 1ыхын / къы1эхын (to take something from someone by hand); техын / къытехын (to take off something from above something); ч1эхын / къыч1эхын (to take something from under something); дэхын / къыдэхын (to take something from inside another object); ихын / къыихын (to take something from inside something); пыхын / къыпыхын (to take down from a hanging position, to unhang); хэхын / къыхэхын (to take something from through something or from an area with gas or liquid); къохын / къыкъохын (to take something from behind something); гохын / къыгохын / бгъодэхын / къыбгъодэхын (to take something from besides something); к1оц1ыхын / къык1оц1ыхын (to take something from inside something's body); тещэн (to take/lead someone to above something); хэщэн (to take/lead someone to among other people or objects); хэщэн (to take/lead someone to an area liquid, gas, plants or trees); дэщэн (to take/lead someone to a yard); ищэн (to take/lead someone to inside something); къощэн (to take/lead someone to behind something); пыхын (to take something like knowledge, behavior from someone); дэщэен (to lead/take someone up); ещэхын (to lead/take someone down); къещэк1ын (to take/lead someone around)"
   },
   {
-    "to grasp": "къэубытын (to take hold, to grib, to grasp, to catch and hold, to grab by catching); зы1эк1эубытэн"
+    "to grasp": "къэубытын (to take hold, to grib, to grasp, to catch and hold, to grab by catching); зы1эк1эубытэн; зэхэш1ык1ын (to comprehend; to understand or grasp fully and thoroughly)"
   },
   {
     "to take hold": "къэубытын (to take hold, to grib, to grasp, to catch and hold, to grab by catching); зы1эк1эубытэн"
@@ -3867,7 +3867,7 @@
     "to cleave": "гоутын; зэгоутын; зэгогъэк1ын; зэгогъэлэтхъын"
   },
   {
-    "to cut": "бзын (to cut with scissors or knife or sword); пыупк1ын (to cut off something from); гоупк1ын (to cut off the side); иупк1ын (to cut down a tree); ш1обзын (to slice); упк1эн (to mow); упхъун (to cut hair or fur or grass); к1эупхъухьан (to take a haircut); хэупк1ын (to cut out a piece from); хэбзык1ын (to cut off); упк1эн (to mow); хын (to mow)"
+    "to cut": "бзын (to cut with scissors or knife or sword); пыупк1ын (to cut off something from); гоупк1ын (to cut off the side); иупк1ын (to cut down a tree); ш1обзын (to slice); упк1эн (to mow); упхъун (to cut hair or fur or grass); к1эупхъухьан (to take a haircut); хэупк1ын (to cut out a piece from); хэбзык1ын (to cut off); упк1эн (to mow, to cut down grass or crops); хын (to reap, to cut (for example a grain) with a sickle, scythe, or reaping machine))"
   },
   {
     "to cut down": "иупк1ын"
@@ -4665,13 +4665,13 @@
     "to rub in": "щыфэн; тефэхьан; теуц1элэн"
   },
   {
-    "to spill": "тек1утэн (to spill drops on); ч1эк1утэн (to spill drops under); ик1утэн (to spill drops inside); тек1эн (to spill on); хэк1эн (to spill a liquid to another liquid); ик1эн (to spill inside); ч1эк1эн (to spill under); жэхэк1эн (to spill on someone intensively); ек1эхын (to pour down); хэк1утэн (to drip something into something like a fire, food, any substance, any liquid, etc.)"
+    "to spill": "тек1утэн (to spill drops on); ч1эк1утэн (to spill drops under); ик1утэн (to spill drops inside); тек1эн (to spill on); хэк1эн (to spill a liquid to another liquid); ик1эн (to spill inside); ч1эк1эн (to spill under); жэхэк1эн (to spill on someone intensively); ек1эхын (to pour down); хэк1отэн (to drip something into a fire, food, any substance, any liquid, etc.)"
   },
   {
-    "to drip": "къетк1ухын (to drop small amount of liquid on something one drop at a time); тетк1он (to fall one drop on something one drop at a time); т1эт1эн (to be dripping, sticky substances), тегъэт1эт1эн (to drip sticky substances on); тет1эт1эн (to be dripping on, sticky substances); хэк1утэн (to drip something into something like a fire, food, any substance, any liquid, etc.)"
+    "to drip": "къетк1ухын (to drip down, to drop down); тетк1он (to drip liquid on something one drop at a time); т1эт1эн (to be dripping, sticky substances), тегъэт1эт1эн (to drip sticky substances on); тет1эт1эн (to be dripping on, sticky substances); хэк1отэн (to drip something into a fire, food, any substance, any liquid, etc.); дэтк1он (to drip into an object or yard)"
   },
   {
-    "to pour": "игъэхъон; ик1эн (intensive); ик1утэн (slightly intensive); ек1эхын (to pour down)"
+    "to pour": "къетк1ухын (to pour down, to drip down, to drop down); игъэхъон; ик1эн (intensive); ик1утэн (slightly intensive); ек1эхын (to pour down); тетк1он (to drip liquid on something one drop at a time); к1эгъэхьан (to water plants)"
   },
   {
     "to fill": "игъэхъон (liquid); узэндын (to load); изэу ш1ын (to make full)"
@@ -8469,7 +8469,7 @@
     "to honor": "лъытэн; пхъатэ етын; пхъатэ фэш1ын"
   },
   {
-    "to understand": "гуры1он / къыгуры1он (to understand meaning); хэхьан (to get it); зэхэхын (to make out clearly what have been said or heard); (Shapsug) гулъытэн; гурыгъэ1он (to make someone understand)"
+    "to understand": "гуры1он / къыгуры1он (to understand meaning); хэхьан (to get it); зэхэхын (to make out clearly what have been said or heard); (Shapsug) гулъытэн; гурыгъэ1он (to make someone understand); зэхэш1ык1ын (to comprehend; to understand or grasp fully and thoroughly)"
   },
   {
     "to notice": "гулъытэн"
@@ -10482,7 +10482,7 @@
     "to cough": "пыск1эн"
   },
   {
-    "suddenly": "ош1э дэмыш1эу; зэк1эм"
+    "suddenly": "ош1э дэмыш1эу"
   },
   {
     "to get wet": "уц1ынын; шъун (clothes and body)"
@@ -14751,7 +14751,7 @@
     "bat": "чэщыбзыу"
   },
   {
-    "to whisper": "1ушъэшъэн"
+    "to whisper": "1ушъэшъэн; е1ушъэшъэн"
   },
   {
     "dumpling": "тхъурыжъ"
@@ -14763,7 +14763,10 @@
     "basic": "1эпс-лъэпс"
   },
   {
-    "to mow": "упк1эн; хын"
+    "to mow": "упк1эн"
+  },
+  {
+    "to reap": "хын"
   },
   {
     "to hew": "зэпыупк1ын; упк1этэн; пыупк1ын"
@@ -16983,10 +16986,10 @@
     "habit": "хабзэ; сэнэхьат; есэныгъ (to get used to)"
   },
   {
-    "to make sense": "шъхьэм къиубытын; мэхьанэ и1эн"
+    "to make sense": "зэхэш1ык1ын; шъхьэм къиубытын; мэхьанэ и1эн"
   },
   {
-    "to comprehend": "шъхьэм къиубытын; шъхьэм зыхихын"
+    "to comprehend": "зэхэш1ык1ын (to comprehend; to understand or grasp fully and thoroughly); шъхьэм къиубытын; шъхьэм зыхихын"
   },
   {
     "restless": "гумы1ан"
@@ -18070,6 +18073,12 @@
   },
   {
     "vat": "пхъэчай"
+  },
+  {
+    "command": "тхьэмэтагъэ; пэщагъ"
+  },
+  {
+    "leadership": "тхьэмэтагъэ; пэщагъ"
   },
   {
     "sweat-cloth": "к1адзэ; шык1адзэ (for horse riding)"
