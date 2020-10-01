@@ -2136,7 +2136,7 @@
     "to offend": "ыгу хэгъэк1ын; шъхьак1о ехын; шъхьак1ун; егъэчъэхын (to speak bad about someone)"
   },
   {
-    "to disgrace": "хьайнапэу ш1ыжьын; напэ техын (ынапэ техын)"
+    "to disgrace": "хьайнапэу ш1ын; напэ техын (ынапэ техын)"
   },
   {
     "moron": "къыгъэ"
@@ -4629,7 +4629,7 @@
     "to be dizzy": "унэзэн; (Shapsug) прэзэн"
   },
   {
-    "to operate": "1оф ш1эн / лэжьэн (to perform a work or labor); зек1он (to act)"
+    "to operate": "1оф ш1эн / лэжьэн (to perform a work or labor); зек1он (to act); гъэлэжьэн (to operate something)"
   },
   {
     "to enslave": "пщыл1ы ш1ын; гъэпщылIын"
@@ -11334,7 +11334,7 @@
     "to safeguard": "нэ1э тегъэтын; ухъумэн"
   },
   {
-    "to protect": "нэ1э тегъэтын; ухъумэн"
+    "to protect": "нэ1э тегъэтын; ухъумэн; къэгъэгъунэн"
   },
   {
     "seed": "чылапхъэ; к1э"
@@ -14469,7 +14469,7 @@
     "to obey": "дэ1он; 1орыш1эн (to be obeying); фэ1орыш1эн (to obey someone); гъэ1орыш1эн (to make someone obey)"
   },
   {
-    "to be aware of": "къэбэр и1эн; щыгъозэн"
+    "to be aware": "къэбэр и1эн; щыгъозэн"
   },
   {
     "well-informed": "зыш1эрэ; ш1эныгъэ зи1э"
@@ -14811,6 +14811,9 @@
     "to stop talking": "щыгъэтын; зэ1унэн"
   },
   {
+    "to link": "егъэпхын; пыш1эн"
+  },
+  {
     "to elope": "ч1эщык1ьын"
   },
   {
@@ -14841,16 +14844,19 @@
     "to sharp": "гъэчанын; лъын; гъэупэпц1ын (to make something pointly); упэпц1ын (to make something pointly)"
   },
   {
-    "to sharpen": "гъэчанын; (Shapsug) гъэчыянэн; лъын; гъэупэпц1ын (to make something pointly); упэпц1ын (to make something pointly)"
+    "to sharpen": "гъэчанын; (Shapsug) гъэчыянэн; лъын; упэпц1ын / гъэупэпц1ын (to make something pointly)"
   },
   {
-    "by something": "зыгок1э"
+    "with something": "зыгорэк1э"
   },
   {
-    "by someone": "зыгок1э"
+    "by something": "зыгорэк1э"
   },
   {
-    "by any chance": "зыгок1э"
+    "by someone": "зыгорэк1э"
+  },
+  {
+    "by any chance": "зыгорэк1э"
   },
   {
     "saltless": "мыщыгъу"
@@ -14907,7 +14913,13 @@
     "to become cold": "къэучъы1ын"
   },
   {
-    "to cold": "къэучъы1ын (to become cold); гъэучъы1ын / къэгъэучъы1ын (to cold something); дэгъэучъы1ыхьан (to make something cold in a fridge)"
+    "to cold": "учъы1ын / къэучъы1ын (to become colder); гъэучъы1ын / къэгъэучъы1ын (to cool something, to make something cooler); дэгъэучъы1ыхьан (to make something cold in a fridge)"
+  },
+  {
+    "to cool": "учъы1ын / къэучъы1ын (to cool down, to become colder); гъэучъы1ын / къэгъэучъы1ын (to cool something, to make something cooler)"
+  },
+  {
+    "to blaze": "къызк1эстын"
   },
   {
     "refrigerator": "гъэучъы1алъэ"
@@ -14943,7 +14955,16 @@
     "enormous": "шъэджашъ"
   },
   {
-    "probably": "дэхэт; щытын; ч1эк1ын; енэгуй; енэгуягъо"
+    "possible": "хъушъущт (it can happen); дэхэт (it is possible that)"
+  },
+  {
+    "probably": "дэхэт (it is probabil that, it is likely that); щытын (that is probably the case); ч1эк1ын (it would turn out to be); енэгуй (probably); енэгуягъо (probably)"
+  },
+  {
+    "likely": "дэхэт (it is probabil that, it is likely that); щытын (that is probably the case); ч1эк1ын (it would turn out to be); енэгуй (probably); енэгуягъо (probably)"
+  },
+  {
+    "probabil": "дэхэт (it is probabil that, it is likely that); щытын (that is probably the case); ч1эк1ын (it would turn out to be); енэгуй (probably); енэгуягъо (probably)"
   },
   {
     "to knock": "теон"
@@ -15025,12 +15046,6 @@
   },
   {
     "to make rich": "гъэбаин; баи ш1ын; гъэунэн"
-  },
-  {
-    "to do good to someone": "гъэунэн"
-  },
-  {
-    "to guard someone": "къэгъэгъунэн"
   },
   {
     "final": "аужырэ; аужыпкъэрэ"
