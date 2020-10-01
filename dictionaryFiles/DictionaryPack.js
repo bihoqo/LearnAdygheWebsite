@@ -34955,7 +34955,7 @@
           },
 		  {
             "sentence": "Кур '''ушъутык1э''' къыпжэхэхьагъ",
-            "translation": "The car collapsed against you '''from the back'''."
+            "translation": "The car collided against you '''from the back'''."
           },
 		  {
             "sentence": "К1алэхэр '''зэшъуты''' итыхэу мак1ох",
@@ -44576,7 +44576,7 @@
           },
 		  {
             "sentence": "Кур '''ук1ыбк1э''' къыпжэхэхьагъ",
-            "translation": "The car collapsed against you '''from the back'''."
+            "translation": "The car collided against you '''from the back'''."
           },
 		  {
             "sentence": "К1алэхэр '''зэк1ыбы''' итыхэу мак1ох",
@@ -79175,6 +79175,10 @@
 		  {
             "sentence": "К1алэм ы1энтэгъук1э шъхьангъупчъэм '''еуал1и''' ыгъэчагъ",
             "translation": "The boy '''knocked''' the window with his elbow and made it crack."
+          },
+		  {
+            "sentence": "Л1ыр пкъэум кумк1э '''еуал1и''' риутыгъ",
+            "translation": "The man '''collided against''' the column with the car and knocked it down."
           }
         ]
       }
@@ -86310,7 +86314,7 @@
           },
 		  {
             "sentence": "Кур '''упхэк1ык1э''' къыпжэхэхьагъ",
-            "translation": "The car collapsed against you '''from the back'''."
+            "translation": "The car collided against you '''from the back'''."
           },
 		  {
             "sentence": "К1алэхэр '''зэпхэк1ы''' итыхэу мак1ох",
@@ -87172,6 +87176,52 @@
     ],
     "type": "verb",
     "ipa": "tajwətən"
+  },
+  {
+    "word": "иутын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to knock down; to run over; to drive over",
+        "examples": [
+          {
+            "sentence": "Ку сыфэу, бланэ гъогум къэсш1отехьи '''исыутыгъ'''",
+            "translation": "While I was driving the car, a deer went on the road and '''I ran over it'''"
+          },
+		  {
+            "sentence": "Л1ым шк1эр '''риутыгъ'''",
+            "translation": "The man '''drove over''' the calf."
+          },
+		  {
+            "sentence": "Л1ыр пкъэум кумк1э еуал1и '''риутыгъ'''",
+            "translation": "The man collided against the column with the car and '''knocked it down'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "tajwətən"
+  },
+  {
+    "word": "гъэук1орэин",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to roll; to push (some object with wheels)",
+        "examples": [
+          {
+            "sentence": "К1алэм шъондырыр '''егъэук1орэи'''",
+            "translation": "The boy '''rolls''' the barrel."
+          }
+        ]
+      },
+	  {
+        "meaning": "to overturn, to topple",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʁawkʷʼarajən"
   },
   {
     "word": "фэдэ къэгъэчъыгъ",
