@@ -6753,7 +6753,7 @@
     "stranger": "хымэ; хамэ"
   },
   {
-    "foreign": "хымэ; хамэ"
+    "foreign": "хымэ; хамэ; 1эк1ыб"
   },
   {
     "alien": "хымэ (forein)"
@@ -7758,13 +7758,10 @@
     "wheel": "щэрэхъ; кущэрэхъ (wheel car)"
   },
   {
-    "to become stuck": "дэнэн"
+    "to become stuck": "дэнэн / къыдэнэн (to get stuck between); хэнэн / къыхэнэн (to get stuck in a company, bushes, forest, liquid, gas or solid); тенэн / къытенэн (to get stuck on above something); инэн / къинэн (to get stuck inside something); ч1энэн / къыч1энэн (to get stuck under something); пынэн / къыпынэн (to get stuck and undetachable); дэп1ыт1эн (to get stuck and squeezed in a narrow place or hole); ш1онэн"
   },
   {
-    "to get stuck": "дэнэн (between); хэнэн (in a company, bushes, forest, liquid, gas or solid); ш1онэн; дэп1ыт1эн (to get stuck in a narrow place or hole)"
-  },
-  {
-    "to get stuck": "дэнэн (to get stuck between); хэнэн (to get stuck in a company, bushes, forest, liquid, gas or solid); тенэн (to get stuck on above something); инэн (to get stuck inside something); ч1энэн (to get stuck under something); пынэн (to get stuck and undetachable); дэп1ыт1эн (to get stuck and squeezed in a narrow place or hole)"
+    "to get stuck": "дэнэн / къыдэнэн (to get stuck between); хэнэн / къыхэнэн (to get stuck in a company, bushes, forest, liquid, gas or solid); тенэн / къытенэн (to get stuck on above something); инэн / къинэн (to get stuck inside something); ч1энэн / къыч1энэн (to get stuck under something); пынэн / къыпынэн (to get stuck and undetachable); дэп1ыт1эн (to get stuck and squeezed in a narrow place or hole); ш1онэн"
   },
   {
     "to stick": "дэгъэнэн (to stick between); хэгъэнэн (to make someone stuck in a company, bushes, forest, liquid, gas or solid); тегъэнэн (to stick on above something); игъэнэн (to stick inside something); ч1эгъэнэн (to stick under something); тепк1эн (to get stick/glued on); тегъэпк1эн (to stick/glue something on something); ч1эпк1эн (to get glued under); ч1эгъэпк1эн (to stick/glue something under something); ипк1эн (to get stick/glued inside); игъэпк1эн (to stick/glue something inside something); пыпк1эн (to get stick/glued on the surface of an object); пыгъэпк1эн (to stick/glue something on the surface of an object); дэпк1эн (to get stick/glued inside another object); дэгъэпк1эн (to stick/glue something inside another object); естыл1эн (to stick to the hot surface as a result of burning)"
@@ -7776,13 +7773,13 @@
     "to trap": "дэубытэн (to trap between); хэубытэн (to trap something in an area with liquid, gas or solid); теубытэн (to trap on above something); иубытэн (to trap inside something); ч1эубытэн (to trap under something); иш1эхьан / къиш1эхьан (to trap in a circle)"
   },
   {
-    "to get trapped": "дэнэн (to get trapped between); хэнэн (to get trapped in an area with liquid, gas or solid); тенэн (to get trapped on above something); инэн (to get trapped inside something); ч1энэн (to get stuck trapped something)"
+    "to get trapped": "дэнэн / къыдэнэн (to get trapped between); хэнэн / къыхэнэн (to get trapped in a company, bushes, forest, liquid, gas or solid); тенэн / къытенэн (to get trapped on above something); инэн / къинэн (to get trapped inside something); ч1энэн / къыч1энэн (to get trapped under something); пынэн / къыпынэн (to get trapped and undetachable); дэп1ыт1эн (to get trapped and squeezed in a narrow place or hole)"
   },
   {
-    "to stay": "къы1унэн (to stay behind); исын; илъын (to stay overnight)"
+    "to stay": "къы1унэн (to stay behind); исын; илъын (to stay overnight); хэнэн / къыхэнэн (to stay in a company, bushes, forest, liquid, gas or solid); тенэн / къытенэн (to stay on above something); инэн / къинэн (to stay inside something); ч1энэн / къыч1энэн (to stay under something); пынэн / къыпынэн (to stay attached)"
   },
   {
-    "to remain": "къы1унэн (to remain behind, to leave behind); къинэн (to remian inside, to leave inside); къэгъэнэн / къэгъэнэжьын (to remain something, to remain leftovers, to leave leftovers); къэнэн / къэнэжьын (something to remain as a leftover); къинэжьын (something to remain inside as a leftovers); къытенэжьын (to remain something above, to leave behind something above); къыч1энэжьын (to remain something under, to leave behind something under)"
+    "to remain": "къы1унэн (to remain behind); къэгъэнэн / къэгъэнэжьын (to remain something, to remain leftovers, to leave leftovers); къэнэн / къэнэжьын (something to remain as a leftover); къинэжьын (something to remain inside as a leftovers); къытенэжьын (to remain something above, to leave behind something above); къыч1энэжьын (to remain something under, to leave behind something under); хэнэн / къыхэнэн (to remain in a company, bushes, forest, liquid, gas or solid); тенэн / къытенэн (to remain on above something); инэн / къинэн (to remain inside something); ч1энэн / къыч1энэн (to remain under something); пынэн / къыпынэн (to remain attached)"
   },
   {
     "to leave": "къы1унэн (to remain behind, to leave behind); къинэн (to remian inside, to leave inside); къэгъэнэн / къэгъэнэжьын (to remain something, to remain leftovers, to leave leftovers); къэнэн / къэнэжьын (something to remain as a leftover); къинэжьын (something to remain inside as a leftovers); къытенэжьын (to remain something above, to leave behind something above); къыч1энэжьын (to remain something under, to leave behind something under); бгынэн (to abandon/desert); ик1ын (to go out); ик1ыжьын (to leave the house/family); пык1ыжьын (to divorce); хэк1ын (to leave a company or group); тегъэнэн / къытегъэнэн (to leave something above something); ч1эгъэнэн / къыч1эгъэнэн (to leave something under something); хэгъэнэн / къыхэгъэнэн (to leave something in an area with liquid or gas, to leave something in the forest); дэгъэнэн / къыдэгъэнэн (to leave something in); 1угъэнэн / къы1угъэнэн (to leave something near)"
@@ -10605,10 +10602,10 @@
     "to be ashamed": "ук1ытэн; щыук1ытэн (to be ashamed of)"
   },
   {
-    "to shame": "ук1ытэн (to be ashamed, to feel shame); къэгъэук1ытэн (to make someone feel ashamed); щыук1ытэн (to be ashamed of); напэ техын (ынапэ техын) (to disgrace someone); хьайнапэу ш1ын (to shame someone)"
+    "to shame": "ук1ытэн (to be ashamed, to feel shame); къэгъэук1ытэжьын (to make someone feel ashamed); щыук1ытэн (to be ashamed of); напэ техын (ынапэ техын) (to disgrace someone); хьайнапэу ш1ын (to shame someone)"
   },
   {
-    "to ashame": "ук1ытэн (to be ashamed, to feel shame); къэгъэук1ытэн (to make someone feel ashamed); щыук1ытэн (to be ashamed of); напэ техын (ынапэ техын) (to disgrace someone); хьайнапэу ш1ын (to shame someone)"
+    "to ashame": "ук1ытэн (to be ashamed, to feel shame); къэгъэук1ытэжьын (to make someone feel ashamed); щыук1ытэн (to be ashamed of); напэ техын (ынапэ техын) (to disgrace someone); хьайнапэу ш1ын (to shame someone)"
   },
   {
     "to be shy": "ук1ытэн; ; щыук1ытэн (to be shy of)"
@@ -12033,7 +12030,7 @@
     "what again": "л1эужь"
   },
   {
-    "wedding": "нысащэ"
+    "wedding": "нысащэ; нэчыхь / нэчыхьытх (the ceremony of marriage when the contract between the groom and the bridge is made)"
   },
   {
     "marriage party": "нысэщэ джэгу"
@@ -16494,7 +16491,10 @@
     "swear in God": "тхьары1у"
   },
   {
-    "to humiliate": "шъхьак1о ехын; шъхьак1ун"
+    "to humiliate": "шъхьак1о ехын; шъхьак1ун; хьайнапэу ш1ын; къэгъэук1ытэжьын"
+  },
+  {
+    "to embarrass": "шъхьак1о ехын; шъхьак1ун; хьайнапэу ш1ын; къэгъэук1ытэжьын"
   },
   {
     "to abase": "шъхьак1о ехын"

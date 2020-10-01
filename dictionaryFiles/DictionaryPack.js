@@ -7085,12 +7085,16 @@
         "meaning": "units of (slices of, pieces of)",
         "examples": [
           {
-            "sentence": "Бэнанэ '''нэлъищ''' сыфай",
+            "sentence": "Къо1ус '''нэлъищ''' сыфай",
             "translation": "I want three '''slices''' of banana."
           },
           {
             "sentence": "Кек '''налъэ''' горэ сыфай",
             "translation": "I want a '''slice''' of cake."
+          },
+		  {
+            "sentence": "Пицэ '''нэлъит1у''' 1анэм къытенагъ",
+            "translation": "'''Two slices''' of pizza left on the table."
           }
         ]
       }
@@ -68375,6 +68379,10 @@
 		  {
             "sentence": "'''Упашъхьэ''' 1утыр плъэгъурэба?",
             "translation": "Don't you see the thing '''in front of you'''?"
+          },
+		  {
+            "sentence": "Классымк1э, сигъусэ къи1ощтыгъэр ымыш1эжьэу сыкъигъэук1ытэжьыгъ зэк1эм '''ыпашъхьэк1э'''",
+            "translation": "In class, my partner forgot what he was going to say and he made me embarrassed '''in front of''' everyone."
           }
         ]
       }
@@ -73611,6 +73619,10 @@
           {
             "sentence": "Шхынэу сыщагъ '''зэк1эм''' афэдиз ахъщэ бэу къыхэсыхыгъэп",
             "translation": "I did not earn that much from '''all''' the food I sold."
+          },
+		  {
+            "sentence": "Классымк1э, сигъусэ къи1ощтыгъэр ымыш1эжьэу сыкъигъэук1ытэжьыгъ '''зэк1эм''' ыпашъхьэк1э",
+            "translation": "In class, my partner forgot what he was going to say and he made me embarrassed in front of '''everyone'''."
           }
         ]
       }
@@ -86560,12 +86572,38 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to become stuck (trapped and unable to move)",
-        "examples": []
+        "meaning": "to become stuck (trapped and unable to move) above something",
+        "examples": [
+          {
+            "sentence": "К1алэр унашъхьэм '''къытенагъ'''",
+            "translation": "The boy '''got stuck on''' the roof."
+          }
+        ]
       },
       {
-        "meaning": "to stay, remain (should have the prefix къы- /qə-/)",
-        "examples": []
+        "meaning": "to stay above, to remain above, to be left above",
+        "examples": [
+          {
+            "sentence": "К1алэр къушъхьэм '''къытенагъ'''",
+            "translation": "The boy '''stayed behind on''' the mountain."
+          },
+		  {
+            "sentence": "Т1эк1у шхын 1анэм '''къытенагъ'''",
+            "translation": "Some food '''remained on''' the table."
+          },
+		  {
+            "sentence": "Шхын зи 1анэм '''къытемыгъан'''",
+            "translation": "'''Don't leave''' any food on the table."
+          },
+		  {
+            "sentence": "Пицэ зыгори '''къытешъугъэнагъэп''' 1анэм",
+            "translation": "'''You haven't left''' any pizza on the table."
+          },
+		  {
+            "sentence": "Пицэ нэлъит1у 1анэм '''къытенагъ'''",
+            "translation": "Two slices of pizza '''left on''' the table."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -86589,7 +86627,16 @@
     "definitions": [
       {
         "meaning": "to greet",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр пшъашъэм '''сэлам рехы'''",
+            "translation": "The boy '''greets''' the girl."
+          },
+		  {
+            "sentence": "Уятэрэ уянэрэ '''сэлам къасфех'''",
+            "translation": "'''Greet''' your dad and mom '''for me'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -86617,7 +86664,7 @@
         "examples": [
           {
             "sentence": "К1алэм к1апсэр '''зэхещы'''",
-            "translation": "The boy '''is stretch''' the rope."
+            "translation": "The boy '''is stretching''' the rope."
           },
           {
             "sentence": "К1апсэр бащэу '''зэхэпщымэ''' зэпытхъыщт",
@@ -86652,7 +86699,12 @@
     "definitions": [
       {
         "meaning": "to damage",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Кур '''угъэфыкъуагъ'''",
+            "translation": "'''You damaged''' the car."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -86663,10 +86715,20 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "marriage contract",
-        "examples": []
+        "meaning": "wedding (the ceremony of marriage when the contract between the groom and the bridge is made)",
+        "examples": [
+          {
+            "sentence": "Сыдигъо Тамбыим '''инэчыхь'''?",
+            "translation": "When is Tambi's '''wedding'''?"
+          },
+		  {
+            "sentence": "'''Нэчыхьымк1э''', к1алэмрэ иныбджэгъухэмрэ нысэм ыдэжь к1охи джэгу щаш1ы",
+            "translation": "'''In the wedding''', the groom and his friends go to the bridge's place and they do a wedding dance party there."
+          }
+        ]
       }
     ],
+    "shapsug": "нэкьыхь",
     "type": "noun",
     "ipa": "nat͡ʃəħ"
   },
@@ -86695,12 +86757,76 @@
     "ipa": "stəɬʼan"
   },
   {
+    "word": "къэгъэук1ытэжьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to embarrass; to shame; to make someone embarrassed",
+        "examples": [
+          {
+            "sentence": "Пшъашъэр к1алэм ынэгушъо еуи '''къигъэук1ытэжьыгъ'''",
+            "translation": "The girl slapped the boy's cheek and '''embarrassed him'''."
+          },
+		  {
+            "sentence": "Классымк1э, сигъусэ къи1ощтыгъэр ымыш1эжьэу '''сыкъигъэук1ытэжьыгъ''' зэк1эм ыпашъхьэк1э",
+            "translation": "In class, my partner forgot what he was going to say and '''he made me embarrassed''' in front of everyone."
+          },
+		  {
+            "sentence": "Синыбджэгъу 1аеу зек1оу '''сыкъигъэук1ытагъ'''",
+            "translation": "My friend behaving badly '''made me embarrassed'''."
+          },
+		  {
+            "sentence": "Умыгуа1, '''укъэзгъэук1ытэщтэп'''",
+            "translation": "Do not worry, '''I won't embarrass you'''."
+          }
+        ]
+      }
+    ],
+    "shapsug": "къэгъэук1ьытэжьын",
+    "type": "verb",
+    "ipa": "qaʁawt͡ʃʼətaʑən"
+  },
+  {
+    "word": "хьайнапэу ш1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to embarrass; to humiliate; to shame; to make someone embarrassed",
+        "examples": [
+          {
+            "sentence": "Пшъашъэр к1алэм ынэгушъо еуи '''хьайнапэу ыш1ыгъ'''",
+            "translation": "The girl slapped the boy's cheek and '''embarrassed him'''."
+          },
+		  {
+            "sentence": "Классымк1э, сигъусэ къи1ощтыгъэр ымыш1эжьэу '''хьайнапэу сиш1ыгъ''' зэк1эм ыпашъхьэк1э",
+            "translation": "In class, my partner forgot what he was going to say and '''he made me embarrassed''' in front of everyone."
+          },
+		  {
+            "sentence": "Синыбджэгъу 1аеу зек1оу '''хьайнапэу сиш1ыгъ'''",
+            "translation": "My friend behaving badly '''made me embarrassed'''."
+          },
+		  {
+            "sentence": "Умыгуа1, '''хьайнапэу усш1ыщтэп'''",
+            "translation": "Do not worry, '''I won't embarrass you'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "qaʁawt͡ʃʼətaʑən"
+  },
+  {
     "word": "нэгушъо",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "cheek",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Пшъашъэр к1алэм '''ынэгушъо''' еуи къигъэук1ытэжьыгъ",
+            "translation": "The girl '''slapped''' the boy's cheek and embarrassed him."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -86715,7 +86841,7 @@
         "examples": [
           {
             "sentence": "Пшъашъэм '''нэгушъо''' к1алэм '''ритыгъ'''",
-            "translation": "The girl '''slapped''' the boy; literary: the girl '''give a slap''' to the boy."
+            "translation": "The girl '''slapped''' the boy."
           },
 		  {
             "sentence": "'''Нэгушъо къысаты'''",
@@ -86732,6 +86858,10 @@
           {
             "sentence": "К1алэм сигъэгубжыгъэти, '''нэгушъо естыгъ'''",
             "translation": "Because the boy made me angry, '''I slapped him'''."
+          },
+		  {
+            "sentence": "Пшъашъэм к1алэм '''нэгушъо рити'''  къигъэук1ытэжьыгъ",
+            "translation": "The girl '''slapped''' the boy's '''cheek''' and embarrassed him."
           }
         ]
       }
@@ -86851,15 +86981,15 @@
         "meaning": "to burn slightly; to singe (an animal); to scorch",
         "examples": [
           {
-            "sentence": "Чэтыр '''гъэлыгъон'''}}",
+            "sentence": "Чэтыр '''гъэлыгъон'''",
             "translation": "'''To scorch''' the chicken"
           },
           {
-            "sentence": "Мэлышъхьэр '''гъэлыгъон''' фае}}",
+            "sentence": "Мэлышъхьэр '''гъэлыгъон''' фае",
             "translation": "You need '''to singe''' the sheep's head."
           },
           {
-            "sentence": "Лъакъохэр '''угъэлыгъонхэ''' фае}}",
+            "sentence": "Лъакъохэр '''угъэлыгъонхэ''' фае",
             "translation": "You need '''to scorch''' the legs."
           }
         ]
@@ -86884,6 +87014,39 @@
     "ipa": "ʁaʔʷartʼan"
   },
   {
+    "word": "пкъэу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "post, pole, pillar, column",
+        "examples": [
+		  {
+            "sentence": "Л1ыр кумк1э '''пкъэум''' зеом, ыгъэ1онт1агъ",
+            "translation": "When the man hit '''the pillar''' with the car, he twisted it"
+          },
+          {
+            "sentence": "'''Пкъэухэр''' агъэуцух",
+            "translation": "They are placing '''pillars'''."
+          },
+		  {
+            "sentence": "'''Пкъэур''' зандэ",
+            "translation": "'''The column''' is steep."
+          },
+		  {
+            "sentence": "К1алэр '''пкъэум''' 1ут",
+            "translation": "The boy is standing near '''the pillar'''."
+          },
+		  {
+            "sentence": "'''Пкъэур''' тегъэкощык1ыгъ",
+            "translation": "'''The pillar''' is displaced."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "pqaw"
+  },
+  {
     "word": "гъэ1онт1эн",
     "lang": "Adyghe",
     "definitions": [
@@ -86891,8 +87054,8 @@
         "meaning": "to curve; to bend; to twist",
         "examples": [
           {
-            "sentence": "Къины гъуч1ы '''пгъэ1онт1эныр'''",
-            "translation": "It's hard to '''bend''' an iron."
+            "sentence": "Къины гъуч1ы '''бгъэ1онт1эныр'''",
+            "translation": "It's hard '''to bend''' an iron."
           },
 		  {
             "sentence": "К1алэм джэмышхэр '''егъэ1уант1э'''",
@@ -86900,7 +87063,11 @@
           },
 		  {
             "sentence": "К1алэр топ джэгоу, ебэджи ылъакъо '''ыгъэ1онт1эжьыгъ'''",
-            "translation": "The boy while playing soccer, he fell and '''twisted''' his leg."
+            "translation": "The boy while playing soccer, fell and '''twisted''' his leg."
+          },
+		  {
+            "sentence": "Л1ыр кумк1э пкъэум зеом, '''ыгъэ1онт1агъ'''",
+            "translation": "When the man hit the pillar with the car, '''he twisted it'''"
           }
         ]
       }
@@ -87905,7 +88072,7 @@
         "examples": [
           {
             "sentence": "Пкъэур '''тегъэкощык1ыгъ'''",
-            "translation": "The pillar '''was displaced'''."
+            "translation": "The pillar '''is displaced'''."
           },
           {
             "sentence": "Блокит1ур '''зэтекощык1ыгъэх'''",
@@ -104587,7 +104754,7 @@
         "meaning": "to stand by",
         "examples": [
           {
-            "sentence": "Пкъэум еуц1ол1эн",
+            "sentence": "Пкъэум '''еуц1ол1эн'''",
             "translation": "'''To stand by''' the pillar."
           }
         ]
