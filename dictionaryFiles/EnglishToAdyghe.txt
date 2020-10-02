@@ -10536,6 +10536,9 @@
     "food": "шхыны, гъомыл, гъомлапхъэ (foodstuff); пчэдыжьышхэ (breakfast); щэджэгъуашхэ (launch); пчыхьэшъхьашхэ (supper, dinner for evening); чэщ1ус (food for the night)"
   },
   {
+    "meal": "шхыны, гъомыл, гъомлапхъэ (foodstuff)"
+  },
+  {
     "supper": "пчыхьэшъхьашхэ"
   },
   {
@@ -15078,19 +15081,19 @@
     "to go under": "ч1эхьан"
   },
   {
-    "to get": "1эк1эхьан / къы1эк1эхьан; 1эгъэк1эхьан (to make someone get something); зы1эк1эгъэхьажьын (to make oneself get something)"
+    "to get": "1эк1эхьан / къы1эк1эхьан; 1эгъэк1эхьан (to make someone get something); зы1эк1эгъэхьажьын (to make oneself get something); къэгъэхъэн (to obtain, to acquire, to gain)"
   },
   {
-    "to obtain": "1эк1эхьан / къы1эк1эхьан; 1эгъэк1эхьан (to make someone obtain something); зы1эк1эгъэхьажьын (to make oneself obtain something)"
+    "to obtain": "1эк1эхьан / къы1эк1эхьан; 1эгъэк1эхьан (to make someone obtain something); зы1эк1эгъэхьажьын (to make oneself obtain something); къэгъэхъэн (to obtain, to acquire, to gain)"
   },
   {
-    "to acquire": "1эк1эхьан / къы1эк1эхьан; 1эгъэк1эхьан (to make someone acquire something); зы1эк1эгъэхьажьын (to make oneself acquire something)"
+    "to acquire": "1эк1эхьан / къы1эк1эхьан; 1эгъэк1эхьан (to make someone acquire something); зы1эк1эгъэхьажьын (to make oneself acquire something); къэгъэхъэн (to obtain, to acquire, to gain)"
   },
   {
     "to receive": "1эк1эхьан / къы1эк1эхьан; 1эгъэк1эхьан (to make someone receive something); зы1эк1эгъэхьажьын (to make oneself receive something)"
   },
   {
-    "to gain": "къэгъэхъэн (to earn); 1эк1эхьан / къы1эк1эхьан (to get ahold of); 1эгъэк1эхьан (to make someone gain something); зы1эк1эгъэхьажьын (to make oneself gain something)"
+    "to gain": "къэгъэхъэн (to earn); 1эк1эхьан / къы1эк1эхьан (to get ahold of); 1эгъэк1эхьан (to make someone gain something); зы1эк1эгъэхьажьын (to make oneself gain something) (to obtain, to acquire, to gain)"
   },
   {
     "to take possession of": "1эк1эхьан / къы1эк1эхьан; 1эгъэк1эхьан (to make someone take possession of something); зы1эк1эгъэхьажьын (to make oneself take possession of something)"
@@ -15196,6 +15199,18 @@
   },
   {
     "writer": "тхак1о"
+  },
+  {
+    "secretary": "тхак1о"
+  },
+  {
+    "clerk": "тхак1о"
+  },
+  {
+    "scrivener": "тхак1о"
+  },
+  {
+    "scribe": "тхак1о"
   },
   {
     "air force soldier": "жьыдзак1о"

@@ -50884,7 +50884,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "food",
+        "meaning": "food; meal",
         "examples": [
           {
             "sentence": "К1алэ тхьамык1эм '''шхын''' ыгъотырэп",
@@ -50893,6 +50893,10 @@
           {
             "sentence": "'''Шхынэр''' шхы",
             "translation": "Eat the '''food'''."
+          },
+		  {
+            "sentence": "Пачъыхьым '''ишхын''' иуахътэ къы1эгъэхьагъ",
+            "translation": "Provide the king '''his meal''' in time"."
           }
         ]
       }
@@ -62614,6 +62618,10 @@
 		  {
             "sentence": "Зы мы1эрыс матэм '''къинэжьыгъ'''",
             "translation": "One apple '''was left''' in the basket."
+          },
+		  {
+            "sentence": "К1алэр гущы1анчъэу '''къэнагъ'''",
+            "translation": "The boy '''was left''' speechless."
           }
         ]
       }
@@ -90901,11 +90909,21 @@
     "definitions": [
       {
         "meaning": "wordless",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Гущы1анчъэу''' зыфаер к1алэр сыш1агъ",
+            "translation": "I knew what the boy wanted '''wordlessly'''."
+          }
+        ]
       },
       {
         "meaning": "speechless",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''гущы1анчъэу''' къэнагъ",
+            "translation": "The boy was left '''speechless'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -90917,6 +90935,14 @@
     "definitions": [
       {
         "meaning": "writer",
+        "examples": []
+      },
+	  {
+        "meaning": "clerk; scribe; scrivener",
+        "examples": []
+      },
+	  {
+        "meaning": "secretary",
         "examples": []
       }
     ],
@@ -90953,10 +90979,7 @@
     "definitions": [
       {
         "meaning": "(added to nouns) location",
-        "examples": [],
-        "tags": [
-          "added to nouns"
-        ]
+        "examples": []
       }
     ],
     "type": "suffix",
@@ -90967,12 +90990,33 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to meet-up",
-        "examples": []
-      },
-      {
-        "meaning": "to have a meeting or an appointment",
-        "examples": []
+        "meaning": "to meet-up; to meet somebody by arrangement; to have a meeting or an appointment",
+        "examples": [
+          {
+            "sentence": "К1алэхэр тучаным '''зэ1ук1агъэх'''",
+            "translation": "The boys '''met up''' in the shop."
+          },
+		  {
+            "sentence": "Чылэм инахьыжъхэр '''зэ1ук1агъэх''' чылэм къытегущы1энхэу",
+            "translation": "The elders of the village '''met up''' to speak about the village."
+          },
+		  {
+            "sentence": "Нек1о чэщым к1эим '''тыщызэ1ук1эщт'''",
+            "translation": "Let's '''meet up''' in the night in the valley."
+          },
+		  {
+            "sentence": "Тхьэматэхэр сыдигъо '''зэ1ук1эщтых'''?",
+            "translation": "When will the leaders '''meet up'''?"
+          },
+		  {
+            "sentence": "Ситхьэматэмрэ сэрэ '''тызэ1ук1агъ'''",
+            "translation": "Me and my boss '''met up'''."
+          },
+		  {
+            "sentence": "Сыдигъо '''тызэ1ук1эшъущт'''?",
+            "translation": "When can we '''meet up'''?"
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -90984,11 +91028,33 @@
     "definitions": [
       {
         "meaning": "meeting",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Сыдигъо '''зэ1ук1эр'''?",
+            "translation": "When is '''the meeting'''?"
+          },
+		  {
+            "sentence": "Адыгэ '''зэ1ук1э'''",
+            "translation": "The Circassian  '''meeting'''."
+          },
+		  {
+            "sentence": "Адыгэ '''зэ1ук1эр''' Европа щаш1ыщт",
+            "translation": "They will make the Circassian '''meeting''' in Europa."
+          }
+        ]
       },
       {
         "meaning": "gathering",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Сыдигъо '''зэ1ук1эр'''?",
+            "translation": "When is '''the gathering'''?"
+          },
+		  {
+            "sentence": "Л1ыжъыхэмэ '''язэ1ук1э'''",
+            "translation": "'''The gathering''' of the old-men."
+          }
+        ]
       },
       {
         "meaning": "congress",
