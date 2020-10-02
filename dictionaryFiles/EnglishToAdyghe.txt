@@ -1857,6 +1857,9 @@
     "helmet": "шъхьэтелъхьэ; пэ1отелъхьэ; гъуч1 па1о (iron helmet)"
   },
   {
+    "headcover": "шъхьэтелъхьэ"
+  },
+  {
     "socks": "лъэпэд"
   },
   {
@@ -5779,6 +5782,9 @@
   },
   {
     "asylum": "шъхьэегъэзып1"
+  },
+  {
+    "care": "на1э"
   },
   {
     "hideout": "гъэбылъып1э (place); зыщыгъэбылъып1э (place); ч1эухъумэныр; гъэбылъыныр; ушъэфыныр"
@@ -11295,6 +11301,9 @@
     "to fatigue": "гъэпшъын"
   },
   {
+    "ground surface": "ч1ышъхьашъо"
+  },
+  {
     "to add": "хэхъон; хэгъэхъон (to add something to); ехъун / къехъун; егъэхъун / къегъэхъун (to add something to)"
   },
   {
@@ -11325,16 +11334,16 @@
     "to take care of, to safeguard, to watch over": "ухъумэн"
   },
   {
-    "to take care of": "нэ1э тегъэтын; пык1эрэплъын;"
+    "to take care of": "на1э тегъэтын; пык1эрэплъын;"
   },
   {
-    "to watch over": "лъыплъэн / к1элъыплъэн (to look after); пык1эрэплъын; нэ1э тегъэтын; фэсакъын"
+    "to watch over": "лъыплъэн / к1элъыплъэн (to look after); пык1эрэплъын; на1э тегъэтын; фэсакъын"
   },
   {
-    "to safeguard": "нэ1э тегъэтын; ухъумэн"
+    "to safeguard": "на1э тегъэтын; ухъумэн"
   },
   {
-    "to protect": "нэ1э тегъэтын; ухъумэн; къэгъэгъунэн"
+    "to protect": "на1э тегъэтын; ухъумэн; къэгъэгъунэн"
   },
   {
     "seed": "чылапхъэ; к1э"
@@ -12387,16 +12396,19 @@
     "to put afford in": "егугъын"
   },
   {
-    "to feel sorry": "гуегъун; шъхьасын; гук1эгъу фэш1ын"
+    "to feel sorry": "гуегъун; шъхьасын; гук1эгъу фэш1ын; гук1эгъу фэлъэгъун (to show mercy for)"
   },
   {
-    "to feel pity": "гуегъун; шъхьасын; гук1эгъу фэш1ын"
+    "to feel pity": "гуегъун; шъхьасын; гук1эгъу фэш1ын; гук1эгъу фэлъэгъун (to show mercy for)"
   },
   {
     "pity": "гук1эгъу"
   },
   {
     "mercy": "гук1эгъу; шъхьас"
+  },
+  {
+    "to show mercy": "гук1эгъу фэлъэгъун"
   },
   {
     "careless": "емыгугъурэ; гугъуемыл1; пхъэтэпэмыхь"
@@ -13122,7 +13134,7 @@
     "incident": "къехъул1агъэр (an incident that happened to someone); хъугъэ-ш1агъ"
   },
   {
-    "event": "къехъул1агъэр (an event that happened to someone);  хъугъэ-ш1агъ"
+    "event": "къехъул1агъэр (an event that happened to someone); хъугъэ-ш1агъ"
   },
   {
     "to determine": "ихъухьан"
@@ -14715,7 +14727,7 @@
     "may God not allow it": "тхьэм емыд"
   },
   {
-    "to look after": "лъыплъэн; пык1эрэплъын; нэ1э тегъэтын"
+    "to look after": "лъыплъэн; пык1эрэплъын; на1э тегъэтын"
   },
   {
     "idiot": "делэ; хьакъ-мэкъ; къыгъэ (moron); (vulgar) цуманэ; шъхьэ1ужъу"
@@ -15123,7 +15135,10 @@
     "bareheaded": "шъхьапц1э"
   },
   {
-    "to crawl": "ц1энлъэн; (Shapsug) ц1элъэн; пшын"
+    "to crawl": "ц1энлъэн; (Shapsug) ц1элъэн; пшэн / пшын"
+  },
+  {
+    "to creep": "ц1энлъэн; (Shapsug) ц1элъэн; пшэн / пшын"
   },
   {
     "skinny": "гъонлагъэ; (Shapsug) гъолагъэ"
@@ -15132,7 +15147,16 @@
     "slim": "гъонлагъэ; (Shapsug) гъолагъэ"
   },
   {
-    "snail": "хьамлашк1у"
+    "shell": "хьамлашк1о"
+  },
+  {
+    "seashell": "хьамлашк1о"
+  },
+  {
+    "mother-of-pearl": "чычыбжъэ"
+  },
+  {
+    "nacre": "чычыбжъэ"
   },
   {
     "boy": "к1элэц1ык1у (young boy); шъэожъые (rare) (young boy); к1алэ (boy, teenage boy or young man)"
@@ -15151,9 +15175,6 @@
   },
   {
     "miserable time": "тхьамык1агъу; игъуадж"
-  },
-  {
-    "there is no solution": "пчъэ и1эп"
   },
   {
     "wordless": "гущы1анчъэ"
@@ -15804,10 +15825,10 @@
     "to distrust": "цыхьэ мыш1ын; цыхьэ фэмыш1ын (to distrust someone)"
   },
   {
-    "to spare": "шъхьасын (to have mercy for); гъэш1он (to spare for the future); лъэхэнэн (to spare/forgive someone from a grudge, punishment or debt)"
+    "to spare": "шъхьасын (to have mercy for); гъэш1он (to spare for the future); лъэхэнэн (to spare/forgive someone from a grudge, punishment or debt); гук1эгъу фэлъэгъун (to show mercy for)"
   },
   {
-    "to have mercy for": "шъхьасын"
+    "to have mercy for": "шъхьасын; гук1эгъу фэлъэгъун (to show mercy for)"
   },
   {
     "to salt": "щыун"
@@ -15870,7 +15891,7 @@
     "to be confused": "зэ1ыхьан"
   },
   {
-    "to pity": "шъхьасын; гук1эгъу фэш1ын; гу егъун (гуегъун)"
+    "to pity": "шъхьасын; гук1эгъу фэш1ын; гу егъун (гуегъун); гук1эгъу фэлъэгъун (to show mercy for)"
   },
   {
     "to have mercy": "шъхьасын (to have mercy upon); гук1эгъу фэш1ын; гу егъун (гуегъун)"
@@ -16857,6 +16878,9 @@
     "rifle": "шхонч; к1эрахъо"
   },
   {
+    "to sigh": "хэщэтык1ын"
+  },
+  {
     "musket": "шхонч"
   },
   {
@@ -17500,6 +17524,9 @@
   },
   {
     "sand bar": "ныджы"
+  },
+  {
+    "sandbar": "ныджы"
   },
   {
     "sand bank": "ныджы"
@@ -18615,7 +18642,7 @@
     "to swingle": "гъэтхъын"
   },
   {
-    "meaningless": "мэхьанэнчъэ; пк1энчъ; (vulgar) шъхьи шъути и1эп"
+    "meaningless": "мэхьанэнчъэ; пк1э и1эп; пк1энчъ; (vulgar) шъхьи шъути и1эп"
   },
   {
     "to take pride": "рыгушхон"

@@ -3498,7 +3498,16 @@
     "definitions": [
       {
         "meaning": "snake",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Блэр''' ытхык1э мэц1анлъэ",
+            "translation": "'''The snake''' is crawling on its stomach."
+          },
+		  {
+            "sentence": "'''Блэ''' ц1анлъэу сылъэгъугъ мыжъомэ адэжьык1э",
+            "translation": "I saw '''a snake''' crawling near the stones."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -6968,7 +6977,12 @@
     "definitions": [
       {
         "meaning": "weapon, arms",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Пыйхэр къак1ох '''1ашэхэр''' а1ыгъэхэу",
+            "translation": "The foes are coming holding '''weapons'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -9871,8 +9885,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "beach",
-        "examples": []
+        "meaning": "beach; shore",
+        "examples": [
+          {
+            "sentence": "Хьамлашк1о '''хы гъунэм''' къы1узгъотагъ",
+            "translation": "I found a shell in '''the beach'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -15199,11 +15218,28 @@
         "examples": [
           {
             "sentence": "к1алэм л1ыр '''ипый'''",
-            "translation": "The man is the boy's [[enemy]]."
+            "translation": "The man is the boy's enemy."
           },
           {
             "sentence": "л1ымрэ к1алэмрэ '''зэпыих'''",
             "translation": "The boy and the man are '''enemies'''."
+          },
+          {
+            "sentence": "'''Пыим''' гук1эгъу фэплъэгъоу хъущтэп",
+            "translation": "You must not show mercy upon '''the enemy'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "foe",
+        "examples": [
+          {
+            "sentence": "Л1ым '''ипыйхэм''' чатэк1э ао",
+            "translation": "The man strikes '''his foes''' with a sword."
+          },
+		  {
+            "sentence": "'''Пыйхэр''' къак1ох 1ашэхэр а1ыгъэхэу",
+            "translation": "'''The foes''' are coming having weapons."
           }
         ]
       }
@@ -35750,6 +35786,10 @@
           {
             "sentence": "Зы тон '''сы1ыгъэшъущтэп'''",
             "translation": "'''I can't hold''' 1 ton."
+          },
+		  {
+            "sentence": "Пыйхэр къак1ох 1ашэхэр '''а1ыгъэхэу'''",
+            "translation": "The foes are coming '''holding''' weapons."
           }
         ]
       },
@@ -41106,6 +41146,10 @@
           {
             "sentence": "К1алэм зигъэбылъыгъ, ет1анэ '''къамыгъотым''' къок1ыжьыгъ",
             "translation": "The boy hid himself, and then '''when they did not find him''' he came out."
+          },
+		  {
+            "sentence": "Хьамлашк1о хы гъунэм '''къы1узгъотагъ'''",
+            "translation": "'''I found''' a shell in the beach."
           }
         ]
       }
@@ -59092,6 +59136,10 @@
         "meaning": "soldier",
         "examples": [
           {
+            "sentence": "'''Дзэк1ол1ыр''' мэц1анлъэ",
+            "translation": "'''The soldier''' is crawling."
+          },
+		  {
             "sentence": "Заом '''дзэк1ол1ыхэр''' ятхьэматэ лъэк1ох",
             "translation": "In war '''the soldiers''' are following their leader."
           },
@@ -63102,6 +63150,10 @@
             "translation": "The jeep while being on the dirt '''is slipping'''."
           }
         ]
+      },
+	  {
+        "meaning": "(some dialects) to crawl; to creep",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -83077,7 +83129,7 @@
         "meaning": "for",
         "examples": [
           {
-            "sentence": "Сиянэ '''фэш1к1э''' тучаным сэк1о",
+            "sentence": "Сянэ '''фэш1к1э''' тучаным сэк1о",
             "translation": "I am going to the shop '''for''' my mother."
           },
 		  {
@@ -83099,6 +83151,14 @@
 		  {
             "sentence": "Ащ '''фэш1к1э''' ащ ымыш1эн щы1эп",
             "translation": "'''For the sake of''' him/her, there's nothing (s)he won't do."
+          },
+		  {
+            "sentence": "Силъэпкъэгъумэ '''афэш1ык1э''' сэзао",
+            "translation": "I am fighting '''for''' my people."
+          },
+		  {
+            "sentence": "Синыбджэгъумэ '''афэш1ык1э''' тучаным сэк1о",
+            "translation": "I am going to the shop '''for''' my friends."
           }
         ]
       },
@@ -83195,6 +83255,14 @@
             "translation": "We came to the house '''for you'''."
           },
 		  {
+            "sentence": "Силъэпкъэгъумэ '''апай''' сэзао",
+            "translation": "I am fighting '''for''' my people."
+          },
+		  {
+            "sentence": "Синыбджэгъумэ '''апай''' тучаным сэк1о",
+            "translation": "I am going to the shop '''for''' my friends."
+          },
+		  {
             "sentence": "К1элэц1ык1ум  '''пае''' къахьыгъ джэгуалъэ",
             "translation": "They brought toy '''for''' the little kid."
           },
@@ -83211,7 +83279,7 @@
             "translation": "'''For the sake of''' him/her, there's nothing (s)he won't do."
           },
 		  {
-            "sentence": "Сиянэ '''пае''' тучаным сэк1о",
+            "sentence": "Сянэ '''пае''' тучаным сэк1о",
             "translation": "I am going to the shop '''for''' my mother."
           },
           {
@@ -83996,6 +84064,10 @@
           {
             "sentence": "Сыдрэ 1офи у1эхэр бгъэлэжьэн фай",
             "translation": "In '''each''' task you need to work up your hands."
+          },
+          {
+            "sentence": "'''Сыдрэ''' 1офыми чэзыу и1",
+            "translation": "There is time for '''every''' work."
           }
         ]
       }
@@ -90109,16 +90181,29 @@
     "ipa": "ʔət͡ʃʼaʁaħaːn"
   },
   {
+    "word": "хэщэтык1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to sigh, to take breath",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "xaɕatət͡ʃʼən"
+  },
+  {
     "word": "егъэгъотын",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to make someone find something",
-        "examples": []
-      },
-      {
-        "meaning": "to supply",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм шхын тхьамык1эм '''ригъэгъотыгъ'''",
+            "translation": "The boy '''made''' the poor one '''find''' food."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -90144,24 +90229,24 @@
         "meaning": "to distribute between, to divide between, to split between",
         "examples": [
           {
-            "sentence": "Л1ым ич1ыгу ик1алэхэм '''ятегощагъ'''",
+            "sentence": "Л1ым ич1ыгу ык1алэхэм '''атегощагъ'''",
             "translation": "The man '''divided''' his land to his boys."
           },
           {
-            "sentence": "Нанэм чоколадэр исабыймэ зэфэдизэу '''ятегощагъ'''",
+            "sentence": "Ным чоколадэр ысабыймэ зэфэдизэу '''атегощагъ'''",
             "translation": "The mother '''distribute''' the chocolate equally '''between''' her children."
           },
           {
-            "sentence": "IофшIэныр IофышIэмэ '''атегощэн'''",
-            "translation": "'''To split''' work '''among''' employees."
+            "sentence": "1офш1эныр лэжьак1охэмэ '''атегощэн'''",
+            "translation": "'''To split''' work '''among''' the workers."
           },
           {
             "sentence": "Нек1о 1офыр тэ тыт1умк1э '''зэтэтегощэщт'''",
-            "translation": "Let's '''split''' the work '''among us'''."
+            "translation": "Let's '''split''' the work '''among us two'''."
           },
           {
             "sentence": "Псэу у1ыгъыр тэрэзэу  къэгъагъэхэм '''атепыгощэн''' фай",
-            "translation": "'''You''' need '''to distribute''' the water you have '''between''' the flowers."
+            "translation": "'''You''' need '''to distribute''' the water you have '''between''' the flowers correctly."
           }
         ]
       }
@@ -90175,7 +90260,12 @@
     "definitions": [
       {
         "meaning": "to groan",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ыр '''мэгырзы'''",
+            "translation": "The man '''groans'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -90201,19 +90291,27 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to get tired",
+        "meaning": "to get tired; to get exhausted",
         "examples": [
           {
             "sentence": "'''Сыпшъыгъ'''",
             "translation": "'''I got tired'''."
           },
           {
-            "sentence": "Бэрэ учъымэ '''упшъыщт'''",
+            "sentence": "Бэрэ учъэмэ '''упшъыщт'''",
             "translation": "If you run a lot '''you will get tired'''."
           },
 		  {
             "sentence": "Сызык1ежьэжьырэр '''сыпшъыгъэшъ''' ары",
-            "translation": "I’m going because '''I’m tired'''."
+            "translation": "I am going because '''I am tired'''."
+          },
+		  {
+            "sentence": "Мы 1офым '''сигъэпшъыгъ'''",
+            "translation": "This work '''exhausted''' me."
+          },
+		  {
+            "sentence": "Л1ыр унэм '''пшъыгъэу''' къихьэжьыгъ",
+            "translation": "The man returned home '''exhausted'''."
           }
         ]
       }
@@ -90231,6 +90329,10 @@
           {
             "sentence": "Сымаджэм '''щэ1уныр''' ихабз",
             "translation": "It is the sick's habit '''to groan'''."
+          },
+		  {
+            "sentence": "Ц1ыфыр '''мэщэ1у'''",
+            "translation": "The person '''is moaning'''."
           }
         ]
       }
@@ -90246,17 +90348,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "all",
-        "examples": [
-          {
-            "sentence": "Пшъашъэ '''зэужэуым''' уанахьы дах",
-            "translation": "You are the most beautiful '''among all''' the girls."
-          },
-          {
-            "sentence": "Синыбджэгъу '''зэужэум''' сыкъеджэщт непчыхьэ",
-            "translation": "I will call '''all''' my friends tonight."
-          }
-        ]
+        "meaning": "all; alternative form of \"зэк1э\",",
+        "examples": []
       }
     ],
     "synonyms": [
@@ -90267,19 +90360,21 @@
     "ipa": "zawʒaw"
   },
   {
-    "word": "пс1ашъухъо",
+    "word": "ч1ышъхьашъо",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"пц1ашхъо\"",
-        "examples": []
+        "meaning": "ground surface",
+        "examples": [
+          {
+            "sentence": "'''Ч1ышъхьашъом''' уцхэр къытек1эх",
+            "translation": "Plants are growing on '''the ground surface'''."
+          }
+        ]
       }
     ],
-    "synonyms": [
-      "пц1ашхъо"
-    ],
     "type": "noun",
-    "ipa": "psˤʼaːʃʷχʷa"
+    "ipa": "t͡ʂʼəʂħaːʃʷa"
   },
   {
     "word": "ет1апц1э",
@@ -90290,24 +90385,7 @@
         "examples": []
       }
     ],
-    "synonyms": [
-      "ет1апс1э"
-    ],
-    "type": "noun",
-    "ipa": "jatʼaːpt͡sʼa"
-  },
-  {
-    "word": "ет1апс1э",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"ет1апц1э\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "ет1апц1э"
-    ],
+    "shapsug": "ет1апс1э",
     "type": "noun",
     "ipa": "jatʼaːpt͡sʼa"
   },
@@ -90316,26 +90394,20 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "bare naked, bare-assed, bare-bottomed, a person that his buttock/butt is visible",
+        "meaning": "butt-naked, bare naked, bare-assed, bare-bottomed, a person that his buttock/butt is visible",
         "examples": [
           {
             "sentence": "К1алэр '''шъутыпц1э'''",
             "translation": "The boy '''is bare naked'''."
           },
           {
-            "sentence": "'''Шъутыпц1эу''' къэпк1охьымэ укъагъэуцут",
-            "translation": "'''If you''' go around '''half naked''' they gonna arrest you."
+            "sentence": "'''Шъутыпц1эу''' къэпк1ухьэмэ укъагъэуцущт",
+            "translation": "'''If you''' go around '''half naked''' they going to arrest you."
           }
         ]
-      },
-      {
-        "meaning": "butt-naked",
-        "examples": []
       }
     ],
-    "synonyms": [
-      "шъутыпс1э"
-    ],
+    "shapsug": "шъутыпс1э",
     "type": "adj",
     "ipa": "ʃʷətəpsʼa"
   },
@@ -90344,28 +90416,24 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "bareheaded, a person without any cover on the head like headgear, hat and veil.",
-        "examples": []
+        "meaning": "bareheaded (having no covering on the head such as helmet, headgear, headcover, hat and veil)",
+        "examples": [
+          {
+            "sentence": "'''Шъхьапц1ыр''' ц1ыф ышъхьэ шъхьэтелъхьэ зи темылъэу",
+            "translation": "'''Bareheaded''' is a person that has no headcover on his head."
+          },
+		  {
+            "sentence": "Л1ыр заом хэт '''шъхьапц1эу'''",
+            "translation": "The man is in the war '''bareheaded'''."
+          },
+		  {
+            "sentence": "Муслымэн динымк1э, бзылъфыгъэр '''шъхьапц1эу''' хъуштэп",
+            "translation": "In the religous of Islam, it is forbidden for a woman to be '''bareheaded'''."
+          }
+        ]
       }
     ],
-    "synonyms": [
-      "шъхьапс1э"
-    ],
-    "type": "noun",
-    "ipa": "ʂħaːpt͡sʼa"
-  },
-  {
-    "word": "шъхьапс1э",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"шъхьапц1э\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "шъхьапц1э"
-    ],
+    "shapsug": "шъхьапс1э",
     "type": "noun",
     "ipa": "ʂħaːpt͡sʼa"
   },
@@ -90374,19 +90442,91 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to crawl",
-        "examples": []
+        "meaning": "to crawl; to creep",
+        "examples": [
+          {
+            "sentence": "Дзэк1ол1ыр '''мэц1анлъэ'''",
+            "translation": "The soldier '''is crawling'''."
+          },
+		  {
+            "sentence": "Блэр ытхык1э '''мэц1анлъэ'''",
+            "translation": "The snake '''is crawling''' on its stomach."
+          },
+		  {
+            "sentence": "Блэ '''ц1анлъэу''' сылъэгъугъ мыжъомэ адэжьык1э",
+            "translation": "I saw a snake '''crawling''' near the stones."
+          },
+		  {
+            "sentence": "Блэр гъогум '''щэц1анлъэ'''",
+            "translation": "The snake '''is crawling''' on the road."
+          }
+        ]
       },
       {
         "meaning": "to walk dragging oneself",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ыжъыр '''ц1анлъэу''' мак1о",
+            "translation": "The old-man is going '''dragging himself'''."
+          }
+        ]
       }
     ],
     "synonyms": [
       "пшын"
     ],
+    "shapsug": "ц1элъэн",
     "type": "verb",
     "ipa": "t͡sʼaɬan"
+  },
+  {
+    "word": "пшэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to crawl; alternative form of \"пшын\",",
+        "examples": []
+      },
+      {
+        "meaning": "to knead; to puddle",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "ц1энлъэн"
+    ],
+    "type": "verb",
+    "ipa": "pʃan"
+  },
+  {
+    "word": "пшын",
+    "lang": "Adyghe",
+    "definitions": [
+      "meaning": "to crawl; to creep",
+        "examples": [
+          {
+            "sentence": "Дзэк1ол1ыр '''мэпшы'''",
+            "translation": "The soldier '''is crawling'''."
+          },
+		  {
+            "sentence": "Блэр ытхык1э '''мэпшы'''",
+            "translation": "The snake '''is crawling''' on its stomach."
+          },
+		  {
+            "sentence": "Блэ '''пшэу''' сылъэгъугъ мыжъомэ адэжьык1э",
+            "translation": "I saw a snake '''crawling''' near the stones."
+          },
+		  {
+            "sentence": "Блэр гъогум '''щэпшы'''",
+            "translation": "The snake '''is crawling''' on the road."
+          }
+        ]
+    ],
+    "synonyms": [
+      "ц1энлъэн"
+    ],
+    "type": "verb",
+    "ipa": "pʃən"
   },
   {
     "word": "гъонлагъ",
@@ -90408,33 +90548,71 @@
         "meaning": "skinny, slim (generally beyond what looks beautiful)",
         "examples": [
           {
-            "sentence": "Ц1ыф '''гъонлагъу'''",
+            "sentence": "Ц1ыф '''гъонлагъ'''",
             "translation": "A '''slim''' person."
           },
           {
-            "sentence": "'''гъонлагъужъэр'''",
-            "translation": "'''The very skinny guy'''."
+            "sentence": "Умышхэмэ '''гъонлагъэу''' ухъущт",
+            "translation": "If you do not eat you will become '''skinny'''."
           }
         ]
       }
     ],
     "synonyms": [
-      "гъолагъэ"
+      "оды"
     ],
     "type": "adj",
     "ipa": "ʁʷanɮaːʁa"
   },
   {
-    "word": "хьамлашк1у",
+    "word": "чычыбжъэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "snail",
+        "meaning": "mother-of-pearl; nacre",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "ħaːmɮaːʃkʷʼ"
+    "ipa": "t͡ʃət͡ʃəbʐa"
+  },
+  {
+    "word": "хьамлашк1о",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "shell, seashell",
+        "examples": [
+          {
+            "sentence": "'''Хьамлашк1о''' хы гъунэм къы1узгъотагъ",
+            "translation": "I found '''a shell''' in the beach."
+          },
+		  {
+            "sentence": "'''Хьамлашк1охэр''' хы ныджмэ а1олъых",
+            "translation": "'''The shells''' are in the sea sandbars."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ħaːmɮaːʃkʷʼa"
+  },
+  {
+    "word": "ныджы",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "sandbar, sand bar, sand bank",
+        "examples": [
+          {
+            "sentence": "Хьамлашк1охэр хы '''ныджмэ''' а1олъых",
+            "translation": "The shells are in the sea '''sandbars'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "nəd͡ʒə"
   },
   {
     "word": "к1элэхъу",
@@ -90468,11 +90646,11 @@
         "meaning": "time",
         "examples": [
           {
-            "sentence": "Нэшэ-хъырбыдзым ичэзыу",
-            "translation": "It is '''time''' the watermelon."
+            "sentence": "Нэшэ-хъырбыдзым '''ичэзыу'''",
+            "translation": "It is the watermelon's '''time'''."
           },
           {
-            "sentence": "Сыдрэ Iофыми чэзыу иI",
+            "sentence": "Сыдрэ 1офыми '''чэзыу''' и1",
             "translation": "There is '''time''' for every work."
           }
         ]
@@ -90481,8 +90659,12 @@
         "meaning": "turn",
         "examples": [
           {
-            "sentence": "Ащ ичэзыу ыхьыгъах",
-            "translation": "He took them on his '''turn'''."
+            "sentence": "'''Уичэзыук1э''' к1о",
+            "translation": "Go on  '''your turn'''."
+          },
+		  {
+            "sentence": "'''Cичэзыу''' къэсыгъ",
+            "translation": "'''It is my turn now'''."
           }
         ]
       }
@@ -90495,24 +90677,20 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "time",
+        "meaning": "time (of)",
         "examples": [
           {
-            "sentence": "щэджэгъуашхэм игъу",
-            "translation": "Launch time."
-          },
-          {
-            "sentence": "игъо ифэн",
-            "translation": "to be in time."
+            "sentence": "щэджэгъуашхэм '''игъу'''",
+            "translation": "Launch '''time'''."
           }
         ]
       },
       {
-        "meaning": "good mood",
+        "meaning": "good time; time of happiness; time of prosperity, time of well-being",
         "examples": [
           {
-            "sentence": "цIыфым '''игъоуи''' игъуаджэуи къыхэкIы",
-            "translation": "a person has a '''good mood''' and a bad one."
+            "sentence": "ц1ыфым '''игъоуи''' игъуаджэуи къыхэк1ы",
+            "translation": "a person has '''good times''' and bad ones."
           }
         ]
       }
@@ -90528,20 +90706,35 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "misfortune time",
+        "meaning": "misfortune time; bad time",
         "examples": [
           {
-            "sentence": "Игъуаджэ къехъулIагъ",
+            "sentence": "Игъуаджэ къехъул1агъ",
             "translation": "A '''misfortune''' happened to him."
           }
         ]
-      },
+      }
+    ],
+    "synonyms": [
+      "тхьамык1агъу",
+      "насыпынчъэ",
+      "тхьамык1эгъо",
+      "гъэны",
+      "мыгъо"
+    ],
+    "type": "noun",
+    "ipa": "jəʁʷaːd͡ʒ"
+  },
+  {
+    "word": "хъугъэ-ш1агъ",
+    "lang": "Adyghe",
+    "definitions": [
       {
-        "meaning": "accident",
+        "meaning": "event",
         "examples": [
           {
-            "sentence": "Игъуаджэ хъугъэ",
-            "translation": "An '''accident''' has happened."
+            "sentence": "историческэ '''хъугъэ-ш1агъ'''",
+            "translation": "Historical '''event'''."
           }
         ]
       }
@@ -90564,7 +90757,7 @@
         "meaning": "misfortune time; miserable time",
         "examples": [
           {
-            "sentence": "ТхьамыкIагъо къыщышIыгъ",
+            "sentence": "'''Тхьамык1агъо''' къыщыш1ыгъ",
             "translation": "A '''misfortune''' has happened to him."
           }
         ]
@@ -90580,11 +90773,11 @@
     "ipa": "tħaːmət͡ʃʼaːʁʷ"
   },
   {
-    "word": "пчъэ и1эп",
+    "word": "пк1э и1эп",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "there is no solution",
+        "meaning": "meaningless",
         "examples": []
       }
     ],
@@ -103384,18 +103577,6 @@
     "ipa": "ʁawʂabən"
   },
   {
-    "word": "ныджы",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "sand bar, sand bank",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "nəd͡ʒə"
-  },
-  {
     "word": "уалъэ",
     "lang": "Adyghe",
     "definitions": [
@@ -104227,25 +104408,6 @@
     ],
     "type": "verb",
     "ipa": "qəɕəwnan"
-  },
-  {
-    "word": "пшын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to crawl",
-        "examples": []
-      },
-      {
-        "meaning": "to walk dragging oneself",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "ц1энлъэн"
-    ],
-    "type": "verb",
-    "ipa": "pʃən"
   },
   {
     "word": "ушъыбын",
