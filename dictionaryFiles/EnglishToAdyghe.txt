@@ -11028,7 +11028,10 @@
     "dream": "пк1ыхь; пк1ыхьап1э"
   },
   {
-    "time": "уахътэ; гъо; чэзыу (turn); игъу (one's time); лъэхъаны (era); гъогогъу (as in гъогогъуищы: three times); -гъу (suffix)"
+    "time": "уахътэ; гъо; чэзыу (turn); игъу (one's time); лъэхъаны (era); гъогогъу (as in гъогогъуищы: three times); -гъу (suffix); иуахътэ (in time, in its appropriate time, just in time)"
+  },
+  {
+    "in time": "иуахътэ (in time, just in time, in its appropriate time)"
   },
   {
     "times": "гъогогъу (as in гъогогъуищы: three times)"
@@ -15075,19 +15078,28 @@
     "to go under": "ч1эхьан"
   },
   {
-    "to receive": "1эк1эхьан"
+    "to get": "1эк1эхьан / къы1эк1эхьан; 1эгъэк1эхьан (to make someone get something); зы1эк1эгъэхьажьын (to make oneself get something)"
   },
   {
-    "to gain": "къэгъэхъэн (to earn); 1эк1эхьан / къы1эк1эхьан (to get ahold of); зы1эк1эгъэхьан (to make oneself get ahold of)"
+    "to obtain": "1эк1эхьан / къы1эк1эхьан; 1эгъэк1эхьан (to make someone obtain something); зы1эк1эгъэхьажьын (to make oneself obtain something)"
   },
   {
-    "to take possession of": "1эк1эхьан / къы1эк1эхьан; зы1эк1эгъэхьан (to make oneself take possession of)"
+    "to acquire": "1эк1эхьан / къы1эк1эхьан; 1эгъэк1эхьан (to make someone acquire something); зы1эк1эгъэхьажьын (to make oneself acquire something)"
   },
   {
-    "to get ahold of": "1эк1эхьан / къы1эк1эхьан; зы1эк1эгъэхьан (to make oneself get ahold of)"
+    "to receive": "1эк1эхьан / къы1эк1эхьан; 1эгъэк1эхьан (to make someone receive something); зы1эк1эгъэхьажьын (to make oneself receive something)"
   },
   {
-    "to supply": "1эк1эгъэхьан"
+    "to gain": "къэгъэхъэн (to earn); 1эк1эхьан / къы1эк1эхьан (to get ahold of); 1эгъэк1эхьан (to make someone gain something); зы1эк1эгъэхьажьын (to make oneself gain something)"
+  },
+  {
+    "to take possession of": "1эк1эхьан / къы1эк1эхьан; 1эгъэк1эхьан (to make someone take possession of something); зы1эк1эгъэхьажьын (to make oneself take possession of something)"
+  },
+  {
+    "to get ahold of": "1эк1эхьан / къы1эк1эхьан; 1эгъэк1эхьан (to make someone get ahold of something); зы1эк1эгъэхьажьын (to make oneself get ahold of something)"
+  },
+  {
+    "to supply": "1эк1эгъэхьан; егъэгъотын"
   },
   {
     "to provide": "1эк1эгъэхьан; егъэгъотын"
@@ -18642,7 +18654,7 @@
     "to swingle": "гъэтхъын"
   },
   {
-    "meaningless": "мэхьанэнчъэ; пк1э и1эп; пк1энчъ; (vulgar) шъхьи шъути и1эп"
+    "meaningless": "мэхьанэнчъэ; мэхьанэ и1эп; пк1э и1эп; пк1энчъ; (vulgar) шъхьи шъути и1эп"
   },
   {
     "to take pride": "рыгушхон"

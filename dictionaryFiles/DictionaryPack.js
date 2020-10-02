@@ -6321,7 +6321,12 @@
     "definitions": [
       {
         "meaning": "time",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Мы 1офым '''иуахътэк1э''' къэтфэухышъущтэп",
+            "translation": "We cannot finish this work '''in time'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -80069,11 +80074,19 @@
         ]
       },
       {
-        "meaning": "to get ahold of a certain possession",
+        "meaning": "to obtain, to acquire, to gain, to get ahold of a certain possession",
         "examples": [
           {
-            "sentence": "Чатэ '''къэсгъэхъэшъугъ'''",
-            "translation": "'''I successfully got ahold of''' a sword."
+            "sentence": "Чатэ '''къэзгъэхъэшъугъ'''",
+            "translation": "'''I successfully obtained''' a sword."
+          },
+		  {
+            "sentence": "Сыд '''къэбгъэхъагъэр''',",
+            "translation": "What '''you obtained'''?"
+          },
+		  {
+            "sentence": "Дышъэ к1алэм '''къигъэхъагъ''',",
+            "translation": "The boy '''obtained''' a gold."
           }
         ]
       }
@@ -90102,7 +90115,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to receive, to gain, to take possession of, to get ahold of",
+        "meaning": "to acquire, to obtain, to get, to receive, to gain, to take possession of, to get ahold of",
         "examples": [
           {
             "sentence": "К1алэм шхын бэ '''1эк1эхьан''' фай",
@@ -90127,6 +90140,10 @@
           {
             "sentence": "Ш1эныгъэ '''къэс1эк1эхьагъ''' о '''къып1эмык1эхьагъэу'''",
             "translation": "'''I received''' knowledge '''that you did not receive'''."
+          },
+		  {
+            "sentence": "Сишхын иуахътэ '''къэс1эк1эхьагъэп'''",
+            "translation": "'''I did not receive''' my food in time."
           }
         ]
       }
@@ -90151,24 +90168,35 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to make someone get ahold of something, to make someone receive something, to make someone gain something",
+        "meaning": "to supply to; to provide to (more specifically: to make someone obtain of something)",
         "examples": [
           {
             "sentence": "К1алэм ар '''къызы1эк1егъэхьан''' фай",
-            "translation": "The boy needs '''to make himself get it'''."
+            "translation": "The boy needs '''to make himself gain it'''."
           },
           {
             "sentence": "Ш1эныгъэ зыгорэм '''1эбгъэк1эхьаныр'''",
-            "translation": "'''To make''' someone '''receive''' knowledge."
-          }
-        ]
-      },
-      {
-        "meaning": "to supply; to provide",
-        "examples": [
-          {
-            "sentence": "Ц1ыфымэ ахъщэ а1эк1эгъэхьаных",
-            "translation": "'''Provide''' money to the people."
+            "translation": "'''To provide''' knowledge '''to''' someone."
+          },
+		  {
+            "sentence": "Пачъыхьым ишхын иуахътэ '''къы1эгъэхьагъ'''",
+            "translation": "'''Provide''' the king his meal in time."
+          },
+		  {
+            "sentence": "Сымаджэм уцыр иуахътэ '''къы1эмыгъэк1ахьэмэ''', л1эщт",
+            "translation": "'''If you don't provide''' the medicine '''to''' the sick in time, they will die."
+          },
+		  {
+            "sentence": "Сымаджэм уцыр иуахътэ '''къы1эбгъэк1эхьан''' фай мыл1энэу",
+            "translation": "'''You''' need '''to provide''' the medicine '''to''' the sick in time so they won't die."
+          },
+		  {
+            "sentence": "Ц1ыфымэ шхын '''а1эгъэк1ахь",
+            "translation": "'''Provide''' food to the people."
+          },
+		  {
+            "sentence": "Робин Хьуд ахъщэ тхьамыщк1эмэ ахъщэ къа1егъэк1ахьэ",
+            "translation": "Robin Hood '''supply''' money to the poor."
           },
           {
             "sentence": "Шхончыхэр дзэм '''1эк1эгъэхьан'''",
@@ -90778,11 +90806,94 @@
     "definitions": [
       {
         "meaning": "meaningless",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Мы 1офым '''пк1э и1эп'''",
+            "translation": "This work '''meaningless'''."
+          },
+		  {
+            "sentence": "'''Пк1э и1эп''', мы 1офыр иуахътэк1э къэтфэухышъущтэп",
+            "translation": "'''It is meaningless''', we cannot finish this work in time."
+          },
+		  {
+            "sentence": "К1алэм ыш1эрэм '''пк1э и1эп'''",
+            "translation": "What the boy is doing is '''meaningless'''."
+          }
+        ]
       }
     ],
     "type": "adv",
-    "ipa": "pt͡ʂa jəʔap"
+    "ipa": "pt͡ʃʼa jəʔap"
+  },
+  {
+    "word": "мэхьанэ и1эп",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "meaningless",
+        "examples": [
+          {
+            "sentence": "Мы 1офым '''мэхьанэ и1эп'''",
+            "translation": "This work '''meaningless'''."
+          },
+		  {
+            "sentence": "'''мэхьанэ и1эп''', мы 1офыр иуахътэк1э къэтфэухыщтэп",
+            "translation": "'''It is meaningless''', we cannot finish this work in time."
+          },
+		  {
+            "sentence": "К1алэм ыш1эрэм '''мэхьанэ и1эп'''",
+            "translation": "What the boy is doing is '''meaningless'''."
+          }
+        ]
+      }
+    ],
+    "type": "adv",
+    "ipa": "məħaːna jəʔap"
+  },
+  {
+    "word": "иуахътэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "in time; just in time; in its appropriate time",
+        "examples": [
+          {
+            "sentence": "Зэ1ук1эным '''иуахътэ''' къак1у",
+            "translation": "Come to the meeting '''in time'''."
+          },
+		  {
+            "sentence": "Мэш1окур '''иуахътэ''' къэсыгъэп",
+            "translation": "The train did not come '''in time'''."
+          },
+		  {
+            "sentence": "Мы 1офыр '''иуахътэк1э''' къэтфэухыщтэп",
+            "translation": "We cannot finish this work '''in time'''."
+          },
+		  {
+            "sentence": "Экзамыныр '''иуахътэк1э''' к1алэм ыухыгъ",
+            "translation": "The boy finished the exam '''in time'''."
+          },
+		  {
+            "sentence": "Сишхын '''иуахътэ''' къэс1эк1эхьагъэп",
+            "translation": "I did not receive my food '''in time'''."
+          },
+		  {
+            "sentence": "Сымаджэм уцыр '''иуахътэ''' къы1эмыгъэк1ахьэмэ, л1эщт",
+            "translation": "If you don't let the sick get the medicine '''in time''', (s)he will die."
+          },
+		  {
+            "sentence": "Сымаджэм уцыр '''иуахътэ''' къы1эбгъэк1эхьан фай мыл1энэу",
+            "translation": "You need to let the sick get the medicine ''in time''' so (s)he won't die."
+          },
+		  {
+            "sentence": "Пачъыхьым ишхын '''иуахътэ''' къы1эгъэхьагъ",
+            "translation": "Provide the king his meal "'''in time"'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "jəwaːχta"
   },
   {
     "word": "гущы1анчъэ",
