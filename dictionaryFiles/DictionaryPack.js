@@ -10886,7 +10886,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "like that",
+        "meaning": "like that; that way; in that manner",
         "examples": []
       }
     ],
@@ -10898,8 +10898,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "like this",
-        "examples": []
+        "meaning": "like this; this way; in this manner",
+        "examples": [
+          {
+            "sentence": "Жъэжъащэу шъолажьэ, '''мыщтэу''' иуахътэк1э 1офыр тыухыщтэп",
+            "translation": "You guys work too slowly, we won't finish the job in time '''this way'''."
+          }
+        ]
       }
     ],
     "type": "adv",
@@ -10910,7 +10915,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "like this",
+        "meaning": "like that",
         "examples": []
       }
     ],
@@ -17379,6 +17384,10 @@
           {
             "sentence": "Илъэс хъугъэ '''1офы''' зэсымыгъотыр",
             "translation": "It have already been a year since I couldn't find a '''job'''."
+          },
+		  {
+            "sentence": "Жъэжъащэу шъолажьэ, мыщтэу иуахътэк1э '''1офыр''' тыухыщтэп",
+            "translation": "You guys work too slowly, we won't finish '''the job''' in time this way."
           }
         ]
       },
@@ -20595,7 +20604,12 @@
     "definitions": [
       {
         "meaning": "wet",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Лъэоер '''ц1ынэ''', сыфэсакъ уемыц1эшъутэхынэу",
+            "translation": "The staircase is '''wet''', be careful not to slip down."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -20802,6 +20816,10 @@
 		  {
             "sentence": "Телефоныр сыплъэк1угъ псынк1эу '''лажьэмэ'''",
             "translation": "I checked the phone '''if it works''' fast."
+          },
+		  {
+            "sentence": "Жъэжъащэу '''шъолажьэ''', мыщтэу иуахътэк1э 1офыр тыухыщтэп",
+            "translation": "'''You guys work''' too slowly, we won't finish the job in time this way."
           }
         ]
       },
@@ -21746,14 +21764,18 @@
             "translation": "The old-man is walking '''slowly'''."
           },
           {
+            "sentence": "'''Жъэжъащэу''' шъолажьэ, мыщтэу иуахътэк1э 1офыр тыухыщтэп",
+            "translation": "'''You guys work too slowly''', we won't finish the job in time this way."
+          },
+          {
             "sentence": "Кур '''жъажъэ''' нэмы1эк1э автобус къэтечъыгъ",
             "translation": "The car was so '''slow''' we were overtaken by a bus."
+          },
+		  {
+            "sentence": "К1элэегъаджэр '''жъэжъащэу''' матхэ",
+            "translation": "The teacher writes '''too slowly'''."
           }
         ]
-      },
-      {
-        "meaning": "sluggish",
-        "examples": []
       }
     ],
     "synonyms": [
@@ -27435,6 +27457,10 @@
 		  {
             "sentence": "'''Псынк1эу''' псы къэсфэхь",
             "translation": "Bring me the water '''fast'''."
+          },
+          {
+            "sentence": "к1элэегъаджэм '''псынк1ащэу''' етхи егъэуш1ои, иуахътэк1э тесытхык1ышъурэп",
+            "translation": "The teacher writes and erases '''too fast''', I cannot copy him in time."
           }
         ]
       },
@@ -33019,7 +33045,13 @@
     "definitions": [
       {
         "meaning": "teacher",
-        "examples": []
+        "examples": [
+          ,
+          {
+            "sentence": "'''к1элэегъаджэм''' псынк1ащэу етхи егъэуш1ои, иуахътэк1э тесытхык1ышъурэп",
+            "translation": "'''The teacher''' writes and erases too fast, I cannot copy him in time."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -34815,6 +34847,10 @@
             "translation": "'''Kindle fire'''."
           },
 		  {
+            "sentence": "К1алэм мэш1ощыхъум '''маш1о хигъэнагъ'''",
+            "translation": "The boy '''ignited''' the match."
+          }
+		  {
             "sentence": "Л1ым чъыгым '''маш1о хигъэнагъ'''",
             "translation": "The man '''set''' the tree '''on fire'''."
           },
@@ -34935,7 +34971,12 @@
       },
 	  {
         "meaning": "to ignite; alternative form of \"маш1о хэгъэнэн\"",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм мэш1ощыхъур '''хигъэнагъ'''",
+            "translation": "The boy '''ignited''' the match."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -43976,6 +44017,10 @@
           {
             "sentence": "К1алэм тхылъ '''етхы'''",
             "translation": "The boy '''is writing''' a book."
+          },
+		  {
+            "sentence": "К1элэегъаджэр жъэжъащэу '''матхэ'''",
+            "translation": "The teacher writes too slow."
           }
         ]
       }
@@ -50356,6 +50401,10 @@
           {
             "sentence": "Фылымэр '''ухымэ''' тыгъэк1ожь",
             "translation": "'''When''' the film '''is over''' let's return."
+          },
+		  {
+            "sentence": "Жъэжъащэу шъолажьэ, мыщтэу иуахътэк1э 1офыр '''тыухыщтэп'''",
+            "translation": "You guys work too slowly, '''we won't finish''' the job in time this way."
           }
         ]
       },
@@ -52981,6 +53030,10 @@
           {
             "sentence": "К1алэм тхыгъэр '''егъэуш1ои'''",
             "translation": "The boy '''is erasing''' the written."
+          },
+          {
+            "sentence": "к1элэегъаджэм псынк1ащэу етхи '''егъэуш1ои''', иуахътэк1э тесытхык1ышъурэп",
+            "translation": "The teacher writes and '''erases''' too fast, I cannot copy him in time."
           }
         ]
       }
@@ -73242,44 +73295,6 @@
     "ipa": "waɬan"
   },
   {
-    "word": "к1эшъун",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to suck",
-        "examples": [
-          {
-            "sentence": "Вампирым улъ '''к1ишъущт'''",
-            "translation": "The vampire '''will suck''' the blood out of you."
-          },
-		  {
-            "sentence": "Л1ым псыр турбэм '''к1ыпшъугъ'''",
-            "translation": "The man '''sucks''' the water out of the pipe."
-          },
-		  {
-            "sentence": "Къэгъагъэм псы '''к1эшъун'''",
-            "translation": "'''To suck''' the water out of a flower."
-          }
-        ]
-      },
-      {
-        "meaning": "to drain by extracting water",
-        "examples": [
-          {
-            "sentence": "Л1ым уцым псы '''к1ешъу'''",
-            "translation": "The man '''extracts''' the water out of the plant."
-          }
-        ]
-      },
-      {
-        "meaning": "(vulgar) to perform oral sex",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "t͡ʃʼaʃʷən"
-  },
-  {
     "word": "ышъуты ихын",
     "lang": "Adyghe",
     "definitions": [
@@ -90021,21 +90036,12 @@
     "ipa": "t͡ʃʼawəx"
   },
   {
-    "word": "а т1эк1ум",
+    "word": "ат1эк1ум",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "there (place)",
-        "examples": [
-          {
-            "sentence": "Ц1ыфыхэр '''а т1эк1ум''' к1уагъэх",
-            "translation": "The people went '''there'''."
-          },
-		  {
-            "sentence": "'''А т1эк1ум''' щы1эр плъэгъурагъоп",
-            "translation": "You do not want to see what is '''there'''."
-          }
-        ]
+        "meaning": "alternative form of \"а т1эк1ум\"",
+        "examples": []
       }
     ],
     "type": "adv",
@@ -90895,7 +90901,11 @@
           },
 		  {
             "sentence": "Пачъыхьым ишхын '''иуахътэ''' къы1эгъэхьагъ",
-            "translation": "Provide the king his meal "'''in time"'''."
+            "translation": "Provide the king his meal '''in time'''."
+          },
+		  {
+            "sentence": "Жъэжъащэу шъолажьэ, мыщтэу '''иуахътэк1э''' 1офыр тыухыщтэп",
+            "translation": "You guys work too slowly, we won't finish the job '''in time''' this way."
           }
         ]
       }
@@ -91070,7 +91080,12 @@
     "definitions": [
       {
         "meaning": "meeting place",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Тыдэ щы1 '''тизэ1ук1ап1эр'''?",
+            "translation": "Where is '''our meeting place'''?"
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -91081,17 +91096,29 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to lay inside another object",
+        "meaning": "to lie inside another object; to lie between; to lie inside a defined area",
         "examples": [
           {
-            "sentence": "къэлэмыр '''дэлъ''' тхылъым",
+            "sentence": "Къэлэмыр '''дэлъ''' тхылъым",
             "translation": "The pencil '''is inside''' the book."
+          },
+		  {
+            "sentence": "Къэлэмыр къэлэмдалъхьэм '''дэлъ'''",
+            "translation": "The pencil '''is inside''' the pencil-case."
+          },
+		  {
+            "sentence": "Хьалыгъухэр гъэучъы1алъэм '''дэлъых'''",
+            "translation": "The breads '''are inside''' the refrigerator."
+          },
+		  {
+            "sentence": "1унк1ыбзэр дэгъэчъым '''дэлъыгъ'''",
+            "translation": "The key '''was inside''' the drawer."
+          },
+		  {
+            "sentence": "Пхъэнт1эк1ур щагум '''дэлъ'''",
+            "translation": "The chair '''is in''' the yard."
           }
         ]
-      },
-      {
-        "meaning": "to lay inside a defined area",
-        "examples": []
       }
     ],
     "type": "verb",
@@ -91102,8 +91129,25 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to urinate",
+        "meaning": "to go out to the yard",
         "examples": []
+      },
+	  {
+        "meaning": "to urinate; to pee",
+        "examples": [
+          {
+            "sentence": "'''Щагум ек1ы''' к1алэр",
+            "translation": "The boy '''urinates'''."
+          },
+		  {
+            "sentence": "Нахь бэрэ сызщэ1эшъущтэп, джы '''щагум сык1ын''' фай",
+            "translation": "I cannot hold it any longer, I need '''to pee''' now."
+          },
+		  {
+            "sentence": "'''Щагум сык1ынэу''' сыфай, псыунэм сехьэ",
+            "translation": "'''I''' want '''to pee''', I will enter the toilet."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -91120,7 +91164,7 @@
         "meaning": "to urinate; to piss",
         "examples": [
           {
-            "sentence": "'''мэгъутхьэ''' к1алэр",
+            "sentence": "'''Мэгъутхьэ''' к1алэр",
             "translation": "The boy '''urinates'''."
           },
           {
@@ -91130,6 +91174,10 @@
 		  {
             "sentence": "Нахь бэрэ сызщэ1эшъущтэп, джы '''сыгъутхьан''' фай",
             "translation": "I cannot hold it any longer, I need '''to pee''' now."
+          },
+		  {
+            "sentence": "'''Сыгъутхьанэу''' сыфай, псыунэм сехьэ",
+            "translation": "'''I''' want '''to pee''', I will enter the toilet."
           }
         ]
       }
@@ -91153,7 +91201,7 @@
     "ipa": "laːt͡ʃa"
   },
   {
-    "word": "гьэш",
+    "word": "джэщ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -91161,16 +91209,12 @@
         "examples": []
       }
     ],
-    "synonyms": [
-      "гьэч",
-      "джэнчы"
-    ],
     "kabardian": "джэш",
     "type": "noun",
     "ipa": "ɡʲaʃ"
   },
   {
-    "word": "гьэч",
+    "word": "джэч",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -91208,14 +91252,31 @@
     "definitions": [
       {
         "meaning": "staircase",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Лъэоер''' ц1ынэ, сыфэсакъ уемыц1эшъутэхынэу",
+            "translation": "'''The staircase''' is wet, be careful not to slip down."
+          },
+		  {
+            "sentence": "'''Лъэоемк1э''' унэм л1ыр дэк1оягъ",
+            "translation": "The boy went up the house '''with the staircase'''."
+          }
+        ]
       },
       {
         "meaning": "ladder",
         "examples": [
 		  {
-            "sentence": "Л1ыр '''лъэоек1э''' унашъхьэм дэк1оягъ",
+            "sentence": "Л1ыр '''лъэоемк1э''' унашъхьэм дэк1оягъ",
             "translation": "The man went up the rooftop '''with the ladder'''."
+          },
+		  {
+            "sentence": "'''Лъэое''' к1ыхьэр къэхьи чъыгым тыдэк1оещт",
+            "translation": "Bring the long '''ladder''' and we will climb up the tree."
+          },
+		  {
+            "sentence": "Чъыгым '''лъэоек1э''' дэк1оен",
+            "translation": "To climb up the tree '''with a ladder'''."
           }
         ]
       }
@@ -91232,19 +91293,27 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "that place",
+        "meaning": "that place; there (place)",
         "examples": [
           {
-            "sentence": "А т1эк1ум къыщещхы",
-            "translation": "It rains there."
+            "sentence": "'''А т1эк1ум''' бэрэ къыщещхы",
+            "translation": "It rains '''there''' a lot."
           },
           {
-            "sentence": "Л1ыр а т1эк1ум рэк1уагъ",
-            "translation": "The man went there."
+            "sentence": "Л1ыр '''а т1эк1ум''' рэк1уагъ",
+            "translation": "The man went '''there'''."
           },
           {
-            "sentence": "А т1эк1ум умык1у",
-            "translation": "Don't go there."
+            "sentence": "'''А т1эк1ум''' умык1у",
+            "translation": "Don't go '''there'''."
+          },
+		  {
+            "sentence": "Ц1ыфыхэр '''а т1эк1ум''' к1уагъэх",
+            "translation": "The people went '''there'''."
+          },
+		  {
+            "sentence": "'''А т1эк1ум''' щы1эр плъэгъурагъоп",
+            "translation": "You do not want to see what is '''there'''."
           }
         ]
       }
@@ -91278,35 +91347,58 @@
     "ipa": "ʁʷazəps"
   },
   {
+    "word": "к1эшъун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to suck (to draw something into the mouth by inhaling)",
+        "examples": [
+          {
+            "sentence": "Вампирым улъ '''к1ишъущт'''",
+            "translation": "The vampire '''will suck''' the blood out of you."
+          },
+		  {
+            "sentence": "Л1ым псыр турбэм '''к1ыпшъугъ'''",
+            "translation": "The man '''sucks''' the water out of the pipe."
+          },
+		  {
+            "sentence": "Къэгъагъэм псы '''к1эшъун'''",
+            "translation": "'''To suck''' the water out of a flower."
+          }
+        ]
+      },
+      {
+        "meaning": "to drain by extracting water",
+        "examples": [
+          {
+            "sentence": "Л1ым уцым псы '''к1ешъу'''",
+            "translation": "The man '''extracts''' the water out of the plant."
+          }
+        ]
+      },
+      {
+        "meaning": "(vulgar) to perform oral sex",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "t͡ʃʼaʃʷən"
+  },
+  {
     "word": "уцолъын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(Shapsug dialect) to suck, to suckle (in the only sense of: To work the lips and tongue on (an object) to extract moisture or nourishment; to absorb (something) in the mouth.)",
+        "meaning": "to suck, to suckle (to work the lips and tongue on (an object) to extract moisture or nourishment; to absorb (something) in the mouth.)",
         "examples": [
           {
-            "sentence": "К1алэм шэкэрхафэр '''ецолъы'''",
+            "sentence": "К1алэм лолипоп '''еуцолъы'''",
             "translation": "The boy '''is sucking''' the lollipop."
           },
           {
-            "sentence": "К1алэц1ык1ум иянэ ибыдз '''еуцолъы'''",
+            "sentence": "К1алэц1ык1ум ыянэ ибыдз '''еуцолъы'''",
             "translation": "The little boy '''sucks''' from his mother's breast."
           }
-        ],
-        "tags": [
-          "Shapsug dialect"
-        ]
-      },
-      {
-        "meaning": "(vulgar) to perform fellatio",
-        "examples": [
-          {
-            "sentence": "'''Къэсцолъ'''",
-            "translation": "'''Blow me'''."
-          }
-        ],
-        "tags": [
-          "vulgar"
         ]
       }
     ],
@@ -91361,7 +91453,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be burned inside an area with a hot mass",
+        "meaning": "to burn in an area with a hot mass",
         "examples": [
           {
             "sentence": "Лавэм '''хэстыхьан'''",
@@ -91374,7 +91466,7 @@
         ]
       },
       {
-        "meaning": "to be burned in fire",
+        "meaning": "to burn in fire",
         "examples": [
           {
             "sentence": "Маш1ом '''хэстыхьан'''",
@@ -91396,10 +91488,6 @@
           {
             "sentence": "Жъуагъор '''мэлыды'''",
             "translation": "The star '''is shining'''."
-          },
-          {
-            "sentence": "'''Ц1ыурэ''' пстэури дышъэп",
-            "translation": "All the things that '''shine''' are not gold."
           }
         ]
       }
@@ -91427,8 +91515,16 @@
             "translation": "'''I have diarrhea'''."
           },
           {
-            "sentence": "'''Уныбачъа?'''",
+            "sentence": "'''Ныбачъэу''' сыхъугъ",
+            "translation": "I became '''having diarrhea'''."
+          },
+          {
+            "sentence": "'''Уныбачъа'''?",
             "translation": "'''Do you have diarrhea'''?"
+          },
+          {
+            "sentence": "Щэм '''ныбачъэу''' уш1ышт",
+            "translation": "Milk will make you '''have diarrhea'''."
           }
         ]
       }
@@ -91444,29 +91540,22 @@
         "meaning": "to emit",
         "examples": [
           {
-            "sentence": "къэгъагъэм гъомэ 1эш1у '''къыпехы'''",
+            "sentence": "къэгъагъэм мэ 1эш1у '''къыпехы'''",
             "translation": "The flower '''emits''' great smell."
+          },
+		  {
+            "sentence": "мы уцым щэнаут '''къыпехы'''",
+            "translation": "This plant '''emits''' poison."
+          },
+		  {
+            "sentence": "мыжъом радиация '''къыпехы'''",
+            "translation": "The rock '''emits''' radiation."
           }
         ]
       }
     ],
     "type": "verb",
     "ipa": "pjəxən"
-  },
-  {
-    "word": "пыпсык1ын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to spark (fire)",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "пыпсык1ьын"
-    ],
-    "type": "verb",
-    "ipa": "pəpsət͡ʃʼən"
   },
   {
     "word": "тетхык1ын",
@@ -91480,27 +91569,25 @@
             "translation": "the boy '''copies''' from the girl."
           },
           {
-            "sentence": "мэу '''тэтхык1'''",
-            "translation": "'''Copy''' from here."
+            "sentence": "мы тхылъып1эм тетхагъэхэр '''тетхык1ых'''",
+            "translation": "'''Copy''' the writings from this paper."
           },
           {
-            "sentence": "тестымк1э '''титхык1рэ''' ч1агъэк1ыжьыт",
-            "translation": "In the test, the one that '''copies''' will leave."
+            "sentence": "тестымк1э '''зытетхык1ырэ''' хэдзыщт",
+            "translation": "In the test, the one that '''copies''' will be kicked out."
           },
           {
-            "sentence": "тестымк1э '''къэстэтхык1'''",
-            "translation": "In the test '''copy''' from me."
+            "sentence": "тестымк1э, '''къэстемытхык1'''",
+            "translation": "In the test, '''do not copy''' from me."
           },
           {
-            "sentence": "'''тэсыхык1ышъурэп'''",
-            "translation": "'''I can't copy'''."
+            "sentence": "к1элэегъаджэм псынк1ащэу етхи егъэуш1ои, иуахътэк1э '''тесытхык1ышъурэп'''",
+            "translation": "The teacher writes and erases too fast, '''I cannot copy him''' in time."
           }
         ]
       }
     ],
-    "synonyms": [
-      "тэтхык1ьын"
-    ],
+    "shapsug": "тэтхык1ьын",
     "type": "verb",
     "ipa": "tatxət͡ʃʼən"
   },
@@ -91510,11 +91597,33 @@
     "definitions": [
       {
         "meaning": "spark of fire",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Мэш1уачэр''' сиджанэ къыхахьи сыкъыыстыгъ",
+            "translation": "'''The spark''' went through my shirt and burned me."
+          },
+		  {
+            "sentence": "'''Мэш1уачэр''' к1алэм къытефи иджанэ т1эк1у хистык1ыгъ",
+            "translation": "'''The spark''' hit the boy and slightly burned his shirt."
+          }
+        ]
       },
       {
-        "meaning": "match (to ignite fire with)",
-        "examples": []
+        "meaning": "(dialectal) match (to ignite fire with)",
+        "examples": [
+          {
+            "sentence": "К1алэм '''мэш1уачэр''' хигъэнагъ",
+            "translation": "'The boy ignited '''the match'''."
+          },
+		  {
+            "sentence": "К1алэм '''мэш1уачэмк1э''' маш1о хигъанагъ",
+            "translation": "'The boy ignited fire '''with the match'''."
+          },
+		  {
+            "sentence": "К1алэм '''мэш1уачэр''' щигъахъуи маш1ор хигъанагъ",
+            "translation": "'The boy rubbed '''the match''' and ignited the fire."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -91526,7 +91635,20 @@
     "definitions": [
       {
         "meaning": "match",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''сырнычыр''' хигъэнагъ",
+            "translation": "'The boy ignited '''the match'''."
+          },
+		  {
+            "sentence": "К1алэм '''сырнычымк1э''' маш1о хигъанагъ",
+            "translation": "'The boy ignited fire '''with the match'''."
+          },
+		  {
+            "sentence": "К1алэм '''сырнычыр''' щигъахъуи маш1ор хигъанагъ",
+            "translation": "'The boy rubbed '''the match''' and ignited the fire."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -91541,7 +91663,20 @@
     "definitions": [
       {
         "meaning": "match",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''мэш1ощыхъур''' хигъэнагъ",
+            "translation": "'The boy ignited '''the match'''."
+          },
+		  {
+            "sentence": "К1алэм '''мэш1ощыхъумк1э''' маш1о хигъанагъ",
+            "translation": "'The boy ignited fire '''with the match'''."
+          },
+		  {
+            "sentence": "К1алэм '''мэш1ощыхъур''' щигъахъуи маш1ор хигъанагъ",
+            "translation": "'The boy rubbed '''the match''' and ignited the fire."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -100368,10 +100503,89 @@
             "translation": "The fish '''came up''' to the surface of the sea."
           }
         ]
+      },
+	  {
+        "meaning": "to climb up",
+        "examples": [
+          {
+            "sentence": "Лъэоек1э чъыгым к1алэр '''дэк1оягъ'''",
+            "translation": "The boy '''climbed up''' the tree with a ladder."
+          },
+		  {
+            "sentence": "Къушъххьэм лъакъок1э '''сыдэк1уе'''",
+            "translation": "'''I am climning up''' the mountain on foot."
+          },
+		  {
+            "sentence": "Дэпкъым '''дэк1оен'''",
+            "translation": "'''To climb up''' a wall."
+          }
+        ]
       }
+    ],
+    "synonyms": [
+      "дэцохъоен",
+      "дэпшыен"
     ],
     "type": "verb",
     "ipa": "dakʷʼajan"
+  },
+  {
+    "word": "дэцохъоен",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "to climb up",
+        "examples": [
+          {
+            "sentence": "Лъэоек1э чъыгым к1алэр '''дэцохъоягъ'''",
+            "translation": "The boy '''climbed up''' the tree with a ladder."
+          },
+		  {
+            "sentence": "Къушъххьэм лъакъок1э '''сыдэцохъуае'''",
+            "translation": "'''I am climning up''' the mountain on foot."
+          },
+		  {
+            "sentence": "Дэпкъым '''дэцохъоен'''",
+            "translation": "'''To climb up''' a wall."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "дэпшыен",
+      "дэк1оен"
+    ],
+    "type": "verb",
+    "ipa": "dat͡ʃʷaχʷajan"
+  },
+  {
+    "word": "дэпшыен",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "to climb up",
+        "examples": [
+          {
+            "sentence": "Лъэоек1э чъыгым к1алэр '''дэпшыягъ'''",
+            "translation": "The boy '''climbed up''' the tree with a ladder."
+          },
+		  {
+            "sentence": "Къушъххьэм лъакъок1э '''сыдэпшые'''",
+            "translation": "'''I am climning up''' the mountain on foot."
+          },
+		  {
+            "sentence": "Дэпкъым '''дэпшыен'''",
+            "translation": "'''To climb up''' a wall."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "дэцохъоен",
+      "дэк1оен"
+    ],
+    "type": "verb",
+    "ipa": "dapʃəjan"
   },
   {
     "word": "дэкон",
@@ -113363,5 +113577,18 @@
     ],
     "type": "verb",
     "ipa": "qat͡ʂaħaːn"
+  },
+  {
+    "word": "пыпсык1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to spark",
+        "examples": []
+      }
+    ],
+    "shapsug": "пыпсык1ьын",
+    "type": "verb",
+    "ipa": "pəpsət͡ʃʼən"
   }
 ]

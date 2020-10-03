@@ -6663,6 +6663,15 @@
     "to light": "къыхэнэн (to illuminate); къыхэгъэнэн (to illuminate)"
   },
   {
+    "to spark": "пыпсык1ын; къыхэц1ыук1ын (to spark among other things)"
+  },
+  {
+    "to shine": ""
+  },
+  {
+    "to emit light": "нэфнэ пыпсык1ын"
+  },
+  {
     "to illuminate": "къыхэнэн (to illuminate); къыхэгъэнэн"
   },
   {
@@ -13416,7 +13425,7 @@
     "funambulist": "к1апсэрык1о"
   },
   {
-    "to suck": "к1эшъун; (Shapsug) уцолъын"
+    "to suck": "к1эшъун; уцолъын"
   },
   {
     "to fellate": "к1эшъун"
@@ -13692,7 +13701,7 @@
     "to get agitated": "зэк1эплъыхьан; етэн"
   },
   {
-    "to burn": "стын (to be burning); гъэстын (to burn something); естыл1эн (to stick to the hot surface as a result of burning); тегъэстыхьан (to burn onto something); тегъэстык1ын (to burn off something); хэгъэстык1ын (to burn into something); хэстыхьан (to burn in fire); маш1о хэнэн / маш1о к1энэн (to catch fire; to combust; to get ignited; to begin to burn; to inflame; to go up in flames); маш1о хэгъэнэн / маш1о кӏэгъэнэн (to ignite, to cause to begin to burn, to set on fire); зэхэнэн / зэк1энэн (to catch fire by itself)"
+    "to burn": "стын (to be burning); гъэстын (to burn something); естыл1эн (to stick to the hot surface as a result of burning); тегъэстыхьан (to burn onto something); тегъэстык1ын (to burn off something); хэгъэстык1ын (to burn into something); хэстыхьан (to burn in fire, to burn in an area with a hot mass); маш1о хэнэн / маш1о к1энэн (to catch fire; to combust; to get ignited; to begin to burn; to inflame; to go up in flames); маш1о хэгъэнэн / маш1о кӏэгъэнэн (to ignite, to cause to begin to burn, to set on fire); зэхэнэн / зэк1энэн (to catch fire by itself)"
   },
   {
     "to ignite": "маш1о хэнэн / маш1о к1энэн (to get ignited); маш1о хэгъэнэн / маш1о кӏэгъэнэн (to ignite, to cause to begin to burn)"
@@ -15234,10 +15243,13 @@
     "to have a meeting": "зэ1ук1эн"
   },
   {
-    "to urinate": "щагум ик1ын; (slightly vulgar) гъутхьан; тегъутхьан (to urinate on); ч1эгъутхьан (to urinate under); игъутхьан (to urinate inside); 1угъутхьан (to urinate near); хэгъутхьан (to urinate in an area with fire, liquid or gas)"
+    "to climb": "дэк1оен; дэцохъоен; дэпшыен"
   },
   {
-    "to pee": "щагум ик1ын; (slightly vulgar) гъутхьан; тегъутхьан (to pee on); ч1эгъутхьан (to pee under); игъутхьан (to pee inside); 1угъутхьан (to pee near); хэгъутхьан (to pee in an area with fire, liquid or gas)"
+    "to urinate": "щагум ик1ын; гъутхьан; тегъутхьан (to urinate on); ч1эгъутхьан (to urinate under); игъутхьан (to urinate inside); 1угъутхьан (to urinate near); хэгъутхьан (to urinate in an area with fire, liquid or gas)"
+  },
+  {
+    "to pee": "щагум ик1ын; гъутхьан; тегъутхьан (to pee on); ч1эгъутхьан (to pee under); игъутхьан (to pee inside); 1угъутхьан (to pee near); хэгъутхьан (to pee in an area with fire, liquid or gas)"
   },
   {
     "to piss": "(slightly vulgar) гъутхьан; тегъутхьан (to pee on); ч1эгъутхьан (to pee under); игъутхьан (to pee inside); 1угъутхьан (to pee near); хэгъутхьан (to pee in an area with fire, liquid or gas)"
@@ -15268,12 +15280,6 @@
   },
   {
     "diarrhea": "ныбачъ"
-  },
-  {
-    "to spark": "пыпсык1ын; къыхэц1ыук1ын (to spark among other things)"
-  },
-  {
-    "to emit light": "нэфнэ пыпсык1ын"
   },
   {
     "to copy": "техын (to copy behavior, manner or method from); тетхык1ын (to copy writing from)"
