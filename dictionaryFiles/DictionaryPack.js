@@ -6798,7 +6798,12 @@
     "definitions": [
       {
         "meaning": "window",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Бзылъфыгъэм '''шъхьангъупчъэр''' елъэк1ы хъэдэнк1э",
+            "translation": "The woman wipes '''the window''' with a rag."
+          }
+        ]
       }
     ],
     "kabardian": "щхьэгъубжэ",
@@ -10663,23 +10668,6 @@
     "ipa": "paːɣa"
   },
   {
-    "word": "пхъапэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "a piece of wood",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "пхъэчыпэ",
-      "пхъэжъые"
-    ],
-    "kabardian": "пхъампэ",
-    "type": "noun",
-    "ipa": "pχaːpa"
-  },
-  {
     "word": "цыпкъэ",
     "lang": "Adyghe",
     "definitions": [
@@ -13792,18 +13780,6 @@
     "ipa": "bʁaːʃχʷa"
   },
   {
-    "word": "бгъодж",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "prairie, steppe (an extensive area of relatively flat grassland with few trees)",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "bʁʷad͡ʒ"
-  },
-  {
     "word": "бгъодэк1ын",
     "lang": "Adyghe",
     "definitions": [
@@ -15966,11 +15942,19 @@
         ]
       },
       {
-        "meaning": "to wipe off",
+        "meaning": "to wipe off (filth); to wipe something in order to clean",
         "examples": [
           {
             "sentence": "К1алэм ы1эхэр 1аплъэк1ымк1э '''елъэк1ых'''",
             "translation": "The boy '''wipes''' his hands with a towel."
+          },
+		  {
+            "sentence": "Упэ пэпсы къек1ы, '''лъэк1ыжь'''",
+            "translation": "A snot is coming out your nose, '''wipe it off'''."
+          },
+		  {
+            "sentence": "Бзылъфыгъэм шъхьангъупчъэр '''елъэк1ы''' хъэдэнк1э",
+            "translation": "The woman '''wipes''' the window with a rag."
           }
         ]
       },
@@ -18668,22 +18652,6 @@
     ],
     "type": "noun",
     "ipa": "zaqʷaʃnəʁ"
-  },
-  {
-    "word": "шъофы",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "field (the fields outside the village and town)",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "губгъо",
-      "лэжьыгъэш1апэ"
-    ],
-    "type": "noun",
-    "ipa": "ʂʷafə"
   },
   {
     "word": "лъэжьап1э",
@@ -25056,40 +25024,6 @@
     "ipa": "t͡ʃəkʷˈəħnəqʷ"
   },
   {
-    "word": "лъэныкъу",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "one side of",
-        "examples": [
-          {
-            "sentence": "Итамэ '''лъэныкъоми''' осышхор къыщесымэ",
-            "translation": "On '''one side of''' his shoulder huge snow is snowing."
-          }
-        ]
-      },
-      {
-        "meaning": "side",
-        "examples": []
-      },
-      {
-        "meaning": "district; region; area",
-        "examples": []
-      },
-      {
-        "meaning": "one (of a pair)",
-        "examples": [
-          {
-            "sentence": "Ылъэкъо лъэныкъо '''ыу1эжьыгъ'''",
-            "translation": "He injured '''one''' of his legs."
-          }
-        ]
-      }
-    ],
-    "type": "noun",
-    "ipa": "ɬanəqʷ"
-  },
-  {
     "word": "ч1ылъэтеплъ",
     "lang": "Adyghe",
     "definitions": [
@@ -30954,22 +30888,6 @@
     ],
     "type": "noun",
     "ipa": "maqʷpʼa"
-  },
-  {
-    "word": "губгъо",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "wild (fields)",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "шъофы",
-      "лэжьыгъэш1апэ"
-    ],
-    "type": "noun",
-    "ipa": "ɡʷəbʁʷa"
   },
   {
     "word": "лэжьыгъэш1апэ",
@@ -59524,7 +59442,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to put one's hand into a liquid or gas",
+        "meaning": "to put one's hand into a liquid or gas; to stick one's hand into",
         "examples": [
           {
             "sentence": "К1алэр псым '''хэ1абэ'''",
@@ -59545,6 +59463,10 @@
           {
             "sentence": "Ул1ымэ къэцыхэмэ '''ахэ1аб'''",
             "translation": "If you are a man '''put your hands into''' the thorns."
+          },
+		  {
+            "sentence": "Л1ыр пхъапэк1э шхыным '''хэ1эбагъ'''",
+            "translation": "The man '''touched''' the food with chopsticks."
           }
         ]
       }
@@ -63676,7 +63598,7 @@
         "meaning": "curve, crooked (set at an angle, not vertical or square)",
         "examples": [
           {
-            "sentence": "Чъыгэр '''1онтагъ'''",
+            "sentence": "Чъыгыр '''1онтагъ'''",
             "translation": "The tree '''is crooked'''."
           }
         ]
@@ -63691,6 +63613,10 @@
           {
             "sentence": "Уихъурай '''1онтагъ'''",
             "translation": "Your circle '''is crooked'''."
+          },
+		  {
+            "sentence": "Пкъэур 1аеу щыт, т1эк1у '''1онтагъ'''",
+            "translation": "The pillar is standing badly, it is '''crooked''' a bit."
           }
         ]
       },
@@ -67223,6 +67149,10 @@
 		  {
             "sentence": "К1алэм '''хъэдэнк1э''' джэхашъор елъэк1ы",
             "translation": "The boy cleans the floor '''with a rag'''."
+          },
+		  {
+            "sentence": "Бзылъфыгъэм шъхьангъупчъэр елъэк1ы '''хъэдэнк1э'''",
+            "translation": "The woman wipes the window '''with a rag'''."
           }
         ]
       }
@@ -91690,16 +91620,25 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "snot",
-        "examples": []
-      },
-      {
-        "meaning": "(a piece of) snivel",
-        "examples": []
+        "meaning": "snot; nasal mucus; (a piece of) snivel",
+        "examples": [
+          {
+            "sentence": "'''Пэпсыр''' пэм псэу къык1ирэр ары",
+            "translation": "'''A snot''' is the water that comes out the nose"
+          },
+		  {
+            "sentence": "К1элэц1ык1м '''пэпсы''' къек1ы",
+            "translation": "The little boy's '''snot''' is coming out."
+          },
+		  {
+            "sentence": "Упэ '''пэпсы''' къек1ы, лъэк1ыжь",
+            "translation": "'''A snot''' is coming out your nose, wipe it off."
+          }
+        ]
       }
     ],
     "synonyms": [
-      "пэлэлэжъ",
+      "пэлэнлэжъ",
       "пэщын"
     ],
     "type": "noun",
@@ -91710,23 +91649,45 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "snot",
-        "examples": []
+        "meaning": "snot (more specifically: a snot that is hanging around the nose)",
+        "examples": [
+          {
+            "sentence": "'''Пэлэлэжъыр''' пэпсы пэм къыпылэлэу",
+            "translation": "'''A hanging snot''' is a snot that is hanging off the nose."
+          },
+		  {
+            "sentence": "К1элэц1ык1м '''пэлэлэжъ''' къек1ы",
+            "translation": "The little boy's '''snot''' is coming out."
+          },
+		  {
+            "sentence": "Упэ '''пэлэлэжъ''' къек1ы, лъэк1ыжь",
+            "translation": "'''A snot''' is coming out your nose, wipe it off."
+          }
+        ]
       }
     ],
     "synonyms": [
       "пэпсы"
     ],
     "type": "noun",
-    "ipa": "palalaʐ"
+    "ipa": "palanlaʐ"
   },
   {
     "word": "пылэлын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to droop, to hang down, to dangle",
-        "examples": []
+        "meaning": "to droop, to hang down, to dangle, to hang off",
+        "examples": [
+          {
+            "sentence": "Пэлэлэжъыр пэпсы пэм '''къыпылэлэу'''",
+            "translation": "A hanging snot is a snot that is '''hanging off''' the nose."
+          },
+		  {
+            "sentence": "Тиламбэхэр к1апсэк1э к1ашъом '''къыпылэлых'''",
+            "translation": "Our lambs are '''hanging off''' the ceiling with a rope."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -91759,8 +91720,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to droop, to hang down, to dangle",
-        "examples": []
+        "meaning": "to droop, to hang down, to dangle, to hang off",
+        "examples": [
+          {
+            "sentence": "Пэлэлэжъыр пэпсы пэм '''къелэлэхэу'''",
+            "translation": "A hanging snot is a snot that is '''hanging off''' the nose."
+          },
+		  {
+            "sentence": "Тиламбэхэр к1апсэк1э к1ашъом '''къелэлэхых'''",
+            "translation": "Our lambs are '''hanging off''' the ceiling with a rope."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -91772,15 +91742,56 @@
     "ipa": "qajɬaɬaxən"
   },
   {
+    "word": "пэщын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "snivel, snot (mucus)",
+        "examples": [
+		  {
+            "sentence": "К1элэц1ык1м '''пэщын''' къек1ы",
+            "translation": "The little boy's '''snot''' is coming out."
+          },
+		  {
+            "sentence": "Упэ '''пэщын''' къек1ы, лъэк1ыжь",
+            "translation": "'''A snot''' is coming out your nose, wipe it off."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "пэлэлэжъ",
+      "пэпсы"
+    ],
+    "type": "noun",
+    "ipa": "paʃən"
+  },
+  {
+    "word": "пыщын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"къыпыщын\"",
+        "examples": []
+    ],
+    "synonyms": [
+      "пылэлын",
+      "къыпылэлын",
+      "къелэлэхын"
+    ],
+    "type": "verb",
+    "ipa": "qəpəɕən"
+  },
+  {
     "word": "къыпыщын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to stick out",
+        "meaning": "to stick out on the tip of",
         "examples": [
           {
-            "sentence": "латыр кIыхьащэшъ, къьшэщы",
-            "translation": "Lat is long and sticks out"
+            "sentence": "Быракъыр '''к1ыхьащэшъ''', 1аеу унэм къыпэщы",
+            "translation": "Because the flag is too long, '''it sticks out''' badly from the house."
           }
         ]
       }
@@ -91792,6 +91803,53 @@
     ],
     "type": "verb",
     "ipa": "qəpəɕən"
+  },
+  {
+    "word": "1аеу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "badly, horribly, awfully",
+        "examples": [
+          {
+            "sentence": "Быракъыр к1ыхьащэшъ, '''1аеу''' унэм къыпэщы",
+            "translation": "Because the flag is too long, it sticks out '''badly''' from the house."
+          },
+		  {
+            "sentence": "Унэр '''1аеу''' щыт",
+            "translation": "The house is standing '''badly'''."
+          },
+		  {
+            "sentence": "Пкъэур '''1аеу''' щыт, т1эк1у 1онтагъ",
+            "translation": "The pillar is standing '''badly''', it is bended a bit."
+          },
+		  {
+            "sentence": "Шхыныр 1аеу къик1ыгъ",
+            "translation": "The food turned out '''awfully'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "inappropriately; indecently",
+        "examples": [
+          {
+            "sentence": "К1алэм '''1аеу''' мэзек1о.",
+            "translation": "The boy is behaving '''inappropriately'''."
+          },
+          {
+            "sentence": "'''1аеу''' къысэплъы л1ыр.",
+            "translation": "The man is looking at me '''indecently'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "пылэлын",
+      "къыпылэлын",
+      "къелэлэхын"
+    ],
+    "type": "adv",
+    "ipa": "ʔaːjaw"
   },
   {
     "word": "къеулэлэхын",
@@ -91826,24 +91884,21 @@
     "ipa": "xə"
   },
   {
-    "word": "пэщын",
+    "word": "пц1агъэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "snot",
-        "examples": []
-      },
-      {
-        "meaning": "(a piece of) snivel",
-        "examples": []
+        "meaning": "clot",
+        "examples": [
+          {
+            "sentence": "Лъы '''пц1агъ'''",
+            "translation": "Blood '''clot'''."
+          }
+        ]
       }
     ],
-    "synonyms": [
-      "пэлэлэжъ",
-      "пэпсы"
-    ],
     "type": "noun",
-    "ipa": "paʃən"
+    "ipa": "pt͡sʼaːʁa"
   },
   {
     "word": "зыпэгъотхьажьын",
@@ -91865,7 +91920,7 @@
         "meaning": "to make someone wait for oneself",
         "examples": [
           {
-            "sentence": "К1алэм джанэ щылъэфэ '''тызыпыгъэплъагъ'''",
+            "sentence": "К1алэм джанэ щылъэфэ '''тызыпегъэплъагъ'''",
             "translation": "The boy '''made us wait for him''' until he wore clothes."
           }
         ]
@@ -91875,41 +91930,79 @@
     "ipa": "zəpaʁapɬan"
   },
   {
+    "word": "пхъапэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "chopsticks",
+        "examples": [
+          {
+            "sentence": "Л1ыр '''пхъапэк1э''' шхыным хэ1эбагъ",
+            "translation": "The man touched the food with '''chopsticks'''."
+          }
+        ]
+      }
+    ],
+    "kabardian": "пхъампэ",
+    "type": "noun",
+    "ipa": "pχaːpa"
+  },
+  {
     "word": "пхъэчыпэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "woodchip",
-        "examples": []
-      },
-      {
-        "meaning": "a piece of wood",
-        "examples": []
+        "meaning": "woodchip; wood-chip; a piece of wood",
+        "examples": [
+		  {
+            "sentence": "'''Пхъэчыпэ''' пхъэ пыз-нэз ц1ык1ухэр ары",
+            "translation": "'''A woodchip''' is the small wood scraps."
+          },
+		  {
+            "sentence": "'''Пхъэчыпэр''' къэшып",
+            "translation": "Pick up '''the woodchip'''."
+          }
+        ]
       }
     ],
     "synonyms": [
-      "пхъапэ",
       "пхъэжъые"
     ],
     "type": "noun",
     "ipa": "pχat͡ʃəpa"
   },
   {
+    "word": "чыпэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(long) switch, (long) dry branch",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃəpa"
+  },
+  {
     "word": "пхъэжъые",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "woodchip",
-        "examples": []
-      },
-      {
-        "meaning": "a piece of wood",
-        "examples": []
+        "meaning": "woodchip; wood-chip; a piece of wood",
+        "examples": [
+		  {
+            "sentence": "'''Пхъэжъыер''' пхъэ пыз-нэз ц1ык1ухэр ары",
+            "translation": "'''A woodchip''' is the small wood scraps."
+          },
+		  {
+            "sentence": "'''Пхъэжъыер''' къэшып",
+            "translation": "Pick up '''the woodchip'''."
+          }
+        ]
       }
     ],
     "synonyms": [
-      "пхъэчыпэ",
-      "пхъапэ"
+      "пхъэчыпэ"
     ],
     "type": "noun",
     "ipa": "pχaʐəj"
@@ -91919,12 +92012,22 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "thing, object",
-        "examples": []
+        "meaning": "things, belongings",
+        "examples": [
+          {
+            "sentence": "Унэгъо '''1ап1'''",
+            "translation": "The '''belongings''' of the family."
+          }
+        ]
       },
       {
         "meaning": "bundle",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ыр шъофым хахьи пхъэ '''1ап1э''' чылэм къихьыжьыгъ",
+            "translation": "The man went to the fields and brought '''a bundle''' of wood to the village."
+          }
+        ]
       },
       {
         "meaning": "a handful of; an armful of",
@@ -91949,7 +92052,12 @@
     "definitions": [
       {
         "meaning": "to hug",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Пшъашъэм ыянэ '''1апл1э рищэк1ыгъ'''",
+            "translation": "The girl '''hugged''' her mother."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -91964,7 +92072,12 @@
     "definitions": [
       {
         "meaning": "to hug",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Пшъашъэм ыянэ '''1апл1э риш1ыгъ'''",
+            "translation": "The girl '''hugged''' her mother."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -91972,6 +92085,113 @@
     ],
     "type": "noun",
     "ipa": "ʔaːpɬʼa faʃʼən"
+  },
+  {
+    "word": "бгъодж",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "prairie, steppe (an extensive area of relatively flat grassland with few trees)",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "шъофы",
+      "губгъ",
+      "губгъо",
+	  "хашъо"
+    ],
+    "type": "noun",
+    "ipa": "bʁʷad͡ʒ"
+  },
+  {
+    "word": "хашъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "steppe; grassland; flatland",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "шъофы",
+      "губгъ",
+      "губгъо",
+	  "бгъодж"
+    ],
+    "type": "noun",
+    "ipa": "xaːʃʷa"
+  },
+  {
+    "word": "губгъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "wild (fields); field (the fields outside the village and town); steppe; wild steppe; wilderness",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "шъофы",
+      "губгъ",
+      "хашъо",
+	  "бгъодж"
+    ],
+    "type": "noun",
+    "ipa": "ɡʷəbʁʷa"
+  },
+  {
+    "word": "шъофы",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "field (the fields outside the village and town)",
+        "examples": [
+          {
+            "sentence": "Л1ыр '''шъофым''' хахьи пхъэ 1ап1э чылэм къихьыжьыгъ",
+            "translation": "The man went to '''the fields''' and brought a bundle of wood to the village."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "губгъ",
+      "губгъо",
+      "хашъо",
+	  "бгъодж"
+    ],
+    "type": "noun",
+    "ipa": "ʂʷafə"
+  },
+  {
+    "word": "губгъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"губгъо\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "шъофы",
+      "губгъо",
+      "хашъо",
+	  "бгъодж"
+    ],
+    "type": "noun",
+    "ipa": "ɡʷəbʁʷa"
+  },
+  {
+    "word": "зэусэин",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to lean on each other",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "zawsajən"
   },
   {
     "word": "пхыр",
@@ -91984,6 +92204,69 @@
     ],
     "type": "noun",
     "ipa": "pxər"
+  },
+  {
+    "word": "к1элъэныкъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "half of; one side of",
+        "examples": [
+          {
+            "sentence": "Нашэм '''ык1элъэныкъо''' шъугъэ",
+            "translation": "'''One half''' of the melon is rotten."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃʼaɬanəqʷ"
+  },
+  {
+    "word": "лъэныкъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "side; one side of",
+        "examples": [
+          {
+            "sentence": "Тыгъэ къок1ып1э '''лъэныкъор''' ошъуапщэ",
+            "translation": "The east '''side''' is cloudy."
+          },
+		  {
+            "sentence": "Сэмэгу '''лъэныкъомк1э''' чэмыхэр фых",
+            "translation": "Drive the cows to the left '''side'''."
+          },
+		  {
+            "sentence": "Нашэм '''ык1элъэныкъо''' шъугъэ",
+            "translation": "'''One half''' of the melon is rotten."
+          }
+        ]
+      },
+      {
+        "meaning": "district; region; area",
+        "examples": []
+      },
+      {
+        "meaning": "one (of a pair); one of two",
+        "examples": [
+          {
+            "sentence": "1э '''лъэныкъу'''",
+            "translation": "'''One''' arm."
+          },
+		  {
+            "sentence": "Л1ым ынэ '''лъэныкъу''' нэшъу",
+            "translation": "The man's '''one''' eye is blind."
+          },
+		  {
+            "sentence": "Ылъэкъо '''лъэныкъо''' ыу1эжьыгъ",
+            "translation": "He injured '''one''' of his legs."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ɬanəqʷ"
   },
   {
     "word": "зыбгъу",
@@ -99370,6 +99653,10 @@
 		  {
             "sentence": "Къэбар гомы1у '''къыпфэсхьыгъ'''",
             "translation": "'''I brought you''' an unpleasant news."
+          },
+		  {
+            "sentence": "Л1ыр шъофым хахьи пхъэ 1ап1э чылэм '''къихьыжьыгъ'''",
+            "translation": "The man went to the fields and '''brought''' a bundle of wood to the village."
           }
         ]
       },
@@ -112721,6 +113008,10 @@
           {
             "sentence": "Гъуч1 '''пыз-нэз'''",
             "translation": "Metal '''scrap'''."
+          },
+		  {
+            "sentence": "Пхъэжъыер пхъэ '''пыз-нэз''' ц1ык1ухэр ары",
+            "translation": "A woodchip is the small wood '''scrap'''."
           }
         ]
       }

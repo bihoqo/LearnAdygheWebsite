@@ -1146,7 +1146,10 @@
     "rod": "бэщ"
   },
   {
-    "stick": "бэщ"
+    "stick": "бэщ; бэщжъые (small stick)"
+  },
+  {
+    "chopsticks": "пхъапэ"
   },
   {
     "staff": "бэщ"
@@ -2238,9 +2241,6 @@
     "prideful": "пагэ; зызыш1ош1ыжьырэ"
   },
   {
-    "stick": "пхъапэ"
-  },
-  {
     "baton": "пхъапэ"
   },
   {
@@ -2859,7 +2859,7 @@
     "tip": "цыпэ; нэз; цак1э"
   },
   {
-    "one": "зы"
+    "one": "зы; лъэныкъо (one of a pair)"
   },
   {
     "two": "т1у"
@@ -2916,7 +2916,7 @@
     "three hundred": "шъищ"
   },
   {
-    "half": "ныкъо; азы ныкъо (a half of)"
+    "half": "ныкъо; азы ныкъо (a half of); лъэныкъо / к1элъэныкъо / зыбгъу (one side of, half of)"
   },
   {
     "two thousand": "минит1у"
@@ -5706,9 +5706,6 @@
     "latitude": "ч1ык1ухь"
   },
   {
-    "one side of": "лъэныкъу"
-  },
-  {
     "district": "лъэныкъу"
   },
   {
@@ -6903,10 +6900,19 @@
     "meadow": "мэкъуп1"
   },
   {
-    "grassland": "мэкъуп1"
+    "grassland": "мэкъуп1;" 
+  },
+  {
+    "flatland": "хашъо;" 
   },
   {
     "wild": "губгъо (wilderness); 1алы (wild animal); емлыч (wild animal)"
+  },
+  {
+    "wilderness": "бгъодж; губгъ; губгъо; шъофы; хашъо"
+  },
+  {
+    "steppe": "бгъодж; губгъ; губгъо; шъофы; хашъо"
   },
   {
     "gravel": "мыжъо-пшэхъо зэхэлъ; мыжъуак1э (мыжъо гъэушкъоигъ)"
@@ -7701,9 +7707,6 @@
     "to be in debt": "ч1ыфэ ч1этын"
   },
   {
-    "steppe": "бгъодж"
-  },
-  {
     "to eat": "шхэн; шхын (to eat something); зыгъэшхэк1ын (to saturate oneself with food); шӏошхын (to consume someone else's food); зэхэшхэхьан (to eat around); шхэк1ын (to be saturated with food); пышхэхьан (to feast upon)"
   },
   {
@@ -7771,6 +7774,9 @@
   },
   {
     "wheel": "щэрэхъ; кущэрэхъ (wheel car)"
+  },
+  {
+    "to stick hand": "хэ1эбэн (to stick one's hand into)"
   },
   {
     "to become stuck": "дэнэн / къыдэнэн (to get stuck between); хэнэн / къыхэнэн (to get stuck in a company, bushes, forest, liquid, gas or solid); тенэн / къытенэн (to get stuck on above something); инэн / къинэн (to get stuck inside something); ч1энэн / къыч1энэн (to get stuck under something); пынэн / къыпынэн (to get stuck and undetachable); дэп1ыт1эн (to get stuck and squeezed in a narrow place or hole); ш1онэн"
@@ -12210,7 +12216,7 @@
     "to bend down": "зыуфэн; зеуфэхын; зегъэзыхын"
   },
   {
-    "to lean": "егъэк1ын (to lean something against); тегъэк1эн (to lean something on); зегъэк1ын (to lean against); зытегъэк1эн (to lean on); зытещэен; егъэусыен (to lean something against)"
+    "to lean": "егъэк1ын (to lean something against); тегъэк1эн (to lean something on); зегъэк1ын (to lean against); зытегъэк1эн (to lean on); зытещэен; егъэусыен (to lean something against); зэусэин (to lean on each other)"
   },
   {
     "wheelbarrow": "курэжъые"
@@ -12298,6 +12304,12 @@
   },
   {
     "to stick out": "къыхэщын (to stick out from among); къищын (to stick out from inside something); къыч1эщын (to stick out from under something); къытещын (to stick out from above something); къыпыщын (to stick out from a tree, to stick out from the tip of something); къыкъощын (to stick out from behind something); къыхэгъэщын (to make something stick out)"
+  },
+  {
+    "to protrude": "къыхэщын (to stick out from among); къищын (to stick out from inside something); къыч1эщын (to stick out from under something); къытещын (to stick out from above something); къыпыщын (to stick out from a tree, to stick out from the tip of something); къыкъощын (to stick out from behind something); къыхэгъэщын (to make something stick out)"
+  },
+  {
+    "to jut out": "къыхэщын (to stick out from among); къищын (to stick out from inside something); къыч1эщын (to stick out from under something); къытещын (to stick out from above something); къыпыщын (to stick out from a tree, to stick out from the tip of something); къыкъощын (to stick out from behind something); къыхэгъэщын (to make something stick out)"
   },
   {
     "to be apparent": "къыхэщын; къыхэгъэщын (to make something apparent)"
@@ -12795,7 +12807,7 @@
     "to bathe": "зыгъэпск1ын (to take a bath); зыгъэпк1ын (to take a bath); гъэпск1ын (to bath someone); гъэпк1ын (to bath someone)"
   },
   {
-    "card": "карт"
+    "card": "карт; (Shapsug) пк1эн"
   },
   {
     "valley": "к1эй; лъэгу"
@@ -13119,7 +13131,7 @@
     "gully": "хъуат"
   },
   {
-    "pair": "т1у; т1урыт1у (by pairs)"
+    "pair": "т1у; т1урыт1у (by pairs); лъэныкъо (one of a pair)"
   },
   {
     "elderly": "т1урыс; зыныбжь хэк1отэгъэ"
@@ -15297,7 +15309,7 @@
     "safety match": "сырныч / мэш1ощыхъу (match to ignite fire with); (dialectal) мэш1уач (match to ignite fire with)"
   },
   {
-    "snot": "пэпсы; (Shapsug) пэлэлэжъ; пэщын"
+    "snot": "пэпсы; пэлэлэжъ (a snot that is hanging around the nose); пэщын"
   },
   {
     "snivel": "пэщын; пэпсы ( a peace of snivel)"
@@ -15312,10 +15324,19 @@
     "to dangle": "пылэлын; къелэлэхын"
   },
   {
+    "to hang off": "пылэлын; къелэлэхын"
+  },
+  {
     "to hang down": "пылэлын; къелэлэхын"
   },
   {
+    "chip": "пхъэчыпэ (woodchip); пхъэжъые (woodchip)"
+  },
+  {
     "woodchip": "пхъэчыпэ; пхъэжъые"
+  },
+  {
+    "wood-chip": "пхъэчыпэ; пхъэжъые"
   },
   {
     "handful": "1ап1э; 1апл1э"
@@ -15658,9 +15679,6 @@
   },
   {
     "thing": "пкъыгъо"
-  },
-  {
-    "an object": "пкъыгъо"
   },
   {
     "in a slippery manner": "ц1энлъэ-к1уанлъ"
@@ -16137,7 +16155,7 @@
     "aside": "бгъодэ- / го- (prepositional verval suffix)"
   },
   {
-    "side": "лъэныкъо (one side of); бгъу; ыбгъу / ыбгъук1э (on the side of); бгъодэ- / го- (prepositional verval suffix)"
+    "side": "лъэныкъо / к1элъэныкъо / зыбгъу (one side of, half of); бгъу; ыбгъу / ыбгъук1э (on the side of); бгъодэ- / го- (prepositional verval suffix)"
   },
   {
     "within inside": "к1оц1ы- (prepositional verval suffix)"
@@ -16482,7 +16500,7 @@
     "forked spear": "пчыт1аркъу"
   },
   {
-    "sword": "чатэ"
+    "sword": "чатэ; чэтапэ (tip of a sword)"
   },
   {
     "saber": "сэ; сэшхо"
