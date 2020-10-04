@@ -54,9 +54,6 @@
     "to play": "еон / къеон (to play an instrument); джэгун (to play a game); еш1эн / къеш1эн (to play a game)"
   },
   {
-    "to play instrument": "он; еон"
-  },
-  {
     "to shoot": "он; еон; к1эрахъок1э еон; дэоен (to shot upward); еохын (to shot downward); хэон (to shot amidst people)"
   },
   {
@@ -1059,7 +1056,13 @@
     "crazy": "делэ"
   },
   {
-    "that is it": "ары"
+    "that is": "ары (that is it, that is him/her)"
+  },
+  {
+    "this is": "мары (this is it, this is him/her)"
+  },
+  {
+    "is": "ары (that is it, that is him/her); мары (this is it, this is him/her)"
   },
   {
     "indeed": "ары"
@@ -1695,7 +1698,7 @@
     "to fall on": "тефэн (the impact caused by hitting something from the fall); тебэджэн (to fall on by slipping); тет1эрэн (to drop on)"
   },
   {
-    "to fall": "ебэджын (to fall on the ground); тебэджэн (to fall on something by slipping); ефэхын / къефэхын (to fall downward); едзыхын / къедзыхын (to fall downward); ет1эрэхын / къет1эрэхын (to drop downward); тет1эрын (to drop from); зэтефэн (to drop on each other); зэхэфэн (to drop into each other); ук1орэин"
+    "to fall": "ебэджын (to fall on the ground); тебэджэн (to fall on something by slipping); ефэхын / къефэхын (to fall downward); едзыхын / къедзыхын (to fall downward); ет1эрэхын / къет1эрэхын (to drop downward); тет1эрын (to drop from); зэтефэн (to drop on each other); зэхэфэн (to drop into each other); ук1орэин; къегъэохын (to destroy something and make it fall down)"
   },
   {
     "to drop": "1эпызын (to drop from the hand); къизын (to drop from inside something); къетк1ухын (to drip from, to drop down drops of liquid); 1эпызын (to drop unintentionally); 1эпыт1эрын (to let slip unintentionally); къытезын (to drop from); къыпызын (to drop off a tree); къыпытэкъун (to drop from the tree around it); зэтефэн (to drop on each other); зэхэфэн (to drop into each other); 1эк1эзын (to drop something unintentionally from the hand); пызын / къыпызын (to drop off from a tree); изын / къизын (to drop off from inside something); тезын / къытезын (to drop off from above something); ч1эзын / къыч1эзын (to drop off from under something); зэтетэкъун (to drop off from each other); тетк1он (to drip liquid on something one drop at a time)"
@@ -3174,6 +3177,15 @@
     "brooch": "бгъэхэлъ"
   },
   {
+    "at": "щы- (verbal prepositional prefix that indicates locaiton)"
+  },
+  {
+    "was": "-щтыгъ (suffix that indicates continuous past tense)"
+  },
+  {
+    "used to": "-щтыгъ (suffix that indicates habitual past tense)"
+  },
+  {
     "parrot": "бгъэшхъуант1"
   },
   {
@@ -4302,7 +4314,7 @@
     "fitting": "ек1у"
   },
   {
-    "shameful": "хьайнап"
+    "shameful": "хьайнап; ук1ытагъо"
   },
   {
     "shamefulness": "хьайнап"
@@ -4734,16 +4746,16 @@
     "to fix": "гъэтэрэзыжьын (recorrect); ш1ыжьын (to repair); дыжьын (to sew up), гъэцэк1эжьын (to mend)"
   },
   {
-    "to destroy": "гъэон; убэтэн; зэхэкъутэн; зэхэкъутыхьан; зэхэубэтэн; зэхэубэтыхьан; (from Arabic) гъэухъэрэбын"
+    "to destroy": "гъэон; убэтэн; зэхэкъутэн; зэхэкъутыхьан; зэхэубэтэн; зэхэубэтыхьан; (from Arabic) гъэухъэрэбын; ш1огъэон (to destroy someone's property or plan); ш1оубэтэн (to destroy/break someone's property); къегъэохын (to destroy something and make it fall down)"
   },
   {
     "to demolish": "он (to be demolished); зэхэкъутэн (to be demolished); гъэон (to demolish something); зэхэгъэкъутэн (to demolish something)"
   },
   {
-    "to wreck": "гъэон; убэтэн; къутэн; зэхэкъутэн; зэхэкъутыхьан; зэхэубэтэн; зэхэубэтыхьан"
+    "to wreck": "гъэон; убэтэн; къутэн; зэхэкъутэн; зэхэкъутыхьан; зэхэубэтэн; зэхэубэтыхьан; ш1огъэон (to wreck someone's property or plan); ш1оубэтэн (to wreck/break someone's property)"
   },
   {
-    "to ruin": "гъэон (to destroy, to spoil); гъэсэкъатын (to make something dysfunctional); унэхъун; гъэунэхъун; зэ1ыгъэхьан (to make something dysfunctional)"
+    "to ruin": "гъэон (to destroy, to spoil); ухъон (to spoil); гъэсэкъатын (to make something dysfunctional); унэхъун; гъэунэхъун; зэ1ыгъэхьан (to make something dysfunctional); ш1огъэон (to ruin someone's property or plan)"
   },
   {
     "to disorder": "зэ1ыгъэхьан"
@@ -4752,10 +4764,10 @@
     "to make a mess": "зэ1ыгъэхьан"
   },
   {
-    "to spoil": "гъэон (to ruin); гъэсэхъуджэн (to make someone spoiled)"
+    "to spoil": "ухъон (to spoil); ш1оухъон / ш1огъэухъон (to spoil to someone); гъэон (to ruin); гъэсэхъуджэн (to make someone spoiled); ш1огъэон (to spoil to someone)"
   },
   {
-    "to play music": "еон; къеон"
+    "to play instrument": "еон; къеон"
   },
   {
     "to shoot": "к1эрахъок1э еон; еон; дэоен (to shoot up); еохын (to shoot down); лъыон (to shoot toward); зэк1эон (to shoot backward)"
@@ -4785,7 +4797,7 @@
     "rake": "пхъэ1эбжъан (garden tool)"
   },
   {
-    "to break": "зэпык1ын (to snap); убэтэн (to destroy); къутэн (to destroy); зэхэутын (to break down from inside); зэхэк1ын (to break and collapse); пыутын / хэутын (to break a part of something); теутын (to break a part from above something); ч1эутын (to break a part from under something); гъэсэкъатын (to make something dysfunctional); зэш1ок1ын (to break something); 1утэкъун (to break off); пыутын (to break off from); зэпыутын (to break off from itself)"
+    "to break": "зэпык1ын (to snap); убэтэн (to destroy); къутэн (to destroy); зэхэутын (to break down from inside); зэхэк1ын (to break and collapse); пыутын / хэутын (to break a part of something); теутын (to break a part from above something); ч1эутын (to break a part from under something); гъэсэкъатын (to make something dysfunctional); зэш1ок1ын (to break something); 1утэкъун (to break off); пыутын (to break off from); зэпыутын (to break off from itself); ш1оубэтэн (to destroy/break someone's property)"
   },
   {
     "to run over": "иутын; тепк1эн"
@@ -5220,7 +5232,7 @@
     "host": "бысым"
   },
   {
-    "owner": "бысым"
+    "owner": "бысым; зи- (prefix that is attached to nouns that indicates \"the owner of\")"
   },
   {
     "braided": "благъэ"
@@ -11031,7 +11043,7 @@
     "to come to terms": "еш1ужьын (to make peace with someone); зэш1ужьын (to make peace with each other)"
   },
   {
-    "to resolve": "зэпэч1эгъэк1ын; зэш1охын (to resolve tasks); еш1ужьын (to make peace with someone); зэш1ужьын (to make peace with each other)"
+    "to resolve": "зэпэч1эгъэк1ын; зэш1охын (to resolve tasks/conflicts); еш1ужьын (to make peace with someone); зэш1ужьын (to make peace with each other)"
   },
   {
     "to forgive": "фэгъэгъун; еш1ужьын (to make peace with someone); зэш1ужьын (to make peace with each other)"
@@ -11484,7 +11496,7 @@
     "to lie down": "гъолъын (to lie down); тегъолъхьан (to lie down on something); ч1эгъолъхьан (to lie down under something); хэгъолъхьан (to lie down within an area with liquid, solid or gas); дэгъолъхьан (to lie down in); игъолъхьан (to lie down inside); гогъолъхьан / бгъодэгъолъхьан (to lie down besides); къогъолъхьан (to lie down behind)"
   },
   {
-    "to lay": "илъхьан (to lay something inside); телъхьан (to lay something on); ч1элъхьан (to lay something under); дэлъхьан (to lay something in); хэлъхьан (to lay something among other objects or in an area with solid, gas or liquid)"
+    "to lay": "гъэт1ылъын (to lay down); илъхьан (to lay something inside); телъхьан (to lay something on); ч1элъхьан (to lay something under); дэлъхьан (to lay something in); хэлъхьан (to lay something among other objects or in an area with solid, gas or liquid)"
   },
   {
     "to hide": "гъэбылъын (to hide something); зыгъэбылъын (to hide oneself); ч1эгъэбылъхьан (to hide under); тегъэбылъхьан (to hide on something); дэгъэбылъхьан (to hide in); игъэбылъхьан (to hide inside); хэгъэбылъхьан (to hide within an area of gas, solid or liquid); гогъэбылъхьан / бгъодэгъэбылъхьан (to hide besides)"
@@ -13602,6 +13614,9 @@
     "to stack": "зэтелъхьан (to stack on each other); зэч1элъхьан (to stack under each other); зэтеуцон (to put on each other)"
   },
   {
+    "to heap up": "зэтелъхьан (to heap stuff on each other); зэк1элъхьан (to heap stuff under each other)"
+  },
+  {
     "to pill up": "зэтелъхьан (to pile stuff on each other); зэк1элъхьан (to pile stuff under each other); зэкъолъхьан (to pile stuff behind each other); зэдэлъхьан (to put stuff in each other); зэрилъхьан (to put stuff inside each other); зэголъхьан / зэбгъодэлъхьан (to pile stuff aside each other)"
   },
   {
@@ -14418,6 +14433,9 @@
     "seriously": "шъыпкъэу"
   },
   {
+    "to have a share": "1ахь хэлъын"
+  },
+  {
     "each": "сыдрэ (each thing); хэтрэ (each person); (dialectal) тэдрэ / тэдрэз; къэс (each time, each day, each month, each year...); шъхьадж; пэпчъ (each time, at each occasion that)"
   },
   {
@@ -14835,10 +14853,10 @@
     "to do intentionally": "ыш1эу ыш1эн; ымыш1ахэу ыш1эн"
   },
   {
-    "shame": "ук1ытэныгъэ; хьайнапэ; ук1ыт"
+    "shame": "ук1ытагъо; ук1ытэныгъэ; хьайнапэ; ук1ыт"
   },
   {
-    "disgrace": "хьайнапэ"
+    "disgrace": "хьайнапэ; губгъэн"
   },
   {
     "to shut up": "щыгъэтын / зэ1унэн; щегъэтын / зэ1уегъэнэн (to make someone shut up)"
@@ -15384,10 +15402,10 @@
     "frailty": "мэхагъ"
   },
   {
-    "to involve": "1э хэлъхьан; 1ахь хэлъхьан"
+    "to involve": "хэщэн (to involve someone to); хэгъэхьан (to involve something to, to add someone to); 1э хэлъын (to be involved with); 1э хэлъхьан (to get involved with something)"
   },
   {
-    "to contribute": "1э хэлъхьан; 1ахь хэлъхьан"
+    "to contribute": "1э хэлъын (to have contribution in); 1э хэлъхьан (to contribute); 1ахь хэлъхьан (to contribute, to put one's share in)"
   },
   {
     "contribution": "хэлъхьэгъу"
@@ -15462,7 +15480,7 @@
     "camouflage": "ч1эухъумэ"
   },
   {
-    "mine": "лагъымэ"
+    "mine": "лагъымэ (exploding device)"
   },
   {
     "explosives": "лагъымэ"
@@ -16152,10 +16170,13 @@
     "hanged": "пылъ / пылъагъ; пы- (prepositional verval suffix)"
   },
   {
+    "knucklebone": "к1эн"
+  },
+  {
     "aside": "бгъодэ- / го- (prepositional verval suffix)"
   },
   {
-    "side": "лъэныкъо / к1элъэныкъо / зыбгъу (one side of, half of); бгъу; ыбгъу / ыбгъук1э (on the side of); бгъодэ- / го- (prepositional verval suffix)"
+    "side": "бгъу; ыбгъу / ыбгъук1э (on the side of); лъэныкъо / к1элъэныкъо / зыбгъу (one side of, half of); адрэбгъу (other side); бгъодэ- / го- (prepositional verval suffix)"
   },
   {
     "within inside": "к1оц1ы- (prepositional verval suffix)"
@@ -16272,13 +16293,22 @@
     "to grow pale": "к1ыфы хъун; ышъо пычъын; ышъо течъын"
   },
   {
+    "to neglect": "пхъатэ пэмыхьын / пхъатэ емытын (to deliberately pay no attention to); нэмыплъ ехын"
+  },
+  {
+    "to disregard": "пхъатэ пэмыхьын / пхъатэ емытын (to deliberately pay no attention to); нэмыплъ ехын"
+  },
+  {
     "ash": "яжьэ; стаф"
   },
   {
-    "to block": "шъыбын (to block a flow or a hole)"
+    "unusual": "ш1эгъо дэд"
   },
   {
-    "to seal": "шъыбын (to seal a flow or a hole)"
+    "to block": "шъыбын"
+  },
+  {
+    "to seal": "шъыбын"
   },
   {
     "blocked": "шъыбыгъ (a flow or a hole)"
@@ -17746,9 +17776,6 @@
   },
   {
     "to whinge": "гъынэнэн"
-  },
-  {
-    "to disregard": "пхъэтэпэмыхьы ш1ын / пхъатэ емытын (to deliberately pay no attention to); нэмыплъ ехын"
   },
   {
     "to caress": "гъэш1он; едэхэш1эн"

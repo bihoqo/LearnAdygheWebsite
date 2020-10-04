@@ -5379,15 +5379,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "that is it",
+        "meaning": "that is it; that is him/her",
         "examples": []
       },
       {
-        "meaning": "indeed",
-        "examples": []
-      },
-      {
-        "meaning": "yes",
+        "meaning": "indeed; yes",
         "examples": []
       }
     ],
@@ -14145,6 +14141,10 @@
     "definitions": [
       {
         "meaning": "building, roofed building, shed",
+        "examples": []
+      },
+	  {
+        "meaning": "construction, structure (anything constructed)",
         "examples": []
       }
     ],
@@ -36565,6 +36565,10 @@
           {
             "sentence": "'''Къэ1эт''' 1анэр",
             "translation": "'''Lift''' the table."
+          },
+		  {
+            "sentence": "К1эрахъор гъэт1ылъи у1эхэр '''къэ1этых'''",
+            "translation": "Lay down the gun and '''raise''' your hands."
           }
         ]
       },
@@ -41385,6 +41389,10 @@
           {
             "sentence": "К1алэм планыр '''ыгъэуагъ'''",
             "translation": "The boy '''spoiled''' the plan."
+          },
+		  {
+            "sentence": "К1алэм фылымыр '''къэсш1уигъэуагъ'''",
+            "translation": "The boy '''spoiled''' the movie '''to me'''."
           }
         ]
       }
@@ -41395,6 +41403,131 @@
     ],
     "type": "verb",
     "ipa": "ʁawan"
+  },
+  {
+    "word": "ухъон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to spoil",
+        "examples": [
+          {
+            "sentence": "Щэр '''ухъуагъэ'''",
+            "translation": "The milk '''got spoiled'''."
+          },
+		  {
+            "sentence": "К1алэм планыр '''ыухъуагъ'''",
+            "translation": "The boy '''spoiled''' the plan."
+          },
+		  {
+            "sentence": "К1алэм фылымыр '''къэсш1уиухъуагъ'''",
+            "translation": "The boy '''spoiled''' the movie '''to me'''."
+          },
+		  {
+            "sentence": "Сэнэпсыр '''ухъуагъ'''",
+            "translation": "The wine '''is spoiled'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "wəχʷan"
+  },
+  {
+    "word": "ш1оухъон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to spoil something for someone",
+        "examples": [
+          {
+            "sentence": "К1алэм сиплан '''къэсш1уиухъуагъ'''",
+            "translation": "The boy '''ruined''' my plan."
+          },
+		  {
+            "sentence": "К1алэм фылымыр '''къэсш1уиухъуагъ'''",
+            "translation": "The boy '''spoiled''' the movie '''for me'''."
+          },
+		  {
+            "sentence": "К1алэм л1ым ишхын '''ш1уиухъуагъ'''",
+            "translation": "The boy '''spoiled''' the man's food."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʃʷʼawχʷan"
+  },
+  {
+    "word": "ш1огъэухъон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to spoil something for someone",
+        "examples": [
+          {
+            "sentence": "К1алэм сиплан '''къэсш1уигъэухъуагъ'''",
+            "translation": "The boy '''ruined''' my plan."
+          },
+		  {
+            "sentence": "К1алэм фылымыр '''къэсш1уигъэухъуагъ'''",
+            "translation": "The boy '''spoiled''' the movie '''for me'''."
+          },
+		  {
+            "sentence": "К1алэм л1ым ишхын '''ш1уигъэухъуагъ'''",
+            "translation": "The boy '''spoiled''' the man's food."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʃʷʼaʁawχʷan"
+  },
+  {
+    "word": "ш1огъэон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to ruin/destroy/wreck someone's plan or properly",
+        "examples": [
+          {
+            "sentence": "К1алэм сиплан '''къэсш1уигъэуагъ'''",
+            "translation": "The boy '''ruined''' my plan."
+          },
+		  {
+            "sentence": "К1алэм фылымыр '''къэсш1уигъэуагъ'''",
+            "translation": "The boy '''ruined''' the movie '''for me'''."
+          },
+		  {
+            "sentence": "К1алэм л1ым иунэ '''ш1уигъэуагъ'''",
+            "translation": "The boy '''destroyed''' the man's house."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʃʷʼaʁawan"
+  },
+  {
+    "word": "ш1оубэтэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to break/destroy/wreck someone's properly",
+        "examples": [
+          {
+            "sentence": "К1алэм си1анэ '''къэсш1уиубэтагъ'''",
+            "translation": "The boy '''broke''' my table."
+          },
+		  {
+            "sentence": "К1алэм л1ым иунэ ишъхьангъупчъэ '''ш1уиубэтагъ'''",
+            "translation": "The boy '''broke''' the window of the man's house."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʃʷʼawbatan"
   },
   {
     "word": "къэгъэон",
@@ -50384,6 +50517,10 @@
         "meaning": "to make mistake; to do a mistake; to make an error",
         "examples": [
           {
+            "sentence": "'''Сыхэмыукъорэмэ''', ик1ырэп мык1",
+            "translation": "'''If I am not mistaken''', the exit is from here."
+          },
+		  {
             "sentence": "К1алэр '''хэукъуагъ'''",
             "translation": "The boy '''made a mistake'''."
           },
@@ -64172,6 +64309,15 @@
 		  {
             "sentence": "К1элэц1ык1ур псы куум '''хэмыщ'''.",
             "translation": "'''Don't take''' the kid to the deep water."
+          }
+        ]
+      },
+	  {
+        "meaning": "to involve someone to",
+        "examples": [
+          {
+            "sentence": "Хэгъэгур заом '''хэщэн'''",
+            "translation": "'''To involve''' a country '''to''' the war."
           }
         ]
       }
@@ -83028,37 +83174,6 @@
     "ipa": "ɬat͡ʃaːpʼa"
   },
   {
-    "word": "шъхьак1э",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "however; although; yet",
-        "examples": [
-          {
-            "sentence": "Чэщдэсым сык1онэу сыфай '''шъхьак1э''', 1офым сыхэк1ын слъэк1ырэп",
-            "translation": "I want to go to the party, '''however''' I can't leave work."
-          },
-		  {
-            "sentence": "Ар псэу '''шъхьак1эм''' л1эгъэпалъ",
-            "translation": "(S)he is healthy '''yet''' corpselike."
-          },
-		  {
-            "sentence": "Шыур кум шык1э лъежьагъ '''шъхьак1э''' к1эхьагъэп",
-            "translation": "The horseman with a horse ran after the car, '''however''' he did not reach it."
-          },
-          {
-            "sentence": "Хьак1эр ежьэжьын ы1уи '''шъхьак1эм''', бысымым ригъэжьэжьыгъэп",
-            "translation": "The guest tried to run away, '''however''' the owner didn't let him."
-          }
-        ]
-      }
-    ],
-    "shapsug": "шъхьэк1ьэ",
-    "kabardian": "щхьэк1э",
-    "type": "adv",
-    "ipa": "ʂħaːt͡ʃʼa"
-  },
-  {
     "word": "фэш1к1э",
     "lang": "Adyghe",
     "definitions": [
@@ -92307,12 +92422,26 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "inheritance",
-        "examples": []
+        "meaning": "knucklebone",
+        "examples": [
+          {
+            "sentence": "Мэл '''к1эн'''",
+            "translation": "Sheep '''knucklebone'''."
+          },
+		  {
+            "sentence": "'''К1эным''' к1алэхэр рэджэгух",
+            "translation": "The boys are playing '''with the knucklebone'''."
+          }
+        ]
       },
-      {
-        "meaning": "legacy",
-        "examples": []
+	  {
+        "meaning": "inheritance",
+        "examples": [
+          {
+            "sentence": "Л1ым '''ик1эн''' агощыгъ",
+            "translation": "They split the man's '''inheritance'''."
+          }
+        ]
       }
     ],
     "kabardian": "щ1эн",
@@ -92320,16 +92449,42 @@
     "ipa": "t͡ʃʼan"
   },
   {
+    "word": "1э хэлъын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to be involved with; to have contribution in",
+        "examples": [
+          {
+            "sentence": "Хъугъэм '''с1э хэлъэп'''",
+            "translation": "'''I am not involved'' with what happened."
+          },
+		  {
+            "sentence": "Куджаным '''ы1э хэлъ''' ц1ыфэу аук1ыгъэм",
+            "translation": "Kujan '''has something to do''' with the person that was murdered."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʔa xaɬən"
+  },
+  {
     "word": "1э хэлъхьан",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to involve",
-        "examples": []
-      },
-      {
-        "meaning": "to contribute",
-        "examples": []
+        "meaning": "to contribute; to get involved with",
+        "examples": [
+          {
+            "sentence": "Ахъщэм '''с1э хэсылъхьагъ'''",
+            "translation": "'''I got involved with''' the money."
+          },
+		  {
+            "sentence": "Хъугъэм к1алэм '''ы1э хилъхьагъэп'''",
+            "translation": "The boy '''did not contribute'' to what happened."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -92340,12 +92495,30 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to involve",
-        "examples": []
-      },
+        "meaning": "to contribute; to put one's share in",
+        "examples": [
+          {
+            "sentence": "Хэтрэ ц1ыфыми '''и1ахь''' 1офым '''хилъхьэмэ''', 1офыр псынк1эу тыухыщт",
+            "translation": "'''If''' each person '''contributes''' to the work, we will finish work quickly."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʔaːħ xaɬħaːn"
+  },
+  {
+    "word": "1ахь хэлъын",
+    "lang": "Adyghe",
+    "definitions": [
       {
-        "meaning": "to contribute",
-        "examples": []
+        "meaning": "to have a share in",
+        "examples": [
+          {
+            "sentence": "Ахъщэм '''си1ахь хэлъ'''",
+            "translation": "'''I have a share''' in the money."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -92356,18 +92529,14 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "place of weakness, location that has weakness",
-        "examples": []
-      },
-      {
-        "meaning": "weak spot",
+        "meaning": "weak spot; place of weakness, location that has weakness",
         "examples": [
           {
             "sentence": "Зэуак1ом '''имэхап1э''' еон",
             "translation": "To hit the fighter's '''weak spot'''."
           },
           {
-            "sentence": "Саусырыкъо икопкъит1у ары '''имэхап1э'''р",
+            "sentence": "Саусырыкъо икопкъит1у ары '''имэхап1эр'''",
             "translation": "Sosruko's two thighbone's are his '''weak spot'''."
           }
         ]
@@ -92406,7 +92575,12 @@
     "definitions": [
       {
         "meaning": "thighbone; thigh-bone; femur",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Скопкъыхэр''' мэузых",
+            "translation": "'''My thighbones''' are hurting."
+          }
+        ]
       }
     ],
     "kabardian": "куэпкъ",
@@ -92421,8 +92595,8 @@
         "meaning": "fragile",
         "examples": [
           {
-            "sentence": "псэолъэ мыпыт",
-            "translation": "fragile construction."
+            "sentence": "Псэолъэ '''мыпыт'''",
+            "translation": "'''Fragile''' construction."
           }
         ]
       }
@@ -92439,8 +92613,8 @@
         "meaning": "builder",
         "examples": [
           {
-            "sentence": "псэолъэшI куп",
-            "translation": "team of builders."
+            "sentence": "'''псэолъэш1''' куп",
+            "translation": "team of '''builders'''."
           }
         ]
       }
@@ -92456,8 +92630,8 @@
         "meaning": "construction site, building site",
         "examples": [
           {
-            "sentence": "псэолъэшIыпIэм Iоф щышIэн",
-            "translation": "work at a construction site."
+            "sentence": "Л1ыр '''псэолъэш1ып1эм''' щылажьэ",
+            "translation": "The man is working at a '''construction site'''."
           }
         ]
       }
@@ -92470,11 +92644,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "structure",
+        "meaning": "building, construction (in process)",
         "examples": [
           {
             "sentence": "пхъэм хэш1ык1ыгъэ '''псэуалъ'''",
-            "translation": "A '''structure''' that was made from wood"
+            "translation": "A '''structure''' that was made from wood."
           }
         ]
       }
@@ -92500,16 +92674,21 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "insignificant",
-        "examples": []
-      },
-      {
-        "meaning": "inessential",
-        "examples": []
-      },
-      {
-        "meaning": "unimportant",
-        "examples": []
+        "meaning": "insignificant; inessential; unimportant",
+        "examples": [
+          {
+            "sentence": "1оф '''мыхъатэхэр''' т1упщыхи 1оф хъатэхэр апэу тэгъэухых"
+            "translation": "Leave the '''unimportant''' tasks and let's do the important tasks first."
+          },
+		  {
+            "sentence": "Къэбэрэу си1эхэр '''мыхъатэх'''"
+            "translation": "The news I have are '''unimportant'''."
+          },
+          {
+            "sentence": "Ар 1оф хъатэп, '''мыхъатэ''' нахь",
+            "translation": "That is not an important work, rather, it is '''unimportant'''."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -92523,16 +92702,24 @@
         "meaning": "significant, meaningful, important",
         "examples": [
           {
-            "sentence": "А Iофым '''хъатэ''' къикIыщтэп",
+            "sentence": "А 1офым '''хъатэ''' къик1ыщтэп",
             "translation": "That work won't be '''significant'''."
           },
           {
             "sentence": "'''хъатэ''' пэмыхьын",
-            "translation": "to not consider something '''meaningful'''"
+            "translation": "To not consider something '''meaningful'''"
           },
           {
-            "sentence": "Ар Iоф '''хъатэп'''",
-            "translation": "That is not a '''meaningful''' work."
+            "sentence": "Ар 1оф '''хъатэп''', мыхъатэ нахь",
+            "translation": "That is not an '''important''' work, rather, it is unimportant."
+          },
+		  {
+            "sentence": "1оф мыхъатэхэр т1упщыхи 1оф '''хъатэхэр''' апэу тэгъэухых"
+            "translation": "Leave the unimportant tasks and let's do the '''important''' tasks first."
+          },
+		  {
+            "sentence": "Джынэс фылымым '''хъатэ''' зыгори хъугъэп",
+            "translation": "Until now nothing ''''important'''' happened in the film."
           }
         ]
       }
@@ -92550,6 +92737,10 @@
           {
             "sentence": "Мыщ '''мыхьэнэ''' и1эп.",
             "translation": "This has no '''meaning'''."
+          },
+		  {
+            "sentence": "Былым гущы1эм сыд '''мыхьэнэр'''?",
+            "translation": "What is the '''meaning of''' the word cattle?"
           },
           {
             "sentence": "Сыд мыщ '''ымыхьэнэ''' ош1а?",
@@ -92579,8 +92770,25 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "mine",
-        "examples": []
+        "meaning": "mine (a device intended to explode when stepped upon or touched)",
+        "examples": [
+          {
+            "sentence": "'''Лагъымэхэр''' ч1ыгум ч1элъых",
+            "translation": "There are '''mines''' in the ground."
+          },
+		  {
+            "sentence": "Тыгъук1омэ '''лагъымэ''' ч1алъхьи лъэмыджыр къагъэуагъ",
+            "translation": "The thieves planted '''mine''' under the bridge and they made it explode."
+          },
+		  {
+            "sentence": "'''Лагъымэр''' мэу щымыгъэт1ылъ",
+            "translation": "Don't lay the '''mine''' here."
+          },
+		  {
+            "sentence": "Ак1э '''лагъымэхэр''' щагъэт1ылъыгъэх",
+            "translation": "They laid '''mines''' there."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -92594,8 +92802,12 @@
         "meaning": "to put/place something under something",
         "examples": [
           {
-            "sentence": "тхылъыр 1анэм чIилъхьагъ",
-            "translation": "(S)he '''placed''' the book under the table."
+            "sentence": "К1алэм тхылъыр 1анэм '''ч1илъхьагъ'''",
+            "translation": "The boy '''placed''' the book under the table."
+          },
+		  {
+            "sentence": "Пхъэхэр унэ ч1эгъым '''ч1эсылъхьагъэх'''",
+            "translation": "'''I placed''' the woods under the house."
           }
         ]
       },
@@ -92603,7 +92815,7 @@
         "meaning": "to plant (a mine)",
         "examples": [
           {
-            "sentence": "Лагъымэ '''чIилъхьи''' лъэмыджыр къыгъэуагъ",
+            "sentence": "Лагъымэ '''ч1илъхьи''' лъэмыджыр къыгъэуагъ",
             "translation": "(S)he '''planted''' a mine under bridge and destroyed it."
           },
           {
@@ -92616,8 +92828,8 @@
         "meaning": "to bury",
         "examples": [
           {
-            "sentence": "хьадэр '''чIэлъхьан'''",
-            "translation": "To '''bury''' a corpse."
+            "sentence": "Хьадэр '''чxэлъхьан'''",
+            "translation": "'''To bury''' a corpse."
           }
         ]
       }
@@ -92631,10 +92843,24 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "until now",
-        "examples": []
+        "meaning": "until now; thus far",
+        "examples": [
+          {
+            "sentence": "'''Джынэс''' фылымым хъатэ зыгори хъугъэп",
+            "translation": "''''Until now''', nothing important happened in the film."
+          },
+		  {
+            "sentence": "'''Джынэс''' зыгори хъугъэп",
+            "translation": "Nothing happened '''thus far'''."
+          },
+		  {
+            "sentence": "'''Джынэс''' унэм исых",
+            "translation": "'''Until now, they have been in the house."
+          }
+        ]
       }
     ],
+    "shapsug": "игьынэс",
     "type": "adv",
     "ipa": "d͡ʒənas"
   },
@@ -92646,12 +92872,24 @@
         "meaning": "to lay down something",
         "examples": [
           {
-            "sentence": "Тхылъыр тэрэзэу '''гъэтIылъын''' фае",
-            "translation": "You need '''to lay down''' the book correctly."
+            "sentence": "К1эрахъор '''гъэт1ылъи''' у1эхэр къэ1этых",
+            "translation": "'''Lay down''' the gun and raise your hands."
+          },
+		  {
+            "sentence": "Лагъымэр мэу '''щымыгъэт1ылъ'''",
+            "translation": "'''Don't lay''' the mine here."
+          },
+		  {
+            "sentence": "Тхылъыр тэрэзэу '''гъэт1ылъын''' фае",
+            "translation": "You need '''to lay down''' the book right."
           },
           {
-            "sentence": "Шъэжъыер '''гъэтIылъ''' укъимыу1агъэу",
+            "sentence": "Шъэжъыер '''гъэт1ылъ''' укъимыу1агъэу",
             "translation": "'''Lay down''' the knife before it wounds you."
+          },
+		  {
+            "sentence": "Ак1э лагъымэхэр '''щагъэт1ылъыгъэх'''",
+            "translation": "'''They laid''' mines there."
           }
         ]
       },
@@ -92659,11 +92897,11 @@
         "meaning": "to lay by, to put on the side, to save (money for some purchase), to keep money for future plans",
         "examples": [
           {
-            "sentence": "Лэжьыгъэр мыкIодынэу '''гъэтIылъын''' фае",
+            "sentence": "Лэжьыгъэр мык1одынэу '''гъэт1ылъын''' фае",
             "translation": "You need to '''save''' your salary in order it to be not wasted"
           },
           {
-            "sentence": "Ахъщэ тIэкIу гъэтIылъын",
+            "sentence": "Ахъщэ т1эк1у '''гъэт1ылъын'''",
             "translation": "'''Save''' some money."
           }
         ]
@@ -92672,7 +92910,7 @@
         "meaning": "to bury",
         "examples": [
           {
-            "sentence": "Хьадэр '''тыгъэтIылъын''' фае",
+            "sentence": "Хьадэр '''тыгъэт1ылъын''' фае",
             "translation": "We need '''to bury''' the body."
           }
         ]
@@ -92689,8 +92927,12 @@
         "meaning": "to make someone sit down",
         "examples": [
           {
-            "sentence": "К1алэр гъэт1ыс",
+            "sentence": "К1алэр '''гъэт1ыс'''",
             "translation": "'''Make''' the boy '''sit down'''."
+          },
+		  {
+            "sentence": "Шак1ом ихьэ '''ыгъэт1ысыгъ'''",
+            "translation": "The hunter '''made''' his dog '''sit'''."
           }
         ]
       }
@@ -92699,27 +92941,11 @@
     "ipa": "ʁatʼəsən"
   },
   {
-    "word": "гуигъэун",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to cause to fall, to crumble",
-        "examples": []
-      },
-      {
-        "meaning": "to heap round",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "ɡʷəjʁawən"
-  },
-  {
     "word": "джык1э",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "for the time being",
+        "meaning": "alternative form of \"джырэк1э\"",
         "examples": []
       }
     ],
@@ -92731,12 +92957,21 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "again",
-        "examples": []
-      },
-      {
         "meaning": "again (from the beginning, from scratch)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр джэгум '''к1эрык1эу''' мэджэгу",
+            "translation": "The boy is playing the game '''again'''."
+          },
+		  {
+            "sentence": "Джы 1офыр '''к1эрык1эу''' тыш1эжьын фай",
+            "translation": "Now we need to do the task '''again from the beginning'''."
+          },
+		  {
+            "sentence": "Нек1о фылымым '''к1эрык1эу''' теплъыщт",
+            "translation": "Let's watch the film '''again'''."
+          }
+        ]
       }
     ],
     "type": "adv",
@@ -92756,6 +92991,10 @@
           {
             "sentence": "Л1ыжъым '''иунашъо къэмыш1'''",
             "translation": "'''Do not mention''' the old man."
+          },
+          {
+            "sentence": "Л1ыжъым '''иунашъо фэш1''' уцыр зэрэидырын фаер",
+            "translation": "'''Mention''' the old man that he needs to swallow the pill."
           }
         ]
       }
@@ -92768,8 +93007,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "vulgarity",
-        "examples": []
+        "meaning": "vulgarity; disgrace",
+        "examples": [
+          {
+            "sentence": "К1алэм ыш1агъэр '''губгъэн'''",
+            "translation": "What the boy did was a '''disgrace'''."
+          },
+		  {
+            "sentence": "К1алэм '''губгъэн''' къыхьыгъ",
+            "translation": "The boy brought '''disgrace'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -92779,12 +93027,46 @@
     "ipa": "ɡʷəbʁan"
   },
   {
+    "word": "ук1ытагъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "shame; shameful; shamefulness",
+        "examples": [
+          {
+            "sentence": "К1алэм ыш1агъэр '''ук1ытагъо'''",
+            "translation": "What the boy did was '''shameful'''."
+          },
+		  {
+            "sentence": "К1алэм '''ук1ытагъо''' къыхьыгъ",
+            "translation": "The boy brought '''shame'''."
+          },
+		  {
+            "sentence": "Умылэжьэныр '''ук1ытагъо'''",
+            "translation": "Not working is '''shameful'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "wət͡ʃʼətaːʁʷa"
+  },
+  {
     "word": "емык1у",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "inappropriate",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм ыш1агъэр '''емык1у'''",
+            "translation": "What the boy did was an '''inappropriate'''."
+          },
+		  {
+            "sentence": "Ар '''емык1у'''",
+            "translation": "That is '''inappropriate'''."
+          }
+        ]
       },
       {
         "meaning": "unfitting",
@@ -92795,11 +93077,11 @@
     "ipa": "jaməkʷʼ"
   },
   {
-    "word": "шъхьай",
+    "word": "шъхьае",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "yet; despite that; although; however",
+        "meaning": "alternative form of \"шъхьай\"",
         "examples": []
       }
     ],
@@ -92807,15 +93089,86 @@
     "ipa": "ʂħaːja"
   },
   {
+    "word": "шъхьай",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "yet; despite that; although that; however",
+        "examples": [
+          {
+            "sentence": "Чэщдэсым сык1онэу сыфай '''шъхьай''', 1офым сыхэк1ын слъэк1ырэп",
+            "translation": "I want to go to the party, '''however''' I can't leave work."
+          },
+		  {
+            "sentence": "Шыур кум шык1э лъежьагъ '''шъхьай''' к1эхьагъэп",
+            "translation": "The horseman with a horse ran after the car, '''however''' he did not reach it."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "шъхьак1э"
+    ],
+    "type": "conj",
+    "ipa": "ʂħaːja"
+  },
+  
+  {
+    "word": "шъхьак1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "yet; despite that; although that; however",
+        "examples": [
+          {
+            "sentence": "Чэщдэсым сык1онэу сыфай '''шъхьак1э''', 1офым сыхэк1ын слъэк1ырэп",
+            "translation": "I want to go to the party, '''however''' I can't leave work."
+          },
+		  {
+            "sentence": "Ар псэу '''шъхьак1эм''' л1эгъэпалъ",
+            "translation": "(S)he is healthy '''yet''' corpselike."
+          },
+		  {
+            "sentence": "Шыур кум шык1э лъежьагъ '''шъхьак1э''' к1эхьагъэп",
+            "translation": "The horseman with a horse ran after the car, '''however''' he did not reach it."
+          },
+          {
+            "sentence": "Хьак1эр ежьэжьын ы1уи '''шъхьак1эм''', бысымым ригъэжьэжьыгъэп",
+            "translation": "The guest tried to run away, '''however''' the owner didn't let him."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "шъхьай"
+    ],
+    "shapsug": "шъхьэк1ьэ",
+    "kabardian": "щхьэк1э",
+    "type": "adv",
+    "ipa": "ʂħaːt͡ʃʼa"
+  },
+  {
     "word": "фэ1аз",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "skillful",
+        "meaning": "skilled; skillful",
         "examples": [
           {
-            "sentence": "Ар IофшIакIэм фэIаз",
+            "sentence": "Ар 1офш1ак1эм '''фэ1аз'''",
             "translation": "He is '''skillful''' with work doing."
+          },
+		  {
+            "sentence": "Бзылъфыгъэр дэным '''фэ1аз'''",
+            "translation": "The woman is '''skillful''' with sewing."
+          },
+		  {
+            "sentence": "Джэгум '''сыфэ1аз'''",
+            "translation": "'''I am skillful''' with games."
+          },
+		  {
+            "sentence": "Псынк1эу 1офыр ш1эным '''фэ1аз''' л1ыр",
+            "translation": "The man is '''skillful''' with doing the work fast."
           }
         ]
       }
@@ -92847,15 +93200,15 @@
             "translation": "The boy '''envies me''' because I am rich."
           },
           {
-            "sentence": "Уи ку к1э дахэм фэш1ык1э '''къыошхъуагъощтых'''",
+            "sentence": "Уику к1э дахэм фэш1ык1э '''къыошхъогъощтых'''",
             "translation": "Because of your beautiful new car '''they are going to envy you'''"
           },
           {
             "sentence": "'''Ушхъуагъоу''' хъущтэп",
-            "translation": "You can't '''get envy'''."
+            "translation": "It is not okay to '''get envy'''."
           },
           {
-            "sentence": "Л1ыр баий ц1ыфыхэр '''ешхъуагъох'''",
+            "sentence": "Л1ыр баий ц1ыфыхэр '''къешхъуагъох'''",
             "translation": "Because the man is rich, people '''are envy of him'''."
           },
           {
@@ -96997,19 +97350,27 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to block/seal a flow or a hole",
+        "meaning": "to block; to seal",
         "examples": [
           {
+            "sentence": "Гъогур '''шъыбыгъэшъ''', ӏофым кумк1э сык1ошъущтэп",
+            "translation": "'''Because''' the road '''is blocked''', I cannot go to work with the car."
+          },
+		  {
             "sentence": "К1алэм гъуанэр '''ышъыбыгъ'''",
-            "translation": "The boy '''blocked''' the hole."
+            "translation": "The boy '''sealed''' the hole."
           },
           {
-            "sentence": "Л1ыжъым илъынтфэхэр '''шъыбыгъэхэти''', лъы тэрэзэу арик1ожьырэп",
+            "sentence": "Л1ыжъым илъынтфэхэр '''шъыбыгъэхэти''', лъы тэрэзэу къарик1ожьырэп",
             "translation": "Because the old man's veins '''got sealed''', blood doesn't flow them right."
           },
           {
             "sentence": "Гъогур '''шъыбыгъэ'''",
             "translation": "The road '''is blocked'''."
+          },
+          {
+            "sentence": "Трубэу чӏыгу чӏэгъым ч1этыр '''шъыбыгъэ'''",
+            "translation": "The pipe under the ground '''is sealed'''."
           }
         ]
       }
@@ -99844,18 +100205,6 @@
     ],
     "type": "adj",
     "ipa": "naxaːʃ"
-  },
-  {
-    "word": "ук1ытагъо",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "shamefulness",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "wət͡ʃʼətaːʁʷa"
   },
   {
     "word": "ныбжьи",
@@ -103452,7 +103801,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to resolve tasks",
+        "meaning": "to resolve tasks/conflicts",
         "examples": [
           {
             "sentence": "Л1ым 1офыр псынк1эу '''хэш1уихыгъ'''",
@@ -113509,6 +113858,15 @@
       {
         "meaning": "to add to",
         "examples": []
+      },
+	  {
+        "meaning": "to involve someone/something to",
+        "examples": [
+          {
+            "sentence": "Хэгъэгур заом '''хэгъэхьан'''",
+            "translation": "'''To involve''' a country '''to''' the war."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -113881,5 +114239,29 @@
     "shapsug": "пыпсык1ьын",
     "type": "verb",
     "ipa": "pəpsət͡ʃʼən"
+  },
+  {
+    "word": "гуигъэун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to cause to fall, to crumble",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɡʷəjʁawən"
+  },
+  {
+    "word": "къыгогъэун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to cause to fall, to crumble",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɡʷəjʁawən"
   }
 ]
