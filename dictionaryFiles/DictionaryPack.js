@@ -4371,7 +4371,12 @@
     "definitions": [
       {
         "meaning": "cattle, livestock",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "1ахъом '''былымыхэр''' ефых",
+            "translation": "The herdsman drives '''the cattle'''."
+          }
+        ]
       },
       {
         "meaning": "property, fortune, valuable things; valuables",
@@ -62109,6 +62114,10 @@
           {
             "sentence": "А к1алэхэмэ зэралъэгъоу '''зык1атхъугъ'''",
             "translation": "The boys '''dashed away''' once they saw me."
+          },
+		  {
+            "sentence": "Тхьак1умк1ыхьым шак1ор зелъэгъум, '''к1итхъугъ'''",
+            "translation": "When the rabbit saw the hunter, '''it dashed off'''."
           }
         ]
       }
@@ -62142,6 +62151,10 @@
           {
             "sentence": "А к1алэхэмэ зэралъэгъоу '''зык1атхъугъ'''",
             "translation": "The boys '''dashed away''' once they saw me."
+          },
+		  {
+            "sentence": "Тхьак1умк1ыхьым шак1ор зелъэгъум, '''к1и1агъ'''",
+            "translation": "When the rabbit saw the hunter, '''it dashed off'''."
           }
         ]
       }
@@ -93273,7 +93286,12 @@
     "definitions": [
       {
         "meaning": "to envy, to be envious",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''мэшъугъо'''",
+            "translation": "The boy '''envies'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -93287,12 +93305,21 @@
     "ipa": "ʃʷʁʷan"
   },
   {
-    "word": "ешъугъон",
+    "word": "ешъугъун",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"шъугъон\"",
-        "examples": []
+        "meaning": "to envy, to be envious",
+        "examples": [
+          {
+            "sentence": "К1алэр пшъашъэм '''ешъугъу'''",
+            "translation": "The boy '''envies''' the girl."
+          },
+		  {
+            "sentence": "К1алэр зыми '''ешъугъурэп'''",
+            "translation": "The boy '''does not envy''' anyone."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -93326,16 +93353,20 @@
         "meaning": "herdsman, herder",
         "examples": [
           {
-            "sentence": "Iахъоу Iоф ешIэ",
-            "translation": "He is doing a job as a herdsman."
+            "sentence": "''1ахъор''' ц1ыфэу былымхэр зыгъэхъухэрэр ары",
+            "translation": "'''Herdsman''' is the person that herds cattle."
+          },
+		  {
+            "sentence": "'''1ахъом''' былымыхэр ефых",
+            "translation": "'''The herdsman''' drives the cattle."
+          },
+		  {
+            "sentence": "Л1ым '''1ахъоу''' 1оф еш1э",
+            "translation": "The man is doing a job '''as a herdsman'''."
           },
           {
-            "sentence": "Iахъо кIуагъэ",
-            "translation": "The herdsman went."
-          },
-          {
-            "sentence": "Iахъо ежьагъ",
-            "translation": "The herdsman began."
+            "sentence": "'''1ахъор''' к1уагъэ",
+            "translation": "'''The herdsman''' went."
           }
         ]
       }
@@ -93355,11 +93386,11 @@
         "meaning": "herd",
         "examples": [
           {
-            "sentence": "Чэм '''Iэхъогъу'''",
+            "sentence": "Чэм '''1эхъогъу'''",
             "translation": "'''Herd''' of cows"
           },
           {
-            "sentence": "Iахъом '''Iэхъогъур''' чылэм дифыгъ",
+            "sentence": "1ахъом '''1эхъогъур''' чылэм дифыгъ",
             "translation": "The herdsman lead the '''herd''' out side the village."
           },
           {
@@ -93402,7 +93433,7 @@
             "translation": "The boy '''got list in''' in the forest."
           },
           {
-            "sentence": "1элъыныр уцыхэм '''яхэк1уагъ'''",
+            "sentence": "1элъыныр уцыхэм '''ахэк1одагъ'''",
             "translation": "The ring '''got list in''' the grass."
           }
         ]
@@ -93411,8 +93442,8 @@
         "meaning": "to perish",
         "examples": [
           {
-            "sentence": "Заом хэк1одэн",
-            "translation": "'''To perish (die)''' in the war."
+            "sentence": "Заом '''хэк1одэн'''",
+            "translation": "'''To perish''' in the war."
           }
         ]
       }
@@ -93461,16 +93492,24 @@
         "meaning": "to lose one's way, to go astray, to get lost (by going the wrong way)",
         "examples": [
           {
-            "sentence": "К1элэцIык1ухэр '''гъощагъэх'''",
+            "sentence": "К1элэц1ык1ухэр '''гъощагъэх'''",
             "translation": "The children '''got lost'''."
           },
           {
             "sentence": "Л1ыр идинк1э '''гъощагъ'''",
-            "translation": "The man '''got astray''' with his religion"
+            "translation": "The man '''got astray''' with his religion."
+          },
+          {
+            "sentence": "Т1эк1у '''сыгъощагъ''', тыдэ щы1агъ тучаныр?",
+            "translation": "'''I got lost''' a bit, where was the shop?"
           },
           {
             "sentence": "Л1ыр гъогумк1э '''гъощагъ'''",
-            "translation": "The man '''got lost''' on the road"
+            "translation": "The man '''got lost''' on the road."
+          },
+          {
+            "sentence": "Л1ыр мэзымк1э '''хэгъуащи''' хэк1одыхьагъ",
+            "translation": "The man '''got lost in''' the forest and got lost in it."
           }
         ]
       }
@@ -93484,12 +93523,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "rabbit",
-        "examples": []
-      },
-      {
-        "meaning": "bunny",
-        "examples": []
+        "meaning": "rabbit; bunny",
+        "examples": [
+          {
+            "sentence": "Шак1ом '''тхьак1умк1ыхьыр''' къеубытых",
+            "translation": "The hunter catches '''rabbits'''."
+          },
+		  {
+            "sentence": "'''Тхьак1умк1ыхьым''' шак1ор зелъэгъум, к1и1агъ",
+            "translation": "When the '''rabbit''' saw the hunter, it dashed off."
+          }
+        ]
       }
     ],
     "type": "noun",

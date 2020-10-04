@@ -4188,7 +4188,13 @@
     "stink": "шъумэ; мэ 1ай"
   },
   {
-    "to envy": "шхъогъон; хъопсэн; ехъопсэн (to envy someone); ешхъогъон (to envy someone); шъугъон"
+    "to be envious": "шхъогъон; шъугъон; хъопсэн"
+  },
+  {
+    "to be jealous": "шхъогъон (to be envious); шъугъон (to be envious); хъопсэн (to be jealous); ехъопсэн (to be jealous of someone); ешхъогъон (to envy someone); ешъугъун (to envy someone)"
+  },
+  {
+    "to envy": "шхъогъон (to be envious); шъугъон (to be envious); хъопсэн (to be jealous); ехъопсэн (to be jealous of someone); ешхъогъон (to envy someone); ешъугъун (to envy someone)"
   },
   {
     "to lust": "хъопсэн; ехъопсэн (to lust for); енэц1ын (look lustfully)"
@@ -11034,9 +11040,6 @@
     "to trust": "цыхьэ фэш1ын; щыгугъын (to rely on)"
   },
   {
-    "to be jealous": "шхъогъон; ешхъогъон (to be jealous of)"
-  },
-  {
     "to make up with": "еш1ужьын (to make peace with someone); зэш1ужьын (to make peace with each other)"
   },
   {
@@ -15505,9 +15508,6 @@
   },
   {
     "vulgarity": "губгъэн"
-  },
-  {
-    "to be envious": "шхъогъон; шъугъон"
   },
   {
     "herder": "1ахъо"
