@@ -8037,7 +8037,7 @@
     "to name": "ц1э усын; ц1э фэусын (to give a name to); иунашъо ш1ын (to mention)"
   },
   {
-    "to read": "еджэн (to be reading); джын (to complete reading a certain portion); хэджэхьан (to read through)"
+    "to read": "еджэн / къеджэн (to be reading); джын (to complete reading a certain portion); хэджэхьан (to read through)"
   },
   {
     "to reread": "еджэжьын (to read again)"
@@ -12387,10 +12387,16 @@
     "understanding": "зэхэш1ык1ыныр; гуры1о; гулъытэ"
   },
   {
-    "nothing": "зи; зыци; зыпари"
+    "nothing": "зи; зыгори; зыми (nobody); зыци; зыпари"
   },
   {
-    "nobody": "зи; зыми (ergative case); зыгори"
+    "nobody": "зи; зыгори; зыми (nobody)"
+  },
+  {
+    "no-one": "зи; зыгори; зыми (nobody)"
+  },
+  {
+    "no one": "зи; зыгори; зыми (nobody)"
   },
   {
     "dry land": "ч1ылъэ"

@@ -5463,6 +5463,51 @@
     "ipa": "xaʂʷan"
   },
   {
+    "word": "къэк1он",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to come",
+        "examples": [
+		  {
+            "sentence": "Зи чэщдэсым '''къэк1уагъэп'''",
+            "translation": "Nobody '''came''' to the party."
+          },
+		  {
+            "sentence": "К1алэр '''къак1о'''",
+            "translation": "The boy '''is coming'''."
+          },
+		  {
+            "sentence": "О '''укъак1орэп'''",
+            "translation": "'''You are not coming'''."
+          },
+		  {
+            "sentence": "Сэ 1офым непэ '''сыкъэк1ощтэп'''",
+            "translation": "'''I won't come''' to work today."
+          },
+		  {
+            "sentence": "Мэш1окур '''къак1о'''",
+            "translation": "The train '''is coming'''."
+          },
+		  {
+            "sentence": "Хэт '''къэк1ощтыхэр'''?",
+            "translation": "Who are the ones that '''are coming'''?"
+          },
+		  {
+            "sentence": "Унэм чэщы нэс '''сыкъэк1ожьыщтэп'''",
+            "translation": "'''I won't come back''' to home till night."
+          },
+		  {
+            "sentence": "Саусырыр '''къэк1ощтыпи''', мы фылымым непэ тешъумыгъэплъ",
+            "translation": "'''Because''' Sawser '''will not come''', let's not watch this film today."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "qakʷʼan"
+  },
+  {
     "word": "к1он",
     "lang": "Adyghe",
     "definitions": [
@@ -8248,6 +8293,10 @@
 		  {
             "sentence": "Л1ыр фылым дэгъумэ '''аплъы'''",
             "translation": "The man '''is watching''' good films."
+          },
+		  {
+            "sentence": "Саусырыр къэк1ощтыпи, мы фылымым непэ '''тешъумыгъэплъ'''",
+            "translation": "Because Sawser will not come, '''let's not watch''' this film today."
           }
         ]
       }
@@ -35490,6 +35539,10 @@
           {
             "sentence": "тик1алэ Томк1э '''теджэщт'''",
             "translation": "We will '''call''' our boy Tom."
+          },
+		  {
+            "sentence": "'''шъукъысэмыдж''' зыгори тэшъумыгъэш1эщтымэ",
+            "translation": "'''Do not call me''' if you guys are not going to let us do anything."
           }
         ]
       },
@@ -35512,7 +35565,7 @@
         ]
       },
       {
-        "meaning": "to read (more specifically: to be reading)",
+        "meaning": "to read",
         "examples": [
           {
             "sentence": "к1алэр тхылъым '''еджэ'''",
@@ -35529,6 +35582,10 @@
           {
             "sentence": "'''къедж''' тхылъым",
             "translation": "'''Read''' the book."
+          },
+		  {
+            "sentence": "удыр угу илъым '''къеджэшъущт'''",
+            "translation": "A wizard '''can read''' what is in your heart."
           }
         ]
       },
@@ -44313,15 +44370,27 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "party",
+        "meaning": "party (a gathering of usually invited guests for entertainment, fun and socializing)",
         "examples": [
           {
             "sentence": "Мыщ '''чэщдэс''' щы1а?",
-            "translation": "There is a party here?"
+            "translation": "There is ''a party''' here?"
           },
 		  {
             "sentence": "Ныпчыхьэ '''чэщдэс''' тыщы1эщт",
-            "translation": "Tonight I will be '''in the night'''."
+            "translation": "Tonight we will be '''in the party'''."
+          },
+		  {
+            "sentence": "Зи '''чэщдэсым''' къэк1уагъэп",
+            "translation": "Nobody came to the '''party'''."
+          },
+          {
+            "sentence": "К1алэм '''чэщдэс''' егъэухьазыры",
+            "translation": "The boy is preparing a '''party'''."
+          },
+          {
+            "sentence": "'''Чэщдэсым''' шъук1онэу шъуфая?",
+            "translation": "Do you want to go to the '''party'''?"
           }
         ]
       }
@@ -65695,6 +65764,60 @@
     "ipa": "zət͡səj"
   },
   {
+    "word": "зыгори",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "nothing",
+        "examples": [
+		  {
+            "sentence": "К1алэм '''зыгори''' ымы1оу к1оу ригъэкъугъ",
+            "translation": "The boy without saying '''nothing''' continued to go."
+          },
+		  {
+            "sentence": "К1алэм '''зыгори''' непэ ыш1агъэп, сэ зэк1эри сыш1агъ",
+            "translation": "The boy did '''nothing''' today, I did everything."
+          },
+		  {
+            "sentence": "'''Зыгори''' сы1уагъэп",
+            "translation": "I said '''nothing'''."
+          },
+		  {
+            "sentence": "'''Зыгори''' к1алэм ыш1агъэп",
+            "translation": "The boy did '''nothing'''."
+          },
+		  {
+            "sentence": "'''Зыгори''' хъугъэп",
+            "translation": "'''Nothing''' happened."
+          },
+		  {
+            "sentence": "Шъукъысэмыдж '''зыгори''' тэшъумыгъэш1эщтымэ",
+            "translation": "Do not call me if you guys are not going to let us do '''anything'''."
+          }
+        ]
+      },
+      {
+        "meaning": "nobody; no-one",
+        "examples": [
+          {
+            "sentence": "'''Зыгори''' еджап1эм къэк1уагъэп",
+            "translation": "'''Nobody''' came to school."
+          },
+		  {
+            "sentence": "'''Зыгори''' еджагъэп",
+            "translation": "'''Nobody''' studied."
+          },
+		  {
+            "sentence": "'''Зыгори''' чэщдэсым къэк1уагъэп",
+            "translation": "'''Nobody''' came to the party."
+          }
+        ]
+      }
+    ],
+    "type": "adv",
+    "ipa": "zəgʷarəj"
+  },
+  {
     "word": "зи",
     "lang": "Adyghe",
     "definitions": [
@@ -65702,7 +65825,7 @@
         "meaning": "nothing",
         "examples": [
           {
-            "sentence": "К1алэм '''зи''' ымы1оу к1оу ригъэкъогъ",
+            "sentence": "К1алэм '''зи''' ымы1оу к1оу ригъэкъугъ",
             "translation": "The boy without saying '''nothing''' continued to go."
           },
 		  {
@@ -65720,11 +65843,15 @@
 		  {
             "sentence": "'''Зи''' хъугъэп",
             "translation": "'''Nothing''' happened."
+          },
+		  {
+            "sentence": "Шъукъысэмыдж '''зи''' тэшъумыгъэш1эщтымэ",
+            "translation": "Do not call me if you guys are not going to let us do '''anything'''."
           }
         ]
       },
       {
-        "meaning": "nobody",
+        "meaning": "nobody; no-one",
         "examples": [
           {
             "sentence": "'''Зи''' еджап1эм къэк1уагъэп",
@@ -65733,6 +65860,10 @@
 		  {
             "sentence": "'''Зи''' еджагъэп",
             "translation": "'''Nobody''' studied."
+          },
+		  {
+            "sentence": "'''Зи''' чэщдэсым къэк1уагъэп",
+            "translation": "'''Nobody''' came to the party."
           }
         ]
       }
@@ -94317,8 +94448,8 @@
             "translation": "The people asked the '''sorcerer'''."
           },
 		  {
-            "sentence": "'''Удым''' фэдэу, угу илъыр къеш1э",
-            "translation": "Like a '''wizard''', (s)he knows what's in your heart."
+            "sentence": "'''Удыр''' угу илъым къеджэшъущт",
+            "translation": "'''A wizard''' can read what is in your heart."
           }
         ]
       },
@@ -100723,6 +100854,10 @@
 		  {
             "sentence": "Матэм псы '''илъымэ''' еплъ",
             "translation": "Look if there is water '''in''' the basket."
+          },
+		  {
+            "sentence": "Удыр угу '''илъым''' къеджэшъущт",
+            "translation": "A wizard can read '''what is in''' your heart."
           }
         ]
       },
