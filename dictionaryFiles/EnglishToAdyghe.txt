@@ -4572,7 +4572,13 @@
     "to evaporate": "гъушъын; гъэгъушъын"
   },
   {
-    "to heat up": "плъын; гъэплъын (to heat up something); зэк1эгъэстыхьан"
+    "to be heated": "плъын"
+  },
+  {
+    "to heat": "плъын (to be heated); гъэплъын (to heat something)"
+  },
+  {
+    "to heat up": "плъын; гъэплъын (to heat up something); зэк1эгъэстыхьан; п1онк1ын (to bubble up from heat)"
   },
   {
     "to phone": "теон; фэтеон (to phone someone); (dialectal) феон (to phone someone)"
@@ -4591,12 +4597,6 @@
   },
   {
     "to wither": "гъун"
-  },
-  {
-    "to be heated": "плъын"
-  },
-  {
-    "to heat": "плъын (to be heated); гъэплъын (to heat something)"
   },
   {
     "isolated": "пыдзыгъ"
@@ -8067,7 +8067,7 @@
     "to thunder": "гъогъон"
   },
   {
-    "thick": "пщэры, 1ужъу; гъумы"
+    "thick": "пщэры; 1ужъу; гъумы"
   },
   {
     "to be dehydrate": "гъун"
@@ -15069,7 +15069,7 @@
     "cracked": "чагъэ; (Shapsug) кьагъэ"
   },
   {
-    "to be cracked": "чэн; (Shapsug) кьэн"
+    "to be cracked": "чэн"
   },
   {
     "to crack": "чэн; (Shapsug) кьэн; гъэчэн (to crack something)"
@@ -16276,6 +16276,9 @@
   },
   {
     "to go inside": "ихьан (to go into the house); къихьан (to come into the house)"
+  },
+  {
+    "to go well": "къыдэхъун (things to go well for)"
   },
   {
     "atrium": "гушъхьэ"

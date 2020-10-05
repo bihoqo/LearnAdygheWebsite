@@ -1709,6 +1709,10 @@
           {
             "sentence": "'''Снат1э''' мэузы",
             "translation": "'''My forehead''' hurts."
+          },
+		  {
+            "sentence": "Л1ыжъым '''ынат1э''' зэлъагъэ",
+            "translation": "The old-man's '''forehead''' got wrinkled."
           }
         ]
       }
@@ -1792,7 +1796,12 @@
     "definitions": [
       {
         "meaning": "water",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Псыр''' угъэплъымэ п1онк1эу ежьэ",
+            "translation": "When you heat up '''water''' it start bubbling up."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -15920,7 +15929,12 @@
     "definitions": [
       {
         "meaning": "thick",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Чэмым ыпшъашъо '''1ужъу'''",
+            "translation": "The cow's neck skin '''is thick'''."
+          }
+        ]
       }
     ],
     "kabardian": "1увы",
@@ -20719,6 +20733,10 @@
           {
             "sentence": "Шхынэр '''угъэплъыгъа?'''",
             "translation": "'''Did you heat''' the food?"
+          },
+		  {
+            "sentence": "Псыр '''угъэплъымэ''' п1онк1эу ежьэ",
+            "translation": "When you '''heat up''' water it start bubbling up."
           }
         ]
       }
@@ -28784,7 +28802,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "chemise, shirt",
+        "meaning": "shirt",
         "examples": [
           {
             "sentence": "'''Джэнэ''' фыжьы",
@@ -28797,6 +28815,14 @@
 		  {
             "sentence": "'''Сиджанэ''' пчъэм ык1ыб пылъагъ, къэсфэхь",
             "translation": "'''My shirt''' is hanged behind the door, bring it to me."
+          },
+		  {
+            "sentence": "Уты '''джанэм''' тедзэн",
+            "translation": "To pass an iron over a '''shirt'''."
+          },
+          {
+            "sentence": "Бзылъфыгъэр '''джанэм''' уты еуагъ",
+            "translation": "The mother ironed '''the shirt'''."
           }
         ]
       },
@@ -28810,7 +28836,7 @@
         ]
       },
       {
-        "meaning": "dress, robe",
+        "meaning": "dress, robe, chemise",
         "examples": [],
         "tags": [
           "Literary"
@@ -94602,46 +94628,6 @@
     "ipa": "ʐə"
   },
   {
-    "word": "т1эп1ын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to rip (a garment) at the seams, to unstitch",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "зэгот1эп1ык1ын"
-    ],
-    "type": "verb",
-    "ipa": "tʼsapʼən"
-  },
-  {
-    "word": "гъэут1эп1ын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"гъэт1эп1ын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "ʁawtʼapʼən"
-  },
-  {
-    "word": "зэгот1эп1ык1ын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to rip (a garment) at the seams, to unstitch",
-        "examples": []
-      }
-    ],
-    "kabardian": "т1эп1ын",
-    "type": "verb",
-    "ipa": "zaɡʷatʼapʼət͡ʃʼən"
-  },
-  {
     "word": "п1онк1ын",
     "lang": "Adyghe",
     "definitions": [
@@ -94653,21 +94639,43 @@
         "meaning": "to bubble up from heat",
         "examples": [
           {
-            "sentence": "Псыр '''мэп1эрк1ы'''",
+            "sentence": "Псыр угъэплъымэ '''п1онк1эу''' ежьэ",
+            "translation": "When you heat up water it start '''bubbling up'''."
+          },
+		  {
+            "sentence": "Псыр '''мэп1онк1ы'''",
             "translation": "The water '''is bubbling up'''."
+          },
+		  {
+            "sentence": "Псыр '''гъэп1онк1'''",
+            "translation": "'''Bubble up''' the water."
           }
         ]
       }
     ],
-    "synonyms": [
-      "п1эрк1ьын"
-    ],
+    "shapsug": "п1эрк1ьын",
     "kabardian": "п1энк1ын",
     "type": "verb",
     "ipa": "pʷʼant͡ʃʼəm"
   },
   {
-    "word": "п1эрк1ьын",
+    "word": "п1эрк1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"п1онк1ын\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "п1онк1ын"
+    ],
+    "kabardian": "п1энк1ын",
+    "type": "verb",
+    "ipa": "pʼankʲʼəm"
+  },
+  {
+    "word": "п1энк1ын",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -94687,7 +94695,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to cause to burst",
+        "meaning": "to cause to burst; to bubble up",
         "examples": [
           {
             "sentence": "Псыр '''гъэп1орк1'''",
@@ -94700,40 +94708,34 @@
     "ipa": "ʁapʷʼant͡ʃʼən"
   },
   {
-    "word": "зэгочын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to be cracked",
-        "examples": [
-          {
-            "sentence": "Пхъэр '''зэгочы'''",
-            "translation": "The wood '''cracks'''."
-          }
-        ]
-      },
-      {
-        "meaning": "to be broken off",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "п1эрэп1эрэн"
-    ],
-    "type": "verb",
-    "ipa": "zaɡʷat͡ʃən"
-  },
-  {
     "word": "уты",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "iron (for pressing clothes)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Утым''' джанэр егъэплъы",
+            "translation": "'''The iron''' heated up the shirt."
+          },
+		  {
+            "sentence": "'''Уты''' джанэм тедзэн",
+            "translation": "To pass an '''iron''' over a shirt."
+          },
+		  {
+            "sentence": "Пшъашъэм гык1ыгъэмэ '''ут''' атыридзагъ",
+            "translation": "The girl passed an '''iron''' over laundries."
+          }
+        ]
       },
       {
         "meaning": "blow (from impact)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''уты''' езгъэшхыгъ",
+            "translation": "I made the boy eat '''a blow'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -94809,7 +94811,20 @@
     "definitions": [
       {
         "meaning": "skin on the neck",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Пшъашъор''' пшъэм шъоу телъыр ары",
+            "translation": "'''Neck skin''' is the skin on the neck."
+          },
+		  {
+            "sentence": "Л1ыжъым '''ыпшъашъо''' зэлъагъэ",
+            "translation": "The old-man's '''neck skin''' got wrinkled."
+          },
+		  {
+            "sentence": "Чэмым '''ыпшъашъо''' 1ужъу",
+            "translation": "The cow's '''neck skin''' is thick."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -94821,7 +94836,16 @@
     "definitions": [
       {
         "meaning": "to wrinkle (to become wrinkled)",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Л1ыжъым ыпшъашъо '''зэлъагъэ'''",
+            "translation": "The man's neck skin '''got wrinkled'''."
+          },
+		  {
+            "sentence": "Л1ыжъым ынат1э '''зэлъагъэ'''",
+            "translation": "The old-man's forehead '''got wrinkled'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -94840,7 +94864,7 @@
           },
           {
             "sentence": "'''Губгъэн къэсфэмылъэгъу'''",
-            "translation": "'''Don't holds a grudge against me'''."
+            "translation": "'''Don't hold a grudge against me'''."
           }
         ]
       }
@@ -114754,5 +114778,57 @@
     ],
     "type": "verb",
     "ipa": "ɡʷəjʁawən"
+  },
+  {
+    "word": "т1эп1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to rip (a garment) at the seams, to unstitch",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "зэгот1эп1ык1ын"
+    ],
+    "type": "verb",
+    "ipa": "tʼsapʼən"
+  },
+  {
+    "word": "гъэут1эп1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"гъэт1эп1ын\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʁawtʼapʼən"
+  },
+  {
+    "word": "зэгот1эп1ык1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to rip (a garment) at the seams, to unstitch",
+        "examples": []
+      }
+    ],
+    "kabardian": "т1эп1ын",
+    "type": "verb",
+    "ipa": "zaɡʷatʼapʼət͡ʃʼən"
+  },
+  {
+    "word": "зэгочын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to tear apart/asunder, to tear up",
+        "examples": []
+      }
+    ]
+    "type": "verb",
+    "ipa": "zaɡʷat͡ʃən"
   }
 ]
