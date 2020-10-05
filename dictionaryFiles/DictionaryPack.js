@@ -95227,8 +95227,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "sorrow, grief",
-        "examples": []
+        "meaning": "sorrow; grief (more specifically: heartbreaking)",
+        "examples": [
+          {
+            "sentence": "Къэсфэгъэгъу, къэбар '''гухэк1''' къыпфэсхьыгъ",
+            "translation": "Forgive me, I have brought upon you a '''heartbreaking''' news."
+          },
+		  {
+            "sentence": "Л1ым '''гухэк1''' къехъул1агъ",
+            "translation": "A '''heartbreaking''' occurrence happened to the man."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -95245,11 +95254,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "grief, distress, sadness",
+        "meaning": "grief, distress, sadness (more specifically: heartbreaking)",
         "examples": [
           {
             "sentence": "Къэбар '''гукъау''' къыпфэсхьыгъ, ук1алэ заом хэук1эхьагъ",
-            "translation": "I brought you '''misfortunate''' news, your son was killed in battle."
+            "translation": "I brought you a '''heartbreaking''' news, your son was killed in battle."
+          },
+		  {
+            "sentence": "Л1ым щыш1ыгъэп шъыпкъэмк1э '''гукъау'''",
+            "translation": "What happened to the man is truly '''heartbreaking'''."
           }
         ]
       }

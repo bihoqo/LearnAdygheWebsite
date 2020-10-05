@@ -12324,6 +12324,12 @@
     "to get hurt": "гухэк1ын"
   },
   {
+    "to break someone's heart": "гухэк1ын"
+  },
+  {
+    "to break a heart": "гухэк1ын"
+  },
+  {
     "to upset": "гухэгъэк1ын (to upset someone); нэшхъэй хъугъэ (to get upset)"
   },
   {
@@ -14503,6 +14509,9 @@
   },
   {
     "shield": "мэ1у"
+  },
+  {
+    "heartbreaking": "гухэк1; гукъау; гук1ае"
   },
   {
     "sorrow": "гухэк1; гукъау; гук1ае"
