@@ -2378,7 +2378,12 @@
       },
       {
         "meaning": "color",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Лъым '''ышъо''' плъыжьы",
+            "translation": "The blood's '''color''' is red."
+          }
+        ]
       },
       {
         "meaning": "y'all; you all; you guys; you (plural)",
@@ -8276,12 +8281,33 @@
           {
             "sentence": "'''слъэгъушъурэп''' пшъашъэр",
             "translation": "'''I can't see''' the girl."
+          },
+		  {
+            "sentence": "Аслъаныр джэгум ик1одык1ыгъ, '''къэслъэгъужьырэп'''",
+            "translation": "Aslan disappeared from the game, '''I no longer see him'''."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "pɬaʁʷən"
+    "ipa": "ɬaʁʷən"
+  },
+  {
+    "word": "лъэгъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "appearance (presence)",
+        "examples": [
+          {
+            "sentence": "Куджаным '''илъэгъу''' сык1эхъосы",
+            "translation": "I am missing Kujan's '''appearance'''."
+          },
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ɬaʁʷ"
   },
   {
     "word": "чъэн",
@@ -19055,7 +19081,8 @@
       }
     ],
     "synonyms": [
-      "уды"
+      "уды",
+	  "ушхъухьак1о"
     ],
     "type": "noun",
     "ipa": "naʁʷt͡ʂʼət͡sa"
@@ -31916,35 +31943,6 @@
     "ipa": "faməf"
   },
   {
-    "word": "уды",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "witch",
-        "examples": []
-      },
-      {
-        "meaning": "sorcerer",
-        "examples": []
-      },
-      {
-        "meaning": "magician",
-        "examples": []
-      },
-      {
-        "meaning": "wizard",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "нэгъуч1ыцэ",
-      "ушхъухьак1о"
-    ],
-    "kabardian": "уд",
-    "type": "noun",
-    "ipa": "wədə"
-  },
-  {
     "word": "набгъэ",
     "lang": "Adyghe",
     "definitions": [
@@ -37750,7 +37748,12 @@
     "definitions": [
       {
         "meaning": "police; cop; policeman",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Хьэубытымэ''' ук1ак1ор къаубытыгъ",
+            "translation": "'''The cops''' caught the killer."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -43576,7 +43579,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "like (similar)",
+        "meaning": "like; similar to",
         "examples": [
           {
             "sentence": "к1алэр '''къэсфэд'''",
@@ -43608,7 +43611,15 @@
           },
           {
             "sentence": "'''cэфэд'''",
-            "translation": "'''Like me'''."
+            "translation": "'''(S)he is like me'''."
+          },
+          {
+            "sentence": "'''cыфэд'''",
+            "translation": "'''I am like him/her'''."
+          },
+          {
+            "sentence": "Ушы '''уфэдэшъ''', шъузэхэсдзышъурэп",
+            "translation": "'''Because you are similar to''' your brother, I cannot distinguish you guys."
           }
         ]
       }
@@ -44281,6 +44292,10 @@
           {
             "sentence": "Мыр '''синыбджэгъу'''",
             "translation": "This is '''my friend'''."
+          },
+          {
+            "sentence": "К1алэм '''ныбджэгъу''' и1эпышъ, езэщы",
+            "translation": "Because the boy has no '''friends''', he is bored."
           }
         ]
       }
@@ -45403,6 +45418,10 @@
           {
             "sentence": "'''Си1эп''' колэ",
             "translation": "'''I don't have''' a cola."
+          },
+          {
+            "sentence": "К1алэм ныбджэгъу '''и1эпышъ''', езэщы",
+            "translation": "Because the boy '''has no''' friends, he is bored."
           }
         ]
       }
@@ -55315,8 +55334,12 @@
         "meaning": "dancer",
         "examples": [
           {
-            "sentence": "'''Къэшъуак1охэр''' пыпчыхьэ къэшъощтых",
+            "sentence": "'''Къэшъуак1охэр''' ныпчыхьэ къэшъощтых",
             "translation": "'''The dancers''' will dance tonight."
+          },
+		  {
+            "sentence": "'''Къэшъуак1ор''' ц1ыф и1оф къеш1эныр ары",
+            "translation": "'''A dancer''' is a person with the job of dancing."
           }
         ]
       }
@@ -56973,12 +56996,12 @@
         "meaning": "playing mate; playmate",
         "examples": [
           {
-            "sentence": "К1алэм иджэгогъу дэсэпышъ мэзэщы",
+            "sentence": "К1алэм '''иджэгогъу''' дэсэпышъ мэзэщы",
             "translation": "Because the boy's '''playmate''' is not around, he is bored."
           },
 		  {
-            "sentence": "К1алэм джэгогъу и1эпышъ 1оф хэт",
-            "translation": "Because the boy has no '''playmate''', he is in a problem."
+            "sentence": "К1алэм '''джэгогъу''' и1эпышъ, 1оф хэт",
+            "translation": "Because the boy has no '''playmate''', he is in problem."
           }
         ]
       }
@@ -66862,7 +66885,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to wring, to press tightly; to squeeze something (the effect of the squeezing is reversible)",
+        "meaning": "to wring, to press tightly; to squeeze; to squeeze something but the squeezing does not alter the natural shape or integrity of the object (the effect of the squeezing is reversible unlike the verb ц1ыц1ын)",
         "examples": [
           {
             "sentence": "К1алэм хъэдэныр '''ефызы'''",
@@ -68885,6 +68908,10 @@
           {
             "sentence": "Узымы1этыщт '''къутамэм''' утемыуцу",
             "translation": "Do not stand on a '''branch''' that cannot lift you."
+          },
+		  {
+            "sentence": "Зыфэсакъ, '''къутамэу''' узытетыр зэхэк1ыщт",
+            "translation": "Careful, '''the branch''' you're standing on will break and collapse."
           }
         ]
       }
@@ -72679,7 +72706,7 @@
         ]
       },
       {
-        "meaning": "to squeeze something (the effect of the squeezing is irreversible); to squash; to squish; to apply (intensive) pressure; to compress",
+        "meaning": "to squash; to squish; to compress; to crush; to squeeze so as to alter the natural shape or integrity of the object (the effect of the squeezing is irreversible unlike the verb фызын)",
         "examples": [
           {
             "sentence": "К1алэм и1эр пчъэм '''дэц1ыц1агъ'''",
@@ -75145,6 +75172,35 @@
     "ipa": "zəʁasaːmbərən"
   },
   {
+    "word": "зэфэд",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alike; similar to each other; like each other",
+        "examples": [
+          {
+            "sentence": "Сэрэ сшырэ '''тызэфэд'''",
+            "translation": "Me and my brother are '''alike'''."
+          },
+		  {
+            "sentence": "Сыдэущтэу фабэмрэ чъы1эмрэ '''зэфэдэх'''?",
+            "translation": "How is warm and cold '''alike'''?"
+          },
+		  {
+            "sentence": "К1алэмрэ пшъашъэмрэ як1асэхэмк1э '''зэфэдэх'''",
+            "translation": "The boy and the girl '''are similar''' in what they like."
+          },
+          {
+            "sentence": "Ш1уц1эмрэ фыжьымрэ '''зэфэдэхэпышъ''', 1эш1эх дэд зэхэпдзыныхыр чэщым",
+            "translation": "'''Because''' black and white '''are not alike''', it is very easy '''to distinguish them''' in the night."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zatajɬən"
+  },
+  {
     "word": "зэтелъын",
     "lang": "Adyghe",
     "definitions": [
@@ -75173,6 +75229,14 @@
         "meaning": "to distinguish between",
         "examples": [
           {
+            "sentence": "Ушы уфэдэшъ, '''шъузэхэсдзышъурэп'''",
+            "translation": "Because you are similar to your brother, '''I cannot distinguish you guys'''."
+          },
+		  {
+            "sentence": "Ш1уц1эмрэ фыжьымрэ зэфэдэхэпышъ, 1эш1эх дэд '''зэхэпдзыныхыр''' чэщым",
+            "translation": "Because black and white are not alike, it is very easy '''to distinguish them''' in the night."
+          },
+		  {
             "sentence": "Чэтыу хъумрэ бзымрэ '''зэхэсэдзых'''",
             "translation": "'''I distinguish between''' the male cat and female cat."
           },
@@ -76761,6 +76825,23 @@
             "translation": "'''They are dragging''' the wounded man"
           }
         ]
+      },
+	  {
+        "meaning": "to pull something, to gravitate something",
+        "examples": [
+          {
+            "sentence": "К1алэм '''сыкъелъэшъу'''",
+            "translation": "The boy ''is pulling me [toward himself]'''."
+          },
+		  {
+            "sentence": "Удэпк1ыемэ, дунаем '''укъырилъэшъохыжьыщт'''",
+            "translation": "If you jump, the earth '''will pull you down'''."
+          },
+		  {
+            "sentence": "'''Сымылъэшъуба'''",
+            "translation": "'''Don't pull me'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -76788,6 +76869,19 @@
           {
             "sentence": "Л1ы у1агъэр '''къалъэшъу'''",
             "translation": "'''They are dragging''' the wounded man '''to here'''"
+          }
+        ]
+      },
+	  {
+        "meaning": "to pull something to oneself, to gravitate something to oneself",
+        "examples": [
+          {
+            "sentence": "К1алэм '''сыкъелъэшъу'''",
+            "translation": "The boy ''is pulling me [toward himself]'''."
+          },
+		  {
+            "sentence": "Удэпк1ыемэ, дунаем '''укъырилъэшъохыжьыщт'''",
+            "translation": "If you jump, the earth '''will pull you down'''."
           }
         ]
       }
@@ -77420,15 +77514,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to break and collapse (usaully from heavy-weight)",
+        "meaning": "to break and collapse (by pressure or weight); to crush; to overwhelm by pressure or weight",
         "examples": [
           {
             "sentence": "К1алэм анэр '''зэхик1ыгъ'''",
             "translation": "The boy '''collapsed''' the table."
           },
           {
-            "sentence": "Унэр '''зэхэмык1'''",
-            "translation": "Don't '''collapse''' the house."
+            "sentence": "Лего унэр '''зэхэмык1'''",
+            "translation": "Don't '''crush''' the house."
+          },
+		  {
+            "sentence": "Зыфэсакъ, къутамэу узытетыр '''зэхэк1ыщт'''",
+            "translation": "Careful, the branch you're standing on '''will break and collapse'''."
           }
         ]
       },
@@ -85848,20 +85946,12 @@
             "translation": "The man '''endured''' the disease."
           },
 		  {
-            "sentence": "Сэ а ц1ыф гущы1алэр '''сыщэ1агъ'''",
-            "translation": "'''I endured''' that talkative person."
-          },
-		  {
             "sentence": "Тхьапшэрэ а ц1ыфыр '''тыщэ1эн''' фай?",
             "translation": "For how much '''we''' need '''to endure''' that person?"
           },
 		  {
-            "sentence": "Ц1ыфым '''зещэ1э'''",
-            "translation": "The person '''is enduring'''."
-          },
-		  {
-            "sentence": "Нахь бэрэ '''сызщэ1эшъущтэп''', джы сыгъутхьан фай",
-            "translation": "'''I cannot hold it''' any longer, I need to pee now."
+            "sentence": "Нахь бэрэ '''сызщэ1эжьышъущтэп''', джы сыгъутхьан фай",
+            "translation": "'''I can no longer hold it''' any longer, I need to pee now."
           },
 		  {
             "sentence": "Л1ым т1ок1ипл1 цельсия хэтэу '''ыщэ1агъ'''",
@@ -85870,6 +85960,23 @@
 		  {
             "sentence": "А ц1ыфым бэ '''ыщэ1агъ'''",
             "translation": "That person '''endured''' a lot."
+          }
+        ]
+      },
+	  {
+        "meaning": "to tolerate something; to put up with something",
+        "examples": [
+          {
+            "sentence": "К1элэц1ык1умэ амакъэхэр '''сыфэщэ1эжьырэп'''",
+            "translation": "'''I can no longer tolerate''' the children's noises."
+          },
+		  {
+            "sentence": "Сэ а ц1ыф гущы1алэр '''сыщэ1агъ'''",
+            "translation": "'''I put up with''' that talkative person."
+          },
+		  {
+            "sentence": "Ц1ыфым '''зещэ1э'''",
+            "translation": "The person '''is tolerating'''."
           }
         ]
       }
@@ -85895,6 +86002,23 @@
           {
             "sentence": "Мы о фабэм хэсэу таущтэу к1алэм '''фэща1э'''?",
             "translation": "How '''does''' the boy '''bear''' being in this hot weather?"
+          }
+        ]
+      },
+	  {
+        "meaning": "to tolerate something successfully; to put up with something successfully",
+        "examples": [
+          {
+            "sentence": "К1элэц1ык1умэ амакъэхэр '''сыфэщэ1эжьырэп'''",
+            "translation": "'''I can no longer tolerate''' the children's noises."
+          },
+		  {
+            "sentence": "А ц1ыфыр '''къэсфэща1эрэп'''",
+            "translation": "'''I can't tolerate''' that person."
+          },
+		  {
+            "sentence": "Сыдэущтэу мы 1оф къиныр '''къыпфэща1э'''?",
+            "translation": "How do '''you tolerate''' this awful job?"
           }
         ]
       }
@@ -93148,6 +93272,10 @@
           {
             "sentence": "Хьак1эр ежьэжьын ы1уи '''шъхьак1эм''', бысымым ригъэжьэжьыгъэп",
             "translation": "The guest tried to run away, '''however''' the owner didn't let him."
+          },
+		  {
+            "sentence": "Услъышъуягъ '''шъхьак1э''' зэхэпхыгъэп",
+            "translation": "I whistle to you '''however''' you did not hear it."
           }
         ]
       }
@@ -93544,11 +93672,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to disappear/vanish out of inside something",
+        "meaning": "to disappear inside something; to vanish inside something",
         "examples": [
           {
             "sentence": "Тхьак1умк1ыхь па1ом '''ик1одык1ыгъ'''",
             "translation": "The rabbit '''vanished out of''' the hat."
+          },
+		  {
+            "sentence": "Удым тхьак1умк1ыхьыр па1ом '''ригъэк1одык1ыгъ'''",
+            "translation": "The sorcerer '''vanished''' the rabbit '''inside''' the hat."
+          },
+		  {
+            "sentence": "Аслъаныр джэгум '''ик1одык1ыгъ''', къэслъэгъужьырэп",
+            "translation": "Aslan '''disappeared''' from the game, I no longer see him."
           }
         ]
       }
@@ -93561,15 +93697,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to disappear/vanish out of something",
+        "meaning": "to disappear within/among; to vanish within/among",
         "examples": [
           {
             "sentence": "Бжьыдзэ шъхьацым '''хэк1одык1ыгъ'''",
-            "translation": "The flea '''vanished out of''' the hair."
+            "translation": "The flea '''vanished within''' the hair."
           },
           {
-            "sentence": "Iэхъогъум чэмитIу хэкIодыкIыгъ",
-            "translation": "Two cows '''vanished out of''' the herd."
+            "sentence": "1эхъогъум чэмит1у хэк1одык1ыгъэх",
+            "translation": "Two cows '''vanished among''' the herd."
           }
         ]
       }
@@ -93587,39 +93723,53 @@
           {
             "sentence": "К1алэр '''къеш1э'''",
             "translation": "The boy '''dances'''."
+          },
+		  {
+            "sentence": "К1алэр дахэу '''къеш1э'''",
+            "translation": "The boy '''dances''' beautifully."
+          },
+		  {
+            "sentence": "Къэшъуак1ор ц1ыф и1оф '''къеш1эныр''' ары",
+            "translation": "A dancer is a person with the job of '''dancing'''."
+          },
+		  {
+            "sentence": "Къэшъуак1охэр ныпчыхьэ '''къеш1эщтых'''",
+            "translation": "The dancers '''will dance''' tonight."
           }
         ]
       },
       {
-        "meaning": "(rare) to play (a game)",
+        "meaning": "to play (a game)",
         "examples": [
           {
             "sentence": "К1алэр '''къеш1э'''",
             "translation": "The boy '''is playing'''."
+          },
+		  {
+            "sentence": "'''Шъукъеш1эщта'''?",
+            "translation": "'''Will you guys play'''?"
+          },
+		  {
+            "sentence": "Ныпчыхьэ '''теш1эна'''?",
+            "translation": "'''Shall we play''' tonight?"
           }
-        ],
-        "tags": [
-          "rare"
         ]
       },
       {
-        "meaning": "(rare) to play, to act (To act as the indicated role, especially in a performance)",
+        "meaning": "(rare) to play, to act (to act as the indicated role, especially in a performance)",
         "examples": [
           {
             "sentence": "Л1ыр филмымк1э докторэу '''къеш1э'''",
             "translation": "The man '''is playing''' as a doctor in the film."
           }
-        ],
-        "tags": [
-          "rare"
         ]
       }
     ],
     "synonyms": [
       "еш1эн",
+      "джэгун",
       "къэшъон"
     ],
-    "kabardian": "джэгун",
     "type": "verb",
     "ipa": "qajʃʼan"
   },
@@ -93628,34 +93778,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to dance",
-        "examples": [
-          {
-            "sentence": "К1алэр '''еш1э'''",
-            "translation": "The boy '''dances'''."
-          }
-        ]
-      },
-      {
-        "meaning": "(rare) to play (a game)",
-        "examples": [],
-        "tags": [
-          "rare"
-        ]
-      },
-      {
-        "meaning": "(rare) to play, to act (To act as the indicated role, especially in a performance)",
-        "examples": [],
-        "tags": [
-          "rare"
-        ]
+        "meaning": "alternative form of \"къеш1эн\"",
+        "examples": []
       }
     ],
-    "synonyms": [
-      "къеш1эн",
-      "къэшъон"
-    ],
-    "kabardian": "ещ1эн",
     "type": "verb",
     "ipa": "jaʃʼan"
   },
@@ -93664,18 +93790,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to knock down something or someone off something",
+        "meaning": "to knock down something or someone off/above something; to make something fall off something",
         "examples": [
           {
-            "sentence": "К1элэц1ык1ум тасыр 1анэм '''къытигъэзыгъ'''",
+            "sentence": "К1элэц1ык1ум апчыр 1анэм '''къытигъэзыгъ'''",
             "translation": "The little boy '''knocked down''' the glass off the table"
-          }
-        ]
-      },
-      {
-        "meaning": "to make something fall off something",
-        "examples": [
-          {
+          },
+		  {
+            "sentence": "1анэр умыгъэзаз, апчыр '''къытебгъэзыщт'''",
+            "translation": "Don't shake the table, '''you will make''' the glass '''fall off it'''."
+          },
+		  {
             "sentence": "Умыхъый, шым '''сыкъытебгъэзыщт'''",
             "translation": "Don't move, '''you will make me fall off''' the horse."
           }
@@ -93711,6 +93836,10 @@
           {
             "sentence": "Къэп1уагъэм '''къытегъэз''' джыри",
             "translation": "'''Repeat''' what you said again."
+          },
+          {
+            "sentence": "Фылымым '''къытедгъэзэжьына'''?",
+            "translation": "'''Shall we repeat''' the film?"
           }
         ]
       }
@@ -93747,8 +93876,21 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to crush down; to physically push someone or something down",
-        "examples": []
+        "meaning": "to snap downward; to crush down; to physically push someone or something down",
+        "examples": [
+          {
+            "sentence": "Пхъэм сызтеуцом '''ек1эхыгъ'''",
+            "translation": "When I stepped on the wood '''it spaned down'''."
+          },
+		  {
+            "sentence": "Унэмк1э джэхашъор тызтетыр '''ек1эхыщт'''",
+            "translation": "In the house, the floor we're standing on '''will crush down'''."
+          },
+		  {
+            "sentence": "Зыфэсакъ, къутамэу узытетыр '''къек1эхыщт'''",
+            "translation": "Careful, the branch you're standing on '''will snap down'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -93774,37 +93916,49 @@
         "meaning": "to be bored of",
         "examples": [
           {
-            "sentence": "Изакъошъ '''езэщын''' фае",
-            "translation": "He is alone, he must be '''bored'''."
-          },
-          {
-            "sentence": "Тхылъ дэгъум иеджэн '''уезэщын''' плъэкIыщтэп",
-            "translation": "You can't be '''bored''' with a good book reading."
-          },
-          {
-            "sentence": "К1алэр '''езэщы''' мэджагунэм",
-            "translation": "The boy '''is bored''' from playing."
-          },
-          {
-            "sentence": "Томым яунэ ук1омэ '''уезэщыщт'''",
-            "translation": "If you go to Tom's house '''you will get bored'''."
-          },
-          {
-            "sentence": "К1алэм '''мэзащы'''",
+            "sentence": "К1алэр '''мэзэщы'''",
             "translation": "The boy '''is bored'''."
           },
           {
-            "sentence": "Сэ '''сэзащы'''",
+            "sentence": "Сэ '''сэзэщы'''",
             "translation": "'''I am bored'''."
           },
           {
-            "sentence": "К1алэр '''мэзэщырэп'''",
+            "sentence": "К1алэр '''зэщырэп'''",
             "translation": "The boy '''doesn't get bored'''."
+          },
+          {
+            "sentence": "'''Сызэщыгъ'''",
+            "translation": "'''I got bored'''."
+          },
+          {
+            "sentence": "'''Шъузэщырэба'''?",
+            "translation": "'''Don't you guys get bored'''?"
+          },
+		  {
+            "sentence": "Изакъошъ '''езэщэу''' ч1эк1ын",
+            "translation": "Because he is alone, he is probably '''bored'''."
+          },
+          {
+            "sentence": "Тхылъ дэгъум '''уригъэзэщыщтэп'''",
+            "translation": "A good book '''will not bore you'''."
+          },
+          {
+            "sentence": "К1алэр ренэу джагуным '''езэщы'''",
+            "translation": "The boy '''is bored''' from always playing."
+          },
+          {
+            "sentence": "К1алэм ныбджэгъу и1эпышъ, '''езэщы'''",
+            "translation": "Because the boy has no friends, '''he is bored'''."
+          },
+          {
+            "sentence": "Тамбыим яунэ ук1омэ '''уезэщыщт'''",
+            "translation": "If you go to Tambie's house '''you will get bored'''."
           }
         ]
       },
       {
-        "meaning": "to get tired by annoyance or frustration",
+        "meaning": "to get to a point in which you can no longer tolerate something",
         "examples": [
           {
             "sentence": "К1элэц1ык1умэ амакъэ сэ1оу '''сезэщыгъ'''",
@@ -93812,7 +93966,7 @@
           },
           {
             "sentence": "Мы 1оф къиным '''уезэщыгъа?'''",
-            "translation": "'''Are you got tired of''' of this hard job?"
+            "translation": "'''Did you get tired of''' this hard job?"
           }
         ]
       }
@@ -93826,20 +93980,24 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to bore someone",
+        "meaning": "to bore someone; to make someone bored",
         "examples": [
           {
             "sentence": "'''Себыгъэзещы'''",
             "translation": "'''You are boring me'''."
           },
           {
-            "sentence": "Филмым '''сригъэзэщыгъ'''",
+            "sentence": "Филмым '''сыригъэзэщыгъ'''",
             "translation": "The film '''bored me'''."
+          },
+          {
+            "sentence": "Тхылъ дэгъум '''уригъэзэщыщтэп'''",
+            "translation": "A good book '''will not bore you'''."
           }
         ]
       },
       {
-        "meaning": "to make someone tired by annoying or frustrating",
+        "meaning": "to make someone reach a point in which (s)he can no longer tolerate something",
         "examples": [
           {
             "sentence": "К1элэц1ык1ухэмэ '''сырагъэзэщыгъ''', сыда п1омэ ренэу ауш1ои джэхашъор",
@@ -93847,7 +94005,7 @@
           },
           {
             "sentence": "Мы 1офым '''шъуригъэзэщыгъа?'''",
-            "translation": "Did this job '''tire you'''? (said to plural)"
+            "translation": "Did this job '''tire you'''?"
           }
         ]
       }
@@ -93878,7 +94036,16 @@
     "definitions": [
       {
         "meaning": "killer",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Ук1ак1ор''' ц1ыфыхэр зиук1ырэр ары",
+            "translation": "'''A killer''' is the one that kills people."
+          },
+		  {
+            "sentence": "Хьэубытымэ '''ук1ак1ор''' къаубытыгъ",
+            "translation": "The cops caught '''the killer'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -93894,7 +94061,12 @@
     "definitions": [
       {
         "meaning": "blood spilling",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Дзэм '''лъыгъачъэ''' зэрихьагъ",
+            "translation": "The army commited '''blood spilling'''."
+          }
+        ]
       },
       {
         "meaning": "massacre",
@@ -93917,7 +94089,7 @@
           },
           {
             "sentence": "'''Уегъэзыгъа''' ахъщэ къэсш1оптыгъунэу",
-            "translation": "'''Are you desperate''' so you will steal money from me?"
+            "translation": "'''Are you desperate''' so that you will steal money from me?"
           }
         ]
       }
@@ -93930,11 +94102,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to strew (on an ground), To distribute objects or pieces of something on the ground (especially in a random manner)",
+        "meaning": "to strew (on an ground), to distribute objects or pieces of something on the ground (especially in a random manner)",
         "examples": [
           {
             "sentence": "Л1ым картыхэр '''ч1етэкъух'''",
-            "translation": "The man '''spread''' the cards '''on the group'''."
+            "translation": "The man '''spreads''' the cards '''on the group'''."
+          },
+		  {
+            "sentence": "Л1ым чылапхъэхэр '''ч1етэкъух'''",
+            "translation": "The man '''spreads''' the seeds."
           }
         ]
       }
@@ -93951,8 +94127,12 @@
         "meaning": "to strew / scatter (over an area), to distribute objects or pieces of something over an area (especially in a random manner)",
         "examples": [
           {
-            "sentence": "Л1ым чылапхъэхэр ч1ыгум '''ритэкъохьыгъэх'''",
+            "sentence": "Л1ым чылапхъэхэр ч1ыгум '''ритэкъухьагъэх'''",
             "translation": "The man '''distributed''' the seeds '''over''' the ground."
+          },
+		  {
+            "sentence": "Л1ым картыхэр уашъом '''ритэкъухьагъэх'''",
+            "translation": "The man '''spread''' the cards '''into''' the air."
           }
         ]
       }
@@ -93972,7 +94152,7 @@
         "meaning": "complete (with all parts included)",
         "examples": [
           {
-            "sentence": "Си ку '''игъэкъугъэ'''",
+            "sentence": "Сику '''игъэкъугъэ'''",
             "translation": "My car '''is complete'''."
           }
         ]
@@ -93983,6 +94163,10 @@
           {
             "sentence": "Ц1ыфы '''игъэкъугъэу''' щытын фай",
             "translation": "You need to be '''a complete''' person."
+          },
+		  {
+            "sentence": "Ц1ыфы щы1эп зэк1эмк1и '''игъэкъугъэу'''",
+            "translation": "There is no human that is '''perfect''' in everything."
           },
           {
             "sentence": "Армэу ц1ыфым '''игъэкъугъэ''' ц1ыфы нэмык1 ылъэгъун лъэк1ырэп, ежь фэдэпышъ",
@@ -93999,12 +94183,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "reindeer",
-        "examples": []
-      },
-      {
-        "meaning": "deer",
-        "examples": []
+        "meaning": "reindeer; deer",
+        "examples": [
+          {
+            "sentence": "Шак1ом '''шъыхьэ''' ыук1ыгъ",
+            "translation": "The hunter killed '''a deer'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -94026,12 +94211,16 @@
             "translation": "'''I am whistling'''."
           },
           {
-            "sentence": "К1алэр '''мэшъуешъу''', пшъашъэр '''мэшъуешъурэп'''",
+            "sentence": "'''Сышъуешъурэп''', о '''ошъуешъуа'''?",
+            "translation": "'''I can't whistle''', '''can you whistle'''?"
+          },
+          {
+            "sentence": "К1алэр '''шъуешъу''', пшъашъэр '''шъуешъурэп'''",
             "translation": "The boy '''can whistle''', the girl '''can't whistle'''."
           },
           {
-            "sentence": "Къэбэртайхэр '''мэшъуешъухэрэп'''",
-            "translation": "The Kabardians '''can't whistle'''."
+            "sentence": "Джэгумк1э л1ыхэр '''шъуехэу''' 1утых",
+            "translation": "In the dancing party, the men are standing there '''whistling'''."
           }
         ]
       }
@@ -94039,6 +94228,27 @@
     "kabardian": "фиин",
     "type": "verb",
     "ipa": "ʃʷəjan"
+  },
+  {
+    "word": "лъышъуин",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to whistle to",
+        "examples": [
+          {
+            "sentence": "'''Услъышъуягъ''' шъхьак1э зэхэпхыгъэп",
+            "translation": "'''I whistle to you''' however you did not hear it."
+          },
+          {
+            "sentence": "К1алэр пшъашъэм '''лъэшъуе'''",
+            "translation": "The boy '''is whistling to''' the girl."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɬəʃʷəjan"
   },
   {
     "word": "шъуял",
@@ -94088,11 +94298,62 @@
     "ipa": "χʷaːkʷʼa"
   },
   {
+    "word": "уды",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "witch; sorcerer; magician; wizard",
+        "examples": [
+          {
+            "sentence": "'''Удым''' ц1ыфхэр ыушхъухьанэу елъэк1ы",
+            "translation": "'''A witch''' can bewitch people."
+          },
+		  {
+            "sentence": "Мэзым '''уды''' хэс",
+            "translation": "There is a '''witch''' in the forest."
+          },
+		  {
+            "sentence": "Ц1ыфыхэр '''удым''' еупч1ыгъэх",
+            "translation": "The people asked the '''sorcerer'''."
+          },
+		  {
+            "sentence": "'''Удым''' фэдэу, угу илъыр къеш1э",
+            "translation": "Like a '''wizard''', (s)he knows what's in your heart."
+          }
+        ]
+      },
+	  {
+        "meaning": "hag",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "нэгъуч1ыцэ",
+      "ушхъухьак1о"
+    ],
+    "kabardian": "уд",
+    "type": "noun",
+    "ipa": "wədə"
+  },
+  {
     "word": "нэгъуч1ыцэ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "witch",
+        "examples": [
+          {
+            "sentence": "'''Нэгъуч1ыцэ''' ц1ыфхэр ыушхъухьанэу елъэк1ы",
+            "translation": "'''A witch''' can bewitch people."
+          },
+		  {
+            "sentence": "Мэзым '''нэгъуч1ыцэ''' хэс",
+            "translation": "There is a '''witch''' in the forest."
+          }
+        ]
+      },
+	  {
+        "meaning": "hag",
         "examples": []
       }
     ],
@@ -94107,20 +94368,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "sorcerer",
-        "examples": []
-      },
-      {
-        "meaning": "wizard",
-        "examples": []
-      },
-      {
-        "meaning": "magician",
+        "meaning": "witch; sorcerer; magician; wizard",
         "examples": []
       }
     ],
     "synonyms": [
-      "уды"
+      "уды",
+	  "нэгъуч1ыцэ"
     ],
     "type": "noun",
     "ipa": "wəʃχʷħaːkʷʼa"
@@ -94143,10 +94397,7 @@
     "definitions": [
       {
         "meaning": "(added to nouns) freaking, bloody (intensifier), damn",
-        "examples": [],
-        "tags": [
-          "added to nouns"
-        ]
+        "examples": []
       },
       {
         "meaning": "(added to nouns) old",
@@ -94157,10 +94408,7 @@
       },
       {
         "meaning": "(added to adjectives) very",
-        "examples": [],
-        "tags": [
-          "added to adjectives"
-        ]
+        "examples": []
       }
     ],
     "type": "suffix",
@@ -97859,6 +98107,10 @@
           {
             "sentence": "Ш1ухэр '''зэбхьан''' фаех нахь, дэихэрэп",
             "translation": "You need '''to do''' good deeds, not bad ones."
+          },
+		  {
+            "sentence": "Дзэм лъыгъачъэ '''зэрихьагъ'''",
+            "translation": "The army '''commited''' blood spilling."
           }
         ]
       },
@@ -106241,6 +106493,10 @@
           {
             "sentence": "Экзамыным бэрэ седжэщт, '''сыда п1омэ''' къиныщт",
             "translation": "I will study a lot for the exam, '''because''' it will be hard."
+          },
+		  {
+            "sentence": "К1элэц1ык1ухэмэ сырагъэзэщыгъ, '''сыда п1омэ''' ренэу ауш1ои джэхашъор",
+            "translation": "The little kids tired me '''because''' they always dirty the floor."
           }
         ]
       }
