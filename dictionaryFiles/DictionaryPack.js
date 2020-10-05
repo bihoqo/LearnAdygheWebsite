@@ -46102,7 +46102,7 @@
         ]
       },
       {
-        "meaning": "to feel; to sense",
+        "meaning": "to feel; to sense; to experience",
         "examples": [
           {
             "sentence": "Сныбэк1э 1аеу '''хэсэш1ык1ы'''",
@@ -52639,6 +52639,18 @@
             "translation": "'''Don't infuriate''' the old-man."
           }
         ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʁaɡʷəbʒən"
+  },
+  {
+    "word": "къэгъэгубжын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"гъэгубжын\"",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -76572,6 +76584,14 @@
         "meaning": "to happen to someone",
         "examples": [
           {
+            "sentence": "К1алэр 1ае '''щыш1ыгъэр'''",
+            "translation": "'''The thing that happened''' to the boy was awful."
+          },
+		  {
+            "sentence": "К1алэм дэгъухэр игъаш1эк1э '''къыщыш1ыгъэх'''",
+            "translation": "Good things '''happened''' to the boy."
+          },
+		  {
             "sentence": "'''Къэсщыш1ыгъ''' ар",
             "translation": "That '''happened to me'''."
           },
@@ -76590,8 +76610,103 @@
         ]
       }
     ],
+    "synonyms": [
+      "къехъул1эн"
+    ],
     "type": "verb",
-    "ipa": "ɕəʃˈən"
+    "ipa": "ɕəʃʼən"
+  },
+  {
+    "word": "къыщыш1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"щыш1ын\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "къехъул1эн"
+    ],
+    "type": "verb",
+    "ipa": "qəɕəʃʼən"
+  },
+  {
+    "word": "шъугъуал",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "envious",
+        "examples": [
+          {
+            "sentence": "К1алэр '''шъугъуал'''",
+            "translation": "The boy '''is envious'''."
+          },
+		  {
+            "sentence": "'''Шъугъуалым''' къин ехъу ылъэгъумэ зыгорэм ш1угъо къехъул1эу",
+            "translation": "'''An envious''' person suffers when (s)he sees something fortunate happens to someone."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "шхъогъуал"
+    ],
+    "type": "adj",
+    "ipa": "ʃʷəʁʷaːɮ"
+  },
+  {
+    "word": "шхъогъуал",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "envious",
+        "examples": [
+          {
+            "sentence": "К1алэр '''шхъогъуал'''",
+            "translation": "The boy '''is envious'''."
+          },
+		  {
+            "sentence": "'''Шхъогъуалым''' къин ехъу ылъэгъумэ зыгорэм ш1угъо къехъул1эу",
+            "translation": "'''An envious''' person suffers when (s)he sees something fortunate happens to someone."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "шъугъуал"
+    ],
+    "type": "adj",
+    "ipa": "ʃχʷaʁaʷaːɮ"
+  },
+  {
+    "word": "нэц1ал",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "a person that always want something, a person that always longing to get something from another",
+        "examples": [
+          {
+            "sentence": "К1алэр '''нэц1ал'''",
+            "translation": "The boy '''is a taker'''."
+          }
+        ]
+      }
+    ],
+    "type": "adj",
+    "ipa": "nat͡sʼaːɮ"
+  },
+  {
+    "word": "хъопсагъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "temptation",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "χʷapsaːʁa"
   },
   {
     "word": "1елъын",
@@ -80289,7 +80404,7 @@
             "translation": "The boy '''is laughing'''."
           },
 		  {
-            "sentence": "К1элэц1ык1м '''сегъэщхы'''",
+            "sentence": "К1элэц1ык1ум '''сегъэщхы'''",
             "translation": "The kid '''makes me laugh'''."
           },
           {
@@ -92092,7 +92207,7 @@
             "translation": "'''A snot''' is the water that comes out the nose"
           },
 		  {
-            "sentence": "К1элэц1ык1м '''пэпсы''' къек1ы",
+            "sentence": "К1элэц1ык1ум '''пэпсы''' къек1ы",
             "translation": "The little boy's '''snot''' is coming out."
           },
 		  {
@@ -92121,7 +92236,7 @@
             "translation": "'''A hanging snot''' is a snot that is hanging off the nose."
           },
 		  {
-            "sentence": "К1элэц1ык1м '''пэлэлэжъ''' къек1ы",
+            "sentence": "К1элэц1ык1ум '''пэлэлэжъ''' къек1ы",
             "translation": "The little boy's '''snot''' is coming out."
           },
 		  {
@@ -92214,7 +92329,7 @@
         "meaning": "snivel, snot (mucus)",
         "examples": [
 		  {
-            "sentence": "К1элэц1ык1м '''пэщын''' къек1ы",
+            "sentence": "К1элэц1ык1ум '''пэщын''' къек1ы",
             "translation": "The little boy's '''snot''' is coming out."
           },
 		  {
@@ -94902,29 +95017,17 @@
     "ipa": "ɡʷəbʁan faʃʼən"
   },
   {
-    "word": "мэчэрэгъун",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"чэрэгъун\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "mat͡ʃaraʁʷən"
-  },
-  {
     "word": "чэрэгъун",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be twisted",
-        "examples": []
-      },
-      {
-        "meaning": "to be whirled",
+        "meaning": "to turn, to spin, to whirl",
         "examples": [
           {
+            "sentence": "Щэрыхъыр '''мэчэрэгъу'''",
+            "translation": "The wheel '''is spinning'''."
+          },
+		  {
             "sentence": "Кур ежьэмэ щэрэхъхэр '''чэрэгъун''' фае",
             "translation": "When the car starts, the wheels must '''whirl'''."
           },
@@ -94935,6 +95038,10 @@
         ]
       }
     ],
+    "synonyms": [
+      "чэрэзын"
+    ],
+    "shapsug": "рэкьэрэгъун",
     "type": "verb",
     "ipa": "t͡ʃaraʁʷən"
   },
@@ -94943,19 +95050,28 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to spin",
+        "meaning": "to turn, to spin, to whirl",
         "examples": [
           {
-            "sentence": "к1алэр '''мэк1рэзы'''",
-            "translation": "The boy '''is spinning'''."
+            "sentence": "Щэрыхъыр '''мэчэрэгъу'''",
+            "translation": "The wheel '''is spinning'''."
+          },
+		  {
+            "sentence": "Кур ежьэмэ щэрэхъхэр '''чэрэгъун''' фае",
+            "translation": "When the car starts, the wheels must '''whirl'''."
+          },
+          {
+            "sentence": "Щэрыхъыр псынк1эу '''мэчэрэгъу'''",
+            "translation": "The wheel '''whirls''' fast."
           }
         ]
       }
     ],
     "synonyms": [
-      "мэкьэрэзын"
+      "чэрэгъун"
     ],
-    "kabardian": "мэджэрэзын",
+    "shapsug": "рэкьэрэзын",
+    "kabardian": "джэрэзын",
     "type": "verb",
     "ipa": "t͡ʃarazən"
   },
@@ -94967,7 +95083,11 @@
         "meaning": "funny",
         "examples": [
           {
-            "sentence": "Ащ къехъулIагъэр сыдэу '''щхэна'''! '''Щхэны''' ыкIи гъэны",
+            "sentence": "К1алэм къэбао '''щхэны''' къи1отагъэр",
+            "translation": "The news the boy told was '''funny'''."
+          },
+		  {
+            "sentence": "Ащ къехъул1агъэр сыдэу '''щхэна'''! '''Щхэны''' ык1и гъэны",
             "translation": "What happened to him is so '''funny'''! it is '''funny''' and misfortune."
           }
         ]
@@ -94979,6 +95099,105 @@
     ],
     "type": "adj",
     "ipa": "ɕxanə"
+  },
+  {
+    "word": "къехъул1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(an incident) to happen to someone",
+        "examples": [
+		  {
+            "sentence": "К1алэр 1ае '''къехъул1агъэр'''",
+            "translation": "'''The thing that happened''' to the boy was awful."
+          },
+		  {
+            "sentence": "К1алэм дэгъухэр игъаш1эк1э '''къехъул1агъэх'''",
+            "translation": "Good things '''happened''' to the boy."
+          },
+		  {
+            "sentence": "Ащ '''къехъул1агъэр''' сыдэу щхэна!",
+            "translation": "'''What happened''' to him is so '''funny'''!."
+          },
+		  {
+            "sentence": "Тхьэм ы1омэ ш1угъохэр '''къыохъорэл1эх'''",
+            "translation": "'''May''' fortunate things '''happen to you'''."
+          },
+		  {
+            "sentence": "Шхъогъуалым къин ехъу ылъэгъумэ зыгорэм ш1угъо '''къехъул1эу'''",
+            "translation": "An envious person suffers when (s)he sees something fortunate '''happens''' to someone."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "щыш1ын"
+    ],
+    "type": "verb",
+    "ipa": "qajχʷəɬʼan"
+  },
+  {
+    "word": "ехъул1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"къехъул1эн\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "jaχʷəɬʼan"
+  },
+  {
+    "word": "къин ехъун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to suffer",
+        "examples": [
+          {
+            "sentence": "Сысымаджэмэу зэхъум '''къин къысэхъущтыгъ'''",
+            "translation": "When I saw sick, '''I was suffering'''."
+          },
+		  {
+            "sentence": "Шхъогъуалым '''къин ехъу''' ылъэгъумэ зыгорэм ш1угъо къехъул1эу",
+            "translation": "An envious person '''suffers''' when (s)he sees something fortunate happens to someone."
+          }
+        ]
+      },
+	  {
+        "meaning": "to be bothered; to be agitated; to be anooyed",
+        "examples": [
+          {
+            "sentence": "1офымк1э '''къин къысэхъу'''",
+            "translation": "'''I am agitated''' in work."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "qjən jaχʷən"
+  },
+  {
+    "word": "ш1угъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "good time; fortunate time",
+        "examples": [
+          {
+            "sentence": "Шхъогъуалым къин ехъу ылъэгъумэ зыгорэм '''ш1угъо''' къехъул1эу",
+            "translation": "An envious person suffers when (s)he sees something '''fortunate''' happens to someone."
+          },
+		  {
+            "sentence": "Тхьэм ы1омэ '''ш1угъохэр''' къыохъорэл1эх",
+            "translation": "May '''fortunate''' things happen to you."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "jaχʷəɬʼan"
   },
   {
     "word": "гъэны",

@@ -879,7 +879,10 @@
     "fortune": "былым"
   },
   {
-    "fortunate": "насып; насып дэъу; насыпыш1уагъ"
+    "fortunate": "насып; хъяр; насып дэъу; насыпыш1уагъ; ш1угъо (fortunate time)"
+  },
+  {
+    "fortunate time": "ш1угъо"
   },
   {
     "family": "бын; унагъо; быныуын"
@@ -4188,6 +4191,15 @@
     "stink": "шъумэ; мэ 1ай"
   },
   {
+    "envious": "шъугъуал; шхъогъуал; нэц1ал"
+  },
+  {
+    "luster": "нэц1ал"
+  },
+  {
+    "temptation": "хъопсагъо"
+  },
+  {
     "to be envious": "шхъогъон; шъугъон; хъопсэн"
   },
   {
@@ -5652,6 +5664,15 @@
     "to bother": "ягъэ егъэк1ын; пынэн; пэш1онэн; къин егъэхъун"
   },
   {
+    "to be bothered": "ягъэ ек1ын; къин ехъун"
+  },
+  {
+    "to be agitated": "ягъэ ек1ын; къин ехъун"
+  },
+  {
+    "to be anooyed": "ягъэ ек1ын; къин ехъун"
+  },
+  {
     "to hinder": "пэ1ууцон; гъэохъун; пэрыохъу уфэхъун"
   },
   {
@@ -5664,7 +5685,10 @@
     "to bring harm": "къин къэгъэк1он"
   },
   {
-    "to annoy": "ягъэ егъэк1ын; пшъэбы дэсын; шъхьэ тесын"
+    "to annoy": "ягъэ егъэк1ын; къин егъэхъун; пшъэбы дэсын; шъхьэ тесын"
+  },
+  {
+    "to agitate": "ягъэ егъэк1ын; къин егъэхъун; пшъэбы дэсын; шъхьэ тесын"
   },
   {
     "beggar": "лъэ1уак1о"
@@ -9147,10 +9171,10 @@
     "to explode": "къэон; къэгъэон (to make something explode)"
   },
   {
-    "to rotate": "гъэзэн (to rotate once); чэрэзын (to be rotating); гъэчэрэзын (to rotate something); зыгъэчэрэгъун (to rotate oneself), зыгъэчэрэзын  (to rotate oneself)"
+    "to rotate": "гъэзэн (to rotate once); чэрэзын (to be rotating); гъэчэрэзын (to rotate something); зыгъэчэрэгъун (to rotate oneself), зыгъэчэрэзын (to spin oneself)"
   },
   {
-    "to spin": "джын; чэрэзын (to be spinning); гъэчэрэзын (to spin something); зыгъэчэрэгъун (to spin oneself), зыгъэчэрэзын  (to spin oneself)"
+    "to spin": "джын; чэрэзын (to be spinning); чэрэгъун (to be spinning); гъэчэрэзын (to spin something); гъэчэрэгъун (to spin something); зыгъэчэрэгъун (to spin oneself); зыгъэчэрэзын (to spin oneself)"
   },
   {
     "to bake": "гъэжъэн"
@@ -13239,7 +13263,10 @@
     "toast (a proposed salutation (e.g. to say \"cheers\"))": "хъохъу"
   },
   {
-    "to happen": "щыш1ын (something to happen to someone); хъун / къэхъун (to occur); къехъул1эн (an incident to happen to someone); техъухьан (to happen above something); ч1эхъухьан (to happen under something); хэхъухьан (to happen within an area of mass); ихъухьан (to happen inside something)"
+    "to happen": "щыш1ын / къыщыш1ын (something to happen to someone); хъун / къэхъун (to occur); къехъул1эн (an incident to happen to someone, to experi); техъухьан (to happen above something); ч1эхъухьан (to happen under something); хэхъухьан (to happen within an area of mass); ихъухьан (to happen inside something)"
+  },
+  {
+    "to experience": "хэш1ык1ын (to feel, to experience); къехъул1эн (to experience an event/incident in life)"
   },
   {
     "to become": "хъун"
@@ -13530,7 +13557,7 @@
     "to cause": "къэгъэфын"
   },
   {
-    "to occur": "къэфын; къэхъун; щыш1ын (something to happen to someone); къехъул1эн (an incident to happen to someone)"
+    "to occur": "къэфын; къэхъун; щыш1ын / къыщыш1ын (something to happen to someone); къехъул1эн (an incident to happen to someone)"
   },
   {
     "freedom": "шъхьэфитынгъэ"
@@ -14808,7 +14835,7 @@
     "to perceive": "хилъэгъон"
   },
   {
-    "to twist": "гъэчэрэзын (to spin); гъэ1онт1эн (to bend, to curve)"
+    "to twist": "гъэ1онт1эн (to bend, to curve)"
   },
   {
     "extra": "лые (spare, something beyond what is due, usual, expected, or necessary)"
