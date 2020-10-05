@@ -5482,12 +5482,20 @@
             "translation": "'''You are not coming'''."
           },
 		  {
+            "sentence": "Сыдэущтэу '''укъэк1уагъ'''?",
+            "translation": "How did '''you came'''?"
+          },
+		  {
             "sentence": "Сэ 1офым непэ '''сыкъэк1ощтэп'''",
             "translation": "'''I won't come''' to work today."
           },
 		  {
             "sentence": "Мэш1окур '''къак1о'''",
             "translation": "The train '''is coming'''."
+          },
+		  {
+            "sentence": "Саусырыр '''къэк1ощтышъ''', нек1о фылымыр тымыублэу тыпэжъугъаплъ",
+            "translation": "'''Because''' Sawser '''will come''', let's wait for him without starting the film."
           },
 		  {
             "sentence": "Хэт '''къэк1ощтыхэр'''?",
@@ -25854,12 +25862,28 @@
         "meaning": "how",
         "examples": [
           {
-            "sentence": "'''таущтэу''' ар уш1э?",
-            "translation": "'''how''' you do that?"
+            "sentence": "'''Таущтэу''' ар уш1э?",
+            "translation": "'''How''' you do that?"
+          },
+		  {
+            "sentence": "'''Таущтэу''' укъэк1уагъ?",
+            "translation": "'''How''' did you came?"
+          },
+		  {
+            "sentence": "'''Таущтэу''' ар хъугъэ?",
+            "translation": "'''How''' that happened?"
+          },
+		  {
+            "sentence": "'''Таущтэу''' унэр зэхэфагъ?",
+            "translation": "'''How''' did the house collapsed?"
           },
           {
-            "sentence": "'''таущтэу''' ок1о?",
-            "translation": "'''how''' you walk?"
+            "sentence": "'''Таущтэу''' ок1о?",
+            "translation": "'''How''' you walk?"
+          },
+		  {
+            "sentence": "'''Таущтэу''' 1офыр уухыщт умыублэу?",
+            "translation": "'''How''' are you going to finish the job without starting it?"
           }
         ]
       }
@@ -25893,12 +25917,28 @@
         "meaning": "how",
         "examples": [
           {
-            "sentence": "'''сыдэущтэу''' ар уш1э?",
-            "translation": "'''how''' you do that?"
+            "sentence": "'''Сыдэущтэу''' ар уш1э?",
+            "translation": "'''How''' you do that?"
           },
           {
-            "sentence": "'''сыдэущтэу''' ок1о?",
-            "translation": "'''how''' you walk?"
+            "sentence": "'''Сыдэущтэу''' ок1о?",
+            "translation": "'''How''' you walk?"
+          },
+		  {
+            "sentence": "'''Сыдэущтэу''' укъэк1уагъ?",
+            "translation": "'''How''' did you came?"
+          },
+		  {
+            "sentence": "'''Сыдэущтэу''' 1офыр уухыщт умыублэу?",
+            "translation": "'''How''' are you going to finish the job without starting it?"
+          },
+		  {
+            "sentence": "'''Сыдэущтэу''' ар хъугъэ?",
+            "translation": "'''How''' that happened?"
+          },
+		  {
+            "sentence": "'''Сыдэущтэу''' унэр зэхэфагъ?",
+            "translation": "'''How''' did the house collapsed?"
           }
         ]
       }
@@ -48075,6 +48115,10 @@
           {
             "sentence": "К1алэр '''пэплъагъ''' Томым, пшъашъэр '''пэплъэщт''' Дэянэм",
             "translation": "The boy '''waited''' for Tom, the girl '''will wait''' for Diana."
+          },
+		  {
+            "sentence": "Саусырыр къэк1ощтышъ, нек1о фылымыр тымыублэу '''тыпэжъугъаплъ'''",
+            "translation": "Because Sawser will come, '''let's wait for him''' without starting the film."
           }
         ]
       }
@@ -50549,6 +50593,10 @@
 		  {
             "sentence": "Жъэжъащэу шъолажьэ, мыщтэу иуахътэк1э 1офыр '''тыухыщтэп'''",
             "translation": "You guys work too slowly, '''we won't finish''' the job in time this way."
+          },
+		  {
+            "sentence": "Таущтэу 1офыр '''уухыщт''' умыублэу?",
+            "translation": "How are '''you going to finish''' the job without starting it?"
           }
         ]
       },
@@ -85641,6 +85689,10 @@
             "translation": "The man '''started''' smoking."
           },
 		  {
+            "sentence": "Таущтэу 1офыр уухыщт '''умыублэу'''?",
+            "translation": "How are you going to finish the job '''without starting it'''?"
+          },
+		  {
             "sentence": "Сыхьатныкъо блэк1ыгъ фылымыр '''зэрэкъиублагъэр'''",
             "translation": "It have been half an hour '''since''' the movie '''started'''."
           },
@@ -85651,6 +85703,10 @@
 		  {
             "sentence": "Фылымыр '''тыублэгъах''' ыгузэгук1э укъытхэхьанэу уфаемэ",
             "translation": "'''We already started''' the movie if you want to join us in the middle of it."
+          },
+		  {
+            "sentence": "Саусырыр къэк1ощтышъ, нек1о фылымыр '''тымыублэу''' тыпэжъугъаплъ",
+            "translation": "'''Because''' Sawser will come, let's wait for him '''without starting''' the film."
           }
         ]
       }
