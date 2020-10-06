@@ -8961,13 +8961,16 @@
     "to be startled": "къыдэпк1эен; гу къеон"
   },
   {
-    "to startle": "къыдэгъэпк1эен; гу къегъэон"
+    "to startle": "къыдэгъэпк1эен; гу къегъэон; гуихын / гу ихын"
   },
   {
     "to take fright": "щынэн; щтэн"
   },
   {
-    "to scare": "гъэщынэн (to scare someone); гъэщтэн (to scare someone); (vulgar)  ч1эгъэц1эн (to scare the shit out of)"
+    "to scare": "гъэщынэн (to scare someone); гъэщтэн (to scare someone); (vulgar)  ч1эгъэц1эн (to scare the shit out of); гуихын / гу ихын (to frighten)"
+  },
+  {
+    "to frighten": "гуихын / гу ихын"
   },
   {
     "to get scared": "щынэн (to be scared); щтэн (to be scared); щыщынэн (to be scared of); щыщтэн (to be scared of)"

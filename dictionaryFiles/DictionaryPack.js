@@ -95374,6 +95374,39 @@
     "ipa": "ɡʷəjəx"
   },
   {
+    "word": "гуихын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"гу ихын\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "gʷəjəxən"
+  },
+  {
+    "word": "гу ихын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to frighten; to startle",
+        "examples": [
+          {
+            "sentence": "'''Сыгу ипхыгъ'''",
+            "translation": "'''You startled me'''."
+          },
+		  {
+            "sentence": "К1алэм пшъышъэм '''ыыгу рихыгъ'''",
+            "translation": "The boy '''frightened''' the girl."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "gʷə jəxən"
+  },
+  {
     "word": "джэгъогъун",
     "lang": "Adyghe",
     "definitions": [
