@@ -15699,16 +15699,13 @@
     "to quarrel": "джэгъогъун"
   },
   {
-    "hatred": "джагъу"
+    "hatred": "уджэгъуныр"
   },
   {
     "hate": "джагъу"
   },
   {
-    "evil-wisher": "джагъу"
-  },
-  {
-    "illwisher": "джагъу"
+    "hated": "джагъу"
   },
   {
     "to not be bearable": "фэмылъэгъун"
@@ -15807,7 +15804,7 @@
     "to violate": "епц1ыжьын (to violate an oath, promise or agreement)"
   },
   {
-    "to dislike": "умык1эсэн; ш1у умылъэгъун; ш1оигъоджэн (to dislike greatly)"
+    "to dislike": "умык1эсэн; ш1у умылъэгъун; ш1оигъоджэн (to dislike greatly); фэмылъэгъун (despise)"
   },
   {
     "to detest": "ш1оигъоджэн"

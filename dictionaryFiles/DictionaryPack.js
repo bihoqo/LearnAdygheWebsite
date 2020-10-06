@@ -95424,12 +95424,25 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "hatred, hate",
-        "examples": []
-      },
-      {
-        "meaning": "evil wisher, illwisher",
-        "examples": []
+        "meaning": "hate; hated",
+        "examples": [
+          {
+            "sentence": "Экзамынхэр '''сиджагъох'''",
+            "translation": "'''I hate''' exams."
+          },
+		  {
+            "sentence": "'''Усиджагъу'''",
+            "translation": "'''I hate you'''."
+          },
+		  {
+            "sentence": "Пшъашъэм к1алэр '''иджагъу'''",
+            "translation": "The girl '''hates''' the boy."
+          },
+		  {
+            "sentence": "Л1ым зэоныр '''иджагъу'''",
+            "translation": "The man '''hates''' fighting."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -95477,6 +95490,18 @@
           {
             "sentence": "А к1алэр сэ '''сыфэлъэгъурэп'''",
             "translation": "'''I despise''' that boy."
+          },
+		  {
+            "sentence": "Пшъашъэм к1алэр '''фэлъэгъурэп'''",
+            "translation": "The girl '''hates''' the boy."
+          },
+		  {
+            "sentence": "Л1ым зэоныр '''фэлъэгъурэп'''",
+            "translation": "The man '''hates''' fighting."
+          },
+		  {
+            "sentence": "Л1ым зэоныр '''фэлъэгъурэп'''",
+            "translation": "The man '''hates''' fighting."
           }
         ]
       }
@@ -95497,6 +95522,18 @@
           {
             "sentence": "К1алэм пшъашъэр '''егъатхъэ'''",
             "translation": "The boy '''is amusing''' the girl."
+          },
+		  {
+            "sentence": "Къухьэлъатэм исынэм '''сыкъегъэтхъэ'''",
+            "translation": "'''I am enjoying''' sitting in an airplane."
+          },
+		  {
+            "sentence": "Сыд фылым '''укъызигъатхъэхэрэр''' уаплъынэу?",
+            "translation": "What film '''you enjoy''' watching?"
+          },
+		  {
+            "sentence": "Хьамбургерым к1алэр '''къигъэхъэщт'''",
+            "translation": "The boy '''will enjoy''' the hamburger."
           }
         ]
       }
