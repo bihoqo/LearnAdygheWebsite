@@ -12324,10 +12324,10 @@
     "to get hurt": "гухэк1ын"
   },
   {
-    "to break someone's heart": "гухэк1ын"
+    "to break someone's heart": "гухэгъэк1ын"
   },
   {
-    "to break a heart": "гухэк1ын"
+    "to break a heart": "гухэгъэк1ын"
   },
   {
     "to upset": "гухэгъэк1ын (to upset someone); нэшхъэй хъугъэ (to get upset)"
@@ -14505,13 +14505,31 @@
     "many": "бэ; 1аджэ / 1эджы"
   },
   {
+    "furthermore": "ащ ехъурэу"
+  },
+  {
+    "frightening": "гуих"
+  },
+  {
+    "frightful": "гуих"
+  },
+  {
+    "intimidating": "гуих"
+  },
+  {
     "example": "шапхъэ; щысэ; гущы1эм пае (for example)"
   },
   {
     "shield": "мэ1у"
   },
   {
-    "heartbreaking": "гухэк1; гукъау; гук1ае"
+    "heartbreaking": "гухэк1; гукъау; гугъэуз; гук1ае"
+  },
+  {
+    "heartrending": "гухэк1; гукъау; гугъэуз; гук1ае"
+  },
+  {
+    "harrowing": "гугъэуз"
   },
   {
     "sorrow": "гухэк1; гукъау; гук1ае"
@@ -15663,7 +15681,7 @@
     "lament": "гъыбзэ"
   },
   {
-    "horrible": "1ае; гуих"
+    "horrible": "1ае; дэи"
   },
   {
     "dreadful": "гуих"

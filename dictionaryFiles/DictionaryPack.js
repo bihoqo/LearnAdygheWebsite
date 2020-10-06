@@ -95227,7 +95227,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "sorrow; grief (more specifically: heartbreaking)",
+        "meaning": "heartrending; heartbreaking (that causes great grief, anguish or distress)",
         "examples": [
           {
             "sentence": "Къэсфэгъэгъу, къэбар '''гухэк1''' къыпфэсхьыгъ",
@@ -95243,6 +95243,7 @@
     "synonyms": [
       "гуао",
       "гукъау",
+      "гугъэуз",
       "нэшхъэигъу"
     ],
     "kabardian": "гухэщ1",
@@ -95254,7 +95255,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "grief, distress, sadness (more specifically: heartbreaking)",
+        "meaning": "heartrending; heartbreaking (that causes great grief, anguish or distress)",
         "examples": [
           {
             "sentence": "Къэбар '''гукъау''' къыпфэсхьыгъ, ук1алэ заом хэук1эхьагъ",
@@ -95269,10 +95270,33 @@
     ],
     "synonyms": [
       "гухэк1",
+      "гугъэуз",
       "нэшхъэигъу"
     ],
     "type": "noun",
     "ipa": "ɡʷəqaːwa"
+  },
+  {
+    "word": "гугъэуз",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "heartrending; heartbreaking (that causes great grief, anguish or distress)",
+        "examples": [
+          {
+            "sentence": "Къэбар '''гугъэуз''' е1уагъ",
+            "translation": "(S)he heart a '''heartrending''' news."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "гухэк1",
+      "гукъао",
+      "нэшхъэигъу"
+    ],
+    "type": "noun",
+    "ipa": "ɡʷəʁawəz"
   },
   {
     "word": "нэшхъэигъу",
@@ -95310,7 +95334,16 @@
     "definitions": [
       {
         "meaning": "lament (A song expressing grief), a poem of lament, a song of lament",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Алыим '''игъыбзэ'''",
+            "translation": "Ali's '''lament'''."
+          },
+		  {
+            "sentence": "Л1ым '''гъыбзэ''' фатхыгъ",
+            "translation": "They wrote a '''lament''' for the man."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -95321,12 +95354,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "terrible, horrible, dreadful, awful",
-        "examples": []
-      },
-      {
-        "meaning": "fearful",
-        "examples": []
+        "meaning": "frightful, fearful (causing fear), intimidating",
+        "examples": [
+          {
+            "sentence": "Л1ым изэуак1э '''гуих'''",
+            "translation": "The man's way of fightning is '''intimidating'''"
+          },
+		  {
+            "sentence": "'''Гуихэу''' ашъокур къэсыгъ",
+            "translation": "The tank came '''intimidatingly'''"
+          }
+        ]
       }
     ],
     "synonyms": [
