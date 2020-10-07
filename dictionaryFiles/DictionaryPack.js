@@ -5670,12 +5670,14 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "military",
-        "examples": []
-      },
-      {
-        "meaning": "army",
-        "examples": []
+        "meaning": "military; army",
+        "examples": [
+          ,
+          {
+            "sentence": "Пый '''дзэмк1э''' тыкъэш1ыхьагъ",
+            "translation": "We are surrounded with the enemy '''army'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -15310,6 +15312,10 @@
           {
             "sentence": "'''Пыим''' гук1эгъу фэплъэгъоу хъущтэп",
             "translation": "You must not show mercy upon '''the enemy'''."
+          },
+          {
+            "sentence": "'''Пый''' дзэмк1э тыкъэш1ыхьагъ",
+            "translation": "We are surrounded with the '''enemy''' army."
           }
         ]
       },
@@ -18370,7 +18376,17 @@
     "definitions": [
       {
         "meaning": "jail; prison",
-        "examples": []
+        "examples": [
+          ,
+		  {
+            "sentence": "Хьапсэч1эсхэр '''хьапсымк1э''' къэш1ыхьагъэх",
+            "translation": "The prisoners '''in jail''' are enclosed."
+          },
+          {
+            "sentence": "'''Хьапсым''' сыкъипш1эхьашъущтэп",
+            "translation": "You cannot lock me in '''prison'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -29060,7 +29076,12 @@
     "definitions": [
       {
         "meaning": "heavy",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Пкъыгъо '''онтэгъу'''",
+            "translation": "'''Heavy''' object."
+          }
+        ]
       }
     ],
     "shapsug": "отэгъу",
@@ -38132,6 +38153,10 @@
           {
             "sentence": "'''Хьапсэч1эсым''' ы1эмэ 1эхъу апылъ",
             "translation": "The '''prisoner''' has shackles on his hands."
+          },
+		  {
+            "sentence": "'''Хьапсэч1эсхэр''' хьапсымк1э къэш1ыхьагъэх",
+            "translation": "'''The prisoners''' in jail are enclosed."
           }
         ]
       }
@@ -66901,6 +66926,14 @@
 		  {
             "sentence": "'''Зэол1эхэр''' заом хэхьагъэх мэ1ухэр а1ыгъэхэу",
             "translation": "'''The fighters''' went to war holding shields."
+          },
+		  {
+            "sentence": "'''Зэол1эхэр''' хьазырых зэзэоныхэу",
+            "translation": "'''The fighters''' are ready to fight each other"
+          },
+		  {
+            "sentence": "'''Зэол1эр''' зэощт",
+            "translation": "'''The fighters''' will fight"
           }
         ]
       }
@@ -75801,7 +75834,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to chase after",
+        "meaning": "to chase after; to run after",
         "examples": [
           {
             "sentence": "Хьэр л1ым '''лъежьэ'''",
@@ -76741,6 +76774,23 @@
     "type": "verb",
     "ipa": "naːħ qəjʁakʼən"
   },
+  {
+    "word": "игъэк1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to let someone go out; to let someone go outside",
+        "examples": [
+		  {
+            "sentence": "К1алэм хьэр унэм риш1ыхьагъ, щагум '''ригъэк1ырэп'''",
+            "translation": "The boy locked the dog in the house, '''he doesn't let him go outside''' the yard."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "jəʁat͡ʃʼən"
+  }
   {
     "word": "шъхьэк1афэ фэш1ын",
     "lang": "Adyghe",
@@ -95517,7 +95567,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to amuse someone; to entertain someone; to make someone joyful",
+        "meaning": "to excite; to amuse someone; to entertain someone; to make someone joyful",
         "examples": [
           {
             "sentence": "К1алэм пшъашъэр '''егъатхъэ'''",
@@ -95533,7 +95583,7 @@
           },
 		  {
             "sentence": "Хьамбургерым к1алэр '''къигъэхъэщт'''",
-            "translation": "The boy '''will enjoy''' the hamburger."
+            "translation": "The hamburger '''will excite''' the boy."
           }
         ]
       }
@@ -95563,17 +95613,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be amused, to be entertained",
+        "meaning": "to be amused, to be entertained, to be having fun; to be enjoying",
         "examples": [
           {
             "sentence": "К1алэ '''матхъэ'''",
-            "translation": "The boy '''is amused'''."
+            "translation": "The boy '''is enjoying'''."
+          },
+		  {
+            "sentence": "'''Сытхъагъ'''",
+            "translation": "'''I had fun'''."
           }
         ]
-      },
-      {
-        "meaning": "to be having fun; to be enjoying",
-        "examples": []
       }
     ],
     "type": "verb",
@@ -95584,7 +95634,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "wire",
+        "meaning": "wire (thin thread of metal)",
         "examples": []
       }
     ],
@@ -95616,23 +95666,21 @@
     "ipa": "ʁʷət͡ʂʼəʔʷəna"
   },
   {
-    "word": "лъежьэн",
+    "word": "ц1энлъэгъо",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to run after",
-        "examples": []
-      },
-      {
-        "meaning": "to chase",
-        "examples": []
+        "meaning": "slippery",
+        "examples": [
+          {
+            "sentence": "Гъогур '''ц1энлъагъо''' хъугъэ",
+            "translation": "The road became '''slippery'''."
+          }
+        ]
       }
     ],
-    "synonyms": [
-      "лъычъэн"
-    ],
-    "type": "verb",
-    "ipa": "ɬajʑan"
+    "type": "adj",
+    "ipa": "t͡sʼanɬaːʁʷa"
   },
   {
     "word": "ежэн",
@@ -95640,7 +95688,12 @@
     "definitions": [
       {
         "meaning": "to wait",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр иныбджэгъу '''ежэ'''",
+            "translation": "The boy '''waits''' for his friend."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -95682,8 +95735,28 @@
             "translation": "The boys '''are fighting'''."
           },
 		  {
+            "sentence": "К1алэмрэ сэрэ '''тызэзао'''",
+            "translation": "'''The boy and I are fighting each other'''."
+          },
+		  {
             "sentence": "Сэ л1ит1ур '''зэзаоу''' сеплъыгъ",
             "translation": "I watched the two men '''fighting each other'''."
+          },
+		  {
+            "sentence": "Орэ сэрэ '''тызэзао''' мыщгъум",
+            "translation": "'''You and I are fighting each other''' this time."
+          },
+		  {
+            "sentence": "'''Шъузэмызау'''",
+            "translation": "'''Don't fight each other'''."
+          },
+		  {
+            "sentence": "Л1ымрэ шъузымрэ ренэу '''зэзаох'''",
+            "translation": "The husband and the wife '''are''' always '''arguing with each other'''."
+          },
+		  {
+            "sentence": "Зэуак1охэр хьазырых '''зэзэоныхэу'''",
+            "translation": "The fighters are ready '''to fight each other'''"
           }
         ]
       },
@@ -95691,7 +95764,7 @@
         "meaning": "to be in war with each other",
         "examples": [
           {
-            "sentence": "Хэгъэгухэр зэзаох",
+            "sentence": "Хэгъэгухэр '''зэзаох'''",
             "translation": "The countries '''are in war with each other'''."
           }
         ]
@@ -95705,7 +95778,7 @@
     "ipa": "zazawan"
   },
   {
-    "word": "шъхьэк1ьэ",
+    "word": "шъхьэк1э",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -95717,18 +95790,6 @@
     "ipa": "ʂħakʲʼa"
   },
   {
-    "word": "инапэк1э",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "by his face",
-        "examples": []
-      }
-    ],
-    "type": "adv",
-    "ipa": "jənaːpat͡ʃʼa"
-  },
-  {
     "word": "зэрэкъэлъагъорэмк1э",
     "lang": "Adyghe",
     "definitions": [
@@ -95738,6 +95799,14 @@
           {
             "sentence": "'''зэрэкъэлъагъорэмк1э''' непэ къещхыщт",
             "translation": "'''By the looks of things''', it gonna rain today."
+          },
+		  {
+            "sentence": "'''зэрэкъэлъагъорэмк1э''' к1алэр къэк1ощтэп",
+            "translation": "'''By the looks of things''', the boy will not come."
+          },
+		  {
+            "sentence": "'''зэрэкъэлъагъорэмк1э''' 1оф щы1эп",
+            "translation": "'''By the looks of things''', there is no work."
           }
         ]
       },
@@ -95747,7 +95816,7 @@
       }
     ],
     "synonyms": [
-      "инахэк1э",
+      "ынахэк1э",
       "итеплъэк1э"
     ],
     "type": "adv",
@@ -95763,6 +95832,14 @@
           {
             "sentence": "'''итеплъэк1э''' непэ къещхыщт",
             "translation": "'''By the looks of things''', it gonna rain today."
+          },
+		  {
+            "sentence": "'''итеплъэк1э''' к1алэр къэк1ощтэп",
+            "translation": "'''By the looks of things''', the boy will not come."
+          },
+		  {
+            "sentence": "'''итеплъэк1э''' 1оф щы1эп",
+            "translation": "'''By the looks of things''', there is no work."
           }
         ]
       },
@@ -95772,11 +95849,28 @@
       }
     ],
     "synonyms": [
-      "инахэк1э",
+      "ынахэк1э",
       "зэрэкъэлъагъорэмк1э"
     ],
     "type": "adv",
     "ipa": "zaraqaɬaːʁʷaramt͡ʃʼa"
+  },
+  {
+    "word": "къумгъан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "washbasin",
+        "examples": [
+          {
+            "sentence": "'''Къумгъаным''' псы бзылъфыгъэм ригъэхъуагъ",
+            "translation": "The woman spilled water into the '''washbasin'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "qʷəmʁaːn"
   },
   {
     "word": "лэджэн",
@@ -95787,34 +95881,30 @@
         "examples": []
       }
     ],
-    "synonyms": [
-      "лэгьэн"
-    ],
+    "shapsug": "лэгьэн",
     "type": "noun",
     "ipa": "ɮad͡ʒan"
-  },
-  {
-    "word": "лэгьэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"лэджэн\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "лэджэн"
-    ],
-    "type": "noun",
-    "ipa": "ɮaɡʲan"
   },
   {
     "word": "техъон",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to cover with",
-        "examples": []
+        "meaning": "to cover with; to put a cover above/over",
+        "examples": [
+          {
+            "sentence": "К1алэм чхы1ан '''тесэхъо'''",
+            "translation": "'''I am putting''' a blanket '''over''' the boy."
+          },
+		  {
+            "sentence": "Ным ик1алэ чхы1ан '''тесэхъо'''",
+            "translation": "The boy's mother '''puts''' a blanket '''over him'''."
+          },
+		  {
+            "sentence": "Нахь бэ чхы1ан '''зытехъу'''",
+            "translation": "'''Put on yourself''' more blankets."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -95845,12 +95935,17 @@
         "examples": []
       },
       {
-        "meaning": "an object",
-        "examples": []
+        "meaning": "object",
+        "examples": [
+          {
+            "sentence": "'''Пкъыгъо''' онтэгъу",
+            "translation": "Heavy '''object'''."
+          }
+        ]
       }
     ],
     "type": "noun",
-    "ipa": "psəʃʷa"
+    "ipa": "pqəʁʷa"
   },
   {
     "word": "гъэц1ырэн",
@@ -95865,7 +95960,7 @@
           },
           {
             "sentence": "К1алэм ч1ыгум '''тегъэц1ырэ'''",
-            "translation": "The boy is '''spraying''' on the group."
+            "translation": "The boy is '''spraying''' on the ground."
           }
         ]
       }
@@ -95878,13 +95973,20 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to erase or remove something by burning on the surface",
-        "examples": []
+        "meaning": "to wipe off by heat; to burn off; to dissipate as the result of heat",
+        "examples": [
+          {
+            "sentence": "Дзэм чылэ заулэ '''тагъэстык1ыгъ'''",
+            "translation": "The army '''wiped off''' several villages."
+          },
+          {
+            "sentence": "К1алэм къамзэгухэр ч1ыгум к1эгъэналъэк1э '''тегъэстык1ыгъэх'''",
+            "translation": "The boy '''burned off''' the ants from the ground with a lighter."
+          }
+        ]
       }
     ],
-    "synonyms": [
-      "тегъэстык1ьын"
-    ],
+    "shapsug": "тэгъэстык1ьын",
     "kabardian": "тегъэсык1ын",
     "type": "verb",
     "ipa": "tajʁasət͡ʃʼən"
@@ -95895,25 +95997,39 @@
     "definitions": [
       {
         "meaning": "to burn something on the surface something",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Тыгъэм хъэдэныр унашъхьэм '''тегъэстыхьагъ'''",
+            "translation": "The sun '''burned''' the rag '''on''' the roof."
+          },
+          {
+            "sentence": "К1алэм къамзэгухэр 1анэм к1эгъэналъэк1э '''тегъэстыхьагъэх'''",
+            "translation": "The boy '''burned''' the ants '''on''' the table with a lighter."
+          }
+        ]
       }
-    ],
-    "synonyms": [
-      "тегъэсыхьэн"
     ],
     "type": "verb",
     "ipa": "tajʁasəħaːn"
   },
   {
-    "word": "инахэк1э",
+    "word": "ынахэк1э",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "It appears; it seems; by the looks of things",
         "examples": [
           {
-            "sentence": "'''инахэк1э''' непэ къещхыщт",
-            "translation": "'''By the looks of things''', it gonna rain today."
+            "sentence": "'''ынахэк1э''' непэ къещхыщт",
+            "translation": "'''It appears''', it gonna rain today."
+          },
+		  {
+            "sentence": "'''ынахэк1э''' к1алэр къэк1ощтэп",
+            "translation": "'''It appears''', the boy will not come."
+          },
+		  {
+            "sentence": "'''ынахэк1э''' 1оф щы1эп",
+            "translation": "'''It appears''', there is no work."
           }
         ]
       },
@@ -95935,7 +96051,21 @@
     "definitions": [
       {
         "meaning": "to drag something into a crowd",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм ц1ыфымэ '''сахилъэшъуагъ'''",
+            "translation": "The boy '''dragged me into''' the crows of people."
+          }
+        ]
+      },
+	  {
+        "meaning": "to drag someone into a bad situation",
+        "examples": [
+          {
+            "sentence": "К1алэм къиныгъом '''сыхилъэшъуагъ'''",
+            "translation": "The boy '''dragged me into''' hardship."
+          }
+        ]
       },
       {
         "meaning": "to drag or pull something into an area of mass (usually liquid)",
@@ -95945,7 +96075,7 @@
             "translation": "The crocodile '''pulled''' the water buffalo into the water."
           },
           {
-            "sentence": "Пщэхъо ц1ынэм '''ухилъэшъушъущт'''",
+            "sentence": "Пщэхъо ц1ынэм '''ухилъэшъошъущт'''",
             "translation": "The quicksand '''can pull you in'''."
           }
         ]
@@ -95960,7 +96090,20 @@
     "definitions": [
       {
         "meaning": "brown",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Кофер '''хьаплъы'''",
+            "translation": "Coffee is '''brown'''."
+          },
+		  {
+            "sentence": "Хьэ '''хьаплъыр''' мачъэ",
+            "translation": "The '''brown''' dog is running."
+          },
+		  {
+            "sentence": "Ят1эр '''хьаплъы'''",
+            "translation": "The dirt is '''brown'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -95976,7 +96119,20 @@
     "definitions": [
       {
         "meaning": "brown",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Кофер '''къахьэуашъо'''",
+            "translation": "Coffee is '''brown'''."
+          },
+		  {
+            "sentence": "Хьэ '''къахьэуашъор''' мачъэ",
+            "translation": "The '''brown''' dog is running."
+          },
+		  {
+            "sentence": "Ят1эр '''къахьэуашъо'''",
+            "translation": "The dirt is '''brown'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -96009,7 +96165,12 @@
     "definitions": [
       {
         "meaning": "coffee",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''къэхьыор''' ышъо къахьэуашъо",
+            "translation": "The color of '''the coffee''' is brown."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -96036,7 +96197,24 @@
     "definitions": [
       {
         "meaning": "fighter",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Зэуак1охэр''' хьазырых зэзэоныхэу",
+            "translation": "'''The fighters''' are ready to fight each other"
+          },
+		  {
+            "sentence": "'''Зэуак1ор''' зэощт",
+            "translation": "'''The fighters''' will fight"
+          },
+		  {
+            "sentence": "Ар '''зэуак1у''' л1эбланэщтыгъ.",
+            "translation": "He used to be a brave '''fighter'''."
+          },
+		  {
+            "sentence": "'''Зэуак1охэр''' заом хэхьагъэх мэ1ухэр а1ыгъэхэу",
+            "translation": "'''The fighters''' went to war holding shields."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -96051,7 +96229,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "fighter",
+        "meaning": "alternative form of \"зэол1\"",
         "examples": []
       }
     ],
@@ -96081,15 +96259,23 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to beat/defeat",
+        "meaning": "to beat; to defeat; to win against",
         "examples": [
           {
             "sentence": "Типыйхэр '''тыгъэмартыщтых'''",
             "translation": "'''We will beat''' our enemies."
           },
+		  {
+            "sentence": "К1алэр джэгумк1э '''сыгъэмартыгъ'''",
+            "translation": "'''I defeated''' the boy in the game."
+          },
           {
             "sentence": "К1алэм адрэр '''ыгъэмартыгъ'''",
             "translation": "The boy '''defeated''' the other."
+          },
+          {
+            "sentence": "К1алэр '''къагъэмартыгъ'''",
+            "translation": "'''They defeated''' the boy."
           }
         ]
       }
@@ -96106,12 +96292,108 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to encircle",
+        "meaning": "alternative form of \"къэш1ыхьан\"",
         "examples": []
       }
     ],
     "type": "verb",
     "ipa": "ʃʼəħaːn"
+  },
+  {
+    "word": "къэш1ыхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to fence in, to enclose, to be surrounded",
+        "examples": [
+          {
+            "sentence": "Хьапсэч1эсхэр хьапсымк1э '''къэш1ыхьагъэх'''",
+            "translation": "The prisoners in jail '''are enclosed'''."
+          },
+          {
+            "sentence": "'''Къэш1ыхь''' мэлхэр",
+            "translation": "'''Enclose''' the sheeps."
+          },
+          {
+            "sentence": "Гъуч1 хъагъэм бзыур '''къиш1эхьагъ'''",
+            "translation": "The bird '''is caged in''' the iron cage."
+          },
+          {
+            "sentence": "Пый дзэмк1э '''тыкъэш1ыхьагъ'''",
+            "translation": "'''We are surrounded''' with the enemy army."
+          },
+          {
+            "sentence": "Цур '''дэш1ыхьагъ'''",
+            "translation": "The ox '''is enclosed'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "qaʃʼəħaːn"
+  },
+  
+  {
+    "word": "къиш1ыхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"иш1ыхьан\""
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "qjəʃʼəħaːn"
+  },
+  {
+    "word": "иш1ыхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to cage; to lock inside, to imprison inside, to confine inside",
+        "examples": [
+          {
+            "sentence": "Чэмыхэр л1ым хъагъэм '''риш1ыхьагъэх'''",
+            "translation": "The man '''confined''' the cows inside the fence."
+          },
+		  {
+            "sentence": "К1алэм хьэр унэм '''риш1ыхьагъ''', щагум ригъэк1ырэп",
+            "translation": "The boy '''locked''' the dog in the house, he doesn't let him go outside the yard."
+          },
+		  {
+            "sentence": "Унэм сянэ '''сыкъыриш1ыхьагъ'''",
+            "translation": "My mother '''confined me''' in the house."
+          },
+          {
+            "sentence": "Гъуч1 хъагъэм бзыур к1алэм '''къыриш1ыхьагъ'''",
+            "translation": "The boy '''caged''' the bird '''in''' the iron cage."
+          },
+          {
+            "sentence": "Хьапсым '''сыкъипш1ыхьашъущтэп'''",
+            "translation": "'''You cannot lock me in''' prison."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "jəʃʼəħaːn"
+  },
+  {
+    "word": "къеш1эк1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to encircle; to fence in, to enclose",
+        "examples": [
+          {
+            "sentence": "К1алэм '''мэтк1ут''' мыжъор лавэм хабдзэмэ",
+            "translation": "If you thrrock will melt."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "qajʃʼat͡ʃʼən"
   },
   {
     "word": "к1оц1ыщыхьан",
@@ -98750,32 +99032,6 @@
     ],
     "type": "adj",
     "ipa": "ʂħaːt͡ʂa ɬat͡ʂan"
-  },
-  {
-    "word": "иш1ыхьан",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to encircle someone or something inside",
-        "examples": [
-          {
-            "sentence": "Чэмыхэр л1ым хъагъэм '''риш1ыхьагъэх'''",
-            "translation": "The man '''encircled''' the cows inside the fence."
-          }
-        ]
-      },
-      {
-        "meaning": "to cage",
-        "examples": [
-          {
-            "sentence": "К1алэм бзыур гъучI хъагъэм '''риш1ыхьагъ'''",
-            "translation": "The boy '''caged''' the bird int he cage."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "jəʃʼəħaːn"
   },
   {
     "word": "иш1эхьан",
@@ -108480,16 +108736,17 @@
     "ipa": "wabzaʁʷət͡ʃʼ"
   },
   {
-    "word": "къиныгъу",
+    "word": "къиныгъо",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "hardship",
-        "examples": []
-      },
-      {
-        "meaning": "time of difficulty",
-        "examples": []
+        "meaning": "hardship (difficulty or trouble); hard times; time of difficulty",
+        "examples": [
+          {
+            "sentence": "К1алэм '''къиныгъом''' сыхилъэшъуагъ",
+            "translation": "The boy dragged me into '''hardship'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -114126,7 +114383,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "fun; enjoyable; joyful",
+        "meaning": "fun; enjoyable; joyful; enjoying",
         "examples": [
           {
             "sentence": "Ц1ыф '''тхъагъу'''",

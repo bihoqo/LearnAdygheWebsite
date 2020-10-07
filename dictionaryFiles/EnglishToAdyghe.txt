@@ -3834,13 +3834,16 @@
     "enjoyable": "тхъагъо"
   },
   {
-    "enjoy": "хэтхъык1ын (to enjoy something); тхъэн (to be enjoying); тхъагъо (joyful)"
+    "enjoy": "хэтхъык1ын (to enjoy something); тхъэн (to be enjoying); тхъагъо (joyful, enjoying)"
+  },
+  {
+    "enjoying": "тхъагъо (joyful, enjoying)"
   },
   {
     "enjoyment": "хэтхъык1ыныр"
   },
   {
-    "to enjoy": "зыгъэтхъэн"
+    "to enjoy": "зыгъэтхъэн; хэтхъык1ын (to enjoy something); тхъэн (to be enjoying)"
   },
   {
     "joyful": "чэфы (to feel joy); тхъагъо (fun, enjoyable)"
@@ -4524,7 +4527,7 @@
     "to set free": "гъэлэнлэн; т1упщын"
   },
   {
-    "to let go": "гъэлэнлэн; т1упщын"
+    "to let go": "гъэлэнлэн; т1упщын; игъэк1ын (to let someone go outside/out)"
   },
   {
     "to pass quickly": "псынк1эу блэк1ын; блихын"
@@ -5493,7 +5496,10 @@
     "carefree": "бэлэрыгъ; гугъуемыл1"
   },
   {
-    "assailant, fighter, wrestler,": "бэнак1о"
+    "assailant": "бэнак1о"
+  },
+  {
+    "wrestler": "бэнак1о"
   },
   {
     "small grave": "бэнжъый"
@@ -6756,10 +6762,10 @@
     "prisoner": "хьапсэч1эс"
   },
   {
-    "irons": "1эхъу ("hand shackles); лъэхъу (leg shackles); 1эхъу-лъэхъу"
+    "irons": "1эхъу (hand shackles); лъэхъу (leg shackles); 1эхъу-лъэхъу"
   },
   {
-    "shackles": "1эхъу ("hand shackles); лъэхъу (leg shackles); 1эхъу-лъэхъу"
+    "shackles": "1эхъу (hand shackles); лъэхъу (leg shackles); 1эхъу-лъэхъу"
   },
   {
     "hand shackles": "1эхъу; 1эхъу-лъэхъу"
@@ -7638,13 +7644,13 @@
     "apparent": "къыхэщы; нэрылъэгъу"
   },
   {
-    "seemingly": "зэрэкъэлъагъорэмк1э; итеплъэк1э; инахэк1э"
+    "seemingly": "зэрэкъэлъагъорэмк1э; итеплъэк1э; ынахэк1э"
   },
   {
-    "apparently": "зэрэкъэлъагъорэмк1э; итеплъэк1э; инахэк1э"
+    "apparently": "зэрэкъэлъагъорэмк1э; итеплъэк1э; ынахэк1э"
   },
   {
-    "by the looks of things": "зэрэкъэлъагъорэмк1э; итеплъэк1э; инахэк1э"
+    "by the looks of things": "зэрэкъэлъагъорэмк1э; итеплъэк1э; ынахэк1э"
   },
   {
     "obvious": "нэрылъэгъу"
@@ -7836,7 +7842,7 @@
     "to jam": "дэгъэнэн (to jam between); хэгъэнэн (to jam something in an area with liquid, gas or solid); тегъэнэн (to jam on above something); игъэнэн (to jam inside something); ч1эгъэнэн (to jam under something)"
   },
   {
-    "to trap": "дэубытэн (to trap between); хэубытэн (to trap something in an area with liquid, gas or solid); теубытэн (to trap on above something); иубытэн (to trap inside something); ч1эубытэн (to trap under something); иш1эхьан / къиш1эхьан (to trap in a circle)"
+    "to trap": "дэубытэн (to trap between); хэубытэн (to trap something in an area with liquid, gas or solid); теубытэн (to trap on above something); иубытэн (to trap inside something); ч1эубытэн (to trap under something); иш1ыхьан / къиш1ыхьан (to trap in a circle)"
   },
   {
     "to get trapped": "дэнэн / къыдэнэн (to get trapped between); хэнэн / къыхэнэн (to get trapped in a company, bushes, forest, liquid, gas or solid); тенэн / къытенэн (to get trapped on above something); инэн / къинэн (to get trapped inside something); ч1энэн / къыч1энэн (to get trapped under something); пынэн / къыпынэн (to get trapped and undetachable); дэп1ыт1эн (to get trapped and squeezed in a narrow place or hole)"
@@ -9429,16 +9435,28 @@
     "to enclose": "къэш1ыхьан; къеш1эк1ын; къэухъурэин; къэуцухьан; къэдзыхьан"
   },
   {
-    "to lock": "егъэтын (to lock a door or a locker); дэгъэт1ысхьан (to lock someone or something in); игъэт1ысхьан (to lock someone or something inside); иш1эхьан / къиш1эхьан (to lock inside by encircling)"
+    "to fence in": "къэш1ыхьан; къеш1эк1ын; къэухъурэин; къэуцухьан; къэдзыхьан"
+  },
+  {
+    "to lock": "егъэтын (to lock a door or a locker); дэгъэт1ысхьан (to lock someone or something in); игъэт1ысхьан (to lock someone or something inside); иш1ыхьан / къиш1ыхьан (to lock inside, to imprison inside, to confine inside)"
+  },
+  {
+    "to cage": "иш1ыхьан / къиш1ыхьан (to lock inside, to imprison inside, to confine inside)"
+  },
+  {
+    "to imprison": "иш1ыхьан / къиш1ыхьан (to lock inside, to imprison inside, to confine inside)"
+  },
+  {
+    "to confine": "иш1ыхьан / къиш1ыхьан (to lock inside, to imprison inside, to confine inside)"
   },
   {
     "to gather round": "къэухъурэин (to gather people or objects and make a round circle); къэуцухьан; къэдзыхьан (to besiege)"
   },
   {
-    "to encircle": "къэухъурэин (to encircle someone, something or a place); къэуцухьан; къэдзыхьан (to besiege); иш1эхьан / къиш1эхьан (to inclose something in a circle); къэгъэк1ухьан / къэгъэчъыхьан (to surround in a circle)"
+    "to encircle": "къэухъурэин (to encircle someone, something or a place); къэуцухьан; къэдзыхьан (to besiege); иш1ыхьан / къиш1ыхьан (to inclose something in a circle); къэгъэк1ухьан / къэгъэчъыхьан (to surround in a circle)"
   },
   {
-    "to surround": "къещэк1ын / къещыхьак1ын (to wrap); къэухъурэин (to surround someone, something or a place); къэуцухьан; къэдзыхьан (to besiege); къэгъэк1ухьан / къэгъэчъыхьан (to surround in a circle)"
+    "to surround": "къещэк1ын / къещыхьак1ын (to wrap); къэухъурэин (to surround someone, something or a place); къэуцухьан; къэдзыхьан (to besiege); къэгъэк1ухьан / къэгъэчъыхьан (to surround in a circle); къэш1ыхьан (to be surrended, to enclose)"
   },
   {
     "to round up": "зэ1угъэк1эн; зэхэугъоен (to besiege)"
@@ -10695,7 +10713,7 @@
     "to breed": "гъэбэгъон"
   },
   {
-    "slippery": "ц1ашъутэ"
+    "slippery": "ц1ашъутэ; ц1энлъэгъо"
   },
   {
     "low-friction surface": "ц1ашъутэ"
@@ -12639,7 +12657,10 @@
     "fire extinguisher": "мэш1о гъэк1осалъэ"
   },
   {
-    "fighter": "зэол1; зэуак1о; зэуал1"
+    "fighter": "зэол1; зэуак1о; зэуал1; бэнак1о"
+  },
+  {
+    "pugnacious": "зэуал"
   },
   {
     "wait": "зэ; зэгу"
@@ -15708,6 +15729,9 @@
     "hated": "джагъу"
   },
   {
+    "to excite": "гъэтхъэн "
+  },
+  {
     "to not be bearable": "фэмылъэгъун"
   },
   {
@@ -15720,7 +15744,7 @@
     "to be having fun": "тхъэн"
   },
   {
-    "wire": "гъуч1ыч"
+    "wire": "гъуч1ыч (thin thread of metal)"
   },
   {
     "palate": "1ушъхь"
@@ -15766,6 +15790,9 @@
   },
   {
     "basin": "лэджэн"
+  },
+  {
+    "washbasin": "лэджэн; къумгъан"
   },
   {
     "thing": "пкъыгъо"
@@ -16483,9 +16510,6 @@
   },
   {
     "to run back and forth": "1эчъэ-лъэчъэн / шъхьачъэ-лъэчъэн (to run back and forth out of anxious)"
-  },
-  {
-    "to cage": "иш1ыхьан"
   },
   {
     "except": "ащ нэмык1 (except that); нэмык1эу; фэшъхьафэу; щэхъу; ехъурэ"
@@ -18099,7 +18123,13 @@
     "cast iron": "щыуаныжъ"
   },
   {
-    "hardship": "къиныгъу"
+    "hardship": "къиныгъо"
+  },
+  {
+    "difficulty": "къиныгъо (hardship, hard times); къиныгъэ (the level of difficulty)"
+  },
+  {
+    "hard times": "къиныгъо"
   },
   {
     "each one": "шъхьадж"
