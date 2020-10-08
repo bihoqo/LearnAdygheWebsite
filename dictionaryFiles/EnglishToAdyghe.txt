@@ -7254,7 +7254,7 @@
     "to dance": "къэшъон; къеш1эн; уджын"
   },
   {
-    "to tie": "пхын (to tie); пыпхэн (to tie something to); егъэпхын (to tie something to something); зэк1оц1ыпхэн (to tie together), зэтепхэн (to tie one to the other), зэкъодзэн (to tie up, to fasten); к1эпхэн (to tie under something)"
+    "to tie": "пхын (to tie); пыпхэн (to tie something to); зэтепхэн (to tie up someone or something, to secure with rope, string, etc); егъэпхын (to tie something to something); зэк1оц1ыпхэн (to tie together), зэтепхэн (to tie one to the other), зэкъодзэн (to tie up, to fasten); к1эпхэн (to tie under something)"
   },
   {
     "to chain": "пыш1эн"
@@ -11346,7 +11346,7 @@
     "edge": "нэз; цак1э; гъунэ; цыпэ (tip)"
   },
   {
-    "tip": "цыпэ"
+    "tip": "цыпэ; пак1э; к1э; к1эух; гъунэ"
   },
   {
     "brink": "нэз; цак1э; гъунэ"
@@ -16354,6 +16354,18 @@
   },
   {
     "pass": "блэ- (prepositional verval suffix)"
+  },
+  {
+    "whiner": "тхьаусхал; ныгъ-ныгъ"
+  },
+  {
+    "yammer": "тхьаусхал; ныгъ-ныгъ"
+  },
+  {
+    "moaner": "тхьаусхал; ныгъ-ныгъ"
+  },
+  {
+    "whimperer": "тхьаусхал; ныгъ-ныгъ"
   },
   {
     "past": "блэк1ыгъэ / зэман (past time); блэ- (prepositional verval suffix)"

@@ -2124,7 +2124,12 @@
       },
       {
         "meaning": "hand",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Слъакъохэр зэтепхагъэх, '''с1эхэр''' т1упщыгъэх",
+            "translation": "My legs are tied up, '''my hands''' are loosed."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -2465,6 +2470,10 @@
           {
             "sentence": "Слъакъохэр цуакъэм '''ихьахэрэп'''",
             "translation": "'''My legs''' don't go inside the shoes."
+          },
+		  {
+            "sentence": "'''Слъакъохэр''' зэтепхагъэх, с1эхэр т1упщыгъэх",
+            "translation": "'''My legs''' are tied up, my hands are loosed."
           }
         ]
       },
@@ -20583,11 +20592,15 @@
         ]
       },
       {
-        "meaning": "to set free; to let go",
+        "meaning": "to set free; to let go; to let loose",
         "examples": [
           {
             "sentence": "пщыл1ыхэр '''т1упщыных'''",
             "translation": "'''to set free''' slaves."
+          },
+		  {
+            "sentence": "Слъакъохэр зэтепхагъэх, с1эхэр '''т1упщыгъэх'''",
+            "translation": "My legs are tied up, my hands '''are loosed'''."
           }
         ]
       },
@@ -95760,16 +95773,88 @@
     "ipa": "ʁatχan"
   },
   {
+    "word": "зэтепхэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to tie up someone or something, to secure with rope, string, etc",
+        "examples": [
+          {
+            "sentence": "Къутэр гъуч1ычк1э '''зэтепхагъ'''",
+            "translation": "The box '''is tied up''' with a wire."
+          },
+		  {
+            "sentence": "Хьэубытым бзаджэр к1апсэк1э '''зэтепхагъ'''",
+            "translation": "The police '''tied up''' the wicked person with a rope."
+          },
+		  {
+            "sentence": "Пхъэнт1эк1ум сис '''сызэтепхагъэу'''",
+            "translation": "I am sitting in a chair '''tied up'''."
+          },
+		  {
+            "sentence": "Слъакъохэр '''зэтепхагъэх''', с1эхэр т1упщыгъэх",
+            "translation": "My legs are '''tied up''', my hands are loosed."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zatajpxan"
+  },
+  {
     "word": "гъуч1ыч",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "wire (thin thread of metal)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Къутэр '''гъуч1ычк1э''' зэтепхагъ",
+            "translation": "The box is tied '''with a wire'''."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "ʁʷət͡ʂʼət͡ʃ"
+  },
+  {
+    "word": "ныгъ-ныгъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "whiner, moaner, whimperer, yammer (one who yammers)",
+        "examples": [
+          {
+            "sentence": "Ц1ыф '''ныгъ-ныгъ'''",
+            "translation": "'''A whiner''' person."
+          },
+		  {
+            "sentence": "'''Ныгъ-ныгъ''' ехъурэ пш1эрэба?",
+            "translation": "Don't you know anything besides '''yamming'''?."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "nəʁ-nəʁ"
+  },
+  {
+    "word": "тхьаусхал",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "whiner, moaner, whimperer, yammer (one who yammers)",
+        "examples": [
+          {
+            "sentence": "Ц1ыф '''тхьаусхал'''",
+            "translation": "'''A whiner''' person."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "tħaːwəsxaːɮ"
   },
   {
     "word": "ц1энлъэ-к1уанлъ",
