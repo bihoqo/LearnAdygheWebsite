@@ -96602,6 +96602,10 @@
           {
             "sentence": "Пшъэдэлъыр пшъашъэм ыпшъэ '''къырещэк1ы'''",
             "translation": "The girl '''wraps''' the scarf around her neck."
+          },
+		  {
+            "sentence": "Пшъашъэм ыянэ 1апл1э '''рищэк1ыгъ'''",
+            "translation": "The girl '''wrapped''' her mother '''with a hug'''."
           }
         ]
       },
@@ -96682,6 +96686,23 @@
     "ipa": "kʷʼat͡sʼəɕəħaːn"
   },
   {
+    "word": "къэщыхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to wrap; alternative form of \"щыхьан\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "щыхьан",
+      "къещэк1ын",
+      "къещыхьак1ын"
+    ],
+    "type": "verb",
+    "ipa": "qaɕəħaːn"
+  },
+  {
     "word": "щыхьан",
     "lang": "Adyghe",
     "definitions": [
@@ -96699,6 +96720,10 @@
           {
             "sentence": "К1алэм ишхын '''ещыхьэ'''",
             "translation": "The boy '''wraps''' his food."
+          },
+          {
+            "sentence": "Сэтэнае мыжъо фабэр хъэдэнк1э '''къищыхьагъ'''",
+            "translation": "Sataney '''wrapped''' the hot stone with a rag."
           }
         ]
       },
