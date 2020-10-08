@@ -1665,7 +1665,12 @@
     "definitions": [
       {
         "meaning": "head",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Шъхьэтелъхьэм '''шъхьэр''' къеухъумэ",
+            "translation": "The headgear covers '''the head'''."
+          }
+        ]
       }
     ],
     "kabardian": "щхьэ",
@@ -9384,7 +9389,12 @@
     "definitions": [
       {
         "meaning": "scarf (neck)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Пшъэдэлъыр''' пшъашъэм ыпшъэ къырещэк1ы",
+            "translation": "The girl wraps '''the scarf''' around her neck."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -9401,7 +9411,12 @@
     "definitions": [
       {
         "meaning": "scarf (neck)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Пшъэдадзыр''' пшъашъэм ыпшъэ къырещэк1ы",
+            "translation": "The girl wraps '''the scarf''' around her neck."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -9418,7 +9433,12 @@
     "definitions": [
       {
         "meaning": "scarf (neck)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Пшъэбыдэлъыр''' пшъашъэм ыпшъэ къырещэк1ы",
+            "translation": "The girl wraps '''the scarf''' around her neck."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -9435,7 +9455,12 @@
     "definitions": [
       {
         "meaning": "(Shapsug) necktie",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Дыйдалъхьыр''' пшъашъэм ыпшъэ къырещэк1ы",
+            "translation": "The girl wraps '''the scarf''' around her neck."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -9465,7 +9490,12 @@
     "definitions": [
       {
         "meaning": "(Shapsug) scarf (neck)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Дыйдэлъыр''' пшъашъэм ыпшъэ къырещэк1ы",
+            "translation": "The girl wraps '''the scarf''' around her neck."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -15316,6 +15346,10 @@
           {
             "sentence": "'''Пый''' дзэмк1э тыкъэш1ыхьагъ",
             "translation": "We are surrounded with the '''enemy''' army."
+          },
+		  {
+            "sentence": "'''Пыим''' идзак1охэр къэтыухъурэихьагъэх",
+            "translation": "We surrounded the '''enemy's''' soldiers."
           }
         ]
       },
@@ -15329,6 +15363,10 @@
 		  {
             "sentence": "'''Пыйхэр''' къак1ох 1ашэхэр а1ыгъэхэу",
             "translation": "'''The foes''' are coming having weapons."
+          },
+		  {
+            "sentence": "Зышъуухъум, '''пыйхэр''' топк1э къаох",
+            "translation": "Take over, '''the foes''' are attacking with cannons."
           }
         ]
       }
@@ -43278,16 +43316,46 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to encircle, to surround, to stand around",
-        "examples": []
+        "meaning": "to encircle, to surround, to stand around, to gather round",
+        "examples": [
+          {
+            "sentence": "Хатэхэмэ чылэр '''къауцухьэ'''",
+            "translation": "The village '''is surrounded''' by gardens."
+          },
+		  {
+            "sentence": "К1элэц1ык1умэ л1ыжъыр '''къауцухьагъ'''",
+            "translation": "The children '''surrounded''' the old-man."
+          },
+		  {
+            "sentence": "Л1ыжъэу къэгущы1эрэр ц1ыфыхэмэ '''къэуцухьагъ'''",
+            "translation": "The people '''gathered around''' the old-man that speaks."
+          }
+        ]
       },
       {
-        "meaning": "to besiege",
+        "meaning": "to besiege; to beset",
         "examples": []
       }
     ],
     "type": "verb",
     "ipa": "qawt͡ʃʷəħaːn"
+  },
+  {
+    "word": "къегъэт1ылъэк1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to put (round)",
+        "examples": [
+          {
+            "sentence": "Шъхьантэхэр сымаджэм '''къегъэт1ылъэк1ын'''",
+            "translation": "'''To put''' pillows '''around''' the sick."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "qajʁatʼəɬat͡ʃʼən"
   },
   {
     "word": "мэш1уащэ",
@@ -49711,6 +49779,10 @@
           {
             "sentence": "'''Къэсэухъурэи''' чъыгыхэр",
             "translation": "'''I am encircling''' the trees."
+          },
+          {
+            "sentence": "Чылэр '''къаухъурэигъ''' дэпкъык1э",
+            "translation": "The village '''was encircled''' with a wall."
           }
         ]
       }
@@ -53611,7 +53683,7 @@
         "meaning": "to go mad (usaully due to having a lot of power)",
         "examples": [
           {
-            "sentence": "Пачъыхьыр '''утэшъожьыгъ'''",
+            "sentence": "Пачъыхьэр '''утэшъожьыгъ'''",
             "translation": "The king '''went mad'''."
           }
         ]
@@ -56204,12 +56276,66 @@
           {
             "sentence": "Ынапэ '''ыухъумэн'''",
             "translation": "'''To protect''' your face (avoid shame)"
+          },
+		  {
+            "sentence": "Дзап1эр '''ухъумагъ''' ашъокухэмк1э",
+            "translation": "The army base '''is defended''' by the tanks."
+          }
+        ]
+      },
+	  {
+        "meaning": "to shelter; to cover",
+        "examples": [
+          {
+            "sentence": "Пачъыхьэм '''зеухъумэ''' пытап1эмк1э",
+            "translation": "The king '''is sheltering himself''' with a fortress."
+          },
+          {
+            "sentence": "Шъхьэтелъхьэм шъхьэр '''къеухъумэ'''",
+            "translation": "The headgear '''covers''' the head."
+          },
+		  {
+            "sentence": "К1алэм унэм '''зыщеухъумэ'''",
+            "translation": "The boy '''is sheltering''' in the house."
+          },
+		  {
+            "sentence": "Унашъхьэм '''тыкъеухъумэ'''",
+            "translation": "The roof '''is covering us'''."
+          },
+		  {
+            "sentence": "Къещхымэ унэм шъуихь '''шъукъиухъумэнэу'''",
+            "translation": "If it rains, enter the house '''to give you shelter'''."
           }
         ]
       }
     ],
     "type": "verb",
     "ipa": "wəχʷəman"
+  },
+  {
+    "word": "зыухъумэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to take cover; to take shelter; to cover oneself",
+        "examples": [
+          {
+            "sentence": "Пачъыхьэм '''зеухъумэ''' пытап1эмк1э",
+            "translation": "The king '''is taking cover''' with a fortress."
+          },
+		  {
+            "sentence": "К1алэм унэм '''зыщеухъумэ'''",
+            "translation": "The boy '''is taking cover''' in the house."
+          },
+		  {
+            "sentence": "'''Зышъуухъум''', пыйхэр топк1э къаох",
+            "translation": "'''Take over''', the foes are attacking with cannons."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zəwəχʷəman"
   },
   {
     "word": "еугъоин",
@@ -78234,7 +78360,7 @@
             "translation": "When the woman saw a house '''she freaked out'''."
           },
 		  {
-            "sentence": "Пачъыхьыр '''зэ1ыхьи''' ц1ыфыхэр ыук1эу ежьагъ",
+            "sentence": "Пачъыхьэр '''зэ1ыхьи''' ц1ыфыхэр ыук1эу ежьагъ",
             "translation": "The king '''became mad''' and start to kill people."
           },
 		  {
@@ -88064,7 +88190,7 @@
             "translation": "The man '''got ruined due to''' gambling."
           },
           {
-            "sentence": "Пачъыхьыр имылъку '''теунэхъухьагъ'''",
+            "sentence": "Пачъыхьэр имылъку '''теунэхъухьагъ'''",
             "translation": "The king '''got ruined due to''' his fortune."
           }
         ]
@@ -96304,7 +96430,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to fence in, to enclose, to be surrounded",
+        "meaning": "to fence in, to enclose, to surround",
         "examples": [
           {
             "sentence": "Хьапсэч1эсхэр хьапсымк1э '''къэш1ыхьагъэх'''",
@@ -96325,6 +96451,14 @@
           {
             "sentence": "Цур '''дэш1ыхьагъ'''",
             "translation": "The ox '''is enclosed'''."
+          },
+          {
+            "sentence": "Чылэр '''къэш1ыхьагъ''' дэпкъык1э",
+            "translation": "The village '''is surrounded in''' a wall."
+          },
+          {
+            "sentence": "Пачъыхьэм зеухъумэ пытап1эмк1э '''къэш1ыхьагъэу'''",
+            "translation": "The king is sheltering himself with a surrounding fortress."
           }
         ]
       }
@@ -96379,21 +96513,150 @@
     "ipa": "jəʃʼəħaːn"
   },
   {
-    "word": "къеш1эк1ын",
+    "word": "иубэтэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to encircle; to fence in, to enclose",
+        "meaning": "to catch inside",
         "examples": [
           {
-            "sentence": "К1алэм '''мэтк1ут''' мыжъор лавэм хабдзэмэ",
-            "translation": "If you thrrock will melt."
+            "sentence": "К1алэм унэм '''сыриубытагъ'''",
+            "translation": "The boy '''catched me inside''' the house."
+          }
+        ]
+      },
+	  {
+        "meaning": "to trap inside",
+        "examples": [
+          {
+            "sentence": "Чэмыхэр л1ым хъагъэм '''риубэтагъэх'''",
+            "translation": "The man '''trapped''' the cows inside the fence."
+          },
+		  {
+            "sentence": "К1алэм хьэр унэм '''риубэтагъ''', щагум ригъэк1ырэп",
+            "translation": "The boy '''trapped''' the dog in the house, he doesn't let him go outside the yard."
+          },
+		  {
+            "sentence": "Унэм сянэ '''сыкъыриубэтагъ'''",
+            "translation": "My mother '''trapped me''' in the house."
+          },
+          {
+            "sentence": "Гъуч1 хъагъэм бзыур к1алэм '''къыриубэтагъ'''",
+            "translation": "The boy '''trapped''' the bird '''in''' the iron cage."
+          },
+          {
+            "sentence": "Хьапсым '''сыкъибыубэтэшъущтэп'''",
+            "translation": "'''You cannot trap me in''' prison."
           }
         ]
       }
     ],
     "type": "verb",
+    "ipa": "jəwbatan"
+  },
+  {
+    "word": "къеш1эк1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to encircle; to fence in, to enclose",
+        "examples": []
+      }
+    ],
+    "type": "verb",
     "ipa": "qajʃʼat͡ʃʼən"
+  },
+  {
+    "word": "къеш1ыхьак1ын",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "to enclose (with); to frame",
+        "examples": [
+          {
+            "sentence": "К1алэм сурэтыр '''къыриш1ыхьак1ыгъ'''",
+            "translation": "The boy '''framed''' the picture."
+          },
+		  {
+            "sentence": "Л1ым унэр '''къыриш1ыхьак1ыгъ'''",
+            "translation": "The man '''framed''' the house."
+          },
+		  {
+            "sentence": "Сянэ ы1эхэмк1э '''сыкъриш1ыхьак1ыгъ'''",
+            "translation": "My mother '''hugged me''' with her hands."
+          }
+        ]
+      }
+    ],
+    "shapsug": "къеш1ыхьак1ьын",
+    "type": "verb",
+    "ipa": "qajʃʼəħaːt͡ʃʼən"
+  },
+  {
+    "word": "къещэк1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to wrap",
+        "examples": [
+          {
+            "sentence": "Пшъэдэлъыр пшъашъэм ыпшъэ '''къырещэк1ы'''",
+            "translation": "The girl '''wraps''' the scarf around her neck."
+          }
+        ]
+      },
+      {
+        "meaning": "to surround",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "къещыхьак1ын",
+      "к1оц1ыщыхьан"
+    ],
+    "type": "verb",
+    "ipa": "qajɕat͡ʃʼən"
+  },
+  {
+    "word": "къещыхьак1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to wrap",
+        "examples": []
+      },
+      {
+        "meaning": "to surround",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "къещэк1ын",
+      "к1оц1ыщыхьан"
+    ],
+    "type": "verb",
+    "ipa": "qajɕaħat͡ʃʼən"
+  },
+  {
+    "word": "къэухъурэихьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to enclose something; to circle something; to surround something",
+        "examples": [
+          {
+            "sentence": "Хыкъумэр чъыгыхэм '''къаухъурэихьэ'''",
+            "translation": "The trees '''surround''' with lake."
+          },
+		  {
+            "sentence": "Пыим идзак1охэр '''къэтыухъурэихьагъэх'''",
+            "translation": "'''We surrounded''' the enemy's soldiers."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "qawχʷərajəħaːn"
   },
   {
     "word": "к1оц1ыщыхьан",
@@ -96401,7 +96664,12 @@
     "definitions": [
       {
         "meaning": "to wrap in",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Сэтэнае мыжъор хъэдэн фабэм '''к1оц1ыщыхьагъ'''",
+            "translation": "Sataney '''wrapped''' the hot stone in a rag."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -96421,15 +96689,15 @@
         "meaning": "to wrap",
         "examples": [
           {
-            "sentence": "К1алэм тутыныр ещэхьы",
+            "sentence": "К1алэм тутыныр '''ещыхьэ'''",
             "translation": "The boy '''wraps''' the cigarette."
           },
           {
-            "sentence": "Шхыныр '''щэхь'''",
+            "sentence": "Шхыныр '''щыхь'''",
             "translation": "'''Wrap''' the food."
           },
           {
-            "sentence": "К1алэм ишхын '''ещэхьы'''",
+            "sentence": "К1алэм ишхын '''ещыхьэ'''",
             "translation": "The boy '''wraps''' his food."
           }
         ]
@@ -96451,19 +96719,19 @@
         "meaning": "(Kfar Kama dialect) to yell at (for criticism)",
         "examples": [
           {
-            "sentence": "Сэш1ык1аем сиянэ '''къэсщыхьагъ'''",
+            "sentence": "Сэш1ык1аем сянэ '''къэсщыхьагъ'''",
             "translation": "When I did trouble my mother '''screamed at me'''."
           },
           {
-            "sentence": "Л1ыжъыхэр угъэгуабжыхэмэ '''къупщыхьэтых'''",
+            "sentence": "Л1ыжъыхэр угъэгубжыхэмэ '''къыпщыхьащтых'''",
             "translation": "If you make the old-men angry '''they gonna shout at you'''."
           },
           {
-            "sentence": "Уиятэ к1алэм '''щэхьэ'''",
+            "sentence": "Уятэ к1алэм '''щыхьэ'''",
             "translation": "Your father '''is shouting''' at the boy."
           },
           {
-            "sentence": "'''Усщыхьэнэу''' уфая?",
+            "sentence": "'''Усщыхьанэу''' уфая?",
             "translation": "Do you want me '''to shout at you?'''."
           }
         ]
@@ -110038,46 +110306,6 @@
     "ipa": "t͡ʃʼaːd"
   },
   {
-    "word": "къещэк1ын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to wrap",
-        "examples": []
-      },
-      {
-        "meaning": "to surround",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "къещыхьак1ын",
-      "к1оц1ыщыхьан"
-    ],
-    "type": "verb",
-    "ipa": "qajɕat͡ʃʼən"
-  },
-  {
-    "word": "къещыхьак1ын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to wrap",
-        "examples": []
-      },
-      {
-        "meaning": "to surround",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "къещэк1ын",
-      "к1оц1ыщыхьан"
-    ],
-    "type": "verb",
-    "ipa": "qajɕaħat͡ʃʼən"
-  },
-  {
     "word": "шык1адзэ",
     "lang": "Adyghe",
     "definitions": [
@@ -112028,12 +112256,14 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "helmet",
-        "examples": []
-      },
-      {
-        "meaning": "headgear",
-        "examples": []
+        "meaning": "headgear; headcover; helmet",
+        "examples": [
+          ,
+          {
+            "sentence": "'''Шъхьэтелъхьэм''' шъхьэр къеухъумэ",
+            "translation": "'''The headgear''' covers the head."
+          }
+        ]
       }
     ],
     "type": "noun",

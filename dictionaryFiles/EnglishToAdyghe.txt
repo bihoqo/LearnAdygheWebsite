@@ -3666,6 +3666,15 @@
     "fortress": "къэлэсэрай; пытап1э"
   },
   {
+    "to shelter": "ухъумэн; зыухъумэн (to shelter oneself)"
+  },
+  {
+    "to take cover": "зыухъумэн"
+  },
+  {
+    "stronghold": "пытап1э"
+  },
+  {
     "palace": "къэлэсэрай (surrounded by a high fence)"
   },
   {
@@ -9273,7 +9282,7 @@
     "to put down": "гъэт1ылъын; ч1ыгум телъхьан"
   },
   {
-    "to put": "гъэт1ылъын (to put down); илъхьан (to put inside); телъхьан (to put on); ч1элъхьан (to put under); 1улъхьан (to put near); къолъхьан (to put behind); пылъхьан (to hang, to attach); голъхьан / бгъодэлъхьан (to put besides); дэлъхьан (to put between or to put inside another object); хэлъхьан (to put something in an area with gas or liquid, to put something among other people/objects, to put a certain manner, behavior or attribute in someone, to put something through something); к1оц1ылъхьан (to put something within something); гъэуцун (to put something somewhere); тегъэуцун (to put on); дэгъэуцон (to put between); 1угъэуцон (to put something near); зэтелъхьан (to put on each other); к1элъырыгъэуцон (to put something next to); жэхэлъхьан (to intensively put something against something); зэк1элъхьан (to put stuff under each other); зэкъолъхьан (to put stuff behind each other); зэдэлъхьан (to put stuff in each other); зэрилъхьан (to put stuff inside each other); зэголъхьан / зэбгъодэлъхьан (to put stuff aside each other); зэпылъхьан (to attach stuff to each other); итэкъон (to put/throw stuff inside something); тетэкъон (to put/throw stuff on something); ч1этэкъон (to put/throw stuff under something); дэтэкъон (to put/throw stuff inside another object, to put/throw stuff between); къотэкъон (to put/throw stuff behind something); хэтэкъон (to put/throw stuff among other objects/people, to throw/put stuff in an area with fire, gas or liquid); готэкъон / бгъодэтэкъон (to put/throw stuff besides something); жэхэтэкъон (to put/throw stuff against something); 1оф хэдзэн (to put/throw someone in a troublesome situation)"
+    "to put": "гъэт1ылъын (to put down); илъхьан (to put inside); телъхьан (to put on); ч1элъхьан (to put under); 1улъхьан (to put near); къолъхьан (to put behind); пылъхьан (to hang, to attach); голъхьан / бгъодэлъхьан (to put besides); дэлъхьан (to put between or to put inside another object); хэлъхьан (to put something in an area with gas or liquid, to put something among other people/objects, to put a certain manner, behavior or attribute in someone, to put something through something); к1оц1ылъхьан (to put something within something); гъэуцун (to put something somewhere); тегъэуцун (to put on); дэгъэуцон (to put between); 1угъэуцон (to put something near); зэтелъхьан (to put on each other); к1элъырыгъэуцон (to put something next to); жэхэлъхьан (to intensively put something against something); зэк1элъхьан (to put stuff under each other); зэкъолъхьан (to put stuff behind each other); зэдэлъхьан (to put stuff in each other); зэрилъхьан (to put stuff inside each other); зэголъхьан / зэбгъодэлъхьан (to put stuff aside each other); зэпылъхьан (to attach stuff to each other); итэкъон (to put/throw stuff inside something); тетэкъон (to put/throw stuff on something); ч1этэкъон (to put/throw stuff under something); дэтэкъон (to put/throw stuff inside another object, to put/throw stuff between); къотэкъон (to put/throw stuff behind something); хэтэкъон (to put/throw stuff among other objects/people, to throw/put stuff in an area with fire, gas or liquid); готэкъон / бгъодэтэкъон (to put/throw stuff besides something); жэхэтэкъон (to put/throw stuff against something); 1оф хэдзэн (to put/throw someone in a troublesome situation); къегъэт1ылъэк1ын (to put around)"
   },
   {
     "to place": "илъхьан (to place inside); телъхьан (to place on); ч1элъхьан (to place under); гъэуцун (to place); тегъэуцун (to place on); дэгъэуцон (to place between); зэтелъхьан (to place on each other)"
@@ -9429,19 +9438,34 @@
     "to catch": "убытын; дэубытэн (to catch in); иубытэн (to catch inside); хэубытэн (to catch in a liquid or among people)"
   },
   {
-    "to close in": "иубытэн"
+    "to close in": "иубытэн (to trap inside something); къэш1ыхьан (to enclose, to surround); къеш1эк1ын; къэухъурэин; къэуцухьан; къэдзыхьан; къеш1ыхьак1ын (to close with, to frame)"
   },
   {
-    "to enclose": "къэш1ыхьан; къеш1эк1ын; къэухъурэин; къэуцухьан; къэдзыхьан"
+    "to frame": "къеш1ыхьак1ын"
   },
   {
-    "to fence in": "къэш1ыхьан; къеш1эк1ын; къэухъурэин; къэуцухьан; къэдзыхьан"
+    "to enclose": "иубытэн (to trap inside something); къэш1ыхьан (to enclose, to surround); къеш1эк1ын; къэухъурэин; къэуцухьан; къэдзыхьан; къеш1ыхьак1ын (to close with, to frame)"
   },
   {
-    "to lock": "егъэтын (to lock a door or a locker); дэгъэт1ысхьан (to lock someone or something in); игъэт1ысхьан (to lock someone or something inside); иш1ыхьан / къиш1ыхьан (to lock inside, to imprison inside, to confine inside)"
+    "to fence in": "къэш1ыхьан (to enclose, to surround); къеш1эк1ын; къэухъурэин; къэуцухьан; къэдзыхьан"
+  },
+  {
+    "to lock": "егъэтын (to lock a door or a locker); иш1ыхьан / къиш1ыхьан (to lock inside, to imprison inside, to confine inside)"
   },
   {
     "to cage": "иш1ыхьан / къиш1ыхьан (to lock inside, to imprison inside, to confine inside)"
+  },
+  {
+    "to border": "къэухъурэихьан (to form a border around)"
+  },
+  {
+    "to circle": "къэухъурэин (to encircle someone, something or a place); къэгъэк1ухьан / къэгъэчъыхьан (to surround with a circle, to encircle with a circle); хъурайк1э къэгъэк1ухьан; хъурайк1э къэгъэчъыхьан; къэухъурэихьан (to enclose something, to circle something, to surround something)"
+  },
+  {
+    "to encircle": "къэухъурэин (to encircle someone, something or a place); къэуцухьан; къэдзыхьан (to besiege); къэгъэк1ухьан / къэгъэчъыхьан (to surround with a circle, to encircle with a circle); хъурайк1э къэгъэк1ухьан; хъурайк1э къэгъэчъыхьан; къэухъурэихьан (to enclose something, to circle something, to surround something)"
+  },
+  {
+    "to surround": "къещэк1ын / къещыхьак1ын (to wrap); къэухъурэин (to surround someone, something or a place); къэуцухьан; къэдзыхьан (to besiege); къэгъэк1ухьан / къэгъэчъыхьан (to surround in a circle); къэш1ыхьан (to be surrended, to enclose); къэухъурэихьан (to enclose something, to circle something, to surround something)"
   },
   {
     "to imprison": "иш1ыхьан / къиш1ыхьан (to lock inside, to imprison inside, to confine inside)"
@@ -9453,22 +9477,16 @@
     "to gather round": "къэухъурэин (to gather people or objects and make a round circle); къэуцухьан; къэдзыхьан (to besiege)"
   },
   {
-    "to encircle": "къэухъурэин (to encircle someone, something or a place); къэуцухьан; къэдзыхьан (to besiege); иш1ыхьан / къиш1ыхьан (to inclose something in a circle); къэгъэк1ухьан / къэгъэчъыхьан (to surround in a circle)"
-  },
-  {
-    "to surround": "къещэк1ын / къещыхьак1ын (to wrap); къэухъурэин (to surround someone, something or a place); къэуцухьан; къэдзыхьан (to besiege); къэгъэк1ухьан / къэгъэчъыхьан (to surround in a circle); къэш1ыхьан (to be surrended, to enclose)"
-  },
-  {
     "to round up": "зэ1угъэк1эн; зэхэугъоен (to besiege)"
   },
   {
     "to lay siege": "къэдзыхьан"
   },
   {
-    "to besiege": "къэдзыхьан"
+    "to besiege": "къэдзыхьан; къэуцухьан"
   },
   {
-    "to beset": "къэдзыхьан"
+    "to beset": "къэдзыхьан; къэуцухьан"
   },
   {
     "to beleaguer": "къэдзыхьан"
@@ -10414,9 +10432,6 @@
   },
   {
     "reply": "джэуап; пэгъодз"
-  },
-  {
-    "to circle": "къэухъурэин; къэгъэк1ухьан / къэгъэчъыхьан (to encircle with); хъурайк1э къэгъэк1ухьан; хъурайк1э къэгъэчъыхьан"
   },
   {
     "to live": "псэун (to inhabit); щы1эн (to exist, to be alive)"
