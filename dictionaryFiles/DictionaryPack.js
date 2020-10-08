@@ -43329,6 +43329,10 @@
 		  {
             "sentence": "Л1ыжъэу къэгущы1эрэр ц1ыфыхэмэ '''къэуцухьагъ'''",
             "translation": "The people '''gathered around''' the old-man that speaks."
+          },
+		  {
+            "sentence": "Пщагъом мэзыр '''къыуцухьагъ'''",
+            "translation": "The fog '''surrounded''' the forest."
           }
         ]
       },
@@ -96606,6 +96610,14 @@
 		  {
             "sentence": "Пшъашъэм ыянэ 1апл1э '''рищэк1ыгъ'''",
             "translation": "The girl '''wrapped''' her mother '''with a hug'''."
+          },
+		  {
+            "sentence": "Пшъашъэм тхылъым газет '''къырищэк1ыгъ'''",
+            "translation": "The girl '''wrapped''' the book in a newspaper."
+          },
+		  {
+            "sentence": "Хьадэм чэфын '''ращэк1ыгъ'''",
+            "translation": "'''They wrapped''' the corpse in a shroud."
           }
         ]
       },
@@ -96667,11 +96679,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to wrap in",
+        "meaning": "to wrap in; to envelope",
         "examples": [
           {
             "sentence": "Сэтэнае мыжъор хъэдэн фабэм '''к1оц1ыщыхьагъ'''",
             "translation": "Sataney '''wrapped''' the hot stone in a rag."
+          },
+		  {
+            "sentence": "Бзылъфыгъэм сабиер чхы1ан '''к1оц1ыщыхьагъ'''",
+            "translation": "The woman '''wrapped''' the infant in a blanket."
+          },
+		  {
+            "sentence": "Тхылъып1эм тхылъхэр сэ '''к1оц1ысыщыхьэх'''",
+            "translation": "'''I enveloped''' the books with paper."
           }
         ]
       }
@@ -96724,6 +96744,10 @@
           {
             "sentence": "Сэтэнае мыжъо фабэр хъэдэнк1э '''къищыхьагъ'''",
             "translation": "Sataney '''wrapped''' the hot stone with a rag."
+          },
+          {
+            "sentence": "Хьадэр чэфынк1э '''къащыхьагъ'''",
+            "translation": "'''They wrapped''' the corpse with a shroud."
           }
         ]
       },
@@ -106379,6 +106403,10 @@
           {
             "sentence": "'''Къэсэгъэк1ухьэ''' чъыгыхэр",
             "translation": "'''I circle''' the trees."
+          },
+          {
+            "sentence": "Къалэр дэпкъык1э '''къэгъэк1ухьагъ'''",
+            "translation": "The city '''is surrounded''' by a wall."
           }
         ]
       }
