@@ -10212,7 +10212,7 @@
     "to show": "къэгъэлъэгъон; егъэлъэгъун (to show someone)"
   },
   {
-    "to wait": "пэплъэн; ежэн; зыпэгъэплъэн / къызпэгъэплъэн (to make someone wait for oneself); пэсын (to wait expecting something or someone)"
+    "to wait": "пэплъэн; ежэн; зыпэгъэплъэн / къызпэгъэплъэн (to make someone wait for oneself); пэсын (to wait expecting something or someone); пэгъэплъэн (to make someone wait)"
   },
   {
     "travel guide": "гъогурыгъуазэ"

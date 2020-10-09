@@ -48368,6 +48368,10 @@
 		  {
             "sentence": "Саусырыр къэк1ощтышъ, нек1о фылымыр тымыублэу '''тыпэжъугъаплъ'''",
             "translation": "Because Sawser will come, '''let's wait for him''' without starting the film."
+          },
+		  {
+            "sentence": "Цыхьэ умыш1ыгу, нек1о '''тыпэгъаплъи''' хъурэм теплъыщт",
+            "translation": "Do not trust, '''let's wait''' and see what will happpen."
           }
         ]
       }
@@ -48377,6 +48381,27 @@
     ],
     "type": "verb",
     "ipa": "papɬan"
+  },
+  {
+    "word": "пэгъэплъэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to make someone wait",
+        "examples": [
+		  {
+            "sentence": "К1алэм '''сызпигъэплъагъ''' щыгъын щилъэфэ",
+            "translation": "The boy '''made me wait for him''' until he wore clothes."
+          },
+		  {
+            "sentence": "Цыхьэ умыш1ыгу, нек1о '''тыпэгъаплъи''' хъурэм теплъыщт",
+            "translation": "Do not trust, '''let's wait''' and see what will happpen."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "paʁapɬan"
   },
   {
     "word": "гъогурыгъуазэ",
@@ -48735,6 +48760,10 @@
           {
             "sentence": "К1алэмэ яджанэ дахэхэр '''щалъэх'''",
             "translation": "The boys '''are wearing''' their beautiful clothes."
+          },
+		  {
+            "sentence": "К1алэм сызпигъэплъагъ щыгъын '''щилъэфэ'''",
+            "translation": "The boy made me wait for him '''until he wore''' clothes."
           }
         ]
       }
@@ -71823,6 +71852,10 @@
           {
             "sentence": "хы ч1эгъым гъэш1эгъоныхэр '''ч1эхъухьэх'''",
             "translation": "Odd stuff '''happen''' under the sea."
+          },
+		  {
+            "sentence": "цыхьэ сыш1ыгъэп, зыгорэ '''зэрэхъущтыр''' сыш1агъ",
+            "translation": "I did not trust, I knew something '''was going to happened'''"
           }
         ]
       },
@@ -98051,8 +98084,28 @@
             "translation": "'''I am trusting'''."
           },
 		  {
+            "sentence": "'''Цыхьэ умыш1ыгу''', нек1о тыпэгъаплъи хъурэм теплъыщт",
+            "translation": "'''Do not trust''', let's wait and see what will happpen."
+          },
+		  {
+            "sentence": "Сэ '''цыхьэ сэш1ы''' укъэк1онэу",
+            "translation": "'''I am trusting''' that you will come."
+          },
+		  {
+            "sentence": "Сэ '''цыхьэ сыш1ырэп''' укъэк1онэу",
+            "translation": "'''I am not trusting''' that you will come."
+          },
+		  {
+            "sentence": "'''Цыхьэ сыш1ыгъэп''', зыгорэ зэрэхъущтыр сыш1агъ",
+            "translation": "'''I did not trust''', I knew something was going to happened"
+          },
+		  {
             "sentence": "Сэ '''цыхьэ сэш1ы''' к1алэр иуахътэ къэсынэу",
             "translation": "'''I am trusting''' that the boy will come in time."
+          },
+          {
+            "sentence": "Пшъашъэм '''цыхьэ Феш1ы''' к1алэм ахъщэ къыфихьнэу",
+            "translation": "The girl '''trusts''' the boy to bring money for her."
           }
         ]
       }
@@ -98078,8 +98131,12 @@
             "sentence": "'''Цыхьэ къыпФэсэш1ы'''",
             "translation": "'''I trust you.'''"
           },
+		  {
+            "sentence": "О '''цыхьэ зыфэпш1ышъурэп''', ар тыш1эу таущтэу '''ц1ыхьэ къыпфэтш1ынэу''' уфай?",
+            "translation": "'''You cannot trust yourself''', knowing that, how '''can we trust you'''?"
+          },
           {
-            "sentence": "Пшъашъэм '''цыхьэ Феш1ы''' к1алэм ахъчэ къыфихьнэу",
+            "sentence": "Пшъашъэм '''цыхьэ Феш1ы''' к1алэм ахъщэ къыфихьнэу",
             "translation": "The girl '''trusts''' the boy to bring money for her."
           },
           {
