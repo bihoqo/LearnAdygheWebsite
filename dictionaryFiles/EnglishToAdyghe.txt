@@ -16249,6 +16249,9 @@
     "to combine": "зэхэхьан (to be combined); зэхэгъэхьан; зэгогъэхьан"
   },
   {
+    "to group": "зэхэхьан (to come together to form a group); зэхэгъэхьан (to put together to form a group)"
+  },
+  {
     "to fuse": "зэхэхьан (to be fused); зэхэгъэхьан; зэхэк1ок1эн"
   },
   {

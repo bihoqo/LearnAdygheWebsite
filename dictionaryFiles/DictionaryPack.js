@@ -74503,6 +74503,10 @@
 		  {
             "sentence": "Классымк1э, сигъусэ къи1ощтыгъэр ымыш1эжьэу сыкъигъэук1ытэжьыгъ '''зэк1эм''' ыпашъхьэк1э",
             "translation": "In class, my partner forgot what he was going to say and he made me embarrassed in front of '''everyone'''."
+          },
+		  {
+            "sentence": "1офэу си1э '''зэк1эр''' зэхэхьагъ",
+            "translation": "'''All''' the work I had added up."
           }
         ]
       }
@@ -98751,15 +98755,32 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be combined; to be added together; to be fused; to be merged",
-        "examples": []
+        "meaning": "to be combined; to be added together; to be fused; to be merged; to group (to come together to form a group)",
+        "examples": [
+		  {
+            "sentence": "Гъожьырэ шхъуант1эрэ '''зэхахьэмэ''' уцышъо къек1ы",
+            "translation": "If yellow and blue '''are combined''' it turns into green."
+          },
+		  {
+            "sentence": "Купит1ур '''зэхэхьагъэх'''",
+            "translation": "The two groups '''grouped together'''."
+          },
+		  {
+            "sentence": "Чэмхэмрэ мэлхэмрэ '''зэхэхьагъэх'''",
+            "translation": "The cows and sheeps '''grouped'''."
+          },
+		  {
+            "sentence": "Псырэ электрикрэ хъущтэп '''зэхэхьэхэу'''",
+            "translation": "Water and electric '''should not be''' combined."
+          },
+		  {
+            "sentence": "1офэу си1э зэк1эр '''зэхэхьагъ'''",
+            "translation": "All the work I had '''added up'''."
+          }
+        ]
       },
 	  {
         "meaning": "to shrink",
-        "examples": []
-      },
-	  {
-        "meaning": "to group together",
         "examples": []
       }
     ],
@@ -98771,34 +98792,32 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to combine; to add together; to fuse; to merge",
+        "meaning": "to combine; to add together; to fuse; to merge; to group (to put together to form a group)",
         "examples": [
           {
-            "sentence": "Гъуанэм '''ипшын'''",
-            "translation": "'''To get it through''' the hole."
+            "sentence": "Ц1ыфы горэхэмэ як1ас щэрэ щаерэ '''зэхагъэхьаныхэр'''",
+            "translation": "Some people like '''combining''' ."
+          },
+		  {
+            "sentence": "Ахъщэу у1ыгъэмрэ сы1ыгъэмрэ '''зэхэзгъахьэмэ''' мин горэ мэхъу",
+            "translation": "'''When I combine''' the money you have and I have, it is thousand."
+          },
+		  {
+            "sentence": "1анэмрэ пхъэнт1эк1умрэ '''зэхэбгъахьэмэ''' шъипл1 иуасэу къек1ы",
+            "translation": "'''If you add''' the price of table and the chair, it turns out to be four hundred."
+          },
+		  {
+            "sentence": "Чэмхэмрэ мэлхэмрэ '''зэхэгъахьэх'''",
+            "translation": "'''Group''' the cows and sheeps."
+          },
+		  {
+            "sentence": "Гъожьырэ шхъуант1эрэ '''зэхэбгъахьэмэ''' уцышъо къик1ыщт",
+            "translation": "If '''you combine''' yellow and blue, it turns into green."
           }
         ]
       },
 	  {
-        "meaning": "to shrink something",
-        "examples": [
-          {
-            "sentence": "Гъуанэм '''ипшын'''",
-            "translation": "'''To get it through''' the hole."
-          }
-        ]
-      },
-	  {
-        "meaning": "to squeeze together, to shrink, to contract; to squint ",
-        "examples": [
-          {
-            "sentence": "Гъуанэм '''ипшын'''",
-            "translation": "'''To get it through''' the hole."
-          }
-        ]
-      },
-	  {
-        "meaning": "to group people/stuff together",
+        "meaning": "to squeeze together, to shrink, to contract; to squint",
         "examples": []
       }
     ],
