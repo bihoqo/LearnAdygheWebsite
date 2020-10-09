@@ -4284,13 +4284,13 @@
     "to outfit": "зэгъэпэшын"
   },
   {
-    "to prepare": "гъэхьазырын / гъэухьазырын (to prepare something); зыгъэхьазырын (to get prepared); фэгъэхьазырын (to prepare for); зыфэгъэхьазырын (to prepare oneself for, to get prepared for)"
+    "to prepare": "гъэхьазырын / гъэухьазырын (to prepare something); зыгъэхьазырын / зыгъэухьазырын (to get prepared); фэгъэхьазырын (to prepare for); зыфэгъэхьазырын (to prepare oneself for, to get prepared for)"
   },
   {
     "to get ready": "гъэхьазырын / гъэухьазырын (to prepare something); зыгъэхьазырын / зыгъэухьазырын (to get prepared); фэгъэхьазырын (to prepare for); зыфэгъэхьазырын (to prepare oneself for, to get prepared for)"
   },
   {
-    "to get prepared": "зыгъэхьазырын; зыфэгъэхьазырын (to prepare oneself for, )"
+    "to get prepared": "зыгъэхьазырын / зыгъэухьазырын; зыфэгъэхьазырын (to prepare oneself for, )"
   },
   
   {
