@@ -21103,7 +21103,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "satisfied, pleased",
+        "meaning": "satisfied, pleased, contented",
         "examples": [
           {
             "sentence": "1офэу сыш1агъэмк1э '''ураза'''?",
@@ -22877,6 +22877,10 @@
 		  {
             "sentence": "К1алэм '''ш1оптыгъугъа''' мыр?",
             "translation": "'''Did you steal''' this from the boy?"
+          },
+		  {
+            "sentence": "К1алэр насыпынчъэу къаубытыгъ '''ытыгъоу'''",
+            "translation": "The boy got caught '''stealing''' lucklessly."
           }
         ]
       }
@@ -27430,7 +27434,6 @@
       {
         "meaning": "toy",
         "examples": [
-          ,
           {
             "sentence": "К1алэм '''джэгуалъэр''' естыгъагъэпи зигъэгусагъ",
             "translation": "Because I haven't given '''the toy''' to the boy, he sulked."
@@ -36939,7 +36942,7 @@
         ]
       },
       {
-        "meaning": "to attempt, to try",
+        "meaning": "to attempt, to try (to do something)",
         "examples": [
           {
             "sentence": "л1ыжъыр к1он '''е1о'''",
@@ -41095,7 +41098,7 @@
     "ipa": "daːʁʷa"
   },
   {
-    "word": "ныкъо-тыркъу",
+    "word": "ныкъо-тыкъу",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -41616,36 +41619,120 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to spoil",
-        "examples": [
-          {
-            "sentence": "Щэр '''ухъуагъэ'''",
-            "translation": "The milk '''got spoiled'''."
-          },
-		  {
-            "sentence": "К1алэм планыр '''ыухъуагъ'''",
-            "translation": "The boy '''spoiled''' the plan."
-          },
-		  {
-            "sentence": "К1алэм фылымыр '''къэсш1уиухъуагъ'''",
-            "translation": "The boy '''spoiled''' the movie '''to me'''."
-          },
-		  {
-            "sentence": "Сэнэпсыр '''ухъуагъ'''",
-            "translation": "The wine '''is spoiled'''."
-          }
-        ]
+        "meaning": "alternative form of \"укъон\"",
+        "examples": []
       }
     ],
     "type": "verb",
     "ipa": "wəχʷan"
   },
   {
+    "word": "зэщыгъэкъон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to spoil, to ruin, to mar, to damage",
+        "examples": [
+          {
+            "sentence": "Пыим исатырхэр '''зэщыбгъэкъон'''",
+            "translation": "'''To ruin''' the enemy's format."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaɕəʁaqʷan"
+  },
+  {
+    "word": "укъон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to spoil, to ruin, to mar, to damage",
+        "examples": [
+          {
+            "sentence": "Щэр '''укъуагъэ'''",
+            "translation": "The milk '''got spoiled'''."
+          },
+		  {
+            "sentence": "К1алэм планыр '''ыукъуагъ'''",
+            "translation": "The boy '''spoiled''' the plan."
+          },
+		  {
+            "sentence": "К1алэм фылымыр '''къэсш1уикхъуагъ'''",
+            "translation": "The boy '''spoiled''' the movie '''to me'''."
+          },
+		  {
+            "sentence": "Сэнэпсыр '''укъуагъ'''",
+            "translation": "The wine '''is spoiled'''."
+          },
+		  {
+            "sentence": "Сычъые '''укъуагъ'''",
+            "translation": "The sleep '''is spoiled'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "to change/break (money for lesser units)",
+        "examples": [
+          {
+            "sentence": "Мы шъэ доларыр '''къэсфаукъу''' шъэныкъо шъэныкъоу",
+            "translation": "'''Change''' this hundred dollars to fifty fifty."
+          },
+		  {
+            "sentence": "К1алэм зы доларыр ахъщэ жъгъэихэу '''еукъо'''",
+            "translation": "The boy '''breaks''' one dollar into coins."
+          },
+		  {
+            "sentence": "Ахъщэр тучанымк1э '''къагъэукъу'''",
+            "translation": "'''Make them break''' the money in the shop."
+          }
+        ]
+      }
+    ],
+    "shapsug": "ухъон",
+    "type": "verb",
+    "ipa": "wəqʷan"
+  },
+  {
+    "word": "ужъгъэин",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to change/break (money for lesser units)",
+        "examples": [
+          {
+            "sentence": "Мы шъэ доларыр '''къэсфэужъгъэй''' шъэныкъо шъэныкъоу",
+            "translation": "'''Change''' this hundred dollars to fifty fifty."
+          },
+		  {
+            "sentence": "К1алэм зы доларыр ахъщэ жъгъэихэу '''еужъгъэи'''",
+            "translation": "The boy '''breaks''' one dollar into coins."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "wʐʁajən"
+  },
+  {
     "word": "ш1оухъон",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to spoil something for someone",
+        "meaning": "alternative form of \"ш1оукъон\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʃʷʼawχʷan"
+  },
+  {
+    "word": "ш1оукъон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to spoil something for someone; to ruin something for someone",
         "examples": [
           {
             "sentence": "К1алэм сиплан '''къэсш1уиухъуагъ'''",
@@ -41662,15 +41749,28 @@
         ]
       }
     ],
+    "shapsug": "ш1оухъон",
     "type": "verb",
-    "ipa": "ʃʷʼawχʷan"
+    "ipa": "ʃʷʼawqʷan"
   },
   {
     "word": "ш1огъэухъон",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to spoil something for someone",
+        "meaning": "alternative form of \"ш1огъэукъон\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʃʷʼaʁawχʷan"
+  },
+  {
+    "word": "ш1огъэукъон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to spoil something for someone; to ruin something for someone",
         "examples": [
           {
             "sentence": "К1алэм сиплан '''къэсш1уигъэухъуагъ'''",
@@ -41687,8 +41787,9 @@
         ]
       }
     ],
+    "shapsug": "ш1огъэухъон",
     "type": "verb",
-    "ipa": "ʃʷʼaʁawχʷan"
+    "ipa": "ʃʷʼaʁawqʷan"
   },
   {
     "word": "ш1огъэон",
@@ -52581,31 +52682,23 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be pleased; to get along (more specifically: to get satisfied/sufficed with the situation)",
+        "meaning": "to settle down",
         "examples": [
           {
-            "sentence": "К1алэр унэм '''зэгъэу''' исэп",
-            "translation": "The boy '''doesn't get along''' in the house."
-          },
-          {
             "sentence": "К1алэр '''мэзагъэ'''",
-            "translation": "The boy '''is getting along'''."
+            "translation": "The '''settles down'''."
+          },
+		  {
+            "sentence": "К1алэр '''загъэ'''",
+            "translation": "The '''settled down'''."
           },
           {
             "sentence": "К1алэр '''загъэрэп'''",
-            "translation": "The boy '''is not satisfied'''."
-          },
-		  {
-            "sentence": "Сыд, '''узагъэрэба?'''",
-            "translation": "What? '''aren't you getting satisfied?'''"
+            "translation": "The boy '''doens't settle down'''."
           },
           {
-            "sentence": "К1алэр пхъэнт1эк1ум '''загъэу''' исэп",
-            "translation": "The boy is not sitting '''pleased''' in the chair."
-          },
-          {
-            "sentence": "Шыр '''загъэрэп'''",
-            "translation": "The horse '''is not pleased'''"
+            "sentence": "К1алэр '''къыбгъэзэгъэшъурэба'''?",
+            "translation": "'''Can't you make''' the boy '''settle down'''?"
           }
         ]
       }
@@ -52614,13 +52707,62 @@
     "ipa": "zaʁan"
   },
   {
+    "word": "рэзэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to be pleased; to be satisfied; to be contented",
+        "examples": [
+          {
+            "sentence": "К1алэр унэм '''рэзагъэу''' исэп",
+            "translation": "The boy in the house '''not pleased'''."
+          },
+          {
+            "sentence": "К1алэр '''рэзагъэ'''",
+            "translation": "The boy '''contented'''."
+          },
+          {
+            "sentence": "К1алэр '''мэразэ'''",
+            "translation": "The boy '''is being contented'''."
+          },
+          {
+            "sentence": "К1алэр '''рэзагъэрэп'''",
+            "translation": "The boy '''is not getting satisfied'''."
+          },
+		  {
+            "sentence": "Сыд, '''уразэрэба?'''",
+            "translation": "What? '''aren't you getting satisfied?'''"
+          },
+          {
+            "sentence": "К1алэр пхъэнт1эк1ум '''рэзагъэу''' исэп",
+            "translation": "The boy is not sitting '''pleased''' in the chair."
+          },
+          {
+            "sentence": "Шыр '''рэзагъэрэп'''",
+            "translation": "The horse '''is not pleased'''"
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "razan"
+  },
+  {
     "word": "езэгъын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to get along with; to deal okayly with; to be fine with; to be okay with; to be pleased with (more specifically: to be satisfied/sufficed with)",
+        "meaning": "to get along with; to cope with; to deal okayly with; to be fine with; to be okay with; to be pleased with (more specifically: to be sufficed with)",
         "examples": [
           {
+            "sentence": "Уэтэ закъом '''сезэгъыщт'''",
+            "translation": "'''I will be sufficed with''' the hammer alone."
+          },
+		  {
+            "sentence": "Лэжьэк1уищым '''сезэгъыщт'''",
+            "translation": "'''I will be sufficed with''' three workers."
+          },
+		  {
             "sentence": "К1алэр унэм '''изагъэрэп'''",
             "translation": "The boy '''doesn't get along inside''' the house."
           },
@@ -52647,6 +52789,10 @@
           {
             "sentence": "'''Зегъэзыгъ''' къыуатыгъэм",
             "translation": "'''Be pleased with''' what you got."
+          },
+          {
+            "sentence": "Бзэмы1у ц1ыфыхэмэ '''ахэзагъэрэп''' тэрэзэу гущы1эшъурэпи",
+            "translation": "The dumb '''does not getting along''' with the people because he cannot talk correctly."
           }
         ]
       }
@@ -52975,8 +53121,25 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"къэ1ун\"",
+        "meaning": "to be heard; alternative form of \"къэ1ун\"",
         "examples": []
+      },
+	  {
+        "meaning": "nail (iron, wood)",
+        "examples": [
+          {
+            "sentence": "'''Гъуч1ы1ун'''",
+            "translation": "Iron nail."
+          },
+		  {
+            "sentence": "'''Пхъэ1ун'''",
+            "translation": "Wooden nail."
+          },
+		  {
+            "sentence": "'''Шъхьэхэ1у'''",
+            "translation": "Pair-pin."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -81864,6 +82027,10 @@
           {
             "sentence": "Зыгорэ къызэбгъэплъи '''къызэбгъэ1эзагъа'''?",
             "translation": "Did you let anybody look at you and '''treat you'''?"
+          },
+		  {
+            "sentence": "Медикыр 1ашэнчъэу заом хахьэ ц1ыфымэ '''а1эзэнэу'''",
+            "translation": "The medic enters the war armless '''to treat''' people."
           }
         ]
       }
@@ -90017,7 +90184,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to sulk; to express offence by remaining sullenly silent or withdrawn",
+        "meaning": "to sulk; to pout; to express offence by remaining sullenly silent or withdrawn",
         "examples": [
           {
             "sentence": "К1элэц1ык1ум '''зегъэгусэ''' ыянэ 1эш1ухэр къыритхэрэпи ары",
@@ -90034,6 +90201,10 @@
           {
             "sentence": "'''Зымыгъэгус''', ори уичэзыу къэсыщт",
             "translation": "'''Don't sulk''', your turn will arrive."
+          },
+		  {
+            "sentence": "К1алэм шъхьак1о рахыгъэти, '''зигъэгусагъ'''",
+            "translation": "Because they humiliated the boy, '''he sulked'''."
           }
         ]
       }
@@ -95319,6 +95490,10 @@
 		  {
             "sentence": "Шхъогъуалым къин ехъу ылъэгъумэ зыгорэм ш1угъо '''къехъул1эу'''",
             "translation": "An envious person suffers when (s)he sees something fortunate '''happens''' to someone."
+          },
+		  {
+            "sentence": "К1алэм инасыпынчъагъэк1э 1аер '''къехъул1агъ'''",
+            "translation": "The awful thing '''happened to''' the boy with his lucklessness."
           }
         ]
       }
@@ -95777,7 +95952,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to tie up someone or something, to secure with rope, string, etc",
+        "meaning": "to tie up someone or something",
         "examples": [
           {
             "sentence": "Къутэр гъуч1ычк1э '''зэтепхагъ'''",
@@ -95811,6 +95986,14 @@
           {
             "sentence": "Къутэр '''гъуч1ычк1э''' зэтепхагъ",
             "translation": "The box is tied '''with a wire'''."
+          },
+		  {
+            "sentence": "'''Гъуч1ычыр''' к1апсэ гъуч1ык1э зэхэш1ык1ыгъэу",
+            "translation": "'''A wire''' is a rope that is made of iron."
+          },
+		  {
+            "sentence": "Хьапсыр '''гъуч1ычк1э''' къэгъэк1ухьагъ",
+            "translation": "The prison is surrounded '''by wires'''."
           }
         ]
       }
@@ -95873,12 +96056,41 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "nail",
-        "examples": []
+        "meaning": "nail (iron)",
+        "examples": [
+          {
+            "sentence": "'''Гъуч1ы1унит1ук1э''' пхъэмбгъур л1ым хе1ул1э",
+            "translation": "The man nails the board with '''two nails'''."
+          },
+		  {
+            "sentence": "'''Гъуч1ы1унэр''' пхъэмбгъум хэулъыихьагъ'''",
+            "translation": "'''The nail''' rusted in the board."
+          },
+		  {
+            "sentence": "'''Гъуч1ы1унэ''' пхъэм к1алэм дэгъоу тегъэпытэхьагъ",
+            "translation": "The boy fixed '''the nail''' good on the wood."
+          },
+		  {
+            "sentence": "Л1ым '''гъуч1ы1унэр''' дэпкъым хе1о",
+            "translation": "The man drives '''the nail''' into the wall."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "ʁʷət͡ʂʼəʔʷəna"
+  },
+  {
+    "word": "шъхьэхэ1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "hair-pin",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʂħaxaʔʷ"
   },
   {
     "word": "ц1энлъэгъо",
@@ -96392,21 +96604,6 @@
     "ipa": "qaħwa"
   },
   {
-    "word": "шъэгьашъ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"шъэджашъ\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "шъэджашъ"
-    ],
-    "type": "adj",
-    "ipa": "ʂaɡʲaːʂ"
-  },
-  {
     "word": "зэуак1о",
     "lang": "Adyghe",
     "definitions": [
@@ -96882,7 +97079,16 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "complete",
+        "meaning": "adult",
+        "examples": [
+          {
+            "sentence": "Л1ы '''икъугъэ'''",
+            "translation": "An '''adult''' man."
+          }
+        ]
+      },
+	  {
+        "meaning": "complete; alternative form of \"игъэкъугъэ\"",
         "examples": []
       }
     ],
@@ -96903,24 +97109,81 @@
     "ipa": "psaːwa"
   },
   {
+    "word": "псау",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"псэу\"",
+        "examples": []
+      }
+    ],
+    "kabardian": "псо",
+    "type": "adj",
+    "ipa": "psaːwa"
+  },
+  
+  {
+    "word": "шъхьак1о ехын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to humiliate, to abase, to insult, to offend",
+        "examples": [
+          {
+            "sentence": "К1алэм '''шъхьак1о''' л1ыжъым '''рихыгъ'''",
+            "translation": "The boy '''insulted''' the old-man."
+          },
+		  {
+            "sentence": "К1алэм '''шъхьак1о рахыгъэти''', зигъэгусагъ",
+            "translation": "Because '''they humiliated''' the boy, he sulked."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʂħaːkʷʼa jaxən"
+  },
+  {
+    "word": "ушъхьак1ун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to humiliate, to abase, to insult, to offend",
+        "examples": [
+          {
+            "sentence": "К1алэм '''ыушъхьак1угъ''' л1ыжъыр",
+            "translation": "The boy '''insulted''' the old-man."
+          },
+		  {
+            "sentence": "К1алэм '''къаушъхьак1ути''', зигъэгусагъ",
+            "translation": "Because '''they humiliated''' the boy, he sulked."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʂħaːkʷʼən"
+  },
+  {
     "word": "шъхьак1о",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "grievance",
-        "examples": []
-      },
-      {
-        "meaning": "unfortunate problem",
-        "examples": []
-      },
-      {
-        "meaning": "humiliation",
-        "examples": []
-      },
-      {
-        "meaning": "offense",
-        "examples": []
+        "meaning": "indignity, humiliation, insult, offence, an affront to one's dignity or pride",
+        "examples": [
+          {
+            "sentence": "К1алэм '''шъхьак1о''' л1ыжъым рихыгъ",
+            "translation": "The boy '''insulted''' the old-man."
+          },
+		  {
+            "sentence": "К1алэм '''шъхьак1о''' рахыгъэти, зигъэгусагъ",
+            "translation": "Because '''they humiliated''' the boy, he sulked."
+          },
+		  {
+            "sentence": "Куджаным '''шъхьак1о''' щыш1ыгъ",
+            "translation": "Kujan experienced '''offence'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -96953,28 +97216,66 @@
     "definitions": [
       {
         "meaning": "to break-promise, to violate (an oath, promise, agreement)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр л1ым '''епц1ыжьыгъ'''",
+            "translation": "The boy '''broked his promise''' with the man."
+          }
+        ]
+      },
+	  {
+        "meaning": "to betray",
+        "examples": [
+		  {
+            "sentence": "К1алэм ыныбжьэгъум '''епц1ыжьыгъ'''",
+            "translation": "The boy '''betrayed''' his friend."
+          },
+		  {
+            "sentence": "Хэкум '''епц1ыжьын''', лъэпкъым '''епц1ыжьын'''",
+            "translation": "'''To betray''' the land, '''to betray''' the nation."
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "japt͡sʼəʑən"
   },
   {
+    "word": "мыгъэцэк1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to unfulfill; to violate",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʁat͡sat͡ʃʼan"
+  },
+  {
+    "word": "къумалыгъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "betrayal",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "qʷəmaːɮəʁ"
+  },
+  {
     "word": "ш1оигъоджэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to dislike greatly, to detest",
+        "meaning": "to dislike greatly, to detest, to not want",
         "examples": [
           {
             "sentence": "Саусырыкъо зэрэк1эмыхьагъэр лъэшэу '''ш1оигъоджагъ'''",
             "translation": "Sosruko really '''disliked''' the fact that he didn't catch up with him."
           }
         ]
-      },
-      {
-        "meaning": "to not want",
-        "examples": []
       }
     ],
     "type": "verb",
@@ -96985,17 +97286,25 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be suitable for",
+        "meaning": "to fit; to be suitable for",
         "examples": [
           {
-            "sentence": "Пшъашъэм цуакъэхэр '''фэш1ун'''",
+            "sentence": "Пшъашъэм цуакъэхэр '''фэш1ух'''",
             "translation": "The shoes '''fit''' the girl."
           },
           {
             "sentence": "Джанэ ц1ык1ур пщэрым '''фэш1урэп'''",
-            "translation": "The tiny shirt '''is not suitable''' for the fat one."
+            "translation": "The tiny shirt '''does not fit''' for the fat one."
+          },
+          {
+            "sentence": "Мы цуакъэр '''къэсфэш1урэп'''",
+            "translation": "This shoe '''does not fit me'''."
           }
         ]
+      },
+	  {
+        "meaning": "to have a friendly attitude towards someone",
+        "examples": []
       }
     ],
     "kabardian": "хуэф1",
@@ -97010,8 +97319,16 @@
         "meaning": "fit",
         "examples": [
           {
-            "sentence": "Пшъашъэм цуакъэр '''фэш1у'''",
+            "sentence": "Пшъашъэм цуакъэхэр '''фэш1ух'''",
             "translation": "The shoes '''fit''' the girl."
+          },
+          {
+            "sentence": "Джанэ ц1ык1ур пщэрым '''фэш1урэп'''",
+            "translation": "The tiny shirt '''does not fit''' for the fat one."
+          },
+          {
+            "sentence": "Мы цуакъэр '''къэсфэш1урэп'''",
+            "translation": "This shoe '''does not fit me'''."
           }
         ]
       }
@@ -97033,26 +97350,20 @@
     "ipa": "pt͡ʃʷəm"
   },
   {
-    "word": "к1ьыин",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"к1ыин\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "kʲʼəjən"
-  },
-  {
     "word": "одыджын",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "bell",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''одыджыным''' еуагъ",
+            "translation": "The boy rang '''the bell'''."
+          }
+        ]
       }
     ],
+    "shapsug": "одыгьын",
     "type": "noun",
     "ipa": "wadəd͡ʒən"
   },
@@ -97064,7 +97375,7 @@
         "meaning": "structure",
         "examples": [
           {
-            "sentence": "гущыIэухыгъэм '''игъэпсыкI'''",
+            "sentence": "гущы1эухыгъэм '''игъэпсыкI'''",
             "translation": "'''The structure of''' the sentence."
           }
         ]
@@ -97078,15 +97389,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "ill-starred; ill-fated; unfortunate",
-        "examples": []
-      },
-      {
-        "meaning": "unlucky, luckless",
+        "meaning": "unlucky, luckless; ill-starred; ill-fated; unfortunate",
         "examples": [
           {
-            "sentence": "ЦIыф '''насыпынчъ'''",
+            "sentence": "Ц1ыф '''насыпынчъ'''",
             "translation": "'''Unlucky''' person."
+          },
+		  {
+            "sentence": "К1алэм '''инасыпынчъагъэк1э''' 1аер къехъул1агъ",
+            "translation": "The awful thing happened to the boy with his '''lucklessness'''."
+          },
+		  {
+            "sentence": "К1алэр '''насыпынчъэу''' къаубытыгъ ытыгъоу",
+            "translation": "The boy got caught stealing '''lucklessly'''."
           }
         ]
       }
@@ -97120,8 +97435,12 @@
         "meaning": "armless, one that has no arms / weapons.",
         "examples": [
           {
-            "sentence": "Дзак1охэр '''1ашэнчъэу''' зэуап1эм къыщаук1ыгъых",
-            "translation": "The soldiers were killed in the battle field '''while being armless'''."
+            "sentence": "Дзак1охэр '''1ашэнчъэу''' зэуап1эм къыщаук1ыгъэх",
+            "translation": "The soldiers '''armlessly''' were killed in the battle field."
+          },
+		  {
+            "sentence": "Медикыр '''1ашэнчъэу''' заом хахьэ ц1ыфымэ а1эзэнэу",
+            "translation": "The medic enters the war '''armless''' to treat people."
           }
         ]
       }
@@ -97137,7 +97456,7 @@
         "meaning": "weak, fragile (usually said about humans and living things)",
         "examples": [
           {
-            "sentence": "Ар узым '''къарыунчъэ''' ышIыгъ",
+            "sentence": "Ар узым '''къарыунчъэ''' ыш1ыгъ",
             "translation": "The illness made him '''fragile'''."
           },
           {
@@ -97176,12 +97495,7 @@
     "definitions": [
       {
         "meaning": "to reproach, to upbraid, to blame",
-        "examples": [
-          {
-            "sentence": "КIалэм лIыжъыр '''егыин''' фаеу зекIуагъэ.",
-            "translation": "The man had '''to reproach''' the boy."
-          }
-        ]
+        "examples": []
       }
     ],
     "type": "verb",
@@ -100614,38 +100928,6 @@
     ],
     "type": "verb",
     "ipa": "ɡʷawtən"
-  },
-  {
-    "word": "шъхьак1о ехын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to humiliate, to abase",
-        "examples": []
-      },
-      {
-        "meaning": "to offend",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "ʂħaːkʷʼa jaxən"
-  },
-  {
-    "word": "шъхьак1ун",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to humiliate",
-        "examples": []
-      },
-      {
-        "meaning": "to offend",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "ʂħaːkʷʼən"
   },
   {
     "word": "щытхъу",
@@ -104808,7 +105090,7 @@
         "meaning": "to fix something forcefully upon",
         "examples": [
           {
-            "sentence": "Гъуч1ы1унэ пхъэм к1алэм дэгъоу '''тегъэпытахьагъ'''",
+            "sentence": "Гъуч1ы1унэ пхъэм к1алэм дэгъоу '''тегъэпытэхьагъ'''",
             "translation": "The boy '''fixed''' the nail good on the wood."
           }
         ]
@@ -105228,7 +105510,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be pleased with",
+        "meaning": "to be pleased with; to be contented with; to be satisfied with",
         "examples": []
       }
     ],
@@ -106492,6 +106774,10 @@
           {
             "sentence": "Къалэр дэпкъык1э '''къэгъэк1ухьагъ'''",
             "translation": "The city '''is surrounded''' by a wall."
+          },
+		  {
+            "sentence": "Хьапсыр гъуч1ычк1э '''къэгъэк1ухьагъ'''",
+            "translation": "The prison '''is surrounded''' by wires."
           }
         ]
       }
@@ -110178,7 +110464,7 @@
       }
     ],
     "synonyms": [
-      "плъэк1ун"
+      "уплъэк1ун"
     ],
     "type": "verb",
     "ipa": "wəʃatən"
@@ -115795,5 +116081,17 @@
     ]
     "type": "verb",
     "ipa": "zaɡʷat͡ʃən"
+  },
+  {
+    "word": "ныкъо-тыркъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"ныкъо-тыкъу\"",
+        "examples": []
+      }
+    ]
+    "type": "adj",
+    "ipa": "nəqʷa-təкqʷ"
   }
 ]

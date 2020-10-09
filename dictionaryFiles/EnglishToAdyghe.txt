@@ -2145,7 +2145,7 @@
     "to get offended": "гухэк1ын; гу къеон"
   },
   {
-    "to offend": "ыгу хэгъэк1ын; шъхьак1о ехын; шъхьак1ун; егъэчъэхын (to speak bad about someone)"
+    "to offend": "ыгу хэгъэк1ын; шъхьак1о ехын; ушъхьак1ун; егъэчъэхын (to speak bad about someone)"
   },
   {
     "to disgrace": "хьайнапэу ш1ын; напэ техын (ынапэ техын)"
@@ -2319,10 +2319,10 @@
     "to slide down": "ечъэхын (to slide down); егъэчъэхын (to slide someone or something down); ец1эшъутэхын (to slide down on a slippery surface); егъэц1эшъутэхын (to slide someone or something down on a slippery surface); ецохъохын (to slide down on a rough surface); егъэцохъохын (to slide someone or something down on a rough surface)"
   },
   {
-    "to insult": "ушъхьэк1ун; шъхьак1о ехын; егъэчъэхын (to insult someone and hurt its reputation); 1аеу дэгущы1эн (to speak with someone badly, to speak ill with someone)"
+    "to insult": "ушъхьак1ун; шъхьак1о ехын; егъэчъэхын (to insult someone and hurt its reputation); 1аеу дэгущы1эн (to speak with someone badly, to speak ill with someone)"
   },
   {
-    "to offend": "ыгу хэгъэк1ын; шъхьак1о ехын"
+    "to offend": "ыгу хэгъэк1ын; ушъхьак1ун; шъхьак1о ехын"
   },
   {
     "basalt": "мыжъодэбыш"
@@ -2802,7 +2802,7 @@
     "to replace": "зэблэхъун"
   },
   {
-    "to change": "зэхъок1ын (to change; to alter); зэблэхъун (to replace; to change to something else)"
+    "to change": "зэхъок1ын (to change; to alter); зэблэхъун (to replace; to change to something else); укъон (to change money for lesser units)"
   },
   {
     "to alter": "зэхъок1ын"
@@ -3450,7 +3450,7 @@
     "trumpet blower": "бжъэмыяпщ"
   },
   {
-    "to be okay": "зэгъэн; езэгъыгъ (to be okay with)"
+    "to be okay": "езэгъыгъ (to be okay with)"
   },
   {
     "flutist": "бжъэмыяпщ"
@@ -4281,7 +4281,7 @@
     "to pretty up": "зэгъэфэн"
   },
   {
-    "to fit": "ек1ун; фэш1оу ш1ын (to adjust clothes to fit someone); егъэк1ун (to make it fit for someone); хэзэгъэн (to fit in a group); щыфэн / щыгъэфэн (to fit clothes); щыхьан / щыгъэхьан (to fit clothes on body); дэгъэфэн (to fit something between); хэгъэфэн (to fit something among other objects); зэтегъэфэн (to fit things on each other, to fit by arranging things such as plans, cycles and music); зэгъэк1ун (to fit things together)"
+    "to fit": "ек1ун; фэш1ун (to be suitable); фэш1оу ш1ын (to adjust clothes to fit someone); егъэк1ун (to make it fit for someone); хэзэгъэн (to fit in a group); щыфэн / щыгъэфэн (to fit clothes); щыхьан / щыгъэхьан (to fit clothes on body); дэгъэфэн (to fit something between); хэгъэфэн (to fit something among other objects); зэтегъэфэн (to fit things on each other, to fit by arranging things such as plans, cycles and music); зэгъэк1ун (to fit things together)"
   },
   {
     "to adjust": "фэш1оу пш1ыныр (to adjust to one's needs)"
@@ -4785,7 +4785,10 @@
     "to wreck": "гъэон; убэтэн; къутэн; зэхэкъутэн; зэхэкъутыхьан; зэхэубэтэн; зэхэубэтыхьан; ш1огъэон (to wreck someone's property or plan); ш1оубэтэн (to wreck/break someone's property)"
   },
   {
-    "to ruin": "гъэон (to destroy, to spoil); ухъон (to spoil); гъэсэкъатын (to make something dysfunctional); унэхъун; гъэунэхъун; зэ1ыгъэхьан (to make something dysfunctional); ш1огъэон (to ruin someone's property or plan)"
+    "to ruin": "гъэон (to destroy, to spoil); укъон / зэщыгъэкъон (to spoil, to ruin, to mar, to damage); (dialectal) ухъон; гъэсэкъатын (to make something dysfunctional); унэхъун; гъэунэхъун; зэ1ыгъэхьан (to make something dysfunctional); ш1огъэон (to ruin someone's property or plan)"
+  },
+  {
+    "to damage": "укъон / зэщыгъэкъон (to spoil, to ruin, to mar, to damage); (dialectal) ухъон; гъэсэкъатын (to make something dysfunctional); унэхъун; гъэунэхъун; зэ1ыгъэхьан (to make something dysfunctional); ш1огъэон (to ruin someone's property or plan)"
   },
   {
     "to disorder": "зэ1ыгъэхьан"
@@ -4794,7 +4797,13 @@
     "to make a mess": "зэ1ыгъэхьан"
   },
   {
-    "to spoil": "ухъон (to spoil); ш1оухъон / ш1огъэухъон (to spoil to someone); гъэон (to ruin); гъэсэхъуджэн (to make someone spoiled); ш1огъэон (to spoil to someone)"
+    "to mar": "укъон / зэщыгъэкъон (to spoil, to ruin, to mar, to damage); (dialectal) ухъон; ш1оукъон / ш1огъэукъон (to spoil to someone)"
+  },
+  {
+    "to spoil": "укъон (to spoil, to ruin, to mar, to damage); (dialectal) ухъон; ш1оукъон / ш1огъэукъон (to spoil to someone); гъэсэхъуджэн (to make someone spoiled); ш1огъэон (to spoil to someone)"
+  },
+  {
+    "to corrupt": "укъон / зэщыгъэкъон"
   },
   {
     "to play instrument": "еон; къеон"
@@ -4827,7 +4836,7 @@
     "rake": "пхъэ1эбжъан (garden tool)"
   },
   {
-    "to break": "зэпык1ын (to snap); убэтэн (to destroy); къутэн (to destroy); зэхэутын (to break down from inside); зэхэк1ын (to break and collapse); пыутын / хэутын (to break a part of something); теутын (to break a part from above something); ч1эутын (to break a part from under something); гъэсэкъатын (to make something dysfunctional); зэш1ок1ын (to break something); 1утэкъун (to break off); пыутын (to break off from); зэпыутын (to break off from itself); ш1оубэтэн (to destroy/break someone's property)"
+    "to break": "зэпык1ын (to snap); убэтэн (to destroy); къутэн (to destroy); зэхэутын (to break down from inside); зэхэк1ын (to break and collapse); пыутын / хэутын (to break a part of something); теутын (to break a part from above something); ч1эутын (to break a part from under something); гъэсэкъатын (to make something dysfunctional); зэш1ок1ын (to break something); 1утэкъун (to break off); пыутын (to break off from); зэпыутын (to break off from itself); ш1оубэтэн (to destroy/break someone's property); укъон (to change money for lesser units)"
   },
   {
     "to run over": "иутын; тепк1эн"
@@ -5305,6 +5314,9 @@
   },
   {
     "to sulk": "зыгъэгусэн"
+  },
+  {
+    "to pout": "зыгъэгусэн"
   },
   {
     "swelled": "бэгыгъэ; пщыгъэ"
@@ -7254,7 +7266,10 @@
     "to dance": "къэшъон; къеш1эн; уджын"
   },
   {
-    "to tie": "пхын (to tie); пыпхэн (to tie something to); зэтепхэн (to tie up someone or something, to secure with rope, string, etc); егъэпхын (to tie something to something); зэк1оц1ыпхэн (to tie together), зэтепхэн (to tie one to the other), зэкъодзэн (to tie up, to fasten); к1эпхэн (to tie under something)"
+    "to tie": "пхын (to tie); пыпхэн (to tie something to); зэтепхэн (to tie up someone or something with a rope, wire, string, etc); егъэпхын (to tie something to something); зэк1оц1ыпхэн (to tie together); зэкъодзэн (to tie up, to fasten); к1эпхэн (to tie under something)"
+  },
+  {
+    "hair-pin": "шъхьэхэ1у"
   },
   {
     "to chain": "пыш1эн"
@@ -8181,7 +8196,7 @@
     "to look for": "лъыхъун"
   },
   {
-    "to exchange": "хъожьын"
+    "to exchange": "хъожьын; зэблэхъун; зэхъок1ын; укъон (to change/break money for lesser units)"
   },
   {
     "itch": "хъу; хъун (to itch); хъупц1"
@@ -8403,7 +8418,7 @@
     "to buy": "щэфын"
   },
   {
-    "to tie up": "пхын; егъэпхын (to tie up something to something); зэкъодзэн; хъэн"
+    "to tie up": "пхын; егъэпхын (to tie up something to something); зэтепхэн (to tie up someone or something with a rope, wire, string, etc); зэкъодзэн; хъэн"
   },
   {
     "to bind": "зэкъодзэн; хъэн"
@@ -9819,12 +9834,6 @@
     "boot": "щазмэ"
   },
   {
-    "spike heel": "пхъэ1ун"
-  },
-  {
-    "stiletto heel": "пхъэ1ун"
-  },
-  {
     "to resole": "к1э1ул1эн"
   },
   {
@@ -10899,16 +10908,22 @@
     "to let time past": "блэгъэк1ын"
   },
   {
-    "to get along": "зэгъэн (to be getting along); езэгъын (to get along with someone); зэзэгъын (to get along with each other); хэзэгъэн (to get along among people)"
+    "to settle down": "зэгъэн"
   },
   {
-    "to be fine with": "зэгъэн (to be fine); езэгъын (to be fine with someone); зэзэгъын (to be fine with each other); хэзэгъэн (to be fine among people)"
+    "to be sufficed with": "езэгъын (to get along with someone); зэзэгъын (to be sufficed with each other); хэзэгъэн (to be sufficed among)"
   },
   {
-    "to be pleased with": "гу е1ун; зэгъэн (to be pleased); езэгъын (to be pleased with someone); зэзэгъын (to be pleased with each other); хэзэгъэн (to be pleased among people); гопэн"
+    "to get along": "езэгъын (to get along with someone); зэзэгъын (to get along with each other); хэзэгъэн (to get along among people)"
   },
   {
-    "to be enough with": "зэгъэн (to be enough); езэгъын (to be enough with someone); зэзэгъын (to be enough with each other); хэзэгъэн (to be enough among people)"
+    "to be fine with": "езэгъын (to be fine with someone); зэзэгъын (to be fine with each other); хэзэгъэн (to be fine among people)"
+  },
+  {
+    "to be pleased with": "гу е1ун; езэгъын (to be pleased with someone); зэзэгъын (to be pleased with each other); хэзэгъэн (to be pleased among people); гопэн"
+  },
+  {
+    "to be enough with": "езэгъын (to be enough with someone); зэзэгъын (to be enough with each other); хэзэгъэн (to be enough among people)"
   },
   {
     "to get angry": "губжын; фэгубжын (to get angry with); тегубжыхьан (to get angry at)"
@@ -11526,7 +11541,13 @@
     "shit": "хьай; (vulgar) цӏы; (slightly vulgar) сытец1 (expression of anger or displeasure); (vulgar) хьэе ригъаф (expresses displeasure)"
   },
   {
-    "I don't give a fuck": "(vulgar) сэп1ыс; (slang, vulgar) сэ1эт"
+    "displeasure": "рэзэджагъ; мырэзэныгъ"
+  },
+  {
+    "dissatisfaction": "рэзэджагъ; мырэзэныгъ"
+  },
+  {
+    "eat me": "сихьэе шхы; устец1"
   },
   {
     "eat me": "сихьэе шхы; устец1"
@@ -12117,10 +12138,10 @@
     "to carry": "хьын; фэхьын (to carry for, to carry to); дэхьын (to take/carry something along); зехьан / зэрихьан (to carry something); къехьак1ын (to carry around); дэхьыен (to carry up); ехьэхын (to carry down); ехьыл1эн (to carry to)"
   },
   {
-    "to try out": "плъэк1ун"
+    "to try out": "уплъэк1ун"
   },
   {
-    "to try": "1он"
+    "to try": "1он (to try to do something); уплъэк1ун (to try out something)"
   },
   {
     "to attempt": "1он"
@@ -13437,10 +13458,16 @@
     "satisfied": "разэ"
   },
   {
-    "to be satisfied": "зэгъэн; разэу хъун; гъэрэзэн (to satisfy someone)"
+    "contented": "разэ"
   },
   {
-    "to be pleased": "зэгъэн (to be pleased); разэу хъун (to become pleased); гъэрэзэн (to please someone); фэрэзэн (to be pleased with)"
+    "to be satisfied": "рэзэн; фэрэзэн (to be satisfied with); разэу хъун; гъэрэзэн (to satisfy someone)"
+  },
+  {
+    "to be contented": "рэзэн; фэрэзэн (to be contented with); разэу хъун; гъэрэзэн (to content someone)"
+  },
+  {
+    "to be pleased": "фэрэзэн (to be pleased with); разэу хъун (to become pleased); гъэрэзэн (to please someone); фэрэзэн (to be pleased with)"
   },
   {
     "have a nice day": "гъогу маф"
@@ -13921,6 +13948,9 @@
   },
   {
     "to satisfy": "гъэрэзэн"
+  },
+  {
+    "to content": "гъэрэзэн"
   },
   {
     "to please": "гъэрэзэн"
@@ -15162,6 +15192,9 @@
     "cracked": "чагъэ; (Shapsug) кьагъэ"
   },
   {
+    "adult": "икъугъэ; зыныбжь икъугъэ"
+  },
+  {
     "to be cracked": "чэн"
   },
   {
@@ -15831,19 +15864,31 @@
     "unfortunate problem": "шъхьак1о"
   },
   {
-    "humiliation": "шъхьак1о"
+    "humiliation": "шъхьак1о (indignity, humiliation, insult, offense)"
   },
   {
-    "offense": "шъхьак1о"
+    "indignity": "шъхьак1о (indignity, humiliation, insult, offense)"
+  },
+  {
+    "offense": "шъхьак1о (indignity, humiliation, insult, offense)"
   },
   {
     "to commit suicide": "зыл1эжьын; зыук1ыжьын"
   },
   {
+    "betrayal": "къумалыгъ"
+  },
+  {
+    "to betray": "епц1ыжьын"
+  },
+  {
     "to break-promise": "епц1ыжьын"
   },
   {
-    "to violate": "епц1ыжьын (to violate an oath, promise or agreement)"
+    "to violate": "мыгъэцэк1эн; епц1ыжьын (to violate an oath, promise or agreement)"
+  },
+  {
+    "to unfulfill": "мыгъэцэк1эн"
   },
   {
     "to dislike": "умык1эсэн; ш1у умылъэгъун; ш1оигъоджэн (to dislike greatly); фэмылъэгъун (despise)"
@@ -16209,7 +16254,7 @@
     "to quiet": "гъэушъэфын (to make someone quiet); гъэбыяун / гъэсамбырын (to calm someone)"
   },
   {
-    "to calm": "гъэбыяун / гъэсамбырын (to calm someone)"
+    "to calm": "гъэбыяун / гъэсамбырын (to calm someone); зэгъэн (to settle down)"
   },
   {
     "to tame": "гъэсэн; гъэ1эсэн"
@@ -16740,10 +16785,10 @@
     "swear in God": "тхьары1у"
   },
   {
-    "to humiliate": "шъхьак1о ехын; шъхьак1ун; хьайнапэу ш1ын"
+    "to humiliate": "шъхьак1о ехын; ушъхьак1ун; хьайнапэу ш1ын"
   },
   {
-    "to embarrass": "шъхьак1о ехын; шъхьак1ун; хьайнапэу ш1ын; къэгъэук1ытэжьын"
+    "to embarrass": "шъхьак1о ехын; ушъхьак1ун; хьайнапэу ш1ын; къэгъэук1ытэжьын"
   },
   {
     "to abase": "шъхьак1о ехын"
@@ -16984,9 +17029,6 @@
   },
   {
     "shamefulness": "ук1ытэныгъэ; ук1ытагъо"
-  },
-  {
-    "to stop moving after being pleased": "зэгъэн"
   },
   {
     "never": "егъаш1и; ныбжьи (never in my life)"
@@ -18249,7 +18291,7 @@
     "to get it": "хэхьан"
   },
   {
-    "to examine": "плъэк1ун (to check); къэплъыхьан (to take a look and examine); ушэтын"
+    "to examine": "уплъэк1ун (to check); къэплъыхьан (to take a look and examine); ушэтын"
   },
   {
     "to inspect": "къэплъыхьан"
@@ -18258,13 +18300,13 @@
     "to survey": "къэплъыхьан"
   },
   {
-    "to check": "плъэк1ун; ушэтын"
+    "to check": "уплъэк1ун; ушэтын"
   },
   {
-    "to verify": "плъэк1ун; ушэтын"
+    "to verify": "уплъэк1ун; ушэтын"
   },
   {
-    "to test": "плъэк1ун; ушэтын"
+    "to test": "уплъэк1ун; ушэтын"
   },
   {
     "to dam": "дзон"
@@ -18871,6 +18913,9 @@
   },
   {
     "tale": "тхыдэжъ"
+  },
+  {
+    "insult": "хъуанэ (swear); шъхьак1о (indignity, humiliation, insult, offense)"
   },
   {
     "to butthurt": "(vulgar slang) шъуты къеон (to be overly annoyed or bothered by a perceived insult; needlessly offended)"
