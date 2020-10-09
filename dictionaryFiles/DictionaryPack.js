@@ -19665,7 +19665,7 @@
         ]
       },
       {
-        "meaning": "to put things in place/order (to organize; to arrange)",
+        "meaning": "to put things in place/order (to organize; to arrange; to sort)",
         "examples": [
           {
             "sentence": "К1алэм унэр '''зегъафэ'''",
@@ -19682,6 +19682,14 @@
 		  {
             "sentence": "Удэлъхьап1э дахэу '''зэгъаф'''",
             "translation": "'''Organize''' your closet nicely."
+          },
+		  {
+            "sentence": "К1ымафэм пае унэр '''зэдгъэфэн''' фай",
+            "translation": "We need '''to arrange''' the house for winter."
+          },
+		  {
+            "sentence": "Л1ым блокхэр '''зегъафэх'''",
+            "translation": "The man '''sorts''' the blocks."
           }
         ]
       }

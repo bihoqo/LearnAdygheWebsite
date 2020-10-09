@@ -3414,6 +3414,9 @@
     "to organize": "зэгъэфэн (to put things in place/order); зэ1эхын (to clean up)"
   },
   {
+    "to sort": "зэгъэфэн"
+  },
+  {
     "to clean up": "укъэбзын; угъэкъэбзэн; зэ1эхын (to put things in place/order)"
   },
   {
