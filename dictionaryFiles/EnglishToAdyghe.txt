@@ -1683,6 +1683,9 @@
     "to run away": "ежьэжьын (to run away, to flee); ечъэжьэн (to speed off); ш1уежьэжьын (to run away from, to flee from); к1э1эжьын (to accelerate and start running away); техъушъутын (to run away from above something); ч1эхъушъутын (to run away from under, to run away from a lying position); ихъушъутын (to run away from inside something); дэхъушъутын (to run away from a yard, area or settlement); хэхъушъутын (to run away from an area with liquid or gas, to run away from among people/objects, to run away from a forest); къохъушъутын (to run away from behind); къыгохъушъутын / къыбгъодэхъушъутын (to run away from besides); 1эк1эк1ын (to let someone run away inadvertently)"
   },
   {
+    "distance": "гъогууанэ"
+  },
+  {
     "to swear": "хъонэн"
   },
   {
@@ -8976,13 +8979,13 @@
     "fearless": "щынэ зымыш1эрэ"
   },
   {
-    "to fear": "щынэн; щтэн; щыщынэн (to fear someone); щыщтэн (to fear someone); тхыон"
+    "to fear": "щынэн; щтэн; щыщынэн (to fear someone); щыщтэн (to fear someone); тхыон; тещыныхьан / тещтыхьан (to fear of, to fear that a certain thing will happen)"
   },
   {
-    "to be afraid": "щынэн; щтэн; щыщынэн (to be afraid of); щыщтэн (to be afraid of)"
+    "to be afraid": "щынэн; щтэн; щыщынэн (to be afraid of); щыщтэн (to be afraid of); тещыныхьан / тещтыхьан (to be afraid of, to be afraid that a certain thing will happen)"
   },
   {
-    "to be frightened": "щынэн; щтэн; щыщынэн (to be frightened of); щыщтэн (to be frightened of)"
+    "to be frightened": "щынэн; щтэн; щыщынэн (to be frightened of); щыщтэн (to be frightened of); тещыныхьан / тещтыхьан (to be frightened of, to be frightened that a certain thing will happen)"
   },
   {
     "to shy": "ук1ытэн (to be shy); щыук1ытэн (to be shy of/from); хэук1ытэхьан (to be shy among other people)"
@@ -8997,10 +9000,13 @@
     "to take fright": "щынэн; щтэн"
   },
   {
-    "to scare": "гъэщынэн (to scare someone); гъэщтэн (to scare someone); (vulgar)  ч1эгъэц1эн (to scare the shit out of); гуихын / гу ихын (to frighten)"
+    "to scare": "гъэщынэн (to scare someone); гъэщтэн (to scare someone); (vulgar)  ч1эгъэц1эн (to scare the shit out of); гуихын / гу ихын (to frighten); тещыныхьан / тещтыхьан (to be scared that a certain thing will happen)"
   },
   {
     "to frighten": "гуихын / гу ихын"
+  },
+  {
+    "to apprehend": "тещыныхьан / тещтыхьан (to anticipate with anxiety, dread, or fear)"
   },
   {
     "to get scared": "щынэн (to be scared); щтэн (to be scared); щыщынэн (to be scared of); щыщтэн (to be scared of)"
@@ -9660,7 +9666,7 @@
     "equal": "фэдиз (equal in amount); зэфэдиз (equal to each other); зэфэдэ (equal in similarly)"
   },
   {
-    "to get tired": "пшъын / къэпшъын"
+    "to get tired": "пшъын / къэпшъын; улэун"
   },
   {
     "to settle": "щыпсэун (to live in); ит1ысхьан (to settle in); ч1эт1ысхьан (to settle under); тет1ысхьан (to settle on); хэт1ысхьан (to settle among other people)"
@@ -11124,7 +11130,7 @@
     "to rejoice": "гуш1он; щыгуш1ук1ын (to rejoice for)"
   },
   {
-    "to trust": "цыхьэ фэш1ын; щыгугъын (to rely on)"
+    "to trust": "цыхьэ ш1ын (to be trusting); цыхьэ фэш1ын; щыгугъын (to rely on)"
   },
   {
     "to make up with": "еш1ужьын (to make peace with someone); зэш1ужьын (to make peace with each other)"
@@ -15945,9 +15951,6 @@
     "to upbraid": "гыен"
   },
   {
-    "to call for": "къеджэн; к1элъэ1ун"
-  },
-  {
     "to invoke": "к1элъэ1ун"
   },
   {
@@ -15963,7 +15966,10 @@
     "fringe": "нэк1ап (of hair)"
   },
   {
-    "bang": "нэк1ап"
+    "bangs": "нэк1ап"
+  },
+  {
+    "forelock": "нэк1ап"
   },
   {
     "forelock": "нэк1ап (horse's)"
@@ -16002,6 +16008,15 @@
     "new born animal": "щыр"
   },
   {
+    "harvest": "лэжьыгъэ (harvest, yield, crop)"
+  },
+  {
+    "crop": "лэжьыгъэ (harvest, yield, crop)"
+  },
+  {
+    "yield": "лэжьыгъэ (harvest, yield, crop)"
+  },
+  {
     "to improve": "нахьыш1оу ш1ын; нахь дэгъоу ш1ын"
   },
   {
@@ -16035,13 +16050,16 @@
     "to wait to ambush": "пэсын"
   },
   {
-    "to anticipate": "пэсын (to anticipate for)"
+    "to be concerned": "тещыныхьан / тещтыхьан (to be concerned with anxiety, dread, or fear)"
+  },
+  {
+    "to anticipate": "пэсын (to anticipate for, to be expecting something); тещыныхьан / тещтыхьан (to anticipate with anxiety, dread, or fear)"
+  },
+  {
+    "to be expecting": "пэсын (to be expecting something)"
   },
   {
     "to wait expecting": "пэсын"
-  },
-  {
-    "to be afraid that a certain thing will happen": "тещыныхьан"
   },
   {
     "hideous": "нэджэ-1удж (displeasing to the eye; not aesthetically pleasing)"

@@ -1279,6 +1279,10 @@
 		  {
             "sentence": "Саусырыкъо '''заор''' ригъэжьагъ",
             "translation": "Susroku '''has initiated''' the battle."
+          },
+          {
+            "sentence": "Л1ыр '''заом''' щыук1ыным щэщынэ",
+            "translation": "The man is afraid of getting killed '''in battle'''."
           }
         ]
       },
@@ -4403,6 +4407,10 @@
           {
             "sentence": "1ахъом '''былымыхэр''' ефых",
             "translation": "The herdsman drives '''the cattle'''."
+          },
+		  {
+            "sentence": "Пэсак1ом '''былымхэр''' лэжьыгъэм хигъахьэхэрэп",
+            "translation": "The watchman does not let the '''cattle''' to enter the crop."
           }
         ]
       },
@@ -21037,6 +21045,10 @@
 		  {
             "sentence": "Заомк1э, л1ым гук1эгъу хэмылъэу, 1ук1эрэр '''ыук1ыщтыгъ'''",
             "translation": "In the war, the man having no mercy, '''was killing''' everyone that he met."
+          },
+          {
+            "sentence": "Л1ыр заом '''щыук1ыным''' щэщынэ",
+            "translation": "The man is afraid of '''getting killed''' in battle."
           }
         ]
       }
@@ -50838,6 +50850,10 @@
 		  {
             "sentence": "Таущтэу 1офыр '''уухыщт''' умыублэу?",
             "translation": "How are '''you going to finish''' the job without starting it?"
+          },
+		  {
+            "sentence": "Лэжьак1ор и1оф иуахътэ '''ымыухынк1э''' тещыныхьэ",
+            "translation": "The worker is afraid of '''not to finish''' his work in time."
           }
         ]
       },
@@ -63135,44 +63151,6 @@
     ],
     "type": "verb",
     "ipa": "t͡saħ faʃʼən"
-  },
-  {
-    "word": "цыхьэ фэш1ын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to trust someone",
-        "examples": [
-          {
-            "sentence": "'''Цыхьэ къыпФэсэш1ы'''",
-            "translation": "'''I trust you.'''"
-          },
-          {
-            "sentence": "Пшъашъэм '''цыхьэ Феш1ы''' к1алэм ахъчэ къыфихьнэу",
-            "translation": "The girl '''trusts''' the boy to bring money for her."
-          },
-          {
-            "sentence": "'''Цыхьэ къэсфэш1''' ук1алэ на1э тесгъэтынэу",
-            "translation": "'''Trust me''' to protect your boy."
-          },
-          {
-            "sentence": "'''Цыхьэ фаш1ырэп ''' к1алэм",
-            "translation": "'''They don't trust''' the boy."
-          },
-          {
-            "sentence": "К1алэм '''цыхьэ''' пшъашъэм '''фиш1ыгъ'''",
-            "translation": "The boy '''trusted''' the girl."
-          }
-        ]
-      }
-    ],
-    "synonyms": [
-      "цэхь Фэш1ын",
-      "цыхьэ телъхьан",
-      "цыхьэ фэш1ын"
-    ],
-    "type": "verb",
-    "ipa": "t͡səħa faʃʼən"
   },
   {
     "word": "цэхь",
@@ -75619,18 +75597,6 @@
     "ipa": "faʁapsən"
   },
   {
-    "word": "к1ун",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"ек1ун\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "kʷʼən"
-  },
-  {
     "word": "фэшъуаш",
     "lang": "Adyghe",
     "definitions": [
@@ -79791,6 +79757,10 @@
 		  {
             "sentence": "Зыфэсакъ, псым '''ухэщтыхьэщт'''",
             "translation": "Careful, '''you will freeze in''' the water"
+          },
+		  {
+            "sentence": "Унэм тихьан фай, амырмэ осым '''тыхэщтыхьащт'''",
+            "translation": "We need to go inside the house, otherwise '''we will be frozen in''' the snow."
           }
         ]
       }
@@ -85557,6 +85527,10 @@
           {
             "sentence": "Армэ фылымыр, тежъугъэплъ, '''амырмэ''' нэмык1 горэм тежъугъэплъ",
             "translation": "If that is the movie, then let's watch it, '''otherwise''', let's watch something else."
+          },
+		  {
+            "sentence": "Унэм тихьан фай, '''амырмэ''' осым тыхэщтыхьащт",
+            "translation": "We need to go inside the house, '''otherwise''' we will be frozen in the snow."
           }
         ]
       }
@@ -89979,6 +89953,10 @@
 		  {
             "sentence": "Зыбгъэпсык1ыщт псыр '''учъы1ыжьы'''",
             "translation": "The water to shower with '''is getting cooler'''."
+          },
+		  {
+            "sentence": "Зыш1оу '''къэучъы1ыгъ''', нек1о унэм тихьажьыщт, умыш1ахэу унашъхьэм тытещтыхьащт",
+            "translation": "'''It became''' very '''cold''', let's go back inside the house, we will freeze on the roof accidentally."
           }
         ]
       }
@@ -90844,6 +90822,10 @@
 		  {
             "sentence": "К1алэм ышы '''ына1э тегъэты'''",
             "translation": "The boy '''looks after''' his brother."
+          },
+		  {
+            "sentence": "Чэтыум ыщырхэмэ на1э '''атегъэты'''",
+            "translation": "The cat '''is protecting''' her cubs."
           }
         ]
       }
@@ -91780,6 +91762,10 @@
 		  {
             "sentence": "Жъэжъащэу шъолажьэ, мыщтэу '''иуахътэк1э''' 1офыр тыухыщтэп",
             "translation": "You guys work too slowly, we won't finish the job '''in time''' this way."
+          },
+		  {
+            "sentence": "Лэжьак1ор и1оф '''иуахътэ''' ымыухынк1э тещыныхьэ",
+            "translation": "The worker is afraid of not to finish his work '''in time'''."
           }
         ]
       }
@@ -97530,16 +97516,14 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to call for",
-        "examples": []
-      },
-      {
-        "meaning": "to ask for, to beg for",
-        "examples": []
+        "meaning": "to call for, to ask for, to beg for",
+        "examples": [
+          {
+            "sentence": "К1алэр 1эпы1эгъум '''к1элъэ1угъ'''",
+            "translation": "The boy '''called''' for help."
+          }
+        ]
       }
-    ],
-    "synonyms": [
-      "къеджэн"
     ],
     "type": "verb",
     "ipa": "t͡ʃʼaɬaʔʷən"
@@ -97549,12 +97533,9 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to call for",
+        "meaning": "to call someone; alternative form of \"еджэн\"",
         "examples": []
       }
-    ],
-    "synonyms": [
-      "к1элъэ1ун"
     ],
     "type": "verb",
     "ipa": "qajd͡ʒan"
@@ -97566,18 +97547,78 @@
       {
         "meaning": "mane",
         "examples": []
+      },
+	  {
+        "meaning": "dried millet",
+        "examples": []
       }
     ],
     "type": "noun",
     "ipa": "sakʷ"
   },
   {
+    "word": "гъогууанэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "distance",
+        "examples": [
+		  {
+            "sentence": "Къэлит1ум азыфагу илъ '''гъогууанэр''' км шъэ мэхъу",
+            "translation": "'''The distance''' between the two cities is hundred kilometer."
+          }
+        ]
+      },
+	  {
+        "meaning": "long distance",
+        "examples": [
+          {
+            "sentence": "К1алэр пшъыгъэ, '''гъогууанэ''' ычъыгъ",
+            "translation": "The boy got tired, he ran a '''long distance'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʁʷagʷwaːna"
+  },
+  {
+    "word": "улэун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to get tired",
+        "examples": [
+          {
+            "sentence": "Шыр '''улэугъэ'''",
+            "translation": "The horse '''got tired'''."
+          },
+		  {
+            "sentence": "К1алэр '''улэугъэ''', гъогууанэ ычъыгъ",
+            "translation": "The boy '''got tired''', he ran a long distance."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "wɮawən"
+  },
+  {
     "word": "нэк1ап",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(of hair) fringe, bang",
-        "examples": []
+        "meaning": "(of hair) forelock; fringe; bangs; hair hanging over the forehead",
+        "examples": [
+          {
+            "sentence": "Пшъашъэм '''ынэк1апэ''' дахэу тет",
+            "translation": "The girl's fringe is beautiful."
+          },
+		  {
+            "sentence": "Пшъашъэм '''ынэк1апэ''' дахэу къырижьыхыгъ",
+            "translation": "The girl combed down her '''fringe''' beautifully."
+          }
+        ]
       },
       {
         "meaning": "(horse's) forelock",
@@ -97586,6 +97627,23 @@
     ],
     "type": "noun",
     "ipa": "nat͡ʃʼaːp"
+  },
+  {
+    "word": "ежьыхын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to brush the hair down; to comb hair down",
+        "examples": [
+		  {
+            "sentence": "Пшъашъэм ынэк1апэ дахэу '''къырижьыхыгъ'''",
+            "translation": "The girl '''combed down''' her fringe beautifully."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "jaʑəxən"
   },
   {
     "word": "гъэжьэн",
@@ -97621,18 +97679,6 @@
     "ipa": "ʒʁaːʷ"
   },
   {
-    "word": "рсысын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"сысын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "səsən"
-  },
-  {
     "word": "гъэсысын",
     "lang": "Adyghe",
     "definitions": [
@@ -97643,13 +97689,21 @@
             "sentence": "Чъыгыр '''гъэсысын'''",
             "translation": "'''To shake''' the tree."
           },
+		  {
+            "sentence": "Пшъашъэр сыгъэщынагъэти '''сегъэсысы'''",
+            "translation": "The girl '''is shaking me''' because I scared her."
+          },
           {
             "sentence": "Саусырыкъо ишы ык1э '''егъэсысы'''",
-            "translation": "Sosruko's horse '''is shaking''' his tail."
+            "translation": "Sosruko's horse '''is shaking''' its tail."
           },
           {
             "sentence": "Пхъэшъхьэ-мышъхьэр къыпыбгъэтэкъуным пае чъыгыр '''бгъэсысын''' фае",
             "translation": "In order to make the fruits fall down form the tree, you must '''shake it'''."
+          },
+		  {
+            "sentence": "Жьыбгъэр къепщэмэ чъыг тхьапэхэр '''сысынэу''' рагъажьэ.",
+            "translation": "When the wind blows, the tree leaves start to '''shake'''."
           }
         ]
       },
@@ -97665,21 +97719,6 @@
     ],
     "type": "verb",
     "ipa": "ʁasəsən"
-  },
-  {
-    "word": "пкъэупкъэу",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "post, pole, pillar, column",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "пхъэхат1э"
-    ],
-    "type": "noun",
-    "ipa": "pqaw"
   },
   {
     "word": "къепщэн",
@@ -97703,6 +97742,10 @@
           {
             "sentence": "Жьыбгъэр '''къепщэмэ''' чъыг тхьапэхэр сысынэу рагъажьэ.",
             "translation": "When the wind '''blows''', the tree leaves start to shake."
+          },
+		  {
+            "sentence": "К1алэр остыгъэм '''епщэ'''",
+            "translation": "The boy '''is blowing''' the lamp."
           }
         ]
       }
@@ -97716,11 +97759,40 @@
     "definitions": [
       {
         "meaning": "young animal, baby animal, cub, new born animal, animal's child",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Щыр''' псэушъхьэм ыкъо къыфэхъугъак1ыр ары",
+            "translation": "'''A cub''' is the animal's newly born son."
+          },
+		  {
+            "sentence": "Чэтыум '''ыщырхэр''' бэу дэхэц1ык1ух",
+            "translation": "The cat's '''cubs''' are so beautifully small."
+          },
+		  {
+            "sentence": "Чэтыум '''ыщырхэмэ''' на1э атегъэты",
+            "translation": "The cat is protecting her '''cubs'''."
+          },
+		  {
+            "sentence": "Аслъаныр маймуным '''ыщыр''' еухъумэ",
+            "translation": "The lion protects the monkey's '''cub'''."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "ɕər"
+  },
+  {
+    "word": "лэжьыгъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "harvest, yield, crop",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ɮaʑəʁa"
   },
   {
     "word": "пэсак1о",
@@ -97728,7 +97800,12 @@
     "definitions": [
       {
         "meaning": "guard, watchman (guarding grain, garden and melon crops)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Пэсак1ом''' былымхэр лэжьыгъэм хигъахьэхэрэп",
+            "translation": "'''The watchman''' does not let the cattle to enter the crop."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -97744,6 +97821,10 @@
           {
             "sentence": "Баджэм '''пэсын'''",
             "translation": "'''To be on the watch for''' the fox."
+          },
+		  {
+            "sentence": "Къэплъаныр бланэхэмэ '''апэс'''",
+            "translation": "The tiger '''is lying in wait for''' the deers."
           }
         ]
       },
@@ -97772,6 +97853,14 @@
             "translation": "'''To sit near''' the fire."
           }
         ]
+      },
+      {
+        "meaning": "to sit on a tree",
+        "examples": []
+      },
+      {
+        "meaning": "to sit on the tip of something",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -97785,14 +97874,51 @@
         "meaning": "to be afraid that a certain thing will happen",
         "examples": [
           {
-            "sentence": "бомбэр къэоным тещыныхьэ",
-            "translation": "To fear from a bomb explosion."
+            "sentence": "Дзак1ор къумбылыр къэоным '''тещыныхьэ'''",
+            "translation": "The soldier '''is afraid of''' the bomb to explode."
+          },
+		  {
+            "sentence": "Лэжьак1ор и1оф иуахътэ ымыухынк1э '''тещыныхьэ'''",
+            "translation": "The worker '''is afraid of''' not to finish his work in time."
+          },
+		  {
+            "sentence": "Экзамыным '''сытещыныхьэ'''",
+            "translation": "'''I am concerned about''' the exam."
+          },
+		  {
+            "sentence": "Экзамыныр къэсфэмыш1ыным '''сытещыныхьэ'''",
+            "translation": "'''I am afraid that''' I won't be able to do the exam."
           }
         ]
       }
     ],
     "type": "verb",
     "ipa": "tajɕənəħaːn"
+  },
+  {
+    "word": "тещтыхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to freeze on/above",
+        "examples": [
+		  {
+            "sentence": "'''Ощыр''' мылым тещтыхьагъ",
+            "translation": "The ax '''is frozen on'''' the ice."
+          },
+		  {
+            "sentence": "Зыш1оу къэучъы1ыгъ, нек1о унэм тихьажьыщт, умыш1ахэу унашъхьэм '''тытещтыхьащт'''",
+            "translation": "It became very cold, let's go back inside the house, '''we will freeze on''' the roof accidentally."
+          }
+        ]
+      },
+	  {
+        "meaning": "to be afraid of; alternative form of \"тещыныхьан\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "tajɕtəħaːn"
   },
   {
     "word": "нэджэ-1удж",
@@ -97811,6 +97937,18 @@
     "ipa": "nad͡ʒa ʔʷəd͡ʒ"
   },
   {
+    "word": "щыщтэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to be afraid of; alternative form of \"щыщынэн\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɕəɕtan"
+  },
+  {
     "word": "щыщынэн",
     "lang": "Adyghe",
     "definitions": [
@@ -97818,12 +97956,57 @@
         "meaning": "to be afraid of",
         "examples": [
           {
-            "sentence": "К1элэц1ык1ур жъалымхэм '''ащэщынэ'''",
-            "translation": "The little boy '''is afraid of''' monsters."
+            "sentence": "'''Усщэщынэ'''",
+            "translation": "'''I am afraid of you'''."
+          },
+		  {
+            "sentence": "'''Укъэсщымыщын'''",
+            "translation": "'''Don't be afraid of me'''."
+          },
+		  {
+            "sentence": "К1элэц1ык1ур иныжъмэ '''ащэщынэ'''",
+            "translation": "The little boy '''is afraid of''' the giants."
           },
           {
             "sentence": "Л1ым '''сыщэщынэ'''",
             "translation": "'''I am afraid of''' the man."
+          },
+          {
+            "sentence": "Укъэсш1ок1одыным '''сыщэщынэ'''",
+            "translation": "'''I am afraid of''' losing you."
+          },
+          {
+            "sentence": "Л1ыр заом щыук1ыным '''щэщынэ'''",
+            "translation": "The man '''is afraid of''' getting killed in battle."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɕəɕənan"
+  },
+  {
+    "word": "ш1ок1одын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to lose something",
+        "examples": [
+          {
+            "sentence": "К1элэц1ык1ур '''къэсш1ок1одыгъ'''",
+            "translation": "'''I lost''' the kid."
+          },
+          {
+            "sentence": "Л1ым 1унк1ыбзэхэр '''ш1ок1одыгъэх'''",
+            "translation": "The man '''lost''' the keys."
+          },
+          {
+            "sentence": "Сисыхьат унэм '''къэсш1уик1одагъ'''",
+            "translation": "'''I lost''' my watch '''inside''' the house."
+          },
+          {
+            "sentence": "Укъэсш1ок1одыным '''сыщэщынэ'''",
+            "translation": "I am afraid of '''losing you'''."
           }
         ]
       }
@@ -97841,6 +98024,10 @@
           {
             "sentence": "Л1ым '''цыхьэ фэмыш1'''",
             "translation": "'''Don't trust''' the man."
+          },
+		  {
+            "sentence": "'''Цыхьэ къыпфэсш1ырэп''' п1уагъэр п1уагъэу",
+            "translation": "'''I don't trust you''', saying what you said."
           }
         ]
       }
@@ -97853,11 +98040,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to trust",
+        "meaning": "to be trusting",
         "examples": [
           {
-            "sentence": "Л1ым '''цыхьэ фэш1'''",
-            "translation": "'''Trust''' the man."
+            "sentence": "Л1ым '''цыхьэ ыш1ырэп'''",
+            "translation": "The man '''is not trusting'''."
+          },
+		  {
+            "sentence": "Сэ '''цыхьэ сэш1ы'''",
+            "translation": "'''I am trusting'''."
+          },
+		  {
+            "sentence": "Сэ '''цыхьэ сэш1ы''' к1алэр иуахътэ къэсынэу",
+            "translation": "'''I am trusting''' that the boy will come in time."
           }
         ]
       }
@@ -97867,6 +98062,56 @@
     ],
     "type": "verb",
     "ipa": "t͡sʼəħa ʃʼən"
+  },
+  {
+    "word": "цыхьэ фэш1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to trust someone",
+        "examples": [
+          {
+            "sentence": "Л1ым '''цыхьэ фэш1'''",
+            "translation": "'''Trust''' the man."
+          },
+		  {
+            "sentence": "'''Цыхьэ къыпФэсэш1ы'''",
+            "translation": "'''I trust you.'''"
+          },
+          {
+            "sentence": "Пшъашъэм '''цыхьэ Феш1ы''' к1алэм ахъчэ къыфихьнэу",
+            "translation": "The girl '''trusts''' the boy to bring money for her."
+          },
+          {
+            "sentence": "'''Цыхьэ къэсфэш1''' ук1алэ на1э тесгъэтынэу",
+            "translation": "'''Trust me''' to protect your boy."
+          },
+          {
+            "sentence": "'''Цыхьэ фаш1ырэп ''' к1алэм",
+            "translation": "'''They don't trust''' the boy."
+          },
+          {
+            "sentence": "К1алэм '''цыхьэ''' пшъашъэм '''фиш1ыгъ'''",
+            "translation": "The boy '''trusted''' the girl."
+          },
+		  {
+            "sentence": "'''Цыхьэ къэсфэш1''' 1офыр иуахътэк1э сыухынэу",
+            "translation": "'''Trust me''' to finish the work in time."
+          },
+		  {
+            "sentence": "'''Цыхьэ къыпфэсэш1ы''' п1уагъэр п1уагъэу",
+            "translation": "'''I trust you''', saying what you said."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "цэхь Фэш1ын",
+      "цыхьэ телъхьан",
+      "цыхьэ фэш1ын"
+    ],
+    "type": "verb",
+    "ipa": "t͡səħa faʃʼən"
   },
   {
     "word": "псык1эу",
@@ -112869,6 +113114,15 @@
       {
         "meaning": "to freeze",
         "examples": []
+      },
+      {
+        "meaning": "to run a certain distance",
+        "examples": [
+          {
+            "sentence": "К1алэр пшъыгъэ, гъогууанэ '''ычъыгъ'''",
+            "translation": "The boy got tired, he '''ran''' a long distance."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -112876,6 +113130,23 @@
     ],
     "type": "verb",
     "ipa": "t͡ʂən"
+  },
+  {
+    "word": "к1ун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to walk a certain distance, to go a certain distance, to pass a certain distance",
+        "examples": [
+          {
+            "sentence": "К1алэр пшъыгъэ, гъогууанэ '''ык1угъ'''",
+            "translation": "The boy got tired, he '''went''' a long distance."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "kʷʼən"
   },
   {
     "word": "пытэ хъун",
