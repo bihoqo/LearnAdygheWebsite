@@ -16659,7 +16659,20 @@
     "definitions": [
       {
         "meaning": "winter",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Унэм '''к1ымафэм''' фэдгъэхьазырын фай",
+            "translation": "We need to prepare the house for '''winter'''."
+          },
+          {
+            "sentence": "гъопэк1ыхьэр гъэмафэм фэш1, гъопэк1ако '''к1ымафэм''' фэш1",
+            "translation": "long-sleeved shirt is for the summer and short-sleeved shirt is for '''winter'''."
+          },
+		  {
+            "sentence": "Зыфэдгъэхьазырын фай '''к1ымафэм'''",
+            "translation": "We need to prepare ourselves for '''winter'''."
+          }
+        ]
       }
     ],
     "kabardian": "щ1ымахуэ",
@@ -98660,11 +98673,65 @@
     "ipa": "jəpʃən"
   },
   {
+    "word": "фэгъэухьазырын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"фэгъэхьазырын\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "faʁawħaːzərən"
+  },
+  {
+    "word": "фэгъэхьазырын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to prepare for",
+        "examples": [
+          {
+            "sentence": "Унэм к1ымафэм '''фэдгъэхьазырын''' фай",
+            "translation": "We need '''to prepare''' the house '''for''' winter."
+          },
+		  {
+            "sentence": "Ушы экзаменым '''фэгъэхьазыр'''",
+            "translation": "'''Prepare''' your brother '''for''' the exam."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "faʁaħaːzərən"
+  },
+  {
+    "word": "зыфэгъэхьазырын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to prepare oneself for, to get prepared for",
+        "examples": [
+          {
+            "sentence": "'''Зыфэдгъэхьазырын''' фай к1ымафэм",
+            "translation": "We need '''to prepare ourselves for''' winter."
+          },
+		  {
+            "sentence": "Зкзаменым '''зыфэгъэхьазыр'''",
+            "translation": "'''Prepare yourself for''' the exam."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaxaħaːn"
+  },
+  {
     "word": "зэхэхьан",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be combined; to be added together",
+        "meaning": "to be combined; to be added together; to be fused; to be merged",
         "examples": []
       },
 	  {
@@ -98684,7 +98751,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to combine; to add together",
+        "meaning": "to combine; to add together; to fuse; to merge",
         "examples": [
           {
             "sentence": "Гъуанэм '''ипшын'''",

@@ -4281,7 +4281,23 @@
     "to outfit": "зэгъэпэшын"
   },
   {
-    "to prepare": "гъэхьазырын"
+    "to prepare": "гъэхьазырын / гъэухьазырын (to prepare something); зыгъэхьазырын (to get prepared); фэгъэхьазырын (to prepare for); зыфэгъэхьазырын (to prepare oneself for, to get prepared for)"
+  },
+  {
+    "to get ready": "гъэхьазырын / гъэухьазырын (to prepare something); зыгъэхьазырын / зыгъэухьазырын (to get prepared); фэгъэхьазырын (to prepare for); зыфэгъэхьазырын (to prepare oneself for, to get prepared for)"
+  },
+  {
+    "to get prepared": "зыгъэхьазырын; зыфэгъэхьазырын (to prepare oneself for, )"
+  },
+  
+  {
+    "to be ready": "хьазырын"
+  },
+  {
+    "to make ready": "гъэхьазырын / гъэухьазырын (to prepare something); фэгъэхьазырын (to prepare for); зыфэгъэхьазырын (to prepare oneself for, to get prepared for)"
+  },
+  {
+    "to get ready": "зыгъэхьазырын / зыгъэухьазырын (to get prepared)"
   },
   {
     "to suit": "зэгъэпэшын"
@@ -10465,18 +10481,6 @@
   },
   {
     "girlfriend": "пшъэшъэгъу; гъусэпшъашъэ"
-  },
-  {
-    "to be ready": "хьазырын"
-  },
-  {
-    "to make ready": "гъэухьазырын"
-  },
-  {
-    "to prepare": "гъэухьазырын"
-  },
-  {
-    "to get ready": "зыгъэухьазырын"
   },
   {
     "boyfriend": "шъэогъу; гъусэк1алэ"
