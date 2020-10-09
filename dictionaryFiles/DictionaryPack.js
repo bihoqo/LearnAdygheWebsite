@@ -50083,6 +50083,18 @@
     "ipa": "ʁawħaːzərən"
   },
   {
+    "word": "зыгъэхьазырын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"зыгъэухьазырын\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "zəʁaħaːzərən"
+  },
+  {
     "word": "зыгъэухьазырын",
     "lang": "Adyghe",
     "definitions": [
