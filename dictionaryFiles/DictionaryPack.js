@@ -27524,28 +27524,6 @@
     "ipa": "səmaːd͡ʒa"
   },
   {
-    "word": "ренэу",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "always",
-        "examples": [
-          {
-            "sentence": "Адыгэ лъэпкъэ '''ренэу''' щэрэ1",
-            "translation": "May the Adyghe people exist '''forever'''."
-          },
-          {
-            "sentence": "'''Ренэу''' бгыузым сегъэгумэк1ы",
-            "translation": "I '''always''' had waist pain."
-          }
-        ]
-      }
-    ],
-    "shapsug": "енэу",
-    "type": "adv",
-    "ipa": "rajnaw"
-  },
-  {
     "word": "ашэ",
     "lang": "Adyghe",
     "definitions": [
@@ -46804,6 +46782,14 @@
           {
             "sentence": "Седжэгъахэмэ т1эк1урэ '''зызгъэпсэфынэу''' щагум сыкъик1ыщт",
             "translation": "After I finish studying, I will come out to the yard '''to rest''' briefly."
+          },
+		  {
+            "sentence": "Л1ыр лэжьэзэпыт, '''зигъэпсэфырэп'''",
+            "translation": "The man always work, '''he doesn't rest'''."
+          },
+          {
+            "sentence": "Ренэу тэлажьэ, нек1о зы тхьэмафэ горэм '''зыдгъэпсэфыщт'''",
+            "translation": "We always work, '''let's rest''' for some one week."
           }
         ]
       }
@@ -70697,7 +70683,6 @@
     "synonyms": [
       "къарыунчъэ"
     ],
-    "kabardian": "махэ",
     "type": "adj",
     "ipa": "kʷʼaːt͡ʂʼaːd͡ʒ"
   },
@@ -93445,7 +93430,6 @@
         ]
       }
     ],
-    "kabardian": "махэ",
     "type": "adj",
     "ipa": "məpəta"
   },
@@ -97484,7 +97468,6 @@
     "synonyms": [
       "к1оч1адж"
     ],
-    "kabardian": "махэ",
     "type": "adj",
     "ipa": "qaːrəwənt͡ʂ"
   },
@@ -98370,7 +98353,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to break down (of a device, etc.)",
+        "meaning": "to break down (of a device, etc.); to become dysfunctional; to become malfunctional",
         "examples": [
           {
             "sentence": "Кур зэщыкъуагъ",
@@ -98379,24 +98362,11 @@
         ]
       },
       {
-        "meaning": "to get exhausted",
+        "meaning": "to get exhausted; to lose energy and become weak and feeble",
         "examples": [
           {
             "sentence": "Л1ыр зэщыкъуагъ",
             "translation": "The man '''got exhausted'''."
-          }
-        ]
-      },
-      {
-        "meaning": "to lose energy and become weak and feeble",
-        "examples": []
-      },
-      {
-        "meaning": "to deteriorate, to worsen, to become worse, to go bad",
-        "examples": [
-          {
-            "sentence": "1офыр зэщэкъо",
-            "translation": "The job '''worsen'''."
           }
         ]
       }
@@ -98413,7 +98383,6 @@
         "examples": []
       }
     ],
-    "kabardian": "махэ",
     "type": "adj",
     "ipa": "qaːrəwənt͡ʂ"
   },
@@ -98478,12 +98447,125 @@
     "ipa": "ʃant͡ʂa"
   },
   {
+    "word": "зэпыт",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "always; all the time",
+        "examples": [
+          {
+            "sentence": "К1алэр губжы '''зэпыт'''",
+            "translation": "The boy '''always''' gets angry."
+          },
+		  {
+            "sentence": "Учъые '''зэпытыщта'''?",
+            "translation": "Will you '''always''' sleep?"
+          },
+		  {
+            "sentence": "Л1ыр '''лэжьэзэпыт''', зигъэпсэфырэп",
+            "translation": "The man '''always work''', he doesn't rest."
+          },
+          {
+            "sentence": "'''Тылэжьэзэпыт''', нек1о зы тхьэмафэ горэм зыдгъэпсэфыщт",
+            "translation": "'''We always work''', let's rest for some one week."
+          },
+		  {
+            "sentence": "1офымк1э машинэхэр '''лэжьэзэпытых'''",
+            "translation": "In work, the machines '''are always working'''."
+          },
+		  {
+            "sentence": "Л1ым чэщым чылэр къек1ухьэ '''зэпыт'''",
+            "translation": "The man '''always''' goes around the village in the night."
+          }
+        ]
+      }
+    ],
+    "type": "adv",
+    "ipa": "zapət"
+  },
+  {
+    "word": "ренэу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "always; all the time",
+        "examples": [
+          {
+            "sentence": "Л1ым '''ренэу''' чэщым чылэр къек1ухьэ",
+            "translation": "The man '''always''' walks around the village in the night."
+          },
+		  {
+            "sentence": "Адыгэ лъэпкъэ '''ренэу''' щэрэ1",
+            "translation": "May the Adyghe people exist '''forever'''."
+          },
+		  {
+            "sentence": "1офымк1э машинэхэр '''ренэу''' мэлажьэх",
+            "translation": "In work, the machines are '''always''' working."
+          },
+          {
+            "sentence": "'''Ренэу''' бгыузым сегъэгумэк1ы",
+            "translation": "I '''always''' had waist pain."
+          },
+          {
+            "sentence": "К1алэр '''ренэу''' мэчъые",
+            "translation": "The boy '''always''' sleeps."
+          },
+          {
+            "sentence": "'''Ренэу''' тэлажьэ, нек1о зы тхьэмафэ горэм зыдгъэпсэфыщт",
+            "translation": "We '''always''' work, let's rest for some one week."
+          },
+		  {
+            "sentence": "К1алэр '''ренэу''' губжы",
+            "translation": "The boy '''always''' gets angry."
+          },
+		  {
+            "sentence": "Л1ыр '''ренэу''' мэлажьэ, зигъэпсэфырэп",
+            "translation": "The man '''always''' work, he doesn't rest."
+          }
+        ]
+      }
+    ],
+    "shapsug": "енэу",
+    "type": "adv",
+    "ipa": "rajnaw"
+  },
+  {
+    "word": "к1эжъук1ыжьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to calm down, to quiet down",
+        "examples": [
+          {
+            "sentence": "Л1ыр губжыпх, ау а сыхьатым '''к1эжъук1ыжьы'''",
+            "translation": "The man is hot-tempered, but on that hour '''he calms down'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "губжыгъош1у",
+      "губжыл"
+    ],
+    "type": "adj",
+    "ipa": "ɡʷəbʒəpx"
+  },
+  {
     "word": "губжыпх",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "hot-tempered, quick-tempered, irascible, short of temper, short-tempered, petulant, ill-tempered, a person that easily gets angry or often gets angry",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Губжыпхыр''' псынк1эу 1эш1эхэу губжырэр ары",
+            "translation": "'''Quick-tempered''' is the one that gets angry quickly and easily."
+          },
+		  {
+            "sentence": "Л1ы '''губжыпх'''",
+            "translation": "'''Hot-tempered''' man."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -98499,7 +98581,12 @@
     "definitions": [
       {
         "meaning": "hot-tempered, quick-tempered, irascible, short of temper, short-tempered, petulant, ill-tempered, a person that easily gets angry or often gets angry",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Л1ы '''губжыгъош1у'''",
+            "translation": "'''Hot-tempered''' man."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -98515,7 +98602,16 @@
     "definitions": [
       {
         "meaning": "hot-tempered, quick-tempered, irascible, short of temper, short-tempered, petulant, ill-tempered, a person that easily gets angry or often gets angry",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Губжыл''' губж зэпытырэр ары",
+            "translation": "'''Hot-tempered''' is the one that always get angry."
+          },
+		  {
+            "sentence": "Л1ы '''губжыл'''",
+            "translation": "'''Hot-tempered''' man."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -98533,16 +98629,12 @@
         "meaning": "anger",
         "examples": [
           {
-            "sentence": "'''Губжым''' къыхэкIэу къэуплъыжьын",
+            "sentence": "'''Губжым''' къыхэк1эу къэуплъыжьыгъ",
             "translation": "He turned red with anger."
           },
           {
-            "sentence": "'''Губжым''' хэтэу",
-            "translation": "Rashly."
-          },
-          {
-            "sentence": "'''Губжыр''' текъутэн",
-            "translation": "Rashly to pounce on somebody."
+            "sentence": "'''Губжым''' хэтэу зек1уагъ к1алэр",
+            "translation": "The boy behaved '''rashly'''."
           }
         ]
       }
@@ -98559,7 +98651,7 @@
         "examples": [
           {
             "sentence": "Гъуанэм '''ипшын'''",
-            "translation": "'''To squeeze''' through the hole."
+            "translation": "'''To get it through''' the hole."
           }
         ]
       }
@@ -98568,11 +98660,58 @@
     "ipa": "jəpʃən"
   },
   {
+    "word": "зэхэхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to be combined; to be added together",
+        "examples": []
+      },
+	  {
+        "meaning": "to shrink",
+        "examples": []
+      },
+	  {
+        "meaning": "to group together",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaxaħaːn"
+  },
+  {
     "word": "зэхэгъэхьан",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to combine; to add together",
+        "examples": [
+          {
+            "sentence": "Гъуанэм '''ипшын'''",
+            "translation": "'''To get it through''' the hole."
+          }
+        ]
+      },
+	  {
+        "meaning": "to shrink something",
+        "examples": [
+          {
+            "sentence": "Гъуанэм '''ипшын'''",
+            "translation": "'''To get it through''' the hole."
+          }
+        ]
+      },
+	  {
+        "meaning": "to squeeze together, to shrink, to contract; to squint ",
+        "examples": [
+          {
+            "sentence": "Гъуанэм '''ипшын'''",
+            "translation": "'''To get it through''' the hole."
+          }
+        ]
+      },
+	  {
+        "meaning": "to group people/stuff together",
         "examples": []
       }
     ],
@@ -99478,6 +99617,10 @@
           {
             "sentence": "Седжэгъахэмэ т1эк1у '''зысгъэпсэфынэу''' щагум сыкъик1ыщт",
             "translation": "After I done studying, I will come out to the yard '''to rest''' briefly."
+          },
+		  {
+            "sentence": "Л1ыр лэжьэзэпыт, '''зигъэпсэфырэп'''",
+            "translation": "The man always work, '''he doesn't rest'''."
           }
         ]
       }
@@ -99906,8 +100049,12 @@
         "meaning": "to walk around",
         "examples": [
           {
-            "sentence": "К1алэм чылэр '''къек1охьы'''",
+            "sentence": "К1алэм чылэр '''къек1ухьэ'''",
             "translation": "The boy '''is walking around''' in the village."
+          },
+		  {
+            "sentence": "Л1ым ренэу чэщым чылэр '''къек1ухьэ'''",
+            "translation": "The man always '''walks around''' the village in the night."
           }
         ]
       },

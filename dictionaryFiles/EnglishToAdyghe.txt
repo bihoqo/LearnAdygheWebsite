@@ -2310,7 +2310,13 @@
     "all night": "чэщым реныу"
   },
   {
-    "always": "ренэу; сыд щыгъок1и; енэу (Shapsug)"
+    "to shrink": "зэхэхьан; зэхэгъэхьан (to shrink something)"
+  },
+  {
+    "always": "ренэу; зэпыт; -зэпыт (verbal suffix indicating always); сыд щыгъок1и; енэу (Shapsug)"
+  },
+  {
+    "all the time": "ренэу; зэпыт; -зэпыт (verbal suffix indicating all the time); сыд щыгъок1и; енэу (Shapsug)"
   },
   {
     "whenever": "сыдигъок1и"
@@ -4839,7 +4845,7 @@
     "rake": "пхъэ1эбжъан (garden tool)"
   },
   {
-    "to break": "зэпык1ын (to snap); убэтэн (to destroy); къутэн (to destroy); зэхэутын (to break down from inside); зэхэк1ын (to break and collapse); пыутын / хэутын (to break a part of something); теутын (to break a part from above something); ч1эутын (to break a part from under something); гъэсэкъатын (to make something dysfunctional); зэш1ок1ын (to break something); 1утэкъун (to break off); пыутын (to break off from); зэпыутын (to break off from itself); ш1оубэтэн (to destroy/break someone's property); укъон (to change money for lesser units)"
+    "to break": "зэпык1ын (to snap); убэтэн (to destroy); къутэн (to destroy); зэхэутын (to break down from inside); зэхэк1ын (to break and collapse); пыутын / хэутын (to break a part of something); теутын (to break a part from above something); ч1эутын (to break a part from under something); гъэсэкъатын (to make something dysfunctional); зэш1ок1ын (to break something); 1утэкъун (to break off); пыутын (to break off from); зэпыутын (to break off from itself); ш1оубэтэн (to destroy/break someone's property); укъон (to change money for lesser units); сэкъатын / зэ1ыхьан / зэщыкъон (to become dysfunctional (device, machine, etc))"
   },
   {
     "to run over": "иутын; тепк1эн"
@@ -10710,7 +10716,7 @@
     "to stop": "уцун / къэуцун; къэгъэуцун (to stop someone or something); зэпыун (to break off); зэпыгъэун (to break off); зэтеуцон; зэтегъэуцон; уцужьын (to stop doing something); хэнэжьын / к1энэжьын / щыун (to stop doing something out of habit, to quit doing something)"
   },
   {
-    "to spend": "гъэк1он; гъэк1одын; тегъэк1одэн (to spend on); 1эк1эк1одэн (to be spending too much money)"
+    "to spend": "гъэк1он; гъэк1одын; тегъэк1одэн (to spend on); 1эк1эк1одэн (to be spending money)"
   },
   {
     "to standstill": "зандэу уцун / зандэу къэуцун"
@@ -16167,13 +16173,13 @@
     "to get exhausted": "пшъын / къэпшъын"
   },
   {
-    "to deteriorate": "нахь дэеу хъун; зэщыкъон"
+    "to deteriorate": "нахь дэеу хъун"
   },
   {
-    "to worsen": "нахь дэеу хъун; зэщыкъон"
+    "to worsen": "нахь дэеу хъун"
   },
   {
-    "to become worse": "нахь дэеу хъун; зэщыкъон"
+    "to become worse": "нахь дэеу хъун"
   },
   {
     "to go bad": "нахь дэеу хъун; зэщыкъон"
@@ -16233,13 +16239,13 @@
     "to mingle": "зэ1ыш1эн; хэк1ухьан (to become mingled with; to become mixed with); хэгъэк1ухьан (to mingle with, to mix with); зэхэк1ухьан (to become mixed together, to become mingled together); зэхэгъэк1ухьан (to mix things together, to mingle things together)"
   },
   {
-    "to combine": "зэхэгъэхьан; зэгогъэхьан"
+    "to combine": "зэхэхьан (to be combined); зэхэгъэхьан; зэгогъэхьан"
   },
   {
-    "to fuse": "зэхэгъэхьан; зэхэк1ок1эн"
+    "to fuse": "зэхэхьан (to be fused); зэхэгъэхьан; зэхэк1ок1эн"
   },
   {
-    "to merge": "зэхэгъэхьан; зэхэк1ок1эн"
+    "to merge": "зэхэхьан (to be merged); зэхэгъэхьан; зэхэк1ок1эн"
   },
   {
     "sign": "нэшанэ"
