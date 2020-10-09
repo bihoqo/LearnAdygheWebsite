@@ -48391,7 +48391,7 @@
         "examples": [
 		  {
             "sentence": "К1алэм '''сызпигъэплъагъ''' щыгъын щилъэфэ",
-            "translation": "The boy '''made me wait for him''' until he wore clothes."
+            "translation": "The boy '''made me wait for himself''' until he wore clothes."
           },
 		  {
             "sentence": "Цыхьэ умыш1ыгу, нек1о '''тыпэгъаплъи''' хъурэм теплъыщт",
@@ -48763,7 +48763,7 @@
           },
 		  {
             "sentence": "К1алэм сызпигъэплъагъ щыгъын '''щилъэфэ'''",
-            "translation": "The boy made me wait for him '''until he wore''' clothes."
+            "translation": "The boy made me wait for himself '''until he wore''' clothes."
           }
         ]
       }
@@ -55630,6 +55630,23 @@
 		  {
             "sentence": "К1алэм '''ч1ыфэ''' телъ",
             "translation": "A '''debt''' is on the boy."
+          },
+        ]
+      },
+	  {
+        "meaning": "loan (that will become debt)",
+        "examples": [
+          {
+            "sentence": "Мафиям '''ч1ыфэ''' къы1эмых, къыплъэханэщтэп",
+            "translation": "Do not take '''loan''' from the Mafia, they won't spare you."
+          },
+		  {
+            "sentence": "К1алэм '''ч1ыфэ''' л1ым къы1ырихыгъ",
+            "translation": "The man took '''loan''' from the man."
+          },
+		  {
+            "sentence": "'''Ч1ыфэу''' къа1эпыхыгъэр аптыжьын фай",
+            "translation": "You must return '''a loan''' that you took."
           }
         ]
       }
@@ -59564,7 +59581,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "clothing",
+        "meaning": "clothing; clothes",
         "examples": [
           {
             "sentence": "'''Щыгъын''' дахэ горэ уи1а?",
@@ -59577,6 +59594,10 @@
 		  {
             "sentence": "'''Щыгъын''' к1эхэр зыфэсщыфыжьын фаех",
             "translation": "I need to buy myself new '''clothes'''."
+          },
+		  {
+            "sentence": "К1алэм сызпигъэплъагъ '''щыгъын''' щилъэфэ",
+            "translation": "The boy made me wait for himself until he wore '''clothes'''."
           }
         ]
       }
@@ -65842,39 +65863,6 @@
     ],
     "type": "verb",
     "ipa": "əwəʒ jətən"
-  },
-  {
-    "word": "гуегъун",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to feel sorry for; to feel pity for; to pity",
-        "examples": [
-          {
-            "sentence": "Тхьамык1эхэр '''сыгуегъух'''.",
-            "translation": "'''I feel sorry for''' the poor people."
-          },
-          {
-            "sentence": "К1алэм чэтыур '''ыгуегъужьи''' ып1ужьыгъ.",
-            "translation": "The boy '''felt sorry for''' the cat and adopted him."
-          },
-          {
-            "sentence": "Мо к1элэ бзаджэм '''угуегъунэу''' щытэп.",
-            "translation": "'''You can't feel sorry for''' that wicked child."
-          },
-          {
-            "sentence": "К1алэхэмэ '''амыгуегъоу''' чэтыу щырэр чъы1эм хагъэнагъ.",
-            "translation": "The boys '''without feeling pity for''' the cub cat left the cat in the cold."
-          }
-        ]
-      }
-    ],
-    "synonyms": [
-      "шъхьасын",
-      "гук1эгъу фэлъэгъун"
-    ],
-    "type": "verb",
-    "ipa": "ɡʷəjaʁʷən"
   },
   {
     "word": "1эпы1эгъоу фэхъун",
@@ -77178,7 +77166,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to quit doing something, to get out of the habit (of), to break oneself of the habit (of)",
+        "meaning": "to quit doing a hobby, to get out of the habit (of), to break oneself of the habit (of)",
         "examples": [
           {
             "sentence": "Сэ тутын сешъоу '''хэснэжьыгъ'''",
@@ -77195,6 +77183,10 @@
           {
             "sentence": "'''Хэмынэжь''' ащтэу пш1эу",
             "translation": "'''Don't quit''' doing that."
+          },
+          {
+            "sentence": "К1алэм '''хинэжьыгъ''' чъэу",
+            "translation": "The boy '''stopped''' [the habit of] running."
           }
         ]
       }
@@ -77227,6 +77219,10 @@
           {
             "sentence": "'''К1эмынэжь''' ащтэу пш1эу",
             "translation": "'''Don't quit''' doing that."
+          },
+          {
+            "sentence": "К1алэм '''к1инэжьыгъ''' чъэу",
+            "translation": "The boy '''stopped''' [the habit of] running."
           }
         ]
       }
@@ -81354,7 +81350,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"1эхын\"",
+        "meaning": "alternative form of \"къы1ыхын\"",
         "examples": []
       }
     ],
@@ -98137,7 +98133,7 @@
           },
           {
             "sentence": "Пшъашъэм '''цыхьэ Феш1ы''' к1алэм ахъщэ къыфихьнэу",
-            "translation": "The girl '''trusts''' the boy to bring money for her."
+            "translation": "The girl '''trusts''' the boy to bring her money."
           },
           {
             "sentence": "'''Цыхьэ къэсфэш1''' ук1алэ на1э тесгъэтынэу",
@@ -98193,12 +98189,16 @@
         "meaning": "to spare/forgive someone of (a grudge, punishment, debt, etc.)",
         "examples": [
           {
-            "sentence": "О непэ '''къыплъэхэнэщт'''",
+            "sentence": "О непэ '''къыплъэхэснэщт'''",
             "translation": "'''I will spare you''' today."
           },
           {
             "sentence": "Ахъщэ сэ к1алэм '''къэслъэхинагъ'''",
             "translation": "The boy '''spared me from''' returning money."
+          },
+          {
+            "sentence": "Мафиям ч1ыфэ къы1эмых, '''къыплъэханэщтэп'''",
+            "translation": "Do not take loan''' from the Mafia, '''they won't spare you'''."
           }
         ]
       }
@@ -98237,15 +98237,23 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to abandon",
+        "meaning": "to abandon; to leave",
         "examples": [
           {
             "sentence": "Гонахьыхэр '''щынэжьын'''",
             "translation": "'''To abandon''' sins."
           },
           {
-            "sentence": "Cишъузрэ сик1алэхэрэ '''щынэжьыгъэх'''",
+            "sentence": "Cшъузрэ сик1алэхэрэ '''щыснэжьыгъэх'''",
             "translation": "'''I abandon''' my wife and kids."
+          },
+          {
+            "sentence": "К1алэм иеджэн '''щынэжьыгъ'''",
+            "translation": "The boy '''abandoned''' his studies."
+          },
+          {
+            "sentence": "Мы 1офыр '''щыснэжьыни''', 1оф нахь дэгъу горэм сык1ощт",
+            "translation": "'''I will leave''' this job and will go to a better one."
           }
         ]
       },
@@ -98253,7 +98261,7 @@
         "meaning": "to divorce from",
         "examples": [
           {
-            "sentence": "Си шъуз '''сыщынэжьыгъ'''",
+            "sentence": "Си шъуз '''щыснэжьыгъ'''",
             "translation": "'''I divorced''' my wife."
           }
         ]
@@ -98268,7 +98276,12 @@
     "definitions": [
       {
         "meaning": "to get out of the habit (of), to break oneself of the habit (of)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм тутынэшъоным '''щысэхъук1ыжьыгъ'''",
+            "translation": "The boy '''quit''' smoking."
+          }
+        ]
       },
       {
         "meaning": "to lose the skill (of), to forget (how to)",
@@ -98279,12 +98292,70 @@
     "ipa": "ɕəsaχʷət͡ʃʼən"
   },
   {
+    "word": "гуегъун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to pity; to feel sorry for; to feel pity for; to commiserate; to have mercy upon",
+        "examples": [
+          {
+            "sentence": "Тхьамык1эхэр '''сыгуегъух'''.",
+            "translation": "'''I feel sorry for''' the poor people."
+          },
+		  {
+            "sentence": "К1алэм иахъщэ '''ыгуегъу''', зи ыгъак1орэп.",
+            "translation": "The boy '''pities''' his money, he doesn't spend any of it."
+          },
+          {
+            "sentence": "К1алэм чэтыур '''ыгуегъужьи''' ып1ужьыгъ.",
+            "translation": "The boy '''felt sorry for''' the cat and adopted him."
+          },
+          {
+            "sentence": "Мо к1элэ бзаджэм '''угуегъунэу''' щытэп.",
+            "translation": "'''You can't feel sorry for''' that wicked child."
+          },
+          {
+            "sentence": "К1алэхэмэ '''амыгуегъоу''' чэтыу щырэр чъы1эм хагъэнагъ.",
+            "translation": "The boys '''without feeling pity for''' the cub cat left the cat in the cold."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "шъхьасын",
+      "гук1эгъу фэлъэгъун"
+    ],
+    "type": "verb",
+    "ipa": "ɡʷəjaʁʷən"
+  },
+  {
     "word": "шъхьасын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to pity, to commiserate, to have mercy upon",
-        "examples": []
+        "meaning": "to pity; to feel sorry for; to feel pity for; to commiserate; to have mercy upon",
+        "examples": [
+          {
+            "sentence": "Тхьамык1эхэр '''сэшъхьасы'''.",
+            "translation": "'''I feel sorry for''' the poor people."
+          },
+		  {
+            "sentence": "К1алэм иахъщэ '''ешъхьасы''', зи ыгъак1орэп.",
+            "translation": "The boy '''pities''' his money, he doesn't spend any of it."
+          },
+          {
+            "sentence": "К1алэм чэтыур '''ышъхьаси''' ып1ужьыгъ.",
+            "translation": "The boy '''felt sorry for''' the cat and adopted him."
+          },
+          {
+            "sentence": "Мо к1элэ бзаджэм '''ушъхьаснэу''' щытэп.",
+            "translation": "'''You can't feel sorry for''' that wicked child."
+          },
+          {
+            "sentence": "К1алэхэмэ '''амышъхьасэу''' чэтыу щырэр чъы1эм хагъэнагъ.",
+            "translation": "The boys '''without feeling pity for''' the cub cat left the cat in the cold."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -108827,7 +108898,7 @@
       }
     ],
     "type": "verb",
-    "ipa": "ʔəxən"
+    "ipa": "ʔaxən"
   },
   {
     "word": "гок1ын",
@@ -108941,6 +109012,18 @@
 		  {
             "sentence": "Тигъунэгъу ыдэжь к1уи к1энк1ит1у '''къы1ых'''",
             "translation": "Go to our neighbor and '''take''' two eggs from him/her."
+          },
+		  {
+            "sentence": "Мафиям ч1ыфэ '''къы1эмых''', къыплъэханэщтэп",
+            "translation": "'''Do not take''' loan from the Mafia, they won't spare you."
+          },
+		  {
+            "sentence": "К1алэм ч1ыфэ л1ым '''къы1ырихыгъ'''",
+            "translation": "The man '''took''' loan from the man."
+          },
+		  {
+            "sentence": "Ч1ыфэу '''къа1эпыхыгъэр''' аптыжьын фай",
+            "translation": "You must return a loan '''that you took'''."
           }
         ]
       }
