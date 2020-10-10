@@ -102547,6 +102547,18 @@
     "ipa": "ʃʷarəʃʼ"
   },
   {
+    "word": "пщэрын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to become fat or fatter; to gain weight; to put on weight; to fatten",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "ʃʷarəʃʼ"
+  },
+  {
     "word": "шэны",
     "lang": "Adyghe",
     "definitions": [
