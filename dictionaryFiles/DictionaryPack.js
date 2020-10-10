@@ -40825,122 +40825,6 @@
     "ipa": "xaɬʷaʁʷan"
   },
   {
-    "word": "гъэсэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to train",
-        "examples": [
-          {
-            "sentence": "Тхьэматэм идзак1охэр '''егъасэх'''",
-            "translation": "The caption is '''training''' his soldiers."
-          },
-          {
-            "sentence": "К1алэр сэ '''сэгъасэ''' шэк1онэу",
-            "translation": "'''I am training''' the boy to be a hunter."
-          },
-          {
-            "sentence": "К1алэр '''гъэсагъэп''' икъунэу",
-            "translation": "The boy '''is not trained''' enough."
-          },
-          {
-            "sentence": "К1алэр дзэм хэхьан фэш1к1э '''зигъэсэн''' фай",
-            "translation": "In order for '''the boy''' to join the army he needs to train."
-          },
-          {
-            "sentence": "К1алэм '''зегъасэ'''",
-            "translation": "The boy '''is training (himself)'''."
-          },
-          {
-            "sentence": "Дзэмк1э л1ыхэр '''къагъасэх'''",
-            "translation": "In the army '''they train''' the men."
-          },
-          {
-            "sentence": "К1алэр экзамыным '''фагъэсэ'''",
-            "translation": "'''They train''' the boy '''for''' the exam."
-          },
-          {
-            "sentence": "К1алэм экзамыным '''зыфегъасэ'''",
-            "translation": "The boy '''practices''' for the exam."
-          }
-        ]
-      },
-      {
-        "meaning": "to teach good manners, to teach good behavior",
-        "examples": [
-          {
-            "sentence": "Мы к1алэр '''агъэсагъэп'''",
-            "translation": "This boy '''was not taught how to behave'''."
-          },
-          {
-            "sentence": "Куджаным ик1алэ ш1у '''ыгъасэ'''",
-            "translation": "Kujan '''is teaching''' his boy '''how to behave well'''."
-          },
-          {
-            "sentence": "Л1ыжъым к1алэр '''егъасэ'''",
-            "translation": "The old-man '''is teaching''' the boy '''how to behave well'''."
-          },
-          {
-            "sentence": "К1алэр '''гъэсагъэп'''",
-            "translation": "The boy '''was not taught how to behave'''."
-          },
-          {
-            "sentence": "Тэрэзэу уянэ '''уигъэсагъэба'''?",
-            "translation": "'''Didn't''' your mother '''taught you how to behave'''?"
-          }
-        ]
-      },
-      {
-        "meaning": "to tame",
-        "examples": [
-          {
-            "sentence": "Л1ым хьэр '''егъасэ'''",
-            "translation": "The man '''is timming''' the dog."
-          },
-          {
-            "sentence": "К1алэм ичэтыухэр '''ыгъэсагъэх'''",
-            "translation": "The boy '''timed ''' his cats."
-          }
-        ]
-      }
-    ],
-    "synonyms": [
-      "гъэ1эсэн"
-    ],
-    "type": "adj",
-    "ipa": "ʁasan"
-  },
-  {
-    "word": "гъэсагъ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "trained",
-        "examples": [
-          {
-            "sentence": "дзэл1ыр '''гъэсагъ'''",
-            "translation": "The soldier '''is trained'''."
-          },
-          {
-            "sentence": "хьэ '''гъэсагъэм''' мэлыхэмэ на1э атигъэтыщт",
-            "translation": "A '''trained''' dog could protect the sheeps."
-          }
-        ]
-      },
-      {
-        "meaning": "taught to behave-well",
-        "examples": [
-          {
-            "sentence": "к1алэр '''гъэсагъ'''",
-            "translation": "The boy is '''taught to behave-well'''."
-          }
-        ]
-      }
-    ],
-    "type": "adj",
-    "ipa": "ʁasaːʁ"
-  },
-  {
     "word": "да1о",
     "lang": "Adyghe",
     "definitions": [
@@ -41611,6 +41495,10 @@
           {
             "sentence": "Мощ уикомпьютер '''ыгъэощт'''",
             "translation": "(S)he '''is going to destroy''' your computer."
+          },
+          {
+            "sentence": "Къэстехьахи сидзап1э '''агъэуагъ'''",
+            "translation": "They invaded me and '''destroyed''' my base."
           }
         ]
       },
@@ -52777,23 +52665,23 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to settle down",
+        "meaning": "to relax; to settle down (due to calmness)",
         "examples": [
           {
             "sentence": "К1алэр '''мэзагъэ'''",
-            "translation": "The '''settles down'''."
+            "translation": "The boy '''relaxes'''."
           },
 		  {
             "sentence": "К1алэр '''загъэ'''",
-            "translation": "The '''settled down'''."
+            "translation": "The '''relaxed'''."
           },
           {
             "sentence": "К1алэр '''загъэрэп'''",
-            "translation": "The boy '''doens't settle down'''."
+            "translation": "The boy '''doens't relax'''."
           },
           {
             "sentence": "К1алэр '''къыбгъэзэгъэшъурэба'''?",
-            "translation": "'''Can't you make''' the boy '''settle down'''?"
+            "translation": "'''Can't you make''' the boy '''relax'''?"
           }
         ]
       }
@@ -81408,6 +81296,10 @@
 		  {
             "sentence": "'''Дзап1эм''' тыщы1",
             "translation": "We are in the '''the base'''"
+          },
+          {
+            "sentence": "Къэстехьахи '''сидзап1э''' агъэуагъ",
+            "translation": "They invaded me and destroyed '''my base'''."
           }
         ]
       }
@@ -90920,11 +90812,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "care",
+        "meaning": "attention; care",
         "examples": [
           {
             "sentence": "К1алэм '''ына1э''' ышы тет",
             "translation": "The boy '''keeps an eye on''' his brother."
+          },
+		  {
+            "sentence": "К1алэм '''сина1э''' тегъэшэхъук1ыгъ",
+            "translation": "The boy diverted '''my attention'''."
           }
         ]
       }
@@ -99353,7 +99249,15 @@
         "meaning": "to calm, to quiet, to soothe",
         "examples": [
           {
-            "sentence": "КIалэу гъырэр '''гъэбыяун''' фае",
+            "sentence": "Зэ '''зыгъэбыяу'''",
+            "translation": "'''Calm yourself'''."
+          },
+		  {
+            "sentence": "К1алэм пшъашъэр '''егъэбыяо'''",
+            "translation": "The boy '''calms down''' the girl."
+          },
+		  {
+            "sentence": "К1алэу гъырэр '''гъэбыяун''' фае",
             "translation": "The boy that is crying needs '''to calm down'''."
           }
         ]
@@ -99361,10 +99265,247 @@
     ],
     "synonyms": [
       "гъэ1эсэн",
-      "зыгъэсамбырын"
+      "гъэсамбырын"
     ],
     "type": "verb",
     "ipa": "ʁabəjaːn"
+  },
+  {
+    "word": "гъэсамбырын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to calm, to quiet, to soothe",
+        "examples": [
+          {
+            "sentence": "Зэ '''зыгъэсамбыр'''",
+            "translation": "'''Calm yourself'''."
+          },
+		  {
+            "sentence": "К1алэм пшъашъэр '''егъсамбыры'''",
+            "translation": "The boy '''calms down''' the girl."
+          },
+		  {
+            "sentence": "К1алэу гъырэр '''гъэсамбырын''' фае",
+            "translation": "The boy that is crying needs '''to calm down'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "гъэ1эсэн",
+      "гъэбыяун"
+    ],
+    "type": "verb",
+    "ipa": "ʁasaːmbər ən"
+  },
+  {
+    "word": "рэхьатын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"къэрэхьатын\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "raħaːtən"
+  },
+  {
+    "word": "къэрэхьатын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to become relaxed, to become eased",
+        "examples": [
+		  {
+            "sentence": "Л1ы сымаджэр '''къэрэхьатыгъ'''",
+            "translation": "The sick man '''became relaxed'''."
+          },
+		  {
+            "sentence": "Кофе сешъомэ  '''сыкъэгъэрэхьаты'''",
+            "translation": "When I drink coffee '''I am relaxed'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "to relieve",
+        "examples": [
+		  {
+            "sentence": "Пшъашъэр '''къэрэхьатыгъ''' хъугъэр зэхехым",
+            "translation": "The girl '''relieved''' when she heard what happened."
+          },
+		  {
+            "sentence": "'''Сыкъэрэхьатырэп'''",
+            "translation": "'''I am not becoming relieved'''."
+          },
+		  {
+            "sentence": "Програмыр къэлажьэм '''сыкъэрэхьатыгъ'''",
+            "translation": "When the program worked '''I became relieved'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "qaraħaːtən"
+  },
+  {
+    "word": "гъэрэхьатын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to relax, to ease (more specifically: to make someone become peaceful)",
+        "examples": [
+		  {
+            "sentence": "К1алэм пшъашъэр '''егъэрэхьаты'''",
+            "translation": "The boy '''relaxes''' the girl."
+          },
+		  {
+            "sentence": "Уцым л1ы сымаджэр '''къигъэрэхьатыгъ'''",
+            "translation": "The pill '''relaxed''' the sick man."
+          },
+		  {
+            "sentence": "Кофем сэ  '''сыкъегъэрэхьаты'''",
+            "translation": "The coffee '''relaxes me'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "to relieve someone",
+        "examples": [
+		  {
+            "sentence": "К1алэм пшъашъэр '''ыгъэрэхьатыгъ''' хъугъэр зыфре1уатэм",
+            "translation": "The boy '''."
+          },
+		  {
+            "sentence": "Програмыр къэлажьэмэ, '''сыкъыригъэхьатыгъ'''",
+            "translation": "If the program works '''it will relieve me'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "гъэ1эсэн",
+      "гъэбыяун"
+    ],
+    "type": "verb",
+    "ipa": "ʁasaːmbər ən"
+  },
+  {
+    "word": "гъэсэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to train",
+        "examples": [
+          {
+            "sentence": "Тхьэматэм идзак1охэр '''егъасэх'''",
+            "translation": "The caption is '''training''' his soldiers."
+          },
+          {
+            "sentence": "К1алэр сэ '''сэгъасэ''' шэк1онэу",
+            "translation": "'''I am training''' the boy to be a hunter."
+          },
+          {
+            "sentence": "К1алэр '''гъэсагъэп''' икъунэу",
+            "translation": "The boy '''is not trained''' enough."
+          },
+          {
+            "sentence": "К1алэр дзэм хэхьан фэш1к1э '''зигъэсэн''' фай",
+            "translation": "In order for '''the boy''' to join the army he needs to train."
+          },
+          {
+            "sentence": "К1алэм '''зегъасэ'''",
+            "translation": "The boy '''is training (himself)'''."
+          },
+          {
+            "sentence": "Дзэмк1э л1ыхэр '''къагъасэх'''",
+            "translation": "In the army '''they train''' the men."
+          },
+          {
+            "sentence": "К1алэр экзамыным '''фагъэсэ'''",
+            "translation": "'''They train''' the boy '''for''' the exam."
+          },
+          {
+            "sentence": "К1алэм экзамыным '''зыфегъасэ'''",
+            "translation": "The boy '''practices''' for the exam."
+          }
+        ]
+      },
+      {
+        "meaning": "to teach good manners, to teach good behavior",
+        "examples": [
+          {
+            "sentence": "Мы к1алэр '''агъэсагъэп'''",
+            "translation": "This boy '''was not taught how to behave'''."
+          },
+          {
+            "sentence": "Куджаным ик1алэ ш1у '''ыгъасэ'''",
+            "translation": "Kujan '''is teaching''' his boy '''how to behave well'''."
+          },
+          {
+            "sentence": "Л1ыжъым к1алэр '''егъасэ'''",
+            "translation": "The old-man '''is teaching''' the boy '''how to behave well'''."
+          },
+          {
+            "sentence": "К1алэр '''гъэсагъэп'''",
+            "translation": "The boy '''was not taught how to behave'''."
+          },
+          {
+            "sentence": "Тэрэзэу уянэ '''уигъэсагъэба'''?",
+            "translation": "'''Didn't''' your mother '''taught you how to behave'''?"
+          }
+        ]
+      },
+      {
+        "meaning": "to tame",
+        "examples": [
+          {
+            "sentence": "Л1ым хьэр '''егъасэ'''",
+            "translation": "The man '''is timming''' the dog."
+          },
+          {
+            "sentence": "К1алэм ичэтыухэр '''ыгъэсагъэх'''",
+            "translation": "The boy '''timed ''' his cats."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "гъэ1эсэн"
+    ],
+    "type": "adj",
+    "ipa": "ʁasan"
+  },
+  {
+    "word": "гъэсагъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "trained",
+        "examples": [
+          {
+            "sentence": "дзэл1ыр '''гъэсагъ'''",
+            "translation": "The soldier '''is trained'''."
+          },
+          {
+            "sentence": "хьэ '''гъэсагъэм''' мэлыхэмэ на1э атигъэтыщт",
+            "translation": "A '''trained''' dog could protect the sheeps."
+          }
+        ]
+      },
+      {
+        "meaning": "taught to behave-well",
+        "examples": [
+          {
+            "sentence": "к1алэр '''гъэсагъ'''",
+            "translation": "The boy is '''taught to behave-well'''."
+          }
+        ]
+      }
+    ],
+    "type": "adj",
+    "ipa": "ʁasaːʁ"
   },
   {
     "word": "гъэ1эсэн",
@@ -99372,16 +99513,29 @@
     "definitions": [
       {
         "meaning": "to tame",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ым ихьэ дэгъоу '''ыгъэ1эсагъ'''",
+            "translation": "The man '''tamed''' his dog good."
+          }
+        ]
       },
       {
-        "meaning": "to teach good manners, to teach good behavior",
-        "examples": []
+        "meaning": "to calm, to quiet, to soothe",
+        "examples": [
+		  {
+            "sentence": "К1алэм хьэр '''егъэ1асэ'''",
+            "translation": "The boy '''calms down''' the dog."
+          },
+		  {
+            "sentence": "К1алэу гъырэр '''гъэ1эсэн''' фае",
+            "translation": "The boy that is crying needs '''to calm down'''."
+          }
+        ]
       }
     ],
     "synonyms": [
-      "гъэбыяун",
-      "гъэсэн"
+      "гъэбыяун"
     ],
     "type": "verb",
     "ipa": "ʁaʔasan"
@@ -99408,18 +99562,32 @@
     "definitions": [
       {
         "meaning": "guilty",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Мысэр''' къагъотыгъ",
+            "translation": "They found the '''guilty one'''."
+          },
+		  {
+            "sentence": "Судым ар '''мысэу''' ылъэгъугъ",
+            "translation": "The court found him/her '''guilty'''."
+          }
+        ]
       },
       {
         "meaning": "culprit",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Мысэу''' л1ыр зиук1ыгъэр къагъотыгъ",
+            "translation": "They found the '''culprit''' that killed the man."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "məsa"
   },
   {
-    "word": "хэгущы1эхьан",
+    "word": "хэгущы1ыхьан",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -99427,8 +99595,17 @@
         "examples": []
       },
       {
-        "meaning": "to interrupt or break into a conversation by speaking",
-        "examples": []
+        "meaning": "to interrupt or break into a conversation by speaking; to speak over someone (to talk louder than the other person, so one's words can be heard over the other's words)",
+        "examples": [
+          {
+            "sentence": "Зыгорэ къэс1уатэу к1алэр '''къэсхэгущы1ыхьэ'''",
+            "translation": "While I was telling something, the boy '''interrupted me by speaking'''."
+          },
+		  {
+            "sentence": "Купыр зэнэкъокъумэ, зэк1эри '''зэхэгущы1ыхьажьых''', зыгори къызгуры1ошъурэп",
+            "translation": "When the group haves an argument, everyone '''speaks over the other''' and I can not make out anything."
+          }
+        ]
       },
       {
         "meaning": "to get a word in edgewise",
@@ -99436,7 +99613,7 @@
       }
     ],
     "type": "verb",
-    "ipa": "xaɡʷəɕəʔaħaːn"
+    "ipa": "xaɡʷəɕəʔəħaːn"
   },
   {
     "word": "хьэкъуашъо",
@@ -99446,7 +99623,7 @@
         "meaning": "trough, waterer (device from which animals drink)",
         "examples": [
           {
-            "sentence": "Былымхэр псы ешъохэу '''хьэкъуашъом''' кIэлъырытыгъэх",
+            "sentence": "Былымхэр псы ешъохэу '''хьэкъуашъом''' к1элъырытыгъэх",
             "translation": "The cattle were next to the '''trough'''."
           }
         ]
@@ -99497,12 +99674,87 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to divert",
-        "examples": []
+        "meaning": "to divert from, to distract from (to relax, entertain or amuse by diverting the attention)",
+        "examples": [
+          {
+            "sentence": "Пшъашъэм л1ы сымаджэм узыр '''тегъэу''' дэгущы1эу",
+            "translation": "The girl '''diverts''' the disease from the sick man by talking with him."
+          },
+		  {
+            "sentence": "Сымаджэм ыдэжь ук1он фае сымаджэм '''зытегъэунэу'''",
+            "translation": "You need to visit sick people so the sick '''will be distracted'''."
+          },
+		  {
+            "sentence": "'''Зытезгъэунэу''' унэм сык1и щагум сыдэхьагъ",
+            "translation": "'''To divert oneself''' I went outside the house and went to the yard."
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "tajʁawən"
+  },
+  {
+    "word": "тегъэгупшысык1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to divert from, to distract from (more specifically: to distract someone by making him/her think of other stuff)",
+        "examples": [
+          {
+            "sentence": "К1алэм '''сытегъэгупшысык1ыгъ''', джы сыш1энэу сыфэягъэр сыгу къэк1ыжьырэп",
+            "translation": "The boy '''distracted me''', now I don't remember what I wanted to do."
+          },
+		  {
+            "sentence": "Укъысдэгущы1эу '''сытебгъэгупшысык1и''' къэсщыгъупшыгъ къэс1ощтыгъэр",
+            "translation": "By talking with me, '''you distracted me and''' I forgot what I wanted to say."
+          }
+        ]
+      }
+    ],
+    "shapsug": "тегъэгупшысык1ьын",
+    "type": "verb",
+    "ipa": "tajʁagʷəpʃəsət͡ʃʼən"
+  },
+  {
+    "word": "тегъэшэхъук1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to divert from, to distract from",
+        "examples": [
+          {
+            "sentence": "на1эр '''тегъэшэхъук1ын'''",
+            "translation": "'''To divert''' attention."
+          }
+        ]
+      }
+    ],
+    "shapsug": "тегъэшэхъук1ьын",
+    "type": "verb",
+    "ipa": "tajʁaʃəχʷət͡ʃʼən"
+  },
+  {
+    "word": "тегупшысык1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to underthink (to give insufficient thought or consideration to; fail to consider adequately)",
+        "examples": [
+          {
+            "sentence": "К1алэр '''тегупшысык1и''' тучанымк1э къихьыгъэп Колэ",
+            "translation": "The boy '''underthink''' and he forgot to bring Cola from the shop."
+          }
+        ]
+      },
+	  {
+        "meaning": "to divert from, to distract from (more specifically: to get distracted by thinking of other stuff)",
+        "examples": []
+      }
+    ],
+    "shapsug": "тегупшысык1ьын",
+    "type": "verb",
+    "ipa": "tajgʷəpʃəsət͡ʃʼən"
   },
   {
     "word": "техьан",
@@ -99515,9 +99767,13 @@
             "sentence": "К1алэр унашъхьэм '''техьэ'''",
             "translation": "The boy '''is going up''' the roof."
           },
+		  {
+            "sentence": "К1алэр сценэм '''техьагъ'''",
+            "translation": "The boy '''went on''' the stage."
+          },
           {
-            "sentence": "Джэхашъом '''утемыхь''' уицуакъэхэр шъоихэу",
-            "translation": "'''Don't go on''' the floor with your shoes being dirty."
+            "sentence": "Джэхашъом '''утемыхь''' уицуакъэхэр ш1оихэу",
+            "translation": "'''Don't go on''' the floor while your shoes are filthy."
           },
           {
             "sentence": "Л1ыр сценэм '''къытехьагъ''' гущы1э къитынэу",
@@ -99529,12 +99785,16 @@
         "meaning": "to invade in order to attack",
         "examples": [
           {
-            "sentence": "Урыс дзэхэр чылэм '''къытехьагъэх'''",
-            "translation": "The Russian armies '''assaulted''' the village."
+            "sentence": "Дзэр чылэм '''къытехьагъэх'''",
+            "translation": "The army '''invaded''' the village."
           },
           {
             "sentence": "'''Укъыстемыхь''' джы, сыхьазырэп",
-            "translation": "'''Don't assault me (my base)''', I am not ready."
+            "translation": "'''Don't invade me''', I am not ready."
+          },
+          {
+            "sentence": "'''Къэстехьахи''' сидзап1э агъэуагъ",
+            "translation": "'''They invaded me and''' destroyed my base."
           }
         ]
       }
@@ -106113,10 +106373,6 @@
     "word": "утыку",
     "lang": "Adyghe",
     "definitions": [
-      {
-        "meaning": "stage",
-        "examples": []
-      },
       {
         "meaning": "square (open area in a town or city)",
         "examples": []

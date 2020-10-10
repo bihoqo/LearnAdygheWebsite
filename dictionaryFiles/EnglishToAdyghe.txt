@@ -4726,7 +4726,7 @@
     "scalp": "шъхьацышъо"
   },
   {
-    "murder": "ук1; л1ыук1"
+    "execution": "ук1"
   },
   {
     "killer": "ук1ак1о; л1ыук1"
@@ -11020,7 +11020,19 @@
     "comfortable": "гупсэф; рэхьат"
   },
   {
+    "to relieve": "къэрэхьатын (to be relieved); гъэрэхьатын (to make someone relieved)"
+  },
+  {
+    "to ease": "къэрэхьатын (to be eased); гъэрэхьатын (to make someone eased)"
+  },
+  {
+    "to relax": "къэрэхьатын (to be relaxed); гъэрэхьатын (to relax someone); зэгъэн (to become relaxed)"
+  },
+  {
     "rasp": "гъуч1ахъу"
+  },
+  {
+    "to relax": "къэрэхьатын (to be relaxed); гъэрэхьатын (to relax someone); зэгъэн (to become relaxed)"
   },
   {
     "pride": "шъхьэ1атынгъэ; пэгэныгъ; зыш1ош1ыжьыныгъ; зыщытхъужьыныгъ"
@@ -13006,7 +13018,7 @@
     "cry noise": "гъымакъэ (гъы макъэ)"
   },
   {
-    "to talk": "гущы1эн (to be talking); (Kabardian) псэлъэн (to be talking); дэгущы1эн (to talk with someone); хэгущы1эхьан (to interrupt or break into a conversation by speaking, to speak among other people); тегущы1эн (to talk about someone or something); тегущы1эхьан (to have a full conversation/discussion about something); къыхэгущы1эк1ын (to talk from among other people); къэбар къэ1отэн / къэбар къэпчъын (to have a casual conversation)"
+    "to talk": "гущы1эн (to be talking); (Kabardian) псэлъэн (to be talking); дэгущы1эн (to talk with someone); хэгущы1ыхьан (to interrupt or break into a conversation by speaking, to speak among other people); тегущы1эн (to talk about someone or something); тегущы1эхьан (to have a full conversation/discussion about something); къыхэгущы1эк1ын (to talk from among other people); къэбар къэ1отэн / къэбар къэпчъын (to have a casual conversation)"
   },
   {
     "box": "къутэ; пхъуантэ; къэмлан; (Shapsug) сандыкъ"
@@ -16294,7 +16306,7 @@
     "to quiet": "гъэушъэфын (to make someone quiet); гъэбыяун / гъэсамбырын (to calm someone)"
   },
   {
-    "to calm": "быяун / самбырын (to calm down); гъэбыяун / гъэсамбырын (to calm someone); зэгъэн (to settle down due to calmness)"
+    "to calm": "быяун / самбырын (to calm down); гъэбыяун / гъэсамбырын / гъэрэхьатын (to calm someone, to ease someone); зэгъэн (to settle down due to calmness)"
   },
   {
     "to tame": "гъэсэн; гъэ1эсэн"
@@ -16306,13 +16318,19 @@
     "to teach good behavior": "гъэсэн; гъэ1эсэн"
   },
   {
+    "butcher": "лыщэ; къэсапыш1"
+  },
+  {
     "guilty": "мысэ"
   },
   {
     "culprit": "мысэ"
   },
   {
-    "to speak": "гущы1эн (to be speaking); (Kabardian) псэлъэн (to be speaking); дэгущы1эн (to speak with someone); хэгущы1эхьан (to interrupt or break into a conversation by speaking, to speak among other people); тегущы1эн (to speak about someone or something); тегущы1эхьан (to have a full conversation/discussion about something); къыхэгущы1эк1ын (to speak from among other people)"
+    "to speak": "гущы1эн (to be speaking); (Kabardian) псэлъэн (to be speaking); дэгущы1эн (to speak with someone); хэгущы1ыхьан (to speak over someone, to interrupt or break into a conversation by speaking, to speak among other people); тегущы1эн (to speak about someone or something); тегущы1эхьан (to have a full conversation/discussion about something); къыхэгущы1эк1ын (to speak from among other people)"
+  },
+  {
+    "to speak over": "хэгущы1ыхьан (to speak over someone, to interrupt or break into a conversation by speaking, to speak among other people)"
   },
   {
     "trough": "хьэкъуашъо (device from which animals drink)"
@@ -16324,7 +16342,10 @@
     "tub": "хьэкъуашъо"
   },
   {
-    "to divert": "тегъэун"
+    "to divert": "тегупшысык1ын (to get diverted); тегъэшэхъук1ын; тегъэшъхьэрыук1ын; тегъэгупшысык1ын (to divert someone); тегъэун (in order to to relax, entertain or amuse by diverting the attention)"
+  },
+  {
+    "to distract": "тегупшысык1ын (to get distract); тегъэшэхъук1ын; тегъэшъхьэрыук1ын; тегъэгупшысык1ын (to distract someone); тегъэун (in order to to relax, entertain or amuse by diverting the attention)"
   },
   {
     "to go on": "техьан; телъэдэн (to run on)"
@@ -16780,7 +16801,7 @@
     "to mourn": "гъэен; шъыгъон (to be in a mourning)"
   },
   {
-    "attention": "унашъо"
+    "attention": "унашъо; на1э"
   },
   {
     "deathtime": "хьадэгъу"
