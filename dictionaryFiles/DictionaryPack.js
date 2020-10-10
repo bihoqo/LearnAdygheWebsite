@@ -93108,6 +93108,10 @@
           {
             "sentence": "Л1ыр '''шъофым''' хахьи пхъэ 1ап1э чылэм къихьыжьыгъ",
             "translation": "The man went to '''the fields''' and brought a bundle of wood to the village."
+          },
+		  {
+            "sentence": "Пчэдыжьым '''шъофым''' тыхэхьани, чэщым чылэм тыкъыдэхьажьыщт",
+            "translation": "In the morning we will enter '''the fields''' and in the night we will return to the village."
           }
         ]
       }
@@ -99782,7 +99786,7 @@
         ]
       },
       {
-        "meaning": "to invade in order to attack",
+        "meaning": "to invade",
         "examples": [
           {
             "sentence": "Дзэр чылэм '''къытехьагъэх'''",
@@ -100118,7 +100122,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to go / inside something, to enter",
+        "meaning": "to go inside something; to enter",
         "examples": [
           {
             "sentence": "К1алэр унэм '''ихьагъ'''",
@@ -100126,7 +100130,11 @@
           },
           {
             "sentence": "Гъуанэм '''уимыхь'''",
-            "translation": "'''Don't go inside''' the whole."
+            "translation": "'''Don't go inside''' the hole."
+          },
+          {
+            "sentence": "Баджэр бым '''ихьажьыгъ'''",
+            "translation": "The fox '''went inside''' the burrow."
           },
           {
             "sentence": "Слъакъохэр цуакъэм '''ихьахэрэп'''",
@@ -100146,18 +100154,38 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to go / enter a defined area",
+        "meaning": "to enter a defined area",
         "examples": [
           {
             "sentence": "К1алэр щагум '''дэхьагъ'''",
             "translation": "The boy '''went inside''' the yard."
+          },
+		  {
+            "sentence": "Л1ыр кумк1э къалэм '''дэхьагъ'''",
+            "translation": "The man '''entered''' the city with a car."
+          },
+		  {
+            "sentence": "Пчэдыжьым шъофым тыхэхьани, чэщым чылэм '''тыкъыдэхьажьыщт'''",
+            "translation": "In the morning we will enter the fields and in the night '''we will return to''' the village."
           }
         ]
+      },
+	  {
+        "meaning": "to go in between",
+        "examples": [
+          {
+            "sentence": "К1алэр к1элит1ум азыфаго '''дэхьагъ'''",
+            "translation": "The boy '''went in between''' the two boys."
+          }
+        ]
+      },
+	  {
+        "meaning": "to go inside another object",
+        "examples": []
       }
     ],
-    "synonyms": [
-      "дэхьэн"
-    ],
+    "shapsug": "дэхьэн",
+    "kabardian": "дэхьэн",
     "type": "verb",
     "ipa": "daħaːn"
   },
@@ -100172,6 +100200,23 @@
       {
         "meaning": "to run toward; to rush at (usually to assault)",
         "examples": []
+      },
+      {
+        "meaning": "to invade",
+        "examples": [
+          {
+            "sentence": "Дзэр чылэм '''къытелъэдагъ'''",
+            "translation": "The army '''invaded''' the village."
+          },
+          {
+            "sentence": "'''Укъыстемылъад''' джы, сыхьазырэп",
+            "translation": "'''Don't invade me''', I am not ready."
+          },
+          {
+            "sentence": "'''Къэстелъадэхи''' сидзап1э агъэуагъ",
+            "translation": "'''They invaded me and''' destroyed my base."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -101371,12 +101416,16 @@
         ]
       },
       {
-        "meaning": "to go into / enter an area of mass (liquid, solid or gas), to go through",
+        "meaning": "to go into / enter an area of mass (liquid, solid or gas), to go through, to go within",
         "examples": [
           {
             "sentence": "К1алэр мэзым '''хахьэ'''",
             "translation": "The boy '''enters''' the forest."
           },
+		  {
+            "sentence": "Пчэдыжьым шъофым '''тыхэхьани''' чэщым чылэм тыкъыдэхьажьыщт",
+            "translation": "In the morning '''we will enter''' the fields '''and''' in the night we will return to the village."
+          }
           {
             "sentence": "К1алэр псым '''хэхьагъ'''",
             "translation": "The boy '''entered''' the water."
