@@ -10928,9 +10928,9 @@
   },
   {
     "to let time past": "блэгъэк1ын"
-  },
+  }
   {
-    "to settle down": "зэгъэн"
+    "to settle down": "зэгъэн (to settle down due to calmness)"
   },
   {
     "to be sufficed with": "езэгъын (to get along with someone); зэзэгъын (to be sufficed with each other); хэзэгъэн (to be sufficed among)"
@@ -16288,13 +16288,13 @@
     "to knife": "ш1обзын (to slice to kill)"
   },
   {
-    "to slit": "ш1обзын  (to slice to kill)"
+    "to slit": "ш1обзын (to slice to kill)"
   },
   {
     "to quiet": "гъэушъэфын (to make someone quiet); гъэбыяун / гъэсамбырын (to calm someone)"
   },
   {
-    "to calm": "гъэбыяун / гъэсамбырын (to calm someone); зэгъэн (to settle down)"
+    "to calm": "быяун / самбырын (to calm down); гъэбыяун / гъэсамбырын (to calm someone); зэгъэн (to settle down due to calmness)"
   },
   {
     "to tame": "гъэсэн; гъэ1эсэн"
