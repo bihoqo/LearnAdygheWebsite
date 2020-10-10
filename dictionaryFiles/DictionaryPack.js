@@ -34495,6 +34495,10 @@
 		  {
             "sentence": "Шхын зэмыл1эужыгъор '''сышхыгъэх'''",
             "translation": "'''I ate''' various foods."
+          },
+          {
+            "sentence": "Шхын бэ '''зышхырэр''' пщэрэу мэхъу",
+            "translation": "'''One that eats''' a lot of food becomes fat."
           }
         ]
       }
