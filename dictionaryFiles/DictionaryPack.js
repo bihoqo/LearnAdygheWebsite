@@ -248,6 +248,10 @@
 		  {
             "sentence": "Л1ыр пщыл1ым къамыщык1э '''ео'''",
             "translation": "The man '''is striking''' the slave with a whip."
+          },
+		  {
+            "sentence": "К1алэм сигъэгубжи '''сео''' пэтыгъ, ау зыкъэзгъэуцужьыгъ",
+            "translation": "The boy angered me and '''I''' almost '''hit him''', but I stopped myself."
           }
         ]
       },
@@ -16521,6 +16525,55 @@
     "ipa": "bʒəmə zaːwa"
   },
   {
+    "word": "езэон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to fight someone",
+        "examples": [
+          {
+            "sentence": "К1алэр л1ым '''езао'''",
+            "translation": "the boy '''is fighting''' the man."
+          },
+          {
+            "sentence": "Мо хэр '''къысэзэотых'''",
+            "translation": "Those [people] '''will fight with me'''."
+          },
+          {
+            "sentence": "К1алэм '''уезэошъущта'''",
+            "translation": "'''Can you fight''' the boy"
+          },
+          {
+            "sentence": "Дунай зао ят1унэмк1э Джармынрэ Урысыемрэ '''зэзэуагъэх'''",
+            "translation": "In World War 2 Germany and Russian '''fought each other'''."
+          },
+          {
+            "sentence": "Модэ к1элит1у '''зэзаох'''",
+            "translation": "There two boys '''are fighting each other'''."
+          },
+          {
+            "sentence": "Сыбгъэгубжымэ '''усэзэощт'''",
+            "translation": "If you angry me '''I will fight you'''."
+          },
+		  {
+            "sentence": "К1алэхэр къэстелъэдагъэх '''къысэзэоныхэу'''",
+            "translation": "The boys rushed at me '''to fight with me'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "to battle someone",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "зэон",
+      "зэзэон"
+    ],
+    "type": "verb",
+    "ipa": "jazawan"
+  },
+  {
     "word": "зэон",
     "lang": "Adyghe",
     "definitions": [ 
@@ -16552,10 +16605,6 @@
             "translation": "'''Can you fight''' the boy"
           },
           {
-            "sentence": "Дунай зао ят1унэмк1э Джармынрэ Урысыемрэ '''зэзэуагъэх'''",
-            "translation": "In World War 2 Germany and Russian '''fought each other'''."
-          },
-          {
             "sentence": "Л1ыр заом '''щызао'''",
             "translation": "The man '''is fighting''' in the war."
           },
@@ -16566,6 +16615,10 @@
           {
             "sentence": "Модэ к1элит1у '''зэзаох'''",
             "translation": "There two boys '''are fighting each other'''."
+          },
+          {
+            "sentence": "Дунай зао ят1унэмк1э Джармынрэ Урысыемрэ '''зэзэуагъэх'''",
+            "translation": "In World War 2 Germany and Russian '''fought each other'''."
           }
         ]
       },
@@ -42772,6 +42825,10 @@
           {
             "sentence": "Хьэубытым '''укъигъэуцущт'''",
             "translation": "The police '''is going to stop you'''."
+          },
+		  {
+            "sentence": "К1алэм сигъэгубжи сео пэтыгъ, ау '''зыкъэзгъэуцужьыгъ'''",
+            "translation": "The boy angered me and I almost hit him, but '''I stopped myself'''."
           }
         ]
       },
@@ -50821,6 +50878,10 @@
 		  {
             "sentence": "Лэжьак1ор и1оф иуахътэ '''ымыухынк1э''' тещыныхьэ",
             "translation": "The worker is afraid of '''not to finish''' his work in time."
+          },
+		  {
+            "sentence": "Тхьэматэм лажьэ тралъхьажьыгъ 1офыр иуахътэ '''ухыгъэпи'''",
+            "translation": "They blamed the boss '''because''' the job '''was not finished''' in time."
           }
         ]
       },
@@ -52880,6 +52941,10 @@
           {
             "sentence": "Л1ыжъэр '''къэшъумыгъэгубж'''",
             "translation": "'''Don't infuriate''' the old-man."
+          },
+		  {
+            "sentence": "К1алэм '''сигъэгубжи''' сео пэтыгъ, ау зыкъэзгъэуцужьыгъ",
+            "translation": "The boy '''angered me''' and I almost hit him, but I stopped myself."
           }
         ]
       }
@@ -58836,51 +58901,6 @@
     ],
     "type": "verb",
     "ipa": "waʃʷ"
-  },
-  {
-    "word": "езэон",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to fight someone",
-        "examples": [
-          {
-            "sentence": "К1алэр л1ым '''езао'''",
-            "translation": "the boy '''is fighting''' the man."
-          },
-          {
-            "sentence": "Мо хэр '''къысэзэотых'''",
-            "translation": "Those [people] '''will fight with me'''."
-          },
-          {
-            "sentence": "К1алэм '''уезэошъущта'''",
-            "translation": "'''Can you fight''' the boy"
-          },
-          {
-            "sentence": "Дунай зао ят1унэмк1э Джармынрэ Урысыемрэ '''зэзэуагъэх'''",
-            "translation": "In World War 2 Germany and Russian '''fought each other'''."
-          },
-          {
-            "sentence": "Модэ к1элит1у '''зэзаох'''",
-            "translation": "There two boys '''are fighting each other'''."
-          },
-          {
-            "sentence": "Сыбгъэгубжымэ '''усэзэощт'''",
-            "translation": "If you angry me '''I will fight you'''."
-          }
-        ]
-      },
-	  {
-        "meaning": "to battle someone",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "зэон",
-      "зэзэон"
-    ],
-    "type": "verb",
-    "ipa": "jazawan"
   },
   {
     "word": "бзэин",
@@ -80177,7 +80197,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to knock against, to bump against",
+        "meaning": "to knock against, to bump against, to collide against",
         "examples": [
           {
             "sentence": "К1алэр шымк1э адрэ шым '''еол1агъ'''",
@@ -80190,6 +80210,10 @@
 		  {
             "sentence": "Л1ыр пкъэум кумк1э '''еуал1и''' риутыгъ",
             "translation": "The man '''collided against''' the column with the car and knocked it down."
+          },
+		  {
+            "sentence": "Кур гъогумк1э къэстелъади '''сеуал1э''' пэтыгъ",
+            "translation": "The car came toward me and '''I''' almost '''collided against it'''."
           }
         ]
       }
@@ -80648,6 +80672,10 @@
 		  {
             "sentence": "Америкэ сыдэущтэу щыт '''къэтфэ1уат'''",
             "translation": "'''Tell us''' how it is in America."
+          },
+		  {
+            "sentence": "Зэ укъыстемылъад, хъугъэр '''къэсэгъэ1уат'''",
+            "translation": "Please don't attack [accusing] me, '''let me tell''' what happened."
           }
         ]
       }
@@ -89653,6 +89681,30 @@
     "ipa": "jəfən"
   },
   {
+    "word": "пэтыгъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "almost, about to, close to happen",
+        "examples": [
+          {
+            "sentence": "Кур гъогумк1э къэстелъади сеуал1э '''пэтыгъ'''",
+            "translation": "The car came toward me and I '''almost''' collided against it."
+          },
+		  {
+            "sentence": "Бэрэ сычъагъэ нэмы1эк1э сыкъэмэхы '''пэтыгъ'''",
+            "translation": "I ran so much that I '''almost''' fainted."
+          },
+		  {
+            "sentence": "К1алэм сигъэгубжи сео '''пэтыгъ''', ау зыкъэзгъэуцужьыгъ",
+            "translation": "The boy angered me and I '''almost''' hit him, but I stopped myself."
+          }
+        ]
+    ],
+    "type": "adv",
+    "ipa": "patəʁ"
+  }
+  {
     "word": "нэмы1эк1э",
     "lang": "Adyghe",
     "definitions": [
@@ -91794,6 +91846,10 @@
 		  {
             "sentence": "Лэжьак1ор и1оф '''иуахътэ''' ымыухынк1э тещыныхьэ",
             "translation": "The worker is afraid of not to finish his work '''in time'''."
+          },
+		  {
+            "sentence": "Тхьэматэм лажьэ тралъхьажьыгъ 1офыр '''иуахътэ''' ухыгъэпи",
+            "translation": "They blamed the boss because the job was not finished '''in time'''."
           }
         ]
       }
@@ -96205,6 +96261,14 @@
 		  {
             "sentence": "Зэуак1охэр хьазырых '''зэзэоныхэу'''",
             "translation": "The fighters are ready '''to fight each other'''"
+          },
+          {
+            "sentence": "Модэ к1элит1у '''зэзаох'''",
+            "translation": "There two boys '''are fighting each other'''."
+          },
+          {
+            "sentence": "Дунай зао ят1унэмк1э Джармынрэ Урысыемрэ '''зэзэуагъэх'''",
+            "translation": "In World War 2 Germany and Russian '''fought each other'''."
           }
         ]
       },
@@ -100195,11 +100259,37 @@
     "definitions": [
       {
         "meaning": "to attack with unfounded accusations",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''къэстелъэдагъ''' хъугъэр къэстелъхьажьэу",
+            "translation": "The boy '''came attacked [accusing] me''' blaming me for what happened."
+          },
+		  {
+            "sentence": "Зэ '''укъыстемылъад''', хъугъэр къэсэгъэ1уат",
+            "translation": "Please '''don't attack [accusing] me''', let me tell what happened."
+          }
+        ]
       },
       {
-        "meaning": "to run toward; to rush at (usually to assault)",
-        "examples": []
+        "meaning": "to go on running; to run toward; to rush at (usually to assault)",
+        "examples": [
+          {
+            "sentence": "К1алэхэр '''къэстелъэдагъэх''' къысэзэоныхэу",
+            "translation": "The boys '''rushed at me''' to fight with me."
+          },
+		  {
+            "sentence": "Пшъагъэр к1алэм '''телъэдагъ''' къиубытыжьынэу",
+            "translation": "The girl '''ran toward''' the boy to hug him."
+          },
+		  {
+            "sentence": "Дзак1охэр дзап1эм '''телъэдагъэх'''",
+            "translation": "The soldiers '''rush into''' the base."
+          },
+		  {
+            "sentence": "Кур гъогумк1э '''къэстелъади''' сеуал1э пэтыгъ",
+            "translation": "The car '''came toward me and''' I almost collided against it."
+          }
+        ]
       },
       {
         "meaning": "to invade",
@@ -110915,6 +111005,19 @@
 		  {
             "sentence": "К1алэм нэгъунджэхэр '''зытелъхьэх'''",
             "translation": "The boy '''puts on''' glasses."
+          }
+        ]
+      },
+	  {
+        "meaning": "to blame; to put the blame on",
+        "examples": [
+          {
+            "sentence": "К1алэр къэстелъэдагъ хъугъэр '''къэстелъхьажьэу'''",
+            "translation": "The boy came accusing me '''blaming me''' for what happened."
+          },
+		  {
+            "sentence": "Тхьэматэм '''лажьэ тралъхьажьыгъ''' 1офыр иуахътэ ухыгъэпи",
+            "translation": "'''They blamed''' the boss because the job was not finished in time."
           }
         ]
       }

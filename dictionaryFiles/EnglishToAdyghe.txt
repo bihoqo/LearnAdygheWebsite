@@ -2406,7 +2406,7 @@
     "neighboring": "пэгъунэгъу"
   },
   {
-    "close to": "пэблагъ (close to); пэгъунэгъу (close to)"
+    "close to": "пэблагъ (close to); пэгъунэгъу (close to); пэтыгъ (close to happen, almost, about to)"
   },
   {
     "close friend": "благъэ"
@@ -8656,6 +8656,12 @@
     "breeze": "жьышъаб"
   },
   {
+    "almost": "пэтыгъ"
+  },
+  {
+    "about to": "пэтыгъ"
+  },
+  {
     "windmill": "жьышъхьал"
   },
   {
@@ -9328,7 +9334,7 @@
     "to put down": "гъэт1ылъын; ч1ыгум телъхьан"
   },
   {
-    "to put": "гъэт1ылъын (to put down); илъхьан (to put inside); телъхьан (to put on); ч1элъхьан (to put under); 1улъхьан (to put near); къолъхьан (to put behind); пылъхьан (to hang, to attach); голъхьан / бгъодэлъхьан (to put besides); дэлъхьан (to put between or to put inside another object); хэлъхьан (to put something in an area with gas or liquid, to put something among other people/objects, to put a certain manner, behavior or attribute in someone, to put something through something); к1оц1ылъхьан (to put something within something); гъэуцун (to put something somewhere); тегъэуцун (to put on); дэгъэуцон (to put between); 1угъэуцон (to put something near); зэтелъхьан (to put on each other); к1элъырыгъэуцон (to put something next to); жэхэлъхьан (to intensively put something against something); зэк1элъхьан (to put stuff under each other); зэкъолъхьан (to put stuff behind each other); зэдэлъхьан (to put stuff in each other); зэрилъхьан (to put stuff inside each other); зэголъхьан / зэбгъодэлъхьан (to put stuff aside each other); зэпылъхьан (to attach stuff to each other); итэкъон (to put/throw stuff inside something); тетэкъон (to put/throw stuff on something); ч1этэкъон (to put/throw stuff under something); дэтэкъон (to put/throw stuff inside another object, to put/throw stuff between); къотэкъон (to put/throw stuff behind something); хэтэкъон (to put/throw stuff among other objects/people, to throw/put stuff in an area with fire, gas or liquid); готэкъон / бгъодэтэкъон (to put/throw stuff besides something); жэхэтэкъон (to put/throw stuff against something); 1оф хэдзэн (to put/throw someone in a troublesome situation); къегъэт1ылъэк1ын (to put around)"
+    "to put": "гъэт1ылъын (to put down); илъхьан (to put inside); телъхьан (to put on); ч1элъхьан (to put under); 1улъхьан (to put near); къолъхьан (to put behind); пылъхьан (to hang, to attach); голъхьан / бгъодэлъхьан (to put besides); дэлъхьан (to put between or to put inside another object); хэлъхьан (to put something in an area with gas or liquid, to put something among other people/objects, to put a certain manner, behavior or attribute in someone, to put something through something); к1оц1ылъхьан (to put something within something); гъэуцун (to put something somewhere); тегъэуцун (to put on); дэгъэуцон (to put between); 1угъэуцон (to put something near); зэтелъхьан (to put on each other); к1элъырыгъэуцон (to put something next to); жэхэлъхьан (to intensively put something against something); зэк1элъхьан (to put stuff under each other); зэкъолъхьан (to put stuff behind each other); зэдэлъхьан (to put stuff in each other); зэрилъхьан (to put stuff inside each other); зэголъхьан / зэбгъодэлъхьан (to put stuff aside each other); зэпылъхьан (to attach stuff to each other); итэкъон (to put/throw stuff inside something); тетэкъон (to put/throw stuff on something); ч1этэкъон (to put/throw stuff under something); дэтэкъон (to put/throw stuff inside another object, to put/throw stuff between); къотэкъон (to put/throw stuff behind something); хэтэкъон (to put/throw stuff among other objects/people, to throw/put stuff in an area with fire, gas or liquid); готэкъон / бгъодэтэкъон (to put/throw stuff besides something); жэхэтэкъон (to put/throw stuff against something); 1оф хэдзэн (to put/throw someone in a troublesome situation); къегъэт1ылъэк1ын (to put around); телъхьажьын (to put the blame on)"
   },
   {
     "to place": "илъхьан (to place inside); телъхьан (to place on); ч1элъхьан (to place under); гъэуцун (to place); тегъэуцун (to place on); дэгъэуцон (to place between); зэтелъхьан (to place on each other)"
@@ -15559,7 +15565,7 @@
     "bundle": "1ап1э"
   },
   {
-    "to hug": "1апл1э ещэк1ын; 1апл1э фэш1ын; 1апл1эк1э къещэк1ын"
+    "to hug": "1апл1э ещэк1ын; 1апл1э фэш1ын; 1апл1эк1э къещэк1ын; 1эхэмк1э убытыжьын"
   },
   {
     "sheaf": "пхыр; бганэ"
