@@ -7807,7 +7807,10 @@
     "to be in debt": "ч1ыфэ ч1этын"
   },
   {
-    "to eat": "шхэн; шхын (to eat something); зыгъэшхэк1ын (to saturate oneself with food); шӏошхын (to consume someone else's food); зэхэшхэхьан (to eat around); шхэк1ын (to be saturated with food); пышхэхьан (to feast upon)"
+    "to eat": "шхэн; шхын (to eat something); гъэшхэн (to make someone eat, to feed); зыгъэшхэк1ын (to saturate oneself with food); шӏошхын (to consume someone else's food); зэхэшхэхьан (to eat around); шхэк1ын (to be saturated with food); пышхэхьан (to feast upon)"
+  },
+  {
+    "to feed": "гъэшхэн (to make someone eat, to feed)"
   },
   {
     "poison": "щэнаут; уцыгъал1"
@@ -12073,7 +12076,7 @@
     "tomorrow": "неущы; нэущы (Shapsug)"
   },
   {
-    "plenty": "хъои"
+    "plenty": "хъои; хъущ"
   },
   {
     "world": "дунай"
@@ -12901,7 +12904,7 @@
     "cart driver": "шао; шыкуао"
   },
   {
-    "coachman": "шао; шыкуао"
+    "coachman": "шао; шыкуао; кушъхьэ1ыгъ"
   },
   {
     "wagoner": "шао; шыкуао"
@@ -13663,7 +13666,10 @@
     "all": "зэк1э; (Shapsug) зэужэу"
   },
   {
-    "a lot": "бэ; бэрэ; 1эджы"
+    "a lot": "бэ; бэрэ; 1эджы; хъущэ"
+  },
+  {
+    "plenty of": "хъои; хъущэ"
   },
   {
     "to bless": "напк1э техын; нэш1у щыфэн"
@@ -16567,13 +16573,22 @@
     "hay": "мэкъу"
   },
   {
+    "traveler": "гъогурык1о"
+  },
+  {
+    "wayfarer": "гъогурык1о"
+  },
+  {
+    "passenger": "гъогурык1о"
+  },
+  {
     "to eat a blow": "уты шхын; уты егъэшхын (to make someone eat a blow)"
   },
   {
     "trip": "зек1о"
   },
   {
-    "travel": "зек1о"
+    "travel": "зек1о; гъогуонэк1уныр"
   },
   {
     "journey": "зек1о"

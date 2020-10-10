@@ -34434,8 +34434,46 @@
             "sentence": "К1алэр '''машхэ'''",
             "translation": "The boy '''is eating'''."
           },
+		  {
+            "sentence": "Сэ '''сышхагъ'''",
+            "translation": "'''I ate'''."
+          },
+		  {
+            "sentence": "Непэ сиунагъо '''сыдэшхагъ'''",
+            "translation": "Today '''I ate with''' my family."
+          },
+		  {
+            "sentence": "Ныпчыхьэ '''шъуздэшхэщтэп''', '''сышхэгъах'''",
+            "translation": "'''I will not eat with you''' this evening, '''I already ate'''."
+          },
+		  {
+            "sentence": "Тхьамык1эр '''шхагъэпи''' мэлак1э мал1э",
+            "translation": "'''Because''' the poor '''did not ate''', (s)he is starving."
+          },
           {
-            "sentence": "К1алэм бананэ '''ешхы'''",
+            "sentence": "К1алэм къо1ус '''ешхы'''",
+            "translation": "The boy '''is eating''' a banana."
+          },
+          {
+            "sentence": "К1алэ тхьамык1эм шхын ыгъотырэп '''ышхынэу'''",
+            "translation": "The poor boy can't find food '''to eat'''."
+          }
+        ]
+      }
+    ],
+    "kabardian": "щхэн",
+    "type": "verb",
+    "ipa": "ʃxan"
+  },
+  {
+    "word": "шхын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to eat something",
+        "examples": [
+          {
+            "sentence": "К1алэм къо1ус '''ешхы'''",
             "translation": "The boy '''is eating''' a banana."
           },
           {
@@ -34453,6 +34491,10 @@
           {
             "sentence": "Якъубэм ра1уагъ Иусыфэр тыгъужъымэ '''ашхыгъ'''",
             "translation": "They told Jacob the wolfs '''ate''' Joseph."
+          },
+		  {
+            "sentence": "Шхын зэмыл1эужыгъор '''сышхыгъэх'''",
+            "translation": "'''I ate''' various foods."
           }
         ]
       }
@@ -35761,23 +35803,23 @@
         "meaning": "to call someone",
         "examples": [
           {
-            "sentence": "к1алэр пшъашъэм '''къеджэ'''",
+            "sentence": "К1алэр пшъашъэм '''къеджэ'''",
             "translation": "The boy '''is calling''' the girl."
           },
           {
-            "sentence": "пшъашъэр '''къыоджэ'''",
+            "sentence": "Пшъашъэр '''къыоджэ'''",
             "translation": "The girl '''is calling you'''."
           },
           {
-            "sentence": "к1алэхэмэ '''шъукъадж'''",
+            "sentence": "К1алэхэмэ '''шъукъадж'''",
             "translation": "'''Call''' the boys."
           },
           {
-            "sentence": "тик1алэ Томк1э '''теджэщт'''",
+            "sentence": "Тик1алэ Томк1э '''теджэщт'''",
             "translation": "We will '''call''' our boy Tom."
           },
 		  {
-            "sentence": "'''шъукъысэмыдж''' зыгори тэшъумыгъэш1эщтымэ",
+            "sentence": "'''Шъукъысэмыдж''' зыгори тэшъумыгъэш1эщтымэ",
             "translation": "'''Do not call me''' if you guys are not going to let us do anything."
           }
         ]
@@ -35786,7 +35828,7 @@
         "meaning": "to summon; to ask someone to come",
         "examples": [
           {
-            "sentence": "к1алэм '''къедж'''",
+            "sentence": "К1алэм '''къедж'''",
             "translation": "'''Ask''' the boy '''to come'''."
           }
         ]
@@ -35795,7 +35837,7 @@
         "meaning": "to call someone by name",
         "examples": [
           {
-            "sentence": "делэк1э '''едж'''",
+            "sentence": "Делэк1э '''едж'''",
             "translation": "'''Call him''' stupid."
           }
         ]
@@ -35804,24 +35846,32 @@
         "meaning": "to read",
         "examples": [
           {
-            "sentence": "к1алэр тхылъым '''еджэ'''",
+            "sentence": "К1алэр тхылъым '''еджэ'''",
             "translation": "The boy '''is reading''' the book."
           },
           {
-            "sentence": "тхылъым '''cеджэ'''",
+            "sentence": "Тхылъым '''cеджэ'''",
             "translation": "'''I am reading''' the book."
           },
           {
-            "sentence": "'''къедж'''",
+            "sentence": "'''Къедж'''",
             "translation": "'''Read'''."
           },
           {
-            "sentence": "'''къедж''' тхылъым",
+            "sentence": "'''Къедж''' тхылъым",
             "translation": "'''Read''' the book."
           },
 		  {
-            "sentence": "удыр угу илъым '''къеджэшъущт'''",
+            "sentence": "Удыр угу илъым '''къеджэшъущт'''",
             "translation": "A wizard '''can read''' what is in your heart."
+          },
+          {
+            "sentence": "'''Седжэгъахэмэ''' т1эк1у зысгъэпсэфынэу''' сыфай",
+            "translation": "After I done studying, I want to rest a bit."
+          },
+          {
+            "sentence": "Тхылъым '''уеджэгъаха'''?",
+            "translation": "'''Are you done reading''' the book?"
           }
         ]
       },
@@ -40596,6 +40646,10 @@
           {
             "sentence": "сэ тыгъужъым '''сегъэщынэ'''",
             "translation": "The wolfs make me '''scare'''."
+          },
+		  {
+            "sentence": "Пшъагъэр '''щыни''', чъэк1ыгъэ",
+            "translation": "The girl '''got scared''' and turned pale."
           }
         ]
       }
@@ -40637,6 +40691,10 @@
           {
             "sentence": "сэ тыгъужъым '''сегъэщтэ'''",
             "translation": "The wolfs make me '''scare'''."
+          },
+		  {
+            "sentence": "Пшъагъэр '''щти''', чъэк1ыгъэ",
+            "translation": "The girl '''got scared''' and turned pale."
           }
         ]
       }
@@ -45489,7 +45547,12 @@
     "definitions": [
       {
         "meaning": "bicycle",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1элэц1ык1ум '''кушъхьэфачъэ''' гъэчъак1э зэрегъаш1э",
+            "translation": "The little boy learns how to run '''a bicycle'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -49809,6 +49872,10 @@
           {
             "sentence": "К1алэм '''зэригъэш1агъ''' тхэнэу",
             "translation": "The boy '''learned''' to write."
+          },
+		  {
+            "sentence": "К1элэц1ык1ум лъэкъорыгъачъэ гъэчъак1э '''зэрегъаш1э'''",
+            "translation": "The little boy '''learns''' how to run a bicycle."
           }
         ]
       }
@@ -51431,6 +51498,10 @@
 		  {
             "sentence": "Пачъыхьым '''ишхын''' иуахътэ къы1эгъэхьагъ",
             "translation": "Provide the king '''his meal''' in time"."
+          },
+		  {
+            "sentence": "'''Шхын''' зэмыл1эужыгъор сышхыгъэх",
+            "translation": "I ate various '''foods'''."
           }
         ]
       }
@@ -69108,27 +69179,6 @@
     ],
     "type": "noun",
     "ipa": "naʃʷʼaʃʷʼ"
-  },
-  {
-    "word": "къэмлан",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "box",
-        "examples": [
-          {
-            "sentence": "К1алэм '''къэмланхэр''' зэ1уихыгъэх",
-            "translation": "The boy opened '''the boxes'''."
-          }
-        ]
-      }
-    ],
-    "synonyms": [
-      "пхъуантэ",
-      "сандыкъ"
-    ],
-    "type": "noun",
-    "ipa": "qamlaːn"
   },
   {
     "word": "еоой",
@@ -100296,6 +100346,10 @@
 		  {
             "sentence": "Кур гъогумк1э '''къэстелъади''' сеуал1э пэтыгъ",
             "translation": "The car '''came toward me and''' I almost collided against it."
+          },
+		  {
+            "sentence": "Сценэм '''сытелъэдагъ''' сц1э зэрэкъа1оу",
+            "translation": "'''I ran up''' the stage once they called my name."
           }
         ]
       },
@@ -100352,7 +100406,16 @@
     "definitions": [
       {
         "meaning": "pale",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм ынэгу '''к1ыфэу''' хъугъэ",
+            "translation": "The boy's cheeks became '''pale'''."
+          },
+		  {
+            "sentence": "Л1ыр зэсымаджэм, ышъо '''к1ыфэу''' хъугъэ",
+            "translation": "When the man became sick, his skin became '''pale'''."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -100364,7 +100427,12 @@
     "definitions": [
       {
         "meaning": "to grow pale, to turn white",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Пшъагъэр щти, '''чъэк1ыгъэ'''",
+            "translation": "The girl got scared and '''turned pale'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -100376,10 +100444,17 @@
     "definitions": [
       {
         "meaning": "ash",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "тхылъып1э '''стаф'''",
+            "translation": "Paper '''ash'''."
+          }
+        ]
       }
     ],
-    "kabardian": "яжьэ",
+    "synonyms": [
+      "яжьэ"
+    ],
     "type": "noun",
     "ipa": "staːf"
   },
@@ -100402,6 +100477,10 @@
       {
         "meaning": "great",
         "examples": []
+      },
+	  {
+        "meaning": "shirt; alternative form of \"джанэ\"",
+        "examples": []
       }
     ],
     "type": "adj",
@@ -100413,6 +100492,10 @@
     "definitions": [
       {
         "meaning": "tower",
+        "examples": []
+      },
+	  {
+        "meaning": "observation post",
         "examples": []
       }
     ],
@@ -100435,7 +100518,7 @@
             "translation": "The boy '''sealed''' the hole."
           },
           {
-            "sentence": "Л1ыжъым илъынтфэхэр '''шъыбыгъэхэти''', лъы тэрэзэу къарик1ожьырэп",
+            "sentence": "Л1ыжъым илъынтфэхэр '''шъыбыгъэхэти''', лъы тэрэзэу арик1ожьырэп",
             "translation": "Because the old man's veins '''got sealed''', blood doesn't flow them right."
           },
           {
@@ -100453,34 +100536,120 @@
     "ipa": "ʂəbən"
   },
   {
-    "word": "пхъуант",
+    "word": "пхъуантэ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "trunk, box, chest",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Пхъуантэм''' ык1оц1ы илъыхэр къихых",
+            "translation": "Take out the stuff '''inside''' the box."
+          },
+		  {
+            "sentence": "К1алэм '''пхъуантэр''' зэ1уихыгъ",
+            "translation": "The boy '''opened''' the boxes."
+          },
+		  {
+            "sentence": "'''Пхъуантэр''' гъуч1ычк1э зэтепхагъ",
+            "translation": "'''The box''' is tied up with a wire."
+          }
+        ]
       }
     ],
     "synonyms": [
-      "къэмлан"
+      "сандыкъ",
+      "къутэ"
     ],
     "type": "noun",
     "ipa": "pχʷaːnt"
+  },
+  {
+    "word": "сандыкъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "trunk, box, chest",
+        "examples": [
+          {
+            "sentence": "'''Cандыкъым''' ык1оц1ы илъыхэр къихых",
+            "translation": "Take out the stuff '''inside''' the box."
+          },
+		  {
+            "sentence": "К1алэм '''сандыкъыр''' зэ1уихыгъ",
+            "translation": "The boy '''opened''' the boxes."
+          },
+		  {
+            "sentence": "'''Cандыкъыр''' гъуч1ычк1э зэтепхагъ",
+            "translation": "'''The box''' is tied up with a wire."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "къутэ",
+      "пхъуантэ"
+    ],
+    "type": "noun",
+    "ipa": "saːndəq"
+  },
+  {
+    "word": "къэмлан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "box, case",
+        "examples": [
+          {
+            "sentence": "сырныч '''къэмлан'''",
+            "translation": "box of matches."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "qamlaːn"
   },
   {
     "word": "къутэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "box",
-        "examples": []
+        "meaning": "trunk, box, chest",
+        "examples": [
+          {
+            "sentence": "'''Къутэм''' ык1оц1ы илъыхэр къихых",
+            "translation": "Take out the stuff '''inside''' the box."
+          },
+		  {
+            "sentence": "К1алэм '''къутэр''' зэ1уихыгъ",
+            "translation": "The boy '''opened''' the boxes."
+          },
+		  {
+            "sentence": "'''Къутэр''' гъуч1ычк1э зэтепхагъ",
+            "translation": "'''The box''' is tied up with a wire."
+          }
+        ]
       }
     ],
     "synonyms": [
-      "къэмлан"
+      "сандыкъ",
+      "пхъуантэ"
     ],
     "type": "noun",
     "ipa": "qʷəta"
+  },
+  {
+    "word": "кушъхьэ1ыгъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "coachman; driver",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "kʷəʂħaʔəʁ"
   },
   {
     "word": "кушъхьэ",
@@ -100503,7 +100672,12 @@
     "definitions": [
       {
         "meaning": "bicycle",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1элэц1ык1ум '''лъэкъорыгъачъэ''' гъэчъак1э зэрегъаш1э",
+            "translation": "The little boy learns how to run '''a bicycle'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -100520,7 +100694,12 @@
     "definitions": [
       {
         "meaning": "bicycle",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1элэц1ык1ум '''лъэрыгъачъэ''' гъэчъак1э зэрегъаш1э",
+            "translation": "The little boy learns how to run '''a bicycle'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -100552,7 +100731,12 @@
     "definitions": [
       {
         "meaning": "donkey",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ыр '''щыдыым''' тес",
+            "translation": "The man is siting on '''the donkey'''."
+          }
+        ]
       }
     ],
     "kabardian": "шыд",
@@ -100565,11 +100749,102 @@
     "definitions": [
       {
         "meaning": "hay",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Мэкъуаохэр '''мэкъу''' еох",
+            "translation": "The hay-makers mow '''hay'''."
+          },
+		  {
+            "sentence": "Мэкъуаохэр '''мэкъу''' еонэу к1уагъэх",
+            "translation": "The hay-makers went to mow '''hay'''."
+          },
+		  {
+            "sentence": "К1алэм щэмэджык1э '''мэкъухэр''' реупк1ых",
+            "translation": "The boy cuts the '''hays''' using a scythe."
+          },
+		  {
+            "sentence": "'''Мэкъур''' щэщэгъук1э къыщагъ",
+            "translation": "(S)he brought the '''hay''' in three carryings."
+          },
+		  {
+            "sentence": "Куахъомк1э '''мэкъухэр''' къэугъоих",
+            "translation": "Gather the '''hays''' with the hayfork."
+          },
+		  {
+            "sentence": "Л1ым пхъэ1эбжъанэмк1э '''мэкъу''' аргъэныр еугъои",
+            "translation": "The man gathers a row of '''hays''' using the rake."
+          },
+		  {
+            "sentence": "Чэмхэр '''мэкъук1э''' агъашхэх",
+            "translation": "Cows are fed with hay."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "maqʷ"
+  },
+  {
+    "word": "гъэшхэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to feed; to make someone eat",
+        "examples": [
+          {
+            "sentence": "Ным ысабый '''егъашхэ'''",
+            "translation": "The mother '''feeds''' her child."
+          },
+		  {
+            "sentence": "Бысымым ихьак1эхэр дэгъоу '''ыгъэшхагъэх'''",
+            "translation": "The host '''fed''' his guests good."
+          },
+		  {
+            "sentence": "Бысымым иунэк1э '''тыкъагъэшхэщт'''",
+            "translation": "'''They will feed us''' in the host's house."
+          },
+		  {
+            "sentence": "Нан, шхын къэтфэпш1ыни '''тыбгъэшхэщта'''?",
+            "translation": "Mom, can you make us food and '''feed us'''?"
+          },
+		  {
+            "sentence": "Чэмхэр мэкъук1э '''агъашхэх'''",
+            "translation": "Cows '''are fed with hay."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʁaʃxən"
+  },
+  {
+    "word": "мэкъущэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "hay removal",
+        "examples": []
+      },
+    ],
+    "type": "noun",
+    "ipa": "maqʷɕa"
+  },
+  {
+    "word": "хъущэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "a lot of, plenty of",
+        "examples": [
+          {
+            "sentence": "Л1ым мэл '''хъущэ''' дифыгъ",
+            "translation": "The man drove '''plenty of'' sheeps."
+          }
+        ]
+      },
+    ],
+    "type": "noun",
+    "ipa": "maqʷɕa"
   },
   {
     "word": "хъык1ы",
@@ -100615,20 +100890,25 @@
     "ipa": "wtə jaʁaʃxən"
   },
   {
-    "word": "гъогуонэк1уныр",
+    "word": "гъогурык1о",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "journey",
+        "meaning": "traveler, wayfarer",
         "examples": []
+      },
+	  {
+        "meaning": "passenger",
+        "examples": [
+          {
+            "sentence": "'''Гъогурык1о''' горэ щагум къыдэхьагъ",
+            "translation": "Some '''passenger''' came to the yard."
+          }
+        ]
       }
     ],
-    "synonyms": [
-      "зек1о"
-    ],
-    "kabardian": "гъуэгурык1уэныгъэ",
     "type": "noun",
-    "ipa": "ʁʷaɡʷəwanakʷʼənər"
+    "ipa": "ʁʷaɡʷərəkʷʼ"
   },
   {
     "word": "зек1о",
@@ -100636,11 +100916,17 @@
     "definitions": [
       {
         "meaning": "trip, journey, travel",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''зек1о''' к1уагъэ",
+            "translation": "The boy went to a '''journey''."
+          },
+		  {
+            "sentence": "К1алэр '''зек1о''' къик1ыжьыгъ",
+            "translation": "The boy came back from a '''trip''."
+          }
+        ]
       }
-    ],
-    "synonyms": [
-      "гъогуонэк1уныр"
     ],
     "type": "noun",
     "ipa": "zajkʷʼa"
@@ -100655,7 +100941,8 @@
       }
     ],
     "synonyms": [
-      "хэгъуашъхьэ"
+      "хэгъуашъхьэ",
+      "1эгъо-благъу"
     ],
     "type": "noun",
     "ipa": "xaʁʷaʂħaʔʷ"
@@ -100670,10 +100957,43 @@
       }
     ],
     "synonyms": [
-      "хэгъошъхьа1у"
+      "хэгъошъхьа1у",
+      "1эгъо-благъу"
     ],
     "type": "noun",
     "ipa": "xaʁʷaːʂħa"
+  },
+  {
+    "word": "1эгъоблагъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"1эгъо-благъу\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "хэгъуашъхьэ",
+      "хэгъошъхьа1у",
+    ],
+    "type": "noun",
+    "ipa": "ʔaʁʷabɮaːʁʷ"
+  },
+  {
+    "word": "1эгъо-благъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "surrounding area (of a village or city)",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "хэгъуашъхьэ",
+      "хэгъошъхьа1у",
+    ],
+    "type": "noun",
+    "ipa": "ʔaʁʷa-bɮaːʁʷ"
   },
   {
     "word": "л1эужьыгъо",
@@ -100713,7 +101033,12 @@
     "definitions": [
       {
         "meaning": "variety; various; diverse",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Шхын '''зэмыл1эужыгъор''' сышхыгъэх",
+            "translation": "I ate '''various''' foods."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -111439,22 +111764,6 @@
     "ipa": "jawət͡ʃʼən"
   },
   {
-    "word": "сандыкъ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "box",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "пхъуантэ",
-      "къэмлан"
-    ],
-    "type": "noun",
-    "ipa": "saːndəq"
-  },
-  {
     "word": "назэ",
     "lang": "Adyghe",
     "definitions": [
@@ -116371,7 +116680,16 @@
     "definitions": [
       {
         "meaning": "mower, hay-maker",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Мэкъуаохэр''' мэкъу еох",
+            "translation": "'''The hay-makers''' mow hay."
+          },
+		  {
+            "sentence": "'''Мэкъуаохэр''' мэкъу еонэу к1уагъэх",
+            "translation": "'''The hay-makers''' went to mow hay."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -117381,5 +117699,17 @@
     ]
     "type": "adj",
     "ipa": "nəqʷa-təкqʷ"
+  },
+  {
+    "word": "къурэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "dried blade of grass",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "qʷəra"
   }
 ]
