@@ -8460,6 +8460,10 @@
           {
             "sentence": "Л1ы бэу заом '''хэл1агъэх'''",
             "translation": "Many men '''died in''' the war."
+          },
+		  {
+            "sentence": "Блэр къысаом '''сэл1э''' пэтыгъ",
+            "translation": "When the snake bited me, '''I''' almost '''died'''."
           }
         ]
       }
@@ -89698,6 +89702,10 @@
 		  {
             "sentence": "К1алэм сигъэгубжи сео '''пэтыгъ''', ау зыкъэзгъэуцужьыгъ",
             "translation": "The boy angered me and I '''almost''' hit him, but I stopped myself."
+          },
+		  {
+            "sentence": "Блэр къысаом сэл1э '''пэтыгъ'''",
+            "translation": "When the snake bited me, I '''almost''' died."
           }
         ]
     ],
