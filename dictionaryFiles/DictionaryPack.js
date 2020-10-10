@@ -2648,7 +2648,12 @@
     "definitions": [
       {
         "meaning": "throat",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ым мэлым '''ычый''' ш1уибзыгъ",
+            "translation": "The man sliced the sheep's '''throat'''."
+          }
+        ]
       }
     ],
     "kabardian": "тэмакъ",
@@ -8930,6 +8935,10 @@
           {
             "sentence": "Зэманым '''тыгъуак1омэ''' а1эхэр паук1ыщтыгъ",
             "translation": "In the past they used to cut off arms of '''thieves'''."
+          },
+		  {
+            "sentence": "Зэманым, '''тыгъуак1омэ''' а1эхэр ш1уагъэшъутыщтыгъэх",
+            "translation": "In the past, they used to cut off arms of the '''thieves'''."
           }
         ]
       }
@@ -20808,6 +20817,10 @@
           {
             "sentence": "Шхыныр '''плъыгъа?'''",
             "translation": "'''Did''' the food '''heated up?'''"
+          },
+		  {
+            "sentence": "Машинэр '''плъыгъащэти''', къызэтегъэуцогу къэучъы1ыжьынэу",
+            "translation": "'''Because''' the machine '''heated too much''', halt it for now so it will cold down."
           }
         ]
       }
@@ -20833,6 +20846,10 @@
 		  {
             "sentence": "Псыр '''угъэплъымэ''' п1онк1эу ежьэ",
             "translation": "When you '''heat up''' water it start bubbling up."
+          },
+		  {
+            "sentence": "Электрикэр гъуч1ычэу зырик1орэр '''егъплъы'''",
+            "translation": "Electric '''heats''' the wire it goes through."
           }
         ]
       }
@@ -28422,6 +28439,10 @@
           {
             "sentence": "Унэ '''пашъхьэм''' хэтэц1ык1у 1ут",
             "translation": "There is a little garden '''in front of''' the house."
+          },
+		  {
+            "sentence": "Дзак1охэр зэтегъауцух, пыир '''тыпашъхьэ''' ит",
+            "translation": "Stop the soldiers, the enemy in '''front of us'''."
           }
         ]
       }
@@ -28771,7 +28792,13 @@
     "definitions": [
       {
         "meaning": "mirror",
-        "examples": []
+        "examples": [
+          ,
+          {
+            "sentence": "Кур дэпкъым жэхахьэм, '''игъунджэ''' пыутыгъ",
+            "translation": "When the car collided against the wall, '''its mirror''' broke off."
+          }
+        ]
       }
     ],
     "shapsug": "гъургьэ",
@@ -48379,6 +48406,10 @@
 		  {
             "sentence": "Цыхьэ умыш1ыгу, нек1о '''тыпэгъаплъи''' хъурэм теплъыщт",
             "translation": "Do not trust, '''let's wait''' and see what will happpen."
+          },
+		  {
+            "sentence": "Машинэр зэтеуцуагъэгу, '''сыпаплъэ''' къэлэжьэжьыфэ",
+            "translation": "The machine halted for now, '''I am waiting for''' it to continue working."
           }
         ]
       }
@@ -69286,6 +69317,10 @@
 		  {
             "sentence": "Классымк1э, сигъусэ къи1ощтыгъэр ымыш1эжьэу сыкъигъэук1ытэжьыгъ зэк1эм '''ыпашъхьэк1э'''",
             "translation": "In class, my partner forgot what he was going to say and he made me embarrassed '''in front of''' everyone."
+          },
+		  {
+            "sentence": "Дзак1охэр зэтегъауцух, пыир '''тыпашъхьэ''' ит",
+            "translation": "Stop the soldiers, the enemy in '''front of us'''."
           }
         ]
       }
@@ -79876,6 +79911,15 @@
             "translation": "The man entered the sea where the water reaches '''his Adam's apple'''."
           }
         ]
+      },
+	  {
+        "meaning": "throat",
+        "examples": [
+          {
+            "sentence": "Л1ым мэлым '''ытыкъын''' ш1уибзыгъ",
+            "translation": "The man sliced the sheep's '''throat'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -80287,6 +80331,10 @@
 		  {
             "sentence": "Куит1ур '''зэжэхэхьагъэх'''",
             "translation": "The two cars '''crashed into each other'''."
+          },
+          {
+            "sentence": "Кур дэпкъым '''жэхахьэм''', игъунджэ пыутыгъ",
+            "translation": "When the car '''collided against''' the wall, its mirror broke off."
           }
         ]
       }
@@ -84854,6 +84902,35 @@
     ],
     "type": "verb",
     "ipa": "zaxaʁataqʷən"
+  },
+  {
+    "word": "пыутын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to break off a part from; to rip off a part from; to tear off a part from",
+        "examples": [
+          {
+            "sentence": "1анэм ылъакъо зы '''пыутыгъ'''",
+            "translation": "One of the table's legs '''broke off'''."
+          },
+          {
+            "sentence": "Апчым ыцыпэ '''пыутыгъ'''",
+            "translation": "The glass's tip '''broke off'''."
+          },
+          {
+            "sentence": "Л1ым ы1э топ къызытефэм, ы1э '''пиутыгъ'''",
+            "translation": "When the cannon hit the man's arm, '''it tore''' his arm '''off'''."
+          },
+          {
+            "sentence": "Кур дэпкъым жэхахьэм, игъунджэ '''пыутыгъ'''",
+            "translation": "When the car collided against the wall, its mirror '''broke off'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zapəwtən"
   },
   {
     "word": "зэпыутын",
@@ -90008,6 +90085,10 @@
 		  {
             "sentence": "Зыш1оу '''къэучъы1ыгъ''', нек1о унэм тихьажьыщт, умыш1ахэу унашъхьэм тытещтыхьащт",
             "translation": "'''It became''' very '''cold''', let's go back inside the house, we will freeze on the roof accidentally."
+          },
+		  {
+            "sentence": "Машинэр плъыгъащэти, къызэтегъэуцогу '''къэучъы1ыжьынэу'''",
+            "translation": "Because the machine heated too much, halt it for now so '''it will cold down'''."
           }
         ]
       }
@@ -96030,6 +96111,10 @@
 		  {
             "sentence": "Хьапсыр '''гъуч1ычк1э''' къэгъэк1ухьагъ",
             "translation": "The prison is surrounded '''by wires'''."
+          },
+		  {
+            "sentence": "Электрикэр '''гъуч1ычэу''' зырик1орэр егъплъы",
+            "translation": "Electric heats '''the wire''' it goes through."
           }
         ]
       }
@@ -98781,7 +98866,12 @@
       },
 	  {
         "meaning": "to shrink",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Къэгъагъэр гъумэ '''зэхахьа'''",
+            "translation": "When the flower dries, '''it shrinks'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -98818,7 +98908,12 @@
       },
 	  {
         "meaning": "to squeeze together, to shrink, to contract; to squint",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм ынахэ '''зэхигъэхьагъ'''",
+            "translation": "The boy '''shrinked''' his face."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -98856,7 +98951,7 @@
             "translation": "'''You will not be capable of breathing''' under the water."
           },
           {
-            "sentence": "Бэрэ учъэмэ нэхь псынк1эу '''уфэпщэщт'''",
+            "sentence": "Бэрэ учъэмэ нахь псынк1эу '''уфэпщэщт'''",
             "translation": "If you run a lot '''you will breathe''' faster."
           },
           {
@@ -98873,18 +98968,18 @@
     "ipa": "fapʃan"
   },
   {
-    "word": "те1эбэхьын",
+    "word": "те1эбыхьан",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to touch the surface of something (repetitively)",
         "examples": [
           {
-            "sentence": "1анэм у1э ш1оеу '''утемы1эбэхь'''",
-            "translation": "'''Don't touch (the surface of)''' the table with your dirty hands."
+            "sentence": "1анэм у1э ш1оеу '''утемы1эбыхь'''",
+            "translation": "'''Don't touch (the surface of)''' the table with your filthy hands."
           },
           {
-            "sentence": "К1алэм 1анэм '''те1эбэхьы''' ы1э ш1оеу",
+            "sentence": "К1алэр 1анэм '''те1эбыхьэ''' ы1э ш1оеу",
             "translation": "The boy '''touches (the surface of)''' the table while his hand is dirty."
           }
         ]
@@ -98899,7 +98994,12 @@
     "definitions": [
       {
         "meaning": "to cross",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "1эхэр бгъэм '''щызэблэдзын'''",
+            "translation": "'''To cross''' arms over the chest."
+          }
+        ]
       },
       {
         "meaning": "to convert something into another thing",
@@ -98919,8 +99019,7 @@
       }
     ],
     "synonyms": [
-      "манэ",
-      "----"
+      "манэ"
     ],
     "type": "noun",
     "ipa": "ħamaːʃa"
@@ -98982,10 +99081,10 @@
         ]
       },
       {
-        "meaning": "(temporarily) to halt, to come to a halt, to pause",
+        "meaning": "to halt, to come to a halt, to pause",
         "examples": [
           {
-            "sentence": "1офшIэныр '''зэпыугъ'''",
+            "sentence": "1офш1эныр '''зэпыугъ'''",
             "translation": "The work '''has paused'''."
           }
         ]
@@ -99008,6 +99107,18 @@
           {
             "sentence": "Филымыр '''зэтеуцуагъ'''",
             "translation": "The film '''has paused'''."
+          },
+		  {
+            "sentence": "К1алэм к1озэ '''къызэтеуцуагъ'''",
+            "translation": "The boy went and '''halted'''."
+          },
+		  {
+            "sentence": "Машинэр '''зэтеуцуагъэгу''', сыпаплъэ къэлэжьэжьыфэ",
+            "translation": "The machine '''halted for now''', I am waiting for it to continue working."
+          },
+		  {
+            "sentence": "'''Шъузэтемыуцоу''' шъук1у",
+            "translation": "Go '''without halting'''."
           }
         ]
       },
@@ -99029,36 +99140,98 @@
     "ipa": "zatajwt͡ʃʷan"
   },
   {
-    "word": "теуцон",
+    "word": "зэтеугъэцон",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to stop on",
+        "meaning": "to halt something, to pause something",
         "examples": [
           {
-            "sentence": "Пхъэм '''утемыуцоу''' блэк1",
-            "translation": "Pass the wood without '''stepping on it'''."
+            "sentence": "К1алэм фылымыр '''зэтегъэуцуагъ'''",
+            "translation": "The boy '''paused''' the film."
           },
-          {
-            "sentence": "1анэм '''утемыуцу'''",
-            "translation": "'''Don't step on''' the table."
+		  {
+            "sentence": "Дзак1охэр '''зэтегъауцух''', пыир тыпашъхьэ ит",
+            "translation": "'''Stop''' the soldiers, the enemy in front of us."
           },
-          {
-            "sentence": "Хьамбылыум '''сытеуцагъ'''",
-            "translation": "'''I stepped on''' the worm."
-          },
-          {
-            "sentence": "К1алэр джэгуалъэхэмэ ымыш1ахэу '''атауцо'''",
-            "translation": "The boy accidentally '''is stepping''' on the toys."
-          },
-          {
-            "sentence": "К1алэм ицуакъэхэр псынжъык1э ш1оихэу унэм иджэхашъо '''теуцо'''",
-            "translation": "The boy '''is stepping''' on the house's floor with his dirty mud shoes."
+		  {
+            "sentence": "Машинэр плъыгъащэти, '''къызэтегъэуцогу''' къэучъы1ыжьынэу",
+            "translation": "Because the machine heated too much, '''halt it for now''' so it will cold down."
           }
         ]
       },
       {
-        "meaning": "to stand still on",
+        "meaning": "to put stuff on each other",
+        "examples": [
+          {
+            "sentence": "Тхылъыхэр к1алэм '''зэтегъэуцуагъэх'''",
+            "translation": "The boy '''put''' the books '''on each other'''."
+          },
+		  {
+            "sentence": "Блокхэр '''зэтесэгъэуцох'''",
+            "translation": "'''I put''' the blocks '''on each other'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "зэпыун"
+    ],
+    "kabardian": "зэтеувэн",
+    "type": "verb",
+    "ipa": "zatajwt͡ʃʷan"
+  },
+  {
+    "word": "теуцон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to step on; to stand on",
+        "examples": [
+          {
+            "sentence": "Пхъэм '''утемыуцоу''' блэк1",
+            "translation": "Pass '''without stepping on''' the wood."
+          },
+          {
+            "sentence": "1анэм '''утемыуцу'''",
+            "translation": "'''Don't stand on''' the table."
+          },
+          {
+            "sentence": "Хьамлыум '''сытеуцагъ'''",
+            "translation": "'''I stepped on''' the worm."
+          },
+          {
+            "sentence": "Унашъхьэм '''сытеуцагъ'''",
+            "translation": "'''I stood on''' the roof."
+          },
+          {
+            "sentence": "К1алэр джэгуалъэхэмэ ымыш1ахэу '''атеуцо'''",
+            "translation": "The boy accidentally '''is stepping''' on the toys."
+          },
+          {
+            "sentence": "К1алэм ицуакъэхэр псынжъык1э ш1оихэу унэм иджэхашъо '''теуцо'''",
+            "translation": "The boy '''is stepping''' on the house's floor with his filthy mud shoes."
+          },
+		  {
+            "sentence": "К1алэр гъогум '''теуцуагъ'''",
+            "translation": "The boy '''stepped on''' the road."
+          },
+		  {
+            "sentence": "К1алэр панэм '''теуцуагъэп'''",
+            "translation": "The boy '''did not step on''' the thorn."
+          },
+		  {
+            "sentence": "Хьаим '''утеуцуагъ'''",
+            "translation": "'''You stepped''' on shit."
+          },
+		  {
+            "sentence": "Сымыш1ахэу чэтыум ык1э '''сытеуцуагъ'''",
+            "translation": "'''I stepped on''' the cat's tail by mistake."
+          }
+        ]
+      },
+      {
+        "meaning": "to stop on",
         "examples": []
       }
     ],
@@ -99074,16 +99247,9 @@
         "meaning": "(animate) carrion, offal (dead flesh; carcasses), dead (of animals)",
         "examples": [
           {
-            "sentence": "Чэмыр '''псэхалIэ''' хъугъэ",
-            "translation": "It became a cow '''carrion'''."
-          },
-          {
-            "sentence": "Ежь шIуимыбзыгъэр '''псэхалI'''",
-            "translation": "The one that was not butcher is '''a carrion'''."
+            "sentence": "Чэмыр '''псэхал1э''' хъугъэ",
+            "translation": "The cow became '''carrion'''."
           }
-        ],
-        "tags": [
-          "animate"
         ]
       }
     ],
@@ -99096,16 +99262,58 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to slice; to slit",
-        "examples": []
-      },
-      {
-        "meaning": "to kill by slicing.",
-        "examples": []
+        "meaning": "to slice (to kill); to slit",
+        "examples": [
+          {
+            "sentence": "Л1ым мэлым ытыкъын '''ш1уибзыгъ'''",
+            "translation": "The man '''sliced''' the sheep's throat."
+          },
+		  {
+            "sentence": "Ц1ыфым ычый '''ш1обыбзымэ''', л1эщт",
+            "translation": "'''If you slit''' a person's throat, he will die."
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "ʃʷʼabzən"
+  },
+  {
+    "word": "ш1огъэшъутын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to cut off; to slice off",
+        "examples": [
+          {
+            "sentence": "Л1ым мэлым ытыкъын '''ш1уигъэшъутыгъ'''",
+            "translation": "The man '''sliced''' the sheep's throat."
+          },
+		  {
+            "sentence": "Ц1ыфым ычый '''ш1обгъэшъутымэ''', л1эщт",
+            "translation": "'''If you slit''' a person's throat, he will die."
+          },
+		  {
+            "sentence": "Зэманым, тыгъуак1омэ а1эхэр '''ш1уагъэшъутыщтыгъэх'''",
+            "translation": "In the past, '''they used to cut off''' the thieves' arms."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʃʷʼaʁat͡ʂən"
+  },
+  {
+    "word": "ш1огъэчъын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to cut off",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʃʷʼaʁat͡ʂən"
   },
   {
     "word": "лыщэ",

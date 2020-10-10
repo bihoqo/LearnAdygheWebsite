@@ -516,7 +516,7 @@
     "dick": "манэ; хьэмашэ; (vulgar) к1э"
   },
   {
-    "throat": "чый"
+    "throat": "чый; тыкъын"
   },
   {
     "tail": "к1э"
@@ -2994,7 +2994,7 @@
     "work": "1офы (work, job); лъэжьап1э (workplace, worksite); пшъэрылъ (task); 1офш1эн (work to do, tasks); хъызмэт (chores, housework)"
   },
   {
-    "to work": "1оф ш1эн (to do work); лъэжьэн (to work); пылэжьэхьан (to work on something)"
+    "to work": "1оф ш1эн (to do work); лъэжьэн / къэлэжьэн (to work); пылэжьэхьан (to work on something)"
   },
   {
     "to work on": "пылэжьэхьан"
@@ -3909,13 +3909,13 @@
     "to cleave": "гоутын; зэгоутын; зэгогъэк1ын; зэгогъэлэтхъын"
   },
   {
-    "to cut": "бзын (to cut with scissors or knife or sword); пыупк1ын (to cut off something from); гоупк1ын (to cut off the side); иупк1ын (to cut down a tree); ш1обзын (to slice); упк1эн (to mow); упхъун (to cut hair or fur or grass); к1эупхъухьан (to take a haircut); хэупк1ын (to cut out a piece from); хэбзык1ын (to cut off); упк1эн (to mow, to cut down grass or crops); хын (to reap, to cut (for example a grain) with a sickle, scythe, or reaping machine))"
+    "to cut": "бзын (to cut with scissors or knife or sword); пыупк1ын (to cut off something from); гоупк1ын (to cut off the side); иупк1ын (to cut down a tree); ш1обзын (to slice to kill); упк1эн (to mow); упхъун (to cut hair or fur or grass); к1эупхъухьан (to take a haircut); хэупк1ын (to cut out a piece from); хэбзык1ын (to cut off); упк1эн (to mow, to cut down grass or crops); хын (to reap, to cut (for example a grain) with a sickle, scythe, or reaping machine))"
   },
   {
     "to cut down": "иупк1ын"
   },
   {
-    "to slice": "бзэн (to be slicing); бзын (to slice something or someone); упк1этэн (to slice into pieces); ш1обзын (to slice someone's body)"
+    "to slice": "бзэн (to be slicing); бзын (to slice something or someone); упк1этэн (to slice into pieces); ш1обзын (to slice to kill); ш1огъэшъутын (to cut off, to slice)"
   },
   {
     "to chop": "упк1этэн; ушыгун; гъэушкъоин"
@@ -4242,7 +4242,7 @@
     "to long for": "к1эхъопсын (to miss someone); енэц1ын (to desire)"
   },
   {
-    "to touch": "нэсын; те1эн (to touch with hand); те1эбэн (to reach out and touch something with the hand); е1эн (to touch with hand); те1эбэхьан (to touch all over something)"
+    "to touch": "нэсын; те1эн (to touch with hand); те1эбэн (to reach out and touch something with the hand); е1эн (to touch with hand); те1эбыхьан (to touch all over something)"
   },
   {
     "to reach": "нэсын (to successfully reach); лъы1эбэн / лъы1эсын (to attempt to reach, to reach out one's hand toward something); нэ1эбэсын (to successful reach with the hands or legs)"
@@ -4852,7 +4852,7 @@
     "to snap": "зэпык1ын; зэш1ок1ын"
   },
   {
-    "to tear off": "тетхъын (to tear off from above something); хэтхъын / пытхъын (to tear off from); зэпытхъын (to tear off from itself); ч1этхъын (to tear off from under something)"
+    "to tear off": "тетхъын (to tear off from above something); хэтхъын / пытхъын (to tear off from); зэпытхъын (to tear off from itself); ч1этхъын (to tear off from under something); пыутын (to break off a part from; to rip off a part from; to tear off a part from)"
   },
   {
     "to tear apart": "зэхэтхъын; цунтхъэн"
@@ -4864,7 +4864,7 @@
     "rake": "пхъэ1эбжъан (garden tool)"
   },
   {
-    "to break": "зэпык1ын (to snap); убэтэн (to destroy); къутэн (to destroy); зэхэутын (to break down from inside); зэхэк1ын (to break and collapse); пыутын / хэутын (to break a part of something); теутын (to break a part from above something); ч1эутын (to break a part from under something); гъэсэкъатын (to make something dysfunctional); зэш1ок1ын (to break something); 1утэкъун (to break off); пыутын (to break off from); зэпыутын (to break off from itself); ш1оубэтэн (to destroy/break someone's property); укъон (to change money for lesser units); сэкъатын / зэ1ыхьан / зэщыкъон (to become dysfunctional (device, machine, etc))"
+    "to break": "зэпык1ын (to snap); убэтэн (to destroy); къутэн (to destroy); зэхэутын (to break down from inside); зэхэк1ын (to break and collapse); хэутын (to break a part of something); теутын (to break a part from above something); ч1эутын (to break a part from under something); гъэсэкъатын (to make something dysfunctional); зэш1ок1ын (to break something); 1утэкъун (to break off); пыутын (to break off a part from; to rip off a part from; to tear off a part from); зэпыутын (to break off from itself); ш1оубэтэн (to destroy/break someone's property); укъон (to change money for lesser units); сэкъатын / зэ1ыхьан / зэщыкъон (to become dysfunctional (device, machine, etc))"
   },
   {
     "to run over": "иутын; тепк1эн"
@@ -4876,10 +4876,10 @@
     "to come off": "пык1ын"
   },
   {
-    "to break off": "1утэкъун; пыутын (to break off from); зэпыутын (to break off from itself)"
+    "to break off": "1утэкъун; пыутын (to break off a part from; to rip off a part from; to tear off a part from); зэпыутын (to break off from itself)"
   },
   {
-    "to tear": "пычын (to pick); хэтхъын / пытхъын (to tear off from); зэхэтхъын / зэпытхъын (to tear off from itself); къыпышъунк1ык1ын; 1утхъын (to tear off); зэхэгъэтэкъун (to tear down and collapse)"
+    "to tear": "пычын (to pick); хэтхъын / пытхъын (to tear off from); зэхэтхъын / зэпытхъын (to tear off from itself); къыпышъунк1ык1ын; 1утхъын (to tear off); зэхэгъэтэкъун (to tear down and collapse); пыутын (to break off a part from; to rip off a part from; to tear off a part from)"
   },
   {
     "nothing but": "зак1"
@@ -10720,7 +10720,7 @@
     "to endure": "зыщэ1эн (to endure); щэ1эн (to endure, to bear); фэщэ1эн (to manage to endure/bear something)"
   },
   {
-    "to stop": "уцун / къэуцун; къэгъэуцун (to stop someone or something); зэпыун (to break off); зэпыгъэун (to break off); зэтеуцон; зэтегъэуцон; уцужьын (to stop doing something); хэнэжьын / к1энэжьын / щыун (to stop doing something out of habit, to quit doing something)"
+    "to stop": "уцун / къэуцун; къэгъэуцун (to stop someone or something); зэпыун (to break off); зэпыгъэун (to break off); зэтеуцон (to stop, to pause, to halt); зэтегъэуцон; уцужьын (to stop doing something); хэнэжьын / к1энэжьын / щыун (to stop doing something out of habit, to quit doing something)"
   },
   {
     "to spend": "гъэк1он; гъэк1одын; тегъэк1одэн (to spend on); 1эк1эк1одэн (to be spending money)"
@@ -14296,7 +14296,7 @@
     "little girl": "пшъэшъэжъый; пшъэшъэ ц1ык1у"
   },
   {
-    "to cut off": "пыупк1ын; гоупк1ын (to cut off the side)"
+    "to cut off": "пыупк1ын; гоупк1ын (to cut off the side); ш1огъэшъутын (to cut off, to slice)"
   },
   {
     "marriage": "нэчыхьытх (marriage registration ceremony); нысащэ (wedding party)"
@@ -15730,7 +15730,7 @@
     "to unseam": "т1эп1ын / гъэт1эп1ын (to be unstitched); зэгот1эп1ык1ын / зэгогъэт1эп1ык1ын (to rip (a garment) at the seams; to unstitch)"
   },
   {
-    "to rip": "1утхъын / къыхэтхъын (to rip off); т1эп1ын / гъэт1эп1ын (to be unstitched); зэгот1эп1ык1ын / зэгогъэт1эп1ык1ын (to rip (a garment) at the seams; to unstitch)"
+    "to rip": "1утхъын / къыхэтхъын (to rip off); т1эп1ын / гъэт1эп1ын (to be unstitched); зэгот1эп1ык1ын / зэгогъэт1эп1ык1ын (to rip (a garment) at the seams; to unstitch); пыутын (to break off a part from; to rip off a part from; to tear off a part from)"
   },
   {
     "washer": "гык1алъэ (washing machine)"
@@ -16270,10 +16270,10 @@
     "uninterrupted": "зэпымыурэ"
   },
   {
-    "to halt": "къэуцун; къэгъэуцун; зэпыун; зэпыгъэун; зэтеуцон; зэтегъэуцон"
+    "to halt": "къэуцун; къэгъэуцун; зэпыун (to be interrupted); зэпыгъэун (to interrupt); зэтеуцон; зэтегъэуцон (to halt something, to pause something)"
   },
   {
-    "to pause": "къэуцун; къэгъэуцун; зэпыун; зэпыгъэун; зэтеуцон; зэтегъэуцон"
+    "to pause": "къэуцун; къэгъэуцун (to pause something); зэпыун (to be interrupted); зэпыгъэун (to interrupt); зэтеуцон (to be paused, to halt); зэтегъэуцон (to halt something, to pause something"
   },
   {
     "to come to a halt": "къэуцун; зэпыун; зэтеуцон"
@@ -16285,13 +16285,10 @@
     "offal": "псэхал1э"
   },
   {
-    "to knife": "ш1обзын"
+    "to knife": "ш1обзын (to slice to kill)"
   },
   {
-    "to slit": "ш1обзын"
-  },
-  {
-    "to kill by cutting.": "ш1обзын"
+    "to slit": "ш1обзын  (to slice to kill)"
   },
   {
     "to quiet": "гъэушъэфын (to make someone quiet); гъэбыяун / гъэсамбырын (to calm someone)"
@@ -17845,7 +17842,10 @@
     "adaptable": "уфэупц1э; лант1э"
   },
   {
-    "to stand": "щытын (to be standing); къэтэджын (to stand up); еуцол1эн (to stand near); тетын (to stand on); 1утын (to stand near); ч1этын (to stand under); хэтын (to stand among other people/objects, to stand in a forest or field, to stand in an area with liquid or gas); дэтын (to stand between); дэтын (to stand in a defined area such as a village, yard, area, etc.); къотын (to stand behind); готын / бгъодэтын (to stand besides); к1элъытын (to stand adjacent to); итын (to stand inside)"
+    "to stand on": "тетын (to be standing on); теуцон (to stand on)"
+  },
+  {
+    "to stand": "щытын (to be standing); къэтэджын (to stand up); еуцол1эн (to stand near); тетын (to be standing on); 1утын (to stand near); ч1этын (to stand under); хэтын (to stand among other people/objects, to stand in a forest or field, to stand in an area with liquid or gas); дэтын (to stand between); дэтын (to stand in a defined area such as a village, yard, area, etc.); къотын (to stand behind); готын / бгъодэтын (to stand besides); к1элъытын (to stand adjacent to); итын (to stand inside)"
   },
   {
     "to show interest in": "ш1огъэш1эгъонын"
