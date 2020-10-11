@@ -27285,7 +27285,12 @@
     "definitions": [
       {
         "meaning": "handle",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Къопсыр''' пчъэм пыхьарэп",
+            "translation": "'''The handle''' does not plug into the door."
+          }
+        ]
       },
       {
         "meaning": "door-handle",
@@ -64537,6 +64542,10 @@
           {
             "sentence": "Сык1оу 1анэ ц1ык1ум '''сыш1онагъ'''",
             "translation": "While going '''I stumbled into''' the small table."
+          },
+		  {
+            "sentence": "1анэр къаэзгъэзэшъурэп, дэпкъым '''ш1уанэ'''",
+            "translation": "I can't turn the table, '''it stumbles into''' the wall."
           }
         ]
       }
@@ -90401,7 +90410,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "hole (hole in the ground)",
+        "meaning": "hole (hole in the ground); pit",
         "examples": [
           {
             "sentence": "Къэбэр симы1эу '''курбы''' горэм сифагъ",
@@ -90414,6 +90423,10 @@
 		  {
             "sentence": "Машэр '''курбэу''' ч1ыгум хэт1ык1ыгъэр ары",
             "translation": "A pit is a '''hole''' that was dug out of the group."
+          },
+		  {
+            "sentence": "К1алэр '''курбым''' ифагъ",
+            "translation": "The boy fell into '''a pit'''."
           }
         ]
       }
@@ -102171,7 +102184,7 @@
         "examples": [
           {
             "sentence": "Ныпчыхьэ фылымыр '''едгъэжьэжьыщт''",
-            "translation": "In the evening, '''we will continue''' the film."
+            "translation": "In this evening, '''we will continue''' the film."
           }
         ]
       }
@@ -102188,7 +102201,7 @@
         "examples": [
           {
             "sentence": "Ныпчыхьэ фылымыр '''тыублэжьыщт''",
-            "translation": "In the evening, '''we will continue''' the film."
+            "translation": "In this evening, '''we will continue''' the film."
           }
         ]
       }
@@ -102206,15 +102219,31 @@
           {
             "sentence": "Садэжь '''къэгъаз'''",
             "translation": "'''Return''' to me."
+          },
+		  {
+            "sentence": "Л1ым унэм '''къигъэзагъ'''",
+            "translation": "The man '''returned''' to me."
+          },
+		  {
+            "sentence": "К1о '''зыкъэмыгъазэу'''",
+            "translation": "Go '''without returning'''."
           }
         ]
       },
       {
-        "meaning": "to turn something (toward the speaker)",
+        "meaning": "to turn something (usaully toward the speaker)",
         "examples": [
           {
-            "sentence": "К1алэм '''къигъазагъ''' телевидение",
+            "sentence": "К1алэм '''къигъэзагъ''' телевидение",
             "translation": "The boy '''turned''' the television."
+          },
+		  {
+            "sentence": "Кур джабгъомк1э '''къагъаз'''",
+            "translation": "'''Turn''' the car right."
+          },
+		  {
+            "sentence": "1анэр '''къаэзгъэзэшъурэп''', дэпкъым ш1уанэ",
+            "translation": "'''I can't turn''' the table, it stumbles into the wall."
           }
         ]
       }
@@ -102228,7 +102257,12 @@
     "definitions": [
       {
         "meaning": "the time to look back",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''зэплъэк1ыгъо''' имыфэу ык1ыбык1э къеуагъэх",
+            "translation": "The boy having no change '''to look back''' got hit from the back."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -102239,12 +102273,34 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to fall into",
-        "examples": []
+        "meaning": "to fall into; to fall inside",
+        "examples": [
+          {
+            "sentence": "К1алэр курбым '''ифагъ'''",
+            "translation": "The boy '''fell into''' a pit."
+          }
+        ]
       },
       {
         "meaning": "to have the opportunity or chance to",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр зэплъэк1ыгъо '''имыфэу''' ык1ыбык1э къеуагъэх",
+            "translation": "The boy '''having no change''' to look back got hit from the back."
+          },
+		  {
+            "sentence": "Мы кур сыщэфынэу '''къэсфифагъ'''",
+            "translation": "'''I had the opportunity''' to buy this car."
+          },
+		  {
+            "sentence": "К1алэм сы1ук1энэу '''къэсфифагъэп'''",
+            "translation": "'''I did not had an opportunity''' to meet the boy."
+          },
+		  {
+            "sentence": "Л1ит1ур мэзым хэтыхэм азакъоу, зым '''къыфифагъ''' адрэр ыук1ынэу",
+            "translation": "When the two men were alone in the forest, one of them '''had the opportunity''' to kill the other."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -102255,11 +102311,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to fall into for",
-        "examples": []
-      },
-      {
-        "meaning": "to have the opportunity or chance to",
+        "meaning": "alternative form of \"ифэн\"",
         "examples": []
       }
     ],
@@ -102279,8 +102331,13 @@
         "examples": []
       },
       {
-        "meaning": "forked",
-        "examples": []
+        "meaning": "forked; that splits into two or more directions, or parts",
+        "examples": [
+          {
+            "sentence": "Кохъо '''т1аркъу'''",
+            "translation": "'''Forked''' pitchfork."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -102312,19 +102369,18 @@
           {
             "sentence": "Л1ыжъым гущы1э ш1ух ны1эп '''ра1уал1эхэрэр'''",
             "translation": "Only good words '''are said about''' the old man."
-          }
-        ]
-      },
-      {
-        "meaning": "to say things about",
-        "examples": [
-          {
+          },
+		  {
             "sentence": "Сиянэ ш1ухэр '''ра1уал1эх'''",
             "translation": "'''They say''' good things '''about''' my mother."
           },
           {
             "sentence": "Сыд филымым '''еп1уал1эрэр'''?",
             "translation": "What '''you say about''' the film?"
+          },
+          {
+            "sentence": "Л1ыжъым 1аехэр '''къыси1ол1агъэх'''",
+            "translation": "The old-man '''said about me''' awful things."
           }
         ]
       }
@@ -102348,21 +102404,6 @@
     ],
     "type": "verb",
     "ipa": "ʔʷəɬʼan"
-  },
-  {
-    "word": "хьан",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to go / enter / advance / move to",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "хьэн"
-    ],
-    "type": "verb",
-    "ipa": "ħaːn"
   },
   {
     "word": "хэхьан",
@@ -102391,7 +102432,7 @@
         ]
       },
       {
-        "meaning": "to go into / enter an area of mass (liquid, solid or gas), to go through, to go within",
+        "meaning": "to go into; to enter an area of some mass (liquid, solid or gas), to go through, to go within",
         "examples": [
           {
             "sentence": "К1алэр мэзым '''хахьэ'''",
@@ -102420,9 +102461,6 @@
         ]
       }
     ],
-    "synonyms": [
-      "хэхьан"
-    ],
     "type": "verb",
     "ipa": "xaħaːn"
   },
@@ -102449,20 +102487,23 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to plug",
-        "examples": [
-          {
-            "sentence": "USB-ыр '''пыхьагъ''' компьютерым",
-            "translation": "The USB '''plugged into''' the computer."
-          }
-        ]
-      },
-      {
-        "meaning": "to attach",
+        "meaning": "to attach; to plug",
         "examples": [
           {
             "sentence": "Легохэр '''зэпыхьах'''",
             "translation": "The Legos are '''attaching with each other'''."
+          },
+		  {
+            "sentence": "USB-ыр '''пыхьагъ''' компьютерым",
+            "translation": "The USB '''plugged into''' the computer."
+          },
+		  {
+            "sentence": "Ощык1ыр ощым '''пыхьагъ'''",
+            "translation": "The axe-handle '''attached onto''' the axe."
+          },
+		  {
+            "sentence": "Къопсыр пчъэм '''пыхьарэп'''",
+            "translation": "The handle '''does not plug into''' the door."
           }
         ]
       },
@@ -102474,7 +102515,7 @@
             "translation": "The man '''got infected with''' a disease."
           },
 		  {
-            "sentence": "Садэжь укъэмык1у, узыр '''къэспыбгъэхьэщт'''",
+            "sentence": "Садэжь укъэмык1у, узыр '''къэспыбгъэхьащт'''",
             "translation": "Don't come close to me, '''you will get me infected with''' the disease."
           }
         ]
@@ -102517,7 +102558,16 @@
     "definitions": [
       {
         "meaning": "lid (The top or cover of a container)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''шъхьатеп1ор''' теп1о",
+            "translation": "The boy puts '''the lid'''"
+          },
+		  {
+            "sentence": "К1алэм '''шъхьатеп1ор''' къытехы",
+            "translation": "The boy lifts '''the lid'''"
+          }
+        ]
       }
     ],
     "synonyms": [
