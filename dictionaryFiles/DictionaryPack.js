@@ -103009,12 +103009,43 @@
     "ipa": "t͡ʂʼəpʼaːɬa"
   },
   {
+    "word": "шъхьагъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "top part",
+        "examples": [
+          {
+            "sentence": "къушъхьэм '''ышъхьагъ'''",
+            "translation": "Mountain '''top'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "overhead; above one's head; in the sky",
+        "examples": [
+          {
+            "sentence": "Дзэм ышъхьагъ итэу къухьэлъатэ мэбыбы",
+            "translation": "'''Overhead''' the army there is an airplane flying."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʂħaːʁ"
+  },
+  {
     "word": "шыгу",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "peak, peak top",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "къушъхьэ '''шыгу'''",
+            "translation": "'''head''' of a mountain."
+          }
+        ]
       }
     ],
     "kabardian": "щыгу",
@@ -103039,7 +103070,12 @@
     "definitions": [
       {
         "meaning": "mourning",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Шъыгъо''' маф",
+            "translation": "'''Mourning''' day."
+          }
+        ]
       }
     ],
     "kabardian": "щыгъуэ",
@@ -103111,8 +103147,16 @@
         "meaning": "deathtime, time of death",
         "examples": [
           {
-            "sentence": "Л1ыжъым '''ихьэдэгъу''' къэсэгъ",
+            "sentence": "Л1ыжъым '''ихьэдэгъу''' къэсыгъ",
             "translation": "The old man's '''death time''' has come."
+          },
+		  {
+            "sentence": "Ц1ыфым '''ихьадэгъу''' къэсымэ, 1эзэгъу и1эп",
+            "translation": "When a person's '''deathtime''' comes, there no aid for it."
+          },
+		  {
+            "sentence": "Ц1ыфыр л1эщтэп '''ихьадэгъу''' къэмысыгъэу",
+            "translation": "No person will not die unless '''their deathtime''' arrived."
           }
         ]
       }
@@ -103128,12 +103172,21 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to lay with",
+        "meaning": "to lie with",
         "examples": []
       },
       {
         "meaning": "to sleep with; to have sex with; to engage in sexual intercourse with",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр пшъашъэм '''дэгъолъыгъ'''",
+            "translation": "The boy '''slept''' with the girl."
+          },
+		  {
+            "sentence": "Динхэмэ адэрэп къамыщагъэу '''узэдэгъолъыныр'''",
+            "translation": "The religions do not allow '''engaging in sexual intercourse''' without marriage."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -103145,7 +103198,12 @@
     "definitions": [
       {
         "meaning": "melancholy, sad, sorrowful",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''нэшхъэеу''' хъугъэ",
+            "translation": "The boy became '''sorrowful'''."
+          }
+        ]
       }
     ],
     "synonyms": [
