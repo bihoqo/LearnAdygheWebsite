@@ -6834,19 +6834,6 @@
     "ipa": "t͡sʼa"
   },
   {
-    "word": "чатэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "sword",
-        "examples": []
-      }
-    ],
-    "shapsug": "кьатэ",
-    "type": "noun",
-    "ipa": "t͡ʃaːta"
-  },
-  {
     "word": "чъыгы",
     "lang": "Adyghe",
     "definitions": [
@@ -15426,6 +15413,10 @@
 		  {
             "sentence": "Зышъуухъум, '''пыйхэр''' топк1э къаох",
             "translation": "Take over, '''the foes''' are attacking with cannons."
+          },
+		  {
+            "sentence": "Л1ым сэшхок1э '''пыим''' ышъхьэ ш1уихыгъ",
+            "translation": "The man beheaded his '''foe's''' head with a sword."
           }
         ]
       }
@@ -16613,6 +16604,14 @@
             "sentence": "К1алэр '''мэзао''' заумк1э",
             "translation": "the boy '''is fighting''' in the war."
           },
+		  {
+            "sentence": "Сэ сэшхок1э '''сэзао'''",
+            "translation": "'''I fight''' with a sword."
+          },
+		  {
+            "sentence": "Шыудзэхэр пчык1э '''мэзаох'''",
+            "translation": "The cavalries '''fight''' with spears."
+          }
           {
             "sentence": "Адыгэхэмрэ урысхэмрэ '''зэзэогъагъэх'''",
             "translation": "the Circassians and the Russian '''had fought each other once'''."
@@ -18195,6 +18194,10 @@
 		  {
             "sentence": "Сиджанэ '''пчъэм''' ык1ыб пылъагъ, къэсфэхь",
             "translation": "My shirt is hanged behind '''the door''', bring it to me."
+          },
+		  {
+            "sentence": "Кумэ уагуахьэу зыхъурэм, '''япчъэхэмэ''' уамыблагъ зыгорэм къик1ымэ емыутынэу",
+            "translation": "When you go besides the cars, don't get close to '''their doors''' so you won't ran over someone if he gets out."
           }
         ]
       }
@@ -20340,6 +20343,10 @@
           {
             "sentence": "к1алэр къэцым '''еблэгъагъэп'''",
             "translation": "The boy '''didn't went near''' the thorn."
+          },
+		  {
+            "sentence": "Кумэ уагуахьэу зыхъурэм, япчъэхэмэ '''уамыблагъ''' зыгорэм къик1ымэ емыутынэу",
+            "translation": "When you go besides the cars, '''don't get close to''' their doors so you won't ran over someone if he gets out."
           }
         ]
       }
@@ -70315,6 +70322,10 @@
 		  {
             "sentence": "Къэхь '''дзыор''', къутамэхэр итдзэжьыщтых",
             "translation": "Bring '''the sack''', we will throw the branches to it."
+          },
+		  {
+            "sentence": "Л1ым '''дзыор''' ышъхьа1ук1э къыубытыгъ",
+            "translation": "The man grabbed '''the sack''' from its upper part."
           }
         ]
       }
@@ -88511,6 +88522,10 @@
 		  {
             "sentence": "Л1ыр пкъэум кумк1э еуал1и '''риутыгъ'''",
             "translation": "The man collided against the column with the car and '''knocked it down'''."
+          },
+		  {
+            "sentence": "Кумэ уагуахьэу зыхъурэм, япчъэхэмэ уамыблагъ зыгорэм къик1ымэ '''емыутынэу'''",
+            "translation": "When you go besides the cars, don't get close to their doors so '''you won't ran over''' someone if he gets out."
           }
         ]
       }
@@ -101147,6 +101162,27 @@
     "ipa": "ʔaʁʷa-bɮaːʁʷ"
   },
   {
+    "word": "шъхьа1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "top edge; most upper",
+        "examples": [
+		  {
+            "sentence": "Колэм '''ышъхьа1у''' теп1ожь",
+            "translation": "Cover the coke's '''bottleneck''' again."
+          },
+		  {
+            "sentence": "Л1ым дзыор '''ышъхьа1ук1э''' къыубытыгъ",
+            "translation": "The man grabbed the sack '''from its upper part'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʂħaʔʷ"
+  },
+  {
     "word": "л1эужьыгъо",
     "lang": "Adyghe",
     "definitions": [
@@ -102561,11 +102597,15 @@
         "examples": [
           {
             "sentence": "К1алэм '''шъхьатеп1ор''' теп1о",
-            "translation": "The boy puts '''the lid'''"
+            "translation": "The boy covers '''the lid'''"
           },
 		  {
             "sentence": "К1алэм '''шъхьатеп1ор''' къытехы",
             "translation": "The boy lifts '''the lid'''"
+          },
+		  {
+            "sentence": "Колэм '''ишъхьатеп1у''' теп1ожь",
+            "translation": "Cover the coke's '''lid''' again."
           }
         ]
       }
@@ -102639,6 +102679,18 @@
           {
             "sentence": "К1алэр унэм '''гохьэ'''",
             "translation": "The boy '''goes besides''' the house."
+          },
+		  {
+            "sentence": "К1алэр л1ым '''гохьагъ'''",
+            "translation": "The boy '''went besides''' the man."
+          },
+		  {
+            "sentence": "Мы кум '''къыгуахь'''",
+            "translation": "'''Go besides''' this car."
+          },
+		  {
+            "sentence": "Кумэ '''уагуахьэу''' зыхъурэм, япчъэхэмэ уамыблагъ зыгорэм къик1ымэ емыутынэу",
+            "translation": "When '''you go besides''' the cars, don't get close to their doors so you won't ran over someone if he gets out."
           }
         ]
       }
@@ -102660,6 +102712,18 @@
           {
             "sentence": "К1алэр унэм '''бгъодэхьэ'''",
             "translation": "The boy '''goes besides''' the house."
+          },
+		  {
+            "sentence": "Мы кум '''къыбгъодахь'''",
+            "translation": "'''Go besides''' this car."
+          },
+		  {
+            "sentence": "К1алэр л1ым '''бгъодэхьагъ'''",
+            "translation": "The boy '''went besides''' the man."
+          },
+		  {
+            "sentence": "Кумэ '''уабгъодэхьэу''' зыхъурэм, япчъэхэмэ уамыблагъ зыгорэм къик1ымэ емыутынэу",
+            "translation": "When '''you go besides''' the cars, don't get close to their doors so you won't ran over someone if he gets out."
           }
         ]
       },
@@ -102710,12 +102774,25 @@
           {
             "sentence": "К1алэр чъыгым '''1ухьагъ'''",
             "translation": "The boy '''went near''' the tree."
+          },
+		  {
+            "sentence": "Пкъэум ыдэжь '''сы1уахь'''",
+            "translation": "'''I went near''' the pillar."
+          },
+		  {
+            "sentence": "Хьэм ыдэжь '''у1умыхь'''",
+            "translation": "'''Do not go near''' the dog."
+          },
+		  {
+            "sentence": "Тучаным '''ты1ухьагъ''' зыгорэ къы1этыхынэу",
+            "translation": "'''We went to''' the shop to take something."
+          },
+		  {
+            "sentence": "Мэфэк1ымк1э, сабыймэ чылэр къак1ухьэ, унэхэмэ '''а1ухьэх'' 1эш1ухыр къаратыхэнэу",
+            "translation": "In the holiday, the children wander around the village, '''going to''' houses to get sweets."
           }
         ]
       }
-    ],
-    "synonyms": [
-      "1ухьэн"
     ],
     "type": "verb",
     "ipa": "ʔʷəħaːn"
@@ -102739,6 +102816,10 @@
           {
             "sentence": "Шэр пхъэм '''к1оц1ыхьан'''",
             "translation": "The bullet '''to penetrate into''' the wood."
+          },
+		  {
+            "sentence": "Шэр ашъокум '''к1оц1ыхьашъущтэп'''",
+            "translation": "The bullet '''cannot penetrate''' a tank."
           }
         ]
       },
@@ -102746,7 +102827,7 @@
         "meaning": "to go within inside something",
         "examples": [
           {
-            "sentence": "Тхьапш шхынэу '''къыпк1оц1ахьэрэр?'''",
+            "sentence": "Тхьапш шхынэу '''къыпк1оц1ыхьэрэр?'''",
             "translation": "How much food '''goes into you?'''"
           }
         ]
@@ -102787,6 +102868,18 @@
     "ipa": "maɮəχʷaʁʷ"
   },
   {
+    "word": "к1ыжьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to heal (a wound); to grow again",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "tʃʼəʑən"
+  },
+  {
     "word": "пчыт1аркъу",
     "lang": "Adyghe",
     "definitions": [
@@ -102804,11 +102897,64 @@
     "definitions": [
       {
         "meaning": "sword",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''сэшхок1э''' мэзао",
+            "translation": "The young man fights '''with a sword'''."
+          },
+		  {
+            "sentence": "Л1ым '''сэшхок1э''' пыим ышъхьэ ш1уихыгъ",
+            "translation": "The man beheaded his foe's head '''with a sword'''."
+          },
+		  {
+            "sentence": "'''Сисэшхо''' къутакъэ",
+            "translation": "'''My sword''' broke."
+          },
+		  {
+            "sentence": "Л1ым '''сэшхор''' къыдихыгъ",
+            "translation": "The man drew '''the sword'''."
+          }
+        ]
       }
+    ],
+    "synonyms": [
+      "чатэ"
     ],
     "type": "noun",
     "ipa": "saʃxʷa"
+  },
+  {
+    "word": "чатэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "sword",
+        "examples": [
+          {
+            "sentence": "К1алэр '''чатэк1э''' мэзао",
+            "translation": "The young man fights '''with a sword'''."
+          },
+		  {
+            "sentence": "Л1ым '''чатэк1э''' пыим ышъхьэ ш1уихыгъ",
+            "translation": "The man beheaded his foe's head '''with a sword'''."
+          },
+		  {
+            "sentence": "'''Сичатэ''' къутакъэ",
+            "translation": "'''My sword''' broke."
+          },
+		  {
+            "sentence": "Л1ым '''чатэр''' къыдихыгъ",
+            "translation": "The man drew '''the sword'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "сэшхо"
+    ],
+    "shapsug": "кьатэ",
+    "type": "noun",
+    "ipa": "t͡ʃaːta"
   },
   {
     "word": "пелыуан",
@@ -110827,6 +110973,10 @@
 		  {
             "sentence": "Ч1ыфэу '''къа1эпыхыгъэр''' аптыжьын фай",
             "translation": "You must return a loan '''that you took'''."
+          },
+		  {
+            "sentence": "Тучаным ты1ухьагъ зыгорэ '''къы1этыхынэу'''",
+            "translation": "We went to the shop '''to take''' something."
           }
         ]
       }
@@ -113245,7 +113395,12 @@
     "definitions": [
       {
         "meaning": "mouth",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''ы1ук1э''' уешъон",
+            "translation": "To drink from the bottle."
+          }
+        ]
       },
       {
         "meaning": "opening, aperture, hole",
@@ -113254,6 +113409,23 @@
     ],
     "type": "noun",
     "ipa": "ʔʷə"
+  },
+  {
+    "word": "к1ы1утелъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "outer",
+        "examples": [
+          {
+            "sentence": "щыгъын к1ы1утелъ",
+            "translation": "outerwear."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃʼəʔʷtajɬ"
   },
   {
     "word": "хъупц1",
@@ -117172,15 +117344,20 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to cover",
-        "examples": []
-      },
-      {
-        "meaning": "to lid",
-        "examples": []
+        "meaning": "to lid; to cover (a container)",
+        "examples": [
+          {
+            "sentence": "К1алэм бэшэрэбым '''шъхьатеп1ор''' теп1о",
+            "translation": "The boy covers '''the lid''' on the bottle."
+          },
+		  {
+            "sentence": "Колэм ышъхьа1у '''теп1ожь'''",
+            "translation": "'''Cover''' the coke's bottleneck again."
+          }
+        ]
       }
     ],
-    "type": "noun",
+    "type": "verb",
     "ipa": "tajpʷʼan"
   },
   {

@@ -8932,7 +8932,10 @@
     "breakable": "махэ; убэтэгъош1у"
   },
   {
-    "to cover": "хъумэн (to cover for protection); бгъэн (to thatch); техъон (to lay to cover); теп1он (to lit);  ч1эухъумэн / ч1эухъубэн / ч1эгъэсэен (to cover something, to bury something); теухъумэн (to cover on something); иухъумэн (to cover inside something)"
+    "to lid": "теп1он (to close/cover a container)"
+  },
+  {
+    "to cover": "хъумэн (to cover for protection); бгъэн (to thatch); техъон (to lay to cover); теп1он (to close a container); ч1эухъумэн / ч1эухъубэн / ч1эгъэсэен (to cover something, to bury something); теухъумэн (to cover on something); иухъумэн (to cover inside something)"
   },
   {
     "to pick": "хэхын / къыхэхын; пычын (to pull off fruit or flower); хэдэн (to pick something out of); щыпын / къэщыпын (to pick up stuff/people usaully from the ground); тещыпык1ын (to pick up stuff from)"
@@ -11431,7 +11434,7 @@
     "fringe": "гъунэ"
   },
   {
-    "edge": "нэз; цак1э; гъунэ; цыпэ (tip)"
+    "edge": "нэз; цак1э; гъунэ; цыпэ (tip); шъхьа1у (top edge)"
   },
   {
     "tip": "цыпэ; пак1э; к1э; к1эух; гъунэ"
@@ -11548,7 +11551,7 @@
     "to get used to": "есэн; егъэсэн (to make someone used to)"
   },
   {
-    "to close": "есэн; игъэсэн (to close something); фэш1ын (to close something); гъэуп1ыц1эн (to close eyes)"
+    "to close": "есэн; игъэсэн (to close something); фэш1ын (to close something); гъэуп1ыц1эн (to close eyes); теп1он (to close a container)"
   },
   {
     "to cut with": "дэбзын"
@@ -12202,7 +12205,7 @@
     "burned": "стыгъэ"
   },
   {
-    "top": "к1ы1у; шъхьап (apex)"
+    "top": "к1ы1у; шъхьап (apex); шъхьа1у (top edge)"
   },
   {
     "apex": "шъхьап"
@@ -16435,7 +16438,10 @@
     "over": "ык1ы1у (on the surface of); шъхьадэ- (prepositional verval suffix)"
   },
   {
-    "upper": "ышъхьэгъырэ; к1ы1утелъ"
+    "upper": "ышъхьэгъырэ; шъхьа1у (most upper)"
+  },
+  {
+    "outer": "к1ы1утелъ"
   },
   {
     "beyond": "шъхьапыры- (prepositional verval suffix)"
