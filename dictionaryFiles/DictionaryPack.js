@@ -96307,15 +96307,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "whiner, moaner, whimperer, yammer (one who yammers)",
+        "meaning": "crybaby; cry-baby",
         "examples": [
           {
             "sentence": "Ц1ыф '''ныгъ-ныгъ'''",
-            "translation": "'''A whiner''' person."
+            "translation": "'''A crybaby''' person."
           },
 		  {
             "sentence": "'''Ныгъ-ныгъ''' ехъурэ пш1эрэба?",
-            "translation": "Don't you know anything besides '''yamming'''?."
+            "translation": "Don't you know anything besides '''crybabying'''?"
           }
         ]
       }
@@ -103217,8 +103217,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "grieve, sad, sorrowful",
-        "examples": []
+        "meaning": "unhappy; joyless; mirthless",
+        "examples": [
+          {
+            "sentence": "К1алэр '''чэфынчъ'''",
+            "translation": "The boy '''is unhappy'''"
+          },
+		  {
+            "sentence": "К1алэр '''чэфынчъэу''' хъугъэ",
+            "translation": "The boy became '''unhappy'''"
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -103232,7 +103241,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be sad",
+        "meaning": "to be unhappy",
         "examples": []
       }
     ],
@@ -103249,11 +103258,37 @@
     "definitions": [
       {
         "meaning": "to trot, to move at a gait between a walk and a canter.",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Хьэр '''мэушъы''' к1алэм ригъусэу",
+            "translation": "The dog '''is trotting''' with the boy."
+          },
+		  {
+            "sentence": "Дзак1охэр '''мэушъых'''",
+            "translation": "The soldiers '''are trotting'''."
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "wəʂən"
+  },
+  {
+    "word": "лъэхъун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to trot",
+        "examples": [
+          {
+            "sentence": "шыр '''мэлъэхъу'''",
+            "translation": "The horse '''is trotting'''"
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɬaχʷən"
   },
   {
     "word": "тхьары1у",

@@ -8356,6 +8356,12 @@
     "to mew": "пц1эун"
   },
   {
+    "unhappy": "чэфынчъэ"
+  },
+  {
+    "joyless": "чэфынчъэ"
+  },
+  {
     "to bite": "цэкъэн; хэцэкъэн (to bite something)"
   },
   {
@@ -16498,16 +16504,22 @@
     "pass": "блэ- (prepositional verval suffix)"
   },
   {
-    "whiner": "тхьаусхал; ныгъ-ныгъ"
+    "cry-baby": "ныгъ-ныгъ"
   },
   {
-    "yammer": "тхьаусхал; ныгъ-ныгъ"
+    "crybaby": "ныгъ-ныгъ"
   },
   {
-    "moaner": "тхьаусхал; ныгъ-ныгъ"
+    "whiner": "тхьаусхал"
   },
   {
-    "whimperer": "тхьаусхал; ныгъ-ныгъ"
+    "yammer": "тхьаусхал"
+  },
+  {
+    "moaner": "тхьаусхал"
+  },
+  {
+    "whimperer": "тхьаусхал"
   },
   {
     "past": "блэк1ыгъэ / зэман (past time); блэ- (prepositional verval suffix)"
