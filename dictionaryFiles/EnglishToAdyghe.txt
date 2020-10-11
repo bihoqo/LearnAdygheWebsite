@@ -453,7 +453,10 @@
     "cliff": "къушъхьэ дыс; бгы дыс"
   },
   {
-    "highland": "бгы; бгылъэ; 1ошъхьэлъэ"
+    "highland": "бгы; бгылъэ; 1ошъхьэлъэ; къушъхьалъ"
+  },
+  {
+    "upland": "бгылъэ; къушъхьалъ"
   },
   {
     "lowland": "лъэгуан; ч1ыох; к1эй (valley); охы"
@@ -4609,6 +4612,9 @@
     "greatly": "лъэшэу"
   },
   {
+    "loudly": "лъэшэу"
+  },
+  {
     "wet": "ц1ынэ; (Shapsug) c1ынэ"
   },
   {
@@ -5779,7 +5785,7 @@
     "to know": "ш1эн; хэш1ык1ын (to have an expertise about)"
   },
   {
-    "to do": "ш1эн; фэш1эн (to do for)"
+    "to do": "ш1эн; фэш1эн (to do for); зехьан"
   },
   {
     "tiger": "къэплъан"
@@ -7810,6 +7816,18 @@
     "to eat": "шхэн; шхын (to eat something); гъэшхэн (to make someone eat, to feed); зыгъэшхэк1ын (to saturate oneself with food); шӏошхын (to consume someone else's food); зэхэшхэхьан (to eat around); шхэк1ын (to be saturated with food); пышхэхьан (to feast upon)"
   },
   {
+    "to become fat": "пщэрын"
+  },
+  {
+    "to gain weight": "пщэрын"
+  },
+  {
+    "to put on weight": "пщэрын"
+  },
+  {
+    "to fatten": "пщэрын"
+  },
+  {
     "to feed": "гъэшхэн (to make someone eat, to feed)"
   },
   {
@@ -8848,7 +8866,7 @@
     "colloquial language": "жэры1уабз"
   },
   {
-    "to wander": "къэк1ухьан; къыщык1ухьан"
+    "to wander": "къэк1ухьан (to wander by foot); къыщык1ухьан; къэчъыхьан (to wander running)"
   },
   {
     "bystander": "шыхьат (eye-witness)"
@@ -8989,7 +9007,10 @@
     "to compose": "орэд усын"
   },
   {
-    "barely": "ерагъэу; ерагъэк1э; л1ыгъэк1э; зыгорашъоу (somehow)"
+    "barely": "ерагъэу; ерагък1э / ерагъэк1э; егъэзыгъэу; л1ыгъэк1э; зыгорашъоу (somehow)"
+  },
+  {
+    "almost not": "ерагъэу; ерагък1э / ерагъэк1э; егъэзыгъэу; л1ыгъэк1э; зыгорашъоу (somehow)"
   },
   {
     "to lie down": "гъолъын"
@@ -10153,7 +10174,13 @@
     "to run out": "ухын (to finish)"
   },
   {
-    "to finish": "ухын"
+    "to finish": "ухын / къэухын"
+  },
+  {
+    "to complete": "ухын / къэухын"
+  },
+  {
+    "to end": "ухын / къэухын (to end something); къыухын"
   },
   {
     "garage": "гараж"
@@ -10496,9 +10523,6 @@
   },
   {
     "boyfriend": "шъэогъу; гъусэк1алэ"
-  },
-  {
-    "different": "нэмык1; ; пэмык1; (Shapsug) нэмык1ыр; фэшъхьаф; шъхьафы"
   },
   {
     "separated": "шъхьафы, закъо"
@@ -10921,7 +10945,10 @@
     "far away": "чыжьэу"
   },
   {
-    "very": "дэд; дэдэу; лъэшэу (greatly); зыш1оу (Shapsug)"
+    "very": "дэд; дэдэу; лъэшэу (greatly); (Shapsug) зыш1оу"
+  },
+  {
+    "very much": "лъэшэу; (Shapsug) зыш1оу"
   },
   {
     "really": "шъыпкъэу"
@@ -11623,13 +11650,13 @@
     "to be unber": "ч1элъын"
   },
   {
-    "to be on": "телъын"
+    "to be on": "тетын; телъын"
   },
   {
     "to be besides": "голъын / бгъодэлъын"
   },
   {
-    "to be": "щытын (to be a, to be the); телъын (to be on); ч1элъын (to be unber, to be beneath); илъын (to be in); дэлъын (to be in); хэлъын (to be within, to be among, to be within an area of liquid, solid or gas, to be in the forest or plants); къолъын (to be behind); пылъын (to be attached on, to be on a tree, to be connected to); голъын / бгъодэлъын (to be besides)"
+    "to be": "щытын / щылъын (to be a, to be the); тетын / телъын (to be on); ч1этын / ч1элъын (to be unber, to be beneath); итын / илъын (to be in); дэлъын (to be in); хэтын / хэлъын (to be within, to be among, to be within an area of liquid, solid or gas, to be in the forest or plants, to be in a list, to be in a company or group); къотын / къолъын (to be behind); пытын / пылъын (to be attached on, to be on a tree, to be connected to); готын / бгъодэтын / голъын / бгъодэлъын (to be besides)"
   },
   {
     "to lie": "пц1ын (to speak falsehood); пц1ы усын (to speak falsehood); пс1ын (Shapsug, to speak falsehood); фэп1ын (to lie to someone); пц1ы фэусын (to lie to someone); щылъын (to be lying); телъын (to be lying on); ч1элъын (to be lying under); хэлъын (to be lying within some area with liquid, gas or solid); дэлъын (to be lying in); илъын (to be lying inside); къолъын (to be lying behind); голъын / бгъодэлъын (to be lying under); гъолъын (to lie down); тегъолъхьан (to lie down on something); ч1эгъолъхьан (to lie down under something); хэгъолъхьан (to lie down within an area with liquid, solid or gas); дэгъолъхьан (to lie down in); игъолъхьан (to lie down inside); гогъолъхьан / бгъодэгъолъхьан (to lie down besides); къогъолъхьан (to lie down behind)"
@@ -13222,9 +13249,6 @@
     "flooded roads": "к1уадж"
   },
   {
-    "to move a bit": "лъык1отэн"
-  },
-  {
     "to move": "хъыен; кощын (to move elsewhere); к1отэн (to move forward); лъык1отэн (to move forward/away a bit); гъэк1отэн / лъыгъэк1отэн (to move a little); зэк1эк1он (to move backward); егъэк1отыл1эн (to move something closer to something); фэгъэк1отэн (to bring something nearer to someone for him/her)"
   },
   {
@@ -14302,9 +14326,6 @@
     "health": "псэонгъэ"
   },
   {
-    "to end": "къыухын"
-  },
-  {
     "lap": "кок1"
   },
   {
@@ -14917,10 +14938,10 @@
     "to break out": "1эк1эк1ын (to break out of somebody's hands)"
   },
   {
-    "different": "нэмык1; (Shapsug) нэмык1ыр"
+    "different": "нэмык1 / пэмык1 (different than); (Shapsug) нэмык1ыр; фэшъхьаф (different than); шъхьафы; зэфэшъхьафы / зэфэмыдэ (different than each other)"
   },
   {
-    "another": "нэмык1; (Shapsug) нэмык1ыр; ехъурэ; пэмык1"
+    "another": "нэмык1 / пэмык1; (Shapsug) нэмык1ыр; ехъурэ"
   },
   {
     "grandson": "къорылъф (the child of the son); пхъорэлъф  (the child of the dauther)"
@@ -16360,9 +16381,6 @@
     "to distract": "тегупшысык1ын (to get distract); тегъэшэхъук1ын; тегъэшъхьэрыук1ын; тегъэгупшысык1ын (to distract someone); тегъэун (in order to to relax, entertain or amuse by diverting the attention)"
   },
   {
-    "to go on": "техьан; телъэдэн (to run on)"
-  },
-  {
     "to invade": "техьан; телъэдэн"
   },
   {
@@ -16498,7 +16516,7 @@
     "to go": "к1он (to walk, to go to somewhere); щык1он (to go in a certain area); дэк1оен (to go up); ехын (to go down); къэк1ухьан (to walk around, to roam, to stroll, to ramble); зэк1эк1он / къызэк1эк1он (to go backward); техьан (to go on); ч1эхьан (to go under); хэхьан (to go to an area with some liquid or gas); хэхьан (to go into a forest or field); хэхьан (to go through); хэхьан (to go among other people/objects); гохьан / бгъодэхьан (to go besides); ихьан (to go inside); дэхьан (to enter a defined area, such as a yard, village, area, etc.); дэхьан (to go between); к1оц1ыхьан (to go within inside something); къохьан (to go behind); шъхьадэхьан (to go over); шъхьапырык1ын (to go beyond); фэ1офытэн (to go for someone to bring something); ш1ок1он (to go to somewhere against someone's will or interest)"
   },
   {
-    "to come": "къэк1он; къыдэк1оен (to come up); къехын (to come down); къытехьан (to come on); къыч1эхьан (to come under); къыхэхьан (to come to an area with some liquid or gas); къыхэхьан (to come into a forest or field); хэхьан (to come through); къыхэхьан (to come among other people/objects); къыгохьан / къыбгъодэхьан (to come besides); къыихьан (to come inside); къыдэхьан (to enter a defined area, such as a yard, village, area, etc.); къыдэхьан (to come between); къык1оц1ыхьан (to come within inside something)"
+    "to come": "къэк1он; къылъык1отэн (to come near, to advance near); къыдэк1оен (to come up); къехын (to come down); къытехьан (to come on); къыч1эхьан (to come under); къыхэхьан (to come to an area with some liquid or gas); къыхэхьан (to come into a forest or field); хэхьан (to come through); къыхэхьан (to come among other people/objects); къыгохьан / къыбгъодэхьан (to come besides); къыихьан (to come inside); къыдэхьан (to enter a defined area, such as a yard, village, area, etc.); къыдэхьан (to come between); къык1оц1ыхьан (to come within inside something)"
   },
   {
     "to go inside": "ихьан (to go into the house); къихьан (to come into the house)"
@@ -16510,7 +16528,7 @@
     "atrium": "гушъхьэ"
   },
   {
-    "heartburn": "гушхьабж"
+    "heartburn": "гушъхьабж"
   },
   {
     "auricle": "гушъхьэ"
@@ -16612,16 +16630,25 @@
     "variety": "зэмыл1эужыгъо"
   },
   {
-    "various": "зэмыл1эужыгъо"
+    "various": "зэмыл1эужыгъо; зэфэшъхьафы; зэфэмыдэ"
   },
   {
-    "diverse": "зэмыл1эужыгъо"
+    "diverse": "зэмыл1эужыгъо; зэфэшъхьафы; зэфэмыдэ"
   },
   {
     "variously": "зэмыл1эужыгъоу"
   },
   {
     "diversely": "зэмыл1эужыгъоу"
+  },
+  {
+    "bouquet": "1эрам"
+  },
+  {
+    "bunch": "1ап1э; 1эрам"
+  },
+  {
+    "posy": "1эрам"
   },
   {
     "to perambulate": "къэк1ухьан"
@@ -16651,7 +16678,19 @@
     "widower": "л1эгъуаб"
   },
   {
-    "back of the head": "шъхьач; шъхьэпхэтыку"
+    "widower": "л1эгъуаб"
+  },
+  {
+    "hustle and bustle": "1эчъэ-лъачъ"
+  },
+  {
+    "commotion": "1эчъэ-лъачъ"
+  },
+  {
+    "hubbub": "1эчъэ-лъачъ"
+  },
+  {
+    "hurlyburly": "1эчъэ-лъачъ"
   },
   {
     "occiput": "шъхьач; шъхьэпхэтыку"
@@ -16669,10 +16708,16 @@
     "except": "ащ нэмык1 (except that); нэмык1эу; фэшъхьафэу; щэхъу; ехъурэ"
   },
   {
-    "besides": "ащ нэмык1; нэмык1эу; фэшъхьафэу; щэхъу; бгъодэ- / го- (prepositional verval suffix)"
+    "finiteness": "пкъызэхэлъык1"
   },
   {
-    "anything else": "ащ нэмык1; нэмык1эу; фэшъхьафэу; щэхъу"
+    "limp": "1эпкъ-лъэпкъ"
+  },
+  {
+    "besides": "ащ нэмык1; нэмык1эу; фэшъхьафэу; ехъурэ; щэхъу; бгъодэ- / го- (prepositional verval suffix)"
+  },
+  {
+    "anything else": "ащ нэмык1; нэмык1эу; фэшъхьафэу; ехъурэ; щэхъу"
   },
   {
     "to accompany": "к1ыгъун"
@@ -17263,6 +17308,21 @@
     "to discontinue": "зэпыгъэун"
   },
   {
+    "to continue": "егъэжьэжьын; ублэжьын; лъыгъэк1отэн (to advance something, to progress something, to proceed something); (dialectal) игъэкъун"
+  },
+  {
+    "to go on": "техьан (to go on, to go above, to go on the surface of); телъэдэн (to run on); лъык1отэн (to advance, to progress, to proceed); лъыгъэк1отэн (to advance something, to progress something, to proceed something); (dialectal) игъэкъун"
+  },
+  {
+    "to proceed": "лъык1отэн (to advance, to progress, to proceed); лъыгъэк1отэн (to advance something, to progress something, to proceed something); (dialectal) игъэкъун"
+  },
+  {
+    "to advance": "лъык1отэн (to advance, to progress, to proceed); лъыгъэк1отэн (to advance something, to progress something, to proceed something); (dialectal) игъэкъун"
+  },
+  {
+    "to progress": "лъык1отэн (to advance, to progress, to proceed); лъыгъэк1отэн (to advance something, to progress something, to proceed something); (dialectal) игъэкъун"
+  },
+  {
     "to forcefully push": "дэкон"
   },
   {
@@ -17392,7 +17452,7 @@
     "half efficient": "ныкъо сыкъо"
   },
   {
-    "hardly": "ерагъэу; ныкъо сыкъоу"
+    "hardly": "ерагъэу; ерагък1э / ерагъэк1э; егъэзыгъэу; ныкъо сыкъоу"
   },
   {
     "half efficiently": "ныкъо сыкъоу"

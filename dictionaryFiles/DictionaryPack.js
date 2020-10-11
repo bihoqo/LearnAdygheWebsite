@@ -26,6 +26,10 @@
           {
             "sentence": "Сэ сыкъэк1ощтэп, сыда п1омэ '''ом''' изытет 1эе дэд",
             "translation": "I am not coming because '''the weather''' is bad."
+          },
+		  {
+            "sentence": "'''Ор''' техьэ-тек1",
+            "translation": "'''The weather''' is everchanging."
           }
         ]
       }
@@ -1747,6 +1751,10 @@
 		  {
             "sentence": "'''Унэ''' дахэ",
             "translation": "'''Your eye''' is beautiful."
+          },
+          {
+            "sentence": "'''Снэмэ''' ерагъэу алъэгъу, стхьак1умэмэ ерагъэу а1у",
+            "translation": "'''My eyes''' hardly '''see''', my ears hadly hear."
           }
         ]
       }
@@ -2020,6 +2028,10 @@
           {
             "sentence": "Ц1ыфыр '''ытхьак1умэк1э''' мэда1о",
             "translation": "The human listens '''with its ear'''."
+          },
+          {
+            "sentence": "Снэмэ ерагъэу алъэгъу, '''стхьак1умэмэ''' ерагъэу а1у",
+            "translation": "My eyes hardly see, '''my ears''' hadly hear."
           }
         ]
       }
@@ -7221,7 +7233,16 @@
     "definitions": [
       {
         "meaning": "gun",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ым '''ик1эрахъохэр''' к1эрэхъуалъэм '''илъых'''",
+            "translation": "The man's '''guns''' are in the holster."
+          },
+		  {
+            "sentence": "'''К1эрэхъо''' фэшъхьаф къахь"
+            "translation": "Bring a different '''gun'''."
+          }
+        ]
       },
       {
         "meaning": "rifle",
@@ -8384,6 +8405,10 @@
 		  {
             "sentence": "Аслъаныр джэгум ик1одык1ыгъ, '''къэслъэгъужьырэп'''",
             "translation": "Aslan disappeared from the game, '''I no longer see him'''."
+          },
+          {
+            "sentence": "Снэмэ ерагъэу '''алъэгъу''', стхьак1умэмэ ерагъэу а1у",
+            "translation": "My eyes hardly '''see''', my ears hadly hear."
           }
         ]
       }
@@ -19756,6 +19781,10 @@
 		  {
             "sentence": "Л1ым блокхэр '''зегъафэх'''",
             "translation": "The man '''sorts''' the blocks."
+          },
+		  {
+            "sentence": "Пхъэнт1эк1ухэр лъыгъэк1уатэхи '''зэгъафэх'''",
+            "translation": "Move the chairs and '''sort them'''."
           }
         ]
       }
@@ -28997,6 +29026,10 @@
           {
             "sentence": "'''Джэнэ''' к1эхэр зыфэсщыфыжьын фаех",
             "translation": "I need to buy myself new '''clothes'''."
+          },
+		  {
+            "sentence": "'''Джэнэ''' зэмыл1эужыгъо сыщэфыгъ",
+            "translation": "I bought various '''clothes'''."
           }
         ]
       },
@@ -30754,7 +30787,13 @@
     "definitions": [
       {
         "meaning": "chair",
-        "examples": []
+        "examples": [
+          ,
+		  {
+            "sentence": "'''Пхъэнт1эк1ухэр''' лъыгъэк1уатэхи зэгъафэх",
+            "translation": "Move '''the chairs''' and sort them."
+          }
+        ]
       }
     ],
     "shapsug": "пхъэт1эк1у",
@@ -36614,6 +36653,10 @@
           {
             "sentence": "Укъысигъусэу лъап1эхэмэ '''уакъыздэлъыхъущта?'''",
             "translation": "'''Will you search''' treasures with me?"
+          },
+		  {
+            "sentence": "Шак1ом мэзыр къек1ухьэ бланэхэмэ '''алъыхъоу'''",
+            "translation": "The hunter wanders the forest '''searching''' for deers."
           }
         ]
       }
@@ -36939,7 +36982,7 @@
         "examples": [
           {
             "sentence": "чэщым хьэхэр лъэшэу '''хьакъугъэх'''",
-            "translation": "In the night, the dogs '''are barking''' loudly."
+            "translation": "In the night, the dogs '''barked''' loudly."
           },
           {
             "sentence": "хьэр '''мэхьакъо'''",
@@ -37486,6 +37529,10 @@
 		  {
             "sentence": "Зыгорэ '''къэсфэпщэфышъущта'''?",
             "translation": "'''Can you buy for me''' something?"
+          },
+		  {
+            "sentence": "Джэнэ зэмыл1эужыгъо '''сыщэфыгъ'''",
+            "translation": "'''I bought''' various clothes."
           }
         ]
       }
@@ -42358,7 +42405,7 @@
             "translation": "The man '''raised''' his boy."
           },
           {
-            "sentence": "радиом имакъэ '''дэгъэк1уай'''",
+            "sentence": "радиом ымакъэ '''дэгъэк1уай'''",
             "translation": "'''raise''' the radio's volume."
           }
         ]
@@ -48273,15 +48320,23 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to show",
+        "meaning": "to show; to display; to exhibit",
         "examples": [
           {
             "sentence": "К1алэм ику к1э '''къытигъэлъэгъугъ''' непэ",
             "translation": "The boy '''showed us''' his new car today."
           },
           {
-            "sentence": "Пшъашъэм сурэтэу ыш1ыгъэхэр '''къегъэлъэгъух'''",
-            "translation": "The girl '''shows''' the pictures she done."
+            "sentence": "Пшъашъэм сурэтэу ыш1ыгъэхэр '''къегъэлъагъух'''",
+            "translation": "The girl '''exhibits''' the pictures she done."
+          },
+		  {
+            "sentence": "Саусырыкъо заомк1э л1ыгъэшхо '''къигъэлъэгъуагъ'''",
+            "translation": "Susroku ''displayed''' great bravery in the battle."
+          },
+		  {
+            "sentence": "Неущы фылымыр '''къагъэлъэгъущт'''",
+            "translation": "Tomorrow '''they will show''' the movie."
           }
         ]
       },
@@ -53236,6 +53291,10 @@
           {
             "sentence": "Уиныбджэгъумэ уиорэд '''агъэ1у'''",
             "translation": "'''Make''' your friends '''hear''' your song."
+          },
+          {
+            "sentence": "Снэмэ ерагъэу алъэгъу, стхьак1умэмэ ерагъэу '''а1у''",
+            "translation": "My eyes hardly see, my ears hadly '''hear'''."
           }
         ]
       }
@@ -61345,7 +61404,7 @@
         "examples": [
           {
             "sentence": "Чэтыур лъэшэу уфызмэ '''угъэл1эщт'''",
-            "translation": "If you squeeze the cat really hard '''you will kill it'''."
+            "translation": "If you squeeze the cat very hard '''you will kill it'''."
           },
 		  {
             "sentence": "Л1ыжъыр узым '''ыгъэл1агъ'''",
@@ -62372,7 +62431,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "anything else than, something additional than",
+        "meaning": "anything else than, something additional than, besides",
         "examples": [
           {
             "sentence": "К1алэм пц1ы '''ехъурэ''' къи1орэп",
@@ -62401,6 +62460,14 @@
           {
             "sentence": "К1алэм ихьэ закъо '''ехъурэ''' римыгъусэу ежьагъ",
             "translation": "The boy went off without anyone accompanying him '''expect''' his dog."
+          },
+		  {
+            "sentence": "Ащ '''ехъурэ''' зи сэ слъэгъугъэп",
+            "translation": "I did not saw anyone '''besides''' him/her"
+          },
+		  {
+            "sentence": "Мы хьанцэм фэшъхьафэу '''ехъурэ''' горэ щы1а?",
+            "translation": "Is there something different '''besides''' this shovel?"
           }
         ]
       }
@@ -70800,20 +70867,25 @@
             "translation": "'''Move away'''."
           },
           {
-            "sentence": "Т1эк1у '''лъык1уати''' укъынэсыщт",
-            "translation": "'''Move''' a bit and you will reach it"
-          },
-          {
             "sentence": "Т1эк1у '''лъык1уати''' сыблэгъэк1",
             "translation": "'''Move''' a bit and let me pass."
           },
           {
             "sentence": "'''Шъулъык1уат''', тиблэшъугъэк1",
             "translation": "'''Move away''', let us pass."
+          }
+        ]
+      },
+	  {
+        "meaning": "to move forward, to advance, to progress, to proceed",
+        "examples": [
+          {
+            "sentence": "Т1эк1у '''лъык1уати''' укъынэсыщт",
+            "translation": "'''Advance''' a bit and you will reach it"
           },
           {
             "sentence": "Телевижыным '''къылъык1уати''' нахь дэгъоу улъэгъущт",
-            "translation": "'''Move near''' the television and you will see better."
+            "translation": "'''Advance''' the television and you will see it better."
           },
           {
             "sentence": "Дзэр '''къылъык1уатэ'''",
@@ -70821,7 +70893,15 @@
           },
 		  {
             "sentence": "Мышъэр ц1ык1у ц1ык1оу '''къылъык1уатэ'''",
-            "translation": "The bear '''is moving [here]''' slowly."
+            "translation": "The bear '''is advancing [here]''' slowly."
+          },
+		  {
+            "sentence": "1офыр '''лъык1уатэрэп''', мыщтэу иуахътэ тыухыщтэп",
+            "translation": "The work '''is not progressing''', this way we will not finish in time."
+          },
+		  {
+            "sentence": "1офыр лъэшэу '''лъык1отагъ''', мыщтэу иуахътэк1э тыухыщт",
+            "translation": "The work '''progressed''' a lot, like this, we will finish in time."
           }
         ]
       }
@@ -70830,11 +70910,49 @@
     "ipa": "ɬəkʷʼatan"
   },
   {
+    "word": "лъыгъэк1отэн",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "to move a bit",
+        "examples": [
+          {
+            "sentence": "1анэр '''лъыгъэк1уат'''",
+            "translation": "'''Move''' the table."
+          },
+		  {
+            "sentence": "Унэм '''лъагъэк1отагъ'''",
+            "translation": "'''They moved''' the house."
+          },
+		  {
+            "sentence": "Пхъэнт1эк1ухэр '''лъыгъэк1уатэхи''' зэгъафэх",
+            "translation": "'''Move''' the chairs and sort them."
+          }
+        ]
+      },
+	  {
+        "meaning": "to move forward, to advance, to progress, to proceed",
+        "examples": [
+		  {
+            "sentence": "1офыр '''лъыжъугъэк1уатэрэп''', мыщтэу иуахътэ тыухыщтэп",
+            "translation": "'''You guys are not progressing''' the work, this way we will not finish in time."
+          },
+		  {
+            "sentence": "1офыр лъэшэу '''лъыбгъэк1отагъ''', мыщтэу иуахътэк1э тыухыщт",
+            "translation": "'''You progressed''' the work a lot, like this, we will finish in time."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɬəʁakʷʼatan"
+  },
+  {
     "word": "къылъык1отэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to go/move near a bit; to move forward/on/further",
+        "meaning": "to come near, to advance near",
         "examples": [
           {
             "sentence": "Аужьырэу щысыхэр '''къылъык1отэн''' фаех еры щы1эн пае",
@@ -85973,7 +86091,11 @@
 		  {
             "sentence": "Т1эк1уш1эмэ '''гъэпсэфыгъощт'''",
             "translation": "Soon '''it would be break'''"
-          }
+          },
+		  {
+            "sentence": "'''Гъэпсэфыгъохэмк1э''' еджап1эр къэтэк1ухьэ",
+            "translation": "'''In the breaks''', we are walking around the school."
+          },
         ]
       },
       {
@@ -87659,7 +87781,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "different, another (not the same)",
+        "meaning": "different, another (not the same), besides",
         "examples": [
           {
             "sentence": "Фылым '''нэмык1''' тегъэплъ",
@@ -87688,6 +87810,10 @@
           {
             "sentence": "Къак1орэм '''нэмык1ыр''' пак1э тыкъак1у",
             "translation": "Let us go to a '''different''' place next time."
+          },
+		  {
+            "sentence": "Ащ '''нэмык1''' зи сэ слъэгъугъэп",
+            "translation": "I did not saw anyone '''besides''' him/her"
           }
         ]
       }
@@ -91594,6 +91720,10 @@
           {
             "sentence": "Умышхэмэ '''гъонлагъэу''' ухъущт",
             "translation": "If you do not eat you will become '''skinny'''."
+          },
+          {
+            "sentence": "Ерагък1э ошхэ, мы фэдэу ибгъэкъумэ '''гъонлагъэу''' ухъущт",
+            "translation": "You hardly eat, if you continue like this you will become '''slim'''."
           }
         ]
       }
@@ -93097,11 +93227,15 @@
         ]
       },
       {
-        "meaning": "bundle",
+        "meaning": "bundle, bunch; fascicle",
         "examples": [
           {
             "sentence": "Л1ыр шъофым хахьи пхъэ '''1ап1э''' чылэм къихьыжьыгъ",
             "translation": "The man went to the fields and brought '''a bundle''' of wood to the village."
+          },
+		  {
+            "sentence": "Цумпэ '''1ап1э''' к1алэм къыхьыгъ",
+            "translation": "The boy brought a '''bunch''' of strawberries."
           }
         ]
       },
@@ -101032,15 +101166,31 @@
     "ipa": "ɬʼawʒəʁʷa"
   },
   {
-    "word": "зэмыл1эужыгъо",
+    "word": "тетын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "variety; various; diverse",
+        "meaning": "to be on; to be above; to be on the surface of",
         "examples": [
           {
-            "sentence": "Шхын '''зэмыл1эужыгъор''' сышхыгъэх",
-            "translation": "I ate '''various''' foods."
+            "sentence": "Шхыныр 1анэм '''тет'''",
+            "translation": "The food '''is on''' the table."
+          },
+		  {
+            "sentence": "Топыр унашъхьэм тефэгъагъ, джи '''тетэу''' ч1эк1ын",
+            "translation": "The ball was dropped on the roof, it is probably still '''on it'''."
+          },
+		  {
+            "sentence": "Ламбэ пкъэум '''тетэп'''",
+            "translation": "There '''is no''' lamp '''on the column'''."
+          }
+		  {
+            "sentence": "Шхын 1анэм '''тетыжьэп'''",
+            "translation": "There is no longer food '''on''' the table."
+          },
+		  {
+            "sentence": "Ку зэмыл1эужыгъо гъогум '''тет'''",
+            "translation": "Various cars '''are on''' the road."
           }
         ]
       }
@@ -101076,12 +101226,17 @@
     "ipa": "gʷəʂħa"
   },
   {
-    "word": "гушхьабж",
+    "word": "гушъхьабж",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "heartburn (a burning pain in the chest that is caused by stomach acid entering the gullet)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ым '''гушъхьабж''' и1",
+            "translation": "The man has a '''heartburn'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -101092,28 +101247,35 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to walk around",
+        "meaning": "to walk around; to perambulate, to roam, to stroll, to ramble, to wander",
         "examples": [
           {
             "sentence": "К1алэм чылэр '''къек1ухьэ'''",
             "translation": "The boy '''is walking around''' in the village."
           },
 		  {
+            "sentence": "Гъэпсэфыгъохэмк1э еджап1эр '''къэтэк1ухьэ'''",
+            "translation": "In the breaks, '''we are walking around''' the school."
+          },
+		  {
             "sentence": "Л1ым ренэу чэщым чылэр '''къек1ухьэ'''",
             "translation": "The man always '''walks around''' the village in the night."
-          }
-        ]
-      },
-      {
-        "meaning": "to perambulate, to roam, to stroll, to ramble",
-        "examples": [
-          {
-            "sentence": "Чэщым '''къэмык1охь'''",
-            "translation": "'''Don't roam''' in the night."
           },
           {
-            "sentence": "Чылэр '''къэпк1охьынэу''' уфая?",
-            "translation": "Wanna '''ramble''' in the village?"
+            "sentence": "Чылэр '''къэпк1ухьанэу''' уфая?",
+            "translation": "Want to '''ramble''' in the village?"
+          },
+          {
+            "sentence": "Чэщым '''къэмык1ухь'''",
+            "translation": "'''Don't roam''' in the night."
+          },
+		  {
+            "sentence": "Шъофыр '''къэтэк1ухьэ'''",
+            "translation": "'''We are strolling''' the fields."
+          },
+		  {
+            "sentence": "Шак1ом мэзыр '''къек1ухьэ''' бланэхэмэ алъыхъоу",
+            "translation": "The hunter '''wanders''' the forest searching for deers."
           }
         ]
       }
@@ -101148,7 +101310,12 @@
       },
       {
         "meaning": "kinsman, a person from the same kin, kind or race",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Силъэпкъэгъумэ''' афэш1ык1э сэзао",
+            "translation": "I am fighting for '''my kin'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -101160,7 +101327,12 @@
     "definitions": [
       {
         "meaning": "circle surrounded by people, circle of people",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ыр '''корэным''' ихьагъ",
+            "translation": "The man went inside the '''circle of people'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -101172,7 +101344,12 @@
     "definitions": [
       {
         "meaning": "the center of a circle surrounded by people, the center of circle of people",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ыр '''корэныгум''' ихьагъ",
+            "translation": "The man went inside the '''the center of circle of people'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -101201,7 +101378,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to commit; to perform",
+        "meaning": "to do; to commit; to perform; to carry out",
         "examples": [
           {
             "sentence": "Л1ым егъэзыгъ 1офы '''зэрехьэ'''",
@@ -101212,8 +101389,8 @@
             "translation": "The man '''is committing''' sins."
           },
           {
-            "sentence": "Л1ым къымар '''зэрихьэу''' щытыгъ",
-            "translation": "The man used to '''do''' gambling."
+            "sentence": "Л1ым къымар '''зэрихьащтыгъ'''",
+            "translation": "The man '''used to do''' gambling."
           },
           {
             "sentence": "Л1ым зинэ '''зэрихьагъ'''",
@@ -101278,12 +101455,32 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "back of the head; occiput",
-        "examples": []
+        "meaning": "backhead; back of the head; occiput",
+        "examples": [
+          {
+            "sentence": "К1алэм '''ышъхьачэ''' тефагъ",
+            "translation": "It hit the boy's '''backhead'''"
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "ʂħaːt͡ʃ"
+  },
+  {
+    "word": "1эчъэ-лъэчъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "hustle and bustle, commotion, hubbub, hurlyburly",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "шъхьачъэ-лъэчъэн"
+    ],
+    "type": "verb",
+    "ipa": "ʔat͡ʂa ɬat͡ʂan"
   },
   {
     "word": "1эчъэ-лъэчъэн",
@@ -101339,7 +101536,11 @@
         "examples": [
           {
             "sentence": "К1алэм ихьэ закъо '''щэхъу''' к1ымыгъоу ежьагъ",
-            "translation": "The boy went off without anyone accompanying him expect his dog."
+            "translation": "The boy went off without anyone accompanying him '''expect''' his dog."
+          },
+		  {
+            "sentence": "Ащ '''щэхъу''' зи сэ слъэгъугъэп",
+            "translation": "I did not saw anyone '''besides''' him/her"
           }
         ]
       }
@@ -101372,7 +101573,7 @@
         "examples": [
           {
             "sentence": "Шъузыр л1ым '''к1ыгъун''' ыдэрэп",
-            "translation": "The woman doesn't accept '''living with''' the man."
+            "translation": "The woman doesn't accept '''to live with''' the man."
           }
         ]
       }
@@ -101437,6 +101638,47 @@
     "ipa": "qʷaja-t͡ʂʼaːj"
   },
   {
+    "word": "1эпкъ-лъэпкъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "limb (major appendage of a human such as an arm, leg)",
+        "examples": [
+          {
+            "sentence": "К1алэм '''ы1эпкъ-лъэпкъыхэр''' мэузых",
+            "translation": "The boy's '''limbs''' are hurting."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʕapq-ɬapq"
+  },
+  {
+    "word": "пкъызэхэлъык1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "finiteness",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "pqəzaxaɬət͡ʃʼ"
+  },
+  {
+    "word": "къушъхьалъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "highland, upland (mountainous land)",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "qəʂħaːɬ"
+  },
+  {
     "word": "къушъхьэбг",
     "lang": "Adyghe",
     "definitions": [
@@ -101446,7 +101688,7 @@
       }
     ],
     "type": "adj",
-    "ipa": "noun"
+    "ipa": "qəʂħaːbɣ"
   },
   {
     "word": "къушъхьэ дыс",
@@ -101458,7 +101700,7 @@
       }
     ],
     "type": "adj",
-    "ipa": "noun"
+    "ipa": "qəʂħa dəs"
   },
   {
     "word": "бгы дыс",
@@ -101470,7 +101712,7 @@
       }
     ],
     "type": "adj",
-    "ipa": "noun"
+    "ipa": "bɣə dəs"
   },
   {
     "word": "къыухьан",
@@ -101480,8 +101722,8 @@
         "meaning": "to go around",
         "examples": [
           {
-            "sentence": "Псы хъураер '''къыухьи''' къэкIуагъ",
-            "translation": "He '''went around''' the lake and came."
+            "sentence": "Псы хъураер '''къыухьи''' къэк1уагъ",
+            "translation": "'''(S)he went around''' the lake and came."
           }
         ]
       }
@@ -101528,7 +101770,7 @@
             "translation": "'''he thinks''' to go to university."
           },
           {
-            "sentence": "сыда ащ ышIэн '''ихьисапыр'''?",
+            "sentence": "сыда ащ ыш1эн '''ихьисапыр'''?",
             "translation": "what is '''he supposed''' to do?"
           }
         ]
@@ -101538,12 +101780,138 @@
     "ipa": "jəħisaːpən"
   },
   {
+    "word": "1эрам",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "bouquet, bunch of flowers, posy",
+        "examples": [
+          {
+            "sentence": "Къэгъэгъэ зэмыл1эужыгъоу зэхэт '''1эрам'''",
+            "translation": "'''Bouquet''' of different flowers."
+          }
+        ]
+      },
+	  {
+        "meaning": "bunch",
+        "examples": [
+		  {
+            "sentence": "Цумпэ '''1эрам''' к1алэм къыхьыгъ",
+            "translation": "The boy brought a '''bunch''' of strawberries."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʔaraːm"
+  },
+  {
+    "word": "зэмыл1эужыгъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "variety; various; diverse",
+        "examples": [
+          {
+            "sentence": "Шхын '''зэмыл1эужыгъор''' сышхыгъэх",
+            "translation": "I ate '''various''' foods."
+          },
+		  {
+            "sentence": "Ку '''зэмыл1эужыгъо''' гъогум тет",
+            "translation": "'''Various''' cars are on the road."
+          },
+		  {
+            "sentence": "Джэнэ '''зэмыл1эужыгъо''' сыщэфыгъ",
+            "translation": "I bought '''various''' clothes."
+          },
+		  {
+            "sentence": "Къэгъэгъэ '''зэмыл1эужыгъоу''' зэхэт 1эрам",
+            "translation": "Bouquet of '''different''' flowers."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "zaməɬʼawʒəʁʷa"
+  },
+  {
+    "word": "зэфэшъхьафы",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "different (than each other)",
+        "examples": [
+          {
+            "sentence": "Ц1ыф '''зэфэшъхьаф''' куп",
+            "translation": "Is there something '''different''' besides this shovel?"
+          },
+		  {
+            "sentence": "Ахэр унэ '''зэфэшъхьафхэм''' арысых",
+            "translation": "They live in '''different''' rooms."
+          },
+		  {
+            "sentence": "Ахэр ц1ыф '''зэфэшъхьафых'''",
+            "translation": "They are '''different''' people."
+          },
+		  {
+            "sentence": "1оф '''зэфэшъхьафыхэр''' тэш1э",
+            "translation": "We do '''different''' jobs."
+          },
+		  {
+            "sentence": "Тызеджэрэр '''зэфэшъхьаф'''",
+            "translation": "What we study '''is different than each other'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "various, diverse",
+        "examples": [
+          {
+            "sentence": "Ц1ыф '''зэфэшъхьаф''' куп",
+            "translation": "A group of '''diverse''' people."
+          },
+		  {
+            "sentence": "Ку '''зэфэшъхьаф''' гъогум тет",
+            "translation": "'''Various''' cars are on the road."
+          },
+		  {
+            "sentence": "Джэнэ '''зэфэшъхьаф''' сыщэфыгъ",
+            "translation": "I bought '''various''' clothes."
+          }
+        ]
+      }
+    ],
+    "type": "adj",
+    "ipa": "zafaʂħaːfə"
+  },
+  {
     "word": "фэшъхьаф",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "different",
-        "examples": []
+        "meaning": "different; other",
+        "examples": [
+          {
+            "sentence": "Мы хьанцэм '''фэшъхьафэу''' ехъурэ горэ щы1а?",
+            "translation": "Is there something '''different''' besides this shovel?"
+          },
+		  {
+            "sentence": "Мы тхылъым '''фэшъхьафэу''' сыд тхылъ сызеджэшъущтэр?",
+            "translation": "'''Other''' than this book, what book can I read?"
+          },
+		  {
+            "sentence": "Непэ фылым '''фэшъхьаф''' горэм теплъыщт"
+            "translation": "Today we will going to watch a '''different''' movie."
+          },
+		  {
+            "sentence": "Джэгу '''фэшъхьаф''' сэ сызыджэгурэр"
+            "translation": "I am playing a '''different''' game."
+          },
+		  {
+            "sentence": "К1эрэхъо '''фэшъхьаф''' къахь"
+            "translation": "Bring a '''different''' gun."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -101558,7 +101926,16 @@
     "definitions": [
       {
         "meaning": "everchanging (frequently or constantly changing)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Уашъор '''техьэ-тек1'''",
+            "translation": "The sky is '''everchanging'''."
+          },
+		  {
+            "sentence": "Ор '''техьэ-тек1'''",
+            "translation": "The weather is '''everchanging'''."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -101570,7 +101947,16 @@
     "definitions": [
       {
         "meaning": "undesirable, unwanted",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Арэу зэрэхъугъэр '''ш1оигъуадж'''",
+            "translation": "How it turned '''is unwanted'''."
+          },
+		  {
+            "sentence": "К1алэм '''ш1оигъуадж''' къафыныр",
+            "translation": "'''It is undesirable''' for the boy to lose."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -101581,17 +101967,75 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "greatly",
+        "meaning": "greatly; very",
         "examples": [
           {
             "sentence": "Саусырыкъо зэрэк1эмыхьагъэр '''лъэшэу''' ш1оигъоджагъ",
             "translation": "Sosruko '''greatly''' detested the fact that he didn't catch up with him."
+          },
+		  {
+            "sentence": "Радиом ымакъэ '''лъэшэу''' дэгъэк1уай",
+            "translation": "Raise the radio's volume '''greatly'''."
+          },
+		  {
+            "sentence": "Чэтыур '''лъэшэу''' уфызмэ угъэл1эщт",
+            "translation": "If you squeeze the cat '''very''' hard you will kill it."
+          },
+          {
+            "sentence": "О '''лъэшэу''' узэхъок1ыгъ",
+            "translation": "You changed '''very much'''."
+          },
+          {
+            "sentence": "К1алэр '''лъэшэу''' егупшысагъ",
+            "translation": "The boy thought '''greatly'''."
+          },
+		  {
+            "sentence": "А к1алэр ащ '''лъэшэу''' ехьщыр",
+            "translation": "The boy is '''very''' similar to him."
+          },
+		  {
+            "sentence": "Шхынэр '''лъэшэу''' 1аш1у",
+            "translation": "The food is '''very''' tasty/sweet."
+          },
+          {
+            "sentence": "Мэзыр '''лъэшэу''' мэзах",
+            "translation": "The forest is '''very''' dark."
+          },
+          {
+            "sentence": "К1алэр '''лъэшэу''' к1уач1э",
+            "translation": "The boy is '''very''' strong."
+          },
+          {
+            "sentence": "1анэр '''лъэшэу''' ц1ык1у",
+            "translation": "The table is '''very''' small."
           }
         ]
       },
       {
+        "meaning": "loudly",
+        "examples": [
+		  {
+            "sentence": "чэщым хьэхэр '''лъэшэу''' хьакъугъэх",
+            "translation": "In the night, the dogs barked '''loudly'''."
+          }, 
+          {
+            "sentence": "О '''лъэшэу''' узэрэщхырэр – арэущтэу '''лъэшыщэу''' умыщх!",
+            "translation": "You laugh '''so loudly''' – don’t laugh '''so loudly'''!"
+          },
+		  {
+            "sentence": "Макъэр '''лъэшэу''' къэ1у",
+            "translation": "The voice is heard '''loudly'''."
+          }
+        ]
+      }
+      {
         "meaning": "powerfully",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "К1алэр отычк1э '''лъэшэу''' чъыгым еуагъ",
+            "translation": "The boy struck the tree '''powerfully''' with the axe."
+          }
+        ]
       }
     ],
     "type": "adv",
@@ -101615,15 +102059,31 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "barely, with great difficulty",
+        "meaning": "hardly; only just; almost not; barely; with great difficulty",
         "examples": [
           {
             "sentence": "Л1ыжъыр ерагъэу '''мак1о'''",
-            "translation": "The old man goes '''with great difficulty'''."
+            "translation": "The old man '''with great difficulty''' goes."
           },
           {
-            "sentence": "Мы гурупым ерагъэу сыкъыхэхьэжьыгъ",
-            "translation": "I '''barely''' came back to this group."
+            "sentence": "Мы купым '''ерагъэу''' сыкъыхахьэжьыгъ",
+            "translation": "I '''hardly''' came back to this group."
+          },
+          {
+            "sentence": "'''Ерагъэу''' сэчъые",
+            "translation": "I '''hardly''' sleep."
+          },
+          {
+            "sentence": "Снэмэ '''ерагъэу''' алъэгъу, стхьак1умэмэ '''ерагъэу''' а1у",
+            "translation": "My eyes '''hardly''' see, my ears '''hadly''' hear."
+          },
+          {
+            "sentence": "'''Ерагъэу''' ошхэ, мы фэдэу ибгъэкъумэ гъонлагъэу ухъущт",
+            "translation": "You '''hardly''' eat, if you continue like this you will become slim."
+          },
+          {
+            "sentence": "Л1ыжъыр '''ерагъэу''' машхэ",
+            "translation": "The old-man eats '''with great difficulty'''."
           }
         ]
       }
@@ -101636,17 +102096,105 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "barely, with great difficulty",
+        "meaning": "hardly; only just; almost not; barely; with great difficulty",
         "examples": [
           {
-            "sentence": "Мы гурупым '''ерагък1э''' сыкъыхэхьэжьыгъ",
-            "translation": "I '''barely''' came back to this group."
+            "sentence": "Л1ыжъыр ерагък1э '''мак1о'''",
+            "translation": "The old man '''barely''' goes."
+          },
+          {
+            "sentence": "Мы купым '''ерагък1э''' сыкъыхэхьажьыгъ",
+            "translation": "I '''hardly''' came back to this group."
+          },
+          {
+            "sentence": "'''Ерагък1э''' сэчъые",
+            "translation": "I '''hardly''' sleep."
+          },
+          {
+            "sentence": "Снэмэ '''ерагък1э''' алъэгъу, стхьак1умэмэ '''ерагък1э''' а1у",
+            "translation": "My eyes '''hardly''' see, my ears '''hadly''' hear."
+          },
+          {
+            "sentence": "'''Ерагък1э''' ошхэ, мы фэдэу ибгъэкъумэ гъонлагъэу ухъущт",
+            "translation": "You '''hardly''' eat, if you continue like this you will become slim."
+          },
+          {
+            "sentence": "Л1ыжъыр '''ерагък1э''' машхэ",
+            "translation": "The old-man eats '''with great difficulty'''."
           }
         ]
       }
     ],
     "type": "adv",
     "ipa": "jaraːʁt͡ʃʼa"
+  },
+  {
+    "word": "игъэкъун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to continue",
+        "examples": [
+          {
+            "sentence": "К1алэм зыгори ымы1оу к1оу '''ригъэкъугъ'''",
+            "translation": "The boy without saying nothing '''continued''' to go."
+          },
+          {
+            "sentence": "Ерагък1э ошхэ, мы фэдэу '''ибгъэкъумэ''' гъонлагъэу ухъущт",
+            "translation": "You hardly eat, '''if you continue''' like this you will become slim."
+          },
+          {
+            "sentence": "Ныпчыхьэ фылымыр '''идгъэкъужьыщт''",
+            "translation": "In the evening, '''we will continue''' the film."
+          }
+        ]
+      },
+      {
+        "meaning": "to carry out, to fulfill",
+        "examples": [
+          {
+            "sentence": "К1алэм планыр '''ригъэкъугъ'''",
+            "translation": "The boy '''implemented''' the plan."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "qaʁazan"
+  },
+  {
+    "word": "егъэжьэжьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to continue",
+        "examples": [
+          {
+            "sentence": "Ныпчыхьэ фылымыр '''едгъэжьэжьыщт''",
+            "translation": "In the evening, '''we will continue''' the film."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "jaʁaʑaʑən"
+  },
+  {
+    "word": "ублэжьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to continue",
+        "examples": [
+          {
+            "sentence": "Ныпчыхьэ фылымыр '''тыублэжьыщт''",
+            "translation": "In the evening, '''we will continue''' the film."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "wəbɮaʑən"
   },
   {
     "word": "къэгъэзэн",
