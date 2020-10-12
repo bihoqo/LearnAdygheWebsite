@@ -96310,12 +96310,30 @@
         "meaning": "crybaby; cry-baby",
         "examples": [
           {
-            "sentence": "Ц1ыф '''ныгъ-ныгъ'''",
-            "translation": "'''A crybaby''' person."
+            "sentence": "'''Ныгъ-ныгъ''' к1элэц1ык1у",
+            "translation": "'''A crybaby''' boy."
           },
 		  {
             "sentence": "'''Ныгъ-ныгъ''' ехъурэ пш1эрэба?",
             "translation": "Don't you know anything besides '''crybabying'''?"
+          }
+        ]
+      },
+	  {
+        "meaning": "whine",
+        "examples": [
+		  {
+            "sentence": "'''Ныгъ-ныгъ''' ехъурэ пш1эрэба?",
+            "translation": "Don't you know anything besides '''whining'''?"
+          }
+        ]
+      }
+	  {
+        "meaning": "whiner",
+        "examples": [
+          {
+            "sentence": "Ц1ыф '''ныгъ-ныгъ'''",
+            "translation": "'''A whiner''' person."
           }
         ]
       }
@@ -96419,7 +96437,10 @@
         "examples": [
           {
             "sentence": "К1алэр иныбджэгъу '''ежэ'''",
-            "translation": "The boy '''waits''' for his friend."
+            "translation": "The boy '''waits for''' his friend."
+          }{
+            "sentence": "К1алэр мэш1окум '''ежэ'''",
+            "translation": "The boy '''waits for''' the train."
           }
         ]
       }
@@ -110297,7 +110318,7 @@
         ]
       },
       {
-        "meaning": "to have expectations of somebody to be; to view somebody in a particular way",
+        "meaning": "to expect; to have expectations of somebody to be; to view somebody in a particular way",
         "examples": [
           {
             "sentence": "'''Еспэсыгъэп''' л1ыр 1офымк1э ерагъэу къыч1эк1ынэу",
@@ -110314,6 +110335,10 @@
           {
             "sentence": "Ара '''къысэппэсырэ'''? Ащ нахь дэгъоу укъызхэплъэрэба?",
             "translation": "Is that what '''you expect from me?''' Don't you view me as better than that?"
+          },
+          {
+            "sentence": "'''Семыпэсэу''' пчъэ къы1усыхым чэтыур къихьагъ",
+            "translation": "When I opened the door, the cat came in '''unexpectedly for me'''."
           }
         ]
       }

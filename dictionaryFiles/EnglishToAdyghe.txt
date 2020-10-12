@@ -11257,9 +11257,6 @@
     "to complain": "тхьаусыхэн; фэтхьаусыхэн (to complain for); 1оин; фэ1оин (to complain for)"
   },
   {
-    "to whine": "тхьаусыхэн; фэтхьаусыхэн (to whine for); 1оин; фэ1оин (to whine for)"
-  },
-  {
     "to curry favor with": "еубзэн"
   },
   {
@@ -14968,7 +14965,7 @@
     "to splash": "теутхэн (to splash water on)"
   },
   {
-    "to whine": "гъынэнэн; фэгъынэнэн (to whine for); тхьаусхэн (to whine, to complain); пэ1у1ожьын (to whine against someone disagreeably)"
+    "to whine": "гъынэнэн; фэгъынэнэн (to whine for, to complaint in front of); тхьаусхэн (to whine, to complain); пэ1у1ожьын (to whine against someone disagreeably); 1оин; фэ1оин (to whine for, to complaint in front of)"
   },
   {
     "to exaggerate": "егъэлыен; (Kfar Kama dialect) къегъэсын"
@@ -16510,10 +16507,13 @@
     "crybaby": "ныгъ-ныгъ"
   },
   {
-    "whiner": "тхьаусхал"
+    "whiner": "тхьаусхал; ныгъ-ныгъ"
   },
   {
-    "yammer": "тхьаусхал"
+    "whine": "ныгъ-ныгъ"
+  },
+  {
+    "yammer": "тхьаусхал; ныгъ-ныгъ"
   },
   {
     "moaner": "тхьаусхал"
@@ -18121,7 +18121,7 @@
     "to esteem worthy": "епэсын; фэгъэшъошэн"
   },
   {
-    "to expect": "епэсын (to have expectations of somebody to be)"
+    "to expect": "епэсын (to have expectations of somebody to be); ежэн / пэплъэн (to wair for)"
   },
   {
     "to view": "еплъын"
