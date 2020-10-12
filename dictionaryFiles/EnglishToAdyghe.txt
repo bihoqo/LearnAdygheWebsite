@@ -3567,7 +3567,7 @@
     "bad-looking": "теплъэ зимы1эр; теплъэнчъэ; теплъаджэ; шъончъэ; бжьыго (homely); 1ае (ugly); мыдахэ (not beautiful)"
   },
   {
-    "unattractive": "теплъэ зимы1эр; теплъаджэ; шъончъэ; бжьыго (homely); 1ае (ugly); мыдахэ (not beautiful)"
+    "unattractive": "теплъэ зимы1эр; теплъаджэ; шъончъэ; бжьыго (homely); 1ае (ugly); мыдахэ (not beautiful); лъэгъупхъадж"
   },
   {
     "homely": "бжьыго"
@@ -3907,6 +3907,9 @@
   },
   {
     "cleaver": "лы шъэжъые"
+  },
+  {
+    "unrestrained": "шэн к1эк1"
   },
   {
     "to cleave": "гоутын; зэгоутын; зэгогъэк1ын; зэгогъэлэтхъын"
@@ -5434,7 +5437,7 @@
     "fly killer": "бэдзэгъал1э / бэдзэубыт (machine)"
   },
   {
-    "to grow": "хэхъон; нахь инэу хъун (to grow bigger); шъхьацы гъэк1ын (to grow headhair); цы гъэк1ын (to grow hair); жак1э гъэк1ын (to grow beard)"
+    "to grow": "хэхъон; нахь инэу хъун (to grow bigger); шъхьацы гъэк1ын (to grow headhair); к1ын / къик1ын (to grow (plants or hair)); гъэк1ын (to grow something (plants or hair)); шъхьац гъэк1ын (to grow headhair); цы гъэк1ын (to grow hair); жак1э гъэк1ын (to grow beard)"
   },
   {
     "growth": "хэхъуагъэ; хэхъоныгъ"
@@ -8371,7 +8374,7 @@
     "tall": "к1ыхьэ; (dialectal) к1ахьы"
   },
   {
-    "to say": "1он"
+    "to say": "1он; хэ1ухьан (to say in a group, to say among peopel); и1ухьан (to say inside)"
   },
   {
     "to attempt to": "1он"
@@ -10777,7 +10780,7 @@
     "view": "нэплъэгъу"
   },
   {
-    "look": "нэплъэгъу"
+    "look": "нэплъэгъу (glance); теплъэ (appearance, how one looks)"
   },
   {
     "glance": "нэплъэгъу"
@@ -12557,6 +12560,9 @@
   },
   {
     "nothing": "зи; зыгори; зыми (nobody); зыци; зыпари"
+  },
+  {
+    "anything": "зи; зыгори; зыми (nobody); зыци; зыпари"
   },
   {
     "nobody": "зи; зыгори; зыми (nobody)"
@@ -17008,9 +17014,6 @@
     "to break into a run": "ечъэжьэн"
   },
   {
-    "to light, to light up, to illuminate": "тепсэн"
-  },
-  {
     "yogurt": "щхыу; щхыузыгъ (labneh); щэгъэпц1агъэ"
   },
   {
@@ -17041,10 +17044,7 @@
     "ungainly": "лъэгъупхъадж"
   },
   {
-    "visually outstanding": "лъэгъупхъ"
-  },
-  {
-    "stately": "лъэгъупхъ; бжьыш1о; зэк1ужь"
+    "looks": "теплъэ (how one looks)"
   },
   {
     "appearance": "теплъэ (how one looks); лъэгъу (appearance, presence)"

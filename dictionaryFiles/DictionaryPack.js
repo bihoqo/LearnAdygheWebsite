@@ -50035,6 +50035,10 @@
           {
             "sentence": "Тестымк1э '''джэуап''' тэрэзэр къэшъугъэчъыхь.",
             "translation": "In the test circle the right '''answer'''."
+          },
+		  {
+            "sentence": "'''Джэуапэу''' къэптыгъэр мытэрэз",
+            "translation": "'''The answer''' you gave is incorrect."
           }
         ]
       }
@@ -52129,7 +52133,7 @@
         ]
       },
       {
-        "meaning": "to split to two, to cleave, to rive",
+        "meaning": "to split to two, to cleave (into two), to rive",
         "examples": [
           {
             "sentence": "К1алэм чъыгыр '''зэгуеуты'''",
@@ -52138,6 +52142,10 @@
 		  {
             "sentence": "Л1ым чъыгыр отычк1э '''зэгуиутыгъ'''",
             "translation": "The man '''cleaved''' the tree with an axe."
+          },
+		  {
+            "sentence": "Л1ым мыжъор '''зэгуиутыгъ'''",
+            "translation": "The man '''cleaved''' the stone."
           }
         ]
       }
@@ -65142,10 +65150,13 @@
 		  {
             "sentence": "К1алэр чъыгы '''шъуамбгъом''' къот",
             "translation": "The boy is standing behind the '''wide''' tree."
+          },
+		  {
+            "sentence": "Чъыгыр '''шъомбгъуа1ошъ''', т1эк1у гоутын фае хъущт'",
+            "translation": "'''Because''' the tree is '''a bit too wide''', we need to cleave it a bit."
           }
         ]
       }
-	  
     ],
     "synonyms": [
       "бгъо"
@@ -66354,7 +66365,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "nothing",
+        "meaning": "nothing; anything",
         "examples": [
           {
             "sentence": "К1алэм '''зи''' ымы1оу к1оу ригъэкъугъ",
@@ -66379,6 +66390,10 @@
 		  {
             "sentence": "Шъукъысэмыдж '''зи''' тэшъумыгъэш1эщтымэ",
             "translation": "Do not call me if you guys are not going to let us do '''anything'''."
+          },
+		  {
+            "sentence": "Ащ ехьыл1агъэу сэ '''зи''' сш1эрэп",
+            "translation": "I don't know '''anything''' about him."
           }
         ]
       },
@@ -73783,6 +73798,10 @@
 		  {
             "sentence": "К1элэц1ык1у '''ш1ык1ай'''",
             "translation": "'''Mischievous''' little boy."
+          },
+		  {
+            "sentence": "К1элэ '''ш1ык1аер''' дэпкъым теуц1алэ",
+            "translation": "The '''naughty''' boy is scribbling on the wall."
           }
         ]
       }
@@ -77972,6 +77991,10 @@
 		  {
             "sentence": "Матиматикэм ''''ехьыл1агъэу''' зыгорэм теджэ",
             "translation": "We are studying something '''related to''' math."
+          },
+		  {
+            "sentence": "Ащ '''ехьыл1агъэу''' сэ зи сш1эрэп",
+            "translation": "I don't know anything '''about''' him."
           }
         ]
       }
@@ -78006,6 +78029,10 @@
 		  {
             "sentence": "Ти1оф ''''егъэпхыгъэу''' зыгорэ сыухыжьын фай",
             "translation": "I need to finish something '''related to''' our work."
+          },
+		  {
+            "sentence": "Ащ '''егъэпхыгъэу''' сэ зи сш1эрэп",
+            "translation": "I don't know anything '''about''' him."
           }
         ]
       }
@@ -78040,6 +78067,10 @@
 		  {
             "sentence": "Ти1оф ''''теуфагъэу''' зыгорэ сыухыжьын фай",
             "translation": "I need to finish something '''related to''' our work."
+          },
+		  {
+            "sentence": "Ащ '''теуфагъэу''' сэ зи сш1эрэп",
+            "translation": "I don't know anything '''about''' him."
           }
         ]
       }
@@ -78127,6 +78158,10 @@
 		  {
             "sentence": "Ащтэу '''укъыдэмызек1о'''",
             "translation": "'''Don't behave with me''' like that."
+          },
+		  {
+            "sentence": "Ц1ыфым ишэн ош1эмэ, '''узэрдэзек1ощтыр''' пш1эщт",
+            "translation": "If you know the person's behavior, you will know '''how to deal with him'''."
           }
         ]
       }
@@ -103317,7 +103352,16 @@
     "definitions": [
       {
         "meaning": "vow, oath, swear in God",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Тхьары1ор''' тхьэм ыц1эк1э гущы1э пытыныр",
+            "translation": "'''Swearing in God''' is giving a promise in the name of God."
+          },
+		  {
+            "sentence": "К1алэм '''тхьары1о''' ыш1ыгъ",
+            "translation": "The boy took '''a vow'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -103331,8 +103375,12 @@
         "meaning": "to cleave",
         "examples": [
           {
-            "sentence": "Чъыгыр шъомбгъуа1ошъ, тIэкIу гоутын фае хъущт'",
-            "translation": "The tree is a bit too wide, we need '''to cleave''' it a bit."
+            "sentence": "Чъыгыр шъомбгъуа1ошъ, т1эк1у '''гоутын''' фае хъущт",
+            "translation": "Because the tree is a bit too wide, we need '''to cleave''' it a bit."
+          },
+		  {
+            "sentence": "Л1ым мыжъор '''гуиутыгъ'''",
+            "translation": "The man '''cleaved''' the stone."
           }
         ]
       },
@@ -103340,7 +103388,7 @@
         "meaning": "to tear apart from something",
         "examples": [
           {
-            "sentence": "Дзак1ом ы1э топ тафэм и1э '''гуиутыгъ'''",
+            "sentence": "Дзак1ом ы1э топ тефэм ы1э '''гуиутыгъ'''",
             "translation": "When a cannot hit the soldier's arm '''it torn it apart [from his body''']."
           },
           {
@@ -103363,7 +103411,16 @@
     "definitions": [
       {
         "meaning": "praise",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''щытхъу''' фахьы",
+            "translation": "They '''praise''' the boy."
+          },
+		  {
+            "sentence": "К1алэм '''щытхъу''' къе1о",
+            "translation": "The boy '''praises'''."
+          }
+        ]
       },
       {
         "meaning": "brag",
@@ -103398,7 +103455,16 @@
     "definitions": [
       {
         "meaning": "dandy, foppish, a man overly concerned with his appearance.",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ц1ыф '''шъорыш1ыр''' ц1ыф щыгъын дахэхэр зыщылъырэр ары",
+            "translation": "'''A foppish''' person is a person that wears beautiful clothes."
+          },
+		  {
+            "sentence": "К1элэ '''шъорыш1'''",
+            "translation": "'''A foppish''' boy."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -103410,11 +103476,24 @@
     "definitions": [
       {
         "meaning": "to become fat or fatter; to gain weight; to put on weight; to fatten",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Бэ ушхымэ '''упщэрыщт'''",
+            "translation": "If you eat a lot '''you will gain weight'''."
+          },
+		  {
+            "sentence": "К1алэр '''упщэрыгъ'''",
+            "translation": "The boy '''became fat'''."
+          },
+		  {
+            "sentence": "1эш1ухэмэ '''уагъэупщэрыщт'''",
+            "translation": "Sweets '''will fatten you'''."
+          }
+        ]
       }
     ],
-    "type": "adj",
-    "ipa": "ʃʷarəʃʼ"
+    "type": "verb",
+    "ipa": "pɕarən"
   },
   {
     "word": "шэны",
@@ -103422,11 +103501,53 @@
     "definitions": [
       {
         "meaning": "behavior",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''шэн''' дах и1",
+            "translation": "The boy has good '''behavior'''."
+          },
+		  {
+            "sentence": "К1алэм '''шэн''' дэгъу и1",
+            "translation": "The boy has good '''behavior'''."
+          },
+		  {
+            "sentence": "К1алэм '''шэн''' 1ай и1",
+            "translation": "The boy has bad '''behavior'''."
+          },
+		  {
+            "sentence": "Ц1ыфым '''ишэн''' ош1эмэ, узэрдэзек1ощтыр пш1эщт",
+            "translation": "If you know the person's '''behavior''', you will know how to deal with him."
+          },
+		  {
+            "sentence": "К1алэм '''ишэн''' къины",
+            "translation": "The boy is hard to deal with."
+          }
+        ]
       },
       {
         "meaning": "manner",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''шэн''' и1эп",
+            "translation": "The boy has no '''manners'''."
+          },
+		  {
+            "sentence": "'''Шэн''' уи1эба?",
+            "translation": "Do you have no '''manners'''?"
+          },
+		  {
+            "sentence": "К1алэм '''шэн''' дах и1",
+            "translation": "The boy has good '''manners'''."
+          },
+		  {
+            "sentence": "К1алэм '''шэн''' 1ай и1",
+            "translation": "The boy has bad '''manners'''."
+          },
+		  {
+            "sentence": "Ц1ыфэу '''шэн''' зимы1эм шэнчъэ ра1о",
+            "translation": "A person that has no '''manners''' is called mannerless."
+          }
+        ]
       }
     ],
     "kabardian": "щэн",
@@ -103434,12 +103555,33 @@
     "ipa": "ʃan"
   },
   {
+    "word": "шэн к1эк1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "lacking self-control, unrestrained",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "ʃan t͡ʃʼat͡ʃʼ"
+  },
+  {
     "word": "зыпари",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "nothing",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''зыпари''' и1эп",
+            "translation": "The boy has '''nothing."
+          },
+		  {
+            "sentence": "К1алэм '''зыпари''' къи1уагъэп",
+            "translation": "The boy said '''nothing."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -103453,12 +103595,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "satisfaction",
-        "examples": []
-      },
-      {
-        "meaning": "pleasure",
-        "examples": []
+        "meaning": "satisfaction; pleasure",
+        "examples": [
+          {
+            "sentence": "'''Угухахъоу''' хагъоу ушхы",
+            "translation": "Eat '''with pleasure'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -103486,7 +103629,16 @@
     "definitions": [
       {
         "meaning": "wrong, incorrect",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Джэуапэу къэптыгъэр '''мытэрэз'''",
+            "translation": "The answer you gave is '''incorrect'''."
+          },
+		  {
+            "sentence": "1офыр '''мытэрэзэу''' зек1уагъ",
+            "translation": "The work went '''wrongly'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -103502,7 +103654,12 @@
     "definitions": [
       {
         "meaning": "wrong, incorrect",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "1офыр '''тэрэзыджэу''' зек1уагъ",
+            "translation": "The work went '''wrongly'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -103532,11 +103689,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to light, to light up, to illuminate",
+        "meaning": "to light on",
         "examples": [
           {
-            "sentence": "Тыгъэр чIыгум '''тепсэ'''",
-            "translation": "the sun '''illuminates''' the earth."
+            "sentence": "Тыгъэр ч1ыгум '''тепсэ'''",
+            "translation": "The sun '''lights on''' the earth."
+          },
+		  {
+            "sentence": "Нэфнэ чэтыум '''тебгъапсэмэ''' ынэхэм къэпсэжьыщтых",
+            "translation": ""
           }
         ]
       }
@@ -103550,7 +103711,12 @@
     "definitions": [
       {
         "meaning": "shroud (dress for the dead)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Хьадэм '''чэфын''' ращэк1ыгъ",
+            "translation": "They wrapped the corpse in a '''shroud'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -103562,7 +103728,12 @@
     "definitions": [
       {
         "meaning": "to be happy",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''чэфэу щытын'''",
+            "translation": "The boy '''is happy'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -103577,9 +103748,7 @@
         "examples": []
       }
     ],
-    "synonyms": [
-      "щэгъэпс1агъэ"
-    ],
+    "Shapsug": "щэгъэпс1агъэ",
     "type": "noun",
     "ipa": "ɕaʁapt͡sʼaːʁa"
   },
@@ -103588,36 +103757,40 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to scribble on, To write or draw carelessly on",
+        "meaning": "to scribble on, to write or draw carelessly on",
         "examples": [
           {
-            "sentence": "К1алэ дысэр дэпкъым '''тэуц1алэ'''",
+            "sentence": "К1элэ ш1ык1аер дэпкъым '''теуц1алэ'''",
             "translation": "The naughty boy '''is scribbling''' on the wall."
           },
           {
-            "sentence": "Тхылъып1эм '''тэуц1ал'''",
-            "translation": "'''Scribble''' on the paper."
+            "sentence": "Тхылъып1эм '''сытеуц1алэ'''",
+            "translation": "'''I am scribbling''' on the paper."
           },
           {
-            "sentence": "Тхылъыым '''утэмыуц1ал'''",
+            "sentence": "Тхылъыым '''утемыуц1ал'''",
             "translation": "'''Don't scribble''' on the book."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "tawt͡sʼalan"
+    "ipa": "tajwt͡sʼalan"
   },
   {
     "word": "уц1элэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to scribble, To write or draw carelessly",
+        "meaning": "to scribble, to write or draw carelessly",
         "examples": [
           {
             "sentence": "К1алэр '''мэуц1алэ'''",
             "translation": "The boy '''is scribbling'''."
+          },
+		  {
+            "sentence": "Классымк1э '''туц1элэнэу''' къыта1уагъ",
+            "translation": "In class, they told us '''to scribble'''."
           }
         ]
       }
@@ -103630,12 +103803,37 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to leave / go away / walk away / move away",
+        "meaning": "alternative form of \"къик1ын\"",
         "examples": []
       }
     ],
     "type": "verb",
     "ipa": "t͡ʃʼən"
+  },
+  {
+    "word": "къик1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to grow (plants, hair)",
+        "examples": [
+          {
+            "sentence": "Сжак1э псынкэу '''къек1ы'''",
+            "translation": "My beard '''grows''' fast."
+          },
+		  {
+            "sentence": "Къэгъагъэхэр '''къек1ых'''",
+            "translation": "The flowers '''grow'''."
+          },
+		  {
+            "sentence": "Л1ым ышъхьац к1ыхьэу '''къик1ыгъ'''",
+            "translation": "The man's hair '''grew''' long."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "qəjt͡ʃʼən"
   },
   {
     "word": "1орыш1эджэн",
@@ -103645,8 +103843,20 @@
         "meaning": "to disobey",
         "examples": [
           {
-            "sentence": "К1алэр иянэ '''е1орыш1аджэ'''",
-            "translation": "The boy '''disobeys''' his mother."
+            "sentence": "К1алэр '''мэ1орыш1аджэ'''",
+            "translation": "The boy '''disobeys'''."
+          },
+		  {
+            "sentence": "К1алэр ыянэ '''е1орыш1эджагъ'''",
+            "translation": "The boy '''disobeyed''' his mother."
+          },
+		  {
+            "sentence": "К1элэц1ык1ур ыянэрэ ыятэрэ '''а1орыш1аджэ'''",
+            "translation": "The little boy '''disobeys''' his father and mother."
+          },
+		  {
+            "sentence": "Пщыл1эу '''1орыш1эджагъэр''' аук1ыщтыгъ",
+            "translation": "A slave that '''disobeyed''' used to be killed."
           }
         ]
       }
@@ -103663,7 +103873,7 @@
         "examples": [
           {
             "sentence": "Пшъэшъэ '''го1у'''",
-            "translation": "'''likeable''' girl."
+            "translation": "'''Likeable''' girl."
           }
         ]
       },
@@ -103682,6 +103892,18 @@
     ],
     "type": "adj",
     "ipa": "ɡʷaħə"
+  },
+  {
+    "word": "лъэгъупхъадж",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "unsightly, unattractive",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "ɬaʁʷəpχaːd͡ʒ"
   },
   {
     "word": "лъэгъупхъ",
@@ -103703,15 +103925,6 @@
             "translation": "Such an '''outstanding''' rider."
           }
         ]
-      },
-      {
-        "meaning": "stately",
-        "examples": [
-          {
-            "sentence": "Л1ы '''лъэгъупхъэ'''",
-            "translation": "'''stately''' man."
-          }
-        ]
       }
     ],
     "type": "adj",
@@ -103722,14 +103935,14 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "appearance, one's look, the look of someone or something, the way something or someone looks",
+        "meaning": "look; looks; appearance, one's look, the look of someone or something, the way something or someone looks",
         "examples": [
           {
-            "sentence": "К1алэ зэгъэфагъэм '''итаплъэ''' дахэ",
-            "translation": "The arranged boy '''looks''' beautiful."
+            "sentence": "К1алэм '''итеплъэ''' дахэ",
+            "translation": "The boy's '''appearance''' is beautiful."
           },
           {
-            "sentence": "К1алэм '''итаплъэк1э''' къэпш1эжьыт",
+            "sentence": "К1алэм '''итеплъэк1э''' къэпш1эжьыщт",
             "translation": "You will recognize the boy '''by his look'''."
           }
         ]
@@ -103748,7 +103961,12 @@
       },
       {
         "meaning": "good-looking",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''теплъэш1у''' и1",
+            "translation": "The boy is '''good-looking'''."
+          }
+        ]
       }
     ],
     "type": "adj",
