@@ -1056,6 +1056,10 @@
           {
             "sentence": "'''Лыр''' щыуаным естыл1агъ",
             "translation": "'''The meat''' stuck inside the pot."
+          },
+          {
+            "sentence": "Щыуаным '''лыр''' естыл1агъ",
+            "translation": "'''The meat''' got stuck inside the pot."
           }
         ]
       },
@@ -1819,8 +1823,20 @@
         "meaning": "water",
         "examples": [
 		  {
+            "sentence": "К1алэм мылыхэр '''псым''' хелъхьах",
+            "translation": "The boy puts ices into '''the water'''."
+          },
+		  {
             "sentence": "'''Псыр''' угъэплъымэ п1онк1эу ежьэ",
             "translation": "When you heat up '''water''' it start bubbling up."
+          },
+		  {
+            "sentence": "'''Псыр''' учъы1ымэ, мэщты",
+            "translation": "When '''water''' cools down, it freezes."
+          },
+		  {
+            "sentence": "Чэтыухэр '''псы''' егъашъох",
+            "translation": "Let the cats drink '''water'''."
           }
         ]
       }
@@ -3064,7 +3080,12 @@
     "definitions": [
       {
         "meaning": "milk",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Бзылъфыгъэм щыуанымк1э '''щэ''' ыгъэпщтагъ",
+            "translation": "The woman boiled '''milk''' with the pot."
+          }
+        ]
       },
       {
         "meaning": "bullet",
@@ -3256,7 +3277,16 @@
     "definitions": [
       {
         "meaning": "horse",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ым '''шым''' шхо1ур жэдигъэзыгъ",
+            "translation": "The man took off the bit from the mouth of '''the horse'''."
+          },
+		  {
+            "sentence": "Л1ым '''шым''' шхо тырилъхьагъ",
+            "translation": "The man put bridle onto '''the horse'''."
+          }
+        ]
       },
       {
         "meaning": "brother",
@@ -7976,7 +8006,12 @@
     "definitions": [
       {
         "meaning": "wood",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Нахь '''пхъэ''' бэу маш1ом хэтылъхьан фай",
+            "translation": "We need to put more '''wood''' into the fire."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -8171,7 +8206,12 @@
       },
       {
         "meaning": "path",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Гъогур''' псынжъэу хъугъэ",
+            "translation": "'''The path''' became mud."
+          },
+        ]
       }
     ],
     "kabardian": "гъуэгу",
@@ -14597,7 +14637,12 @@
     "definitions": [
       {
         "meaning": "narrow",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Мыр бгъо нахь, '''бгъузэп'''",
+            "translation": "This is rather wide, not '''narrow'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -15396,6 +15441,10 @@
 		  {
             "sentence": "'''Пыим''' идзак1охэр къэтыухъурэихьагъэх",
             "translation": "We surrounded the '''enemy's''' soldiers."
+          },
+		  {
+            "sentence": "'''Пыир''' блэк1ыфэ зышъуушъэф",
+            "translation": "Until '''the enemy''' passes, be silent."
           }
         ]
       },
@@ -18955,7 +19004,12 @@
     "definitions": [
       {
         "meaning": "village",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''къуаджэм''' идэхьэгъу къэсщыпаплъэ",
+            "translation": "The boy is waiting for me at the '''village's''' entrance."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -20230,6 +20284,10 @@
           {
             "sentence": "Ощх '''къещхы'''",
             "translation": "It is '''raining''' rain."
+          },
+		  {
+            "sentence": "'''Къещхыгъэти''', шъофыр псынжъык1э узэндыгъ",
+            "translation": "'''Because it rained''', the fields are filled with mud"
           }
         ]
       }
@@ -22340,6 +22398,10 @@
           {
             "sentence": "Экзамыным '''сыблэк1ыгъ'''",
             "translation": "'''I passed''' the exam."
+          },
+		  {
+            "sentence": "Пыир '''блэк1ыфэ''' зышъуушъэф",
+            "translation": "'''Until''' the enemy '''passes''', be silent."
           }
         ]
       }
@@ -31073,8 +31135,17 @@
         ]
       },
       {
-        "meaning": "to lay/put somewhere within a mass (gas, solid or liquid)",
-        "examples": []
+        "meaning": "to lay/put something within an area of some mass (gas, solid or liquid); to put into fire, water, grass, plants, fortest, etc.",
+        "examples": [
+		  {
+            "sentence": "К1алэм мылыхэр псым '''хелъхьах'''",
+            "translation": "The boy '''puts''' ices '''into''' the water."
+          },
+		  {
+            "sentence": "Нахь пхъэ бэу маш1ом '''хэтылъхьан''' фай",
+            "translation": "We need '''to put''' more wood '''into''' the fire."
+          }
+        ]
       },
       {
         "meaning": "to put/place something among other objects or people",
@@ -48493,6 +48564,10 @@
 		  {
             "sentence": "Машинэр зэтеуцуагъэгу, '''сыпаплъэ''' къэлэжьэжьыфэ",
             "translation": "The machine halted for now, '''I am waiting for''' it to continue working."
+          },
+		  {
+            "sentence": "К1алэр къуаджэм идэхьэгъу '''къэсщыпаплъэ'''",
+            "translation": "The boy '''is waiting for me at''' the village's entrance."
           }
         ]
       }
@@ -51577,6 +51652,10 @@
 		  {
             "sentence": "'''Шхын''' зэмыл1эужыгъор сышхыгъэх",
             "translation": "I ate various '''foods'''."
+          },
+		  {
+            "sentence": "Чэтыухэмэ заушъэфыщт '''шхын''' яптымэ",
+            "translation": "The cats will become silent if you give them '''food'''."
           }
         ]
       }
@@ -54564,6 +54643,10 @@
           {
             "sentence": "К1алэм джэгуалъэр '''естыгъагъэпи''' зигъэгусагъ",
             "translation": "'''Because I haven't given''' the toy to the boy, he sulked."
+          },
+		  {
+            "sentence": "Тхьамык1эм псы '''ети''' егъашъу",
+            "translation": "'''Give''' the poor water '''and''' let him/her drink it."
           }
         ]
       }
@@ -75710,6 +75793,14 @@
           {
             "sentence": "Маш1ом '''ухауцомэ''', улъакъо ыгъэстыщт",
             "translation": "'''If you step''' on fire, it will burn your leg."
+          },
+		  {
+            "sentence": "К1алэр псынжъым '''хэуцуагъ'''",
+            "translation": "The boy stepped on a '''mud'''."
+          },
+		  {
+            "sentence": "Псынжъым '''ухэуцуагъэу''' унэм укъимыхь",
+            "translation": "'''While stepped on''' mud, don't enter the house."
           }
         ]
       }
@@ -76846,7 +76937,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "graveyard",
+        "meaning": "graveyard; cemetery",
         "examples": [
 		  {
             "sentence": "'''Къэхалъэр''' ары къэхэр зыдэтыр",
@@ -80000,7 +80091,11 @@
       {
         "meaning": "to freeze; to become frozen",
         "examples": [
-          {
+		  {
+            "sentence": "Псыр учъы1ымэ, '''мэщты'''",
+            "translation": "When water cools down, '''it freezes'''."
+          },
+		  {
             "sentence": "Хьалыгъур '''мэщты'''",
             "translation": "The bread '''is freezing'''."
           },
@@ -84945,6 +85040,10 @@
           {
             "sentence": "К1алэм щэр '''егъэпщты'''",
             "translation": "The boy '''is boiling''' the milk."
+          },
+		  {
+            "sentence": "Бзылъфыгъэм щыуанымк1э щэ '''ыгъэпщтагъ'''",
+            "translation": "The woman '''boiled''' milk with the pot."
           }
         ]
       }
@@ -87518,8 +87617,8 @@
             "translation": "The food '''was stuck inside''' the pan."
           },
           {
-            "sentence": "Лыр щыуан нэзым '''естыл1агъ'''",
-            "translation": "The meat '''stuck''' on edge of the pot."
+            "sentence": "Лыр щыуаным '''естыл1агъ'''",
+            "translation": "The meat '''stuck''' inside the pot."
           }
         ]
       }
@@ -90280,6 +90379,10 @@
 		  {
             "sentence": "Машинэр плъыгъащэти, къызэтегъэуцогу '''къэучъы1ыжьынэу'''",
             "translation": "Because the machine heated too much, halt it for now so '''it will cold down'''."
+          },
+		  {
+            "sentence": "Псыр '''учъы1ымэ''', мэщты",
+            "translation": "'''When''' water '''cools down''', it freezes."
           }
         ]
       }
@@ -93427,6 +93530,10 @@
 		  {
             "sentence": "Пчэдыжьым '''шъофым''' тыхэхьани, чэщым чылэм тыкъыдэхьажьыщт",
             "translation": "In the morning we will enter '''the fields''' and in the night we will return to the village."
+          },
+		  {
+            "sentence": "Къещхыгъэти, '''шъофыр''' псынжъык1э узэндыгъ",
+            "translation": "Because it rained, '''the fields''' are filled with mud"
           }
         ]
       }
@@ -97110,6 +97217,10 @@
           {
             "sentence": "Пачъыхьэм зеухъумэ пытап1эмк1э '''къэш1ыхьагъэу'''",
             "translation": "The king is sheltering himself with a surrounding fortress."
+          },
+		  {
+            "sentence": "Л1ым ихап1э чэук1э '''къыш1ыхьагъ'''",
+            "translation": "The man's farmstead '''is surrounded''' by wattle fence."
           }
         ]
       }
@@ -103994,11 +104105,53 @@
     "definitions": [
       {
         "meaning": "mud",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Гъогур '''псынжъэу''' хъугъэ",
+            "translation": "The path became '''mud'''."
+          },
+		  {
+            "sentence": "К1алэр '''псынжъым''' хэуцуагъ",
+            "translation": "The boy '''stepped on''' a mud."
+          },
+		  {
+            "sentence": "'''Псынжъым''' ухэуцуагъэу унэм укъимыхь",
+            "translation": "While stepped on '''mud''', don't enter the house."
+          },
+		  {
+            "sentence": "Къещхыгъэти, шъофыр '''псынжъык1э''' узэндыгъ",
+            "translation": "Because it rained, the fields are filled with '''mud'''"
+          },
+          {
+            "sentence": "К1алэм ицуакъэхэр '''псынжъык1э''' ш1оихэу унэм иджэхашъо теуцо",
+            "translation": "The boy is stepping on the house's floor with his filthy '''mud''' shoes."
+          },
+		  {
+            "sentence": "Зэманым дэпкъыхэр '''псынжъык1э''' аищтыгъэх",
+            "translation": "In the past, they used to coat walls '''with mud'''."
+          },
+        ]
       }
     ],
     "type": "noun",
     "ipa": "psənʐə"
+  },
+  {
+    "word": "зэрар",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "harm; damage",
+        "examples": [
+          {
+            "sentence": "Ц1ыф шъуадж, '''изэрар''' нахь иш1уагъэ къыок1ыщтэп",
+            "translation": "'''An ill-fated''' person, you will only benefit '''harm''' from him."
+          }
+        ]
+      }
+    ]
+    "type": "noun",
+    "ipa": "zaraːr"
   },
   {
     "word": "шъуаджэ",
@@ -104006,7 +104159,12 @@
     "definitions": [
       {
         "meaning": "ill-starred, ill-fated",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ц1ыф '''шъуадж'''",
+            "translation": "'''An ill-fated''' person."
+          }
+        ]
       },
       {
         "meaning": "leprous",
@@ -104014,7 +104172,7 @@
       }
     ],
     "synonyms": [
-      "сэраджэ"
+      "сэраджэ (leprous)"
     ],
     "type": "adj",
     "ipa": "ʃʷaːd͡ʒa"
@@ -104045,6 +104203,18 @@
     ],
     "type": "adj",
     "ipa": "qʷapazaːnd"
+  },
+  {
+    "word": "къопэзад",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"къопэзанд\"",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "qʷapazaːd"
   },
   {
     "word": "шапхъэ",
@@ -104089,6 +104259,14 @@
           {
             "sentence": "Лыр '''щыуаным''' естыл1агъ",
             "translation": "The meat stuck inside '''the pot'''."
+          },
+		  {
+            "sentence": "Бзылъфыгъэм '''щыуанымк1э''' щэ ыгъэпщтагъ",
+            "translation": "The woman boiled milk '''with the pot'''."
+          },
+		  {
+            "sentence": "Бзылъфыгъэм '''щыуанымк1э''' лы ыгъэжъуагъ",
+            "translation": "The woman cooked meat '''with the pot'''."
           }
         ]
       }
@@ -104102,11 +104280,16 @@
     "definitions": [
       {
         "meaning": "wattle fence",
-        "examples": []
-      },
-      {
-        "meaning": "farmstead",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ым ихап1э '''чэук1э''' къыш1ыхьагъ",
+            "translation": "The man's farmstead is surrounded '''by wattle fence'''."
+          },
+          {
+            "sentence": "'''Чэу''' нэзым дэжь щылъ",
+            "translation": "It lies next to the edge of the [wattle] '''fence'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -104117,19 +104300,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "edge",
+        "meaning": "border, edge",
         "examples": [
           {
             "sentence": "'''Нэзым''' 1ук1",
             "translation": "Go away from the '''edge'''."
           },
           {
-            "sentence": "Щыуан '''нэзым''' естылIагъ",
+            "sentence": "Щыуан '''нэзым''' естыл1агъ",
             "translation": "It stuck (from burning) on '''edge''' of the pot."
           },
           {
             "sentence": "Чэу '''нэзым''' дэжь щылъ",
-            "translation": "He lies next to the '''edge''' of the wattle fence."
+            "translation": "It lies near to the ''' border''' of the wattle fence."
           }
         ]
       }
@@ -104137,8 +104320,7 @@
     "synonyms": [
       "гъунапкъэ",
       "гъунэ",
-      "цак1э",
-      "----"
+      "цак1э"
     ],
     "type": "noun",
     "ipa": "nazə"
@@ -104160,8 +104342,8 @@
         "meaning": "field (field for agriculture such as crop field)",
         "examples": [
           {
-            "sentence": "'''хьасэм''' Iоф щыш1эн",
-            "translation": "To work in the '''field'''."
+            "sentence": "'''хьасэм''' 1оф щыш1эн",
+            "translation": "To do work in the '''field'''."
           }
         ]
       }
@@ -104170,16 +104352,86 @@
     "ipa": "ħaːsa"
   },
   {
+    "word": "егъэшъон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to make someone drink water",
+        "examples": [
+          {
+            "sentence": "Чэтыухэр псы '''егъашъох'''",
+            "translation": "'''Let''' the cats '''drink water'''."
+          },
+		  {
+            "sentence": "Ным ысабыйц1ык1у быдзыщэ '''регъашъо'''",
+            "translation": "The mother '''lets''' her infant '''drink''' breastmilk."
+          },
+		  {
+            "sentence": "Тхьэматэм псы '''сыригъашъорэп'''",
+            "translation": "The boss '''does not let me drink''' water."
+          }
+		  {
+            "sentence": "Тхьамык1эм псы ети '''егъашъу'''",
+            "translation": "Give the poor water and '''let him/her drink it'''."
+          },
+		  {
+            "sentence": "Л1ым шым шхо1ур жэдигъэзи псы '''ригъэшъуагъ'''",
+            "translation": "The man took off the bit from the horse's mouth and '''made it drink''' water."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃxʷaʔʷ"
+  },
+  {
+    "word": "шхо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "bridle (headgear for horse)",
+        "examples": [
+          {
+            "sentence": "Л1ым шым шхо тырилъхьагъ",
+            "translation": "The man put '''bridle''' onto the horse."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃxʷa"
+  },
+  {
     "word": "шхо1у",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "bit (metal in horse's mouth)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ым шым '''шхо1ур''' жэдигъэзи псы ригъэшъуагъ",
+            "translation": "The man took off '''the bit''' from the horse's mouth and made it drink water."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "ʃxʷaʔʷ"
+  },
+  {
+    "word": "дэхьагъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"дэхьэгъу\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "дэхьап1э"
+    ],
+    "type": "noun",
+    "ipa": "daħaʁʷ"
   },
   {
     "word": "дэхьэгъу",
@@ -104189,8 +104441,8 @@
         "meaning": "entrance",
         "examples": [
           {
-            "sentence": "К1алэр куэй '''дэхьагъом''' къэспаплъэ",
-            "translation": "The boy is waiting for me in the village's '''entrance'''."
+            "sentence": "К1алэр къуаджэм '''идэхьэгъу''' къэсщыпаплъэ",
+            "translation": "The boy is waiting for me at the village's '''entrance'''."
           },
           {
             "sentence": "К1алэр '''дэхьагъом''' 1ут",
@@ -104198,7 +104450,7 @@
           },
 		  {
             "sentence": "Унагъор парк '''дэхьэгъомк1э''' паркым дахьэх",
-            "translation": "The family enter the part '''from''' the park's '''entrance'''."
+            "translation": "The family is entering the park '''from''' the park's '''entrance'''."
           },
 		  {
             "sentence": "Щагу '''дэхьагъо'''",
@@ -104215,7 +104467,7 @@
       "дэхьап1э"
     ],
     "type": "noun",
-    "ipa": "daħaːʁʷa"
+    "ipa": "daħaʁʷ"
   },
   {
     "word": "л1ы1о-л1ышъу",
@@ -104230,27 +104482,86 @@
     "ipa": "ɬʼəʔʷa-ɬʼəʃʷ"
   },
   {
+    "word": "1энэгъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "neighbor at the table; cloest person at the table",
+        "examples": [
+          {
+            "sentence": "К1алэр '''си1энэгъу''' щыс",
+            "translation": "The boy is sitting '''adjacent to me'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʔanaʁʷ"
+  },
+  {
     "word": "1энэгъунэ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "surrounding area (of a village or city)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Чылэм '''и1энэгъунэ''' мэлахъохэр щылажьэх",
+            "translation": "The cowherds work '''in the surrounding area''' of the village."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "ʔanaʁʷəna"
   },
   {
+    "word": "ушъэфын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to silent, to make someone silent, to quiet",
+        "examples": [
+          {
+            "sentence": "К1алэм радиор '''ыушъэфыгъ'''",
+            "translation": "The boy '''silenced''' the radio."
+          },
+		  {
+            "sentence": "'''Зыушъэф''', сятэ къэбгъэущыщт",
+            "translation": "'''Be silent''', you will awake my father."
+          },
+		  {
+            "sentence": "Пыир блэк1ыфэ '''зышъуушъэф'''",
+            "translation": "Until the enemy passes, '''be silent'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "wəʂafən"
+  },
+  {
     "word": "зыушъэфын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to keep silent, to be silent",
+        "meaning": "to keep silent, to be silent, to quiet",
         "examples": [
           {
             "sentence": "К1алэм '''зеушъэфы'''",
             "translation": "The boy '''keeps his silent'''."
+          },
+		  {
+            "sentence": "'''Зыушъэф''', сятэ къэбгъэущыщт",
+            "translation": "'''Be silent''', you will awake my father."
+          },
+		  {
+            "sentence": "Пыир блэк1ыфэ '''зышъуушъэф'''",
+            "translation": "Until the enemy passes, '''be silent'''."
+          },
+		  {
+            "sentence": "Чэтыухэмэ '''заушъэфыщт''' шхын яптымэ",
+            "translation": "The cats '''will become silent''' if you give them food."
           }
         ]
       }
@@ -104288,7 +104599,12 @@
     "definitions": [
       {
         "meaning": "state",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''къэралыгъом''' ил1ышъхь",
+            "translation": "Head of '''the state'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -104305,8 +104621,8 @@
         "meaning": "head of; chief",
         "examples": [
           {
-            "sentence": "Къэралым илIышъхь",
-            "translation": "'''Сhief''' of the state."
+            "sentence": "Къэралым '''ил1ышъхь'''",
+            "translation": "'''Head of''' the state."
           }
         ]
       }
@@ -104324,7 +104640,16 @@
     "definitions": [
       {
         "meaning": "chief",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Куджаныр еджап1эм '''ипащ'''",
+            "translation": "Kujan is the '''principle''' of the school."
+          },
+		  {
+            "sentence": "Ц1ыфхэр '''пащым''' еуч1ыгъэх",
+            "translation": "The people asked '''the chief'''."
+          }
+        ]
       },
       {
         "meaning": "leader",
@@ -104344,7 +104669,12 @@
     "definitions": [
       {
         "meaning": "wide, broad",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Мыр '''бгъо''' нахь, бгъузэп",
+            "translation": "This is rather '''wide''', not narrow."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -112438,6 +112768,10 @@
 		  {
             "sentence": "К1алэм нэгъунджэхэр '''зытелъхьэх'''",
             "translation": "The boy '''puts on''' glasses."
+          },
+		  {
+            "sentence": "Л1ым шым шхо '''тырилъхьагъ'''",
+            "translation": "The man '''put''' bridle '''onto''' the horse."
           }
         ]
       },
@@ -115814,7 +116148,12 @@
     "definitions": [
       {
         "meaning": "steading; farmstead; homestead; a house together with surrounding land and buildings, especially on a farm; the property comprising these",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Л1ым '''ихап1э''' чэук1э къыш1ыхьагъ",
+            "translation": "The man's '''farmstead''' is surrounded by wattle fence."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -118422,6 +118761,10 @@
           {
             "sentence": "Ощхым сиунэ псык1э ыузэндыгъ",
             "translation": "The rain '''filled''' my house in water."
+          },
+		  {
+            "sentence": "Къещхыгъэти, шъофыр псынжъык1э '''узэндыгъ'''",
+            "translation": "Because it rained, the fields '''are filled with''' mud"
           }
         ]
       },

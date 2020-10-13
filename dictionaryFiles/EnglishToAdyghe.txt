@@ -2448,7 +2448,7 @@
     "age-mate": "ныбжьэгъу; лэгъу"
   },
   {
-    "neighbor": "гъунэгъу"
+    "neighbor": "гъунэгъу; 1энэгъу (neighbor at the table)"
   },
   {
     "well-behaved": "гъэсагъэ; 1асэ; 1орыш1э (obedient)"
@@ -4717,7 +4717,7 @@
     "to enslave": "пщыл1ы ш1ын; гъэпщылIын"
   },
   {
-    "to drink": "ешъон; хэшъон (to drink from a container directly or from a sea/river); ишъун (to drink up liquid from something); ишъук1ын (to completely drink up liquid from something); ешъук1ын (to be saturated after drinking)"
+    "to drink": "ешъон; егъэшъон (to make someone drink); хэшъон (to drink from a container directly or from a sea/river); ишъун (to drink up liquid from something); ишъук1ын (to completely drink up liquid from something); ешъук1ын (to be saturated after drinking)"
   },
   {
     "to gulp down": "псы ек1эхын (ащ псы рек1эхы - (s)he gulps down water)"
@@ -6214,7 +6214,10 @@
     "tool": "1эмэ-псым; 1эдэ-уад"
   },
   {
-    "hook": "къакъыщ; хьэбзыу (bird)"
+    "hook": "къакъыщ; хьэбзыу (bird); пцэкъэнтф (fish-hook)"
+  },
+  {
+    "fish-hook": "пцэкъэнтф"
   },
   {
     "slotted tail": "бзук1эзэгох"
@@ -10132,7 +10135,7 @@
     "sauerkraut": "къэбэскъэ ш1о1у"
   },
   {
-    "border": "гъунапкъэ; гъунэ"
+    "border": "гъунапкъэ; гъунэ; нэз"
   },
   {
     "boundary": "гъунапкъэ; гъунэ"
@@ -10571,6 +10574,9 @@
   },
   {
     "graveyard": "къэхалъэ; хъэхалъэ (Shapsug)"
+  },
+  {
+    "cemetery": "къэхалъэ; хъэхалъэ (Shapsug)"
   },
   {
     "right away": "зэк1эм; занк1эу"
@@ -15028,7 +15034,7 @@
     "disturbance": "ягъэ; бырсыр"
   },
   {
-    "harm": "ягъэ (disturbance); лые"
+    "harm": "ягъэ (disturbance); лые; зэрар"
   },
   {
     "damage": "лые"
@@ -16348,7 +16354,10 @@
     "to slit": "ш1обзын (to slice to kill)"
   },
   {
-    "to quiet": "гъэушъэфын (to make someone quiet); гъэбыяун / гъэсамбырын (to calm someone)"
+    "to silent": "ушъэфын (to quiet, to make someone or something silent); зыушъэфын (to keep silent, to be silent)"
+  },
+  {
+    "to quiet": "ушъэфын (to silent, to make someone or something silent); зыушъэфын (to silent oneself, to keep silent, to be silent); гъэушъэфын (to make someone quiet)"
   },
   {
     "to calm": "быяун / самбырын (to calm down); гъэбыяун / гъэсамбырын / гъэрэхьатын (to calm someone, to ease someone); зэгъэн (to settle down due to calmness)"
@@ -17080,9 +17089,6 @@
     "wattle fence": "чэу"
   },
   {
-    "farmstead": "чэу"
-  },
-  {
     "seedbed": "хьасэ"
   },
   {
@@ -17155,7 +17161,7 @@
     "rein": "шхомлак1"
   },
   {
-    "bridle": "шхомлак1"
+    "bridle": "шхо; шхомлак1"
   },
   {
     "to tug": "к1ырыун"
