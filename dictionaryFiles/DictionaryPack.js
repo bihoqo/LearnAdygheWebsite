@@ -12814,6 +12814,23 @@
           }
         ]
       },
+	  {
+        "meaning": "first",
+        "examples": [
+		  {
+            "sentence": "Куджаныр зэпачъэмк1э '''апэр''' ары, сэ аужыр",
+            "translation": "Kujan is '''first''' in the competition, I am last."
+          },
+		  {
+            "sentence": "Унэм '''апэу''' сыкъихьагъ, о аужэу укъихьагъ",
+            "translation": "I entered the house '''first''', you entered last."
+          },
+		  {
+            "sentence": "'''Апэ''' мы1эрыс сышхыгъэр",
+            "translation": "'''The first''' thing I ate is apple."
+          }
+        ]
+      },
       {
         "meaning": "in front",
         "examples": [
@@ -13076,6 +13093,23 @@
           }
         ]
       },
+	  {
+        "meaning": "first",
+        "examples": [
+		  {
+            "sentence": "Куджаныр зэпачъэмк1э апэр ары, сэ '''аужыр'''",
+            "translation": "Kujan is first in the competition, I am '''last'''."
+          },
+		  {
+            "sentence": "Унэм апэу сыкъихьагъ, о '''аужэу''' укъихьагъ",
+            "translation": "I entered the house first, you entered '''last'''."
+          },
+		  {
+            "sentence": "'''Аужэу''' мы1эрыс сышхыгъэр",
+            "translation": "'''The last''' thing I ate is apple."
+          }
+        ]
+      }
       {
         "meaning": "in the end",
         "examples": [
@@ -34643,7 +34677,12 @@
     "definitions": [
       {
         "meaning": "poison",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Щэнаутэу''' къы1уихырэм шъхьэр егъэуназэ",
+            "translation": "'''The poison''' that emits from the area makes the head dizzy."
+          }
+        ]
       }
     ],
     "kabardian": "щхъухь",
@@ -76978,7 +77017,7 @@
         "meaning": "air force base",
         "examples": [
 		  {
-            "sentence": "'''Жьыдзап1эм''' дзэм икъухьэлъатыхэр дэтых",
+            "sentence": "'''Жьыдзап1эм''' дзэм икъухьэлъатэхэр дэтых",
             "translation": "The army's airplanes are in '''the air force base'''"
           }
         ]
@@ -76995,7 +77034,7 @@
         "meaning": "air force",
         "examples": [
 		  {
-            "sentence": "'''Жьыдзэм''' дзэм икъухьэлъатыхэр егъэзек1ох",
+            "sentence": "'''Жьыдзэм''' дзэм икъухьэлъатэхэр егъэзек1ох",
             "translation": "'''The air force''' manages the army's airplanes."
           }
         ]
@@ -77024,7 +77063,7 @@
             "translation": "The school's principal '''manages''' the teachers."
           },
 		  {
-            "sentence": "Жьыдзэм дзэм икъухьэлъатыхэр '''егъэзек1ох'''",
+            "sentence": "Жьыдзэм дзэм икъухьэлъатэхэр '''егъэзек1ох'''",
             "translation": "The air force '''manages''' the army's airplanes."
           },
 		  {
@@ -77970,11 +78009,11 @@
         "examples": [
           {
             "sentence": "К1алэм шъофым ит чъыгыхэмэ '''ашъхьапырык1ыгъ'''",
-            "translation": "The boy '''oversteped''' the trees in the field."
+            "translation": "The boy '''overstepped''' the trees in the field."
           },
 		  {
             "sentence": "Къухьэлъатэр хым '''шъхьапырык1ыгъ'''",
-            "translation": "The airplane '''oversteped''' the sea."
+            "translation": "The airplane '''overstepped''' the sea."
           }
         ]
       }
@@ -103213,7 +103252,7 @@
         "meaning": "overhead; above one's head; in the sky",
         "examples": [
           {
-            "sentence": "Дзэм ышъхьагъ итэу къухьэлъатэ мэбыбы",
+            "sentence": "Дзэм '''ышъхьагъ''' итэу къухьэлъатэ мэбыбы",
             "translation": "'''Overhead''' the army there is an airplane flying."
           }
         ]
@@ -106011,12 +106050,25 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to compete with each other",
-        "examples": []
-      },
-      {
-        "meaning": "to race with each other",
-        "examples": []
+        "meaning": "to compete with each other; to race with each other",
+        "examples": [
+		  {
+            "sentence": "К1алэхэр '''зэпачъэх''' зэпачъэмк1э",
+            "translation": "The boy '''are competing''' in the race."
+          },
+		  {
+            "sentence": "К1алэхэр '''зэпачъэх'''",
+            "translation": "The boy '''are competing with each other'''."
+          },
+		  {
+            "sentence": "К1алэхэр '''зэпачъэх''' хэт нахь бэу зишхырэр",
+            "translation": "The boy '''are competing''' who eats more."
+          },
+		  {
+            "sentence": "К1алэхэр '''зэпачъэх''' хэт нахь псынк1эу чъэрэр",
+            "translation": "The boy '''are competing''' who runs faster."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -106027,12 +106079,21 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "competition",
-        "examples": []
-      },
-      {
-        "meaning": "race",
-        "examples": []
+        "meaning": "competition; race",
+        "examples": [
+          {
+            "sentence": "К1алэхэр зэпачъэх '''зэпачъэмк1э'''",
+            "translation": "The boy are competing '''in the race'''."
+          },
+		  {
+            "sentence": "Куджаныр '''зэпачъэмк1э''' апэр ары, сэ аужыр",
+            "translation": "Kujan is first '''in the competition''', I am last."
+          },
+		  {
+            "sentence": "'''Зэпачъэ''' тыш1ыщт",
+            "translation": "We will do '''a race'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -106054,16 +106115,41 @@
     "ipa": "zafaːt͡ʂa"
   },
   {
-    "word": "къухьэлъат",
+    "word": "къухьэлъатэ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "airplane",
         "examples": [
-          ,
 		  {
             "sentence": "'''Къухьэлъатэр''' хым шъхьапырык1ыгъ",
-            "translation": "'''The airplane''' oversteped the sea."
+            "translation": "'''The airplane''' overstepped the sea."
+          },
+		  {
+            "sentence": "Дзэм ышъхьагъ итэу '''къухьэлъатэ''' мэбыбы",
+            "translation": "Overhead the army there is '''an airplane''' flying."
+          },
+		  ,
+		  {
+            "sentence": "'''Къухьэлъатэр''' хым шъхьапырык1ыгъ",
+            "translation": "'''The airplane''' overstepped the sea."
+          },
+		  
+		  {
+            "sentence": "Жьыдзэм дзэм '''икъухьэлъатэхэр''' егъэзек1ох",
+            "translation": "The air force manages the army's '''airplanes'''."
+          },
+		  {
+            "sentence": "Жьыдзап1эм дзэм '''икъухьэлъатэхэр''' дэтых",
+            "translation": "The army's airplanes are in '''the air force base'''"
+          },
+		  {
+            "sentence": "'''Къухьэлъатэр''' бзыум течъыгъ",
+            "translation": "The airplane outflew the bird."
+          },
+		  {
+            "sentence": "'''Къухьэлъатэр''' дэгъэбыбый",
+            "translation": "Fly '''the airplane''' upward."
           }
         ]
       }
@@ -106082,7 +106168,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "airplane",
+        "meaning": "airplane; synonyms of \"къухьэлъатэ\"",
         "examples": []
       }
     ],
@@ -106100,7 +106186,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "airplane",
+        "meaning": "airplane; synonyms of \"къухьэлъатэ\"",
         "examples": []
       }
     ],
@@ -106117,7 +106203,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "airplane",
+        "meaning": "airplane; synonyms of \"къухьэлъатэ\"",
         "examples": []
       }
     ],
@@ -106138,7 +106224,7 @@
         "meaning": "to whirl/spin (to the point of dizziness)",
         "examples": [
           {
-            "sentence": "щэнаутэу къы1уихырэм шъхьэр '''егъэуназэ'''",
+            "sentence": "Щэнаутэу къы1уихырэм шъхьэр '''егъэуназэ'''",
             "translation": "The poison that emits from the area '''spins''' the head '''to dizziness'''."
           },
 		  {
@@ -106146,6 +106232,10 @@
             "translation": "'''I am making''' the boy '''dizzy'''."
           }
         ]
+      },
+	  {
+        "meaning": "to daze",
+        "examples": []
       }
     ],
     "type": "verb",
