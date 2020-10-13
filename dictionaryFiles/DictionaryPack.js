@@ -105411,7 +105411,7 @@
         "meaning": "to remain inside; to leave inside",
         "examples": [
           {
-            "sentence": "К1алэр Америкэм к1ом къинэжьыгъ",
+            "sentence": "К1алэр Америкэм зэк1ом къинэжьыгъ",
             "translation": "When the young man went to America, he remained there."
           },
           {
@@ -105466,10 +105466,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to make something collide against something else",
+        "meaning": "to make something collide/bump against something else",
         "examples": [
           {
-            "sentence": "ЫмышIахэу пхъэр шъхьангъупчъэм '''ригъэуалIи''' апчыр хыригъэутыгъ",
+            "sentence": "Ымыш1ахэу пхъэр шъхьангъупчъэм '''ригъэуал1и''' апчыр хыригъэутыгъ",
             "translation": "'''He collided''' the wood '''into''' the window by mistake and broke the glass."
           }
         ]
@@ -105486,7 +105486,7 @@
         "meaning": "by mistake; mistakenly",
         "examples": [
           {
-            "sentence": "'''ЫмышIахэу''' пхъэр шъхьангъупчъэм ригъэуалIи апчыр хыригъэутыгъ",
+            "sentence": "'''Ымыш1ахэу''' пхъэр шъхьангъупчъэм ригъэуал1и апчыр хыригъэутыгъ",
             "translation": "He collided the wood into the window '''by mistake''' and broke the glass."
           },
           {
@@ -105550,8 +105550,8 @@
     "word": "к1этхъун",
     "lang": "Adyghe",
     "definitions": [
-      {
-        "meaning": "to shovel out, to rake out, to remove by shoveling or raking",
+	  {
+        "meaning": "to scoop out; to dig out; to shovel out, to rake out, to remove by shoveling or raking",
         "examples": []
       }
     ],
