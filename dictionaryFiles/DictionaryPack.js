@@ -10505,7 +10505,7 @@
         "meaning": "to take someone to; to bring someone to; to escort someone to; to walk someone to",
         "examples": [
           {
-            "sentence": "К1алэм '''ешэ''' пшъашъэр еджап1эм",
+            "sentence": "К1алэм '''ещэ''' пшъашъэр еджап1эм",
             "translation": "The boy '''is taking''' the girl to school."
           },
           {
@@ -10517,11 +10517,15 @@
             "translation": "'''Take''' Tom to school."
           },
           {
-            "sentence": "К1алэр '''сэшэ''' еджап1эм",
+            "sentence": "К1алэр '''сэщэ''' еджап1эм",
             "translation": "'''I am taking''' the boy to school."
           },
           {
-            "sentence": "К1элэц1ык1ухэр '''уашэха''' еджап1эм?",
+            "sentence": "Тучаным '''тыщ''' уикук1э",
+            "translation": "'''Take us''' to the shop with your car."
+          },
+          {
+            "sentence": "К1элэц1ык1ухэр '''уащэха''' еджап1эм?",
             "translation": "'''Are you taking''' the little kids to school?"
           }
         ]
@@ -10532,6 +10536,10 @@
           {
             "sentence": "тхьаматэм тэ заом '''тещэ'''",
             "translation": "The leader '''is leading''' us to the war."
+          },
+		  {
+            "sentence": "Л1ым шхомлак1эр ы1ыгъэу шыр '''ещэ'''",
+            "translation": "The man '''is leading''' the horse holding the rein."
           }
         ]
       }
@@ -22080,6 +22088,10 @@
           {
             "sentence": "Шъэжъыем '''сыкъиу1агъ'''",
             "translation": "The knife '''wounded me'''."
+          },
+		  {
+            "sentence": "Панэхэмэ сахахьэм, сыкуашъо '''ау1агъ'''",
+            "translation": "When I entered the field of thorns, '''they wounded''' my thigh skin."
           }
         ]
       },
@@ -28936,7 +28948,16 @@
     "definitions": [
       {
         "meaning": "thorn",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм ыкуашъо '''панэм''' ритхъыгъ",
+            "translation": "'''The thorn''' torn the boy's thigh skin."
+          },
+		  {
+            "sentence": "'''Панэхэмэ''' сахахьэм, сыкуашъо ау1агъ",
+            "translation": "When I entered the field of '''thorns''', they wounded my thigh skin."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -97965,18 +97986,6 @@
     "ipa": "tħaːmət͡ʃʼaːʁʷ"
   },
   {
-    "word": "гыен",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to reproach, to upbraid, to blame",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "ɣəjan"
-  },
-  {
     "word": "егоон",
     "lang": "Adyghe",
     "definitions": [
@@ -102485,9 +102494,13 @@
         ]
       },
       {
-        "meaning": "to have the opportunity or chance to",
+        "meaning": "to have the opportunity or chance to (more specifically: to fall into a specific situation)",
         "examples": [
           {
+            "sentence": "Егъаш1и ащ нахь ч1ып1эш1у ар '''ифагъэп'''",
+            "translation": "Never was (s)he '''in''' such a good spot."
+          },
+		  {
             "sentence": "К1алэр зэплъэк1ыгъо '''имыфэу''' ык1ыбык1э къеуагъэх",
             "translation": "The boy '''having no change''' to look back got hit from the back."
           },
@@ -102660,6 +102673,10 @@
 		  {
             "sentence": "Л1ыр хым '''хэхьагъ''' ытамэ псыр къэсэу",
             "translation": "The man '''entered''' the sea where the water reaches his shoulder."
+          },
+		  {
+            "sentence": "Панэхэмэ '''сахахьэм''', сыкуашъо ау1агъ",
+            "translation": "'''When I entered the field of''' thorns, they wounded my thigh skin."
           }
         ]
       }
@@ -102807,7 +102824,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "lid (The top or cover of a container)",
+        "meaning": "lid (The top or cover of a container); alternative form of \"шъхьатеп1о\"",
         "examples": []
       }
     ],
@@ -102824,7 +102841,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "lid (The top or cover of a container)",
+        "meaning": "lid (The top or cover of a container); alternative form of \"шъхьатеп1о\"",
         "examples": []
       }
     ],
@@ -104675,6 +104692,14 @@
             "translation": "This is rather '''wide''', not narrow."
           }
         ]
+      },
+	  {
+        "meaning": "smoked sheep carcass",
+        "examples": []
+      },
+	  {
+        "meaning": "nine times",
+        "examples": []
       }
     ],
     "synonyms": [
@@ -104708,23 +104733,32 @@
     "ipa": "t͡ʃaɣəj"
   },
   {
-    "word": "куашъу",
+    "word": "куашъо",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "thigh skin",
-        "examples": []
+        "meaning": "thigh skin; skin on the thigh",
+        "examples": [
+          {
+            "sentence": "К1элэц1ык1ур ным '''ыкуашъо''' тес",
+            "translation": "The little boy is sitting on the mother's '''thigh skin'''."
+          },
+		  {
+            "sentence": "Панэхэмэ сахахьэм, '''сыкуашъо''' ау1агъ",
+            "translation": "When I entered the field of thorns, they wounded '''my thigh skin'''."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "kʷʼaːʃʷa"
   },
   {
-    "word": "куашъо",
+    "word": "куашъу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"куашъу\"",
+        "meaning": "alternative form of \"куашъо\"",
         "examples": []
       }
     ],
@@ -104783,7 +104817,7 @@
             "translation": "The man '''brings''' us money."
           },
           {
-            "sentence": "Сиятэ 1эш1у-1уш1ухэр '''къыхьыгъэх'''",
+            "sentence": "Сятэ 1эш1у-1уш1ухэр '''къыхьыгъэх'''",
             "translation": "My father '''brought''' sweets."
           },
 		  {
@@ -104809,7 +104843,7 @@
         "meaning": "to win the prize",
         "examples": [
           {
-            "sentence": "Л1ым '''къихьыгъэ''' ахъщэ пчъагъэр",
+            "sentence": "Л1ым '''къихьыгъэ''' ахъщэ",
             "translation": "The man '''has won''' money."
           }
         ]
@@ -104841,7 +104875,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "sweet (food)",
+        "meaning": "sweets, sweetmeats, candies",
         "examples": [
           {
             "sentence": "'''1аш1у-1уш1ухэр'''",
@@ -104849,7 +104883,7 @@
           },
           {
             "sentence": "'''1аш1у-1уш1ухэр''' зыщащэрэм сылъэхъу, торт сщэфыным пае.",
-            "translation": "I’m looking for a '''confectionery''' to buy a cake."
+            "translation": "I am looking for '''sweetmeats''' to buy a cake."
           }
         ]
       }
@@ -104865,20 +104899,51 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"гыен\"",
-        "examples": []
+        "meaning": "to reproach, to upbraid",
+        "examples": [
+          {
+            "sentence": "К1алэм л1ыжъыр '''егыигъ'''",
+            "translation": "The old-man '''reproached''' the boy."
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "jaɣəjən"
   },
   {
+    "word": "гыен",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to reproach, to upbraid",
+        "examples": [
+          {
+            "sentence": "Л1ыжъыр '''мэгые'''",
+            "translation": "The old-man '''reproachs'''."
+          },
+		  {
+            "sentence": "К1алэм л1ыжъыр '''егыигъ'''",
+            "translation": "The old-man '''reproached''' the boy."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɣəjan"
+  },
+  {
     "word": "къэлъ-гулъ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "high quality animal food",
-        "examples": []
+        "meaning": "high-quality (of very good quality)",
+        "examples": [
+          {
+            "sentence": "'''Къэлъ-гулъ''' бганэхэр уишы жэхэтлъхьана?",
+            "translation": "Shall we give your horse some '''high-quality''' sheafs?"
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -104889,8 +104954,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "rein, bridle",
-        "examples": []
+        "meaning": "rein, bridle, bridle-rein",
+        "examples": [
+          {
+            "sentence": "Л1ым '''шхомлак1эр''' ы1ыгъэу шыр ещэ",
+            "translation": "The man is leading the horse holding '''the rein'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -104901,7 +104971,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to tug",
+        "meaning": "to tug (to pull hard)",
         "examples": [
           {
             "sentence": "Тутарыщыр шхомлак1эм '''къык1ырыуи''', шыр пхэк1ык1э къызэхигъэт1ысхьэу къызэтыригъэуцуагъ.",
@@ -104923,6 +104993,10 @@
           {
             "sentence": "К1алэр '''къэнэхъэжьыгъ'''",
             "translation": "The boy '''survive'''."
+          },
+		  {
+            "sentence": "Докторым к1алэр '''къигъэнэхъэжьыгъ'''",
+            "translation": "The doctor '''saved''' the boy (from death)."
           }
         ]
       }
@@ -104962,8 +105036,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "mercy",
-        "examples": []
+        "meaning": "mercy; pity",
+        "examples": [
+          {
+            "sentence": "Пыим '''шъхьас''' фэмыш1, сыда п1омэ, ежь къыпфиш1ыщтыпи ары",
+            "translation": "Don't have '''mercy''' for the enemy, because, he will not have it for you."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -104989,14 +105068,27 @@
         "meaning": "never (in my life)",
         "examples": [
           {
+            "sentence": "'''Ныбжьи''' ар сыш1агъэп",
+            "translation": "I '''never''' knew that."
+          },
+		  {
+            "sentence": "'''Ныбжьи''' ащ фэдэ слъэгъугъэп",
+            "translation": "'''Never''' have I seen something like that."
+          },
+		  {
             "sentence": "'''Ныбжьи''' фэдэ амылъэгъугъэу ку ыш1ыгъ",
             "translation": "He built a car that was '''never''' seen before."
+          },
+		  {
+            "sentence": "'''Ныбжьи''' ащ фэдэ а1оу зэхэсхыгъэп",
+            "translation": "'''Never''' have I heard them say something like that."
           }
         ]
       }
     ],
     "synonyms": [
-      "егъаш1и"
+      "егъаш1и",
+      "егъаш1эм"
     ],
     "type": "adv",
     "ipa": "nəbʑə"
@@ -105007,14 +105099,86 @@
     "definitions": [
       {
         "meaning": "never",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Егъаш1и''' ар сыш1агъэп",
+            "translation": "I '''never''' knew that."
+          },
+		  {
+            "sentence": "'''Егъаш1и''' ащ фэдэ слъэгъугъэп",
+            "translation": "'''Never''' have I seen something like that."
+          },
+		  {
+            "sentence": "'''Егъаш1и''' ащ нахь ч1ып1эш1у ар ифагъэп",
+            "translation": "'''Never''' was (s)he in such a good spot."
+          },
+		  {
+            "sentence": "'''Егъаш1и''' ащ фэдэ а1оу зэхэсхыгъэп",
+            "translation": "'''Never''' have I heard them say something like that."
+          }
+        ]
       }
     ],
     "synonyms": [
-      "ныбжьи"
+      "ныбжьи",
+      "егъаш1эм"
     ],
     "type": "adv",
     "ipa": "jaʁaːʃʼəj"
+  },
+  {
+    "word": "егъаш1эм",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "never",
+        "examples": [
+          {
+            "sentence": "'''Егъаш1эм''' ар сыш1агъэп",
+            "translation": "I '''never''' knew that."
+          },
+		  {
+            "sentence": "'''Егъаш1эм''' ащ фэдэ слъэгъугъэп",
+            "translation": "'''Never''' have I seen something like that."
+          },
+		  {
+            "sentence": "'''Егъаш1эм''' ащ нахь ч1ып1эш1у ар ифагъэп",
+            "translation": "'''Never''' was (s)he in such a good spot."
+          },
+		  {
+            "sentence": "'''Егъаш1эм''' ащ фэдэ а1оу зэхэсхыгъэп",
+            "translation": "'''Never''' have I heard them say something like that."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "ныбжьи",
+      "егъаш1и"
+    ],
+    "type": "adv",
+    "ipa": "jaʁaːʃʼam"
+  },
+  {
+    "word": "сыдигъуи",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "never",
+        "examples": []
+      },
+	  {
+        "meaning": "always",
+        "examples": [
+          {
+            "sentence": "К1алэр '''сыдигъуи''' хьазыр",
+            "translation": "The boy '''is always''' ready."
+          }
+        ]
+      }
+    ],
+    "type": "adv",
+    "ipa": "sədəjʁʷəj"
   },
   {
     "word": "к1э1эжьын",
@@ -105032,7 +105196,8 @@
     ],
     "synonyms": [
       "ежьэжьын",
-      "к1э1эн"
+      "к1э1эн",
+      "к1этхъун"
     ],
     "type": "verb",
     "ipa": "t͡ʃʼaʔaʑən"
@@ -105061,7 +105226,7 @@
         "examples": [
           {
             "sentence": "'''Шъхьэукъэнэу''' ежьагъ.",
-            "translation": "He started '''to doze off'''."
+            "translation": "(S)he started '''to doze off'''."
           }
         ]
       }
@@ -105120,7 +105285,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "very huge",
+        "meaning": "hulk; very huge",
         "examples": []
       }
     ],
@@ -105135,7 +105300,7 @@
         "meaning": "to singe, to scorch",
         "examples": [
           {
-            "sentence": "Цыр лыгъуагъэ.",
+            "sentence": "Цыр '''лыгъуагъэ'''.",
             "translation": "The hair '''is scorched'''."
           }
         ]
@@ -105177,7 +105342,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to lie inside; to be in",
+        "meaning": "to lie inside; to be in; to be inside",
         "examples": [
 		  {
             "sentence": "Л1ым ик1эрахъохэр к1эрэхъуалъэм '''илъых'''",
@@ -106316,7 +106481,16 @@
     "definitions": [
       {
         "meaning": "thorn",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм ыкуашъо '''къэцым''' ритхъыгъ",
+            "translation": "'''The thorn''' torn the boy's thigh skin."
+          },
+		  {
+            "sentence": "'''Къэцыхэмэ''' сахахьэм, сыкуашъо ау1агъ",
+            "translation": "When I entered the field of '''thorns''', they wounded my thigh skin."
+          }
+        ]
       }
     ],
     "synonyms": [

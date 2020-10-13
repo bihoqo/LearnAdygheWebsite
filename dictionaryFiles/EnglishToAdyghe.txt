@@ -72,7 +72,7 @@
     "to multiply": "егъэон (to perform multiplication on a number); гъэбэгъон (to grow in number/amount); къегъэбэк1ын (to make something a lot); бэгъон (to spawn)"
   },
   {
-    "thigh": "ко (thigh); копкъ (thighbone); копкъышъхьэ (head of the thighbone); куашъу (thigh skin)"
+    "thigh": "ко (thigh); копкъ (thighbone); копкъышъхьэ (head of the thighbone); куашъо (thigh skin)"
   },
   {
     "hip": "ко"
@@ -2316,7 +2316,7 @@
     "to shrink": "зэхэхьан; зэхэгъэхьан (to shrink something)"
   },
   {
-    "always": "ренэу; зэпыт; -зэпыт (verbal suffix indicating always); сыд щыгъок1и; енэу (Shapsug)"
+    "always": "ренэу; зэпыт; -зэпыт (verbal suffix indicating always); сыд щыгъок1и; енэу (Shapsug); сыдигъуи (always, never)"
   },
   {
     "all the time": "ренэу; зэпыт; -зэпыт (verbal suffix indicating all the time); сыд щыгъок1и; енэу (Shapsug)"
@@ -3084,7 +3084,7 @@
     "curser": "бгэрый / бгал (one who curses/damns a lot); хъонал (one who swears a lot)"
   },
   {
-    "sheaf": "бганэ"
+    "high-quality": "къэлъ-гулъ"
   },
   {
     "building": "бгъагъэ"
@@ -3813,7 +3813,7 @@
     "maple": "ланчъэ"
   },
   {
-    "to sleep": "чъыен; хэчъыен (to fall asleep); хэчъыехьан (to fall asleep on); 1учъыехьан (to fall asleep near)"
+    "to sleep": "чъыен; хэчъыен (to fall asleep); хэчъыехьан (to fall asleep on); 1учъыехьан (to fall asleep near); хэпэзэн / шъхьэукъэн (to doze off, to get drowsy)"
   },
   {
     "jackdaw": "къуанч1э"
@@ -7642,7 +7642,16 @@
     "lee": "жьаугъуадж; жьауш1"
   },
   {
-    "sweet": "1эш1у"
+    "sweet": "1эш1у; 1эш1у-1уш1у (sweets, sweetmeats, candies)"
+  },
+  {
+    "candies": "1эш1у-1уш1у (sweets, sweetmeats, candies)"
+  },
+  {
+    "sweetmeats": "1эш1у-1уш1у (sweets, sweetmeats, candies)"
+  },
+  {
+    "confection": "1эш1у-1уш1у (sweets, sweetmeats, candies)"
   },
   {
     "tasty": "1эш1у"
@@ -9433,7 +9442,7 @@
     "to glorify": "дэхьыен; щытхъун / къыщытхъун; щытхъук1э фэусэн; ищытхъу 1он"
   },
   {
-    "to pull": "къудыин / къэкъудыин (to apply a force to (an object) so that it comes toward the person or thing applying the force); къэлъэшъун (to pull something to oneself, to gravitate something to oneself); хэтхъын (to pull/tear off from in something); пытхъын (to pull/tear off something); пычын (to pick a fruit or flower); дэлъэшъоен (to pull up); елъэшъохын / къелъэшъохын (to pull down, to gravitate downward); дэтхъын (to pull out from inside another object like a book); хэщын (to pull someone out of a certain situation)"
+    "to pull": "къудыин / къэкъудыин (to apply a force to (an object) so that it comes toward the person or thing applying the force); къэлъэшъун (to pull something to oneself, to gravitate something to oneself); хэтхъын (to pull/tear off from in something); пытхъын (to pull/tear off something); пычын (to pick a fruit or flower); дэлъэшъоен (to pull up); елъэшъохын / къелъэшъохын (to pull down, to gravitate downward); дэтхъын (to pull out from inside another object like a book); хэщын (to pull someone out of a certain situation); к1ырыун (to tug, to pull hard)"
   },
   {
     "to gravitate": "къэлъэшъун (to pull to oneself); елъэшъохын / къелъэшъохын (to pull down, to gravitate downward)"
@@ -12643,7 +12652,7 @@
     "to feel pity": "гуегъун; шъхьасын; гук1эгъу фэш1ын; гук1эгъу фэлъэгъун (to show mercy for)"
   },
   {
-    "pity": "гук1эгъу"
+    "pity": "гук1эгъу; шъхьас"
   },
   {
     "mercy": "гук1эгъу; шъхьас"
@@ -13081,7 +13090,7 @@
     "alas": "еоой"
   },
   {
-    "whatever": "сыдэу; сыд фэдэ; сыд фэдэми"
+    "whatever": "сыдэу; сыд фэдэ; сыд фэдэми; сыд хъунк1и"
   },
   {
     "to unbuckle": "т1этэн; гъэт1этэн; къыпыт1этык1ын; къыпыт1этык1ыжьын; къык1эрыт1этык1ын"
@@ -15244,6 +15253,9 @@
     "vast": "шъэджашъ"
   },
   {
+    "hulk": "шъэджашъ"
+  },
+  {
     "enormous": "шъэджашъ"
   },
   {
@@ -16354,10 +16366,10 @@
     "to slit": "ш1обзын (to slice to kill)"
   },
   {
-    "to silent": "ушъэфын (to quiet, to make someone or something silent); зыушъэфын (to keep silent, to be silent)"
+    "to silence": "ушъэфын (to quiet, to make someone or something silent); зыушъэфын (to keep silent, to be silent)"
   },
   {
-    "to quiet": "ушъэфын (to silent, to make someone or something silent); зыушъэфын (to silent oneself, to keep silent, to be silent); гъэушъэфын (to make someone quiet)"
+    "to quiet": "ушъэфын (to silence, to make someone or something silent); зыушъэфын (to silence oneself, to keep silent, to be silent); гъэушъэфын (to make someone quiet)"
   },
   {
     "to calm": "быяун / самбырын (to calm down); гъэбыяун / гъэсамбырын / гъэрэхьатын (to calm someone, to ease someone); зэгъэн (to settle down due to calmness)"
@@ -17140,7 +17152,7 @@
     "thoroughbred": "чэгый"
   },
   {
-    "thigh skin": "куашъу"
+    "thigh skin": "куашъо"
   },
   {
     "dog hair": "хьацэ"
@@ -17182,7 +17194,7 @@
     "shamefulness": "ук1ытэныгъэ; ук1ытагъо"
   },
   {
-    "never": "егъаш1и; ныбжьи (never in my life)"
+    "never": "егъаш1эм; егъаш1и; ныбжьи; сыдигъуи (always, never)"
   },
   {
     "to make off": "к1э1эжьын"
