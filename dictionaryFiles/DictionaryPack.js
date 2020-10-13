@@ -15214,7 +15214,7 @@
         "meaning": "for nothing, in vain (to no avail or benefit)",
         "examples": [
           {
-            "sentence": "бедэхьау '''уш1эрэ'''",
+            "sentence": "'''бедэхьау''' уш1эрэ",
             "translation": "What you are doing is '''for nothing'''."
           },
           {
@@ -74756,6 +74756,10 @@
 		  {
             "sentence": "1офэу си1э '''зэк1эр''' зэхэхьагъ",
             "translation": "'''All''' the work I had added up."
+          },
+		  {
+            "sentence": "Узеджэрэ '''зэк1эр''' пк1энчъ",
+            "translation": "'''Everything''' you study is worthless."
           }
         ]
       }
@@ -105677,7 +105681,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "in vain",
+        "meaning": "in vain (to no avail or benefit); for nothing",
         "examples": [
           {
             "sentence": "Ц1ыфым нахь къинэу лажьэми, '''хьаулый'''",
@@ -105699,9 +105703,17 @@
             "sentence": "К1уагъэми, '''хьаулый'''",
             "translation": "Even if he went, it '''is in vain'''."
           },
+		  {
+            "sentence": "'''Хьаулый''' уш1эрэ",
+            "translation": "What you are doing is '''for nothing'''."
+          },
           {
             "sentence": "Сыд хэп1ухьэми '''хьаулый'''",
             "translation": "Whatever you say about it, it '''is in vain'''."
+          },
+          {
+            "sentence": "К1алэр '''хьаулыеу''' мак1о",
+            "translation": "The boy is going '''for nothing'''."
           }
         ]
       }
@@ -105908,12 +105920,30 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "idle, wasted, useless",
-        "examples": []
+        "meaning": "idle, wasted, useless, worthless, something with no value",
+        "examples": [
+          {
+            "sentence": "К1алэм къэт1ихыгъэр '''пк1энчъ'''",
+            "translation": "What the boy took from us is '''worthless'''."
+          },
+		  {
+            "sentence": "К1алэм 1оф '''пк1энчъ''' ыш1эрэр",
+            "translation": "The boy does a '''useless''' job."
+          },
+		  {
+            "sentence": "Узеджэрэ зэк1эр '''пк1энчъ'''",
+            "translation": "Everything you study is '''worthless'''."
+          }
+        ]
       },
       {
         "meaning": "meaningless",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Къин '''пк1энчъэу''' зэрегъэхъужьы",
+            "translation": "The boy is making things hard '''meaninglessly'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -105928,17 +105958,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "misbehave",
+        "meaning": "disobedient, a person that does not obey",
         "examples": [
           {
             "sentence": "к1элэц1ык1у '''1орыш1адж'''",
-            "translation": "'''misbehave''' child."
+            "translation": "'''disobedient''' child."
           }
         ]
-      },
-      {
-        "meaning": "disobedient, a person that does not obey",
-        "examples": []
       }
     ],
     "type": "adj",
@@ -111957,6 +111983,10 @@
 		  {
             "sentence": "Тучаным ты1ухьагъ зыгорэ '''къы1этыхынэу'''",
             "translation": "We went to the shop '''to take''' something."
+          },
+		  {
+            "sentence": "К1алэм '''къэт1ихыгъэр''' пк1энчъ",
+            "translation": "'''What''' the boy '''took from us''' is worthless."
           }
         ]
       }
