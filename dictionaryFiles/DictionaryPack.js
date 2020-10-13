@@ -16208,6 +16208,10 @@
 		  {
             "sentence": "Бзылъфыгъэм шъхьангъупчъэр '''елъэк1ы''' хъэдэнк1э",
             "translation": "The woman '''wipes''' the window with a rag."
+          },
+		  {
+            "sentence": "Хъэдэн къабзэк1э шхончыр л1ым '''ылъэк1ыгъ'''",
+            "translation": "The man '''wiped''' the rifle with a clean rag."
           }
         ]
       },
@@ -24229,23 +24233,6 @@
     ],
     "type": "noun",
     "ipa": "baqʷaʁw"
-  },
-  {
-    "word": "бэкъон",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to stride, to step (move on the feet)",
-        "examples": [
-          {
-            "sentence": "Псы лъэбанэмэ занэск1э, '''бэкъон''' фае хъущтыгъэ",
-            "translation": "When he reached puddles, he used to have to '''stride'''."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "baqʷan"
   },
   {
     "word": "бэкъу",
@@ -67907,7 +67894,7 @@
             "translation": "The hunter bought '''gunpowder'''."
           },
 		  {
-            "sentence": "Шак1ом гыныр шхончым ритакъуи, шхончыр ыузэндыгъ",
+            "sentence": "Шак1ом гыныр шхончым ритакъуи, ыузэндыгъ",
             "translation": "The hunter put '''gunpowder''' into the rifle and loaded it."
           }
         ]
@@ -68116,7 +68103,7 @@
         "examples": [
           {
             "sentence": "'''Хъэдэн''' къабзэк1э шхончыр л1ым ылъэк1ыгъ",
-            "translation": "The man cleaned the rifle with a clean '''rag'''."
+            "translation": "The man wiped the rifle with a clean '''rag'''."
           },
 		  {
             "sentence": "К1алэм '''хъэдэнк1э''' джэхашъор елъэк1ы",
@@ -75900,7 +75887,7 @@
             "translation": "The man '''pointed''' the arrow to the apple."
           },
           {
-            "sentence": "Шхончыр псэушъхьэм '''фэгъэпсын''' ",
+            "sentence": "Шхончыр псэушъхьэм '''фэгъэпсын'''",
             "translation": "'''To aim''' the rifle on the animal."
           }
         ]
@@ -77971,6 +77958,19 @@
           {
             "sentence": "К1алэм ик1ыхьагъэр метерым '''шъхьапырык1ы'''",
             "translation": "The boy's height '''exceeds''' a meter."
+          }
+        ]
+      },
+	  {
+        "meaning": "to overstep",
+        "examples": [
+          {
+            "sentence": "К1алэм шъофым ит чъыгыхэмэ '''ашъхьапырык1ыгъ'''",
+            "translation": "The boy '''oversteped''' the trees in the field."
+          },
+		  {
+            "sentence": "Къухьэлъатэр хым '''шъхьапырык1ыгъ'''",
+            "translation": "The airplane '''oversteped''' the sea."
           }
         ]
       }
@@ -104296,7 +104296,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "wattle fence",
+        "meaning": "fence (more specifically: wattle fence)",
         "examples": [
           {
             "sentence": "Л1ым ихап1э '''чэук1э''' къыш1ыхьагъ",
@@ -104305,6 +104305,10 @@
           {
             "sentence": "'''Чэу''' нэзым дэжь щылъ",
             "translation": "It lies next to the edge of the [wattle] '''fence'''."
+          },
+          {
+            "sentence": "'''Чэум''' к1алэр ебэкъугъ",
+            "translation": "The boy overstepped '''the fence'''."
           }
         ]
       }
@@ -105608,16 +105612,36 @@
     "ipa": "qaʁazaʁʷ"
   },
   {
+    "word": "унапхъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "material for building a house",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "wənaːpχ"
+  },
+  {
+    "word": "унап1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "homestead",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "wənaːpʼa"
+  },
+  {
     "word": "пк1э",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "value; worth",
         "examples": [
-          {
-            "sentence": "К1алэм ащ '''пк1э''' фэш1ыгъэн фае",
-            "translation": "The boy must [give] '''value''' to it."
-          },
           {
             "sentence": "'''Ыпк1э''' ритыгъ",
             "translation": "To give its '''worth'''."
@@ -105634,6 +105658,10 @@
           {
             "sentence": "Ащ '''пк1э''' и1эп, къик1ын щы1эп",
             "translation": "It has no '''meaning''', it will not produce anything."
+          },
+		  {
+            "sentence": "К1алэм ащ '''пк1э''' фиш1ыгъ",
+            "translation": "The boy gave '''importance''' to it."
           }
         ]
       }
@@ -105652,12 +105680,24 @@
         "meaning": "in vain",
         "examples": [
           {
-            "sentence": "КIуагъэми '''хьаулый'''",
-            "translation": "Even if he went, it '''is in vain'''."
+            "sentence": "Ц1ыфым нахь къинэу лажьэми, '''хьаулый'''",
+            "translation": "Even if the person works hard, it '''is in vain'''."
           },
           {
             "sentence": "'''Хьаулыеу''' къин зэригъэлъэгъужьыгъ",
             "translation": "He made himself see hardship '''in vain'''."
+          },
+		  {
+            "sentence": "К1алэм уелъэ1угъэми, '''хьаулый'''",
+            "translation": "Even if you beg the boy, it '''is in vain'''."
+          },
+		  {
+            "sentence": "'''Хьаулыеу''' бэрэ еджэн",
+            "translation": "To study a lot '''in vain'''."
+          },
+		  {
+            "sentence": "К1уагъэми, '''хьаулый'''",
+            "translation": "Even if he went, it '''is in vain'''."
           },
           {
             "sentence": "Сыд хэп1ухьэми '''хьаулый'''",
@@ -105678,43 +105718,128 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "shotgun, musket, rifle",
-        "examples": []
+        "meaning": "musket, rifle",
+        "examples": [
+          {
+            "sentence": "Дзак1ом '''шхончыр''' ыузэндыгъ",
+            "translation": "The soldier loaded '''the rifle'''."
+          },
+		  ,
+          {
+            "sentence": "'''Шхончыр''' псэушъхьэм фэгъэпсын",
+            "translation": "To aim '''the rifle''' on the animal."
+          },
+		  {
+            "sentence": "Хъэдэн къабзэк1э '''шхончыр''' л1ым ылъэк1ыгъ",
+            "translation": "The man wiped '''the rifle''' with a clean rag."
+          },
+		  {
+            "sentence": "Шак1ом гыныр '''шхончым''' ритакъуи, ыузэндыгъ",
+            "translation": "The hunter put gunpowder into '''the rifle''' and loaded it."
+          }
+        ]
       }
     ],
-    "synonyms": [
-      "шхонкь (Shapsug)"
-    ],
+    "shapsug": "шхонкь",
     "type": "noun",
     "ipa": "ʃxʷant͡ʃ"
   },
   {
-    "word": "шхонкь",
+    "word": "охъун",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"шхонч\"",
-        "examples": []
+        "meaning": "to miss (one's aim), to miss the mark, to fail to hit, to miscue",
+        "examples": [
+		  {
+            "sentence": "Шхончау дэгъур '''охъурэп'''",
+            "translation": "A good rifleman '''does not miss'''."
+          }
+        ]
       }
     ],
-    "type": "noun",
-    "ipa": "ʃxʷankʲ"
+    "type": "verb",
+    "ipa": "waχʷən"
   },
   {
     "word": "шхончау",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "shooter",
-        "examples": []
-      },
-      {
-        "meaning": "rifleman",
-        "examples": []
+        "meaning": "shooter; rifleman; gunner",
+        "examples": [
+          {
+            "sentence": "'''Шхончау''' дэгъур зыфигъэпсырэм блэурэп",
+            "translation": "A good '''rifleman''' does not miss the one (s)he aims at."
+          },
+		  {
+            "sentence": "'''Шхончау''' дэгъур охъурэп",
+            "translation": "A good '''rifleman''' does not miss."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "ʃxʷant͡ʃaːw"
+  },
+  {
+    "word": "бэкъон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to stride, to step (move on the feet)",
+        "examples": [
+          {
+            "sentence": "Псы лъэбанэмэ занэск1э, '''бэкъон''' фае хъущтыгъэ",
+            "translation": "When he reached puddles, he used to have to '''stride'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "baqʷan"
+  },
+  {
+    "word": "ебэкъон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to step over something, to step across something, to step past something",
+        "examples": [
+          {
+            "sentence": "Чэум к1алэр '''ебэкъугъ'''",
+            "translation": "The boy '''overstepped''' the fence."
+          },
+		  {
+            "sentence": "К1алэр псыхъом '''ебэкъон''' ы1уагъ",
+            "translation": "The boy tried '''to step over''' the river."
+          },
+		  {
+            "sentence": "К1алэр пчъэшъхьа1ум '''ебакъуи''', унэм ихьагъ",
+            "translation": "The boy '''stepped over''' the threshold '''and''' went inside the house."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "jabaqʷan"
+  },
+  {
+    "word": "елъэбэкъон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to step (over)",
+        "examples": [
+          {
+            "sentence": "К1алэр пчъэшъхьа1ум '''елъэбэкъугъ'''",
+            "translation": "The boy '''stepped over''' the threshold."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "jabaqʷan"
   },
   {
     "word": "пчъэшъхьа1у",
@@ -105722,7 +105847,16 @@
     "definitions": [
       {
         "meaning": "threshold, doorstep",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''пчъэшъхьа1ум''' елъэбэкъугъ",
+            "translation": "The boy stepped over '''the threshold'''."
+          },
+		  {
+            "sentence": "Л1ыр '''пчъэшъхьа1ум''' тес",
+            "translation": "The man sits on '''the threshold'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -105899,7 +106033,13 @@
     "definitions": [
       {
         "meaning": "airplane",
-        "examples": []
+        "examples": [
+          ,
+		  {
+            "sentence": "'''Къухьэлъатэр''' хым шъхьапырык1ыгъ",
+            "translation": "'''The airplane''' oversteped the sea."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -118914,6 +119054,14 @@
           {
             "sentence": "Дзак1ом к1эрахъор '''еузэнды'''",
             "translation": "The soldier '''loads''' the gun."
+          },
+		  {
+            "sentence": "Дзак1ом шхончыр '''ыузэндыгъ'''",
+            "translation": "The soldier '''loaded''' the rifle."
+          },
+		  {
+            "sentence": "Шак1ом гыныр шхончым ритакъуи, '''ыузэндыгъ'''",
+            "translation": "The hunter put gunpowder into the rifle and '''loaded it'''."
           }
         ]
       },

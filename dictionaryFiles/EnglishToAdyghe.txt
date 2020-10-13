@@ -1548,6 +1548,12 @@
     "small pitcher": "гогонжъый"
   },
   {
+    "ditch": "кэнау"
+  },
+  {
+    "trench": "кэнау"
+  },
+  {
     "fence": "ш1ыхьагъэ; дэпкъы (wall); чэу (wattle fence); блэуц (fence out of plant)"
   },
   {
@@ -3408,7 +3414,10 @@
     "to brush": "лъэк1ын (to wash); жьын (to brush hair)"
   },
   {
-    "to wipe off": "лъэк1ын; тегъэстык1ын (to wipe off by fire); тегъэуш1оин (to erase)"
+    "to wipe": "лъэк1ын (to wipe off, to brush); телъэк1ык1ын (to wipe off something from the surface of)"
+  },
+  {
+    "to wipe off": "лъэк1ын; тегъэстык1ын (to wipe off by fire); тегъэуш1оин (to erase); телъэк1ык1ын (to wipe off something from the surface of)"
   },
   {
     "to arrange": "зэпыгъэфэн (to arrange plans/deals/meetings); зэгъэфэн (to put things in place/order); зэ1эхын (to clean up)"
@@ -5011,10 +5020,10 @@
     "to cross": "зэблэдзын (to cross things together); зэпычын / зэпырык1ын (to go across); зэблэчъын (to run across)"
   },
   {
-    "to go across": "зэпычын / зэпырык1ын (to go across); зэблэчъын (to run across)"
+    "to go across": "зэпычын / зэпырык1ын (to go across); зэблэчъын (to run across); ебэкъон / елъэбэкъон (to step over something, to step across something, to step past something)"
   },
   {
-    "to get over": "зэпычын / зэпырык1ын; шъхьадэк1ын (to get over above something)"
+    "to get over": "зэпычын / зэпырык1ын; шъхьадэк1ын (to get over above something); ебэкъон / елъэбэкъон (to step over something, to step across something, to step past something)"
   },
   {
     "to get across": "зэпычын / зэпырык1ын"
@@ -5128,7 +5137,7 @@
     "to fail to hit": "блэун"
   },
   {
-    "to miss": "блэун (to miss a target); к1эхъосын (to long for); шӏок1он (to miss an opportunity)"
+    "to miss": "блэун (to miss a target); к1эхъосын (to long for); шӏок1он (to miss an opportunity); охъун (to miss one's aim, to miss the mark, to fail to hit, to miscue)"
   },
   {
     "hedge": "блэуц"
@@ -5518,7 +5527,16 @@
     "to stride": "бэкъон"
   },
   {
-    "to step": "бэкъон"
+    "to step": "теуцон (to step on); хэуцон (to step on liquid or gas); иуцон (to step inside)"
+  },
+  {
+    "to step over": "ебэкъон / елъэбэкъон (to step over something, to step across something, to step past something)"
+  },
+  {
+    "to step across": "ебэкъон / елъэбэкъон (to step over something, to step across something, to step past something)"
+  },
+  {
+    "to overstep": "шъхьэпырык1ын"
   },
   {
     "step": "лъэбэкъу; хьалъэбэкъу (dog step); теуцогъу (duration of a step)"
@@ -13258,6 +13276,9 @@
     "farmstead": "хап1э; къутыр"
   },
   {
+    "homestead": "хап1э"
+  },
+  {
     "khutor": "къутыр"
   },
   {
@@ -17281,10 +17302,7 @@
     "meaningfulness": "пк1э"
   },
   {
-    "in vain": "хьаулый; пк1э зимы1э"
-  },
-  {
-    "shotgun": "шхонч"
+    "in vain": "хьаулый; пк1э зимы1э; хьаулыеу; пк1энчъэу"
   },
   {
     "rifle": "шхонч; к1эрахъо"
@@ -17294,6 +17312,9 @@
   },
   {
     "musket": "шхонч"
+  },
+  {
+    "gunner": "шхончау"
   },
   {
     "shooter": "шхончау"
