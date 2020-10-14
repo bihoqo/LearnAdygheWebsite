@@ -8764,25 +8764,28 @@
     "too early": "жьыщэ"
   },
   {
-    "bent": "1онт1агъ"
-  },
-  {
-    "to bend": "щын; гъэщын (to bend something); уфэн"
-  },
-  {
     "to distort": "гъэ1онт1эн; уфэн; 1онт1агъэ ш1ын; тэрэзыджэу къэгъэлъэгъон"
   },
   {
-    "to crook": "1онт1эн (to be crooked); гъэ1онт1эн (to crook something); гъэ1орт1эн (Shapsug); гъэщын"
+    "to twist": "щын (to be twisted); гъэщын (to twist something); гъэ1онт1эн (to bend, to curve, to crook)"
   },
   {
-    "to curve": "1онт1эн (to be curved); гъэ1онт1эн (to curve something); гъэ1орт1эн (Shapsug); гъэщын"
+    "bent": "1онт1агъ"
   },
   {
-    "crooked": "1онт1агъ; 1орт1агъ (Shapsug); къуащэ; лъэныкъуащ; гъэщыгъ; лъэныкъуащ; тазэ, к1элъэныкъуащ"
+    "to bend": "гъэ1онт1эн (to bend, to curve); уфэн; зыуфэн (to bend onself)"
   },
   {
-    "curved": "1онт1агъ; 1орт1агъ (Shapsug); къуащэ; гъэщыгъ"
+    "to crook": "1онт1эн (to be crooked); гъэ1онт1эн (to crook something); гъэ1орт1эн (Shapsug)"
+  },
+  {
+    "to curve": "1онт1эн (to be curved); гъэ1онт1эн (to curve something); гъэ1орт1эн (Shapsug)"
+  },
+  {
+    "crooked": "1онт1агъ; 1орт1агъ (Shapsug); къуащэ; лъэныкъуащ; лъэныкъуащ; тазэ, к1элъэныкъуащ"
+  },
+  {
+    "curved": "1онт1агъ; 1орт1агъ (Shapsug); къуащэ"
   },
   {
     "foolish": "делэ; жэ1улэл; (vulgar) цуманэ"
@@ -14863,7 +14866,7 @@
     "wrongly": "къуанчэу; 1онт1агъэу; 1орт1агъэу (Shapsug); мытэрэзэу; хэукъоныгъэу; пхэнджэу"
   },
   {
-    "twisted": "1онт1агъ"
+    "twisted": "гъэщыгъ; 1онт1агъ"
   },
   {
     "lumberman": "мэзтеупк1; мэзупк1"
@@ -15050,9 +15053,6 @@
   },
   {
     "to perceive": "хилъэгъон"
-  },
-  {
-    "to twist": "гъэ1онт1эн (to bend, to curve)"
   },
   {
     "extra": "лые (spare, something beyond what is due, usual, expected, or necessary)"

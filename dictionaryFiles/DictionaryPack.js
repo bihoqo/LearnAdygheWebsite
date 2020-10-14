@@ -23561,11 +23561,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be bended; to be curved; to be crooked",
+        "meaning": "to be twisted",
         "examples": [
           {
             "sentence": "Гъуч1ыр '''щыгъэ'''",
-            "translation": "The iron '''was crooked'''."
+            "translation": "The iron '''was twisted'''."
           }
         ]
       }
@@ -23590,11 +23590,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to bend; to curve; to crook",
+        "meaning": "to twist",
          "examples": [
           {
             "sentence": "Гъуч1ыр л1ым '''ыгъэщыгъ'''",
-            "translation": "The man '''crooked''' the iron."
+            "translation": "The man '''twisted''' the iron."
+          },
+		  {
+            "sentence": "С1э '''огъэщы'''",
+            "translation": "'''You are twisting''' my arm."
           }
         ]
       }
@@ -63829,7 +63833,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to bend down; to bow",
+        "meaning": "to bend down; to bow; to bend oneself",
         "examples": [
           {
             "sentence": "Ащ '''зиуфи''' тхылъып1эр къыштагъ",
