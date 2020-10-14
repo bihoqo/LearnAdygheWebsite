@@ -1179,7 +1179,7 @@
     "arch": "лъэмыдж"
   },
   {
-    "kin": "лъэпкъ"
+    "kin": "лъэпкъ; л1эужыгъу"
   },
   {
     "ethnicity": "лъэпкъ"
@@ -2742,13 +2742,19 @@
     "mat": "арджан"
   },
   {
-    "bummer": "армэу"
+    "bummer": "армэу; ерыуадж; фэмыф; шъхьахын (to be lazy)"
   },
   {
-    "loafer": "армэу"
+    "loafer": "армэу; ерыуадж; фэмыф; шъхьахын (to be lazy); мыпсэу-мылажь"
   },
   {
-    "lazy": "армэу; ерыуадж; шъхьахын (to be lazy)"
+    "lazy": "армэу; ерыуадж; фэмыф; шъхьахын (to be lazy)"
+  },
+  {
+    "idler": "армэу; ерыуадж; фэмыф; шъхьахын (to be lazy); мыпсэу-мылажь"
+  },
+  {
+    "lazybones": "армэу; ерыуадж; фэмыф; шъхьахын (to be lazy); мыпсэу-мылажь"
   },
   {
     "laziness": "шъхьахыныр; армэугъ"
@@ -3102,9 +3108,6 @@
     "kerchief": "платыку, шъхьэтехъу"
   },
   {
-    "shoelaces": "лъапсэ"
-  },
-  {
     "oh": "шъыпкъэ (an expression of suddenly finding a new idea or solution or question)"
   },
   {
@@ -3274,6 +3277,9 @@
   },
   {
     "mountain base": "бгыч1э"
+  },
+  {
+    "mountain chain": "къушъхьэтх"
   },
   {
     "mountainside": "бгычап"
@@ -3585,7 +3591,7 @@
     "blot": "бжьыгъэ"
   },
   {
-    "spot": "бжьыгъэ"
+    "spot": "ч1ып1э (spot, position); бжьыгъэ"
   },
   {
     "stain": "бжьыгъэ"
@@ -4870,7 +4876,7 @@
     "to snap": "зэпык1ын; зэш1ок1ын"
   },
   {
-    "to tear off": "тетхъын (to tear off from above something); хэтхъын / пытхъын (to tear off from); зэпытхъын (to tear off from itself); ч1этхъын (to tear off from under something); пыутын (to break off a part from; to rip off a part from; to tear off a part from)"
+    "to tear off": "тетхъын (to tear off from above something); хэтхъын / пытхъын (to tear off from); зэпытхъын (to tear off from itself); ч1этхъын (to tear off from under something); пыутын (to break off due to a strong impact)"
   },
   {
     "to tear apart": "зэхэтхъын; цунтхъэн"
@@ -4882,7 +4888,7 @@
     "rake": "пхъэ1эбжъан (garden tool)"
   },
   {
-    "to break": "зэпык1ын (to snap); убэтэн (to destroy); къутэн (to destroy); зэхэутын (to break down from inside); зэхэк1ын (to break and collapse); хэутын (to break a part of something); теутын (to break a part from above something); ч1эутын (to break a part from under something); гъэсэкъатын (to make something dysfunctional); зэш1ок1ын (to break something); 1утэкъун (to break off); пыутын (to break off a part from; to rip off a part from; to tear off a part from); зэпыутын (to break off from itself); ш1оубэтэн (to destroy/break someone's property); укъон (to change money for lesser units); сэкъатын / зэ1ыхьан / зэщыкъон (to become dysfunctional (device, machine, etc))"
+    "to break": "зэпык1ын (to snap); убэтэн (to destroy); къутэн (to destroy); зэхэутын (to break down from inside); зэхэк1ын (to break and collapse); хэутын (to break a part of something); теутын (to break a part from above something); ч1эутын (to break a part from under something); гъэсэкъатын (to make something dysfunctional); зэш1ок1ын (to break something); 1утэкъун (to break off); пыутын (to break off due to a strong impact); зэпыутын (to break off from itself); ш1оубэтэн (to destroy/break someone's property); укъон (to change money for lesser units); сэкъатын / зэ1ыхьан / зэщыкъон (to become dysfunctional (device, machine, etc))"
   },
   {
     "to run over": "иутын; тепк1эн"
@@ -5605,7 +5611,7 @@
     "gold-prospector": "дышъэлъыхъу"
   },
   {
-    "to struggle": "бэнэн; ебэнын (to struggle with somehting); щэ1эн (to endure, to bear); фэщэ1эн (to manage to endure/bear something)"
+    "to struggle": "бэнэн; ебэнын (to struggle with something); щэ1эн (to endure, to bear); фэщэ1эн (to manage to endure/bear something)"
   },
   {
     "to kiss": "бэон; ебэун; узэбэун (to kiss each other)"
@@ -5696,6 +5702,12 @@
   },
   {
     "knob": "къопс; 1эубытып1э; шъхьакъутым (on the end of a cane or stick)"
+  },
+  {
+    "excuse": "шъхьаусыгъу; ушъхьагъу"
+  },
+  {
+    "reason": "шъхьаусыгъу; ушъхьагъу"
   },
   {
     "stick maker": "бэщыш1"
@@ -5837,6 +5849,9 @@
   },
   {
     "region": "шъолъыр"
+  },
+  {
+    "strip": "шъолъыр"
   },
   {
     "surrounding": "1энэгъунэ"
@@ -8914,7 +8929,7 @@
     "bystander": "шыхьат (eye-witness)"
   },
   {
-    "idler": "жэукъ"
+    "yawn": "жэукъ"
   },
   {
     "gaper": "жэукъ"
@@ -9403,10 +9418,10 @@
     "to put down": "гъэт1ылъын; ч1ыгум телъхьан"
   },
   {
-    "to put": "гъэт1ылъын (to put down); илъхьан (to put inside); телъхьан (to put on); ч1элъхьан (to put under); 1улъхьан (to put near); къолъхьан (to put behind); пылъхьан (to hang, to attach); голъхьан / бгъодэлъхьан (to put besides); дэлъхьан (to put between or to put inside another object); хэлъхьан (to put something in an area with gas or liquid, to put something among other people/objects, to put a certain manner, behavior or attribute in someone, to put something through something); к1оц1ылъхьан (to put something within something); гъэуцун (to put something somewhere); тегъэуцун (to put on); дэгъэуцон (to put between); 1угъэуцон (to put something near); зэтелъхьан (to put on each other); к1элъырыгъэуцон (to put something next to); жэхэлъхьан (to intensively put something against something); зэк1элъхьан (to put stuff under each other); зэкъолъхьан (to put stuff behind each other); зэдэлъхьан (to put stuff in each other); зэрилъхьан (to put stuff inside each other); зэголъхьан / зэбгъодэлъхьан (to put stuff aside each other); зэпылъхьан (to attach stuff to each other); итэкъон (to put/throw stuff inside something); тетэкъон (to put/throw stuff on something); ч1этэкъон (to put/throw stuff under something); дэтэкъон (to put/throw stuff inside another object, to put/throw stuff between); къотэкъон (to put/throw stuff behind something); хэтэкъон (to put/throw stuff among other objects/people, to throw/put stuff in an area with fire, gas or liquid); готэкъон / бгъодэтэкъон (to put/throw stuff besides something); жэхэтэкъон (to put/throw stuff against something); 1оф хэдзэн (to put/throw someone in a troublesome situation); къегъэт1ылъэк1ын (to put around); телъхьажьын (to put the blame on)"
+    "to put": "гъэт1ылъын (to put down); илъхьан (to put inside); телъхьан (to put on); ч1элъхьан (to put under); 1улъхьан (to put near); къолъхьан (to put behind); пылъхьан (to hang, to attach); голъхьан / бгъодэлъхьан (to put besides); дэлъхьан (to put between or to put inside another object); хэлъхьан (to put something in an area with gas or liquid, to put something among other people/objects, to put a certain manner, behavior or attribute in someone, to put something through something); к1оц1ылъхьан (to put something within something); гъэуцун (to put something somewhere); тегъэуцун (to put on); дэгъэуцон (to put between); 1угъэуцон (to put something near); зэтелъхьан (to put on each other); к1элъырыгъэуцон (to put something next to); жэхэлъхьан (to intensively put something against something); зэк1элъхьан (to put stuff under each other); зэкъолъхьан (to put stuff behind each other); зэдэлъхьан (to put stuff in each other); зэрилъхьан (to put stuff inside each other); зэголъхьан / зэбгъодэлъхьан (to put stuff aside each other); зэпылъхьан (to attach stuff to each other); итэкъон (to put/throw stuff inside something); тетэкъон (to put/throw stuff on something); ч1этэкъон (to put/throw stuff under something); дэтэкъон (to put/throw stuff inside another object, to put/throw stuff between); къотэкъон (to put/throw stuff behind something); хэтэкъон (to put/throw stuff among other objects/people, to throw/put stuff in an area with fire, gas or liquid); готэкъон / бгъодэтэкъон (to put/throw stuff besides something); жэхэтэкъон (to put/throw stuff against something); 1оф хэдзэн (to put/throw someone in a troublesome situation); къегъэт1ылъэк1ын (to put around); телъхьажьын (to put the blame on); егъэуцол1эн (to put something next to)"
   },
   {
-    "to place": "илъхьан (to place inside); телъхьан (to place on); ч1элъхьан (to place under); гъэуцун (to place); тегъэуцун (to place on); дэгъэуцон (to place between); зэтелъхьан (to place on each other)"
+    "to place": "илъхьан (to place inside); телъхьан (to place on); ч1элъхьан (to place under); гъэуцун (to place); тегъэуцун (to place on); дэгъэуцон (to place between); зэтелъхьан (to place on each other); к1элъырыгъэуцон (to place next to)"
   },
   {
     "to agree with": "дэщтэн"
@@ -10780,7 +10795,7 @@
     "to carry out": "гъэцэк1эн"
   },
   {
-    "to manage": "гъэзек1он (to manage something or someone); лъэк1ын / фэлъэк1ын (to manage to do, to be able to do); зэпыгъэфэн (to arrange); гъэ1орыш1эн"
+    "to manage": "е1эзэн (to handle something, to deal with, to manage something); гъэзек1он (to manage something or someone); лъэк1ын / фэлъэк1ын (to manage to do, to be able to do); зэпыгъэфэн (to arrange); гъэ1орыш1эн"
   },
   {
     "to administrate": "гъэзек1он"
@@ -11839,7 +11854,7 @@
     "doubt": "джэнджэш; щэч"
   },
   {
-    "to doubt": "еджэнджэшын; упч1эжьын; ехъырэхъышэн"
+    "to doubt": "еджэнджэшын; ехъырэхъышэн; ечэнджэшын"
   },
   {
     "fireplace": "джэныкъохьаку"
@@ -12112,7 +12127,10 @@
     "to drive over": "иутын; тепк1эн"
   },
   {
-    "race": "зэпачъэ; зэфачъэ (Shapsug); лъэпкъ (ethnic group)"
+    "race": "зэпачъэ; зэфачъэ (Shapsug); лъэпкъ (ethnic group); л1эужыгъу (type, kind, kin, species)"
+  },
+  {
+    "species": "лъэпкъ; л1акъу; л1эужыгъо"
   },
   {
     "to get away": "1ук1ын; ш1ок1ын (to successfully get away from, to evade)"
@@ -12197,9 +12215,6 @@
   },
   {
     "to be a member of": "щыщэн"
-  },
-  {
-    "to be disgusted": "мэхъэшэн"
   },
   {
     "to disgust": "мэхъэшэн; гъэмэхъэшэн (to disgust someone)"
@@ -14152,7 +14167,10 @@
     "to treat": "е1эзэн (to treat medically); дэзек1он (to treat someone with a certian behavior)"
   },
   {
-    "to deal with": "дэзек1он (to deal with someone with a certian behavior); езэгъын (to deal okayly with)"
+    "to handle": "е1эзэн (to handle something, to deal with, to manage something); пылэжьыхьан (to work on something)"
+  },
+  {
+    "to deal with": "е1эзэн (to handle something, to deal with, to manage something); эзек1он (to deal with someone with a certian behavior); езэгъын (to handle something, to deal okayly with, to cope with); зэгъэн (to be coping); хэзэгъэн (to cope in a group or a specific environemnt); изэгъэн (to cope inside something)"
   },
   {
     "to act like": "зек1он"
@@ -14558,6 +14576,9 @@
   },
   {
     "to stuff": "дэкон / дэкоцэн (to stuff into something, to stuff in between); хэкон / хэкоцэн (to stuff through something); икон / икоцэн (to stuff inside something); ч1экон / ч1экоцэн (to stuff under something); текон / текоцэн (to stuff above something)"
+  },
+  {
+    "to ram": "дэгъэзыхьан (to forcefully ram something in between, to forcefully ram something inside another object); игъэзыхьан (to forcefully ram inside); чӏэгъэзыхьан (to forcefully ram under something); хэгъэзыхьан (to forcefully ram through); къогъэзыхьан (to forcefully ram behind)"
   },
   {
     "when": "сыдигъо; (dialectal) тэщгъум; (dialectal) шъыдигъо / шъыдгъо; зэхъум (when it happened); зыхъурэм / зыхъук1э (when it happens)"
@@ -15493,7 +15514,7 @@
     "young boy": "к1элэц1ык1у; шъэожъые (rare); к1элэхъуц1ык1у"
   },
   {
-    "misfortune": "насып 1ай; бэлахь; тхьамык1агъу"
+    "misfortune": "насып 1ай; бэлахь; тхьамык1агъу; фэмыгъо (misfortune for)"
   },
   {
     "misfortune time": "тхьамык1агъу; игъуадж"
@@ -16394,6 +16415,9 @@
   },
   {
     "to calm": "быяун / самбырын (to calm down); гъэбыяун / гъэсамбырын / гъэрэхьатын (to calm someone, to ease someone); зэгъэн (to settle down due to calmness)"
+  },
+  {
+    "to cope": "зэгъэн; езэгъын (to deal okayly with, to deal effectively, to cope with); хэзэгъэн (to cope in a group or a specific environemnt); ; изэгъэн (to cope inside something)"
   },
   {
     "to tame": "гъэсэн; гъэ1эсэн"
@@ -17356,6 +17380,9 @@
     "backbone": "тхыкъупшъхь"
   },
   {
+    "spine": "тхыкъупшъхь"
+  },
+  {
     "spinal column": "тхыкъупшъхь"
   },
   {
@@ -17392,16 +17419,19 @@
     "to be fastidious": "мэхъэшэн; щымэхъэшэн (to be fastidious about)"
   },
   {
-    "to be squeamish": "мэхъэшэн; щымэхъэшэн  (to be squeamish about)"
+    "to be squeamish": "мэхъэшэн; щымэхъэшэн (to be squeamish about)"
   },
   {
-    "to agitated": "олъэн"
+    "to be disgusted": "мэхъэшэн; щымэхъэшэн (to be disgusted of)"
   },
   {
     "to hesitate": "ехъырэхъышэн (to hesitate of); еджэнджэшын"
   },
   {
     "to consult": "еджэнджэшын; зэхэупч1ыхьажьын"
+  },
+  {
+    "drought": "огъу"
   },
   {
     "fellow-villager": "чылэгъу; къоджэгъу"
@@ -17422,19 +17452,16 @@
     "to lazy": "шъхьахын"
   },
   {
-    "idler": "ерыуадж"
-  },
-  {
-    "loafer": "ерыуадж"
-  },
-  {
-    "lazybones": "ерыуадж"
-  },
-  {
     "thorn": "панэ; (dialectal) къэцы"
   },
   {
-    "shoelace": "лъэпс"
+    "shoelace": "лъапсэ; лъэпс"
+  },
+  {
+    "shoelaces": "лъапсэ; лъэпс"
+  },
+  {
+    "lace": "лъапсэ; лъэпс"
   },
   {
     "debris": "хэк1ы"
@@ -18322,7 +18349,7 @@
     "post": "1энат1э"
   },
   {
-    "position": "ч1ып1э; щытып1э"
+    "position": "ч1ып1э (spot, position); щытып1э"
   },
   {
     "job": "1офы; 1энат1э (post)"
@@ -18793,7 +18820,7 @@
     "special": "пстэуми афэмыдэ"
   },
   {
-    "to detach": "пык1ын (to be detached); пыхын (to detach)"
+    "to detach": "пык1ын (to be detached); пыхын (to detach); гохын; пыутын (to break off due to a strong impact); пыгъэун"
   },
   {
     "detached": "пстэуми афэмыдэ"

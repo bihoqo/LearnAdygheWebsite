@@ -6023,16 +6023,8 @@
     "word": "л1эужыгъу",
     "lang": "Adyghe",
     "definitions": [
-      {
-        "meaning": "kind",
-        "examples": []
-      },
 	  {
-        "meaning": "origin",
-        "examples": []
-      },
-      {
-        "meaning": "race (a group of sentient beings, particularly people, distinguished by common ancestry, heritage or characteristics)",
+        "meaning": "alternative form of \"л1эужыгъо\"",
         "examples": []
       }
     ],
@@ -8436,6 +8428,14 @@
           {
             "sentence": "Снэмэ ерагъэу '''алъэгъу''', стхьак1умэмэ ерагъэу а1у",
             "translation": "My eyes hardly '''see''', my ears hadly hear."
+          },
+          {
+            "sentence": "К1алэр пшъашъэм дак1оу '''слъэгъугъ'''",
+            "translation": "'''I saw''' the boy going with the girl."
+          },
+          {
+            "sentence": "К1алэр пшъашъэм дэк1уагъэу '''слъэгъугъ'''",
+            "translation": "'''I saw''' that the boy went with the girl."
           }
         ]
       }
@@ -13443,6 +13443,31 @@
 	  {
         "meaning": "area",
         "examples": []
+      },
+	  {
+        "meaning": "spot; position",
+        "examples": [
+          {
+            "sentence": "К1алэр '''ч1ып1э''' дэгъу зитыр",
+            "translation": "The boy is in a good '''position'''."
+          },
+		  {
+            "sentence": "К1алэр '''сич1ып1э''' 1ут",
+            "translation": "The boy is in '''my spot'''."
+          },
+		  {
+            "sentence": "'''Шъуич1ып1эхэмэ''' шъуариуцожь",
+            "translation": "Go back to '''your positions'''."
+          },
+		  {
+            "sentence": "К1алэм '''ич1ып1э''' ситынэу сыфэещтыгъэп",
+            "translation": "I wouldn't want to be in the boy's '''position'''."
+          },
+		  {
+            "sentence": "Пшъашъэр '''ч1ып1э''' къин ит",
+            "translation": "The girl is in a tough '''position'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -14454,10 +14479,6 @@
       },
       {
         "meaning": "root (plant's root)",
-        "examples": []
-      },
-      {
-        "meaning": "shoelaces",
         "examples": []
       }
     ],
@@ -18293,6 +18314,10 @@
 		  {
             "sentence": "Кумэ уагуахьэу зыхъурэм, '''япчъэхэмэ''' уамыблагъ зыгорэм къик1ымэ емыутынэу",
             "translation": "When you go besides the cars, don't get close to '''their doors''' so you won't ran over someone if he gets out."
+          },
+		  {
+            "sentence": "'''Пчъэ''' 1эубытып1эм е1и, '''пчъэр''' къы1уихыгъ",
+            "translation": "Push the knob '''door''', and open the '''door'''."
           }
         ]
       }
@@ -20122,11 +20147,23 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to fit in a group or a specific environemnt",
+        "meaning": "to cope in a group or a specific environemnt",
         "examples": []
       },
       {
-        "meaning": "to get along with the people of a group or environemnt",
+        "meaning": "to get along with the people of a group or environemnt; to fit in a gound or a specific environemnt",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "xazaʁan"
+  },
+  {
+    "word": "изэгъэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to cope inside something",
         "examples": []
       }
     ],
@@ -28968,31 +29005,6 @@
     "ipa": "pəta"
   },
   {
-    "word": "панэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "thorn",
-        "examples": [
-          {
-            "sentence": "К1алэм ыкуашъо '''панэм''' ритхъыгъ",
-            "translation": "'''The thorn''' torn the boy's thigh skin."
-          },
-		  {
-            "sentence": "'''Панэхэмэ''' сахахьэм, сыкуашъо ау1агъ",
-            "translation": "When I entered the field of '''thorns''', they wounded my thigh skin."
-          }
-        ]
-      }
-    ],
-    "synonyms": [
-      "къэцы"
-    ],
-    "kabardian": "банэ",
-    "type": "noun",
-    "ipa": "paːna"
-  },
-  {
     "word": "гъунджэ",
     "lang": "Adyghe",
     "definitions": [
@@ -30908,10 +30920,13 @@
       {
         "meaning": "chair",
         "examples": [
-          ,
 		  {
             "sentence": "'''Пхъэнт1эк1ухэр''' лъыгъэк1уатэхи зэгъафэх",
             "translation": "Move '''the chairs''' and sort them."
+          },
+		  {
+            "sentence": "К1алэм '''пхъэнт1эк1ухэр''' 1анэм к1элъирыгъэуцуагъэх",
+            "translation": "The boy placed '''the chairs''' next to the table."
           }
         ]
       }
@@ -32604,7 +32619,7 @@
             "translation": "'''Tie''' with a rope."
           },
           {
-            "sentence": "К1алэм ицуакъэ лъапсэхэр '''епхых'''",
+            "sentence": "К1алэм ицуакъэ лъэпсэхэр '''епхых'''",
             "translation": "The boy '''is tying''' his shoelaces."
           },
           {
@@ -32614,6 +32629,10 @@
           {
             "sentence": "К1алэм хьэр '''ыпхыгъ'''",
             "translation": "The boy '''tied''' the dog."
+          },
+		  {
+            "sentence": "Уицокъэ лъэпсыхэр къэлэнлагъэх, '''пхыжьых'''",
+            "translation": "Your shoe laces loosened, '''tie them up again'''."
           }
         ]
       }
@@ -34177,7 +34196,12 @@
     "definitions": [
       {
         "meaning": "land",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Огъум '''ч1ыгур''' ыгъэгъугъэ",
+            "translation": "The drought dried '''the land'''."
+          }
+        ]
       },
       {
         "meaning": "earth",
@@ -34209,8 +34233,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "strip of skin",
-        "examples": []
+        "meaning": "strip",
+        "examples": [
+          {
+            "sentence": "Тихэгъэгу огъум ебэны, мэз '''шъолъырхэр''' егъэгъух",
+            "translation": "Our country is struggling against the drought, it dries forest '''strips'''."
+          }
+        ]
       },
       {
         "meaning": "region",
@@ -41175,6 +41204,14 @@
           {
             "sentence": "Куджанымрэ Нартымрэ зэдак1ох",
             "translation": "Kujan and Nart '''are going together'''."
+          },
+          {
+            "sentence": "К1алэр пшъашъэм '''дак1оу''' слъэгъугъ",
+            "translation": "I saw the boy '''going with''' the girl."
+          },
+          {
+            "sentence": "К1алэр пшъашъэм '''дэк1уагъэу''' сэ слъэгъугъ",
+            "translation": "I saw that the boy '''went with''' the girl."
           }
         ]
       },
@@ -44038,8 +44075,12 @@
             "translation": "Your shoe ties '''are getting loosed'''."
           },
 		  {
-            "sentence": "Уицуакъэ илъапсэхэр '''ланлэх'''",
+            "sentence": "Уицуакъэ илъэпсэхэр '''ланлэх'''",
             "translation": "Your shoelaces '''are loosed'''."
+          },
+		  {
+            "sentence": "Уицокъэ лъэпсыхэр '''къэлэнлагъэх''', пхыжьых",
+            "translation": "Your shoe laces '''loosened''', tie them up again."
           }
         ]
       },
@@ -50159,12 +50200,32 @@
         "meaning": "answer",
         "examples": [
           {
-            "sentence": "Тестымк1э '''джэуап''' тэрэзэр къэшъугъэчъыхь.",
+            "sentence": "Пшъашъэм '''джэуап''' къыситыжьыгъ",
+            "translation": "In girl gave me '''an answer'''."
+          },
+		  {
+            "sentence": "К1алэм '''джэуап''' къыситыжьыгъэп",
+            "translation": "In boy did give gave me '''an answer'''."
+          },
+		  {
+            "sentence": "К1алэм '''джэуап''' пшъашъэм ретыжьы",
+            "translation": "In boy gives '''an answer''' to the girl."
+          },
+		  {
+            "sentence": "Сыд '''джэуапэу''' къыуатыгъэр?",
+            "translation": "What '''answer''' did they gave you?"
+          },
+		  {
+            "sentence": "Тестымк1э '''джэуап''' тэрэзэр къэшъугъэчъыхь",
             "translation": "In the test circle the right '''answer'''."
           },
 		  {
             "sentence": "'''Джэуапэу''' къэптыгъэр мытэрэз",
             "translation": "'''The answer''' you gave is incorrect."
+          },
+		  {
+            "sentence": "'''Джэуап''' къыос1он си1эп",
+            "translation": "I have no '''answer''' to tell you."
           }
         ]
       }
@@ -53029,6 +53090,27 @@
             "translation": "'''Can't you make''' the boy '''relax'''?"
           }
         ]
+      },
+	  {
+        "meaning": "to cope; to deal effectively with things, especially if they are difficult",
+        "examples": [
+          {
+            "sentence": "К1алэр '''мэзагъэ'''",
+            "translation": "The boy '''copes'''."
+          },
+		  {
+            "sentence": "К1алэр к1ымафэм '''хэзагъэ'''",
+            "translation": "The boy '''coping''' in winter."
+          },
+          {
+            "sentence": "К1алэр унэм '''изагъэрэп'''",
+            "translation": "The boy '''doens't cope inside''' the house."
+          },
+          {
+            "sentence": "Мы 1офымк1э '''сызагъэрэп'''",
+            "translation": "'''I am not coping''' in this work."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -53080,9 +53162,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to get along with; to cope with; to deal okayly with; to be fine with; to be okay with; to be pleased with (more specifically: to be sufficed with)",
+        "meaning": "to get along with; to deal effectively with; to deal okayly with; to be fine with; to be okay with; to be pleased with (more specifically: to be sufficed with; to cope with)",
         "examples": [
           {
+            "sentence": "Тхьэматэм '''сезэгъырэп'''",
+            "translation": "'''I am not getting alone with''' the manager."
+          },
+		  {
+            "sentence": "Куджаныр ц1ыфыхэмэ '''азэгъырэп'''",
+            "translation": "Kujan '''cannot cope with''' people."
+          },
+		  {
             "sentence": "Уэтэ закъом '''сезэгъыщт'''",
             "translation": "'''I will be sufficed with''' the hammer alone."
           },
@@ -53641,6 +53731,10 @@
           {
             "sentence": "К1алэр '''мэгъы'''",
             "translation": "The boy '''is crying'''."
+          },
+          {
+            "sentence": "К1алэр '''гъэу''' яунэ к1ожьыгъ",
+            "translation": "The boy went home '''crying'''."
           },
           {
             "sentence": "К1алэр л1ым '''фэгъы'''",
@@ -57277,6 +57371,10 @@
           {
             "sentence": "Къо1усыр бащэрэ щыбгъэлъымэ '''угъэгъущт'''",
             "translation": "If you leave a banana for too long '''you will rot it'''."
+          },
+		  {
+            "sentence": "Огъум ч1ыгур '''ыгъэгъугъэ'''",
+            "translation": "The drought '''dried''' the land."
           }
         ]
       }
@@ -70892,6 +70990,10 @@
           {
             "sentence": "К1алэр яунэ '''к1ожьи''', ахъщэ къишти, тадэжь '''къэк1ожьыгъ'''",
             "translation": "The boy '''returned home''', took money and '''returned back''' to us."
+          },
+          {
+            "sentence": "К1алэр гъэу яунэ '''к1ожьыгъ'''",
+            "translation": "The boy '''returned''' home crying."
           }
         ]
       }
@@ -72433,6 +72535,10 @@
 		  {
             "sentence": "Унагъор '''1анэм''' 1ус",
             "translation": "The family is sitting around '''the table'''."
+          },
+		  {
+            "sentence": "К1алэм пхъэнт1эк1ухэр '''1анэм''' к1элъирыгъэуцуагъэх",
+            "translation": "The boy placed the chairs next to '''the table'''."
           }
         ]
       },
@@ -77052,7 +77158,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to manage someone or something; to administrate; to conduct (meeting, negotiations, conversation); to be in charge of (people or tasks)",
+        "meaning": "to handle something; to manage someone or something; to administrate; to conduct (meeting, negotiations, conversation); to be in charge of (people or tasks)",
         "examples": [
 		  {
             "sentence": "Тхьэматэх ц1ыфыхэр '''егъэзек1ох'''",
@@ -82397,6 +82503,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "to handle something; to deal with; to manage something",
+        "examples": [
+          {
+            "sentence": "Мы 1офым '''се1эщэщт''' сэ",
+            "translation": "'''I will deal with''' this work."
+          },
+          {
+            "sentence": "1офым '''се1эщэшъущтэп'''",
+            "translation": "'''I cannot handle''' the work."
+          }
+        ]
+      },
+	  {
         "meaning": "to treat someone medically; to help someone medically",
         "examples": [
           {
@@ -85226,7 +85345,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to break off a part from; to rip off a part from; to tear off a part from",
+        "meaning": "to break off a part from (due to a strong impact)",
         "examples": [
           {
             "sentence": "1анэм ылъакъо зы '''пыутыгъ'''",
@@ -101431,6 +101550,14 @@
       {
         "meaning": "kin (from which one is originated); origin",
         "examples": []
+      },
+      {
+        "meaning": "race (a group of sentient beings, particularly people, distinguished by common ancestry, heritage or characteristics)",
+        "examples": []
+      },
+      {
+        "meaning": "type, kind, species",
+        "examples": []
       }
     ],
     "kabardian": "л1эужьыгъуэ",
@@ -106246,6 +106373,35 @@
     "ipa": "ʁawnazan"
   },
   {
+    "word": "гущы1эпкъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "word stem",
+        "examples": [
+          {
+            "sentence": "къызытек1 '''гущы1эпкъ'''",
+            "translation": "Derivative '''stem'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "gʷəɕəʔapq"
+  },
+  {
+    "word": "къушъхьэтх",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "mountain chain",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "txəqʷəpʂħ"
+  },
+  {
     "word": "тхыкъупшъхь",
     "lang": "Adyghe",
     "definitions": [
@@ -106258,28 +106414,22 @@
     "ipa": "txəqʷəpʂħ"
   },
   {
-    "word": "пыгъэун",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to detach something from",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "pəʁawən"
-  },
-  {
     "word": "к1элъырыгъэуцон",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to put something next to",
-        "examples": []
+        "meaning": "to put/place something next to",
+        "examples": [
+          {
+            "sentence": "К1алэм пхъэнт1эк1ухэр 1анэм '''к1элъирыгъэуцуагъэх'''",
+            "translation": "The boy '''placed''' the chairs '''next to''' the table."
+          }
+        ]
       }
     ],
+    "shapsug": "к1ьэлъырыгъэуцон",
     "type": "verb",
-    "ipa": "t͡ʃʼaɬarəʁawt͡ʃʷan"
+    "ipa": "t͡ʃʼaɬərəʁawt͡ʃʷan"
   },
   {
     "word": "егъэуцол1эн",
@@ -106310,7 +106460,7 @@
             "translation": "'''To call off''' a wedding."
           },
           {
-            "sentence": "зэ1ук1эр '''зэпыгъэун'''",
+            "sentence": "Зэ1ук1эр '''зэпыгъэун'''",
             "translation": "'''To call off''' the meeting."
           }
         ]
@@ -106328,7 +106478,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to go upward",
+        "meaning": "to go upward; to go up",
         "examples": [
           {
             "sentence": "Унашъхьэм '''сыдэк1оени''' топыр къытесхын",
@@ -106352,7 +106502,7 @@
             "translation": "The boy '''climbed up''' the tree with a ladder."
           },
 		  {
-            "sentence": "Къушъххьэм лъакъок1э '''сыдэк1уе'''",
+            "sentence": "Къушъхьэм лъакъок1э '''сыдэк1уе'''",
             "translation": "'''I am climning up''' the mountain on foot."
           },
 		  {
@@ -106381,7 +106531,7 @@
             "translation": "The boy '''climbed up''' the tree with a ladder."
           },
 		  {
-            "sentence": "Къушъххьэм лъакъок1э '''сыдэцохъуае'''",
+            "sentence": "Къушъхьэм лъакъок1э '''сыдэцохъуае'''",
             "translation": "'''I am climning up''' the mountain on foot."
           },
 		  {
@@ -106410,7 +106560,7 @@
             "translation": "The boy '''climbed up''' the tree with a ladder."
           },
 		  {
-            "sentence": "Къушъххьэм лъакъок1э '''сыдэпшые'''",
+            "sentence": "Къушъхьэм лъакъок1э '''сыдэпшые'''",
             "translation": "'''I am climning up''' the mountain on foot."
           },
 		  {
@@ -106436,26 +106586,22 @@
         "examples": [
           {
             "sentence": "Джанэхэр дэлъып1эм '''дакох'''",
-            "translation": "'''Cram''' the clothes into the closet."
+            "translation": "'''Cram''' the clothes '''into''' the closet."
           },
           {
-            "sentence": "Сыд фэдиз шхынэу уижэ '''дапкорэр?'''",
-            "translation": "How much food do '''you cram''' into your mouth?"
+            "sentence": "Сыд фэдиз шхынэу ужэ '''дапкорэр?'''",
+            "translation": "How much food do '''you cram into''' your mouth?"
           },
           {
             "sentence": "Тхылъыр ардэ тхылъит1ум '''даку'''",
-            "translation": "'''Shove''' the book '''in between''' the other two books."
+            "translation": "'''Squeeze''' the book '''in between''' the other two books."
           },
 		  {
-            "sentence": "Мы тхылък1эр модэ тхылъжъымэ '''адэкуац'''",
-            "translation": "'''Put''' this new book there '''against''' the old books."
+            "sentence": "Мы тхылък1эр модэ тхылъжъымэ '''адаку'''",
+            "translation": "'''Stuff''' this new book there '''between''' the old books."
           },
           {
-            "sentence": "Дэпкъым '''сыдэбэкуацэ'''",
-            "translation": "'''You are pushing me against''' the wall."
-          },
-          {
-            "sentence": "Тхылъхэр '''зэдэкоцагъэх'''",
+            "sentence": "Тхылъхэр '''зэдэкуагъэх'''",
             "translation": "The books '''are compressed'''."
           }
         ]
@@ -106485,8 +106631,32 @@
         "meaning": "answer",
         "examples": [
           {
-            "sentence": "Тестымк1э '''пэгъодз''' тэрэзэр къэшъугъэчъэхь.",
+            "sentence": "Пшъашъэм '''пэгъодз''' къыситыжьыгъ",
+            "translation": "In girl gave me '''an answer'''."
+          },
+		  {
+            "sentence": "К1алэм '''пэгъодз''' къыситыжьыгъэп",
+            "translation": "In boy did give gave me '''an answer'''."
+          },
+		  {
+            "sentence": "К1алэм '''пэгъодз''' пшъашъэм ретыжьы",
+            "translation": "In boy gives '''an answer''' to the girl."
+          },
+		  {
+            "sentence": "Сыд '''пэгъодзэу''' къыуатыгъэр?",
+            "translation": "What '''answer''' did they gave you?"
+          },
+		  {
+            "sentence": "Тестымк1э '''пэгъодз''' тэрэзэр къэшъугъэчъыхь",
             "translation": "In the test circle the right '''answer'''."
+          },
+		  {
+            "sentence": "'''Пэгъодзэу''' къэптыгъэр мытэрэз",
+            "translation": "'''The answer''' you gave is incorrect."
+          },
+		  {
+            "sentence": "'''Пэгъодз''' къыос1он си1эп",
+            "translation": "I have no '''answer''' to tell you."
           }
         ]
       }
@@ -106502,7 +106672,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to stick something forcefully inside; to drive inside; to firmly insert inside; to strongly penetrate inside",
+        "meaning": "to stick something forcefully inside; to drive inside; to firmly insert inside; to strongly penetrate inside; to shove something inside",
         "examples": [
           {
             "sentence": "Гъуанэм гъуч1ыр к1алэм '''регъэзыхьэ'''",
@@ -106519,13 +106689,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be fastidious/squeamish",
+        "meaning": "to be disgusted",
         "examples": [
           {
             "sentence": "Пшъашъэр '''мэмэхъашэ'''.",
             "translation": "The girl '''is disgusted'''."
           }
         ]
+      },
+	  {
+        "meaning": "to be fastidious/squeamish",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -106536,11 +106710,12 @@
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "to be disgusted from",
+        "examples": []
+      },
+	  {
         "meaning": "to be fastidious/squeamish (about)",
-        "examples": [],
-        "tags": [
-          "about"
-        ]
+        "examples": []
       }
     ],
     "type": "verb",
@@ -106575,7 +106750,11 @@
             "translation": "The boy '''is hesitating'''."
           },
           {
-            "sentence": "Ар а Iофым '''еджэнджэшын''' фаеп, ащ зи хэлъ щыIэп",
+            "sentence": "К1алэр хьэм нэсынымк1э '''еджэнджэшы'''",
+            "translation": "The boy '''is hesitating''' to touch the dog."
+          },
+          {
+            "sentence": "Ар а 1офым '''еджэнджэшын''' фаеп, ащ зи хэлъ щы1эп",
             "translation": "He does not have '''to hesitate''' about that work, it is nothing to worry about."
           }
         ]
@@ -106606,14 +106785,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to doubt",
+        "meaning": "to consult; to seek advice",
         "examples": []
       }
-    ],
-    "synonyms": [
-      "ечэнджэшын",
-      "ехъырхъышэн"
-    ],
+    ]
     "type": "verb",
     "ipa": "wəpt͡ʂʼaʑən"
   },
@@ -106639,23 +106814,11 @@
     "ipa": "jat͡ʃand͡ʒaʃən"
   },
   {
-    "word": "упч1эжьын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to doubt",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "wpt͡ʂʼaʑən"
-  },
-  {
     "word": "чылэгъу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "fellow-villager",
+        "meaning": "fellow-villager; a person from the same village",
         "examples": []
       },
       {
@@ -106674,7 +106837,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "fellow-villager",
+        "meaning": "fellow-villager; a person from the same village",
         "examples": []
       }
     ],
@@ -106690,11 +106853,58 @@
     "definitions": [
       {
         "meaning": "dry (plants; food)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Огъум''' ч1ыгур гъугъэу ыш1ыгъэ",
+            "translation": "The drought made the land '''dry'''."
+          },
+		  {
+            "sentence": "Къэгъагъэр '''гъугъэ'''",
+            "translation": "The flower '''is dry'''"
+          }
+        ]
       }
     ],
     "type": "adj",
     "ipa": "ʁʷəʁa"
+  },
+  {
+    "word": "огъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "drought",
+        "examples": [
+          {
+            "sentence": "'''Огъум''' ч1ыгур ыгъэгъугъэ",
+            "translation": "'''The drought''' dried the ground."
+          },
+		  {
+            "sentence": "'''Огъум''' уцыхэр егъэк1одых",
+            "translation": "'''The drought''' dries the plants."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "waʁʷ"
+  },
+  {
+    "word": "фэмыгъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "misfortune (for)",
+        "examples": [
+          {
+            "sentence": "К1алэм 1офыр '''фэмыгъо''' хъугъэ",
+            "translation": "The work became '''misfortune for''' the boy."
+          }
+        ]
+      }
+    ],
+    "type": "adj",
+    "ipa": "faməʁʷ"
   },
   {
     "word": "нэгъуцу",
@@ -106702,7 +106912,12 @@
     "definitions": [
       {
         "meaning": "unfriendly, ungracious, impolite",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ц1ыф '''нэгъуцу'''",
+            "translation": "An '''unfriendly''' person."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -106713,8 +106928,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to lazy",
-        "examples": []
+        "meaning": "lazy",
+        "examples": [
+          {
+            "sentence": "Ц1ыф '''фэмыф'''",
+            "translation": "A '''lazy''' person."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -106724,7 +106944,7 @@
     "ipa": "faməf"
   },
   {
-    "word": "ерыуадж",
+    "word": "мыпсэу-мылажь",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -106736,6 +106956,53 @@
     "ipa": "jarəwaːd͡ʒ"
   },
   {
+    "word": "ерыуадж",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "idler, loafer, lazybones",
+        "examples": [
+		  {
+            "sentence": "'''Ерыуаджэм''' ушъхьагъухэр ыш1зэ лэжьагъэп",
+            "translation": "The loafer made '''excuses''' and did not work."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "jarəwaːd͡ʒ"
+  },
+  
+  {
+    "word": "панэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "thorn",
+        "examples": [
+          {
+            "sentence": "'''Панэм''' унэмыс, у1э къыу1эщт",
+            "translation": "Do not touch '''the thorn''', it will wound you."
+          },
+		  {
+            "sentence": "К1алэм ыкуашъо '''панэм''' ритхъыгъ",
+            "translation": "'''The thorn''' torn the boy's thigh skin."
+          },
+		  {
+            "sentence": "'''Панэхэмэ''' сахахьэм, сыкуашъо ау1агъ",
+            "translation": "When I entered the field of '''thorns''', they wounded my thigh skin."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "къэцы"
+    ],
+    "kabardian": "банэ",
+    "type": "noun",
+    "ipa": "paːna"
+  },
+  {
     "word": "къэцы",
     "lang": "Adyghe",
     "definitions": [
@@ -106743,6 +107010,10 @@
         "meaning": "thorn",
         "examples": [
           {
+            "sentence": "'''Къэцым''' унэмыс, у1э къыу1эщт",
+            "translation": "Do not touch '''the thorn''', it will wound you."
+          },
+		  {
             "sentence": "К1алэм ыкуашъо '''къэцым''' ритхъыгъ",
             "translation": "'''The thorn''' torn the boy's thigh skin."
           },
@@ -106785,7 +107056,12 @@
       },
       {
         "meaning": "knob",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''1эубытып1эмк1э''' пчъэр къы1уихыгъ",
+            "translation": "The boy opened the door '''with the knob'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -106796,12 +107072,68 @@
     "ipa": "ʔawbətəpʼa"
   },
   {
+    "word": "шъхьаусыгъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "excuse",
+        "examples": [
+          {
+            "sentence": "К1алэм '''шъхьаусыгъо''' ыш1ын ыгъотырэп",
+            "translation": "The boy found no '''excuse''' to make."
+          }
+        ]
+      }
+    ],
+    "type": "adj",
+    "ipa": "ʂħaːwsəʁʷ"
+  },
+  {
+    "word": "ушъхьагъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "justification; excuse",
+        "examples": [
+          {
+            "sentence": "К1алэм '''ушъхьагъу''' ыш1ын ыгъотырэп",
+            "translation": "The boy found no '''excuse''' to make."
+          },
+		  {
+            "sentence": "Ерыуаджэм '''ушъхьагъухэр''' ыш1зэ лэжьагъэп",
+            "translation": "The loafer made '''excuses''' and did not work."
+          }
+        ]
+      },
+	  {
+        "meaning": "reason",
+        "examples": [
+          {
+            "sentence": "К1алэм зыгорэ ыш1энэу шъхьэусыгъо епт",
+            "translation": "Give '''a reason''' for the boy to do something."
+          }
+        ]
+      }
+    ],
+    "type": "adj",
+    "ipa": "ʂħaːwsəʁʷ"
+  },
+  {
     "word": "лъэпс",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "shoelace",
-        "examples": []
+        "meaning": "shoelaces; lace",
+        "examples": [
+          {
+            "sentence": "Уицокъэ '''лъэпсыхэр''' къэлэнлагъэх, пхыжьых",
+            "translation": "Your shoe '''laces''' loosened, tie them up again."
+          },
+          {
+            "sentence": "К1алэм ицуакъэ '''лъэпсэхэр''' епхых",
+            "translation": "The boy is tying his '''shoelaces'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -110463,6 +110795,10 @@
           {
             "sentence": "К1алэм '''рихъохьагъ''' мэзищ ищык1агъэу унэ ыш1ын фэш1к1э",
             "translation": "The boy '''determined''' he needs three months to build a house."
+          },
+          {
+            "sentence": "Еджэгъэшхомэ '''рахъухьагъ''' мы псэушъхьэр хьамплъыжьэу",
+            "translation": "The learned ones '''determined''' that this animal is a lizard."
           }
         ]
       },
@@ -118498,18 +118834,6 @@
     "ipa": "mazət͡ʃʷ"
   },
   {
-    "word": "огъу",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "drought",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "waʁʷ"
-  },
-  {
     "word": "хъуп1э",
     "lang": "Adyghe",
     "definitions": [
@@ -119627,5 +119951,17 @@
     ],
     "type": "noun",
     "ipa": "qʷəra"
+  },
+  {
+    "word": "пыгъэун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to detach something from",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "pəʁawən"
   }
 ]
