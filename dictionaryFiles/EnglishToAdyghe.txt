@@ -17377,6 +17377,9 @@
     "rifle": "шхонч; к1эрахъо"
   },
   {
+    "to hunt": "шэк1он; ешэк1он (to hunt something); убытын / къэубытын (to be hunting something)"
+  },
+  {
     "to sigh": "хэщэтык1ын"
   },
   {

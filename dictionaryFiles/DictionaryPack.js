@@ -19014,6 +19014,15 @@
             "translation": "'''I will capture''' their house."
           }
         ]
+      },
+      {
+        "meaning": "to hunt",
+        "examples": [
+          {
+            "sentence": "Шак1ом аслъанхэр '''къэубытых'''",
+            "translation": "The hunter '''hunts''' lions."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -19023,6 +19032,52 @@
     ],
     "type": "verb",
     "ipa": "qawbətən"
+  },
+  {
+    "word": "шэк1он",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to hunt",
+        "examples": [
+          {
+            "sentence": "Шак1ор '''мэшак1о'''",
+            "translation": "The hunter '''hunts'''."
+          },
+		  {
+            "sentence": "Шак1ом аслъанхэр '''ешэк1ох'''",
+            "translation": "The hunter '''hunts''' lions."
+          },
+		  {
+            "sentence": "Мышъэр '''сэшэк1о'''",
+            "translation": "'''I hunt''' the bear."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʃakʷʼan"
+  },
+  {
+    "word": "ешэк1он",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to hunt",
+        "examples": [
+          {
+            "sentence": "Шак1ом аслъанхэр '''ешэк1ох'''",
+            "translation": "The hunter '''hunts''' lions."
+          },
+		  {
+            "sentence": "Мышъэр '''сэшэк1о'''",
+            "translation": "'''I hunt''' the bear."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "jaʃakʷʼan"
   },
   {
     "word": "убытын",
