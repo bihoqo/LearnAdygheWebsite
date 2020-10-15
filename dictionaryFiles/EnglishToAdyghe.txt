@@ -2130,7 +2130,7 @@
     "to sell": "щэн; щыщэн (to sell in a certain place)"
   },
   {
-    "to take": "щэн (to take/lead someone to somewhere); хьын (to take/carry something to somewhere); штэн / къэштэн (to grab something to take); ш1охьын (to take something from someone against his interest or will); 1ыхын / къы1эхын (to take something from someone by hand); техын / къытехын (to take off something from above something); ч1эхын / къыч1эхын (to take something from under something); дэхын / къыдэхын (to take something from inside another object); ихын / къыихын (to take something from inside something); пыхын / къыпыхын (to take down from a hanging position, to unhang); хэхын / къыхэхын (to take something from through something or from an area with gas or liquid); къохын / къыкъохын (to take something from behind something); гохын / къыгохын / бгъодэхын / къыбгъодэхын (to take something from besides something); к1оц1ыхын / къык1оц1ыхын (to take something from inside something's body); тещэн (to take/lead someone to above something); хэщэн (to take/lead someone to among other people or objects); хэщэн (to take/lead someone to an area liquid, gas, plants or trees); дэщэн (to take/lead someone to a yard); ищэн (to take/lead someone to inside something); къощэн (to take/lead someone to behind something); пыхын (to take something like knowledge, behavior from someone); дэщэен (to lead/take someone up); ещэхын (to lead/take someone down); къещэк1ын (to take/lead someone around)"
+    "to take": "щэн (to take/lead someone to somewhere); хьын (to take/carry something to somewhere); штэн / къэштэн (to grab something to take); ш1охьын (to take something from someone against his interest or will); 1ыхын / къы1эхын (to take something from someone by hand); техын / къытехын (to take off something from above something); ч1эхын / къыч1эхын (to take something from under something); дэхын / къыдэхын (to take something from inside another object); ихын / къыихын (to take something from inside something); пыхын / къыпыхын (to take down from a hanging position, to unhang); хэхын / къыхэхын (to take something from through something or from an area with gas or liquid); къохын / къыкъохын (to take something from behind something); гохын / къыгохын / бгъодэхын / къыбгъодэхын (to take something from besides something); к1оц1ыхын / къык1оц1ыхын (to take something from inside something's body); тещэн (to take/lead someone to above something); хэщэн (to take/lead someone to among other people or objects); хэщэн (to take/lead someone to an area liquid, gas, plants or trees); дэщэн (to take/lead someone to a yard); ищэн (to take/lead someone to inside something); къощэн (to take/lead someone to behind something); пыхын (to take something like knowledge, behavior from someone); дэщэен (to lead/take someone up); ещэхын (to lead/take someone down); къещэк1ын (to take/lead someone around); ещэл1эн (to take someone to, to lead someone to)"
   },
   {
     "to grasp": "къэубытын (to take hold, to grib, to grasp, to catch and hold, to grab by catching); зы1эк1эубытэн; зэхэш1ык1ын (to comprehend; to understand or grasp fully and thoroughly)"
@@ -2157,7 +2157,7 @@
     "to snatch": "пхъотэн; къы1эпхъотэн (to snatch from someone); къыш1опхъотэн (to snatch from someone)"
   },
   {
-    "to lead": "щэн (to lead/take someone to); пэщэн (to lead as a leader); тещэн (to take/lead someone to above something); хэщэн (to take/lead someone to among other people or objects); хэщэн (to take/lead someone to an area liquid, gas, plants or trees); дэщэн (to take/lead someone to a yard); ищэн (to take/lead someone to inside something); дэщэен (to lead/take someone up); ещэхын (to lead/take someone down); къещэк1ын (to take/lead someone around); щэжьын (to lead someone back to, to take someone back to, to return someone back to)"
+    "to lead": "щэн (to lead/take someone to); пэщэн (to lead as a leader); тещэн (to take/lead someone to above something); хэщэн (to take/lead someone to among other people or objects); хэщэн (to take/lead someone to an area liquid, gas, plants or trees); дэщэн (to take/lead someone to a yard); ищэн (to take/lead someone to inside something); дэщэен (to lead/take someone up); ещэхын (to lead/take someone down); къещэк1ын (to take/lead someone around); щэжьын (to lead someone back to, to take someone back to, to return someone back to); ещэл1эн (to take someone to, to lead someone to)"
   },
   {
     "to escort": "щэн (to escort someone to); хэщэн (to escort someone to among other people or objects); хэщэн (to escort someone to an area liquid, gas, plants or trees); дэщэн (to escort someone to a yard); ищэн (to escort someone to inside something); дэщэен (to escort someone up); ещэхын (to escort someone down); къещэк1ын (to escort someone around); щэжьын (to escort someone back to, to take someone back to, to return someone back to)"
@@ -2961,7 +2961,7 @@
     "three hundred": "шъищ"
   },
   {
-    "half": "ныкъо; азы ныкъо (a half of); лъэныкъо / к1элъэныкъо / зыбгъу (one side of, half of)"
+    "half": "ныкъо; азы ныкъо (a half of); лъэныкъо / к1элъэныкъо / зыбгъу (one side of, half of); ныкъо сыкъо"
   },
   {
     "two thousand": "минит1у"
@@ -10741,10 +10741,13 @@
     "suddenly": "ош1э дэмыш1эу"
   },
   {
-    "to get wet": "уц1ынын; шъун (clothes and body)"
+    "to get wet": "уц1ынын / ц1ынэу хъун; гъэуц1ынын / ц1ынэу ш1ын (to make wet); шъун (clothes or body); гъэшъун (to wet clothes or body)"
   },
   {
-    "to soak": "уц1ынын; шъун (clothes and body)"
+    "to get soaked": "уц1ынын / ц1ынэу хъун; гъэуц1ынын (to make wet); шъун (clothes and body)"
+  },
+  {
+    "to soak": "уц1ынын / ц1ынэу хъун; шъун (clothes and body); гъэшъун (to wet clothes or body)"
   },
   {
     "to get rot": "шъун"
@@ -11716,7 +11719,7 @@
     "to turn over": "зэпырыгъэзэн (to turn something upside down)"
   },
   {
-    "to turn": "зэн / къэзэн (to turn); гъэзэн / къэгъэзэн (to turn around something); зыгъэзэн / зыкъэгъэзэн (to turn oneself around); зэпырыгъэзэн (to turn something upside down); зыкъэгъэзык1ын (to turn oneself around)"
+    "to turn": "зэн / къэзэн (to turn); гъэзэн / къэгъэзэн (to turn around something); зыгъэзэн / зыкъэгъэзэн (to turn oneself around); зэпырыгъэзэн (to turn something upside down); зыкъэгъэзык1ын (to turn oneself around); фэгъэзэн (to turn something toward, to point something toward, to direct something toward)"
   },
   {
     "to turn on": "хэгъэнэн"
@@ -12997,7 +13000,10 @@
     "to urge": "егъэзын"
   },
   {
-    "whip": "(Shapsug) к1энлъэ; къамыщ; к1эпщ / шыукъамыщ (horsewhip)"
+    "whip": "(Shapsug) к1энлъэ; къамыщ; к1эпщ / шыукъамыщ (horsewhip); къамыщык1 (whip-handle)"
+  },
+  {
+    "whip-handle": "къамыщык1"
   },
   {
     "horsewhip": "к1эпщы; шыукъамыщ"
@@ -13286,6 +13292,21 @@
   },
   {
     "barn": "хьамбар"
+  },
+  {
+    "storehouse": "хьамбар"
+  },
+  {
+    "granary": "хьамбар"
+  },
+  {
+    "warehouse": "хьамбар"
+  },
+  {
+    "bird feed": "шкъун"
+  },
+  {
+    "bird food": "шкъун"
   },
   {
     "shed": "къакъыр"
@@ -17558,6 +17579,9 @@
   },
   {
     "half efficient": "ныкъо сыкъо"
+  },
+  {
+    "efficiently": "ныкъо сыкъоу (half efficiently)"
   },
   {
     "hardly": "ерагъэу; ерагък1э / ерагъэк1э; егъэзыгъэу; ныкъо сыкъоу"

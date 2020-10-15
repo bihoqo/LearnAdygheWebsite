@@ -516,7 +516,12 @@
     "definitions": [
       {
         "meaning": "bad weather, strong weather, stormy rain",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''уаем''' хэтзэ иджанэ уц1ыныгъэ",
+            "translation": "The boy was in the '''strong rain''' and his clothes got wet."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -7267,11 +7272,15 @@
 		  {
             "sentence": "'''К1эрэхъо''' фэшъхьаф къахь"
             "translation": "Bring a different '''gun'''."
+          },
+		  {
+            "sentence": "Шак1ом '''к1эрахъор''' тхьак1умк1ыхьэм фигъэзагъ",
+            "translation": "The hunter pointed '''the gun''' toward the rabbit."
           }
         ]
       },
       {
-        "meaning": "rifle",
+        "meaning": "rifle; alternative form of \"шхонч\"",
         "examples": []
       },
       {
@@ -8076,6 +8085,10 @@
 		  {
             "sentence": "Къухьэр '''хым''' ык1ы1у тетышъу",
             "translation": "The ship can float on the surface of '''the sea'''."
+          },
+		  {
+            "sentence": "Къухьэм сыкъизи '''хым''' сыхэфэгъагъ",
+            "translation": "I dropped from the ship and fell into '''the sea'''."
           }
         ]
       },
@@ -12440,7 +12453,20 @@
     "definitions": [
       {
         "meaning": "hunter",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Шак1ом''' к1эрахъор тхьак1умк1ыхьэм фигъэзагъ",
+            "translation": "'''The hunter''' pointed the gun toward the rabbit."
+          },
+		  {
+            "sentence": "'''Шак1ом''' тыгъужъхэр къеубытых",
+            "translation": "'''The hunter''' catches wolves."
+          },
+		  {
+            "sentence": "Баджэм '''шак1ор''' зелъэгъум, к1и1агъ",
+            "translation": "When the fox saw '''the hunter''', it dashed off."
+          },
+        ]
       }
     ],
     "type": "noun",
@@ -31022,6 +31048,10 @@
 		  {
             "sentence": "'''Къухьэр''' хым ык1ы1у тетышъу",
             "translation": "'''The shit''' can float on the surface of the sea."
+          },
+		  {
+            "sentence": "'''Къухьэм''' сыкъизи хым сыхэфэгъагъ",
+            "translation": "I dropped from '''the ship''' and fell into the sea."
           }
         ]
       }
@@ -65832,7 +65862,7 @@
     "word": "изын",
     "lang": "Adyghe",
     "definitions": [
-      "meaning": "to drop something from",
+      "meaning": "to drop from inside something",
         "examples": [
           {
             "sentence": "Сыхьатыр л1ым иджыбэ '''къизыгъ'''",
@@ -65841,6 +65871,10 @@
 		  {
             "sentence": "Мы1эрысыр матэм '''езы'''",
             "translation": "The apple '''is dropping''' from the basket."
+          },
+		  {
+            "sentence": "Къухьэм '''сыкъизи''' хым сыхэфэгъагъ",
+            "translation": "'''I dropped from''' the ship and fell into the sea."
           }
         ]
     ],
@@ -95062,6 +95096,10 @@
 		  {
             "sentence": "'''Тхьак1умк1ыхьым''' шак1ор зелъэгъум, к1и1агъ",
             "translation": "When the '''rabbit''' saw the hunter, it dashed off."
+          },
+		  {
+            "sentence": "Шак1ом к1эрахъор '''тхьак1умк1ыхьэм''' фигъэзагъ",
+            "translation": "The hunter pointed the gun toward '''the rabbit'''."
           }
         ]
       }
@@ -107722,7 +107760,7 @@
         "meaning": "to close something almost entirely but keeping a small opening",
         "examples": [
           {
-            "sentence": "пчъэр '''ещэл1эн'''",
+            "sentence": "пчъэр '''къещэл1эн'''",
             "translation": "'''To close''' the door."
           }
         ]
@@ -107733,15 +107771,10 @@
           {
             "sentence": "Дзэк1о к1алэхэр мэш1окум '''ращэл1агъэх'''",
             "translation": "The young soldiers '''were taken''' to the train."
-          }
-        ]
-      },
-      {
-        "meaning": "to give a lift (in a vehicle)",
-        "examples": [
-          {
-            "sentence": "1офш1ап1эм '''ещэл1эн'''",
-            "translation": "'''To give a lift''' to work."
+          },
+		  {
+            "sentence": "К1алэр 1офым '''есщэл1агъ'''",
+            "translation": "'''I took''' the young man to work."
           }
         ]
       }
@@ -107761,6 +107794,19 @@
     "type": "noun"
   },
   {
+    "word": "къамыщык1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "whip-handle",
+        "examples": []
+      }
+    ],
+    "shapsug": "къамыщык1ь",
+    "type": "noun",
+    "ipa": "qaːməɕət͡ʃʼ"
+  },
+  {
     "word": "лъэк1оц1",
     "lang": "Adyghe",
     "definitions": [
@@ -107777,15 +107823,12 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to pour out, to spill out (of bulk material, objects, or pieces, not liquid)",
+        "meaning": "to throw out stuff from (of bulk material, objects, or pieces, not liquid)",
         "examples": [
           {
             "sentence": "коцыр дзыом '''итэкъун'''",
             "translation": "To '''pour''' wheat '''out of''' the bag"
           }
-        ],
-        "tags": [
-          "of bulk material, objects, or pieces, not liquid"
         ]
       }
     ],
@@ -107797,11 +107840,32 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "barn",
+        "meaning": "barn, granary, warehouse, storehouse; a storage for grain or  animal food",
         "examples": []
       }
     ],
     "type": "noun"
+  },
+  {
+    "word": "шкъун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "bird feed; bird food",
+        "examples": [
+          {
+            "sentence": "К1алэм чэтмэ '''шкъун''' аритыгъ",
+            "translation": "The boy gave the chickens '''bird feed'''."
+          },
+		  {
+            "sentence": "К1алэм '''шкъуныр''' репхъыхьэ",
+            "translation": "The boy scatters the '''bird feed'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʃqʷən"
   },
   {
     "word": "ипхъыхьан",
@@ -107809,14 +107873,36 @@
     "definitions": [
       {
         "meaning": "to strew / scatter (over an area), to distribute objects or pieces of something over an area (especially in a random manner)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм шкъуныр '''репхъыхьэ'''",
+            "translation": "The boy '''scatters''' the bird feed."
+          }
+        ]
       }
     ],
     "synonyms": [
-      "итэкъохьын"
+      "итэкъухьан"
     ],
     "type": "verb",
     "ipa": "jəpχəħaːn"
+  },
+  {
+    "word": "ц1ынэу хъун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to get wet/soaked, to be soaking, to be sopping wet",
+        "examples": [
+          {
+            "sentence": "К1алэр уаем хэтзэ иджанэ '''уц1ыныгъэ'''",
+            "translation": "The boy was in the strong rain and his clothes '''got wet'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "wət͡sʼənən"
   },
   {
     "word": "уц1ынын",
@@ -107826,14 +107912,134 @@
         "meaning": "to get wet/soaked, to be soaking, to be sopping wet",
         "examples": [
           {
-            "sentence": "щыгъыныр '''уцIыныгъэ'''",
-            "translation": "'''To wet''' clothes"
+            "sentence": "К1алэр уаем хэтзэ иджанэ '''уц1ыныгъэ'''",
+            "translation": "The boy was in the strong rain and his clothes '''got wet'''."
+          },
+		  {
+            "sentence": "Ощхым сиджанэ '''ыуц1ыныгъ'''",
+            "translation": "The rain '''made''' my clothes '''wet'''."
+          },
+		  {
+            "sentence": "К1алэм ипа1о псым хафи '''уц1ыныгъ'''",
+            "translation": "The boy's hat fell inside the water and '''got wet'''."
+          },
+		  {
+            "sentence": "К1алэм псы пшъашъэм тегъахьэм, иджанэ '''ыгъэуц1ыныгъ'''",
+            "translation": "The boy's hat fell inside the water and '''got wet'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "ц1ынэу хъун"
+    ],
+    "shapsug": "с1ынэу хъун",
+    "type": "verb",
+    "ipa": "wət͡sʼənən"
+  },
+  {
+    "word": "ц1ынэу хъун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to get wet/soaked, to be soaking, to be sopping wet",
+        "examples": [
+          {
+            "sentence": "К1алэр уаем хэтзэ иджанэ '''ц1ынэу хъугъэ'''",
+            "translation": "The boy was in the strong rain and his clothes '''got wet'''."
+          },
+		  {
+            "sentence": "К1алэм ипа1о псым хафи '''ц1ынэу хъугъэ'''",
+            "translation": "The boy's hat fell inside the water and '''got wet'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "уц1ынын"
+    ],
+    "shapsug": "с1ынэу хъун",
+    "type": "verb",
+    "ipa": "t͡sʼənaw χʷən"
+  },
+  {
+    "word": "ц1ынэу ш1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to make something wet/soaked, to soak",
+        "examples": [
+		  {
+            "sentence": "Ощхым сиджанэ '''ц1ынэу ыш1ыгъ'''",
+            "translation": "The rain '''made''' my clothes '''wet'''."
+          },
+		  {
+            "sentence": "К1алэм псы пшъашъэм тегъахьэм, иджанэ '''ц1ынэу ыш1ыгъ'''",
+            "translation": "When the boy spilled water on the girl, '''it made''' her shirt '''wet'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "гъэуц1ынын"
+    ],
+    "shapsug": "с1ынэу ш1ын",
+    "type": "verb",
+    "ipa": "t͡sʼənaw ʃʼən"
+  },
+  {
+    "word": "гъэуц1ынын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to make something wet/soaked, to soak",
+        "examples": [
+		  {
+            "sentence": "Ощхым сиджанэ '''ыгъэуц1ыныгъ'''",
+            "translation": "The rain '''made''' my clothes '''wet'''."
+          },
+		  {
+            "sentence": "К1алэм псы пшъашъэм тегъахьэм, иджанэ '''ыгъэуц1ыныгъ'''",
+            "translation": "When the boy spilled water on the girl, '''it made''' her shirt '''wet'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "ц1ынэу ш1ын"
+    ],
+    "shapsug": "гъэус1ынын",
+    "type": "verb",
+    "ipa": "wət͡sʼənən"
+  },
+  {
+    "word": "хэфэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to fall into an area with some mass (liquid, solid or gas); to fall within; to fall among people/objects; to fall in fire, water, snow, grass, plants, forest, objects, pieces, etc.",
+        "examples": [
+		  {
+            "sentence": "К1алэм ипа1о псым '''хафи''' уц1ыныгъ",
+            "translation": "The boy's hat '''fell inside''' the water and got wet."
+          },
+		  {
+            "sentence": "Топыр уцыхэмэ '''ахэфагъ'''",
+            "translation": "The ball '''fell into''' the plants."
+          },
+		  {
+            "sentence": "1элъыныр осым '''хэфагъ'''",
+            "translation": "The ring '''fell into''' the snow."
+          },
+		  {
+            "sentence": "Къухьэм сыкъизи хым '''сыхэфэгъагъ'''",
+            "translation": "I dropped from the ship and '''fell into''' the sea."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "wət͡sʼənən"
+    "ipa": "xafan"
   },
   {
     "word": "ныкъо сыкъо",
@@ -107841,7 +108047,24 @@
     "definitions": [
       {
         "meaning": "half efficient",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''ныкъо сыкъо''' 1оф ыш1агъ",
+            "translation": "The boy did a '''half efficient''' job."
+          },
+		  {
+            "sentence": "Ку '''ныкъо сыкъожъ'''",
+            "translation": "'''Half efficient''' car."
+          },
+		  {
+            "sentence": "К1алэм '''ныкъо сыкъоу''' 1офыр ыш1агъ",
+            "translation": "The boy did the job '''half efficienty'''."
+          },
+		  {
+            "sentence": "Кур '''ныкъо сыкъоу''' мачъэ",
+            "translation": "The car runs '''half efficienty'''."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -107857,7 +108080,16 @@
       },
       {
         "meaning": "half efficiently",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''ныкъо сыкъоу''' 1офыр ыш1агъ",
+            "translation": "The boy did the job '''half efficienty'''."
+          },
+		  {
+            "sentence": "Кур '''ныкъо сыкъоу''' мачъэ",
+            "translation": "The car runs '''half efficienty'''."
+          }
+        ]
       }
     ],
     "type": "adv",
@@ -107868,8 +108100,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to point / direct something toward",
-        "examples": []
+        "meaning": "to point something toward; to direct something toward",
+        "examples": [
+          {
+            "sentence": "К1алэм упч1эр сэ '''къэсфигъэзагъ'''",
+            "translation": "The boy '''directed''' the question '''to me'''."
+          },
+		  {
+            "sentence": "Шак1ом к1эрахъор тхьак1умк1ыхьэм '''фигъэзагъ'''",
+            "translation": "The hunter '''pointed''' the gun '''toward''' the rabbit."
+          }
+        ]
       },
       {
         "meaning": "to turn something toward",
