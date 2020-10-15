@@ -7336,7 +7336,16 @@
     "definitions": [
       {
         "meaning": "king, emperor, caesar, sultan",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ыр '''пачъыхьэу''' хъуи пачъыхьагъор иубытыгъ",
+            "translation": "The man became a '''king''' and took the kingdom."
+          },
+		  {
+            "sentence": "'''Пачъыхьэм''' пачъыхьагъор егъэзек1о",
+            "translation": "'''The king''' manages the kingdom."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -20542,6 +20551,10 @@
 		  {
             "sentence": "'''Къещхыгъэти''', шъофыр псынжъык1э узэндыгъ",
             "translation": "'''Because it rained''', the fields are filled with mud"
+          },
+		  {
+            "sentence": "'''Къещхырэм''' ухэхьагъэшъ, уиджанэхэр уц1ыныгъэх",
+            "translation": "Because you entered '''the rain''', your clothes became wed."
           }
         ]
       }
@@ -72117,7 +72130,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "seine",
+        "meaning": "net (used for catching fish)",
         "examples": []
       }
     ],
@@ -72515,6 +72528,10 @@
           {
             "sentence": "гъожьырэ шхъуант1эрэ зэхэбгъэхьэхэмэ уцышъоу '''хъущт'''",
             "translation": "If you mix yellow and blue, '''I will become''' green."
+          },
+          {
+            "sentence": "Ар ащ гущы1эгъу '''фэхъугъэти''' гукъаоу и1эхэр къыри1уагъ.",
+            "translation": "'''Because he became''' his talking buddy, he told him the misfortunes he have."
           }
         ]
       },
@@ -103108,6 +103125,10 @@
 		  {
             "sentence": "Панэхэмэ '''сахахьэм''', сыкуашъо ау1агъ",
             "translation": "'''When I entered the field of''' thorns, they wounded my thigh skin."
+          },
+		  {
+            "sentence": "Къещхырэм '''ухэхьагъэшъ''', уиджанэхэр уц1ыныгъэх",
+            "translation": "'''Because you entered''' the rain, your clothes became wed."
           }
         ]
       }
@@ -108058,6 +108079,10 @@
 		  {
             "sentence": "К1алэм псы пшъашъэм тегъахьэм, иджанэ '''ыгъэуц1ыныгъ'''",
             "translation": "The boy's hat fell inside the water and '''got wet'''."
+          },
+		  {
+            "sentence": "Къещхырэм ухэхьагъэшъ, уиджанэхэр '''уц1ыныгъэх'''",
+            "translation": "Because you entered the rain, your clothes '''became wed'''."
           }
         ]
       }
@@ -108245,8 +108270,17 @@
         ]
       },
       {
-        "meaning": "to turn something toward",
-        "examples": []
+        "meaning": "to turn something toward; to face to",
+        "examples": [
+          {
+            "sentence": "'''Зыкъэзфэгъаз''' укъыздэгущы1эу зэхъук1э",
+            "translation": "'''Face me''' when you talk to me."
+          },
+		  {
+            "sentence": "К1алэм жьыфыр ыянэ '''фегъазэ'''",
+            "translation": "The boy '''faces''' the fan to his mother."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -108288,11 +108322,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "firstborn",
-        "examples": []
-      },
-      {
-        "meaning": "firstling",
+        "meaning": "alternative form of \"апхъурэлъф\"",
         "examples": []
       }
     ],
@@ -108327,10 +108357,7 @@
     "definitions": [
       {
         "meaning": "(vulgar) crap, shit",
-        "examples": [],
-        "tags": [
-          "vulgar"
-        ]
+        "examples": []
       }
     ],
     "type": "noun",
@@ -108342,7 +108369,12 @@
     "definitions": [
       {
         "meaning": "malaria",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Техьагъу''' къэстехьагъ",
+            "translation": "I got '''malaria'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -108354,7 +108386,12 @@
     "definitions": [
       {
         "meaning": "cold (fever)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Чъы1ал1э''' къэстехьагъ",
+            "translation": "I got a '''cold'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -108382,7 +108419,8 @@
       }
     ],
     "synonyms": [
-      "к1элъыон"
+      "к1элъыон",
+      "дэхьащхын"
     ],
     "type": "verb",
     "ipa": "t͡ʃʼanat͡ʃʼan"
@@ -108395,14 +108433,27 @@
         "meaning": "to infect someone else",
         "examples": [
           {
-            "sentence": "К1элэ сымаджэм шъуемыбылагъ, узы '''къышъупигъэхьащт'''",
+            "sentence": "К1элэ сымаджэм шъуемыблагъ, узы '''къышъупигъэхьащт'''",
             "translation": "Don't approach the sick boy, he will infect you with an illness."
+          },
+		  {
+            "sentence": "Ц1ыфыхэмэ узыр '''зэпагъэхьажьы'''",
+            "translation": "People '''are infecting each other'''."
           }
         ]
       },
       {
         "meaning": "to connect something with",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1апсэхэр '''зэпыгъахьэх'''",
+            "translation": "'''Connect''' the ropes."
+          },
+		  {
+            "sentence": "1интернетымк1э '''успигъахьэрэп'''",
+            "translation": "On the internet, '''it doesn't let me connnect to you'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -108438,9 +108489,11 @@
     "definitions": [
       {
         "meaning": "(slang) stoned, high on drugs, especially cannabis (weed)",
-        "examples": [],
-        "tags": [
-          "slang"
+        "examples": [
+		  {
+            "sentence": "Л1ыр '''егъэуагъ'''",
+            "translation": "The man '''is stoned'''."
+          }
         ]
       }
     ],
@@ -108464,7 +108517,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "noble clan",
+        "meaning": "noble, nobleman (a man of noble rank)",
         "examples": []
       }
     ],
@@ -108493,11 +108546,21 @@
     "definitions": [
       {
         "meaning": "to consume a lot of liquid",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм псык1э '''зыришъук1ыжьыгъ'''",
+            "translation": "The boy '''consumed a lot of''' water."
+          }
+        ]
       },
       {
         "meaning": "to get wasted; to get drunk",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм пивэк1э '''зыришъук1ыжьэу'''",
+            "translation": "The boy '''got wasted''' from beer."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -108508,12 +108571,33 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be full (after eating)",
-        "examples": []
-      },
-      {
-        "meaning": "to be saturated with food",
-        "examples": []
+        "meaning": "to be saturated with food; to be full (after eating)",
+        "examples": [
+          {
+            "sentence": "Шхыным '''сигъэшхэк1ыгъ'''",
+            "translation": "The food '''made me full'''."
+          },
+		  {
+            "sentence": "'''Ушхэк1ыгъа'''?",
+            "translation": "'''Are you full'''?."
+          },
+		  {
+            "sentence": "К1алэр '''шхэк1ыгъ'''",
+            "translation": "The boy '''got full'''."
+          },
+		  {
+            "sentence": "'''Ушхэк1ырэба'''?",
+            "translation": "'''Aren't you getting full'''?"
+          },
+		  {
+            "sentence": "Салатк1э '''зызгъэшхэк1ыгъ'''",
+            "translation": "'''I made myself full''' with salat."
+          },
+		  {
+            "sentence": "Шхынк1э '''зыдгъэшхэк1ыгъ'''",
+            "translation": "'''We made ourselves full''' with food."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -108524,12 +108608,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to eat until one gets full; to eat plenty (of)",
-        "examples": []
-      },
-      {
-        "meaning": "to saturate oneself with food",
-        "examples": []
+        "meaning": "to saturate oneself with food; to eat until one gets full; to eat plenty (of)",
+        "examples": [
+          {
+            "sentence": "Салатк1э '''зызгъэшхэк1ыгъ'''",
+            "translation": "'''I made myself full''' with salat."
+          },
+		  {
+            "sentence": "Шхынк1э '''зыдгъэшхэк1ыгъ'''",
+            "translation": "'''We made ourselves full''' with food."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -108540,12 +108629,25 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be full (after drinking)",
-        "examples": []
-      },
-      {
-        "meaning": "to be saturated with liquid",
-        "examples": []
+        "meaning": "to be saturated with liquid; to be full (after drinking)",
+        "examples": [
+          {
+            "sentence": "Псым '''сигъэшъук1ыгъ'''",
+            "translation": "The water '''made me full'''."
+          },
+		  {
+            "sentence": "К1алэр '''ешъук1ыгъ'''",
+            "translation": "The boy '''got full'''."
+          },
+		  {
+            "sentence": "Колэк1э '''сезгъэшъук1ыжьыгъ'''",
+            "translation": "'''I made myself full''' with cola."
+          },
+		  {
+            "sentence": "Пивэк1э '''зыдгъэшъук1ыжьыгъ'''",
+            "translation": "'''We made ourselves full''' with beer."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -108556,12 +108658,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to drink until one gets full; to drink plenty (of)",
-        "examples": []
-      },
-      {
-        "meaning": "to saturate oneself with liquid",
-        "examples": []
+        "meaning": "to saturate oneself with liquid; to drink until one gets full; to drink plenty (of)",
+        "examples": [
+		  {
+            "sentence": "Колэк1э '''сезгъэшъук1ыжьыгъ'''",
+            "translation": "'''I made myself full''' with cola."
+          },
+		  {
+            "sentence": "Пивэк1э '''зыдгъэшъук1ыжьыгъ'''",
+            "translation": "'''We made ourselves full''' with beer."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -108574,6 +108681,19 @@
       {
         "meaning": "wound",
         "examples": []
+      },
+	  {
+        "meaning": "wounded",
+        "examples": [
+          {
+            "sentence": "К1алэр '''у1агъэ'''",
+            "translation": "The boy '''is wounded'''"
+          },
+		  {
+            "sentence": "'''У1агъэм''' уе1эзэн фай",
+            "translation": "You need to aid '''the wounded'''"
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -108587,8 +108707,8 @@
         "meaning": "suitcase, trunk",
         "examples": [
           {
-            "sentence": "IапIэхэр чэмэданым дэлъхьаных",
-            "translation": "To put things in a suitcase."
+            "sentence": "Зыгорэхэр '''чэмэданым''' дэлъхьаных",
+            "translation": "To put somethings in a '''suitcase'''."
           }
         ]
       }
@@ -108602,7 +108722,16 @@
     "definitions": [
       {
         "meaning": "kingdom, realm",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ыр пачъыхьэу хъуи '''пачъыхьагъор''' иубытыгъ",
+            "translation": "The man became a king and took the '''kingdom'''."
+          },
+		  {
+            "sentence": "Пачъыхьэм '''пачъыхьагъор''' егъэзек1о",
+            "translation": "The king manages the '''kingdom'''."
+          }
+        ]
       },
       {
         "meaning": "reign",
@@ -108618,7 +108747,12 @@
     "definitions": [
       {
         "meaning": "married couple",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Налбыемрэ Дэхэосымрэ '''зэл1-зэшъузых'''",
+            "translation": "Nalby and Dahawus are '''husband and wife'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -108644,7 +108778,7 @@
         "meaning": "false (untrue, not factual, wrong)",
         "examples": [
           {
-            "sentence": "къэбар нэпцI",
+            "sentence": "къэбар нэпц1",
             "translation": "False news."
           }
         ]
@@ -108674,7 +108808,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "news, piece of news",
+        "meaning": "news, piece of news, new information of interest",
         "examples": [
           {
             "sentence": "'''Къэбар''' гомы1у къыпфэсхьыгъ",
@@ -108683,6 +108817,10 @@
 		  {
             "sentence": "'''Къэбар''' дэгъу сэ1угъ",
             "translation": "I heard good '''news'''."
+          },
+		  {
+            "sentence": "Л1ыхэмэ '''къэбар''' къа1уатэ",
+            "translation": "The men are telling '''news'''."
           }
         ]
       },
@@ -108715,15 +108853,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "interlocutor, talking partner",
+        "meaning": "interlocutor, talking partner, talking buddy",
         "examples": [
           {
-            "sentence": "Ар боу гущыIэкIэ Iазэ, о ащ гущыIэгъу уфэхъущтэп.",
-            "translation": "That one is good in speech, you won't be able to be his talking partner."
+            "sentence": "А к1алэр боу гущы1эк1э 1азэ, о ащ '''игущы1эгъоу''' ухъушъущтэп.",
+            "translation": "That boy is good in speech, you won't be able to become his '''talking partner'''."
           },
           {
-            "sentence": "Ар ащ гущы1эгъу фэхъугъэти гукъаоу и1эхэр къыри1уагъ.",
-            "translation": "Because he became his talking buddy, he told him the misfortunes he have."
+            "sentence": "Ар ащ '''гущы1эгъу''' фэхъугъэти гукъаоу и1эхэр къыри1уагъ.",
+            "translation": "Because he became his '''talking buddy''', he told him the misfortunes he have."
           }
         ]
       },
@@ -108743,7 +108881,7 @@
         "meaning": "to book; to fine (police)",
         "examples": [
           {
-            "sentence": "полицием '''утхэхьыщт''' ку псынк1эу уфымэ",
+            "sentence": "Хьэубытым '''утхэхьыщт''' ку псынк1эу уфымэ",
             "translation": "The police '''will book you''' if you drive the car fast."
           }
         ]
@@ -108753,6 +108891,48 @@
     "ipa": "txaħən"
   },
   {
+    "word": "к1эгъэлык1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to color beneath; to paint beneath",
+        "examples": [
+          {
+            "sentence": "Африкэмк1э, шак1омэ анэхэр ш1уц1эк1э '''к1агъэлык1ых'''",
+            "translation": "In Afrika, the huntets '''color beneath''' their eyes in black."
+          },
+		  {
+            "sentence": "Унэм ык1ашъо л1ым '''к1игъэлык1ыгъ''' фыжьык1э",
+            "translation": "The man '''colored''' the ceiling in white."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "t͡ʃʼaʁaɮat͡ʃʼən"
+  },
+  {
+    "word": "к1элык1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to color beneath; to paint beneath",
+        "examples": [
+          {
+            "sentence": "Африкэмк1э, шак1омэ анэхэр ш1уц1эк1э '''к1алык1ых'''",
+            "translation": "In Afrika, the huntets '''color beneath''' their eyes in black."
+          },
+		  {
+            "sentence": "Унэм ык1ашъо л1ым '''к1илык1ыгъ''' фыжьык1э",
+            "translation": "The man '''colored''' the ceiling in white."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "t͡ʃʼaɮat͡ʃʼən"
+  },
+  {
     "word": "1офытэн",
     "lang": "Adyghe",
     "definitions": [
@@ -108760,12 +108940,12 @@
         "meaning": "to send someone to bring something",
         "examples": [
           {
-            "sentence": "Гъазет къыхьынэу шъэожъыер '''Iофытэн'''",
-            "translation": "'''To send''' a kid to bring a newspaper."
+            "sentence": "Гъазет къыхьынэу шъэожъыер л1ым '''ы1офытагъ'''",
+            "translation": "The man '''sent''' the kid to bring a newspaper."
           },
           {
-            "sentence": "Сиянэ тучаным '''си1офытагъ''' сэлат къэсхьынэу",
-            "translation": "My mother '''send me''' to the shop to bring salad."
+            "sentence": "Сянэ тучаным '''сы1офытагъ''' щэ къэсхьынэу",
+            "translation": "My mother '''send me''' to the shop to bring milk."
           }
         ]
       }
@@ -108781,7 +108961,7 @@
         "meaning": "to go for someone to bring something",
         "examples": [
           {
-            "sentence": "Сиянэ тучаным '''сыфэ1офытагъ''' сэлат къэсхьынэу",
+            "sentence": "Сянэ тучаным '''сыфэ1офытагъ''' сэлат къэсхьынэу",
             "translation": "'''I went''' to the shop for my mother to bring salad."
           }
         ]

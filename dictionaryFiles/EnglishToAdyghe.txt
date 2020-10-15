@@ -1713,10 +1713,10 @@
     "to swear": "хъонэн"
   },
   {
-    "to color": "лэн"
+    "to color": "лэн; гъэлэн; ч1элэк1ын (to color beneath)"
   },
   {
-    "to paint": "лэн"
+    "to paint": "лэн; гъэлэн; ч1элэк1ын; ч1элэк1ын (to paint beneath)"
   },
   {
     "to hit": "еон (to hit/strike someone/something); тефэн (to come into contact with something forcefully and suddenly); тегъэфэн (to hit a target/mark); дэоен (to hit upward); еохын (to hit downward); хэон / жэхэон (to hit someone intensively); пыохьан (to beat someone by hitting); теутын (to hit with a projectil such as an arrow, rock or bullet); лъыон (to strike toward); зэк1эон (to strike backward); теон (to hit the surface of); ч1эон (to hit under something); зыохьан (to strike in all directions, to go berserk)"
@@ -12022,7 +12022,7 @@
     "thoughtful": "гупшысал; гупшысэм хихьэгъэ"
   },
   {
-    "to joke": "сэмэркъэу дэш1ын"
+    "to joke": "сэмэркъэу ш1ын; сэмэркъэу дэш1ын (to joke with); есэмэркъэун (to joke with)"
   },
   {
     "laughingstock": "к1энэк1алъ"
@@ -17602,6 +17602,9 @@
     "to point": "фэгъэзэн"
   },
   {
+    "to face": "фэгъэзэн (to face something to, to turn something to); 1ук1эн (to face someone, to meet someone)"
+  },
+  {
     "to redirect": "фэгъэзэжьын; лъыгъэк1ожьын"
   },
   {
@@ -17632,7 +17635,7 @@
     "malaria": "техьагъу"
   },
   {
-    "net": "хъы"
+    "net": "хъы; хъытыу (used for catching fish)"
   },
   {
     "disability": "сэкъатныгъ"
@@ -17647,13 +17650,10 @@
     "stoned": "(slang) егъэуагъ"
   },
   {
-    "noble": "оркъ"
+    "noble": "оркъ; л1экъолъэш"
   },
   {
-    "nobleman": "оркъ"
-  },
-  {
-    "noble clan": "л1экъолъэш"
+    "nobleman": "оркъ; л1экъолъэш"
   },
   {
     "clan": "л1акъо"
@@ -17663,6 +17663,9 @@
   },
   {
     "wound": "у1агъэ"
+  },
+  {
+    "wounded": "у1агъэ"
   },
   {
     "suitcase": "чэмэдан"
