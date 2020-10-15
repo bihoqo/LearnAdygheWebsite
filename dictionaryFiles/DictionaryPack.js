@@ -2095,7 +2095,16 @@
     "definitions": [
       {
         "meaning": "(Shapsug) back of the neck",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Сдый''' мэхъу",
+            "translation": "'''My back neck''' is aching"
+          },
+		  {
+            "sentence": "Л1ым '''ыдый''' к1алэр дэс",
+            "translation": "The boy is siting on the man's '''neck'''"
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -2320,6 +2329,10 @@
           {
             "sentence": "'''1эбжъэнэпыупк1ык1э''' пшъашъэм ы1эбжъанэр преупк1ых",
             "translation": "The girl cuts her '''fingernails''' using the nail clipper."
+          },
+		  {
+            "sentence": "к1алэм '''ы1эбжъанэхэмэ''' ацэкъэжьэу хищыгъ сэнэхьатэу",
+            "translation": "The boy started biting '''his nails''' as a habit."
           }
         ]
       }
@@ -4180,6 +4193,10 @@
           {
             "sentence": "Чэрэз '''плъыжьыр''' дахэ",
             "translation": "The '''red''' cherry is pretty."
+          },
+		  {
+            "sentence": "К1алэм ынэпашъо '''плъыжьэу''' хъугъэ",
+            "translation": "The boy's face became '''red'''"
           }
         ]
       }
@@ -8131,7 +8148,12 @@
     "definitions": [
       {
         "meaning": "rope",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''К1апсэ''' пхык1э зэсэгъаш1э",
+            "translation": "I am learning how to tie '''a rope'''."
+          }
+        ]
       }
     ],
     "shapsug": "к1ьапсэ",
@@ -32622,6 +32644,10 @@
             "sentence": "К1алэм ицуакъэ лъэпсэхэр '''епхых'''",
             "translation": "The boy '''is tying''' his shoelaces."
           },
+		  {
+            "sentence": "К1апсэ '''пхык1э''' зэсэгъаш1э",
+            "translation": "I am learning '''how to tie''' a rope."
+          }
           {
             "sentence": "'''Пхык1э''' зэгъаш1",
             "translation": "Learn to '''tie'''."
@@ -36027,6 +36053,10 @@
 		  {
             "sentence": "'''Шъукъысэмыдж''' зыгори тэшъумыгъэш1эщтымэ",
             "translation": "'''Do not call me''' if you guys are not going to let us do anything."
+          },
+		  {
+            "sentence": "К1алэр хьэм '''къеджи''' иунэ къыригъэк1ыгъ",
+            "translation": "The boy '''called''' the dog and made him come out of its house."
           }
         ]
       },
@@ -37199,6 +37229,44 @@
             "sentence": "мы1эрысым '''ецакъ'''",
             "translation": "'''Bite''' the apple."
           },
+		  {
+            "sentence": "л1ыжъыр тэрэзэу '''цэкъэшъурэп'''",
+            "translation": "The old man '''can't bite''' properly."
+          },
+		  {
+            "sentence": "хьэр к1алэм ы1э '''ецэкъагъ'''",
+            "translation": "The boy '''bited''' the boy's arm."
+          },
+          {
+            "sentence": "хьэр '''мэцакъэ'''",
+            "translation": "The dog '''is biting'''."
+          },
+          {
+            "sentence": "хьэм уеблагъэмэ '''къыоцэкъэщт'''",
+            "translation": "If you get close to the dog, '''it will bite you'''."
+          }
+        ]
+      }
+    ],
+    "kabardian": "дзэкъэн",
+    "type": "verb",
+    "ipa": "t͡saqan"
+  },
+  {
+    "word": "ецэкъэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to bite",
+        "examples": [
+          {
+            "sentence": "мы1эрысым '''ецакъ'''",
+            "translation": "'''Bite''' the apple."
+          },
+		  {
+            "sentence": "хьэр к1алэм ы1э '''ецэкъагъ'''",
+            "translation": "The boy '''bited''' the boy's arm."
+          },
           {
             "sentence": "хьэр '''мэцакъэ'''",
             "translation": "The dog '''is biting'''."
@@ -37210,13 +37278,17 @@
           {
             "sentence": "мыжъом '''уецакъэмэ''' уцэхэр 1уигъэтэкъущтых",
             "translation": "'''If you bite''' the rock, it will break your teeth."
+          },
+		  {
+            "sentence": "к1алэм ы1эбжъанэхэмэ '''ацэкъэжьэу''' хищыгъ сэнэхьатэу",
+            "translation": "The boy started '''biting''' his nails as a habit."
           }
         ]
       }
     ],
     "kabardian": "дзэкъэн",
     "type": "verb",
-    "ipa": "t͡saqan"
+    "ipa": "jat͡saqan"
   },
   {
     "word": "к1ыхьэ",
@@ -65037,6 +65109,14 @@
           {
             "sentence": "Псы псынк1эу уешъоу '''къыхэмыщ'''",
             "translation": "'''Don't start having the habit of''' drinking water fast."
+          },
+		  {
+            "sentence": "к1алэм сэнэхьат 1ай '''къыхищыгъ'''",
+            "translation": "The boy started having a bad '''habit'''."
+          },
+		  {
+            "sentence": "к1алэм ы1эбжъанэхэмэ ацэкъэжьэу '''хищыгъ''' сэнэхьатэу",
+            "translation": "The boy started biting his nails '''as a habit'''."
           }
         ]
       },
@@ -78465,6 +78545,10 @@
 		  {
             "sentence": "К1алэм дахэу л1ыр '''къыдэзек1орэп'''",
             "translation": "The man '''does not treat''' the boy nicely."
+          },
+		  {
+            "sentence": "К1алэр 1аеу '''зек1оу''' зырагъэуджэгъугъ",
+            "translation": "The boy '''acting''' awfully made himself be hated."
           }
         ]
       }
@@ -100382,9 +100466,12 @@
         ]
       },
 	  {
-        "meaning": "to divert from, to distract from (more specifically: to get distracted by thinking of other stuff)",
+        "meaning": "to get diverted from thinking about the important things; to get distracted by thinking of other stuff",
         "examples": []
       }
+    ],
+    "synonyms": [
+      "тегупсысык1ын"
     ],
     "shapsug": "тегупшысык1ьын",
     "type": "verb",
@@ -107145,7 +107232,12 @@
     "definitions": [
       {
         "meaning": "debris, rubbish, trash, garbage",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''хэк1ыр''' рехыжьы",
+            "translation": "The boy takes out '''the garbage'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -107161,6 +107253,10 @@
           {
             "sentence": "'''нэпэшъоутын''' уфая?",
             "translation": "Do you want '''a slap'''?"
+          },
+		  {
+            "sentence": "пшъашъэм '''нэпэшъоутын''' к1алэм ритыгъ",
+            "translation": "The girl gave '''a slap''' to the boy."
           }
         ]
       }
@@ -107174,7 +107270,16 @@
     "definitions": [
       {
         "meaning": "skin of the back part of the neck",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Сдыйшъо''' мэхъу",
+            "translation": "'''My back neck''' is aching"
+          },
+		  {
+            "sentence": "Л1ым '''ыдыйшъо''' к1алэр дэс",
+            "translation": "The boy is siting on the man's '''neck'''"
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -107186,26 +107291,31 @@
     "definitions": [
       {
         "meaning": "skin of the face",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''ынэпашъо''' плъыжьэу хъугъэ",
+            "translation": "The boy's '''skin face''' became red"
+          }
+        ]
       }
     ],
-    "synonyms": [
-      "нэгу"
-    ],
-    "kabardian": "нэк1у",
     "type": "noun",
     "ipa": "napaːʃʷa"
   },
   {
-    "word": "къегъэк1ын",
+    "word": "къигъэк1ын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to make out something as good",
+        "meaning": "to make out something as",
         "examples": [
           {
-            "sentence": "Ц1ыфымэ мы фылымыр '''къырагъэк1ы'''",
-            "translation": "People '''make out''' this film '''as good'''."
+            "sentence": "Ц1ыфымэ мы фылымыр 1аеу '''къырагъэк1ы'''",
+            "translation": "People '''make out''' this film as bad."
+          },
+		  {
+            "sentence": "Ц1ыфымэ мы шхыныр дэгъоу '''къырагъэк1ы'''",
+            "translation": "People '''make out''' this food as good."
           }
         ]
       },
@@ -107215,12 +107325,17 @@
           {
             "sentence": "К1алэм къеджи унэм '''къигъэк1'''",
             "translation": "Call the boy and '''make him come out of''' the house."
+          },
+		  {
+            "sentence": "К1алэр хьэм къеджи иунэ '''къыригъэк1ыгъ'''",
+            "translation": "The boy called the dog and '''made him come out of''' its house."
           }
         ]
       }
     ],
+    "shapsug": "къигъэк1ьын",
     "type": "verb",
-    "ipa": "qajʁat͡ʃʼən"
+    "ipa": "qəjʁat͡ʃʼən"
   },
   {
     "word": "шъхьэпай",
@@ -107228,7 +107343,12 @@
     "definitions": [
       {
         "meaning": "playful",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1элэ '''шъхьэпай'''",
+            "translation": "A '''playful''' boy."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -107240,12 +107360,32 @@
     "definitions": [
       {
         "meaning": "nonsense",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ым '''шъхьэубат''' къи1уатэрэр",
+            "translation": "What the man says is '''nonsense'''."
+          },
+		  {
+            "sentence": "К1алэм '''шъхьэубат''' къи1уатэрэр",
+            "translation": "What the boy talks about is '''nonsense'''."
+          },
+          {
+            "sentence": "'''Шъхьэубат''' ар",
+            "translation": "That's '''nonsense'''."
+          },
+          {
+            "sentence": "Л1ым и1оф '''шъхьэубат'''",
+            "translation": "The man's job is '''nonsense'''."
+          }
+        ]
       },
       {
         "meaning": "nonsense speaker; a person that speaks nonsense",
         "examples": []
       }
+    ],
+    "synonyms": [
+      "шъхьэубат"
     ],
     "type": "adj",
     "ipa": "ʂħawbaːt"
@@ -107272,6 +107412,10 @@
           {
             "sentence": "к1алэр '''къэкъушъугъ'''",
             "translation": "The boy '''farted'''"
+          },
+		  {
+            "sentence": "'''укъэкъушъугъа'''?",
+            "translation": "'''Did you farted'''?"
           }
         ]
       }
@@ -107279,6 +107423,7 @@
     "synonyms": [
       "къэкъун"
     ],
+    "shapsug": "къэхъушъун",
     "kabardian": "къэцыфын",
     "type": "verb",
     "ipa": "qaqʷəʃʷən"
@@ -107293,6 +107438,10 @@
           {
             "sentence": "к1алэр '''къэкъогъ'''",
             "translation": "The boy '''farted'''"
+          },
+		  {
+            "sentence": "'''укъэкъугъа'''?",
+            "translation": "'''Did you farted'''?"
           }
         ]
       }
@@ -107300,6 +107449,7 @@
     "synonyms": [
       "къэкъушъун"
     ],
+    "shapsug": "къэхъун",
     "kabardian": "къэцыфын",
     "type": "verb",
     "ipa": "qaqʷən"
@@ -107310,11 +107460,29 @@
     "definitions": [
       {
         "meaning": "specialty, profession (that in which one specializes)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "к1алэм '''исэнэхьатк1э''' к1элэегъадж",
+            "translation": "The young man's '''profession''' is teacher."
+          },
+		  {
+            "sentence": "к1алэм '''исэнэхьатк1э''' физика",
+            "translation": "The young man's '''profession''' is physics."
+          }
+        ]
       },
       {
         "meaning": "habit",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "к1алэм '''сэнэхьат''' 1ай къыхищыгъ",
+            "translation": "The boy started having a bad '''habit'''."
+          },
+		  {
+            "sentence": "к1алэм ы1эбжъанэхэмэ ацэкъэжьэу хищыгъ '''сэнэхьатэу'''",
+            "translation": "The boy started biting his nails '''as a habit'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -107340,23 +107508,78 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to make sense",
-        "examples": []
-      },
-      {
-        "meaning": "to comprehend",
-        "examples": []
+        "meaning": "to comprehend; to make sense; to understand; to catch",
+        "examples": [
+          {
+            "sentence": "'''Сшъхьэ''' пш1эн фаер '''къиубытыгъэп'''",
+            "translation": "'''I couldn't catch''' what must be done."
+          },
+		  {
+            "sentence": "Л1ыжъым ыжэ де1ухьажьы, къи1орэр '''сшъхьэ къиубытыгъэп'''",
+            "translation": "The old-man mumbles, '''I can't catch''' what he says."
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "ʂħam qəjwbətən"
   },
   {
+    "word": "жэдэ1ухьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to mutter; to mumble",
+        "examples": [
+          {
+            "sentence": "'''Ужэдэмы1ухьэу''' жъажъэу къэсдэгущы1",
+            "translation": "Speak to me slowly '''without mumbling'''."
+          },
+		  {
+            "sentence": "Л1ыжъым '''ыжэ де1ухьажьы''', къи1орэр сшъхьэ къиубытыгъэп",
+            "translation": "The old-man '''mumbles''', I can't catch what he says."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʒadaʔʷəħaːn"
+  },
+  {
+    "word": "жэ дэ1ухьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"жэдэ1ухьан\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʒa daʔʷəħaːn"
+  },
+  {
     "word": "гумы1ан",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "restless, fidgety",
+        "meaning": "restless, fidgety (not satisfied to be at rest or in peace)",
+        "examples": [
+          {
+            "sentence": "К1алэр '''гумы1ан'''",
+            "translation": "The boy is '''restless'''."
+          }
+        ]
+      }
+    ],
+    "type": "adj",
+    "ipa": "ɡʷəməʔaːn"
+  },
+  {
+    "word": "гумэк1ыл",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "uneasy, restive, anxious",
         "examples": []
       }
     ],
@@ -107364,35 +107587,21 @@
     "ipa": "ɡʷəməʔaːn"
   },
   {
-    "word": "тегупшысык1ын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to deflect/divert one's attention away from thinking about the important things",
-        "examples": []
-      },
-      {
-        "meaning": "to be distracted from thinking about the important things",
-        "examples": []
-      },
-      {
-        "meaning": "to underthink, to give insufficient thought or consideration to; fail to consider adequately.",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "тегупсысык1ын"
-    ],
-    "type": "verb",
-    "ipa": "tajɡʷəpʃəsət͡ʃʼən"
-  },
-  {
     "word": "зегъэуджэгъун",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to become loathsome / hated",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр 1аеу зек1оу '''зырагъэуджэгъугъ'''",
+            "translation": "The boy acting awfully '''made himself be hated'''."
+          },
+		  {
+            "sentence": "'''Забгъэуджэгъунэу''' уфая?",
+            "translation": "Do '''you''' want '''to become hated'''?"
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -107404,7 +107613,12 @@
     "definitions": [
       {
         "meaning": "there is no way (an expression of surprise and irritation)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Итхагъэп''' хъугъэр",
+            "translation": "What happened '''is ridiculous'''."
+          }
+        ]
       }
     ],
     "type": "intj",
@@ -107415,17 +107629,21 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "track; trace; a mark left by something that has passed along",
+        "meaning": "footprint, footstep; track; trace; a mark left by something that has passed along",
         "examples": [
           {
-            "sentence": "тыгъужъым илъэужхэр",
-            "translation": "wolf tracks"
+            "sentence": "Тыгъужъым '''илъэужхэр''' алъык1у",
+            "translation": "Follow the wolf's '''tracks'''."
+          },
+		  {
+            "sentence": "Шак1ор тхьак1умк1ыхьэ '''лъэужым''' техьагъ",
+            "translation": "The hunter went on the rabbit's tracks'''."
+          },
+		  {
+            "sentence": "Тхьак1умк1ыхьэм '''илъэуж''' слъэгъужьырэп",
+            "translation": "I no longer see the rabbit's '''footsteps'''."
           }
         ]
-      },
-      {
-        "meaning": "footprint, footstep",
-        "examples": []
       }
     ],
     "synonyms": [
@@ -107448,6 +107666,10 @@
           {
             "sentence": "'''Къэумэзэхымэ''' тыдэк1ыщт",
             "translation": "We will go out when '''it gets dark'''"
+          },
+          {
+            "sentence": "Сынэхэр '''къэумэзэхыгъэх'''",
+            "translation": "My eyes '''became dark'''."
           }
         ]
       }
@@ -107461,7 +107683,20 @@
     "definitions": [
       {
         "meaning": "to darken; to become dark",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Къэуш1унк1ыгъ'''",
+            "translation": "'''It got dark'''"
+          },
+          {
+            "sentence": "'''Къэуш1унк1ымэ''' тыдэк1ыщт",
+            "translation": "We will go out when '''it gets dark'''"
+          },
+          {
+            "sentence": "Сынэхэр '''къэуш1унк1ыгъэх'''",
+            "translation": "My eyes '''became dark'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -107472,11 +107707,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to bring closer",
-        "examples": []
-      },
-      {
-        "meaning": "to close something almost entirely but keeping a small opening",
+        "meaning": "alternative form of \"ещэл1эн\"",
         "examples": []
       }
     ],
@@ -107810,7 +108041,16 @@
     "definitions": [
       {
         "meaning": "back of the neck",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Спшъэб''' мэхъу",
+            "translation": "'''My back neck''' is aching"
+          },
+		  {
+            "sentence": "Л1ым '''ыпшъэб''' к1алэр дэс",
+            "translation": "The boy is siting on the man's '''neck'''"
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -113007,11 +113247,23 @@
     "ipa": "ʃʷʼəɬaʁʷən"
   },
   {
+    "word": "тегупсэфэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"гу тепсэфэн\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɡʷə tapsafan"
+  },
+  {
     "word": "гу тепсэфэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be in peace due to",
+        "meaning": "to be peaceful with; to be okay and feeling easy with (without worrying)",
         "examples": [
           {
             "sentence": "Мощ '''сыгу тепсафэ'''",
@@ -116277,17 +116529,25 @@
         "examples": [
           {
             "sentence": "К1алэм '''хьэшъутыубат''' къи1уатэрэр",
-            "translation": "The boy talks '''nonsense'''."
+            "translation": "The boy talks '''bullshit'''."
           },
           {
             "sentence": "'''Хьэшъуты убат''' ар",
-            "translation": "That's [[bullshit]]"
+            "translation": "That's bullshit."
+          },
+          {
+            "sentence": "Л1ым и1оф '''хьэшъуты убат'''",
+            "translation": "The man's job is '''bullshit'''."
+          },
+          {
+            "sentence": "Зы '''хьэшъуты убат''' ыш1агъэр",
+            "translation": "It is such a '''bullshit''' what (s)he did."
           }
-        ],
-        "tags": [
-          "vulgar"
         ]
       }
+    ],
+    "synonyms": [
+      "шъхьэубат"
     ],
     "type": "noun",
     "ipa": "ħaʃʷətəwəbaːt"

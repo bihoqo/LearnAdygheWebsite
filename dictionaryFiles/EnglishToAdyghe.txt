@@ -900,7 +900,22 @@
     "child": "бын (son or daughter); сабый"
   },
   {
-    "to mutter": "1упчъэпчъэн"
+    "to mutter": "жэдэ1ухьан; 1упчъэпчъэн"
+  },
+  {
+    "to mumble": "жэдэ1ухьан; 1упчъэпчъэн"
+  },
+  {
+    "to grumble": "гъумы-т1ымын"
+  },
+  {
+    "uneasy": "гумэк1ыл"
+  },
+  {
+    "anxious": "гумэк1ыл"
+  },
+  {
+    "restive": "джаргъэн (horse); гумэк1ыл"
   },
   {
     "July": "бэдзэогъумаз"
@@ -8410,7 +8425,7 @@
     "joyless": "чэфынчъэ"
   },
   {
-    "to bite": "цэкъэн; хэцэкъэн (to bite something)"
+    "to bite": "цэкъэн (to be biting); ецэкъэн (to bite something); хэцэкъэн (to bite within something)"
   },
   {
     "long": "к1ыхьэ; (dialectal) к1ахьы; к1ыхьэ-лыхь (sluggish, slow and prolonged)"
@@ -8510,6 +8525,12 @@
   },
   {
     "footstep": "ужы; лъэуж"
+  },
+  {
+    "to darken": "къэумэзэхын; къэуш1унк1ын; уш1унк1ын"
+  },
+  {
+    "to become dark": "къэумэзэхын; къэуш1унк1ын; уш1унк1ын"
   },
   {
     "empty": "нэк1ы"
@@ -8668,7 +8689,7 @@
     "to honor": "лъытэн; пхъатэ етын; пхъатэ фэш1ын"
   },
   {
-    "to understand": "гуры1он / къыгуры1он (to understand meaning); хэхьан (to get it); зэхэхын (to make out clearly what have been said or heard); (Shapsug) гулъытэн; гурыгъэ1он (to make someone understand); зэхэш1ык1ын (to comprehend; to understand or grasp fully and thoroughly)"
+    "to understand": "гуры1он / къыгуры1он (to understand meaning); хэхьан (to get it); зэхэхын (to make out clearly what have been said or heard); (Shapsug) гулъытэн; гурыгъэ1он (to make someone understand); зэхэш1ык1ын (to comprehend; to understand or grasp fully and thoroughly); шъхьэм къиубытын"
   },
   {
     "to notice": "гулъытэн"
@@ -11740,9 +11761,6 @@
     "and so": "джарэу"
   },
   {
-    "restive": "джаргъэн"
-  },
-  {
     "and so": "джаущтэу; джаузэ"
   },
   {
@@ -13600,7 +13618,7 @@
     "contented": "разэ"
   },
   {
-    "to be satisfied": "рэзэн; фэрэзэн (to be satisfied with); разэу хъун; гъэрэзэн (to satisfy someone)"
+    "to be satisfied": "рэзэн; фэрэзэн (to be satisfied with); разэу хъун; гъэрэзэн (to satisfy someone); гу тепсэфэн (to be peaceful with, to be okay and feeling easy with)"
   },
   {
     "to be contented": "рэзэн; фэрэзэн (to be contented with); разэу хъун; гъэрэзэн (to content someone)"
@@ -17455,13 +17473,13 @@
     "thorn": "панэ; (dialectal) къэцы"
   },
   {
-    "shoelace": "лъапсэ; лъэпс"
+    "shoelace": "лъэпс"
   },
   {
-    "shoelaces": "лъапсэ; лъэпс"
+    "shoelaces": "лъэпс"
   },
   {
-    "lace": "лъапсэ; лъэпс"
+    "lace": "лъэпс"
   },
   {
     "debris": "хэк1ы"
@@ -17476,7 +17494,7 @@
     "garbage": "хэк1ы"
   },
   {
-    "to make out": "къегъэк1ын"
+    "to make out": "зэхэхын (to make out sound clearly); зэхэш1ык1ын (to make out, to make sense, to comprehend); къигъэк1ын (to make out something as); шъхьэм къиубытын"
   },
   {
     "playful": "сэмэркъэуш1ыл; сэмэркъэу зыхэлъ; шъхьэпай"
@@ -17503,7 +17521,7 @@
     "profession": "сэнэхьат (that in which one specializes)"
   },
   {
-    "habit": "хабзэ; сэнэхьат; есэныгъ (to get used to)"
+    "habit": "хэщын / къыхэщын (to start having a certain habit); хабзэ; сэнэхьат; есэныгъ (to get used to)"
   },
   {
     "to make sense": "зэхэш1ык1ын; шъхьэм къиубытын; мэхьанэ и1эн"
