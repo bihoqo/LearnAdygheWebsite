@@ -27959,7 +27959,12 @@
     "definitions": [
       {
         "meaning": "sick, ill",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1элэц1ык1ум '''сымаджэу''' зеш1ы еджап1эм амыгъэк1он пае",
+            "translation": "The little boy pretends to be '''sick''', so he won't be sent to school."
+          }
+        ]
       }
     ],
     "shapsug": "сымагьэ",
@@ -33585,8 +33590,12 @@
         "meaning": "school",
         "examples": [
           {
-            "sentence": "к1алэр '''еджап1эм''' мак1о",
+            "sentence": "К1алэр '''еджап1эм''' мак1о",
             "translation": "The boy is going '''to school'''."
+          },
+		  {
+            "sentence": "К1элэц1ык1ум сымаджэу зеш1ы '''еджап1эм''' амыгъэк1он пае",
+            "translation": "The little boy pretends to be sick, so he won't be sent to '''school'''."
           }
         ]
       }
