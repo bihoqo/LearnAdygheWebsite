@@ -19063,7 +19063,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to hunt",
+        "meaning": "to hunt something",
         "examples": [
           {
             "sentence": "Шак1ом аслъанхэр '''ешэк1ох'''",
@@ -19078,6 +19078,74 @@
     ],
     "type": "verb",
     "ipa": "jaʃakʷʼan"
+  },
+  {
+    "word": "гъэк1он",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to send something to",
+        "examples": [
+          {
+            "sentence": "К1элэц1ык1ум сымаджэу зеш1ы еджап1эм '''амыгъэк1он''' пае",
+            "translation": "The little boy pretends to be sick, so he '''won't be sent to''' school."
+          }
+        ]
+      },
+	  {
+        "meaning": "to make someone go to",
+        "examples": [
+		  {
+            "sentence": "Неущы 1офым пасэу '''тагъэк1ощт'''",
+            "translation": "Tomorrow '''they will make us go''' to work early."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʁakʷʼan"
+  },
+  {
+    "word": "зыш1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to act like",
+        "examples": [
+		  {
+            "sentence": "К1алэм 1аеу '''зеш1ы'''",
+            "translation": "The boy '''acts''' awfully."
+          },
+		  {
+            "sentence": "К1алэм делэу '''зеш1ы'''",
+            "translation": "The boy '''acts like''' a fool."
+          },
+		  {
+            "sentence": "Делэу '''зымыш1'''",
+            "translation": "'''Don't act like''' a fool."
+          },
+		  {
+            "sentence": "К1алэм лажьэу '''зеш1ы'''",
+            "translation": "The boy '''acts like''' he is working."
+          }
+        ]
+      },
+	  {
+        "meaning": "to pretend; to make oneself appear to do or be doing something",
+        "examples": [
+		  {
+            "sentence": "К1элэц1ык1ум сымаджэу '''зеш1ы''' еджап1эм амыгъэк1он пае",
+            "translation": "The little boy '''pretends''' to be sick, so he won't be sent to school."
+          },
+		  {
+            "sentence": "К1алэм лажьэу '''зеш1ы'''",
+            "translation": "The boy '''pretends''' to work."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zəʃʼən"
   },
   {
     "word": "убытын",
