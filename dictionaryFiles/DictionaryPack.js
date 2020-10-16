@@ -15595,16 +15595,33 @@
     "ipa": "pəj"
   },
   {
-    "word": "налэ",
+    "word": "нал",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "horseshoe",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Шым '''нал''' к1алъхьагъ",
+            "translation": "They put '''horseshoe''' under the horse."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "naːla"
+  },
+  {
+    "word": "налэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"налэ\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "naːl"
   },
   {
     "word": "нахъутэ",

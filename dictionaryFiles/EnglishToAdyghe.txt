@@ -3339,7 +3339,7 @@
     "enemy": "пый"
   },
   {
-    "horseshoe": "налэ"
+    "horseshoe": "нал"
   },
   {
     "halter": "нахъутэ"
