@@ -17908,6 +17908,9 @@
     "to encourage": "ыгу къэ1этын / ыгу дэщэен (to encourage, to hearten, to cheer up, to reassure); тегъэгушхон (to encourage someone to, to drive someone to move)"
   },
   {
+    "to lift up": "ыгу къэ1этын / ыгу дэщэен (to encourage, to hearten, to cheer up, to reassure)"
+  },
+  {
     "to hearten": "ыгу къэ1этын / ыгу дэщэен; гъэгушхон"
   },
   {

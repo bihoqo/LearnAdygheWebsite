@@ -110021,7 +110021,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to encourage, to hearten, to cheer up, to reassure",
+        "meaning": "to encourage, to hearten, to cheer up, to reassure, to exalt the mood of someone (more specifically: to lift up)",
         "examples": [
           {
             "sentence": "К1алэр ежь игъусэпшъашъэ пык1ыжьыгъэти, к1алэм '''ыгу къэс1этыжьын''' фэягъ",
@@ -110030,6 +110030,10 @@
 		  {
             "sentence": "К1алэм ыгу к1одыгъэти, пшъашъэр к1уи дэгущы1агъ '''ыгу къи1этыжьынэу'''",
             "translation": "Because the boy lost hope, the girl went and spoke with him '''to cheer''' him '''up'''."
+          },
+		  {
+            "sentence": "Экзаменыр дэгъоу зэрэсш1ыгъэр сэлъэгъум, '''сыгу къи1этыгъ'''",
+            "translation": "When I saw how good I did the exam, '''it lifted me up'''."
           }
         ]
       }
@@ -110047,6 +110051,14 @@
           {
             "sentence": "К1алэр ежь игъусэпшъашъэ пык1ыжьыгъэти, к1алэм '''ыгу дэсщэежьын''' фэягъ",
             "translation": "Becasue the boy broke up with his girlfriend, '''I''' had '''to cheer''' the boy '''up'''."
+          },
+		  {
+            "sentence": "К1алэм ыгу к1одыгъэти, пшъашъэр к1уи дэгущы1агъ '''ыгу дищэежьынэу'''",
+            "translation": "Because the boy lost hope, the girl went and spoke with him '''to cheer''' him '''up'''."
+          },
+		  {
+            "sentence": "Экзаменыр дэгъоу зэрэсш1ыгъэр сэлъэгъум, '''сыгу дищэягъ'''",
+            "translation": "When I saw how good I did the exam, '''it lifted me up'''."
           }
         ]
       }
