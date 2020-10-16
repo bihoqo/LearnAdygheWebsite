@@ -2016,7 +2016,22 @@
     "blind": "нэшъу"
   },
   {
-    "short": "к1ако"
+    "cattle-shed": "былымэщ; 1эщ"
+  },
+  {
+    "cow-house": "былымэщ; 1эщ"
+  },
+  {
+    "sheepcote": "былымэщ; 1эщ"
+  },
+  {
+    "waistcoat": "ныбалъ"
+  },
+  {
+    "height": "лъэгап1э"
+  },
+  {
+    "short": "к1ако; к1эк1"
   },
   {
     "correct": "тэрэз"
@@ -3237,9 +3252,6 @@
     "tunnel": "бгыгъуанэ"
   },
   {
-    "beam": "бгыкъу"
-  },
-  {
     "girder": "бгыкъу"
   },
   {
@@ -3423,7 +3435,7 @@
     "porridge": "п1аст1э"
   },
   {
-    "thick": "1ужъу"
+    "thick": "1ужъу; пщэры; ныбэшъу"
   },
   {
     "dense": "зэу щыт, пытэу зэхэт"
@@ -5420,6 +5432,21 @@
   },
   {
     "spider net": "бэджыхъ"
+  },
+  {
+    "spider net": "cobweb"
+  },
+  {
+    "to be near": "1утын; ыдэжь 1утын"
+  },
+  {
+    "to be around": "1утын; ыдэжь 1утын"
+  },
+  {
+    "to be employed in": "1утын; щылэжьэн"
+  },
+  {
+    "to work in": "1утын; щылэжьэн"
   },
   {
     "fox den": "бэджэбы"
@@ -8824,7 +8851,7 @@
     "curved": "1онт1агъ; 1орт1агъ (Shapsug); къуащэ"
   },
   {
-    "foolish": "делэ; жэ1улэл; (vulgar) цуманэ"
+    "foolish": "делэ; жэ1улэл; (vulgar) цуманэ; хьакъ-мэкъ; акъылынчъ (brainless)"
   },
   {
     "silly": "мы1уш; жэ1улэл; 1улэ"
@@ -8833,7 +8860,7 @@
     "unwise": "мы1уш; акъылынчъэ; гулъытэнчъэ"
   },
   {
-    "stupid": "делэ"
+    "stupid": "делэ; хьакъ-мэкъ"
   },
   {
     "foolishness": "делагъэ; (vulgar) цумэнагъэ"
@@ -11671,10 +11698,13 @@
     "to think with": "дегупшысэн"
   },
   {
-    "to turn upside down": "зэпырыгъэзэн"
+    "to turn upside down": "зэпырызэн (to be turned upside down); зэпырыгъэзэн (to turn something upside down)"
   },
   {
-    "to flip over": "зэпырыгъэзэн"
+    "to flip over": "зэпырызэн (to be flipped over); зэпырыгъэзэн (to turn something upside down)"
+  },
+  {
+    "flipped": "зэпырызагъ"
   },
   {
     "fuck you": "(vulgar) осэп1ыс; (vulgar) ушъуты исагъ"
@@ -13309,7 +13339,7 @@
     "bird food": "шкъун"
   },
   {
-    "shed": "къакъыр"
+    "shed": "бгъагъэ; къакъыр"
   },
   {
     "reed": "къамыл"
@@ -14167,7 +14197,7 @@
     "to thrust": "хэсэн (to thrust into)"
   },
   {
-    "to plunge": "хэсэн (to plunge into)"
+    "to plunge": "хэсэн (to plunge into); хэгъэон (to put into a liquid)"
   },
   {
     "to pick up stuff": "къэщыпын; тещыпык1ын (to pick up stuff from)"
@@ -14519,12 +14549,6 @@
   },
   {
     "to care for": "фигъэпэн"
-  },
-  {
-    "to surrender": "1э къэ1этын"
-  },
-  {
-    "to give up": "1э къэ1этын"
   },
   {
     "to whirl": "чэрэзын (to be whirling); гъэчэрэгъун  (to whirl something)"
@@ -17740,6 +17764,9 @@
     "borders of a field": "хьасэтх"
   },
   {
+    "roof shed": "ч1ыбгъэ"
+  },
+  {
     "pergola": "ч1ыбгъэ"
   },
   {
@@ -17752,7 +17779,10 @@
     "bower": "ч1ыбгъэ"
   },
   {
-    "impatient": "гузэжъопх; щы1эныгъэ зыхэмылъэр"
+    "impatient": "гузэжъопх; щы1эныгъэ зыхэмылъэр; гузэжъуал (hasty)"
+  },
+  {
+    "hasty": "гузэжъуал; гузэжъопх (impatient)"
   },
   {
     "hurry": "ш1уабэ"
@@ -17782,7 +17812,19 @@
     "seaboard": "хы1ушъо"
   },
   {
+    "seacoast": "хы1ушъо"
+  },
+  {
     "to dip": "хэгъэон"
+  },
+  {
+    "to immerse": "хэгъэон"
+  },
+  {
+    "to dunk": "хэгъэон"
+  },
+  {
+    "to submerge": "хэгъэон"
   },
   {
     "to quench": "хэгъэон"
@@ -17800,7 +17842,37 @@
     "mistrustful": "цыхьэмыш1"
   },
   {
-    "suspicious": "цыхьэмыш1"
+    "suspicious": "цыхьэш1эгъунчъэ"
+  },
+  {
+    "suspect": "цыхьэш1эгъунчъэ"
+  },
+  {
+    "shady": "цыхьэш1эгъунчъэ"
+  },
+  {
+    "fishy": "цыхьэш1эгъунчъэ"
+  },
+  {
+    "sceptic": "цыхьэмыш1"
+  },
+  {
+    "to consist of": "икъун"
+  },
+  {
+    "log": "пкъэу"
+  },
+  {
+    "block": "пхъэ такъыр"
+  },
+  {
+    "blockhead": "пхъэ такъыр; мыкъ-мыдж"
+  },
+  {
+    "dimwit": "делэ; хьакъ-мэкъ; мыкъ-мыдж"
+  },
+  {
+    "beam": "пкъэу (log, beam (trunk of dead tree, cleared of branches)); бгыкъу (beam, girder); нэбзый (ray, beam)"
   },
   {
     "person": "ц1ыфы; нэбгыр (used when the amount of people in a sentence is important); (Shapsug) нэбгы"
@@ -17809,7 +17881,40 @@
     "grandchildren (on the line of the daughter); one's daughter's children": "пхъурылъф"
   },
   {
-    "to push": "1унк1эн (to push someone); т1ыргун / ет1ыргун (to push someone); (Shapsug) егук1эн; ифын (to drive/push from an area, to drive/push from inside); 1уфын (to drive/push from near); дэфыен (to drive/push up); ефэхын (to drive/push down); блэфын (to drive/push pass); ч1эфын (to drive/push from under); тефын (to drive/push from above); хэфын (to drive/push from among other people/animals/objects, to drive/push from an area with gas or liquid, to drive/push from the forest or field); дэфын (to drive/push from a defined area such as a yard, area, village, etc.); къофын (to drive/push from behind); е1эн (to push with might); егъэк1отыл1эн (to push something closer to something)"
+    "to push": "1унк1эн; е1унк1ын (to push someone); т1ыргун; ет1ыргун (to push someone); (Shapsug) егук1эн; ифын (to drive/push from an area, to drive/push from inside); 1уфын (to drive/push from near); дэфыен (to drive/push up); ефэхын (to drive/push down); блэфын (to drive/push pass); ч1эфын (to drive/push from under); тефын (to drive/push from above); хэфын (to drive/push from among other people/animals/objects, to drive/push from an area with gas or liquid, to drive/push from the forest or field); дэфын (to drive/push from a defined area such as a yard, area, village, etc.); къофын (to drive/push from behind); е1эн (to push with might); егъэк1отыл1эн (to push something closer to something)"
+  },
+  {
+    "to lose hope": "ыгу к1одын / гук1одын"
+  },
+  {
+    "to become frustrated": "ыгу к1одын / гук1одын"
+  },
+  {
+    "to lose motivation": "ыгу к1одын / гук1одын"
+  },
+  {
+    "to have a breakdown": "ыгу к1одын / гук1одын"
+  },
+  {
+    "to despair": "ыгу к1одын / гук1одын"
+  },
+  {
+    "to surrender": "1э къэ1этын"
+  },
+  {
+    "to give up": "1э къэ1этын (to surrender); ыгу к1одын / гук1одын (to give up all hope or expectations)"
+  },
+  {
+    "to encourage": "ыгу къэ1этын / ыгу дэщэен (to encourage, to hearten, to cheer up, to reassure); тегъэгушхон (to encourage someone to, to drive someone to move)"
+  },
+  {
+    "to hearten": "ыгу къэ1этын / ыгу дэщэен; гъэгушхон"
+  },
+  {
+    "to cheer up": "ыгу къэ1этын / ыгу дэщэен; гъэгушхон"
+  },
+  {
+    "to reassure": "ыгу къэ1этын / ыгу дэщэен; гъэгушхон"
   },
   {
     "gallop": "хьапк1"
@@ -17825,9 +17930,6 @@
   },
   {
     "ray": "нэбзый"
-  },
-  {
-    "beam": "нэбзый"
   },
   {
     "crookedly": "къуащэу; 1онт1агъэу; 1орт1агъэу (Shapsug); къонц1эу; лъэныкъуащэу"
@@ -18619,6 +18721,9 @@
     "to work out": "къыдэхъун"
   },
   {
+    "to succeed": "ш1ышъун (to be able to do); дэгъоу къигъэк1ын / дахэу къигъэк1ын (to make something turn out to be good); къыфигъэк1ын (to successfully do); къыдэхъун (to work out, to turn out well)"
+  },
+  {
     "to turn out well": "къыдэхъун"
   },
   {
@@ -18695,6 +18800,18 @@
   },
   {
     "larynx": "къурбэкъэй; къурбычый"
+  },
+  {
+    "short-legged": "лъэкур; лъэкъо кIэк1; лъэкъо к1аку"
+  },
+  {
+    "dwarf": "лъэкур"
+  },
+  {
+    "shortish": "лъэкур"
+  },
+  {
+    "undersized": "лъэкур"
   },
   {
     "bow-legged": "лъэк1эп1ащ"
@@ -18992,15 +19109,6 @@
   },
   {
     "to memorize": "езбырэу зэгъэш1эн; гум иубытэн; шъхьэм иубытэн"
-  },
-  {
-    "undersized": "лъэкур"
-  },
-  {
-    "shortish": "лъэкур"
-  },
-  {
-    "dwarf": "лъэкур"
   },
   {
     "wee": "ц1ык1ужъый"
