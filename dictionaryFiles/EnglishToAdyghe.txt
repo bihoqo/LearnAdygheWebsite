@@ -1020,7 +1020,7 @@
     "decade": "илъэсипш1"
   },
   {
-    "to jump": "пк1эн; дэпк1эен (to jump upward); епк1эхын (to jump down); лъэн; тепк1эн (to jump on something); тепк1ын / къытепк1ын (to jump off something); ч1эпк1эн (to jump under something); ч1эпк1ын / къыч1эпк1ын (to jump from under something); 1упк1эн (to jump near something); 1упк1ын / къы1ук1ын (to jump away from something); дэпк1эн (to jump into a yard); дэпк1ын / къыдэпк1ын (to jump from a yard); гопк1эн / бгъодэпк1эн (to jump besides something); гопк1ын / къыгопк1ын / бгъодэпк1ын / къыбгъодэпк1ын (to jump from besides something); ипк1эн (to jump inside something); ипк1ын / къыипк1ын (to jump from inside something); къопк1эн (to jump behind something); къопк1ын / къыкъопк1ын (to jump from behind something); жэхэпк1эн (to intensively jump on/against something); пыпк1эн (to jump on a tree or branch); пыпк1ын / къыпыпк1ын (to jump from a tree or branch); блэпк1ын (to jump pass something, to jump over something); шъхьадэпк1ын (to jump over something); шъхьапырыпк1ын (to jump pass something); зэк1эпк1эн (to jump backward); лъыпк1эн (to jump toward something); къызыщылъэтын (to unexpectedly jump up)"
+    "to jump": "пк1эн; дэпк1эен (to jump upward); епк1эхын (to jump down); лъэн; тепк1эн (to jump on something); тепк1ын / къытепк1ын (to jump off something); ч1эпк1эн (to jump under something); ч1эпк1ын / къыч1эпк1ын (to jump from under something); 1упк1эн (to jump near something); 1упк1ын / къы1ук1ын (to jump away from something); дэпк1эн (to jump into a yard); дэпк1ын / къыдэпк1ын (to jump from a yard); гопк1эн / бгъодэпк1эн (to jump besides something); гопк1ын / къыгопк1ын / бгъодэпк1ын / къыбгъодэпк1ын (to jump from besides something); ипк1эн (to jump inside something); ипк1ын / къыипк1ын (to jump from inside something); къопк1эн (to jump behind something); къопк1ын / къыкъопк1ын (to jump from behind something); жэхэпк1эн (to intensively jump on/against something); пыпк1эн (to jump on a tree or branch); пыпк1ын / къыпыпк1ын (to jump from a tree or branch); блэпк1ын (to jump pass something, to jump over something); шъхьадэпк1ын (to jump over something); шъхьапырыпк1ын (to jump pass something); зэк1эпк1эн (to jump backward); лъыпк1эн (to jump toward something); къызыщылъэтын (to unexpectedly jump up); пк1этэн (to jump rapidly, to hop around)"
   },
   {
     "thank you": "тхьауегъэпсэу"
@@ -3924,7 +3924,10 @@
     "successful": "гъэхъагъэ зи1э"
   },
   {
-    "bush": "куандэ"
+    "bush": "куандэ; шъхьанд; шъхьандалъ / кондалъ (thicket, a dense, but generally small, growth of shrubs, bushes or small trees)"
+  },
+  {
+    "thicket" "шъхьандалъ / кондалъ (thicket, a dense, but generally small, growth of shrubs, bushes or small trees)"
   },
   {
     "cradle": "кушъэ"
@@ -4759,7 +4762,7 @@
     "to enslave": "пщыл1ы ш1ын; гъэпщылIын"
   },
   {
-    "to drink": "ешъон; егъэшъон (to make someone drink); хэшъон (to drink from a container directly or from a sea/river); ишъун (to drink up liquid from something); ишъук1ын (to completely drink up liquid from something); ешъук1ын (to be saturated after drinking)"
+    "to drink": "ешъон; егъэшъон (to make someone drink); хэшъон (to drink from a container directly or from a sea/river); ишъун (to drink up liquid from something); ишъук1ын (to completely drink up liquid from something); ешъук1ын (to be saturated after drinking); тешъун (to drink off something from the surface of)"
   },
   {
     "to gulp down": "псы ек1эхын (ащ псы рек1эхы - (s)he gulps down water)"
@@ -4852,7 +4855,13 @@
     "to repair": "гъэтэрэзыжьын (recorrect); ш1ыжьын (to fix); дыжьын (to sew up), гъэцэк1эжьын (to mend)"
   },
   {
-    "to fix": "гъэтэрэзыжьын (recorrect); ш1ыжьын (to repair); дыжьын (to sew up), гъэцэк1эжьын (to mend)"
+    "to fix": "гъэтэрэзыжьын (recorrect); ш1ыжьын (to repair); дыжьын (to sew up), гъэцэк1эжьын (to mend); пытэу ш1ын / гъэпытэн (to fix something on a certain place, to firm something); тегъэпытыхьан (to make something firm on, to fix something on)"
+  },
+  {
+    "to firm": "пытэу ш1ын / гъэпытэн (to make firm); тегъэпытыхьан (to make something firm on, to fix something on)"
+  },
+  {
+    "to reinforce": "пытэу ш1ын / гъэпытэн; тегъэпытыхьан (to reinforce on)"
   },
   {
     "to destroy": "гъэон; убэтэн; зэхэкъутэн; зэхэкъутыхьан; зэхэубэтэн; зэхэубэтыхьан; (from Arabic) гъэухъэрэбын; ш1огъэон (to destroy someone's property or plan); ш1оубэтэн (to destroy/break someone's property); къегъэохын (to destroy something and make it fall down)"
@@ -6847,7 +6856,7 @@
     "to spark": "пыпсык1ын; къыхэц1ыук1ын (to spark among other things)"
   },
   {
-    "to shine": ""
+    "to shine": "ц1ыон; ц1ыотэн (to shine rapidly)"
   },
   {
     "to emit light": "нэфнэ пыпсык1ын"
@@ -8722,7 +8731,10 @@
     "to notice": "гулъытэн"
   },
   {
-    "to realize": "гулъытэн"
+    "to realize": "гулъытэн; гутефэн"
+  },
+  {
+    "bam": "т1ыргу; дыргу"
   },
   {
     "to communicate": " къэбар егъэ1уныр, къэбар егъэш1эныр; 1опщын"
@@ -8845,7 +8857,7 @@
     "to curve": "1онт1эн (to be curved); гъэ1онт1эн (to curve something); гъэ1орт1эн (Shapsug)"
   },
   {
-    "crooked": "1онт1агъ; 1орт1агъ (Shapsug); къуащэ; лъэныкъуащ; лъэныкъуащ; тазэ, к1элъэныкъуащ"
+    "crooked": "1онт1агъ; 1орт1агъ (Shapsug); къуащэ; лъэныкъуащ; тазэ, к1элъэныкъуащ"
   },
   {
     "curved": "1онт1агъ; 1орт1агъ (Shapsug); къуащэ"
@@ -11944,7 +11956,16 @@
     "to temper": "псыхьан"
   },
   {
-    "to harden": "пытэ хъун; пытэ пш1ын (to harden something); гъэпытэн (to harden something); псыхьан (to temper, to strengthen or toughen a material, especially metal, by heat treatment); чъын"
+    "to strengthen": "пытэ хъун; пытэу ш1ын / гъэпытэн (to strengthen something); псыхьан (to temper, to strengthen or toughen a material, especially metal, by heat treatment); тегъэпытыхьан (to strengthen something on)"
+  },
+  {
+    "to harden": "пытэ хъун; пытэу ш1ын / гъэпытэн (to harden something); псыхьан (to temper, to strengthen or toughen a material, especially metal, by heat treatment); чъын; къын; тегъэпытыхьан (to harden something on)"
+  },
+  {
+    "to tighten": "пытэу ш1ын / гъэпытэн (to tighten something); тегъэпытыхьан (to tighten something on)"
+  },
+  {
+    "to secure": "пытэу ш1ын / гъэпытэн (to secure something); тегъэпытыхьан (to secure something on)"
   },
   {
     "mark": "плъышъо"
@@ -16924,6 +16945,12 @@
     "impermanent": "техьэ-тек1"
   },
   {
+    "fixed": "зыпкъ ит (does not move or change); тегъэпытыхьагъ (fixed on a certain position, firmed, well firmed); ш1ыжьыгъ (fixed, repaired)"
+  },
+  {
+    "firmed": "тегъэпытыхьагъ (fixed on a certain position, firmed, well firmed)"
+  },
+  {
     "constant": "зыпкъ ит"
   },
   {
@@ -17926,13 +17953,7 @@
     "galop": "хьапк1"
   },
   {
-    "to shine rapidly": "ц1ыотэн"
-  },
-  {
-    "to jump rapidly": "пк1этэн"
-  },
-  {
-    "ray": "нэбзый"
+    "ray": "нэбзый (ray, beam)"
   },
   {
     "crookedly": "къуащэу; 1онт1агъэу; 1орт1агъэу (Shapsug); къонц1эу; лъэныкъуащэу"
@@ -17941,13 +17962,13 @@
     "awry": "къуащэу"
   },
   {
-    "bushes": "шъхьанд; куанд"
+    "bushes": "шъхьанд; куанд; шъхьандалъ / кондалъ (thicket, a dense, but generally small, growth of shrubs, bushes or small trees)"
   },
   {
-    "shrubs": "шъхьанд; куанд"
+    "shrubs": "шъхьанд; куанд; шъхьандалъ / кондалъ (thicket, a dense, but generally small, growth of shrubs, bushes or small trees)"
   },
   {
-    "shrubbery": "шъхьанд; куанд"
+    "shrubbery": "шъхьанд; куанд; шъхьандалъ / кондалъ (thicket, a dense, but generally small, growth of shrubs, bushes or small trees)"
   },
   {
     "drake": "псычэтыхъу"
@@ -17956,13 +17977,13 @@
     "male duck": "псычэтыхъу"
   },
   {
-    "to be precise": "тегъэпытахьан"
+    "to be precise": "тегъэпытыхьан"
   },
   {
-    "to be strict": "тегъэпытахьан"
+    "to be strict": "тегъэпытыхьан"
   },
   {
-    "to be punctilious": "тегъэпытахьан"
+    "to be punctilious": "тегъэпытыхьан"
   },
   {
     "to fix a clock": "тегъэпсыхьан"
@@ -17971,10 +17992,13 @@
     "to set": "тегъэпсыхьан (machines)"
   },
   {
-    "to patch": "тедэжьын; хэдэжьын"
+    "to patch": "тедэжьын (to cover a tear with a patch); тегъэпк1эн (to stick on)"
   },
   {
     "bandage": "тепхэ"
+  },
+  {
+    "plaster": "тепхэ"
   },
   {
     "to glue on": "тегъэпк1эн"

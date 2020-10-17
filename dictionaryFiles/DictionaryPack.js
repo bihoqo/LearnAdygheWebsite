@@ -12902,6 +12902,10 @@
           {
             "sentence": "Ц1ыфыхэм '''апэ''' умыуцу",
             "translation": "Don't stand '''in front''' of people."
+          },
+          {
+            "sentence": "Псычэтыхъур '''апэ''' итэу псычэтхэр псым хэхьагъэх",
+            "translation": "While the drake '''is in front''', the ducks entered the water."
           }
         ]
       },
@@ -18441,18 +18445,6 @@
     "shapsug": "щао",
     "type": "noun",
     "ipa": "ɕaɡʷ"
-  },
-  {
-    "word": "куандэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "bush",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "kʷaːnfa"
   },
   {
     "word": "кушъэ",
@@ -41794,7 +41786,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "expression of Crashing/Falling sound",
+        "meaning": "bam; expression of crashing/falling sound",
         "examples": [
           {
             "sentence": "мыжъор едзым '''дыргу''' къыригъэ1уагъ",
@@ -46156,8 +46148,12 @@
             "translation": "I am '''hanging up''' the laundry."
           },
           {
-            "sentence": "гык1ыгъэхэр '''пылъэх''' чъыгым",
+            "sentence": "Гык1ыгъэхэр '''пылъэх''' чъыгым",
             "translation": "'''Hang up''' the laundry on the tree."
+          },
+		  {
+            "sentence": "Сурэтыр къуащэу '''пылъагъ'''",
+            "translation": "The picture is '''hanged''' crookedly."
           }
         ]
       }
@@ -51294,6 +51290,18 @@
     "ipa": "xaːma"
   },
   {
+    "word": "ыгу къеон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"гу къеон\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "əɡʷə jawan"
+  },
+  {
     "word": "гу къеон",
     "lang": "Adyghe",
     "definitions": [
@@ -53794,6 +53802,18 @@
     ],
     "type": "noun",
     "ipa": "ɡʷənaːħ"
+  },
+  {
+    "word": "ыгу е1ун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"гу е1ун\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɡʷjaʔʷən"
   },
   {
     "word": "гуе1ун",
@@ -59528,7 +59548,20 @@
     "ipa": "gʷəpət͡ʃʼ"
   },
   {
-    "word": "гупык1н",
+    "word": "ыгу пык1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"гу пык1н\"",
+        "examples": []
+      }
+    ],
+    "shapsug": "гупык1ь",
+    "type": "adj",
+    "ipa": "əgʷə pət͡ʃʼən"
+  },
+  {
+    "word": "гупык1ын",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -59541,7 +59574,7 @@
     "ipa": "gʷəpət͡ʃʼ"
   },
   {
-    "word": "гу пык1н",
+    "word": "гу пык1ын",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -59561,6 +59594,19 @@
     "shapsug": "гу пык1ьын",
     "type": "verb",
     "ipa": "gʷə pət͡ʃʼən"
+  },
+  {
+    "word": "ыгу пык1эу",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "alternative form of \"гу пык1эу\"",
+        "examples": []
+      }
+    ],
+    "shapsug": "гу пык1ьэу",
+    "type": "adv",
+    "ipa": "əgʷə pət͡ʃʼaw"
   },
   {
     "word": "гупык1эу",
@@ -61037,6 +61083,18 @@
     "ipa": "maχaʃaːɮ"
   },
   {
+    "word": "гу мыхь",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"гомыхь\"",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "gʷəməħ"
+  },
+  {
     "word": "гумыхь",
     "lang": "Adyghe",
     "definitions": [
@@ -61071,6 +61129,18 @@
     ],
     "type": "adj",
     "ipa": "məgʷapa"
+  },
+  {
+    "word": "гу мы1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"гомы1у\"",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "gʷəməħ"
   },
   {
     "word": "гумы1у",
@@ -61420,6 +61490,19 @@
     "shapsug": "угь",
     "type": "noun",
     "ipa": "wəd͡ʒ"
+  },
+  {
+    "word": "ыгу къэк1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"гукъэк1ын\"",
+        "examples": []
+      }
+    ],
+    "shapsug": "гу къэк1ьын",
+    "type": "verb",
+    "ipa": "ɡʷə qat͡ʃʼən"
   },
   {
     "word": "гу къэк1ын",
@@ -72914,6 +72997,10 @@
 		  {
             "sentence": "К1алэм пхъэнт1эк1ухэр '''1анэм''' к1элъирыгъэуцуагъэх",
             "translation": "The boy placed the chairs next to '''the table'''."
+          },
+		  {
+            "sentence": "'''1анэр''' тазэу щыт",
+            "translation": "'''The table''' is standing crookedly."
           }
         ]
       },
@@ -96764,6 +96851,18 @@
     "ipa": "ɡʷəjəx"
   },
   {
+    "word": "ыгу ихын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"гу ихын\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "gʷəjəxən"
+  },
+  {
     "word": "гуихын",
     "lang": "Adyghe",
     "definitions": [
@@ -100668,6 +100767,21 @@
     ],
     "type": "noun",
     "ipa": "ħaqʷaːʃʷa"
+  },
+  {
+    "word": "ыгу егъун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"гуегъун\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "шъхьасын"
+    ],
+    "type": "verb",
+    "ipa": "ɡʷə jaʁʷən"
   },
   {
     "word": "гу егъун",
@@ -108805,7 +108919,12 @@
     "definitions": [
       {
         "meaning": "wound",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''У1агъэм''' тепхэ телъхьан",
+            "translation": "To put a bandage on the '''wound'''."
+          }
+        ]
       },
 	  {
         "meaning": "wounded",
@@ -110067,6 +110186,55 @@
     "ipa": "əgʷə qaʔatən"
   },
   {
+    "word": "ыгу тефэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"гутефэн\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "əgʷ tajfan"
+  },
+  {
+    "word": "гу тефэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"гутефэн\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "gʷ tajfan"
+  },
+  {
+    "word": "гутефэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to realize",
+        "examples": [
+          {
+            "sentence": "'''Cыгутефагъ''' сыд тш1эн фаер",
+            "translation": "'''I realized''' waht we need to do."
+          },
+		  {
+            "sentence": "Фылымымк1э хъугъэр '''угу тефагъа'''?",
+            "translation": "'''Did you realize''' what happened in the movie?"
+          },
+		  {
+            "sentence": "Къэс1орэр '''угу тефа'''?",
+            "translation": "'''Do you realize''' what I am saying?"
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "gʷtajfan"
+  },
+  {
     "word": "тегъэгушхон",
     "lang": "Adyghe",
     "definitions": [
@@ -110110,7 +110278,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(impact noise)",
+        "meaning": "bam (an expression of an impact noise)",
         "examples": []
       }
     ],
@@ -110122,11 +110290,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "gallop",
-        "examples": []
-      },
-      {
-        "meaning": "galop",
+        "meaning": "galop; gallop",
         "examples": []
       }
     ],
@@ -110144,6 +110308,18 @@
     ],
     "type": "verb",
     "ipa": "qaɮədən"
+  },
+  {
+    "word": "къэц1ыотэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"ц1ыотэн\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "t͡sʼəwatan"
   },
   {
     "word": "ц1ыотэн",
@@ -110175,11 +110351,33 @@
     "definitions": [
       {
         "meaning": "ray, beam",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "тыгъэм '''инэбзыйхэр'''",
+            "translation": "The sun's '''beams'''."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "nabzəj"
+  },
+  {
+    "word": "тешъун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to drink off something from the surface of",
+        "examples": [
+          {
+            "sentence": "1анэм псы тек1агъэр '''тесэшъу'''",
+            "translation": "'''I am drinking off''' the water that was spilled on the table."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "tajʃʷən"
   },
   {
     "word": "къуащэу",
@@ -110187,7 +110385,12 @@
     "definitions": [
       {
         "meaning": "crookedly",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Cурэтыр '''къуащэу''' пылъагъ",
+            "translation": "The picture is hanged '''crookedly'''."
+          }
+        ]
       },
       {
         "meaning": "awry",
@@ -110198,16 +110401,81 @@
     "ipa": "qʷaːɕaw"
   },
   {
+    "word": "тазэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "crooked",
+        "examples": [
+          {
+            "sentence": "1анэр '''тазэу''' щыт",
+            "translation": "The table is standing '''crookedly'''."
+          }
+        ]
+      }
+    ],
+    "type": "adj",
+    "ipa": "ɬanəqʷaːɕ"
+  },
+  {
+    "word": "к1элъэныкъуащ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "crooked, curved",
+        "examples": [
+          {
+            "sentence": "1анэр '''к1элъэныкъуащэу''' щыт",
+            "translation": "The table is standing '''crookedly'''."
+          }
+        ]
+      }
+    ],
+    "type": "adj",
+    "ipa": "ɬanəqʷaːɕ"
+  },
+  {
     "word": "лъэныкъуащ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "crooked, curved",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "1анэр '''лъэныкъуащэу''' щыт",
+            "translation": "The table is standing '''crookedly'''."
+          }
+        ]
       }
     ],
     "type": "adj",
     "ipa": "ɬanəqʷaːɕ"
+  },
+  {
+    "word": "куандэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "bushes, shrubs, shrubbery",
+        "examples": [
+          {
+            "sentence": "'''Куандэм''' тхьак1умк1ыхьэр къыхэхъушъутыгъ",
+            "translation": "The rabbit ran out from the '''bushes'''."
+          },
+		  {
+            "sentence": "'''Куандэм''' тхьак1умк1ыхьэр хэлъэдагъ",
+            "translation": "The rabbit ran into the '''bushes'''."
+          },
+		  {
+            "sentence": "'''Куандэм''' тхьак1умк1ыхьэ хэс",
+            "translation": "The rabbit is in the '''bushes'''."
+          }
+        ]
+      }
+      }
+    ],
+    "type": "noun",
+    "ipa": "kʷaːnfa"
   },
   {
     "word": "шъхьанд",
@@ -110215,11 +110483,60 @@
     "definitions": [
       {
         "meaning": "bushes, shrubs, shrubbery",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Шъхьандэм''' тхьак1умк1ыхьэр къыхэхъушъутыгъ",
+            "translation": "The rabbit ran out from the '''bushes'''."
+          },
+		  {
+            "sentence": "'''Шъхьандэм''' тхьак1умк1ыхьэр хэлъэдагъ",
+            "translation": "The rabbit ran into the '''bushes'''."
+          },
+		  {
+            "sentence": "'''Шъхьандэм''' тхьак1умк1ыхьэ хэс",
+            "translation": "The rabbit is in the '''bushes'''."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "ʂħaːnd"
+  },
+  {
+    "word": "кондалъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "thicket (a dense, but generally small, growth of shrubs, bushes or small trees)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "kʷandaːɬ"
+  },
+  {
+    "word": "шъхьэндалъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"шъхьандалъ\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʂħaːndaːɬ"
+  },
+  {
+    "word": "шъхьандалъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "thicket (a dense, but generally small, growth of shrubs, bushes or small trees)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʂħaːndaːɬ"
   },
   {
     "word": "псычэтыхъу",
@@ -110227,22 +110544,89 @@
     "definitions": [
       {
         "meaning": "drake, male duck",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Псычэтыхъур''' псым хэхьагъ",
+            "translation": "'''The drake''' entered the water."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "psət͡ʃatəχʷ"
   },
   {
-    "word": "тегъэпытахьан",
+    "word": "гъэпытэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to fix something forcefully upon",
+        "meaning": "to firm; to make something firmer; to fix; to tighten; to secure",
+        "examples": [
+          {
+            "sentence": "Гъуч1ы1унэ пхъэм к1алэм дэгъоу '''егъэпытэ'''",
+            "translation": "The boy '''firms''' the nail good on the wood."
+          },
+		  {
+            "sentence": "Гъуч1ы1унэ к1алэм '''егъэпытэ'''",
+            "translation": "The boy '''firms''' the nail."
+          },
+		  {
+            "sentence": "Шъхьэтеп1ор '''сэгъэпытэ'''",
+            "translation": "'''I firms''' the lid."
+          },
+		  {
+            "sentence": "Пчъэкъопсым '''гъэпытагъ'''",
+            "translation": "The door-knob '''is firmed'''."
+          },
+		  {
+            "sentence": "К1алэм ы1эхэр '''гъэпытагъэх'''",
+            "translation": "The young man's arms '''are firmed'''."
+          },
+		  {
+            "sentence": "К1апэср '''гъэпыт'''",
+            "translation": "'''Firm''' the rope."
+          }
+        ]
+      },
+	  {
+        "meaning": "to strengthen; to harden; to make something harder or stronger",
+        "examples": [
+          {
+            "sentence": "1анэм ылъакъохэр '''тыгъэпытэн''' фаех",
+            "translation": "We need '''to strengthen''' the table's legs."
+          },
+		  {
+            "sentence": "Къуашъор нэпкъым '''к1эрыбгъэпытыхьан'''",
+            "translation": "'''To reinforce''' the boat by the shore."
+          },
+		  {
+            "sentence": "Бэрэ учъэмэ, улъакъохэр '''ыгъэпытэщтых'''",
+            "translation": "If you run a lot, '''it will strengthen''' your legs."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʁapətan"
+  },
+  {
+    "word": "тегъэпытыхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to firm on; to make something firm on; to fix on; to tighten on; to secure on",
         "examples": [
           {
             "sentence": "Гъуч1ы1унэ пхъэм к1алэм дэгъоу '''тегъэпытэхьагъ'''",
             "translation": "The boy '''fixed''' the nail good on the wood."
+          },
+		  {
+            "sentence": "Дышъэм иуасэ '''тегъэпытыхьагъ'''",
+            "translation": "The gold's price is '''fixed'''."
+          },
+		  {
+            "sentence": "Пчъэкъопсым пчъэм '''тегъэпытыхьан'''",
+            "translation": "'''To firm''' the door-knob on the door."
           }
         ]
       },
@@ -110250,11 +110634,11 @@
         "meaning": "to be strict",
         "examples": [
           {
-            "sentence": "Сиянэ нэмазэхэм '''атегъэпытахьы'''",
+            "sentence": "Сянэ нэмазэхэм '''атегъэпытыхьэ'''",
             "translation": "My father '''is strict''' with the prayers."
           },
           {
-            "sentence": "К1алэм хабзэм '''тегъэпытахьы'''",
+            "sentence": "К1алэм хабзэм '''тегъэпытыхьэ''",
             "translation": "The boy '''is strict''' with the customs."
           }
         ]
@@ -110263,49 +110647,54 @@
         "meaning": "to be punctilious",
         "examples": [
           {
-            "sentence": "Чъые уахътэм '''тебгъэпытахь''' фай, неущы тэрэзэу укъэущынэу",
-            "translation": "You need to be punctilious about your sleeping time, so you will wake up correctly tomorrow."
+            "sentence": "Чъые уахътэм '''тебгъэпытыхьан''' фай, неущы тэрэзэу укъэущынэу",
+            "translation": "You need '''to be punctilious''' about your sleeping time, so you will wake up correctly tomorrow."
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "tajʁapətaːħaːn"
+    "ipa": "tajʁapətəħaːn"
   },
   {
     "word": "тегъэпсыхьан",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to aim at something",
+        "meaning": "to aim at something; to point at something",
         "examples": [
           {
-            "sentence": "К1эрахъомк1э бланэм '''тегъэпысыхьан'''",
+            "sentence": "К1эрахъомк1э бланэм '''тегъэпсыхьан'''",
             "translation": "'''To aim''' on the deer with the gun."
+          },
+		  {
+            "sentence": "Л1ым топыр '''тегъэпсыхьагъ''' унэм",
+            "translation": "The man '''aimed''' the cannon on the house."
           }
         ]
       },
       {
-        "meaning": "to point at something",
-        "examples": []
-      },
-      {
         "meaning": "to fix a clock",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Сыхьатыр щым '''тегъэпсыхь'''",
+            "translation": "'''Set''' the clock on three."
+          }
+        ]
       },
       {
         "meaning": "to set (machines)",
         "examples": [
-          {
-            "sentence": "микроволновыйыр щэк1ым '''тегъэпысыхьан'''",
+		  {
+            "sentence": "Микроволновыйыр щэк1ым '''тегъэпсыхьан'''",
             "translation": "'''To set''' the microwave on 30."
           },
           {
-            "sentence": "Къубылыр '''тегъэпысыхьан'''",
+            "sentence": "Къумбылыр '''тегъэпсыхьан'''",
             "translation": "'''To set''' the bomb."
           },
           {
-            "sentence": "Сэхьатыр щым '''тегъэпысахь'''",
+            "sentence": "Сэхьатыр щым '''тегъэпсыхь'''",
             "translation": "'''Set''' the clock to three."
           }
         ]
@@ -110323,8 +110712,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to patch; to mend by sewing on a piece or pieces of cloth, leather, or the like",
-        "examples": []
+        "meaning": "to patch (to cover a tear with a patch); to mend by sewing on a piece or pieces of cloth, leather, or the like",
+        "examples": [
+          {
+            "sentence": "Къухьэмк1э, к1алэм пхъэхэр убэтагъэм '''тедэжьых'''",
+            "translation": "On the ship, the boy '''is patching''' woods on the broken parts"
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -110335,8 +110729,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "bandage",
-        "examples": []
+        "meaning": "bandage; plaster",
+        "examples": [
+          {
+            "sentence": "У1агъэм '''тепхэ''' телъхьан",
+            "translation": "To put '''a bandage''' on the wound."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -110350,8 +110749,24 @@
         "meaning": "to glue on; to stick on",
         "examples": [
           {
-            "sentence": "Маркэр конвертым '''тегъэпкIэн'''",
+            "sentence": "Маркэр конвертым '''тегъэпк1эн'''",
             "translation": "'''To stick''' the stamp on the envelope."
+          },
+		  {
+            "sentence": "К1алэм сакъыз дэпкъым '''тегъэпк1э'''",
+            "translation": "The boy '''sticks''' a gum '''on''' the wall."
+          },
+		  {
+            "sentence": "К1алэм сакъыз дэпкъым '''тегъэпк1э'''",
+            "translation": "The boy '''sticks''' a gum '''on''' the wall."
+          },
+		  {
+            "sentence": "У1агъэм тепхэ '''тегъэпк1эн'''",
+            "translation": "'''To stick''' a bandage '''on''' a wound."
+          },
+		  {
+            "sentence": "Сурэт тхылъым '''тезгъэпк1агъ'''",
+            "translation": "'''I glued''' a picture '''on''' the book."
           }
         ]
       },
@@ -110359,7 +110774,7 @@
         "meaning": "to patch",
         "examples": [
           {
-            "sentence": "УIагъэм тепхэ '''тегъэпк1эн'''",
+            "sentence": "У1агъэм тепхэ '''тегъэпк1эн'''",
             "translation": "'''To patch''' a bandage upon a wound."
           }
         ]
@@ -110376,8 +110791,12 @@
         "meaning": "to drip on",
         "examples": [
           {
-            "sentence": "Ешъоныр 1анэм '''тебгъэтк1о'''",
-            "translation": "You're '''dripping''' the drink on the table."
+            "sentence": "Колэ 1анэм '''тебгъэтк1о'''",
+            "translation": "'''You're dripping''' cola on the table."
+          },
+		  {
+            "sentence": "Псы мак1э сшъхьац '''тезгъэтк1уагъ'''",
+            "translation": "'''I let''' some little water ''drip''' my head."
           }
         ]
       }
@@ -111853,6 +112272,18 @@
     ],
     "type": "noun",
     "ipa": "dənənt͡ʂʼa"
+  },
+  {
+    "word": "ыгу къэк1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"гукъэк1ын\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɡʷ əqat͡ʃʼən"
   },
   {
     "word": "гу къэк1ын",
@@ -114322,6 +114753,18 @@
     "ipa": "qat͡ʃʼəm"
   },
   {
+    "word": "ыгу рихьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"гу рихьан\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɡʷərəjħən"
+  },
+  {
     "word": "гум рихьан",
     "lang": "Adyghe",
     "definitions": [
@@ -114405,6 +114848,18 @@
   },
   {
     "word": "тегупсэфэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"гу тепсэфэн\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɡʷə tapsafan"
+  },
+  {
+    "word": "ыгу тепсэфэн",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -119384,7 +119839,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to lift one's heart; to be relieved",
+        "meaning": "alternative form of \"ыгу дэщэен\"",
         "examples": []
       }
     ],
