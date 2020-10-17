@@ -2895,10 +2895,13 @@
     "hauberk": "ашъо"
   },
   {
+    "to knead": "1отын; гъэшъэбэн / гъэушъэбын"
+  },
+  {
     "armor": "ашъо (chain mail); мэ1у (shield); 1ашэ-шъуашэхэр"
   },
   {
-    "leather": "к1ышъо; шъо"
+    "leather": "к1ышъо; шъо; шъо1уац (leather wrapper)"
   },
   {
     "sole": "к1ад"
@@ -4798,7 +4801,7 @@
     "to drip": "къетк1ухын (to drip down, to drop down); тетк1он (to drip liquid on something one drop at a time); т1эт1эн (to be dripping, sticky substances), тегъэт1эт1эн (to drip sticky substances on); тет1эт1эн (to be dripping on, sticky substances); хэк1отэн (to drip something into a fire, food, any substance, any liquid, etc.); дэтк1он (to drip into an object or yard)"
   },
   {
-    "to pour": "къетк1ухын (to pour down, to drip down, to drop down); игъэхъон; ик1эн (intensive); ик1утэн (slightly intensive); ек1эхын (to pour down); тетк1он (to drip liquid on something one drop at a time); к1эгъэхьан (to water plants)"
+    "to pour": "къетк1ухын (to pour down, to drip down, to drop down); игъэхъон; ик1эн (intensive); ик1утэн (slightly intensive); ек1эхын (to pour down); тетк1он (to drip liquid on something one drop at a time); к1эгъэхьан (to water plants); к1эк1эн (to pour liquid under, to spill liquid under)"
   },
   {
     "to fill": "игъэхъон (liquid); узэндын (to load); изэу ш1ын (to make full)"
@@ -6922,7 +6925,10 @@
     "manacles": "1эхъу (for hands); лъэхъу (for legs); 1эхъу-лъэхъу"
   },
   {
-    "fetters": "1эхъу (for hands); лъэхъу (for legs); 1эхъу-лъэхъу"
+    "fetters": "1эхъу (for hands); лъэхъу (for legs); 1эхъу-лъэхъу; лъахъэ (for horses); шылъахъэ (for horses)"
+  },
+  {
+    "hobble": "лъахъэ (for horses); шылъахъэ (for horses)"
   },
   {
     "gyves": "лъэхъу"
@@ -9490,7 +9496,7 @@
     "to go for": "фежьэн"
   },
   {
-    "to start": "ублэн; ежьэн / къежьэн; егъэжьэн / къегъэжьэн (to start something); фежьэн (to start going for)"
+    "to start": "ублэн; ежьэн / къежьэн; егъэжьэн / къегъэжьэн (to start something); фежьэн (to start going for); дэублэн (to start something with someone)"
   },
   {
     "to begin": "ублэн; ежьэн / къежьэн"
@@ -9694,7 +9700,7 @@
     "instead": "ыч1ып1эк1э; ыч1ып1эу; ащ ыч1ып1эк1э (instead of that); (Arabic) ибэдалэу"
   },
   {
-    "to rub": "щыфэн (to smear); щыхъон (to rub against, a friction to be caused between); щыгъэхъон (to rub against something, to cause a friction between); хъок1ын (to grind, to remove material by rubbing rapidly)"
+    "to rub": "щыфэн (to smear); щыхъон (to rub against, a friction to be caused between); щыгъэхъон (to rub against something, to cause a friction between); хъок1ын (to grind, to remove material by rubbing rapidly); 1отын"
   },
   {
     "to strip": "упц1энын / пц1анэу ш1ын (to strip, to make naked); уджэшъун"
@@ -10618,10 +10624,13 @@
     "to learn": "зэгъэш1эн"
   },
   {
-    "to reply": "джэуап тын; джэуап етын"
+    "to reply": "джэуап етын"
   },
   {
-    "to answer": "джэуап тын; джэуап етын"
+    "to give a response": "джэуап етын"
+  },
+  {
+    "to answer": "джэуап етын"
   },
   {
     "answer": "джэуап; пэгъодз"
@@ -11329,7 +11338,10 @@
     "to come to terms": "еш1ужьын (to make peace with someone); зэш1ужьын (to make peace with each other)"
   },
   {
-    "to resolve": "зэпэч1эгъэк1ын; зэш1охын (to resolve tasks/conflicts); еш1ужьын (to make peace with someone); зэш1ужьын (to make peace with each other)"
+    "to resolve": "ч1эгъэк1ын / къыч1эгъэк1ын (to solve something); зэпэк1эгъэк1ын (to resolve a task/problem); зэш1охын (to resolve tasks/conflicts); еш1ужьын (to make peace with someone); зэш1ужьын (to make peace with each other)"
+  },
+  {
+    "to decipher": "зэш1охын"
   },
   {
     "to forgive": "фэгъэгъун; еш1ужьын (to make peace with someone); зэш1ужьын (to make peace with each other)"
@@ -13690,13 +13702,13 @@
     "contented": "разэ"
   },
   {
-    "to be satisfied": "рэзэн; фэрэзэн (to be satisfied with); разэу хъун; гъэрэзэн (to satisfy someone); гу тепсэфэн (to be peaceful with, to be okay and feeling easy with)"
+    "to be satisfied": "рэзэн; фэрэзэн (to be satisfied with); разэу хъун; гъэрэзэн (to satisfy someone); гу тепсэфэн (to be peaceful with, to be okay and feeling easy with); нэш1у щыфэн / ынэш1у щифэн (to be satisfied with someone, to be pleased with someone)"
   },
   {
     "to be contented": "рэзэн; фэрэзэн (to be contented with); разэу хъун; гъэрэзэн (to content someone)"
   },
   {
-    "to be pleased": "фэрэзэн (to be pleased with); разэу хъун (to become pleased); гъэрэзэн (to please someone); фэрэзэн (to be pleased with)"
+    "to be pleased": "фэрэзэн (to be pleased with); разэу хъун (to become pleased); гъэрэзэн (to please someone); фэрэзэн (to be pleased with); нэш1у щыфэн / ынэш1у щифэн (to be satisfied with someone, to be pleased with someone)"
   },
   {
     "have a nice day": "гъогу маф"
@@ -13738,7 +13750,16 @@
     "to do again": "ш1ыжьын; къытегъэзэн"
   },
   {
-    "outfite": "шъуашэ"
+    "outfit": "шъуашэ; шъо1у"
+  },
+  {
+    "attire": "шъуашэ; шъо1у"
+  },
+  {
+    "ragamuffin": "шъо1удж"
+  },
+  {
+    "ragged fellow": "шъо1удж"
   },
   {
     "comedian": "сэмэркъэуш1ыл"
@@ -14512,13 +14533,10 @@
     "marriage age": "дэк1огъу (marriageable age for woman); къэщэгъу (marriageable age for man)"
   },
   {
-    "center": "гузэгу"
-  },
-  {
     "middle": "гузэгу; зэфагу; азыфагу (between); купсэ"
   },
   {
-    "centre": "гузэгу; пчэгу; утыку"
+    "center": "гузэгу; пчэгу; утыку"
   },
   {
     "midpoint": "гупч"
@@ -15925,13 +15943,13 @@
     "old hag": "ныожъ"
   },
   {
-    "to unstitch": "т1эп1ын / гъэт1эп1ын (to be unstitched); зэгот1эп1ык1ын / зэгогъэт1эп1ык1ын (to rip (a garment) at the seams; to unstitch)"
+    "to unstitch": "т1эп1ын; гъэт1эп1ын (to be unstitched); зэгот1эп1ык1ын / зэгогъэт1эп1ык1ын (to rip (a garment) at the seams; to unstitch)"
   },
   {
-    "to unseam": "т1эп1ын / гъэт1эп1ын (to be unstitched); зэгот1эп1ык1ын / зэгогъэт1эп1ык1ын (to rip (a garment) at the seams; to unstitch)"
+    "to unseam": "т1эп1ын; гъэт1эп1ын (to unseam); зэгот1эп1ык1ын;  зэгогъэт1эп1ык1ын (to rip (a garment) at the seams; to unstitch)"
   },
   {
-    "to rip": "1утхъын / къыхэтхъын (to rip off); т1эп1ын / гъэт1эп1ын (to be unstitched); зэгот1эп1ык1ын / зэгогъэт1эп1ык1ын (to rip (a garment) at the seams; to unstitch); пыутын (to break off a part from; to rip off a part from; to tear off a part from)"
+    "to rip": "1утхъын / къыхэтхъын (to rip off); т1эп1ын / зэгот1эп1ык1ын (to be unstitched); гъэт1эп1ын / зэгогъэт1эп1ык1ын (to unseam, to rip (a garment) at the seams, to unstitch); пыутын (to break off a part from, to rip off a part from, to tear off a part from)"
   },
   {
     "washer": "гык1алъэ (washing machine)"
@@ -18007,7 +18025,10 @@
     "to stick on": "тегъэпк1эн"
   },
   {
-    "perfect": "игъэкъугъэ"
+    "perfect": "анахь дэгъушъущтыр; игъэкъугъэ"
+  },
+  {
+    "perfectly": "мэстэ гъуанэм ригъэк1эу (to attempt to do something as perfect as possible)"
   },
   {
     "free peasant": "фэкъол1"
@@ -18052,13 +18073,16 @@
     "to let out": "игъэк1ын; ч1эгъэк1ын"
   },
   {
-    "to solve": "джэуап етын"
+    "to solve": "к1эгъэк1ын / къык1эгъэк1ын (to solve something); джэуап етын (to give a response, to give a solution); зэш1охын (to find a solution to a problem); зэпэк1эгъэк1ын (to resolve a problem)"
   },
   {
-    "to be resolved": "зэпэч1эк1ын"
+    "to be resolved": "зэпэк1эк1ын"
   },
   {
     "stuffily": "гопэгъу (in a poorly-ventilated and close manner)"
+  },
+  {
+    "stuffy": "гопэгъу"
   },
   {
     "too": "сэри (me too); ори (you too); тэри (we too); шъори (you guys too, you all too); ари (he, she, it, that too); ахэри (they, those too); блэк1ыгъэу / блифыгъэу / блифэу (too much)"
@@ -18070,7 +18094,10 @@
     "to hit up": "(slang) дэублэн"
   },
   {
-    "to clog": "лъэхъэн"
+    "to hobble": "лъэхъэн"
+  },
+  {
+    "to fetter": "лъэхъэн"
   },
   {
     "to limp": "лъэщэн; елъэщэон"
@@ -18745,7 +18772,7 @@
     "to shake out": "утхыпк1ын (to agitate a piece of cloth or other flexible material in order to remove dust, or to try to make it smooth and flat)"
   },
   {
-    "to work out": "къыдэхъун"
+    "to work out": "къыдэхъун (things to work out with someone); зэпэк1эк1ын (things/problems to work out); зэпэк1эгъэк1ын (to make problem work out)"
   },
   {
     "to succeed": "ш1ышъун (to be able to do); дэгъоу къигъэк1ын / дахэу къигъэк1ын (to make something turn out to be good); къыфигъэк1ын (to successfully do); къыдэхъун (to work out, to turn out well)"
@@ -19282,7 +19309,7 @@
     "gibbet": "шъхьэпылъап1э"
   },
   {
-    "individual": "ц1ыфышъхьэ"
+    "individual": "ц1ыфышъхьэ; нэбгыр"
   },
   {
     "funeral": "хьадагъэ; хьэдэ дэхыныр; хьэдэ гъэ1ылъыныр"
