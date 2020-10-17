@@ -111788,12 +111788,7 @@
     "definitions": [
       {
         "meaning": "to be lame; to limp",
-        "examples": [
-          {
-            "sentence": "Инэу '''елъэщао'''",
-            "translation": "severely '''lame'''."
-          }
-        ]
+        "examples": []
       }
     ],
     "type": "verb",
@@ -111816,12 +111811,37 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to come on something; to come via",
+        "meaning": "alternative form of \"рик1он\"",
         "examples": []
       }
     ],
     "type": "verb",
     "ipa": "qərəjkʷʼan"
+  },
+  {
+    "word": "рик1он",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to go on something; to walk on something",
+        "examples": [
+          {
+            "sentence": "К1алэр гъогум '''рек1о'''",
+            "translation": "The boy '''goes on''' the road."
+          },
+		  {
+            "sentence": "К1алэр пхъэм '''рек1о'''",
+            "translation": "The boy '''goes on''' the wood."
+          },
+		  {
+            "sentence": "Ц1ыфыр псым '''рик1ошъущтэп'''",
+            "translation": "A person '''cannot go on''' the water."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "rəjkʷʼan"
   },
   {
     "word": "фэулэун",
