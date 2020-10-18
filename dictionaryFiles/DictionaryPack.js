@@ -11225,7 +11225,12 @@
     "definitions": [
       {
         "meaning": "like that; that way; in that manner",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Джы сшъхьэ тефагъ сыда пшъашъэр '''ащтэу''' мэзек1о",
+            "translation": "Now I understood why the girl acts '''that way'''."
+          }
+        ]
       }
     ],
     "type": "adv",
@@ -11245,6 +11250,10 @@
 		  {
             "sentence": "К1алэм икъунэу иеджэн зыритырэп, '''мыщтэу''' ригъэкъумэ университетым къыч1адзыщт",
             "translation": "The boy does not dedicate himself enough to his studies, if he continues '''like this''' he will be thrown out of the university."
+          },
+		  {
+            "sentence": "Сшъхьэ тефэрэп сыда '''мыщтэу''' 1офыр къинэу къэтфаш1ы",
+            "translation": "I do not understand why they make the job hard for us '''like this'''."
           }
         ]
       }
@@ -21509,6 +21518,10 @@
             "translation": "The boy '''is working''' in the day."
           },
 		  {
+            "sentence": "Машинэр '''мэлажьэ'''",
+            "translation": "The machine '''is working'''."
+          },
+		  {
             "sentence": "Л1ыр тучаным '''щылажьэ'''",
             "translation": "The man '''is working in''' the shop."
           },
@@ -21547,6 +21560,10 @@
 		  {
             "sentence": "Жъэжъащэу '''шъолажьэ''', мыщтэу иуахътэк1э 1офыр тыухыщтэп",
             "translation": "'''You guys work''' too slowly, we won't finish the job in time this way."
+          },
+		  {
+            "sentence": "Джы сылъэгъугъ сыда гъэучъы1алъэр '''лажьэрэп'''",
+            "translation": "Now I saw why the fridge '''does not work'''."
           }
         ]
       },
@@ -66693,6 +66710,10 @@
           {
             "sentence": "Сыда '''къин''' зэбэгъэхъужьы",
             "translation": "Why you makes things '''hard''' for yourself?"
+          },
+		  {
+            "sentence": "Сшъхьэ тефэрэп сыда мыщ фэдизэу 1офыр '''къинэу''' къэтфаш1ы",
+            "translation": "I do not understand why they make the job this '''hard''' for us."
           }
         ]
       }
@@ -67096,6 +67117,18 @@
           {
             "sentence": "'''Сыда''' уи1офы у1ук1ыжьыгъ?",
             "translation": "'''Why''' you left your job?"
+          },
+		  {
+            "sentence": "Джы сшъхьэ тефагъ '''сыда''' пшъашъэр ащтэу мэзек1о",
+            "translation": "Now I understood '''why''' the girl acts that way."
+          },
+		  {
+            "sentence": "Джы сылъэгъугъ '''сыда''' гъэучъы1алъэр лажьэрэп",
+            "translation": "Now I saw '''why''' the fridge does not work."
+          },
+		  {
+            "sentence": "Сшъхьэ тефэрэп '''сыда''' мыщ фэдизэу 1офыр къинэу къэтфаш1ы",
+            "translation": "I do not understand '''why''' they make the job this hard for us."
           }
         ]
       }
@@ -79095,6 +79128,10 @@
 		  {
             "sentence": "К1алэр 1аеу '''зек1оу''' зырагъэуджэгъугъ",
             "translation": "The boy '''acting''' awfully made himself be hated."
+          },
+		  {
+            "sentence": "Джы сшъхьэ тефагъ сыда пшъашъэр ащтэу '''мэзек1о'''",
+            "translation": "Now I understood why the girl '''acts''' that way."
           }
         ]
       }
@@ -79826,6 +79863,23 @@
 		  {
             "sentence": "Тянэ шхын '''къэтфеш1ы'''",
             "translation": "Our mother '''makes''' food '''for us'''."
+          },
+		  {
+            "sentence": "Сшъхьэ тефэрэп сыда мыщ фэдизэу 1офыр къинэу '''къэтфаш1ы'''",
+            "translation": "I do not understand why '''they make''' the job this hard '''for us'''."
+          }
+        ]
+      },
+      {
+        "meaning": "to be capable of making/building; to be able to make/build",
+        "examples": [
+          {
+            "sentence": "Куджаным изакъоу унэ '''къыфэш1ы'''",
+            "translation": "Kujan '''can build''' a house by himself."
+          },
+		  {
+            "sentence": "Шхын '''къэсфэш1ырэп'''",
+            "translation": "'''I cannot make''' food."
           }
         ]
       },
@@ -108142,6 +108196,43 @@
     "ipa": "pt͡saːtħa"
   },
   {
+    "word": "шъхьэм тефэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to realize; to understand",
+        "examples": [
+          {
+            "sentence": "'''Сшъхьэ тефагъ''' тш1эн фаер",
+            "translation": "'''I realized''' what we neewd to do."
+          },
+		  {
+            "sentence": "'''Сшъхьэ тефагъ''' тызеджэрэр",
+            "translation": "'''I realized''' what we are studying."
+          },
+		  {
+            "sentence": "Джы '''сшъхьэ тефагъ''' сыда пшъашъэр ащтэу мэзек1о",
+            "translation": "Now '''I realized''' why the girl acts that way."
+          },
+		  {
+            "sentence": "'''Сшъхьэ тефэрэп''' сыда мыщ фэдизэу 1офыр къинэу къэтфаш1ы",
+            "translation": "'''I do not understand''' why they make the job this hard for us."
+          },
+		  {
+            "sentence": "'''Сшъхьэ тефагъэп''' к1алэр сыд ыш1энэу фаер",
+            "translation": "'''I did not understand''' what the boy wants to do."
+          },
+		  {
+            "sentence": "Къас1орэр '''ушъхьэ тефа'''?",
+            "translation": "'''Do you understand''' what I am saying?"
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʂħam qəjwbətən"
+  },
+  {
     "word": "шъхьэм къиубытын",
     "lang": "Adyghe",
     "definitions": [
@@ -114069,6 +114160,10 @@
             "translation": "'''I can't do''' the exam."
           }
         ]
+      },
+	  {
+        "meaning": "to do for",
+        "examples": []
       }
     ],
     "synonyms": [

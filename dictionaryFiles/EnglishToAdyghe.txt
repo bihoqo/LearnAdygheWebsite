@@ -8734,13 +8734,13 @@
     "to honor": "лъытэн; пхъатэ етын; пхъатэ фэш1ын"
   },
   {
-    "to understand": "гуры1он / къыгуры1он (to understand meaning); хэхьан (to get it); зэхэхын (to make out clearly what have been said or heard); (Shapsug) гулъытэн; гурыгъэ1он (to make someone understand); зэхэш1ык1ын (to comprehend; to understand or grasp fully and thoroughly); шъхьэм къиубытын"
+    "to understand": "гуры1он / къыгуры1он (to understand meaning); хэхьан (to get it); зэхэхын (to make out clearly what have been said or heard); (Shapsug) гулъытэн; гурыгъэ1он (to make someone understand); зэхэш1ык1ын (to comprehend; to understand or grasp fully and thoroughly); шъхьэм къиубытын; шъхьэм тефэн (to understand, to realize)"
   },
   {
     "to notice": "гулъытэн"
   },
   {
-    "to realize": "гулъытэн; гутефэн"
+    "to realize": "шъхьэм тефэн (to understand, to realize); гулъытэн; гутефэн"
   },
   {
     "bam": "т1ыргу; дыргу"
@@ -17650,7 +17650,7 @@
     "to make sense": "зэхэш1ык1ын; шъхьэм къиубытын; мэхьанэ и1эн"
   },
   {
-    "to comprehend": "зэхэш1ык1ын (to comprehend; to understand or grasp fully and thoroughly); шъхьэм къиубытын; шъхьэм зыхихын"
+    "to comprehend": "зэхэш1ык1ын (to comprehend; to understand or grasp fully and thoroughly); шъхьэм зыхихын; шъхьэм къиубытын"
   },
   {
     "restless": "гумы1ан"
