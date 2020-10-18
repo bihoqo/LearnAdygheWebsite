@@ -8516,12 +8516,16 @@
         "meaning": "to run",
         "examples": [
           {
-            "sentence": "к1алэр '''мачъэ'''",
+            "sentence": "К1алэр '''мачъэ'''",
             "translation": "The boy '''is running'''."
           },
           {
-            "sentence": "к1алэр '''къачъэ'''",
+            "sentence": "К1алэр '''къачъэ'''",
             "translation": "The boy '''is coming (running)'''."
+          },
+		  {
+            "sentence": "'''Сычъэу''' сыпшъыгъ",
+            "translation": "I got exhausted '''running'''."
           }
         ]
       }
@@ -9783,11 +9787,15 @@
         "examples": []
       },
       {
-        "meaning": "duty",
+        "meaning": "duty; obligation",
         "examples": [
           {
             "sentence": "'''Ипшъэрылъхэр''' ыгъэцэк1эных",
             "translation": "He fulfills '''his duties'''."
+          },
+		  {
+            "sentence": "Шъо '''пшъэрылъыр''' зэрэжъугъэцэк1эщтым сехъырэхъышэрэп",
+            "translation": "I have no doubt that you will fulfill the '''obligation'''."
           }
         ]
       }
@@ -12955,6 +12963,10 @@
           {
             "sentence": "'''Апэрэм''' сыкъилъэгъугъ",
             "translation": "'''The first one''' was me."
+          },
+		  {
+            "sentence": "'''Апэрэм''' сехъырэхъышагъ хьэм себлэгъэныр",
+            "translation": "'''At first''' I hesitated to go near the dog"
           }
         ]
       },
@@ -13023,6 +13035,10 @@
 		  {
             "sentence": "сэ '''апэрэу''' сыкъэсыгъ",
             "translation": "I came '''first'''."
+          },
+		  {
+            "sentence": "'''Апэрэм''' сехъырэхъышагъ хьэм себлэгъэныр",
+            "translation": "'''At first''' I hesitated to go near the dog"
           }
         ]
       }
@@ -38406,6 +38422,10 @@
           {
             "sentence": "Уиянэ е1орэ '''угъэцэк1эн''' фай",
             "translation": "You need '''to do''' what your mother tells you."
+          },
+		  {
+            "sentence": "Шъо пшъэрылъыр '''зэрэжъугъэцэк1эщтым''' сехъырэхъышэрэп",
+            "translation": "I have no doubt '''that you will fulfill''' the obligation."
           }
         ]
       }
@@ -53713,6 +53733,14 @@
           {
             "sentence": "Бзэмы1у ц1ыфыхэмэ '''ахэзагъэрэп''' тэрэзэу гущы1эшъурэпи",
             "translation": "The dumb '''does not getting along''' with the people because he cannot talk correctly."
+          },
+		  {
+            "sentence": "К1алэмрэ пшъашъэмрэ '''зэзэгъыхэрэп''', сыда п1омэ ашъхьэхэр зэтефэхэрэп",
+            "translation": "The boy and the girl '''are not getting along''', the reason for that is because they do not have the same mindset."
+          },
+		  {
+            "sentence": "Сэрэ Куджанымрэ '''тызэзэгъырэп'''",
+            "translation": "Me and Kujan '''are not getting along'''."
           }
         ]
       }
@@ -85157,6 +85185,10 @@
 		  {
             "sentence": "К1алэм ылъакъо к1ипхагъ пцыкъур осым пхырымыбынэу щык1он '''фэш1к1э'''",
             "translation": "The boy tied the snowshoe under his feet '''in order to''' go on the snow without struggling through it."
+          },
+		  {
+            "sentence": "Л1ымрэ шъузымрэ зэзэгъыных '''фэш1к1э''' ашъхьэхэр зэтефэн фаех",
+            "translation": "'''In order for''' a man and woman to get along, their mindsets must be similar."
           }
         ]
       }
@@ -85287,6 +85319,10 @@
 		  {
             "sentence": "К1алэм ылъакъо к1ипхагъ пцыкъур осым пхырымыбынэу щык1он '''пае'''",
             "translation": "The boy tied the snowshoe under his feet '''in order to''' go on the snow without struggling through it."
+          },
+		  {
+            "sentence": "Л1ымрэ шъузымрэ зэзэгъыных '''пае''' ашъхьэхэр зэтефэн фаех",
+            "translation": "'''In order for''' a man and woman to get along, their mindsets must be similar."
           }
         ]
       },
@@ -88171,7 +88207,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to think that; to suppose; to reckon",
+        "meaning": "to think that; to suppose; to reckon; to have the opinion of",
         "examples": [
           {
             "sentence": "К1алэм чъы1агъ '''еш1ош1ы'''",
@@ -91082,7 +91118,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to assume, to suppose, to think that it is likely that",
+        "meaning": "to assume, to suppose, to think that it is likely that, to think but not be absolutely sure",
         "examples": [
           {
             "sentence": "Непэ къещхынкIэ '''сенэгуй'''",
@@ -111990,8 +112026,12 @@
         "meaning": "to get tired; to get exhausted",
         "examples": [
           {
-            "sentence": "Л1ып '''мэпшъы'''",
+            "sentence": "Л1ыр '''мэпшъы'''",
             "translation": "The man '''is getting exhausted'''."
+          },
+		  {
+            "sentence": "Сычъэу '''сыпшъыгъ'''",
+            "translation": "'''I got exhausted''' running."
           },
 		  {
             "sentence": "К1алэр '''пшъыгъэ'''",
@@ -111999,14 +112039,14 @@
           },
           {
             "sentence": "Сэ '''сыпшъыгъэп'''",
-            "translation": "'''I''' am '''not exhausted'''."
+            "translation": "'''I am not exhausted'''."
           },
           {
             "sentence": "К1алэр псынк1эу '''мэпшъы'''",
             "translation": "The boy '''is getting tired''' fast."
           },
           {
-            "sentence": "Чэщым '''сыпшъыгъэу''' унэм сыкъехьэжьы",
+            "sentence": "Чэщым '''сыпшъыгъэу''' унэм сыкъехьажьы",
             "translation": "At night I return home '''tired'''."
           }
         ]
@@ -112027,12 +112067,12 @@
             "translation": "'''I have no doubt''' that you will fulfill the obligation."
           },
           {
-            "sentence": "'''Сехъырэхъышэ''', къысфэтхэна шъу1а.",
-            "translation": "'''I doubt''' whether he’ll write to me."
+            "sentence": "'''Сехъырэхъышэ''', къысфэтхэна шъу1уа?",
+            "translation": "'''I have doubt''', will (s)he write to me?"
           },
           {
-            "sentence": "'''Сехъырэхъышэ''', сикъыщэна шъу1а.",
-            "translation": "'''I doubt''' whether he’ll marry me."
+            "sentence": "'''Сехъырэхъышэ''', сикъыщэна шъу1уа?",
+            "translation": "'''I have doubt''', will (s)he marry me?"
           }
         ]
       },
@@ -112042,6 +112082,10 @@
           {
             "sentence": "К1алэр '''ехъырэхъышэ''' мэзым хэхьанэу",
             "translation": "The boy '''is hesitating ''' to enter the forest."
+          },
+		  {
+            "sentence": "Апэрэм '''сехъырэхъышагъ''' хьэм себлэгъэныр",
+            "translation": "At first '''I hesitated''' to go near the dog"
           }
         ]
       }
@@ -112050,12 +112094,46 @@
     "ipa": "jaχəraχəʃan"
   },
   {
+    "word": "шъу1уа",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "perhaps; could it be (indicating a lack of certainty)",
+        "examples": [
+          {
+            "sentence": "К1алэр къэк1она '''шъу1уа'''?",
+            "translation": "'''Will''' the boy come?"
+          },
+		  {
+            "sentence": "Непэ къещхын шъу1уа?",
+            "translation": "Will today rain '''perhaps'''?"
+          },
+          {
+            "sentence": "Сехъырэхъышэ, къысфэтхэна '''шъу1уа'''?",
+            "translation": "I have doubt, '''will''' (s)he write to me?"
+          },
+          {
+            "sentence": "Сехъырэхъышэ, сикъыщэна '''шъу1уа'''?",
+            "translation": "I have doubt, '''will''' (s)he marry me?"
+          }
+        ]
+      }
+    ],
+    "type": "adv",
+    "ipa": "ʃʷəʔʷaː"
+  },
+  {
     "word": "гуцаф",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "suspicion",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''гуцафэ''' зыгорэм фэш1ын",
+            "translation": "'''To suspect''' someone."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -112070,7 +112148,12 @@
     "definitions": [
       {
         "meaning": "suspicion",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''гурышхъо''' зыгорэм фэш1ын",
+            "translation": "'''To suspect''' someone."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -112085,7 +112168,12 @@
     "definitions": [
       {
         "meaning": "to suspect",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''гуцафэ зыгорэм '''фэш1ын'''",
+            "translation": "'''To suspect''' someone."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -112100,7 +112188,12 @@
     "definitions": [
       {
         "meaning": "to suspect",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''гурышхъо зыгорэм '''фэш1ын'''",
+            "translation": "'''To suspect''' someone."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -112108,6 +112201,73 @@
     ],
     "type": "verb",
     "ipa": "ɡʷərəʃχʷ ʃʼən"
+  },
+  {
+    "word": "зэзэгъын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to get along (with each other)",
+        "examples": [
+          {
+            "sentence": "К1алэмрэ пшъашъэмрэ '''зэзэгъыхэрэп''', сыда п1омэ ашъхьэхэр зэтефэхэрэп",
+            "translation": "The boy and the girl '''are not getting along''', the reason for that is because they do not have the same mindset."
+          },
+		  {
+            "sentence": "Сэрэ Куджанымрэ '''тызэзэгъырэп'''",
+            "translation": "Me and Kujan '''are not getting along'''."
+          },
+		  {
+            "sentence": "Л1ымрэ шъузымрэ '''зэзэгъыных''' пае ашъхьэхэр зэтефэн фаех",
+            "translation": "In order for a man and woman '''to get along''', their mindsets must be similar."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zazaʁən"
+  },
+  {
+    "word": "шъхьэ зэтефэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to have the a similar mindset; to have a similar way of thinking (usaully said about people that get along together)",
+        "examples": [
+          {
+            "sentence": "Сэрэ Куджанымрэ '''тшъхьэхэр зэтефэх'''",
+            "translation": "Me and Kujan '''have a similar mindset'''."
+          },
+		  {
+            "sentence": "Л1ымрэ шъузымрэ зэзэгъыных пае '''ашъхьэхэр зэтефэн''' фаех",
+            "translation": "In order for a man and woman to get along, '''their mindsets''' must '''be similar'''."
+          },
+		  {
+            "sentence": "К1алэмрэ пшъашъэмрэ зэзэгъыхэрэп, сыда п1омэ '''ашъхьэхэр зэтефэхэрэп'''",
+            "translation": "The boy and the girl are not getting along, the reason for that is because '''they do not have a similar mindset'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʂħa zatajfan"
+  },
+  {
+    "word": "гущы1эм фэ1он",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to presume; to assume or suggest to be true (without proof)",
+        "examples": [
+          {
+            "sentence": "'''гущы1эм фа1о''', о п1орэр тэрэз",
+            "translation": "'''let's say''' you're right."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "gʷəɕəʔam faʔʷan"
   },
   {
     "word": "фэбае",
@@ -114210,6 +114370,11 @@
 		  {
             "sentence": "К1элэц1ык1ухэмэ сырагъэзэщыгъ, '''сыда п1омэ''' ренэу ауш1ои джэхашъор",
             "translation": "The little kids tired me '''because''' they always dirty the floor."
+          },
+		  ,
+		  {
+            "sentence": "К1алэмрэ пшъашъэмрэ зэзэгъыхэрэп, '''сыда п1омэ''' ашъхьэхэр зэтефэхэрэп",
+            "translation": "The boy and the girl are not getting along, '''the reason for that is because''' they do not have the same mindset."
           }
         ]
       }

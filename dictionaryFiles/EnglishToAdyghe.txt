@@ -8071,10 +8071,13 @@
     "lawsuit": "дао"
   },
   {
+    "mindset": "егупшысак1э"
+  },
+  {
     "to not get along": "зэмызэгъын"
   },
   {
-    "to get along": "зэзэгъын"
+    "to get along": "езэгъын (to get along with); зэзэгъын (to get along with each other)"
   },
   {
     "to demand": "к1эдэун"
@@ -13960,7 +13963,7 @@
     "to notify": "to address something to, to bring to attention); макъэ егъэ1ун (to notify someone); къэбар егъэш1эн (to notify someone)"
   ,
   {
-    "to address": "унашъо фэш1ын (to address something to someone to bring an attention to the subject)"
+    "to address": "унашъо ш1ын (to address someone in order to bring to attention, to bring to attention); унашъо фэш1ын (to address something to someone in order to bring an attention to the subject)"
   },
   {
     "to shiver": "тхытхын"
@@ -14566,7 +14569,10 @@
     "to bring to attention": "унашъо фэш1ын"
   },
   {
-    "to mention": "иунашъо ш1ын; игугъу ш1ын; ыц1э къэ1он"
+    "perhaps": "шъу1уа"
+  },
+  {
+    "to mention": "игугъу ш1ын; ыц1э къэ1он; унашъо ш1ын (to mention someone in order to bring to attention, to bring to attention); унашъо фэш1ын (to mention something to someone in order to bring an attention to the subject)"
   },
   {
     "to compliment": "щытхъун"
@@ -15064,19 +15070,28 @@
     "pit": "курбы; машэ"
   },
   {
-    "to think": "егупшысэн; хэгупшысыхьан (to become thoughtful); къэугупшысын (to think out); ш1ош1ын (to think that, to reckon that, to suppose); енэгуен (to think but not be absolutely sure); тегупшысык1ын (to underthink)"
+    "to think": "егупшысэн; хэгупшысыхьан (to become thoughtful); къэугупшысын (to think out); ш1ош1ын (to think that, to reckon that, to suppose, to have the opinion of); енэгуен (to think but not be absolutely sure); тегупшысык1ын (to underthink)"
   },
   {
-    "to think that": "ш1ош1ын; енэгуен (to think but not be absolutely sure)"
+    "to think that": "ш1ош1ын (to think that, to suppose, to reckon, to have the opinion of); енэгуен (to think but not be absolutely sure)"
   },
   {
-    "to suppose": "ш1ош1ын; енэгуен (to think but not be absolutely sure)"
+    "to suppose": "ш1ош1ын (to think that, to suppose, to reckon, to have the opinion of); енэгуен (to think but not be absolutely sure)"
+  },
+  {
+    "to assume": "енэгуен (to think but not be absolutely sure); гущы1эм фэ1он (to presume, to assume or suggest to be true (without proof))"
+  },
+  {
+    "to presume": "гущы1эм фэ1он; енэгуен (to think but not be absolutely sure)"
   },
   {
     "to see as": "ш1ош1ын"
   },
   {
     "to be perceived as": "ш1ош1ын"
+  },
+  {
+    "to perceive": "ш1ош1ын (to be perceived as)"
   },
   {
     "to mold": "утхъоен"
@@ -15191,9 +15206,6 @@
   },
   {
     "to discern": "зэхэш1ык1ын; хилъэгъон"
-  },
-  {
-    "to perceive": "хилъэгъон"
   },
   {
     "extra": "лые (spare, something beyond what is due, usual, expected, or necessary)"
@@ -15359,9 +15371,6 @@
   },
   {
     "very likely": "енэгуй; енэгуягъо"
-  },
-  {
-    "to assume": "енэгуен (to think but not be absolutely sure)"
   },
   {
     "alcohol drink": "шъуатэ"
