@@ -13753,6 +13753,15 @@
     "outfit": "шъуашэ; шъо1у"
   },
   {
+    "to dedicate": "зетын (to dedicate oneself to); щыгъэгъозэн / щыгъуазэ ш1ын"
+  },
+  {
+    "to devote": "зетын (to devote oneself to);  щыгъэгъозэн / щыгъуазэ ш1ын"
+  },
+  {
+    "to occupy": "пыхьан (to occupy oneself with, to start engaging with a certain field, subject, activity or hobby)"
+  },
+  {
     "attire": "шъуашэ; шъо1у"
   },
   {
@@ -13808,6 +13817,9 @@
   },
   {
     "to jerk off": "1эк1э ш1ын; (vulgar) 1эк1э еон; (very vulgar) 1эк1э теш1ык1ын (to masturbate off something)"
+  },
+  {
+    "to wank": "1эк1э ш1ын; (vulgar) 1эк1э еон; (very vulgar) 1эк1э теш1ык1ын (to masturbate off something)"
   },
   {
     "to sculpture based off": "теш1ык1ын"
@@ -13942,7 +13954,13 @@
     "to declare": "къэ1он; к1эджэн (to declare openly)"
   },
   {
-    "to inform": "е1отэн / е1отэжьын (to inform someone); макъэ егъэ1ун (to inform someone), къэбар егъэш1эн (to inform someone)"
+    "to inform": "е1отэн / е1отэжьын (to inform someone); макъэ егъэ1ун (to inform someone); къэбар егъэш1эн (to inform someone)"
+  },
+  {
+    "to notify": "to address something to, to bring to attention); макъэ егъэ1ун (to notify someone); къэбар егъэш1эн (to notify someone)"
+  ,
+  {
+    "to address": "унашъо фэш1ын (to address something to someone to bring an attention to the subject)"
   },
   {
     "to shiver": "тхытхын"

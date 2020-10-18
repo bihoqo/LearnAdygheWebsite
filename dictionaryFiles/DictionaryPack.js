@@ -8857,19 +8857,90 @@
     "ipa": "dajlaχaːn"
   },
   {
+    "word": "щыгъэгъозэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to devote oneself to; to dedicate oneself to",
+        "examples": [
+          {
+            "sentence": "К1алэр типланхэмэ ащыдгъэгъозэщт",
+            "translation": "'''We will devote''' the boy to our plans."
+          },
+		  {
+            "sentence": "К1алэр еджэным '''зыритыгъ'''",
+            "translation": "The boy '''dedicated himself''' to studying."
+          },
+		  {
+            "sentence": "К1алэм икъунэу иеджэн '''зыритырэп''', мыщтэу ригъэкъумэ университетым къыч1адзыщт",
+            "translation": "The boy '''does not dedicate himself''' enough to his studies, if he continues like this he will be thrown out of the university."
+          },
+		  {
+            "sentence": "Чъэным '''зептын''' фай, джащгъум улъакъохэр нахь пытэу хъущтых",
+            "translation": "'''You''' need '''to devote to''' running, it will strengthen your legs."
+          },
+		  {
+            "sentence": "Л1ым и1оф '''зыритыщэгъ'''",
+            "translation": "The man '''dedicated himself too much''' to work."
+          }
+        ]
+      },
+	  {
+        "meaning": "to give oneself to",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɕəʁaʁʷazan"
+  },
+  {
     "word": "зетын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "oil (liquid)",
-        "examples": []
+        "meaning": "to devote oneself to; to dedicate oneself to",
+        "examples": [
+          {
+            "sentence": "Фылым ш1ыным '''зестыгъ'''",
+            "translation": "'''I devoted myseslf to''' movie making."
+          },
+		  {
+            "sentence": "К1алэр еджэным '''зыритыгъ'''",
+            "translation": "The boy '''dedicated himself''' to studying."
+          },
+		  {
+            "sentence": "К1алэм икъунэу иеджэн '''зыритырэп''', мыщтэу ригъэкъумэ университетым къыч1адзыщт",
+            "translation": "The boy '''does not dedicate himself''' enough to his studies, if he continues like this he will be thrown out of the university."
+          },
+		  {
+            "sentence": "Чъэным '''зептын''' фай, джащгъум улъакъохэр нахь пытэу хъущтых",
+            "translation": "'''You''' need '''to devote to''' running, it will strengthen your legs."
+          },
+		  {
+            "sentence": "Л1ым и1оф '''зыритыщэгъ'''",
+            "translation": "The man '''dedicated himself too much''' to work."
+          }
+        ]
       },
-      {
-        "meaning": "olive",
-        "examples": []
+	  {
+        "meaning": "to give oneself to",
+        "examples": [
+          {
+            "sentence": "К1алэр еджэным '''зыритыгъ'''",
+            "translation": "The boy '''gave himself to''' studies."
+          },
+		  {
+            "sentence": "К1алэр ипый ежь '''зыритыжьыгъ'''",
+            "translation": "The boy '''gave himself to''' his enemy."
+          },
+		  {
+            "sentence": "Л1ым ежь хьапсым '''зыритыжьыгъ'''",
+            "translation": "The man '''gave himself to''' the prison."
+          }
+        ]
       }
     ],
-    "type": "noun",
+    "type": "verb",
     "ipa": "zajtən"
   },
   {
@@ -10767,11 +10838,15 @@
         ]
       },
       {
-        "meaning": "himself",
+        "meaning": "himself; oneself",
         "examples": [
           {
             "sentence": "К1алэм ицуакъэ '''ежь''' щэфэ",
-            "translation": "The boy's shoe fits '''on him'''."
+            "translation": "The boy's shoe fits '''him'''."
+          },
+		  {
+            "sentence": "Л1ым '''ежь''' хьапсым зыритыжьыгъ",
+            "translation": "The man gave '''himself''' to the prison."
           }
         ]
       }
@@ -11158,6 +11233,10 @@
           {
             "sentence": "Жъэжъащэу шъолажьэ, '''мыщтэу''' иуахътэк1э 1офыр тыухыщтэп",
             "translation": "You guys work too slowly, we won't finish the job in time '''this way'''."
+          },
+		  {
+            "sentence": "К1алэм икъунэу иеджэн зыритырэп, '''мыщтэу''' ригъэкъумэ университетым къыч1адзыщт",
+            "translation": "The boy does not dedicate himself enough to his studies, if he continues '''like this''' he will be thrown out of the university."
           }
         ]
       }
@@ -33178,7 +33257,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to suffice, to be sufficient / enough",
+        "meaning": "to suffice; to be sufficient; to be enough",
         "examples": [
           {
             "sentence": "'''Икъущт''' ахъщэ си1эр",
@@ -33191,6 +33270,10 @@
           {
             "sentence": "'''Икъурэп''' ц1ыфэу зэрэтикъурэр джэгум тихьан пае",
             "translation": "'''We are not enough''' people to enter the game."
+          },
+		  {
+            "sentence": "К1алэм '''икъунэу''' иеджэн зыритырэп, мыщтэу ригъэкъумэ университетым къыч1адзыщт",
+            "translation": "The boy does not dedicate himself '''enough''' to his studies, if he continues like this he will be thrown out of the university."
           },
           {
             "sentence": "Мы1эрысэу къэпхьыгъэр '''икъущт''' ц1ыфыхэм афэш1ык1э",
@@ -36359,8 +36442,25 @@
             "translation": "The boy '''is studying''' with the book."
           }
         ]
+      },
+      {
+        "meaning": "studies",
+        "examples": [
+          {
+            "sentence": "К1алэр '''еджэным''' зыритыгъ",
+            "translation": "The boy devoted himself '''to studies'''."
+          }
+		  {
+            "sentence": "К1алэм икъунэу '''иеджэн''' зыритырэп, мыщтэу ригъэкъумэ университетым къыч1адзыщт",
+            "translation": "The boy does not dedicate himself enough '''to his studies''', if he continues like this he will be thrown out of the university."
+          },
+          {
+            "sentence": "К1алэр '''еджэным''' пылъ",
+            "translation": "The boy is busy with '''studying'''."
+          }
+        ]
       }
-    ],
+    ], 
     "synonyms": [
       "джын (to compete reading)"
     ],
@@ -44738,7 +44838,7 @@
             "translation": "'''I am involved with''' computers."
           },
           {
-            "sentence": "К1алэр еджэхым '''пылъ'''",
+            "sentence": "К1алэр еджэным '''пылъ'''",
             "translation": "The boy '''is enaging in''' studying."
           },
 		  {
@@ -82421,23 +82521,56 @@
     "ipa": "pt͡ʃaɡʷ"
   },
   {
+    "word": "унашъо ш1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to address/mention someone in order to bring to attention; to bring to attention",
+        "examples": [
+          {
+            "sentence": "К1алэм о '''уиунашъо къиш1ыгъ'''",
+            "translation": "The boy '''addressed you'''."
+          },
+		  {
+            "sentence": "К1алэм '''иунашъо къиш1ыгъ''' 1офыр зэрэкъиныщэ",
+            "translation": "The boy '''addressed''' how the job is too hard."
+          },
+          {
+            "sentence": "Л1ыжъым '''иунашъо къэмыш1'''",
+            "translation": "'''Do not mention''' the old man."
+          },
+          {
+            "sentence": "К1алэм '''иунашъо фэш1''' нахь бэрэ зэрэеджэн фаер",
+            "translation": "'''Mention to''' the boy that he needs to study more."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "wənaːʃʷa faʃʼən"
+  },
+  {
     "word": "унашъо фэш1ын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to bring to attention for someone",
+        "meaning": "to bring to attention for someone; to address/mention something to someone in order to bring an attention to the subject",
         "examples": [
           {
-            "sentence": "К1алэм о '''уиунашъо къэсфиш1ыгъ'''",
-            "translation": "The boy '''mentioned you to me'''."
+            "sentence": "К1алэм '''уиунашъо къэсфиш1ыгъ''' 1офыр зэрэкъиныщэ",
+            "translation": "The boy '''addressed to me''' how the job is too hard."
           },
           {
             "sentence": "Л1ыжъым '''иунашъо фэмыш1''' к1алэм",
-            "translation": "'''Do not mention''' the old man '''to the''' boy."
+            "translation": "'''Do not address''' the old man '''to''' the boy."
           },
           {
-            "sentence": "К1алэм '''иунашъо фэш1''' зэрэеджэн фаер",
-            "translation": "'''Mention to''' the boy that he needs to study."
+            "sentence": "К1алэм '''иунашъо фэш1''' нахь бэрэ зэрэеджэн фаер",
+            "translation": "'''Mention to''' the boy that he needs to study more."
+          },
+          {
+            "sentence": "Л1ыжъым '''иунашъо фэш1''' уцыр зэрэидырын фаер",
+            "translation": "'''Mention''' the old man that he needs to swallow the pill."
           }
         ]
       }
@@ -82469,18 +82602,6 @@
     ],
     "type": "verb",
     "ipa": "jəgʷəʁʷ ʃʼən"
-  },
-  {
-    "word": "унашъо ш1ын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"иунашъо ш1ын\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "wənaːʃʷa ʃʼən"
   },
   {
     "word": "щытхъун",
@@ -94976,21 +95097,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to mention someone to bring to attention; to bring to attention",
-        "examples": [
-          {
-            "sentence": "К1алэм о '''уиунашъо къиш1ыгъ'''",
-            "translation": "The boy '''mentioned you'''."
-          },
-          {
-            "sentence": "Л1ыжъым '''иунашъо къэмыш1'''",
-            "translation": "'''Do not mention''' the old man."
-          },
-          {
-            "sentence": "Л1ыжъым '''иунашъо фэш1''' уцыр зэрэидырын фаер",
-            "translation": "'''Mention''' the old man that he needs to swallow the pill."
-          }
-        ]
+        "meaning": "alternative form of \"унашъо ш1ын\"",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -103118,6 +103226,10 @@
           {
             "sentence": "Ныпчыхьэ фылымыр '''идгъэкъужьыщт''",
             "translation": "In the evening, '''we will continue''' the film."
+          },
+		  {
+            "sentence": "К1алэм икъунэу иеджэн зыритырэп, мыщтэу '''ригъэкъумэ''' университетым къыч1адзыщт",
+            "translation": "The boy does not dedicate himself enough to his studies, '''if he continues''' like this he will be thrown out of the university."
           }
         ]
       },
@@ -103492,7 +103604,7 @@
         ]
       },
       {
-        "meaning": "to start engaging with a certain field, subject or hobby",
+        "meaning": "to occupy oneself with a certain field, subject, activity or hobby; to start engaging with a certain field, subject, activity or hobby",
         "examples": [
           {
             "sentence": "К1алэр спортым '''пыхьагъ'''",
@@ -111835,7 +111947,7 @@
           },
 		  {
             "sentence": "Ц1ыфыр псым '''рик1ошъущтэп'''",
-            "translation": "A person '''cannot go on''' the water."
+            "translation": "A person '''cannot go on''' water."
           }
         ]
       }
@@ -111848,7 +111960,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to do/render a service, to do a good turn",
+        "meaning": "to do a favor",
         "examples": []
       }
     ],
@@ -111860,7 +111972,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to get tired",
+        "meaning": "to get tired; to be exhausted",
         "examples": []
       }
     ],
@@ -111875,10 +111987,14 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to get tired, to get exhausted",
+        "meaning": "to get tired; to get exhausted",
         "examples": [
           {
-            "sentence": "К1алэр '''мэпшъэгъ'''",
+            "sentence": "Л1ып '''мэпшъы'''",
+            "translation": "The man '''is getting exhausted'''."
+          },
+		  {
+            "sentence": "К1алэр '''пшъыгъэ'''",
             "translation": "The boy '''is exhausted'''."
           },
           {
