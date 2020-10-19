@@ -17916,7 +17916,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "work",
+        "meaning": "work; job",
         "examples": [
           {
             "sentence": "Джы '''1офы''' бэ сыш1эн фай",
@@ -17953,6 +17953,14 @@
 		  {
             "sentence": "'''1офэу''' сыш1агъэмк1э укъэсфэразэба?",
             "translation": "Aren't you pleased with me '''with the work''' I done?"
+          },
+          {
+            "sentence": "'''1оф''' къиным сыш1ок1ышъугъ",
+            "translation": "I managed to avoid the hard '''work'''."
+          },
+		  {
+            "sentence": "К1алэм сгу фэузы '''и1офк1э''' къин ехъути",
+            "translation": "I feel bad for the boy because he suffers '''in work'''."
           }
         ]
       },
@@ -17961,7 +17969,11 @@
         "examples": [
           {
             "sentence": "'''1офы''' си1",
-            "translation": "I have '''a job'''"
+            "translation": "I have '''a job'''."
+          },
+		  {
+            "sentence": "Сыд '''уи1оф'''",
+            "translation": "What is '''your job'''?"
           }
         ]
       },
@@ -22811,6 +22823,10 @@
 		  {
             "sentence": "Пыир '''блэк1ыфэ''' зышъуушъэф",
             "translation": "'''Until''' the enemy '''passes''', be silent."
+          },
+		  {
+            "sentence": "Cгу мэузы экзаменым '''сыблэк1ышъугъэпи'''",
+            "translation": "I feel bad '''because I couldn't pass''' the exam"
           }
         ]
       }
@@ -51319,6 +51335,10 @@
           {
             "sentence": "Ахъщэ утыным '''уш1ок1ышъущтэп'''",
             "translation": "'''You cannot avoid''' paying money."
+          },
+          {
+            "sentence": "1оф къиным '''сыш1ок1ышъугъ'''",
+            "translation": "'''I managed to avoid''' the hard work."
           }
         ]
       }
@@ -66714,6 +66734,10 @@
 		  {
             "sentence": "Сшъхьэ тефэрэп сыда мыщ фэдизэу 1офыр '''къинэу''' къэтфаш1ы",
             "translation": "I do not understand why they make the job this '''hard''' for us."
+          },
+          {
+            "sentence": "1оф '''къиным''' сыш1ок1ышъугъ",
+            "translation": "I managed to avoid the '''hard''' work."
           }
         ]
       }
@@ -67129,6 +67153,10 @@
 		  {
             "sentence": "Сшъхьэ тефэрэп '''сыда''' мыщ фэдизэу 1офыр къинэу къэтфаш1ы",
             "translation": "I do not understand '''why''' they make the job this hard for us."
+          },
+		  {
+            "sentence": "'''Сыда''' угу мэузы къэсдэхъоу плъэгъумэ",
+            "translation": "'''Why''' you feel displeasure when you see things go well for me?"
           }
         ]
       }
@@ -69920,6 +69948,43 @@
     ],
     "type": "noun",
     "ipa": "mal"
+  },
+  {
+    "word": "ыгу узын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"гу узын\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "əgʷə wzən"
+  },
+  {
+    "word": "гу узын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to feel bad; to feel displeasure (from disappointment, frustration or spitefulness)",
+        "examples": [
+          {
+            "sentence": "'''Cгу мэузы''' экзаменым сыблэк1ышъугъэпи",
+            "translation": "'''I feel bad''' because I couldn't pass the exam."
+          },
+		  {
+            "sentence": "К1алэм '''сгу фэузы''' и1офк1э къин ехъути",
+            "translation": "'''I feel bad for''' the boy because he suffers in work."
+          },
+		  {
+            "sentence": "Сыда '''угу мэузы''' къэсдэхъоу плъэгъумэ",
+            "translation": "Why '''you feel displeasure''' when you see things go well for me?"
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "gʷə wzən"
   },
   {
     "word": "шъухъогъон",
@@ -96897,6 +96962,10 @@
 		  {
             "sentence": "Шхъогъуалым '''къин ехъу''' ылъэгъумэ зыгорэм ш1угъо къехъул1эу",
             "translation": "An envious person '''suffers''' when (s)he sees something fortunate happens to someone."
+          },
+		  {
+            "sentence": "К1алэм сгу фэузы и1офк1э '''къин ехъути'''",
+            "translation": "I feel bad for the boy '''because he suffers''' in work."
           }
         ]
       },
@@ -103536,12 +103605,16 @@
             "translation": "Only good words '''are said about''' the old man."
           },
 		  {
-            "sentence": "Сиянэ ш1ухэр '''ра1уал1эх'''",
+            "sentence": "Сянэ ш1ухэр '''ра1уал1эх'''",
             "translation": "'''They say''' good things '''about''' my mother."
           },
           {
             "sentence": "Сыд филымым '''еп1уал1эрэр'''?",
             "translation": "What '''you say about''' the film?"
+          },
+          {
+            "sentence": "Сыд филымым '''еп1ол1энэу''' уи1эр?",
+            "translation": "What do you have '''to say about''' the film?"
           },
           {
             "sentence": "Л1ыжъым 1аехэр '''къыси1ол1агъэх'''",
@@ -117169,6 +117242,10 @@
 		  {
             "sentence": "Непэ '''къэсдэмыхъоу''' сыгу к1одыгъэ, джы сыш1эжьыщтыр сыш1эрэп",
             "translation": "Today I lost motivation '''by things not doing well for me''', I don't know what to do now."
+          },
+		  {
+            "sentence": "Сыда угу мэузы '''къэсдэхъоу''' плъэгъумэ",
+            "translation": "Why you feel displeasure when you see '''things go well for me'''?"
           }
         ]
       },

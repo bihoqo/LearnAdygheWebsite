@@ -963,13 +963,13 @@
     "Saturday": "шэмбэт"
   },
   {
-    "anger": "гужъ"
+    "anger": "губжь; гужъ; гухьэ-гужъ"
   },
   {
     "hatred": "гужъ"
   },
   {
-    "spite": "гужъ"
+    "spite": "гужъ; гухьэ-гужъ"
   },
   {
     "September": "1оныгъомаз"
@@ -3474,7 +3474,10 @@
     "to be capable": "лъэк1ын (to be capable of doing)"
   },
   {
-    "can": "лъэк1ын"
+    "can": "лъэк1ын; -шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb)"
+  },
+  {
+    "capable": "лъэк1ын; -шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb)"
   },
   {
     "horn": "бжъэ; бжъакъо"
@@ -10870,7 +10873,7 @@
     "to carry out": "гъэцэк1эн"
   },
   {
-    "to manage": "е1эзэн (to handle something, to deal with, to manage something); гъэзек1он (to manage something or someone); лъэк1ын / фэлъэк1ын (to manage to do, to be able to do); зэпыгъэфэн (to arrange); гъэ1орыш1эн"
+    "to manage": "-шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb); е1эзэн (to handle something, to deal with, to manage something); гъэзек1он (to manage something or someone); лъэк1ын / фэлъэк1ын (to manage to do, to be able to do); зэпыгъэфэн (to arrange); гъэ1орыш1эн"
   },
   {
     "to administrate": "гъэзек1он"
@@ -15430,7 +15433,7 @@
     "enormous": "шъэджашъ"
   },
   {
-    "possible": "хъушъущт (it can happen); дэхэт (it is possible that)"
+    "possible": "хъушъущт (it can happen); дэхэт (it is possible that); -шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb)"
   },
   {
     "probably": "дэхэт (it is probabil that, it is likely that); щытын (that is probably the case); ч1эк1ын (it would turn out to be); енэгуй (probably); енэгуягъо (probably)"
@@ -18802,7 +18805,13 @@
     "to work out": "къыдэхъун (things to work out with someone); зэпэк1эк1ын (things/problems to work out); зэпэк1эгъэк1ын (to make problem work out)"
   },
   {
-    "to succeed": "ш1ышъун (to be able to do); дэгъоу къигъэк1ын / дахэу къигъэк1ын (to make something turn out to be good); къыфигъэк1ын (to successfully do); къыдэхъун (to work out, to turn out well)"
+    "to succeed": "ш1ышъун (to be able to do); дэгъоу къигъэк1ын / дахэу къигъэк1ын (to make something turn out to be good); къыфигъэк1ын (to successfully do); къыдэхъун (to work out, to turn out well); -шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb)"
+  },
+  {
+    "to feel bad": "гу узын (to feel bad; to feel displeasure (from disappointment, frustration or spitefulness))"
+  },
+  {
+    "to feel displeasure": "гу узын (to feel bad; to feel displeasure (from disappointment, frustration or spitefulness))"
   },
   {
     "to turn out well": "къыдэхъун"
