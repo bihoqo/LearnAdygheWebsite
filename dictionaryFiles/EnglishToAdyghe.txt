@@ -2145,7 +2145,7 @@
     "to sell": "щэн; щыщэн (to sell in a certain place)"
   },
   {
-    "to take": "щэн (to take/lead someone to somewhere); хьын (to take/carry something to somewhere); штэн / къэштэн (to grab something to take); ш1охьын (to take something from someone against his interest or will); 1ыхын / къы1эхын (to take something from someone by hand); техын / къытехын (to take off something from above something); ч1эхын / къыч1эхын (to take something from under something); дэхын / къыдэхын (to take something from inside another object); ихын / къыихын (to take something from inside something); пыхын / къыпыхын (to take down from a hanging position, to unhang); хэхын / къыхэхын (to take something from through something or from an area with gas or liquid); къохын / къыкъохын (to take something from behind something); гохын / къыгохын / бгъодэхын / къыбгъодэхын (to take something from besides something); к1оц1ыхын / къык1оц1ыхын (to take something from inside something's body); тещэн (to take/lead someone to above something); хэщэн (to take/lead someone to among other people or objects); хэщэн (to take/lead someone to an area liquid, gas, plants or trees); дэщэн (to take/lead someone to a yard); ищэн (to take/lead someone to inside something); къощэн (to take/lead someone to behind something); пыхын (to take something like knowledge, behavior from someone); дэщэен (to lead/take someone up); ещэхын (to lead/take someone down); къещэк1ын (to take/lead someone around); ещэл1эн (to take someone to, to lead someone to)"
+    "to take": "щэн (to take/lead someone to somewhere); хьын (to take/carry something to somewhere); штэн / къэштэн (to grab something to take); ш1охьын (to take something from someone against his interest or will); 1ыхын / къы1эхын (to take something from someone by hand); техын / къытехын (to take off something from above something); ч1эхын / къыч1эхын (to take something from under something); дэхын / къыдэхын (to take something from inside another object); ихын / къыихын (to take something from inside something); пыхын / къыпыхын (to take down from a hanging position, to unhang); хэхын / къыхэхын (to take something from through something or from an area with gas or liquid); къохын / къыкъохын (to take something from behind something); гохын / къыгохын / бгъодэхын / къыбгъодэхын (to take something from besides something); к1оц1ыхын / къык1оц1ыхын (to take something from inside something's body); тещэн (to take/lead someone to above something); хэщэн (to take/lead someone to among other people or objects); хэщэн (to take/lead someone to an area liquid, gas, plants or trees); дэщэн (to take/lead someone to a yard); ищэн (to take/lead someone to inside something); къощэн (to take/lead someone to behind something); пыхын (to take something like knowledge, behavior from someone); дэщэен (to lead/take someone up); ещэхын (to lead/take someone down); къещэк1ын (to take/lead someone around); ещэл1эн (to take someone to, to lead someone to); дэхьыен (to take upwards, to take up, to carry upwards, to carry up)"
   },
   {
     "to grasp": "къэубытын (to take hold, to grib, to grasp, to catch and hold, to grab by catching); зы1эк1эубытэн; зэхэш1ык1ын (to comprehend; to understand or grasp fully and thoroughly)"
@@ -2850,7 +2850,7 @@
     "small money": "ахъщэжъгъэй"
   },
   {
-    "coin": "ахъщэжъгъэй; пэражъгъэй; пэрашъхъэ (Shapsug)"
+    "coin": "ахъщэжъгъэй; пэражъгъэй; (Shapsug) пэрашъхъэ"
   },
   {
     "to replace": "зэблэхъун"
@@ -4777,7 +4777,7 @@
     "to pick up": "штэн / къэштэн (to take, to lift, to hold and pick up); къэ1этын (to lift and raise up); техын (to pick up from above); щыпын / къэщыпын (to pick up stuff/people usaully from the ground); тещыпык1ын (to pick up stuff from); пхъотэн (to pick up suddenly, to snatch)"
   },
   {
-    "to lift": "къэ1этын; къэштэн (to pick up); къэгъэтэджын (to stand up something); те1этык1ын (to lift from above something)"
+    "to lift": "1этын / къэ1этын; къэштэн (to pick up); къэгъэтэджын (to stand up something, to make something stand on its legs); те1этык1ын (to lift something from above something)"
   },
   {
     "to stand up": "къэтэджын (to stand up); къэгъэтэджын (to stand up something); къызшъхьапк1этын (to stand up instantly)"
@@ -5026,13 +5026,16 @@
     "little": "ц1ык1у; жъый"
   },
   {
-    "small": "ц1ык1у; жъый; жъгъэй; шъхъэ (Shapsug); шъхъэи; щэндж; тешъо; чэндж; ц1ык1уинт1э; ц1ык1унау (Shapsug)"
+    "small": "ц1ык1у (little); жъый (small); ц1ык1ужъый (tiny); жъгъэй / шъхъэи (the size of a fragment of some sort, small thing or small piece); (Shapsug) шъхъэ (the size of a fragment of some sort); щэндж; тешъо; чэндж; ц1ык1уинт1э (tiny); (Shapsug) ц1ык1унау (tiny)"
   },
   {
-    "small thing": "жъгъэй; шъхъэ (Shapsug)"
+    "small thing": "жъгъэй / шъхъэи (the size of a fragment of some sort, small thing or small piece); шъхъэ (Shapsug)"
   },
   {
-    "tiny": "жъый; ц1ык1ужъый"
+    "small piece": "жъгъэй / шъхъэи (the size of a fragment of some sort, small thing or small piece); шъхъэ (Shapsug)"
+  },
+  {
+    "tiny": "ц1ык1ужъый"
   },
   {
     "few": "мак1э; т1эк1у"
@@ -5851,7 +5854,7 @@
     "to adopt": "п1ун"
   },
   {
-    "to raise": "п1ун (to adopt); дэщэен; дэ1этэен; 1этын; чӏыхын (Shapsug); ч1ыгъэк1ын (Shapsug); дэхьыен; дэгъэк1оен; те1этык1ын (to lift from above)"
+    "to raise": "дэщэен; дэ1этэен; 1этын; (Shapsug) чӏыхын; (Shapsug) ч1ыгъэк1ын; дэгъэк1оен; те1этык1ын (to lift from above something); гъэ1эн; п1ун (to adopt a child)"
   },
   {
     "mat": "п1уаблэ"
@@ -11041,7 +11044,7 @@
     "to hold higher": "дэ1этэен"
   },
   {
-    "to elevate": "дэ1этэен; дэхьыен"
+    "to elevate": "дэ1этэен; 1этын; дэгъэк1оен"
   },
   {
     "headgear": "шъхьэтелъхьэ; шъхьэтепхъу"
@@ -18166,7 +18169,7 @@
     "fuel": "гъэстыныпхъ"
   },
   {
-    "fragment": "къутаф"
+    "fragment": "къутаф; гоутыгъэр; пыутыгъэр; пык1ык1ыгъэр"
   },
   {
     "briquet": "мыжъош1омык1"

@@ -28497,16 +28497,32 @@
         "examples": [
           {
             "sentence": "'''Жъгъэй''' си1эп",
-            "translation": "I have '''no change''' (no coin)."
+            "translation": "I have '''no change''' (no coins)."
+          },
+		  {
+            "sentence": "'''Жъгъэих''' сы1ыгъэхэр ны1эп",
+            "translation": "What I have are '''coins''' only."
+          },
+		  {
+            "sentence": "К1алэм зы доларыр ахъщэ '''жъгъэихэу''' еукъо",
+            "translation": "The boy breaks one dollar into '''coins'''."
           }
         ]
       },
       {
-        "meaning": "tiny (the size of a coin)",
+        "meaning": "small (the size of a fragment of some sort, small thing or small piece)",
         "examples": [
           {
             "sentence": "Лыр '''Жъгъэеу''' ш1ын",
-            "translation": "To split meat to '''tiny''' pieces."
+            "translation": "To split meat to '''small pieces'''."
+          },
+		  {
+            "sentence": "Пхъэр '''жъгъэеу''' бзын",
+            "translation": "To cut a wood to '''small pieces'''."
+          },
+		  {
+            "sentence": "Къутафыр '''жъгъэеу''' къэнэжьыхэрэр зыгорэ зыкъутэрэм",
+            "translation": "A fragment is the '''small things''' that remain when something shatters."
           }
         ]
       }
@@ -56912,18 +56928,26 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "small money",
-        "examples": []
-      },
-      {
         "meaning": "coin",
         "examples": [
           {
             "sentence": "Къэнэжьырэр '''ахъщэжъгъэеу''' къысэптышъущта?",
             "translation": "Can you give me the change '''in coins'''."
+          },
+		  {
+            "sentence": "'''Ахъщэжъгъэй''' си1эп",
+            "translation": "I have '''no change''' (no coins)."
+          },
+		  {
+            "sentence": "'''Ахъщэжъгъэих''' сы1ыгъэхэр ны1эп",
+            "translation": "What I have are '''coins''' only."
           }
         ]
       }
+    ],
+    "synonyms": [
+      "пэражъгъэй",
+      "пэрашъхъэ"
     ],
     "type": "noun",
     "ipa": "aːχʃaʐʁaj"
@@ -69746,7 +69770,7 @@
       }
     ],
     "synonyms": [
-      "жъгъэй (size of a coin)"
+      "жъгъэй (size of a fragement)"
     ],
     "type": "adj",
     "ipa": "t͡sʼəkʷʼ"
@@ -79177,6 +79201,10 @@
 		  {
             "sentence": "1аеу '''узек1уагъ'''",
             "translation": "'''You acted''' awfully."
+          },
+		  {
+            "sentence": "Ар тэрэзэу '''зек1уагъэпышъ''', гъэмысэн фае",
+            "translation": "'''Because (s)he did not behave''' correctly, he must be blamed."
           },
           {
             "sentence": "1аеу к1алэр '''зек1уагъэп'''",
@@ -112438,8 +112466,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "hot air, hot weather, hot spell",
-        "examples": []
+        "meaning": "hot air, hot weather",
+        "examples": [
+          {
+            "sentence": "Гъэмэфэм '''фэбаеу''' мэхъу",
+            "translation": "In the summer, it becomes '''hot'''."
+          },
+		  {
+            "sentence": "Непэ '''фэбай'''",
+            "translation": "Today is '''hot'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -112453,12 +112490,26 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to raise, to elevate, to take upwards",
-        "examples": []
+        "meaning": "to take upwards; to take up; to carry upwards; to carry up",
+        "examples": [
+          {
+            "sentence": "К1алэм дзыохэр къушъхьэм '''дехьые'''",
+            "translation": "The boy '''carries''' the sacks '''up''' on the mountain."
+          },
+		  {
+            "sentence": "Дзыохэр к1ашъом '''дехьыех'''",
+            "translation": "'''Take''' the sacks '''up to''' the roof."
+          }
+        ]
       },
       {
         "meaning": "to glorify someone, to elevate someone's reputation",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ц1ыфыхэмэ тхьэматэр'''дахьые'''",
+            "translation": "The people '''glorify''' the leader."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -112486,6 +112537,10 @@
           {
             "sentence": "Апч '''къутаф'''",
             "translation": "Glass '''fragment'''."
+          },
+		  {
+            "sentence": "'''Къутафыр''' жъгъэеу къэнэжьыхэрэр зыгорэ зыкъутэрэм",
+            "translation": "A '''fragment''' is the small things that remain when something shatters."
           }
         ]
       },
@@ -112502,14 +112557,27 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "tiny (the size of a coin)",
-        "examples": []
+        "meaning": "small; tiny (the size of a fragment of some sort)",
+        "examples": [
+          {
+            "sentence": "Лыр '''шъхъэеу''' ш1ын",
+            "translation": "To split meat to '''small pieces'''."
+          },
+		  {
+            "sentence": "Пхъэр '''шъхъэеу''' бзын",
+            "translation": "To cut a wood to '''small pieces'''."
+          },
+		  {
+            "sentence": "Къутафыр '''шъхъэеу''' къэнэжьыхэрэр зыгорэ зыкъутэрэм",
+            "translation": "A fragment is the '''small things''' that remain when something shatters."
+          }
+        ]
       }
     ],
     "synonyms": [
-      "жъгъэй"
+      "жъгъэй",
+      "шъхъэ (Shapsug)"
     ],
-    "kabardian": "ц1ык1у",
     "type": "adj",
     "ipa": "ʂħajə"
   },
@@ -112522,7 +112590,7 @@
         "examples": [
           {
             "sentence": "Ар тэрэзэу зек1уагъэпышъ, '''гъэмысэн''' фае",
-            "translation": "He didn't behave correctly, he must be '''blamed'''."
+            "translation": "Because (s)he did not behave correctly, '''he''' must '''be blamed'''."
           },
           {
             "sentence": "Лажьэ имы1эу агъэмысэн",
