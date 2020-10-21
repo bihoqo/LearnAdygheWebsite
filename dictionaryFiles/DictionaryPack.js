@@ -8039,8 +8039,16 @@
         "meaning": "wood",
         "examples": [
 		  {
+            "sentence": "'''Пхъэр''' зэпык1ыгъ",
+            "translation": "'''The wood''' snapped."
+          },
+		  {
             "sentence": "Нахь '''пхъэ''' бэу маш1ом хэтылъхьан фай",
             "translation": "We need to put more '''wood''' into the fire."
+          },
+		  {
+            "sentence": "Л1ым '''пхъэхэр''' зэ1уигъак1и унэ ахэмк1э зэхиш1ыхьагъ",
+            "translation": "The man collected '''woods''' and built up a house with them."
           }
         ]
       }
@@ -9116,7 +9124,7 @@
         "meaning": "thief, burglar, robber",
         "examples": [
           {
-            "sentence": "Зэманым '''тыгъуак1омэ''' а1эхэр паук1ыщтыгъ",
+            "sentence": "Зэманым '''тыгъуак1омэ''' а1эхэр паук1ыщтыгъэх",
             "translation": "In the past they used to cut off arms of '''thieves'''."
           },
 		  {
@@ -87445,7 +87453,7 @@
             "translation": "The internet '''cut off'''."
           },
           {
-            "sentence": "Зэманым тыгъуак1омэ а1эхэр '''паук1ыщтыгъ'''",
+            "sentence": "Зэманым тыгъуак1омэ а1эхэр '''паук1ыщтыгъэх'''",
             "translation": "In the past '''they used to cut off''' thieves' arms."
           }
         ]
@@ -105200,7 +105208,7 @@
 		  {
             "sentence": "Зэманым дэпкъыхэр '''псынжъык1э''' аищтыгъэх",
             "translation": "In the past, they used to coat walls '''with mud'''."
-          },
+          }
         ]
       }
     ],
@@ -112586,25 +112594,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to accuse, to charge, to blame",
+        "meaning": "to accuse, to charge, to blame, to condemn, to convict",
         "examples": [
           {
             "sentence": "Ар тэрэзэу зек1уагъэпышъ, '''гъэмысэн''' фае",
             "translation": "Because (s)he did not behave correctly, '''he''' must '''be blamed'''."
           },
           {
-            "sentence": "Лажьэ имы1эу агъэмысэн",
+            "sentence": "Лажьэ имы1эу '''агъэмысэн'''",
             "translation": "'''To blame''' someone without fault."
           }
         ]
-      },
-      {
-        "meaning": "to condemn",
-        "examples": []
-      },
-      {
-        "meaning": "to convict",
-        "examples": []
       }
     ],
     "type": "verb",
@@ -112618,7 +112618,7 @@
         "meaning": "fault; blame",
         "examples": [
           {
-            "sentence": "'''Лажьэ''' имыIэу агъэмысэн",
+            "sentence": "'''Лажьэ''' имы1эу агъэмысэн",
             "translation": "'''To blame''' someone without fault."
           },
           {
@@ -112666,21 +112666,37 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to unload, to discharge",
-        "examples": []
+        "meaning": "to empty; to unload, to discharge",
+        "examples": [
+          {
+            "sentence": "Матэу мы1эрысхэр зилъыр '''аунэк1ыгъ'''",
+            "translation": "'''They emptied''' the basket with the apples."
+          },
+		  {
+            "sentence": "К1алэм унэр '''ыунэк1ыгъ'''",
+            "translation": "The boy '''emptied''' the room."
+          },
+		  {
+            "sentence": "Апчыр '''уунэк1ын'''",
+            "translation": "'''To empty''' the glass."
+          },
+		  {
+            "sentence": "К1эрахъор л1ым '''ыунэк1ыгъ'''",
+            "translation": "The man '''unloaded''' the gun."
+          },
+		  {
+            "sentence": "Симобайл '''унэк1ыгъ'''",
+            "translation": "The mobile '''discharged'''."
+          },
+		  {
+            "sentence": "Шъуилагъэхэр '''шъуунэк1ых'''",
+            "translation": "'''Empty''' your plates."
+          }
+        ]
       },
       {
         "meaning": "to relieve",
         "examples": []
-      },
-      {
-        "meaning": "to empty",
-        "examples": [
-          {
-            "sentence": "Шъуилагъэхэр '''шъуунэк1ых'''",
-            "translation": "'''Empty (pl.)''' your plates."
-          }
-        ]
       }
     ],
     "type": "verb",
@@ -112706,7 +112722,7 @@
         "meaning": "to punish",
         "examples": [
           {
-            "sentence": "Кур зэрикъутагъэм пае шоферыр '''гъэпщынэн''' фае",
+            "sentence": "Кур зэрикъутагъэм пае кугъачъэр '''гъэпщынэн''' фае",
             "translation": "Because he wrecked the car, the driver need '''to be punished'''."
           }
         ]
@@ -112743,6 +112759,10 @@
           {
             "sentence": "К1алэр '''пшъэдэк1ыжьым''' ш1ок1ыгъ",
             "translation": "The boy avoided '''the responsibility'''."
+          },
+		  {
+            "sentence": "Зыгорэм '''пшъэдэк1ыжь''' ебгъэхьын",
+            "translation": "To hold someone '''accountable'''."
           }
         ]
       }
@@ -112770,8 +112790,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "right; claim",
-        "examples": []
+        "meaning": "right; claim; authorization",
+        "examples": [
+          {
+            "sentence": "'''фитыныгъэ''' етын",
+            "translation": "to authorize."
+          },
+		  {
+            "sentence": "'''фитыныгъэ''' си1",
+            "translation": "I have '''authorization'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -112794,12 +112823,71 @@
     "ipa": "tħaɬaʔʷəpʼa"
   },
   {
+    "word": "зэман",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "past",
+        "examples": [
+		  {
+            "sentence": "'''Зэманым''' ц1ыфыхэр тхьэ сурэтхэм афэпщыл1ыщтыгъэх",
+            "translation": "'''In the past''', people used to worship idols."
+          },
+		  {
+            "sentence": "'''Зэманым''' дэпкъыхэр псынжъык1э аищтыгъэх",
+            "translation": "'''In the past''', they used to coat walls with mud."
+          },
+          {
+            "sentence": "'''Зэманым''' машинэхэр щы1агъэхэп",
+            "translation": "'''In the past''' there were no machines."
+          },
+          {
+            "sentence": "'''Зэманым''' ар хъущт",
+            "translation": "'''In the past''', that was okay."
+          },
+          {
+            "sentence": "'''Зэманым''' ар хъущтыгъэп",
+            "translation": "'''In the past''', that was not okay."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "fapʃʼəɬʼən"
+  },
+  {
+    "word": "фэпщыл1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to worship",
+        "examples": [
+          {
+            "sentence": "Тхьэм '''фэпщыл1ын'''",
+            "translation": "'''To worship''' God."
+          },
+		  {
+            "sentence": "Зэманым ц1ыфыхэр тхьэ сурэтхэм '''афэпщыл1ыщтыгъэх'''",
+            "translation": "In the past, people '''used to worship''' idols."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "fapʃʼəɬʼən"
+  },
+  {
     "word": "тхьэ сурэт",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "idol",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Зэманым ц1ыфыхэр '''тхьэ сурэтхэм''' афэпщыл1ыщтыгъэх",
+            "translation": "In the past, people used to worship '''idols'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -112827,16 +112915,127 @@
     "ipa": "maʃʷʼatχəaːbz"
   },
   {
+    "word": "зэхэш1ыхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to compose; to make something by merging parts; to make something by using",
+        "examples": [,
+		  {
+            "sentence": "Шхын '''зэхэш1ыхьан''' къуаек1э",
+            "translation": "'''To make''' food using cheese."
+          },
+		  {
+            "sentence": "Кур сыдк1э '''зэхэш1ыхьагъ'''?",
+            "translation": "With what the car '''is composed'''?"
+          }
+        ]
+      },
+	  {
+        "meaning": "to build up something from parts",
+        "examples": [
+		  {
+            "sentence": "Л1ым пхъэхэр зэ1уигъак1и унэ ахэмк1э '''зэхиш1ыхьагъ'''",
+            "translation": "The man collected woods and '''built up''' a house with them."
+          },
+		  {
+            "sentence": "Унэ пхъэк1э '''зэхэш1ыхьан'''",
+            "translation": "'''To build''' a house using wood."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaʔʷəʁat͡ʃʼan"
+  },
+  {
+    "word": "зэ1угъэк1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to make people meet at a certian place",
+        "examples": [
+          {
+            "sentence": "Тыдэ тхьэматэм '''тызэ1уигъэк1эщт'''?",
+            "translation": "Where '''will''' the manager '''make us meet'''?"
+          }
+        ]
+      },
+	  {
+        "meaning": "to collect; to make a collection",
+        "examples": [
+          {
+            "sentence": "К1алэм чатэхэрмэ шъэжъыехэмрэ '''зэ1уегъак1эх'''",
+            "translation": "The boy '''collects''' knifes and swords."
+          },
+		  {
+            "sentence": "Кухэр '''зэ1усэгъак1эх'''",
+            "translation": "'''I collect''' cars."
+          },
+		  {
+            "sentence": "Ц1ыфыхэр '''зэ1угъак1эхи''' тыджэгущт",
+            "translation": "'''Collect''' people and we will play."
+          },
+		  {
+            "sentence": "Л1ым пхъэхэр '''зэ1уигъак1и''' унэ ахэмк1э зэхиш1ыхьагъ",
+            "translation": "The man '''collected''' woods and built up a house with them."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaʔʷəʁat͡ʃʼan"
+  },
+  {
+    "word": "зэхэугъоен",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to gather people/stuff together; to concentrate people/stuff together; to assemble",
+        "examples": [
+		  {
+            "sentence": "Пхъэнт1эк1ухэр '''зэхэугъоежьых'''",
+            "translation": "'''Gather''' the chairs."
+          },
+		  {
+            "sentence": "Мэкъур '''зэхэугъоен'''",
+            "translation": "'''To gather''' the hay."
+          },
+		  {
+            "sentence": "Л1ым пхъэхэр '''зэхэугъоий''' унэ ахэмк1э зэхиш1ыхьагъ",
+            "translation": "The man '''collected''' woods and built up a house with them."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "зэк1эугъоен",
+      "угъоин",
+      "къэугъоин"
+    ],
+    "type": "verb",
+    "ipa": "zaxawʁʷawan"
+  },
+  {
     "word": "зэк1эугъоен",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to gather, to collect",
-        "examples": []
-      },
-      {
-        "meaning": "to assemble",
-        "examples": []
+        "meaning": "to gather people/stuff together; to concentrate people/stuff together; to assemble",
+        "examples": [
+		  {
+            "sentence": "Пхъэнт1эк1ухэр '''зэк1эугъоежьых'''",
+            "translation": "'''Gather''' the chairs."
+          },
+		  {
+            "sentence": "Мэкъур '''зэк1эугъоен'''",
+            "translation": "'''To gather''' the hay."
+          },
+		  {
+            "sentence": "Л1ым пхъэхэр '''зэк1эугъоий''' унэ ахэмк1э зэхиш1ыхьагъ",
+            "translation": "The man '''collected''' woods and built up a house with them."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -112858,27 +113057,6 @@
     ],
     "type": "verb",
     "ipa": "wəgʷəfən"
-  },
-  {
-    "word": "зэхэугъоен",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to gather, to collect",
-        "examples": []
-      },
-      {
-        "meaning": "to assemble",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "зэк1эугъоен",
-      "угъоин",
-      "къэугъоин"
-    ],
-    "type": "verb",
-    "ipa": "zaxawʁʷawan"
   },
   {
     "word": "итхъун",

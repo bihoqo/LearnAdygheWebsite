@@ -1734,7 +1734,7 @@
     "to drop": "1эпызын (to drop from the hand); къизын (to drop from inside something); къетк1ухын (to drip from, to drop down drops of liquid); 1эпызын (to drop unintentionally); 1эпыт1эрын (to let slip unintentionally); къытезын (to drop from); къыпызын (to drop off a tree); къыпытэкъун (to drop from the tree around it); зэтефэн (to drop on each other); зэхэфэн (to drop into each other); 1эк1эзын (to drop something unintentionally from the hand); пызын / къыпызын (to drop off from a tree); изын / къизын (to drop off from inside something); тезын / къытезын (to drop off from above something); ч1эзын / къыч1эзын (to drop off from under something); зэтетэкъун (to drop off from each other); тетк1он (to drip liquid on something one drop at a time)"
   },
   {
-    "to meet": "тефэн (to come across, to encounter coincidentally); 1ук1эн (to meet); пэгъок1ын (to welcome, to approach, to encounter intentionally); зэ1ук1эн (to meet up)"
+    "to meet": "тефэн (to come across, to encounter coincidentally); 1ук1эн (to meet); пэгъок1ын (to welcome, to approach, to encounter intentionally); зэ1ук1эн (to meet up); зэ1угъэк1эн (to make people meet at a certian place)"
   },
   {
     "to come across": "тефэн; зэтефэн (to come across each other); зэ1ууп1эн (to come across with each other)"
@@ -2052,7 +2052,10 @@
     "late": "к1асэ; лъэжъуагъ"
   },
   {
-    "right": "джабгъо (direction); тэрэз (correct); фит (right by law)"
+    "right": "джабгъо (direction); тэрэз (correct); фит (right by law); фитыныгъ (right by law, authorization)"
+  },
+  {
+    "authorization": "фит; фитыныгъ"
   },
   {
     "left": "сэмэгу"
@@ -3712,6 +3715,9 @@
   },
   {
     "fodder": "1ус; былым1ус"
+  },
+  {
+    "to authorize": "фитыныгъэ етын"
   },
   {
     "driver": "кугъачъ; куф; зефак1о; кузеф; кушъхьа1ыгъ"
@@ -9481,7 +9487,7 @@
     "to slide down": "ечъэхын"
   },
   {
-    "to build": "ш1ын; фэш1ын (to build for); дэш1ын (to build with); ш1ыжьын (to rebuild); к1эш1ыхьан (to build under something); теш1ыхьан (to build on something); хэш1ыхьан (to build in the water, sea, fire, gas, forest, field); дэш1ыхьан (to build between, to build inside another object, to build inside a yard, village, area, etc.); иш1ыхьан (to build inside); пыш1ыхьан (to build on a tree, to build on the surface of a device or tool); къош1ыхьан (to build behind something); гош1ыхьан / бгъодэш1ыхьан (to build besides something); зэтеш1ыхьан (to build on each other); зэч1эш1ыхьан (to build under each other); зэриш1ыхьан (to build inside each other); зэхэш1ыхьан (to build up something from parts)"
+    "to build": "ш1ын; фэш1ын (to build for); зэхэш1ыхьан (to make something using, to build up something from parts); дэш1ын (to build with); ш1ыжьын (to rebuild); к1эш1ыхьан (to build under something); теш1ыхьан (to build on something); хэш1ыхьан (to build in the water, sea, fire, gas, forest, field); дэш1ыхьан (to build between, to build inside another object, to build inside a yard, village, area, etc.); иш1ыхьан (to build inside); пыш1ыхьан (to build on a tree, to build on the surface of a device or tool); къош1ыхьан (to build behind something); гош1ыхьан / бгъодэш1ыхьан (to build besides something); зэтеш1ыхьан (to build on each other); зэч1эш1ыхьан (to build under each other); зэриш1ыхьан (to build inside each other)"
   },
   {
     "to measure": "шын; щэчын (to measure weight)"
@@ -9613,13 +9619,13 @@
     "to supply": "1эк1эгъэхьан, егъэгъотын"
   },
   {
-    "to gather": "зэхэхьан (people to gather around); щызэ1ук1эн (to gather at a certain place); угъоин / къэугъоин (to gather stuff/people); зэ1угъэк1эн (to make people or objects gather at a certian place); зэхэугъоен / зэк1эугъоен (to gather people/stuff together); зэугъоил1эн (to concentrate into one place)"
+    "to gather": "зэхэхьан (people to gather around); щызэ1ук1эн (to gather at a certain place); угъоин / къэугъоин (to gather stuff/people); зэ1угъэк1эн (to make people gather at a certian place); зэхэугъоен / зэк1эугъоен (to gather people/stuff together, to concentrate people/stuff together); зэугъоил1эн (to concentrate into one place)"
   },
   {
-    "to collect": "угъоин / къэугъоин (to collect stuff/people); зэ1угъэк1эн (to make a collection); зэхэугъоен / зэк1эугъоен (to collect people/stuff together); зэугъоил1эн (to concentrate into one place); щыпын / къэщыпын (to pick up stuff/people usaully from the ground); тещыпык1ын (to pick up stuff from)"
+    "to collect": "угъоин / къэугъоин (to collect stuff/people); зэ1угъэк1эн (to collect, to make a collection); зэхэугъоен / зэк1эугъоен (to collect people/stuff together, to concentrate people/stuff together); щыпын / къэщыпын (to pick up stuff/people usaully from the ground); тещыпык1ын (to pick up stuff from)"
   },
   {
-    "to concentrate": "щызэрэугъоин / зэугъоил1эн (to focus); зэугъоил1агъэ хъун (to focus); зэхэугъоен (to concentrate into one place)"
+    "to concentrate": "щызэрэугъоин / зэугъоил1эн (to focus); зэугъоил1агъэ хъун (to focus); зэхэугъоен / зэк1эугъоен (to concentrate into one place)"
   },
   {
     "to concentrate": "щызэрэугъоин / зэугъоил1эн (to focus); зэугъоил1агъэ хъун (to focus); зэхэугъоен (to concentrate into one place)"
@@ -10459,7 +10465,7 @@
     "toothbrush": "цэлъэк1"
   },
   {
-    "permission": "фитыныгъ; 1изын"
+    "permission": "фит; фитыныгъ; 1изын"
   },
   {
     "approval": "фитыныгъ; 1изын"
@@ -12574,7 +12580,7 @@
     "to grant approval": "дэн; къаблэу ш1ын"
   },
   {
-    "to make": "ш1ын; фэш1ын (to make for); к1эш1ыхьан (to make under something); теш1ыхьан (to make on something); хэш1ыхьан (to make in the water, sea, fire, gas, forest, field); дэш1ыхьан (to make between, to make inside another object, to make inside a yard, village, area, etc.); иш1ыхьан (to make inside); пыш1ыхьан (to make on a tree, to make on the surface of a device or tool); къош1ыхьан (to make behind something); гош1ыхьан / бгъодэш1ыхьан (to make besides something); зэтеш1ыхьан (to make on each other); зэч1эш1ыхьан (to make under each other); зэриш1ыхьан (to make inside each other); зэхэш1ыхьан (to build up something from parts)"
+    "to make": "ш1ын; фэш1ын (to make for); зэхэш1ыхьан (to make something using, to make something from); к1эш1ыхьан (to make under something); теш1ыхьан (to make on something); хэш1ыхьан (to make in the water, sea, fire, gas, forest, field); дэш1ыхьан (to make between, to make inside another object, to make inside a yard, village, area, etc.); иш1ыхьан (to make inside); пыш1ыхьан (to make on a tree, to make on the surface of a device or tool); къош1ыхьан (to make behind something); гош1ыхьан / бгъодэш1ыхьан (to make besides something); зэтеш1ыхьан (to make on each other); зэч1эш1ыхьан (to make under each other); зэриш1ыхьан (to make inside each other)"
   },
   {
     "oven": "хьаку"
@@ -15862,13 +15868,13 @@
     "structure": "зэхэлъык1э (the manner in which one is compounded); ш1ык1э (the manner in which one was done); гъэпсык1 (the manner in which one was planned)"
   },
   {
-    "to compound": "зэхэлъхьан; зэхэгъэуцон"
+    "to compound": "зэхэлъхьан (to compound, to compose, to put together, to assemble (ingredients or parts) into a whole, to combine, mix, or unite); зэхэгъэуцон (to compound, to compose, to assemble, to build by puting together parts)"
   },
   {
-    "to compose": "зэхэлъхьан; зэхэгъэуцон"
+    "to compose": "зэхэш1ыхьан (to compose, to make something by merging parts, to build up something from parts); зэхэлъхьан (to compound, to compose, to put together, to assemble (ingredients or parts) into a whole, to combine, mix, or unite); зэхэгъэуцон (to compound, to compose, to assemble, to build by puting together parts)"
   },
   {
-    "to assemble": "зэхэлъхьан; зэхэгъэуцон"
+    "to assemble": "зэхэлъхьан (to compound, to compose, to put together, to assemble (ingredients or parts) into a whole, to combine, mix, or unite); зэхэгъэуцон (to compound, to compose, to assemble, to build by puting together parts); зэк1эугъоен (to gather people/stuff together, to concentrate people/stuff together)"
   },
   {
     "to lay together": "зэхэлъхьан"
@@ -16498,7 +16504,7 @@
     "to mingle": "зэ1ыш1эн; хэк1ухьан (to become mingled with; to become mixed with); хэгъэк1ухьан (to mingle with, to mix with); зэхэк1ухьан (to become mixed together, to become mingled together); зэхэгъэк1ухьан (to mix things together, to mingle things together)"
   },
   {
-    "to combine": "зэхэхьан (to be combined); зэхэгъэхьан; зэгогъэхьан"
+    "to combine": "зэхэхьан (to be combined); зэхэгъэхьан; зэгогъэхьан; зэхэлъхьан (to assemble (ingredients or parts) into a whole, to combine, mix, or unite)"
   },
   {
     "to group": "зэхэхьан (to come together to form a group); зэхэгъэхьан (to put together to form a group)"
