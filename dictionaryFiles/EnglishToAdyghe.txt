@@ -18346,7 +18346,10 @@
     "greenhorn": "хьэ1уц1"
   },
   {
-    "to go out": "дэк1ын"
+    "to go out": "дэк1ын (to leave one's house especially for hanging out, recreation or entertainment)"
+  },
+  {
+    "to come out": "дэк1ын (to leave one's house especially for hanging out, recreation or entertainment)"
   },
   {
     "atheist": "тхьэмыдэ (one who does not accept god); тхьэмыш1э (one who does not know god); тхьанычъэ (godless); динынчъэ (religionless)"

@@ -28159,6 +28159,10 @@
           {
             "sentence": "К1элэц1ык1ум '''сымаджэу''' зеш1ы еджап1эм амыгъэк1он пае",
             "translation": "The little boy pretends to be '''sick''', so he won't be sent to school."
+          },
+		  {
+            "sentence": "Непэ '''сысымаджэти''' скъыдэк1ыщтэп",
+            "translation": "I will not go out today '''because I am sick'''."
           }
         ]
       }
@@ -72423,6 +72427,10 @@
 		  {
             "sentence": "Чэщы '''късы''' филым теплъы",
             "translation": "'''Every''' night we watch a movie."
+          },
+		  {
+            "sentence": "Мафэ '''къэс''' сыдэк1ы",
+            "translation": "I go out '''every''' day."
           }
         ]
       }
@@ -113535,10 +113543,36 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to go out",
-        "examples": []
+        "meaning": "to go out (to leave one's house especially for hanging out, recreation or entertainment)",
+        "examples": [
+          {
+            "sentence": "Ныпчыхьэ синыбджэгъухэмэ '''садэк1ыщт'''",
+            "translation": "Tonight I will '''go out''' with my friends."
+          },
+		  {
+            "sentence": "'''Укъыдэк1ыщта'''?",
+            "translation": "'''Will you go out'''?"
+          },
+		  {
+            "sentence": "Непэ '''скъыдэк1ыщтэп'''",
+            "translation": "'''I will not go out''' today."
+          },
+		  {
+            "sentence": "Непэ сысымаджэти '''скъыдэк1ыщтэп'''",
+            "translation": "'''I will not go out''' today because I am sick."
+          },
+		  {
+            "sentence": "Куджаныр нахь бэрэ '''къыдэк1ырэп'''",
+            "translation": "Kujan no longer '''comes out'''."
+          },
+		  {
+            "sentence": "Мафэ къэс '''сыдэк1ы'''",
+            "translation": "'''I go out''' every day."
+          }
+        ]
       }
     ],
+    "shapsug": "дэк1ьын",
     "type": "verb",
     "ipa": "dat͡ʼən"
   },
