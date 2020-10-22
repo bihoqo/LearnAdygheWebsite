@@ -7598,7 +7598,6 @@
         "examples": []
       }
     ],
-    "kabardian": "1угъо",
     "type": "noun",
     "ipa": "qʷəʁʷa"
   },
@@ -31686,7 +31685,12 @@
     "definitions": [
       {
         "meaning": "smoke",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "унэм ионджэкъ '''1угъо''' къек1ы",
+            "translation": "'''Smoke''' is coming out from the house's chimney."
+          }
+        ]
       }
     ],
     "shapsug": "къугъо",
@@ -52622,7 +52626,7 @@
     "ipa": "ʃəwt͡ʃʼətan"
   },
   {
-    "word": "зэщиз",
+    "word": "зэщизы",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -52631,6 +52635,14 @@
           {
             "sentence": "Пхъаш1эм пхъэпсымк1э пхъэмбгъур ыупси '''зэщизэу''', джашъоу ыш1ыгъ",
             "translation": "The carpenter with the plane planed the wooden plank '''evenly''' and made it smooth."
+          },
+		  {
+            "sentence": "К1алэм '''зэщизэу''' ыш1ын",
+            "translation": "The boy made it '''flat'''."
+          },
+		  {
+            "sentence": "'''Зэщизы''' хъун",
+            "translation": "To become '''smooth'''."
           }
         ]
       }
@@ -52647,7 +52659,7 @@
         "examples": [
           {
             "sentence": "'''Зэныбжьэу''' зэтырилъхьагъ",
-            "translation": "To put on each other '''smoothly'''."
+            "translation": "To put on each other '''evenly'''."
           }
         ]
       }
@@ -97892,13 +97904,34 @@
     "ipa": "pqəʁʷa"
   },
   {
+    "word": "ц1ырэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to fountain; to flow or gush liquid as if from a fountain",
+        "examples": [
+          {
+            "sentence": "Къэгъагъэхэмэ псы '''атегъэц1ыр'''",
+            "translation": "(S)he '''pours''' water into the flowers."
+          },
+          {
+            "sentence": "К1алэм ч1ыгум '''тегъэц1ырэ'''",
+            "translation": "The boy is '''spraying''' on the ground."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "t͡sʼəran"
+  },
+  {
     "word": "гъэц1ырэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to spray burst liquid on to (usually from a pile)",
+        "meaning": "to spray burst liquid on to (usually from a pile); to flow or gush liquid as if from a fountain",
         "examples": [
-          {
+		  {
             "sentence": "Къэгъагъэхэмэ псы '''атегъэц1ыр'''",
             "translation": "(S)he '''pours''' water into the flowers."
           },
@@ -107614,11 +107647,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to agitated",
+        "meaning": "to be agitated; to be turbulent; to be wavy",
         "examples": [
           {
             "sentence": "Хыр '''мэуалъэ'''",
             "translation": "The sea '''is agitated'''."
+          },
+		  {
+            "sentence": "Зы уалъэм зы уалъэр к1элъык1оу хыр '''мэуалъэ'''",
+            "translation": "One wave coming after the another, the sea '''is being turbulent'''."
           }
         ]
       }
@@ -113063,35 +113100,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to shovel out, to rake out, to remove by shoveling or raking",
+        "meaning": "to shovel out from inside, to rake out from inside",
         "examples": [
           {
-            "sentence": "'''Итхъу''' ят1эр",
-            "translation": "'''Shovel out''' the dirt."
-          },
-          {
-            "sentence": "К1алэм ч1ыгор '''етхъу'''",
-            "translation": "The boy '''is shoveling out''' the ground."
+            "sentence": "К1алэм ят1эр гъуанэм '''ретхъу'''",
+            "translation": "The boy '''is shovelling''' the dirt '''out of''' the hole."
           }
         ]
       }
     ],
-    "kabardian": "къитхъун",
     "type": "verb",
     "ipa": "jətχʷən"
-  },
-  {
-    "word": "къитхъун",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to shovel out, to rake out, to remove by shoveling or raking",
-        "examples": []
-      }
-    ],
-    "kabardian": "итхъун",
-    "type": "verb",
-    "ipa": "qjətχʷən"
   },
   {
     "word": "хэ1алъ",
@@ -113115,6 +113134,14 @@
           {
             "sentence": "Шъэжъыер '''гъэчанын''' фае",
             "translation": "The knife should be '''sharpened'''."
+          },
+		  {
+            "sentence": "Л1ым чатэр '''егъэчанэ'''",
+            "translation": "The man '''sharpens''' the sword."
+          },
+		  {
+            "sentence": "К1алэм къэлэмыр '''ыгъэчэнагъ'''",
+            "translation": "The boy '''sharpened''' the pencil."
           }
         ]
       }
@@ -113138,7 +113165,6 @@
     "synonyms": [
       "гъэчанын"
     ],
-    "kabardian": "лъын",
     "type": "verb",
     "ipa": "ʁawt͡ʃəjan"
   },
@@ -113160,7 +113186,16 @@
     "definitions": [
       {
         "meaning": "wave",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Хымк1э '''уалъэ''' бэ щы1",
+            "translation": "In the sea, there is a lot of '''waves'''."
+          },
+		  {
+            "sentence": "Зы '''уалъэм''' зы '''уалъэр''' к1элъык1оу хыр '''мэуалъэ'''",
+            "translation": "One '''wave''' coming after another '''wave''', the sea is  turbulent."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -113248,12 +113283,51 @@
     "ipa": "psəəwaːɬa"
   },
   {
+    "word": "тешъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "shallow",
+        "examples": [
+		  {
+            "sentence": "нэпкъ '''тешъо'''",
+            "translation": "'''flat''' coast."
+          }
+        ]
+      }
+    ],
+    "type": "adj",
+    "ipa": "tajʃʷa"
+  },
+  {
+    "word": "щэндж",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"чэндж\"",
+        "examples": []
+      }
+    ],
+    "kabardian": "чэнж",
+    "type": "adj",
+    "ipa": "t͡ʃand͡ʒ"
+  },
+  {
     "word": "чэндж",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "shallow",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "псыхъо '''чэндж'''",
+            "translation": "'''shallow''' river."
+          },
+		  {
+            "sentence": "лэгъэ '''чэндж'''",
+            "translation": "'''shallow''' plate."
+          }
+        ]
       }
     ],
     "kabardian": "чэнж",
@@ -113277,8 +113351,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "flexible; elastic; pliable",
-        "examples": []
+        "meaning": "flex; flexible; elastic; pliable",
+        "examples": [
+          {
+            "sentence": "къутэмэ '''уфэупц1'''",
+            "translation": "'''flex''' branch."
+          },
+		  {
+            "sentence": "гъуч1ыч '''уфэупц1'''",
+            "translation": "'''flexible''' wire."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -113307,14 +113390,33 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to show interest in; to be interested in",
+        "meaning": "to show interest in; to be interested in; to take an interest in",
         "examples": []
       },
       {
-        "meaning": "to wonder (at), to be amazed",
-        "examples": []
+        "meaning": "to wonder (at), to be amazed, to be astonished at, to be amazed at",
+        "examples": [
+          {
+            "sentence": "Фылымым '''сыш1огъэш1эгъонэу''' сеплъыгъ",
+            "translation": "I watched the film '''amazed'''."
+          }
+        ]
+      },
+      {
+        "meaning": "to be weirded by; to find something weird",
+        "examples": [
+		  {
+            "sentence": "'''Къэсыш1огъэш1эгъон''' к1алэр ыш1энэу фаер",
+            "translation": "'''Is is weird for me'''what the boy wants to do."
+          },
+		  {
+            "sentence": "Ара '''Къыпш1огъэш1эгъоныр'''? мыщ къедэ1у",
+            "translation": "Is that '''what is weird to you'''? listen to this."
+          }
+        ]
       }
     ],
+    "kabardian": "ф1эгъэщ1эгъуэнын",
     "type": "verb",
     "ipa": "ʃʷʼaʁaʃʼaʁʷan"
   },
@@ -113340,12 +113442,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "flue",
+        "meaning": "flue (a pipe or duct that carries gaseous combustion products away from the point of combustion)",
         "examples": []
       },
       {
         "meaning": "chimney",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "унэм '''ионджэкъ''' 1угъо къек1ы",
+            "translation": "Smoke is coming out from the house's '''chimney'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -113356,7 +113463,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "chimney",
+        "meaning": "flue (a pipe or duct that carries gaseous combustion products away from the point of combustion)",
         "examples": []
       }
     ],
@@ -113368,7 +113475,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "chimney",
+        "meaning": "flue (a pipe or duct that carries gaseous combustion products away from the point of combustion)",
         "examples": []
       }
     ],
@@ -113376,11 +113483,47 @@
     "ipa": "ħaːkʷəʂħajəɕ"
   },
   {
+    "word": "щымыгъозэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"щымыгъуазэ\"",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "ɕəməʁʷaza"
+  },
+  {
+    "word": "щымыгъуазэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "uninformed, ill-informed; unaware",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "ɕəməʁʷaːza"
+  },
+  {
+    "word": "щымыгъозэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to be unaware of",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɕəməʁʷazan"
+  },
+  {
     "word": "хьэ1уц1",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "greenhorn",
+        "meaning": "greenhorn (an inexperienced person; a novice, beginner or newcomer)",
         "examples": []
       }
     ],

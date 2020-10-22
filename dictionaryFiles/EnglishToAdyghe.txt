@@ -5032,7 +5032,7 @@
     "little": "ц1ык1у; жъый"
   },
   {
-    "small": "ц1ык1у (little); жъый (small); ц1ык1ужъый (tiny); жъгъэй / шъхъэи (the size of a fragment of some sort, small thing or small piece); (Shapsug) шъхъэ (the size of a fragment of some sort); щэндж; тешъо; чэндж; ц1ык1уинт1э (tiny); (Shapsug) ц1ык1унау (tiny)"
+    "small": "ц1ык1у (little); жъый (small); ц1ык1ужъый (tiny); жъгъэй / шъхъэи (the size of a fragment of some sort, small thing or small piece); (Shapsug) шъхъэ (the size of a fragment of some sort); ц1ык1уинт1э (tiny); (Shapsug) ц1ык1унау (tiny)"
   },
   {
     "small thing": "жъгъэй / шъхъэи (the size of a fragment of some sort, small thing or small piece); шъхъэ (Shapsug)"
@@ -5827,7 +5827,22 @@
     "to be bothered": "ягъэ ек1ын; къин ехъун"
   },
   {
-    "to be agitated": "ягъэ ек1ын; къин ехъун"
+    "to be agitated": "ягъэ ек1ын; къин ехъун; олъэн (sea, water)"
+  },
+  {
+    "to be turbulent": "олъэн (sea, water)"
+  },
+  {
+    "to be wavy": "олъэн (sea, water)"
+  },
+  {
+    "agitated": "олъэн (to be agitated (sea, water))"
+  },
+  {
+    "turbulent": "олъэн (to be turbulent (sea, water))"
+  },
+  {
+    "wavy": "олъэн (to be wavy (sea, water))"
   },
   {
     "to be anooyed": "ягъэ ек1ын; къин ехъун"
@@ -9841,7 +9856,7 @@
     "strange": "гъэш1эгъоны"
   },
   {
-    "weird": "гъэш1эгъоны"
+    "weird": "гъэш1эгъоны; ш1огъэш1эгъонын (to be weirded by, to find something weird)"
   },
   {
     "interesting": "гъэш1эгъоны"
@@ -10951,7 +10966,10 @@
     "smooth": "зэшъхьэ-зашъо; занк1э; шъабэ; зэныбжьы; зэщизы"
   },
   {
-    "flat": "зэныбжьы; зэщизы"
+    "flat": "зэныбжьы; зэщизы; тешъо"
+  },
+  {
+    "even": "зэныбжьы (even, flat, smooth); зэщизы (even, flat, smooth)"
   },
   {
     "to slip-up": "ц1эшъутэн"
@@ -12829,7 +12847,7 @@
     "to pickle": "ш1о1ун; гъэш1о1ун (to pickle something)"
   },
   {
-    "to ripple": "олъэн"
+    "to fountain": "ц1ырэн"
   },
   {
     "to corn": "ш1о1ун; гъэш1о1ун (to corn something)"
@@ -15709,13 +15727,13 @@
     "to climb": "дэк1оен; дэцохъоен; дэпшыен"
   },
   {
-    "to urinate": "щагум ик1ын; гъутхьан; тегъутхьан (to urinate on); ч1эгъутхьан (to urinate under); игъутхьан (to urinate inside); 1угъутхьан (to urinate near); хэгъутхьан (to urinate in an area with fire, liquid or gas)"
+    "to urinate": "щагум ик1ын; гъутхьан; тегъутхьан (to urinate on); ч1эгъутхьан (to urinate under); игъутхьан (to urinate inside); 1угъутхьан (to urinate near); хэгъутхьан (to urinate in an area with fire, liquid or gas); зыпэгъутхьажьын (to have the urgue to urinate)"
   },
   {
-    "to pee": "щагум ик1ын; гъутхьан; тегъутхьан (to pee on); ч1эгъутхьан (to pee under); игъутхьан (to pee inside); 1угъутхьан (to pee near); хэгъутхьан (to pee in an area with fire, liquid or gas)"
+    "to pee": "щагум ик1ын; гъутхьан; тегъутхьан (to pee on); ч1эгъутхьан (to pee under); игъутхьан (to pee inside); 1угъутхьан (to pee near); хэгъутхьан (to pee in an area with fire, liquid or gas); зыпэгъутхьажьын (to have the urgue to pee"
   },
   {
-    "to piss": "(slightly vulgar) гъутхьан; тегъутхьан (to pee on); ч1эгъутхьан (to pee under); игъутхьан (to pee inside); 1угъутхьан (to pee near); хэгъутхьан (to pee in an area with fire, liquid or gas)"
+    "to piss": "(slightly vulgar) гъутхьан; тегъутхьан (to pee on); ч1эгъутхьан (to pee under); игъутхьан (to pee inside); 1угъутхьан (to pee near); хэгъутхьан (to pee in an area with fire, liquid or gas); зыпэгъутхьажьын (to have the urgue to urinate)"
   },
   {
     "to take a piss": "(slightly vulgar) гъутхьан; тегъутхьан (to pee on); ч1эгъутхьан (to pee under); игъутхьан (to pee inside); 1угъутхьан (to pee near); хэгъутхьан (to pee in an area with fire, liquid or gas)"
@@ -17443,7 +17461,7 @@
     "to be ignorant": "зэхэмыш1ык1ын"
   },
   {
-    "ignorant": "ш1эныгъэ мак1э зи1э"
+    "ignorant": "ш1эныгъэ мак1э зи1э; хэзымышIыкIырэ; щымыгъуазэ"
   },
   {
     "ignorantly": "зэхэмыш1ык1эу"
@@ -18265,10 +18283,13 @@
     "sea wave": "хыор; хыуалъэ"
   },
   {
-    "shallow": "чэндж"
+    "shallow": "щэндж; чэндж"
   },
   {
     "white sand": "пшэхъоф"
+  },
+  {
+    "flex": "уфэупц1э (уфэ-упц1); лант1э"
   },
   {
     "flexible": "уфэупц1э (уфэ-упц1); лант1э"
@@ -18298,7 +18319,28 @@
     "to be amazed": "ш1огъэш1эгъонын"
   },
   {
-    "flue": "онджэкъ"
+    "to be astonished": "ш1огъэш1эгъонын"
+  },
+  {
+    "uninformed": "щымыгъуазэ"
+  },
+  {
+    "unaware": "щымыгъуазэ"
+  },
+  {
+    "ill-informed": "щымыгъуазэ"
+  },
+  {
+    "beginner": "зыублэгъэк1э; езыгъэжьэгъэк1э"
+  },
+  {
+    "novice": "зыублэгъэк1э; езыгъэжьэгъэк1э"
+  },
+  {
+    "newcomer": "зыублэгъэк1э; езыгъэжьэгъэк1э"
+  },
+  {
+    "flue": "онджэкъ; 1угъоик1ып1; хьакушъхьэищ"
   },
   {
     "greenhorn": "хьэ1уц1"
