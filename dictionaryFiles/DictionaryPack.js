@@ -107924,6 +107924,10 @@
 		  {
             "sentence": "'''Панэхэмэ''' сахахьэм, сыкуашъо ау1агъ",
             "translation": "When I entered the field of '''thorns''', they wounded my thigh skin."
+          },
+		  {
+            "sentence": "Тиунэр '''панэк1э''' къэгъэк1ухьагъ",
+            "translation": "My house is surrounded '''by thorns'''."
           }
         ]
       }
@@ -107953,6 +107957,10 @@
 		  {
             "sentence": "'''Къэцыхэмэ''' сахахьэм, сыкуашъо ау1агъ",
             "translation": "When I entered the field of '''thorns''', they wounded my thigh skin."
+          },
+		  {
+            "sentence": "Тиунэр '''къэцык1э''' къэгъэк1ухьагъ",
+            "translation": "My house is surrounded '''by thorns'''."
           }
         ]
       }
@@ -113681,7 +113689,7 @@
           },
           {
             "sentence": "К1алэм ышъхьац к1ыхьэщэу '''ыгъэк1ыгъ'''",
-            "translation": "The man '''grew''' his hair too much."
+            "translation": "The boy '''grew''' his hair too much."
           }
         ]
       }
@@ -113694,19 +113702,36 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to circle something; to encircle something; to surround something",
+        "meaning": "to surround something",
         "examples": [
           {
             "sentence": "Тиунэр къэцык1э '''къэгъэк1ухьагъ'''",
-            "translation": "My house '''is surrounded''' with thorns."
-          },
-          {
-            "sentence": "Джэуап тэрэзыр '''къэгъэк1ухь'''",
-            "translation": "'''Circle''' the right answer."
+            "translation": "My house '''is surrounded''' by thorns."
           },
           {
             "sentence": "Ц1ыфы делэк1э '''сыкъэгъэк1ухьагъ'''",
-            "translation": "'''I am surrounded''' with foolish people."
+            "translation": "'''I am surrounded''' by foolish people."
+          },
+          {
+            "sentence": "Къалэр дэпкъык1э '''къэгъэк1ухьагъ'''",
+            "translation": "The town '''is surrounded''' by a wall."
+          },
+		  {
+            "sentence": "Хьапсыр гъуч1ычк1э '''къэгъэк1ухьагъ'''",
+            "translation": "The prison '''is surrounded''' by wires."
+          },
+          {
+            "sentence": "'''Къэгъэк1ухь''' мэлхэр",
+            "translation": "'''Surround''' the sheeps."
+          }
+        ]
+      },
+	  {
+        "meaning": "to circle something; to encircle something; to surround something",
+        "examples": [
+          {
+            "sentence": "Джэуап тэрэзыр '''къэгъэк1ухь'''",
+            "translation": "'''Circle''' the right answer."
           },
           {
             "sentence": "Тестымк1э джэуап тэрэзэр '''къэшъугъэк1ухь'''",
@@ -113719,14 +113744,6 @@
           {
             "sentence": "'''Къэсэгъэк1ухьэ''' чъыгыхэр",
             "translation": "'''I circle''' the trees."
-          },
-          {
-            "sentence": "Къалэр дэпкъык1э '''къэгъэк1ухьагъ'''",
-            "translation": "The city '''is surrounded''' by a wall."
-          },
-		  {
-            "sentence": "Хьапсыр гъуч1ычк1э '''къэгъэк1ухьагъ'''",
-            "translation": "The prison '''is surrounded''' by wires."
           }
         ]
       }
@@ -113739,19 +113756,28 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to circle something; to encircle something; to surround something",
+        "meaning": "to surround something",
         "examples": [
           {
             "sentence": "Тиунэр къэцык1э '''къэгъэчъыхьагъ'''",
-            "translation": "My house '''is surrounded''' with thorns."
-          },
-          {
-            "sentence": "Джэуап тэрэзыр '''къэгъэчъыхь'''",
-            "translation": "'''Circle''' the right answer."
+            "translation": "My house '''is surrounded''' by thorns."
           },
           {
             "sentence": "Ц1ыфы делэк1э '''сыкъэгъэчъыхьагъ'''",
-            "translation": "'''I am surrounded''' with foolish people."
+            "translation": "'''I am surrounded''' by foolish people."
+          },
+          {
+            "sentence": "Къалэр дэпкъык1э '''къэгъэчъыхьагъ'''",
+            "translation": "The town '''is surrounded''' by a wall."
+          }
+        ]
+      },
+	  {
+        "meaning": "to circle something; to encircle something",
+        "examples": [
+          {
+            "sentence": "Джэуап тэрэзыр '''къэгъэчъыхь'''",
+            "translation": "'''Circle''' the right answer."
           },
           {
             "sentence": "Тестымк1э джэуап тэрэзэр '''къэшъугъэчъыхь'''",
@@ -113769,7 +113795,7 @@
       }
     ],
     "type": "verb",
-    "ipa": "qaʁakʷʼəħaːn"
+    "ipa": "qaʁat͡ʂəħaːn"
   },
   {
     "word": "ичэ",
