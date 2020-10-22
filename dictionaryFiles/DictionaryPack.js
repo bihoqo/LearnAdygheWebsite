@@ -113810,6 +113810,40 @@
     "ipa": "jət͡ʃa"
   },
   {
+    "word": "къотын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to stand behind; to be behind",
+        "examples": [
+          {
+            "sentence": "Дзыохэр унэм '''къотых'''",
+            "translation": "The sacks '''are behind''' the house."
+          }
+        ]
+      },
+	  {
+        "meaning": "to stand in the corner; to be in the corner",
+        "examples": []
+      },
+	  {
+        "meaning": "to support",
+        "examples": [
+          {
+            "sentence": "'''Уткъот'''",
+            "translation": "'''We support you'''."
+          },
+		  {
+            "sentence": "Хьэр шак1ом '''къот'''",
+            "translation": "The dog '''supports''' the hunter."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "qʷatən"
+  },
+  {
     "word": "пщэ",
     "lang": "Adyghe",
     "definitions": [
