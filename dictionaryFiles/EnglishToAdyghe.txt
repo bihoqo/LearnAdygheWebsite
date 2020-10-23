@@ -273,7 +273,10 @@
     "chickpeas": "лэблэбый; лэблэб; хьумус; бзыулъахъ (wild chickpeas)"
   },
   {
-    "corn": "натрыф; натыф (Shapsug)"
+    "corn": "натрыф (maize, corn); (Shapsug) натыф; (dialectal) нартыф; лыргъужъ (callus)"
+  },
+  {
+    "maize": "натрыф (maize, corn); (Shapsug) натыф"
   },
   {
     "fish": "пцэжъые; пцэ (fish species)"
@@ -2184,6 +2187,9 @@
     "to get sad": "нэшхъэин; нэшхъэеу хъугъэ; зэгожъын"
   },
   {
+    "to become sad": "нэшхъэин; нэшхъэеу хъугъэ; зэгожъын"
+  },
+  {
     "to get upset": "нэшхъэеу хъугъэ; зэгожъын"
   },
   {
@@ -2799,7 +2805,7 @@
     "vortex": "жьы корен; жьы хьарз"
   },
   {
-    "therefor": "арышъ / арти (because of that; because that is the case; so; therefore; for that reason; due to that); ащ пае / ащ фэш1к1э / джащ пае / джащ фэш1ык1э (for that reason or cause, because of that)"
+    "therefor": "-эти / -эшъ (suffix that highlights the reason); арышъ / арти (because of that; because that is the case; so; therefore; for that reason; due to that); ащ пае / ащ фэш1к1э / джащ пае / джащ фэш1ык1э (for that reason or cause, because of that)"
   },
   {
     "because of that": "арышъ / арти (because of that; because that is the case; so; therefore; for that reason; due to that); ащ пае / ащ фэш1к1э / джащ пае / джащ фэш1ык1э (for that reason or cause, because of that)"
@@ -3951,7 +3957,7 @@
     "branch": "къутамэ"
   },
   {
-    "knot": "куамэ (knot in a tree)"
+    "knot": "куамэ (knot in a tree); зэкъодзап1э (knot in a rope); зэкъодзагъ"
   },
   {
     "mother's language": "ныдэлъфыбзэ"
@@ -3972,7 +3978,10 @@
     "to cleave": "гоутын; зэгоутын; зэгогъэк1ын; зэгогъэлэтхъын"
   },
   {
-    "to cut": "бзын (to cut with scissors or knife or sword); пыупк1ын (to cut off something from); гоупк1ын (to cut off the side); иупк1ын (to cut down a tree); ш1обзын (to slice to kill); упк1эн (to mow); упхъун (to cut hair or fur or grass); к1эупхъухьан (to take a haircut); хэупк1ын (to cut out a piece from); хэбзык1ын (to cut off); упк1эн (to mow, to cut down grass or crops); хын (to reap, to cut (for example a grain) with a sickle, scythe, or reaping machine))"
+    "to cut": "бзын (to cut with scissors or knife or sword); пыупк1ын (to cut off something from); гоупк1ын (to cut off the side); иупк1ын (to cut down a tree); ш1обзын (to slice to kill); упк1эн (to mow); упхъун (to cut hair or fur or grass); к1эупхъухьан (to take a haircut); хэупк1ын (to cut out a piece from); хэбзык1ын (to cut off); упк1эн (to mow, to cut down grass or crops); хын (to reap, to cut (for example a grain) with a sickle, scythe, or reaping machine)); пыупхъухьан (to cut hair lightly)"
+  },
+  {
+    "to cut hair": "упхъун (to cut hair or fur or grass); к1эупхъухьан (to take a haircut); пыупхъухьан (to cut hair lightly); упхъон"
   },
   {
     "to cut down": "иупк1ын"
@@ -4185,7 +4194,7 @@
     "linden": "бзыфы"
   },
   {
-    "to trim": "бзыхьан; бзытэн; упхъон; ук1эпхъэн"
+    "to trim": "бзыхьан; бзытэн; упхъон; ук1эрэпхъын; (Shapsug) ук1эпхъын; пыупхъухьан (to trim lightly)"
   },
   {
     "flask": "псылъ; шъонылъ"
@@ -4810,10 +4819,10 @@
     "to drip": "къетк1ухын (to drip down, to drop down); тетк1он (to drip liquid on something one drop at a time); т1эт1эн (to be dripping, sticky substances), тегъэт1эт1эн (to drip sticky substances on); тет1эт1эн (to be dripping on, sticky substances); хэк1отэн (to drip something into a fire, food, any substance, any liquid, etc.); дэтк1он (to drip into an object or yard)"
   },
   {
-    "to pour": "къетк1ухын (to pour down, to drip down, to drop down); игъэхъон; ик1эн (intensive); ик1утэн (slightly intensive); ек1эхын (to pour down); тетк1он (to drip liquid on something one drop at a time); к1эгъэхьан (to water plants); к1эк1эн (to pour liquid under, to spill liquid under)"
+    "to pour": "къетк1ухын (to pour down, to drip down, to drop down); игъэхъон (to fill liquid into); ик1эн (intensive); ик1утэн (slightly intensive); ек1эхын (to pour down); тетк1он (to drip liquid on something one drop at a time); к1эгъэхьан (to water plants); к1эк1эн (to pour liquid under, to spill liquid under)"
   },
   {
-    "to fill": "игъэхъон (liquid); узэндын (to load); изэу ш1ын (to make full)"
+    "to fill": "игъэхъон (to fill liquid into); узэндын (to load); изэу ш1ын (to make full)"
   },
   {
     "to fill in": "игъэхъон; ик1эн (intensive); ик1утэн (slightly intensive); узэндын (to load); изэу ш1ын (to make full)"
@@ -7423,7 +7432,19 @@
     "to dance": "къэшъон; къеш1эн; уджын"
   },
   {
-    "to tie": "пхын (to tie); пыпхэн (to tie something to); зэтепхэн (to tie up someone or something with a rope, wire, string, etc); егъэпхын (to tie something to something); зэк1оц1ыпхэн (to tie together); зэкъодзэн (to tie up, to fasten); к1эпхэн (to tie under something)"
+    "to tie": "пхын (to tie); пыпхэн (to tie something to); зэтепхэн (to tie up someone or something with a rope, wire, string, etc); егъэпхын (to tie something to something); зэк1оц1ыпхэн (to tie together, to tangle, to intertwine); зэкъодзэн (to tie up, to fasten); к1эпхэн (to tie under something); зэк1оц1ыпхагъ / зэкъолъэдагъ / зэкъодзагъ (ropes or shoe laces to be tied together, tangled or intertwined)"
+  },
+  {
+    "tangled": "зэк1оц1ыпхагъ / зэкъолъэдагъ / зэкъодзагъ (ropes or shoe laces to be tied together, tangled and intertwined)"
+  },
+  {
+    "intertwined": "зэк1оц1ыпхагъ / зэкъолъэдагъ / зэкъодзагъ (ropes or shoe laces to be tied together, tangled and intertwined)"
+  },
+  {
+    "to tangle": "зэк1оц1ыпхэн / зэкъолъэдэн / зэкъодзэн (to make a rope/lace tangled, to tangle, to make a rope/lace mixed together or intertwined)"
+  },
+  {
+    "to intertwine": "зэк1оц1ыпхэн / зэкъолъэдэн / зэкъодзэн (to make a rope/lace tangled, to tangle, to make a rope/lace mixed together or intertwined)"
   },
   {
     "hair-pin": "шъхьэхэ1у"
@@ -8612,9 +8633,6 @@
   },
   {
     "to buy": "щэфын"
-  },
-  {
-    "to tie up": "пхын; егъэпхын (to tie up something to something); зэтепхэн (to tie up someone or something with a rope, wire, string, etc); зэкъодзэн; хъэн"
   },
   {
     "to bind": "зэкъодзэн; хъэн"
@@ -13567,6 +13585,9 @@
     "to decide": "ихъухьан"
   },
   {
+    "to feast": "пышхэхьан (to feast upon)"
+  },
+  {
     "farm laborer": "чырак1у"
   },
   {
@@ -16993,7 +17014,10 @@
     "rough": "пхъашэ; быргусыргу; къуджыр (rough road or area)"
   },
   {
-    "to go around": "къыдэк1ухьан; къыухьан"
+    "to go around": "къыдэк1ухьан; къыухьан; къыщыухьан"
+  },
+  {
+    "to get around": "къыдэк1ухьан; къыухьан; къыщыухьан"
   },
   {
     "to go for a walk": "къэк1ухьан"
@@ -18367,10 +18391,10 @@
     "to grow hair": "шъхьацы гъэк1ын (to grow headhair); цы гъэк1ын (to grow hair); жак1э гъэк1ын (to grow beard)"
   },
   {
-    "cloud": "ошъуапщэ; пщэ"
+    "cloud": "ошъуапщэ; пщэ (rain cloud, dark heavy cloud)"
   },
   {
-    "stuck": "зэхэгъэнагъ (stuck into each other); зэкъолъэдагъ (ropes or shoe laces to be stuck together)"
+    "stuck": "зэхэгъэнагъ (stuck into each other); зэк1оц1ыпхагъ / зэкъолъэдагъ / зэкъодзагъ (ropes or shoe laces to be tied together, tangled)"
   },
   {
     "to produce": "ш1ын"
@@ -18388,7 +18412,7 @@
     "to crop": "упхъон"
   },
   {
-    "issue": "1офыгъу"
+    "issue": "1офыгъу; 1офтхьэбзэ"
   },
   {
     "to get wasted": "шъхьэ убытын"
@@ -18409,10 +18433,13 @@
     "secondary": "гуадз"
   },
   {
+    "subordinate": "гуадз"
+  },
+  {
     "minor": "гуадз"
   },
   {
-    "additional": "ехъурэ; гуадз (secondary, minor)"
+    "additional": "ехъурэ; гуадз (additional, secondary)"
   },
   {
     "supplementary": "гуадз"

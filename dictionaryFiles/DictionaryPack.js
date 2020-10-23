@@ -3525,7 +3525,12 @@
     "definitions": [
       {
         "meaning": "wolf",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Тыгъужъыр''' мэлым пышхэхьэ",
+            "translation": "'''The wolf''' feasts upon the sheep"
+          }
+        ]
       }
     ],
     "kabardian": "дыгъужь",
@@ -6737,8 +6742,13 @@
         "examples": []
       },
       {
-        "meaning": "custom",
-        "examples": []
+        "meaning": "custom; tradition",
+        "examples": [
+		  {
+            "sentence": "'''Хабзэ''' щы1, зышъхьац зык1иупхъухьагъэм ыпшъэбы даохэу",
+            "translation": "There is '''a tradition''' in which they slap the neck of a person that took a haircut."
+          }
+        ]
       },
       {
         "meaning": "habit",
@@ -10689,7 +10699,7 @@
         "meaning": "to get sad, to get upset",
         "examples": [
           {
-            "sentence": "К1алэм и ныбджэгъу л1агъэти '''зэгожъы'''",
+            "sentence": "К1алэм иныбджэгъу л1агъэти '''зэгожъы'''",
             "translation": "The boy '''is sad''' because his friend died."
           },
           {
@@ -28882,7 +28892,20 @@
     "definitions": [
       {
         "meaning": "shoes",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''ицуакъэ''' лъэпсхэр епхых",
+            "translation": "The boy is tying his '''shoelaces'''."
+          },
+		  {
+            "sentence": "'''Уицокъэ''' лъэпсхэр зэкъолъэдагъэх",
+            "translation": "Your shoe '''laces''' are stuck together."
+          },
+		  {
+            "sentence": "К1алэм '''ицокъэ''' лъэпсхэр гъэлэнлагъэх, ыпхыжьыных фай",
+            "translation": "The boy's shoe '''laces''' are loosened, (s)he need to tie them up again."
+          }
+        ]
       },
       {
         "meaning": "footwear",
@@ -29178,7 +29201,12 @@
     "definitions": [
       {
         "meaning": "cat",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Чэтыур''' зэт1эхъужьы",
+            "translation": "'''The cat''' is scratch itself."
+          }
+        ]
       }
     ],
     "shapsug": "кьэтыу",
@@ -41424,6 +41452,10 @@
             "translation": "The girl '''got scared''' and turned pale."
           }
         ]
+      },
+	  {
+        "meaning": "to leave something behind; alternative form of \"къыщынэн\"",
+        "examples": []
       }
     ],
     "synonyms": [
@@ -50885,10 +50917,22 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "girlfriend (not necessarily in a romantic way)",
+        "meaning": "girlfriend; female friend (not necessarily in a romantic way)",
         "examples": [
-          {
-            "sentence": "'''пшъэшъэгъу''' уи1а?",
+		  {
+            "sentence": "Ар '''сипшъэшъэгъу'''",
+            "translation": "That person is '''my friend'''."
+          },
+		  {
+            "sentence": "А к1алэм '''ипшъэшъэгъу''' сыд ыц1эр?",
+            "translation": "What is the name of that boy's '''girlfriend'''?"
+          },
+		  {
+            "sentence": "Ныпчыхьэ '''сипшъэшъэгъумэ''' садэк1ыщт",
+            "translation": "I will go out with '''my friends'''."
+          },
+		  {
+            "sentence": "'''Пшъэшъэгъу''' уи1а?",
             "translation": "Do you have a '''girlfriend'''?"
           },
           {
@@ -51079,6 +51123,10 @@
           {
             "sentence": "'''к1эсыупхъухьэщт'''",
             "translation": "'''I will take a haircut'''."
+          },
+		  {
+            "sentence": "Хабзэ щы1, зышъхьац '''зык1иупхъухьагъэм''' ыпшъэбы даохэу",
+            "translation": "There is a tradition in which they slap the neck of '''a person that took a haircut'''."
           }
         ]
       }
@@ -108067,12 +108115,16 @@
         "meaning": "shoelaces; lace",
         "examples": [
           {
-            "sentence": "Уицокъэ '''лъэпсыхэр''' къэлэнлагъэх, пхыжьых",
+            "sentence": "Уицокъэ '''лъэпсхэр''' гъэлэнлагъэх, пхыжьых",
             "translation": "Your shoe '''laces''' loosened, tie them up again."
           },
           {
-            "sentence": "К1алэм ицуакъэ '''лъэпсэхэр''' епхых",
+            "sentence": "К1алэм ицуакъэ '''лъэпсхэр''' епхых",
             "translation": "The boy is tying his '''shoelaces'''."
+          },
+		  {
+            "sentence": "Уицокъэ '''лъэпсхэр''' зэкъолъэдагъэх",
+            "translation": "Your shoe '''laces''' are stuck together."
           }
         ]
       }
@@ -109177,6 +109229,10 @@
 		  {
             "sentence": "Л1ым '''ыпшъэб''' к1алэр дэс",
             "translation": "The boy is siting on the man's '''neck'''"
+          },
+		  {
+            "sentence": "Хабзэ щы1, зышъхьац зык1иупхъухьагъэм '''ыпшъэбы''' даохэу",
+            "translation": "There is a tradition in which they slap '''the neck''' of a person that took a haircut."
           }
         ]
       }
@@ -113576,6 +113632,10 @@
 		  {
             "sentence": "Мафэ къэс '''сыдэк1ы'''",
             "translation": "'''I go out''' every day."
+          },
+		  {
+            "sentence": "Непэ '''шъуздэдэк1ыщтэп''', сигъусэпшъашъэ сыригъусэщт",
+            "translation": "Today '''I will not go out with you guys''', I will be with my girlfriend."
           }
         ]
       }
@@ -113848,7 +113908,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "cloud",
+        "meaning": "rain cloud; dark, heavy cloud",
         "examples": []
       }
     ],
@@ -113860,42 +113920,163 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "stuck together (ropes or shoe laces)",
+        "meaning": "tangled; intertwined (ropes or shoe laces)",
         "examples": [
           {
-            "sentence": "Уицокъэ лъапсэхэр '''зэкъолъэдагъэх'''",
-            "translation": "Your '''shoe laces''' are stuck together."
+            "sentence": "Уицокъэ лъэпсхэр '''зэкъолъэдагъэх'''",
+            "translation": "Your shoe laces '''are tangled'''."
+          },
+		  {
+            "sentence": "К1апсэр пытэу '''зэкъолъэдагъ'''",
+            "translation": "The rope is '''tangled''' firmly."
+          },
+		  {
+            "sentence": "К1алэм '''зэкъодзагъэр''' зэкъуехыжьы",
+            "translation": "The boy unties '''the knot'''"
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "зэкъодзагъ",
+      "зэк1оц1ыпхагъ"
+    ],
+    "type": "verb",
+    "ipa": "zaqʷaɬadaːʁ"
+  },
+  {
+    "word": "зэкъодзагъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "tangled; intertwined (ropes or shoe laces)",
+        "examples": [
+          {
+            "sentence": "Уицокъэ лъэпсхэр '''зэкъодзагъэх'''",
+            "translation": "Your shoe laces '''are tangled'''."
+          },
+		  {
+            "sentence": "К1апсэр пытэу '''зэкъодзагъ'''",
+            "translation": "The rope is '''tangled''' firmly."
+          },
+		  {
+            "sentence": "К1алэм '''зэкъодзагъэр''' зэкъуехыжьы",
+            "translation": "The boy unties '''the knot'''"
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "зэкъолъэдагъ",
+      "зэк1оц1ыпхагъ"
+    ],
+    "type": "verb",
+    "ipa": "zaqʷad͡zaːʁ"
+  },
+  {
+    "word": "зэк1оц1ыпхагъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "tangled; intertwined (ropes or shoe laces)",
+        "examples": [
+          {
+            "sentence": "Уицокъэ лъэпсхэр '''зэк1оц1ыпхагъэх'''",
+            "translation": "Your shoe laces '''are tangled'''."
+          },
+		  {
+            "sentence": "К1апсэр пытэу '''зэк1оц1ыпхагъ'''",
+            "translation": "The rope is '''tangled''' firmly."
+          },
+		  {
+            "sentence": "К1алэм '''зэкъодзагъэр''' зэкъуехыжьы",
+            "translation": "The boy unties '''the knot'''"
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "зэкъодзагъ",
+      "зэкъолъэдагъ"
+    ],
+    "type": "verb",
+    "ipa": "zakʷʼat͡sʼəpxaːʁ"
+  },
+  {
+    "word": "зэкъолъэдэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to tangle; to intertwine, to knot",
+        "examples": [
+		  {
+            "sentence": "К1апсэр '''зэкъолъэдагъ'''",
+            "translation": "The rope '''is tangled'''"
           }
         ]
       }
     ],
     "type": "verb",
-    "ipa": "zaqʷaɬadaːʁ"
+    "ipa": "zaqʷad͡zan"
   },
   {
     "word": "зэкъодзэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to tie, to bind",
+        "meaning": "to tangle; to intertwine, to knot",
         "examples": [
           {
-            "sentence": "кIапсэм ыцыпэхэр зэкъодзэных",
+            "sentence": "К1апсэм ыцыпэхэр зэкъодзэных",
             "translation": "'''To tie''' the ends of the rope."
+          },
+		  {
+            "sentence": "К1алэм '''зэкъуедзэ'''",
+            "translation": "The boy '''ties''' a knot."
+          },
+		  {
+            "sentence": "К1апсэр '''зэкъодзагъ'''",
+            "translation": "The rope '''is tangled'''"
           }
         ]
       },
       {
         "meaning": "to manufacture, to produce",
         "examples": []
-      },
-      {
-        "meaning": "to make things stuck with each other (ropes or shoe laces)",
-        "examples": []
       }
     ],
     "type": "verb",
     "ipa": "zaqʷad͡zan"
+  },
+  {
+    "word": "зэк1оц1ыпхэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to tie together",
+        "examples": [
+		  {
+            "sentence": "Дзак1ом пыир к1апсэк1э '''зэк1оц1ипхагъ'''",
+            "translation": "The soldier '''tied up''' the enemy with a rope."
+          }
+        ]
+      },
+	  {
+        "meaning": "to tie together, to tangle, to intertwine, to knot",
+        "examples": [
+		  {
+            "sentence": "К1алэм к1апсэр '''зэк1оц1ипхагъ'''",
+            "translation": "The boy '''tangled''' a rope."
+          },
+		  {
+            "sentence": "К1апсэр '''зэк1оц1ыпхагъ'''",
+            "translation": "The rope '''is tangled'''"
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zakʷʼat͡sʼəpxan"
   },
   {
     "word": "пшъэшъэ гъусэ",
@@ -113930,7 +114111,24 @@
     "definitions": [
       {
         "meaning": "girlfriend",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''гъусэпшъашъэ''' и1",
+            "translation": "The boy has '''a girlfriend'''."
+          },
+		  {
+            "sentence": "Непэ шъуздэдэк1ыщтэп, '''сигъусэпшъашъэ''' сыригъусэщт",
+            "translation": "Today I will not go out with you guys, I will be with '''my girlfriend'''."
+          },
+		  {
+            "sentence": "'''Гъусэпшъашъэ''' си1эп",
+            "translation": "I have no '''girlfriend'''."
+          },
+		  {
+            "sentence": "К1алэр ежь '''игъусэпшъашъэ''' пык1ыжьыгъэти, к1алэм ыгу къэс1этыжьын фэягъ",
+            "translation": "'''Becasue''' the boy broke up with '''his girlfriend''', I had to cheer the boy up."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -113960,7 +114158,20 @@
     "definitions": [
       {
         "meaning": "boyfriend",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Пшъашъэм '''гъусэк1алэ''' и1",
+            "translation": "The girl has '''a boyfriend'''."
+          },
+		  {
+            "sentence": "'''Гъусэк1алэ''' си1эп",
+            "translation": "I have no '''boyfriend'''."
+          },
+		  {
+            "sentence": "Пшъашъэм ежь '''игъусэк1алэ''' пык1ыжьыгъэти, пшъашъэм ыгу къэс1этыжьын фэягъ",
+            "translation": "'''Becasue''' the girl broke up with '''his boyfriend''', I had to cheer the girl up."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -113975,15 +114186,56 @@
     "definitions": [
       {
         "meaning": "to trim (lightly)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Чъыгыр '''пысыупхъухьагъ'''",
+            "translation": "'''I trimmed''' the tree '''slightly'''."
+          }
+        ]
       },
       {
         "meaning": "to cut hair (lightly)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Сшъхьац '''пысыупхъухьагъ'''",
+            "translation": "'''I cut''' my hair '''slightly'''."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "pəwpχʷəħaːn"
+  },
+  {
+    "word": "ук1эрэпхъын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to trim (lightly)",
+        "examples": [
+          {
+            "sentence": "Чъыгыр '''сэук1эрэпхъыгъ'''",
+            "translation": "'''I trimmed''' the tree."
+          }
+        ]
+      }
+    ],
+    "shapsug": "ук1ьэпхъын",
+    "type": "verb",
+    "ipa": "wət͡ʃʼarapχən"
+  },
+  {
+    "word": "ук1эпхъын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"ук1эрэпхъын\"",
+        "examples": []
+      }
+    ],
+    "shapsug": "ук1ьэпхъын",
+    "type": "verb",
+    "ipa": "wət͡ʃʼapχən"
   },
   {
     "word": "гъусэ к1алэ",
@@ -114002,14 +114254,16 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to trim",
-        "examples": []
-      },
-      {
-        "meaning": "to clip, to crop (usually of hair)",
-        "examples": [],
-        "tags": [
-          "usually of hair"
+        "meaning": "to trim, to clip, to crop (usually of hair)",
+        "examples": [
+          {
+            "sentence": "К1алэм ышъхьэ '''ыупхъон''' фай",
+            "translation": "The boy needs '''to cut''' his hair."
+          },
+		  {
+            "sentence": "Цыр '''упхъон''' фай",
+            "translation": "You need '''to crop''' the wool."
+          }
         ]
       }
     ],
@@ -114022,7 +114276,12 @@
     "definitions": [
       {
         "meaning": "matter, issue, problem",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Матиматикэм '''и1офыгъохэр'''",
+            "translation": "'''The problems of''' mathematics."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -114048,16 +114307,20 @@
         "meaning": "to determine",
         "examples": [
           {
-            "sentence": "'''Ихъохь''' тхьапш пхъэу унэ-пхъэм пае тищык1агъэр",
+            "sentence": "'''Ихъухь''' тхьапш пхъэу унэ-пхъэм пае тищык1агъэр",
             "translation": "'''Determine''' how many woods we need for the wooden-house."
           },
           {
-            "sentence": "К1алэм '''рихъохьагъ''' мэзищ ищык1агъэу унэ ыш1ын фэш1к1э",
+            "sentence": "К1алэм '''рихъухьагъ''' мэзищ ищык1агъэу унэ ыш1ын фэш1к1э",
             "translation": "The boy '''determined''' he needs three months to build a house."
           },
           {
             "sentence": "Еджэгъэшхомэ '''рахъухьагъ''' мы псэушъхьэр хьамплъыжьэу",
             "translation": "The learned ones '''determined''' that this animal is a lizard."
+          },
+          {
+            "sentence": "'''Итхъухьан''' фай планыр",
+            "translation": "'''We''' need '''to determine''' the plan."
           }
         ]
       },
@@ -114065,12 +114328,16 @@
         "meaning": "to decide",
         "examples": [
           {
-            "sentence": "'''Ихъохьашъурэба''' тары джанэу узыфаер?",
+            "sentence": "'''Ихъухьашъурэба''' тары джанэу узыфаер?",
             "translation": "'''Can't you decide''' what shirt you want?"
           },
           {
-            "sentence": "'''Ипхъохьагъа''' сыд тыш1ыщтыр?",
-            "translation": "'''Did you decided''' what we are going to do?"
+            "sentence": "'''Ипхъухьагъа''' сыд узыфаер?",
+            "translation": "'''Did you decided''' what you want?"
+          },
+          {
+            "sentence": "'''Итхъухьан''' фай тыш1эщтыр",
+            "translation": "'''We''' need '''to decide''' what to do."
           }
         ]
       }
@@ -114084,7 +114351,12 @@
     "definitions": [
       {
         "meaning": "to feast upon",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Тыгъужъыр мэлым '''пышхэхьэ'''",
+            "translation": "The wolf '''feasts upon''' the sheep"
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -114096,14 +114368,23 @@
     "definitions": [
       {
         "meaning": "to scratch oneself (due to itchiness)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Узэмыт1эхъужь'''",
+            "translation": "'''Don't scratch yourself'''"
+          },
+		  {
+            "sentence": "Чэтыур '''зэт1эхъужьы'''",
+            "translation": "The cat '''is scratch itself'''"
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "zatʼaχʷən"
   },
   {
-    "word": "шыхьатэу утеуцон",
+    "word": "шыхьатэу теуцон",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -114128,7 +114409,12 @@
     "definitions": [
       {
         "meaning": "boaster, braggart; bragger",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1элэ '''шъхьащытхъужь'''",
+            "translation": "'''A braggart''' boy."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -114158,8 +114444,30 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "boyfriend (not necessarily in a romantic way)",
-        "examples": []
+        "meaning": "boyfriend; male friend (not necessarily in a romantic way)",
+        "examples": [
+          ,
+          {
+            "sentence": "К1алэм '''шъэогъу''' и1эпышъ, езэщы",
+            "translation": "Because the boy has no '''friends''', he is bored."
+          },
+          {
+            "sentence": "Сишъэогъухэр унэм исгъагъэх",
+            "translation": "'''My friends''' were in the house."
+          },
+		  {
+            "sentence": "Ар '''сишъэогъу'''",
+            "translation": "That person is '''my friend'''."
+          },
+		  {
+            "sentence": "А пшъашъэм '''ишъэогъу''' сыд ыц1эр?",
+            "translation": "What is the name of that girl's '''boyfriend'''?"
+          },
+		  {
+            "sentence": "Ныпчыхьэ '''сишъэогъухэмэ''' садэк1ыщт",
+            "translation": "I will go out with '''my friends'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -114170,16 +114478,42 @@
     "ipa": "ʂawaʁʷ"
   },
   {
+    "word": "1офтхьэбзэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "issue",
+        "examples": [
+		  {
+            "sentence": "'''1офтхьэбзэ''' гуадз",
+            "translation": "Additional '''issue'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʔʷaftħabza"
+  },
+  {
     "word": "гуадз",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "secondary, minor, of less importance",
+        "meaning": "secondary, subordinate, minor, of less importance",
         "examples": []
       },
       {
         "meaning": "additional, supplementary",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Мэхьэнэ '''гуадз'''",
+            "translation": "'''Additional''' meaning."
+          },
+		  {
+            "sentence": "1офтхьэбзэ '''гуадз'''",
+            "translation": "'''Additional''' issue."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -114230,12 +114564,36 @@
     "ipa": "qəɕəwnan"
   },
   {
+    "word": "къыщыухьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to get around something",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "къыдэк1ухьан"
+    ],
+    "type": "verb",
+    "ipa": "qəɕəwħaːn"
+  },
+  {
     "word": "къыщынэн",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to leave behind someone",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр иныбжьэгъу '''къыщинагъ''' изакъоу",
+            "translation": "The boy '''left''' his friend alone."
+          },
+		  {
+            "sentence": "Автобус 1ук1ыжьи '''сыкъыщыинагъ'''",
+            "translation": "The bus went off and '''left me behind'''."
+          }
+        ]
       },
       {
         "meaning": "to abandon someone",
@@ -114268,11 +114626,11 @@
         "meaning": "to close something (to move so that an opening is closed)",
         "examples": [
           {
-            "sentence": "К1алэм пчъэ '''регъасэ'''",
+            "sentence": "К1алэм пчъэр '''регъасэ'''",
             "translation": "The boy '''is closing''' the door."
           },
           {
-            "sentence": "К1алэм шъхьаншъупчъэ '''ригъэсагъ'''",
+            "sentence": "К1алэм шъхьангъупчъэр '''ригъэсагъ'''",
             "translation": "The boy '''closed''' the window."
           },
 		  {
@@ -114310,26 +114668,9 @@
         ]
       }
     ],
-    "synonyms": [
-      "гъэуп1ыс1эн"
-    ],
+    "shapsug": "гъэуп1ыс1эн",
     "type": "verb",
     "ipa": "ʁawpʼət͡sʼan"
-  },
-  {
-    "word": "гъэуп1ыс1эн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"гъэуп1ыц1эн\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "гъэупыц1эн"
-    ],
-    "type": "noun",
-    "ipa": "ʁawpsʼan"
   },
   {
     "word": "уп1ыц1эн",
@@ -114349,7 +114690,16 @@
     "definitions": [
       {
         "meaning": "baldhead",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ыр '''шъхьэкъуй'''",
+            "translation": "The man is '''baldhead'''."
+          },
+		  {
+            "sentence": "Л1ыр '''шъхьэкъуеу''' хъугъэ",
+            "translation": "The man became '''baldhead'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -114360,12 +114710,37 @@
     "ipa": "ʂħaqʷəj"
   },
   {
+    "word": "къуи",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"къуй\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "шъхьэджашъу",
+      "шъхьэкъуй"
+    ],
+    "type": "adj",
+    "ipa": "qʷəj"
+  },
+  {
     "word": "къуй",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "bald",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ыр '''къуй'''",
+            "translation": "The man is '''bald'''."
+          },
+		  {
+            "sentence": "Л1ыр '''къуеу''' хъугъэ",
+            "translation": "The man became '''bald'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -114384,12 +114759,17 @@
         "examples": []
       },
       {
-        "meaning": "veil",
-        "examples": []
-      },
-      {
-        "meaning": "headscarf",
-        "examples": []
+        "meaning": "veil; headscarf",
+        "examples": [
+          {
+            "sentence": "Бзылъфыгъэм '''шъхьэтехъу''' телъ",
+            "translation": "The woman has a '''veil''' on."
+          },
+		  {
+            "sentence": "1ислам динымк1э бзылъфыгъэмэ '''шъхьэтехъу''' зыталъхьэ",
+            "translation": "In Islam, women put on a '''headscarf'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -114401,7 +114781,16 @@
     "definitions": [
       {
         "meaning": "to give a slap in the neck",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр л1ым '''ыпшъэбы дэуагъ'''",
+            "translation": "The boy '''slapped''' the man's '''neck'''."
+          },
+		  {
+            "sentence": "Хабзэ щы1, зышъхьац зык1иупхъухьагъэм ыпшъэбы даохэу",
+            "translation": "There is a tradition in which they slap the neck of a person that took a haircut."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -114415,7 +114804,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to give a slap in the neck",
+        "meaning": "alternative form of \"пшъэбы дэон\"",
         "examples": []
       }
     ],
@@ -114462,6 +114851,10 @@
           {
             "sentence": "Тихьак1э чэщыр зэрэчэщэу '''къэбар къыдэсэпчъыгъ''",
             "translation": "'''I had a conversation with''' my guest all night."
+          },
+		  {
+            "sentence": "Сятэ '''къэбар къепчъы''",
+            "translation": "My father '''is having a [casual] conversation'''."
           }
         ]
       }
@@ -114529,6 +114922,10 @@
       {
         "meaning": "heaven; sky",
         "examples": []
+      },
+	  {
+        "meaning": "in the name of the sky (swear by the blue sky)",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -114552,10 +114949,7 @@
     "definitions": [
       {
         "meaning": "(vulgar) screw this, fuck this",
-        "examples": [],
-        "tags": [
-          "vulgar"
-        ]
+        "examples": []
       }
     ],
     "type": "intj",
@@ -114566,8 +114960,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "callus, corn",
-        "examples": []
+        "meaning": "callus",
+        "examples": [
+          {
+            "sentence": "К1алэм ылъакъо ч1эгъ '''лыргъужъ''' тет",
+            "translation": "The boy has a '''callus''' under his feet."
+          },
+		  {
+            "sentence": "C1эхэмэ '''лыргъужъэр''' атетых",
+            "translation": " My hands have '''calluses'''."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -114578,7 +114981,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to begin to argue, to get into an argument with",
+        "meaning": "to have quarrel (with), to have words (with), to begin to argue, to get into an argument with",
         "examples": []
       }
     ],
@@ -114590,8 +114993,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to get sad, grieve",
-        "examples": []
+        "meaning": "to get sad; to grieve",
+        "examples": [
+          {
+            "sentence": "К1алэр '''нэшхъэи'''",
+            "translation": "The boy '''becomes sad'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -114645,18 +115053,6 @@
     ],
     "type": "verb",
     "ipa": "psan"
-  },
-  {
-    "word": "къыч1эгъэутэсык1ын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to fart (without noise)",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "qət͡ʂʼaʁawtasət͡ʃʼən"
   },
   {
     "word": "къэпсын",
