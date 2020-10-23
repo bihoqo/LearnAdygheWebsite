@@ -4381,7 +4381,16 @@
     "to pretty up": "зэгъэфэн"
   },
   {
-    "to fit": "ек1ун; фэш1ун (to be suitable); фэш1оу ш1ын (to adjust clothes to fit someone); егъэк1ун (to make it fit for someone); хэзэгъэн (to fit in a group); щыфэн / щыгъэфэн (to fit clothes); щыхьан / щыгъэхьан (to fit clothes on body); дэгъэфэн (to fit something between); хэгъэфэн (to fit something among other objects); зэтегъэфэн (to fit things on each other, to fit by arranging things such as plans, cycles and music); зэгъэк1ун (to fit things together)"
+    "to fit": "ек1ун; фэш1ун (to be suitable); фэш1оу ш1ын (to adjust clothes to fit someone); егъэк1ун (to make it fit for someone); хэзэгъэн (to fit in a group); щыфэн / щыгъэфэн (to fit clothes); щыхьан / щыгъэхьан (to fit clothes on body); дэгъэфэн (to fit something between); хэгъэфэн (to fit something among other objects); зэтегъэфэн (to fit things on each other, to fit by arranging things such as plans, cycles and music); зэгъэк1ун (to fit things together); егъэк1ун / фэгъэшъошэн (to see fit, to deem appropriate)"
+  },
+  {
+    "to deem": "епэсын / фэгъэшъошэн (to regard someone as, to deem as); егъэк1ун (to deem appropriate)"
+  },
+  {
+    "to regard": "егъэк1ун; фэгъэшъошэн; епэсын"
+  },
+  {
+    "to account": "епэсын (to deem, to hold in belief or estimation, to regard as being); лъытэн / пчъын (to account, to consider, to take into consideration); дэхэпчъэн (to account something as well)"
   },
   {
     "to adjust": "фэш1оу пш1ыныр (to adjust to one's needs)"
@@ -11434,7 +11443,7 @@
     "instant": "нэгъэуп1эп1эгъу"
   },
   {
-    "to complain": "тхьаусыхэн; фэтхьаусыхэн (to complain for); 1оин; фэ1оин (to complain for)"
+    "to complain": "тхьаусхэн; фэтхьаусыхэн (to complain for); 1оин; фэ1оин (to complain for); гъынэнэн (to whinge, to complain especially in an annoying or persistent manner))"
   },
   {
     "to curry favor with": "еубзэн"
@@ -14332,7 +14341,7 @@
     "gathering place": "к1уап1э"
   },
   {
-    "because": "-эти / -эшъ (reason suffix); сыда п1омэ (that is because, the reason for that is); (dialectal) шъыда п1омэ; ащ фэш1к1э / ащ пае / джащ пае / джащ фэш1ык1э (for that reason or cause, because of that)"
+    "because": "-эти / -эшъ (reason suffix); сыда п1омэ (that is because, the reason for that is); (dialectal) шъыда п1омэ; (dialectal) зары; ащ фэш1к1э / ащ пае / джащ пае / джащ фэш1ык1э (for that reason or cause, because of that)"
   },
   {
     "whore": "(vulgar) къэхьыпэ"
@@ -17026,7 +17035,7 @@
     "blackness": "ш1уц1агъэ"
   },
   {
-    "to consider": "ш1ош1ын; лъытэн; енэгуен; епэсын / фэгъэшъошэн (to consider somebody worthy of; to esteem worthy of)"
+    "to consider": "епэсын (to consider somebody worthy of, to esteem worthy of); лъытэн / пчъын (to account, to consider, to take into consideration); дэхэпчъэн (to consider something as well)"
   },
   {
     "to take into consideration": "ш1ош1ын; лъытэн; енэгуен"
@@ -18508,10 +18517,16 @@
     "to fondle": "едэхэш1эн"
   },
   {
-    "to esteem worthy": "епэсын; фэгъэшъошэн"
+    "promise": "гущы1э"
   },
   {
     "to expect": "епэсын (to have expectations of somebody to be); ежэн / пэплъэн (to wair for)"
+  },
+  {
+    "to see fit": "егъэк1ун / фэгъэшъошэн"
+  },
+  {
+    "to deem appropriate": "егъэк1ун / фэгъэшъошэн"
   },
   {
     "to view": "еплъын"
@@ -18533,12 +18548,6 @@
   },
   {
     "alcoholic": "ешъуак1о; ешъорый"
-  },
-  {
-    "because (for what cause, reason, or purpose)": "сыда п1омэ"
-  },
-  {
-    "(dialectal) because (for what cause, reason, or purpose)": "зары"
   },
   {
     "hair lash (head)": "шъхьацышъо"

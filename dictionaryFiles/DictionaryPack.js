@@ -17876,6 +17876,23 @@
             "translation": "I don’t understand the '''word'''."
           }
         ]
+      },
+	  {
+        "meaning": "promise",
+        "examples": [
+          {
+            "sentence": "'''Гущы1э''' къыосэты неущы хым усщэщт",
+            "translation": "I give you '''a promise''' I will take you to the sea tomorrow."
+          },
+		  {
+            "sentence": "'''Уигущы1э''' утетышъурэп",
+            "translation": "You can't stand on your '''promise'''."
+          },
+		  {
+            "sentence": "Сэ ренэу '''сигущы1эмэ''' сатеты",
+            "translation": "I always stand on my '''promises'''."
+          }
+        ]
       }
     ],
     "kabardian": "псалъэ",
@@ -20345,7 +20362,36 @@
     "word": "егъэк1ун",
     "lang": "Adyghe",
     "definitions": [
-      {
+	  {
+        "meaning": "to see fit; to deem appropriate; to find something fitting with",
+        "examples": [
+          {
+            "sentence": "К1алэм лэжьэк1о 1офыр '''езгъэк1урэп'''",
+            "translation": "'''I don't see''' the boy '''fit''' a labor work."
+          },
+		  {
+            "sentence": "К1алэр а бзаджэхэмэ аригъусэныр '''азгъэк1урэп'''",
+            "translation": "'''I don't see''' the boy hanging with those thugs '''fit'''."
+          },
+		  {
+            "sentence": "К1алэр досторныр '''есэгъэк1у'''",
+            "translation": "'''I see''' the boy being a doctor '''fit'''."
+          },
+		  {
+            "sentence": "К1алэм джэнэ плъыжь '''есэгъэк1у'''",
+            "translation": "'''I see''' the red shirt '''fit''' with the boy."
+          },
+		  {
+            "sentence": "К1алэр '''езгъэк1угъэп''' еджэныр ау мары дэгъу еджэшъу",
+            "translation": "'''I did not see''' the boy studying '''fit''' but here he can study good."
+          },
+		  {
+            "sentence": "К1алэр лэжьэк1оныр '''езгъэк1угъэп''', армэу сыш1ош1ыгъ",
+            "translation": "'''I did not see''' the boy being a worker '''fit''', I thought he is lazy."
+          }
+        ]
+      },
+	  {
         "meaning": "to make something fit in place",
         "examples": []
       },
@@ -20355,10 +20401,6 @@
       },
       {
         "meaning": "to find someone similar in appearance with",
-        "examples": []
-      },
-      {
-        "meaning": "to find something fitting with",
         "examples": []
       },
       {
@@ -45395,6 +45437,10 @@
           {
             "sentence": "Сэ архитектурэр '''сш1огъэш1эгъон'''",
             "translation": "'''I’m interested''' in architecture."
+          },
+		  {
+            "sentence": "1офыр нахь '''гъэш1эгъонэу''' зэхъум сыук1эсыгъ",
+            "translation": "I began liking the job when it became more '''interesting'''."
           }
         ]
       },
@@ -55651,6 +55697,18 @@
     "kabardian": "пщ1ыхьап1э",
     "type": "noun",
     "ipa": "pt͡ʃʼəħaːpʼa"
+  },
+  {
+    "word": "тхьаусыхэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"тхьаусхэн\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "tħaːwəsəxan"
   },
   {
     "word": "тхьаусхэн",
@@ -72623,6 +72681,10 @@
 		  {
             "sentence": "Фабрикэм щылажьэхэмэ '''лэжьак1ок1э''' уаджэшъущт",
             "translation": "You can call people that work in a factory as '''workers'''."
+          },
+		  {
+            "sentence": "К1алэр '''лэжьэк1оныр''' езгъэк1угъэп, армэу сыш1ош1ыгъ",
+            "translation": "I did not see the boy being '''a worker''' fit, I thought he is lazy."
           }
         ]
       }
@@ -115214,7 +115276,12 @@
     "definitions": [
       {
         "meaning": "for example",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Гущы1эм пае''' къещхырэм сыхэтэу сык1омэ, сышъущт",
+            "translation": "'''For example''' if I go in the rain, I will get wet."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -115228,7 +115295,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "for example",
+        "meaning": "alternative form of \"гущы1эм пае\"",
         "examples": []
       }
     ],
@@ -115244,7 +115311,16 @@
     "definitions": [
       {
         "meaning": "to start liking something (the process of liking)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Мы фылымыр '''сэук1эсы'''",
+            "translation": "'''I am liking''' this movie."
+          },
+		  {
+            "sentence": "1офыр нахь гъэш1эгъонэу зэхъум '''сыук1эсыгъ'''",
+            "translation": "'''I began liking''' the job when it became more interesting."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -115255,7 +115331,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to whinge, to whine",
+        "meaning": "to whinge, to whine (to complain, especially in an annoying or persistent manner)",
         "examples": [
           {
             "sentence": "К1алэр '''мэгъынанэ'''",
@@ -115300,8 +115376,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be nice to someone, to show a friendly disposition",
-        "examples": []
+        "meaning": "to fondle; to caress (touch, kiss or stroke lovingly)",
+        "examples": [
+          {
+            "sentence": "Янэ к1элэц1ык1ум '''едэхэш1агъ'''",
+            "translation": "The little boy's mother '''caressed him'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -115328,9 +115409,38 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to consider somebody worthy of; to esteem worthy of",
+        "meaning": "to deem; to hold in belief or estimation; to regard as being; to evaluate according to one's beliefs",
+        "examples": [
+		  {
+            "sentence": "К1алэм '''еспэсыгъэп''' лэжьэк1ошъунэу",
+            "translation": "'''I did not deem''' the boy to be able to be a worker."
+          },
+		  {
+            "sentence": "К1алэр шэнчъэныр '''еспэсыгъэп'''",
+            "translation": "'''I did not deem''' the boy to be mischievous."
+          },
+		  {
+            "sentence": "К1алэр тхьэматэу хъунэу '''есэпэсы'''",
+            "translation": "'''I deem''' the boy to become a leader."
+          },
+		  {
+            "sentence": "Мы экзаменыр мыщ фэдизэу къиныныр '''еспэсыгъэп'''",
+            "translation": "'''I did not deem''' this exam to be this hard."
+          },
+		  {
+            "sentence": "К1алэр досторэу хъунэу '''еспэсыгъ'''",
+            "translation": "'''I deemed''' the boy to become a doctor."
+          }
+        ]
+      },
+	  {
+        "meaning": "to consider somebody worthy of",
         "examples": [
           {
+            "sentence": "К1алэм мы 1офым къи1ук1эхьанэу '''еспэсырэп'''",
+            "translation": "'''I do not consider''' the boy '''worthy''' of getting this job."
+          },
+		  {
             "sentence": "Л1ыр '''зепэсыжьырэп''' къыздэгущы1энэу",
             "translation": "The man '''doesn't consider himself ''' talking to me '''worthy'''."
           },
@@ -115343,7 +115453,11 @@
       {
         "meaning": "to expect; to have expectations of somebody to be; to view somebody in a particular way",
         "examples": [
-          {
+		  {
+            "sentence": "К1алэм '''еспэсырэп''' 1офыр къыфэш1энэу",
+            "translation": "'''I don't expect''' the boy to be able to do the job."
+          },
+		  {
             "sentence": "'''Еспэсыгъэп''' л1ыр 1офымк1э ерагъэу къыч1эк1ынэу",
             "translation": "'''I did not expect''' the man to turn out to be weak in the work."
           },
@@ -115374,8 +115488,54 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to consider somebody worthy of; to esteem worthy of",
-        "examples": []
+        "meaning": "to see fit; to deem appropriate; to find something fitting with",
+        "examples": [
+          {
+            "sentence": "К1алэм лэжьэк1о 1офыр '''фэзгъэшъошагъэп'''",
+            "translation": "'''I don't see''' the boy '''fit''' a labor work."
+          },
+		  {
+            "sentence": "К1алэр а бзаджэхэмэ аригъусэныр '''фэзгъэшъошэрэп'''",
+            "translation": "'''I don't see''' the boy hanging with those thugs '''fit'''."
+          },
+		  {
+            "sentence": "К1алэр досторныр '''фэсэгъэшъуашэ'''",
+            "translation": "'''I see''' the boy being a doctor '''fit'''."
+          },
+		  {
+            "sentence": "К1алэм джэнэ плъыжь '''фэсэгъэшъуашэ'''",
+            "translation": "'''I see''' the red shirt '''fit''' with the boy."
+          },
+		  {
+            "sentence": "К1алэр '''фэзгъэшъошагъэп''' еджэныр ау мары дэгъу еджэшъу",
+            "translation": "'''I did not see''' the boy studying '''fit''' but here he can study good."
+          },
+		  {
+            "sentence": "К1алэр лэжьэк1оныр '''фэзгъэшъошагъэп''', армэу сыш1ош1ыгъ",
+            "translation": "'''I did not see''' the boy being a worker '''fit''', I thought he is lazy."
+          }
+        ]
+      },
+	  {
+        "meaning": "to deem; to hold in belief or estimation; to regard as being; to evaluate according to one's beliefs",
+        "examples": [
+		  {
+            "sentence": "К1алэр шэнчъэныр '''фэзгъэшъошагъэп'''",
+            "translation": "'''I did not regard''' the boy to be mischievous."
+          },
+		  {
+            "sentence": "К1алэр тхьэматэу хъунэу '''фэcэгъэшъуашэ'''",
+            "translation": "'''I deem''' the boy to become a leader."
+          },
+		  {
+            "sentence": "Мы экзаменыр мыщ фэдизэу къиныныр '''фэзгъэшъошагъэп'''",
+            "translation": "'''I did not deem''' this exam to be this hard."
+          },
+		  {
+            "sentence": "К1алэр досторэу хъунэу '''фэзгъэшъошагъэп'''",
+            "translation": "'''I deemed''' the boy to become a doctor."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -115398,9 +115558,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to promise; to give one's word",
+        "meaning": "to promise; to give one's word; to give a promise",
         "examples": [
           {
+            "sentence": "'''Гущы1э къысэптыгъ''' неущы хым сыпщэщт",
+            "translation": "'''You gave me a promise''' that you will take me to the sea tomorrow."
+          },
+		  {
             "sentence": "'''Гущы1э къыосэты''' неущы филымым теплъыщт",
             "translation": "'''I promise you''' we will watch the film tomorrow."
           }
@@ -115454,7 +115618,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "because (more specifically: that is because; the reason for that is)",
+        "meaning": "that is because; the reason for that is",
         "examples": [
           {
             "sentence": "Экзамыным бэрэ седжэщт, '''сыда п1омэ''' къиныщт",
@@ -115464,7 +115628,6 @@
             "sentence": "К1элэц1ык1ухэмэ сырагъэзэщыгъ, '''сыда п1омэ''' ренэу ауш1ои джэхашъор",
             "translation": "The little kids tired me '''because''' they always dirty the floor."
           },
-		  ,
 		  {
             "sentence": "К1алэмрэ пшъашъэмрэ зэзэгъыхэрэп, '''сыда п1омэ''' ашъхьэхэр зэтефэхэрэп",
             "translation": "The boy and the girl are not getting along, '''the reason for that is because''' they do not have the same mindset."
@@ -115483,15 +115646,20 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(dialectal) because (for what cause, reason, or purpose)",
+        "meaning": "(dialectal) that is because; the reason for that is",
         "examples": [
           {
             "sentence": "Экзамыным бэрэ седжэщт, '''зары''' къиныщт",
             "translation": "I will study a lot for the exam, '''because''' it will be hard."
+          },
+		  {
+            "sentence": "К1элэц1ык1ухэмэ сырагъэзэщыгъ, '''зары''' ренэу ауш1ои джэхашъор",
+            "translation": "The little kids tired me '''because''' they always dirty the floor."
+          },
+		  {
+            "sentence": "К1алэмрэ пшъашъэмрэ зэзэгъыхэрэп, '''зары''' ашъхьэхэр зэтефэхэрэп",
+            "translation": "The boy and the girl are not getting along, '''the reason for that is because''' they do not have the same mindset."
           }
-        ],
-        "tags": [
-          "dialectal"
         ]
       }
     ],
