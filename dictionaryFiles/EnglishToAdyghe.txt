@@ -3486,7 +3486,7 @@
     "can": "лъэк1ын; -шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb)"
   },
   {
-    "capable": "лъэк1ын; -шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb)"
+    "capable": "лъэк1ын; -шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb); 1эпэ1эс / фэкъулай / фэ1эз (capable, able, skilled)"
   },
   {
     "horn": "бжъэ; бжъакъо"
@@ -10915,7 +10915,7 @@
     "to carry out": "гъэцэк1эн"
   },
   {
-    "to manage": "-шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb); е1эзэн (to handle something, to deal with, to manage something); гъэзек1он (to manage something or someone); лъэк1ын / фэлъэк1ын (to manage to do, to be able to do); зэпыгъэфэн (to arrange); гъэ1орыш1эн"
+    "to manage": "-шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb); е1эзэн (to handle something, to deal with, to manage something); гъэзек1он (to manage something or someone); лъэк1ын / фэлъэк1ын (to manage to do, to be able to do); зэпыгъэфэн (to arrange); гъэ1орыш1эн; фэш1эн (to be able to do, to manage to do); фэш1ын (to be able to make/build, to manage to make)"
   },
   {
     "to administrate": "гъэзек1он"

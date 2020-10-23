@@ -52454,7 +52454,7 @@
       }
     ],
     "synonyms": [
-      "фэш1эн",
+      "фэш1ын",
       "ипш1э къик1ын"
     ],
     "shapsug": "фэлъэк1ьын",
@@ -115100,22 +115100,56 @@
     "word": "фэш1эн",
     "lang": "Adyghe",
     "definitions": [
-      {
-        "meaning": "to be capable to do, to be able to do, to manage",
+	  {
+        "meaning": "to do for; to do for the sake of",
         "examples": [
           {
-            "sentence": "К1алэм 1офы къины '''фэш1эщт'''",
-            "translation": "The boy '''is capable of doing''' a hard work."
-          },
-          {
-            "sentence": "Экзамыныр '''къэсфэш1ырэп'''",
-            "translation": "'''I can't do''' the exam."
+            "sentence": "Зыгорэ '''къэсфэпш1эшъущта'''?",
+            "translation": "'''Can you do''' something '''for me''''?0"
           }
         ]
       },
 	  {
-        "meaning": "to do for",
-        "examples": []
+        "meaning": "to be capable to do, to be able to do, to manage to do",
+        "examples": [
+          {
+            "sentence": "К1алэм 1офы къиныр '''фэш1ыщт'''",
+            "translation": "The boy '''is capable of doing''' a hard work."
+          },
+		  {
+            "sentence": "1офыр '''къэсфэш1ырэп'''",
+            "translation": "'''I can't manage to do''' the work."
+          },
+          {
+            "sentence": "Экзамыныр '''къэсфэш1ырэп'''",
+            "translation": "'''I can't manage to do''' the exam."
+          },
+          {
+            "sentence": "Экзамыныр пшъашъэм '''къыфэш1ыгъ'''",
+            "translation": "The girl '''managed to do''' the exam"
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "faʃʷan"
+  },
+  {
+    "word": "фэш1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to be capable to make/build, to be able to make/build, to manage to make/build",
+        "examples": [
+          {
+            "sentence": "Л1ым изакъоу унэц1ык1у '''фэш1ыщт'''",
+            "translation": "The man '''is capable of building''' a small house alone."
+          },
+		  {
+            "sentence": "Ку сизакъоу '''къэсфэш1ыщтэп'''",
+            "translation": "'''I cannot build''' a car alone."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -115145,10 +115179,22 @@
     ],
     "synonyms": [
       "лъэк1ын",
-      "фэш1эн"
+      "фэш1ын"
     ],
     "type": "verb",
     "ipa": "jəpʃʼa qəjt͡ʃʼən"
+  },
+  {
+    "word": "пшъэкурб",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "suboccipital fossa",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "pʂakʷərb"
   },
   {
     "word": "гущы1эмпае",
