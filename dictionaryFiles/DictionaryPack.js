@@ -99678,8 +99678,12 @@
             "translation": "'''I lost''' my watch '''inside''' the house."
           },
           {
-            "sentence": "Укъэсш1ок1одыным '''сыщэщынэ'''",
+            "sentence": "'''Укъэсш1ок1одыным''' сыщэщынэ",
             "translation": "I am afraid of '''losing you'''."
+          },
+		  {
+            "sentence": "К1алэр к1охъуи гъогур '''ш1ок1одыгъ'''",
+            "translation": "The boy went astray and '''lost''' the road."
           }
         ]
       }
@@ -115720,7 +115724,12 @@
     "definitions": [
       {
         "meaning": "to lose one's way, to go astray, to get lost",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''к1охъуи''' гъогур ш1ок1одыгъ",
+            "translation": "The boy '''went astray''' and lost the road."
+          }
+        ]
       }
     ],
     "type": "verb",
