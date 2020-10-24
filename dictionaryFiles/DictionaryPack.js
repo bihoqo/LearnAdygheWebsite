@@ -8708,6 +8708,10 @@
 		  {
             "sentence": "Мыжъор унэм '''тефагъ'''",
             "translation": "The rock '''hit''' the house."
+          },
+		  {
+            "sentence": "К1алэм ыжэ къыдэзыгъэр ыпхъотагъ ч1ыгум '''темыфагъэу'''",
+            "translation": "The boy snatched what fell from his mouth '''before it hit''' the ground."
           }
         ]
       },
@@ -19203,6 +19207,10 @@
           {
             "sentence": "К1алэр ефэхэу, л1ым к1алэм ы1э '''къиубыти''', къиштэжьи,  къигъэнэжьыгъ",
             "translation": "While the boy was falling, the man '''grabbed''' the boy's arm, lifted him and saved him."
+          },
+		  {
+            "sentence": "1эр '''уубытын''', 1эм уетхъон",
+            "translation": "'''To grab''' the arm, to grab the arm."
           }
         ]
       },
@@ -35398,6 +35406,10 @@
 		  {
             "sentence": "К1алэм '''зыуш1оижьыгъ'''",
             "translation": "The boy '''made himself dirty'''."
+          },
+		  {
+            "sentence": "Зыгорэм ыц1э '''ууш1оиныр'''",
+            "translation": "'''To tarnish''' someone's name."
           }
         ]
       }
@@ -83170,6 +83182,10 @@
           {
             "sentence": "К1алэм джэгуалъэр '''къэсш1уипхъутагъ'''",
             "translation": "The boy '''snatched''' the toy '''from me'''."
+          },
+		  {
+            "sentence": "К1алэм сырнычыр ы1э '''къыш1опхъуат'''",
+            "translation": "'''Snatch''' the match from the boy's hand."
           }
         ]
       }
@@ -101924,6 +101940,14 @@
 		  {
             "sentence": "Пчэдыжьым шъофым тыхэхьани, чэщым чылэм '''тыкъыдэхьажьыщт'''",
             "translation": "In the morning we will enter the fields and in the night '''we will return to''' the village."
+          },
+		  {
+            "sentence": "Куп ипхэк1э '''укъыдэхьан'''",
+            "translation": "'''To come from''' the group's rear."
+          },
+		  {
+            "sentence": "Щагум '''дахьи''' тыгъэм зегъэу",
+            "translation": "'''Go to''' the yard and direct yourself to the sun."
           }
         ]
       },
@@ -119404,6 +119428,10 @@
 		  {
             "sentence": "К1алэм '''зыуц1эп1ыжьыгъ'''",
             "translation": "The boy '''made himself dirty'''."
+          },
+		  {
+            "sentence": "Зыгорэм ыц1э '''уупц1эп1ыныр'''",
+            "translation": "'''To tarnish''' someone's name."
           }
         ]
       }
@@ -119461,11 +119489,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to direct an object toward something that emits heat",
+        "meaning": "to direct an object toward a source of heat",
         "examples": [
           {
             "sentence": "У1э маш1ом '''егъэу'''",
             "translation": "'''Direct''' your arm '''toward''' the fire [to warm it up]."
+          },
+		  {
+            "sentence": "Щагум дахьи тыгъэм '''зегъэу'''",
+            "translation": "Go to the yard and '''direct yourself''' to the sun."
           }
         ]
       }
@@ -119487,6 +119519,10 @@
           {
             "sentence": "Тыгъэм '''зегъэун'''",
             "translation": "'''To direct oneself toward''' the sun [to warm up]."
+          },
+		  {
+            "sentence": "Щагум дахьи тыгъэм '''зегъэу'''",
+            "translation": "Go to the yard and '''direct yourself''' to the sun."
           }
         ]
       }
@@ -119553,7 +119589,7 @@
         "examples": [
           {
             "sentence": "'''Хъупц1ым''' егъал1э",
-            "translation": "'''The itch''' is killing him."
+            "translation": "'''The itch''' is killing him/her."
           }
         ]
       }
@@ -119709,11 +119745,12 @@
     "definitions": [
       {
         "meaning": "sly, cunning, artful",
-        "examples": []
-      },
-      {
-        "meaning": "munafiq",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "ц1ыф '''тхьагъэпц1'''",
+            "translation": "'''sly''' person."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -119742,7 +119779,16 @@
     "definitions": [
       {
         "meaning": "to grasp, to grab, to seize, to snap, to snatch, to catch, to catch hold of",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "бэщым '''уетхъон'''",
+            "translation": "'''To grab''' a stick."
+          },
+		  {
+            "sentence": "1эр уубытын, 1эм '''уетхъон'''",
+            "translation": "To grab the arm, '''to grab''' the arm."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -119763,7 +119809,16 @@
       },
 	  {
         "meaning": "to snatch; to seize something suddenly",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм сырнычыр ы1э '''къыш1опхъуат'''",
+            "translation": "'''Snatch''' the match from the boy's hand."
+          },
+		  {
+            "sentence": "К1алэм ыжэ къыдэзыгъэр ыпхъотагъ ч1ыгум темыфагъэу",
+            "translation": "The boy '''snatched''' what fell from his mouth before it hit the ground."
+          }
+        ]
       }
     ],
     "synonyms": [

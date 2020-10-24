@@ -2199,6 +2199,9 @@
     "to hold": "1ыгъэн; къэубытын (to take hold, to grib, to grasp, to catch and hold, to grab by catching)"
   },
   {
+    "to kidnap": "тыгъун"
+  },
+  {
     "to keep": "1ыгъэн"
   },
   {
