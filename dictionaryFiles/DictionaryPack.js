@@ -31474,16 +31474,67 @@
     "ipa": "wagʷəɕ"
   },
   {
+    "word": "пылъхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to hang; to put something into a hanging state",
+        "examples": [
+		  {
+            "sentence": "К1алэм псынэкъуаур щалъэр '''пилъхьи''' псынэм псы къырихыгъ",
+            "translation": "The boy '''hanged''' the bucket onto the winch and took water from the well."
+          },
+		  {
+            "sentence": "К1алэм джанэр щыгъын пылъап1эм '''пелъхьэ'''",
+            "translation": "The boy '''hangs''' the shirt '''onto''' the hanger."
+          },
+		  {
+            "sentence": "Бзылъфыгъэм щыгъынхэр к1апсэм '''пелъхьах''' ыгъэгъушъыныхэу",
+            "translation": "The woman '''hangs''' the clothes '''onto''' the rope to dry them up."
+          }
+        ]
+      },
+	  {
+        "meaning": "to attach something to",
+        "examples": [
+		  {
+            "sentence": "К1алэм псынэкъуаур щалъэр '''пилъхьи''' псынэм псы къырихыгъ",
+            "translation": "The boy '''hanged''' the bucket onto the winch and took water from the well."
+          },
+		  {
+            "sentence": "К1алэм легохэр '''зэпелъхьах'''",
+            "translation": "The boy '''attaches''' the Legos."
+          },
+		  {
+            "sentence": "Ощык1ыр ощым '''пысылъхьагъ'''",
+            "translation": "'''I attached''' the axe-handle '''onto''' the axe."
+          },
+		  {
+            "sentence": "Къопсыр пчъэм '''пылъхь'''",
+            "translation": "'''Attach''' the handle '''into''' the door."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "pəɬħaːn"
+  },
+  {
     "word": "щалъэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "bucket",
-        "examples": []
-      },
-      {
-        "meaning": "pail",
-        "examples": []
+        "meaning": "bucket; pail",
+        "examples": [
+          {
+            "sentence": "К1алэр псыр '''щалъэм''' рек1э",
+            "translation": "The boy pours water into '''the bucket'''."
+          },
+		  {
+            "sentence": "К1алэм псынэкъуаур '''щалъэр''' пилъхьи псынэм псы къырихыгъ",
+            "translation": "The boy hanged '''the bucket''' onto the winch and took water from the well."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -43341,6 +43392,10 @@
           {
             "sentence": "Тхьапшэрэ шъоф нэк1ым тыщык1ощт? '''тыбгъэгъушъыщта?'''",
             "translation": "How much are we gonna walk in the desert? '''are you gonna dry us out'''?"
+          },
+		  {
+            "sentence": "Бзылъфыгъэм щыгъынхэр к1апсэм пелъхьах '''ыгъэгъушъыныхэу'''",
+            "translation": "The woman '''hangs''' the clothes onto the rope '''to dry them up'''."
           }
         ]
       },
@@ -119803,10 +119858,6 @@
     "word": "пхъотэн",
     "lang": "Adyghe",
     "definitions": [
-      {
-        "meaning": "to pick up suddenly",
-        "examples": []
-      },
 	  {
         "meaning": "to snatch; to seize something suddenly",
         "examples": [
@@ -119829,6 +119880,18 @@
     ],
     "type": "verb",
     "ipa": "pχʷatan"
+  },
+  {
+    "word": "коцышъхьэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "ear of wheat",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "kʷat͡səʂħa"
   },
   {
     "word": "уарзэ",
@@ -119948,8 +120011,8 @@
             "translation": "Me and my brother are '''twins'''."
           },
           {
-            "sentence": "Томрэ Джонрэ '''зэт1уазэх'''",
-            "translation": "Tom and John are '''twins'''."
+            "sentence": "Куджанымрэ Аслъанымрэ '''зэт1уазэх'''",
+            "translation": "Kujan and Aslan are '''twins'''."
           }
         ]
       }
@@ -119972,8 +120035,8 @@
             "translation": "Me and my brother are '''twins'''."
           },
           {
-            "sentence": "Томрэ Джонрэ '''т1олъфэныкъох'''",
-            "translation": "Tom and John are '''twins'''."
+            "sentence": "Куджанымрэ Аслъанымрэ '''т1олъфэныкъох'''",
+            "translation": "Kujan and Aslan are '''twins'''."
           }
         ]
       }
@@ -120024,7 +120087,7 @@
             "translation": "The boy '''is spitting'''."
           },
           {
-            "sentence": "К1алэр чыжьэу '''мэужъунтхэшъу'''",
+            "sentence": "К1алэр чыжьэу '''ужъунтхэшъу'''",
             "translation": "The boy '''can spit''' far away."
           }
         ]
@@ -120186,12 +120249,28 @@
           {
             "sentence": "К1алэм кум ищэрыхъ '''ыугъоныгъ'''",
             "translation": "The boy '''made holes''' in the car's wheels."
+          },
+		  {
+            "sentence": "Къэцым щэрыхъыр '''ыугъоныгъ'''",
+            "translation": "The thorn '''made hole''' in the wheel."
           }
         ]
       }
     ],
     "type": "verb",
     "ipa": "wəʁʷanən"
+  },
+  {
+    "word": "пхырыугъонык1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to make a hole into",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "pxərəwʁʷanət͡ʃʼən"
   },
   {
     "word": "бзэгухь",
@@ -120229,7 +120308,12 @@
     "definitions": [
       {
         "meaning": "to gossip",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''мэбзэгухьы'''",
+            "translation": "The boy '''gossips'''."
+          }
+        ]
       },
       {
         "meaning": "to snitch",
@@ -120249,7 +120333,12 @@
     "definitions": [
       {
         "meaning": "rumor, talk, hearsay",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''1ор1отэжьк1э''' хъугъэр зэхихыгъ",
+            "translation": "The boy heard what happened '''by a rumor'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -120368,8 +120457,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to get angry over someone",
-        "examples": []
+        "meaning": "to get angry at someone",
+        "examples": [
+          {
+            "sentence": "К1алэр '''къэстегубжыхьагъ'''",
+            "translation": "The boy '''got angry at me'''."
+          },
+		  {
+            "sentence": "К1алэм ш1ухьафтын пшъашъэм къыфихьыгъэпи,  '''тегубжыхьагъ'''",
+            "translation": "Becuase the boy did not bring a gift to the girl, '''she got angry at him'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -120380,7 +120478,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "bridegroom; fiancé",
+        "meaning": "bridegroom; fiance",
         "examples": []
       }
     ],
@@ -120434,7 +120532,12 @@
     "definitions": [
       {
         "meaning": "winch (for the well); windlass",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''псынэкъуаур''' щалъэр пилъхьи псынэм псы къырихыгъ",
+            "translation": "The boy hanged the bucket onto '''the winch''' and took water from the well."
+          }
+        ]
       }
     ],
     "type": "noun",
