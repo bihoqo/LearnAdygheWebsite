@@ -116708,13 +116708,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to run past, to run through",
-        "examples": [
-          {
-            "sentence": "конторам '''блэхъушъутын'''",
-            "translation": "'''To run past''' the office."
-          }
-        ]
+        "meaning": "to run past; alternative form of \"блэхъушъутын\"",
+        "examples": []
       }
     ],
     "synonyms": [
