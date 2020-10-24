@@ -15791,6 +15791,10 @@
           {
             "sentence": "шым '''уанэ''' телъ",
             "translation": "There is a '''saddle''' on the horse."
+          },
+		  {
+            "sentence": "щым '''уанэ''' л1ым трелъхьэ",
+            "translation": "The man puts '''saddle''' on the horse."
           }
         ]
       }
@@ -21639,6 +21643,10 @@
 		  {
             "sentence": "Джы сылъэгъугъ сыда гъэучъы1алъэр '''лажьэрэп'''",
             "translation": "Now I saw why the fridge '''does not work'''."
+          },
+		  {
+            "sentence": "К1алэр '''лажьэрэпи''' сытебэнагъ",
+            "translation": "I harassed the boy '''because he is not working'''."
           }
         ]
       },
@@ -42835,7 +42843,7 @@
         "meaning": "to make food by heat (for example: to bake, to grill, to fry)",
         "examples": [
           {
-            "sentence": "сиянэ пц1эжъыехэр '''къегъэжъэх'''",
+            "sentence": "Сянэ пц1эжъыехэр '''къегъэжъэх'''",
             "translation": "My mother '''is frying''' fishes."
           },
           {
@@ -42843,12 +42851,16 @@
             "translation": "Kujan '''is boiling''' eggs."
           },
           {
-            "sentence": "к1энк1э '''гъажъ'''",
+            "sentence": "К1энк1э '''гъажъ'''",
             "translation": "'''Boil''' eggs."
           },
           {
             "sentence": "Пцэжъыер '''зэрыбгъажъэрэр''' мы жъапхъэмк1а?",
             "translation": "'''Are you frying''' the fish using this pan?"
+          },
+		  {
+            "sentence": "К1алэм табэмк1э лы '''ыгъэжъагъ'''",
+            "translation": "The boy '''cocked''' meat with the frying pan."
           }
         ]
       }
@@ -51457,6 +51469,10 @@
           {
             "sentence": "Илъэсил1ы седжагъ, джы еджэным '''сыш1ок1ыгъ'''",
             "translation": "I studied for four years, now '''I am free''' from studying."
+          },
+		  {
+            "sentence": "Пэрыохъу пстэуми '''аш1ок1ын'''",
+            "translation": "'''To overcome''' all obstacles."
           }
         ]
       }
@@ -56171,6 +56187,10 @@
           {
             "sentence": "Унашъхьэм '''пстэури''' къепк1эхэмэ ори укъепк1эхыщта?",
             "translation": "If '''everyone''' jumps from then root will you jump down from it as well?"
+          },
+		  {
+            "sentence": "Пэрыохъу '''пстэуми''' аш1ок1ын",
+            "translation": "To overcome '''all''' obstacles."
           }
         ]
       }
@@ -67811,7 +67831,7 @@
         "meaning": "to worry someone; to make someone anxious/uneasy",
         "examples": [
           {
-            "sentence": "Сиян, сыд '''узигъэгумэк1ырэр?'''",
+            "sentence": "Сян, сыд '''узигъэгумэк1ырэр?'''",
             "translation": "My mother, what '''worries you'''?"
           },
 		  {
@@ -67851,7 +67871,7 @@
         "meaning": "to be anxious/uneasy/worried",
         "examples": [
           {
-            "sentence": "Сиянэ '''мэгумэк1ы'''",
+            "sentence": "Сянэ '''мэгумэк1ы'''",
             "translation": "My mother '''worries'''."
           },
 		  {
@@ -67861,6 +67881,22 @@
           {
             "sentence": "Ащ и1офхэр дэгъушъ '''гумэк1ын''' фаеп",
             "translation": "His works are good, he doesn't have '''to worry'''."
+          },
+		  {
+            "sentence": "'''Сэгумэк1ы''' зыгорэ хъущтык1э",
+            "translation": "'''I was worried''' something was going to happen."
+          },
+          {
+            "sentence": "Лъыжъым ыкъо заом зэк1ом, '''гумэк1ыщтыгъагъ'''",
+            "translation": "When the old-man's son went to war, '''he was worried'''."
+          },
+          {
+            "sentence": "'''Умыгумэк1''', экзамыныр 1эш1эхэу къыч1эк1ыжьын",
+            "translation": "'''Don't worry''', the exam will [probably] turn out to be easy."
+          },
+          {
+            "sentence": "Ц1ык1у ц1ык1у, '''сэбэгъэгумэк1ы'''",
+            "translation": "Slowly, slowly, '''you're making me worry'''."
           }
         ]
       }
@@ -67888,10 +67924,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to make someone anxious/uneasy/worry",
+        "meaning": "(dialectal) to make someone anxious/uneasy/worry",
         "examples": [
           {
-            "sentence": "Сиян, сыд '''узигъэгуа1эрэр?'''",
+            "sentence": "Сян, сыд '''узигъэгуа1эрэр?'''",
             "translation": "My mother, what '''worries you'''?"
           },
           {
@@ -88566,7 +88602,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to worry",
+        "meaning": "(dialectal) to worry",
         "examples": [
           {
             "sentence": "'''Сэгу1агъ''' зыгорэ хъущтык1э",
@@ -116723,7 +116759,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "commotion",
+        "meaning": "commotion; uproar",
         "examples": []
       },
       {
@@ -116754,15 +116790,32 @@
     "ipa": "məχʷa məʃʼaːʁa zajħaːn"
   },
   {
+    "word": "къэгъэун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to emit smell",
+        "examples": [
+          {
+            "sentence": "Газым мэ 1ай '''къегъэу'''",
+            "translation": "A gas '''emits''' bad smell."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "qaʁawən"
+  },
+  {
     "word": "къэун",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to smell (a smell to approach)",
+        "meaning": "to smell (a smell emission to approach)",
         "examples": [
           {
-            "sentence": "Мэ 1эшIу '''къэунэу''' ежьагъ",
-            "translation": "A smell started '''to smell'''."
+            "sentence": "Мэ 1эш1у '''къэоу''' ежьагъ",
+            "translation": "A pleasant smell started '''to smell'''."
           },
           {
             "sentence": "Унэм мэ 1ай '''къеу'''",
@@ -116790,7 +116843,7 @@
         "meaning": "tree trunk, treetrunk",
         "examples": [
           {
-            "sentence": "Сэснэй '''чъыгыпкъыр''' зэгуахи пхъэмбгъу ашIыгъ",
+            "sentence": "Сэснэй '''чъыгыпкъыр''' зэгуахи пхъэмбгъу аш1ыгъ",
             "translation": "They opened the pine tree's '''tree trunk''' and made plank."
           }
         ]
@@ -116817,6 +116870,18 @@
           {
             "sentence": "Пхъэм '''пхъэмбгъу''' го1ул1эн фае",
             "translation": "To nail down '''a board''' on a wood."
+          },
+		  {
+            "sentence": "Гъуч1ы1унит1ук1э '''пхъэмбгъур''' л1ым хе1ул1э",
+            "translation": "The man nails the '''board''' with two nails."
+          },
+		  {
+            "sentence": "Пхъаш1эм пхъэпсымк1э '''пхъэмбгъур''' ыупси зэщизэу, джашъоу ыш1ыгъ",
+            "translation": "The carpenter with the plane planed the '''board''' evenly and made it smooth."
+          },
+		  {
+            "sentence": "Гъуч1ы1унэр '''пхъэмбгъум''' хэулъыихьагъ",
+            "translation": "The nail rusted in the '''board'''."
           }
         ]
       }
@@ -116888,8 +116953,12 @@
         "meaning": "pity",
         "examples": [
           {
-            "sentence": "К1алэм '''гук1эгъу''' фэсплъэгъугъ.",
+            "sentence": "К1алэм '''гук1эгъу''' фэслъэгъугъ.",
             "translation": "To feel '''pity''' for the boy."
+          },
+		  {
+            "sentence": "Пшъашъэм '''гук1эгъу''' чэтыухэмэ афиш1и шхын аритыгъ.",
+            "translation": "The girl '''pitied''' the cats and gave them food."
           }
         ]
       },
@@ -116943,6 +117012,10 @@
           {
             "sentence": "Тыдэ '''укъэк1ыгъ'''?",
             "translation": "'''From''' where '''you came'''?"
+          },
+          {
+            "sentence": "Топыр тэук1э '''къэк1ыщт'''?",
+            "translation": "'''From where''' the ball '''will come'''?"
           }
         ]
       },
@@ -116996,7 +117069,7 @@
           },
           {
             "sentence": "Мыр '''шъугу рехьа?'''",
-            "translation": "Do you like this? (said to plural)"
+            "translation": "Do you like this?"
           },
           {
             "sentence": "К1алэм орэдыр '''ыгу рехьэ'''",
@@ -117091,6 +117164,14 @@
           {
             "sentence": "Экзамынэу къытатыщтыр '''сыгу тепсафэрэп'''",
             "translation": "'''I am not in peace with''' the exam they gonna give us."
+          },
+          {
+            "sentence": "К1алэр зэрэизакъомк1э '''сыгу тепсафэрэп'''",
+            "translation": "'''I am not in peace with''' the boy being alone."
+          },
+          {
+            "sentence": "Къыхэсхыгъэм '''сыгу тепсафэ'''",
+            "translation": "'''I am in peace with''' what I choose."
           }
         ]
       }
@@ -117099,11 +117180,28 @@
     "ipa": "ɡʷə tapsafan"
   },
   {
+    "word": "зыгъэпсынк1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to hurry up oneself, to hasten oneself",
+        "examples": [
+          {
+            "sentence": "'''Зыгъэпсынк1''', автобусыр 1ук1ыжьыщт",
+            "translation": "'''Hurry up''', the bus will leave."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zəʁapsənt͡ʃʼan"
+  },
+  {
     "word": "псынк1эн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to hurry up, to hasten",
+        "meaning": "alternative form of \"гъэпсынк1эн\"",
         "examples": []
       }
     ],
@@ -117115,27 +117213,84 @@
     "ipa": "psənt͡ʃʼan"
   },
   {
-    "word": "фэгу1эн",
+    "word": "гъэпсынк1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to hurry up, to hasten, to make someone or something faster",
+        "examples": [
+          {
+            "sentence": "1офыр '''дгъэпсынк1ын''' фай иуахътэ тыухын пае",
+            "translation": "'''We need to hasten''' the work so we will finish in time."
+          },
+		  {
+            "sentence": "К1алэр '''гъэпсынк1'''",
+            "translation": "'''Hasten''' the boy."
+          },
+		  {
+            "sentence": "'''Зыгъэпсынк1''', автобусыр 1ук1ыжьыщт",
+            "translation": "'''Hurry up''', the bus will leave."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʁapsənt͡ʃʼan"
+  },
+  {
+    "word": "фэгумэк1ын",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to worry for/about someone",
         "examples": [
           {
-            "sentence": "Сиянэ ипсэуагъэ '''сыфэгуа1э'''",
+            "sentence": "Сянэ ипсэуагъэ '''сыфэгумэк1ы'''",
             "translation": "'''I worry for''' my mother's health condition."
           },
           {
-            "sentence": "Тыдэ ушы1агъ? '''Усфэгуа1эгъагъ'''",
+            "sentence": "Тыдэ ущы1агъ? '''Усфэгумэк1ыгъагъ'''",
             "translation": "Where were you? '''I was worried about you'''."
           },
           {
-            "sentence": "Л1ым '''уфэго1эн''' ищык1агъэп",
-            "translation": "'''You''' don't need '''to worry''' about the man."
+            "sentence": "Шак1ом '''уфэгумэк1ын''' ищык1агъэп",
+            "translation": "'''You''' don't need '''to worry''' about the hunter."
           },
           {
-            "sentence": "Шъо '''шъукъэсфэмыгуа1''', сэ тестым сыкъикъыт",
-            "translation": "'''Don't worry about me (said to plural)''', i will pass the test."
+            "sentence": "Шъо '''шъукъэсфэмыгумэк1ы''', сэ тестым сыкъикъыщт",
+            "translation": "'''Don't worry about me''', I will pass the test."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "фэгу1эн"
+    ],
+    "type": "verb",
+    "ipa": "faɡʷaʔan"
+  },
+  {
+    "word": "фэгу1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(dialectal) to worry for/about someone",
+        "examples": [
+          {
+            "sentence": "Сянэ ипсэуагъэ '''сыфэгуа1э'''",
+            "translation": "'''I worry for''' my mother's health condition."
+          },
+          {
+            "sentence": "Тыдэ ущы1агъ? '''Усфэгу1эгъагъ'''",
+            "translation": "Where were you? '''I was worried about you'''."
+          },
+          {
+            "sentence": "Шак1ом '''уфэго1эн''' ищык1агъэп",
+            "translation": "'''You''' don't need '''to worry''' about the hunter."
+          },
+          {
+            "sentence": "Шъо '''шъукъэсфэмыгуа1''', сэ тестым сыкъикъыщт",
+            "translation": "'''Don't worry about me''', I will pass the test."
           }
         ]
       }
@@ -117168,19 +117323,16 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(Kfar Kama dialect) to bark on",
+        "meaning": "(dialectal) to bark on",
         "examples": [
           {
             "sentence": "Хьэр к1алэм '''тэгъуагъо'''",
             "translation": "The dog '''is barking on''' the boy."
           },
           {
-            "sentence": "Хьэр '''къэстэгъуагъо'''",
+            "sentence": "Хьэр '''къэстегъуагъо'''",
             "translation": "The dog '''is barking on us'''."
           }
-        ],
-        "tags": [
-          "Kfar Kama dialect"
         ]
       }
     ],
@@ -117193,7 +117345,12 @@
     "definitions": [
       {
         "meaning": "frying pan (long-handled, shallow pan used for frying food)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''табэмк1э''' лы ыгъэжъагъ",
+            "translation": "The boy cocked meat with the '''frying pan'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -117286,24 +117443,16 @@
           {
             "sentence": "К1алэм '''къиныгъом''' сыхилъэшъуагъ",
             "translation": "The boy dragged me into '''hardship'''."
+          },
+		  {
+            "sentence": "'''Къиныгъом''' сыхэт",
+            "translation": "I am in '''hardship'''."
           }
         ]
       }
     ],
     "type": "noun",
     "ipa": "qəjnəʁʷ"
-  },
-  {
-    "word": "тепщэч",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "plate",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "tajpɕat͡ʃ"
   },
   {
     "word": "шъхьадж",
@@ -117314,11 +117463,11 @@
         "examples": [
           {
             "sentence": "'''Шъхьадж''' и1офш1эн гъэнэфэн фае",
-            "translation": "'''Evey one's''' assignment should be determined."
+            "translation": "'''Everyone's''' assignment should be determined."
           },
           {
             "sentence": "'''Шъхьадж''' зыфэгъэсагъэм тетэу 1оф еш1э",
-            "translation": "'''Evey one''' does the job the trained for."
+            "translation": "'''Everyone''' does the job the trained for."
           }
         ]
       }
@@ -117352,7 +117501,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to train for; to practice] for",
+        "meaning": "to train for; to practice for",
         "examples": [
           {
             "sentence": "К1алэм экзамыным '''зыфегъасэ'''",
@@ -117360,7 +117509,7 @@
           },
           {
             "sentence": "Шъхьадж '''зыфэгъэсагъэм''' тетэу 1оф еш1э",
-            "translation": "Evey one does the job they '''trained for'''."
+            "translation": "Eveyone does the job they '''trained for'''."
           }
         ]
       }
@@ -117391,7 +117540,16 @@
     "definitions": [
       {
         "meaning": "obstacle, impediment",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Пэрыохъу''' пстэуми аш1ок1ын",
+            "translation": "To overcome all '''obstacles'''."
+          },
+		  {
+            "sentence": "К1алэр '''пэрыохъоу''' къэсфэхъугъ",
+            "translation": "The boy became an '''obstacle''' for me."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -117403,11 +117561,37 @@
     "definitions": [
       {
         "meaning": "to hinder",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "К1алэр '''пэрыохъоу къэсфэхъугъ'''",
+            "translation": "The boy '''became an obstacle for me'''."
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "parəwaχʷ faχʷən"
+  },
+  {
+    "word": "хьакъулахь",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "tax",
+        "examples": [
+          {
+            "sentence": "'''Хьакъулахьэу''' къыптелъыр ты",
+            "translation": "Pay the '''tax''' that is on you."
+          },
+		  {
+            "sentence": "'''Хьакъулахьэу''' ц1ыфмэ ателъыр атыгъах",
+            "translation": "People already paid the '''tax''' that was on them."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ħaːqʷɮaːħ"
   },
   {
     "word": "тебэнэн",
@@ -117415,7 +117599,12 @@
     "definitions": [
       {
         "meaning": "to harass",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр лажьэрэпи '''сытебэнагъ'''",
+            "translation": "'''I harassed''' the boy because he is not working."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -117439,9 +117628,7 @@
         ]
       }
     ],
-    "synonyms": [
-      "гъэсмэгьэн"
-    ],
+    "shapsug": "гъэсымэгьэн",
     "type": "verb",
     "ipa": "ʁasmad͡ʒan"
   },
@@ -117474,7 +117661,7 @@
           },
           {
             "sentence": "Л1ыр '''сымаджэ''', арти сымэджэщым тыщэн фай",
-            "translation": "The man '''is sick''', so we need to take him to the hospital."
+            "translation": "The man '''is sick''', therefor we need to take him to the hospital."
           }
         ]
       }
@@ -117488,15 +117675,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to smelt",
+        "meaning": "to smelt; to fuse or melt two things into one, especially in order to extract metal from ore",
         "examples": []
       },
       {
         "meaning": "to weld; to join two materials (especially two metals) together by applying heat, pressure and filler, either separately or in any combination.",
         "examples": [
           {
-            "sentence": "Л1ым гъуч1ыхэр '''зэпегъэчъыхьэх'''",
+            "sentence": "Л1ым гъуч1ыхэр '''зэпегъэчъыхьах'''",
             "translation": "The man '''welds''' the metals."
+          },
+		  {
+            "sentence": "Гъуч1ит1у зэпыбгъэчъыхьан",
+            "translation": "'''To weld''' two irons."
           }
         ]
       }
@@ -117513,7 +117704,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to smelt",
+        "meaning": "to smelt; to fuse or melt two things into one, especially in order to extract metal from ore",
         "examples": []
       },
       {
@@ -117522,6 +117713,10 @@
           {
             "sentence": "Л1ым гъуч1ыхэр '''зэпегъажъэ'''",
             "translation": "The man '''welds''' the metals."
+          },
+		  {
+            "sentence": "Гъуч1ит1у зэпыбгъэжъэн",
+            "translation": "'''To weld''' two irons."
           }
         ]
       }
@@ -117538,7 +117733,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to smelt",
+        "meaning": "to smelt; to fuse or melt two things into one, especially in order to extract metal from ore",
         "examples": []
       },
       {
@@ -117547,6 +117742,10 @@
           {
             "sentence": "Л1ым гъуч1ыхэр '''зэпегъашхэх'''",
             "translation": "The man '''welds''' the metals."
+          },
+		  {
+            "sentence": "Гъуч1ит1у зэпыбгъэшхэн",
+            "translation": "'''To weld''' two irons."
           }
         ]
       }
@@ -117583,11 +117782,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to make something to fall down successively or gradually from",
+        "meaning": "to make something fall down successively or gradually from a hanging state",
         "examples": [
           {
-            "sentence": "Пхъэшъхьэмышъхьэр чъыгым л1ым '''пегъэтэкъугъэх'''",
+            "sentence": "Пхъэшъхьэмышъхьэхэр чъыгым л1ым '''пегъэтэкъугъэх'''",
             "translation": "The man '''makes''' the fruits '''fall down from''' the tree."
+          },
+		  {
+            "sentence": "Щыгъын пылъап1эм джанэхэр '''къыпэтэкъух'''",
+            "translation": "The clothes are '''falling''' from the hanger."
           }
         ]
       }
@@ -117603,16 +117806,20 @@
         "meaning": "to put something on; to place something on",
         "examples": [
           {
-            "sentence": "Нанэм шхыныхэр 1анэм '''къытелъхьагъэх'''",
-            "translation": "Mom '''put''' the foods on the table."
+            "sentence": "Шым уанэ л1ым '''трелъхьэ'''",
+            "translation": "The man '''puts''' saddle '''on''' the horse."
+          },
+		  {
+            "sentence": "Ным шхыныхэр 1анэм '''къытелъхьагъэх'''",
+            "translation": "The mother '''put''' the foods on the table."
           },
           {
             "sentence": "1офы бэу еджап1эмк1э '''къэсталъхьагъ'''",
             "translation": "'''They gave me''' a lot of tasks in school."
           },
 		  {
-            "sentence": "К1алэм нэгъунджэхэр '''зытелъхьэх'''",
-            "translation": "The boy '''puts on''' glasses."
+            "sentence": "К1алэм нэгъунджэр '''зытелъхьэ'''",
+            "translation": "The boy '''puts on''' the glasses."
           },
 		  {
             "sentence": "Л1ым шым шхо '''тырилъхьагъ'''",

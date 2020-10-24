@@ -10534,6 +10534,9 @@
     "to become ill": "сымэджэн; гъойщэен"
   },
   {
+    "to become sick": "сымэджэн; гъойщэен; гъэсымэджэн (to sicken, to make someone sick)"
+  },
+  {
     "vegetarian": "лымышх"
   },
   {
@@ -10762,7 +10765,7 @@
     "to look around": "зыплъыхьан"
   },
   {
-    "to smell": "пэмэн (to try to smell); фэмэн (Shapsug); еун (to smell something); пыун (to emit smell); къэун (a smell emission to come); мэ пихын (to emit smell); ш1умэ пыун (to stink); ш1умэ пихын (to stink)"
+    "to smell": "пэмэн (to try to smell); (Shapsug) фэмэн; еун (to smell something); пыун (to emit smell); къэун (a smell emission to come); къэгъэун (to emit smell); мэ пихын (to emit smell); ш1умэ пыун (to stink); ш1умэ пихын (to stink)"
   },
   {
     "to get away from": "ш1ок1ын"
@@ -12892,16 +12895,16 @@
     "to sneeze": "псын / къэпсын; (Shapsug) ц1этхын; (Shapsug) тец1этхэн (to sneeze on)"
   },
   {
-    "to worry": "гу1эн; гъэгу1эн (to worry someone); гумэк1ын (to feel anxious / uneasy); гъэгумэк1ын (to worry someone); фэгу1эн (to worry for someone); тегу1эхьан (to worry about)"
+    "to worry": "гумэк1ын (to feel worried / anxious / uneasy); фэгумэк1ын (to worry about someone or something); гъэгумэк1ын (to worry someone); (dialectal) фэгу1эн (to worry for someone); (dialectal) гу1эн; (dialectal) гъэгу1эн (to worry someone); (dialectal) тегу1эхьан (to worry about)"
   },
   {
-    "to be anxious": "гумэк1ын"
+    "to be anxious": "гумэк1ын (to feel worried / anxious / uneasy); фэгумэк1ын (to be anxious about someone or something); гъэгумэк1ын (to make someone anxious)"
   },
   {
-    "to be uneasy": "гумэк1ын"
+    "to be uneasy": "гумэк1ын (to feel worried / anxious / uneasy); фэгумэк1ын (to be uneasy about someone or something); гъэгумэк1ын (to make someone uneasy)"
   },
   {
-    "to be worried": "гумэк1ын"
+    "to be worried": "гумэк1ын (to feel worried / anxious / uneasy); фэгумэк1ын (to be anxious about someone or something); гъэгумэк1ын (to make someone anxious)"
   },
   {
     "anxiety": "гумэк1ыгъу"
@@ -14899,7 +14902,7 @@
     "each": "сыдрэ (each thing); хэтрэ (each person); (dialectal) тэдрэ / тэдрэз; къэс (each time, each day, each month, each year...); шъхьадж; пэпчъ (each time, at each occasion that)"
   },
   {
-    "every": "пэпчъ (everytime, at each occasion that); къэс (every time, every day, every month, every year...)"
+    "every": "пэпчъ (everytime, at each occasion that); къэс (every time, every day, every month, every year...); шъхьадж"
   },
   {
     "everytime": "пэпчъ (everytime, at each occasion that); къэс (every time, every day, every month, every year...)"
@@ -18770,6 +18773,9 @@
   },
   {
     "bomb": "къумбыл"
+  },
+  {
+    "tax": "хьакъулахь"
   },
   {
     "obstacle": "пэрыохъу; гъэохъу"
