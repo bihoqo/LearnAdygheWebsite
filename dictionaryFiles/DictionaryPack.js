@@ -35379,6 +35379,27 @@
             "translation": "The written '''is getting deleted'''."
           }
         ]
+      },
+      {
+        "meaning": "to soil, to stain, to dirty, to make dirty, to besmirch, to litter, to sully, to tarnish",
+        "examples": [
+          {
+            "sentence": "К1алэм ынапэ '''ыуш1оижьыгъ'''",
+            "translation": "The boy '''dirtied''' his face."
+          },
+		  {
+            "sentence": "К1алэм иджанэ псынжъык1э '''ыуш1оижьыгъ'''",
+            "translation": "The boy '''stained''' his shirt with mud."
+          },
+		  {
+            "sentence": "К1алэм унэр '''ыуш1оигъ'''",
+            "translation": "The boy '''soiled''' the house."
+          },
+		  {
+            "sentence": "К1алэм '''зыуш1оижьыгъ'''",
+            "translation": "The boy '''made himself dirty'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -94863,6 +94884,10 @@
 		  {
             "sentence": "Нашэм '''ык1элъэныкъо''' шъугъэ",
             "translation": "'''One half''' of the melon is rotten."
+          },
+		  {
+            "sentence": "П1эшъхьагъыр шъхьантэр зыдэщылъ '''лъэныкъоу''' п1эм и1эр ары",
+            "translation": "The headboard is '''the side''' of the bed which has the pillow."
           }
         ]
       },
@@ -112130,6 +112155,10 @@
           {
             "sentence": "Л1ым 1офыр псынк1эу '''хэш1уихыгъ'''",
             "translation": "The man '''resolved''' the work quickly."
+          },
+		  {
+            "sentence": "К1алэм 1офыр елбэтэу '''зэш1уихыгъ'''",
+            "translation": "The boy '''dealt with''' the work in a blink of an eye."
           }
         ]
       },
@@ -119227,8 +119256,12 @@
         "meaning": "to spread (on), to smear (with), to daub (with)",
         "examples": [
           {
-            "sentence": "Хьалыгъу бзыгъэм шъоу '''тефэхьын'''",
-            "translation": "'''To smear''' honey on a sliced bread."
+            "sentence": "Хьалыгъу бзыгъэм шъоу '''тефыхьан'''",
+            "translation": "'''To spread''' honey on a sliced bread."
+          },
+		  {
+            "sentence": "Крем пкъым '''тефыхьан'''",
+            "translation": "'''To smear''' cream on the body."
           }
         ]
       }
@@ -119246,6 +119279,10 @@
     "definitions": [
       {
         "meaning": "headboard",
+        "examples": []
+      },
+	  {
+        "meaning": "head of the bed",
         "examples": []
       }
     ],
@@ -119270,6 +119307,15 @@
     "definitions": [
       {
         "meaning": "urgent",
+        "examples": [
+          {
+            "sentence": "Ар '''гузэжъогъоп'''",
+            "translation": "That is not urgent."
+          }
+        ]
+      },
+	  {
+        "meaning": "worrying time period, time of anxiety, time of concerning, time of nervousness",
         "examples": []
       }
     ],
@@ -119281,8 +119327,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "with lightning speed",
-        "examples": []
+        "meaning": "in a blink of an eye (a very short period of time)",
+        "examples": [
+          {
+            "sentence": "К1алэм 1офыр '''елбэтэу''' зэш1уихыгъ",
+            "translation": "The boy dealt with the work '''in a blink of an eye'''."
+          }
+        ]
       }
     ],
     "type": "adv",
@@ -119298,6 +119349,10 @@
           {
             "sentence": "К1алэм джанэр '''щэфэ'''",
             "translation": "The shirt '''is fitting''' the boy."
+          },
+		  {
+            "sentence": "Цуакъэр слъакъо '''щыфэрэп'''",
+            "translation": "The shoe '''does not fit''' my foot."
           }
         ]
       },
@@ -119328,12 +119383,46 @@
     "ipa": "ɕəfan"
   },
   {
+    "word": "уц1эп1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to soil, to stain, to dirty, to make dirty, to besmirch, to litter, to sully, to tarnish",
+        "examples": [
+          {
+            "sentence": "К1алэм ынапэ '''ыуц1эп1ыжьыгъ'''",
+            "translation": "The boy '''dirtied''' his face."
+          },
+		  {
+            "sentence": "К1алэм иджанэ псынжъык1э '''ыуц1эп1ыжьыгъ'''",
+            "translation": "The boy '''stained''' his shirt with mud."
+          },
+		  {
+            "sentence": "К1алэм унэр '''ыуц1эп1ыгъ'''",
+            "translation": "The boy '''soiled''' the house."
+          },
+		  {
+            "sentence": "К1алэм '''зыуц1эп1ыжьыгъ'''",
+            "translation": "The boy '''made himself dirty'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "wət͡sʼapʼən"
+  },
+  {
     "word": "еупц1ын",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to throw and smash an object against something forcefully",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм к1энк1эхэр дэпкъым '''теупц1ыгъэх'''",
+            "translation": "The boy '''threw and smashed''' the eggs '''onto''' the wall."
+          }
+        ]
       },
       {
         "meaning": "to stain forcefully, to make a mark on a surface or a piece of clothing forcefully",

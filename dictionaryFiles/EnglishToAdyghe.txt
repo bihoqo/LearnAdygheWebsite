@@ -1632,6 +1632,9 @@
     "pillow": "шъхьантэ"
   },
   {
+    "cushion": "шъхьантэ"
+  },
+  {
     "six": "хы"
   },
   {
@@ -1648,6 +1651,15 @@
   },
   {
     "cask": "шъондыр; пхъэчай; к1ад"
+  },
+  {
+    "shabrack": "шык1элъ"
+  },
+  {
+    "saddle-cloth": "шык1элъ"
+  },
+  {
+    "saddlecloth": "шык1элъ"
   },
   {
     "rotten wood": "къэпы"
@@ -4402,7 +4414,7 @@
     "to pretty up": "зэгъэфэн"
   },
   {
-    "to fit": "ек1ун; фэш1ун (to be suitable); фэш1оу ш1ын (to adjust clothes to fit someone); егъэк1ун (to make it fit for someone); хэзэгъэн (to fit in a group); щыфэн / щыгъэфэн (to fit clothes); щыхьан / щыгъэхьан (to fit clothes on body); дэгъэфэн (to fit something between); хэгъэфэн (to fit something among other objects); зэтегъэфэн (to fit things on each other, to fit by arranging things such as plans, cycles and music); зэгъэк1ун (to fit things together); егъэк1ун / фэгъэшъошэн (to see fit, to deem appropriate)"
+    "to fit": "ек1ун; фэш1ун (to be suitable); фэш1оу ш1ын (to adjust clothes to fit someone); егъэк1ун (to make it fit for someone); хэзэгъэн (to fit in a group); щыфэн (to fit);щыгъэфэн (to fit clothes); щыхьан / щыгъэхьан (to fit clothes on body); дэгъэфэн (to fit something between); хэгъэфэн (to fit something among other objects); зэтегъэфэн (to fit things on each other, to fit by arranging things such as plans, cycles and music); зэгъэк1ун (to fit things together); егъэк1ун / фэгъэшъошэн (to see fit, to deem appropriate)"
   },
   {
     "to deem": "епэсын / фэгъэшъошэн (to regard someone as, to deem as); егъэк1ун (to deem appropriate)"
@@ -4840,7 +4852,7 @@
     "to jump aside": "гопк1эн"
   },
   {
-    "to rub in": "щыфэн; тефэхьан; теуц1элэн"
+    "to rub in": "щыфэн; тефыхьан; теуц1элэн"
   },
   {
     "to spill": "тек1утэн (to spill drops on); ч1эк1утэн (to spill drops under); ик1утэн (to spill drops inside); тек1эн (to spill on); хэк1эн (to spill a liquid to another liquid); ик1эн (to spill inside); ч1эк1эн (to spill under); жэхэк1эн (to spill on someone intensively); ек1эхын (to pour down); хэк1отэн (to drip something into a fire, food, any substance, any liquid, etc.)"
@@ -15094,7 +15106,7 @@
     "to wear": "щыгъын (to be wearing); щылъэн (to dress someone else); зыщылъэн (to wear something, to dress oneself)"
   },
   {
-    "quickly": "псынк1эу; ш1эхэу; елбэтэу (as fast as lightning)"
+    "quickly": "псынк1эу; ш1эхэу; елбэтэу (in a blink of an eye)"
   },
   {
     "lost": "к1одыгъэ; гъозадж"
@@ -18988,10 +19000,10 @@
     "kneecap": "лъэгонджэмышъхьэ"
   },
   {
-    "to smear": "щыфэн; тец1элэн; тефэхьан"
+    "to smear": "щыфэн; тец1элэн; тефыхьан"
   },
   {
-    "to daub": "щыфэн; тец1элэн; тефэхьан; ин (to coat (with clay or cement); to daub; to stucco; to plaster); к1эен (to coat under)"
+    "to daub": "щыфэн; тец1элэн; тефыхьан; ин (to coat (with clay or cement); to daub; to stucco; to plaster); к1эен (to coat under)"
   },
   {
     "headboard": "п1эшъхьагъ"
@@ -19231,16 +19243,37 @@
     "smile": "щхыпц1ы"
   },
   {
-    "to soil": "ц1элэн; уц1эп1ын"
+    "to soil": "уш1оин; уц1эп1ын"
   },
   {
-    "to dirty": "уш1оин (to make it dirty); ц1элэн; уц1эп1ын"
+    "to make dirty": "уш1оин; уц1эп1ын"
+  },
+  {
+    "to besmirch": "уш1оин; уц1эп1ын"
+  },
+  {
+    "to litter": "уш1оин; уц1эп1ын"
+  },
+  {
+    "to sully": "уш1оин; уц1эп1ын"
+  },
+  {
+    "to tarnish": "уш1оин; уц1эп1ын"
+  },
+  {
+    "to dirty": "уш1оин (to make it dirty); уц1эп1ын; зэхэуш1оен (to become dirty)"
+  },
+  {
+    "to befoul": "уш1оин; зэхэуш1оен; упц1эп1ын; зэхэупц1эп1эн"
+  },
+  {
+    "to defile": "уш1оин; зэхэуш1оен; упц1эп1ын; зэхэупц1эп1эн"
   },
   {
     "filth": "ш1ои"
   },
   {
-    "to stain": "ц1элэн; уц1эп1ын; теуц1эн (to stain on); хэупц1эн (to stain on intensive); жэхэупц1эн (to stain on very intensive)"
+    "to stain": "уш1оин; уц1эп1ын; теуц1эн (to stain on); хэупц1эн (to stain on intensive); жэхэупц1эн (to stain on very intensive)"
   },
   {
     "to tilt": "уфэн"
