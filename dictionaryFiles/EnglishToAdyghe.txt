@@ -2151,7 +2151,7 @@
     "to sell": "щэн; щыщэн (to sell in a certain place)"
   },
   {
-    "to take": "щэн (to take/lead someone to somewhere); хьын (to take/carry something to somewhere); штэн / къэштэн (to grab something to take); ш1охьын (to take something from someone against his interest or will); 1ыхын / къы1эхын (to take something from someone by hand); техын / къытехын (to take off something from above something); ч1эхын / къыч1эхын (to take something from under something); дэхын / къыдэхын (to take something from inside another object); ихын / къыихын (to take something from inside something); пыхын / къыпыхын (to take down from a hanging position, to unhang); хэхын / къыхэхын (to take something from through something or from an area with gas or liquid); къохын / къыкъохын (to take something from behind something); гохын / къыгохын / бгъодэхын / къыбгъодэхын (to take something from besides something); к1оц1ыхын / къык1оц1ыхын (to take something from inside something's body); тещэн (to take/lead someone to above something); хэщэн (to take/lead someone to among other people or objects); хэщэн (to take/lead someone to an area liquid, gas, plants or trees); дэщэн (to take/lead someone to a yard); ищэн (to take/lead someone to inside something); къощэн (to take/lead someone to behind something); пыхын (to take something like knowledge, behavior from someone); дэщэен (to lead/take someone up); ещэхын (to lead/take someone down); къещэк1ын (to take/lead someone around); ещэл1эн (to take someone to, to lead someone to); дэхьыен (to take upwards, to take up, to carry upwards, to carry up)"
+    "to take": "щэн (to take/lead someone to somewhere); хьын (to take/carry something to somewhere); штэн / къэштэн (to grab something to take); ш1охьын (to take something from someone against his interest or will); 1ыхын / къы1эхын (to take something from someone by hand); техын / къытехын (to take off something from above something); ч1эхын / къыч1эхын (to take something from under something); дэхын / къыдэхын (to take something from inside another object); ихын / къыихын (to take something from inside something); пыхын / къыпыхын (to take down from a hanging position, to unhang); хэхын / къыхэхын (to take something from through something or from an area with gas or liquid); къохын / къыкъохын (to take something from behind something); гохын / къыгохын / бгъодэхын / къыбгъодэхын (to take something from besides something); к1оц1ыхын / къык1оц1ыхын (to take something from inside something's body); тещэн (to take/lead someone to above something); хэщэн (to take/lead someone to among other people or objects); хэщэн (to take/lead someone to an area liquid, gas, plants or trees); дэщэн (to take/lead someone to a yard); ищэн (to take/lead someone to inside something); къощэн (to take/lead someone to behind something); пыхын (to take something like knowledge, behavior from someone); дэщэен (to lead/take someone up); ещэхын (to lead/take someone down); къещэк1ын (to take/lead someone around); ещэл1эн (to take someone to, to lead someone to); дэхьыен (to take upwards, to take up, to carry upwards, to carry up); блэщын (to take/lead (someone) across, to take/lead (someone) past)"
   },
   {
     "to grasp": "къэубытын (to take hold, to grib, to grasp, to catch and hold, to grab by catching); зы1эк1эубытэн; зэхэш1ык1ын (to comprehend; to understand or grasp fully and thoroughly)"
@@ -2178,7 +2178,7 @@
     "to snatch": "пхъотэн; къы1эпхъотэн (to snatch from someone); къыш1опхъотэн (to snatch from someone)"
   },
   {
-    "to lead": "щэн (to lead/take someone to); пэщэн (to lead as a leader); тещэн (to take/lead someone to above something); хэщэн (to take/lead someone to among other people or objects); хэщэн (to take/lead someone to an area liquid, gas, plants or trees); дэщэн (to take/lead someone to a yard); ищэн (to take/lead someone to inside something); дэщэен (to lead/take someone up); ещэхын (to lead/take someone down); къещэк1ын (to take/lead someone around); щэжьын (to lead someone back to, to take someone back to, to return someone back to); ещэл1эн (to take someone to, to lead someone to)"
+    "to lead": "щэн (to lead/take someone to); пэщэн (to lead as a leader); тещэн (to take/lead someone to above something); хэщэн (to take/lead someone to among other people or objects); хэщэн (to take/lead someone to an area liquid, gas, plants or trees); дэщэн (to take/lead someone to a yard); ищэн (to take/lead someone to inside something); дэщэен (to lead/take someone up); ещэхын (to lead/take someone down); къещэк1ын (to take/lead someone around); щэжьын (to lead someone back to, to take someone back to, to return someone back to); ещэл1эн (to take someone to, to lead someone to); блэщын (to take/lead (someone) across, to take/lead (someone) past)"
   },
   {
     "to escort": "щэн (to escort someone to); хэщэн (to escort someone to among other people or objects); хэщэн (to escort someone to an area liquid, gas, plants or trees); дэщэн (to escort someone to a yard); ищэн (to escort someone to inside something); дэщэен (to escort someone up); ещэхын (to escort someone down); къещэк1ын (to escort someone around); щэжьын (to escort someone back to, to take someone back to, to return someone back to)"
@@ -3831,7 +3831,7 @@
     "latticework": "сэрай"
   },
   {
-    "kid": "к1элэхъу; к1элэц1ык1у; чэц1ы (kid, young goat)"
+    "kid": "шъэожъые; к1элэхъу; к1элэхъуц1ык1у; к1элэц1ык1у; чэц1ы (kid, young goat)"
   },
   {
     "delight": "гуш1уагъо; гуапэ"
@@ -5191,9 +5191,6 @@
     "to look through": "хэплъын; пхырыплъын"
   },
   {
-    "to overlook": "блэплъын"
-  },
-  {
     "eel": "блэпцэжъый"
   },
   {
@@ -5212,7 +5209,7 @@
     "to fail to hit": "блэун"
   },
   {
-    "to miss": "блэун (to miss a target); к1эхъосын (to long for); шӏок1он (to miss an opportunity); охъун (to miss one's aim, to miss the mark, to fail to hit, to miscue)"
+    "to miss": "блэун (to miss a target); к1эхъосын (to long for); шӏок1он (to miss an opportunity); охъун (to miss one's aim, to miss the mark, to fail to hit, to miscue); плъэхъун (to fail to see, to overlook, to fail to notice)"
   },
   {
     "hedge": "блэуц"
@@ -6613,7 +6610,10 @@
     "by the way": "ык1и; зыгорэк1э"
   },
   {
-    "shoes": "цуакъэ"
+    "shoe": "цуакъэ; цокъапэ (tip of the shoe)"
+  },
+  {
+    "shoes": "цуакъэ; цокъапэ (tip of the shoe)"
   },
   {
     "footwear": "цуакъэ"
@@ -9376,16 +9376,16 @@
     "to find": "гъотын / къэгъотын; хэгъотэн (to find something among); къигъотэн (to find inside)"
   },
   {
-    "to lose one's way": "гъощэн; хэгъощэн"
+    "to lose one's way": "гъощэн; хэгъощэн; к1охъун (to go the go way)"
   },
   {
-    "to go astray": "гъощэн; хэгъощэн"
+    "to go astray": "гъощэн; хэгъощэн; к1охъун (to go the go way)"
   },
   {
     "to astray": "гъощэн; хэгъощэн"
   },
   {
-    "to get lost": "гъощэн; хэгъощэн (to get lost by going the wrong way); к1одын (to be not found); хэк1одэн (to get lost in the forest, inside a liquid or gas); ик1одэн (to get lost inside)"
+    "to get lost": "гъощэн; хэгъощэн (to get lost by going the wrong way); к1одын (to be not found); хэк1одэн (to get lost in the forest, inside a liquid or gas); ик1одэн (to get lost inside); к1охъун (to go the wrong way)"
   },
   {
     "to appoint": "гъэнэфэн"
@@ -10867,7 +10867,13 @@
     "every place": "тэдэк1и"
   },
   {
-    "toe": "лъэхъуамбэ; лъэпхъабэ (Shapsug)"
+    "paw": "лъапэ"
+  },
+  {
+    "toe": "лъэхъуамбэ; лъэпхъабэ (Shapsug); лъап (of a foot or hoof, especially the tip of the toe)"
+  },
+  {
+    "toes": "лъэхъуамбэ; лъэпхъабэ (Shapsug); лъап (of a foot or hoof, especially the tip of the toe)"
   },
   {
     "finger": "1эхъуамбэ; 1эпхъабэ (Shapsug)"
@@ -11443,7 +11449,7 @@
     "instant": "нэгъэуп1эп1эгъу"
   },
   {
-    "to complain": "тхьаусхэн; фэтхьаусыхэн (to complain for); 1оин; фэ1оин (to complain for); гъынэнэн (to whinge, to complain especially in an annoying or persistent manner))"
+    "to complain": "тхьаусхэн; фэтхьаусыхэн (to complain for); (slang) 1оин; (slang) фэ1оин (to complain for); гъынэнэн (to whinge, to complain especially in an annoying or persistent manner))"
   },
   {
     "to curry favor with": "еубзэн"
@@ -15697,10 +15703,10 @@
     "boy": "к1элэц1ык1у (young boy); шъэожъые (rare) (young boy); к1алэ (boy, teenage boy or young man)"
   },
   {
-    "little boy": "к1элэц1ык1у; шъэожъые (rare); к1элэхъуц1ык1у"
+    "little boy": "к1элэц1ык1у; шъэожъые; к1элэхъуц1ык1у"
   },
   {
-    "young boy": "к1элэц1ык1у; шъэожъые (rare); к1элэхъуц1ык1у"
+    "young boy": "к1элэц1ык1у; шъэожъые; к1элэхъуц1ык1у"
   },
   {
     "misfortune": "насып 1ай; бэлахь; тхьамык1агъу; фэмыгъо (misfortune for)"
@@ -16309,16 +16315,16 @@
     "to swing": "гъэсысын"
   },
   {
-    "post": "пкъэу"
+    "post": "пкъэу (column, pole, pillar, post); 1энат1э (post, position, job)"
   },
   {
-    "pole": "пкъэу"
+    "pole": "пкъэу (column, pole, pillar, post)"
   },
   {
-    "pillar": "пкъэу"
+    "pillar": "пкъэу (column, pole, pillar, post)"
   },
   {
-    "column": "пкъэу"
+    "column": "пкъэу (column, pole, pillar, post)"
   },
   {
     "to blow": "епщэн (to blow air)"
@@ -18556,10 +18562,7 @@
     "to act spoiled": "зыгъэнэджэн"
   },
   {
-    "to lose one's way, to go astray, to get lost": "к1охъун"
-  },
-  {
-    "to overlook, to miss": "плъэхъун"
+    "to overlook": "плъэхъун (to fail to see, to overlook, to fail to notice)"
   },
   {
     "to run the wrong way": "чъэхъун"
@@ -18589,7 +18592,7 @@
     "garbage; debris": "хэк1"
   },
   {
-    "to sweep": "пхъэнк1ын"
+    "to sweep": "пхъэнк1эн; пхъэнк1ын (to sweep something)"
   },
   {
     "mast": "пхъэхат1э"
@@ -18676,10 +18679,10 @@
     "post": "1энат1э"
   },
   {
-    "position": "ч1ып1э (spot, position); щытып1э"
+    "position": "ч1ып1э (spot, position); щытып1э; 1энат1э (post, position, job)"
   },
   {
-    "job": "1офы; 1энат1э (post)"
+    "job": "1офы; 1энат1э (post, position, job)"
   },
   {
     "to take away": "къы1ыхын"

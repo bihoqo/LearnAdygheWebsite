@@ -6117,6 +6117,10 @@
           {
             "sentence": "К1алэм ылъакъо к1ипхагъ лъэрычъ '''мылым''' щычъэнэу",
             "translation": "The boy tied ice skate under his feet to run on '''the ice'''."
+          },
+		  {
+            "sentence": "'''Мылыр''' тк1угъэ",
+            "translation": "'''The ice''' melted."
           }
         ]
       }
@@ -20247,8 +20251,8 @@
             "translation": "The boy '''is organizing''' the house."
           },
           {
-            "sentence": "Мы блокхэр '''зэгъафэх'''",
-            "translation": "'''Organize''' these blocks."
+            "sentence": "Мы чырбычхэр '''зэгъафэх'''",
+            "translation": "'''Organize''' these bricks."
           },
           {
             "sentence": "Сиянэ сиджанэхэр '''зигъэфагъэх'''",
@@ -20263,8 +20267,8 @@
             "translation": "We need '''to arrange''' the house for winter."
           },
 		  {
-            "sentence": "Л1ым блокхэр '''зегъафэх'''",
-            "translation": "The man '''sorts''' the blocks."
+            "sentence": "Л1ым чырбычхэр '''зегъафэх'''",
+            "translation": "The man '''sorts''' the bricks."
           },
 		  {
             "sentence": "Пхъэнт1эк1ухэр лъыгъэк1уатэхи '''зэгъафэх'''",
@@ -39505,31 +39509,6 @@
     ],
     "type": "verb",
     "ipa": "ʒaxapχant͡ʃan"
-  },
-  {
-    "word": "пхъэнк1эн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to sweep",
-        "examples": [
-          {
-            "sentence": "Щагум '''сыпхъанк1эу''' сыдэт",
-            "translation": "I am in the yard '''sweeping'''."
-          },
-		  {
-            "sentence": "Л1ыр '''мэпхъанк1э'''",
-            "translation": "The man is '''sweeping'''."
-          }
-        ]
-      }
-    ],
-    "synonyms": [
-      "пхъэнк1ын"
-    ],
-    "shapsug": "пхъэк1эн",
-    "type": "verb",
-    "ipa": "pχant͡ʃʼan"
   },
   {
     "word": "жэхэтхъон",
@@ -90804,12 +90783,12 @@
             "translation": "The pillar '''is displaced'''."
           },
           {
-            "sentence": "Блокит1ур '''зэтекощык1ыгъэх'''",
-            "translation": "The two blocks '''were displaced'''."
+            "sentence": "Чырбычит1ур '''зэтекощык1ыгъэх'''",
+            "translation": "The two bricks '''were displaced [from each other]'''."
           },
           {
             "sentence": "К1алэм ыцэхэр '''зэтекощык1ыгъэх'''",
-            "translation": "The boy's teeth '''were displaced'''."
+            "translation": "The boy's teeth '''were displaced [from each other]'''."
           }
         ]
       }
@@ -100711,8 +100690,8 @@
             "translation": "The boy '''put''' the books '''on each other'''."
           },
 		  {
-            "sentence": "Блокхэр '''зэтесэгъэуцох'''",
-            "translation": "'''I put''' the blocks '''on each other'''."
+            "sentence": "Чырбычхэр '''зэтесэгъэуцох'''",
+            "translation": "'''I put''' the bricks '''on each other'''."
           }
         ]
       }
@@ -115723,11 +115702,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to lose one's way, to go astray, to get lost",
+        "meaning": "to go the go way",
         "examples": [
           {
             "sentence": "К1алэр '''к1охъуи''' гъогур ш1ок1одыгъ",
-            "translation": "The boy '''went astray''' and lost the road."
+            "translation": "The boy '''went the wrong way and''' lost the road."
           }
         ]
       }
@@ -115740,7 +115719,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to overlook, to miss",
+        "meaning": "to overlook, to miss, to fail to see, to fail to notice",
         "examples": []
       }
     ],
@@ -115765,7 +115744,12 @@
     "definitions": [
       {
         "meaning": "to make a slip in speaking; to say something mistakenly",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''1охъугъэ'''",
+            "translation": "The boy '''misspoke'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -115789,11 +115773,29 @@
     "definitions": [
       {
         "meaning": "to bleat",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Мэлыр '''мэ1уае'''",
+            "translation": "The sheep '''bleats'''."
+          }
+        ]
       },
       {
-        "meaning": "to whine; to complain",
-        "examples": []
+        "meaning": "(slang) to whine; to complain",
+        "examples": [
+          {
+            "sentence": "К1алэр '''мэ1уае'''",
+            "translation": "The boy '''whines'''."
+          },
+		  {
+            "sentence": "К1алэр пшъашъэм '''фэ1уае'''",
+            "translation": "The boy '''whines for''' the girl."
+          },
+		  {
+            "sentence": "К1алэр '''1оезэпыт'''",
+            "translation": "The boy '''always whine'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -115811,6 +115813,7 @@
         "examples": []
       }
     ],
+    "shapsug": "хъушъу",
     "type": "noun",
     "ipa": "qʷəʃʷ"
   },
@@ -115840,7 +115843,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "death time, time of death",
+        "meaning": "death time, time of death; alternative form of \"хьадэгъу\"",
         "examples": []
       }
     ],
@@ -115858,14 +115861,23 @@
         "meaning": "to be melted",
         "examples": [
           {
-            "sentence": "мыжъор лавэм хабдзэмэ, мыжъор '''мэтк1ут'''",
+            "sentence": "шэф остыгъыр '''мэтк1у'''",
+            "translation": "the candle '''melts'''."
+          },
+		  {
+            "sentence": "мылыр '''тк1угъэ'''",
+            "translation": "the ice '''melted'''."
+          },
+		  {
+            "sentence": "мылыр тыгъэм хэбылъхьэмэ '''тк1ущт'''",
+            "translation": "if you put ice in the sun '''it will melt'''."
+          },
+		  {
+            "sentence": "мыжъор лавэм хабдзэмэ, мыжъор '''тк1ущт'''",
             "translation": "If you throw the rock on the lava, the rock will melt."
           }
         ]
       }
-    ],
-    "synonyms": [
-      "жъун"
     ],
     "type": "verb",
     "ipa": "tkʷʼən"
@@ -115875,7 +115887,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "garbage; debris",
+        "meaning": "alternative form of \"хэк1ы\"",
         "examples": []
       }
     ],
@@ -115883,14 +115895,43 @@
     "ipa": "xat͡ʃʼ"
   },
   {
-    "word": "пхъэнк1ын",
+    "word": "пхъэнк1эн",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to sweep",
         "examples": [
           {
-            "sentence": "Пшъашъэм джэхашъор '''ыпхъэнкIи''', хэкIыр ритэкъужьыгъ",
+            "sentence": "Щагум '''сыпхъанк1эу''' сыдэт",
+            "translation": "I am in the yard '''sweeping'''."
+          },
+		  {
+            "sentence": "Л1ыр '''мэпхъанк1э'''",
+            "translation": "The man is '''sweeping'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "пхъэнк1ын"
+    ],
+    "shapsug": "пхъэк1эн",
+    "type": "verb",
+    "ipa": "pχant͡ʃʼan"
+  },
+  {
+    "word": "пхъэнк1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to sweep something",
+        "examples": [
+          {
+            "sentence": "К1алэм тхьапэхэр '''епхъэнк1ых'''",
+            "translation": "The boy '''sweeps''' the leaves."
+          },
+		  {
+            "sentence": "Пшъашъэм джэхашъор '''ыпхъэнк1и''', хэк1ыр ритэкъужьыгъ",
             "translation": "The girl '''swept''' the floor, and dropped the debris [in the can]."
           }
         ]
@@ -115899,6 +115940,7 @@
     "synonyms": [
       "пхъэнк1эн"
     ],
+    "shapsug": "пхъэк1эн",
     "type": "verb",
     "ipa": "pχant͡ʃʼən"
   },
@@ -115935,6 +115977,10 @@
             "translation": "'''To come to terms with''' what has happened."
           }
         ]
+      },
+      {
+        "meaning": "to agree with",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -115948,7 +115994,7 @@
         "meaning": "to talk about",
         "examples": [
           {
-            "sentence": "Л1ыхэр 1офым '''къытегущы1эхэу''' зэхэсыхыгъ",
+            "sentence": "Л1ыхэр 1офым '''къытегущы1эхэу''' зэхэсхыгъэх",
             "translation": "I heard the men '''talk about''' the job."
           },
           {
@@ -115986,6 +116032,10 @@
     "definitions": [
       {
         "meaning": "to complicate",
+        "examples": []
+      },
+	  {
+        "meaning": "to make something mixed",
         "examples": []
       }
     ],
@@ -116076,7 +116126,16 @@
     "definitions": [
       {
         "meaning": "master, skillful, skilled, competent",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр а 1офым '''фэкъулай'''",
+            "translation": "The boy '''is skillful''' in that job."
+          },
+		  {
+            "sentence": "Шъузыр дэным '''фэкъулай'''",
+            "translation": "The woman '''is skillful''' with sewing."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -116091,7 +116150,16 @@
     "definitions": [
       {
         "meaning": "master, skillful, skilled, competent",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр а 1офым '''фэ1эпы1ас'''",
+            "translation": "The boy '''is skillful''' in that job."
+          },
+		  {
+            "sentence": "Шъузыр дэным '''фэ1эпы1ас'''",
+            "translation": "The woman '''is skillful''' with sewing."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -116106,7 +116174,16 @@
     "definitions": [
       {
         "meaning": "how to work; way of working; manner of working",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ым '''1офш1ак1э''' еш1э",
+            "translation": "The man knows '''how to work'''."
+          },
+		  {
+            "sentence": "К1алэр '''1офш1ак1эм''' фэкъулай",
+            "translation": "The boy is skillful in the '''manner of working'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -116130,7 +116207,20 @@
     "definitions": [
       {
         "meaning": "brick",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Чырбычхэр''' зэтесэгъэуцох",
+            "translation": "I put the '''bricks''' on each other."
+          },
+          {
+            "sentence": "'''Чырбычит1ур''' зэтекощык1ыгъэх",
+            "translation": "The two '''bricks''' were displaced."
+          },
+          {
+            "sentence": "Мы '''чырбычхэр''' зэгъафэх",
+            "translation": "Organize these '''bricks'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -116251,18 +116341,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to take something from; to take away something from someone; to seize something",
+        "meaning": "to take something from",
         "examples": [
           {
-            "sentence": "Л1ым къэлэмыр к1алэм '''къы1ырехы'''",
-            "translation": "The man '''seizes''' the pencil from the boy."
-          },
-          {
-            "sentence": "К1элэц1ык1ум шъэжъыер джыдэдэм '''къы1эх'''",
-            "translation": "'''Take''' the knife '''away from''' the child's '''hands''' right away."
-          },
-          {
-            "sentence": "К1алэм уатэр иятэ '''къы1ырихыгъ''' лэжьэнэу",
+            "sentence": "К1алэм уатэр ыятэ '''къы1ырихыгъ''' лэжьэнэу",
             "translation": "The boy '''took''' the hammer from his father to work."
           },
           {
@@ -116306,6 +116388,19 @@
             "translation": "'''What''' the boy '''took from us''' is worthless."
           }
         ]
+      },
+	  {
+        "meaning": "to take away something from someone; to seize something",
+        "examples": [
+          {
+            "sentence": "Л1ым къэлэмыр к1алэм '''къы1ырехы'''",
+            "translation": "The man '''seizes''' the pencil from the boy."
+          },
+          {
+            "sentence": "К1элэц1ык1ум шъэжъыер джыдэдэм '''къы1эх'''",
+            "translation": "'''Take''' the knife '''away from''' the child's '''hands''' right away."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -116328,8 +116423,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "material for dresses",
-        "examples": []
+        "meaning": "material for dresses/clothes",
+        "examples": [
+          {
+            "sentence": "'''Джэнэпхъэ''' къэсщэфыгъ",
+            "translation": "I bought '''material for clothes'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -116341,11 +116441,56 @@
     "definitions": [
       {
         "meaning": "thong (leather)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Шъодэнк1э''' сыдыгъ",
+            "translation": "I sewed a '''thong'''."
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "ʃʷadənə"
+  },
+  {
+    "word": "цокъапэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "tip of the shoe",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃʷaqaːpa"
+  },
+  {
+    "word": "лъапэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "goatskin bag",
+        "examples": []
+      },
+	  {
+        "meaning": "paw",
+        "examples": []
+      }
+	  {
+        "meaning": "toe (of a foot or hoof; especially the tip of the toe)",
+        "examples": []
+      },
+	  {
+        "meaning": "toe (of a boot, shoe or sock)",
+        "examples": []
+      },
+	  {
+        "meaning": "the tip of a trouser",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ɬaːpa"
   },
   {
     "word": "пчэнышъо",
@@ -116376,11 +116521,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "boy",
+        "meaning": "young boy; kid",
         "examples": [
           {
-            "sentence": "'''шъэожъыем''' бзэджэныр ишэн",
+            "sentence": "'''Шъэожъыем''' бзэджэныр ишэн",
             "translation": "It is the '''boy's''' behavior to get naughty."
+          },
+		  {
+            "sentence": "Гъазет къыхьынэу '''шъэожъыер''' л1ым ы1офытагъ",
+            "translation": "The man sent the '''kid''' to bring a newspaper."
           }
         ]
       }
@@ -116481,7 +116630,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"блехын\"",
+        "meaning": "to miss (to fail to hit)",
         "examples": []
       }
     ],
@@ -116493,13 +116642,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to take (someone) from one place to another",
+        "meaning": "to take/lead (someone) across; to take/lead (someone) past",
         "examples": [
           {
-            "sentence": "К1алэр кум къырамыгъэкIэу яунэ '''блащыгъ'''",
-            "translation": "Without letting the boy go, they '''went pass''' his house."
+            "sentence": "К1алэм ныор гъогум '''блищыгъ'''",
+            "translation": "The boy '''led''' the old-woman '''past''' the road."
           }
         ]
+      },
+	  {
+        "meaning": "to take (someone) from one place to another",
+        "examples": []
       }
     ],
     "type": "verb",
