@@ -7784,7 +7784,12 @@
     "definitions": [
       {
         "meaning": "a dead body, corpse",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Хьадэр''' пхъэмбаим далъхьагъ",
+            "translation": "They put '''the corpse''' into the coffin."
+          }
+        ]
       }
     ],
     "kabardian": "хьэдэ",
@@ -15801,6 +15806,10 @@
 		  {
             "sentence": "щым '''уанэ''' л1ым трелъхьэ",
             "translation": "The man puts '''saddle''' on the horse."
+          },
+		  {
+            "sentence": "Шык1элъым ык1ы1у '''уанэр''' тыралъхьэ",
+            "translation": "They put the '''saddle''' on the surface of the saddle-cloth."
           }
         ]
       }
@@ -21942,7 +21951,7 @@
     "ipa": "ʃəfan"
   },
   {
-    "word": "тефэхьан",
+    "word": "тефыхьан",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -118717,15 +118726,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to drop liquid into something",
+        "meaning": "to drop liquid into something; to drip water into",
         "examples": [
           {
-            "sentence": "К1алэм пшъашъэм ытхьак1умэ псы фабэ т1эк1у '''дигъатк1о'''",
-            "translation": "The boy is '''dropping''' little hot water '''into''' the girl's ear."
+            "sentence": "Пшъашъэм к1элэц1ык1ум ытхьак1умэ псы фабэ т1эк1у '''дигъатк1о'''",
+            "translation": "The girl is '''dropping''' little hot water '''into''' the little boy's ear."
           },
           {
             "sentence": "Тхьак1умэм '''дэгъатк1у'''",
-            "translation": "'''Drop''' (some liquid) '''into''' the ear."
+            "translation": "'''Drip into''' the ear."
           }
         ]
       }
@@ -118751,7 +118760,16 @@
     "definitions": [
       {
         "meaning": "coffin",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Хьадэр '''пхъэмбаим''' далъхьагъ",
+            "translation": "They put the corpse into the '''coffin'''."
+          },
+		  {
+            "sentence": "Дракулэ '''пхъэмбаим''' дэгъолъхьэ",
+            "translation": "Dracula lies down inside the '''coffin'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -118765,8 +118783,12 @@
         "meaning": "to hide something in",
         "examples": [
           {
-            "sentence": "К1алэм шагум джэгуалъэр '''дегъэбылъхьэ'''",
+            "sentence": "К1алэм щагум джэгуалъэр '''дегъэбылъхьэ'''",
             "translation": "The boy '''is hiding''' the toy in the yard."
+          },
+		  {
+            "sentence": "К1алэм сыхьатыр дэгъэчъым '''дигъэбылъхьагъ'''",
+            "translation": "The boy '''hided''' the watch '''inside''' the drawer."
           }
         ]
       }
@@ -118780,7 +118802,12 @@
     "definitions": [
       {
         "meaning": "to reduce a debt or a punishment",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ахъщэ сы1ыгъэп, т1эк1у '''къэсфэдэбгъэзышъущта'''?",
+            "translation": "I don't have a lot of money, '''can you reduce it''' a bit?"
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -118815,12 +118842,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to shake out",
-        "examples": []
-      },
-      {
-        "meaning": "to agitate a piece of cloth or other flexible material in order to remove dust, or to try to make it smooth and flat",
-        "examples": []
+        "meaning": "to shake out; to agitate a piece of cloth or other flexible material in order to remove dust, or to try to make it smooth and flat",
+        "examples": [
+          {
+            "sentence": "К1алэм алырэгъур '''еутхыпк1ы'''",
+            "translation": "The boy '''shakes out''' the carpet."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -118934,11 +118962,16 @@
     "definitions": [
       {
         "meaning": "copper boiler",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''лэгъупэм''' псы еск1агъ",
+            "translation": "I spilled water into the '''boiler'''."
+          }
+        ]
       }
     ],
     "type": "noun",
-    "ipa": "laʁʷəp"
+    "ipa": "ɮaʁʷəp"
   },
   {
     "word": "къошын",
@@ -118946,19 +118979,81 @@
     "definitions": [
       {
         "meaning": "jug, pitcher",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Къошыным''' псы ит",
+            "translation": "There is water in the '''jug'''."
+          },
+		  {
+            "sentence": "Щэ '''къош'''",
+            "translation": "Milk '''jug'''."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "qʷaʃən"
   },
   {
-    "word": "пхъэчай",
+    "word": "ошъадэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "tub, vat",
+        "meaning": "kurgan; mound",
         "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "waʂaːda"
+  },
+  {
+    "word": "къоепсы",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "whey; buttermilk",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "qʷajapsə"
+  },
+  {
+    "word": "къундысыу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "boiled, cooled or fermented whey with milk",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "qʷəndəsəw"
+  },
+  {
+    "word": "шхынылъ",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "a tool that is used to contain food; a food container",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃxənəɬ"
+  },
+  {
+    "word": "пхъэчай",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "barrel; cask",
+        "examples": [
+		  {
+            "sentence": "'''Пхъэчаим''' псы изэу ит",
+            "translation": "'''The barrel''' is filled in water."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -118969,12 +119064,29 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "tub, vat",
+        "meaning": "cask; barrel",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "t͡ʃʼaːd"
+  },
+  {
+    "word": "шык1элъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "shabrack, saddle-cloth",
+        "examples": [
+          {
+            "sentence": "'''Шык1элъым''' ык1ы1у уанэр тыралъхьэ",
+            "translation": "They put the saddle on the surface of the '''saddle-cloth'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃət͡ʃʼaɬ"
   },
   {
     "word": "шык1адзэ",
@@ -119005,7 +119117,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "felt",
+        "meaning": "thick felt",
         "examples": []
       }
     ],
@@ -119034,7 +119146,12 @@
       },
       {
         "meaning": "to push with might",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ыр кум '''е1эн''' е1о",
+            "translation": "The man is trying '''to push''' the cart."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -119046,25 +119163,24 @@
     "definitions": [
       {
         "meaning": "edge",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Лэгъэ '''цак1эр''' гоутыгъ",
+            "translation": "The '''edges''' of the plate are broken."
+          },
+		  {
+            "sentence": "К1алэм хьалыгъум ыцак1эхэр гъэстыгъэу ик1ас",
+            "translation": "The boy like the '''edges''' of the bread to be burned."
+          }
+        ]
       }
     ],
-    "kabardian": "нэз",
+    "synonyms": [
+      "нэз"
+    ],
+    "shapsug": "цак1ьэ",
     "type": "noun",
     "ipa": "t͡saːt͡ʃʼa"
-  },
-  {
-    "word": "цак1ьэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"цак1э\"",
-        "examples": []
-      }
-    ],
-    "kabardian": "нэз",
-    "type": "noun",
-    "ipa": "t͡saːkʲʼa"
   },
   {
     "word": "къэц1этхын",
@@ -119097,14 +119213,14 @@
       }
     ],
     "synonyms": [
-      "тефэхьан",
+      "тефыхьан",
       "щыфэн"
     ],
     "type": "verb",
     "ipa": "tajt͡sʼaɮan"
   },
   {
-    "word": "тефэхьан",
+    "word": "тефыхьан",
     "lang": "Adyghe",
     "definitions": [
       {

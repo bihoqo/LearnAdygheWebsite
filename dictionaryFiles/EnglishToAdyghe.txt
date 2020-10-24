@@ -1584,7 +1584,13 @@
     "sheath": "п1э"
   },
   {
-    "carpet": "чылмэ; алырэгъу; нэмаздэкъ (carpet for prayers)"
+    "whey": "къоепсы"
+  },
+  {
+    "buttermilk": "къоепсы"
+  },
+  {
+    "carpet": "алырэгъу; нэмаздэкъ (carpet for prayers); чылмэ"
   },
   {
     "balance (tool)": "шэчалъ"
@@ -1638,10 +1644,19 @@
     "tough": "къэпы"
   },
   {
+    "barrel": "шъондыр; пхъэчай; к1ад"
+  },
+  {
+    "cask": "шъондыр; пхъэчай; к1ад"
+  },
+  {
     "rotten wood": "къэпы"
   },
   {
     "mount": "1уашъхьэ"
+  },
+  {
+    "mound": "1уашъхьэ; ошъадэ"
   },
   {
     "hill": "1уашъхьэ"
@@ -2418,10 +2433,10 @@
     "needle": "мастэ; куцэ (needle for knitting)"
   },
   {
-    "pill": "уцы; 1эзэгъу уц"
+    "pill": "уцы; 1эзэгъу уц; уцы такъыр"
   },
   {
-    "drug": "уцы; 1эзэгъу уц"
+    "drug": "уцы; 1эзэгъу уц; уцы такъыр"
   },
   {
     "zebra": "шыдкъолэн; шыкъолэн"
@@ -14068,7 +14083,7 @@
     "earthquake": "ч1ыгусысыныгъ"
   },
   {
-    "to shake": "сысын; гъэсысын (to shake something); гъэшк1олъэн (to shake a liquid in a container); зэзэн; гъэзэзэн (to shake something); зыгъэзэзэн (to shake oneself); тхытхын (to shiver, to tremble); к1эзэзын (to shiver, to tremble)"
+    "to shake": "сысын; гъэсысын (to shake something); гъэшк1олъэн (to shake a liquid in a container); зэзэн; гъэзэзэн (to shake something); зыгъэзэзэн (to shake oneself); тхытхын (to shiver, to tremble); к1эзэзын (to shiver, to tremble); утхыпк1ын (to agitate a piece of cloth or other flexible material in order to remove dust, or to try to make it smooth and flat)"
   },
   {
     "cave": "гъоч1эгъ"
