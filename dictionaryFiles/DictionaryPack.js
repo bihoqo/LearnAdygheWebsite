@@ -7967,7 +7967,13 @@
     "definitions": [
       {
         "meaning": "roof",
-        "examples": []
+        "examples": [
+          ,
+		  {
+            "sentence": "'''Унашъхьэм''' сыкъехышъурэп",
+            "translation": "I can't get down from '''the roof'''."
+          }
+        ]
       }
     ],
     "kabardian": "унащхьэ",
@@ -37199,7 +37205,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to go down",
+        "meaning": "to go down; to get down",
         "examples": [
           {
             "sentence": "'''ех'''",
@@ -37212,8 +37218,24 @@
           {
             "sentence": "л1ыр '''къехы''' къэтщыхьанэу",
             "translation": "The man '''is coming down''' to yell at us."
+          },
+		  {
+            "sentence": "Унашъхьэм '''сыкъехышъурэп''', сэщынэ, сыкъепщэхышъущта?",
+            "translation": "'''I can't get down from''' the roof, I am scared, can you take me down?"
           }
         ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "jaxə"
+  },
+  {
+    "word": "къехын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"ехын\"",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -40693,6 +40715,10 @@
           {
             "sentence": "Хатэм '''щыджэгу'''",
             "translation": "'''Play''' in the garden."
+          },
+		  {
+            "sentence": "К1элэц1ык1ухэр ос 1ашк1эк1э '''мэджэгух'''",
+            "translation": "The children '''are playing''' with snowballs."
           }
         ]
       },
@@ -41479,6 +41505,10 @@
 		  {
             "sentence": "Пшъагъэр '''щыни''', чъэк1ыгъэ",
             "translation": "The girl '''got scared''' and turned pale."
+          },
+		  {
+            "sentence": "Унашъхьэм сыкъехышъурэп, '''сэщынэ''', сыкъепщэхышъущта?",
+            "translation": "I can't get down from the roof, '''I am scared''', can you take me down?"
           }
         ]
       },
@@ -49683,6 +49713,10 @@
 		  {
             "sentence": "К1алэм сызпигъэплъагъ щыгъын '''щилъэфэ'''",
             "translation": "The boy made me wait for himself '''until he wore''' clothes."
+          },
+		  {
+            "sentence": "К1алэм уахътэ бэ регъэжьы джанэ '''зыщилъэфэ'''",
+            "translation": "The boy is taking a lot of time '''until he wears''' clothes."
           }
         ]
       }
@@ -76149,6 +76183,19 @@
 		  {
             "sentence": "Сыхьатныкъок1э '''сыкъэсыщт'''",
             "translation": "'''I will arrive''' in half an hour."
+          }
+        ]
+      },
+	  {
+        "meaning": "to reach; alternative form of \"нэсын\"",
+        "examples": [
+          {
+            "sentence": "Унэр лъхъанчэ, сшъхьэ к1ашъом '''къэсы'''",
+            "translation": "The house is low, my head '''reaches''' the ceiling."
+          },
+		  {
+            "sentence": "С1э ремотым '''къэсырэп'''",
+            "translation": "My hand '''does not reach''' the remote."
           }
         ]
       }
@@ -117856,16 +117903,17 @@
             "translation": "The young man '''is enjoying''' beer."
           },
           {
-            "sentence": "Сычъэным '''сыхэтхъык1'''",
-            "translation": "'''I enjoy''' running."
+            "sentence": "Сычъэным '''сыхэтхъык1ырэп'''",
+            "translation": "'''I do not enjoy''' running."
           },
           {
-            "sentence": "Спортым '''сыхэтхъык1ырэп'''",
-            "translation": "'''I do not enjoy''' sports."
+            "sentence": "Спортым '''сыхэтхъык1ы'''",
+            "translation": "'''I enjoy''' sports."
           }
         ]
       }
     ],
+    "shapsug": "хэтхъык1ьын",
     "type": "verb",
     "ipa": "xatχat͡ʃʼən"
   },
@@ -117874,18 +117922,22 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to make someone sit down on; ",
+        "meaning": "to make someone sit down on",
         "examples": [
           {
-            "sentence": "К1элэц1ык1ухэр '''атегъэт1ысхьэх''' пхъэнт1эк1ухэмэ",
+            "sentence": "Л1ым шъаор шым '''тегъэт1ысхьагъ'''",
+            "translation": "The man '''sit''' the boy '''on''' the horse."
+          },
+		  {
+            "sentence": "К1элэц1ык1ухэр '''атегъэт1ысхьах''' пхъэнт1эк1ухэмэ",
             "translation": "'''Sit''' the children '''down on''' the chairs."
           },
           {
-            "sentence": "'''тэгъэт1ысхь'''",
-            "translation": "'''Make him sit'''."
+            "sentence": "'''Тегъэт1ысхь'''",
+            "translation": "'''Make him sit on it'''."
           },
           {
-            "sentence": "к1алэр '''тэгъэт1ысхь''' шым",
+            "sentence": "К1алэр '''тегъэт1ысхь''' шым",
             "translation": "'''Sit''' the boy on the horse."
           }
         ]
@@ -117902,7 +117954,7 @@
         "meaning": "like; similar",
         "examples": [
           {
-            "sentence": "А к1алэр ащ лъэшэу ехьщыр",
+            "sentence": "А к1алэр ащ лъэшэу '''ехьщыр'''",
             "translation": "The boy is very '''similar''' to him."
           }
         ]
@@ -117916,39 +117968,36 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to drizzle; to be dripping (sticky substances like honey, cake and color liquid)",
-        "examples": []
+        "meaning": "to drizzle (said about oil, honey, coloring liquids and sticky substances alike)",
+        "examples": [
+          {
+            "sentence": "Шъор '''мэт1ат1э'''",
+            "translation": "Honey '''is drizzling'''"
+          },
+		  {
+            "sentence": "Шъор джэхашъом '''ет1эт1эхы'''",
+            "translation": "Honey '''is drizzling down''' on the floor"
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "tʼatʼan"
   },
   {
-    "word": "тэт1эт1эн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"тет1эт1эн\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "tatʼatʼan"
-  },
-  {
     "word": "тегъэт1эт1эн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to drip (sticky substance) on",
+        "meaning": "to drizzle on; to drip (sticky substance) on",
         "examples": [
           {
             "sentence": "Шхынэр '''темыгъэт1ат1эу''' шхы.",
-            "translation": "Eat without '''dripping''' the food."
+            "translation": "Eat without '''drizzling''' the food."
           },
           {
             "sentence": "К1элэц1ык1ум шъоур '''тегъэт1ат1э''' ч1ыгум.",
-            "translation": "The little kid '''spills a bit of''' honey on the floor."
+            "translation": "The little kid '''drizzles''' honey on the floor."
           },
           {
             "sentence": "Ушхырэм нахь бэ уиджанэ '''тебэгъэт1ат1э'''.",
@@ -117960,7 +118009,7 @@
           },
           {
             "sentence": "К1элэц1ык1ур шъоу ихьалыгъу '''трегъэт1ат1э'''.",
-            "translation": "The little boy '''drizzles''' honey on his bread."
+            "translation": "The little boy '''drizzles''' honey onto his bread."
           }
         ]
       }
@@ -118005,12 +118054,12 @@
         "meaning": "to deliver to, to send to",
         "examples": [
           {
-            "sentence": "К1алэм письмо тхи пшъашъэм '''фигъэхьыгъ'''",
-            "translation": "The boy wrote a letter and '''sent''' it to the girl."
+            "sentence": "К1алэм тхьапэ ытхи пшъашъэм '''фигъэхьыгъ'''",
+            "translation": "The boy wrote a letter and '''sent it to''' the girl."
           },
           {
             "sentence": "Джэуап '''угъэхьыжьыгъа?'''",
-            "translation": "'''Did you send''' a response?"
+            "translation": "'''Did you send''' a reply?"
           }
         ]
       },
@@ -118019,7 +118068,7 @@
         "examples": [
           {
             "sentence": "К1алэм уатэр '''къезгъэхьыщт'''",
-            "translation": "'''I will make''' the boy '''bring''' hammer."
+            "translation": "'''I will make''' the boy '''bring''' the hammer."
           }
         ]
       }
@@ -118056,8 +118105,12 @@
             "translation": "(S)he '''pours''' water into the flowers."
           },
           {
-            "sentence": "К1алэм ч1ыгум '''тегъэц1ырэ'''",
-            "translation": "The boy is '''spraying''' on the group."
+            "sentence": "К1алэм псы ч1ыгум '''тегъэц1ырэ'''",
+            "translation": "The boy is '''spraying''' water on the group."
+          },
+          {
+            "sentence": "Псы '''къэстебэгъэц1ырэ'''",
+            "translation": "'''You are spraying''' water '''on''' me."
           }
         ]
       }
@@ -118066,30 +118119,18 @@
     "ipa": "tajʁat͡sʼəran"
   },
   {
-    "word": "гъэкьэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"гъэчэн\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "ʁakʲan"
-  },
-  {
     "word": "гъэшъыхъыгъ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "low; lowered",
+        "meaning": "low; lowered (of less than normal height, below the average or normal level from which elevation is measured)",
         "examples": [
           {
-            "sentence": "1анэр нахь '''гъэшъхъыгъэу''' ш1ы",
+            "sentence": "1анэр нахь '''гъэшъыхъыгъэу''' ш1ы",
             "translation": "Make the table more '''low'''."
           },
           {
-            "sentence": "1анэр '''гъэшъхъыгъ'''",
+            "sentence": "1анэр '''гъэшъыхъыгъ'''",
             "translation": "The table '''is low'''."
           }
         ]
@@ -118106,7 +118147,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "low",
+        "meaning": "low; lowered (of less than normal height, below the average or normal level from which elevation is measured)",
         "examples": [
           {
             "sentence": "1анэр нахь '''лъхъанчэу''' ш1ы",
@@ -118117,8 +118158,12 @@
             "translation": "The table '''is low'''."
           },
           {
-            "sentence": "пхъэнт1эк1у '''лъхъанчэ''' ышIыгъ",
+            "sentence": "пхъэнт1эк1у '''лъхъанчэ''' ыш1ыгъ",
             "translation": "He made a '''low''' chair."
+          },
+          {
+            "sentence": "унэр '''лъхъанчэ''', сшъхьэ к1ашъом къэсышъу",
+            "translation": "The house '''is low''', my head can reach the ceiling."
           }
         ]
       }
@@ -118143,6 +118188,10 @@
           {
             "sentence": "'''Зежъугъэх'''",
             "translation": "'''Lower yourselves'''."
+          },
+          {
+            "sentence": "1анэм ы1этыгъагъэ т1эк1у '''къегъэх'''",
+            "translation": "'''Lower''' the table's height a bit."
           }
         ]
       }
@@ -118161,7 +118210,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to lower something",
+        "meaning": "to release and lower something",
         "examples": []
       }
     ],
@@ -118213,11 +118262,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to take someone downward (to a lower elevation)",
+        "meaning": "to take/lead someone downward (to a lower elevation)",
         "examples": [
           {
             "sentence": "Тучаным '''ещэх''' к1алэр",
             "translation": "'''Take''' the boy to the shop (in case the shop is in a lower elevation)."
+          },
+		  {
+            "sentence": "Унашъхьэм сыкъехышъурэп, сэщынэ, '''сыкъепщэхышъущта'''?",
+            "translation": "I can't get down from the roof, I am scared, '''can you take me down'''?"
           }
         ]
       }
@@ -118231,7 +118284,12 @@
     "definitions": [
       {
         "meaning": "to freeze, to congeal",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "чъы1эм '''ыгъэдыкъын'''",
+            "translation": "'''To freeze''' with cold."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -118246,6 +118304,7 @@
         "examples": []
       }
     ],
+    "shapsug": "еук1ьын",
     "type": "verb",
     "ipa": "jawət͡ʃʼən"
   },
@@ -118282,11 +118341,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "staircase",
+        "meaning": "(Shapsug) staircase",
         "examples": []
       },
       {
-        "meaning": "ladder",
+        "meaning": "(Shapsug) ladder",
         "examples": []
       }
     ],
@@ -118303,19 +118362,29 @@
     "definitions": [
       {
         "meaning": "last time; previously",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Ыпэрэгъум''' мы фылымыр тызеплъыгъэр",
+            "translation": "'''Last time''' this is the movie we saw."
+          }
+        ]
       }
     ],
     "type": "adv",
     "ipa": "jəparaʁʷəm"
   },
   {
-    "word": "къа1орэгъум",
+    "word": "къэк1орэгъум",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "next time",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Къэк1орэгъум''' мы фылымыр тызеплъыщтыр",
+            "translation": "'''Next time''' this is the movie we will watch."
+          }
+        ]
       }
     ],
     "type": "adv",
@@ -118327,7 +118396,12 @@
     "definitions": [
       {
         "meaning": "last time; previously",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Ыпэгъум''' мы фылымыр тызеплъыгъэр",
+            "translation": "'''Last time''' this is the movie we saw."
+          }
+        ]
       }
     ],
     "type": "adv",
@@ -118351,7 +118425,12 @@
     "definitions": [
       {
         "meaning": "next time",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Къэк1огъум''' мы фылымыр тызеплъыщтыр",
+            "translation": "'''Next time''' this is the movie we will watch."
+          }
+        ]
       }
     ],
     "type": "adv",
@@ -118379,6 +118458,7 @@
       "пскэн",
       "пчэн"
     ],
+    "shapsug": "пскэн",
     "type": "verb",
     "ipa": "pst͡ʃan"
   },
@@ -118404,6 +118484,7 @@
       "пскэн",
       "псчэн"
     ],
+    "shapsug": "пскэн",
     "type": "verb",
     "ipa": "pt͡ʃan"
   },
@@ -118425,11 +118506,37 @@
     "definitions": [
       {
         "meaning": "long time",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Мэфэл''' емыгъэхьэу къак1у",
+            "translation": "Come without taking '''a long time'''."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "mafaɮ"
+  },
+  {
+    "word": "уахътэ егъэхьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "long time",
+        "examples": [
+          {
+            "sentence": "'''Уахътэ''' бащэ '''емыгъэхьэу''' къак1у",
+            "translation": "Come without '''taking''' a lot of '''time'''."
+          },
+		  {
+            "sentence": "К1алэм '''уахътэ''' бэ '''регъэжьы''' джанэ зыщилъэфэ",
+            "translation": "The boy '''is taking''' a lot of '''time''' until he wears clothes."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "waːχta jaʁahəμ"
   },
   {
     "word": "ехьыжьэн",
@@ -118441,7 +118548,16 @@
       },
       {
         "meaning": "to start a trend",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Хабзэ горэ '''къехьыжьэн'''",
+            "translation": "'''To start''' some tradition."
+          },
+		  {
+            "sentence": "К1алэр спорт ыш1эу '''къырехьыжьагъ'''",
+            "translation": "The boy '''started''' to do sports."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -118489,7 +118605,12 @@
     "definitions": [
       {
         "meaning": "wonder",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Ш1агъо''' горэ сылъэгъугъ",
+            "translation": "I saw some '''wonder''''."
+          }
+        ]
       },
       {
         "meaning": "wonderful, marvelous",
@@ -118500,12 +118621,35 @@
     "ipa": "ʃʼaːʁʷa"
   },
   {
+    "word": "ос1ашк1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "snowball",
+        "examples": [
+          {
+            "sentence": "к1элэц1ык1ухэр '''ос 1ашк1эк1э''' мэджэгух",
+            "translation": "The children are playing '''with snowballs'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "wasʔaːʃt͡ʃʼ"
+  },
+  {
+  {
     "word": "1ашк1",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "clod",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "осы 1ашк1",
+            "translation": "snowball."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -118516,8 +118660,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to examine, to check, to verify, to test",
-        "examples": []
+        "meaning": "to try, to examine, to check, to verify, to test",
+        "examples": [
+          {
+            "sentence": "К1алэм шхыныр '''еушэты'''",
+            "translation": "The boy '''tries''' the food."
+          },
+		  {
+            "sentence": "Кур '''сэушэты'''",
+            "translation": "'''I am testing''' the car."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -118533,6 +118686,27 @@
       {
         "meaning": "to dam, to dam up",
         "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "d͡ʒʷan"
+  },
+  {
+    "word": "гъэ1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to open (umbrella, tent); to raise (flag)",
+        "examples": [
+          {
+            "sentence": "К1алэм щамсыир '''егъэ1э'''",
+            "translation": "The boy '''opens''' the umbrella."
+          },
+		  {
+            "sentence": "К1алэм быракъыр '''егъэ1э'''",
+            "translation": "The boy '''raises''' the flag."
+          }
+        ]
       }
     ],
     "type": "verb",

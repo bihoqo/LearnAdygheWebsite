@@ -1914,7 +1914,7 @@
     "necklace": "жэгъуч1элъ; (dialectal) джэгъуч1элъ"
   },
   {
-    "umbrella": "щэтыр, щамсый"
+    "umbrella": "щэтыр; щамсый"
   },
   {
     "fog": "пщагъо"
@@ -2151,7 +2151,10 @@
     "to sell": "щэн; щыщэн (to sell in a certain place)"
   },
   {
-    "to take": "щэн (to take/lead someone to somewhere); хьын (to take/carry something to somewhere); штэн / къэштэн (to grab something to take); ш1охьын (to take something from someone against his interest or will); 1ыхын / къы1эхын (to take something from someone by hand); техын / къытехын (to take off something from above something); ч1эхын / къыч1эхын (to take something from under something); дэхын / къыдэхын (to take something from inside another object); ихын / къыихын (to take something from inside something); пыхын / къыпыхын (to take down from a hanging position, to unhang); хэхын / къыхэхын (to take something from through something or from an area with gas or liquid); къохын / къыкъохын (to take something from behind something); гохын / къыгохын / бгъодэхын / къыбгъодэхын (to take something from besides something); к1оц1ыхын / къык1оц1ыхын (to take something from inside something's body); тещэн (to take/lead someone to above something); хэщэн (to take/lead someone to among other people or objects); хэщэн (to take/lead someone to an area liquid, gas, plants or trees); дэщэн (to take/lead someone to a yard); ищэн (to take/lead someone to inside something); къощэн (to take/lead someone to behind something); пыхын (to take something like knowledge, behavior from someone); дэщэен (to lead/take someone up); ещэхын (to lead/take someone down); къещэк1ын (to take/lead someone around); ещэл1эн (to take someone to, to lead someone to); дэхьыен (to take upwards, to take up, to carry upwards, to carry up); блэщын (to take/lead (someone) across, to take/lead (someone) past)"
+    "to take": "щэн (to take/lead someone to somewhere); хьын (to take/carry something to somewhere); штэн / къэштэн (to grab something to take); ш1охьын (to take something from someone against his interest or will); 1ыхын / къы1эхын (to take something from someone by hand); техын / къытехын (to take off something from above something); ч1эхын / къыч1эхын (to take something from under something); дэхын / къыдэхын (to take something from inside another object); ихын / къыихын (to take something from inside something); пыхын / къыпыхын (to take down from a hanging position, to unhang); хэхын / къыхэхын (to take something from through something or from an area with gas or liquid); къохын / къыкъохын (to take something from behind something); гохын / къыгохын / бгъодэхын / къыбгъодэхын (to take something from besides something); к1оц1ыхын / къык1оц1ыхын (to take something from inside something's body); тещэн (to take/lead someone to above something); хэщэн (to take/lead someone to among other people or objects); хэщэн (to take/lead someone to an area liquid, gas, plants or trees); дэщэн (to take/lead someone to a yard); ищэн (to take/lead someone to inside something); къощэн (to take/lead someone to behind something); пыхын (to take something like knowledge, behavior from someone); дэщэен (to lead/take someone up); ещэхын (to lead/take someone down); къещэк1ын (to take/lead someone around); ещэл1эн (to take someone to, to lead someone to); дэхьыен (to take upwards, to take up, to carry upwards, to carry up); блэщын (to take/lead (someone) across, to take/lead (someone) past); уахътэ егъэхьын (to take time)"
+  },
+  {
+    "to take time": "уахътэ егъэхьын"
   },
   {
     "to grasp": "къэубытын (to take hold, to grib, to grasp, to catch and hold, to grab by catching); зы1эк1эубытэн; зэхэш1ык1ын (to comprehend; to understand or grasp fully and thoroughly)"
@@ -2166,10 +2169,13 @@
     "to grab": "штэн / къэштэн (to take and grab from something); къэубытын (to take hold, to grib, to grasp, to catch and hold, to grab by catching); зы1эк1эубытэн"
   },
   {
-    "to hold": "1ыгъэн; къэубытын (to take hold, to grib, to grasp, to catch and hold, to grab by catching)
+    "to hold": "1ыгъэн; къэубытын (to take hold, to grib, to grasp, to catch and hold, to grab by catching)"
   },
   {
     "to keep": "1ыгъэн"
+  },
+  {
+    "snowball": "ос1ашк1"
   },
   {
     "to seize": "къытехын (to capture from, to overtake from, to seize from, to deliberately take from); 1ыхын / къы1ыхын (to seize an item/object from someone); ш1оубытын (to seize something against the other's will or interest); къы1эпхъотэн / къыш1опхъотэн (to snatch from someone, to attempt to seize something from someone suddenly)"
@@ -4317,7 +4323,7 @@
     "to touch": "нэсын; те1эн (to touch with hand); те1эбэн (to reach out and touch something with the hand); е1эн (to touch with hand); те1эбыхьан (to touch all over something)"
   },
   {
-    "to reach": "нэсын (to successfully reach); лъы1эбэн / лъы1эсын (to attempt to reach, to reach out one's hand toward something); нэ1эбэсын (to successful reach with the hands or legs)"
+    "to reach": "нэсын / къэсын (to successfully reach); лъы1эбэн / лъы1эсын (to attempt to reach, to reach out one's hand toward something); нэ1эбэсын (to successful reach with the hands or legs)"
   },
   {
     "to arrive": "къэсын"
@@ -8374,7 +8380,10 @@
     "to assembly.": "зэхэхын"
   },
   {
-    "to go down": "ехын; дехын (to go down with)"
+    "to go down": "ехын / къехын; дехын (to go down with)"
+  },
+  {
+    "to get down": "ехын / къехын; дехын (to get down with)"
   },
   {
     "to give birth": "къэхьын; лъфэн / къылъфын"
@@ -12430,7 +12439,7 @@
     "to try out": "уплъэк1ун"
   },
   {
-    "to try": "1он (to try to do something); уплъэк1ун (to try out something)"
+    "to try": "1он (to try to do something); уплъэк1ун (to try out something); ушэтын (to try, to examine, to check, to verify, to test)"
   },
   {
     "to attempt": "1он"
@@ -18808,7 +18817,7 @@
     "to spray": "гъэц1ырэн (to spray burst liquid on to usually from a pile); тегъэц1ырэн (to spray liquid on)"
   },
   {
-    "low": "гъэшъыхъыгъ; лъхъанчэ; мылъагэ; мак1э (low price, low in amount)"
+    "low": "гъэшъыхъыгъ / лъхъанчэ (of less than normal height, below the average or normal level from which elevation is measured); мылъагэ; мак1э (low price, low in amount)"
   },
   {
     "lowered": "гъэшъыхъыгъ"
