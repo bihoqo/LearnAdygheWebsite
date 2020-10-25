@@ -7298,6 +7298,10 @@
 		  {
             "sentence": "Шак1ом '''к1эрахъор''' тхьак1умк1ыхьэм фигъэзагъ",
             "translation": "The hunter pointed '''the gun''' toward the rabbit."
+          },
+		  {
+            "sentence": "Л1ым '''к1эрахъок1э''' къеохи пыл1ык1ыгъ",
+            "translation": "They shot the '''man with a gun''' and he died from bleeding."
           }
         ]
       },
@@ -81792,6 +81796,10 @@
 		  {
             "sentence": "Кур гъогумк1э къэстелъади '''сеуал1э''' пэтыгъ",
             "translation": "The car came toward me and '''I''' almost '''collided against it'''."
+          },
+		  {
+            "sentence": "Кумк1э л1ыр пкъэум '''еуал1эм''', пкъэур ыгъэщыгъ",
+            "translation": "When the man '''collided against''' the pillar with the car, he twisted the pillar."
           }
         ]
       }
@@ -89778,6 +89786,10 @@
 		  {
             "sentence": "'''Пкъэур''' тегъэкощык1ыгъ",
             "translation": "'''The pillar''' is displaced."
+          },
+		  {
+            "sentence": "Л1ыр '''пкъэум''' кумк1э еуал1и риутыгъ",
+            "translation": "The man collided against the '''pillar''' with the car and knocked it down."
           }
         ]
       },
@@ -113885,6 +113897,10 @@
 		  {
             "sentence": "Непэ '''шъуздэдэк1ыщтэп''', сигъусэпшъашъэ сыригъусэщт",
             "translation": "Today '''I will not go out with you guys''', I will be with my girlfriend."
+          },
+		  {
+            "sentence": "К1алэр ыянэ зыфигъэгусагъ '''дигъэк1ыгъэпи'''",
+            "translation": "The boy sulked for his mother '''because she did not let him go out'''."
           }
         ]
       }
@@ -121120,7 +121136,16 @@
       },
       {
         "meaning": "to die from bleeding",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ыр '''пыл1ык1эу''' щылъ",
+            "translation": "The man lies '''while dying'''."
+          },
+		  {
+            "sentence": "Л1ым к1эрахъок1э къеохи '''пыл1ык1ыгъ'''",
+            "translation": "They shot the man with a gun and '''he died from bleeding'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -121150,7 +121175,12 @@
     "definitions": [
       {
         "meaning": "to smash something into smithereens",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм апчыр '''ыгъэшъхъэшъхъыгъ'''",
+            "translation": "The boy '''smashed''' the glass '''into smithereens'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -121161,7 +121191,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "skimmer",
+        "meaning": "skimmer; perforated spoon",
         "examples": []
       }
     ],
@@ -121194,6 +121224,26 @@
 		  {
             "sentence": "Гыныр '''дэгъэчъым''' щысы1ыгъ",
             "translation": "I store the gunpowder in '''the drawer'''"
+          },
+		  {
+            "sentence": "К1алэм сыхьатыр '''дэгъэчъым''' дигъэбылъхьагъ",
+            "translation": "The boy hided the watch inside the '''drawer'''."
+          },
+		  {
+            "sentence": "1унк1ыбзэр '''дэгъэчъым''' дэлъыгъ",
+            "translation": "The key was inside the '''drawer'''."
+          },
+          {
+            "sentence": "Тэдрэз '''дэгъэчъым''' даплъи сисыхьат къэсфэгъот",
+            "translation": "Search each '''drawer''' and find my watch for me."
+          },
+		  {
+            "sentence": "К1алэм сыхьатыр '''дэгъэчъым''' дилъхьагъ",
+            "translation": "The boy put the watch in the '''drawer'''"
+          },
+		  {
+            "sentence": "к1алэм тхылъыхэр '''къыдэгъэчъым''' дегъафэх",
+            "translation": "The boy fits the books inside the '''drawer'''."
           }
         ]
       }
@@ -121223,7 +121273,16 @@
     "definitions": [
       {
         "meaning": "to mimic to; to imitate to",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр л1ыжъым '''зыпеш1ыжьы'''",
+            "translation": "The boy '''imitates''' the old-man."
+          },
+		  {
+            "sentence": "К1алэм '''зыпэсш1ыжьын''' сэ1о",
+            "translation": "'''I am''' trying '''to mimic''' the boy."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -121250,9 +121309,11 @@
     "definitions": [
       {
         "meaning": "(vulgar) to get wasted from alcohol",
-        "examples": [],
-        "tags": [
-          "vulgar"
+        "examples": [
+          {
+            "sentence": "К1алэхэр бирэк1э '''ыц1эжьыгъэх'''",
+            "translation": "The boys '''got wasted''' with beer."
+          }
         ]
       },
       {
@@ -121334,15 +121395,15 @@
         "examples": [
           {
             "sentence": "К1алэм '''хьэшъуты еубатэ'''",
-            "translation": "The boy '''talks nonsense'''."
+            "translation": "The boy '''talks horseshit'''."
           },
           {
             "sentence": "Сыд мы '''хьэшъуты убатэ'''",
-            "translation": "What is '''this nonsense'''."
+            "translation": "What is this '''horseshit'''."
           },
           {
             "sentence": "'''Хьэшъуты уубатэ'''",
-            "translation": "'''You talk nonsense'''."
+            "translation": "'''You talk horseshit'''."
           }
         ],
         "tags": [
@@ -121366,7 +121427,7 @@
           },
           {
             "sentence": "Сыд мы '''шъхьэубатэ'''",
-            "translation": "What is '''this nonsense'''."
+            "translation": "What is this '''nonsense'''."
           },
           {
             "sentence": "'''шъхьэ уубатэ'''",
@@ -121452,11 +121513,49 @@
     "definitions": [
       {
         "meaning": "to sulk for; to express offence by remaining sullenly silent or withdrawn from",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр ыянэ '''зыфигъэгусагъ''' дигъэк1ыгъэпи",
+            "translation": "The boy '''sulked for''' his mother because she did not let him go out."
+          },
+		  {
+            "sentence": "Пшъашъэр к1алэм '''зыфигъэгусагъ''' ш1ухьафтын къыфихьыгъэпи",
+            "translation": "The girl '''sulked for''' the boy because he did not brought a gift for her."
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "zəfaʁaɡʷəsan"
+  },
+  {
+    "word": "фэхьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to carry for, to bring for",
+        "examples": [
+          {
+            "sentence": "Псы '''къэсфэхь'''",
+            "translation": "'''Bring me''' water."
+          },
+		  {
+            "sentence": "К1алэм уц л1ыжъым '''къыфихьыгъ'''",
+            "translation": "The boy '''brought''' a pill '''for''' the old-man."
+          },
+		  {
+            "sentence": "Пхъэхэр к1алэм унагъом '''фехьых'''",
+            "translation": "The boy '''brings''' the woods '''to''' the family."
+          },
+		  {
+            "sentence": "Пшъашъэр к1алэм зыфигъэгусагъ ш1ухьафтын '''къыфихьыгъэпи'''",
+            "translation": "The girl sulked for the boy '''because he did not brought''' a gift '''for her'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "faħən"
   },
   {
     "word": "гъэпыин",
@@ -121464,7 +121563,16 @@
     "definitions": [
       {
         "meaning": "to make someone an enemy",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ц1ыф '''угъэпыиныр''' псэк1од",
+            "translation": "'''Making''' a person '''into an enemy''' is wrong."
+          },
+		  {
+            "sentence": "К1алэм ышыхэр '''ыгъэпыигъэх'''",
+            "translation": "The young man '''made''' his brothers '''into enemies'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -121476,7 +121584,20 @@
     "definitions": [
       {
         "meaning": "mask",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''нэпэтелъхьэ''' телъ",
+            "translation": "The boy has '''a mask''' on."
+          },
+		  {
+            "sentence": "'''Нэпэтелъхьэ''' зытелъхь",
+            "translation": "Put on '''a mask'''."
+          },
+		  {
+            "sentence": "Коронэ уахътэм ц1ыфымэ '''нэпэтелъхьэхэр''' ателъыщтыгъэх",
+            "translation": "In the Corona period people used to have '''masks''' on."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -121492,10 +121613,17 @@
       {
         "meaning": "headgear; headcover; helmet",
         "examples": [
-          ,
           {
             "sentence": "'''Шъхьэтелъхьэм''' шъхьэр къеухъумэ",
             "translation": "'''The headgear''' covers the head."
+          },
+		  {
+            "sentence": "Шъхьапц1ыр ц1ыф ышъхьэ '''шъхьэтелъхьэ''' зи темылъэу",
+            "translation": "Bareheaded is a person that has no '''headcover''' on his head."
+          },
+		  {
+            "sentence": "Дзак1охэмэ '''шъхьэтелъхьэ''' ашъхьэ телъ",
+            "translation": "The soldiers have a '''helmet''' on."
           }
         ]
       }
@@ -121509,7 +121637,20 @@
     "definitions": [
       {
         "meaning": "mask",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''нэ1урыхъу''' телъ",
+            "translation": "The boy has '''a mask''' on."
+          },
+		  {
+            "sentence": "'''нэ1урыхъу''' зытелъхь",
+            "translation": "Put on '''a mask'''."
+          },
+		  {
+            "sentence": "Коронэ уахътэм ц1ыфымэ '''нэ1урыхъухэр''' ателъыщтыгъэх",
+            "translation": "In the Corona period people used to have '''masks''' on."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -121540,7 +121681,12 @@
     "definitions": [
       {
         "meaning": "chase (A children's game where one player chases another)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1элэц1ык1ухэр '''зэлъежьэжь''' мэджэгух",
+            "translation": "The children are playing '''chase'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -121552,7 +121698,12 @@
     "definitions": [
       {
         "meaning": "hide and seek (game)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1элэц1ык1ухэр '''къан-къангъэбылъ''' мэджэгух",
+            "translation": "The children are playing '''hide and seek'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -121568,7 +121719,12 @@
     "definitions": [
       {
         "meaning": "hide and seek (game)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1элэц1ык1ухэр '''ккъангъэбылъ''' мэджэгух",
+            "translation": "The children are playing '''hide and seek'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -121584,7 +121740,28 @@
     "definitions": [
       {
         "meaning": "to twist",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "1анэм ылъакъо т1эк1у '''гъэщыгъ'''",
+            "translation": "The table's leg is a bit '''twisted'''."
+          },
+		  {
+            "sentence": "Ц1ыфым гъуч1 '''къыфэгъэщыщтэп'''",
+            "translation": "A human '''cannot twist''' an iron."
+          },
+		  {
+            "sentence": "1эр '''угъэщын'''",
+            "translation": "'''To twist''' the arm."
+          },
+		  {
+            "sentence": "К1алэм ыбзэгу '''егъэщышъу'''",
+            "translation": "The boy '''can twist''' his tongue."
+          },
+		  {
+            "sentence": "Кумк1э л1ыр пкъэум еуал1эм, пкъэур '''ыгъэщыгъ'''",
+            "translation": "When the man collided against the pillar with the car, '''he twisted''' the pillar."
+          }
+        ]
       }
     ],
     "type": "verb",

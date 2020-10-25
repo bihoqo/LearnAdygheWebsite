@@ -9352,7 +9352,7 @@
     "bride": "къэщэн"
   },
   {
-    "to bring": "къэщэн (to bring someone); къэхьын (to carry someone or something); ехьыл1эн; къыыдэхьын (to come with something); къэгъэк1он (to bring someone or something)"
+    "to bring": "къэщэн (to bring someone, to lead someone here); фэхьын (to bring for); къэхьын (to bring something); ехьыл1эн; къыыдэхьын (to come bringing something); къэгъэк1он (to make someone come here)"
   },
   {
     "walnut": "дае"
@@ -12478,7 +12478,7 @@
     "surface": "к1ы1у"
   },
   {
-    "to carry": "хьын; фэхьын (to carry for, to carry to); дэхьын (to take/carry something along); зехьан / зэрихьан (to carry something); къехьак1ын (to carry around); дэхьыен (to carry up); ехьэхын (to carry down); ехьыл1эн (to carry to)"
+    "to carry": "хьын; фэхьын (to carry for); дэхьын (to take/carry something along); зехьан / зэрихьан (to carry something); къехьак1ын (to carry around); дэхьыен (to carry up); ехьэхын (to carry down); ехьыл1эн (to carry to)"
   },
   {
     "to try out": "уплъэк1ун"
