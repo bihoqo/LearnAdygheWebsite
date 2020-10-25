@@ -120549,7 +120549,16 @@
     "definitions": [
       {
         "meaning": "need",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "щык1агъэ си1эп",
+            "translation": "I don't need anything."
+          },
+		  {
+            "sentence": "щык1агъэ зыгорэм и1эмэ къерэ1у",
+            "translation": "if someone needs someone, may he say it."
+          }
+        ]
       },
       {
         "meaning": "lack, deficiency, shortage",
