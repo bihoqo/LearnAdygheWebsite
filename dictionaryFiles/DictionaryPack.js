@@ -1764,6 +1764,10 @@
           {
             "sentence": "'''Снэмэ''' ерагъэу алъэгъу, стхьак1умэмэ ерагъэу а1у",
             "translation": "'''My eyes''' hardly '''see''', my ears hadly hear."
+          },
+		  {
+            "sentence": "К1алэм '''ынэхэр''' назэу маплъэ",
+            "translation": "The boy looks crossing his '''eyes'''."
           }
         ]
       }
@@ -118431,7 +118435,12 @@
     "definitions": [
       {
         "meaning": "squint-eyed, cross-eyed",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм ынэхэр '''назэу''' маплъэ",
+            "translation": "The boy looks '''crossing''' his eyes."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -120562,7 +120571,12 @@
       },
       {
         "meaning": "lack, deficiency, shortage",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Машинэм '''щык1агъэ''' и1",
+            "translation": "The machine has a '''deficiency'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -120582,7 +120596,12 @@
       },
       {
         "meaning": "defect, drawback, flaw",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Кум '''нэц1эк1''' зи и1эп",
+            "translation": "The car has no '''flaw'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -120597,12 +120616,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "porch (the entrance part in front of a door)",
-        "examples": []
-      },
-      {
-        "meaning": "veranda",
-        "examples": []
+        "meaning": "veranda; porch (the entrance part in front of a door)",
+        "examples": [
+          {
+            "sentence": "'''Лъэгуцым''' пхъэнт1эк1ур тет",
+            "translation": "The chair is on the '''veranda'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -120644,7 +120664,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "narrow corner",
+        "meaning": "a small valley between a hill/river and a river",
         "examples": []
       }
     ],
@@ -120668,7 +120688,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "brass",
+        "meaning": "(color) brass",
         "examples": []
       }
     ],
@@ -120712,6 +120732,21 @@
     "ipa": "aːnaːħaw ɕət"
   },
   {
+    "word": "къушъхьэмышъхьэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "fruit",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "пк1ышъхьэмышъхьэ"
+    ],
+    "type": "noun",
+    "ipa": "qʷəʂħaməʂħa-məj"
+  },
+  {
     "word": "къуе-мый",
     "lang": "Adyghe",
     "definitions": [
@@ -120732,7 +120767,12 @@
     "definitions": [
       {
         "meaning": "to strip",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ц1ыфым '''зышъутыпц1ыгъ''' зигъэпсык1ынэу",
+            "translation": "The person '''stripped''' to take a shower."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -120744,34 +120784,77 @@
     "definitions": [
       {
         "meaning": "to take off (clothes)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм иджанэ '''щихыгъ'''",
+            "translation": "The boy '''took off''' his shirt."
+          },
+		  {
+            "sentence": "Л1ым джэдыгур '''щихыгъ'''",
+            "translation": "The man '''took off''' the fur coat."
+          },
+		  {
+            "sentence": "Сицуакъэхэр '''щэсэхых'''",
+            "translation": "'''I am taking off''' my shoes."
+          },
+		  {
+            "sentence": "К1элэц1ык1ум ипа1о '''щых'''",
+            "translation": "'''Take off''' the little boy's hat."
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "ɕəxən"
   },
   {
+    "word": "1ущхыпц1ык1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to chuckle",
+        "examples": [
+          {
+            "sentence": "К1алэр '''1ущхыпц1ык1ыгъ'''",
+            "translation": "The boy '''chuckled'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʔʷəɕxəpt͡sʼət͡ʃʼən"
+  },
+  {
     "word": "щхыпц1ын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to smile",
-        "examples": []
+        "meaning": "to smile; to grin",
+        "examples": [
+          {
+            "sentence": "К1алэр '''мэщхыпц1ы'''",
+            "translation": "The boy '''grins'''."
+          },
+		  {
+            "sentence": "К1алэр чэфэу '''мэщхыпц1ы'''",
+            "translation": "The boy '''smiles''' happily."
+          }
+        ]
       }
     ],
     "synonyms": [
-      "гуш1опс1ын",
       "1угуш1ук1ын"
     ],
+    "shapsug": "гуш1опс1ын",
     "type": "verb",
     "ipa": "ɕxəpt͡sʼən"
   },
   {
-    "word": "гуш1опс1ын",
+    "word": "гуш1опц1ын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to smile",
+        "meaning": "(dialectal) to smile; to grin",
         "examples": []
       }
     ],
@@ -120779,6 +120862,7 @@
       "щхыпц1ын",
       "1угуш1ук1ын"
     ],
+    "shapsug": "гуш1опс1ын",
     "type": "verb",
     "ipa": "ɡʷəʃʷʼapsʼən"
   },
@@ -120788,7 +120872,12 @@
     "definitions": [
       {
         "meaning": "to smile",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр чэфэу '''1угуш1ук1ы'''",
+            "translation": "The boy '''smiles''' happily."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -120843,10 +120932,19 @@
     "definitions": [
       {
         "meaning": "to mow, to cut",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм мэкъур '''ыупк1агъ'''",
+            "translation": "The boy '''mowed''' the hay."
+          },
+		  {
+            "sentence": "К1алэм уцыр '''еупк1э'''",
+            "translation": "The boy '''cuts''' the grass."
+          }
+        ]
       },
       {
-        "meaning": "alternative form of \"упч1эн\"",
+        "meaning": "to ask; alternative form of \"упч1эн\"",
         "examples": []
       }
     ],
@@ -120876,19 +120974,62 @@
     "definitions": [
       {
         "meaning": "to bend, to crook",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм чъыг къутамэр '''къиуфыгъ'''",
+            "translation": "The boy '''bended''' the tree branch."
+          },
+		  {
+            "sentence": "К1алэм чъыг къутамэр '''къиуфыгъ'''",
+            "translation": "The boy '''bended''' the tree branch."
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "wfan"
   },
   {
+    "word": "ук1ытэнчъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "shameless",
+        "examples": []
+      }
+    ],
+    "shapsug": "ук1ьытэнчъэ"
+    "type": "adj",
+    "ipa": "wt͡ʃʼətant͡ʂa"
+  },
+  {
+    "word": "нэпэнчъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "shameless; insolent; impudent",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "napant͡ʂa"
+  },
+  {
     "word": "ц1ык1уинт1э",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "very little",
-        "examples": []
+        "meaning": "tiny; very little",
+        "examples": [
+          {
+            "sentence": "К1элэ '''ц1ык1уинт1э'''",
+            "translation": "'''Tiny''' kid."
+          },
+		  {
+            "sentence": "Пхъэнт1эк1у '''ц1ык1уинт1э'''",
+            "translation": "'''Tiny''' chair."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -120903,7 +121044,16 @@
     "definitions": [
       {
         "meaning": "very little",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1элэ '''ц1ык1унау'''",
+            "translation": "'''Tiny''' kid."
+          },
+		  {
+            "sentence": "Пхъэнт1эк1у '''ц1ык1унау'''",
+            "translation": "'''Tiny''' chair."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -120917,8 +121067,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "very small amount",
-        "examples": []
+        "meaning": "very small amount; very few",
+        "examples": [
+          {
+            "sentence": "Ахъщэ '''т1эк1унит1э''' сы1ыгъэр",
+            "translation": "I have '''very few''' of money."
+          },
+		  {
+            "sentence": "Л1ым к1элэ '''т1эк1унит1э''' и1эр",
+            "translation": "The man has a '''very few''' sons."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -120933,7 +121092,16 @@
     "definitions": [
       {
         "meaning": "very small amount",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ахъщэ '''т1эк1унау''' сы1ыгъэр",
+            "translation": "I have '''very few''' of money."
+          },
+		  {
+            "sentence": "Л1ым к1элэ '''т1эк1унау''' и1эр",
+            "translation": "The man has a '''very few''' sons."
+          }
+        ]
       }
     ],
     "synonyms": [

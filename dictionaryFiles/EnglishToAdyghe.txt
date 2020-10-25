@@ -4023,7 +4023,7 @@
     "to cleave": "гоутын; зэгоутын; зэгогъэк1ын; зэгогъэлэтхъын"
   },
   {
-    "to cut": "бзын (to cut with scissors or knife or sword); пыупк1ын (to cut off something from); гоупк1ын (to cut off the side); иупк1ын (to cut down a tree); ш1обзын (to slice to kill); упк1эн (to mow); упхъун (to cut hair or fur or grass); к1эупхъухьан (to take a haircut); хэупк1ын (to cut out a piece from); хэбзык1ын (to cut off); упк1эн (to mow, to cut down grass or crops); хын (to reap, to cut (for example a grain) with a sickle, scythe, or reaping machine)); пыупхъухьан (to cut hair lightly)"
+    "to cut": "бзын (to cut with scissors or knife or sword); пыупк1ын (to cut off something from); гоупк1ын (to cut off the side); иупк1ын (to cut down a tree); ш1обзын (to slice to kill); упхъун (to cut hair or fur or grass); к1эупхъухьан (to take a haircut); хэупк1ын (to cut out a piece from); хэбзык1ын (to cut off); упк1эн (to mow, to cut down grass or crops); хын (to reap, to cut (for example a grain) with a sickle, scythe, or reaping machine)); пыупхъухьан (to cut hair lightly)"
   },
   {
     "to cut hair": "упхъун (to cut hair or fur or grass); к1эупхъухьан (to take a haircut); пыупхъухьан (to cut hair lightly); упхъон"
@@ -5095,7 +5095,7 @@
     "little": "ц1ык1у; жъый"
   },
   {
-    "small": "ц1ык1у (little); жъый (small); ц1ык1ужъый (tiny); жъгъэй / шъхъэи (the size of a fragment of some sort, small thing or small piece); (Shapsug) шъхъэ (the size of a fragment of some sort); ц1ык1уинт1э (tiny); (Shapsug) ц1ык1унау (tiny)"
+    "small": "ц1ык1у (little); жъый (small in size); ц1ык1ужъый (tiny); жъгъэй / шъхъэи (the size of a fragment of some sort, small thing or small piece); (Shapsug) шъхъэ (the size of a fragment of some sort); ц1ык1уинт1э (tiny); (Shapsug) ц1ык1унау (tiny); т1эк1у (small in amount); т1эк1унит1э (very small in amount); (Shapsug) т1эк1унау; т1эк1ужъый (very small in amount)"
   },
   {
     "small thing": "жъгъэй / шъхъэи (the size of a fragment of some sort, small thing or small piece); шъхъэ (Shapsug)"
@@ -5107,7 +5107,7 @@
     "tiny": "ц1ык1ужъый"
   },
   {
-    "few": "мак1э; т1эк1у"
+    "few": "мак1э; т1эк1у; т1эк1унит1э (very few); (Shapsug) т1эк1унау (very few)"
   },
   {
     "bunglesome": "блыпкъыщ"
@@ -9385,10 +9385,13 @@
     "to lack": "къыщык1эн"
   },
   {
-    "defect": "дефект; дагъо; сэкъат; лажьэ (a defect)"
+    "defect": "дефект; дагъо; нэц1эк1; сэкъат; лажьэ (a defect)"
   },
   {
-    "flaw": "дагъо"
+    "flaw": "дагъо; нэц1эк1"
+  },
+  {
+    "drawback": "дагъо; нэц1эк1"
   },
   {
     "sewing workshop": "дап1э"
@@ -11588,6 +11591,9 @@
   },
   {
     "porch": "пчъэ1упэ"
+  },
+  {
+    "veranda": "пчъэ1упэ; лъэгуц (veranda)"
   },
   {
     "balcony": "пчъэ1упэ"
@@ -15350,6 +15356,15 @@
   },
   {
     "simple": "1эпс-лъэпс"
+  },
+  {
+    "shameless": "ук1ытэнчъэ; нэпэнчъэ"
+  },
+  {
+    "insolent": "нэпэнчъэ"
+  },
+  {
+    "impudent": "нэпэнчъэ"
   },
   {
     "basic": "1эпс-лъэпс"
@@ -19249,7 +19264,13 @@
     "to take off": "техын / къытехын (to take off an object from); щыхын (to take off clothes, to undress); зытехын (to take off an item such as a hat, mask, necklace or clock from oneself); лъэтэн / быбын (to fly, to take off to the sky)"
   },
   {
+    "to chuckle": "1ущхыпц1ык1ын"
+  },
+  {
     "to smile": "щхыпц1ын; (Shapsug) гуш1опс1ын; 1угуш1ук1ын"
+  },
+  {
+    "to grin": "щхыпц1ын; (Shapsug) гуш1опс1ын; 1угуш1ук1ын"
   },
   {
     "smile": "щхыпц1ы"
