@@ -11125,7 +11125,7 @@
     "to extinguish": "к1осэн (to get extinguished); гъэк1осэн (to extinguish something)"
   },
   {
-    "to turn off": "гъэк1осэн"
+    "to turn off": "гъэк1осэн; фэш1ын"
   },
   {
     "to be extinguished": "к1осэн"

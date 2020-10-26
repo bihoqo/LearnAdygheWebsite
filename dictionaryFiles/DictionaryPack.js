@@ -80287,15 +80287,15 @@
         ]
       },
       {
-        "meaning": "to close (a device)",
+        "meaning": "to turn off (a device)",
         "examples": [
           {
             "sentence": "К1алэм Радиор '''феш1ы'''",
-            "translation": "The boy '''closes''' the radio."
+            "translation": "The boy '''turns off''' the radio."
           },
           {
             "sentence": "Шъутелефонхэ '''фэшъуш1ых'''",
-            "translation": "'''Close''' your phones."
+            "translation": "'''Turn off''' your phones."
           }
         ]
       }
