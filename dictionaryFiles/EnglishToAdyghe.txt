@@ -2187,7 +2187,7 @@
     "to sell": "щэн; щыщэн (to sell in a certain place)"
   },
   {
-    "to take": "щэн (to take/lead someone to somewhere); хьын (to take/carry something to somewhere); штэн / къэштэн (to grab something to take); ш1охьын (to take something from someone against his interest or will); 1ыхын / къы1эхын (to take something from someone by hand); техын / къытехын (to take off something from above something); ч1эхын / къыч1эхын (to take something from under something); дэхын / къыдэхын (to take something from inside another object); ихын / къыихын (to take something from inside something); пыхын / къыпыхын (to take down from a hanging position, to unhang); хэхын / къыхэхын (to take something from through something or from an area with gas or liquid); къохын / къыкъохын (to take something from behind something); гохын / къыгохын / бгъодэхын / къыбгъодэхын (to take something from besides something); к1оц1ыхын / къык1оц1ыхын (to take something from inside something's body); тещэн (to take/lead someone to above something); хэщэн (to take/lead someone to among other people or objects); хэщэн (to take/lead someone to an area liquid, gas, plants or trees); дэщэн (to take/lead someone to a yard); ищэн (to take/lead someone to inside something); къощэн (to take/lead someone to behind something); пыхын (to take something like knowledge, behavior from someone); дэщэен (to lead/take someone up); ещэхын (to lead/take someone down); къещэк1ын (to take/lead someone around); ещэл1эн (to take someone to, to lead someone to); дэхьыен (to take upwards, to take up, to carry upwards, to carry up); блэщын (to take/lead (someone) across, to take/lead (someone) past); уахътэ егъэхьын (to take time)"
+    "to take": "щэн (to take/lead someone to somewhere); хьын (to take/carry something to somewhere); штэн / къэштэн (to grab something to take); ш1охьын (to take something from someone against his interest or will); 1ыхын / къы1эхын (to take something from someone by hand); техын / къытехын (to take off something from above something); ч1эхын / къыч1эхын (to take something from under something); дэхын / къыдэхын (to take something from inside another object); ихын / къыихын (to take something from inside something); пыхын / къыпыхын (to take down from a hanging position, to unhang); хэхын / къыхэхын (to take something from through something or from an area with gas or liquid); къохын / къыкъохын (to take something from behind something); гохын / къыгохын / бгъодэхын / къыбгъодэхын (to take something from besides something); к1оц1ыхын / къык1оц1ыхын (to take something from inside something's body); тещэн (to take/lead someone to above something); хэщэн (to take/lead someone to among other people or objects); хэщэн (to take/lead someone to an area liquid, gas, plants or trees); дэщэн (to take/lead someone to a yard); ищэн (to take/lead someone to inside something); къощэн (to take/lead someone to behind something); пыхын (to take something like knowledge, behavior from someone); дэщэен (to lead/take someone up); ещэхын (to lead/take someone down); къещэк1ын (to take/lead someone around); ещэл1эн (to take someone to, to lead someone to); дэхьыен (to take upwards, to take up, to carry upwards, to carry up); блэщын (to take/lead (someone) across, to take/lead (someone) past); уахътэ егъэхьын (to take time); техык1ын (to take something off)"
   },
   {
     "to take time": "уахътэ егъэхьын"
@@ -12451,7 +12451,10 @@
     "to have a thought": "гукъэк1ын"
   },
   {
-    "idea": "гукъэк1"
+    "to take picture": "сурэт техын"
+  },
+  {
+    "idea": "гукъэк1; гурыш"
   },
   {
     "to have an idea": "гукъэк1ын"
@@ -16861,10 +16864,10 @@
     "to enter": "ихьан (to go into a house, building, entrace, etc.); къихьан (to come into a house, building, entrace, etc.)"
   },
   {
-    "to walk": "к1он (to walk, to walk to somewhere); щык1он (to walk in a certain area); дэк1оен (to walk up); ехын (to walk down); къэк1ухьан (to walk around, to roam, to stroll, to ramble); зэк1эк1он (to walk backward); рик1он (to walk on something)"
+    "to walk": "к1он (to walk, to walk to somewhere); щык1он (to walk in a certain area); дэк1оен (to walk up); ехын (to walk down); къэк1ухьан (to walk around, to roam, to stroll, to ramble); зэк1эк1он (to walk backward); рик1он (to walk on something); к1ун (to walk a certain distance)"
   },
   {
-    "to go": "к1он (to walk, to go to somewhere); щык1он (to go in a certain area); дэк1оен (to go up); ехын (to go down); къэк1ухьан (to walk around, to roam, to stroll, to ramble); зэк1эк1он / къызэк1эк1он (to go backward); техьан (to go on); ч1эхьан (to go under); хэхьан (to go to an area with some liquid or gas); хэхьан (to go into a forest or field); хэхьан (to go through); хэхьан (to go among other people/objects); гохьан / бгъодэхьан (to go besides); ихьан (to go inside); дэхьан (to enter a defined area, such as a yard, village, area, etc.); дэхьан (to go between); к1оц1ыхьан (to go within inside something); къохьан (to go behind); шъхьадэхьан (to go over); шъхьапырык1ын (to go beyond); фэ1офытэн (to go for someone to bring something); ш1ок1он (to go to somewhere against someone's will or interest); гъэк1он (to make someone go to); рик1он (to go on something)"
+    "to go": "к1он (to walk, to go to somewhere); щык1он (to go in a certain area); дэк1оен (to go up); ехын (to go down); къэк1ухьан (to walk around, to roam, to stroll, to ramble); зэк1эк1он / къызэк1эк1он (to go backward); техьан (to go on); ч1эхьан (to go under); хэхьан (to go to an area with some liquid or gas); хэхьан (to go into a forest or field); хэхьан (to go through); хэхьан (to go among other people/objects); гохьан / бгъодэхьан (to go besides); ихьан (to go inside); дэхьан (to enter a defined area, such as a yard, village, area, etc.); дэхьан (to go between); к1оц1ыхьан (to go within inside something); къохьан (to go behind); шъхьадэхьан (to go over); шъхьапырык1ын (to go beyond); фэ1офытэн (to go for someone to bring something); ш1ок1он (to go to somewhere against someone's will or interest); гъэк1он (to make someone go to); рик1он (to go on something); к1ун (to walk a certain distance)"
   },
   {
     "to come": "къэк1он; къылъык1отэн (to come near, to advance near); къыдэк1оен (to come up); къехын (to come down); къытехьан (to come on); къыч1эхьан (to come under); къыхэхьан (to come to an area with some liquid or gas); къыхэхьан (to come into a forest or field); хэхьан (to come through); къыхэхьан (to come among other people/objects); къыгохьан / къыбгъодэхьан (to come besides); къыихьан (to come inside); къыдэхьан (to enter a defined area, such as a yard, village, area, etc.); къыдэхьан (to come between); къык1оц1ыхьан (to come within inside something)"
@@ -19379,6 +19382,9 @@
   },
   {
     "quicksilver": "чынасыу"
+  },
+  {
+    "egotist": "шъхьэфэш1ужь"
   },
   {
     "selfish": "шъхьэфэш1ужь"

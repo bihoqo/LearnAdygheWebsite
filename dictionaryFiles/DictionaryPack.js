@@ -83294,6 +83294,10 @@
 		  {
             "sentence": "Унэхэр к1алэм '''темыхых'''",
             "translation": "'''Don't take''' your eyes '''off''' the boy."
+          },
+		  {
+            "sentence": "Мы гурышыр фылымым '''къытесхыгъ'''",
+            "translation": "'''I took''' this idea from the film."
           }
         ]
       },
@@ -83320,6 +83324,23 @@
           {
             "sentence": "Л1ым мэлым ышъо '''трехы'''",
             "translation": "The man '''skins''' the sheep."
+          }
+        ]
+      },
+	  {
+        "meaning": "to take a picture",
+        "examples": [
+          {
+            "sentence": "К1алэм сурэт '''къэстехыгъ'''",
+            "translation": "The boy '''took''' a picture of me."
+          },
+		  {
+            "sentence": "Сурэт '''къыптесхыщт'''",
+            "translation": "'''I will take''' a picture of you."
+          },
+		  {
+            "sentence": "К1алэм сурэт пшъашъэм '''техы'''",
+            "translation": "The boy '''takes''' a picture of the girl."
           }
         ]
       }
@@ -121784,8 +121805,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "selfish, self-interested",
-        "examples": []
+        "meaning": "egotist",
+        "examples": [
+          {
+            "sentence": "К1элэ '''шъхьэфэш1у'''",
+            "translation": "The boy '''is egotist'''."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -121827,7 +121853,16 @@
     "definitions": [
       {
         "meaning": "tiny, wee",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Унэ '''ц1ык1ужъый''' сызисыр",
+            "translation": "I am living in a '''tiny''' house."
+          },
+		  {
+            "sentence": "К1энк1э '''ц1ык1ужъый'''",
+            "translation": "A '''tiny''' egg."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -121842,7 +121877,7 @@
         "examples": []
       },
       {
-        "meaning": "to freeze",
+        "meaning": "(dialectal) to freeze",
         "examples": []
       },
       {
@@ -121851,6 +121886,18 @@
           {
             "sentence": "К1алэр пшъыгъэ, гъогууанэ '''ычъыгъ'''",
             "translation": "The boy got tired, he '''ran''' a long distance."
+          },
+		  {
+            "sentence": "К1алэм километыритф '''ычъыгъ'''",
+            "translation": "The boy '''ran''' five kilometers."
+          },
+		  {
+            "sentence": "Тхьапш кум '''ычъыгъэр'''?",
+            "translation": "How much the car '''ran'''?"
+          },
+		  {
+            "sentence": "Тхьапш '''учъыгъэр'''?",
+            "translation": "How much '''you ran'''?"
           }
         ]
       }
@@ -121862,6 +121909,24 @@
     "ipa": "t͡ʂən"
   },
   {
+    "word": "техык1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to take something off",
+        "examples": [
+          {
+            "sentence": "Мы гурышыр видиом '''къытесхык1ыгъ'''",
+            "translation": "'''I took''' this idea from the video."
+          }
+        ]
+      }
+    ],
+    "shapsug": "техык1ьын",
+    "type": "verb",
+    "ipa": "tajxət͡ʃʼən"
+  },
+  {
     "word": "к1ун",
     "lang": "Adyghe",
     "definitions": [
@@ -121871,6 +121936,10 @@
           {
             "sentence": "К1алэр пшъыгъэ, гъогууанэ '''ык1угъ'''",
             "translation": "The boy got tired, he '''went''' a long distance."
+          },
+		  {
+            "sentence": "К1алэм километыритф '''ык1угъ'''",
+            "translation": "The boy '''walked''' five kilometers."
           }
         ]
       }
@@ -121884,7 +121953,16 @@
     "definitions": [
       {
         "meaning": "to harden",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Мыжъор '''пытэу хъугъэ'''",
+            "translation": "The rock '''hardened'''."
+          },
+		  {
+            "sentence": "У1э '''пытэу хъугъэ'''",
+            "translation": "Your hard '''became hard'''."
+          }
+        ]
       }
     ],
     "synonyms": [
