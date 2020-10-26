@@ -8499,6 +8499,10 @@
             "sentence": "к1алэм пшъашъэр '''елъэгъогъ'''",
             "translation": "The boy '''saw''' the girl."
           },
+		  {
+            "sentence": "Сижьау '''сэлъэгъужьы'''",
+            "translation": "'''I see''' my own shadow"
+          },
           {
             "sentence": "'''слъэгъурэп''' пшъашъэр",
             "translation": "'''I don't see''' the girl."
@@ -10954,6 +10958,10 @@
           {
             "sentence": "Пшъашъэм къэгъагъэмэ '''ямэ''' шӏу елъэгъу",
             "translation": "The girl loves the flower's '''smell'''."
+          },
+		  {
+            "sentence": "'''Мэ''' 1аш1у унэм игъэутыс",
+            "translation": "Spray a pleasant '''smell''' in the house."
           }
         ]
       }
@@ -34445,6 +34453,16 @@
       {
         "meaning": "something sweet (e.g. candy, cage)",
         "examples": []
+      },
+	  {
+        "meaning": "pleasant (smell)",
+        "examples": [
+          ,
+		  {
+            "sentence": "К1алэм мэ '''1эш1у''' унэм ригъэутысагъ",
+            "translation": "The boy sprayed a '''pleasant''' smell in the house."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -35232,6 +35250,10 @@
           {
             "sentence": "К1алэ тхьамык1эм шхын ыгъотырэп '''ышхынэу'''",
             "translation": "The poor boy can't find food '''to eat'''."
+          },
+		  {
+            "sentence": "Чъыгым ижьау тыч1эсэу '''тэшхэ'''",
+            "translation": "'''We are eating''' while sitting in the tree's shadow."
           }
         ]
       }
@@ -37063,6 +37085,10 @@
           {
             "sentence": "'''Коц1ык1э''' хьалыгъу аш1ы",
             "translation": "They do bread '''with wheat'''."
+          },
+		  {
+            "sentence": "Л1ым '''коцыр''' еутхындзы",
+            "translation": "The man winnows the '''wheat'''."
           }
         ]
       }
@@ -37289,6 +37315,10 @@
           {
             "sentence": "К1элэ бзаджэр купым '''хэсфыгъ'''.",
             "translation": "'''I drove away''' the wicked boy from the group."
+          },
+		  {
+            "sentence": "Ку ят1эм '''щыбыуфымэ''', сапэ ыгъэутысэщт",
+            "translation": "'''If you drive''' a car '''on''' a dirt, it will spray dust."
           }
         ]
       }
@@ -45126,6 +45156,14 @@
 		  {
             "sentence": "Л1ыр мышъо-мылмэ '''апылъ'''",
             "translation": "The man '''deals with''' nonsense."
+          },
+		  {
+            "sentence": "Мэкъумэщыш1ыр ц1ыф мэкъу-мэщ ш1эным '''пылъыр''' ары",
+            "translation": "A peasant is a person that '''deals with''' farming."
+          },
+		  {
+            "sentence": "Докторыр ц1ыф е1эзэным '''пылъыр''' ары",
+            "translation": "A doctor is a person that '''deals with''' healing people."
           }
         ]
       },
@@ -45295,7 +45333,20 @@
     "definitions": [
       {
         "meaning": "hotel; inn",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Налбыир '''хьак1эщым''' щы1",
+            "translation": "Nalby is in the '''hotel'''."
+          },
+		  {
+            "sentence": "'''Хьак1эщым''' неущы тык1ощт",
+            "translation": "We will go to the '''hotel''' tomorrow."
+          },
+		  {
+            "sentence": "Неущ '''хьак1эщым''' тызык1ощтыр",
+            "translation": "Tomorrow is the time we will go to the '''hotel'''."
+          }
+        ]
       },
       {
         "meaning": "guest room; living room",
@@ -48628,6 +48679,9 @@
         ]
       }
     ],
+    "synonyms": [
+      "тет1ысхьап1э"
+    ],
     "type": "noun",
     "ipa": "tʼəsəpʼa"
   },
@@ -49910,6 +49964,10 @@
 		  {
             "sentence": "'''чъы1э сэл1э'''",
             "translation": "'''I am cold'''."
+          },
+		  {
+            "sentence": "Л1ыр '''чъы1э л1эшъ''' мэк1эзэзы",
+            "translation": "'''Because''' the man '''feeling cold''', he shivers."
           }
         ]
       }
@@ -57935,6 +57993,10 @@
           {
             "sentence": "К1алэм '''чылапхъэхэр''' ч1ыгум хет1эх",
             "translation": "The boy implants '''the seeds'''."
+          },
+		  {
+            "sentence": "Л1ым '''чылапхъэр''' еуты",
+            "translation": "The man spreads '''seeds'''."
           }
         ]
       }
@@ -76947,6 +77009,18 @@
 		  {
             "sentence": "К1алэм щынагъо горэ къызэхехым тхытхэу ыублагъ",
             "translation": "When the boy heard something dangerous he started '''to shiver'''."
+          },
+		  {
+            "sentence": "Сэ чъы1э сыл1эшъ '''сэтхытхы'''",
+            "translation": "Because the I am feeling cold, '''I shiver'''."
+          },
+		  {
+            "sentence": "К1алэр щынэм къыхэк1эу '''тхытхыгъ'''",
+            "translation": "The boy ''trembled''' out of fear."
+          },
+		  {
+            "sentence": "К1алэр чъы1эм егъэтхытхы",
+            "translation": "The cold ''trembles''' the boy."
           }
         ]
       }
@@ -77358,6 +77432,15 @@
           {
             "sentence": "Л1ым к1алэхэр '''зэпидзыгъэх'''",
             "translation": "The man '''separated''' the boys."
+          }
+        ]
+      },
+	  {
+        "meaning": "to winnow",
+        "examples": [
+          {
+            "sentence": "Л1ым коцыр '''зэпедзы'''",
+            "translation": "The man '''winnows''' the wheat."
           }
         ]
       }
@@ -85959,6 +86042,10 @@
 		  {
             "sentence": "К1элэ '''щтапхэм''' к1ый макъэр зэхехым занк1эу ежьэжьыгъ",
             "translation": "When the '''coward''' boy heard the scream, he run off straight away."
+          },
+		  {
+            "sentence": "'''Щтапхэр''' иныбжьыкъу щэщтэжьы",
+            "translation": "'''A coward''' is afraid of his own shade."
           }
         ]
       }
@@ -86073,6 +86160,10 @@
 		  {
             "sentence": "Л1ым ишы '''къэрабгъэу''' хъугъэ",
             "translation": "The man's horse became a '''coward'''."
+          },
+		  {
+            "sentence": "'''Къэрабгъэр''' иныбжьыкъу щэщынэжьы",
+            "translation": "'''A coward''' is afraid of his own shade."
           }
         ]
       }
@@ -86110,6 +86201,10 @@
 		  {
             "sentence": "Л1ым ишы '''щынапхэу''' хъугъэ",
             "translation": "The man's horse became a '''coward'''."
+          },
+		  {
+            "sentence": "'''Щынапхэр''' иныбжьыкъу щэщынэжьы",
+            "translation": "'''A coward''' is afraid of his own shade."
           }
         ]
       }
@@ -99857,6 +99952,10 @@
           {
             "sentence": "Л1ыр заом щыук1ыным '''щэщынэ'''",
             "translation": "The man '''is afraid of''' getting killed in battle."
+          },
+		  {
+            "sentence": "Щынапхэр иныбжьыкъу '''щэщынэжьы'''",
+            "translation": "A coward '''is afraid of''' his own shade."
           }
         ]
       }
@@ -105248,7 +105347,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to light on",
+        "meaning": "to light on; to illuminate on",
         "examples": [
           {
             "sentence": "Тыгъэр ч1ыгум '''тепсэ'''",
@@ -105257,6 +105356,10 @@
 		  {
             "sentence": "Нэфнэ чэтыум '''тебгъапсэмэ''' ынэхэм къэпсэжьыщтых",
             "translation": ""
+          },
+		  {
+            "sentence": "Чъыгым жьау къеш1ы тыгъэр '''къытепсэмэ'''",
+            "translation": "The tree makes a shadow '''when''' the sun '''lights on it'''."
           }
         ]
       }
@@ -113920,6 +114023,10 @@
 		  {
             "sentence": "К1алэр ыянэ зыфигъэгусагъ '''дигъэк1ыгъэпи'''",
             "translation": "The boy sulked for his mother '''because she did not let him go out'''."
+          },
+		  {
+            "sentence": "Л1ыр '''дэмык1ыгъэу''' мэ 1аш1у зытегъэутысэ",
+            "translation": "'''Before''' the man '''goes out''', he sprays a pleasant smell on himself"
           }
         ]
       }
@@ -118997,6 +119104,14 @@
           {
             "sentence": "К1алэм алырэгъур '''еутхыпк1ы'''",
             "translation": "The boy '''shakes out''' the carpet."
+          },
+		  {
+            "sentence": "Алырэгъур '''уутхыпк1ымэ''', сапэ къыпыутысык1ы",
+            "translation": "'''If you '''shake out''' a carpet, dust will be sprayed from it."
+          },
+		  {
+            "sentence": "Алырэгъур '''сэутхыпк1ым''', утысагъ",
+            "translation": "When '''I shaked out''' the carpet, it sprayed [dust]."
           }
         ]
       }
@@ -121973,7 +122088,12 @@
     "definitions": [
       {
         "meaning": "to run across",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр гъогум '''зэпырычъы'''",
+            "translation": "The boy '''runs across''' the road."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -122014,9 +122134,31 @@
     "definitions": [
       {
         "meaning": "to shiver, to tremble",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''мэк1эзэзэ'''",
+            "translation": "The boy '''shivers'''."
+          },
+		  {
+            "sentence": "Пшъашъэр мэзахэм '''к1эзэзэу''' хэт",
+            "translation": "The girl '''is trembling''' in the dark."
+          },
+		  {
+            "sentence": "Сэ чъы1э сыл1эшъ '''сэк1эзэзы'''",
+            "translation": "Because the I am feeling cold, '''I shiver'''."
+          },
+		  {
+            "sentence": "К1алэр щынэм къыхэк1эу '''к1эзэзыгъ'''",
+            "translation": "The boy ''trembled''' out of fear."
+          },
+		  {
+            "sentence": "К1алэр чъы1эм '''егъэк1эзэзы'''",
+            "translation": "The cold ''trembles''' the boy."
+          }
+        ]
       }
     ],
+    "type": "к1ьэзэзын",
     "type": "verb",
     "ipa": "t͡ʃʼazazən"
   },
@@ -122033,15 +122175,45 @@
     "ipa": "t͡ʃʼazaz"
   },
   {
+    "word": "сырын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "flute",
+        "examples": [
+          {
+            "sentence": "К1алэр '''сырынэм''' епщэ",
+            "translation": "The boy blows in the '''flute'''."
+          },
+		  {
+            "sentence": "Сырынапщэр '''сырынэм''' епщэ",
+            "translation": "The flutist blows the '''flute'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "sərəna"
+  },
+  {
     "word": "сырынапщ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "flutist",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ц1ыфэу '''сырын''' епщэным фэ1азэр '''сырынапщ'''",
+            "translation": "A person that is skilled in blowing a flute is a '''flutist'''."
+          },
+		  {
+            "sentence": "'''Сырынапщэр''' сырынэм епщэ",
+            "translation": "The '''flutist''' blows the flute."
+          }
+        ]
       }
     ],
-    "type": "verb",
+    "type": "noun",
     "ipa": "sərənaːpɕ"
   },
   {
@@ -122050,11 +122222,16 @@
     "definitions": [
       {
         "meaning": "toothless",
-        "examples": []
-      },
-      {
-        "meaning": "insipid",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Цакор''' ц1ыфэу цэ зимы1эр ары",
+            "translation": "'''Toothless''' is a person with no teeth."
+          },
+		  {
+            "sentence": "Л1ы '''цако'''",
+            "translation": "A '''toothless''' man."
+          }
+        ]
       },
       {
         "meaning": "dull, blunt",
@@ -122098,8 +122275,26 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to make something cheaper, to reduces the value of",
-        "examples": []
+        "meaning": "to cheapen; to make something cheaper, to reduces the value of",
+        "examples": [
+          {
+            "sentence": "Тучанымк1э хьалыгъухэр '''агъэпыутыгъэх'''",
+            "translation": "In the store, they '''cheapened''' the breads."
+          }
+        ]
+      },
+	  {
+        "meaning": "to lessen the importance of someone",
+        "examples": [
+		  {
+            "sentence": "Зы ц1ыф налъи '''бгъэпыутэу''' хъущтэп",
+            "translation": "It is wrong '''to lessen''' any human."
+          },
+		  {
+            "sentence": "К1алэм ыянэ '''егъэпыуты'''",
+            "translation": "The young man '''lessens''' his mother."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -122110,8 +122305,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "humble",
-        "examples": []
+        "meaning": "modest; humble",
+        "examples": [
+          {
+            "sentence": "Ц1ыф '''шъырыт'''",
+            "translation": "A '''modest''' person."
+          },
+		  {
+            "sentence": "'''Шъырытэу''' ущытын фай",
+            "translation": "You must be '''humble'''."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -122123,7 +122327,12 @@
     "definitions": [
       {
         "meaning": "pus",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''щыны''' къик1ыгъ",
+            "translation": "A '''pus''' emited from the boy."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -122134,12 +122343,21 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "hotel",
-        "examples": []
-      },
-      {
-        "meaning": "inn",
-        "examples": []
+        "meaning": "hotel; inn",
+        "examples": [
+          {
+            "sentence": "Налбыир '''хьэк1ап1эм''' щы1",
+            "translation": "Nalby is in the '''hotel'''."
+          },
+		  {
+            "sentence": "'''Хьэк1ап1эм''' неущы тык1ощт",
+            "translation": "We will go to the '''hotel''' tomorrow."
+          },
+		  {
+            "sentence": "Неущ '''хьэк1ап1эм''' тызык1ощтыр",
+            "translation": "Tomorrow is the time we will go to the '''hotel'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -122197,6 +122415,46 @@
     "ipa": "ɕəsəpʼa"
   },
   {
+    "word": "тет1ысхьап1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "seat",
+        "examples": [
+          {
+            "sentence": "Енэгуягъо, мы '''тет1ысхьап1эр''' сэсый",
+            "translation": "I think this is my '''seat'''."
+          },
+          {
+            "sentence": "Енэгуягъо, сэ '''ситет1ысхьап1э''' утес",
+            "translation": "I think you’re sitting in '''my seat'''."
+          },
+          {
+            "sentence": "Зы '''тет1ысхьап1э''' горэ щы1а?",
+            "translation": "Is there '''a seat''' left?"
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "т1ысып1э"
+    ],
+    "type": "noun",
+    "ipa": "tajtʼəsħaːpʼa"
+  },
+  {
+    "word": "гущы1эгъуп1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "coffee house",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "gʷəɕəʔaʁʷəpʼa"
+  },
+  {
     "word": "зэхэсып1э",
     "lang": "Adyghe",
     "definitions": [
@@ -122229,7 +122487,12 @@
     "definitions": [
       {
         "meaning": "agricultural, farming",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Мэкъумэщыш1ыр ц1ыф '''мэкъу-мэщ''' ш1эным пылъыр ары",
+            "translation": "A peasant is a person that does '''farming'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -122241,7 +122504,12 @@
     "definitions": [
       {
         "meaning": "peasant",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Мэкъумэщыш1ыр''' ц1ыф мэкъу-мэщ ш1эным пылъыр ары",
+            "translation": "A '''peasant''' is a person that does farming."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -122255,16 +122523,12 @@
         "meaning": "day before yesterday, two days ago",
         "examples": [
           {
-            "sentence": "'''тыгъоснахьыпэ''' тк1уагъ йуропа",
-            "translation": "'''2 days ago''', we went to Europe."
+            "sentence": "'''тыгъоснахьыпэ''' тк1уагъ Европа",
+            "translation": "'''Two days ago''', we went to Europe."
           },
           {
-            "sentence": "'''тыгъоснахьыпэ''' пш1ы синыбжьэгъ",
-            "translation": "'''2 days ago''' I was ten years old."
-          },
-          {
-            "sentence": "'''тыгъоснахьыпэ''' томэр къэк1уагъ",
-            "translation": "'''2 days ago''' Tom came."
+            "sentence": "'''тыгъоснахьыпэ''' шъофым тыщы1агъ",
+            "translation": "'''Two days ago''' we were in the fields."
           }
         ]
       }
@@ -122277,20 +122541,141 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to spread (seeds, salt, etc.)",
-        "examples": []
+        "meaning": "to sow; to spread (seeds, salt, etc.)",
+        "examples": [
+          {
+            "sentence": "Л1ым чылапхъэр '''еуты'''",
+            "translation": "The man '''spreads''' the seeds."
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "jawtən"
   },
   {
+    "word": "пхъын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to sow",
+        "examples": [
+          {
+            "sentence": "Л1ым чылапхъэр '''епхъы'''",
+            "translation": "The man '''sows''' the seeds."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "pχən"
+  },
+  {
+    "word": "утхындзын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to winnow",
+        "examples": [
+          {
+            "sentence": "Л1ым коцыр '''еутхындзы'''",
+            "translation": "The man '''winnows''' the wheat."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "зэпыдзын"
+    ],
+    "type": "verb",
+    "ipa": "wtxənd͡zən"
+  },
+  {
+    "word": "теутысэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to spray on; to spray upon",
+        "examples": [
+		  {
+            "sentence": "Л1ыр щагум дэт, къэгъагъэмэ псы '''атегъэутысэу'''",
+            "translation": "The man is in the yard, '''spraying''' water '''on''' the flowers."
+          },
+		  {
+            "sentence": "Л1ыр дэмык1ыгъэу мэ 1аш1у '''зытегъэутысэ'''",
+            "translation": "Before the man goes out, he '''sprays''' a pleasant smell '''on himself'''"
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "tajwətəsan"
+  },
+  {
+    "word": "гъэутысэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to spray",
+        "examples": [
+		  {
+            "sentence": "Л1ыр щагум дэт, къэгъагъэмэ псы '''атегъэутысэу'''",
+            "translation": "The man is in the yard, '''spraying''' water '''on''' the flowers."
+          },
+		  {
+            "sentence": "Мэ 1аш1у унэм '''игъэутыс'''",
+            "translation": "'''Spray''' a pleasant smell in the house."
+          },
+		  {
+            "sentence": "К1алэм мэ 1аш1у унэм '''ригъэутысагъ'''",
+            "translation": "The boy '''sprayed''' a pleasant smell in the house."
+          },
+		  {
+            "sentence": "Ку ят1эм щыбыуфымэ, сапэ '''ыгъэутысэщт'''",
+            "translation": "If you drive a car on a dirt, '''it will spray''' dust."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʁawətəsan"
+  },
+  {
     "word": "утысэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to spray dust",
-        "examples": []
+        "meaning": "to spray",
+        "examples": [
+		  {
+            "sentence": "Ку ят1эм щыбыуфымэ, сапэ '''ыгъэутысэщт'''",
+            "translation": "If you drive a car on a dirt, '''it will spray''' dust."
+          },
+		  {
+            "sentence": "Мэ 1аш1у унэм '''игъэутыс'''",
+            "translation": "'''Spray''' pleasant smell in the house."
+          },
+		  {
+            "sentence": "К1алэм мэ 1аш1у унэм '''ригъэутысагъ'''",
+            "translation": "The boy '''sprayed''' pleasant smell in the house."
+          },
+		  {
+            "sentence": "Тищагук1э къэгъагъэмэ псы '''ахэутысэ'''",
+            "translation": "In our yard, water '''is sprayed among''' the flowers."
+          },
+		  {
+            "sentence": "Л1ыр щагум дэт, къэгъагъэмэ псы '''атегъэутысэу'''",
+            "translation": "The man is in the yard, '''spraying''' water '''on''' the flowers."
+          },
+		  {
+            "sentence": "Алырэгъур уутхыпк1ымэ, сапэ '''къыпыутысык1ы'''",
+            "translation": "If you shake out a carpet, dust '''will be sprayed from it'''."
+          },
+		  {
+            "sentence": "Алырэгъур сэутхыпк1ым, '''утысагъ'''",
+            "translation": "When I shaked out the carpet, '''it sprayed''' [dust]."
+          }
+        ]
       },
       {
         "meaning": "grinding into dust, pulverizing, pulverization",
@@ -122299,6 +122684,24 @@
     ],
     "type": "verb",
     "ipa": "wətəsan"
+  },
+  {
+    "word": "пыутысык1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to be sprayed from",
+        "examples": [
+		  {
+            "sentence": "Алырэгъур уутхыпк1ымэ, сапэ '''къыпыутысык1ы'''",
+            "translation": "If you shake out a carpet, dust '''will be sprayed from it'''."
+          }
+        ]
+      }
+    ],
+    "shapsug": "пыутысык1ьын",
+    "type": "verb",
+    "ipa": "pəwtəsət͡ʃʼən"
   },
   {
     "word": "бзэджэрылъф",
@@ -122318,7 +122721,12 @@
     "definitions": [
       {
         "meaning": "potbellied; paunchy; big-bellied",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1элэ '''ныбэшъу'''",
+            "translation": "A '''big-bellied''' boy."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -122342,7 +122750,16 @@
     "definitions": [
       {
         "meaning": "shade",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Къэрабгъэр '''иныбжьыкъу''' щэщынэжьы",
+            "translation": "A coward is afraid of his own '''shade'''."
+          },
+		  {
+            "sentence": "Чъыгым '''ныбжьыкъу''' къеш1ы тыгъэр къытепсэмэ",
+            "translation": "The tree makes a '''shade''' when the sun lights on it."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -122357,7 +122774,24 @@
     "definitions": [
       {
         "meaning": "shadow",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Чъыгым '''жьау''' къеш1ы тыгъэр къытепсэмэ",
+            "translation": "The tree makes a '''shadow''' when the sun lights on it."
+          },
+		  {
+            "sentence": "'''Жьаум''' тыч1этэу тэлажьэ",
+            "translation": "We are working in the '''shadow'''"
+          },
+		  {
+            "sentence": "'''Сижьау''' сэлъэгъужьы",
+            "translation": "I see '''my own shadow'''"
+          },
+		  {
+            "sentence": "Чъыгым '''ижьау''' тыч1эсэу тэшхэ",
+            "translation": "We are eating while sitting in the tree's '''shadow'''."
+          }
+        ]
       }
     ],
     "synonyms": [

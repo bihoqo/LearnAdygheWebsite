@@ -6943,7 +6943,7 @@
     "to flash": "жъыун"
   },
   {
-    "to light": "къыхэнэн (to illuminate); къыхэгъэнэн (to illuminate)"
+    "to light": "къыхэнэн (to illuminate); къыхэгъэнэн (to illuminate); тепсэн (to lgiht on)"
   },
   {
     "to spark": "пыпсык1ын; къыхэц1ыук1ын (to spark among other things)"
@@ -8843,6 +8843,9 @@
   },
   {
     "to realize": "шъхьэм тефэн (to understand, to realize); гулъытэн; гутефэн"
+  },
+  {
+    "to cheapen": "гъэпыутын"
   },
   {
     "bam": "т1ыргу; дыргу"
@@ -14092,13 +14095,16 @@
     "to address": "унашъо ш1ын (to address someone in order to bring to attention, to bring to attention); унашъо фэш1ын (to address something to someone in order to bring an attention to the subject)"
   },
   {
-    "to shiver": "тхытхын"
+    "to shiver": "тхытхын; к1эзэзын"
   },
   {
     "to tremble": "зэзэн; к1эзэзын"
   },
   {
     "to quake": "сысын"
+  },
+  {
+    "flute": "сырын"
   },
   {
     "to vibrate": "зэзэн; гъэзэзэн (to vibrate something)"
@@ -16936,7 +16942,13 @@
     "sealed": "шъыбыгъ (a flow or a hole)"
   },
   {
-    "seat": "т1ысып1э; кушъхьэ (car seat, bicycle seat)"
+    "seat": "тет1ысхьап1э; т1ысып1э; кушъхьэ (car seat, bicycle seat)"
+  },
+  {
+    "to winnow": "утхындзын; зэпыдзын"
+  },
+  {
+    "to sow": "пхъын; еутын"
   },
   {
     "donkey": "щыды"
@@ -18205,7 +18217,7 @@
     "manager": "унэшъош1ы (master of ceremonies); пащ; 1эшъхьэтет"
   },
   {
-    "part": "щыщ (part of); 1ахь (someons's part, portion or share)"
+    "part": "щыщ (part of); 1ахь (someons's part, portion or share); лъэныкъо (part of an object, part of a thing)"
   },
   {
     "portion": "щыщ (portion of); 1ахь (someons's part, portion or share)"
@@ -18871,7 +18883,7 @@
     "to sin": "гонахь гъэхъэн; псэк1од ш1эн; гунахь ш1эн; гунахь зехьан"
   },
   {
-    "to spray": "гъэц1ырэн (to spray burst liquid on to usually from a pile); тегъэц1ырэн (to spray liquid on)"
+    "to spray": "утысэн (to be sprayed); гъэутысэн (to spray something); тегъэутысэн (to spray something on); пыутысык1ын (to be sprayed from); гъэц1ырэн (to spray burst liquid on to usually from a pile); тегъэц1ырэн (to spray liquid on)"
   },
   {
     "low": "гъэшъыхъыгъ / лъхъанчэ (of less than normal height, below the average or normal level from which elevation is measured); мылъагэ; мак1э (low price, low in amount)"
@@ -18955,7 +18967,7 @@
     "coffin": "пхъэмбай"
   },
   {
-    "to reduce": "къыщыгъэк1эн; нахь мак1э ш1ын; хэгъэк1ын; гъэпыутын (to reduce the price); фэдэгъэзын (to reduce a debt or a punishment); гъэпыутын (to reduce cost)"
+    "to reduce": "къыщыгъэк1эн; нахь мак1э ш1ын; хэгъэк1ын; гъэпыутын (to reduce the price); фэдэгъэзын (to reduce a debt or a punishment); гъэпыутын (to reduce cost); гъэпыутын (to reduce price, to cheapen)"
   },
   {
     "killing bullet": "хьадэгъущэ"
@@ -19403,10 +19415,7 @@
   },
   {
     "toothless": "цако"
-  },
-  {
-    "insipid": "цако"
-  },
+  },.
   {
     "dull": "цако"
   },
@@ -19459,7 +19468,7 @@
     "two days ago": "тыгъоснахьыпэ"
   },
   {
-    "to spread": "еутын (seeds, salt, etc.)"
+    "to spread": "пхъын (to sow); еутын (to spread seeds, salt, etc.); теутын (to spread on)"
   },
   {
     "to spray dust": "утысэн"
