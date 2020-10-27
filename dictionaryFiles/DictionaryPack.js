@@ -93029,6 +93029,10 @@
 		  {
             "sentence": "Сишхын иуахътэ '''къэс1эк1эхьагъэп'''",
             "translation": "'''I did not receive''' my food in time."
+          },
+		  {
+            "sentence": "К1алэм губжьыгъэ 1офыр '''къы1эк1эхьагъэпи'''",
+            "translation": "The young man got angry '''becase he did not get''' the job."
           }
         ]
       }
@@ -123516,10 +123520,11 @@
     "definitions": [
       {
         "meaning": "(vulgar slang) to butthurt; to overly annoyed or bothered by a perceived insult; needlessly offended",
-        "examples": [],
-        "tags": [
-          "vulgar",
-          "slang"
+        "examples": [
+          {
+            "sentence": "К1алэм '''ышъуты къео''' 1офыр къы1эк1эхьагъэпи",
+            "translation": "The young man '''is getting butthurt''' becase he did not get the job."
+          }
         ]
       }
     ],
