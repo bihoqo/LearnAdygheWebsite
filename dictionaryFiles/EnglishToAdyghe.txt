@@ -771,10 +771,10 @@
     "hammer": "уатэ"
   },
   {
-    "axe": "отыч; майтэ (Shapsug); обзэгъу; ощы"
+    "axe": "отыч; майтэ (Shapsug); обзэгъу; ощы; ощышъхьэ (head of the axe)"
   },
   {
-    "ax": "отыч; майтэ (Shapsug); обзэгъу; ощы"
+    "ax": "отыч; майтэ (Shapsug); обзэгъу; ощы; ощышъхьэ (head of the ax)"
   },
   {
     "sickle": "гъупчъэ"
@@ -6946,6 +6946,12 @@
     "to light": "къыхэнэн (to illuminate); къыхэгъэнэн (to illuminate); тепсэн (to lgiht on)"
   },
   {
+    "to feel sleepy": "чъые къек1ун"
+  },
+  {
+    "to be sleepy": "чъые къек1ун"
+  },
+  {
     "to spark": "пыпсык1ын; къыхэц1ыук1ын (to spark among other things)"
   },
   {
@@ -7382,6 +7388,9 @@
   },
   {
     "skin": "шъо; к1ышъо"
+  },
+  {
+    "human skin": "ц1ыфышъо"
   },
   {
     "crust": "к1ышъо; ч1ышъор"
@@ -7936,7 +7945,7 @@
     "top of the saddle (where is the rider sits)": "онэгу"
   },
   {
-    "prophet": "тхьэл1ык1о; бегъымбар"
+    "prophet": "тхьэл1ык1о; пегъэмбар"
   },
   {
     "land": "ч1ыгу; ч1ышъхьашъу (land surface); ч1ылъэ; ч1ыналъэ"
@@ -19276,7 +19285,7 @@
     "fruit": "пхъэшъхьэмышъхь; пк1ышъхьэмышъхьэ"
   },
   {
-    "to take off": "техын / къытехын (to take off an object from); щыхын (to take off clothes, to undress); зытехын (to take off an item such as a hat, mask, necklace or clock from oneself); лъэтэн / быбын (to fly, to take off to the sky)"
+    "to take off": "техын / къытехын (to take off an object from); щыхын (to take off clothes, to undress); зытехын (to take off an item such as a hat, mask, necklace or clock from oneself); лъэтэн / быбын (to fly, to take off to the sky); ш1охын (to take off something from)"
   },
   {
     "to chuckle": "1ущхыпц1ык1ын"
@@ -19567,7 +19576,10 @@
     "whoreson": "къэхьыпэрылъф"
   },
   {
-    "flock": "1эхъогъу; отэр (pack)"
+    "flock": "куп; 1эхъогъу; отэр (pack)"
+  },
+  {
+    "pack": "куп; отэр"
   },
   {
     "cannabis": "к1эпы"

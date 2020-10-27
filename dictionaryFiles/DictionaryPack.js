@@ -1131,6 +1131,15 @@
             "translation": "A '''group''' of boys stand near the store."
           }
         ]
+      },
+	  {
+        "meaning": "pack",
+        "examples": [
+          {
+            "sentence": "Тыгъужъ '''куп'''",
+            "translation": "A '''pack''' of wolves."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -5626,6 +5635,10 @@
 		  {
             "sentence": "Саусырыр '''къэк1ощтыпи''', мы фылымым непэ тешъумыгъэплъ",
             "translation": "'''Because''' Sawser '''will not come''', let's not watch this film today."
+          },
+          {
+            "sentence": "Тхьэл1ык1ор лъэпкъэу '''къызфэк1уагъэм''' щыщэтыгъ.",
+            "translation": "A prophet used to be a part of the people '''he came for'''."
           }
         ]
       }
@@ -6048,7 +6061,12 @@
       },
       {
         "meaning": "tribe",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Тэдрэз '''лъэпкъым''' тхьэл1ык1о къыфэк1уагъ.",
+            "translation": "A prophet was sent to every '''tribe'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -8119,7 +8137,12 @@
     "definitions": [
       {
         "meaning": "pillow",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''шъхьантэр''' пацэк1э ыш1ыгъ",
+            "translation": "The boy made the '''pillow''' out of fur."
+          }
+        ]
       }
     ],
     "shapsug": "шъхьатэ",
@@ -11516,12 +11539,69 @@
     "definitions": [
       {
         "meaning": "prophet",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Тхьэл1ык1ом''' и1оф ц1ыфыхэр диным къытригъэхьанхэр.",
+            "translation": "Is it the '''prophet's''' job to convert people to the religion."
+          },
+		  {
+            "sentence": "Тхьэм '''тхьэл1ык1охэр''' къигъэк1ощтыгъэх",
+            "translation": "God used to sent '''prophets''', "
+          },
+		  {
+            "sentence": "Тэдрэз лъэпкъым '''тхьэл1ык1о''' къыфэк1уагъ.",
+            "translation": "'''A prophet''' was sent to every tribe."
+          }
+        ]
       }
+    ],
+    "synonyms": [
+      "пегъэмбар"
     ],
     "kabardian": "бегъымбар",
     "type": "noun",
     "ipa": "tħaɬʼəkʷʼa"
+  },
+  {
+    "word": "пегъэмбар",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "prophet",
+        "examples": [
+          {
+            "sentence": "'''пегъэмбарым''' и1оф ц1ыфыхэр диным къытригъэхьанхэр.",
+            "translation": "Is it the '''prophet's''' job to convert people to the religion."
+          },
+		  {
+            "sentence": "Тхьэм '''пегъэмбархэр''' къигъэк1ощтыгъэх",
+            "translation": "God used to sent '''prophets''', "
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "тхьэл1ык1о"
+    ],
+    "kabardian": "бегъымбар",
+    "type": "noun",
+    "ipa": "pajʁambaːr"
+  },
+  {
+    "word": "пегъымбар",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"пегъэмбар\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "тхьэл1ык1о"
+    ],
+    "kabardian": "бегъымбар",
+    "type": "noun",
+    "ipa": "pajʁəmbaːr"
   },
   {
     "word": "нэхь",
@@ -18460,6 +18540,10 @@
             "translation": "Do you want '''to sleep''' here?"
           },
           {
+            "sentence": "Икъунэу '''учъыягъэпи''' чъые къыок1у",
+            "translation": "'''Because you did not slept''' enough, you are sleepy."
+          },
+          {
             "sentence": "Сэ сычъые '''сш1оигъу'''",
             "translation": "I want '''to sleep'''."
           },
@@ -18474,6 +18558,10 @@
           {
             "sentence": "П1эм '''стечъыехьагъ'''",
             "translation": "'''I slept''' on the bed."
+          },
+		  {
+            "sentence": "К1алэм чъые къек1угъэти, яунэ к1ожьыгъ '''чъыежьынэу'''",
+            "translation": "Because the boy felt sleepy, he returned home '''to sleep'''."
           }
         ]
       }
@@ -19318,6 +19406,10 @@
           {
             "sentence": "К1элэц1ык1ум сымаджэу зеш1ы еджап1эм '''амыгъэк1он''' пае",
             "translation": "The little boy pretends to be sick, so he '''won't be sent to''' school."
+          },
+		  {
+            "sentence": "Тхьэм тхьэл1ык1охэр '''къигъэк1ощтыгъэх'''",
+            "translation": "God '''used to sent''' prophets, "
           }
         ]
       },
@@ -33512,6 +33604,10 @@
           {
             "sentence": "'''Икъущт''' ахъщэ си1эр",
             "translation": "The money I have '''will be enough'''"
+          },
+          {
+            "sentence": "'''Икъунэу''' учъыягъэпи чъые къыок1у",
+            "translation": "Because you did not slept '''enough''', you are sleepy."
           },
           {
             "sentence": "'''Икъугъ''' непэ шъузэрэчъагъэр",
@@ -61550,7 +61646,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be from; to be a part/member of a group of some kind; to be belong to",
+        "meaning": "to be from; to be a part/member of a group of some kind; to be belong to; to be among",
         "examples": [
           {
             "sentence": "Куджаныр Адыгэмэ '''ащыщ'''.",
@@ -61591,6 +61687,14 @@
           {
             "sentence": "'''Шъусщыщэнэу''' сыфай.",
             "translation": "I want to '''be one of you guys'''."
+          },
+          {
+            "sentence": "Сэ '''щъусщыщ'''.",
+            "translation": "'''I am among you'''"
+          },
+          {
+            "sentence": "Тхьэл1ык1ор лъэпкъэу къызфэк1уагъэм '''щыщэтыгъ'''.",
+            "translation": "A prophet '''used to be a part of''' the people he came for."
           }
         ]
       }
@@ -73345,6 +73449,10 @@
 		  {
             "sentence": "цыхьэ сыш1ыгъэп, зыгорэ '''зэрэхъущтыр''' сыш1агъ",
             "translation": "I did not trust, I knew something '''was going to happened'''"
+          },
+		  {
+            "sentence": "К1алэм 1о и1эп '''хъугъэмк1э'''",
+            "translation": "The boy has no saying '''in what happened'''."
           }
         ]
       },
@@ -82331,6 +82439,10 @@
             "translation": "I will hit you '''if you don't tell me''' who it is."
           },
 		  {
+            "sentence": "Сятэ сымычъыежьыгъэу тхыдэжъхэр '''къэсфи1отэщтыгъ'''",
+            "translation": "My father '''used to tell me''' stories before sleeping."
+          },
+		  {
             "sentence": "Л1ым 1офымк1э ежь щыш1ыгъэр '''къэтфи1отагъ'''",
             "translation": "The man '''told us''' what happened to him in work."
           },
@@ -83353,6 +83465,10 @@
 		  {
             "sentence": "Лагъэхэр 1анэм '''тесэхыжьых'''",
             "translation": "'''I am taking''' the plates '''off''' the table."
+          },
+		  {
+            "sentence": "Л1ым дзыохэр щыдым '''тихыгъэх'''",
+            "translation": "The man '''took''' the sacks '''off''' the donkey."
           },
 		  {
             "sentence": "Псыр газым '''темыхыгу'''",
@@ -86637,7 +86753,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "each",
+        "meaning": "every, each",
         "examples": [
           {
             "sentence": "'''Тэдрэз''' лъэпкъым быракъ и1",
@@ -86658,6 +86774,10 @@
           {
             "sentence": "'''Тэдрэз''' пхъэнт1эк1оу ти1эм лъэкъуипл1 и1",
             "translation": "'''Each''' chair we have have four legs."
+          },
+		  {
+            "sentence": "'''Тэдрэз''' лъэпкъым тхьэл1ык1о къыфэк1уагъ.",
+            "translation": "A prophet was sent to '''every''' tribe."
           }
         ]
       }
@@ -102587,6 +102707,10 @@
           {
             "sentence": "Л1ыр '''щыдыым''' тес",
             "translation": "The man is siting on '''the donkey'''."
+          },
+		  {
+            "sentence": "Л1ым дзыохэр '''щыдым''' тихыгъэх",
+            "translation": "The man took the sacks off the '''donkey'''."
           }
         ]
       }
@@ -104659,6 +104783,10 @@
 		  {
             "sentence": "Л1ым '''чатэр''' къыдихыгъ",
             "translation": "The man drew '''the sword'''."
+          },
+		  {
+            "sentence": "Чатэк1э ц1ыфым ышъхьэ ш1осхыгъ",
+            "translation": "I took off the person's head '''with a sword'''."
           }
         ]
       }
@@ -107047,6 +107175,10 @@
           {
             "sentence": "Л1ым '''ышъхьэ ш1уахыгъ'''",
             "translation": "The man '''got decapitated'''."
+          },
+		  {
+            "sentence": "Шъхьэпылъап1эк1э ц1ыфыхэмэ '''ашъхьэхэр ш1уахых'''",
+            "translation": "On the gallows, '''they decapitate''' people."
           }
         ]
       }
@@ -117041,6 +117173,10 @@
           {
             "sentence": "Къухьэбыбэу '''къыблэбыбыгъэр''' плъэгъугъа?",
             "translation": "Did you see the airplane that '''flew by'''?"
+          },
+		  {
+            "sentence": "бзыу отэр '''къэтблэбыбыгъ'''",
+            "translation": "A flock of birds '''flew past us'''."
           }
         ]
       }
@@ -122865,11 +123001,49 @@
     "definitions": [
       {
         "meaning": "to yawn",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Чъые къысэк1у, '''сжэ зэк1эк1ы'''",
+            "translation": "I feel sleepy, '''I am yawning'''."
+          },
+		  {
+            "sentence": "Чъые къыок1уа? '''ужэ зэк1эк1ы'''",
+            "translation": "Are you feeling sleepy? '''You are yawning'''."
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "ʒa zat͡ʃʼat͡ʃʼən"
+  },
+  {
+    "word": "чъые къек1ун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to feel sleepy",
+        "examples": [
+          {
+            "sentence": "'''Чъые къысэк1у''', сжэ зэк1эк1ы",
+            "translation": "'''I feel sleepy''', I am yawning."
+          },
+		  {
+            "sentence": "'''Чъые къыок1уа'''? ужэ зэк1эк1ы",
+            "translation": "'''Are you feeling sleepy'''? You are yawning."
+          },
+		  {
+            "sentence": "К1алэм чъые '''къек1угъэти''', яунэ к1ожьыгъ чъыежьынэу",
+            "translation": "'''Because the boy felt sleepy''', he returned home to sleep."
+          },
+          {
+            "sentence": "Икъунэу учъыягъэпи '''чъые къыок1у'''",
+            "translation": "Because you did not slept enough, '''you are sleepy'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "t͡ʂəja qajkʷʼən"
   },
   {
     "word": "папыщ",
@@ -122924,7 +123098,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to not work out; to not go accordingly to plan",
+        "meaning": "negative form of \"къыдэхъун\"",
         "examples": []
       }
     ],
@@ -122960,12 +123134,46 @@
     "ipa": "ɬəχʷaːkʷʼa"
   },
   {
+    "word": "ш1охын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to take off something from",
+        "examples": [
+		  {
+            "sentence": "Л1ым дзыохэр щыдым '''ш1уихыгъэх'''",
+            "translation": "The man '''took''' the sacks '''off''' the donkey."
+          },
+		  {
+            "sentence": "Л1ым ощышъхьэр ощым '''ш1уихыгъ'''",
+            "translation": "The man '''took''' the head of the axe '''off'''."
+          },
+		  {
+            "sentence": "Чатэк1э ц1ыфым ышъхьэ '''ш1осхыгъ'''",
+            "translation": "'''I took off''' the person's head with a sword."
+          },
+		  {
+            "sentence": "Шъхьэпылъап1эк1э ц1ыфыхэмэ ашъхьэхэр '''ш1уахых'''",
+            "translation": "On the gallows, '''they take''' people's heads '''off'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʂħapəɬaːpʼa"
+  },
+  {
     "word": "шъхьэпылъап1э",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "gallows, gibbet",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Шъхьэпылъап1эк1э''' ц1ыфыхэмэ ашъхьэхэр ш1уахых",
+            "translation": "'''On the gallows''', they decapitate people."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -122982,6 +123190,18 @@
     ],
     "type": "noun",
     "ipa": "ɬʼaʁʷaːb"
+  },
+  {
+    "word": "ц1ыфышъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "human skin",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡sʼəfəʃʷa"
   },
   {
     "word": "ц1ыфышъхьэ",
@@ -123012,7 +123232,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "lash",
+        "meaning": "lash; whip",
         "examples": []
       }
     ],
@@ -123025,7 +123245,12 @@
     "definitions": [
       {
         "meaning": "saying",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''1о''' и1эп хъугъэмк1э",
+            "translation": "The boy has no '''saying''' in what happened."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -123078,7 +123303,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(vulgar) shit; expression of failure.",
+        "meaning": "(vulgar) shit (expression of failure)",
         "examples": [],
         "tags": [
           "vulgar"
@@ -123093,19 +123318,52 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "flock",
-        "examples": []
+        "meaning": "flock (a large number of birds, animals, fishes)",
+        "examples": [
+          {
+            "sentence": "мэл '''отэр'''",
+            "translation": "A '''flock of''' sheeps."
+          },
+		  {
+            "sentence": "бзыу '''отэр'''",
+            "translation": "A '''flock of''' birds."
+          },
+		  {
+            "sentence": "пцэжъые '''отэр'''",
+            "translation": "A '''flock of''' fishes."
+          },
+		  {
+            "sentence": "бзыу '''отэр''' къэтблэбыбыгъ",
+            "translation": "A '''flock of''' birds flew past us."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "watar"
   },
   {
+    "word": "лэнтхъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "fibrous",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ɮantχʷ"
+  },
+  {
     "word": "к1эпы",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "cannabis, hemp",
+        "meaning": "hemp",
+        "examples": []
+      },
+	  {
+        "meaning": "cannabis",
         "examples": []
       }
     ],
@@ -123113,12 +123371,29 @@
     "ipa": "t͡ʃʼapə"
   },
   {
+    "word": "к1эпык1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "hemp seed",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃʼapət͡ʃʼ"
+  },
+  {
     "word": "гъэтхъын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to scutch, to swingle",
-        "examples": []
+        "meaning": "to scutch (to separate the woody fibre from (flax, hemp, etc.) by beating), to swingle",
+        "examples": [
+          {
+            "sentence": "К1алэм к1эпыр '''ыгъэтхъыгъ'''",
+            "translation": "The boy '''scutched''' the hemp."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -123130,10 +123405,7 @@
     "definitions": [
       {
         "meaning": "(vulgar) meaningless",
-        "examples": [],
-        "tags": [
-          "vulgar"
-        ]
+        "examples": []
       }
     ],
     "type": "intj",
@@ -123145,11 +123417,48 @@
     "definitions": [
       {
         "meaning": "to take pride",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ц1ыфыр ихэгъэгу '''рэгушхо'''",
+            "translation": "A person '''takes pride''' in his country."
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "rəɡʷəʃxʷan"
+  },
+  {
+    "word": "пэгэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to put on airs",
+        "examples": []
+      },
+	  {
+        "meaning": "to become haughty",
+        "examples": []
+      },
+	  {
+        "meaning": "to be prideful; to be arrogant",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "rəpaɣan"
+  },
+  {
+    "word": "рыпэгэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to take pride",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "rəpaɣan"
   },
   {
     "word": "пацэ",
@@ -123157,7 +123466,12 @@
     "definitions": [
       {
         "meaning": "fur, hair (animal hair or human body hair)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм шъхьантэр '''пацэк1э''' ыш1ыгъ",
+            "translation": "The boy made the pillow out of '''fur'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -123180,12 +123494,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "story",
-        "examples": []
-      },
-      {
-        "meaning": "tale",
-        "examples": []
+        "meaning": "story; tale",
+        "examples": [
+          {
+            "sentence": "Л1ыжъым '''тхыдэжъ''' къе1уатэ",
+            "translation": "The old-man tells a '''tale'''."
+          },
+		  {
+            "sentence": "Сятэ сымычъыежьыгъэу '''тхыдэжъхэр''' къэсфи1отэщтыгъ",
+            "translation": "My father used to tell me '''stories''' before sleeping."
+          }
+        ]
       }
     ],
     "type": "noun",
