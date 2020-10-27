@@ -37445,6 +37445,10 @@
 		  {
             "sentence": "Унашъхьэм '''сыкъехышъурэп''', сэщынэ, сыкъепщэхышъущта?",
             "translation": "'''I can't get down from''' the roof, I am scared, can you take me down?"
+          },
+		  {
+            "sentence": "'''Укъехэу''' зыхъук1э, 1унк1ыбзэр къыздехьэх",
+            "translation": "When '''you get down''', bring the key down with you."
           }
         ]
       }
@@ -123536,7 +123540,24 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to carry down",
+        "meaning": "to carry down; to bring down",
+        "examples": [
+          {
+            "sentence": "Укъехэу зыхъук1э, 1унк1ыбзэр '''къыздехьэх'''",
+            "translation": "When you get down, '''bring''' the key '''down with you'''."
+          },
+		  {
+            "sentence": "К1алэм уатэр к1ашъом '''къырехьэхы'''",
+            "translation": "The boy '''brings down''' the hammer from the ceiling."
+          },
+		  {
+            "sentence": "Къушхьэм пхъэхэр '''къырахьэхых'''",
+            "translation": "'''They are carrying''' woods '''down from''' the mountain."
+          }
+        ]
+      },
+	  {
+        "meaning": "(some dialectals) to download",
         "examples": []
       }
     ],

@@ -9364,7 +9364,7 @@
     "bride": "къэщэн"
   },
   {
-    "to bring": "къэщэн (to bring someone, to lead someone here); фэхьын (to bring for); къэхьын (to bring something); ехьыл1эн; къыыдэхьын (to come bringing something); къэгъэк1он (to make someone come here)"
+    "to bring": "къэщэн (to bring someone, to lead someone here); фэхьын (to bring for); къэхьын (to bring something); къехьэхын (to bring something down); дэхьыен (to bring something up); ехьыл1эн; къыыдэхьын (to come bringing something); къэгъэк1он (to make someone come here)"
   },
   {
     "walnut": "дае"
