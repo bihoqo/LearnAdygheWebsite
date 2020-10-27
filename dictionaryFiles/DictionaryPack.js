@@ -4572,7 +4572,13 @@
     "definitions": [
       {
         "meaning": "day",
-        "examples": []
+        "examples": [
+          ,
+		  {
+            "sentence": "'''Мэфищэ''' къалэм сыкъэтыщт",
+            "translation": "I will stay in the city for '''three days'''."
+          }
+        ]
       },
 	  {
         "meaning": "twenty-four hours",
@@ -4677,7 +4683,16 @@
     "definitions": [
       {
         "meaning": "year",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Л1ыр а 1офым 1ут '''илъэсипш1э'''",
+            "translation": "The man has been in that work for '''ten years'''."
+          },
+		  {
+            "sentence": "К1алэр Америкэм '''илъэситфэ''' къэтыгъ",
+            "translation": "The boy was in America for '''five years'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -4945,6 +4960,10 @@
           {
             "sentence": "'''нычэпэ''' Томэр къэк1уагъ",
             "translation": "'''Tonight''' Tom came."
+          },
+		  {
+            "sentence": "Нычэпэ Куджаным яунэ '''сыкъэтыщт'''",
+            "translation": "'''Tonight''' I will stay at Kujan's house."
           }
         ]
       }
@@ -10067,6 +10086,10 @@
           {
             "sentence": "'''Сыхьатык1э''' тыдэк1ыт.",
             "translation": "We will go out '''in an hour'''."
+          },
+		  {
+            "sentence": "Непэ тучанышхом тык1озэ '''сыхьатит1о''' горэ тыкъэтынъ",
+            "translation": "Today we went to the marked and stay there for some '''two hours'''."
           }
         ]
       }
@@ -18116,6 +18139,10 @@
 		  {
             "sentence": "К1алэм сгу фэузы '''и1офк1э''' къин ехъути",
             "translation": "I feel bad for the boy because he suffers '''in work'''."
+          },
+		  {
+            "sentence": "Л1ыр а '''1офым''' 1ут илъэсипш1э",
+            "translation": "The man has been in that '''work''' for ten years."
           }
         ]
       },
@@ -35684,6 +35711,10 @@
           {
             "sentence": "Хьак1эр мэзищэ тиунэ '''исыгъ'''",
             "translation": "The guest '''stayed in''' my house for three months"
+          },
+		  {
+            "sentence": "К1алэр Америкэм илъэситфэ '''исыгъ'''",
+            "translation": "The boy '''was in''' America for five years."
           }
         ]
       }
@@ -92365,6 +92396,10 @@
 		  {
             "sentence": "Экзамыным бэу къыпхыгъэу '''ч1эк1ын'''",
             "translation": "You '''probably''' got high [grades] in the exam."
+          },
+		  {
+            "sentence": "Л1ыр а 1офым 1ут илъэсипш1э, 1офыр ыпэ къыик1ыжьыгъэу '''ч1эк1ын'''",
+            "translation": "The man worked in that work for ten years, he '''probably''' got fed up with the job."
           }
         ]
       }
@@ -110571,6 +110606,10 @@
 		  {
             "sentence": "Фабрикэм '''сы1утыгъ'''",
             "translation": "I was working '''in''' a factory."
+          },
+		  {
+            "sentence": "Л1ыр а 1офым '''1ут''' илъэсипш1э, 1офыр ыпэ къыик1ыжьыгъэу ч1эк1ын",
+            "translation": "The man '''has been in''' that work for ten years, he probably got fed up with the job."
           }
         ]
       },
@@ -123594,7 +123633,12 @@
     "definitions": [
       {
         "meaning": "silly, stupid, foolish",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1элэ '''1улэ'''",
+            "translation": "'''foolish''' boy."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -123617,16 +123661,126 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(vulgar slang) to do a certain activity repetitively many times to the point that one gets bored or burned out from that activity",
-        "examples": [],
-        "tags": [
-          "vulgar",
-          "slang"
+        "meaning": "(vulgar slang) to get fed up; to have had it; to become sick and tired of; to do a certain activity repetitively many times to the point that one gets bored or burned out from that activity",
+        "examples": [
+		  {
+            "sentence": "1офыр '''ышъуты къыик1ыжьын'''",
+            "translation": "'''To get fed up with''' the work."
+          },
+		  {
+            "sentence": "К1алэм 1офыр '''ышъуты къыик1ыжьыгъ'''",
+            "translation": "The boy '''get fed up with''' the work."
+          },
+		  {
+            "sentence": "Мы джэгур '''тшъуты къик1ыжьыгъ'''",
+            "translation": "'''We became tired and sick with''' this game."
+          },
+		  {
+            "sentence": "К1алэм а фылымыр '''тшъуты къыригъэк1ыжьыгъ'''",
+            "translation": "The boy '''made us tired and sick of''' that movie."
+          },
+		  {
+            "sentence": "Мы фылымыр пш1ырэ сылъэгъугъ, '''сшъуты къыик1ыжьыгъ'''",
+            "translation": "I saw this film ten times, '''I got fed up with it'''."
+          },
+		  {
+            "sentence": "Тхьапшэрэ хьамбургер тышхыщт? '''сшъуты къыик1ыжьыгъ'''",
+            "translation": "For how long are we going to eat a hamburger? '''I got fed up with it'''."
+          },
+		  {
+            "sentence": "Л1ыр а 1офым 1ут илъэсипш1э, 1офыр '''ышъуты къыик1ыжьыгъэу''' ч1эк1ын",
+            "translation": "The man worked in that work for ten years, '''he''' probably '''got fed up with''' the job."
+          }
         ]
       }
     ],
+    "synonyms": [
+      "пэгъуанэ къик1ыжьын",
+      "шъутыгъуанэм къик1ыжьын (vulgar)",
+      "пэм къик1ыжьын"
+    ],
     "type": "verb",
     "ipa": "ʃʷətəm qəjt͡ʃʼəʑən"
+  },
+  {
+    "word": "шъутыгъуанэм къик1ыжьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"шъутым къик1ыжьын\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "пэгъуанэ къик1ыжьын",
+      "пэм къик1ыжьын",
+      "шъутыгъуанэм къик1ыжьын (vulgar)"
+    ],
+    "type": "verb",
+    "ipa": "ʃʷətəʁʷaːnam qəjt͡ʃʼəʑən"
+  },
+  {
+    "word": "пэм къик1ыжьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(vulgar slang) to get fed up; to have had it; to become sick and tired of; to do a certain activity repetitively many times to the point that one gets bored or burned out from that activity",
+        "examples": [
+          {
+            "sentence": "1офыр '''ыпэ къыик1ыжьын'''",
+            "translation": "'''To get fed up with''' the work."
+          },
+		  {
+            "sentence": "К1алэм 1офыр '''ыпэ къыик1ыжьыгъ'''",
+            "translation": "The boy '''get fed up with''' the work."
+          },
+		  {
+            "sentence": "Мы джэгур '''тпэ къик1ыжьыгъ'''",
+            "translation": "'''We became tired and sick with''' this game."
+          },
+		  {
+            "sentence": "К1алэм а фылымыр '''тпэ къыригъэк1ыжьыгъ'''",
+            "translation": "The boy '''made us tired and sick of''' that movie."
+          },
+		  {
+            "sentence": "Мы фылымыр пш1ырэ сылъэгъугъ, '''спэ къыик1ыжьыгъ'''",
+            "translation": "I saw this film ten times, '''I got fed up with it'''."
+          },
+		  {
+            "sentence": "Тхьапшэрэ хьамбургер тышхыщт? '''спэ къыик1ыжьыгъ'''",
+            "translation": "For how long are we going to eat a hamburger? '''I got fed up with it'''."
+          },
+		  {
+            "sentence": "Л1ыр а 1офым 1ут илъэсипш1э, 1офыр '''ыпэ къыик1ыжьыгъэу''' ч1эк1ын",
+            "translation": "The man worked in that work for ten years, '''he''' probably '''got fed up with''' the job."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "пэгъуанэ къик1ыжьын",
+      "шъутым къик1ыжьын (vulgar)",
+      "шъутыгъуанэм къик1ыжьын (vulgar)"
+    ],
+    "type": "verb",
+    "ipa": "pam qəjt͡ʃʼəʑən"
+  },
+  {
+    "word": "пэгъуанэм къик1ыжьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"пэ къик1ыжьын\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "шъутым къик1ыжьын (vulgar)",
+      "пэм къик1ыжьын",
+      "шъутыгъуанэм къик1ыжьын (vulgar)"
+    ],
+    "type": "verb",
+    "ipa": "paʁʷaːnam qəjt͡ʃʼəʑən"
   },
   {
     "word": "нэнау",
@@ -123634,7 +123788,12 @@
     "definitions": [
       {
         "meaning": "baby",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Мо къак1о '''синэнау''' ц1ык1у",
+            "translation": "Come here, my little '''baby'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -123649,7 +123808,12 @@
     "definitions": [
       {
         "meaning": "baby",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Мо къак1о '''синану''' ц1ык1у",
+            "translation": "Come here, my little '''baby'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -123659,11 +123823,48 @@
     "ipa": "naːnəw"
   },
   {
+    "word": "къэтын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to hand over, to deliver, to give",
+        "examples": []
+      },
+	  {
+        "meaning": "to stay somewhere (for a period of time, like for example: late in night, several days, several month, several years, etc.)",
+        "examples": [
+          {
+            "sentence": "К1алэр Америкэм илъэситфэ '''къэтыгъ'''",
+            "translation": "The boy '''was in''' America for five years."
+          },
+		  {
+            "sentence": "Нычэпэ Куджаным яунэ '''сыкъэтыщт'''",
+            "translation": "Tonight '''I will stay at''' Kujan's house."
+          },
+		  {
+            "sentence": "Мэфищэ къалэм '''сыкъэтыщт'''",
+            "translation": "'''I will stay in''' the city for three days."
+          },
+		  {
+            "sentence": "Тхьапшэрэ паркым '''шъукъэтыгъ''' непэ?",
+            "translation": "For how long have '''you stayed''' in the park today?"
+          },
+		  {
+            "sentence": "Непэ тучанышхом тык1озэ сыхьатит1о горэ '''тыкъэтынъ'''",
+            "translation": "Today we went to the marked and '''stay there''' for some two hours."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "qatən"
+  },
+  {
     "word": "пчыхьэзэхахь",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "party",
+        "meaning": "party (in the evening)",
         "examples": []
       }
     ],

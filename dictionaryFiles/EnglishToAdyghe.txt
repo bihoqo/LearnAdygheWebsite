@@ -8137,7 +8137,7 @@
     "to get trapped": "дэнэн / къыдэнэн (to get trapped between); хэнэн / къыхэнэн (to get trapped in a company, bushes, forest, liquid, gas or solid); тенэн / къытенэн (to get trapped on above something); инэн / къинэн (to get trapped inside something); ч1энэн / къыч1энэн (to get trapped under something); пынэн / къыпынэн (to get trapped and undetachable); дэп1ыт1эн (to get trapped and squeezed in a narrow place or hole)"
   },
   {
-    "to stay": "къы1унэн (to stay behind); исын; илъын (to stay overnight); хэнэн / къыхэнэн (to stay in a company, bushes, forest, liquid, gas or solid); тенэн / къытенэн (to stay on above something); инэн / къинэн (to stay inside something); ч1энэн / къыч1энэн (to stay under something); пынэн / къыпынэн (to stay attached)"
+    "to stay": "къэтын (to stay somewhere (for a period of time, like for example: late in night, several days, several month, several years, etc.)); къы1унэн (to stay behind); исын (to stay in, to be in); илъын (to stay overnight); хэнэн / къыхэнэн (to stay in a company, bushes, forest, liquid, gas or solid); тенэн / къытенэн (to stay on above something); инэн / къинэн (to stay inside something); ч1энэн / къыч1энэн (to stay under something); пынэн / къыпынэн (to stay attached)"
   },
   {
     "to remain": "къы1унэн (to remain behind); къэгъэнэн / къэгъэнэжьын (to remain something, to remain leftovers, to leave leftovers); къэнэн / къэнэжьын (something to remain as a leftover); къинэжьын (something to remain inside as a leftovers); къытенэжьын (to remain something above, to leave behind something above); къыч1энэжьын (to remain something under, to leave behind something under); хэнэн / къыхэнэн (to remain in a company, bushes, forest, liquid, gas or solid); тенэн / къытенэн (to remain on above something); инэн / къинэн (to remain inside something); ч1энэн / къыч1энэн (to remain under something); пынэн / къыпынэн (to remain attached)"
@@ -8986,7 +8986,19 @@
     "curved": "1онт1агъ; 1орт1агъ (Shapsug); къуащэ"
   },
   {
-    "foolish": "делэ; жэ1улэл; (vulgar) цуманэ; хьакъ-мэкъ; акъылынчъ (brainless)"
+    "to get fed up": "пэм къик1ыжьын / пэгъуанэм къик1ыжьын (to get fed up; to become sick and tired of); (vulgar) шъутым къик1ыжьын / шъутыгъуанэм къик1ыжьын (to get fed up)"
+  },
+  {
+    "to have had it": "пэм къик1ыжьын / пэгъуанэм къик1ыжьын (to get fed up; to become sick and tired of); (vulgar) шъутым къик1ыжьын / шъутыгъуанэм къик1ыжьын (to get fed up; to become sick and tired of)"
+  },
+  {
+    "to become sick of": "пэм къик1ыжьын / пэгъуанэм къик1ыжьын (to get fed up; to become sick and tired of); (vulgar) шъутым къик1ыжьын / шъутыгъуанэм къик1ыжьын (to get fed up; to become sick and tired of)"
+  },
+  {
+    "to become tired of": "пэм къик1ыжьын / пэгъуанэм къик1ыжьын (to get fed up; to become sick and tired of); (vulgar) шъутым къик1ыжьын / шъутыгъуанэм къик1ыжьын (to get fed up; to become sick and tired of)"
+  },
+  {
+    "foolish": "делэ; 1улэ; жэ1улэл; (vulgar) цуманэ; хьакъ-мэкъ; акъылынчъ (brainless)"
   },
   {
     "silly": "мы1уш; жэ1улэл; 1улэ"
@@ -11917,7 +11929,7 @@
     "to dehydrate": "гъун (to get dehydrated); гъэгъун"
   },
   {
-    "to be in": "илъын; дэлъын"
+    "to be in": "илъын (to be inside); дэлъын (to be inside); исын (to stay in, to be in); къэтын (to stay somewhere (for a period of time, like for example: late in night, several days, several month, several years, etc.))"
   },
   {
     "to be unber": "ч1элъын"
