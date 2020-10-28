@@ -186,7 +186,7 @@
     "lemon": "лимон"
   },
   {
-    "meat": "лы; лалэ"
+    "meat": "лы; лалэ; лы1у (piece of meat)"
   },
   {
     "flesh": "лы"
@@ -472,6 +472,9 @@
   },
   {
     "lowland": "лъэгуан; ч1ыох; к1эй (valley); охы"
+  },
+  {
+    "low place": "лъэгуан; ч1ыох; к1эй (valley); охы"
   },
   {
     "navel": "ныбыдж"
@@ -1941,10 +1944,7 @@
     "stocking": "лъэпэд"
   },
   {
-    "ring": "1элъын; 1елъын"
-  },
-  {
-    "hoop": "хъурджан"
+    "ring": "1элъын; (Shapsug) 1елъын; хъурджан"
   },
   {
     "necklace": "жэгъуч1элъ; (dialectal) джэгъуч1элъ"
@@ -3354,6 +3354,9 @@
     "mountaineer": "къушъхьэч1эс; бгырыс"
   },
   {
+    "mountain-dweller": "къушъхьэч1эс; бгырыс"
+  },
+  {
     "mountainous": "къушъхьэлъэ; бгырыс"
   },
   {
@@ -3394,6 +3397,12 @@
   },
   {
     "hornless": "бжъако"
+  },
+  {
+    "uterus": "лъфалъ"
+  },
+  {
+    "womb": "лъфалъ"
   },
   {
     "baklava": "бэкъылао"
@@ -3705,7 +3714,13 @@
     "bee family": "бжьэбын"
   },
   {
-    "bee queen": "бжьэпщ"
+    "bee queen": "бжьэпщы"
+  },
+  {
+    "queen bee": "бжьэпщы"
+  },
+  {
+    "queen-bee": "бжьэпщы"
   },
   {
     "bee swarm": "бжьэпч1; бжьэцы"
@@ -4993,6 +5008,15 @@
     "to tear apart": "зэхэтхъын; цунтхъэн"
   },
   {
+    "cranium": "шъхьэкъупшъхьэ; шъхьэджан"
+  },
+  {
+    "skull": "шъхьэкъупшъхьэ"
+  },
+  {
+    "to insert": "хэлъхьан; хэгъэуцон"
+  },
+  {
     "to rip away": "хэтхъын; пытхъын"
   },
   {
@@ -5014,7 +5038,7 @@
     "to break off": "1утэкъун; пыутын (to break off a part from; to rip off a part from; to tear off a part from); зэпыутын (to break off from itself)"
   },
   {
-    "to tear": "пычын (to pick); хэтхъын / пытхъын (to tear off from); зэхэтхъын / зэпытхъын (to tear off from itself); къыпышъунк1ык1ын; 1утхъын (to tear off); зэхэгъэтэкъун (to tear down and collapse); пыутын (to break off a part from; to rip off a part from; to tear off a part from)"
+    "to tear": "пычын (to pick); хэтхъын / пытхъын (to tear off from); зэхэтхъын / зэпытхъын (to tear off from itself); къыпышъунк1ык1ын; 1утхъын (to tear off); зэхэгъэтэкъун (to tear down and collapse); пыутын (to break off a part from; to rip off a part from; to tear off a part from); зэхэтхъын / цунтхъэн (to tear part)"
   },
   {
     "nothing but": "зак1"
@@ -5578,7 +5602,7 @@
     "fly killer": "бэдзэгъал1э / бэдзэубыт (machine)"
   },
   {
-    "to grow": "хэхъон; нахь инэу хъун (to grow bigger); шъхьацы гъэк1ын (to grow headhair); к1ын / къик1ын (to grow (plants or hair)); гъэк1ын (to grow something (plants or hair)); шъхьац гъэк1ын (to grow headhair); цы гъэк1ын (to grow hair); жак1э гъэк1ын (to grow beard)"
+    "to grow": "хэхъон; нахь инэу хъун (to grow bigger); инэу хъун; шъхьацы гъэк1ын (to grow headhair); к1ын / къик1ын (to grow (plants or hair)); гъэк1ын (to grow something (plants or hair)); шъхьац гъэк1ын (to grow headhair); цы гъэк1ын (to grow hair); жак1э гъэк1ын (to grow beard)"
   },
   {
     "growth": "хэхъуагъэ; хэхъоныгъ"
@@ -7030,7 +7054,7 @@
     "gyves": "лъэхъу"
   },
   {
-    "handcuffs": "1эхъу; 1эхъу-пшъэхъухэр"
+    "handcuffs": "1эхъу; 1эхъу-пшъэхъу; 1эхъу-пшъэхъухэр"
   },
   {
     "legcuffs": "лъэхъу"
@@ -7249,10 +7273,10 @@
     "lamb": "мэлыл"
   },
   {
-    "wild boar": "мэзыкъу"
+    "wild boar": "мэзыкъо"
   },
   {
-    "boar": "къожъ; мэзыкъу (wild boar)"
+    "boar": "къожъ; мэзыкъо (wild boar)"
   },
   {
     "piglet": "къощыр"
@@ -7513,10 +7537,16 @@
     "hair-pin": "шъхьэхэ1у"
   },
   {
-    "to chain": "пыш1эн"
+    "to chain": "пыш1эн; зэпыш1эн (to chain together)"
   },
   {
-    "chain": "пшъэхъу"
+    "watch chain": "сыхьатыпс"
+  },
+  {
+    "watchchain": "сыхьатыпс"
+  },
+  {
+    "chain": "пшъэхъу; блэрыпс / пшъэхъужъый (chainlet)"
   },
   {
     "chainlet": "блэрыпс; пшъэхъужъый"
@@ -7913,6 +7943,21 @@
   },
   {
     "intelligible": "гуры1огъош1у"
+  },
+  {
+    "frank": "шъхьаихыгъ; шъхьашыгуихыгъ"
+  },
+  {
+    "blunt": "цако (dull); шъхьаихыгъ (frank, candid)"
+  },
+  {
+    "to blunt": "гъэуцэкун"
+  },
+  {
+    "candid": "шъхьаихыгъ; шъхьашыгуихыгъ"
+  },
+  {
+    "straightforward": "шъхьаихыгъ; шъхьашыгуихыгъ"
   },
   {
     "apparent": "къыхэщы; нэрылъэгъу"
@@ -13309,7 +13354,7 @@
     "card": "карт; (Shapsug) пк1эн"
   },
   {
-    "valley": "к1эй; лъэгу"
+    "valley": "к1эй; лъэгу; лъэгуан"
   },
   {
     "chasm": "т1ок1э куу; къое-ч1ай; къуладжэ; тауташ"
@@ -15205,10 +15250,13 @@
     "oh well": "хъугъэ"
   },
   {
+    "honest": "шъыпкъагъэ зыхэлъ; шъыпкъэ зы1орэр; шъхьаихыгъ (frank, candid)"
+  },
+  {
     "to become dull": "уцэкун  (to become unsharp); цако хъун (to become unsharp)"
   },
   {
-    "to dull": "уцэкун (to lose a sharp edge); цако хъун (to become unsharp)"
+    "to dull": "уцэкун (to lose a sharp edge); цако хъун (to become unsharp); гъэуцэкун (to make dull)"
   },
   {
     "to rely on": "щыгугъын"
@@ -17647,6 +17695,9 @@
     "to hunt": "шэк1он; ешэк1он (to hunt something); убытын / къэубытын (to be hunting something)"
   },
   {
+    "to prey": "шэк1он; ешэк1он (to hunt something); убытын / къэубытын (to be hunting something)"
+  },
+  {
     "to sigh": "хэщэтык1ын"
   },
   {
@@ -19436,12 +19487,9 @@
   },
   {
     "toothless": "цако"
-  },.
-  {
-    "dull": "цако"
   },
   {
-    "blunt": "цако"
+    "dull": "цако"
   },
   {
     "hoof": "лъабжъэ"
@@ -19651,7 +19699,7 @@
     "to tingle": "утэбжьэн (body-part)"
   },
   {
-    "to take shape": "теплъэ убытын / теплъэ къиубытын"
+    "to take shape": "теплъэ убытын / теплъэ къиыбытын"
   },
   {
     "to become good-looking": "теплъэ убытын / теплъэ къиубытын"

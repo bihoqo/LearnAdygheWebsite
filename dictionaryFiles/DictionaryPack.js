@@ -2208,7 +2208,12 @@
       },
       {
         "meaning": "neck",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Пшъашъэм '''ыпшъэтыкъ''' дышъэ блэрыпс илъ",
+            "translation": "The girl has a gold chainlet on '''her neck'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -5782,7 +5787,20 @@
     "definitions": [
       {
         "meaning": "gold",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Дышъэ''' 1элъын",
+            "translation": "'''Gold''' ring."
+          },
+		  {
+            "sentence": "'''Дышъэ''' сыхьатыпс",
+            "translation": "'''Gold''' watchchain."
+          },
+		  {
+            "sentence": "Пшъашъэм ыпшъэ '''дышъэ''' блэрыпс илъилъ",
+            "translation": "The girl has a '''gold''' chainlet on her neck."
+          }
+        ]
       }
     ],
     "kabardian": "дыщэ",
@@ -6390,11 +6408,29 @@
     "ipa": "psəχʷa"
   },
   {
-    "word": "псэушъхь",
+    "word": "псэушъхьэ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "animal",
+        "examples": [
+          {
+            "sentence": "Хьак1э-къуак1эхэмэ нэмык1 '''псэушъхьэхэр''' ашхых"
+            "translation": "Predators eat other '''animals'''."
+          }
+        ]
+      }
+    ],
+    "kabardian": "псэущхьэ",
+    "type": "noun",
+    "ipa": "psawʂħa"
+  },
+  {
+    "word": "псэушъхь",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"псэушъхьэ\"",
         "examples": []
       }
     ],
@@ -6420,7 +6456,12 @@
     "definitions": [
       {
         "meaning": "neck",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Пшъашъэм '''ыпшъэ''' дышъэ блэрыпс илъ",
+            "translation": "The girl has a gold chainlet on '''her neck'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -6432,7 +6473,12 @@
     "definitions": [
       {
         "meaning": "silver",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Тыжьын''' сыхьатыпс",
+            "translation": "'''Silver''' watchchain."
+          }
+        ]
       }
     ],
     "kabardian": "дыжьын",
@@ -9210,6 +9256,10 @@
 		  {
             "sentence": "Зэманым, '''тыгъуак1омэ''' а1эхэр ш1уагъэшъутыщтыгъэх",
             "translation": "In the past, they used to cut off arms of the '''thieves'''."
+          },
+		  {
+            "sentence": "'''Тыгъуак1ор''' тучаным ч1эк1ошъэн ы1озэ къаубытыгъ",
+            "translation": "The '''thief''' tried to sneak into the store but he got caught."
           }
         ]
       }
@@ -9474,7 +9524,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "hoop",
+        "meaning": "ring",
         "examples": []
       }
     ],
@@ -19306,6 +19356,10 @@
           {
             "sentence": "К1алэм '''къиубытыгъ''' л1ыр",
             "translation": "The boy '''caught''' the man."
+          },
+		  {
+            "sentence": "Тыгъуак1ор тучаным ч1эк1ошъэн ы1озэ '''къаубытыгъ'''",
+            "translation": "The thief tried to sneak into the store but '''he got caught'''."
           }
         ]
       },
@@ -22412,6 +22466,18 @@
           {
             "sentence": "К1алэм джанэр '''зэхетхъы'''",
             "translation": "The boy '''is tearing apart''' the shirt."
+          },
+		  {
+            "sentence": "К1алэм тхылъыр '''зэхитхъыгъ'''",
+            "translation": "The boy '''torn''' the paper '''apart'''."
+          },
+		  {
+            "sentence": "Джанэр '''зэхэтхъыгъэ'''",
+            "translation": "The shirt '''is torn apart'''."
+          },
+		  {
+            "sentence": "К1алэр тхылъыр еджи '''зэхитхъыгъ''' ",
+            "translation": "The boy read the paper and '''torn it apart'''."
           }
         ]
       }
@@ -28741,7 +28807,7 @@
         ]
       },
       {
-        "meaning": "small (the size of a fragment of some sort, small thing or small piece)",
+        "meaning": "small; small piece (the size of a fragment of some sort, small thing or small piece)",
         "examples": [
           {
             "sentence": "Лыр '''Жъгъэеу''' ш1ын",
@@ -28754,6 +28820,10 @@
 		  {
             "sentence": "Къутафыр '''жъгъэеу''' къэнэжьыхэрэр зыгорэ зыкъутэрэм",
             "translation": "A fragment is the '''small things''' that remain when something shatters."
+          },
+		  {
+            "sentence": "К1алэм картофыр '''жъгъэеу''' ыупк1этагъ",
+            "translation": "The boy chopped the potato '''into pieces'''."
           }
         ]
       }
@@ -32316,7 +32386,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "wild boar",
+        "meaning": "alternative form of \"мэзыкъо\"",
         "examples": []
       }
     ],
@@ -38173,6 +38243,10 @@
           {
             "sentence": "К1алэм Адыгэбзэк1э гущы1ак1э зэригъэш1эн '''е1о'''",
             "translation": "The boy '''is trying''' to learn how to speak the Adyghe language."
+          },
+		  {
+            "sentence": "Тыгъуак1ор тучаным ч1эк1ошъэн '''ы1озэ''' къаубытыгъ",
+            "translation": "The thief '''tried''' to sneak into the store but he got caught."
           }
         ]
       }
@@ -101582,6 +101656,10 @@
           {
             "sentence": "К1алэм ичэтыухэр '''ыгъэсагъэх'''",
             "translation": "The boy '''timed ''' his cats."
+          },
+		  {
+            "sentence": "Л1ым шы емлыч '''ыгъэсэн''' ы1уагъ",
+            "translation": "The man tried '''to tame''' the wild horse."
           }
         ]
       }
@@ -104714,9 +104792,7 @@
         ]
       }
     ],
-    "synonyms": [
-      "к1уэц1ыхьэн"
-    ],
+    "kabardian": "к1уэц1ыхьэн",
     "type": "verb",
     "ipa": "kʷʼat͡sʼəħaːn"
   },
@@ -113236,7 +113312,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "small; tiny (the size of a fragment of some sort)",
+        "meaning": "small (the size of a fragment of some sort)",
         "examples": [
           {
             "sentence": "Лыр '''шъхъэеу''' ш1ын",
@@ -113249,6 +113325,10 @@
 		  {
             "sentence": "Къутафыр '''шъхъэеу''' къэнэжьыхэрэр зыгорэ зыкъутэрэм",
             "translation": "A fragment is the '''small things''' that remain when something shatters."
+          },
+		  {
+            "sentence": "К1алэм картофыр '''шъхъэеу''' ыупк1этагъ",
+            "translation": "The boy chopped the potato '''into pieces'''."
           }
         ]
       }
@@ -123875,6 +123955,30 @@
     "ipa": "pt͡ʃəħazaxaːħ"
   },
   {
+    "word": "шъхьэджан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "skull; cranium",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʂħad͡ʒaːn"
+  },
+  {
+    "word": "шъхьэкъупшъхьэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "skull; cranium",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʂħaqʷəpʂħa"
+  },
+  {
     "word": "зы1уамылъхьажь",
     "lang": "Adyghe",
     "definitions": [
@@ -123891,8 +123995,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to get numb; to tingle (body-part)",
-        "examples": []
+        "meaning": "to get numb; to become numb; to tingle (body-part)",
+        "examples": [
+          {
+            "sentence": "с1эр '''утэбжьагъэ'''",
+            "translation": "My arm '''got numb'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -123902,16 +124011,55 @@
     "ipa": "wətabʑan"
   },
   {
+    "word": "инэу хъун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to grow",
+        "examples": [
+          {
+            "sentence": "Чъыгыр '''инэу зэхъум''' теплъэ къиубытыгъ",
+            "translation": "'''When''' the tree '''grew''' it took shape."
+          },
+		  {
+            "sentence": "К1алэр '''инэу хъугъэ'''",
+            "translation": "The boy '''grew'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "jənaw χʷən"
+  },
+  {
     "word": "теплъэ убытын",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to take shape",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Чъыгыр инэу зэхъум '''теплъэ къиубытыгъ'''",
+            "translation": "When the tree grew '''it took shape'''."
+          },
+		  {
+            "sentence": "Л1ыхэр унэм пылэжьыхьэхэу унэм '''теплъэ къиубытыгъ''' иублагъ",
+            "translation": "As the men worked on the house, the house started '''to take shape'''."
+          },
+		  {
+            "sentence": "Сайтым '''теплъэ къиубытэу''' иублагъ",
+            "translation": "The site start '''to take shape'''."
+          }
+        ]
       },
       {
         "meaning": "to become good-looking",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Уодымэ '''теплъэ къэбыубытыщт'''",
+            "translation": "If you get slimmer '''you will become good-looking'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -123921,15 +124069,11 @@
     "ipa": "tajpɬa əwəbətən"
   },
   {
-    "word": "теплъэ къиубытын",
+    "word": "теплъэ къыубытын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to take shape",
-        "examples": []
-      },
-      {
-        "meaning": "to become good-looking",
+        "meaning": "alternative form of \"теплъэ убытын\"",
         "examples": []
       }
     ],
@@ -123957,7 +124101,12 @@
     "definitions": [
       {
         "meaning": "wild (animal); untamed",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ым шы '''емлыч''' ыгъэсэн ы1уагъ",
+            "translation": "The man tried to tame the '''wild''' horse."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -124022,7 +124171,12 @@
       },
       {
         "meaning": "gluttonous, voracious, one who eats excessively",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ы '''бэшх'''",
+            "translation": "A '''gluttonous'' man."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -124037,11 +124191,28 @@
     "definitions": [
       {
         "meaning": "to mate (animals)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Шыр '''лъыхъожьыгъ'''",
+            "translation": "The horse '''mated'''."
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "ɬəχʷaʑən"
+  },
+  {
+    "word": "гъэлъыхъожьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to breed",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʁaɬəχʷaʑən"
   },
   {
     "word": "чэмыбгъэ",
@@ -124061,11 +124232,36 @@
     "definitions": [
       {
         "meaning": "to tear apart/asunder, to tear up",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм тхылъыр '''ыцунтхъагъ'''",
+            "translation": "The boy '''torn''' the paper '''apart'''."
+          },
+		  {
+            "sentence": "Джанэр '''цунтхъагъэ''' ",
+            "translation": "The shirt '''is torn apart'''."
+          },
+		  {
+            "sentence": "К1алэр тхылъыр еджи '''ыцунтхъагъ''' ",
+            "translation": "The boy read the paper and '''torn it apart'''."
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "t͡ʃʷəntχan"
+  },
+  {
+    "word": "лы1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "piece by meat",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ləʔʷ"
   },
   {
     "word": "лы1у-лы1оу",
@@ -124075,8 +124271,8 @@
         "meaning": "piece by piece",
         "examples": [
           {
-            "sentence": "Лыр '''лы1у-лы1оу''' ыупк1этагъ",
-            "translation": "The meat '''is cut''' piece by piece."
+            "sentence": "Бзылъфыгъэм лыр '''лы1у-лы1оу''' ыупк1этагъ",
+            "translation": "The woman cut the meat '''piece by piece'''."
           }
         ]
       }
@@ -124090,11 +124286,37 @@
     "definitions": [
       {
         "meaning": "to chop; to cut into pieces; to slice into pieces",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм лыр '''ыупк1этагъ'''",
+            "translation": "The boy '''chopped''' the meat."
+          },
+		  {
+            "sentence": "К1алэм картофыр жъгъэеу '''ыупк1этагъ'''",
+            "translation": "The boy '''chopped''' the potato into pieces."
+          },
+		  {
+            "sentence": "Бзылъфыгъэм лыр лы1у-лы1оу '''ыупк1этагъ'''",
+            "translation": "The woman '''cut''' the meat piece by piece."
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "wəpt͡ʃʼatan"
+  },
+  {
+    "word": "мэзыкъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "wild boar",
+        "examples": []
+      }
+    ],
+    "shapsug": "мэзыхъо",
+    "type": "noun",
+    "ipa": "mazəqʷa"
   },
   {
     "word": "хьак1э-къуак1э",
@@ -124102,11 +124324,58 @@
     "definitions": [
       {
         "meaning": "predator; wild beast",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Хьак1э-къуак1эр''' псэушъхьэу нэмык1 псэушъхьэхэр зишхыхэрэр",
+            "translation": "A '''predator''' is an animal that eats other animals."
+          },
+		  {
+            "sentence": "'''Хьак1э-къуак1эхэмэ''' нэмык1 псэушъхьэхэр ашхых"
+            "translation": "'''Predators''' eat other animals."
+          }
+		  {
+            "sentence": "'''Хьак1э-къуак1эхэр''' мэзым хэсых",
+            "translation": "The '''predators''' are in the forest."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "ħaːt͡ʃʼa-qʷaːt͡ʃʼa"
+  },
+  {
+    "word": "гъэуцэкун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to dull something (to make something lose sharpness); to blunt",
+        "examples": [
+          {
+            "sentence": "К1алэм шъэжъыер '''ыгъэуцэкугъ''' бэрэ рилажьэу",
+            "translation": "The boy '''dull''' the knife by using it a lot."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʁawt͡sakʷən"
+  },
+  {
+    "word": "шъхьаихыгъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "frank, candid, straightforward, blunt",
+        "examples": [
+          {
+            "sentence": "К1алэр иныбджэгъу '''шъхьаихыгъэу''' дэгущы1агъ",
+            "translation": "The boy '''frankly''' spoke with his friend."
+          }
+        ]
+      }
+    ],
+    "type": "adj",
+    "ipa": "narəɬaʁʷ"
   },
   {
     "word": "нэрылъэгъу",
@@ -124138,23 +124407,11 @@
     "ipa": "ʂħaːʃəgʷəjxəʁ"
   },
   {
-    "word": "шъхьаихыгъ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "frank (see: шъхьаихыгъэу)",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ʂħaːʃəjəxəʁ"
-  },
-  {
     "word": "шъхьаихыгъэу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "openly; frankly; in a frank, open, honest, or too honest manner",
+        "meaning": "openly; frankly",
         "examples": []
       }
     ],
@@ -124220,6 +124477,23 @@
     ],
     "type": "noun",
     "ipa": "t͡sənaːɬa"
+  },
+  {
+    "word": "лъэгуан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "valley; lowland",
+        "examples": [
+          {
+            "sentence": "Чылэр '''лъэгуанэм''' дэт",
+            "translation": "The village is in the '''valley'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ɬagʷaːn"
   },
   {
     "word": "охы",
@@ -124293,19 +124567,6 @@
     "ipa": "t͡ʃʼaːpa"
   },
   {
-    "word": "чапэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "side; flank",
-        "examples": []
-      }
-    ],
-    "kabardian": "джабэ",
-    "type": "noun",
-    "ipa": "t͡ʃʼaːpa"
-  },
-  {
     "word": "пэпкъ",
     "lang": "Adyghe",
     "definitions": [
@@ -124358,7 +124619,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "mountaineer",
+        "meaning": "mountaineer; mountain-dweller",
         "examples": []
       }
     ],
@@ -124383,7 +124644,12 @@
     "definitions": [
       {
         "meaning": "to sneak (under)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Тыгъуак1ор тучаным '''ч1эк1ошъэн''' ы1озэ къаубытыгъ",
+            "translation": "The thief tried '''to sneak''' into the store but he got caught."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -124394,7 +124660,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "side of hand",
+        "meaning": "lateral side of the hand",
         "examples": []
       }
     ],
@@ -124402,12 +124668,29 @@
     "ipa": "ʔabʁʷ"
   },
   {
-    "word": "бжьэпщ",
+    "word": "лъфалъ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "bee queen",
+        "meaning": "womb; uterus",
         "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ɬfaːɬ"
+  },
+  {
+    "word": "бжьэпщы",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "queen bee",
+        "examples": [
+          {
+            "sentence": "'''Бжьэпщыр''' бжьэмэ аян",
+            "translation": "The '''bee queen''' is the bees' mother."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -124460,22 +124743,6 @@
     ],
     "type": "noun",
     "ipa": "χaʁa maːst"
-  },
-  {
-    "word": "лъэпэд маст",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "knitting needle",
-        "examples": []
-      },
-      {
-        "meaning": "spoke",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ɬapad maːst"
   },
   {
     "word": "лъэпэд маст",
@@ -124631,7 +124898,12 @@
     "definitions": [
       {
         "meaning": "braggart, boaster; someone who showoffs",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ц1ыф '''гъакъ'''",
+            "translation": "A '''braggart''' person."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -124664,6 +124936,18 @@
     "ipa": "ʁaːq"
   },
   {
+    "word": "1эхъу-пшъэхъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "handcuffs, manacles",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "1aχʷ-pʂaχʷ"
+  },
+  {
     "word": "пшъэхъу",
     "lang": "Adyghe",
     "definitions": [
@@ -124671,8 +124955,12 @@
         "meaning": "chain",
         "examples": [
           {
-            "sentence": "хьэр пшъэхъук1э епхыгъ",
+            "sentence": "Хьэр '''пшъэхъук1э''' епхыгъ",
             "translation": "the dog is tied with '''chains'''."
+          },
+		  {
+            "sentence": "Куит1ур '''пшъэхъук1э''' зэпысш1агъэх",
+            "translation": "I connected the two cars with a '''chain'''."
           }
         ]
       }
@@ -124686,7 +124974,16 @@
     "definitions": [
       {
         "meaning": "chainlet",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Дышъэ '''пшъэхъужъый'''",
+            "translation": "Gold '''chain'''."
+          },
+		  {
+            "sentence": "Сыхьат '''пшъэхъужъый'''",
+            "translation": "Watch '''chain'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -124698,11 +124995,37 @@
     "definitions": [
       {
         "meaning": "chainlet; a chain of silver or braided gold",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Сыхьат '''блэрыпс'''",
+            "translation": "Watch '''chain'''."
+          },
+		  {
+            "sentence": "Пшъашъэм ыпшъэ дышъэ '''блэрыпс''' илъ",
+            "translation": "The girl has a gold '''chainlet''' on her neck."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "bɮarəps"
+  },
+  {
+    "word": "сыхьатыпс",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "watchchain",
+        "examples": [
+          {
+            "sentence": "Дышъэ '''сыхьатыпс'''",
+            "translation": "Gold '''watchchain'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "səħaːtəps"
   },
   {
     "word": "пыш1эн",
@@ -124734,11 +125057,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to connect together",
+        "meaning": "to connect together; to chain together",
         "examples": [
           {
             "sentence": "К1апсэ ц1ык1ухэр зэпыш1эх",
             "translation": "'''Connect''' the little ropes '''together'''."
+          },
+		  {
+            "sentence": "Куит1ур пшъэхъук1э '''зэпысш1агъэх'''",
+            "translation": "'''I chained''' the two cars with a chain."
           }
         ]
       },
@@ -124777,7 +125104,12 @@
     "definitions": [
       {
         "meaning": "to make someone do mistakes",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр лъэшэу гущы1эу '''сыхигъэукъуагъ'''",
+            "translation": "The boy talking loud '''made me do a mistake'''."
+          }
+        ]
       }
     ],
     "type": "noun",
