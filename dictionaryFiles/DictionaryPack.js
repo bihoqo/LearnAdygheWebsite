@@ -123831,7 +123831,7 @@
         "examples": []
       },
 	  {
-        "meaning": "to stay somewhere (for a period of time, like for example: late in night, several days, several month, several years, etc.)",
+        "meaning": "to stay somewhere (for some period of time, like for example: late in night, several days, several month, several years, etc.)",
         "examples": [
           {
             "sentence": "К1алэр Америкэм илъэситфэ '''къэтыгъ'''",
