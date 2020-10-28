@@ -1944,6 +1944,9 @@
     "stocking": "лъэпэд"
   },
   {
+    "to bargain": "едэон; зэдэон (to bargain with each other)"
+  },
+  {
     "ring": "1элъын; (Shapsug) 1елъын; хъурджан"
   },
   {
@@ -9625,7 +9628,7 @@
     "to send": "гъэк1он (to send someone to); егъэхьын (to send something to); 1офытэн (to send someone to bring something)"
   },
   {
-    "to drizzle": "т1эт1эн (to be drizzling); тет1эт1эн (to be drizzling on); тегъэт1эт1эн (to drizzle on)"
+    "to drizzle": "т1эт1эн (to be drizzling); тет1эт1эн (to be drizzling on); тегъэт1эт1эн (to drizzle on); къыхидзын (to drizzle, to rain lightly)"
   },
   {
     "to make someone sad": "зэгъэгожъын"
@@ -10060,7 +10063,7 @@
     "to snow": "къесын"
   },
   {
-    "to rain": "къещхын"
+    "to rain": "къещхын; къыхидзын (to drizzle, to rain lightly)"
   },
   {
     "sunny": "тыгъэпсы"

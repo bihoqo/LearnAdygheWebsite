@@ -12781,6 +12781,10 @@
 		  {
             "sentence": "Баджэм '''шак1ор''' зелъэгъум, к1и1агъ",
             "translation": "When the fox saw '''the hunter''', it dashed off."
+          },
+		  {
+            "sentence": "'''Шак1ом''' мэзкъатыхъу ыук1ыгъ",
+            "translation": "'''The hunter''' killed the lynx."
           }
         ]
       }
@@ -21936,6 +21940,10 @@
           {
             "sentence": "Л1ыр заом '''щыук1ыным''' щэщынэ",
             "translation": "The man is afraid of '''getting killed''' in battle."
+          },
+		  {
+            "sentence": "Шак1ом мэзкъатыхъу '''ыук1ыгъ'''",
+            "translation": "The hunter '''killed''' the lynx."
           }
         ]
       }
@@ -28803,6 +28811,10 @@
 		  {
             "sentence": "К1алэм зы доларыр ахъщэ '''жъгъэихэу''' еукъо",
             "translation": "The boy breaks one dollar into '''coins'''."
+          },
+		  {
+            "sentence": "ощх '''жъгъэй''' къыхидзыщтыгъэ",
+            "translation": "'''Small drops''' of rain used to drizzle."
           }
         ]
       },
@@ -34133,16 +34145,28 @@
         "meaning": "to sit down",
         "examples": [
           {
-            "sentence": "'''т1ыс'''",
+            "sentence": "'''Т1ыс'''",
             "translation": "'''sit down'''."
           },
           {
-            "sentence": "к1алэр '''мэт1ысы'''",
+            "sentence": "К1алэр '''мэт1ысы'''",
             "translation": "The boy is '''sitting down'''."
           },
           {
-            "sentence": "'''умыт1ыс'''",
+            "sentence": "'''Умыт1ыс'''",
             "translation": "'''Don't sit down'''."
+          },
+		  {
+            "sentence": "К1алэр шым '''тет1ысхьагъ'''",
+            "translation": "The boy '''sat on''' the horse."
+          },
+		  {
+            "sentence": "Пхъэнт1эк1ум '''сытет1ысхьагъ'''",
+            "translation": "'''I sat on''' the chair."
+          },
+		  {
+            "sentence": "Зыфэсакъ, ц1ынэм '''ухэт1ысхьэ'''",
+            "translation": "Careful, '''you are sitting on''' something wet."
           }
         ]
       }
@@ -34220,7 +34244,15 @@
         "meaning": "teacher",
         "examples": [
           {
-            "sentence": "'''к1элэегъаджэм''' псынк1ащэу етхи егъэуш1ои, иуахътэк1э тесытхык1ышъурэп",
+            "sentence": "Мыр Адыгабзэм '''ик1элэегъадж'''",
+            "translation": "(S)he is '''the teacher''' of Circassian language."
+          },
+		  {
+            "sentence": "'''К1элэегъаджэм''' студентыхэр регъаджэх",
+            "translation": "The '''teacher''' teaches the students."
+          },
+		  {
+            "sentence": "'''К1элэегъаджэм''' псынк1ащэу етхи егъэуш1ои, иуахътэк1э тесытхык1ышъурэп",
             "translation": "'''The teacher''' writes and erases too fast, I cannot copy him in time."
           }
         ]
@@ -39521,6 +39553,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "trot",
+        "examples": []
+      },
+	  {
         "meaning": "legcuffs; gyves (paired ankle restraints)",
         "examples": [
           {
@@ -41440,6 +41476,15 @@
           {
             "sentence": "Л1ыр шъузым '''едэуагъ'''",
             "translation": "The man '''sued''' the woman."
+          }
+        ]
+      },
+	  {
+        "meaning": "to bargain",
+        "examples": [
+          {
+            "sentence": "Куджаныр л1ым уасэмк1э '''едао'''",
+            "translation": "Kujan '''bargains''' with the man about the pride."
           }
         ]
       }
@@ -68528,6 +68573,10 @@
           {
             "sentence": "К1алэм сэ тхылъым '''сырегъаджэ'''",
             "translation": "The boy '''is letting me read''' the book."
+          },
+		  {
+            "sentence": "К1элэегъаджэм студентыхэр '''регъаджэх'''",
+            "translation": "The teacher '''teaches''' the students."
           }
         ]
       }
@@ -84580,7 +84629,20 @@
     "definitions": [
       {
         "meaning": "to tangle, to muddle up (to confuse one object with another object); to mix together; (literal meaning) to drag things together",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "К1алэм 1офы зэк1эр '''зэхилъэшъуагъ'''",
+            "translation": "The boy '''mixed''' all the works '''together'''."
+          },
+		  {
+            "sentence": "Хъугъэхэр '''зэхэслъэшъуагъэх'''",
+            "translation": "'''I mixed between''' the things that happened."
+          },
+		  {
+            "sentence": "Къэс1уагъэмрэ к1алэм къи1уагъэмрэ '''зэхэплъэшъуагъэх'''",
+            "translation": "'''You mixed between''' what I said and what the boy said."
+          }
+        ]
       },
 	  {
         "meaning": "to complicate (usaully by mixing too much things together); to make things more confusing or more complicated",
@@ -84717,6 +84779,10 @@
 		  {
             "sentence": "Щэр псым '''хэмыгъэк1ухь'''",
             "translation": "'''Don't mix''' the milk '''with''' the water."
+          },
+		  {
+            "sentence": "К1алэм п1астэмрэ тхъумрэ '''зэхигъэк1ухьагъэх'''",
+            "translation": "The boy '''mixed''' porridge with butter."
           }
         ]
       }
@@ -125128,12 +125194,13 @@
         "examples": []
       },
       {
-        "meaning": "to make someone go off road",
-        "examples": []
-      },
-      {
-        "meaning": "to make someone go astray",
-        "examples": []
+        "meaning": "to make someone go off road; to make someone go astray",
+        "examples": [
+          {
+            "sentence": "Пщагъом '''сыхигъэгъощагъ'''",
+            "translation": "The fog '''made me go off road'''."
+          }
+        ]
       },
       {
         "meaning": "to make someone lose their way",
@@ -125146,6 +125213,18 @@
     ],
     "type": "noun",
     "ipa": "ʁaʁʷaɕan"
+  },
+  {
+    "word": "гъэужы",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "aftergrass, aftermath, eddish, fog grass, regrowth",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʁaːwʒə"
   },
   {
     "word": "зэпеон",
@@ -125168,8 +125247,13 @@
         "examples": []
       },
       {
-        "meaning": "bargain among themselves",
-        "examples": []
+        "meaning": "to bargain with each other",
+        "examples": [
+          {
+            "sentence": "Л1ыхэр уасэмк1э '''зэдаох'''",
+            "translation": "The men '''are bargaining''' about the prince."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -125181,10 +125265,19 @@
     "definitions": [
       {
         "meaning": "to sit down on",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр шым '''тет1ысхьагъ'''",
+            "translation": "The boy '''sat on''' the horse."
+          },
+		  {
+            "sentence": "Пхъэнт1эк1ум '''сытет1ысхьагъ'''",
+            "translation": "'''I sat on''' the chair."
+          }
+        ]
       }
     ],
-    "type": "noun",
+    "type": "verb",
     "ipa": "tajtʼəsħaːn"
   },
   {
@@ -125193,10 +125286,15 @@
     "definitions": [
       {
         "meaning": "to sit near",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр чъыгым '''1ут1ысхьагъ'''",
+            "translation": "The boy '''sat near''' the tree."
+          }
+        ]
       }
     ],
-    "type": "noun",
+    "type": "verb",
     "ipa": "ʔʷətʼəsħaːn"
   },
   {
@@ -125205,7 +125303,20 @@
     "definitions": [
       {
         "meaning": "teacher",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Мыр Адыгабзэм '''иегъэджак1у'''",
+            "translation": "(S)he is '''the teacher''' of Circassian language."
+          },
+		  {
+            "sentence": "'''Егъэджак1ом''' студентыхэр регъаджэх",
+            "translation": "The '''teacher''' teaches the students."
+          },
+		  {
+            "sentence": "'''Егъэджак1ом''' псынк1ащэу етхи егъэуш1ои, иуахътэк1э тесытхык1ышъурэп",
+            "translation": "'''The teacher''' writes and erases too fast, I cannot copy him in time."
+          }
+        ]
       },
       {
         "meaning": "tutor",
@@ -125235,55 +125346,21 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be melted",
-        "examples": [
-          {
-            "sentence": "ощх '''къыхедзы'''",
-            "translation": "The rain drizzles."
-          }
-        ]
-      }
-    ],
-    "type": "noun",
-    "ipa": "qəxəjd͡zən"
-  },
-  {
-    "word": "къыхидзын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
         "meaning": "to drizzle, to rain lightly",
         "examples": [
           {
-            "sentence": "ощх '''къыхедзы'''",
-            "translation": "The rain drizzles."
+            "sentence": "ощхыр '''къыхедзы'''",
+            "translation": "The rain '''drizzles'''."
+          },
+		  {
+            "sentence": "ощх жъгъэй '''къыхидзыщтыгъэ'''",
+            "translation": "Small drops of rain '''used to drizzle'''."
           }
         ]
       }
     ],
     "type": "noun",
     "ipa": "qəxəjd͡zən"
-  },
-  {
-    "word": "лъэхъу",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "lynx",
-        "examples": []
-      },
-      {
-        "meaning": "shackles, manacles, gyves, fetters, irons (paired wrist or ankle restraints)",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "мэзкъатыхъу",
-      "чэтыу шыумыш",
-      "мэзчэтыу"
-    ],
-    "type": "noun",
-    "ipa": "ɬaχʷ"
   },
   {
     "word": "мэзкъатыхъу",
@@ -125291,7 +125368,12 @@
     "definitions": [
       {
         "meaning": "lynx",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Шак1ом '''мэзкъатыхъу''' ыук1ыгъ",
+            "translation": "The hunter killed the '''lynx'''."
+          }
+        ]
       }
     ],
     "synonyms": [
