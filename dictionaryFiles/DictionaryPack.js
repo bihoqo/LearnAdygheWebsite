@@ -22125,7 +22125,7 @@
           },
           {
             "sentence": "Сэ колэ '''сешъорэп'''",
-            "translation": "I '''do not drink''' Cola."
+            "translation": "I '''do not drink''' Coke."
           },
           {
             "sentence": "Сыда '''узэшъонэу''' уик1асэр?",
@@ -47289,7 +47289,7 @@
           },
           {
             "sentence": "'''Си1эп''' колэ",
-            "translation": "'''I don't have''' a cola."
+            "translation": "'''I don't have''' Coke."
           },
           {
             "sentence": "К1алэм ныбджэгъу '''и1эпышъ''', езэщы",
@@ -47988,7 +47988,7 @@
           },
           {
             "sentence": "'''Къэсщыгъупшыгъ''' колэ къэсхьынэу",
-            "translation": "'''I forgot''' to bring cola."
+            "translation": "'''I forgot''' to bring Coke."
           },
           {
             "sentence": "К1алэм '''щыгъупшыгъ''' тиунэ къэк1онэу",
@@ -47997,6 +47997,10 @@
           {
             "sentence": "Л1ыжъым ренэу '''щыгъупшы''' сц1э",
             "translation": "The old-man always '''forgets''' my name."
+          },
+		  {
+            "sentence": "'''Къэсщымыгъупш''' колэхэмэ яуасэ хэбгъэхьэнэу",
+            "translation": "'''Do not forget''' to add the prices of the Cokes."
           }
         ]
       }
@@ -49686,7 +49690,7 @@
           },
 		  {
             "sentence": "'''джыри''' къэхь колэ",
-            "translation": "bring cola '''again'''."
+            "translation": "bring Coke '''again'''."
           },
           {
             "sentence": "ар '''джыри''' къэгужъуагъ",
@@ -52495,7 +52499,7 @@
         "examples": [
           {
             "sentence": "К1алэм Колэ '''еухы'''",
-            "translation": "The boy '''finishes''' the cola."
+            "translation": "The boy '''finishes''' the Coke."
           },
           {
             "sentence": "Псыр к1алэхэмэ '''аухыщт'''",
@@ -52552,7 +52556,7 @@
           },
           {
             "sentence": "Колэ '''ухыгъэп'''",
-            "translation": "The cola '''didn't run out'''."
+            "translation": "The Coke '''didn't run out'''."
           }
         ]
       },
@@ -59248,7 +59252,7 @@
           },
 		  {
             "sentence": "'''джырэк1э''' псы ешъо, мары т1эк1у ш1эмэ колэр къахьыщт",
-            "translation": "Drink water '''for now''', they will bring Cola soon."
+            "translation": "Drink water '''for now''', they will bring Coke soon."
           },
 		  {
             "sentence": "'''джырэк1э''' 1офэу л1ыр зы1утым езэгъы",
@@ -65965,7 +65969,7 @@
           },
           {
             "sentence": "К1алэм колэ джэхашъом '''тек1агъ'''",
-            "translation": "The boy '''spilled''' cola on the floor."
+            "translation": "The boy '''spilled''' Coke on the floor."
           }
         ]
       }
@@ -67096,7 +67100,7 @@
         "examples": [
           {
             "sentence": "Къыс1ых колэр псынк1эу, '''къэс1эпэзы'''",
-            "translation": "Take the cola from me fast, '''I am dropping it'''."
+            "translation": "Take the Coke from me fast, '''I am dropping it'''."
           },
 		  {
             "sentence": "Мы1эрысхэр '''къэс1эпызыхи''' ч1ыгум тефагъэх",
@@ -67125,7 +67129,7 @@
         "examples": [
           {
             "sentence": "Къыс1ых колэр псынк1эу, '''къэс1эк1эзы'''",
-            "translation": "Take the cola from me fast, '''I am dropping it'''."
+            "translation": "Take the Coke from me fast, '''I am dropping it'''."
           },
 		  {
             "sentence": "Мы1эрысхэр '''къэс1эк1эзыхи''' ч1ыгум тефагъэх",
@@ -67158,7 +67162,7 @@
         "examples": [
           {
             "sentence": "Къыс1ых колэр псынк1эу, '''къэс1эпыт1эры'''",
-            "translation": "Take the cola from me fast, '''I am dropping it'''."
+            "translation": "Take the Coke from me fast, '''I am dropping it'''."
           },
 		  {
             "sentence": "Мы1эрысхэр '''къэс1эпыт1эрыхи''' ч1ыгум тефагъэх",
@@ -77814,7 +77818,7 @@
           },
           {
             "sentence": "Колэу шъоущыгъу зыхэлъымрэ зыхэмылъымрэ '''зэхэбэдзышъуа'''?",
-            "translation": "'''Can you distinguish between''' a Cola that has sugar with one that has not?"
+            "translation": "'''Can you distinguish between''' a Coke that has sugar with one that has not?"
           },
           {
             "sentence": "К1элэц1ык1ум цыгъорэ шъуаемрэ '''зэхедзышъух'''",
@@ -79089,7 +79093,7 @@
         "examples": [
           {
             "sentence": "Сэ псыр '''нахь къесэгъэк1ы''' Колам",
-            "translation": "'''I prefer''' water than Cola."
+            "translation": "'''I prefer''' water than Coke."
           },
           {
             "sentence": "Адыгэбзэк1э тыгущы1эныр '''нахь къетэгъэк1ы'''",
@@ -81137,7 +81141,7 @@
           },
 		  {
             "sentence": "К1алэм колэм псы '''хек1утэ'''",
-            "translation": "The boy '''drips''' water into the Cola."
+            "translation": "The boy '''drips''' water into the Coke."
           },
 		  {
             "sentence": "Газ '''хэк1ут''' маш1ом нахь къызык1энэн пае",
@@ -90793,7 +90797,7 @@
           },
 		  {
             "sentence": "Джэхашъом колэ '''тек1утагъ'''",
-            "translation": "Cola '''was spilled''' on the floor."
+            "translation": "Coke '''was spilled''' on the floor."
           }
         ]
       }
@@ -93541,7 +93545,7 @@
           },
           {
             "sentence": "Ным чоколадэр ысабыймэ зэфэдизэу '''атегощагъ'''",
-            "translation": "The mother '''distribute''' the chocolate equally '''between''' her children."
+            "translation": "The mother '''distribute''' the choCokete equally '''between''' her children."
           },
           {
             "sentence": "1офш1эныр лэжьак1охэмэ '''атегощэн'''",
@@ -102232,7 +102236,7 @@
         "examples": [
           {
             "sentence": "К1алэр '''тегупшысык1и''' тучанымк1э къихьыгъэп Колэ",
-            "translation": "The boy '''underthink''' and he forgot to bring Cola from the shop."
+            "translation": "The boy '''underthink''' and he forgot to bring Coke from the shop."
           }
         ]
       },
@@ -110318,7 +110322,7 @@
           },
 		  {
             "sentence": "Колэк1э '''сезгъэшъук1ыжьыгъ'''",
-            "translation": "'''I made myself full''' with cola."
+            "translation": "'''I made myself full''' with Coke."
           },
 		  {
             "sentence": "Пивэк1э '''зыдгъэшъук1ыжьыгъ'''",
@@ -110339,7 +110343,7 @@
         "examples": [
 		  {
             "sentence": "Колэк1э '''сезгъэшъук1ыжьыгъ'''",
-            "translation": "'''I made myself full''' with cola."
+            "translation": "'''I made myself full''' with Coke."
           },
 		  {
             "sentence": "Пивэк1э '''зыдгъэшъук1ыжьыгъ'''",
@@ -112285,7 +112289,7 @@
         "examples": [
           {
             "sentence": "Колэ 1анэм '''тебгъэтк1о'''",
-            "translation": "'''You're dripping''' cola on the table."
+            "translation": "'''You're dripping''' Coke on the table."
           },
 		  {
             "sentence": "Псы мак1э сшъхьац '''тезгъэтк1уагъ'''",
