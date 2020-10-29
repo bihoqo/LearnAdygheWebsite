@@ -126642,6 +126642,10 @@
 		  {
             "sentence": "Къэсщымыгъупш колэхэмэ яуасэ '''хэбгъэхьэнэу'''",
             "translation": "Do not forget '''to add''' the prices of the Cokes."
+          },
+		  {
+            "sentence": "Джэгум Буг бащэ '''хагъэхьагъ'''",
+            "translation": "'''They added''' too many bugs in the game."
           }
         ]
       },
