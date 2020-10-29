@@ -17266,7 +17266,7 @@
     "to sweep off": "1ул1эн"
   },
   {
-    "to join": "хэхьан (to join a group, an organization or a company of people)"
+    "to join": "хэхьан (to join a group, an organization or a company of people); хэгъэхьан (to join someone to)"
   },
   {
     "lid": "теп1о / шъхьатеп1о (lid, the top or cover of a container)"

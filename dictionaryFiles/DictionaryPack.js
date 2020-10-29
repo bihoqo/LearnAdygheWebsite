@@ -38781,7 +38781,7 @@
             "translation": "'''I bought''' various clothes."
           },
 		  {
-            "sentence": "К1алэр ш1ухьафтынэу титхьэматэ '''фэтщэфтыым''' къыхэхьагъ",
+            "sentence": "К1алэр ш1ухьафтынэу титхьэматэ '''фэтщэфытым''' къыхэхьагъ",
             "translation": "The boy joined us in the gift '''we are going to buy''' for the boss."
           }
         ]
@@ -62662,7 +62662,7 @@
             "translation": "The boy got the idea of buying '''a present''' for his girlfriend."
           },
 		  {
-            "sentence": "К1алэр '''ш1ухьафтынэу''' титхьэматэ фэтщэфтыым къыхэхьагъ",
+            "sentence": "К1алэр '''ш1ухьафтынэу''' титхьэматэ фэтщэфытым къыхэхьагъ",
             "translation": "The boy joined us in '''the gift''' we are going to buy for the boss."
           }
         ]
@@ -104705,8 +104705,16 @@
             "translation": "You need to have courage in order '''to join''' the war"
           },
 		  {
-            "sentence": "К1алэр ш1ухьафтынэу титхьэматэ фэтщэфтыым '''къыхэхьагъ'''",
+            "sentence": "К1алэр ш1ухьафтынэу титхьэматэ фэтщэфытым '''къыхэхьагъ'''",
             "translation": "The boy '''joined us''' in the gift we are going to buy for the boss."
+          },
+		  {
+            "sentence": "К1алэр '''къэтхэхьанэу''' фай",
+            "translation": "The boy wants '''to join us'''."
+          },
+		  {
+            "sentence": "К1алэр паркэм к1охэрэмэ '''ахэхьагъ'''",
+            "translation": "The boy '''joined''' the ones that go to the park."
           }
         ]
       },
