@@ -620,7 +620,16 @@
     "definitions": [
       {
         "meaning": "sugar",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Щаем нахь бэ '''шъоущыгъу''' халъхь",
+            "translation": "Put more '''sugar''' in the tea."
+          },
+		  {
+            "sentence": "Щае сешъо '''шъоущыгъу''' хэмылъэу",
+            "translation": "I drink tea without '''sugar''' in it."
+          }
+        ]
       }
     ],
     "kabardian": "фошыгъу",
@@ -3359,7 +3368,12 @@
     "definitions": [
       {
         "meaning": "sheep",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Мэлахъом '''мэлыр''' 1эхъогъум хигъэхьагъ",
+            "translation": "The shepherd added '''the sheep''' to the herd."
+          }
+        ]
       }
     ],
     "shapsug": "мэл",
@@ -9142,7 +9156,12 @@
     "definitions": [
       {
         "meaning": "shepherd, sheep herdsman",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Мэлахъом''' мэлыр 1эхъогъум хигъэхьагъ",
+            "translation": "'''The shepherd''' added the sheep to the herd."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -22105,12 +22124,16 @@
             "translation": "The boy '''is drinking''' water."
           },
           {
-            "sentence": "Сэ щае '''сешъо'''",
-            "translation": "I '''drink''' tea."
+            "sentence": "Сэ колэ '''сешъорэп'''",
+            "translation": "I '''do not drink''' Cola."
           },
           {
             "sentence": "Сыда '''узэшъонэу''' уик1асэр?",
             "translation": "What would you like '''to drink'''?"
+          },
+		  {
+            "sentence": "Щае '''сешъо''' шъоущыгъу хэмылъэу",
+            "translation": "'''I drink''' tea without sugar in it."
           }
         ]
       }
@@ -32051,6 +32074,10 @@
 		  {
             "sentence": "Нахь пхъэ бэу маш1ом '''хэтылъхьан''' фай",
             "translation": "We need '''to put''' more wood '''into''' the fire."
+          },
+		  {
+            "sentence": "Щаем нахь бэ шъоущыгъу '''халъхь'''",
+            "translation": "'''Put''' more sugar in the tea."
           }
         ]
       },
@@ -37074,6 +37101,18 @@
     "definitions": [
       {
         "meaning": "alternative form of \"къэтэджын\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "tad͡ʒən"
+  },
+  {
+    "word": "тэджыжьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"къэтэджыжьын\"",
         "examples": []
       }
     ],
@@ -84233,8 +84272,12 @@
         "meaning": "to lie/be somewhere within a mass (gas, solid or liquid)",
         "examples": [
           {
-            "sentence": "п1эм '''хэлъын'''",
+            "sentence": "П1эм '''хэлъын'''",
             "translation": "'''to lie''' in bed."
+          },
+		  {
+            "sentence": "Щае сешъо шъоущыгъу '''хэмылъэу'''",
+            "translation": "I drink tea '''without''' sugar '''in it'''."
           }
         ]
       },
@@ -96579,8 +96622,12 @@
             "translation": "The herdsman lead the '''herd''' out side the village."
           },
           {
-            "sentence": "А чэмым нахь дэгъу 1эхъогъум хэтэп",
+            "sentence": "А чэмым нахь дэгъу '''1эхъогъум''' хэтэп",
             "translation": "There is no better cow in '''the herd'''."
+          },
+		  {
+            "sentence": "Мэлахъом мэлыр '''1эхъогъум''' хигъэхьагъ",
+            "translation": "The shepherd added the sheep to '''the herd'''."
           }
         ]
       },
@@ -126392,6 +126439,35 @@
     "ipa": "qəzʂħaːpt͡ʃʼatən"
   },
   {
+    "word": "къэтэджыжьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to stand up; alternative form of \"къэтэджын\"",
+        "examples": []
+      },
+	  {
+        "meaning": "to stand up and leave",
+        "examples": [
+          {
+            "sentence": "Хьак1эзэр '''къэтэджыжьыгъэх'''",
+            "translation": "The guests '''left'''."
+          },
+          {
+            "sentence": "'''Сытэджыжьыщт'''",
+            "translation": "'''I will leave'''."
+          },
+          {
+            "sentence": "Л1ыжъэр '''тэджыжьыгъ'''",
+            "translation": "The old man '''left'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "qatad͡ʒən"
+  },
+  {
     "word": "къэтэджын",
     "lang": "Adyghe",
     "definitions": [
@@ -126399,15 +126475,15 @@
         "meaning": "to stand up",
         "examples": [
           {
-            "sentence": "к1элэр '''мэтэджы'''",
+            "sentence": "К1элэр '''мэтэджы'''",
             "translation": "The boy '''is standing'''."
           },
           {
-            "sentence": "'''къэтэдж'''",
+            "sentence": "'''Къэтэдж'''",
             "translation": "'''Stand'''."
           },
           {
-            "sentence": "л1ыжъэр'''мэтэджышъурэп'''",
+            "sentence": "Л1ыжъэр'''тэджышъурэп'''",
             "translation": "The old man '''can't stand'''."
           }
         ]
@@ -126438,10 +126514,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to pour/fill in (intensivly)",
+        "meaning": "to pour/fill into (intensivly)",
         "examples": [
           {
-            "sentence": "К1алэр псыр щалъэм '''рек1э'''",
+            "sentence": "К1алэм псы щалъэм '''рек1э'''",
             "translation": "The boy '''pours''' water into the bucket."
           }
         ]
@@ -126451,6 +126527,7 @@
       "ик1утэн",
       "игъэхъон"
     ],
+    "shapsug": "ик1ьэн",
     "type": "verb",
     "ipa": "jət͡ʃʼan"
   },
@@ -126459,10 +126536,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to pour/fill in (slightly intensivly)",
+        "meaning": "to slightly dpour/fill in",
         "examples": [
           {
-            "sentence": "К1алэр псыр апчым '''рек1утэ'''",
+            "sentence": "К1алэм псы апчым '''рек1утэ'''",
             "translation": "The boy '''pours''' water into the glass."
           }
         ]
@@ -126486,6 +126563,18 @@
     ],
     "type": "verb",
     "ipa": "wəzandən"
+  },
+  {
+    "word": "е1ок1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "hint",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "jaʔʷat͡ʃʼ"
   },
   {
     "word": "е1ок1ын",
@@ -126516,7 +126605,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "I mean; like (borrowed word from Arabic)",
+        "meaning": "(from Arabic) I mean; like",
         "examples": []
       }
     ],
@@ -126529,7 +126618,41 @@
     "definitions": [
       {
         "meaning": "to add to",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Зыгорэ листым '''хэбгъэхьан'''",
+            "translation": "'''To add''' something to the list."
+          },
+		  {
+            "sentence": "Мэлахъом мэлыр 1эхъогъум '''хигъэхьагъ'''",
+            "translation": "The shepherd '''added''' the sheep to the herd."
+          },
+		  {
+            "sentence": "Псым щэ '''хэзгъэхьан'''",
+            "translation": "'''I added''' milk to water."
+          },
+		  {
+            "sentence": "К1алэр къэсдэлажьэхэрэмэ '''ахэгъэхьагъ'''",
+            "translation": "'The boy '''is added''' to the ones that work with me."
+          },
+		  {
+            "sentence": "Къэсщымыгъупш колэхэмэ яуасэ '''хэбгъэхьэнэу'''",
+            "translation": "Do not forget '''to add''' the prices of the Cokes."
+          }
+        ]
+      },
+	  {
+        "meaning": "to make someone join a group, a flock, a team, a queue, a list, etc.",
+        "examples": [
+          {
+            "sentence": "К1алэр купым '''хэбгъэхьан'''",
+            "translation": "'''To add''' the boy to the group."
+          },
+		  {
+            "sentence": "К1алэр ц1ыфыхэмэ '''ахэбгъэхьан'''",
+            "translation": "'''To make''' the boy '''join''' the people."
+          }
+        ]
       },
 	  {
         "meaning": "to involve someone/something to",
