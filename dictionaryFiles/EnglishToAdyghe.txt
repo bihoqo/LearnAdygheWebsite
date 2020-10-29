@@ -16039,7 +16039,7 @@
     "frailty": "мэхагъ"
   },
   {
-    "to involve": "хэщэн (to involve someone to); хэгъэхьан (to involve something to, to add someone to); 1э хэлъын (to be involved with); 1э хэлъхьан (to get involved with something)"
+    "to involve": "хэтын (to be involved); хэхьан (to get involved); хэщэн (to involve someone to); хэгъэхьан (to involve something to, to add someone to); 1э хэлъын (to be involved with); 1э хэлъхьан (to get involved with something)"
   },
   {
     "to contribute": "1э хэлъын (to have contribution in); 1э хэлъхьан (to contribute); 1ахь хэлъхьан (to contribute, to put one's share in)"

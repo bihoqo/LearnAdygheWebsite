@@ -38779,6 +38779,10 @@
 		  {
             "sentence": "Джэнэ зэмыл1эужыгъо '''сыщэфыгъ'''",
             "translation": "'''I bought''' various clothes."
+          },
+		  {
+            "sentence": "К1алэр ш1ухьафтынэу титхьэматэ '''фэтщэфтыым''' къыхэхьагъ",
+            "translation": "The boy joined us in the gift '''we are going to buy''' for the boss."
           }
         ]
       }
@@ -62656,6 +62660,10 @@
           {
             "sentence": "К1алэм ыгукъэк1ыгъ игъусэ пшъашъэ '''ш1ухьафтын''' фырищэфынэу",
             "translation": "The boy got the idea of buying '''a present''' for his girlfriend."
+          },
+		  {
+            "sentence": "К1алэр '''ш1ухьафтынэу''' титхьэматэ фэтщэфтыым къыхэхьагъ",
+            "translation": "The boy joined us in '''the gift''' we are going to buy for the boss."
           }
         ]
       }
@@ -104686,7 +104694,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to join (a group, an organization or a company of people)",
+        "meaning": "to join (a group, an organization or a company of people); to get involved",
         "examples": [
           {
             "sentence": "К1алэр ц1ыфыхэр '''ахахьэ'''",
@@ -104695,6 +104703,10 @@
 		  {
             "sentence": "Л1ыгъэ къыпхэлъын фай заом '''ухэхьан''' пае",
             "translation": "You need to have courage in order '''to join''' the war"
+          },
+		  {
+            "sentence": "К1алэр ш1ухьафтынэу титхьэматэ фэтщэфтыым '''къыхэхьагъ'''",
+            "translation": "The boy '''joined us''' in the gift we are going to buy for the boss."
           }
         ]
       },
@@ -126663,11 +126675,11 @@
         ]
       },
 	  {
-        "meaning": "to involve someone/something to",
+        "meaning": "to involve someone/something into",
         "examples": [
           {
             "sentence": "Хэгъэгур заом '''хэгъэхьан'''",
-            "translation": "'''To involve''' a country '''to''' the war."
+            "translation": "'''To involve''' a country '''into''' the war."
           }
         ]
       }
