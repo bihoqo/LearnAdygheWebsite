@@ -59689,6 +59689,10 @@
           {
             "sentence": "К1алэр '''къэстекуо'''",
             "translation": "The boy '''is yelling at me'''."
+          },
+		  {
+            "sentence": "К1алэм '''сызтекуом''' къызшъхьапк1этыгъ",
+            "translation": "'''When I yelled at''' the boy he got up instantly."
           }
         ]
       }
@@ -126210,7 +126214,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to fall through, to come down",
+        "meaning": "to fall through; to drop through",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "pxərəbən"
+  },
+  {
+    "word": "пхырызын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to fall through; to drop through",
         "examples": []
       }
     ],
@@ -126237,11 +126253,11 @@
         "meaning": "to stand up instantly; to leap up instantly",
         "examples": [
           {
-            "sentence": "К1алэм сытэкуом '''къызшъхьапк1этыгъ'''",
+            "sentence": "К1алэм сызтекуом '''къызшъхьапк1этыгъ'''",
             "translation": "When I yelled at the boy '''he got up instantly'''."
           },
           {
-            "sentence": "'''къызшъхьапк1эти''' еджап1эм к1о",
+            "sentence": "'''Къызшъхьапк1эти''' еджап1эм к1о",
             "translation": "'''Stand up instantly''' and go to school."
           }
         ]
