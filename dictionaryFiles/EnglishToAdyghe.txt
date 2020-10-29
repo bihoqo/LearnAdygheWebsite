@@ -1776,7 +1776,7 @@
     "to fall": "ебэджын (to fall on the ground); тебэджэн (to fall on something by slipping); ефэхын / къефэхын (to fall downward); едзыхын / къедзыхын (to fall downward); ет1эрэхын / къет1эрэхын (to drop downward); зэтефэн (to drop on each other); зэхэфэн (to drop within each other); ук1орэин; къегъэохын (to destroy something and make it fall down); пызын / къыпызын (to fall/drop off from a tree); изын / къизын (to fall/drop off from inside something); тезын / къытезын (to fall/drop off from above something); пхырыбын / пхырызын (to fall through)"
   },
   {
-    "to drop": "1эпызын (to drop from the hand); къизын (to drop from inside something); къетк1ухын (to drip from, to drop down drops of liquid); 1эпызын (to drop unintentionally); 1эпыт1эрын (to let slip unintentionally); къытезын (to drop from); къыпызын (to drop off a tree); къыпытэкъун (to drop from the tree around it); зэтефэн (to drop on each other); зэхэфэн (to drop into each other); 1эк1эзын (to drop something unintentionally from the hand); пызын / къыпызын (to drop off from a tree); изын / къизын (to drop off from inside something); тезын / къытезын (to drop off from above something); ч1эзын / къыч1эзын (to drop off from under something); зэтетэкъун (to drop off from each other); тетк1он (to drip liquid on something one drop at a time); пхырыбын / пхырызын (to drop through)"
+    "to drop": "1эпызын (to drop from the hand); къизын (to drop from inside something); къетк1ухын (to drip from, to drop down drops of liquid); 1эпызын (to drop unintentionally); 1эпыт1эрын (to let slip unintentionally); къытезын (to drop from); къыпызын (to drop off a tree); къыпытэкъун (to drop from the tree around it); зэтефэн (to drop on each other); зэхэфэн (to drop into each other); 1эк1эзын (to drop something unintentionally from the hand); пызын / къыпызын (to drop off from a tree); изын / къизын (to drop off from inside something); тезын / къытезын (to drop off from above something); ч1эзын / къыч1эзын (to drop off from under something); зэтетэкъун (to drop off from each other); тетк1он (to drip liquid on something one drop at a time)"
   },
   {
     "to meet": "тефэн (to come across, to encounter coincidentally); 1ук1эн (to meet); пэгъок1ын (to welcome, to approach, to encounter intentionally); зэ1ук1эн (to meet up); зэ1угъэк1эн (to make people meet at a certian place)"
@@ -4840,7 +4840,7 @@
     "to drown": "ч1эбын"
   },
   {
-    "to sink": "ч1эбын; (псым) ч1илъэшъон (to be dragged down); (псым) ч1ихьан (to push down)"
+    "to sink": "ч1эбын; (псым) ч1илъэшъон (to be dragged down); (псым) ч1ихьан (to push down); пхырыбын (to sink through, to fall through)"
   },
   {
     "to get dizzy": "унэзэн; (Shapsug) прэзэн"
@@ -4864,7 +4864,7 @@
     "to pick up": "штэн / къэштэн (to take, to lift, to hold and pick up); къэ1этын (to lift and raise up); техын (to pick up from above); щыпын / къэщыпын (to pick up stuff/people usaully from the ground); тещыпык1ын (to pick up stuff from); пхъотэн (to pick up suddenly, to snatch)"
   },
   {
-    "to lift": "1этын / къэ1этын; къэштэн (to pick up); къэгъэтэджын (to stand up something, to make something stand on its legs); те1этык1ын (to lift something from above something)"
+    "to lift": "1этын / къэ1этын; къэштэн (to pick up); къэгъэтэджын (to lift something, to make something stand on its legs); те1этык1ын (to lift something from above something)"
   },
   {
     "to stand up": "къэтэджын (to stand up); къэгъэтэджын (to stand up something); къызшъхьапк1этын (to stand up instantly)"

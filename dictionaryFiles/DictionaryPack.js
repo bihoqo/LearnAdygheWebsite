@@ -5701,6 +5701,14 @@
           {
             "sentence": "Сшынахьыжъ еджап1эм '''к1уагъэпышъ''', сэри '''сык1онэу''' сыфаеп",
             "translation": "'''Because''' my older brother '''did not went''' to schoo, I also don't want '''to go'''."
+          },
+		  {
+            "sentence": "Пасэу сычъыежьын фай неущы 1офым пасэу '''сык1ощтышъ'''",
+            "translation": "I need to sleep early '''because I go''' early '''to''' work tomorrow."
+          },
+		  {
+            "sentence": "Сянэ пасэу сыкъигъэтэджыгъ еджап1эм '''сык1он''' фаети",
+            "translation": "My mom made me get out of bed early because '''I''' need '''to go''' to school."
           }
         ]
       },
@@ -7261,8 +7269,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "old man",
-        "examples": []
+        "meaning": "old man; old-man",
+        "examples": [
+          {
+            "sentence": "'''Л1ыжъэу''' ебэджыгъэр ц1ыфыхэмэ къагъэтэджэжьыгъ",
+            "translation": "The people lifted '''the old-man''' that fell [on the ground]."
+          }
+        ]
       }
     ],
     "kabardian": "л1ыжьы",
@@ -10479,16 +10492,28 @@
         "meaning": "early",
         "examples": [
           {
-            "sentence": "'''пасэу''' сыкъэк1уагъ",
+            "sentence": "'''Пасэу''' сыкъэк1уагъ",
             "translation": "I came '''early'''."
           },
           {
-            "sentence": "'''пасэу''' непэ тагъэлэжьэщт",
+            "sentence": "1офыр '''пасэу''' къежьэ",
+            "translation": "Work starts '''early'''."
+          },
+          {
+            "sentence": "'''Пасэу''' непэ тагъэлэжьэщт",
             "translation": "Today they will make us work '''early'''."
           },
           {
-            "sentence": "'''пасэ'''",
+            "sentence": "'''Пасэ'''",
             "translation": "It's '''early'''."
+          },
+		  {
+            "sentence": "'''Пасэу''' сыкъэтэджын фай 1офым пае",
+            "translation": "I need to get out of bed '''early''' for work."
+          },
+		  {
+            "sentence": "Сянэ '''пасэу''' сыкъигъэтэджыгъ еджап1эм сык1он фаети",
+            "translation": "My mom made me get out of bed '''early''' because I need to go to school."
           }
         ]
       }
@@ -10507,16 +10532,32 @@
         "meaning": "early",
         "examples": [
           {
-            "sentence": "'''пасэу''' сыкъэк1уагъ",
+            "sentence": "'''Пасэу''' сыкъэк1уагъ",
             "translation": "I came '''early'''."
           },
           {
-            "sentence": "'''пасэу''' непэ тагъэлэжьэщт",
+            "sentence": "'''Пасэу''' непэ тагъэлэжьэщт",
             "translation": "Today they will make us work '''early'''."
           },
           {
-            "sentence": "'''пасэ'''",
+            "sentence": "1офыр '''пасэу''' къежьэ",
+            "translation": "Work starts '''early'''."
+          },
+          {
+            "sentence": "'''Пасэ'''",
             "translation": "It's '''early'''."
+          },
+		  {
+            "sentence": "'''Пасэу''' сыкъэтэджын фай 1офым пае",
+            "translation": "I need to get out of bed '''early''' for work."
+          },
+		  {
+            "sentence": "'''Пасэу''' сычъыежьын фай неущы 1офым пасэу сык1ощтышъ",
+            "translation": "I need to sleep '''early''' because I go early to work tomorrow."
+          },
+		  {
+            "sentence": "Сянэ '''пасэу''' сыкъигъэтэджыгъ еджап1эм сык1он фаети",
+            "translation": "My mom made me get out of bed '''early''' because I need to go to school."
           }
         ]
       }
@@ -18587,6 +18628,14 @@
           {
             "sentence": "Джэхашъо ц1ашъутэм '''утебэджэщт'''",
             "translation": "'''You will fall''' on the slip floor."
+          },
+		  {
+            "sentence": "Л1ыжъэу '''ебэджыгъэр''' ц1ыфыхэмэ къагъэтэджэжьыгъ",
+            "translation": "The people lifted the old-man '''that fell [on the ground]'''."
+          },
+		  {
+            "sentence": "Пхъэнт1эк1ур '''ебэджыгъ''', къэгъэтэджыжь",
+            "translation": "The chair '''fell down''', lift it."
           }
         ]
       }
@@ -30377,6 +30426,10 @@
           {
             "sentence": "'''1офыр''' щынагъо хъугъэ",
             "translation": "'''The work''' became dangerous"
+          },
+		  {
+            "sentence": "Мылым утехьани упхырызынк1э '''щынагъо'''",
+            "translation": "Standing on the ice and falling through it '''is dangerous'''."
           }
         ]
       },
@@ -34234,6 +34287,10 @@
 		  {
             "sentence": "К1элэц1ык1ум сымаджэу зеш1ы '''еджап1эм''' амыгъэк1он пае",
             "translation": "The little boy pretends to be sick, so he won't be sent to '''school'''."
+          },
+		  {
+            "sentence": "Пасэу сыкъэтэджыгъ '''еджап1эм''' сык1он фаети",
+            "translation": "I got off bed early because I need to go to '''school'''."
           }
         ]
       }
@@ -44263,6 +44320,10 @@
           {
             "sentence": "Филымыр '''къежьагъ'''",
             "translation": "the film '''has started'''."
+          },
+          {
+            "sentence": "1офыр пасэу '''къежьэ'''",
+            "translation": "Work '''starts''' early."
           }
         ]
       },
@@ -47452,6 +47513,10 @@
           {
             "sentence": "О 1офыбэ пш1эн '''фае'''",
             "translation": "You '''must''' do a lot work."
+          },
+		  {
+            "sentence": "Сянэ пасэу сыкъигъэтэджыгъ еджап1эм сык1он '''фаети'''",
+            "translation": "My mom made me get out of bed early '''because''' I '''need''' to go to school."
           }
         ]
       }
@@ -80088,6 +80153,10 @@
             "translation": "The boy '''is pulling''' the rope."
           },
 		  {
+            "sentence": "С1э '''къэкъудыий''' сыкъэгъэтэджыжь",
+            "translation": "'''Pull''' my arm and stand me up."
+          },
+		  {
             "sentence": "Пхъыр '''къыкъудыий''' ч1ыгум къыхэтхъ",
             "translation": "'''Pull''' the carrot and pull it out of the ground."
           },
@@ -102154,6 +102223,10 @@
           {
             "sentence": "Л1ыр сценэм '''къытехьагъ''' гущы1э къитынэу",
             "translation": "The man '''came up to''' the stage to give a speech."
+          },
+		  {
+            "sentence": "Мылым '''утехьани''' упхырызынк1э щынагъо",
+            "translation": "'''Standing on''' the ice and falling through it is dangerous."
           }
         ]
       },
@@ -116383,6 +116456,10 @@
 		  {
             "sentence": "К1алэмрэ пшъашъэмрэ зэзэгъыхэрэп, '''сыда п1омэ''' ашъхьэхэр зэтефэхэрэп",
             "translation": "The boy and the girl are not getting along, '''the reason for that is because''' they do not have the same mindset."
+          },
+		  {
+            "sentence": "Пасэу сычъыежьын фай, '''сыда п1омэ''' неущы 1офым пасэу сык1ощт",
+            "translation": "I need to sleep early, '''that is because''' I go early to work tomorrow."
           }
         ]
       }
@@ -116411,6 +116488,10 @@
 		  {
             "sentence": "К1алэмрэ пшъашъэмрэ зэзэгъыхэрэп, '''зары''' ашъхьэхэр зэтефэхэрэп",
             "translation": "The boy and the girl are not getting along, '''the reason for that is because''' they do not have the same mindset."
+          },
+		  {
+            "sentence": "Пасэу сычъыежьын фай, '''зары''' неущы 1офым пасэу сык1ощт",
+            "translation": "I need to sleep early, '''that is because''' I go early to work tomorrow."
           }
         ]
       }
@@ -126214,8 +126295,21 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to fall through; to drop through",
-        "examples": []
+        "meaning": "to fall through; to sink through",
+        "examples": [
+          {
+            "sentence": "Мылым к1алэм зытехьэм мылым '''пхырыбыгъ'''",
+            "translation": "When the boy stood on the ince '''he fell through''' the ice."
+          },
+		  {
+            "sentence": "К1алэр мылым '''пхырыбынк1э''' мак1э и1эжьыр",
+            "translation": "Little time was left for the boy '''to fall through''' the ice."
+          },
+          {
+            "sentence": "Пщэхъо ц1ынэм утеуцомэ, '''упхырыбыщт'''",
+            "translation": "If you stand on the quicksand '''you will sink trhough it'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -126226,8 +126320,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to fall through; to drop through",
-        "examples": []
+        "meaning": "to fall through",
+        "examples": [
+          {
+            "sentence": "Мылым к1алэм зытехьэм мылым '''пхырызыгъ'''",
+            "translation": "When the boy stood on the ince '''he fell through''' the ice."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -126238,8 +126337,34 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to stand up something; to bring something up and set it into a standing position",
-        "examples": []
+        "meaning": "to stand up something; to lift something and make it stand on its legs",
+        "examples": [
+          {
+            "sentence": "Л1ыжъэу ебэджыгъэр ц1ыфыхэмэ '''къагъэтэджэжьыгъ'''",
+            "translation": "The people '''lifted''' the old-man that fell [on the ground]."
+          },
+		  {
+            "sentence": "Пхъэнт1эк1ур ебэджыгъ, '''къэгъэтэджыжь'''",
+            "translation": "The chair fell down, '''lift it'''."
+          },
+		  {
+            "sentence": "С1э къэкъудыий '''сыкъэгъэтэджыжь'''",
+            "translation": "Pull my arm and '''stand me up'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "to make someone go out of bed",
+        "examples": [
+		  {
+            "sentence": "Дзэмк1э пчэдыжьым пасэу '''тыкъагъэтэджы'''",
+            "translation": "In the military, '''they made us go out of bed''' early in the morning."
+          },
+		  {
+            "sentence": "Сянэ пасэу '''сыкъигъэтэджыгъ''' еджап1эм сык1он фаети",
+            "translation": "My mom '''made me get out of bed''' early because I need to go to school."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -126284,6 +126409,23 @@
           {
             "sentence": "л1ыжъэр'''мэтэджышъурэп'''",
             "translation": "The old man '''can't stand'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "to get out of bed; to get off the bed",
+        "examples": [
+		  {
+            "sentence": "Дзэмк1э пчэдыжьым пасэу '''сыкъэтэджы'''",
+            "translation": "In the military, '''I get out of bed ''' early in the morning."
+          },
+		  {
+            "sentence": "Пасэу '''сыкъэтэджын''' фай 1офым пае",
+            "translation": "I need '''to get out of bed''' early for work."
+          },
+		  {
+            "sentence": "Пасэу '''сыкъэтэджыгъ''' еджап1эм сык1он фаети",
+            "translation": "'''I got off bed''' early because I need to go to school."
           }
         ]
       }
