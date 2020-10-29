@@ -3398,7 +3398,12 @@
     "definitions": [
       {
         "meaning": "cow",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Чэмхэр''' хъуп1эм хэтых",
+            "translation": "'''The cows''' are in the pasture."
+          }
+        ]
       }
     ],
     "kabardian": "жэм",
@@ -7009,7 +7014,12 @@
     "definitions": [
       {
         "meaning": "oak (tree)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Чъыгаер''' къобэбжъаб",
+            "translation": "'''The oak''' is branchy."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -8354,6 +8364,10 @@
           {
             "sentence": "Мы '''къэгъагъэр''' сыгу рехьы.",
             "translation": "I like this '''flower'''."
+          },
+		  {
+            "sentence": "'''Къэгъагъхэр''' гъонлагъэх",
+            "translation": "'''The flowers''' withered."
           }
         ]
       }
@@ -8656,6 +8670,10 @@
 		  {
             "sentence": "'''Сычъэу''' сыпшъыгъ",
             "translation": "I got exhausted '''running'''."
+          },
+		  {
+            "sentence": "Тхьапшэрэ '''очъэшъу'''?",
+            "translation": "For how long '''can you run'''?"
           }
         ]
       }
@@ -29554,6 +29572,10 @@
           {
             "sentence": "Уцы '''уцышъор''' дахэ",
             "translation": "The '''green''' grass is pretty."
+          },
+		  {
+            "sentence": "Къэлъагъохэрэп дзак1охэр, щыгъын '''уцышъохэр''' ащыгъэх",
+            "translation": "The soldiers are not visible, they wear '''green''' clothes."
           }
         ]
       }
@@ -35779,6 +35801,10 @@
           {
             "sentence": "Ныор унэм '''ис'''",
             "translation": "The old woman '''is sitting''' in the house."
+          },
+		  {
+            "sentence": "Синэмэмк1э апэу тис",
+            "translation": "'''We are sitting''' in the front in the cinema."
           }
         ]
       },
@@ -45757,6 +45783,59 @@
     "ipa": "txən"
   },
   {
+    "word": "тхьапшэрэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "how many",
+        "examples": [
+          {
+            "sentence": "'''Тхьапшэрэ''' мы джэгум уджэгъугъ",
+            "translation": "'''How many times''' you played this game?"
+          },
+		  {
+            "sentence": "Мыгъэм '''тхьапшэрэ''' усымэджагъ?",
+            "translation": "In this year, '''how many times''' you got sick?"
+          },
+		  {
+            "sentence": "Тхьэмафэм '''тхьапшэрэ''' къыхэк1ыгъ сыхьатипш1ык1ут1у улажьэу?",
+            "translation": "In the week, '''in how many''' instances you worked twelve hours?"
+          },
+		  {
+            "sentence": "Покерк1э тхьапшэрэ ухьыгъ?",
+            "translation": "In poker, '''how many times''' you won?"
+          }
+        ]
+      },
+	  {
+        "meaning": "how long",
+        "examples": [
+          {
+            "sentence": "'''Тхьапшэрэ''' мы джэгум уджэгъугъ",
+            "translation": "'''For how long''' you played this game?"
+          },
+		  {
+            "sentence": "'''Тхьапшэрэ''' усымэджэгъагъ?",
+            "translation": "'''For how long''' you were sick?"
+          },
+		  {
+            "sentence": "'''Тхьапшэрэ''' очъэшъу?",
+            "translation": "'''For how long''' can you run?"
+          },
+		  {
+            "sentence": "'''Тхьапшэрэ''' кум мэчъэшъу?",
+            "translation": "'''For how long''' the car can run?"
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "сыд фэдиз"
+    ],
+    "type": "adv",
+    "ipa": "tħapʃ"
+  },
+  {
     "word": "тхьапш",
     "lang": "Adyghe",
     "definitions": [
@@ -45771,6 +45850,10 @@
             "sentence": "'''Тхьапш''' мыщ иуасэ?",
             "translation": "'''How much''' this cost?"
           },
+		  {
+            "sentence": "'''Тхьапш''' учъырэр?",
+            "translation": "'''How much''' distance you run?"
+          },
           {
             "sentence": "'''Тхьапш''' шыхэу уи1эр?",
             "translation": "'''How many''' brothers you have?"
@@ -45778,6 +45861,10 @@
           {
             "sentence": "'''Тхьапш''' сыхьатыр?",
             "translation": "What time is it?"
+          },
+		  {
+            "sentence": "'''Тхьапш''' кум ычъыгъэр?",
+            "translation": "'''How much''' the car ran?"
           }
         ]
       }
@@ -62799,6 +62886,10 @@
 		  {
             "sentence": "Хэт '''зихьыгъэр'''",
             "translation": "Who '''won'''?"
+          },
+		  {
+            "sentence": "Покерк1э тхьапшэрэ '''ухьыгъ'''?",
+            "translation": "In poker, how many times '''you won'''?"
           }
         ]
       }
@@ -66355,7 +66446,7 @@
         ]
       },
 	  {
-        "meaning": "to be apparent; to stand out; to stick out; to be noticeable; to be prominent",
+        "meaning": "to be apparent; to stand out; to stick out; to be noticeable; to be prominent; to be easily or clearly seen; to be distinctly visible",
         "examples": [
           {
             "sentence": "Ц1ыфыхэмэ '''уакъыхэщы'''",
@@ -66475,6 +66566,10 @@
 		  {
             "sentence": "К1элэц1ык1ур псы куум '''хэмыщ'''.",
             "translation": "'''Don't take''' the kid to the deep water."
+          },
+		  {
+            "sentence": "Чэмхэр хъуп1эм '''хащэх'''",
+            "translation": "'''Lead''' the cows to the pasture."
           }
         ]
       },
@@ -118300,6 +118395,10 @@
           {
             "sentence": "Л1ыр '''сымаджэ''', арти сымэджэщым тыщэн фай",
             "translation": "The man '''is sick''', therefor we need to take him to the hospital."
+          },
+		  {
+            "sentence": "Тхьапшэрэ '''усымэджэгъагъ'''?",
+            "translation": "For how long '''you were sick'''?"
           }
         ]
       }
@@ -122328,16 +122427,16 @@
             "translation": "The boy got tired, he '''ran''' a long distance."
           },
 		  {
+            "sentence": "Тхьапш '''учъырэр'''?",
+            "translation": "How much '''distance you run'''?"
+          },
+		  {
             "sentence": "К1алэм километыритф '''ычъыгъ'''",
             "translation": "The boy '''ran''' five kilometers."
           },
 		  {
             "sentence": "Тхьапш кум '''ычъыгъэр'''?",
             "translation": "How much the car '''ran'''?"
-          },
-		  {
-            "sentence": "Тхьапш '''учъыгъэр'''?",
-            "translation": "How much '''you ran'''?"
           }
         ]
       }
@@ -125438,8 +125537,8 @@
         "meaning": "to lid; to cover (a container)",
         "examples": [
           {
-            "sentence": "К1алэм бэшэрэбым '''шъхьатеп1ор''' теп1о",
-            "translation": "The boy covers '''the lid''' on the bottle."
+            "sentence": "К1алэм бэшэрэбым шъхьатеп1ор '''теп1о'''",
+            "translation": "The boy '''covers''' the lid on the bottle."
           },
 		  {
             "sentence": "Колэм ышъхьа1у '''теп1ожь'''",
@@ -125481,7 +125580,16 @@
     "definitions": [
       {
         "meaning": "pasture (an open field, on which livestock is kept for feeding)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Чэмхэр '''хъуп1эм''' хэтых",
+            "translation": "The cows are in the '''pasture'''."
+          },
+		  {
+            "sentence": "Чэмхэр '''хъуп1эм''' хащэх",
+            "translation": "Lead the cows to the '''pasture'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -125513,6 +125621,10 @@
           {
             "sentence": "Си1оф '''тхъагъо'''",
             "translation": "My work '''is fun'''."
+          },
+          {
+            "sentence": "Тыгъуасэ мэфэ '''тхъэгъуагъ'''",
+            "translation": "Yesterday '''was a fun''' day."
           }
         ]
       }
@@ -125525,8 +125637,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "fortuned; lucky",
-        "examples": []
+        "meaning": "fortunate; lucky",
+        "examples": [
+          {
+            "sentence": "А ц1ыфыр '''насыпыш1у'''",
+            "translation": "That person is '''fortunate'''."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -125571,7 +125688,16 @@
     "definitions": [
       {
         "meaning": "to arrange plans/deals/meetings",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Сэрэ пшъашъэмрэ тызэдэгущы1эшъунэу зыгорэ '''къызэбгъэфэшъущта'''?",
+            "translation": "'''Can you arrange''' something that me and the girl could speak?"
+          },
+		  {
+            "sentence": "'''Къызэпызгъэфагъ''' синэмэмк1э апэу тисыхэу",
+            "translation": "'''I arranged''' that we will sit in the front in the cinema."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -125583,7 +125709,12 @@
     "definitions": [
       {
         "meaning": "material, cloth, fabric",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Дэнэ '''шэк1'''",
+            "translation": "Silk '''fabric'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -125615,20 +125746,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to chirr (of insects)",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "t͡ʃat͡ʃan"
-  },
-  {
-    "word": "чэчэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to chirr (of birds)",
-        "examples": []
+        "meaning": "to chirr (of bird)",
+        "examples": [
+          {
+            "sentence": "Къанджэр '''мэчачэ'''",
+            "translation": "The magpie '''chirrs'''"
+          }
+        ]
       },
       {
         "meaning": "to bleat",
@@ -125680,7 +125804,12 @@
       },
       {
         "meaning": "magpie (bird)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Къанджэр''' мэчачэ",
+            "translation": "'''The magpie''' chirrs"
+          }
+        ]
       }
     ],
     "kabardian": "къанжэ",
@@ -125704,7 +125833,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "wild animals hunted for food such as deers and does",
+        "meaning": "animals in the wilderness that are hunted for food such as deers and does",
         "examples": []
       }
     ],
@@ -125716,8 +125845,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "branchy; boughy",
-        "examples": []
+        "meaning": "branchy; boughy (tending to branch frequently, having many branches)",
+        "examples": [
+          {
+            "sentence": "Чъыгаер '''къобэбжъаб'''",
+            "translation": "The oak is '''branchy'''."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -125728,7 +125862,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "sweet, fresh (water)",
+        "meaning": "sweet (water), fresh (water)",
         "examples": [
           {
             "sentence": "Псы '''мыщыгъу'''",
@@ -125750,7 +125884,12 @@
     "definitions": [
       {
         "meaning": "to wither, to shrivel, to fade, to dry up (shrivel, droop, dry up, e.g. of flowers)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Къэгъагъхэр '''гъонлагъэх'''",
+            "translation": "The flowers '''withered'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -125764,12 +125903,100 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be visible; to be in sight",
-        "examples": []
+        "meaning": "to be visible; to be in sight; to be seen",
+        "examples": [
+          {
+            "sentence": "К1алэр '''къэлъагъо'''",
+            "translation": "The boy '''is visible'''."
+          },
+		  {
+            "sentence": "Тыгъуак1ор нэфнэм хахьэм '''къэлъэгъуагъ'''",
+            "translation": "When the burglar entered the light, '''he was seen'''."
+          },
+		  {
+            "sentence": "'''Къэлъагъохэрэп''' дзак1охэр, щыгъын уцышъохэр ащыгъэх",
+            "translation": "The soldiers '''are not visible''', they wear green clothes."
+          },
+		  {
+            "sentence": "К1алэр ыгъэбылърэр '''къэлъэгъуагъ'''",
+            "translation": "The thing the boy was hiding '''was revealed'''."
+          },
+		  {
+            "sentence": "Мафэм мазэ '''къэлъагъоу''' мафэ мы тхьэмафэм къыхэк1ыгъ",
+            "translation": "In this week there was a day in which the moon '''was visible''' in during the day."
+          }
+        ]
+      },
+	  {
+        "meaning": "to be evident; to be apparent",
+        "examples": [
+          {
+            "sentence": "К1алэр зэремыджагъэр '''къэлъагъо'''",
+            "translation": "'''It is apparent''' that the boy did not study."
+          },
+		  {
+            "sentence": "Узэрэпщэрэр '''къэлъагъо'''",
+            "translation": "'''It is apparent''' that you are fat."
+          },
+		  {
+            "sentence": "'''Къэлъагъо''' мы экзаменым зэрэ1эш1эщтыр",
+            "translation": "'''It is apparent''' that this exam will be easy."
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "qaɬaʁʷan"
+  },
+  {
+    "word": "къэлъагъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "visible",
+        "examples": [
+          {
+            "sentence": "К1алэр '''къэлъагъо'''",
+            "translation": "The boy is '''visible'''."
+          },
+		  {
+            "sentence": "Тыгъуак1ор нэфнэм хахьэм '''къэлъэгъуагъ'''",
+            "translation": "When the burglar entered the light, '''he was seen'''."
+          },
+		  {
+            "sentence": "'''Къэлъагъохэрэп''' дзак1охэр, щыгъын уцышъохэр ащыгъэх",
+            "translation": "The soldiers '''are not visible''', they wear green clothes."
+          },
+		  {
+            "sentence": "К1алэр ыгъэбылърэр '''къэлъэгъуагъ'''",
+            "translation": "The thing the boy was hiding '''was revealed'''."
+          },
+		  {
+            "sentence": "Мафэм мазэ '''къэлъагъоу''' мафэ мы тхьэмафэм къыхэк1ыгъ",
+            "translation": "In this week there was a day in which the moon '''was visible''' in during the day."
+          }
+        ]
+      },
+	  {
+        "meaning": "evident; apparent",
+        "examples": [
+          {
+            "sentence": "К1алэр зэремыджагъэр '''къэлъагъо'''",
+            "translation": "It is '''apparent''' that the boy did not study."
+          },
+		  {
+            "sentence": "Узэрэпщэрэр '''къэлъагъо'''",
+            "translation": "It is '''apparent''' that you are fat."
+          },
+		  {
+            "sentence": "'''Къэлъагъо''' мы экзаменым зэрэ1эш1эщтыр",
+            "translation": "It is '''apparent''' that this exam will be easy."
+          }
+        ]
+      }
+    ],
+    "type": "adj",
+    "ipa": "qaɬaːʁʷa"
   },
   {
     "word": "шъоф нэк1ы",
@@ -125841,11 +126068,23 @@
         ]
       },
       {
-        "meaning": "to occur among several occasions",
+        "meaning": "to occur (among several occasions), an instance to happen",
         "examples": [
-          {
-            "sentence": "Мафэм мазэ къэлъагъоу '''къыхэк1ыгъ''' мы тхьэмафэм",
-            "translation": "The moon was visible in this week."
+		  {
+            "sentence": "Мафэм мазэ къэлъагъоу мафэ мы тхьэмафэм '''къыхэк1ыгъ'''",
+            "translation": "In this week '''there was''' a day in which the moon was visible in during the day."
+          },
+		  {
+            "sentence": "Мыгъэм тхьапшэрэ усымаджэу '''къыхэк1ыгъ'''",
+            "translation": "In this year, in how many '''occations''' you were sick?"
+          },
+		  {
+            "sentence": "Тхьэмафэм тхьапшэрэ '''къыхэк1ыгъ''' сыхьатипш1ык1ут1у улажьэу?",
+            "translation": "In the week, in how many '''instances''' you worked twelve hours?"
+          },
+		  {
+            "sentence": "Покерк1э тхьапшэрэ '''къыхэк1ыгъ''' ухьэу?",
+            "translation": "In poker, in how many '''instances''' you won?"
           }
         ]
       }
@@ -125870,7 +126109,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "bite me; eat me; a taunting phrase, essentially meaning I don't care",
+        "meaning": "bite me; eat me (a taunting phrase, essentially meaning I don't care)",
         "examples": []
       }
     ],
@@ -125882,7 +126121,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "tip of the penis",
+        "meaning": "(vulgar) tip of the penis",
         "examples": []
       }
     ],
@@ -125895,11 +126134,25 @@
     "definitions": [
       {
         "meaning": "(vulgar) to exhaust someone (usaully due to hard work)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Тхьэматэм '''шъутык1э тигъэк1уагъ'''",
+            "translation": "The boss '''exhausted us'''."
+          },
+		  {
+            "sentence": "1офымк1э '''шъутык1э тагъэк1уагъ'''",
+            "translation": "The work '''they exhausted us'''."
+          }
+        ]
       },
       {
         "meaning": "(vulgar) to beat",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Джэгумк1э, адрэ групыр '''шъутык1э тыгъэк1уагъ'''",
+            "translation": "In the game, '''we have beaten''' the other group"
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -125911,11 +126164,25 @@
     "definitions": [
       {
         "meaning": "(vulgar) to exhaust someone (usaully due to hard work)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Тхьэматэм '''шъутык1э ти1этыгъ'''",
+            "translation": "The boss '''exhausted us'''."
+          },
+		  {
+            "sentence": "1офымк1э '''шъутык1э та1этыгъ'''",
+            "translation": "The work '''they exhausted us'''."
+          }
+        ]
       },
       {
         "meaning": "(vulgar) to beat",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Джэгумк1э, адрэ групыр '''шъутык1э ты1этыгъ'''",
+            "translation": "In the game, '''we have beaten''' the other group"
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -125927,7 +126194,12 @@
     "definitions": [
       {
         "meaning": "wrist",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''С1ак1''' мэузы",
+            "translation": "'''My wrist''' hurts"
+          }
+        ]
       }
     ],
     "type": "noun",

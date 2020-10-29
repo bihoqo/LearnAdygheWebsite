@@ -897,7 +897,10 @@
     "fortune": "былым"
   },
   {
-    "fortunate": "насып; хъяр; насып дэъу; насыпыш1уагъ; ш1угъо (fortunate time)"
+    "fortunate": "насып; хъяр; насып дэъу; насыпыш1у; насыпыш1уагъ; ш1угъо (fortunate time); бэрэ1умаф"
+  },
+  {
+    "lucky": "насыпыш1у; насып зи1эр; насып дэгъу зи1эр; бэрэ1умаф"
   },
   {
     "fortunate time": "ш1угъо"
@@ -3996,12 +3999,6 @@
     "joyful": "чэфы (to feel joy); тхъагъо (fun, enjoyable)"
   },
   {
-    "fortuned": "насыпыш1у"
-  },
-  {
-    "lucky": "насыпыш1у; насып зи1эр; насып дэгъу зи1эр; бэрэ1умаф"
-  },
-  {
     "successful": "гъэхъагъэ зи1э"
   },
   {
@@ -4562,6 +4559,9 @@
   },
   {
     "grammar": "бзэхабзэ"
+  },
+  {
+    "occation": "къыхэк1ын (to occur (among several occasions))"
   },
   {
     "to disappear": "бзэхын; к1одын; ш1ок1одын (to disappear for someone); хэк1одэн (to disappear among, to disappear in the forest, to disappear in an area with gas or liquid)"
@@ -5783,9 +5783,6 @@
   },
   {
     "blessed": "бэрэ1умаф"
-  },
-  {
-    "fortunate": "бэрэ1умаф"
   },
   {
     "generous": "бэты; гупц1анэ; псэнчъэ; огъурлы; гупс1анэ (Shapsug)"
@@ -7963,7 +7960,7 @@
     "straightforward": "шъхьаихыгъ; шъхьашыгуихыгъ"
   },
   {
-    "apparent": "къыхэщы; нэрылъэгъу"
+    "apparent": "къэлъэгъон (to be apparent); къэлъагъо; къыхэщын (to be apparent); къыхэщы; нэрылъэгъу"
   },
   {
     "seemingly": "зэрэкъэлъагъорэмк1э; итеплъэк1э; ынахэк1э"
@@ -8027,6 +8024,9 @@
   },
   {
     "it is evident": "къэлъагъо"
+  },
+  {
+    "visible": "къэлъагъо"
   },
   {
     "rank": "теуцогъу"
@@ -9970,7 +9970,10 @@
     "how much": "тхьапш; сыд фэдиз"
   },
   {
-    "how long": "тхьапш; сыд фэдиз"
+    "how long": "тхьапшэрэ; сыд фэдиз"
+  },
+  {
+    "how many": "тхьапш; тхьапшэрэ"
   },
   {
     "rest": "гъэпсэфыгъо; зыгъэпсэфыгъо"
@@ -12844,7 +12847,7 @@
     "to jut out": "къыхэщын (to stick out from among); къищын (to stick out from inside something); къыч1эщын (to stick out from under something); къытещын (to stick out from above something); къыпыщын (to stick out from a tree, to stick out from the tip of something); къыкъощын (to stick out from behind something); къыхэгъэщын (to make something stick out)"
   },
   {
-    "to be apparent": "къыхэщын; къыхэгъэщын (to make something apparent)"
+    "to be apparent": "къэлъэгъон; къыхэщын; къыхэгъэщын (to make something apparent)"
   },
   {
     "to be prominent": "къыхэщын; къыхэгъэщын (to make something prominent)"
@@ -13468,10 +13471,10 @@
     "fellow traveler": "гъогогъу"
   },
   {
-    "instance": "гъогогъу (as in гъогогъуищы: three times)"
+    "instance": "гъогогъу (as in гъогогъуищы: three times); къыхэк1ын (to occur (among several occasions), an instance to happen)"
   },
   {
-    "instances": "гъогогъу (as in гъогогъуищы: three times)"
+    "instances": "гъогогъу (as in гъогогъуищы: three times); къыхэк1ын (to occur (among several occasions), an instance to happen))"
   },
   {
     "have a nice day": "гъогумаф"
