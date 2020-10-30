@@ -489,6 +489,18 @@
     "ipa": "t͡ʃʼapt͡s"
   },
   {
+    "word": "ара",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"арба\"",
+        "examples": []
+      }
+    ],
+    "type": "intj",
+    "ipa": "abaː"
+  },
+  {
     "word": "арба",
     "lang": "Adyghe",
     "definitions": [
@@ -506,6 +518,10 @@
           {
             "sentence": "'''Арба''' к1алэм ы1уагъэ?",
             "translation": "'''Isn’t that''' what the boy said?"
+          },
+          {
+            "sentence": "Уеджагъэп '''арба'''?",
+            "translation": "You haven't studied '''right'''?"
           }
         ]
       }

@@ -2094,7 +2094,7 @@
     "late": "к1асэ; лъэжъуагъ"
   },
   {
-    "right": "джабгъо (direction); тэрэз (correct); фит (right by law); фитыныгъ (right by law, authorization)"
+    "right": "джабгъо (direction); тэрэз (correct); фит (right by law); фитыныгъ (right by law, authorization); арба / аба (isn't that right)"
   },
   {
     "authorization": "фит; фитыныгъ"
@@ -5080,13 +5080,13 @@
     "plate": "лагъэ"
   },
   {
-    "to wound": "у1эн"
+    "to wound": "у1эн / къыу1эн"
   },
   {
-    "to injure": "у1эн"
+    "to injure": "у1эн / къыу1эн"
   },
   {
-    "to incise": "у1эн"
+    "to incise": "у1эн / къыу1эн"
   },
   {
     "to get wounded": "у1эн"
