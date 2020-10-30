@@ -1559,6 +1559,10 @@
           {
             "sentence": "'''Коим''' сыдэс джы",
             "translation": "I am in the '''village''' now."
+          },
+          {
+            "sentence": "'''Тикой''' къалэм пэблагъ",
+            "translation": "'''Our village''' is close to the city."
           }
         ]
       }
@@ -6019,12 +6023,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "city",
-        "examples": []
-      },
-      {
-        "meaning": "town",
-        "examples": []
+        "meaning": "city; town",
+        "examples": [
+          {
+            "sentence": "Тикъуаджэ '''къалэм''' пэблагъ",
+            "translation": "Our village is close to '''the city'''."
+          }
+        ]
       },
       {
         "meaning": "(Shapsug dialect) wall",
@@ -9919,7 +9924,12 @@
     "definitions": [
       {
         "meaning": "blazing sun",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Тыгъэнэстырэм''' тыщылажьэ",
+            "translation": "We are working in '''the blazing sun'''."
+          }
+        ]
       },
       {
         "meaning": "sun's heat",
@@ -10340,6 +10350,10 @@
           {
             "sentence": "'''к1эим''' дэсхэр",
             "translation": "the people that are (sitting) '''in the vale'''."
+          },
+		  {
+            "sentence": "'''К1эим''' тыдэт",
+            "translation": "We are in '''the vale'''."
           }
         ]
       },
@@ -19742,6 +19756,14 @@
           {
             "sentence": "К1алэр '''къуаджэм''' идэхьэгъу къэсщыпаплъэ",
             "translation": "The boy is waiting for me at the '''village's''' entrance."
+          },
+		  {
+            "sentence": "'''Къуаджэм''' сыдэс джы",
+            "translation": "I am in the '''village''' now."
+          },
+          {
+            "sentence": "'''Тикъуаджэ''' къалэм пэблагъ",
+            "translation": "'''Our village''' is close to the city."
           }
         ]
       }
@@ -21903,6 +21925,10 @@
 		  {
             "sentence": "Л1ыр тучаным '''щылажьэ'''",
             "translation": "The man '''is working in''' the shop."
+          },
+		  {
+            "sentence": "Тыгъэстырэм '''тыщылажьэ'''",
+            "translation": "'''We are working''' in the blazing sun."
           },
           {
             "sentence": "К1алэр л1ым '''фэлажьэ'''",
@@ -28280,31 +28306,28 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "few (in amount)",
+        "meaning": "few (in amount); small amount of",
         "examples": [
           {
-            "sentence": "к1элэ '''мак1''' и1э",
+            "sentence": "К1элэ '''мак1''' и1эр",
             "translation": "(S)he have '''few''' boys."
           },
           {
-            "sentence": "ахъщэ '''мак1э''' къыситыгъ",
+            "sentence": "Ахъщэ '''мак1''' къыситыгъ",
             "translation": "He gave me '''few''' money."
           },
           {
-            "sentence": "к1алэхэр '''мак1эу''' екъух",
+            "sentence": "К1алэхэр '''мак1эу''' екъух",
             "translation": "The boys are '''few'''."
           },
           {
-            "sentence": "'''мак1э''' ыш1эрэр",
+            "sentence": "'''Мак1э''' ыш1эрэр",
             "translation": "'''Few''' what he knows."
           },
           {
-            "sentence": "л1ыжъым иныбжь '''мак1эп'''",
+            "sentence": "Л1ыжъым иныбжь '''мак1эп'''",
             "translation": "The age of the old man '''is not little'''."
           }
-        ],
-        "tags": [
-          "Literary"
         ]
       }
     ],
@@ -37307,6 +37330,10 @@
 		  {
             "sentence": "Пыйхэр къак1ох 1ашэхэр '''а1ыгъэхэу'''",
             "translation": "The foes are coming '''holding''' weapons."
+          },
+		  {
+            "sentence": "К1алэм ахъщэ мэк1эжъый '''ы1ыгъэр'''",
+            "translation": "The boy '''has''' very few money."
           }
         ]
       },
@@ -37722,6 +37749,23 @@
     ],
     "type": "verb",
     "ipa": "jaxə"
+  },
+  {
+    "word": "зэ1ухын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to open",
+        "examples": [
+          {
+            "sentence": "К1алэм бэшэрэбыр '''зэ1ухигъ'''",
+            "translation": "The boy '''opened''' the bottle."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaʔʷəxən"
   },
   {
     "word": "лъфэн",
@@ -43857,7 +43901,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to make/allow someone or something to sit in (area, village, yard, between, inside another object)",
+        "meaning": "to make/allow someone or something to sit in a defined area (area, village, yard, etc.)",
+        "examples": []
+      },
+	  {
+        "meaning": "to make/allow someone or something to sit in between",
+        "examples": []
+      },
+	  {
+        "meaning": "to make/allow someone or something to sit inside another object (that can be opened)",
         "examples": []
       }
     ],
@@ -43911,7 +43963,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to freeze inside another object (like a fridge)",
+        "meaning": "to freeze something inside another object (that can be opened like a fridge)",
         "examples": [
           {
             "sentence": "к1алэм лыхэр гъэучъы1алъэр '''дигъэщтыхьагъэх'''",
@@ -44482,7 +44534,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to put between; to put inside another object; to store inside another object; to put in a defined area (area, yard, village)",
+        "meaning": "to put between; to put inside another object (that can be opened); to store inside another object (that can be opened); to put in a defined area (area, yard, village)",
         "examples": [
           {
             "sentence": "Къэлэмыр тхылъым '''дэлъхьан'''",
@@ -44613,7 +44665,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to pull out from inside another object (usually a page)",
+        "meaning": "to pull out from inside another object (that can be opened, for example from a book)",
         "examples": [
           {
             "sentence": "К1алэр тхьапэр '''детхъы'''",
@@ -49321,7 +49373,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "a bit; a little bit of; few",
+        "meaning": "a bit; a little bit of; few; small amount of",
         "examples": [
           {
             "sentence": "К1алэм шхын '''т1эк1у''' ышхыгъэ",
@@ -49329,10 +49381,10 @@
           },
           {
             "sentence": "К1алэм '''т1эк1у''' тхылъэу и1эр",
-            "translation": "The amount of books the boy has is '''few'''."
+            "translation": "The '''amount of''' books the boy has is '''few'''."
           },
           {
-            "sentence": "Шъоущыгъу '''т1эк1у''' къыхалъхь сичае",
+            "sentence": "Шъоущыгъу '''т1эк1у''' къыхалъхь сищае",
             "translation": "Put '''a bit of''' sugar in my tea."
           },
           {
@@ -49346,6 +49398,10 @@
           {
             "sentence": "'''Т1эк1у''' нахь жъажъэу к1о",
             "translation": "Go '''a bit''' slower."
+          },
+          {
+            "sentence": "Ахъщэ '''т1эк1у''' сы1ыгъэр",
+            "translation": "I have '''a little bit of''' money."
           }
         ]
       }
@@ -55393,7 +55449,7 @@
         ]
       },
       {
-        "meaning": "fall into some area (yard, area, village, inside another object, between)",
+        "meaning": "to fall into some area (yard, area, village); to fall from inside another object (that can be opened); to fall from between",
         "examples": [
           {
             "sentence": "1эгуаур унэм ык1ыб '''дафагъ'''",
@@ -55410,7 +55466,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to drive away from an area (yard, area, village, inside another object, between)",
+        "meaning": "to drive away from an area (yard, area, village), to drive away from between something, to drive away from inside another object (that can be opened)",
         "examples": [
           {
             "sentence": "Л1ы бзаджэр чылэм '''къыдафыгъ'''",
@@ -58818,7 +58874,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to lie down inside another object; to lie in a defined area (area, yard, village); to lie between",
+        "meaning": "to lie down inside another object (that can be opened); to lie in a defined area (area, yard, village); to lie between",
         "examples": [
           {
             "sentence": "Дракулэ пхъэмбаим '''дэгъолъхьэ'''",
@@ -66750,12 +66806,16 @@
         "meaning": "to explode",
         "examples": [
           {
-            "sentence": "Къумбылыр '''къэот'''",
+            "sentence": "Къумбылыр '''къэощт'''",
             "translation": "The bomb '''will explode'''."
           },
           {
             "sentence": "Унэр '''къао'''",
             "translation": "The house '''is exploding'''."
+          },
+          {
+            "sentence": "Къумбылыр къэтпэблагъэу '''къэуагъ'''",
+            "translation": "The bomb '''exploded''' close to us."
           }
         ]
       }
@@ -74524,6 +74584,10 @@
           {
             "sentence": "Чылэм гупсэфэу '''тыщы1'''",
             "translation": "'''We live''' comfortably in the village."
+          },
+		  {
+            "sentence": "Л1ыр тхьамык1эу '''щы1'''",
+            "translation": "The man '''lives''' poorly."
           }
         ]
       }
@@ -80998,7 +81062,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to throw stuff into inside another object; to throw stuff between something",
+        "meaning": "to throw stuff into another object (that can be opened); to throw stuff between something",
         "examples": [
           {
             "sentence": "Пхъэхэр моу '''дэтакъох'''",
@@ -81023,7 +81087,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to throw stuff out from inside another object; to throw stuff out from between something",
+        "meaning": "to throw stuff out from inside another object (that can be opened); to throw stuff out from between something",
         "examples": [
           {
             "sentence": "Пхъэхэр моу '''къыдэтэкъух'''",
@@ -94387,7 +94451,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to lie inside another object; to lie between; to lie inside a defined area",
+        "meaning": "to lie inside another object (that can be opened); to lie between; to lie inside a defined area",
         "examples": [
           {
             "sentence": "Къэлэмыр '''дэлъ''' тхылъым",
@@ -102353,7 +102417,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(added to verbs) inside another object",
+        "meaning": "(added to verbs) inside another object (that can be opened)",
         "examples": [],
         "tags": [
           "added to verbs"
@@ -102692,7 +102756,7 @@
         ]
       },
 	  {
-        "meaning": "to go inside another object",
+        "meaning": "to go inside an object (that can be opened)",
         "examples": []
       }
     ],
@@ -118416,6 +118480,10 @@
           {
             "sentence": "'''Къумбыл''' гъоч1эгъым ч1адзи къагъэуагъ",
             "translation": "They threw '''a bomb''' under the cave and made it explode."
+          },
+          {
+            "sentence": "'''Къумбылыр''' къэтпэблагъэу къэуагъ",
+            "translation": "'''The bomb''' exploded close to us."
           }
         ]
       }
@@ -126719,7 +126787,7 @@
             "translation": "The video '''is loading'''."
           },
           {
-            "sentence": "Дзыор мы1эпыск1э '''сыузэндыгъ'''",
+            "sentence": "Дзыор мы1эрыск1э '''сыузэндыгъ'''",
             "translation": "'''I loaded''' the sack with apples."
           },
           {
@@ -126727,8 +126795,8 @@
             "translation": "The soldier '''loads''' the gun."
           },
 		  {
-            "sentence": "Дзак1ом шхончыр '''ыузэндыгъ'''",
-            "translation": "The soldier '''loaded''' the rifle."
+            "sentence": "Дзак1ом шхончыр '''ыузэндыжьыгъ'''",
+            "translation": "The soldier '''reloaded''' the rifle."
           },
 		  {
             "sentence": "Шак1ом гыныр шхончым ритакъуи, '''ыузэндыгъ'''",
@@ -126753,7 +126821,7 @@
           },
           {
             "sentence": "Ощхым сиунэ псык1э ыузэндыгъ",
-            "translation": "The rain '''filled''' my house in water."
+            "translation": "The rain '''filled''' my house with water."
           },
 		  {
             "sentence": "Къещхыгъэти, шъофыр псынжъык1э '''узэндыгъ'''",
@@ -126780,7 +126848,12 @@
     "definitions": [
       {
         "meaning": "poor; helpless",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ыр '''къулайцызэу''' щы1",
+            "translation": "The man lives '''poorly'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -126790,15 +126863,74 @@
     "ipa": "qʷəlaːjt͡səj"
   },
   {
+    "word": "мэфай",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"мафай\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "mafaːj"
+  },
+  {
+    "word": "мафай",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "bad day; unlucky day; rainy day",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "maːfaːj"
+  },
+  {
     "word": "мэк1эжъый",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "very few",
-        "examples": []
+        "meaning": "very few; a very small amount of",
+        "examples": [
+          {
+            "sentence": "К1алэм ахъщэ '''мэк1эжъый''' ы1ыгъэр",
+            "translation": "The boy has '''very few''' money."
+          },
+		  {
+            "sentence": "Шъоущыгъу '''мэк1эжъый''' сищае къыхэлъхь",
+            "translation": "Put '''a very small amount of''' sugar to my tea."
+          }
+        ]
       }
     ],
     "synonyms": [
+      "т1эк1ужъый",
+      "мэк1э дэд"
+    ],
+    "type": "verb",
+    "ipa": "mat͡ʃʼaʐəj"
+  },
+  {
+    "word": "т1эк1ужъый",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "very few",
+        "examples": [
+          {
+            "sentence": "К1алэм ахъщэ '''т1эк1ужъый''' ы1ыгъэр",
+            "translation": "The boy has '''very few''' money."
+          },
+		  {
+            "sentence": "Шъоущыгъу '''т1эк1ужъый''' сищае къыхэлъхь",
+            "translation": "Put '''a very small amount of''' sugar to my tea."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "мэк1эжъый",
       "мэк1э дэд"
     ],
     "type": "verb",
@@ -126829,7 +126961,12 @@
       },
       {
         "meaning": "blazing sun",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Тыгъэстырэм''' тыщылажьэ",
+            "translation": "We are working in '''the blazing sun'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -126863,7 +127000,16 @@
     "definitions": [
       {
         "meaning": "to tear apart",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм письмэр '''зэ1итхъыгъ'''",
+            "translation": "The boy '''tore''' the letter '''apart'''."
+          },
+		  {
+            "sentence": "К1алэм пчъэр зыреутэк1ым пчъэр '''зэ1итхъыгъ'''",
+            "translation": "When the boy slammed the door, it '''tore''' the door '''apart'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -126879,7 +127025,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "close",
+        "meaning": "close to; near to; nearby",
         "examples": [
           {
             "sentence": "Тиунэ к1алэм иунэ '''пэблагъ'''",
@@ -126888,6 +127034,18 @@
           {
             "sentence": "А к1алэр '''къэспэблагъ'''",
             "translation": "That boy '''is close to me'''."
+          },
+          {
+            "sentence": "Тучаным '''пэблагъэу''' Куджаным натрыфхэр ещэх",
+            "translation": "Kujan sells corns '''close to''' the shop."
+          },
+          {
+            "sentence": "Къумбылыр '''къэтпэблагъэу''' къэуагъ",
+            "translation": "The bomb exploded '''close to us'''."
+          },
+          {
+            "sentence": "Тикъуаджэ къалэм '''пэблагъ'''",
+            "translation": "Our village is '''close to''' the city."
           }
         ]
       },
@@ -126899,10 +127057,6 @@
             "translation": "Your answer is '''not far off''' from the correct one."
           }
         ]
-      },
-      {
-        "meaning": "nearby",
-        "examples": []
       },
       {
         "meaning": "relative to",
@@ -126934,6 +127088,18 @@
           {
             "sentence": "А к1алэр '''къэспэчыжь'''",
             "translation": "That boy '''is far from me'''."
+          },
+          {
+            "sentence": "Тучаным '''пэчыжьэу''' Куджаным натрыфхэр ещэх",
+            "translation": "Kujan sells corns '''far from''' the shop."
+          },
+          {
+            "sentence": "Къумбылыр '''къэтпэчыжьэу''' къэуагъ",
+            "translation": "The bomb exploded '''far from us'''."
+          },
+          {
+            "sentence": "Тикъуаджэ къалэм '''пэчыжь'''",
+            "translation": "Our village is '''far from''' the city."
           }
         ]
       },
@@ -126945,14 +127111,7 @@
             "translation": "Your answer is '''far off''' from the correct one."
           }
         ]
-      },
-      {
-        "meaning": "far away",
-        "examples": []
       }
-    ],
-    "synonyms": [
-      "пэгъунэгъу"
     ],
     "type": "adj",
     "ipa": "pablaːʁ"
@@ -127055,6 +127214,10 @@
           {
             "sentence": "Джэхашъор ц1ашъутэ, арти '''къэшъумычъэхь'''",
             "translation": "The floor is slippery, so '''don't run around'''"
+          },
+		  {
+            "sentence": "К1элэц1ык1ухэр щагум дэтых '''къэчъэхьэу'''",
+            "translation": "The boys are in the yard '''running around'''"
           }
         ]
       }
@@ -127063,11 +127226,75 @@
     "ipa": "qat͡ʂaħaːn"
   },
   {
+    "word": "дэтын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to stand/be in a defined area (yard, area, city, village)",
+        "examples": [
+		  {
+            "sentence": "К1элэц1ык1ухэр щагум '''дэтых''' къэчъэхьэу",
+            "translation": "The boys '''are in''' the yard running around"
+          },
+		  {
+            "sentence": "Пхъэнт1эк1ур щагум '''дэт'''",
+            "translation": "The chair '''is in''' the yard."
+          },
+		  {
+            "sentence": "Парк къалэм '''дэт'''",
+            "translation": "'''There is a''' park '''in''' the city."
+          },
+		  {
+            "sentence": "Тхьапш тучанэу чылэм '''дэтыр'''?",
+            "translation": "How many shops '''there are in''' the village?"
+          },
+		  {
+            "sentence": "К1эим '''тыдэт'''",
+            "translation": "'''We are in''' the valley."
+          }
+        ]
+      },
+	  {
+        "meaning": "to be between; to stand between",
+        "examples": [
+		  {
+            "sentence": "К1алэр чъыгит1ум '''адэт'''",
+            "translation": "The boy '''is standing beween''' the two trees."
+          }
+        ]
+      },
+	  {
+        "meaning": "to be inside another object (that can be opened) in a standing position",
+        "examples": [
+		  {
+            "sentence": "Колэхэр гъэучъы1алъэм '''дэтых'''",
+            "translation": "The Cokes '''are in''' the fridge."
+          }
+        ]
+      }
+    ],
+    "shapsug": "пыпсык1ьын",
+    "type": "verb",
+    "ipa": "pəpsət͡ʃʼən"
+  },
+  {
+    "word": "пыпытыхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to hold firmly onto the end of something",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "pəpətəħaːn"
+  },
+  {
     "word": "пыпсык1ын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to spark",
+        "meaning": "to spark off",
         "examples": []
       }
     ],

@@ -2496,10 +2496,10 @@
     "not far off": "пэблагъ"
   },
   {
-    "nearby": "пэблагъ"
+    "nearby": "пэблагъ (close to)"
   },
   {
-    "adjacent": "пэгъунэгъу"
+    "adjacent": "пэгъунэгъу; голъын / бгъодэлъын (to be adjacent to)"
   },
   {
     "neighboring": "пэгъунэгъу"
@@ -4894,7 +4894,7 @@
     "to pour": "къетк1ухын (to pour down, to drip down, to drop down); игъэхъон (to fill liquid into); ик1эн (intensive); ик1утэн (slightly intensive); ек1эхын (to pour down); тетк1он (to drip liquid on something one drop at a time); к1эгъэхьан (to water plants); к1эк1эн (to pour liquid under, to spill liquid under)"
   },
   {
-    "to fill": "игъэхъон (to fill liquid into); узэндын (to load); изэу ш1ын (to make full)"
+    "to fill": "игъэхъон (to fill liquid into); узэндын (to load, to fill); изэу ш1ын (to make full)"
   },
   {
     "to fill in": "игъэхъон; ик1эн (intensive); ик1утэн (slightly intensive); узэндын (to load); изэу ш1ын (to make full)"
@@ -5119,10 +5119,10 @@
     "clavicle": "блыпкъыжъый; тэмэжъый"
   },
   {
-    "little": "ц1ык1у; жъый"
+    "little": "ц1ык1у"
   },
   {
-    "small": "ц1ык1у (little); жъый (small in size); ц1ык1ужъый (tiny); жъгъэй / шъхъэи (the size of a fragment of some sort, small thing or small piece); (Shapsug) шъхъэ (the size of a fragment of some sort); ц1ык1уинт1э (tiny); (Shapsug) ц1ык1унау (tiny); т1эк1у (small in amount); т1эк1унит1э (very small in amount); (Shapsug) т1эк1унау; т1эк1ужъый (very small in amount)"
+    "small": "ц1ык1у (little, small); жъый (small in size); ц1ык1ужъый (tiny); жъгъэй / шъхъэи (the size of a fragment of some sort, small thing or small piece); (Shapsug) шъхъэ (the size of a fragment of some sort); ц1ык1уинт1э (tiny); (Shapsug) ц1ык1унау (tiny); мак1э (small amount, few); мэк1эжъый (very small amount); т1эк1у (small amount, few); т1эк1ужъый (very small amount); т1эк1унит1э (very small amount); (Shapsug) т1эк1унау"
   },
   {
     "small thing": "жъгъэй / шъхъэи (the size of a fragment of some sort, small thing or small piece); шъхъэ (Shapsug)"
@@ -5134,7 +5134,7 @@
     "tiny": "ц1ык1ужъый"
   },
   {
-    "few": "мак1э; т1эк1у; т1эк1унит1э (very few); (Shapsug) т1эк1унау (very few)"
+    "few": "мак1э; мэк1эжъый (very few); т1эк1у; т1эк1ужъый (very few); т1эк1унит1э (very few); (Shapsug) т1эк1унау (very few)"
   },
   {
     "bunglesome": "блыпкъыщ"
@@ -9724,7 +9724,7 @@
     "to glorify": "дэхьыен; щытхъун / къыщытхъун; щытхъук1э фэусэн; ищытхъу 1он"
   },
   {
-    "to pull": "къудыин / къэкъудыин (to apply a force to (an object) so that it comes toward the person or thing applying the force); къэлъэшъун (to pull something to oneself, to gravitate something to oneself); хэтхъын (to pull/tear off from in something); пытхъын (to pull/tear off something); пычын (to pick a fruit or flower); дэлъэшъоен (to pull up); елъэшъохын / къелъэшъохын (to pull down, to gravitate downward); дэтхъын (to pull out from inside another object like a book); хэщын (to pull someone out of a certain situation); к1ырыун (to tug, to pull hard)"
+    "to pull": "къудыин / къэкъудыин (to pull, to apply a force to (an object) so that it comes toward the person or thing applying the force); икъудыик1ын / къикъудыик1ын (to pull something from inside something); ч1экъудыик1ын / къыч1экъудыик1ын (to pull something from under something); къэлъэшъун (to pull something to oneself, to gravitate something to oneself); хэтхъын (to pull/tear off from in something); пытхъын (to pull/tear off something); пычын (to pick a fruit or flower); дэлъэшъоен (to pull up); елъэшъохын / къелъэшъохын (to pull down, to gravitate downward); дэтхъын (to pull out from inside another object like a book); хэщын (to pull someone out of a certain situation); к1ырыун (to tug, to pull hard)"
   },
   {
     "to gravitate": "къэлъэшъун (to pull to oneself); елъэшъохын / къелъэшъохын (to pull down, to gravitate downward)"
@@ -9925,7 +9925,7 @@
     "alone": "изакъу"
   },
   {
-    "to hang": "пылъын (to be hanging); пылъэн (to hang); пылъхьан (to put something to a hanging state); улэлэн (to hang loosed)"
+    "to hang": "пылъын (to be hanging); пылъэн (to hang); пылъхьан (to put something to a hanging state); улэлэн (to hang loosed); теулэлэн (to hang loosed from)"
   },
   {
     "to attach": "пылъын (to be attached); пыхьан (to be attachable); пылъхьан (to attach something to); пыгъэнэн (to stick to attach)"
@@ -10084,7 +10084,10 @@
     "front door": "унапчъэ"
   },
   {
-    "to open": "1ухын / къы1ухын"
+    "to open": "1ухын / къы1ухын; зэ1ухын"
+  },
+  {
+    "to slam": "утеон; утеу1эн; уеон"
   },
   {
     "armchair": "пхъэнт1эк1ущыхьэ"
@@ -12145,13 +12148,13 @@
     "to roam": "къэк1ухьан (to talk around); къэц1энлъыхьан; (dialectal) къэц1элъыхьан; джэрыон; пш1эпш1эн"
   },
   {
-    "loiterer": "джэрыуак1о"
+    "loiterer": "джэрыуак1о; къэк1ухьал"
   },
   {
-    "rambler": "джэрыуак1о"
+    "rambler": "джэрыуак1о; къэк1ухьал"
   },
   {
-    "roamer": "джэрыуак1о"
+    "roamer": "джэрыуак1о; къэк1ухьал"
   },
   {
     "bright color": "джэфы"
