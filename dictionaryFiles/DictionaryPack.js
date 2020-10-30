@@ -7,6 +7,14 @@
         "meaning": "you (singular)",
         "examples": [
           {
+            "sentence": "Ухэт '''о'''?",
+            "translation": "Who are '''you'''?"
+          },
+		  {
+            "sentence": "Уадыга '''о'''?",
+            "translation": "Are '''you''' a Circassian?"
+          },
+		  {
             "sentence": "'''О''' удах",
             "translation": "'''You are''' beautiful."
           },
@@ -43,7 +51,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "state",
+        "meaning": "state (a condition; a set of circumstances applying at any given time)",
         "examples": [
           {
             "sentence": "'Ом '''изытет''' 1ае",
@@ -60,19 +68,31 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "that (invisible)",
+        "meaning": "that (something or someone invisible to the speaker or listener, idea, concept)",
         "examples": [
           {
-            "sentence": "'''а''' бэнанэр",
-            "translation": "'''that''' banana"
+            "sentence": "'''А''' тучанэу тызк1огъагъэр",
+            "translation": "'''That''' shop we went once."
           },
           {
-            "sentence": "'''а''' пшъашъэр",
-            "translation": "'''that''' girl"
+            "sentence": "'''А''' пшъашъэу сыздеджэгъагъэр",
+            "translation": "'''That''' girl I studied with."
           },
           {
-            "sentence": "'''а''' к1алэм е1о",
-            "translation": "'''that''' boy is saying"
+            "sentence": "'''А''' к1алэм е1о",
+            "translation": "'''That''' boy is saying."
+          },
+          {
+            "sentence": "'''А''' ч1ып1эм тык1она?",
+            "translation": "Shall we go to '''that''' location?"
+          },
+          {
+            "sentence": "'''А''' хъуанэ дахэп къэп1оныр",
+            "translation": "It is not appropriate to say '''that''' word."
+          },
+          {
+            "sentence": "'''А''' фылымыр дэгъу",
+            "translation": "'''That''' film is good."
           }
         ]
       }
@@ -85,15 +105,27 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "or",
+        "meaning": "or; either",
         "examples": [
           {
-            "sentence": "к1о '''е''' чъэ.",
+            "sentence": "К1о '''е''' чъэ.",
             "translation": "go '''or''' run"
           },
 		  {
-            "sentence": "'''е''' сэры, '''е''' оры",
+            "sentence": "'''Е''' сэры '''е''' оры",
             "translation": "I '''or''' you."
+          },
+		  {
+            "sentence": "'''Е''' мы фылымым теплъыщт '''е''' тыджэгущт",
+            "translation": "'''Either''' we watch this film '''or''' we play."
+          },
+		  {
+            "sentence": "'''Е''' уфай '''е''' уфаеп",
+            "translation": "'''Either''' you want '''or''' you do not want."
+          },
+		  {
+            "sentence": "Л1ыр ук1ы '''е''' сэ усыук1ыщт",
+            "translation": "Kill the man '''or''' I will kill you."
           }
         ] 
       }
@@ -122,15 +154,20 @@
         "examples": [
           {
             "sentence": "'''Мыр''' мак1о",
-            "translation": "'''this''' is going"
+            "translation": "'''This''' is going"
           },
           {
             "sentence": "'''Мыр''' дахэ",
-            "translation": "'''this''' is pretty"
+            "translation": "'''This''' is pretty"
+          },
+          {
+            "sentence": "'''Мыр''' къэсдэгущы1агъ",
+            "translation": "'''This''' [person] spoke with me."
+          },
+          {
+            "sentence": "'''Мыр''' къашх",
+            "translation": "Lift '''this'''."
           }
-        ],
-        "tags": [
-          "absolutive case"
         ]
       }
     ],
@@ -145,12 +182,12 @@
         "meaning": "intention",
         "examples": [
           {
-            "sentence": "Сэ '''синетыгъэр''' л1ыр сыук1ыныгъэрэп",
+            "sentence": "Сэ '''синетыгъэр''' л1ыр сыук1ынэрэп",
             "translation": "'''My intention''' was to not kill the man."
           },
           {
-            "sentence": "'''Нет''' си1эп шъузхэм 1аеу сатегущы1энэу",
-            "translation": "I don't have any '''intention'''  to talk badly about women."
+            "sentence": "'''Нет''' си1эп синыбджэгъухэмэ 1аеу сатегущы1энэу",
+            "translation": "I don't have any '''intention'''  to talk badly about my friends."
           },
           {
             "sentence": "'''Нет''' си1 нэмазэ сыш1ынэу",
@@ -167,20 +204,40 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be hitting",
+        "meaning": "to be hitting; to be striking",
         "examples": [
           {
-            "sentence": "к1алэр '''мао'''",
-            "translation": "the boy '''is hitting'''."
+            "sentence": "К1алэр '''мао'''",
+            "translation": "The boy '''is hitting'''."
+          },
+		  {
+            "sentence": "К1алэр уатэк1э '''мао'''",
+            "translation": "The boy '''is hitting''' with a hammer."
+          },
+		  {
+            "sentence": "К1алэр 1эбжымк1э '''уагъэ'''",
+            "translation": "The boy '''hit''' with a fist."
           }
         ]
       },
       {
-        "meaning": "to be destroyed, to be ruined.",
+        "meaning": "to be destroyed, to be ruined",
         "examples": [
           {
-            "sentence": "унэр '''мао'''",
+            "sentence": "Унэр '''мао'''",
             "translation": "The house '''is getting''' destroyed."
+          },
+		  {
+            "sentence": "Планыр '''уагъэ'''",
+            "translation": "The plan '''is ruined'''."
+          },
+		  {
+            "sentence": "К1алэм иплан '''уагъэ'''",
+            "translation": "The boy's plan '''got ruined'''."
+          },
+          {
+            "sentence": "К1алэм унэ пшахъоу ыш1ыгъэ '''ощт''' къещхымэ",
+            "translation": "The boy's house sand '''will get ruined''' when it will rain."
           }
         ]
       },
@@ -188,12 +245,16 @@
         "meaning": "to play music",
         "examples": [
           {
-            "sentence": "к1алэр гитарым '''къео'''",
-            "translation": "the boy is playing the guitar"
+            "sentence": "К1алэр гитарым '''къео'''",
+            "translation": "The boy is playing the guitar"
+          },
+		  {
+            "sentence": "Пщынао пщынэм '''къео'''",
+            "translation": "The accordionist '''plays''' the accordion."
           },
           {
-            "sentence": "пяноуым '''шъукъео'''",
-            "translation": "do you (plural) play the piano?"
+            "sentence": "Пяноум '''шъукъео'''",
+            "translation": "Do you (plural) play the piano?"
           }
         ]
       },
@@ -201,8 +262,16 @@
         "meaning": "to shoot",
         "examples": [
           {
-            "sentence": "к1алэр к1эрахъомк1э '''мао'''",
-            "translation": "the boy is '''shooting''' with the gun."
+            "sentence": "К1алэр к1эрахъомк1э '''мао'''",
+            "translation": "The boy '''is shooting''' with the gun."
+          },
+		  {
+            "sentence": "Шак1ор  '''уагъэ''' шхончык1э",
+            "translation": "The hunter '''shot''' with a rifle."
+          },
+		  {
+            "sentence": "Топк1э '''къаох'''",
+            "translation": "'''They are shooting''' with cannons"
           }
         ]
       }
@@ -219,11 +288,11 @@
         "examples": [
           {
             "sentence": "К1алэр дэпкъым '''ео'''",
-            "translation": "the boy '''is hitting''' the wall."
+            "translation": "The boy '''is hitting''' the wall."
           },
 		  {
             "sentence": "К1алэр чъыгым уатэк1э '''ео'''",
-            "translation": "the boy '''is hitting''' the tree with an axe."
+            "translation": "The boy '''is hitting''' the tree with an axe."
           },
 		  {
             "sentence": "Сэ к1алэм '''сео'''",
@@ -240,10 +309,6 @@
           {
             "sentence": "А к1алэхэр '''къыоощтых'''",
             "translation": "Those boys '''will hit you'''."
-          },
-          {
-            "sentence": "К1алэр '''мао'''",
-            "translation": "The boy '''is hitting'''."
           },
 		  {
             "sentence": "Шыкуаор къамыщык1э шымэ '''яо'''",
@@ -264,15 +329,15 @@
         "examples": [
           {
             "sentence": "Нек1о пицэ '''тыкъеощт'''",
-            "translation": "Let's '''eat''' a pizza! (with gusto)"
+            "translation": "Let's '''eat''' a pizza!"
           },
           {
             "sentence": "Пицэ '''укъеощта'''?",
-            "translation": "'''Are you going to eat''' a pizza? (with gusto)"
+            "translation": "'''Are you going to eat''' a pizza?"
           },
           {
             "sentence": "К1алэр пицэ '''ео'''",
-            "translation": "The boy '''is eating''' a pizza (with gusto)"
+            "translation": "The boy '''is eating''' a pizza."
           }
         ]
       },
@@ -283,13 +348,13 @@
             "sentence": "К1алэр гитарым '''къео'''",
             "translation": "the boy is playing the guitar"
           },
-          {
-            "sentence": "Пианом '''шъукъеуа'''?",
-            "translation": "Do you (pl.) play the piano?"
+		  {
+            "sentence": "Пщынао пщынэм '''къео'''",
+            "translation": "The accordionist '''plays''' the accordion."
           },
           {
-            "sentence": "Пшынэм '''еу'''",
-            "translation": "'''Play''' the accordion."
+            "sentence": "Пяноум '''шъукъео'''",
+            "translation": "Do you (plural) play the piano?"
           }
         ]
       },
@@ -298,7 +363,7 @@
         "examples": [
           {
             "sentence": "К1алэр к1эрахъомк1э '''ео''' тыгъужъым",
-            "translation": "The boy '''is shooting''' the wolf with the gun."
+            "translation": "The young man '''is shooting''' the wolf with the gun."
           },
 		  {
             "sentence": "Чылэм '''дэон'''",
@@ -307,27 +372,14 @@
 		  {
             "sentence": "Топк1э '''къаох'''",
             "translation": "'''They are shooting''' with cannons"
-          }
-        ]
-      },
-      {
-        "meaning": "to be destroyed; to be ruined",
-        "examples": [
-          {
-            "sentence": "К1алэм иплан '''уагъэ'''",
-            "translation": "The boy's plan '''got ruined'''."
           },
-          {
-            "sentence": "Унэр '''мао'''",
-            "translation": "The house '''is being destroyed'''."
+		  {
+            "sentence": "Топк1э '''къытаох'''",
+            "translation": "'''They are shooting us''' with cannons"
           },
-          {
-            "sentence": "К1алэм унэ пшахъоу ыш1ыгъэ '''ощт''' къещхымэ",
-            "translation": "The boy's house sand '''will get ruined''' when it will rain."
-          },
-          {
-            "sentence": "Уикомпыйотэр '''уагъэ'''",
-            "translation": "Your computer '''is ruined'''."
+		  {
+            "sentence": "Шак1ор аслъаным  '''еуагъ''' шхончык1э",
+            "translation": "The hunter '''shot''' the lion with a rifle."
           }
         ]
       },
@@ -337,11 +389,15 @@
           {
             "sentence": "К1алэм бжьэр '''къеуагъ'''",
             "translation": "The bee '''stinged''' the boy."
+          },
+		  {
+            "sentence": "Зыфэсакъ, бжьэхэр '''къыощтых'''",
+            "translation": "Careful, the bees '''will string you'''."
           }
         ]
       },
       {
-        "meaning": "to weed",
+        "meaning": "to smoke weed",
         "examples": [
           {
             "sentence": "Л1ыр хьащищ '''ео'''",
@@ -355,10 +411,11 @@
           {
             "sentence": "Щым пл1ык1э '''уеомэ''' пш1ык1ут1у къыч1эк1ыжьыщт",
             "translation": "'''If you multiply''' three times four it will make twelve. (transitive)"
+          },
+		  {
+            "sentence": "Х-рэ У-мрэ '''зэгъаох'''",
+            "translation": "'''Multiply between''' X and Y."
           }
-        ],
-        "tags": [
-          "mathematics"
         ]
       }
     ],
@@ -371,7 +428,20 @@
     "definitions": [
       {
         "meaning": "thigh",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Сыку''' мэузы",
+            "translation": "'''My thigh''' is hurting."
+          },
+		  {
+            "sentence": "Панэхэмэ сахахьэм '''сыку''' къиу1агъ",
+            "translation": "When I entered the field of thorn, it injured '''my thigh'''."
+          },
+		  {
+            "sentence": "Мэлым '''ыку''' тигъунэгъу фэтхьыщт",
+            "translation": "We will bring lamp '''thigh''' to our neighbor."
+          }
+        ]
       },
       {
         "meaning": "thigh muscle",
@@ -381,6 +451,42 @@
     "kabardian": "куэ",
     "type": "noun",
     "ipa": "kʷa"
+  },
+  {
+    "word": "мэлыко",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "sheep thigh; lamb thigh",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "maɮəkʷa"
+  },
+  {
+    "word": "мэлыку",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"мэлыко\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "maɮəkʷ"
+  },
+  {
+    "word": "к1эпц",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "thigh",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃʼapt͡s"
   },
   {
     "word": "арба",
@@ -2491,7 +2597,12 @@
       },
       {
         "meaning": "y'all; you all; you guys; you (plural)",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Шъо''' шъукъытхэхьан фай",
+            "translation": "'''You guys''' must join us."
+          }
+        ]
       }
     ],
     "kabardian": "фэ",
@@ -3027,7 +3138,16 @@
     "definitions": [
       {
         "meaning": "honey",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Бжьэхэм '''шъоу''' аш1ы",
+            "translation": "The bees make '''honey'''."
+          },
+		  {
+            "sentence": "Щаем '''шъоу''' хэсылъхьаныр сик1ас",
+            "translation": "I like putting '''honey''' into the tea."
+          }
+        ]
       }
     ],
     "kabardian": "фо",
@@ -3731,7 +3851,20 @@
     "definitions": [
       {
         "meaning": "bee",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''бжьэр''' къеуагъ",
+            "translation": "'''The bee''' stinged the boy."
+          },
+		  {
+            "sentence": "Зыфэсакъ, '''бжьэхэр''' къыощтых",
+            "translation": "Careful, '''the bees''' will string you."
+          },
+		  {
+            "sentence": "'''Бжьэхэм''' шъоу аш1ы",
+            "translation": "'''The bees''' make honey."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -4659,7 +4792,12 @@
       },
 	  {
         "meaning": "I",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Хьау, упсэу, тутын '''сэ''' сешъорэп",
+            "translation": "No, thanks, '''I''' don't smoke."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -5252,7 +5390,12 @@
     "definitions": [
       {
         "meaning": "thanks (a short thank you)",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Хьау, '''опсэу''', тутын сэ сешъорэп",
+            "translation": "No, '''thanks''', I don't smoke."
+          }
+        ]
       }
     ],
     "type": "intj",
@@ -5581,7 +5724,12 @@
     "definitions": [
       {
         "meaning": "no",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Хьау''', упсэу, тутын сэ сешъорэп",
+            "translation": "'''No''', thanks, I don't smoke."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -5589,6 +5737,18 @@
     ],
     "type": "adv",
     "ipa": "ħaw"
+  },
+  {
+    "word": "упсэу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"опсэу\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "wəpsaw"
   },
   {
     "word": "хасэ",
@@ -11115,7 +11275,12 @@
     "definitions": [
       {
         "meaning": "that (visible)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Мор''' къашх",
+            "translation": "Lift '''that'''."
+          }
+        ]
       }
     ],
     "type": "pron",
@@ -22056,6 +22221,10 @@
 		  {
             "sentence": "Шак1ом мэзкъатыхъу '''ыук1ыгъ'''",
             "translation": "The hunter '''killed''' the lynx."
+          },
+		  {
+            "sentence": "Л1ыр '''ук1ы''' е сэ '''усыук1ыщт'''",
+            "translation": "'''Kill''' the man or '''I will kill you'''."
           }
         ]
       }
@@ -22160,6 +22329,19 @@
 		  {
             "sentence": "Щае '''сешъо''' шъоущыгъу хэмылъэу",
             "translation": "'''I drink''' tea without sugar in it."
+          }
+        ]
+      },
+	  {
+        "meaning": "to smoke (тутын ешъон)",
+        "examples": [
+          {
+            "sentence": "К1алэр тутын '''ешъо'''",
+            "translation": "The boy '''is smoking''' a cigarette."
+          },
+		  {
+            "sentence": "Хьау, упсэу, тутын сэ '''сешъорэп'''",
+            "translation": "No, thanks, '''I don't smoke'''."
           }
         ]
       }
@@ -22881,11 +23063,23 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to wound",
+        "meaning": "to wound; to injure",
         "examples": [
           {
             "sentence": "К1алэр '''у1агъэ'''",
             "translation": "The boy '''is wounded'''."
+          },
+		  {
+            "sentence": "Панэхэмэ сахахьэм сыку '''къиу1агъ'''",
+            "translation": "When I entered the field of thorn, '''it injured''' my thigh."
+          },
+		  {
+            "sentence": "Дзак1ор '''у1агъэ'''",
+            "translation": "The soldier '''is injured'''."
+          },
+		  {
+            "sentence": "Докторыр ц1ыф '''у1агъэхэмэ''' адэ1эпы1э",
+            "translation": "The doctor helps '''injured''' people."
           },
           {
             "sentence": "К1алэр '''мау1э'''",
@@ -22909,11 +23103,11 @@
           },
           {
             "sentence": "'''Уу1агъа?'''",
-            "translation": "'''Are you wounded?'''"
+            "translation": "'''Are you injured?'''"
           },
           {
             "sentence": "Шъэжъыем '''сыкъиу1агъ'''",
-            "translation": "The knife '''wounded me'''."
+            "translation": "The knife '''injured me'''."
           },
 		  {
             "sentence": "Панэхэмэ сахахьэм, сыкуашъо '''ау1агъ'''",
@@ -22928,6 +23122,18 @@
     ],
     "type": "verb",
     "ipa": "wəʔan"
+  },
+  {
+    "word": "къыу1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"у1эн\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "qəwəʔan"
   },
   {
     "word": "жъажъэ",
@@ -32101,6 +32307,10 @@
 		  {
             "sentence": "Щаем нахь бэ шъоущыгъу '''халъхь'''",
             "translation": "'''Put''' more sugar in the tea."
+          },
+		  {
+            "sentence": "Щаем шъоу '''хэсылъхьаныр''' сик1ас",
+            "translation": "I like '''putting''' honey into the tea."
           }
         ]
       },
@@ -35171,7 +35381,12 @@
     "definitions": [
       {
         "meaning": "knife",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Шъэжъыем''' сыкъиу1агъ",
+            "translation": "'''The knife''' injured me."
+          }
+        ]
       }
     ],
     "kabardian": "сэ",
@@ -47312,6 +47527,10 @@
           {
             "sentence": "Тутын сешъоныр '''сик1эсагъ'''",
             "translation": "'''I liked''' to smoke."
+          },
+		  {
+            "sentence": "Щаем шъоу хэсылъхьаныр '''сик1ас'''",
+            "translation": "'''I like''' putting honey into the tea."
           }
         ]
       }
@@ -104779,6 +104998,10 @@
 		  {
             "sentence": "К1алэр паркэм к1охэрэмэ '''ахэхьагъ'''",
             "translation": "The boy '''joined''' the ones that go to the park."
+          },
+		  {
+            "sentence": "Шъо '''шъукъытхэхьан''' фай",
+            "translation": "'''You guys''' must '''join us'''."
           }
         ]
       },

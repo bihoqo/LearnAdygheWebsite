@@ -63,10 +63,7 @@
     "to shoot down": "еохын (to shot downward)"
   },
   {
-    "to weed": "еон; къеон"
-  },
-  {
-    "to smoke": "тутын ешъон"
+    "to smoke": "ешъон / тутын ешъон (to smoke a cigarette); еон (to smoke weed)"
   },
   {
     "to multiply": "егъэон (to perform multiplication on a number); гъэбэгъон (to grow in number/amount); къегъэбэк1ын (to make something a lot); бэгъон (to spawn)"
@@ -2814,9 +2811,6 @@
     "country": "хэгъэгу"
   },
   {
-    "state": "хэгъэгу"
-  },
-  {
     "mosquito": "аргъой"
   },
   {
@@ -5087,6 +5081,9 @@
   },
   {
     "to wound": "у1эн"
+  },
+  {
+    "to injure": "у1эн"
   },
   {
     "to incise": "у1эн"
@@ -12274,6 +12271,9 @@
     "even if not": "амырми; армырми; умыарми (even if that is not the case)"
   },
   {
+    "either": "е"
+  },
+  {
     "either way": "амырми; армырми"
   },
   {
@@ -13060,7 +13060,7 @@
     "vintner": "сэнэш1 / сэнаш1э"
   },
   {
-    "whole": "псэу"
+    "whole": "псэу; (Shapsug) псао"
   },
   {
     "intact": "псэу"
@@ -13927,7 +13927,7 @@
     "to fast": "нэк1ын"
   },
   {
-    "state": "къэрал"
+    "state": "зытет (a condition, a set of circumstances applying at any given time); къэрал (polity)"
   },
   {
     "last name": "лъэкъуац1э; унэгъуац1э"
@@ -14576,6 +14576,9 @@
   },
   {
     "to be ruined": "унэхъун; он; сэкъатын (to become dysfunctional); сэкъатэу хъун (to become dysfunctional); теунэхъухьан (to be ruined off something); хэунэхъухьан (to be ruined in a certain environment); ч1эунэхъухьан (to be ruined under something); иунэхъухьан (to be ruined inside something)"
+  },
+  {
+    "to be destroyed": "он; къутэн; убытэн"
   },
   {
     "to dysfunction": "сэкъатын (to become dysfunctional); сэкъатэу хъун (to become dysfunctional)"
