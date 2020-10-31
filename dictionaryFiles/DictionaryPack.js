@@ -2328,12 +2328,16 @@
             "translation": "'''Water''' drop."
           },
 		  {
-            "sentence": "К1алэм мылыхэр '''псым''' хелъхьах",
+            "sentence": "К1алэм мылыхэр '''псым''' хелъхьэх",
             "translation": "The boy puts ices into '''the water'''."
           },
 		  {
             "sentence": "'''Псыр''' угъэплъымэ п1онк1эу ежьэ",
             "translation": "When you heat up '''water''' it start bubbling up."
+          },
+		  {
+            "sentence": "Мылыр угъэфабэмэ '''псэу''' мэхъу, псыр угъэфабэмэ пахъэу мэхъу",
+            "translation": "If you heat up ice it becomes '''water''', if you heat up '''water''' it becomes steam"
           },
 		  {
             "sentence": "'''Псыр''' учъы1ымэ, мэщты",
@@ -2359,12 +2363,27 @@
     "definitions": [
       {
         "meaning": "fire",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''маш1о''' хегъанэ",
+            "translation": "The boy ignites '''fire'''."
+          },
+		  {
+            "sentence": "'''Маш1ом''' унэсымэ у1э къистыщт",
+            "translation": "If you touch '''fire''' it will burn your hand."
+          },
+		  {
+            "sentence": "'''Маш1ом''' пхъэхэр хэсылъхьагъэх",
+            "translation": "I put woods into the '''fire'''."
+          },
+		  {
+            "sentence": "'''Маш1ом''' ыдэжь ты1ус, тыкъегъэфабэ",
+            "translation": "We are sitting near '''the fire''', it is warming us."
+          }
+        ]
       }
     ],
-    "synonyms": [
-      "маф1э"
-    ],
+    "kabardian": "маф1э",
     "type": "noun",
     "ipa": "maːʃʷʼa"
   },
@@ -2374,16 +2393,54 @@
 	"etymology": "From пэ (nose) + гъуанэ (hole)",
     "definitions": [
       {
-        "meaning": "nostril",
-        "examples": []
-      },
-      {
-        "meaning": "nosehole",
-        "examples": []
+        "meaning": "nostril; nosehole",
+        "examples": [
+          {
+            "sentence": "'''Спэгъуанэ''' шъыбыгъ",
+            "translation": "'''My nostril''' is sealed."
+          },
+		  {
+            "sentence": "'''Упэгъуанэ''' уи1эбэжьыныр дахэп",
+            "translation": "It is not appropriate to poke inside '''your nostril'''."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "paʁʷaːna"
+  },
+  {
+    "word": "и1эбэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to poke inside; to put hands inside something",
+        "examples": [
+		  {
+            "sentence": "'''Уи1эбэныр''' гъуанэ горэм у1эхъуамбэ е зыгорэ ибгъэхьаныр",
+            "translation": "'''Poking inside''' is puting your finger or something inside some hole."
+          },
+		  {
+            "sentence": "Упэгъуанэ '''уи1эбэжьыныр''' дахэп",
+            "translation": "It is not appropriate '''to poke inside''' your nostril."
+          },
+		  {
+            "sentence": "Гъуанэм '''уи1эбэн'''",
+            "translation": "'''To poke inside''' a hole."
+          },
+		  {
+            "sentence": "Докторыр счый '''къи1эбагъ'''",
+            "translation": "The doctor '''poked inside''' my throat."
+          },
+		  {
+            "sentence": "Гъуанэм '''се1эбэм''' цыгъо исыр къысэцэкъагъ",
+            "translation": "'''When I poked inside''' the hole, the mouse inside bited me."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "jəʔaban"
   },
   {
     "word": "жэ",
@@ -3216,11 +3273,14 @@
           {
             "sentence": "Л1ым мэлым '''ычый''' ш1уибзыгъ",
             "translation": "The man sliced the sheep's '''throat'''."
+          },
+		  {
+            "sentence": "Докторыр '''счый''' къи1эбагъ",
+            "translation": "The doctor poked inside '''my throat'''."
           }
         ]
       }
     ],
-    "kabardian": "тэмакъ",
     "shapsug": "кьый",
     "type": "noun",
     "ipa": "t͡ʃəj"
@@ -4101,7 +4161,12 @@
     "definitions": [
       {
         "meaning": "mouse",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Гъуанэм се1эбэм '''цыгъо''' исыр къысэцэкъагъ",
+            "translation": "When I poked inside the hole, '''the mouse''' inside bited me."
+          }
+        ]
       }
     ],
     "kabardian": "дзыгъуэ",
@@ -5857,6 +5922,10 @@
           {
             "sentence": "к1алэр '''дахэу''' мэзек1о",
             "translation": "The boy behaves '''appropriatly'''."
+          },
+		  {
+            "sentence": "Упэгъуанэ уи1эбэжьыныр '''дахэп'''",
+            "translation": "'''It is not appropriate''' to poke inside your nostril."
           }
         ]
       }
@@ -6760,6 +6829,10 @@
 		  {
             "sentence": "'''Мылыр''' тк1угъэ",
             "translation": "'''The ice''' melted."
+          },
+		  {
+            "sentence": "'''Мылыр''' угъэфабэмэ псэу мэхъу, псыр угъэфабэмэ пахъэу мэхъу",
+            "translation": "If you heat up '''ice''' it becomes water, if you heat up water it becomes steam"
           }
         ]
       }
@@ -8341,7 +8414,13 @@
     "definitions": [
       {
         "meaning": "steam",
-        "examples": []
+        "examples": [
+          ,
+		  {
+            "sentence": "Мылыр угъэфабэмэ псэу мэхъу, псыр угъэфабэмэ '''пахъэу''' мэхъу",
+            "translation": "If you heat up ice it becomes water, if you heat up water it becomes '''steam'''"
+          }
+        ]
       }
     ],
     "kabardian": "бахъэ",
@@ -36594,6 +36673,10 @@
           {
             "sentence": "Синыбджэгъухэр унэм исгъагъэх",
             "translation": "My friends '''were in''' the house."
+          },
+		  {
+            "sentence": "Гъуанэм се1эбэм цыгъо '''исыр''' къысэцэкъагъ",
+            "translation": "When I poked inside the hole, the mouse '''inside''' bited me."
           }
         ]
       },
@@ -38973,6 +39056,10 @@
           {
             "sentence": "хьэм уеблагъэмэ '''къыоцэкъэщт'''",
             "translation": "If you get close to the dog, '''it will bite you'''."
+          },
+		  {
+            "sentence": "Гъуанэм се1эбэм цыгъо исыр '''къысэцэкъагъ'''",
+            "translation": "When I poked inside the hole, the mouse inside '''bited me'''."
           }
         ]
       }
@@ -65188,6 +65275,10 @@
 		  {
             "sentence": "1эбыцом у1э '''къигъэфэбэщт'''",
             "translation": "The gloves '''will warm''' your hand."
+          },
+		  {
+            "sentence": "Маш1ом ыдэжь ты1ус, '''тыкъегъэфабэ'''",
+            "translation": "We are sitting near the fire, '''it is warming us'''."
           }
         ]
       }

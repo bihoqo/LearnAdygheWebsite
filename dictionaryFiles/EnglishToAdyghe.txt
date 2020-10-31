@@ -309,6 +309,9 @@
     "eyelid": "нап1э"
   },
   {
+    "to poke": "и1эбэн (to poke inside)"
+  },
+  {
     "tear": "нэпсы"
   },
   {
