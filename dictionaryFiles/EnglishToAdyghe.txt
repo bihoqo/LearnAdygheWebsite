@@ -309,7 +309,7 @@
     "eyelid": "нап1э"
   },
   {
-    "tear": "нэпс"
+    "tear": "нэпсы"
   },
   {
     "water": "псы"
@@ -1722,7 +1722,7 @@
     "tray": "тэпсэ"
   },
   {
-    "to see": "лъэгъун; телъэгъон (to see on); дэлъэгъон (to see in, to see between); къолъэгъон (to see behind); хэлъэгъон (to see within a mass of gas, solid or liquid); ч1элъэгъон (to see under); илъэгъон (to see inside)"
+    "to see": "лъэгъун; телъэгъон (to see on); дэлъэгъон (to see in, to see between); къолъэгъон (to see behind); хэлъэгъон (to see within a mass of gas, solid or liquid); ч1элъэгъон (to see under); илъэгъон (to see inside); хэплъэн (to see someone as); хэплъэн (to view certain parts of something); зыхэплъэжьын (to see oneself as)"
   },
   {
     "to flee": "ежьэжьын; к1э1эжьын / к1этхъун (to run off, to flee or depart quickly); ш1уежьэжьын (to flee from)"
@@ -1737,7 +1737,7 @@
     "to dash off": "к1э1эн; к1этхъун; блэчъын / блэхъушъутын (to dash past); техъушъутын (to dash off from above something); ч1эхъушъутын (to dash off from under, to dash off from a lying position); ихъушъутын (to dash out from inside something); дэхъушъутын (to dash out from a yard, area or settlement); хэхъушъутын (to dash out of an area with liquid or gas, to dash out from among people/objects, to dash out of a forest); къохъушъутын (to dash out from behind); къыгохъушъутын / къыбгъодэхъушъутын (to dash out from besides)"
   },
   {
-    "to run": "чъэн; чъын (to run a certain distance); ечъэжьэн (to leave quickly); к1э1эн / к1этхъун (to run off, to flee or depart quickly); зэк1эчъэн (to run backward); дэчъэен (to run upward); ечъэхын (to run downward); лъычъэн (to run toward, to run following); ечъэл1эн / къечъэл1эн (to approach while running); телъэдэн (to run onto/into); ч1элъэдэн (to run under); илъэдэн (to run inside, to go inside running); къилъэдэн (to come inside running); дэлъэдэн (to run inside a yard, area or settlement); хэлъэдэн (to run among people/objects, to run through, to run in an area with liquid or gas, to run into); къолъэдэн (to run behind); голъэдэн / бгъодэлъэдэн (to run besides or from the side of); жэхэлъэдэн (to run straight into/against); лъежьэн (to chase); ичъын (to run out from); къэчъыхьан (to run around); блэчъын / блэхъушъутын (to run past); техъушъутын (to run off); ч1эхъушъутын (to run from under, to run from a lying position); ихъушъутын (to run out from inside something); дэхъушъутын (to run out from a yard, area or settlement); хэхъушъутын (to run out of an area with liquid or gas, to run out from among people/objects, to run out of a forest); къохъушъутын (to run out from behind); къыгохъушъутын / къыбгъодэхъушъутын (to run out from besides); зэхэчъын (to spread); зэбгырычъын (to spread); зэпырычъын (to run across)"
+    "to run": "чъэн; чъын (to run a certain distance); ечъэжьэн (to leave quickly); к1э1эн / к1этхъун (to run off, to flee or depart quickly); зэк1эчъэн (to run backward); дэчъэен (to run upward); ечъэхын (to run downward); лъычъэн (to run toward, to run following); ечъэл1эн / къечъэл1эн (to approach while running); телъэдэн (to run onto/into); ч1элъэдэн (to run under); илъэдэн (to run inside, to go inside running); къилъэдэн (to come inside running); дэлъэдэн (to run inside a yard, area or settlement); хэлъэдэн (to run among people/objects, to run through, to run in an area with liquid or gas, to run into); къолъэдэн (to run behind); голъэдэн / бгъодэлъэдэн (to run besides or from the side of); жэхэлъэдэн (to run straight into/against); лъежьэн (to chase); ичъын (to run out from); къэчъыхьан (to run around); блэчъын / блэхъушъутын (to run past); техъушъутын (to run off); ч1эхъушъутын (to run from under, to run from a lying position); ихъушъутын (to run out from inside something); дэхъушъутын (to run out from a yard, area or settlement); хэхъушъутын (to run out of an area with liquid or gas, to run out from among people/objects, to run out of a forest); къохъушъутын (to run out from behind); къыгохъушъутын / къыбгъодэхъушъутын (to run out from besides); зэхэчъын (to spread); зэбгырычъын (to spread); зэпырычъын (to run across); ехъушъутэхын / ешъутэхын (to run downward)"
   },
   {
     "to rush": "телъэдэн (to rush onto/into); ч1элъэдэн (to rush under); илъэдэн (to rush inside, to go inside rushing); къилъэдэн (to come inside rushing); дэлъэдэн (to rush inside a yard, area or settlement); хэлъэдэн (to rush among people/objects, to rush through, to rush in an area with liquid or gas, to rush into); къолъэдэн (to rush behind); голъэдэн / бгъодэлъэдэн (to rush besides or from the side of); жэхэлъэдэн (to rush straight into/against); блэхъушъутын (to rush past); техъушъутын (to rush away); ч1эхъушъутын (to rush away from under); ихъушъутын (to rush away from inside something); дэхъушъутын (to rush away from a yard, area or settlement); хэхъушъутын (to rush away from an area with liquid or gas, to rush away from among people/objects, to rush away from the forest); къохъушъутын (to rush away from behind); къыгохъушъутын / къыбгъодэхъушъутын (to rush away from besides)"
@@ -1747,6 +1747,9 @@
   },
   {
     "to run away": "ежьэжьын (to run away, to flee); ечъэжьэн (to speed off); ш1уежьэжьын (to run away from, to flee from); к1э1эжьын (to accelerate and start running away); техъушъутын (to run away from above something); ч1эхъушъутын (to run away from under, to run away from a lying position); ихъушъутын (to run away from inside something); дэхъушъутын (to run away from a yard, area or settlement); хэхъушъутын (to run away from an area with liquid or gas, to run away from among people/objects, to run away from a forest); къохъушъутын (to run away from behind); къыгохъушъутын / къыбгъодэхъушъутын (to run away from besides); 1эк1эк1ын (to let someone run away inadvertently)"
+  },
+  {
+    "drop": "тк1опс; гъуантк1у"
   },
   {
     "distance": "гъогууанэ"
@@ -1773,7 +1776,7 @@
     "to fall": "ебэджын (to fall on the ground); тебэджэн (to fall on something by slipping); ефэхын / къефэхын (to fall downward); едзыхын / къедзыхын (to fall downward); ет1эрэхын / къет1эрэхын (to drop downward); зэтефэн (to drop on each other); зэхэфэн (to drop within each other); ук1орэин; къегъэохын (to destroy something and make it fall down); пызын / къыпызын (to fall/drop off from a tree); изын / къизын (to fall/drop off from inside something); тезын / къытезын (to fall/drop off from above something); пхырыбын / пхырызын (to fall through)"
   },
   {
-    "to drop": "1эпызын (to drop from the hand); къизын (to drop from inside something); къетк1ухын (to drip from, to drop down drops of liquid); 1эпызын (to drop unintentionally); 1эпыт1эрын (to let slip unintentionally); къытезын (to drop from); къыпызын (to drop off a tree); къыпытэкъун (to drop from the tree around it); зэтефэн (to drop on each other); зэхэфэн (to drop into each other); 1эк1эзын (to drop something unintentionally from the hand); пызын / къыпызын (to drop off from a tree); изын / къизын (to drop off from inside something); тезын / къытезын (to drop off from above something); ч1эзын / къыч1эзын (to drop off from under something); зэтетэкъун (to drop off from each other); тетк1он (to drip liquid on something one drop at a time)"
+    "to drop": "1эпызын (to drop from the hand); къизын (to drop from inside something); къетк1ухын (to drip from, to drop down drops of liquid); 1эпызын (to drop unintentionally); 1эпыт1эрын (to let slip unintentionally); къытезын (to drop from); къыпызын (to drop off a tree); къыпытэкъун (to drop from the tree around it); зэтефэн (to drop on each other); зэхэфэн (to drop into each other); 1эк1эзын (to drop something unintentionally from the hand); пызын / къыпызын (to drop off from a tree); изын / къизын (to drop off from inside something); тезын / къытезын (to drop off from above something); ч1эзын / къыч1эзын (to drop off from under something); зэтетэкъун (to drop off from each other); тетк1он (to drip liquid on something one drop at a time); хэгъэтк1он (to drop liquid drops into another liquid, substance, food, fire, etc.)"
   },
   {
     "to meet": "тефэн (to come across, to encounter coincidentally); 1ук1эн (to meet); пэгъок1ын (to welcome, to approach, to encounter intentionally); зэ1ук1эн (to meet up); зэ1угъэк1эн (to make people meet at a certian place)"
@@ -2098,6 +2101,15 @@
   },
   {
     "authorization": "фит; фитыныгъ"
+  },
+  {
+    "lambskin": "мэлышъо (sheepskin); шъынашъо (lambskin); хъурышъо (lambskin)"
+  },
+  {
+    "sheepskin": "мэлышъо"
+  },
+  {
+    "lottery": "пхъэдз"
   },
   {
     "left": "сэмэгу"
@@ -4254,6 +4266,9 @@
     "flask": "псылъ; шъонылъ"
   },
   {
+    "water-bottle": "псылъ"
+  },
+  {
     "shred": "бзыхьаф"
   },
   {
@@ -4267,6 +4282,9 @@
   },
   {
     "humidity": "шынэгъак1; ц1ынэгъак1"
+  },
+  {
+    "dampness": "шынэгъак1; ц1ынэгъак1"
   },
   {
     "wineskin": "шъонт"
@@ -4756,7 +4774,7 @@
     "soggy": "ц1ынэ"
   },
   {
-    "moist": "ц1ынэ"
+    "moist": "ц1ынэ (wet); псы1э-псыблэ (damp, moist, moderately wet)"
   },
   {
     "to dry": "гъушъын / гъэгъушъын (clothes, objects and body parts); гъун / гъэгъун (plants); гъонлэн"
@@ -5423,9 +5441,6 @@
   },
   {
     "hairy": "цыбэ зытет; бырацэ (Kfar Kama dialect)"
-  },
-  {
-    "lambskin": "шъынашъу"
   },
   {
     "not smooth": "быргусыргу"
@@ -8605,7 +8620,10 @@
     "to copulate": "дэгъолъын; бгъодэхьан; ек1ол1эн; гогъолъхьан; бгъодэгъолъхьан"
   },
   {
-    "to have": "и1эн; хэлъын (to have a certain characteristic such as kindness, stingyness, meanness, mercy, etc.)"
+    "to have": "и1эн (to have, to possess, to have ownership of); хэлъын (to have a certain characteristic such as kindness, stingyness, meanness, mercy, etc.); 1ыгъэн (to have something, to hold something)"
+  },
+  {
+    "to possess": "и1эн (to have, to possess, to have ownership of)"
   },
   {
     "to moo": "быун"
@@ -9661,7 +9679,7 @@
     "to put down": "гъэт1ылъын; ч1ыгум телъхьан"
   },
   {
-    "to put": "гъэт1ылъын (to put down); илъхьан (to put inside); телъхьан (to put on); ч1элъхьан (to put under); 1улъхьан (to put near); къолъхьан (to put behind); пылъхьан (to hang, to attach); голъхьан / бгъодэлъхьан (to put besides); дэлъхьан (to put between or to put inside another object); хэлъхьан (to put something in an area with gas or liquid, to put something among other people/objects, to put a certain manner, behavior or attribute in someone, to put something through something); к1оц1ылъхьан (to put something within something); гъэуцун (to put something somewhere); тегъэуцун (to put on); дэгъэуцон (to put between); 1угъэуцон (to put something near); зэтелъхьан (to put on each other); к1элъырыгъэуцон (to put something next to); жэхэлъхьан (to intensively put something against something); зэк1элъхьан (to put stuff under each other); зэкъолъхьан (to put stuff behind each other); зэдэлъхьан (to put stuff in each other); зэрилъхьан (to put stuff inside each other); зэголъхьан / зэбгъодэлъхьан (to put stuff aside each other); зэпылъхьан (to attach stuff to each other); итэкъон (to put/throw stuff inside something); тетэкъон (to put/throw stuff on something); ч1этэкъон (to put/throw stuff under something); дэтэкъон (to put/throw stuff inside another object, to put/throw stuff between); къотэкъон (to put/throw stuff behind something); хэтэкъон (to put/throw stuff among other objects/people, to throw/put stuff in an area with fire, gas or liquid); готэкъон / бгъодэтэкъон (to put/throw stuff besides something); жэхэтэкъон (to put/throw stuff against something); 1оф хэдзэн (to put/throw someone in a troublesome situation); къегъэт1ылъэк1ын (to put around); телъхьажьын (to put the blame on); егъэуцол1эн (to put something next to)"
+    "to put": "гъэт1ылъын (to put down); илъхьан (to put inside); телъхьан (to put on); ч1элъхьан (to put under); 1улъхьан (to put near); къолъхьан (to put behind); пылъхьан (to hang, to attach); голъхьан / бгъодэлъхьан (to put besides); дэлъхьан (to put between or to put inside another object); хэлъхьан (to put something in an area with gas or liquid, to put something among other people/objects, to put a certain manner, behavior or attribute in someone, to put something through something); к1оц1ылъхьан (to put something within something); гъэуцун (to put something somewhere); тегъэуцун (to put on); дэгъэуцон (to put between); 1угъэуцон (to put something near); зэтелъхьан (to put on each other); к1элъырыгъэуцон (to put something next to); жэхэлъхьан (to intensively put something against something); зэк1элъхьан (to put stuff under each other); зэкъолъхьан (to put stuff behind each other); зэдэлъхьан (to put stuff in each other); зэрилъхьан (to put stuff inside each other); зэголъхьан / зэбгъодэлъхьан (to put stuff aside each other); зэпылъхьан (to attach stuff to each other); итэкъон (to put/throw stuff inside something); тетэкъон (to put/throw stuff on something); ч1этэкъон (to put/throw stuff under something); дэтэкъон (to put/throw stuff inside another object, to put/throw stuff between); къотэкъон (to put/throw stuff behind something); хэтэкъон (to put/throw stuff among other objects/people, to throw/put stuff in an area with fire, gas or liquid); готэкъон / бгъодэтэкъон (to put/throw stuff besides something); жэхэтэкъон (to put/throw stuff against something); 1оф хэдзэн (to put/throw someone in a troublesome situation); къегъэт1ылъэк1ын (to put around); телъхьажьын (to put the blame on); егъэуцол1эн (to put something next to); хэгъэтк1он (to put liquid drops into another liquid, substance, food, fire, etc.)"
   },
   {
     "to place": "илъхьан (to place inside); телъхьан (to place on); ч1элъхьан (to place under); гъэуцун (to place); тегъэуцун (to place on); дэгъэуцон (to place between); зэтелъхьан (to place on each other); к1элъырыгъэуцон (to place next to)"
@@ -11467,7 +11485,7 @@
     "to watch": "еплъын; лъыплъэн (to watch over)"
   },
   {
-    "to look": "плъэн; еплъын (to look at); теплъэн (to look on); xэплъэн (to look among, to look inside an area with either gas, solid or liquid); дэплъэн (to look into); иплъэн (to look inside); пыплъэн (to look on clothes or tree); гоплъэн / бгъодэплъэн (to look besides); къоплъэн (to look behind); зэк1эплъэн / зэплъэк1ын (to look back); лъыплъэн (to look after); дэплъэен (to look up); еплъэхын (to look under); шъхьадэплъын (to look over);  хэплъыхьан (to take a good look into area with trees, plants, fire, liquid or gas, to take a good look among people or objects); теплъыхьан (to take a good look on something); ч1эплъыхьан (to take a good look under something); иплъыхьан (to take a good look inside something); дэплъыхьан (to take a good look in something, to take a good look between); пыплъыхьан (to take a good look on someone's clothes and examine it); къэплъыхьан (to look around in a certain area and examining it); зыплъыхьан (to look around oneself, to look around the area where oneself is standing)"
+    "to look": "плъэн; еплъын (to look at); теплъэн (to look on); xэплъэн (to look among, to look inside an area with either gas, solid or liquid); дэплъэн (to look into); иплъэн (to look inside); пыплъэн (to look on clothes or tree); гоплъэн / бгъодэплъэн (to look besides); къоплъэн (to look behind); зэк1эплъэн / зэплъэк1ын (to look back); лъыплъэн (to look after); дэплъэен (to look up); еплъэхын (to look under); шъхьадэплъын (to look over);  хэплъыхьан (to take a good look into area with trees, plants, fire, liquid or gas, to take a good look among people or objects); теплъыхьан (to take a good look on something); ч1эплъыхьан (to take a good look under something); иплъыхьан (to take a good look inside something); дэплъыхьан (to take a good look in something, to take a good look between); пыплъыхьан (to take a good look on someone's clothes and examine it); къэплъыхьан (to look around in a certain area and examining it); зыплъыхьан (to look around oneself, to look around the area where oneself is standing); хэплъэн (to view certain parts of something)"
   },
   {
     "to get drunk": "утэшъон; шъхьэ убытын; зешъок1ыжьын (to get drunk); иутышъухьан (to get drunk inside something)"
@@ -13621,7 +13639,7 @@
     "flooded roads": "к1уадж"
   },
   {
-    "to move": "хъыен; кощын (to move elsewhere); к1отэн (to move forward); лъык1отэн (to move forward/away a bit); гъэк1отэн / лъыгъэк1отэн (to move a little); зэк1эк1он (to move backward); егъэк1отыл1эн (to move something closer to something); фэгъэк1отэн (to bring something nearer to someone for him/her)"
+    "to move": "хъыен; гъэхъыен (to move something); кощын (to move elsewhere); к1отэн (to move forward); лъык1отэн (to move forward/away a bit); гъэк1отэн / лъыгъэк1отэн (to move a little); зэк1эк1он (to move backward); егъэк1отыл1эн (to move something closer to something); фэгъэк1отэн (to bring something nearer to someone for him/her)"
   },
   {
     "trail": "лъагъо; гъогулъагъо"
@@ -18700,7 +18718,7 @@
     "to deem appropriate": "егъэк1ун / фэгъэшъошэн"
   },
   {
-    "to view": "еплъын"
+    "to view": "еплъын; хэплъэн (to view certain parts of something)"
   },
   {
     "supporter": "къотэгъу; готыр; гъусэ"
