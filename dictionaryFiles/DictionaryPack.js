@@ -2139,6 +2139,18 @@
 		  {
             "sentence": "К1алэм '''ынэхэр''' назэу маплъэ",
             "translation": "The boy looks crossing his '''eyes'''."
+          },
+		  {
+            "sentence": "'''Унэ''' нэк1эт1ыргъхэр ч1элъых",
+            "translation": "There are rheums in '''your eye'''."
+          },
+		  {
+            "sentence": "Пшъагъэм '''ынэ''' нэк1эт1ыргъ ч1элъэу къэущыжьыгъ",
+            "translation": "The girl woke up with rheum in '''her eye'''."
+          },
+		  {
+            "sentence": "Бжьыны убзымэ нэпсыхэр '''унэ''' къыч1игъэк1ыщтых",
+            "translation": "If you slice opoion it will make tears come out from '''your eye'''."
           }
         ]
       }
@@ -2317,6 +2329,10 @@
 		  {
             "sentence": "'''Унэпсыхэр''' лъэк1ыжьых",
             "translation": "Wash your '''tears'''."
+          },
+		  {
+            "sentence": "Бжьыны убзымэ '''нэпсыхэр''' унэ къыч1игъэк1ыщтых",
+            "translation": "If you slice opoion it will make '''tears''' come out from your eye."
           }
         ]
       }
@@ -3114,6 +3130,10 @@
 		  {
             "sentence": "'''У1э''' к1ашъом къэса?",
             "translation": "Does '''your arm''' reach the ceiling?"
+          },
+		  {
+            "sentence": "Хьэр '''с1э''' къецакъагъ",
+            "translation": "The dog bited '''my arm'''."
           }
         ]
       },
@@ -3184,8 +3204,8 @@
             "translation": "My ball stuck on the '''high''' tree."
           },
           {
-            "sentence": "Мы къушъхьэр '''зы1этыгъ'''",
-            "translation": "This mountain '''is so high'''."
+            "sentence": "Мы унэр '''1этыгъ'''",
+            "translation": "This house '''is high'''."
           },
           {
             "sentence": "'''Узэрэ1этыгъэр'''",
@@ -3202,11 +3222,11 @@
           },
           {
             "sentence": "Музикэ макъэр '''1этыгъэу''' къырегъа1о",
-            "translation": "(s)he plays music loudly."
+            "translation": "(s)he plays music '''loudly'''."
           },
           {
             "sentence": "К1алэм пщынэм имакъэ '''1этыгъэу''' къырегъа1о",
-            "translation": "The boy plays the accordion loudly."
+            "translation": "The boy plays the accordion '''loudly'''."
           }
         ]
       }
@@ -3223,7 +3243,7 @@
 	"etymology": "From 1э (hand) + шъхьэ (head)",
     "definitions": [
       {
-        "meaning": "joint of hand",
+        "meaning": "alternative form of \"1ашъхьэ\"",
         "examples": []
       }
     ],
@@ -3237,7 +3257,12 @@
     "definitions": [
       {
         "meaning": "palm",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''1эгу''' тео",
+            "translation": "The boy '''claps'''"
+          }
+        ]
       },
       {
         "meaning": "yard, courtyard",
@@ -3253,7 +3278,7 @@
 	"etymology": "From 1э (hand) + дакъэ (root)",
     "definitions": [
       {
-        "meaning": "the hand's heel",
+        "meaning": "the hand's heel; heel-palm",
         "examples": []
       }
     ],
@@ -3303,12 +3328,16 @@
         "meaning": "fingernail",
         "examples": [
           {
-            "sentence": "'''1эбжъэнэпыупк1ык1э''' пшъашъэм ы1эбжъанэр преупк1ых",
-            "translation": "The girl cuts her '''fingernails''' using the nail clipper."
+            "sentence": "'''С1эбжъанэр''' папц1эх",
+            "translation": "'''My fingernails''' are sharp."
           },
 		  {
-            "sentence": "к1алэм '''ы1эбжъанэхэмэ''' ацэкъэжьэу хищыгъ сэнэхьатэу",
-            "translation": "The boy started biting '''his nails''' as a habit."
+            "sentence": "1эбжъэнэпыупк1ык1э пшъашъэм '''ы1эбжъанэр''' преупк1ых",
+            "translation": "The girl cuts '''her fingernails''' using the nail clipper."
+          },
+		  {
+            "sentence": "К1алэр '''ы1эбжъанэхэмэ''' ацэкъэжьы",
+            "translation": "The boy bites '''his fingernails'''."
           }
         ]
       }
@@ -3353,7 +3382,16 @@
     "definitions": [
       {
         "meaning": "back (body part)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Стхы''' мэузы",
+            "translation": "'''My back''' hurts."
+          },
+		  {
+            "sentence": "'''Утхы''' гъэщыгъэу умылажь",
+            "translation": "Don't work with your '''back''' bended."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -3365,7 +3403,16 @@
     "definitions": [
       {
         "meaning": "stomach",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Сныбэ''' мэузы",
+            "translation": "'''My stomach''' hurts."
+          },
+		  {
+            "sentence": "'''Сныбэ''' к1алэр къыч1эуагъ",
+            "translation": "The boy hit '''my stomach'''."
+          }
+        ]
       },
       {
         "meaning": "belly",
@@ -3381,11 +3428,29 @@
     "definitions": [
       {
         "meaning": "waist",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Бзылъфыгъэм '''ыбг''' псыгъо",
+            "translation": "The woman's '''waist''' is thin."
+          },
+		  {
+            "sentence": "'''Убг''' бгырыпх илъхь",
+            "translation": "Put a belt on '''your waist'''."
+          },
+		  {
+            "sentence": "'''Сбг''' мэузы",
+            "translation": "'''My waist''' hurts."
+          }
+        ]
       },
       {
         "meaning": "highland",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Чылэр '''бгым''' тес",
+            "translation": "The village is on the '''highland'''"
+          }
+        ]
       },
       {
         "meaning": "eminence; an elevated land area or a hill",
@@ -3401,7 +3466,12 @@
     "definitions": [
       {
         "meaning": "navel",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Уныбыдж''' къыч1эщы",
+            "translation": "'''Your navel''' is exposed."
+          }
+        ]
       }
     ],
     "kabardian": "бынжэ",
@@ -3414,11 +3484,25 @@
     "definitions": [
       {
         "meaning": "skin",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "С1э '''ышъо''' тетхъыгъ т1эк1у",
+            "translation": "The '''skin''' of my arm is peeled a bit."
+          },
+		  {
+            "sentence": "Мэлым '''ышъо''' трахы",
+            "translation": "They are peeling off the sheep's '''skin'''"
+          }
+        ]
       },
 	  {
         "meaning": "leather",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Шъомк1э''' щыгъынхэр аш1ых",
+            "translation": "'''With leathers''' they make clothes."
+          }
+        ]
       },
       {
         "meaning": "color",
@@ -3426,6 +3510,10 @@
           {
             "sentence": "Лъым '''ышъо''' плъыжьы",
             "translation": "The blood's '''color''' is red."
+          },
+		  {
+            "sentence": "'''Шъохэр''' тэрэзэу зэхэсдзыхэрэп",
+            "translation": "I can't distinguish '''colors''' that well."
           }
         ]
       },
@@ -3442,6 +3530,125 @@
     "kabardian": "фэ",
     "type": "noun",
     "ipa": "ʃʷa"
+  },
+  {
+    "word": "тетхъын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to peel off from, to pull and tear off something on the surface of",
+        "examples": [
+          {
+            "sentence": "С1э ышъо '''тетхъыгъ''' т1эк1у",
+            "translation": "The skin of my arm is '''peeled''' a bit."
+          },
+		  {
+            "sentence": "К1алэм тхылъып1эу дэпкъым тегъэпк1агъэр '''тетхъыгъ'''",
+            "translation": "The boy '''torn off''' the paper that was sticked on the wall"
+          },
+		  {
+            "sentence": "Жьыбгъэм унашъхьэр '''тыритхъыгъ'''",
+            "translation": "The wind '''blown off''' the roof."
+          },
+		  {
+            "sentence": "Чъыгым '''ыпхъашъо''' тесэтхъы",
+            "translation": "'''I am peeling off''' the tree's bark."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "tajtχən"
+  },
+  {
+    "word": "хэтхъын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to pull and tear off a portion of something",
+        "examples": [
+          {
+            "sentence": "Къуаем сыхэцакъи '''хэсытхъыгъ'''",
+            "translation": "I bited the cheese and '''torn [a portion of it] off'''."
+          },
+		  {
+            "sentence": "Хьэр с1э къецакъи лы т1эк1у '''хитхъыгъ'''",
+            "translation": "The dog bited my arm and '''torn''' a bit of flesh '''off'''."
+          },
+		  {
+            "sentence": "К1алэм тахътэр лъэшэу зыкъекъудыим '''хитхъыгъ'''",
+            "translation": "When the boy pulled the couch strongly '''he torn it off'''."
+          },
+		  {
+            "sentence": "Лым такъыр '''хэтхъи''' чэтыумэ ят",
+            "translation": "'''Tear''' a piece of the meat and give it to the cats."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "xatχən"
+  },
+  {
+    "word": "тахътэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "sofa, couch, divan",
+        "examples": [
+          {
+            "sentence": "'''Тахътэм''' сыхэлъ",
+            "translation": "I am lying on '''the sofa'''."
+          },
+		  {
+            "sentence": "К1алэм '''тахътэр''' лъэшэу зыкъекъудыим хитхъыгъ",
+            "translation": "When the boy pulled '''the couch''' strongly he torn it off."
+          }
+        ]
+      },
+	  {
+        "meaning": "bed",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "taːχta"
+  },
+  {
+    "word": "пхъашъо",
+    "lang": "Adyghe",
+	"etymology": "From пхъэ (wood) + шъо (skin)",
+    "definitions": [
+      {
+        "meaning": "bark (of trees)",
+        "examples": [
+          {
+            "sentence": "Чъыгым '''ыпхъашъо''' тесэчы",
+            "translation": "I am peeling off the tree's '''bark'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "pχaːʃʷa"
+  },
+  {
+    "word": "бэджэшъо",
+    "lang": "Adyghe",
+	"etymology": "From баджэ (fox) + шъо (skin)",
+    "definitions": [
+      {
+        "meaning": "foxskin",
+        "examples": [
+          {
+            "sentence": "'''Бэджэшъо''' джэдыгу",
+            "translation": "'''Foxskin''' fur coat."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "bad͡ʒaʃʷa"
   },
   {
     "word": "шъутыпашъо",
@@ -3462,7 +3669,16 @@
     "definitions": [
       {
         "meaning": "knee",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Лъэгуанджэк1э''' еуагъ",
+            "translation": "He hit him '''with the knee'''."
+          },
+		  {
+            "sentence": "Псыр '''слъэгуанджэмэ''' къанэсы",
+            "translation": "The water reaches '''my knees''',"
+          }
+        ]
       }
     ],
     "kabardian": "лъэгуажьэ",
@@ -3532,18 +3748,6 @@
     "ipa": "ɬaːqʷa"
   },
   {
-    "word": "лъэк1эн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "ankle",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ɬat͡ʃʼan"
-  },
-  {
     "word": "лъашъхьэ",
     "lang": "Adyghe",
 	"etymology": "From лъэ (foot) + шъхьэ (head)",
@@ -3584,7 +3788,12 @@
       },
       {
         "meaning": "valley; vale, dale",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр бжъапэм ехи, '''лъэгум''' ихьагъ",
+            "translation": "The boy went down the knoll and entered '''the valley'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -3630,7 +3839,12 @@
     "definitions": [
       {
         "meaning": "toenail",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''ылъэбжъанэхэр''' пеупк1ых",
+            "translation": "The boy is cutting off '''his toenails'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -3658,7 +3872,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "penis; dick",
+        "meaning": "penis; dick; cock",
         "examples": []
       }
     ],
@@ -3682,6 +3896,10 @@
 		  {
             "sentence": "Докторыр '''счый''' къи1эбагъ",
             "translation": "The doctor poked inside '''my throat'''."
+          },
+		  {
+            "sentence": "Шхынып '''счый''' езгъэхышъурэп",
+            "translation": "I can't make the food go down '''my throat'''."
           }
         ]
       }
@@ -3714,28 +3932,39 @@
         "meaning": "tail",
         "examples": [
           {
-            "sentence": "Чэтыум '''ык1э''' утемыпк1",
-            "translation": "Don't jump on the cat's '''tail'''."
+            "sentence": "Хьэм '''ык1э''' утемыпк1",
+            "translation": "Don't jump on the dog's '''tail'''."
+          },
+		  {
+            "sentence": "Хьэм '''ык1э''' егъэсысы",
+            "translation": "The dog shakes its '''tail'''."
+          },
+		  {
+            "sentence": "Ц1ыфым '''к1э''' и1эп",
+            "translation": "A human has no '''tail'''."
+          },
+		  {
+            "sentence": "Чэтыум '''ык1э''' утеуцомэ къыоп1эстхъыщт",
+            "translation": "If you step on the cat's '''tail''' it will scratch you."
           }
         ]
+      },
+	  {
+        "meaning": "tip",
+        "examples": []
       },
       {
         "meaning": "seed",
         "examples": [
           {
             "sentence": "Ят1эм '''к1эхэр''' халъхьэх",
-            "translation": "Put '''the seeds''' in the dirt."
+            "translation": "Put '''the seeds''' inside the dirt."
           }
         ]
       },
       {
         "meaning": "(Kfar Kama dialect) (vulgar slang) dick (penis)",
-        "examples": [],
-        "tags": [
-          "Kfar Kama dialect",
-          "vulgar",
-          "slang"
-        ]
+        "examples": []
       },
       {
         "meaning": "new",
@@ -3745,12 +3974,20 @@
             "translation": "A '''new''' boy."
           },
           {
-            "sentence": "ӏанэ '''к1эр''' къэхь",
+            "sentence": "ӏана'''к1эр''' къэхь",
             "translation": "Bring the '''new''' table."
           },
           {
             "sentence": "Уна'''к1э''' сыщэфыгъ",
             "translation": "I bought a '''new''' house."
+          },
+          {
+            "sentence": "Ку '''к1э''' си1",
+            "translation": "I have a '''new''' car."
+          },
+          {
+            "sentence": "Сику жъы асти '''к1э''' къа1ысхыгъ",
+            "translation": "I gave them my old car and took a '''new''' one."
           }
         ]
       }
@@ -3766,10 +4003,23 @@
     "definitions": [
       {
         "meaning": "rheum (eye)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Унэ '''нэк1эт1ыргъхэр''' ч1элъых",
+            "translation": "There are '''rheums''' in your eye."
+          },
+		  {
+            "sentence": "''Унэк1эт1ыргъхэр''' лъэк1ыжьых",
+            "translation": "Wash '''your rheums'''."
+          },
+		  {
+            "sentence": "К1алэм ынэ '''нэк1эт1ыргъ''' ч1элъэу къэущыжьыгъ",
+            "translation": "The boy woke up with '''rheum''' in his eye."
+          }
+        ]
       }
     ],
-    "shapsug": "нэк1эт1эр",
+    "shapsug": "нэк1ьэт1эр",
     "type": "noun",
     "ipa": "nat͡ʃʼatʼərəʁ"
   },
@@ -3782,8 +4032,26 @@
         "examples": []
       }
     ],
+    "shapsug": "нэк1ьэт1эр",
     "type": "noun",
     "ipa": "nakʲʼatˤʼar"
+  },
+  {
+    "word": "хэгъэжъыхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "onion",
+        "examples": [
+          {
+            "sentence": "Бгъэлыб сышхыныр сик1ас бжьыны '''хэгъэжъыжьагъэу'''",
+            "translation": "I like eating breast meat '''with''' opoion '''grilled in it'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "xaʁaʐəħaːn"
   },
   {
     "word": "бжьыны",
@@ -3791,11 +4059,48 @@
     "definitions": [
       {
         "meaning": "onion",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Бгъэлыб сышхыныр сик1ас '''бжьыны''' хэгъэжъыжьагъэу",
+            "translation": "I like eating chicken breast with '''opoion''' grilled in it."
+          },
+		  {
+            "sentence": "Шхыным '''бжьыны''' хэлъа?",
+            "translation": "Is there '''opoion''' in the food?"
+          },
+		  {
+            "sentence": "'''Бжьыны''' убзымэ нэпсыхэр унэ къыч1игъэк1ыщтых",
+            "translation": "If you slice '''opoion''' it will make tears come out from your eye."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "bʑənə"
+  },
+  {
+    "word": "бжьынышъхьэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "onion head",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "bʑənəʂħa"
+  },
+  {
+    "word": "фышхъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "medicine",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "fəʃχʷa"
   },
   {
     "word": "бжьыныф",
@@ -3803,7 +4108,12 @@
     "definitions": [
       {
         "meaning": "garlic",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Шхыным '''бжьыныф''' хэлъа?",
+            "translation": "Is there '''garlic''' in the food?"
+          }
+        ]
       }
     ],
     "kabardian": "бжьыныху",
@@ -3816,7 +4126,24 @@
     "definitions": [
       {
         "meaning": "egg",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Чэтым '''к1энк1э''' къек1эц1ы",
+            "translation": "The chicken lays '''egg'''."
+          },
+          {
+            "sentence": "Куджаным '''к1энк1э''' егъажъэ",
+            "translation": "Kujan is boiling '''an egg'''."
+          },
+          {
+            "sentence": "Лыр '''к1энк1эм''' хэсэгъао",
+            "translation": "I am dipping the meat in '''the egg'''."
+          },
+		  {
+            "sentence": "'''К1энк1э''' ц1ык1ужъый",
+            "translation": "A tiny '''egg'''."
+          }
+        ]
       },
       {
         "meaning": "(informal) testicle",
@@ -3835,7 +4162,12 @@
     "definitions": [
       {
         "meaning": "wild apple",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Мые''' сэшхы",
+            "translation": "I am eating '''an apple'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -3845,12 +4177,41 @@
     "ipa": "məja"
   },
   {
+    "word": "чэпатхъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "ragamuffin, ragged fellow",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "t͡sapaːtχ"
+  },
+  {
+    "word": "туснакъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "ragamuffin, ragged fellow",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "təsnaːq"
+  },
+  {
     "word": "нашэ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "melon",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Нашэ''' сэшхы",
+            "translation": "I am eating '''a melon'''."
+          }
+        ]
       },
       {
         "meaning": "(dialectal) watermelon",
@@ -3864,6 +4225,26 @@
     "kabardian": "нащэ",
     "type": "noun",
     "ipa": "naːʃa"
+  },
+  {
+    "word": "нащэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "squint-eyed, cross-eyed; alternative form of \"назэ\"",
+        "examples": []
+      },
+	  {
+        "meaning": "melon; misspelled of \"нашэ\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "нашэ"
+    ],
+    "kabardian": "нащэ",
+    "type": "noun",
+    "ipa": "qarabəd͡z"
   },
   {
     "word": "къэрэбыдз",
@@ -3888,7 +4269,12 @@
     "definitions": [
       {
         "meaning": "sunflower seeds (food)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''тыгъэгъэзак1э''' сэшхы",
+            "translation": "I am eating '''sunflower seeds'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -3905,7 +4291,12 @@
     "definitions": [
       {
         "meaning": "sunflower seeds (food)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''тыгъэзак1э''' сэшхы",
+            "translation": "I am eating '''sunflower seeds'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -3922,7 +4313,12 @@
     "definitions": [
       {
         "meaning": "watermelon seed (food)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''нэшак1э''' сэшхы",
+            "translation": "I am eating '''watermelon seeds'''."
+          }
+        ]
       }
     ],
     "shapsug": "нэшак1ьэ",
@@ -3936,7 +4332,12 @@
     "definitions": [
       {
         "meaning": "pumpkin seed",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''къэбык1э''' сэшхы",
+            "translation": "I am eating '''pumpkin seeds'''."
+          }
+        ]
       }
     ],
     "shapsug": "къэбык1ьэ",
@@ -3963,11 +4364,40 @@
     "definitions": [
       {
         "meaning": "cucumber",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''нэшэбэгу''' сэшхы",
+            "translation": "I am eating '''a cucumber'''."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "naʃabaɡʷ"
+  },
+  {
+    "word": "нэшэбэгук1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "cucumber seeds",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "naʃabaɡʷət͡ʃʼ"
+  },
+  {
+    "word": "нэшэбэгупкъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "cucumber field; cucumber farm",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "naʃabaɡʷəpq"
   },
   {
     "word": "шъоу",
@@ -4004,12 +4434,33 @@
     "ipa": "ʂʷaw"
   },
   {
+    "word": "сэнашъхьэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "grape, vine",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "sanaːʂħa"
+  },
+  {
     "word": "санэ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "grape",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''санэ''' сэшхы",
+            "translation": "I am eating '''grape'''."
+          },
+		  {
+            "sentence": "'''санэ''' сешъо",
+            "translation": "I am drinking '''grape'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -4021,7 +4472,16 @@
     "definitions": [
       {
         "meaning": "pepper",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''щыбжьыир''' мэсты",
+            "translation": "'''pepper''' is spicy."
+          },
+		  {
+            "sentence": "шхыным '''щыбжьый''' хэлъ",
+            "translation": "there is '''pepper''' in the food."
+          }
+        ]
       }
     ],
     "kabardian": "шыбжий",
@@ -4105,6 +4565,10 @@
             "translation": "The woman boiled '''milk''' with the pot."
           },
 		  {
+            "sentence": "К1алэм '''щэ''' чэмым къыч1ещы",
+            "translation": "The boy is extracting '''milk''' from the cow."
+          },
+		  {
             "sentence": "Кофе сешъо '''щэ''' хэмылъэу",
             "translation": "I drink coffee without '''milk''' in it."
           }
@@ -4112,7 +4576,24 @@
       },
       {
         "meaning": "bullet",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Щэр''' дзэл1ым тефи ыук1ыгъ",
+            "translation": "'''The bullet''' hit the soldier and killed him."
+          },
+		  {
+            "sentence": "'''Щэр''' пхъэм  пхырык1ыгъ",
+            "translation": "'''The bullet''' passed through the wood."
+          },
+		  {
+            "sentence": "'''Щэр''' къэсблихыгъ",
+            "translation": "'''The bullet''' missed me."
+          },
+		  {
+            "sentence": "К1эрахъом '''щэ''' дэлъа?",
+            "translation": "Is there '''a bullet''' in the gun?"
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -4123,16 +4604,115 @@
     "ipa": "ɕa"
   },
   {
+    "word": "пхырык1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to get through; to pass through",
+        "examples": [
+		  {
+            "sentence": "Щэр пхъэм  '''пхырык1ыгъ'''",
+            "translation": "The bullet '''passed through''' the wood."
+          },
+		  {
+            "sentence": "Мэзым '''сыпхырык1ыгъ'''",
+            "translation": "'''I passed through''' the forest."
+          }
+        ]
+      }
+    ],
+    "shapsug": "пхырык1ьын",
+    "type": "noun",
+    "ipa": "pxərət͡ʃʼən"
+  },
+  {
+    "word": "к1эрэхъуащэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "bullet of a gun",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃʼaraχʷaːɕa"
+  },
+  {
+    "word": "мы1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "full of",
+        "examples": [
+          {
+            "sentence": "Унэр псы '''мы1у'''",
+            "translation": "The house '''is full of''' water."
+          },
+		  {
+            "sentence": "Шъофыр псынжъы '''мы1у'''",
+            "translation": "The fields '''are full of''' mud."
+          }
+        ]
+      }
+    ],
+	"synonyms": [
+      "мыу"
+    ],
+    "type": "noun",
+    "ipa": "məʔʷ"
+  },
+  {
+    "word": "мыу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "full of",
+        "examples": [
+          {
+            "sentence": "Унэр псы '''мыу'''",
+            "translation": "The house '''is full of''' water."
+          },
+		  {
+            "sentence": "Шъофыр псынжъы '''мыу'''",
+            "translation": "The fields '''are full of''' mud."
+          }
+        ]
+      }
+    ],
+	"synonyms": [
+      "мы1у"
+    ],
+    "type": "noun",
+    "ipa": "məʔʷ"
+  },
+  {
     "word": "хьантхъупсы",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "millet soup",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''хьантхъупсым''' ешъо",
+            "translation": "The boy is drinking '''the soup'''."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "ħaːntχʷəpsə"
+  },
+  {
+    "word": "хьантхъупсыпхъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "materials to make soup with",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ħaːntχʷəpsəpχ"
   },
   {
     "word": "хьалыжъо",
@@ -4140,11 +4720,13 @@
     "definitions": [
       {
         "meaning": "haliva (a Circassian food, fried triangular pastry with mainly Circassian cheese or potato)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''хьалыжъо''' ешхы",
+            "translation": "The boy is eating '''haliva'''."
+          }
+        ]
       }
-    ],
-    "synonyms": [
-      "хьалвэ"
     ],
     "type": "noun",
     "ipa": "ħalʐʷa"
@@ -4155,7 +4737,12 @@
     "definitions": [
       {
         "meaning": "mataza: a kind of dumpling food eaten in Circassia.",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''мэтазэ''' ешхы",
+            "translation": "The boy is eating '''mataza'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -4170,7 +4757,12 @@
     "definitions": [
       {
         "meaning": "mataza: a kind of dumpling food eaten in Circassia",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''псыхьалыжъо''' ешхы",
+            "translation": "The boy is eating '''mataza'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -4180,15 +4772,21 @@
     "ipa": "psəħaːɮəʒʷ"
   },
   {
-    "word": "тыгъэгъаз",
+    "word": "тыгъэгъазэ",
     "lang": "Adyghe",
 	"etymology": "From тыгъэ (sun) + гъэзэн (to turn)",
     "definitions": [
       {
         "meaning": "sunflower",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Шъофым '''тыгъэгъазэхэр''' къик1ыгъэх",
+            "translation": "'''Sunflowers''' came out in the fields."
+          }
+        ]
       }
     ],
+    "kabardian": "сэхуран",
     "type": "noun",
     "ipa": "tʁarʁaːz"
   },
@@ -4198,11 +4796,96 @@
     "definitions": [
       {
         "meaning": "mushroom",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''хьа1у''' сик1ас",
+            "translation": "I like '''mushrooms'''."
+          },
+		  {
+            "sentence": "шъофым тыхэхьагъ '''хьа1ухэр''' къитчыныхэу",
+            "translation": "We went to the field to pick out '''mushrooms'''."
+          },
+		  {
+            "sentence": "'''хьа1ур''' исытхъышъурэп",
+            "translation": "I can't pull out '''the mushroom'''."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "ħaʔʷə"
+  },
+  {
+    "word": "къитхъын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"итхъын\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "jətχən"
+  },
+  {
+    "word": "итхъын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to pull out from the ground or from inside something",
+        "examples": [
+		  {
+            "sentence": "К1алэм ч1ыгум къэгъагъэхэр '''ритхъыгъэх'''",
+            "translation": "The boy '''pulled''' the flowers '''out of''' the ground."
+          },
+		  {
+            "sentence": "Хьа1ур '''исытхъышъурэп'''",
+            "translation": "'''I can't pull out''' the mushroom."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "jətχən"
+  },
+  {
+    "word": "къичын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"ичын\"",
+        "examples": []
+      }
+    ],
+    "shapsug": "къикьын",
+    "type": "noun",
+    "ipa": "qəjət͡ʃən"
+  },
+  {
+    "word": "ичын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to pick out a plant out of the ground",
+        "examples": [
+		  {
+            "sentence": "Шъофым тыхэхьагъ хьа1ухэр '''къитчыныхэу'''",
+            "translation": "We went to the field '''to pick out''' mushrooms."
+          },
+		  {
+            "sentence": "К1алэм къэгъагъэр '''ричыгъ''' пшъашъэм фихьынэу",
+            "translation": "The boy '''picked out''' the flower to bring it to the girl."
+          },
+		  {
+            "sentence": "Щагум тыдэт уцыхэр ч1ыгум '''итчыхэу'''",
+            "translation": "We are in the yard '''picking''' plants '''out''' of the ground."
+          }
+        ]
+      }
+    ],
+    "shapsug": "икьын",
+    "type": "noun",
+    "ipa": "jət͡ʃən"
   },
   {
     "word": "хьэ1у",
@@ -4336,7 +5019,12 @@
     "definitions": [
       {
         "meaning": "dog",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Хьэм''' ык1э егъэсысы",
+            "translation": "'''The dog''' shakes its tail."
+          }
+        ]
       }
     ],
     "shapsug": "хьэжъ",
@@ -4397,6 +5085,10 @@
           {
             "sentence": "'''Чэмхэр''' хъуп1эм хэтых",
             "translation": "'''The cows''' are in the pasture."
+          },
+		  {
+            "sentence": "К1алэм щэ '''чэмым''' къыч1ещы",
+            "translation": "The boy is extracting milk from '''the cow'''."
           }
         ]
       }
@@ -8482,6 +9174,10 @@
 		  {
             "sentence": "Л1ым '''к1эрахъок1э''' къеохи пыл1ык1ыгъ",
             "translation": "They shot the '''man with a gun''' and he died from bleeding."
+          },
+		  {
+            "sentence": "'''К1эрахъом''' щэ дэлъа?",
+            "translation": "Is there a bullet in '''the gun'''?"
           }
         ]
       },
@@ -9906,6 +10602,10 @@
           {
             "sentence": "1эгуаум уешъутырмэ 1анэм '''тефэщт'''",
             "translation": "If you kick the ball, it '''will hit''' the table."
+          },
+		  {
+            "sentence": "Щэр дзэл1ым '''тефи''' ыук1ыгъ",
+            "translation": "The bullet '''hit''' the soldier '''and''' killed him."
           },
           {
             "sentence": "'''тефэу''' хъущтэп апчым",
@@ -16471,12 +17171,21 @@
     "ipa": "bʁat͡ʃas"
   },
   {
-    "word": "бгъэлыб",
+    "word": "бгъэлыбэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "chicken breast (food)",
-        "examples": []
+        "meaning": "breast meat; chicken breast (food)",
+        "examples": [
+          {
+            "sentence": "Сыфай '''бгъэлыб''' гъэжъагъэ хьалыгъум дэлъэу",
+            "translation": "I want cooked '''chicken breast''' in bread."
+          },
+		  {
+            "sentence": "'''Бгъэлыб''' сышхыныр сик1ас бжьыны хэгъэжъыжьагъэу",
+            "translation": "I like eating '''chicken breast''' with opoion grilled in it."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -16779,7 +17488,12 @@
       },
       {
         "meaning": "belt",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Убг '''бгырыпх''' илъхь",
+            "translation": "Put '''a belt''' on your waist."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -17421,6 +18135,10 @@
           {
             "sentence": "хьалыгъу '''такъыр'''",
             "translation": "'''piece of''' bread."
+          },
+		  {
+            "sentence": "Лым '''такъыр''' хэтхъи чэтыумэ ят",
+            "translation": "Tear '''a piece''' of the meat and give it to the cats."
           }
         ]
       },
@@ -17815,6 +18533,30 @@
     "ipa": "ʃʷaːbʁʷaː"
   },
   {
+    "word": "лъэпшъабгъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "shin (the front part of the leg below the knee; the front edge of the shin bone)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ɬapʂaːbʁʷ"
+  },
+  {
+    "word": "лъэпшъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "Lhepsch, Tlepsh: God of smiths, iron, weapons and fire. Corresponds to the Roman god Vulcan and to Hephæstus in the Greek Pantheon",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ɬapʂ"
+  },
+  {
     "word": "лъэк1эн",
     "lang": "Adyghe",
     "definitions": [
@@ -17843,6 +18585,10 @@
             "translation": "The boy '''rubs off''' his hands with a towel."
           }
         ]
+      },
+	  {
+        "meaning": "ankle",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -17992,7 +18738,12 @@
     "definitions": [
       {
         "meaning": "hillock, knoll",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''бжъапэм''' ехи, лъэгум ихьагъ",
+            "translation": "The boy went down '''the knoll''' and entered the valley."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -20066,7 +20817,12 @@
     "definitions": [
       {
         "meaning": "yard",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Щагум''' тыдэт уцыхэр ч1ыгум итчыхэу",
+            "translation": "We are in '''the yard''' picking plants out of the ground."
+          }
+        ]
       }
     ],
     "shapsug": "щао",
@@ -20145,6 +20901,10 @@
           {
             "sentence": "Мы къуаер '''бзы'''",
             "translation": "'''Slice''' this cheese."
+          },
+		  {
+            "sentence": "Бжьыны '''убзымэ''' нэпсыхэр унэ къыч1игъэк1ыщтых",
+            "translation": "'''If you slice''' opoion it will make tears come out from your eye."
           }
         ]
       }
@@ -21352,6 +22112,10 @@
           {
             "sentence": "Левил 4-м '''сыкъынэсышъурэп'''",
             "translation": "'''I can't reach''' level 4."
+          },
+		  {
+            "sentence": "Псыр слъэгуанджэмэ '''къанэсы'''",
+            "translation": "The water '''reaches''' my knees,"
           }
         ]
       }
@@ -23854,6 +24618,10 @@
 		  {
             "sentence": "Сэ '''жъэу''' сыхъугъ",
             "translation": "I became '''old'''."
+          },
+          {
+            "sentence": "Сику '''жъы''' асти к1э къа1ысхыгъ",
+            "translation": "I gave them my '''old''' car and took a new one."
           }
         ]
       }
@@ -25576,6 +26344,15 @@
             "translation": "The iron '''was twisted'''."
           }
         ]
+      },
+	  {
+        "meaning": "to milk",
+        "examples": [
+          {
+            "sentence": "К1алэм чэмыр '''ещы'''",
+            "translation": "The boy '''milks''' the cow."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -27202,6 +27979,10 @@
           {
             "sentence": "чэтыур к1алэм '''еп1эстхъыгъ'''",
             "translation": "The cat '''scratched''' the boy."
+          },
+		  {
+            "sentence": "Чэтыум ык1э утеуцомэ '''къыоп1эстхъыщт'''",
+            "translation": "If you step on the cat's tail '''it will scratch you'''."
           }
         ]
       }
@@ -30842,6 +31623,10 @@
 		  {
             "sentence": "'''Чэтыур''' зэт1эхъужьы",
             "translation": "'''The cat''' is scratch itself."
+          },
+		  {
+            "sentence": "'''Чэтыум''' ык1э утеуцомэ къыоп1эстхъыщт",
+            "translation": "If you step on the '''cat's''' tail it will scratch you."
           }
         ]
       }
@@ -30856,15 +31641,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "chicken",
-        "examples": [],
-        "tags": [
-          "Literary"
+        "meaning": "chicken; hen",
+        "examples": [
+          {
+            "sentence": "'''Чэтым''' к1энк1э къек1эц1ы",
+            "translation": "'''The chicken''' lays egg."
+          }
         ]
-      },
-      {
-        "meaning": "hen",
-        "examples": []
       }
     ],
     "shapsug": "кьэты",
@@ -31883,18 +32666,6 @@
     ],
     "type": "name",
     "ipa": "d͡ʒadəpa"
-  },
-  {
-    "word": "Лъэпщ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "Lhepsch, Tlepsh: Patron of smiths, iron, weapons and fire. Corresponds to the Roman god Vulcan and to Hephæstus in the Greek Pantheon.",
-        "examples": []
-      }
-    ],
-    "type": "name",
-    "ipa": "ɬapɕ"
   },
   {
     "word": "Мамыщ",
@@ -33286,7 +34057,12 @@
       },
 	  {
         "meaning": "plant",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Щагум тыдэт '''уцыхэр''' ч1ыгум итчыхэу",
+            "translation": "We are in the yard picking '''plants''' out of the ground."
+          }
+        ]
       },
       {
         "meaning": "medicine",
@@ -34469,18 +35245,6 @@
     ],
     "type": "noun",
     "ipa": "aːχɕa wəʁʷajəɬ"
-  },
-  {
-    "word": "лъэк1эн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "ankle",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ɬat͡ʃan"
   },
   {
     "word": "тхьамык1",
@@ -38969,15 +39733,15 @@
         "meaning": "to go down; to get down",
         "examples": [
           {
-            "sentence": "'''ех'''",
+            "sentence": "'''Ех'''",
             "translation": "'''Go down'''."
           },
           {
-            "sentence": "к1алэр лъэоим '''ехы'''",
+            "sentence": "К1алэр лъэоим '''ехы'''",
             "translation": "The boy '''is going down''' the stairs."
           },
           {
-            "sentence": "л1ыр '''къехы''' къэтщыхьанэу",
+            "sentence": "Л1ыр '''къехы''' къэтщыхьанэу",
             "translation": "The man '''is coming down''' to yell at us."
           },
 		  {
@@ -38991,6 +39755,10 @@
 		  {
             "sentence": "Пшъашъэм нэпсыхэр '''къехых'''",
             "translation": "Tears are '''coming down''' from the girl."
+          },
+		  {
+            "sentence": "К1алэр бжъапэм '''ехи''', лъэгум ихьагъ",
+            "translation": "The boy '''went down''' the knoll and entered the valley."
           }
         ]
       }
@@ -56644,6 +57412,10 @@
           {
             "sentence": "Къэцымрэ Кактусымрэ '''папц1эх'''",
             "translation": "The thorn and the cactus '''are sharps'''."
+          },
+		  {
+            "sentence": "С1эбжъанэр '''папц1эх'''",
+            "translation": "My fingernails are '''sharp'''."
           }
         ]
       }
@@ -63790,7 +64562,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to tear off (intensively) something from something; to rip away from; to pull off",
+        "meaning": "to pull and tear off (a body part or something attached)",
         "examples": [
           {
             "sentence": "Л1ым чъыгым икъутамэхэр '''петхъых'''",
@@ -73489,6 +74261,14 @@
 		  {
             "sentence": "К1алэм '''иджэдыгу''' пшъэп1э дэгъу телъ",
             "translation": "The boy's '''fur coat''' has a good collar."
+          },
+		  {
+            "sentence": "Л1ым '''джэдыгур''' щихыгъ",
+            "translation": "The man took off '''the fur coat'''."
+          },
+		  {
+            "sentence": "Бэджэшъо '''джэдыгу'''",
+            "translation": "Foxskin '''fur coat'''."
           }
         ]
       }
@@ -81751,6 +82531,10 @@
           {
             "sentence": "Пчъэр '''къэкъудыий''' унэм къихь",
             "translation": "'''Pull''' the door and enter the house."
+          },
+		  {
+            "sentence": "К1алэм тахътэр лъэшэу '''зыкъекъудыим''' '''хитхъыгъ'''",
+            "translation": "'''When''' the boy '''pulled''' the couch strongly he torn it off."
           }
         ]
       },
@@ -85823,6 +86607,10 @@
 		  {
             "sentence": "Щае сешъо шъоущыгъу '''хэмылъэу'''",
             "translation": "I drink tea '''without''' sugar '''in it'''."
+          },
+		  {
+            "sentence": "Шхыным бжьыны '''хэлъа'''?",
+            "translation": "'''Is there''' opoion '''in''' the food?"
           }
         ]
       },
@@ -88549,6 +89337,10 @@
 		  {
             "sentence": "Пхъэшъхьэ-мышъхьэм ышъо '''течи''', ык1оц1 ылъыр шхы",
             "translation": "'''Peel''' the fruit and eat the thing inside it."
+          },
+		  {
+            "sentence": "Чъыгым ыпхъашъо '''тесэчы'''",
+            "translation": "'''I am peeling off''' the tree's bark."
           }
         ]
       }
@@ -94346,6 +95138,19 @@
             "translation": "The man worked in that work for ten years, he '''probably''' got fed up with the job."
           }
         ]
+      },
+	  {
+        "meaning": "to come out under",
+        "examples": [
+          {
+            "sentence": "К1алэр 1энэ ч1эгъым '''къыч1эк1ыгъ'''",
+            "translation": "The boy '''came out from under''' the table."
+          },
+		  {
+            "sentence": "Бжьыны убзымэ нэпсыхэр унэ '''къыч1игъэк1ыщтых'''",
+            "translation": "If yout cut opoion '''it will make''' tears '''come out from''' your eye."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -95989,6 +96794,10 @@
 		  {
             "sentence": "Пхъэнт1эк1ур щагум '''дэлъ'''",
             "translation": "The chair '''is in''' the yard."
+          },
+		  {
+            "sentence": "К1эрахъом щэ '''дэлъа'''?",
+            "translation": "'''Is there''' a bullet '''in''' the gun?"
           }
         ]
       }
@@ -101789,6 +102598,10 @@
 		  {
             "sentence": "Жьыбгъэр къепщэмэ чъыг тхьапэхэр '''сысынэу''' рагъажьэ.",
             "translation": "When the wind blows, the tree leaves start to '''shake'''."
+          },
+		  {
+            "sentence": "Хьэм ык1э '''егъэсысы'''",
+            "translation": "The dog '''shakes''' its tail."
           }
         ]
       },
@@ -102728,11 +103541,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to get through, to wriggle through, to squeeze through",
+        "meaning": "to crawl inside",
         "examples": [
           {
             "sentence": "Гъуанэм '''ипшын'''",
-            "translation": "'''To get it through''' the hole."
+            "translation": "'''To crawl inside''' the hole."
           }
         ]
       }
@@ -107821,6 +108634,10 @@
 		  {
             "sentence": "Зэманым дэпкъыхэр '''псынжъык1э''' аищтыгъэх",
             "translation": "In the past, they used to coat walls '''with mud'''."
+          },
+		  {
+            "sentence": "Шъофыр '''псынжъы''' мы1у",
+            "translation": "The fields are full of '''mud'''."
           }
         ]
       }
@@ -112892,6 +113709,10 @@
 		  {
             "sentence": "Картофыр сик1ас кетчупым '''хэзгъэоныр'''",
             "translation": "'''I''' like '''dripping''' french fries into ketchup."
+          },
+          {
+            "sentence": "Лыр к1энк1эм '''хэсэгъао'''",
+            "translation": "'''I am dipping''' the meat in the egg."
           }
         ]
       },
@@ -113898,6 +114719,10 @@
 		  {
             "sentence": "Сурэт тхылъым '''тезгъэпк1агъ'''",
             "translation": "'''I glued''' a picture '''on''' the book."
+          },
+		  {
+            "sentence": "К1алэм тхылъып1эу дэпкъым '''тегъэпк1агъэр''' тетхъыгъ",
+            "translation": "The boy torn off the paper '''that was sticked on''' the wall"
           }
         ]
       },
@@ -120664,7 +121489,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to lower something",
+        "meaning": "to lower something; to make something go down",
         "examples": [
           {
             "sentence": "Лъэоир '''къегъэх'''",
@@ -120677,6 +121502,10 @@
           {
             "sentence": "1анэм ы1этыгъагъэ т1эк1у '''къегъэх'''",
             "translation": "'''Lower''' the table's height a bit."
+          },
+		  {
+            "sentence": "Шхынып счый '''езгъэхышъурэп'''",
+            "translation": "'''I can't make''' the food '''go down''' my throat."
           }
         ]
       }
@@ -124115,6 +124944,10 @@
 		  {
             "sentence": "Кумк1э л1ыр пкъэум еуал1эм, пкъэур '''ыгъэщыгъ'''",
             "translation": "When the man collided against the pillar with the car, '''he twisted''' the pillar."
+          },
+		  {
+            "sentence": "Утхы '''гъэщыгъэу''' умылажь",
+            "translation": "Don't work with your back '''bended'''."
           }
         ]
       }
