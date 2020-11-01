@@ -1531,6 +1531,10 @@
           {
             "sentence": "'''Сабынк1э''' зытхьак1",
             "translation": "Wash yourself '''with soap'''."
+          },
+		  {
+            "sentence": "Ублыгу ч1эгъ '''сабынк1э''' тхьак1",
+            "translation": "Wash your armpit '''with a soup'''"
           }
         ]
       }
@@ -2256,6 +2260,10 @@
 		  {
             "sentence": "'''Тк1опсыр''' псым хэгъэтк1он",
             "translation": "To drop '''a drop''' into the water."
+          },
+          {
+            "sentence": "Утхьак1умэ уц '''тк1опс''' игъатк1у хъужьын фэш1ык1э",
+            "translation": "Drip a '''drop''' of medicine into your ear in order for it to heal."
           }
         ]
       }
@@ -2350,6 +2358,10 @@
 		  {
             "sentence": "К1алэм псылъэ ы1ыгъ '''псык1э''' изэу",
             "translation": "The boy has a water-bottle filled '''with water'''."
+          },
+		  {
+            "sentence": "Сицуакъэ '''псы''' итк1уагъ",
+            "translation": "'''Water''' was dripped inside my shoe."
           }
         ]
       }
@@ -2448,12 +2460,65 @@
     "definitions": [
       {
         "meaning": "mouth",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''ыжэ''' 1ае къыдэк1ыгъэр",
+            "translation": "The thing that came out from the boy's '''mouth''' is bad."
+          },
+		  {
+            "sentence": "'''Жэмк1э''' машхэх",
+            "translation": "Peopel eat with '''the mouth'''."
+          },
+		  {
+            "sentence": "Шхын '''жэм''' дэлъхьан",
+            "translation": "To put food inside '''the mouth'''"
+          },
+		  {
+            "sentence": "К1алэм '''ыжэ''' зэтрихымэ, мэ 1ае къыдэу",
+            "translation": "When the boy opens '''his mouth''', bad smell emits from it."
+          },
+		  {
+            "sentence": "'''Жэм''' ык1оц1 бзэгур дэт",
+            "translation": "The tongue is inside the '''mouth'''."
+          },
+		  {
+            "sentence": "1упсыр ц1ыфым '''ыжэ''' псэу къыдэк1ырэр ары",
+            "translation": "Saliva is the water that comes out from the human's '''mouth'''."
+          }
+        ]
       }
     ],
     "kabardian": "жьэ",
     "type": "noun",
     "ipa": "ʒa"
+  },
+  {
+    "word": "1упш1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "lip; lips",
+        "examples": [
+          {
+            "sentence": "Унэ '''1упш1эм''' урам щы1эп",
+            "translation": "There is no street '''in front''' of the house."
+          },
+          {
+            "sentence": "К1алэм '''ы1упш1э''' пшъашъэр щыт",
+            "translation": "The girl is standing '''in front''' of the boy."
+          },
+          {
+            "sentence": "'''С1упш1э''' къиуцу",
+            "translation": "Stand still '''in front of me'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "1упэ"
+    ],
+    "type": "noun",
+    "ipa": "ʔʷəpʃʼa"
   },
   {
     "word": "1упэ",
@@ -2462,7 +2527,20 @@
     "definitions": [
       {
         "meaning": "lip; lips",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр пшъашъэм '''ы1упэк1э''' ебыугъ",
+            "translation": "The boy kissed the girl '''with the lips'''."
+          },
+		  {
+            "sentence": "Пшъашъэм '''ы1упэ''' ылагъ 1упэлэнк1э",
+            "translation": "The girl colored '''her lips''' with a lipstick."
+          },
+		  {
+            "sentence": "'''С1упэ''' сецэкъэжьыгъ",
+            "translation": "I bite '''my own lips'''."
+          }
+        ]
       },
       {
         "meaning": "front",
@@ -2476,7 +2554,7 @@
             "translation": "The girl is standing '''in front''' of the boy."
           },
           {
-            "sentence": "'''Сы1упэ''' къиуцу",
+            "sentence": "'''С1упэ''' къиуцу",
             "translation": "Stand still '''in front of me'''."
           }
         ]
@@ -2494,15 +2572,93 @@
     "definitions": [
       {
         "meaning": "language",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр сыд '''бзэк1э''' гущы1э?",
+            "translation": "In what '''language''' does the boy speak?"
+          },
+		  {
+            "sentence": "Арапбзэр '''бзэ''' къин а1о зэбгъэш1энк1э",
+            "translation": "They say Arabic is a hard '''language''' to learn."
+          },
+		  {
+            "sentence": "Тхапш '''бзэу''' о узыригущы1эшъурэр?",
+            "translation": "How many '''languages''' you can speak?"
+          },
+		  {
+            "sentence": "Тхапш '''бзэу''' пш1эрэр?",
+            "translation": "How many '''languages''' you know?"
+          },
+		  {
+            "sentence": "Адыгэхэмэ '''ябзэ''' къэсгуры1орэп?",
+            "translation": "I cannot understand the Circassian's '''language'''."
+          }
+        ]
       },
       {
-        "meaning": "bow-string",
+        "meaning": "bow-string; alternative form of \"бзэпс\"",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "bza"
+  },
+  {
+    "word": "пыстык1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to burn off the tip of",
+        "examples": [
+          {
+            "sentence": "Гъуч1ым ыцыпэ '''пыстык1ы'''",
+            "translation": "The iron's tip '''is burning'''."
+          },
+		  {
+            "sentence": "Тутыны '''пыстык1эу'''",
+            "translation": "The ."
+          },
+		  {
+            "sentence": "Зыфэсакъ, уигъончэдж ыцыпэ '''пыстык1ы''', псынк1эу гъэк1уас",
+            "translation": "Careful, the tip if your trousers '''is burning off''', extinguish it quickly."
+          },
+		  {
+            "sentence": "Шхын стырым сбзэгу '''пистык1ыгъ'''",
+            "translation": "The burning food '''burned off''' my tongue."
+          }
+        ]
+      },
+	  {
+        "meaning": "to get frostbite on (a body part)",
+        "examples": [
+          {
+            "sentence": "Чъы1эшхоти, ы1э '''пыстык1ыгъ'''",
+            "translation": "Because it is very cold, his hand '''froze'''."
+          }
+        ]
+      }
+    ],
+    "shapsug": "пыстык1ьын",
+    "type": "noun",
+    "ipa": "pəstət͡ʃʼən"
+  },
+  {
+    "word": "пыжъык1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to get frostbite on (a body part)",
+        "examples": [
+          {
+            "sentence": "Чъы1эшхоти, ы1э '''пыжъык1ыгъ'''",
+            "translation": "Because it is very cold, his hand '''froze'''."
+          }
+        ]
+      }
+    ],
+    "shapsug": "пыжъык1ьын",
+    "type": "noun",
+    "ipa": "pəʐət͡ʃʼən"
   },
   {
     "word": "бзэгу",
@@ -2511,11 +2667,53 @@
     "definitions": [
       {
         "meaning": "tongue",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Жэм ык1оц1 '''бзэгур''' дэт",
+            "translation": "'''The tongue''' is inside the mouth."
+          },
+		  {
+            "sentence": "Шхын стырым '''сбзэгу''' пистык1ыгъ",
+            "translation": "The burning food burned off '''my tongue'''."
+          },
+		  {
+            "sentence": "'''Убзэгук1э''' у1энтэгъу унэсышъущта?",
+            "translation": "Can you touch your elbow '''with your tongue'''?"
+          },
+		  {
+            "sentence": "Хьэм '''ыбзэгу''' 1упс бэ къыпыт1эт1ы",
+            "translation": "A lot of saliva is drizzling from the dog's '''tongue'''."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "bzaɡʷ"
+  },
+  {
+    "word": "пыт1эт1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to drizzle from the tip of (about viscous substances like honey)",
+        "examples": [
+          {
+            "sentence": "Хьэм ыбзэгу 1упс бэ '''къыпыт1эт1ы'''",
+            "translation": "A lot of saliva '''is drizzling from''' the dog's tongue."
+          },
+		  {
+            "sentence": "Банкэм шъоу '''къыпыт1эт1ы'''",
+            "translation": "Honey '''is drizzling from''' the can."
+          },
+		  {
+            "sentence": "Бжьахъом ы1апэ шъоур '''пэт1эт1ы'''",
+            "translation": "The honey '''is drizziling from''' the bee-keeper's hand."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "pətʼatʼən"
   },
   {
     "word": "1упс",
@@ -2523,8 +2721,34 @@
 	"etymology": "From 1у (mouth) + псы (water)",
     "definitions": [
       {
-        "meaning": "saliva",
+        "meaning": "alternative form of \"1упсы\"",
         "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʔʷəp"
+  },
+  {
+    "word": "1упсы",
+    "lang": "Adyghe",
+	"etymology": "From 1у (mouth) + псы (water)",
+    "definitions": [
+      {
+        "meaning": "saliva",
+        "examples": [
+          {
+            "sentence": "'''1упсыр''' ц1ыфым ыжэ псэу къыдэк1ырэр ары",
+            "translation": "'''Saliva''' is the water that comes  out from the human's mouth."
+          },
+		  {
+            "sentence": "'''1упс''' ужэ къыдэк1ы, лъэк1ыжь",
+            "translation": "'''Saliva''' is dripping from your mouth, wipe it off."
+          },
+		  {
+            "sentence": "Хьэм ыбзэгу '''1упс''' бэ къыпыт1эт1ы",
+            "translation": "A lot of '''saliva''' is drizzling from the dog's tongue."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -2537,7 +2761,16 @@
     "definitions": [
       {
         "meaning": "face",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''ынапэ''' етхьак1ы",
+            "translation": "The boy is washing '''his face'''."
+          },
+		  {
+            "sentence": "Ц1ыфым '''ынапэ''' плъэгъушъугъа?",
+            "translation": "Did you manage to see the person's '''face'''?"
+          }
+        ]
       },
       {
         "meaning": "honor (social face)",
@@ -2554,7 +2787,16 @@
     "definitions": [
       {
         "meaning": "cheek",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр ук1ытагъэти '''ынэгу''' плъыжьэу хъугъэ",
+            "translation": "Because the boy became nervous, '''his cheek''' became red."
+          },
+		  {
+            "sentence": "Нэгушъоутыныр '''нэгум''' шъоу тетым уеоныр",
+            "translation": "Slap to the cheek is hitting the skin that is on '''the cheek'''"
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -2562,6 +2804,30 @@
     ],
     "type": "noun",
     "ipa": "naɡʷ"
+  },
+  {
+    "word": "нэк1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "cheek",
+        "examples": [
+          {
+            "sentence": "К1алэр ук1ытагъэти '''ынэк1у''' плъыжьэу хъугъэ",
+            "translation": "Because the boy became shy, '''his cheek''' became red."
+          },
+		  {
+            "sentence": "Нэгушъоутыныр '''нэк1ум''' шъоу тетым уеоныр",
+            "translation": "Slap to the cheek is hitting the skin that is on '''the cheek'''"
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "нэгу"
+    ],
+    "type": "noun",
+    "ipa": "nakʷʼ"
   },
   {
     "word": "нахэ",
@@ -2576,11 +2842,15 @@
           },
           {
             "sentence": "'''Унахэ''' сыкъыхэощт сыкъэбгъэгубжымэ",
-            "translation": "I gonna hit '''your face''' if you make me angry."
+            "translation": "I am going to hit '''your face''' if you make me angry."
           },
           {
             "sentence": "К1алэм '''ынахэк1э''' къэсэш1эжьы",
             "translation": "I recognize the boy '''by his face'''."
+          },
+		  {
+            "sentence": "Ц1ыфым '''ынахэ''' плъэгъушъугъа?",
+            "translation": "Did you manage to see the person's '''face'''?"
           }
         ]
       }
@@ -2614,12 +2884,50 @@
           {
             "sentence": "Снэмэ ерагъэу алъэгъу, '''стхьак1умэмэ''' ерагъэу а1у",
             "translation": "My eyes hardly see, '''my ears''' hadly hear."
+          },
+          {
+            "sentence": "'''Утхьак1умэ''' уц тк1опс игъатк1у хъужьын фэш1ык1э",
+            "translation": "Drip a drop of medicine into '''your ear''' in order for it to heal."
           }
         ]
       }
     ],
     "type": "noun",
     "ipa": "tħaːkʷʼma"
+  },
+  {
+    "word": "итк1он",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to drip inside",
+        "examples": [
+          {
+            "sentence": "Сицуакъэ псы '''итк1уагъ'''",
+            "translation": "Water was '''dripped inside''' my shoe."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "jətkʷʼan"
+  },
+  {
+    "word": "игъэтк1он",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to make a liquid drop drip inside",
+        "examples": [
+          {
+            "sentence": "Утхьак1умэ уц тк1опс '''игъатк1у''' хъужьын фэш1ык1э",
+            "translation": "'''Drip''' a drop of medicine '''into''' your ear in order for it to heal."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "jəʁatkʷʼan"
   },
   {
     "word": "дэбзыкъу",
@@ -2629,8 +2937,12 @@
         "meaning": "sideburn; sideburns",
         "examples": [
           {
-            "sentence": "'''Удэбзыкъу''' упсых",
-            "translation": "Cut your '''sideburns'''."
+            "sentence": "'''Удэбзыкъухэр''' упсых",
+            "translation": "Cut '''your sideburns'''."
+          },
+		  {
+            "sentence": "'''Удэбзыкъухэр''' к1ыхьэу хъугъэх",
+            "translation": "'''Your sideburns''' became long."
           }
         ]
       }
@@ -2645,7 +2957,20 @@
     "definitions": [
       {
         "meaning": "chin",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ц1ыфым '''ыжэк1апэ''' уеомэ угъэмэхыщт",
+            "translation": "If you hit '''the chip''' of a person, you will pass him out."
+          },
+		  {
+            "sentence": "Жак1эр '''жэк1апэм''' тет",
+            "translation": "The beard is on '''the chin'''."
+          },
+		  {
+            "sentence": "Л1ым ыжак1э еупсым цы т1эк1у '''ыжэк1апэ''' къэтригъэнагъ",
+            "translation": "When the man shaved his beard he left a little bit of hair on '''his chin'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -2669,6 +2994,10 @@
 		  {
             "sentence": "Л1ым '''ыдый''' к1алэр дэс",
             "translation": "The boy is siting on the man's '''neck'''"
+          },
+		  {
+            "sentence": "Л1ым '''ыдый''' сыдэуагъ",
+            "translation": "I hit the man's '''neck'''."
           }
         ]
       }
@@ -2685,14 +3014,27 @@
     "definitions": [
       {
         "meaning": "shoulder",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ым дзыор '''ытамэк1э''' ехьы",
+            "translation": "The man is carrying the sack '''with his shoulder'''."
+          },
+		  {
+            "sentence": "Сабыир л1ым '''ытамэмэ''' атес",
+            "translation": "The child is sitting on the man's '''shoulders'''."
+          }
+        ]
       },
       {
         "meaning": "wing; wings",
         "examples": [
           {
-            "sentence": "Бзыур '''матэк1э''' мэбыбы",
+            "sentence": "Бзыур '''ытамэк1э''' мэбыбы",
             "translation": "The bird is flying '''with its wings'''."
+          },
+		  {
+            "sentence": "Бзыур '''тамэ''' ымы1эу быбышъущтэп",
+            "translation": "A bird cannot fly without having '''a wing'''."
           }
         ]
       }
@@ -2702,12 +3044,45 @@
     "ipa": "taːma"
   },
   {
+    "word": "блыгуч1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "armpit; underarm; alternative form of \"блыгу\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "bləɡʷət͡ʂʼ"
+  },
+  {
+    "word": "блыгуч1эгъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "armpit; underarm; alternative form of \"блыгу\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "bləɡʷət͡ʂʼ"
+  },
+  {
     "word": "блыгу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "armpit",
-        "examples": []
+        "meaning": "armpit; underarm",
+        "examples": [
+          {
+            "sentence": "'''Ублыгу''' ч1эгъ сабынк1э тхьак1",
+            "translation": "Wash '''your armpit''' with a soup"
+          },
+		  {
+            "sentence": "'''Сблыгу''' цы тет",
+            "translation": "There is hair on my '''armpit'''"
+          }
+        ]
       },
       {
         "meaning": "angle",
@@ -2731,7 +3106,16 @@
     "definitions": [
       {
         "meaning": "arm",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''ы1эхэр''' пытэх",
+            "translation": "The boy's '''arms''' are firm."
+          },
+		  {
+            "sentence": "'''У1э''' к1ашъом къэса?",
+            "translation": "Does '''your arm''' reach the ceiling?"
+          }
+        ]
       },
       {
         "meaning": "hand",
@@ -2739,6 +3123,22 @@
 		  {
             "sentence": "Слъакъохэр зэтепхагъэх, '''с1эхэр''' т1упщыгъэх",
             "translation": "My legs are tied up, '''my hands''' are loosed."
+          },
+		  {
+            "sentence": "'''У1эк1э''' гъэучъы1алъэм ык1ы1у уте1ашъуа?",
+            "translation": "Can you touch the surface of the fridge '''with your hand'''?"
+          },
+		  {
+            "sentence": "'''1эмк1э''' зыгорэ къэбыштэн",
+            "translation": "To lift something '''with the hand'''."
+          },
+		  {
+            "sentence": "'''1эмк1э''' зыгорэм унэсын",
+            "translation": "To touch something '''with the hand'''."
+          },
+		  {
+            "sentence": "'''У1э''' сыд ч1элъыр?",
+            "translation": "What is in '''your hand'''?"
           }
         ]
       }
@@ -2867,7 +3267,12 @@
     "definitions": [
       {
         "meaning": "hand (more specifically: upper surface of the hand)",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Бжьахъом '''ы1апэ''' шъоур пэт1эт1ы",
+            "translation": "The honey is drizziling from '''the hand''' of the bee-keeper."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -3582,6 +3987,14 @@
 		  {
             "sentence": "Щаем '''шъоу''' хэзгъэтк1уагъ",
             "translation": "I put '''honey''' into the tea"
+          },
+		  {
+            "sentence": "Банкэм '''шъоу''' къыпыт1эт1ы",
+            "translation": "'''Honey''' is drizzling from the can."
+          },
+		  {
+            "sentence": "Бжьахъом ы1апэ '''шъоур''' пэт1эт1ы",
+            "translation": "'''The honey''' is drizziling from the bee-keeper's hand."
           }
         ]
       }
@@ -4835,6 +5248,10 @@
 		  {
             "sentence": "К1алэм ынэпашъо '''плъыжьэу''' хъугъэ",
             "translation": "The boy's face became '''red'''"
+          },
+		  {
+            "sentence": "К1алэр ук1ытагъэти ынэгу '''плъыжьэу''' хъугъэ",
+            "translation": "Because the boy became nervous, his cheek became '''red'''."
           }
         ]
       }
@@ -4899,7 +5316,16 @@
     "definitions": [
       {
         "meaning": "beard",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Жак1эр''' жэк1апэм тет",
+            "translation": "'''The beard''' is on the chin."
+          },
+		  {
+            "sentence": "Л1ым '''ыжак1э''' еупсым цы т1эк1у ыжэк1апэ къэтригъэнагъ",
+            "translation": "When the man shaved '''his beard''' he left a little bit of hair on his chin."
+          }
+        ]
       }
     ],
     "shapsug": "жак1ьэ",
@@ -6701,7 +7127,12 @@
     "definitions": [
       {
         "meaning": "rubber",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Бэщ пак1эм '''хьашъо''' пылъ",
+            "translation": "On the tip of the stick is '''a rubber'''."
+          }
+        ]
       },
       {
         "meaning": "tire",
@@ -9430,8 +9861,24 @@
           {
             "sentence": "к1алэм дэпкъэр '''елэ'''",
             "translation": "The boy '''is coloring''' the wall."
+          },
+		  {
+            "sentence": "Пшъашъэм ы1упэ '''ылагъ''' 1упэлэнк1э",
+            "translation": "The girl '''colored''' her lips with a lipstick."
           }
         ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "lan"
+  },
+  {
+    "word": "гъэлэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to color, to paint",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -10086,7 +10533,16 @@
     "definitions": [
       {
         "meaning": "hair",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Л1ым ыжак1э еупсым '''цы''' т1эк1у ыжэк1апэ къэтригъэнагъ",
+            "translation": "When the man shaved his beard he left a little bit of '''hair''' on his chin."
+          },
+		  {
+            "sentence": "Сблыгу '''цы''' тет",
+            "translation": "There is '''hair''' on my armpit"
+          }
+        ]
       },
       {
         "meaning": "wool",
@@ -14670,12 +15126,33 @@
     "ipa": "qʷaːχʷa"
   },
   {
+    "word": "1эк1ап",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"пак1э\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʔat͡ʃʼaːp"
+  },
+  {
     "word": "цыпэ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "tip (the extreme end of something, especially when pointed; e.g. the sharp end of a pencil)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Гъуч1ым '''ыцыпэ''' пыстык1ы",
+            "translation": "The iron's '''tip''' is burning."
+          },
+		  {
+            "sentence": "Зыфэсакъ, уигъончэдж '''ыцыпэ''' пыстык1ы, псынк1эу гъэк1уас",
+            "translation": "Careful, the tip if your trousers is burning off, extinguish it quickly."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -18115,6 +18592,10 @@
           {
             "sentence": "Ар '''бжьэхъо''' 1аз, ау бжьэхъон 1энат1эм фаеп",
             "translation": "He is an '''beekeeper''' expert, but he does not want to be in a beekeeping job."
+          },
+		  {
+            "sentence": "'''Бжьахъом''' ы1апэ шъоур пэт1эт1ы",
+            "translation": "The honey is drizziling from the hand of the '''bee-keeper'''."
           }
         ]
       }
@@ -19295,6 +19776,19 @@
           {
             "sentence": "Хым '''ипак1эк1э''' жьыбгъэ къак1о",
             "translation": "The wind is coming from the sea's '''direction'''."
+          }
+        ]
+      },
+      {
+        "meaning": "tip",
+        "examples": [
+          {
+            "sentence": "Бэщ '''пак1эр''' пыстык1ынк1э ежьагъэу ыгъэк1осэжьыгъ",
+            "translation": "As the '''tip''' of the stick started to burn, (s)he extinguished it."
+          },
+          {
+            "sentence": "Бэщ '''пак1эм''' хьашъо пылъ",
+            "translation": "On the '''tip''' of the stick is a rubber."
           }
         ]
       }
@@ -20833,6 +21327,10 @@
           {
             "sentence": "К1алэр къэцым '''нэсырэп'''",
             "translation": "The boy '''is not touching''' the thorn."
+          },
+		  {
+            "sentence": "Убзэгук1э у1энтэгъу '''унэсышъущта'''?",
+            "translation": "'''Can you touch''' your elbow with your tongue?"
           }
         ]
       },
@@ -22303,18 +22801,6 @@
     "ipa": "bləjxən"
   },
   {
-    "word": "блыгуч1",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "armpit; underarm",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "bləɡʷt͡ʃ"
-  },
-  {
     "word": "блыпкъышъхьэ",
     "lang": "Adyghe",
     "definitions": [
@@ -22672,6 +23158,10 @@
           {
             "sentence": "С1э '''къебыу'''",
             "translation": "'''Kiss''' my hand."
+          },
+		  {
+            "sentence": "К1алэр пшъашъэм ы1упэк1э '''ебыугъ'''",
+            "translation": "The boy '''kissed''' the girl with the lips."
           }
         ]
       }
@@ -24445,6 +24935,10 @@
 		  {
             "sentence": "Чъы1э къэхъу зыхъук1э къолэбзыухэр хэгъэгу фабэхэм адэжьк1э '''мэбыбыжьых'''",
             "translation": "When it becomes cold, the birds '''fly back''' to hot counties."
+          },
+		  {
+            "sentence": "Бзыур тамэ ымы1эу '''быбышъущтэп'''",
+            "translation": "A bird '''cannot fly''' without having a wing."
           }
         ]
       }
@@ -27681,16 +28175,24 @@
         "meaning": "what",
         "examples": [
           {
-            "sentence": "'''сыд''' о уц1э?",
+            "sentence": "'''Сыд''' о уц1э?",
             "translation": "'''what''' is your name?"
           },
           {
-            "sentence": "'''сыд''' пш1ырэ?",
+            "sentence": "'''Сыд''' пш1ырэ?",
             "translation": "'''what''' are you doing?"
           },
           {
-            "sentence": "'''сыд''' к1алэм къы1уагъэр?",
+            "sentence": "'''Сыд''' к1алэм къы1уагъэр?",
             "translation": "'''What''' did the boy say?"
+          },
+		  {
+            "sentence": "К1алэр '''сыд''' бзэк1э гущы1э?",
+            "translation": "In '''what''' language does the boy speak?"
+          },
+		  {
+            "sentence": "У1э '''сыд''' ч1элъыр?",
+            "translation": "'''What''' is in your hand?"
           }
         ]
       }
@@ -30035,6 +30537,10 @@
 		  {
             "sentence": "К1алэм '''ицокъэ''' лъэпсхэр гъэлэнлагъэх, ыпхыжьыных фай",
             "translation": "The boy's shoe '''laces''' are loosened, (s)he need to tie them up again."
+          },
+		  {
+            "sentence": "'''Сицуакъэ''' псы итк1уагъ",
+            "translation": "Water was dripped inside '''my shoe'''."
           }
         ]
       },
@@ -33848,18 +34354,6 @@
     "ipa": "nakʷʼəʂħ"
   },
   {
-    "word": "1упш1э",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "jaw",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ʔʷəpʃʼa"
-  },
-  {
     "word": "тхьабыл",
     "lang": "Adyghe",
     "definitions": [
@@ -33916,7 +34410,12 @@
     "definitions": [
       {
         "meaning": "elbow",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Убзэгук1э '''у1энтэгъу''' унэсышъущта?",
+            "translation": "Can you touch '''your elbow''' with your tongue?"
+          }
+        ]
       }
     ],
     "shapsug": "1этэгъу",
@@ -39128,6 +39627,10 @@
           {
             "sentence": "пхъэр '''к1ыхьэ'''",
             "translation": "The wood '''is long'''."
+          },
+		  {
+            "sentence": "Удэбзыкъухэр '''к1ыхьэу''' хъугъэх",
+            "translation": "Your sideburns became '''long'''."
           }
         ]
       },
@@ -45388,6 +45891,10 @@
 		  {
             "sentence": "Псыр гъэучъы1алъэм '''далъхьи''' гъэучъы1",
             "translation": "'''Put''' the water into the refrigerator '''and''' make it cooler."
+          },
+		  {
+            "sentence": "Шхын жэм '''дэлъхьан'''",
+            "translation": "'''To put''' food '''inside''' the mouth"
           }
         ]
       }
@@ -47820,6 +48327,10 @@
           {
             "sentence": "Хэта шъхьангъупчъэхэр '''зытхьак1ырэр?'''",
             "translation": "Who '''washes''' the windows?"
+          },
+		  {
+            "sentence": "К1алэм ынапэ '''етхьак1ы'''",
+            "translation": "The boy '''is washing''' his face."
           }
         ]
       }
@@ -48187,6 +48698,10 @@
           {
             "sentence": "К1алэм ныбджэгъу '''и1эпышъ''', езэщы",
             "translation": "Because the boy '''has no''' friends, he is bored."
+          },
+		  {
+            "sentence": "Бзыур тамэ '''ымы1эу''' быбышъущтэп",
+            "translation": "A bird cannot fly '''without having''' a wing."
           }
         ]
       }
@@ -49748,6 +50263,10 @@
           {
             "sentence": "Л1ым ыжак1э '''еупсы'''",
             "translation": "The man '''shaves''' his beard."
+          },
+		  {
+            "sentence": "Л1ым ыжак1э '''еупсым''' цы т1эк1у ыжэк1апэ къэтригъэнагъ",
+            "translation": "'''When''' the man '''shaved''' his beard he left a little bit of hair on his chin."
           }
         ]
       }
@@ -51335,6 +51854,14 @@
 		  {
             "sentence": "Сыдэу '''чъы1э''' мы шхыныр",
             "translation": "This food is so '''cold'''."
+          },
+		  {
+            "sentence": "Унэ к1оц1ыр '''чъы1э'''",
+            "translation": "It is '''cold''' inside the house."
+          },
+		  {
+            "sentence": "'''Чъы1эшхоти''', ы1э пыстык1ыгъ",
+            "translation": "'''Because it is very cold''', his hand froze."
           }
         ]
       }
@@ -52284,6 +52811,10 @@
 		  {
             "sentence": "К1элэц1ык1ум лъэкъорыгъачъэ гъэчъак1э '''зэрегъаш1э'''",
             "translation": "The little boy '''learns''' how to run a bicycle."
+          },
+		  {
+            "sentence": "Арапбзэр бзэ къин а1о '''зэбгъэш1энк1э'''",
+            "translation": "They say Arabic is a hard language '''to learn'''."
           }
         ]
       }
@@ -54204,7 +54735,7 @@
         ]
       },
       {
-        "meaning": "to be shy",
+        "meaning": "to be shy; to become shyful",
         "examples": [
           {
             "sentence": "К1алэр '''ук1ытэу''' пшъашъэм дэгущы1эшъурэп",
@@ -54217,6 +54748,15 @@
           {
             "sentence": "'''Умыук1ытэу''' къэсдэгущы1",
             "translation": "Talk to me '''without being shy'''."
+          }
+        ]
+      },
+      {
+        "meaning": "to become nervous out of shyness",
+        "examples": [
+		  {
+            "sentence": "К1алэр '''ук1ытагъэти''' ынэгу плъыжьэу хъугъэ",
+            "translation": "'''Because''' the boy '''became nervous''', his cheek became red."
           }
         ]
       }
@@ -54741,6 +55281,10 @@
 		  {
             "sentence": "К1алэм ыгукъэк1ыжьыгъ маш1ор '''зэримыгъэк1осагъэр'''",
             "translation": "The boy suddenly remembered that '''he didn't extinguish the fire'''."
+          },
+		  {
+            "sentence": "Зыфэсакъ, уигъончэдж ыцыпэ пыстык1ы, псынк1эу '''гъэк1уас'''",
+            "translation": "Careful, the tip if your trousers is burning off, '''extinguish it''' quickly."
           }
         ]
       },
@@ -57317,7 +57861,12 @@
     "definitions": [
       {
         "meaning": "lipstick",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Пшъашъэм ы1упэ ылагъ '''1упэлэнк1э'''",
+            "translation": "The girl colored her lips '''with a lipstick'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -57333,7 +57882,12 @@
     "definitions": [
       {
         "meaning": "lipstick",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Пшъашъэм ы1упэ ылагъ '''1упэгъалк1э'''",
+            "translation": "The girl colored her lips '''with a lipstick'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -57349,7 +57903,12 @@
     "definitions": [
       {
         "meaning": "lipstick",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Пшъашъэм ы1упэ ылагъ '''1упш1эгъалк1э'''",
+            "translation": "The girl colored her lips '''with a lipstick'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -63185,7 +63744,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to drip (a sticky substances) on; to drizzle on",
+        "meaning": "to drip (a sticky substances) on; to drizzle on (said about viscous substances like honey)",
         "examples": [
           {
             "sentence": "Шъоур 1анэм '''тет1ат1э'''.",
@@ -63210,7 +63769,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to drip (sticky substances like honey, cake and color liquid); to drizzle",
+        "meaning": "to drip (sticky substances like honey, cake and color liquid); to drizzle (said about viscous substances like honey)",
         "examples": [
           {
             "sentence": "'''Умыгъэт1ат1''' шхынэр.",
@@ -71957,7 +72516,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to talk",
+        "meaning": "to talk; to speak",
         "examples": [
           {
             "sentence": "К1алэр '''мэгущы1э'''",
@@ -71998,6 +72557,10 @@
           {
             "sentence": "К1алэр '''гущы1эныр''' ик1ас",
             "translation": "The boy loves '''to talk'''."
+          },
+		  {
+            "sentence": "К1алэр сыд бзэк1э '''гущы1э'''?",
+            "translation": "In what language does the boy '''speak'''?"
           }
         ]
       }
@@ -75813,6 +76376,10 @@
           {
             "sentence": "Пхъуантэм '''ык1оц1ы''' илъыхэр къихых",
             "translation": "Take out the stuff '''inside''' the box."
+          },
+		  {
+            "sentence": "Унэ '''к1оц1ыр''' чъы1э",
+            "translation": "It is cold '''inside''' the house."
           }
         ]
       }
@@ -75850,6 +76417,10 @@
           {
             "sentence": "Пхъуантэм '''ык1оц1ы''' илъыхэр къихых",
             "translation": "Take out the stuff '''inside''' the box."
+          },
+		  {
+            "sentence": "Жэм '''ык1оц1''' бзэгур дэт",
+            "translation": "The tongue '''is inside''' the mouth."
           }
         ]
       }
@@ -91160,7 +91731,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "cheek",
+        "meaning": "skin on the cheek",
         "examples": [
           {
             "sentence": "Пшъашъэр к1алэм '''ынэгушъо''' еуи къигъэук1ытэжьыгъ",
@@ -91169,8 +91740,31 @@
         ]
       }
     ],
+    "synonyms": [
+      "нэк1ушъо"
+    ],
     "type": "noun",
     "ipa": "naɡʷəʃʷa"
+  },
+  {
+    "word": "нэк1ушъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "skin on the cheek",
+        "examples": [
+          {
+            "sentence": "Пшъашъэр к1алэм '''ынэк1ушъо''' еуи къигъэук1ытэжьыгъ",
+            "translation": "The girl '''slapped''' the boy's cheek and embarrassed him."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "нэгушъо"
+    ],
+    "type": "noun",
+    "ipa": "nakʷʼəʃʷa"
   },
   {
     "word": "нэгушъо етын",
@@ -92994,12 +93588,33 @@
           {
             "sentence": "'''Укъэмэхыщт''' мор ушхымэ",
             "translation": "'''You will pass out''' if you eat that."
+          },
+		  {
+            "sentence": "Ц1ыфым ыжэк1апэ уеомэ '''угъэмэхыщт'''",
+            "translation": "If you hit the chip of a person, '''you will pass him out'''."
           }
         ]
       }
     ],
     "type": "verb",
     "ipa": "qamaxən"
+  },
+  {
+    "word": "гъэмэхын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to make someone faint; to make someone pass out",
+        "examples": [
+          {
+            "sentence": "Ц1ыфым ыжэк1апэ уеомэ '''угъэмэхыщт'''",
+            "translation": "If you hit the chip of a person, '''you will pass him out'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʁamaxən"
   },
   {
     "word": "к1одыжьыгъош1у",
@@ -115596,6 +116211,23 @@
             "translation": "'''Before''' the man '''goes out''', he sprays a pleasant smell on himself"
           }
         ]
+      },
+	  {
+        "meaning": "to go out from inside another object (that can be opened)",
+        "examples": [
+          {
+            "sentence": "К1алэм ыжэ 1ае '''къыдэк1ыгъэр'''",
+            "translation": "'''The thing that came out from''' the boy's mouth is bad."
+          }
+        ]
+      },
+	  {
+        "meaning": "to come out from between",
+        "examples": []
+      },
+	  {
+        "meaning": "to come out from a defined area (yard, village, city, etc.)",
+        "examples": []
       }
     ],
     "shapsug": "дэк1ьын",
@@ -118716,6 +119348,10 @@
           {
             "sentence": "Газым мэ 1ай '''къегъэу'''",
             "translation": "A gas '''emits''' bad smell."
+          },
+		  {
+            "sentence": "К1алэм ыжэ  зэтрихымэ, мэ 1ае '''къыдэу'''",
+            "translation": "When the boy opens his mouth, bad smell '''emits from it'''."
           }
         ]
       }
@@ -119817,7 +120453,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to drizzle (said about oil, honey, coloring liquids and sticky substances alike)",
+        "meaning": "to drizzle (said about viscous substances like honey)",
         "examples": [
           {
             "sentence": "Шъор '''мэт1ат1э'''",
@@ -119838,7 +120474,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to drizzle on; to drip (sticky substance) on",
+        "meaning": "to drizzle on; to drip (sticky substance) on (said about viscous substances like honey)",
         "examples": [
           {
             "sentence": "Шхынэр '''темыгъэт1ат1эу''' шхы.",

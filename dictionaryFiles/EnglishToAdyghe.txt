@@ -348,7 +348,7 @@
     "tongue": "бзэгу"
   },
   {
-    "saliva": "1упс"
+    "saliva": "1упсы"
   },
   {
     "face": "напэ; нахэ (face and its appearance); нэпашъо (skin of face)"
@@ -4903,7 +4903,7 @@
     "to spill": "тек1утэн (to spill drops on); ч1эк1утэн (to spill drops under); ик1утэн (to spill drops inside); тек1эн (to spill on); хэк1эн (to spill a liquid to another liquid); ик1эн (to spill inside); ч1эк1эн (to spill under); жэхэк1эн (to spill on someone intensively); ек1эхын (to pour down); хэк1отэн (to drip something into a fire, food, any substance, any liquid, etc.)"
   },
   {
-    "to drip": "къетк1ухын (to drip down, to drop down); тетк1он (to drip liquid on something one drop at a time); т1эт1эн (to be dripping, sticky substances), тегъэт1эт1эн (to drip sticky substances on); тет1эт1эн (to be dripping on, sticky substances); хэк1отэн (to drip something into a fire, food, any substance, any liquid, etc.); дэтк1он (to drip into an object or yard)"
+    "to drip": "къетк1ухын (to drip down, to drop down); тетк1он (to drip liquid on something one drop at a time); т1эт1эн (to be dripping, sticky substances), тегъэт1эт1эн (to drip sticky substances on); тет1эт1эн (to be dripping on, sticky substances); хэк1отэн (to drip something into a fire, food, any substance, any liquid, etc.); дэтк1он (to drip into an object or yard); итк1он (to drip inside); игъэтк1он (to make a liquid drop drip inside)"
   },
   {
     "to pour": "къетк1ухын (to pour down, to drip down, to drop down); игъэхъон (to fill liquid into); ик1эн (intensive); ик1утэн (slightly intensive); ек1эхын (to pour down); тетк1он (to drip liquid on something one drop at a time); к1эгъэхьан (to water plants); к1эк1эн (to pour liquid under, to spill liquid under)"
@@ -9367,6 +9367,9 @@
     "to shy": "ук1ытэн (to be shy); щыук1ытэн (to be shy of/from); хэук1ытэхьан (to be shy among other people)"
   },
   {
+    "to become nervous": "ук1ытэн (to become nervous out of shyness)"
+  },
+  {
     "to be startled": "къыдэпк1эен; гу къеон"
   },
   {
@@ -9646,7 +9649,7 @@
     "to send": "гъэк1он (to send someone to); егъэхьын (to send something to); 1офытэн (to send someone to bring something)"
   },
   {
-    "to drizzle": "т1эт1эн (to be drizzling); тет1эт1эн (to be drizzling on); тегъэт1эт1эн (to drizzle on); къыхидзын (to drizzle, to rain lightly)"
+    "to drizzle": "т1эт1эн (to be drizzling); тет1эт1эн (to be drizzling on); тегъэт1эт1эн (to drizzle on); къыхидзын (to drizzle, to rain lightly); пыт1эт1ын / къыпыт1эт1ын (to drizzle from the tip of)"
   },
   {
     "to make someone sad": "зэгъэгожъын"
@@ -14350,7 +14353,7 @@
     "to get agitated": "зэк1эплъыхьан; етэн"
   },
   {
-    "to burn": "стын (to be burning); гъэстын (to burn something); естыл1эн (to stick to the hot surface as a result of burning); тегъэстыхьан (to burn onto something); тегъэстык1ын (to burn off something); хэгъэстык1ын (to burn into something); хэстыхьан (to burn in fire, to burn in an area with a hot mass); маш1о хэнэн / маш1о к1энэн (to catch fire; to combust; to get ignited; to begin to burn; to inflame; to go up in flames); маш1о хэгъэнэн / маш1о кӏэгъэнэн (to ignite, to cause to begin to burn, to set on fire); зэхэнэн / зэк1энэн (to catch fire by itself)"
+    "to burn": "стын (to be burning); гъэстын (to burn something); естыл1эн (to stick to the hot surface as a result of burning); тегъэстыхьан (to burn onto something); тегъэстык1ын (to burn off something); хэгъэстык1ын (to burn into something); хэстыхьан (to burn in fire, to burn in an area with a hot mass); маш1о хэнэн / маш1о к1энэн (to catch fire; to combust; to get ignited; to begin to burn; to inflame; to go up in flames); маш1о хэгъэнэн / маш1о кӏэгъэнэн (to ignite, to cause to begin to burn, to set on fire); зэхэнэн / зэк1энэн (to catch fire by itself); пыстык1ын (to burn off the tip of)"
   },
   {
     "to ignite": "маш1о хэнэн / маш1о к1энэн (to get ignited); маш1о хэгъэнэн / маш1о кӏэгъэнэн (to ignite, to cause to begin to burn)"
@@ -15589,10 +15592,10 @@
     "so much that": "нэмы1эк1э"
   },
   {
-    "to faint": "къэмэхын"
+    "to faint": "мэхын / къэмэхын (to faint, to pass out); гъэмэхын (to make someone faint, to make someone pass out)"
   },
   {
-    "to pass out": "къэмэхын"
+    "to pass out": "мэхын / къэмэхын (to faint, to pass out); гъэмэхын (to make someone faint, to make someone pass out)"
   },
   {
     "something or someone that is easy to lose": "к1одыгъош1у"
