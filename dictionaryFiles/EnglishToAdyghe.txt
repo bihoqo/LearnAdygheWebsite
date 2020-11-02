@@ -57,13 +57,13 @@
     "to play instrument": "он; еон"
   },
   {
-    "to shoot": "он; еон; к1эрахъок1э еон; дэоен (to shot upward); еохын (to shot downward); хэон (to shot amidst people)"
+    "to shoot": "он; еон; к1эрахъок1э еон; дэоен (to shot upward); еохын (to shot downward); хэон (to shot amidst people); еутэхын (to shoot something and bring it down, to cause to fall by shooting)"
   },
   {
     "to shoot upward": "дэоен (to shot upward)"
   },
   {
-    "to shoot down": "еохын (to shot downward)"
+    "to shoot down": "еохын (to shot downward); еутэхын (to shoot something and bring it down, to cause to fall by shooting)"
   },
   {
     "to weed": "еон; къеон"
@@ -612,16 +612,16 @@
     "cup": "шъуалъэ"
   },
   {
-    "round haleva": "хьалжъогъуанэ"
-  },
-  {
-    "sugar": "шэкэр"
+    "round haleva": "хьалыжъогъуанэ"
   },
   {
     "horse": "шы"
   },
   {
-    "brother": "шы"
+    "brother": "шы / къош; шынахьыжъ / къошынахьыжъ (older brother); шынахьык1 / къошынахьык1 (younger brother)"
+  },
+  {
+    "sister": "шыпхъу; шыпхъунахьыжъ (older sister); шыпхъунахьык1 (younger sister)"
   },
   {
     "dog": "хьэ; хьэжъ (Shapsug)"
@@ -636,10 +636,28 @@
     "goat": "пчэны"
   },
   {
+    "calfflesh": "шк1эл"
+  },
+  {
+    "calfmeat": "шк1эл"
+  },
+  {
+    "veal": "шк1эл"
+  },
+  {
     "cow": "чэмы"
   },
   {
     "calf": "шк1э"
+  },
+  {
+    "dawn": "нэфылъ; нэфшъагъо"
+  },
+  {
+    "daybreak": "нэфшъагъо"
+  },
+  {
+    "to crow": "1он (to make the shrill sound characteristic of a rooster)"
   },
   {
     "rooster": "атакъэ"
@@ -672,7 +690,10 @@
     "squirrel": "к1эпхъ"
   },
   {
-    "wolf": "тыгъужъ"
+    "wolf": "тыгъужъы; мэзыхь"
+  },
+  {
+    "shaggy": "пырацэ"
   },
   {
     "fox": "баджэ; бэджэжъые (small foxy)"
@@ -1327,9 +1348,6 @@
   },
   {
     "window": "шъхьангъупчъэ"
-  },
-  {
-    "sister": "шыпхъу"
   },
   {
     "November": "шэк1огъумаз"
@@ -5073,7 +5091,7 @@
     "fluffy": "бырацэ"
   },
   {
-    "hairy": "цыбэ зытет; бырацэ (Kfar Kama dialect)"
+    "hairy": "цыбэ зытет; пырацэ"
   },
   {
     "lambskin": "шъынашъу"
@@ -7230,7 +7248,10 @@
     "to argue": "нэкъокъон; зэнэкъокъун / зэдэон (to argue with each other); пэгущы1эжьын (to argue back); пэ1ууцожьын (to go against); енэкъокъун (to argue with someone)"
   },
   {
-    "to sit down": "т1ысын; тет1ысхьан (to sit on); 1ут1ысхьан (to sit near); гъэт1ысын (to make someone sit down)"
+    "to land": "т1ысын / къэт1ысын; къет1ысэхын (to land)"
+  },
+  {
+    "to sit down": "т1ысын; тет1ысхьан (to sit on); 1ут1ысхьан (to sit near); гъэт1ысын (to make someone sit down); т1ысын / къэт1ысын (to land); къет1ысэхын (to land)"
   },
   {
     "to sit": "т1ысын (to sit down); щысын (to be sitting); тет1ысхьан (to sit on); 1ут1ысхьан (to sit near); те1ыстэн (dialectal); исын (to be sitting inside); дэсын (to be sitting in); тесын (to be sitting on); ч1эсын (to be sitting under); госын / бгъодэсын (to be sitting besides); пысын (to be sitting on a tree); къосын (to be sitting behind); хэсын (to be sitting among people or in an area with gas or liquid); ит1ысхьан (to sit inside); дэт1ысхьан (to sit in); гот1ысхьан / бгъодэт1ысхьан (to sit besides); къот1ысхьан (to sit behind); хэт1ысхьан (to sit among people or in an area with some gas or liquid); гъэт1ысын (to make someone sit down)"
@@ -15411,7 +15432,7 @@
     "aside": "бгъодэ- / го- (prepositional verval suffix)"
   },
   {
-    "side": "лъэныкъо (one side of); бгъу; ыбгъу / ыбгъук1э (on the side of); бгъодэ- / го- (prepositional verval suffix)"
+    "side": "лъэныкъо (one side of); бгъу; ыбгъу / ыбгъук1э (on the side of); бгъодэ- / го- (prepositional verval suffix); сэмэгубгъу (left-hand side)"
   },
   {
     "within inside": "к1оц1ы- (prepositional verval suffix)"
@@ -15916,6 +15937,9 @@
   },
   {
     "yogurt": "щхыу; щхыузыгъ (labneh); щэгъэпц1агъэ"
+  },
+  {
+    "buttermilk": "щхыу"
   },
   {
     "to scribble": "уц1элэн; теуц1элэн (to scribble on)"

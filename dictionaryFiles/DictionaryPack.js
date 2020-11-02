@@ -4142,6 +4142,10 @@
 		  {
             "sentence": "'''К1энк1э''' ц1ык1ужъый",
             "translation": "A tiny '''egg'''."
+          },
+		  {
+            "sentence": "Чэтыр '''к1энк1эхэмэ''' атес",
+            "translation": "The chicken is sitting on '''the eggs'''."
           }
         ]
       },
@@ -4900,12 +4904,34 @@
     "ipa": "ħaʔʷə"
   },
   {
+    "word": "щхыу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "yogurt (buttermilk)",
+        "examples": [
+          {
+            "sentence": "К1алэм '''щхыу''' ышхыгъ",
+            "translation": "The boy ate '''yogurt'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ɕxəw"
+  },
+  {
     "word": "апс",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "dish (plate)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Апсым''' шхын илъ",
+            "translation": "The food was in '''the dish'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -4929,7 +4955,12 @@
     "definitions": [
       {
         "meaning": "cherry",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм чъыгым '''чэрэз''' къыпичыгъ",
+            "translation": "The boy picked out '''cherry''' from the tree."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -4941,7 +4972,12 @@
     "definitions": [
       {
         "meaning": "a Circassian alcoholic drink (Circassian boza)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''бахъсымэ''' ешъо",
+            "translation": "The boy drinks '''boza'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -4951,7 +4987,7 @@
     "ipa": "baːχsəma"
   },
   {
-    "word": "хьалжъогъуан",
+    "word": "хьалыжъогъуанэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -4960,7 +4996,7 @@
       }
     ],
     "type": "noun",
-    "ipa": "ħaːlʐʷaʁʷaːn"
+    "ipa": "ħaːləʐʷaʁʷaːn"
   },
   {
     "word": "шэкэр",
@@ -4985,6 +5021,10 @@
         "meaning": "horse",
         "examples": [
           {
+            "sentence": "Л1ыр '''шым''' тес",
+            "translation": "The man is sitting on '''the horse'''."
+          },
+		  {
             "sentence": "Л1ым '''шым''' шхо1ур жэдигъэзыгъ",
             "translation": "The man took off the bit from the mouth of '''the horse'''."
           },
@@ -5004,7 +5044,24 @@
       },
       {
         "meaning": "brother",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Шит1у''' си1, зы шынахьыжъырэ зы шынахьык1эрэ",
+            "translation": "I have two '''brothers''', one older brother and one younger brother."
+          },
+		  {
+            "sentence": "'''Сшы''' сыригъусэу сыкъыдэк1ощт",
+            "translation": "I will come with '''my brother'''."
+          },
+		  {
+            "sentence": "Тхьапш '''шэу''' уи1ыр?",
+            "translation": "How many '''brothers''' do you have?"
+          },
+		  {
+            "sentence": "'''Сшырэ''' сшыпхъурэ фылым садеплъыгъ",
+            "translation": "I watched a movie with '''my brother''' and sister"
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -5012,6 +5069,159 @@
     ],
     "type": "noun",
     "ipa": "ʃə"
+  },
+  {
+    "word": "къош",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "brother; alternative form of \"шы\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "шы"
+    ],
+    "kabardian": "къуэшнэхъыщ1",
+    "type": "noun",
+    "ipa": "qʷaʃ"
+  },
+  {
+    "word": "шыпхъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "sister",
+        "examples": [
+          {
+            "sentence": "'''Шыпхъуит1у''' си1, зы шыпхъунахьыжъырэ зы шыпхъунахьык1эрэ",
+            "translation": "I have two '''sisters''', one older sister and one younger sister."
+          },
+		  {
+            "sentence": "'''Сшыпхъу''' сыригъусэу сыкъыдэк1ощт",
+            "translation": "I will come with '''my sister'''."
+          },
+		  {
+            "sentence": "Тхьапш '''шыпхъоу''' уи1ыр?",
+            "translation": "How many '''sisters''' do you have?"
+          },
+		  {
+            "sentence": "Сшырэ '''сшыпхъурэ''' фылым садеплъыгъ",
+            "translation": "I watched a movie with my brother and '''sister'''"
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃəpχʷ"
+  },
+  {
+    "word": "шыпхъунахьык1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "younger sister",
+        "examples": [
+          {
+            "sentence": "Шыпхъуит1у си1, зы шыпхъунахьыжъырэ зы '''шыпхъунахьык1эрэ'''",
+            "translation": "I have two sisters, one older sister and one '''younger sister'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃəpχʷənaːħət͡ʃʼ"
+  },
+  {
+    "word": "шыпхъунахьыжъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "younger sister",
+        "examples": [
+          {
+            "sentence": "Шыпхъуит1у си1, зы '''шыпхъунахьыжъырэ''' зы шыпхъунахьык1эрэ",
+            "translation": "I have two sisters, one '''older sister''' and one younger sister."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃəpχʷənaːħəʐ"
+  },
+  {
+    "word": "шынахьык1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "younger brother",
+        "examples": [
+          {
+            "sentence": "Шит1у си1, зы шынахьыжъырэ зы '''шынахьык1эрэ'''",
+            "translation": "I have two brothers, one older brother and one '''younger brother'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "къошынахьык1"
+    ],
+    "kabardian": "къуэшнэхъыщ1",
+    "type": "noun",
+    "ipa": "ʃənaːħət͡ʃʼ"
+  },
+  {
+    "word": "къошынахьык1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"шынахьык1\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "шынахьык1"
+    ],
+    "kabardian": "къуэшнэхъыщ1",
+    "type": "noun",
+    "ipa": "qʷaʃənaːħət͡ʃʼ"
+  },
+  {
+    "word": "шынахьыжъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "older brother",
+        "examples": [
+          {
+            "sentence": "Шит1у си1, зы '''шынахьыжъырэ''' зы шынахьык1эрэ",
+            "translation": "I have two brothers, one '''older brother''' and one younger brother."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "къошынахьыжъ"
+    ],
+    "kabardian": "къуэшнэхъыжь",
+    "type": "noun",
+    "ipa": "ʃənaːħəʐ"
+  },
+  {
+    "word": "къошынахьыжъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"къошынахьыжъ\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "шынахьыжъ"
+    ],
+    "kabardian": "къуэшнэхъыжь",
+    "type": "noun",
+    "ipa": "qʷaʃənaːħəʐ"
   },
   {
     "word": "хьэ",
@@ -5023,6 +5233,18 @@
 		  {
             "sentence": "'''Хьэм''' ык1э егъэсысы",
             "translation": "'''The dog''' shakes its tail."
+          },
+		  {
+            "sentence": "К1алэр '''хьэм''' къеджи къыгъэк1уагъ",
+            "translation": "The boy called '''the dog''' and made him come."
+          },
+          {
+            "sentence": "К1алэм '''хьэр''' ыпхыгъ",
+            "translation": "The boy tied '''the dog'''."
+          },
+		  {
+            "sentence": "'''Хьэр''' 1асэ, цакъэрэп",
+            "translation": "'''The dog''' is tamed, it is not biting."
           }
         ]
       }
@@ -5041,6 +5263,14 @@
 		  {
             "sentence": "Мэлахъом '''мэлыр''' 1эхъогъум хигъэхьагъ",
             "translation": "The shepherd added '''the sheep''' to the herd."
+          },
+		  {
+            "sentence": "'''Мэлхэр''' ти1эх",
+            "translation": "We have '''sheeps'''."
+          },
+		  {
+            "sentence": "'''Мэлым''' ыцыхэр упсын",
+            "translation": "To shave the wool of a '''sheep'''."
           }
         ]
       }
@@ -5067,7 +5297,12 @@
     "definitions": [
       {
         "meaning": "goat, she-goat",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Пчэныхэр''' ти1эх",
+            "translation": "We have '''goats'''."
+          }
+        ]
       }
     ],
     "kabardian": "бжэн",
@@ -5089,6 +5324,14 @@
 		  {
             "sentence": "К1алэм щэ '''чэмым''' къыч1ещы",
             "translation": "The boy is extracting milk from '''the cow'''."
+          },
+		  {
+            "sentence": "Чэмахъом '''чэмыхэр''' ефых",
+            "translation": "The cowherd drives '''the cows'''."
+          },
+		  {
+            "sentence": "'''Чэмым''' шк1э къылъфыгъ",
+            "translation": "'''The cow''' calved the calf."
           }
         ]
       }
@@ -5098,16 +5341,98 @@
     "ipa": "t͡ʃamə"
   },
   {
+    "word": "шк1эл",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "calfflesh; calfmeat; the meat or flesh of a calf; veal",
+        "examples": [
+          {
+            "sentence": "'''шк1эл''' сызыфаер",
+            "translation": "'''veal''' is what I want."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃkʼaɮ"
+  },
+  {
+    "word": "танэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "calf (two years old)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "taːna"
+  },
+  {
     "word": "шк1э",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "calf",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Чэмым '''шк1э''' къылъфыгъ",
+            "translation": "The cow calved '''the calf'''."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "ʃkʼa"
+  },
+  {
+    "word": "атэкъэ1огъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "the time at dawn when the roosters crows",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "aːtaqaʔʷaʁʷ"
+  },
+  {
+    "word": "атэкъэк1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "rooster tail",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "aːtaqat͡ʃʼ"
+  },
+  {
+    "word": "нэфылъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "dawn, daybreak",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "nafəɬ"
+  },
+  {
+    "word": "нэфшъагъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "dawn, daybreak",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "nafʂaːʁʷa"
   },
   {
     "word": "атакъэ",
@@ -5115,19 +5440,42 @@
     "definitions": [
       {
         "meaning": "rooster, cock",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Атакъэр''' ма1о",
+            "translation": "'''The rooster''' crows."
+          },
+		  {
+            "sentence": "'''Атакъэхэмэ''' сыкъагъэущыгъ",
+            "translation": "'''The roosters''' woke me up."
+          },
+		  {
+            "sentence": "'''Атакъэхэмэ''' уакъыдэущыжьыгъа?",
+            "translation": "Did you woke up with '''the roosters'''?"
+          }
+        ]
       },
       {
         "meaning": "(slang) gay person; a homosexual",
-        "examples": [],
-        "tags": [
-          "slang"
-        ]
+        "examples": []
       }
     ],
     "kabardian": "адакъэ",
     "type": "noun",
     "ipa": "ʔataːqa"
+  },
+  {
+    "word": "псычэтыл",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "duck's flesh; duck meat",
+        "examples": []
+      }
+    ],
+    "shapsug": "псыкьэтыл",
+    "type": "noun",
+    "ipa": "psət͡ʃatəɮ"
   },
   {
     "word": "псычэты",
@@ -5136,12 +5484,21 @@
     "definitions": [
       {
         "meaning": "duck",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Псычэтыр''' псым есы",
+            "translation": "'''The duck''' is swimming in the water."
+          },
+		  {
+            "sentence": "Псычэтыхъур апэ итэу '''псычэтхэр''' псым хэхьагъэх",
+            "translation": "'''The ducks''' entered the water while the drake was in front of them."
+          }
+        ]
       }
     ],
     "shapsug": "псыкьэт",
     "type": "noun",
-    "ipa": "psəkʲʼatə"
+    "ipa": "psət͡ʃatə"
   },
   {
     "word": "къаз",
@@ -5149,23 +5506,16 @@
     "definitions": [
       {
         "meaning": "goose (Bird)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Къазыр''' псым есы",
+            "translation": "'''The goose''' is swimming in the water."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "qaːz"
-  },
-  {
-    "word": "бгъэк1ыхь",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "stork",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "bʁat͡ʃʼəħ"
   },
   {
     "word": "бзыу",
@@ -5173,7 +5523,40 @@
     "definitions": [
       {
         "meaning": "bird",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Бзыур''' тамэк1э мэбыбы",
+            "translation": "'''The bird''' flies with wings."
+          },
+		  {
+            "sentence": "'''Бзыур''' лъагэу мэбыбы",
+            "translation": "'''The bird''' flies high."
+          },
+		  {
+            "sentence": "'''Бзыур''' тамэк1э мэбыбы",
+            "translation": "'''The bird''' flies with wings."
+          },
+		  {
+            "sentence": "'''Бзыур''' тамэ ымы1эу быбышъущтэп",
+            "translation": "'''A bird''' cannot fly without having a wing."
+          },
+		  {
+            "sentence": "Шак1ор шхончымк1э '''бзыур''' къыриутыхыгъ",
+            "translation": "The hunter shot down '''the bird''' with the rifle."
+          },
+		  {
+            "sentence": "'''Бзыур''' къебыбэхыгъ",
+            "translation": "'''The bird''' flew down."
+          },
+		  {
+            "sentence": "'''Бзыур''' уашъом дэбыбыягъ",
+            "translation": "'''The bird''' flew up to the sky."
+          },
+		  {
+            "sentence": "'''Бзыур''' къет1ысыхыгъ",
+            "translation": "'''The bird''' landed."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -5184,16 +5567,59 @@
     "ipa": "bzəw"
   },
   {
+    "word": "еутэхын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to shoot something and bring it down; to shoot down; to cause to fall by shooting",
+        "examples": [
+          {
+            "sentence": "Шак1ор шхончымк1э бзыур '''къыриутыхыгъ'''",
+            "translation": "The hunter '''shot down''' the bird with the rifle."
+          },
+		  {
+            "sentence": "Къухьэлъатэр '''къыраутыхыгъ'''",
+            "translation": "The plane '''was shot down'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "jawtaxən"
+  },
+  {
     "word": "бгъэ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "eagle",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Бгъэр''' лъагэу мэбыбы",
+            "translation": "'''The eagle''' flies high."
+          },
+		  {
+            "sentence": "'''Бгъэр''' къебыбэхи тхьак1умк1ыхьыр къиубытыгъ",
+            "translation": "'''The eagle''' flew down and grabbed the rabbit."
+          },
+		  {
+            "sentence": "'''Бгъэр''' къет1ысыхыгъ",
+            "translation": "'''The eagle''' landed."
+          }
+        ]
       },
       {
         "meaning": "chest",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "К1алэм '''ыбгъэ''' егъэпытэ",
+            "translation": "The boy firms '''his chest'''."
+          },
+		  {
+            "sentence": "'''Бгъэр''' къебыбэхи тхьак1умк1ыхьыр къиубытыгъ",
+            "translation": "'''The eagle''' flew down and grabbed the rabbit."
+          }
+        ]
       },
       {
         "meaning": "falcon",
@@ -5205,6 +5631,39 @@
     ],
     "type": "noun",
     "ipa": "bʁa"
+  },
+  {
+    "word": "ебыбэхын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to fly down; to fly downward",
+        "examples": [
+		  {
+            "sentence": "Бгъэр '''къебыбэхи''' тхьак1умк1ыхьыр къиубытыгъ",
+            "translation": "The eagle '''flew down''' and grabbed the rabbit."
+          },
+		  {
+            "sentence": "Къухьэлъатэр '''къебыбэхы''' къэт1ысынэу",
+            "translation": "The plane '''flies down''' to land."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "jabəbaxən"
+  },
+  {
+    "word": "сэмэгубгъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "left-hand side",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "samagʷbʁʷ"
   },
   {
     "word": "тхьак1умэк1эхь",
@@ -5235,13 +5694,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "wolf",
-        "examples": [
-          {
-            "sentence": "'''Тыгъужъыр''' мэлым пышхэхьэ",
-            "translation": "'''The wolf''' feasts upon the sheep"
-          }
-        ]
+        "meaning": "alternative form of \"тыгъужъы\"",
+        "examples": []
       }
     ],
     "kabardian": "дыгъужь",
@@ -5249,12 +5703,120 @@
     "ipa": "təʁʷəʐ"
   },
   {
+    "word": "тыгъужъы",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "wolf",
+        "examples": [
+          {
+            "sentence": "'''Тыгъужъыр''' мэлым пышхэхьэ",
+            "translation": "'''The wolf''' feasts upon the sheep"
+          },
+		  {
+            "sentence": "'''Тыгъужъым''' мэлыр ышхыгъ",
+            "translation": "'''The wolf''' ate the sheep"
+          },
+		  {
+            "sentence": "К1алэр к1эрахъомк1э ео '''тыгъужъым'''",
+            "translation": "The young man is shooting '''the wolf''' with the gun."
+          },
+		  {
+            "sentence": "'''Тыгъужъым''' илъэужхэр алъык1у",
+            "translation": "Follow the '''wolf's''' tracks."
+          },
+		  {
+            "sentence": "Бланэр '''тыгъужъым''' ш1уежьэжьы",
+            "translation": "The deer runs away from '''the wolf'''."
+          },
+		  {
+            "sentence": "Саусырыкъо гъомылапхъэу ы1ыгъым щыщхэр '''тыгъужъым''' ритыгъэх",
+            "translation": "Sosruko gave '''the wolf''' some of the food he had."
+          },
+          {
+            "sentence": "Сэ '''тыгъужъым''' сегъэщынэ",
+            "translation": "'''The wolf''' scares me."
+          },
+		  {
+            "sentence": "'''Тыгъужъ''' ужхэр",
+            "translation": "'''Wolf''' tracks."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "мэзыхь"
+    ],
+    "kabardian": "дыгъужь",
+    "type": "noun",
+    "ipa": "təʁʷəʐ"
+  },
+  {
+    "word": "мэзыхь",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "wolf",
+        "examples": [
+          {
+            "sentence": "'''Мэзыхьыр''' мэлым пышхэхьэ",
+            "translation": "'''The wolf''' feasts upon the sheep"
+          },
+		  {
+            "sentence": "'''Мэзыхьым''' мэлыр ышхыгъ",
+            "translation": "'''The wolf''' ate the sheep"
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "тыгъужъы"
+    ],
+    "kabardian": "дыгъужь",
+    "type": "noun",
+    "ipa": "mazəħ"
+  },
+  {
+    "word": "пырацэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "shaggy",
+        "examples": [
+          {
+            "sentence": "чэтыур '''цырацэ'''",
+            "translation": "The cat is '''shaggy'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "hairy",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "pəraːt͡sa"
+  },
+  {
     "word": "баджэ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "fox",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Баджэр''' бым къик1ыгъ",
+            "translation": "'''The fox''' came out of the burrow."
+          },
+		  {
+            "sentence": "'''Баджэм''' шак1ор зелъэгъум, к1и1агъ",
+            "translation": "When '''the fox''' saw the hunter, it dashed off."
+          },
+		  {
+            "sentence": "'''Баджэр''' тхьак1умк1ыхьэм лъежьэ",
+            "translation": "'''The fox''' chases the rabbit."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -5268,8 +5830,20 @@
         "meaning": "mouse",
         "examples": [
 		  {
+            "sentence": "'''Цыгъор''' гъуанэм ис",
+            "translation": "'''The mouse''' is inside the hole."
+          },
+		  {
             "sentence": "Гъуанэм се1эбэм '''цыгъо''' исыр къысэцэкъагъ",
             "translation": "When I poked inside the hole, '''the mouse''' inside bited me."
+          },
+		  {
+            "sentence": "Чэтыур '''цыгъом''' лъежьэ",
+            "translation": "The cat chases '''the mouse'''."
+          },
+		  {
+            "sentence": "'''Цыгъо''' фыжь",
+            "translation": "White '''mouse'''."
           }
         ]
       }
@@ -5284,11 +5858,29 @@
     "definitions": [
       {
         "meaning": "lion",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "К1алэр к1эрахъомк1э ео '''аслъаным'''",
+            "translation": "The young man is shooting '''the lion''' with the gun."
+          },
+		  {
+            "sentence": "Шак1ом '''аслъаныр''' тефагъ",
+            "translation": "The hunter '''came across''' them lion."
+          },
+		  {
+            "sentence": "Бланэр '''аслъаным''' ш1уежьэжьы",
+            "translation": "The deer runs away from '''the lion'''."
+          },
+		  {
+            "sentence": "'''Аслъан''' гъожьы",
+            "translation": "Yellow '''lion'''."
+          },
+		  {
+            "sentence": "'''Аслъаныр''' псынк1эти уш1уежьэжьын п1омэ къыпк1эхьащт",
+            "translation": "Because '''the lion''' is fast, if you try to flee from it, it will catch up to you"
+          }
+        ]
       }
-    ],
-    "synonyms": [
-      "мэзыхьэ"
     ],
     "type": "noun",
     "ipa": "ʔasɬaːn"
@@ -5299,7 +5891,24 @@
     "definitions": [
       {
         "meaning": "bear",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Шак1ом '''мышъэм''' тефагъ",
+            "translation": "The hunter '''came across''' them bear."
+          },
+		  {
+            "sentence": "Мэзым '''мышъэхэр''' хэсых",
+            "translation": "There are '''bears''' in the forest."
+          },
+		  {
+            "sentence": "Антарктидэ '''мышъэ''' фыжьыхэр исых",
+            "translation": "There are white '''bears''' in Antarctica."
+          },
+		  {
+            "sentence": "'''Мышъэм''' уш1уежьэжьын п1омэ къыпк1эхьэщт",
+            "translation": "If you try to flee from '''a bear''', it will catch up to you."
+          }
+        ]
       }
     ],
     "kabardian": "мыщэ",
@@ -5965,6 +6574,10 @@
           {
             "sentence": "Тыгъэ '''гъожьыр''' дахэ",
             "translation": "The '''yellow''' sun is pretty."
+          },
+		  {
+            "sentence": "Аслъан '''гъожьы'''",
+            "translation": "'''Yellow''' lion."
           }
         ]
       }
@@ -8003,7 +8616,12 @@
     "definitions": [
       {
         "meaning": "forest",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Мэзым''' мышъэхэр хэсых",
+            "translation": "There are bears in '''the forest'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -8465,6 +9083,10 @@
 		  {
             "sentence": "К1алэр щтагъэ нэмы1эк1э ышъхьэц '''фыжьэу''' хъугъэ",
             "translation": "The boy got so scared that his hair became '''white'''"
+          },
+		  {
+            "sentence": "Цыгъо '''фыжь'''",
+            "translation": "'''White''' mouse."
           }
         ]
       }
@@ -8842,18 +9464,6 @@
     "kabardian": "щхьэгъубжэ",
     "type": "noun",
     "ipa": "ʂħaːnʁʷəptʂa"
-  },
-  {
-    "word": "шыпхъу",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "sister",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ʃəpχʷ"
   },
   {
     "word": "шэк1огъумаз",
@@ -11077,7 +11687,12 @@
     "definitions": [
       {
         "meaning": "cowherd, cow herdsman",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Чэмахъом''' чэмыхэр ефых",
+            "translation": "'''The cowherd''' drives the cows."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -11246,7 +11861,12 @@
       },
       {
         "meaning": "wool",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Мэлым '''ыцыхэр''' упсын",
+            "translation": "To shave '''the wool''' of a sheep."
+          }
+        ]
       },
       {
         "meaning": "body hair",
@@ -14685,6 +15305,10 @@
 		  {
             "sentence": "'''Шак1ом''' мэзкъатыхъу ыук1ыгъ",
             "translation": "'''The hunter''' killed the lynx."
+          },
+		  {
+            "sentence": "'''Шак1ор''' шхончымк1э бзыур къыриутыхыгъ",
+            "translation": "'''The hunter''' shot down the bird with the rifle."
           }
         ]
       }
@@ -15120,7 +15744,7 @@
           },
           {
             "sentence": "Псычэтыхъур '''апэ''' итэу псычэтхэр псым хэхьагъэх",
-            "translation": "While the drake '''is in front''', the ducks entered the water."
+            "translation": "The ducks entered the water while the drake was '''in front of them'''."
           }
         ]
       },
@@ -17168,7 +17792,7 @@
       }
     ],
     "type": "noun",
-    "ipa": "bʁat͡ʃas"
+    "ipa": "bʁat͡ʃʼas"
   },
   {
     "word": "бгъэлыбэ",
@@ -26148,13 +26772,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "fluffy",
-        "examples": [
-          {
-            "sentence": "чэтыум '''бырацэ'''",
-            "translation": "The cat is '''fluffy'''."
-          }
-        ]
+        "meaning": "alternative form of \"пырацэ\"",
+        "examples": []
       },
       {
         "meaning": "(Kfar Kama dialect) hairy",
@@ -30003,7 +30622,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "duck",
+        "meaning": "alternative form of \"псычэты\"",
         "examples": []
       }
     ],
@@ -30658,6 +31277,10 @@
           {
             "sentence": "к1элэегъаджэм '''псынк1ащэу''' етхи егъэуш1ои, иуахътэк1э тесытхык1ышъурэп",
             "translation": "The teacher writes and erases '''too fast''', I cannot copy him in time."
+          },
+		  {
+            "sentence": "Аслъаныр '''псынк1эти''' уш1уежьэжьын п1омэ къыпк1эхьащт",
+            "translation": "'''Because''' the lion '''is fast''', if you try to flee from it, it will catch up to you"
           }
         ]
       },
@@ -31627,6 +32250,10 @@
 		  {
             "sentence": "'''Чэтыум''' ык1э утеуцомэ къыоп1эстхъыщт",
             "translation": "If you step on the '''cat's''' tail it will scratch you."
+          },
+		  {
+            "sentence": "'''Чэтыур''' цыгъом лъежьэ",
+            "translation": "'''The cat''' chases the mouse."
           }
         ]
       }
@@ -31646,6 +32273,10 @@
           {
             "sentence": "'''Чэтым''' к1энк1э къек1эц1ы",
             "translation": "'''The chicken''' lays egg."
+          },
+		  {
+            "sentence": "'''Чэтыр''' к1энк1эхэмэ атес",
+            "translation": "'''The chicken''' is sitting on the eggs."
           }
         ]
       }
@@ -32352,70 +32983,6 @@
     ],
     "type": "verb",
     "ipa": "ʑan"
-  },
-  {
-    "word": "шынахьык1",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "younger brother",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "къошынахьык1"
-    ],
-    "kabardian": "къуэшнэхъыщ1",
-    "type": "noun",
-    "ipa": "ʃənaːħət͡ʃʼ"
-  },
-  {
-    "word": "къошынахьык1",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "younger brother",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "шынахьык1"
-    ],
-    "kabardian": "къуэшнэхъыщ1",
-    "type": "noun",
-    "ipa": "qʷaʃənaːħət͡ʃʼ"
-  },
-  {
-    "word": "шынахьыжъ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "older brother",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "къошынахьыжъ"
-    ],
-    "kabardian": "къуэшнэхъыжь",
-    "type": "noun",
-    "ipa": "ʃənaːħəʐ"
-  },
-  {
-    "word": "къошынахьыжъ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "older brother",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "шынахьыжъ"
-    ],
-    "kabardian": "къуэшнэхъыжь",
-    "type": "noun",
-    "ipa": "qʷaʃənaːħəʐ"
   },
   {
     "word": "гъаш1э",
@@ -36296,10 +36863,56 @@
             "translation": "Careful, '''you are sitting on''' something wet."
           }
         ]
+      },
+	  {
+        "meaning": "to land",
+        "examples": [
+		  {
+            "sentence": "Къухьэлъатэр къебыбэхы '''къэт1ысынэу'''",
+            "translation": "The plane flies down '''to land'''."
+          },
+		  {
+            "sentence": "Бзыур '''къэт1ысыгъ'''",
+            "translation": "The bird '''landed'''."
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "tʼəsən"
+  },
+  {
+    "word": "къэт1ысын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"т1ысын\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "qatʼəsən"
+  },
+  {
+    "word": "къет1ысэхын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to land",
+        "examples": [
+		  {
+            "sentence": "Къухьэлъатэр '''къет1ысыхы'''",
+            "translation": "The plane '''lands'''."
+          },
+		  {
+            "sentence": "Бзыур '''къет1ысыхыгъ'''",
+            "translation": "The bird '''landed'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "qajtʼəsəxən"
   },
   {
     "word": "хьац1э-п1ац1э",
@@ -37648,7 +38261,7 @@
           },
           {
             "sentence": "Якъубэм ра1уагъ Иусыфэр тыгъужъымэ '''ашхыгъ'''",
-            "translation": "They told Jacob the wolfs '''ate''' Joseph."
+            "translation": "They told Jacob the wolves '''ate''' Joseph."
           },
 		  {
             "sentence": "Шхын зэмыл1эужыгъор '''сышхыгъэх'''",
@@ -39822,6 +40435,10 @@
           {
             "sentence": "Чэмыр лъфагъэ",
             "translation": "The cow '''calved'''."
+          },
+		  {
+            "sentence": "Чэмым шк1э '''къылъфыгъ'''",
+            "translation": "The cow '''calved''' the calf."
           }
         ]
       },
@@ -40489,6 +41106,15 @@
 		  {
             "sentence": "Тыгъуак1ор тучаным ч1эк1ошъэн '''ы1озэ''' къаубытыгъ",
             "translation": "The thief '''tried''' to sneak into the store but he got caught."
+          }
+        ]
+      },
+      {
+        "meaning": "to crow; to make the shrill sound characteristic of a rooster",
+        "examples": [
+          {
+            "sentence": "Атакъэр '''ма1о'''",
+            "translation": "The rooster '''crows'''."
           }
         ]
       }
@@ -43205,6 +43831,10 @@
           {
             "sentence": "Пхъэшъхьэмышъхьэхэр чъыгым '''къыпымычых'''",
             "translation": "'''Don't pick''' the fruits from the tree."
+          },
+		  {
+            "sentence": "К1алэм чъыгым чэрэз '''къыпичыгъ'''",
+            "translation": "The boy '''picked out''' cherry from the tree."
           }
         ]
       }
@@ -44097,7 +44727,7 @@
           },
           {
             "sentence": "сэ тыгъужъым '''сегъэщынэ'''",
-            "translation": "The wolfs make me '''scare'''."
+            "translation": "The wolf make me '''scare'''."
           },
 		  {
             "sentence": "Пшъагъэр '''щыни''', чъэк1ыгъэ",
@@ -44150,7 +44780,7 @@
           },
           {
             "sentence": "сэ тыгъужъым '''сегъэщтэ'''",
-            "translation": "The wolfs make me '''scare'''."
+            "translation": "The wolf make me '''scare'''."
           },
 		  {
             "sentence": "Пшъагъэр '''щти''', чъэк1ыгъэ",
@@ -50267,8 +50897,8 @@
             "translation": "The giant '''will devour you'''."
           },
           {
-            "sentence": "Мэзым чэщэу ухахьэмэ тыгъужъмэ '''уадырыщт'''",
-            "translation": "If you enter the forest in night the wolfs '''will devour you'''."
+            "sentence": "Мэзым чэщэу ухахьэмэ тыгъужъымэ '''уадырыщт'''",
+            "translation": "If you enter the forest in night the wolves '''will devour you'''."
           }
         ]
       }
@@ -69002,7 +69632,12 @@
     "definitions": [
       {
         "meaning": "a Circassian alcoholic drink (Circassian boza)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''махъсымэ''' ешъо",
+            "translation": "The boy drinks '''boza'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -72252,7 +72887,7 @@
             "translation": "My brother '''didn't came out from''' the house."
           },
           {
-            "sentence": "Баджэр бым къик1ыгъ",
+            "sentence": "Баджэр бым '''къик1ыгъ'''",
             "translation": "The fox '''came out of''' the burrow."
           }
         ]
@@ -85714,7 +86349,7 @@
         "examples": [
           {
             "sentence": "К1алэм тыгъужъхэр ыук1ыхи яшыр ц1ык1ухэр '''щыгъэ1агъэх'''.",
-            "translation": "The young man killed the wolfs, and '''let''' their little cubs '''to live'''."
+            "translation": "The young man killed the wolves, and '''let''' their little cubs '''to live'''."
           },
           {
             "sentence": "Фылымымк1э л1ыр '''щагъа1эрэп'''.",
@@ -91039,6 +91674,10 @@
           {
             "sentence": "'''Укъысш1уежьэжьышъущтэп'''",
             "translation": "'''You cannot run away from me'''."
+          },
+		  {
+            "sentence": "Мышъэм '''уш1уежьэжьын''' п1омэ къыпк1эхьэщт",
+            "translation": "If you try '''to flee from''' a bear, it will catch up to you."
           }
         ]
       }
@@ -95744,6 +96383,10 @@
           {
             "sentence": "Кур жъажъэ нэмы1эк1э автобус '''къэтк1эхьагъ'''",
             "translation": "The car was so slow '''we were overtaken by''' a bus."
+          },
+		  {
+            "sentence": "Мышъэм уш1уежьэжьын п1омэ '''къыпк1эхьэщт'''",
+            "translation": "If you try to flee from a bear, '''it will catch up to you'''."
           }
         ]
       }
@@ -110268,6 +110911,10 @@
 		  {
             "sentence": "Шак1ом гыныр '''шхончым''' ритакъуи, ыузэндыгъ",
             "translation": "The hunter put gunpowder into '''the rifle''' and loaded it."
+          },
+		  {
+            "sentence": "Шак1ор '''шхончымк1э''' бзыур къыриутыхыгъ",
+            "translation": "The hunter shot down the bird '''with the rifle'''."
           }
         ]
       }
@@ -110630,6 +111277,10 @@
 		  {
             "sentence": "'''Къухьэлъатэр''' дэгъэбыбый",
             "translation": "Fly '''the airplane''' upward."
+          },
+		  {
+            "sentence": "'''Къухьэлъатэр''' къебыбэхы къэт1ысынэу",
+            "translation": "'''The plane''' flies down to land."
           }
         ]
       }
