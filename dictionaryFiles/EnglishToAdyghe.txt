@@ -1587,9 +1587,6 @@
     "roof": "унашъхьэ"
   },
   {
-    "bowl": "бжъэ"
-  },
-  {
     "cornu": "бжъэ"
   },
   {
@@ -2334,9 +2331,6 @@
     "orphan": "ибэ; ечы (Shapsug)"
   },
   {
-    "most": "ибэ"
-  },
-  {
     "let's": "нек1о"
   },
   {
@@ -2421,6 +2415,9 @@
     "partner": "гъусэ"
   },
   {
+    "mate": "гъусэ"
+  },
+  {
     "peer": "ныбжьэгъу; лэгъу"
   },
   {
@@ -2436,10 +2433,7 @@
     "industrious": "нэутх"
   },
   {
-    "diligent": "нэутх"
-  },
-  {
-    "most": "анахь; янахь (Dialectal)"
+    "most": "ибэ (most people); анахь (most among, most of); (dialectal) янахь"
   },
   {
     "dinner": "дэшхын"
@@ -2514,7 +2508,7 @@
     "coriander": "адыгэаму"
   },
   {
-    "cancer": "адэ"
+    "cancer": "адэ; адэбз (malignant cancer; malignant tumor)"
   },
   {
     "sure": "хъун; адэ"
@@ -2643,7 +2637,7 @@
     "dish": "апс"
   },
   {
-    "bowl": "апскурб; апс курб"
+    "bowl": "апскурб; апс курб; къамлыбжъ"
   },
   {
     "magnifying lens": "апчхьэл"
@@ -3033,10 +3027,10 @@
     "strength": "к1уач1э; къарыу; лъэк1ы"
   },
   {
-    "diligent": "баш1э"
+    "diligent": "баш1э; нэутх"
   },
   {
-    "hard-working": "баш1э"
+    "hard-working": "баш1э; нэутх"
   },
   {
     "hood": "шъхьарыхъон; башлыкъ"
@@ -6993,9 +6987,6 @@
     "fork": "цацэ"
   },
   {
-    "bowl": "къамлыбжъ"
-  },
-  {
     "skin": "шъо; к1ышъо"
   },
   {
@@ -9844,6 +9835,9 @@
   },
   {
     "later": "ет1анэ; ет1анэк1э; (dialectal) ет1уанэ"
+  },
+  {
+    "afterward": "ет1анэ; ет1анэк1э; (dialectal) ет1уанэ"
   },
   {
     "to bump": "еутэк1ын (to bump into); зэутэк1ын (to bump each other); егъэутэк1ын (to make something bump into)"
@@ -13626,10 +13620,10 @@
     "marriage age": "дэк1огъу (marriageable age for woman); къэщэгъу (marriageable age for man)"
   },
   {
-    "center": "гузэгу"
+    "center": "гузэгу; ыгузэгу (center of); агузэгу (their center)"
   },
   {
-    "middle": "гузэгу; зэфагу; азыфагу (between); купсэ"
+    "middle": "гузэгу; ыгузэгу (middle of); зэфагу; азыфагу (between); купсэ; агузэгу (their middle)"
   },
   {
     "centre": "гузэгу; пчэгу; утыку"
@@ -13797,7 +13791,13 @@
     "over there": "адэ (invisible) модэ (visible)"
   },
   {
+    "out there": "адэ (invisible) модэ (visible)"
+  },
+  {
     "over here": "мыдэ"
+  },
+  {
+    "out here": "мыдэ"
   },
   {
     "actually": "шъыпкъэмк1э; шъыпкъэ п1ощтымэ"
@@ -13938,7 +13938,7 @@
     "if so": "армэ"
   },
   {
-    "if that is the case": "армэ"
+    "if that is the case": "армэ; афэдэмэ"
   },
   {
     "more than that": "ащ нахь"
@@ -15462,7 +15462,7 @@
     "aside": "бгъодэ- / го- (prepositional verval suffix)"
   },
   {
-    "side": "лъэныкъо (one side of); бгъу; ыбгъу / ыбгъук1э (on the side of); бгъодэ- / го- (prepositional verval suffix); сэмэгубгъу (left-hand side)"
+    "side": "лъэныкъо (one side of); бгъу; ыбгъу / ыбгъук1э (on the side of); бгъодэ- / го- (prepositional verval suffix); сэмэгубгъу (left-hand side); адрабгъу (opposite side, other side)"
   },
   {
     "within inside": "к1оц1ы- (prepositional verval suffix)"
@@ -15483,10 +15483,16 @@
     "against": "пэч1ынат1 / къыпэ1ут; жэхэ- (prepositional verval suffix)"
   },
   {
-    "opposite to": "пэч1ынат1 / къыпэ1ут"
+    "opposite to": "пэч1ынат1; къыпэ1улъ; къыпэч1ынэт1э; къыпэ1ут"
   },
   {
-    "oppositely": "пэ1утэу / къыпэ1ут; пэ1усэу / къыпэ1усэу"
+    "opposite": "пэч1ынат1; къыпэ1улъ; къыпэч1ынэт1э; къыпэ1ут"
+  },
+  {
+    "opposed": "пэч1ынат1; къыпэ1улъ; къыпэч1ынэт1э; къыпэ1ут"
+  },
+  {
+    "oppositely": "пэ1утэу; пэ1усэу / къыпэ1усэу"
   },
   {
     "toward the mouth": "жэдэ- (prepositional verval suffix)"

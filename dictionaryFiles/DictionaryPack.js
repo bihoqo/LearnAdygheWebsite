@@ -4583,6 +4583,10 @@
 		  {
             "sentence": "Кофе сешъо '''щэ''' хэмылъэу",
             "translation": "I drink coffee without '''milk''' in it."
+          },
+		  {
+            "sentence": "К1алэм апскурбым '''щэ''' рик1утагъ",
+            "translation": "The boy poured '''milk''' into the bowl."
           }
         ]
       },
@@ -4933,7 +4937,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "dish (plate)",
+        "meaning": "dish (plate), plate, saucer, bowl",
         "examples": [
           {
             "sentence": "'''Апсым''' шхын илъ",
@@ -8347,6 +8351,10 @@
 		  {
             "sentence": "Бысымым пчъэр къы1уихи '''хьак1эхэр''' унэм ригъэхьагъэх",
             "translation": "The host opened the door and let '''the guests''' into the house.."
+          },
+		  {
+            "sentence": "Сигъунэгъу '''хьак1эу''' тиунэ къэк1ощт",
+            "translation": "My neighbor will come '''as a guest'''."
           }
         ]
       }
@@ -9182,7 +9190,16 @@
     "definitions": [
       {
         "meaning": "river",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Псыхъомк1э''' к1алэр адрабгъум 1уи",
+            "translation": "The boy is standing on the opposite side of '''the river'''"
+          },
+		  {
+            "sentence": "Къушъхьит1ум '''псыхъо''' азыфаго дэт",
+            "translation": "'''Between''' the two mountains there is a river."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -9322,7 +9339,12 @@
     "definitions": [
       {
         "meaning": "paper",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "К1алэм хъурай '''тхылъып1эм''' теш1ыхьагъ",
+            "translation": "The boy made a circle on '''the paper'''."
+          }
+        ]
       },
       {
         "meaning": "tissue",
@@ -9797,6 +9819,10 @@
           {
             "sentence": "Зы '''чъыгы''' исыупк1ыгъэ ны1эп",
             "translation": "I only cut down one '''tree'''."
+          },
+		  {
+            "sentence": "Л1ым пхъэ-унэ '''чъыгым''' теш1ыхьан",
+            "translation": "The man built a wooden house on '''the tree'''."
           }
         ]
       }
@@ -15196,6 +15222,10 @@
             "sentence": "'''уигъунэгъухэр''' уиунэ къак1ох",
             "translation": "'''Your neighbors''' are coming to your house."
           },
+		  {
+            "sentence": "'''сигъунэгъу''' хьак1эу тиунэ къэк1ощт",
+            "translation": "'''My neighbor''' will come as a guest."
+          },
           {
             "sentence": "'''сигъунэгъу''' горэ сэлъагъу",
             "translation": "I am seeing some '''neighbor of mine'''."
@@ -15215,11 +15245,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "diligent; industrious",
+        "meaning": "diligent; industrious; hard-working and persistent",
         "examples": [
           {
-            "sentence": "уикъо '''нэутх'''1",
-            "translation": "Your son (your boy) '''is diligent'''."
+            "sentence": "Укъо '''нэутх'''1",
+            "translation": "Your son '''is diligent'''."
           },
 		  {
             "sentence": "Тхьэматэр к1алэм фэраз '''нэутхэти'''",
@@ -15255,8 +15285,8 @@
             "translation": "The boy is the '''richest'''."
           },
           {
-            "sentence": "Пшъашъэ '''анахь''' дахэм е1о",
-            "translation": "The '''prettiest'''  girl says."
+            "sentence": "'''Анахь''' 1ушэм шъуеупч1",
+            "translation": "Ask the '''wisest''' person."
           },
           {
             "sentence": "'''Анахь''' пыт мыр",
@@ -15267,16 +15297,16 @@
             "translation": "Sataney is the '''most''' beautiful among the women."
           },
           {
-            "sentence": "Мы к1алэр чылэмк1э '''анахь''' бай",
-            "translation": "This young man is the '''most''' rich in our village."
+            "sentence": "Мы к1алэр чылэмк1э '''анахь''' к1уач1",
+            "translation": "This young man is the '''strongest''' in our village."
           },
           {
             "sentence": "Студент '''анахь''' дэгъухэр мык1э къак1ох",
-            "translation": "The best students came here."
+            "translation": "The '''best''' students come here."
           },
           {
             "sentence": "Тары джэнэ '''анахь''' дахэу уи1эр?",
-            "translation": "'''Which''' shirt is the most '''beautiful''' you have."
+            "translation": "'''Which''' shirt is the most '''beautiful''' you have?"
           }
         ]
       }
@@ -15306,7 +15336,12 @@
     "definitions": [
       {
         "meaning": "under the house, lower part of a house",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''унэч1эгъым''' ч1эхьагъ",
+            "translation": "The boy went '''under the house'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -15345,7 +15380,15 @@
         "examples": [
           {
             "sentence": "'''Ащыгъум''' укъысэджэшъущтыгъ",
-            "translation": "'''That time''' you could called me."
+            "translation": "You could have called me '''at that time'''."
+          },
+		  {
+            "sentence": "'''Ащыгъум''' зыгори тыш1эшъущтыгъэп",
+            "translation": "'''At that time''' we couldn't do anything."
+          },
+		  {
+            "sentence": "'''Ащыгъум''' ренэу зэощтыгъэх",
+            "translation": "'''At that time''' they used to always fight."
           }
         ]
       },
@@ -15357,8 +15400,12 @@
             "translation": "'''Then''' what we gonna do?"
           },
           {
-            "sentence": "'''ащыгъум''' нек1о уиунэ тыгъак1у",
+            "sentence": "'''Ащыгъум''' нек1о уиунэ тыгъак1у",
             "translation": "'''Then''' let's go to your house."
+          },
+          {
+            "sentence": "'''Ащыгъум''' сыд ыщэрэр?",
+            "translation": "'''Then''' what (s)he sells?"
           }
         ]
       }
@@ -15411,12 +15458,63 @@
     "definitions": [
       {
         "meaning": "circle",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Уихъурай''' 1онтагъ",
+            "translation": "'''Your circle''' is crooked."
+          },
+		  {
+            "sentence": "К1алэм '''хъурай''' тхылъып1эм теш1ыхьагъ",
+            "translation": "The boy made '''a circle''' on the paper."
+          },
+		  {
+            "sentence": "Пшъашъэм дахэу '''хъурай''' къеш1ышъу",
+            "translation": "The girl can draw a '''circle''' beautifully."
+          }
+        ]
       }
     ],
     "kabardian": "хъурей",
     "type": "noun",
     "ipa": "χʷəraːj"
+  },
+  {
+    "word": "теш1ыхьагъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to make on something; to make something above",
+        "examples": [
+		  {
+            "sentence": "К1алэм хъурай тхылъып1эм '''теш1ыхьагъ'''",
+            "translation": "The boy '''made''' a circle '''on''' the paper."
+          },
+		  {
+            "sentence": "К1алэм шхын унашъхьэм '''теш1ыхьэ'''",
+            "translation": "The boy '''makes''' food '''on''' the roof."
+          }
+        ]
+      },
+	  {
+        "meaning": "to build on something; to build something above",
+        "examples": [
+          {
+            "sentence": "Л1ым пхъэ-унэ чъыгым '''теш1ыхьан'''",
+            "translation": "The man '''built''' a wooden house '''on''' the tree."
+          },
+		  {
+            "sentence": "Сыд унашъхьэм '''тепш1ыхьанэу''' узыфаер?",
+            "translation": "What '''you''' want '''to make on''' the roof?"
+          },
+		  {
+            "sentence": "Къушъхьэм зыплъыхьап1э '''таш1ыхьагъ'''",
+            "translation": "'''They built''' a tower '''on''' the mountain."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "tajʃʼəħaːn"
   },
   {
     "word": "абас",
@@ -15454,7 +15552,12 @@
     "definitions": [
       {
         "meaning": "large, very big",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1элэ '''абрагъо'''",
+            "translation": "'''Big''' boy."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -15502,47 +15605,11 @@
     "definitions": [
       {
         "meaning": "(mathematics) dividend (а number that is to be divided by another)",
-        "examples": [],
-        "tags": [
-          "mathematics"
-        ]
+        "examples": []
       }
     ],
+    "ipa": "aːgʷaɕ"
     "type": "noun"
-  },
-  {
-    "word": "ыгузэгу",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "the middle of (something).",
-        "examples": [
-          {
-            "sentence": "унэм '''ыгузэгу''' 1анэ ит",
-            "translation": "In the '''middle of''' the house, there is a table."
-          }
-        ]
-      }
-    ],
-    "type": "noun",
-    "ipa": "jəvzaɡʷ"
-  },
-  {
-    "word": "агузэгу",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "their middle, the middle of (two or more things).",
-        "examples": [
-          {
-            "sentence": "к1алэмрэ пшъашъэмрэ '''агузэгу''' 1анэ илъ",
-            "translation": "Between the boy and the girl there is a table."
-          }
-        ]
-      }
-    ],
-    "type": "adv",
-    "ipa": "jaːvzaɡʷ"
   },
   {
     "word": "агурджашъу",
@@ -15573,8 +15640,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "outermost; margin",
-        "examples": []
+        "meaning": "outermost; margin; utmost",
+        "examples": [
+          {
+            "sentence": "'''Агъунэрэ''' шъхьаныгъупчъэм нэфынэ къепсы",
+            "translation": "A light comes from the margin of the window."
+          },
+		  {
+            "sentence": "'''Агъунэрэ''' унэр",
+            "translation": "'''The farthest''' house."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -15622,8 +15698,29 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "opposite side, other side",
+        "meaning": "alternative form of \"адрэк1\"",
         "examples": []
+      }
+    ],
+    "type": "adv",
+    "ipa": "aːdrat͡ʃʼ"
+  },
+  {
+    "word": "адрабгъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "opposite side, other side",
+        "examples": [
+          {
+            "sentence": "К1алэр къуаджэмк1э '''адрабгъум''' дэс",
+            "translation": "The boy lives on '''the other side''' of the village"
+          },
+		  {
+            "sentence": "Псыхъомк1э к1алэр адрабгъум 1уи",
+            "translation": "The boy is standing on '''the opposite side''' of the river"
+          }
+        ]
       }
     ],
     "type": "adv",
@@ -15640,23 +15737,6 @@
     ],
     "type": "noun",
     "ipa": "aːdəɣaːʁ"
-  },
-  {
-    "word": "ч1ыр",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "roots (land)",
-        "examples": [
-          {
-            "sentence": "адыгэ '''ч1ыр'''",
-            "translation": "Circassian roots (land)."
-          }
-        ]
-      }
-    ],
-    "type": "noun",
-    "ipa": "t͡ʃʼər"
   },
   {
     "word": "адыгэаму",
@@ -15699,11 +15779,47 @@
     "definitions": [
       {
         "meaning": "cancer (illness)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ыжъым ыпшъэ '''адэ''' къыхэк1ыгъ",
+            "translation": "'''Cancer''' grew on the old-man's neck."
+          }
+        ]
       },
       {
-        "meaning": "over there (Invisible, Far)",
-        "examples": []
+        "meaning": "out there; over there (invisible, far)",
+        "examples": [
+          {
+            "sentence": "'''Адэ''' сыд щаш1ыщтыр?",
+            "translation": "What are they going to do '''there'''?"
+          },
+		  {
+            "sentence": "'''Адэ''' щы1эр тыш1эрэп?",
+            "translation": "We do not know what is out '''there'''?"
+          },
+		  {
+            "sentence": "'''Адэ''' неущы тык1ощт",
+            "translation": "We will go out '''there''' tomrrow."
+          }
+        ]
+      },
+      {
+        "meaning": "expression of suprise",
+        "examples": [
+          {
+            "sentence": "'''Адэ''' сыд джынэс шъуш1агъэр?",
+            "translation": "'''Then''' what you guys did until now?"
+          }
+        ]
+      },
+      {
+        "meaning": "expression that imparts a note of insistence and urgency: ever, on earth, for goodness' sake",
+        "examples": [
+          {
+            "sentence": "'''Адэ''' сыд тыш1эщтыр?",
+            "translation": "'''Then''' what are we going to do?"
+          }
+        ]
       },
       {
         "meaning": "sure, of course (expresses confidence)",
@@ -15728,6 +15844,18 @@
     "ipa": "aːda"
   },
   {
+    "word": "адэбз",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "malignant cancer; malignant tumor",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "aːdabz"
+  },
+  {
     "word": "азан",
     "lang": "Adyghe",
     "definitions": [
@@ -15743,6 +15871,27 @@
     "ipa": "/aːzaːn/"
   },
   {
+    "word": "агузэгу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "their middle, the middle of (two or more things).",
+        "examples": [
+          {
+            "sentence": "к1алэмрэ пшъашъэмрэ '''агузэгу''' илъым тыхэмыгъахь",
+            "translation": "Let us not go into what is '''between''' the boy and the girl."
+          },
+		  {
+            "sentence": "унит1ум '''агузэгу''' чэу дэт",
+            "translation": "There is a fence '''between''' the two houses."
+          }
+        ]
+      }
+    ],
+    "type": "adv",
+    "ipa": "jaːvzaɡʷ"
+  },
+  {
     "word": "азыфагу",
     "lang": "Adyghe",
     "definitions": [
@@ -15750,8 +15899,12 @@
         "meaning": "between",
         "examples": [
           {
-            "sentence": "К1алэмрэ пшъашъэмрэ '''азыфаго''' 1ут 1анэ",
-            "translation": "'''Between''' the boy and the girl there is a table."
+            "sentence": "К1алэмрэ пшъашъэмрэ '''азыфаго''' илъым тыхэмыгъахь",
+            "translation": "Let us not go into what is '''between''' the boy and the girl."
+          },
+		  {
+            "sentence": "Къушъхьит1ум псыхъо '''азыфаго''' дэт",
+            "translation": "'''Between''' the two mountains there is a river."
           },
           {
             "sentence": "Ц1ыфыхэмэ '''азыфагок1э''' блэк1",
@@ -15893,7 +16046,8 @@
         "examples": []
       }
     ],
-    "type": "noun"
+    "type": "noun",
+    "ipa": "aːɮtasəʂħat͡s"
   },
   {
     "word": "алтэс",
@@ -15904,7 +16058,8 @@
         "examples": []
       }
     ],
-    "type": "noun"
+    "type": "noun",
+    "ipa": "aːɮtas"
   },
   {
     "word": "алыркъэб",
@@ -15924,7 +16079,20 @@
     "definitions": [
       {
         "meaning": "carpet",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''алырэгъур''' еутхыпк1ы",
+            "translation": "The boy shakes out '''the carpet'''."
+          },
+		  {
+            "sentence": "'''Алырэгъур''' джэхашъом телъ",
+            "translation": "'''The carpet''' is on the floor."
+          },
+		  {
+            "sentence": "Алырэгъуш1ым '''алырэгъухэр''' еш1ых",
+            "translation": "The carpet maker makes '''carpets'''."
+          }
+        ]
       },
       {
         "meaning": "rug",
@@ -15940,7 +16108,12 @@
     "definitions": [
       {
         "meaning": "carpet maker",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Алырэгъуш1ым''' алырэгъухэр еш1ых",
+            "translation": "'''The carpet maker''' makes carpets."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -15963,7 +16136,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "method; ability; the mean to do something; a way to do something",
+        "meaning": "method; ability; means; the mean to do something; a way to do something",
         "examples": []
       },
       {
@@ -15972,7 +16145,12 @@
       },
       {
         "meaning": "hope",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''амал''' и1эп",
+            "translation": "The boy has no '''hope'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -16030,7 +16208,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "maple, Maple tree",
+        "meaning": "maple, maple tree",
         "examples": []
       }
     ],
@@ -16066,8 +16244,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "ramadan; fasting month",
-        "examples": []
+        "meaning": "the month of ramadan; fasting month",
+        "examples": [
+          {
+            "sentence": "Ц1ыфыхэмэ '''нэк1ымазэм''' анэк1ы",
+            "translation": "People fast in '''the month of ramadan'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -16116,27 +16299,21 @@
     "ipa": "aːnaw"
   },
   {
-    "word": "апс",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "dish, plate, saucer, bowl",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "aːps"
-  },
-  {
     "word": "апскурб",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "bowl",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''апскурбым''' щэ ригъэхъуагъ",
+            "translation": "The boy poured milk into '''the bowl'''."
+          }
+        ]
       }
     ],
-    "type": "noun"
+    "type": "noun",
+    "ipa": "aːpskʷərb"
   },
   {
     "word": "апчмыжъу",
@@ -16209,7 +16386,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "burner (of a gas range, heater or light using liquid or gas fuel)",
+        "meaning": "burner (of a gas range, heater or light using liquid or gas fuel); gas-stove burner",
         "examples": []
       }
     ],
@@ -16266,15 +16443,15 @@
         "examples": [
           {
             "sentence": "'''Апэрэ''' ц1ыфыр Адэм",
-            "translation": "'''The first''' person was Adam."
-          },
-          {
-            "sentence": "'''Апэрэм''' сыкъилъэгъугъ",
-            "translation": "'''The first one''' was me."
+            "translation": "'''The first''' human is Adam."
           },
 		  {
             "sentence": "'''Апэрэм''' сехъырэхъышагъ хьэм себлэгъэныр",
             "translation": "'''At first''' I hesitated to go near the dog"
+          },
+		  {
+            "sentence": "'''Апэрэм''' тыш1эщтыр сыш1агъэп",
+            "translation": "'''At first''' I did not know what to do."
           }
         ]
       },
@@ -16290,8 +16467,16 @@
             "translation": "I entered the house '''first''', you entered last."
           },
 		  {
-            "sentence": "'''Апэ''' мы1эрыс сышхыгъэр",
-            "translation": "'''The first''' thing I ate is apple."
+            "sentence": "'''Апэу''' мы1эрыс сышхыгъэр",
+            "translation": "'''The first''' thing I ate was apple."
+          },
+          {
+            "sentence": "'''Апэу''' сыкъилъэгъугъ",
+            "translation": "(S)he saw me '''first'''."
+          },
+          {
+            "sentence": "'''Апэрэр''' сэрыгъ",
+            "translation": "'''The first one''' was me."
           }
         ]
       },
@@ -16320,7 +16505,7 @@
         "meaning": "at the beginning",
         "examples": [
           {
-            "sentence": "Фылым '''апэрэ''' дэгъоу къежьагъ, ау ит1уанэ дэеу хъужьыгъ",
+            "sentence": "Фылым '''апэрэм''' дэгъоу къежьагъ, ау ет1анэ дэеу хъужьыгъ",
             "translation": "'''The beginning''' of the film started good, but it became bad later."
           }
         ]
@@ -20342,6 +20527,10 @@
           {
             "sentence": "Дунай зао ят1унэмк1э Джармынрэ Урысыемрэ '''зэзэуагъэх'''",
             "translation": "In World War 2 Germany and Russian '''fought each other'''."
+          },
+		  {
+            "sentence": "Ащыгъум ренэу '''зэощтыгъэх'''",
+            "translation": "At that time '''they used to''' always '''fight'''."
           }
         ]
       },
@@ -50510,6 +50699,10 @@
 		  {
             "sentence": "'''Джэхашъор''' ц1ашъутэ, арти къэшъумычъэхь",
             "translation": "'''The floor''' is slippery, so don't run around."
+          },
+		  {
+            "sentence": "Алырэгъур '''джэхашъом''' телъ",
+            "translation": "The carpet is on '''the floor'''."
           }
         ]
       }
@@ -52968,7 +53161,7 @@
         ]
       },
 	  {
-        "meaning": "later",
+        "meaning": "later; afterward",
         "examples": [
           {
             "sentence": "'''Ет1анэк1э''' тыгъэк1у тучаным",
@@ -52977,6 +53170,10 @@
           {
             "sentence": "'''Ет1анэ''' тэ чэщдэсым тыкъэк1ощт",
             "translation": "'''Later''' we will come to the party."
+          },
+		  {
+            "sentence": "Фылым апэрэм дэгъоу къежьагъ, ау '''ет1анэ''' дэеу хъужьыгъ",
+            "translation": "The beginning of the film started good, but it became bad '''later'''."
           }
         ]
       }
@@ -78603,9 +78800,9 @@
             "sentence": "'''Унэк1ыныр''' къина?",
             "translation": "Is it hard '''to fast'''?"
           },
-          {
-            "sentence": "Ц1ыфымэ нэк1ымазэм '''анэк1ы'''",
-            "translation": "In the fasting month, people '''fast'''."
+		  {
+            "sentence": "Ц1ыфыхэмэ нэк1ымазэм '''анэк1ы'''",
+            "translation": "People '''fast''' in the month of ramadan."
           }
         ]
       }
@@ -99845,6 +100042,10 @@
 		  {
             "sentence": "'''Джынэс''' унэм исых",
             "translation": "'''Until now, they have been in the house."
+          },
+		  {
+            "sentence": "Адэ сыд '''джынэс''' шъуш1агъэр?",
+            "translation": "Then what you guys did u'''ntil now'''?"
           }
         ]
       }
@@ -104756,6 +104957,10 @@
 		  {
             "sentence": "Л1ыр '''ренэу''' мэлажьэ, зигъэпсэфырэп",
             "translation": "The man '''always''' work, he doesn't rest."
+          },
+		  {
+            "sentence": "Ащыгъум '''ренэу''' зэощтыгъэх",
+            "translation": "At that time they used to '''always''' fight."
           }
         ]
       }
@@ -106621,7 +106826,12 @@
     "definitions": [
       {
         "meaning": "tower",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Къушъхьэм '''зыплъыхьап1э''' таш1ыхьагъ",
+            "translation": "They built '''a tower''' on the mountain."
+          }
+        ]
       },
 	  {
         "meaning": "observation post",
@@ -110146,6 +110356,10 @@
           {
             "sentence": "'''Чэум''' к1алэр ебэкъугъ",
             "translation": "The boy overstepped '''the fence'''."
+          },
+		  {
+            "sentence": "Унит1ум агузэгу '''чэу''' дэт",
+            "translation": "There is a '''fence''' between the two houses."
           }
         ]
       }
@@ -130356,11 +130570,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to slightly dpour/fill in",
+        "meaning": "to slightly pour/fill in",
         "examples": [
           {
             "sentence": "К1алэм псы апчым '''рек1утэ'''",
             "translation": "The boy '''pours''' water into the glass."
+          },
+		  {
+            "sentence": "К1алэм апскурбым щэ '''рик1утагъ'''",
+            "translation": "The boy '''poured''' milk '''into''' the bowl."
           }
         ]
       }
