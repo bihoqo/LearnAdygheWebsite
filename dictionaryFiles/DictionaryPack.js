@@ -6721,6 +6721,14 @@
           {
             "sentence": "К1алэм '''ш1уанэмк1э''' ят1эр ет1ы",
             "translation": "The boy is digging up the dirt '''with the hoe'''."
+          },
+		  {
+            "sentence": "Къашт '''ш1уанэр'''",
+            "translation": "Pick up '''the hoe'''."
+          },
+		  {
+            "sentence": "Къэхь '''ш1уанэ'''",
+            "translation": "Bring '''a hoe'''."
           }
         ]
       }
@@ -6779,9 +6787,15 @@
     "definitions": [
       {
         "meaning": "sickle; reaping-hook",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ым '''гъупчъэк1э''' коцыхэр ыхыгъэх",
+            "translation": "The man reaped the wheats '''with a sickle'''."
+          }
+        ]
       }
     ],
+    "kabardian": "гъубжэ",
     "type": "noun",
     "ipa": "ʁʷəpt͡ʂa"
   },
@@ -6791,7 +6805,24 @@
     "definitions": [
       {
         "meaning": "key",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Пшъашъэм '''1унк1ыбзэмк1э''' пчъэр къы1уихыгъ",
+            "translation": "The girl opened the door '''with the key'''."
+          },
+		  {
+            "sentence": "Тыдэ хъугъэ '''си1унк1ыбзэ'''?",
+            "translation": "Where did '''my key''' go?"
+          },
+		  {
+            "sentence": "'''1унк1ыбзэр''' пчъэм игъуанэ игъэхьан",
+            "translation": "To insert '''the key''' into the door's hole."
+          },
+		  {
+            "sentence": "'''1унк1ыбзэр''' гъуанэм ихьэрэп",
+            "translation": "'''The key''' does not go inside the hole."
+          }
+        ]
       }
     ],
     "shapsug": "1ук1ьыбзэ",
@@ -8312,6 +8343,10 @@
 		  {
             "sentence": "Бысымыр нэгуихыгъэу '''хьак1эм''' къыпэгъок1ыгъ",
             "translation": "The host greeted the '''guest''' neighborly."
+          },
+		  {
+            "sentence": "Бысымым пчъэр къы1уихи '''хьак1эхэр''' унэм ригъэхьагъэх",
+            "translation": "The host opened the door and let '''the guests''' into the house.."
           }
         ]
       }
@@ -9399,6 +9434,10 @@
 		  {
             "sentence": "Бадзэр '''унэм''' ибыбыгъ",
             "translation": "The housefly flew out of '''the house'''."
+          },
+		  {
+            "sentence": "Бысымым пчъэр къы1уихи хьак1эхэр '''унэм''' ригъэхьагъэх",
+            "translation": "The host opened the door and let the guests into the house."
           }
         ]
       }
@@ -14937,12 +14976,59 @@
     "ipa": "ʃədqʷalan"
   },
   {
+    "word": "игъэхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to put in; to insert in",
+        "examples": [
+		  {
+            "sentence": "1унк1ыбзэр пчъэм игъуанэ '''игъэхьан'''",
+            "translation": "'''To insert''' the key into the door's hole."
+          },
+		  {
+            "sentence": "Гъуанэм у1эхъуамбэ '''игъэхьан'''",
+            "translation": "'''To insert''' your finger '''inside''' a hole."
+          },
+		  {
+            "sentence": "1унк1ыбзэр гъуанэм '''ихьарэп'''",
+            "translation": "The key '''does not go inside''' the hole."
+          }
+        ]
+      },
+	  {
+        "meaning": "to let someone go in; to let someone in",
+        "examples": [
+		  {
+            "sentence": "Къэрэгъулэм тэ унэм '''тыригъэхьагъэп'''",
+            "translation": "The gaurd '''did not let us go into''' the house."
+          },
+		  {
+            "sentence": "Бысымым пчъэр къы1уихи хьак1эхэр унэм '''ригъэхьагъэх'''",
+            "translation": "The host opened the door and '''let''' the guests '''into''' the house."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʁʷaːna"
+  },
+  {
     "word": "гъуанэ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "hole",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "1унк1ыбзэр пчъэм '''игъуанэ''' игъэхьан",
+            "translation": "To insert the key into the door's '''hole'''."
+          },
+		  {
+            "sentence": "1унк1ыбзэр '''гъуанэм''' ихьарэп",
+            "translation": "The key does not go inside '''the hole'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -14956,12 +15042,20 @@
         "meaning": "near",
         "examples": [
           {
-            "sentence": "К1алэм '''иблагъэу''' 1унк1ыбзэр 1улъ",
+            "sentence": "К1алэм '''ыблагъэу''' 1унк1ыбзэр 1улъ",
             "translation": "The key is '''near''' the boy."
           },
           {
             "sentence": "Сиунэ '''благъэу''' 1утэп",
             "translation": "My house is not '''near'''."
+          },
+		  {
+            "sentence": "'''Благъэу''' сы1ут",
+            "translation": "I am standing '''near'''."
+          },
+		  {
+            "sentence": "Куджаным ичылэ '''благъэгъэп'''",
+            "translation": "Kunan's village '''is not near'''."
           }
         ]
       },
@@ -14971,14 +15065,20 @@
       },
       {
         "meaning": "relative",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Сыблагъэхэр''' къуаджэм дэсых",
+            "translation": "'''My relatives''' live in the village."
+          }
+        ]
       },
       {
         "meaning": "(Kfar Kama dialect slang) romantic partner (boyfriend or girlfriend)",
-        "examples": [],
-        "tags": [
-          "Kfar Kama dialect",
-          "slang"
+        "examples": [
+          {
+            "sentence": "'''Благъэ''' уи1а?",
+            "translation": "Do you have a '''boyfriend/girlfriend'''?"
+          }
         ]
       }
     ],
@@ -15004,25 +15104,35 @@
             "sentence": "К1алэмрэ пшъашъэмрэ '''зэгъусэх'''",
             "translation": "The boy and the girl are '''friends'''."
           }
-        ],
-        "tags": [
-          "Kfar Kama dialect"
         ]
       },
       {
-        "meaning": "associate",
-        "examples": []
-      },
-      {
         "meaning": "comrade",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Америкэмрэ Урысыемрэ '''зэгъусагъэх''' дунай заомк1э",
+            "translation": "America and Russia '''were comrades''' in the world war."
+          }
+        ]
       },
       {
-        "meaning": "teammate, one that is in the same group or team.",
+        "meaning": "associate, mate, partner, teammate, one that is in the same group or team",
         "examples": [
           {
             "sentence": "Томыр сэ '''сигъус'''",
             "translation": "Tom '''is my teammate'''."
+          },
+		  {
+            "sentence": "'''Сигъусэхэмэ''' зыгори аш1эрэп",
+            "translation": "'''My teammates''' don't do anything."
+          },
+		  {
+            "sentence": "'''Сигъусэхэр''' къэсдэ1эпы1эх",
+            "translation": "'''My mates''' help me."
+          },
+		  {
+            "sentence": "1офымк1э сэрэ '''сигъусэхэмрэ''' проджест тэш1ы",
+            "translation": "In work, me and '''my associates''' are doing a project."
           }
         ]
       },
@@ -15032,12 +15142,12 @@
           {
             "sentence": "'''Гъусэм''' ущыгугъэу мышъэм уемыбэн",
             "translation": "When fight a bear when you're hoping for '''a companion'''."
+          },
+		  {
+            "sentence": "Л1ыр мэзым хэхьагъ '''гъусэ''' ымы1эу",
+            "translation": "The man entered the forest without '''a companion'''."
           }
         ]
-      },
-      {
-        "meaning": "partner",
-        "examples": []
       }
     ],
     "type": "noun",
@@ -21861,6 +21971,10 @@
 		  {
             "sentence": "'''Пчъэ''' 1эубытып1эм е1и, '''пчъэр''' къы1уихыгъ",
             "translation": "Push the knob '''door''', and open the '''door'''."
+          },
+		  {
+            "sentence": "Пшъашъэм 1унк1ыбзэмк1э '''пчъэр''' къы1уихыгъ",
+            "translation": "The girl opened '''the door''' with the key."
           }
         ]
       }
@@ -22765,6 +22879,10 @@
           {
             "sentence": "'''Тикъуаджэ''' къалэм пэблагъ",
             "translation": "'''Our village''' is close to the city."
+          },
+		  {
+            "sentence": "Сыблагъэхэр '''къуаджэм''' дэсых",
+            "translation": "My relatives live in '''the village'''."
           }
         ]
       }
@@ -27370,6 +27488,10 @@
           {
             "sentence": "Бысымыр нэгуихыгъэу хьак1эм къыпэгъок1ыгъ",
             "translation": "'''The host''' greeted the guest neighborly."
+          },
+		  {
+            "sentence": "'''Бысымым''' пчъэр къы1уихи хьак1эхэр унэм ригъэхьагъэх",
+            "translation": "'''The host''' opened the door and let the guests into the house.."
           }
         ]
       },
@@ -29242,6 +29364,10 @@
 		  {
             "sentence": "Сняэ къэсфэраз экзаменхэр дэгъоу '''сэш1ыхэти'''",
             "translation": "My mother is pleased with me '''because I do''' the exam well."
+          },
+		  {
+            "sentence": "1офымк1э сэрэ сигъусэхэмрэ проджест '''тэш1ы'''",
+            "translation": "In work, me and my associates '''are doing''' a project."
           }
         ]
       }
@@ -40591,6 +40717,10 @@
 		  {
             "sentence": "Л1ым '''коцыр''' еутхындзы",
             "translation": "The man winnows the '''wheat'''."
+          },
+		  {
+            "sentence": "Л1ым щэмэджык1э '''коцыхэр''' ыхыгъэх",
+            "translation": "The man reaped '''the wheats''' with a scythe."
           }
         ]
       }
@@ -50130,6 +50260,10 @@
 		  {
             "sentence": "Шъхьангъупчъэр '''къы1ухи''' бадзэр унэм идгъэбыбын ты1ощт",
             "translation": "'''Open''' the window and we will try to make the housefly fly out of the house."
+          },
+		  {
+            "sentence": "Пшъашъэм 1унк1ыбзэмк1э пчъэр '''къы1уихыгъ'''",
+            "translation": "The girl '''opened''' the door with the key."
           }
         ]
       },
@@ -61828,6 +61962,10 @@
 		  {
             "sentence": "Фабрикэм идэхьап1э дэжь '''къэрэгъулыр''' 1ус",
             "translation": "'''A guard''' is standing near the entrance of the factory."
+          },
+		  {
+            "sentence": "'''Къэрэгъулэм''' тэ унэм тыригъэхьагъэп",
+            "translation": "'''The gaurd''' did not let us go into the house."
           }
         ]
       }
@@ -84404,6 +84542,10 @@
           {
             "sentence": "К1алэм '''щэмэджык1э''' мэкъухэр реупк1ых",
             "translation": "The boy cuts the hays '''using a scythe'''."
+          },
+		  {
+            "sentence": "Л1ым '''щэмэджык1э''' коцыхэр ыхыгъэх",
+            "translation": "The man reaped the wheats '''with a scythe'''."
           }
         ]
       }
@@ -94457,6 +94599,10 @@
 		  {
             "sentence": "Л1ыхэмэ коцыр '''ахыжьы'''",
             "translation": "The men '''are reaping''' the wheat."
+          },
+		  {
+            "sentence": "Л1ым щэмэджык1э коцыхэр '''ыхыгъэх'''",
+            "translation": "The man '''reaped''' the wheats with a scythe."
           }
         ]
       }
