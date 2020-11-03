@@ -18,6 +18,9 @@
     "bull": "быгъу (breeding bull); цу (ox, bullock)"
   },
   {
+    "barberry": "пэнапц1э"
+  },
+  {
     "castrated": "сэк1ыгъ"
   },
   {
@@ -651,6 +654,18 @@
     "calf": "шк1э"
   },
   {
+    "to flow": "рик1он"
+  },
+  {
+    "to sync": "тефэн; зэтефэн (to sync with each other)"
+  },
+  {
+    "to synchronize": "тефэн; зэтефэн (to sync with each other)"
+  },
+  {
+    "bull-calf": "шк1эхъужъ"
+  },
+  {
     "dawn": "нэфылъ; нэфшъагъо"
   },
   {
@@ -732,7 +747,10 @@
     "turtle": "хьадэпчэмы1у; (Shapsug) хьэнчэмы1у"
   },
   {
-    "turkey": "тхьэчэт"
+    "turkey": "(bird) тхьэчэт; (bird) тхьачэтыхъу (male turkey); (informal) кур-кур"
+  },
+  {
+    "turkey meat": "тхьэчэтыл"
   },
   {
     "housefly": "бадзэ"
@@ -6153,7 +6171,7 @@
     "ill": "сымаджэ"
   },
   {
-    "cat": "чэтыу; кьэтыу (Shapsug)"
+    "cat": "чэтыу; кьэтыу (Shapsug); (childish, informal) мэмау"
   },
   {
     "fast": "псынк1э; (dialectal) чъык1ай; псык1э (Shapsug); елбэтэу (as fast as lightning); псынк1эу / ш1эхэу (quickly)"
@@ -6186,7 +6204,7 @@
     "to herd": "хъун; гъэхъун"
   },
   {
-    "to create": "ш1ын (to make); къигъэш1ын (to create from nothing); къэгъэхъун (to make something appear)"
+    "to create": "ш1ын (to create, to make); къигъэш1ын (to create from nothing); къэгъэхъун (to make something appear); хэш1ык1ын (to be created out of); хэгъэш1ык1ын (to create something out of)"
   },
   {
     "squeamish": "1умпэм"
@@ -9015,7 +9033,7 @@
     "to fly away": "1убыбын; 1убыбык1ын"
   },
   {
-    "to fly": "быбын / лъэтэн; дэбыбыен (to fly up); ебыбэхын (to fly down); гъэбыбын (to make something fly); лъыбыбын (to fly toward); дэгъэбыбэен (to make something fly up); 1убыбэн (to fly near something); 1убыбын (to fly away from something); тебыбэн (to fly above something); тебыбын / къытебыбын (to fly off from above something); ч1эбыбэн (to fly under something); ч1эбыбын / къыч1эбыбын (to fly from under something); ибыбэн (to fly inside something); ибыбын / къибыбын (to fly from under something); къобыбэн (to fly behind something); къобыбын / къыкъобыбын (to fly from under something); гобыбэн / бгъодэбыбэн (to fly besides something); гобыбын / бгъодэбыбын / къыгобыбын / къыбгъодэбыбын(to fly from besides something); хэбыбэн (to fly through, to fly to an area with gas or liquid, to fly into the forest); хэбыбын / къыхэбыбын (to fly from the forest, to fly from an area with gas or liquid); пыбыбэн (to fly on a branch); пыбыбэн / къыпыбыбын (to fly off from a branch); жэхэбыбэн (to fly into/against someone or something); зэк1эбыбэн (to fly backword); блэбыбын (to fly pass)"
+    "to fly": "быбын / лъэтэн; дэбыбыен (to fly up); ебыбэхын (to fly down); гъэбыбын (to make something fly); лъыбыбын (to fly toward); дэгъэбыбэен (to make something fly up); 1убыбэн (to fly near something); 1убыбын (to fly away from something); тебыбэн (to fly above something); тебыбын / къытебыбын (to fly off from above something); ч1эбыбэн (to fly under something); ч1эбыбын / къыч1эбыбын (to fly from under something); ибыбэн (to fly out; to fly inside something); ибыбын / къибыбын (to fly from inside something); къобыбэн (to fly behind something); къобыбын / къыкъобыбын (to fly from behind something); гобыбэн / бгъодэбыбэн (to fly besides something); гобыбын / бгъодэбыбын / къыгобыбын / къыбгъодэбыбын(to fly from besides something); хэбыбэн (to fly through, to fly to an area with gas or liquid, to fly into the forest); хэбыбын / къыхэбыбын (to fly from the forest, to fly from an area with gas or liquid); пыбыбэн (to fly on a branch); пыбыбэн / къыпыбыбын (to fly off from a branch); жэхэбыбэн (to fly into/against someone or something); зэк1эбыбэн (to fly backword); блэбыбын (to fly pass); ибыбык1ын / къибыбык1ын (to fly out from inside something); тебыбык1ын / къытебыбык1ын (to fly off from); ч1эбыбык1ын / къыч1эбыбык1ын (to fly away from under); хэбыбык1ын / къыхэбыбык1ын (to fly away from among); ибыбыхьан (to fly around inside something); ибыбыхьан (to fly around inside something); тебыбыхьан (to fly around above something)"
   },
   {
     "to fly up": "дэбыбэен (to fly up); дэгъэбыбэен (to make something fly up)"
@@ -13074,7 +13092,7 @@
     "to cause": "къэгъэфын"
   },
   {
-    "to occur": "къэфын; къэхъун; щыш1ын (something to happen to someone); къехъул1эн (an incident to happen to someone)"
+    "to occur": "къэфын; къэхъун; щыш1ын (something to happen to someone); къехъул1эн (an incident to happen to someone); тефэн (to occur at a certain time); зэтефэн (to occur at the same time or with coordinated timing)"
   },
   {
     "freedom": "шъхьэфитынгъэ"
@@ -13734,7 +13752,7 @@
     "repeatedly": "къытэгъэзагъэу"
   },
   {
-    "to shove": "дэкон (to cram/shove something inside another object, to cram/shove in between); хэкон (to cram/shove through); 1удзын (to shove someone away); икон (to cram/shove inside); ч1экон (to cram/shove under); е1унк1эн (to push someone); игъэзыхьан (to forcefully shove inside); чӏэгъэзыхьан (to forcefully shove under something); хэгъэзыхьан (to forcefully shove through); дэгъэзыхьан (to forcefully shove into); къогъэзыхьан (to forcefully shove behind); т1ыргун (to shove, to push)"
+    "to shove": "хэсэн (to thrust into, to shove into); исэн (to thrust inside, to shove inside); дэкон (to cram/shove something inside another object, to cram/shove in between); хэкон (to cram/shove through); 1удзын (to shove someone away); икон (to cram/shove inside); ч1экон (to cram/shove under); е1унк1эн (to push someone); игъэзыхьан (to forcefully shove inside); чӏэгъэзыхьан (to forcefully shove under something); хэгъэзыхьан (to forcefully shove through); дэгъэзыхьан (to forcefully shove into); къогъэзыхьан (to forcefully shove behind); т1ыргун (to shove, to push)"
   },
   {
     "to tuck": "дэкон"
@@ -16596,7 +16614,7 @@
     "grandchildren (on the line of the daughter); one's daughter's children": "пхъурылъф"
   },
   {
-    "to push": "1унк1эн (to push someone); т1ыргун (to push someone); (Shapsug) егук1эн; ифын (to drive/push from an area, to drive/push from inside); 1уфын (to drive/push from near); дэфыен (to drive/push up); ефэхын (to drive/push down); блэфын (to drive/push pass); ч1эфын (to drive/push from under); тефын (to drive/push from above); хэфын (to drive/push from among other people/animals/objects, to drive/push from an area with gas or liquid, to drive/push from the forest or field); дэфын (to drive/push from a defined area such as a yard, area, village, etc.); къофын (to drive/push from behind); е1эн (to push with might)"
+    "to push": "1унк1эн (to push someone); т1ыргун (to push someone); (Shapsug) егук1эн; фын (to push something); ифын (to drive/push from an area, to drive/push from inside); 1уфын (to drive/push from near); дэфыен (to drive/push up); ефэхын (to drive/push down); блэфын (to drive/push pass); ч1эфын (to drive/push from under); тефын (to drive/push from above); хэфын (to drive/push from among other people/animals/objects, to drive/push from an area with gas or liquid, to drive/push from the forest or field); дэфын (to drive/push from a defined area such as a yard, area, village, etc.); къофын (to drive/push from behind); е1эн (to push with might)"
   },
   {
     "gallop": "хьапк1"

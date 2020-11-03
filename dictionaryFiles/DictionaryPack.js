@@ -2333,6 +2333,10 @@
 		  {
             "sentence": "Бжьыны убзымэ '''нэпсыхэр''' унэ къыч1игъэк1ыщтых",
             "translation": "If you slice opoion it will make '''tears''' come out from your eye."
+          },
+          {
+            "sentence": "Пшъашъэм '''ынэпсыхэр''' ынапэ къетк1ухых",
+            "translation": "The girl's '''tears''' are dropping from her face."
           }
         ]
       }
@@ -2785,6 +2789,10 @@
 		  {
             "sentence": "Ц1ыфым '''ынапэ''' плъэгъушъугъа?",
             "translation": "Did you manage to see the person's '''face'''?"
+          },
+          {
+            "sentence": "Пшъашъэм ынэпсыхэр '''ынапэ''' къетк1ухых",
+            "translation": "The girl's tears are dropping from '''her face'''."
           }
         ]
       },
@@ -5935,6 +5943,10 @@
         "meaning": "snake",
         "examples": [
 		  {
+            "sentence": "'''Блэм''' уемыблагъ, къыоцэкъэщт",
+            "translation": "Don't get close to '''the snake''', it will bite you."
+          },
+		  {
             "sentence": "'''Блэр''' ытхык1э мэц1анлъэ",
             "translation": "'''The snake''' is crawling on its stomach."
           },
@@ -5954,11 +5966,28 @@
     "definitions": [
       {
         "meaning": "owl",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Кукумаур''' чъыгым пыс",
+            "translation": "'''The owl''' is on the tree."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "kʷəkʷmaːw"
+  },
+  {
+    "word": "кукумяу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "owl",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "kʷəkʷəmjaːw"
   },
   {
     "word": "бык1у",
@@ -5973,6 +6002,18 @@
     "ipa": "bəkʷʼə"
   },
   {
+    "word": "шк1эхъужъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "bull-calf",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃtkʼaχʷəʐ"
+  },
+  {
     "word": "ныбгъэшъу",
     "lang": "Adyghe",
     "definitions": [
@@ -5985,12 +6026,83 @@
     "ipa": "nəbʁaʂʷ"
   },
   {
+    "word": "къырик1он",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"рик1он\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "qərəjkʷʼan"
+  },
+  {
+    "word": "рик1он",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to go on something; to walk on something",
+        "examples": [
+          {
+            "sentence": "К1алэр гъогум '''рек1о'''",
+            "translation": "The boy '''goes on''' the road."
+          },
+		  {
+            "sentence": "К1алэр пхъэм '''рек1о'''",
+            "translation": "The boy '''goes on''' the wood."
+          },
+		  {
+            "sentence": "Ц1ыфыр псым '''рик1ошъущтэп'''",
+            "translation": "A person '''cannot go on''' water."
+          }
+        ]
+      },
+	  {
+        "meaning": "to flow through",
+        "examples": [
+		  {
+            "sentence": "Гум лъы '''рек1о'''",
+            "translation": "Blood '''flows through''' the heart."
+          },
+		  {
+            "sentence": "Лъынтфэм лъы '''рек1о'''",
+            "translation": "Blood '''flows through''' the vains."
+          },
+		  {
+            "sentence": "Гъуч1ычым электрик '''рек1о'''",
+            "translation": "Electric '''flows through''' the wire."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "rəjkʷʼan"
+  },
+  {
     "word": "гу",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "heart",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Сыгу''' псынк1эу къео",
+            "translation": "'''My heart''' beats fast."
+          },
+		  {
+            "sentence": "Л1ым '''ыгу''' къеоу къызтеуцуагъ",
+            "translation": "The man's '''heart''' stopped beating."
+          },
+		  {
+            "sentence": "'''Гум''' лъы рек1о",
+            "translation": "Blood flows through '''the heart'''."
+          },
+		  {
+            "sentence": "'''Гур''' псынк1ащэуи жъэжъащэуи къеоу хъущтэп",
+            "translation": "'''The heart''' should not beat too faster or too slow."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -6034,7 +6146,7 @@
     "ipa": "bʑa"
   },
   {
-    "word": "махъшэбзу",
+    "word": "махъшэбзыу",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -6074,12 +6186,52 @@
     "ipa": "ʔarʁʷəj"
   },
   {
+    "word": "тхьачэтыл",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "turkey meat",
+        "examples": [
+          {
+            "sentence": "Кристианхэмэ мэфэк1 я1 '''тхьачэтыл''' ашхэу",
+            "translation": "The Christians have a holiday in which they eat '''turkey meat'''."
+          }
+        ]
+      }
+    ],
+    "shapsug": "тхьакьэтыл",
+    "type": "noun",
+    "ipa": "tħaːt͡ʃatəɮ"
+  },
+  {
+    "word": "тхьачэтыхъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "male turkey (bird)",
+        "examples": []
+      }
+    ],
+    "shapsug": "тхьакьэтыхъу",
+    "type": "noun",
+    "ipa": "tħaːt͡ʃatəχʷ"
+  },
+  {
     "word": "тхьачэт",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "turkey",
-        "examples": []
+        "meaning": "(bird) turkey",
+        "examples": [
+          {
+            "sentence": "Ныпчыхьэ '''тхьачэт''' тышхыщт",
+            "translation": "Tonight we will eat '''turkey'''."
+          },
+		  {
+            "sentence": "''Тхьачэтым'' кур-кур' е1о",
+            "translation": "''The turkey'' says kur kur."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -6087,7 +6239,7 @@
     ],
     "shapsug": "тхьакьэт",
     "type": "noun",
-    "ipa": "tħakʲʼat"
+    "ipa": "tħaːt͡ʃat"
   },
   {
     "word": "кур-кур",
@@ -6099,11 +6251,21 @@
       },
       {
         "meaning": "the sound a turkey makes",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Тхьачэтым '''кур-кур''' е1о",
+            "translation": "The turkey says '''kur kur'''."
+          }
+        ]
       },
       {
         "meaning": "(informal) turkey",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ныпчыхьэ '''кур-кур''' тышхыщт",
+            "translation": "Tonight we will eat '''turkey'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -6152,12 +6314,79 @@
     "ipa": "mamaːw"
   },
   {
+    "word": "ибыбыхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to fly around inside something",
+        "examples": [
+          {
+            "sentence": "Бадзэ горэ унэм '''ибыбыхьэу''' ит",
+            "translation": "There is a fly '''flying around in''' the house."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "jəbəbəħaːn"
+  },
+  {
+    "word": "ибыбын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to fly inside something",
+        "examples": [
+          {
+            "sentence": "Бадзэр унэм '''ибыбыгъ'''",
+            "translation": "The fly '''flew out of''' the house."
+          },
+		  {
+            "sentence": "Шъхьангъупчъэр къы1ухи бадзэр унэм '''идгъэбыбын''' ты1ощт",
+            "translation": "Open the window and '''we''' will try '''to make''' the fly '''fly out of''' the house."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "jəbəbən"
+  },
+  {
     "word": "бадзэ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "housefly (fly)",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Бадзэр''' мэбыбы",
+            "translation": "'''The housefly''' flies."
+          },
+		  {
+            "sentence": "'''Бадзэ''' горэ унэм ибыбыхьэу ит",
+            "translation": "There is '''a housefly''' flying around in the house."
+          },
+		  {
+            "sentence": "Шъхьангъупчъэр къы1ухи '''бадзэр''' унэм идгъэбыбын ты1ощт",
+            "translation": "Open the window and we will try to make '''the housefly''' fly out of the house."
+          },
+		  {
+            "sentence": "'''Бадзэр''' унэм ибыбыгъ",
+            "translation": "'''The housefly''' flew out of the house."
+          },
+          {
+            "sentence": "К1алэм '''бадзэр''' ыц1ыц1ыгъ",
+            "translation": "The boy squashed '''the fly'''."
+          },
+          {
+            "sentence": "Л1ым хьантхъупсы ешъо пэтырэу хилъэгъуагъ '''бадзэ'''",
+            "translation": "While the man was drinking soup, he saw '''a fly''' in it."
+          },
+          {
+            "sentence": "Нэфнэм '''бадзэхэ''' къек1уал1эх",
+            "translation": "'''Flies''' are approaching the light."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -6185,7 +6414,12 @@
     "definitions": [
       {
         "meaning": "breeding bull; uncastrated bull",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Быгъур''' цоу  амысэк1ыгъэр",
+            "translation": "'''A breeding bull''' is a bull that was not castrated"
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -6293,7 +6527,16 @@
     "definitions": [
       {
         "meaning": "hedgehog",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Пыжъым''' псэушъхьэу панэхэр зытетыр",
+            "translation": "'''A hedgehog''' is an animal that has thorns on it."
+          },
+		  {
+            "sentence": "'''Пыжъым''' унэмыс, укъиу1эщт",
+            "translation": "Don't touch '''the hedgehog''', it will wound you."
+          }
+        ]
       }
     ],
     "kabardian": "ц1ыжьбанэ",
@@ -6313,22 +6556,36 @@
     "ipa": "məʂəpqa"
   },
   {
+    "word": "къуагъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "caw (the harsh cry of a crow)",
+        "examples": [
+          {
+            "sentence": "Къолэжъым '''къуагъ''' ы1о",
+            "translation": "The raven '''cawed'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "qʷaːʁ"
+  },
+  {
     "word": "къолэжъ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "raven",
-        "examples": []
-      },
-      {
-        "meaning": "crow",
-        "examples": []
+        "meaning": "raven; crow",
+        "examples": [
+          {
+            "sentence": "'''Къолэжъым''' къуагъ ы1о",
+            "translation": "'''The raven''' cawed."
+          }
+        ]
       }
     ],
-    "synonyms": [
-      "цунды"
-    ],
-    "kabardian": "къуагъыщхъуэ",
     "type": "noun",
     "ipa": "qʷalaʐ"
   },
@@ -6357,23 +6614,73 @@
     "definitions": [
       {
         "meaning": "single (not married, has no children, not in a romantic relationship)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ы '''шъхьэзакъу'''",
+            "translation": "'''Single''' man."
+          }
+        ]
       }
     ],
     "type": "adj",
     "ipa": "ʂħazaːqʷ"
   },
   {
-    "word": "къазмэ",
+    "word": "пэнапц1э",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "pickaxe",
+        "meaning": "barberry",
         "examples": []
       }
     ],
     "type": "noun",
+    "ipa": "qaːzmaqpaːn"
+  },
+  {
+    "word": "къазмэкъпан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "sea buckthorn",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "qaːzmaqpaːn"
+  },
+  {
+    "word": "къазмэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "pickaxe; pickax",
+        "examples": [
+          {
+            "sentence": "К1алэм '''къазмэк1э''' мат1э",
+            "translation": "The boy is digging with '''a pickaxe'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
     "ipa": "qaːzma"
+  },
+  {
+    "word": "хьанцэк1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "the shovel's handle",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "къазгъыр"
+    ],
+    "shapsug": "хьацэ",
+    "type": "noun",
+    "ipa": "ħant͡sa"
   },
   {
     "word": "хьанцэ",
@@ -6381,7 +6688,20 @@
     "definitions": [
       {
         "meaning": "shovel",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''хьанцэк1э''' мат1э",
+            "translation": "The boy is digging with '''a shovel'''."
+          },
+		  {
+            "sentence": "'''Хьанцэмк1э''' ят1эр мык1э къэфых",
+            "translation": "'''With the shovel''', push the dirt toward here."
+          },
+		  {
+            "sentence": "Пшахъом '''хьанцэр''' к1алэм хисагъ",
+            "translation": "The boy shoved '''the shovel''' into the sand."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -6397,7 +6717,12 @@
     "definitions": [
       {
         "meaning": "hoe",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''ш1уанэмк1э''' ят1эр ет1ы",
+            "translation": "The boy is digging up the dirt '''with the hoe'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -6479,7 +6804,16 @@
     "definitions": [
       {
         "meaning": "blood",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Гум '''лъы''' рек1о",
+            "translation": "'''Blood''' flows through the heart."
+          },
+		  {
+            "sentence": "Лъынтфэм '''лъы''' рек1о",
+            "translation": "'''Blood''' flows through the vains."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -6604,7 +6938,12 @@
     "definitions": [
       {
         "meaning": "A blood vessel: an artery or vein.",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Лъынтфэм''' лъы рек1о",
+            "translation": "Blood flows through '''the vains'''."
+          }
+        ]
       },
       {
         "meaning": "sinew",
@@ -7057,7 +7396,16 @@
     "definitions": [
       {
         "meaning": "god",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Тхьэм''' ц1ыфыр ыш1ыгъ",
+            "translation": "'''God''' created the human."
+          },
+		  {
+            "sentence": "'''Тхьэм''' апэрэ ц1ыфыр ят1эм къыхигъэш1ык1ыгъ",
+            "translation": "'''God''' created the first human out of clay."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -8769,6 +9117,10 @@
           {
             "sentence": "Ощхэу унашъхьэм къытещхэрэр унашъхьэм '''къетк1ухи''' щыгум дэтк1ужьы",
             "translation": "The rain that falls on the roof '''drips down''' into the yard."
+          },
+          {
+            "sentence": "Пшъашъэм ынэпсыхэр ынапэ '''къетк1ухых'''",
+            "translation": "The girl's tears '''are dropping''' from her face."
           }
         ]
       }
@@ -8838,7 +9190,12 @@
     "definitions": [
       {
         "meaning": "sand",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Пшахъом''' хьанцэр к1алэм хисагъ",
+            "translation": "The boy shoved the shovel into '''the sand'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -9038,6 +9395,10 @@
 		  {
             "sentence": "Л1ыр лъэоек1э '''унэм''' дэк1оягъ",
             "translation": "The man went up '''the house''' with the ladder."
+          },
+		  {
+            "sentence": "Бадзэр '''унэм''' ибыбыгъ",
+            "translation": "The housefly flew out of '''the house'''."
           }
         ]
       }
@@ -9457,6 +9818,10 @@
 		  {
             "sentence": "Бзылъфыгъэм '''шъхьангъупчъэр''' елъэк1ы хъэдэнк1э",
             "translation": "The woman wipes '''the window''' with a rag."
+          },
+		  {
+            "sentence": "'''Шъхьангъупчъэм''' бадзэр ибыбыгъ",
+            "translation": "The housefly flew out '''the window'''."
           }
         ]
       }
@@ -10114,12 +10479,67 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "dirt",
-        "examples": []
+        "meaning": "dirt; clay",
+        "examples": [
+		  {
+            "sentence": "Хьанцэмк1э '''ят1эр''' мык1э къэфых",
+            "translation": "With the shovel, push '''the dirt''' toward here."
+          },
+		  {
+            "sentence": "К1алэм ш1уанэмк1э '''ят1эр''' ет1ы",
+            "translation": "The boy is digging up '''the dirt''' with the hoe."
+          },
+		  {
+            "sentence": "'''Ят1эм''' хьанцэр к1алэм хисагъ",
+            "translation": "The boy shoved the shovel into '''the dirt'''."
+          },
+		  {
+            "sentence": "'''Ят1эм''' к1эхэр халъхьэх",
+            "translation": "Put the seeds inside '''the dirt'''."
+          },
+		  {
+            "sentence": "Хьадэр '''ят1эм''' ч1игъэсэягъ",
+            "translation": "They buried the corpse under '''the dirt'''."
+          },
+          {
+            "sentence": "Джипэ '''ят1эм''' хэтэу мэцуахъо",
+            "translation": "The Jeep while being on the dirt is slipping."
+          },
+		  {
+            "sentence": "Ку '''ят1эм''' щыбыуфымэ, сапэ ыгъэутысэщт",
+            "translation": "If you drive a car on '''dirt''', it will spray dust."
+          },
+		  {
+            "sentence": "Къэгъагъэр '''ят1эм''' к1алэм хилъхьагъ",
+            "translation": "The boy planted the flower in '''the dirt'''."
+          },
+		  {
+            "sentence": "Тхьэм апэрэ ц1ыфыр '''ят1эм''' къыхигъэш1ык1ыгъ",
+            "translation": "God created the first human out of '''clay'''."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "jaːtʼa"
+  },
+  {
+    "word": "хэгъэш1ык1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to create something out of",
+        "examples": [
+          {
+            "sentence": "Тхьэм апэрэ ц1ыфыр ят1эм '''къыхигъэш1ык1ыгъ'''",
+            "translation": "God '''created''' the first human '''out of''' clay."
+          }
+        ]
+      }
+    ],
+    "shapsug": "хэгъэш1ык1ьын",
+    "type": "noun",
+    "ipa": "xaʁaʃʼət͡ʃʼən"
   },
   {
     "word": "сапэ",
@@ -11078,6 +11498,10 @@
 		  {
             "sentence": "Тхьапшэрэ '''очъэшъу'''?",
             "translation": "For how long '''can you run'''?"
+          },
+		  {
+            "sentence": "Псынк1ащэу '''очъэти''' уск1эхьашъурэп",
+            "translation": "'''Because you are running''' too fast I can't catch up with you."
           }
         ]
       }
@@ -11283,10 +11707,44 @@
             "translation": "The man '''encountered''' his boss on the street."
           }
         ]
+      },
+	  {
+        "meaning": "to synchronize with; to cause two or more events or actions to happen at exactly the same time or same rate, or in a time-coordinated way",
+        "examples": [
+          {
+            "sentence": "Фылымым зэдзэк1ынэу къыч1идзэрэр фылымым '''тефэрэп'''",
+            "translation": "The translate under the movie '''does not synchronize with''' the movie."
+          },
+          {
+            "sentence": "Къап1орэр хъугъэм '''тефэрэп'''",
+            "translation": "What you are saying '''does not synchronize with''' what happened yesterday."
+          }
+        ]
       }
     ],
     "type": "verb",
-    "ipa": "tafan"
+    "ipa": "tajfan"
+  },
+  {
+    "word": "зэтефэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to synchronize with each other",
+        "examples": [
+          {
+            "sentence": "Фылымым къыридзэрэмрэ фылымым зэдзэк1ынэу къыч1идзэрэмрэ  '''зэтефэхэрэп'''",
+            "translation": "What displays in the movie and the movie's translation that appear under '''are not synchronized with each other'''."
+          },
+		  {
+            "sentence": "къашъу1охэрэр '''зэтефэхэрэп'''",
+            "translation": "The things you guys are saying '''do not synchronized with each other''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zatajfan"
   },
   {
     "word": "т1эрэхын",
@@ -22715,6 +23173,10 @@
 		  {
             "sentence": "Убзэгук1э у1энтэгъу '''унэсышъущта'''?",
             "translation": "'''Can you touch''' your elbow with your tongue?"
+          },
+		  {
+            "sentence": "Пыжъым '''унэмыс''', укъиу1эщт",
+            "translation": "'''Don't touch''' the hedgehog, it will wound you."
           }
         ]
       },
@@ -23754,6 +24216,10 @@
 		  {
             "sentence": "Кумэ уагуахьэу зыхъурэм, япчъэхэмэ '''уамыблагъ''' зыгорэм къик1ымэ емыутынэу",
             "translation": "When you go besides the cars, '''don't get close to''' their doors so you won't ran over someone if he gets out."
+          },
+		  {
+            "sentence": "Блэм '''уемыблагъ''', къыоцэкъэщт",
+            "translation": "'''Don't get close to''' the snake, it will bite you."
           }
         ]
       }
@@ -25555,6 +26021,10 @@
 		  {
             "sentence": "К1элэегъаджэр '''жъэжъащэу''' матхэ",
             "translation": "The teacher writes '''too slowly'''."
+          },
+		  {
+            "sentence": "Гур псынк1ащэуи '''жъэжъащэуи''' къеоу хъущтэп",
+            "translation": "The heart should not beat too faster or '''too slow'''."
           }
         ]
       }
@@ -31281,6 +31751,14 @@
 		  {
             "sentence": "Аслъаныр '''псынк1эти''' уш1уежьэжьын п1омэ къыпк1эхьащт",
             "translation": "'''Because''' the lion '''is fast''', if you try to flee from it, it will catch up to you"
+          },
+		  {
+            "sentence": "Гур '''псынк1ащэуи''' жъэжъащэуи къеоу хъущтэп",
+            "translation": "The heart should not beat '''too faster''' or too slow."
+          },
+		  {
+            "sentence": "'''Псынк1ащэу''' очъэти уск1эхьашъурэп",
+            "translation": "Because you are running '''too fast''' I can't catch up with you."
           }
         ]
       },
@@ -37769,6 +38247,19 @@
         ]
       },
       {
+        "meaning": "ground",
+        "examples": [
+		  {
+            "sentence": "К1алэм ш1уанэмк1э '''ч1ыгур''' ет1ы",
+            "translation": "The boy is digging up '''the ground''' with the hoe."
+          },
+		  {
+            "sentence": "К1алэм '''ч1ыгум''' машэ хит1ык1ыгъ",
+            "translation": "The boy dug out a hole in '''the ground'''."
+          }
+        ]
+      },
+      {
         "meaning": "earth",
         "examples": []
       }
@@ -40305,7 +40796,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to drive; to move something (forcefully)",
+        "meaning": "to drive; to move something (forcefully); to push",
         "examples": [
           {
             "sentence": "Сэры '''зифырэр'''.",
@@ -40329,7 +40820,11 @@
           },
 		  {
             "sentence": "Ку ят1эм '''щыбыуфымэ''', сапэ ыгъэутысэщт",
-            "translation": "'''If you drive''' a car '''on''' a dirt, it will spray dust."
+            "translation": "'''If you drive''' a car '''on''' dirt, it will spray dust."
+          },
+		  {
+            "sentence": "Хьанцэмк1э ят1эр мык1э '''къэфых'''",
+            "translation": "With the shovel, '''push''' the dirt toward here."
           }
         ]
       }
@@ -46148,7 +46643,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to make food by heat (for example: to bake, to grill, to fry)",
+        "meaning": "to cook; to make food by heat (for example: to bake, to grill, to fry)",
         "examples": [
           {
             "sentence": "Сянэ пц1эжъыехэр '''къегъэжъэх'''",
@@ -46169,6 +46664,10 @@
 		  {
             "sentence": "К1алэм табэмк1э лы '''ыгъэжъагъ'''",
             "translation": "The boy '''cocked''' meat with the frying pan."
+          },
+		  {
+            "sentence": "Бысымгуащэм чэтыл '''ыгъэжъагъ'''",
+            "translation": "The house-wife '''cooked''' chicken meat."
           }
         ]
       }
@@ -49627,6 +50126,10 @@
           {
             "sentence": "к1алэм пчъэр '''къы1урегъэх'''",
             "translation": "'''Make''' the boy '''open''' the door."
+          },
+		  {
+            "sentence": "Шъхьангъупчъэр '''къы1ухи''' бадзэр унэм идгъэбыбын ты1ощт",
+            "translation": "'''Open''' the window and we will try to make the housefly fly out of the house."
           }
         ]
       },
@@ -50662,6 +51165,15 @@
           {
             "sentence": "К1алэр зэрэкъэк1орэр '''хэсэш1ык1ы'''",
             "translation": "'''I sense''' that the boy is coming."
+          }
+        ]
+      },
+	  {
+        "meaning": "to be created out of; to be made out of",
+        "examples": [
+          {
+            "sentence": "Апэрэ ц1ыфыр ят1эм '''хэш1ык1ыгъ'''",
+            "translation": "The first human '''is created out of''' clay."
           }
         ]
       }
@@ -68427,7 +68939,7 @@
         ]
       },
       {
-        "meaning": "to produce",
+        "meaning": "to produce; to create",
         "examples": [
           {
             "sentence": "1офымк1э гъуч1ыхэр '''аш1ых'''",
@@ -68436,6 +68948,18 @@
           {
             "sentence": "Джэгъогъум нахь бэ джэгъогъу '''къеш1ы'''",
             "translation": "Hate '''produces''' more hate."
+          },
+          {
+            "sentence": "К1алэм фылым '''ыш1ыгъ'''",
+            "translation": "The young man '''created''' a film."
+          },
+          {
+            "sentence": "Джэгу '''сыш1ыгъ'''",
+            "translation": "'''I created''' a game."
+          },
+          {
+            "sentence": "Тхьэм ц1ыфыр '''ыш1ыгъ'''",
+            "translation": "God '''created''' the human."
           }
         ]
       }
@@ -69149,7 +69673,7 @@
             "translation": "While going '''I stumbled into''' the small table."
           },
 		  {
-            "sentence": "1анэр къаэзгъэзэшъурэп, дэпкъым '''ш1уанэ'''",
+            "sentence": "1анэр къэзгъэзэшъурэп, дэпкъым '''ш1уанэ'''",
             "translation": "I can't turn the table, '''it stumbles into''' the wall."
           }
         ]
@@ -88135,6 +88659,10 @@
           {
             "sentence": "'''Бысымгуащэм''' хьак1эхэр дэгъоу ыгъэхьак1агъэх",
             "translation": "'''The housewife''' hosted the guests well."
+          },
+		  {
+            "sentence": "'''Бысымгуащэм''' чэтыл ыгъэжъагъ",
+            "translation": "'''The housewife''' cooked chicken meat."
           }
         ]
       }
@@ -92189,6 +92717,10 @@
 		  {
             "sentence": "Л1ым '''машэ''' ыт1ыгъ",
             "translation": "The man dug '''a hole'''."
+          },
+		  {
+            "sentence": "К1алэм '''машэ''' ч1ыгум хит1ык1ыгъ",
+            "translation": "The boy dug out '''a hole''' in the group."
           }
         ]
       }
@@ -92215,6 +92747,10 @@
 		  {
             "sentence": "К1алэм курб '''ет1ы''' къэгъагъэ рилъхьанэу",
             "translation": "The boy '''digs''' a hole to put flower in it."
+          },
+		  {
+            "sentence": "К1алэм ш1уанэмк1э ч1ыгур '''ет1ы'''",
+            "translation": "The boy '''is digging up''' the ground with the hoe."
           }
         ]
       }
@@ -95519,6 +96055,10 @@
 		  {
             "sentence": "К1алэр '''курбым''' ифагъ",
             "translation": "The boy fell into '''a pit'''."
+          },
+		  {
+            "sentence": "К1алэм '''курб''' ч1ыгум хит1ык1ыгъ",
+            "translation": "The boy dug out '''a hole''' in the group."
           }
         ]
       }
@@ -95631,6 +96171,10 @@
           {
             "sentence": "'''Мэфэк1ым''' шъузэш1ужьын фай",
             "translation": "'''In the holiday''' you need to reconcile with each other."
+          },
+		  {
+            "sentence": "Кристианхэмэ '''мэфэк1''' я1 тхьачэтыл ашхэу",
+            "translation": "The Christians have '''a holiday''' in which they eat turkey meat."
           }
         ]
       }
@@ -96363,6 +96907,10 @@
           {
             "sentence": "Шыр адрэ шым '''к1эхьанк1э''' т1эк1у нахь и1эжьэп",
             "translation": "There is not that much for the horse '''to catch up with''' the other horse."
+          },
+		  {
+            "sentence": "Псынк1ащэу очъэти '''уск1эхьашъурэп'''",
+            "translation": "Because you are running too fast '''I can't catch up with you'''."
           },
 		  {
             "sentence": "К1алэр л1ым '''к1эхьагъ'''",
@@ -101475,6 +102023,10 @@
 		  {
             "sentence": "Электрикэр '''гъуч1ычэу''' зырик1орэр егъплъы",
             "translation": "Electric heats '''the wire''' it goes through."
+          },
+		  {
+            "sentence": "'''Гъуч1ычым''' электрик рек1о",
+            "translation": "Electric flows through '''the wire'''."
           }
         ]
       }
@@ -104534,6 +105086,10 @@
 		  {
             "sentence": "'''Шъузэтемыуцоу''' шъук1у",
             "translation": "Go '''without halting'''."
+          },
+		  {
+            "sentence": "Л1ым ыгу къеоу '''къызтеуцуагъ'''",
+            "translation": "The man's heart '''stopped''' beating."
           }
         ]
       },
@@ -111999,6 +112555,10 @@
 		  {
             "sentence": "Тиунэр '''панэк1э''' къэгъэк1ухьагъ",
             "translation": "My house is surrounded '''by thorns'''."
+          },
+		  {
+            "sentence": "Пыжъым псэушъхьэу '''панэхэр''' зытетыр",
+            "translation": "A hedgehog is an animal that has '''thorns''' on it."
           }
         ]
       }
@@ -116299,43 +116859,6 @@
     ],
     "type": "verb",
     "ipa": "ɬaɕan"
-  },
-  {
-    "word": "къырик1он",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "alternative form of \"рик1он\"",
-        "examples": []
-      }
-    ],
-    "type": "verb",
-    "ipa": "qərəjkʷʼan"
-  },
-  {
-    "word": "рик1он",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to go on something; to walk on something",
-        "examples": [
-          {
-            "sentence": "К1алэр гъогум '''рек1о'''",
-            "translation": "The boy '''goes on''' the road."
-          },
-		  {
-            "sentence": "К1алэр пхъэм '''рек1о'''",
-            "translation": "The boy '''goes on''' the wood."
-          },
-		  {
-            "sentence": "Ц1ыфыр псым '''рик1ошъущтэп'''",
-            "translation": "A person '''cannot go on''' water."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "rəjkʷʼan"
   },
   {
     "word": "фэулэун",
