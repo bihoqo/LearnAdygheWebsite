@@ -3142,6 +3142,10 @@
 		  {
             "sentence": "Хьэр '''с1э''' къецакъагъ",
             "translation": "The dog bited '''my arm'''."
+          },
+		  {
+            "sentence": "Лъы '''с1э''' къек1ы",
+            "translation": "Blood is coming out of '''my arm'''."
           }
         ]
       },
@@ -6221,6 +6225,19 @@
     "ipa": "tħaːt͡ʃatəχʷ"
   },
   {
+    "word": "тхьэчэт",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"тхьачэт\"",
+        "examples": []
+      }
+    ],
+    "shapsug": "тхьэкьэт",
+    "type": "noun",
+    "ipa": "tħat͡ʃat"
+  },
+  {
     "word": "тхьачэт",
     "lang": "Adyghe",
     "definitions": [
@@ -6847,6 +6864,10 @@
 		  {
             "sentence": "Лъынтфэм '''лъы''' рек1о",
             "translation": "'''Blood''' flows through the vains."
+          },
+		  {
+            "sentence": "'''Лъы''' с1э къек1ы",
+            "translation": "'''Blood''' is coming out of my arm."
           }
         ]
       }
@@ -15694,11 +15715,11 @@
     "ipa": "aːd͡ʒaːr"
   },
   {
-    "word": "адрабгъу",
+    "word": "адрэк1",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"адрэк1\"",
+        "meaning": "alternative form of \"адрабгъу\"",
         "examples": []
       }
     ],
@@ -15719,6 +15740,10 @@
 		  {
             "sentence": "Псыхъомк1э к1алэр адрабгъум 1уи",
             "translation": "The boy is standing on '''the opposite side''' of the river"
+          },
+		  {
+            "sentence": "Зыбгъур фыжьы, '''адрабгъур''' ш1уц1э",
+            "translation": "One side is white, the '''other side''' is black."
           }
         ]
       }
@@ -39883,6 +39908,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "to get entangled with each other; to get twisted together or get caught together",
+        "examples": []
+      },
+	  {
         "meaning": "alternative form of \"зэк1энэн\"",
         "examples": []
       }
@@ -70563,6 +70592,10 @@
             "translation": "'''Install''' the files to the computer."
           }
         ]
+      },
+	  {
+        "meaning": "to break a part/portion of something",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -73748,6 +73781,10 @@
           {
             "sentence": "Баджэр бым '''къик1ыгъ'''",
             "translation": "The fox '''came out of''' the burrow."
+          },
+		  {
+            "sentence": "Лъы с1э '''къек1ы'''",
+            "translation": "Blood '''is coming out''' of my arm."
           }
         ]
       },
@@ -73790,6 +73827,66 @@
     "shapsug": "къик1ьын",
     "type": "verb",
     "ipa": "qəjt͡ʃʼən"
+  },
+  {
+    "word": "ик1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to go out; to go outside; to leave",
+        "examples": [
+          {
+            "sentence": "Л1ыр унэм '''ик1ыгъ'''",
+            "translation": "The man '''went out'''."
+          },
+          {
+            "sentence": "Пчъэр зэ1унагъ, унэм '''сик1ышъурэп'''",
+            "translation": "The door is stuck, '''I cannot get out of''' the house."
+          }
+        ]
+      }
+    ],
+    "shapsug": "ик1ьын",
+    "type": "verb",
+    "ipa": "jət͡ʃʼən"
+  },
+  {
+    "word": "зэ1унэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to get stuck",
+        "examples": [
+          {
+            "sentence": "Пчъэр '''зэ1унагъ''', пчъэр 1усхышъурэп",
+            "translation": "The door '''got stuck''', I cannot open the door."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaʔʷənan"
+  },
+  {
+    "word": "зэш1онэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to get stuck",
+        "examples": [
+          {
+            "sentence": "Пчъэр '''зэш1онагъ''', пчъэр 1усхышъурэп",
+            "translation": "The door '''got stuck''', I cannot open the door."
+          },
+		  {
+            "sentence": "Пчъэр '''зэш1онагъ''', пчъэр 1усхышъурэп",
+            "translation": "The door '''got stuck''', I cannot open the door."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zaʃʷʼanan"
   },
   {
     "word": "гъэгъэн",
@@ -90894,7 +90991,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to break off a part from (due to a strong impact)",
+        "meaning": "to break the edge of something (usaully due to a strong impact)",
         "examples": [
           {
             "sentence": "1анэм ылъакъо зы '''пыутыгъ'''",
@@ -99592,13 +99689,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "other side",
-        "examples": [
-          {
-            "sentence": "Зыбгъур фыжьы, '''адрэбгъур''' ш1уц1э",
-            "translation": "One side is white, the '''other side''' is black."
-          }
-        ]
+        "meaning": "alternative form of \"адрабгъу\"",
+        "examples": []
       }
     ],
     "type": "noun",
