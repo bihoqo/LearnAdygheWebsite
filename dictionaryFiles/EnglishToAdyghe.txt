@@ -426,9 +426,6 @@
     "neck": "пшъэ; пшъэтыкъ; пшъэбы (back of the neck); пшъэк1ыб (back of the neck)"
   },
   {
-    "high": "1этыгъ"
-  },
-  {
     "joint of hand": "1эшъхьэ"
   },
   {
@@ -9802,10 +9799,10 @@
 	"to pick out": "ичын / къичын (to pick out a plant out of the ground)"
   },
   {
-    "to pull out": "ичын / къичын (to pick out a plant out of the ground); итхъын (to pull out from the ground or from inside something); дэтхъын (to pull out from inside another object that can be opened)"
+    "to pull out": "ичын / къичын (to pick out a plant out of the ground); итхъын (to pull out from the ground or from inside something); дэтхъын (to pull out from inside another object that can be opened); хэдзын / къыхэдзын (to pull something out of a mass of gas or liquid)"
   },
   {
-    "to pull": "къудыин / къэкъудыин (to pull, to apply a force to (an object) so that it comes toward the person or thing applying the force); дэтхъын (to pull out from inside another object that can be opened); итхъын (to pull out from the ground or from inside something); икъудыик1ын / къикъудыик1ын (to pull something from inside something); ч1экъудыик1ын / къыч1экъудыик1ын (to pull something from under something); къэлъэшъун (to pull something to oneself, to gravitate something to oneself); хэтхъын (to pull/tear a part/portion of something); пытхъын (to pull/tear off a part of something on the tip/edge, to pull/tear off something attached, to pull a body part off); пычын (to pick a fruit or flower); дэлъэшъоен (to pull up); елъэшъохын / къелъэшъохын (to pull down, to gravitate downward); дэтхъын (to pull out from inside another object like a book); хэщын (to pull someone out of a certain situation); к1ырыун (to tug, to pull hard)"
+    "to pull": "къудыин / къэкъудыин (to pull, to apply a force to (an object) so that it comes toward the person or thing applying the force); дэтхъын (to pull out from inside another object that can be opened); итхъын (to pull out from the ground or from inside something); икъудыик1ын / къикъудыик1ын (to pull something from inside something); ч1экъудыик1ын / къыч1экъудыик1ын (to pull something from under something); къэлъэшъун (to pull something to oneself, to gravitate something to oneself); хэтхъын (to pull/tear a part/portion of something); пытхъын (to pull/tear off a part of something on the tip/edge, to pull/tear off something attached, to pull a body part off); пычын (to pick a fruit or flower); дэлъэшъоен (to pull up); елъэшъохын / къелъэшъохын (to pull down, to gravitate downward); дэтхъын (to pull out from inside another object like a book); хэщын (to pull someone out of a certain situation); к1ырыун (to tug, to pull hard); хэдзын / къыхэдзын (to pull something out of a mass of gas or liquid)"
   },
   {
     "to gravitate": "къэлъэшъун (to pull to oneself); елъэшъохын / къелъэшъохын (to pull down, to gravitate downward)"
@@ -19841,6 +19838,9 @@
   },
   {
     "voracious": "ныбэрый; бэшхы"
+  },
+  {
+    "fisherman": "пцэжъыяшэ"
   },
   {
     "to mate": "лъыхъожьын (animals)"

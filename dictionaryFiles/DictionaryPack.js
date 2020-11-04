@@ -2027,6 +2027,14 @@
 		  {
             "sentence": "'''Пцэжъыер''' хым ык1ы1у къыдэк1оягъ",
             "translation": "'''The fish''' came up to the surface of the sea."
+          },
+		  {
+            "sentence": "Пцэжъыяшэм '''пцэжъые''' хым къыхидзыгъ",
+            "translation": "The fisherman pulled out '''a fish''' out of the sea."
+          },
+		  {
+            "sentence": "Пцэжъыяшэр хым хахьи '''пцэжъыехэр''' къеубытых",
+            "translation": "The fisherman goes into the sea and catches '''fishes'''."
           }
         ]
       }
@@ -3986,7 +3994,7 @@
             "translation": "A '''new''' boy."
           },
           {
-            "sentence": "ӏана'''к1эр''' къэхь",
+            "sentence": "1ана'''к1эр''' къэхь",
             "translation": "Bring the '''new''' table."
           },
           {
@@ -6886,11 +6894,69 @@
       },
 	  {
         "meaning": "small fox",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''бэджэжъые''' шъофым хэслъэгъуагъ",
+            "translation": "I saw '''a small fox''' in the fiels."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "bad͡ʒaʐəja"
+  },
+  {
+    "word": "паго",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "fish",
+        "examples": []
+      },
+	  {
+        "meaning": "sazan, wild carp (Cyprinus carpio)",
+        "examples": []
+      },
+	  {
+        "meaning": "blunt-nosed",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "paːgʷa"
+  },
+  {
+    "word": "пыгон",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "to dull, to blunt (feelings, one's mind, etc.)",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "pagʷan"
+  },
+  {
+    "word": "пцэжъыяшэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "fisherman",
+        "examples": [
+          {
+            "sentence": "'''Пцэжъыяшэм''' пцэжъые хым къыхидзыгъ",
+            "translation": "'''The fisherman''' pulled out a fish out of the sea."
+          },
+		  {
+            "sentence": "'''Пцэжъыяшэр''' хым хахьи пцэжъыехэр къеубытых",
+            "translation": "'''The fisherman''' goes into the sea and catches fishes."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "pt͡saʐəjaːʃa"
   },
   {
     "word": "джае",
@@ -6898,7 +6964,12 @@
     "definitions": [
       {
         "meaning": "catfish; sheatfish",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Пцэжъыяшэм '''джае''' хым къыхидзыгъ",
+            "translation": "The fisherman pulled out '''a catfish''' out of the sea."
+          }
+        ]
       }
     ],
     "kabardian": "джей",
@@ -11148,6 +11219,14 @@
 		  {
             "sentence": "Къухьэм сыкъизи '''хым''' сыхэфэгъагъ",
             "translation": "I dropped from the ship and fell into '''the sea'''."
+          },
+		  {
+            "sentence": "Пцэжъыяшэм пцэжъые '''хым''' къыхидзыгъ",
+            "translation": "The fisherman pulled out a fish out of '''the sea'''."
+          },
+		  {
+            "sentence": "Пцэжъыяшэр '''хым''' хахьи пцэжъыехэр къеубытых",
+            "translation": "The fisherman goes into '''the sea''' and catches fishes."
           }
         ]
       },
@@ -92782,7 +92861,7 @@
     "ipa": "pxand͡ʒ"
   },
   {
-    "word": "пцыкъу",
+    "word": "пцыкъо",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -108806,6 +108885,10 @@
 		  {
             "sentence": "Къещхырэм '''ухэхьагъэшъ''', уиджанэхэр уц1ыныгъэх",
             "translation": "'''Because you entered''' the rain, your clothes became wed."
+          },
+		  {
+            "sentence": "Пцэжъыяшэр хым '''хахьи''' пцэжъыехэр къеубытых",
+            "translation": "The fisherman '''goes into''' the sea and catches fishes."
           }
         ]
       }
