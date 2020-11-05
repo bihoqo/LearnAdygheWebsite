@@ -1400,7 +1400,12 @@
       },
       {
         "meaning": "flesh",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Къупшъхьэм '''лыр''' телъ",
+            "translation": "'''The flesh''' is on the bone."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -2030,7 +2035,7 @@
           },
 		  {
             "sentence": "Пцэжъыяшэм '''пцэжъые''' хым къыхидзыгъ",
-            "translation": "The fisherman pulled out '''a fish''' out of the sea."
+            "translation": "The fisherman pulled '''a fish''' out of the sea."
           },
 		  {
             "sentence": "Пцэжъыяшэр хым хахьи '''пцэжъыехэр''' къеубытых",
@@ -3154,6 +3159,10 @@
 		  {
             "sentence": "Лъы '''с1э''' къек1ы",
             "translation": "Blood is coming out of '''my arm'''."
+          },
+		  {
+            "sentence": "'''С1э''' уты ышхыгъэти плъыжьэу хъугъэ",
+            "translation": "Because '''my arm''' ate a blow it became red."
           }
         ]
       },
@@ -3740,6 +3749,10 @@
 		  {
             "sentence": "'''Слъакъохэр''' зэтепхагъэх, с1эхэр т1упщыгъэх",
             "translation": "'''My legs''' are tied up, my hands are loosed."
+          },
+		  {
+            "sentence": "Унашъхьэм укъемпк1эх, '''улъакъо''' зэпыпк1ыщт",
+            "translation": "Don't jump down from the root, you will break '''your leg'''."
           }
         ]
       },
@@ -4022,7 +4035,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "rheum (eye)",
+        "meaning": "eye booger; sleepy dust (Rheum crusted around the eyes from sleep)",
         "examples": [
           {
             "sentence": "Унэ '''нэк1эт1ыргъхэр''' ч1элъых",
@@ -6088,6 +6101,10 @@
 		  {
             "sentence": "Гъуч1ычым электрик '''рек1о'''",
             "translation": "Electric '''flows through''' the wire."
+          },
+          {
+            "sentence": "Л1ыжъым ылъынтфэхэр шъыбыгъэхэти, лъы тэрэзэу '''арик1ожьырэп'''",
+            "translation": "Because the old man's veins got sealed, blood '''doesn't flow them''' right."
           }
         ]
       }
@@ -6876,6 +6893,10 @@
 		  {
             "sentence": "'''Лъы''' с1э къек1ы",
             "translation": "'''Blood''' is coming out of my arm."
+          },
+          {
+            "sentence": "Л1ыжъым ылъынтфэхэр шъыбыгъэхэти, '''лъы''' тэрэзэу арик1ожьырэп",
+            "translation": "Because the old man's veins got sealed, '''blood''' doesn't flow them right."
           }
         ]
       }
@@ -6946,7 +6967,7 @@
         "examples": [
           {
             "sentence": "'''Пцэжъыяшэм''' пцэжъые хым къыхидзыгъ",
-            "translation": "'''The fisherman''' pulled out a fish out of the sea."
+            "translation": "'''The fisherman''' pulled a fish out of the sea."
           },
 		  {
             "sentence": "'''Пцэжъыяшэр''' хым хахьи пцэжъыехэр къеубытых",
@@ -6966,8 +6987,8 @@
         "meaning": "catfish; sheatfish",
         "examples": [
           {
-            "sentence": "Пцэжъыяшэм '''джае''' хым къыхидзыгъ",
-            "translation": "The fisherman pulled out '''a catfish''' out of the sea."
+            "sentence": "Пцэжъыяшэм '''джае''' хым къыхихыгъ",
+            "translation": "The fisherman took '''a catfish''' out of the sea."
           }
         ]
       }
@@ -6982,7 +7003,12 @@
     "definitions": [
       {
         "meaning": "camel",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ыр '''махъшэм''' тес",
+            "translation": "The man is sitting on '''the camel'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -7008,8 +7034,8 @@
             "translation": "The '''red''' cherry is pretty."
           },
 		  {
-            "sentence": "К1алэм ынэпашъо '''плъыжьэу''' хъугъэ",
-            "translation": "The boy's face became '''red'''"
+            "sentence": "С1э уты ышхыгъэти '''плъыжьэу''' хъугъэ",
+            "translation": "Because my arm ate a blow it became '''red'''."
           },
 		  {
             "sentence": "К1алэр ук1ытагъэти ынэгу '''плъыжьэу''' хъугъэ",
@@ -7052,7 +7078,20 @@
     "definitions": [
       {
         "meaning": "bone",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ым ылъакъо '''ыкъупшъхьэ''' зэпык1ыгъ",
+            "translation": "The man's leg's bone fractured."
+          },
+          {
+            "sentence": "'''Къупшъхьэм''' лыр телъ",
+            "translation": "The flesh is on '''the bone'''."
+          },
+		  {
+            "sentence": "Хьэр лъычъагъ '''къупшъхьэм''' къыхьыжьынэу",
+            "translation": "The dog ran after '''the bone''' to bring it back."
+          }
+        ]
       }
     ],
     "kabardian": "къупщхьэ",
@@ -7069,6 +7108,14 @@
 		  {
             "sentence": "'''Лъынтфэм''' лъы рек1о",
             "translation": "Blood flows through '''the vains'''."
+          },
+		  {
+            "sentence": "Л1'''Лъынтфэм''' лъы рек1о",
+            "translation": "Blood flows through '''the vains'''."
+          },
+          {
+            "sentence": "Л1ыжъым '''ылъынтфэхэр''' шъыбыгъэхэти, лъы тэрэзэу арик1ожьырэп",
+            "translation": "Because the old man's '''veins''' got sealed, blood doesn't flow them right."
           }
         ]
       },
@@ -7091,6 +7138,14 @@
 		  {
             "sentence": "'''Жак1эр''' жэк1апэм тет",
             "translation": "'''The beard''' is on the chin."
+          },
+		  {
+            "sentence": "'''Сжак1э''' тесыупсыгъ",
+            "translation": "I shaved '''my beard'''."
+          },
+		  {
+            "sentence": "Л1ыжъым '''ыжак1э''' к1ыхьэ",
+            "translation": "The old-man's '''beard''' is long."
           },
 		  {
             "sentence": "Л1ым '''ыжак1э''' еупсым цы т1эк1у ыжэк1апэ къэтригъэнагъ",
@@ -7134,7 +7189,12 @@
     "definitions": [
       {
         "meaning": "runny nose, rhinorrhea",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ыр '''пэтхъу-1утхъук1э''' сымадж",
+            "translation": "The man has a '''runny nose'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -7145,8 +7205,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "breast; bosom",
-        "examples": []
+        "meaning": "breast",
+        "examples": [
+          {
+            "sentence": "Шъузым сабыир '''ыбыдзык1э''' щэ регъашъо",
+            "translation": "The woman feeds the child '''with her breast''' milk."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -7174,7 +7239,24 @@
     "definitions": [
       {
         "meaning": "air, atmosphere",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Щагум сыдэхьагъ '''жьы''' сы1усгъэхьанэу",
+            "translation": "I went outside for breath '''air'''."
+          },
+		  {
+            "sentence": "Унэм '''жьы''' къихьарэп",
+            "translation": "'''Air''' does not enter the house."
+          },
+		  {
+            "sentence": "Къалэм '''жьэу''' дэтыр ш1ои",
+            "translation": "'''The air''' in the city is contaminated."
+          },
+		  {
+            "sentence": "1угъоу кумэ къарик1ырэм '''жьыр''' еуш1ои",
+            "translation": "The smoke coming from the cars contaminates '''the air'''."
+          }
+        ]
       },
       {
         "meaning": "breath",
@@ -7198,6 +7280,14 @@
           {
             "sentence": "'''Ошъуапщэр''' ежьашъо",
             "translation": "'''The cloud''' is grey."
+          },
+		  {
+            "sentence": "'''Ошъуапщэхэр''' уашъом къытехьагъэх",
+            "translation": "'''Clouds''' came over the sky."
+          },
+		  {
+            "sentence": "Ощхыр '''ошъуапщэмэ''' къач1эк1ы",
+            "translation": "Rain is coming out of '''the clouds'''."
           }
         ]
       }
@@ -7223,7 +7313,20 @@
     "definitions": [
       {
         "meaning": "those, those things, they (absolutive case)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Ахэр''' синыбджэгъух",
+            "translation": "'''They''' are my friends."
+          },
+		  {
+            "sentence": "'''Ахэр''' тэтехэп",
+            "translation": "'''Those''' are not ours."
+          },
+		  {
+            "sentence": "'''Ахэр''' п1эн фэягъэх",
+            "translation": "You have to know '''those'''."
+          }
+        ]
       }
     ],
     "type": "pron",
@@ -7234,7 +7337,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "fist",
+        "meaning": "alternative form of \"бжымы\"",
         "examples": []
       }
     ],
@@ -7247,10 +7350,23 @@
     "definitions": [
       {
         "meaning": "woman",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Сэтэнае гуащэр '''бзылъфыгъэ''' 1уш",
+            "translation": "Lady Sataney is a wise '''woman'''."
+          },
+		  {
+            "sentence": "'''Бзылъфыгъэм''' джанэхэр егык1ых",
+            "translation": "The woman laundries the clothes."
+          },
+		  {
+            "sentence": "'''Бзылъфыгъэм''' лыр лы1у-лы1оу ыупк1этагъ",
+            "translation": "The woman '''cut''' the meat piece by piece."
+          }
+        ]
       },
       {
-        "meaning": "human female",
+        "meaning": "(uncommon) human female",
         "examples": []
       }
     ],
@@ -7264,10 +7380,23 @@
     "definitions": [
       {
         "meaning": "man",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Сэтэнае гуащэр '''бзылъфыгъэ''' 1уш",
+            "translation": "Lady Sataney is a wise '''woman'''."
+          },
+		  {
+            "sentence": "'''Хъулъфыгъэм''' к1алэхэр регъэджэх",
+            "translation": "'''The man''' teaches the kids."
+          },
+		  {
+            "sentence": "'''Хъулъфыгъэр''' 1офым к1уагъэ",
+            "translation": "'''The man''' went to work."
+          }
+        ]
       },
       {
-        "meaning": "human male",
+        "meaning": "(uncommon) human male",
         "examples": []
       }
     ],
@@ -7276,16 +7405,71 @@
     "ipa": "q͡χʷəɬfəʁa"
   },
   {
+    "word": "хъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "male",
+        "examples": [
+          {
+            "sentence": "Мы чэтыур '''хъуа''', бза?",
+            "translation": "Is this cat '''male''' or female."
+          },
+		  {
+            "sentence": "Тихьэ '''хъу'''",
+            "translation": "Our dog is '''male'''."
+          }
+        ]
+      },
+      {
+        "meaning": "itch",
+        "examples": [
+          {
+            "sentence": "'''Хъум''' егъал1э",
+            "translation": "'''The itch''' is killing him."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "хъупц1",
+      "шъохъу-т1ыхъу"
+    ],
+    "type": "noun",
+    "ipa": "χʷə"
+  },
+  {
     "word": "бзы",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "female",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Мы чэтыур хъуа, '''бза'''?",
+            "translation": "Is this cat male or '''female'''."
+          },
+		  {
+            "sentence": "Тихьэ '''бзы'''",
+            "translation": "Our dog is '''female'''."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "bzə"
+  },
+  {
+    "word": "мэфац1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "name of a day",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "mafaːt͡sʼa"
   },
   {
     "word": "блыпэ",
@@ -7293,7 +7477,12 @@
     "definitions": [
       {
         "meaning": "Monday",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Блыпэм''' 1офым тык1ощтэп",
+            "translation": "We will not go work '''in Monday'''"
+          }
+        ]
       }
     ],
     "kabardian": "блыщхьэ",
@@ -7314,16 +7503,29 @@
 		  {
             "sentence": "Пэсак1ом '''былымхэр''' лэжьыгъэм хигъахьэхэрэп",
             "translation": "The watchman does not let the '''cattle''' to enter the crop."
+          },
+		  {
+            "sentence": "'''Былымыхэм''' сэ1э атесэгъэты",
+            "translation": "I am looking after '''the cattle'''."
+          },
+		  {
+            "sentence": "Мэламъом '''ыбылымыхэр''' шъофым хищагъэх",
+            "translation": "The shepherd lead '''his livestock''' into the fields."
+          },
+		  {
+            "sentence": "Мэламъом '''былымыхэр''' егъэхъух",
+            "translation": "The shepherd herds '''the cattle'''."
           }
         ]
       },
       {
-        "meaning": "property, fortune, valuable things; valuables",
-        "examples": []
-      },
-      {
-        "meaning": "wealth",
-        "examples": []
+        "meaning": "wealth; property, fortune; alternative form of \"мылъку\"",
+        "examples": [
+          {
+            "sentence": "Л1ым '''ибылым''' пк1ант1эк1э къигъэхъагъ",
+            "translation": "The man earned '''his wealth''' with sweat."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -7339,7 +7541,16 @@
       },
       {
         "meaning": "child",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ым ич1ыгу '''ыбынхэмэ''' афиугощыгъ",
+            "translation": "The man divided his land to '''his children'''."
+          },
+		  {
+            "sentence": "Налбыим '''бын''' бэ и1",
+            "translation": "Nalby has a lot of '''children'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -7363,11 +7574,53 @@
     "definitions": [
       {
         "meaning": "month",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Мазэм''' ик1эух",
+            "translation": "End of '''the month'''."
+          },
+		  {
+            "sentence": "Къэк1орэ '''мазэм''' хэгъэгум сик1ыщт",
+            "translation": "Next '''month''' I will go out the country."
+          },
+		  {
+            "sentence": "Тхьаш '''мазэм''' ахъщэ къэбгъахъэрэр?",
+            "translation": "How much money you earn in a '''month'''?."
+          },
+		  {
+            "sentence": "'''Мазэищык1э''' мэфэк1",
+            "translation": "'''In three months''' it is holiday."
+          },
+		  {
+            "sentence": "'''Мазэр''' мэфищэк1",
+            "translation": "'''Month''' is thirty days."
+          }
+        ]
       },
       {
         "meaning": "moon",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Мэзагъор '''мазэм''' нэфэу къегъэнэфырэр",
+            "translation": "The moonlight is the light that '''the moon''' illuminates."
+          },
+		  {
+            "sentence": "Ныпчыхьэ '''мазэм''' псэу",
+            "translation": "Tonight '''the moon''' is whole."
+          },
+		  {
+            "sentence": "Ц1ыфыхэр '''мазэм''' дэк1оешъугъэх",
+            "translation": "Humans managed to go up to '''the moon'''."
+          },
+		  {
+            "sentence": "Хэт апэрэ ц1ыфэу '''мазэм''' теуцуагъэр?",
+            "translation": "Who is the first human that stood on '''the moon'''?"
+          },
+		  {
+            "sentence": "'''Мэзищэ''' къалэм сыкъэтыщт",
+            "translation": "I will stay in the city for '''three months'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -7380,10 +7633,21 @@
       {
         "meaning": "day",
         "examples": [
-          ,
 		  {
             "sentence": "'''Мэфищэ''' къалэм сыкъэтыщт",
             "translation": "I will stay in the city for '''three days'''."
+          },
+		  {
+            "sentence": "'''Мэфит1ук1э''' мэфэк1 щы1эщт",
+            "translation": "'''In two days''' there will be a holiday."
+          },
+		  {
+            "sentence": "'''Мафэ''' къэсы сэлажьэ шэмбэт хэмытэу",
+            "translation": "I work every '''day''' expect Saturday."
+          },
+		  {
+            "sentence": "Тхьапш '''мафэу''' блэк1ыгъэ тиунэ укъэк1ожьыфэ?",
+            "translation": "How many '''days''' passed until you came back to our house?"
           }
         ]
       },
@@ -7393,7 +7657,16 @@
       },
       {
         "meaning": "fortunate, lucky, blessed",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Унэ '''маф'''",
+            "translation": "'''Blessed''' house."
+          },
+		  {
+            "sentence": "Ц1ыф '''маф'''",
+            "translation": "'''Fortunate''' person."
+          }
+        ]
       }
     ],
     "kabardian": "махуэ",
@@ -7442,6 +7715,10 @@
 		  {
             "sentence": "Хьау, упсэу, тутын '''сэ''' сешъорэп",
             "translation": "No, thanks, '''I''' don't smoke."
+          },
+		  {
+            "sentence": "'''Сэ''' сычэфы",
+            "translation": "'''I''' am happy."
           }
         ]
       }
@@ -7455,7 +7732,28 @@
     "definitions": [
       {
         "meaning": "year",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Гъэрек1о''' Америкэм сыщы1агъ",
+            "translation": "'''Last year''' I will go to America."
+          },
+		  {
+            "sentence": "Къэк1орэ '''гъэм''' къалэм сыдэт1ысхьажьыщт",
+            "translation": "Next '''year''' I will settle down in the city."
+          },
+		  {
+            "sentence": "Мы '''гъэм''' еджап1эр сыублэщт",
+            "translation": "This '''year''' I will start school."
+          },
+		  {
+            "sentence": "Чэтыум '''игъэрит1у'''",
+            "translation": "It is the cat's '''second year'''."
+          },
+		  {
+            "sentence": "Л1ым '''игъэ''' щэк1",
+            "translation": "It is the man's '''thirty year'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -7472,22 +7770,107 @@
         "meaning": "last year",
         "examples": [
           {
-            "sentence": "'''гъэрек1о''' тык1уагъ йуропа",
+            "sentence": "'''гъэрек1о''' тык1уагъ Европа",
             "translation": "'''last year''', we went to Europe."
           },
           {
-            "sentence": "'''гъэрек1о''' пш1ы синыбжьыгъ",
-            "translation": "'''last year''' I was ten years old."
-          },
-          {
-            "sentence": "'''гъэрек1о''' Томэр къэк1уагъ",
-            "translation": "'''last year''' Tom came."
+            "sentence": "'''гъэрек1о''' Туркуям щыщэхэу хьак1эхэр ти1агъэх",
+            "translation": "'''last year''' we had guests from Turkey."
           }
         ]
       }
     ],
     "type": "adv",
     "ipa": "ʁarakʷʼa"
+  },
+  {
+    "word": "ит1ысхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to sit inside",
+        "examples": []
+      },
+	  {
+        "meaning": "to settle in a country",
+        "examples": [
+		  {
+            "sentence": "Къэк1орэ гъэм Америкэм '''сит1ысхьажьыщт'''",
+            "translation": "Next year '''I will settle in''' America."
+          },
+		  {
+            "sentence": "Европэм '''тит1ысхьагъ'''",
+            "translation": "'''We settled''' in Europa."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "jətʼəsħaːn"
+  },
+  {
+    "word": "хэт1ысхьан",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "to sit among",
+        "examples": [
+          {
+            "sentence": "К1алэр ц1ыфыхэмэ '''ахэт1ысхьагъ'''",
+            "translation": "The boy '''sat in''' the water."
+          }
+        ]
+      },
+	  {
+        "meaning": "to sit in an area with some mass of liquid, gas or solid",
+        "examples": [
+          {
+            "sentence": "К1алэр псым '''хэт1ысхьагъ'''",
+            "translation": "The boy '''sat in''' the water."
+          }
+        ]
+      },
+	  {
+        "meaning": "to settle among other people",
+        "examples": [
+          {
+            "sentence": "Куджаныр арапхэмэ '''ахэт1ысхьагъ'''",
+            "translation": "Kujan '''settled among''' the Arabs."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "xatʼəsħaːn"
+  },
+  {
+    "word": "дэт1ысхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to sit between; to sit inside another object that can be opened",
+        "examples": []
+      },
+	  {
+        "meaning": "to settle in a city, village, town, etc.",
+        "examples": [
+          {
+            "sentence": "К1элэ ныбжьык1эхэр къалэхэмэ '''адэт1ысхьажьых'''",
+            "translation": "The young men are '''settling in''' the cities"
+          },
+		  {
+            "sentence": "Къэк1орэ гъэм къалэм '''сыдэт1ысхьажьыщт'''",
+            "translation": "Next year '''I will settle in''' the city."
+          },
+		  {
+            "sentence": "Чылэм '''тыдэт1ысхьагъ'''",
+            "translation": "'''We settled''' in the village."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "datʼəsħaːn"
   },
   {
     "word": "илъэс",
@@ -7507,6 +7890,10 @@
           {
             "sentence": "А '''илъэсым''' Америкэм сыщы1эгъагъ",
             "translation": "In that '''year''' I was in America."
+          },
+          {
+            "sentence": "Сыд '''илъэс''' Туркуям укъызк1уагъэр?",
+            "translation": "In what '''year''' you came to Turkey?."
           }
         ]
       }
@@ -7525,12 +7912,16 @@
         "meaning": "god",
         "examples": [
           {
-            "sentence": "'''Тхьэм''' ц1ыфыр ыш1ыгъ",
+            "sentence": "'''Тхьэм''' ц1ыфыр къигъэхъугъ",
             "translation": "'''God''' created the human."
           },
 		  {
             "sentence": "'''Тхьэм''' апэрэ ц1ыфыр ят1эм къыхигъэш1ык1ыгъ",
             "translation": "'''God''' created the first human out of clay."
+          },
+		  {
+            "sentence": "'''Тхьэм''' селъэ1у",
+            "translation": "I am praying to '''God'''."
           }
         ]
       }
@@ -7545,7 +7936,20 @@
     "definitions": [
       {
         "meaning": "week",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Мы '''тхьэмафэ''' 1офы ти1эп",
+            "translation": "We do not have work this '''week'''."
+          },
+		  {
+            "sentence": "'''Тхьэмэфэ''' къэс сэрэ синыбджэгъухэмрэ тызэ1ок1э",
+            "translation": "Every '''week''' me and my friends meet up."
+          },
+		  {
+            "sentence": "'''Тхьэмафэр''' мэфибл",
+            "translation": "'''A week''' is seven days.."
+          }
+        ]
       }
     ],
     "kabardian": "тхьэмахуэ",
@@ -7561,6 +7965,9 @@
         "examples": []
       }
     ],
+    "synonyms": [
+      "бэрчъэжъый"
+    ],
     "type": "noun",
     "ipa": "baraskaʐəj"
   },
@@ -7572,6 +7979,9 @@
         "meaning": "Wednesday (day)",
         "examples": []
       }
+    ],
+    "synonyms": [
+      "бэрэскэжъый"
     ],
     "type": "noun",
     "ipa": "bart͡ʂaʐəj"
@@ -7585,6 +7995,9 @@
         "examples": []
       }
     ],
+    "synonyms": [
+      "бэрчэшху"
+    ],
     "type": "noun",
     "ipa": "baraskaf"
   },
@@ -7596,6 +8009,9 @@
         "meaning": "Friday",
         "examples": []
       }
+    ],
+    "synonyms": [
+      "бэрэскэф"
     ],
     "type": "noun",
     "ipa": "bart͡ʃaf"
@@ -7659,11 +8075,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "anger",
-        "examples": []
-      },
-      {
-        "meaning": "spite",
+        "meaning": "anger; spite",
         "examples": []
       }
     ],
@@ -7727,11 +8139,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "oh my god, oh my gosh",
+        "meaning": "oh gosh, oh my gosh",
         "examples": [
           {
             "sentence": "'''апшъышъ'''! к1алэр псауа?",
-            "translation": ""
+            "translation": "'''Oh gosh''', is the boy fine?"
           }
         ]
       }
@@ -7745,7 +8157,20 @@
     "definitions": [
       {
         "meaning": "evening",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Пчыхьэм''' тыдэк1ыщт",
+            "translation": "We go out '''in the evening'''."
+          },
+		  {
+            "sentence": "'''Пчыхьэ''' къэсы синыбджэгъухэмэ саригъус",
+            "translation": "Every '''evening''' I am with my friends."
+          },
+		  {
+            "sentence": "'''Пчыхьэм''' хьак1эхэр къэтлъык1ощтых",
+            "translation": "'''In the evening''' we will have guests over."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -7761,7 +8186,20 @@
     "definitions": [
       {
         "meaning": "evening",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Пчыхьашъхьэм''' тыдэк1ыщт",
+            "translation": "We go out '''in the evening'''."
+          },
+		  {
+            "sentence": "'''Пчыхьашъхьэ''' къэсы синыбджэгъухэмэ саригъус",
+            "translation": "Every '''evening''' I am with my friends."
+          },
+		  {
+            "sentence": "'''Пчыхьашъхьэм''' хьак1эхэр къэтлъык1ощтых",
+            "translation": "'''In the evening''' we will have guests over."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -7779,15 +8217,23 @@
         "meaning": "tonight",
         "examples": [
           {
-            "sentence": "'''нычэпэ''' тык1ощт йуропа",
-            "translation": "We will go to Europe '''tonight'''."
-          },
-          {
-            "sentence": "'''нычэпэ''' Томэр къэк1уагъ",
-            "translation": "'''Tonight''' Tom came."
+            "sentence": "'''Нычэпэ''' тыдэк1ыщт",
+            "translation": "We go out '''tonight'''."
           },
 		  {
-            "sentence": "Нычэпэ Куджаным яунэ '''сыкъэтыщт'''",
+            "sentence": "'''Нычэпэ''' хьак1эхэр къэтлъык1ощтых",
+            "translation": "'''Tonight''' we will have guests over."
+          },
+		  {
+            "sentence": "'''Нычэпэ''' фылым сылъэгъущт",
+            "translation": "We will see a movie '''tonight'''."
+          },
+          {
+            "sentence": "'''Нычэпэ''' чэщдэсым сыщы1эщт",
+            "translation": "'''Tonight''' I will be in the party."
+          },
+		  {
+            "sentence": "'''Нычэпэ''' Куджаным яунэ сыкъэтыщт",
             "translation": "'''Tonight''' I will stay at Kujan's house."
           }
         ]
@@ -7816,12 +8262,16 @@
         "meaning": "today's evening",
         "examples": [
           {
-            "sentence": "'''ныпчыхьэ''' тык1ощт йуропа",
-            "translation": "We will go to Europe '''this evening'''"
+            "sentence": "'''Ныпчыхьэ''' шъуиунэ тыкъэк1ощт",
+            "translation": "We will come to you '''this evening'''"
           },
-          {
-            "sentence": "'''ныпчыхьэ''' Томэр къэк1уагъ",
-            "translation": "Tom came '''this evening'''."
+		  {
+            "sentence": "'''Ныпчыхьэ''' хьак1эхэр къэтфэк1ощтых",
+            "translation": "'''This evening''' we will have guests over."
+          },
+		  {
+            "sentence": "'''Ныпчыхь''' нысащэр",
+            "translation": "The wedding will be in '''this evening'''."
           }
         ]
       }
@@ -7847,7 +8297,20 @@
     "definitions": [
       {
         "meaning": "morning",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Пчэдыжьым''' пасэу 1офым тэк1о",
+            "translation": "We go to work early '''in the morning'''."
+          },
+		  {
+            "sentence": "'''Пчэдыжьым''' к1энк1э сышхыгъэр",
+            "translation": "I ate eggs '''in the morning'''."
+          },
+		  {
+            "sentence": "'''Пчэдыжьым''' нэс сэлэжьэ",
+            "translation": "I work until '''the morning'''."
+          }
+        ]
       }
     ],
     "kabardian": "пщэдджыжь",
@@ -7875,12 +8338,16 @@
         "meaning": "this morning, today's morning",
         "examples": [
           {
-            "sentence": "'''ныпчэдыжьы''' тык1ощт йуропа",
-            "translation": "We will go to Europe,'''this morning'''"
+            "sentence": "'''Ныпчэдыжьы''' хэт 1офым щы1агъэхэр?",
+            "translation": "Who were at work '''this morning'''?"
           },
-          {
-            "sentence": "'''ныпчэдыжьы''' Томэр къэк1уагъ",
-            "translation": " Tom came,'''this morning'''."
+		  {
+            "sentence": "'''Ныпчэдыжьы''' к1энк1э сышхыгъ",
+            "translation": "I ate eggs '''this morning'''."
+          },
+		  {
+            "sentence": "'''Ныпчэдыжьы''' т1эк1у къещхыгъ",
+            "translation": "'''This morning''' it rained a bit."
           }
         ]
       }
@@ -7916,6 +8383,19 @@
     "ipa": "nawɕə"
   },
   {
+    "word": "неущымык1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"неущмык1\"",
+        "examples": []
+      }
+    ],
+    "shapsug": "нэущымыщк1ь",
+    "type": "adv",
+    "ipa": "najwɕəmət͡ʃʼ"
+  },
+  {
     "word": "неущмык1",
     "lang": "Adyghe",
     "definitions": [
@@ -7923,12 +8403,12 @@
         "meaning": "day after tomorrow",
         "examples": [
           {
-            "sentence": "'''Неущмык1''' тык1ощт йуропа",
-            "translation": "We will go to Europe '''the day after tomorrow'''."
+            "sentence": "'''Неущмык1''' чылэм тыкъэк1ощт",
+            "translation": "We will come to the village '''the day after tomorrow'''."
           },
           {
-            "sentence": "'''Неущмык1''' пш1ы синыбжьыт",
-            "translation": "I will be ten years old '''the day after tomorrow'''."
+            "sentence": "'''Неущмык1ы''' мэфэк1",
+            "translation": "'''The day after tomorrow''' is holiday."
           }
         ]
       }
@@ -7945,16 +8425,12 @@
         "meaning": "the year before last year, two years ago",
         "examples": [
           {
-            "sentence": "'''гъэрек1опагъэ''' тык1уагъ йуропа",
-            "translation": "We went to Europe '''2 years ago'''."
+            "sentence": "'''гъэрек1опагъэ''' тык1уагъ Туркуям",
+            "translation": "We went to Turkey '''2 years ago'''."
           },
           {
-            "sentence": "'''гъэрек1опагъэ''' пш1ы синыбжьэгъ",
+            "sentence": "'''гъэрек1опагъэ''' пш1ы синыбжьыгъ",
             "translation": "I was ten years old '''2 years ago'''."
-          },
-          {
-            "sentence": "'''гъэрек1опагъэ''' Томэр къэк1уагъ",
-            "translation": "Tom came '''2 years ago'''."
           }
         ]
       }
@@ -7998,20 +8474,28 @@
         "meaning": "to jump",
         "examples": [
           {
-            "sentence": "к1алэр '''мапк1э'''",
+            "sentence": "К1алэр '''мапк1э'''",
             "translation": "The boy '''is jumping'''."
           },
           {
-            "sentence": "к1алэр унэм '''ипк1агъ'''",
-            "translation": "The boy '''jumped into''' the house."
+            "sentence": "Чэтыур унэм '''ипк1агъ'''",
+            "translation": "The cat '''jumped into''' the house."
           },
           {
-            "sentence": "к1алэр гъуанэм '''ипк1эмэ''' зыгорэ зыриш1эжьыщт",
-            "translation": "If the boy '''will jump into''' the hole he will do something to his self."
+            "sentence": "К1алэр курбым '''ипк1эмэ''' зыгорэ зыриш1эжьыщт",
+            "translation": "If the boy '''jumps into''' the hole he will do something to himself."
           },
           {
-            "sentence": "'''сэпк1э'''",
-            "translation": "I am '''jumping'''."
+            "sentence": "Лъагэу '''сэпк1э'''",
+            "translation": "'''I am jumping''' high."
+          },
+          {
+            "sentence": "К1алэм чъыгым '''къепк1эхыгъ'''",
+            "translation": "The boy '''jumped down from''' the tree."
+          },
+		  {
+            "sentence": "Унашъхьэм '''укъемпк1эх''', улъакъо зэпыпк1ыщт",
+            "translation": "'''Don't jump down from''' the root, you will break your leg."
           }
         ]
       },
@@ -8021,6 +8505,10 @@
           {
             "sentence": "Пцантхьэр '''мапк1э'''",
             "translation": "The glue '''is sticky'''."
+          },
+		  {
+            "sentence": "Шъоур '''мапк1э''', с1э тепк1агъ",
+            "translation": "The glue '''is sticky''', it got '''stuck on''' my hand."
           }
         ]
       }
@@ -8030,6 +8518,28 @@
     ],
     "type": "verb",
     "ipa": "pt͡ʃʼan"
+  },
+  {
+    "word": "епк1эхын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to jump down; to jump downward",
+        "examples": [
+          {
+            "sentence": "К1алэм чъыгым '''къепк1эхыгъ'''",
+            "translation": "The boy '''jumped down from''' the tree."
+          },
+		  {
+            "sentence": "Унашъхьэм '''укъемпк1эх''', улъакъо зэпыпк1ыщт",
+            "translation": "'''Don't jump down from''' the root, you will break your leg."
+          }
+        ]
+      }
+    ],
+    "shapsug": "епк1ьэхын",
+    "type": "verb",
+    "ipa": "japt͡ʃʼaxən"
   },
   {
     "word": "тхьауегъэпсэу",
@@ -8065,8 +8575,70 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "good",
-        "examples": []
+        "meaning": "good; well",
+        "examples": [
+          {
+            "sentence": "'''Дэгъоу''' шхыныр сыш1ыгъ",
+            "translation": "I made the food '''well'''."
+          },
+		  {
+            "sentence": "1офэу сыз1утыр '''дэгъоп'''",
+            "translation": "The work I am working in '''is not good'''."
+          },
+		  {
+            "sentence": "Непэ к1алэхэр '''дэгъоу''' лэжьагъэх",
+            "translation": "The boys worked '''well''' today."
+          },
+		  {
+            "sentence": "Ц1ыф '''дэгъу'''",
+            "translation": "'''Good''' person."
+          },
+		  {
+            "sentence": "1офыр '''дэгъоу''' хъугъэ",
+            "translation": "The job became '''well'''."
+          },
+		  {
+            "sentence": "Джэгу '''дэгъу''' горэм тэджэгу",
+            "translation": "We are playing some '''good''' game."
+          },
+          {
+            "sentence": "Сишхын афэдизэу '''дэгъоп'''",
+            "translation": "My food '''isn't''' that '''good'''."
+          },
+		  {
+            "sentence": "Ахэр '''дэгъоу''' къызгуры1ох",
+            "translation": "I can understand them '''well'''."
+          },
+		  {
+            "sentence": "Ку '''дэгъу''' си1",
+            "translation": "I have a '''good''' car."
+          },
+          {
+            "sentence": "Ахэм к1элэеджэк1ор '''дэгъоу''' алъытэ",
+            "translation": "They honor the teacher '''well'''."
+          },
+		  {
+            "sentence": "Сняэ къэсфэраз экзаменхэр '''дэгъоу''' сэш1ыхэти",
+            "translation": "My mother is pleased with me because I do the exam '''well'''."
+          },
+		  {
+            "sentence": "Фылымыр апэрэм '''дэгъоу''' къежьагъ, ау ет1анэ дэеу хъужьыгъ",
+            "translation": "The beginning of the film started '''good''', but it became bad later."
+          }
+        ]
+      },
+	  {
+        "meaning": "okay; ok",
+        "examples": [
+          {
+            "sentence": "'''Дэгъу дэгъу''' сылэжьэщь",
+            "translation": "'''Ok ok''' I will work."
+          },
+		  {
+            "sentence": "'''Сыдэгъу'''",
+            "translation": "'''I am okay'''."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -8084,16 +8656,24 @@
             "translation": "The water became '''bad'''."
           },
           {
-            "sentence": "К1алэм ыш1эхэрэ '''дэих'''",
+            "sentence": "1офыр нахь '''дэеу''' хъугъэ",
+            "translation": "The job became '''worse'''."
+          }
+          {
+            "sentence": "К1алэм ыш1эхэрэр '''дэих'''",
             "translation": "The boy is doing '''bad''' things."
           },
           {
-            "sentence": "Гъогу анахь '''дэир''' хэпхыгъэ",
-            "translation": "You chose '''the worst''' (the most bad) road."
+            "sentence": "1оф анахь '''дэир''' хэпхыгъэ",
+            "translation": "You chose '''the worst''' job."
           },
           {
-            "sentence": "Сиянэ ишхын афэдизэу '''дэеп'''",
-            "translation": "My mother's food '''isn't''' that '''bad'''."
+            "sentence": "Сишхын афэдизэу '''дэеп'''",
+            "translation": "My food '''isn't''' that '''bad'''."
+          },
+		  {
+            "sentence": "Фылымыр апэрэм дэгъоу къежьагъ, ау ет1анэ '''дэеу''' хъужьыгъ",
+            "translation": "The beginning of the film started good, but it became '''bad''' later."
           }
         ]
       }
@@ -8106,19 +8686,35 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "pretty, beautiful",
+        "meaning": "pretty; beautiful",
         "examples": [
           {
-            "sentence": "к1алэр '''дахэ'''",
-            "translation": "The boy '''is pretty'''."
+            "sentence": "Пшъэшъэ '''дах'''",
+            "translation": "A '''pretty''' girl."
+          },
+		  {
+            "sentence": "Упшъэшъэ '''дах'''",
+            "translation": "You are a '''pretty''' girl."
           },
           {
-            "sentence": "к1элэ '''дахэр'''",
-            "translation": "'''The pretty''' boy."
+            "sentence": "Кур '''дахэр'''",
+            "translation": "The car '''is beautiful'''."
           },
           {
-            "sentence": "уик1элэ '''дахэр''' сиунэ къак1о",
-            "translation": "Your '''pretty''' boy is coming to my house."
+            "sentence": "Тиунэ  '''дахэ'''",
+            "translation": "Out house '''is beautiful'''."
+          },
+          {
+            "sentence": "о  '''удах'''",
+            "translation": "'''You are beautiful'''."
+          },
+          {
+            "sentence": "Мы джанэхэр  '''дахэхэп'''",
+            "translation": "These shirts '''are not beautiful'''."
+          },
+          {
+            "sentence": "Унэр  '''дахэу''' сыш1ыгъ",
+            "translation": "I made the house '''beautifully'''."
           }
         ]
       },
@@ -8138,6 +8734,23 @@
     ],
     "type": "adj",
     "ipa": "daːxa"
+  },
+  {
+    "word": "дэхэц1ык1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "little beautiful one (said to loved ones like sweetheart/sweetie)",
+        "examples": [
+          {
+            "sentence": "'''Сидэхэц1ык1у'''",
+            "translation": "'''My sweetheart'''."
+          }
+        ]
+      }
+    ],					
+    "type": "adj",
+    "ipa": "daxat͡sʼəkʷʼ"
   },
   {
     "word": "пц1ап1э",
@@ -8169,7 +8782,12 @@
     "definitions": [
       {
         "meaning": "kind",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ц1ыф '''псэнчъ'''",
+            "translation": "A '''kind''' person."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -8183,12 +8801,16 @@
         "meaning": "nice, kind",
         "examples": [
           {
-            "sentence": "К1элэ '''хъупхъ''' о",
+            "sentence": "Ук1элэ '''хъупхъ''' о",
             "translation": "You are a '''kind''' boy."
           },
           {
             "sentence": "Томым ик1алэ '''хъупхъэ'''",
             "translation": "Tom's boy is '''kind'''."
+          },
+          {
+            "sentence": "Ныор '''хъупхъэу''' къыздэзек1уагъ",
+            "translation": "The old-woman acted toward me '''kindly'''."
           }
         ]
       }
@@ -8252,11 +8874,29 @@
     "definitions": [
       {
         "meaning": "sour",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Мы1эрыс ''хаф'''",
+            "translation": "If you thrrock will melt."
+          },
+		  {
+            "sentence": "Лимоныр ''хэфэдэд'''",
+            "translation": "Limon '''is very sour'''."
+          },
+		  {
+            "sentence": "Лимонпсыр '''хэфащэ''', къинык1э сешъо",
+            "translation": "The limon juice '''is too sour''', I drink it with difficulty."
+          }
+        ]
       },
       {
         "meaning": "strong-willed",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ы '''хаф'''",
+            "translation": "'''Strong-willed''' man."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -8272,8 +8912,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "fermented, sour",
-        "examples": []
+        "meaning": "fermented, sour, pickled",
+        "examples": [
+          {
+            "sentence": "Нэшэбэгу '''ш1о1у'''",
+            "translation": "'''Pickled''' cucumber."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -8285,12 +8930,37 @@
     "ipa": "ʃʷʼaʔʷ"
   },
   {
+    "word": "щыгъу-щыпс",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "brine",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ɕəʁʷ-ɕəps"
+  },
+  {
     "word": "хатэ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "garden",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Бадэ '''хатэ'''",
+            "translation": "Almond '''garden'''."
+          },
+		  {
+            "sentence": "Къэгъэгъэ '''хатэ'''",
+            "translation": "Flower '''garden'''."
+          },
+		  {
+            "sentence": "Тищагу '''хэтэц1ык1у''' дэт",
+            "translation": "There is a '''little garden''' in our yard."
+          }
+        ]
       }
     ],
     "kabardian": "хадэ",
@@ -8302,15 +8972,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "hot, warm",
+        "meaning": "hot (more specifically: warm)",
         "examples": [
           {
             "sentence": "Мы шхыныр '''фабащэ'''",
-            "translation": "This food is '''too hot'''."
+            "translation": "This food is '''too warm'''."
           },
           {
             "sentence": "Непэ мэфэ '''фаб'''",
-            "translation": "Today '''is a hot''' day."
+            "translation": "Today '''is a warm''' day."
+          },
+          {
+            "sentence": "Непэ о '''фабэ''' щы1",
+            "translation": "Today there is a '''warm''' weather."
           }
         ]
       },
@@ -8320,6 +8994,10 @@
           {
             "sentence": "'''Фабэм''' сеук1ы",
             "translation": "'''The heat''' is killing me."
+          },
+          {
+            "sentence": "Тыгъэм '''фабэ''' къыпехы",
+            "translation": "The sun emits '''heat'''."
           }
         ]
       }
@@ -8341,16 +9019,46 @@
         "examples": []
       },
       {
-        "meaning": "hot",
-        "examples": []
-      },
-      {
-        "meaning": "hotness",
-        "examples": []
+        "meaning": "hot, hot-tempered",
+        "examples": [
+          {
+            "sentence": "Гъуч1ы '''плъыр'''",
+            "translation": "'''Hot''' iron."
+          },
+          {
+            "sentence": "Тыгъэ '''плъырым''' спшъэбы егъэсты",
+            "translation": "The '''hot''' sun burns the back of my neck."
+          },
+          {
+            "sentence": "Непэ тыгъэ '''плъыр''' щы1",
+            "translation": "Today there is a '''hot''' sun."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "pɬʲər"
+  },
+  {
+    "word": "тыгъэплъыр",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "hot sun",
+        "examples": [
+		  {
+            "sentence": "'''Тыгъэплъырым''' спшъэбы егъэсты",
+            "translation": "'''The hot sun''' burns the back of my neck."
+          },
+          {
+            "sentence": "Непэ '''тыгъэплъыр''' щы1",
+            "translation": "Today there is a '''hot sun'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "təʁapɬəʁ"
   },
   {
     "word": "делэ",
@@ -8358,7 +9066,32 @@
     "definitions": [
       {
         "meaning": "fool, foolish, stupid, crazy",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Удела'''?",
+            "translation": "'''Are you stupid'''?"
+          },
+          {
+            "sentence": "Ц1ыф '''дел'''",
+            "translation": "A '''foolish''' person."
+          },
+          {
+            "sentence": "А ц1ыфыр '''делэ'''",
+            "translation": "That person '''is foolish'''."
+          },
+          {
+            "sentence": "'''Делэу''' узек1о",
+            "translation": "You behave '''foolishly'''."
+          },
+          {
+            "sentence": "'''Делагъэу''' зек1уагъ",
+            "translation": "(S)he acted '''foolishly'''."
+          },
+          {
+            "sentence": "'''Делэу''' сыкъырегъэк1ы",
+            "translation": "You makes me come off as '''a fool'''."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -8370,11 +9103,41 @@
     "definitions": [
       {
         "meaning": "that is it; that is him/her",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Ары''' сы1уагъэр",
+            "translation": "'''That is''' what I said."
+          },
+          {
+            "sentence": "'''Ары''' ыш1агъэр",
+            "translation": "'''That is''' what (s)he did."
+          },
+          {
+            "sentence": "'''Ары''' сыздэк1ощтыр",
+            "translation": "'''That is''' where I will go."
+          },
+          {
+            "sentence": "'''Арэп''' сызфэягъэр",
+            "translation": "'''That is not''' what I wanted."
+          },
+          {
+            "sentence": "'''Арэп''' хъугъэр",
+            "translation": "'''That is not''' what happened."
+          }
+        ]
       },
       {
         "meaning": "indeed; yes",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Ары''', сц1э Тамбый",
+            "translation": "'''Indeed''', my name is Tamby."
+          },
+		  {
+            "sentence": "'''Ары''', ащ сыфай",
+            "translation": "'''Yes''', I want that."
+          }
+        ]
       }
     ],
     "kabardian": "аращ",
@@ -8391,6 +9154,14 @@
 		  {
             "sentence": "'''Хьау''', упсэу, тутын сэ сешъорэп",
             "translation": "'''No''', thanks, I don't smoke."
+          },
+		  {
+            "sentence": "'''Хьау''', тэрэзэп",
+            "translation": "'''No''', it is not true."
+          },
+		  {
+            "sentence": "'''Хьау''', сц1э Тамбый, Куджанэп",
+            "translation": "'''No''', my name is Tamby, not Kujan."
           }
         ]
       }
@@ -8414,12 +9185,50 @@
     "ipa": "wəpsaw"
   },
   {
+    "word": "пэрыт",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "progressive, leading, foremost, headmost, advanced",
+        "examples": [
+          {
+            "sentence": "Лэжьэк1о '''пэрытхэр''' къащэхи унэр агъэш1",
+            "translation": "Bring the '''leading''' workers and make them build the house."
+          },
+		  {
+            "sentence": "Компыютэр нахь '''пэрыт'''",
+            "translation": "A more '''advanced''' computer."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "parət"
+  },
+  {
     "word": "хасэ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "council",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Хасэр''' зэ1ук1агъ",
+            "translation": "'''The council''' met."
+          },
+		  {
+            "sentence": "Чылэм '''ихасэ'''",
+            "translation": "The village's '''council'''"
+          },
+		  {
+            "sentence": "Чылэмк1э '''хасэ''' аш1ых",
+            "translation": "They made '''a council''' in the village."
+          },
+		  {
+            "sentence": "'''Хасэм''' тхьэматэ к1э дэгъэк1оен",
+            "translation": "To point a new chief of the '''council'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -8447,6 +9256,10 @@
 		  {
             "sentence": "Сигъунэгъу '''хьак1эу''' тиунэ къэк1ощт",
             "translation": "My neighbor will come '''as a guest'''."
+          },
+          {
+            "sentence": "Гъэрек1о Туркуям щыщэхэу '''хьак1эхэр''' ти1агъэх",
+            "translation": "Last year we had '''guests''' from Turkey."
           }
         ]
       }
@@ -8859,6 +9672,14 @@
           {
             "sentence": "Тикъуаджэ '''къалэм''' пэблагъ",
             "translation": "Our village is close to '''the city'''."
+          },
+		  {
+            "sentence": "К1элэ ныбжьык1эхэр '''къалэхэмэ''' адэт1ысхьажьых",
+            "translation": "The young men are settling in '''the cities'''."
+          },
+		  {
+            "sentence": "Къэк1орэ гъэм '''къалэм''' сыдэт1ысхьажьыщт",
+            "translation": "Next year I will settle in '''the city'''."
           }
         ]
       },
@@ -9140,11 +9961,13 @@
     "definitions": [
       {
         "meaning": "young",
-        "examples": []
-      },
-      {
-        "meaning": "young person",
-        "examples": []
+        "examples": [
+          ,
+		  {
+            "sentence": "К1элэ '''ныбжьык1эхэр''' къалэхэмэ адэт1ысхьажьых",
+            "translation": "The '''young''' men are settling in the cities."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -9498,7 +10321,32 @@
     "definitions": [
       {
         "meaning": "sky",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Ошъуапщэхэр '''уашъом''' къытехьагъэх",
+            "translation": "Clouds came over '''the sky'''."
+          },
+		  {
+            "sentence": "'''Уашъом''' жъуагъохэр тетых",
+            "translation": "The stars are in '''the sky'''."
+          },
+		  {
+            "sentence": "К1алэр топым ешъутыри '''уашъом''' дифыягъ",
+            "translation": "The boy kicked the ball and launched it up to '''the sky'''."
+          },
+          {
+            "sentence": "'''Уашъом''' ышъо зэхъок1ыгъ",
+            "translation": "The color of '''the sky''' has changed."
+          },
+          {
+            "sentence": "Ахэр парашют апылъэу '''уашъом''' къефэхых",
+            "translation": "They are falling from '''the sky''' with a parachute."
+          },
+		  {
+            "sentence": "Л1ым картыхэр уашъом ритэкъухьагъэх",
+            "translation": "The man scattered the cards into '''the sky'''."
+          }
+        ]
       }
     ],
     "kabardian": "уафэ",
@@ -10186,8 +11034,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "old woman",
-        "examples": []
+        "meaning": "old woman; old-woman",
+        "examples": [
+          {
+            "sentence": "'''Ныор''' хъупхъэу къыздэзек1уагъ",
+            "translation": "'''The old-woman''' acted toward me kindly."
+          }
+        ]
       }
     ],
     "kabardian": "ныуэ",
@@ -11222,7 +12075,7 @@
           },
 		  {
             "sentence": "Пцэжъыяшэм пцэжъые '''хым''' къыхидзыгъ",
-            "translation": "The fisherman pulled out a fish out of '''the sea'''."
+            "translation": "The fisherman pulled a fish out of '''the sea'''."
           },
 		  {
             "sentence": "Пцэжъыяшэр '''хым''' хахьи пцэжъыехэр къеубытых",
@@ -16609,7 +17462,7 @@
         "meaning": "at the beginning",
         "examples": [
           {
-            "sentence": "Фылым '''апэрэм''' дэгъоу къежьагъ, ау ет1анэ дэеу хъужьыгъ",
+            "sentence": "Фылымыр '''апэрэм''' дэгъоу къежьагъ, ау ет1анэ дэеу хъужьыгъ",
             "translation": "'''The beginning''' of the film started good, but it became bad later."
           }
         ]
@@ -16636,6 +17489,10 @@
 		  {
             "sentence": "'''Апэрэм''' сехъырэхъышагъ хьэм себлэгъэныр",
             "translation": "'''At first''' I hesitated to go near the dog"
+          },
+		  {
+            "sentence": "Хэт '''апэрэ''' ц1ыфэу мазэм теуцуагъэр?",
+            "translation": "Who is the '''first''' human that stood on the moon?"
           }
         ]
       }
@@ -16666,7 +17523,12 @@
     "definitions": [
       {
         "meaning": "country",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Къэк1орэ мазэм '''хэгъэгум''' сик1ыщт",
+            "translation": "Next month I will go out '''the country'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -18163,6 +19025,10 @@
           {
             "sentence": "'''бащэм''' е1о ар",
             "translation": "'''Too many people''' say that."
+          },
+		  {
+            "sentence": "'''пк1ант1э''' '''бащэ''' къыохымэ угъушъыщт",
+            "translation": "If you sweat '''too much''' you will get dehydrated."
           }
         ]
       }
@@ -19712,16 +20578,24 @@
         "meaning": "village, settlement",
         "examples": [
           {
-            "sentence": "сыд '''чылэ''' укъыздэк1ырэр?",
+            "sentence": "Сыд '''чылэ''' укъыздэк1ырэр?",
             "translation": "What '''village''' you come from?"
           },
           {
-            "sentence": "'''чылэм''' къэп1орэ ебэгъа1у",
+            "sentence": "'''Чылэм''' къэп1орэ ебэгъа1у",
             "translation": "'''The whole village''' hears what you are saying."
           },
           {
-            "sentence": "'''тичылэ''' дэсхэр адыгэх",
+            "sentence": "'''Тичылэ''' дэсхэр адыгэх",
             "translation": "'''The people that live in our village''' are Circassians."
+          },
+		  {
+            "sentence": "К1элэ ныбжьык1эхэр '''чылэм''' дэк1ыжьых къалэхэмэ адэт1ысхьажьынхэу",
+            "translation": "The young men are leaving '''the village''' to settle in the cities.
+          },
+		  {
+            "sentence": "'''Чылэм''' тыдэт1ысхьагъ",
+            "translation": "We settled in '''the village'''."
           }
         ]
       }
@@ -23635,6 +24509,10 @@
           {
             "sentence": "Сэ уцыр '''сэгъэсты'''",
             "translation": "'''I burn''' the plant."
+          },
+          {
+            "sentence": "Тыгъэ плъырым спшъэбы '''егъэсты'''",
+            "translation": "The hot sun '''burns''' the back of my neck."
           }
         ]
       }
@@ -32900,7 +33778,7 @@
         "examples": [
           {
             "sentence": "уашъом '''жъуагъохэр''' тетых",
-            "translation": "'''The stars''' are on the sky."
+            "translation": "'''The stars''' are in the sky."
           },
           {
             "sentence": "еплъ еплъ '''жъуагъор''' къефэхы",
@@ -33413,6 +34291,10 @@
 		  {
             "sentence": "'''Тыгъуасэ''' мэфэ дэхагъ",
             "translation": "'''Yesterday''' was a beautiful day."
+          },
+          {
+            "sentence": "'''Тыгъуасэ''' тыгъэплъыр щы1агъ",
+            "translation": "'''Yesterday''' there was a hot sun."
           }
         ]
       }
@@ -35669,6 +36551,10 @@
           {
             "sentence": "унэм ионджэкъ '''1угъо''' къек1ы",
             "translation": "'''Smoke''' is coming out from the house's chimney."
+          },
+		  {
+            "sentence": "'''1угъоу''' кумэ къарик1ырэм жьыр еуш1ои",
+            "translation": "'''The smoke''' coming from the cars '''contaminates''' the air."
           }
         ]
       }
@@ -39350,7 +40236,7 @@
         ]
       },
       {
-        "meaning": "to soil, to stain, to dirty, to make dirty, to besmirch, to litter, to sully, to tarnish",
+        "meaning": "to soil, to stain, to dirty, to make dirty, to besmirch, to litter, to sully, to tarnish, to contaminate",
         "examples": [
           {
             "sentence": "К1алэм ынапэ '''ыуш1оижьыгъ'''",
@@ -39371,6 +40257,10 @@
 		  {
             "sentence": "Зыгорэм ыц1э '''ууш1оиныр'''",
             "translation": "'''To tarnish''' someone's name."
+          },
+		  {
+            "sentence": "1угъоу кумэ къарик1ырэм жьыр '''еуш1ои'''",
+            "translation": "The smoke coming from the cars '''contaminates''' the air."
           }
         ]
       }
@@ -40020,7 +40910,24 @@
     "definitions": [
       {
         "meaning": "sweat",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Бэрэ сычъэзэ '''пк1ант1э''' къысэхэу ыублагъ",
+            "translation": "I ran a lot and I started '''to sweat'''."
+          },
+		  {
+            "sentence": "Тыгъэм тыхэт '''пк1ант1э''' къытэхэу",
+            "translation": "We are in the sun '''sweating'''."
+          },
+		  {
+            "sentence": "'''Пк1ант1э''' бащэ къыохымэ угъушъыщт",
+            "translation": "If you '''sweat''' too much you will get dehydrated."
+          },
+		  {
+            "sentence": "Л1ым имылъку '''пк1ант1эк1э''' къигъэхъагъ",
+            "translation": "The man earned his wealth '''with sweat'''."
+          }
+        ]
       }
     ],
     "shapsug": "пк1ат1э",
@@ -40722,12 +41629,28 @@
         "meaning": "today",
         "examples": [
           {
-            "sentence": "'''непэ''' тык1ощт йуропа",
-            "translation": "'''Today''', we will go to Европа."
+            "sentence": "'''Непэ''' 1офым сык1уагъэп",
+            "translation": "'''Today''' I did not go to work."
           },
           {
-            "sentence": "'''непэ''' Куджаныр къэк1уагъ",
-            "translation": "'''Today''' Kujan came."
+            "sentence": "'''Непэ''' экзаменым сыш1ыгъ",
+            "translation": "'''Today''' I did an exam."
+          },
+          {
+            "sentence": "'''Непэ''' фылымым тешъумыгъэплъ, неущы къыфэдэгъан",
+            "translation": "Let's not watch the movie '''today''', we will leave it for tomorrow."
+          },
+          {
+            "sentence": "'''Непэ''' паркым тык1ощт",
+            "translation": "'''Today''' we will go to the park."
+          },
+          {
+            "sentence": "'''Непэ''' о фабэ щы1",
+            "translation": "'''Today''' there is a warm weather."
+          },
+          {
+            "sentence": "'''Непэ''' тыгъэплъыр щы1",
+            "translation": "'''Today''' there is a hot sun."
           }
         ]
       }
@@ -41271,6 +42194,10 @@
             "sentence": "'''Ех'''",
             "translation": "'''Go down'''."
           },
+		  {
+            "sentence": "Пк1ант1э '''къысэхы'''",
+            "translation": "'''I am sweating'''."
+          }
           {
             "sentence": "К1алэр лъэоим '''ехы'''",
             "translation": "The boy '''is going down''' the stairs."
@@ -41525,31 +42452,6 @@
     "kabardian": "хъуэжэн",
     "type": "verb",
     "ipa": "χʷaʑən"
-  },
-  {
-    "word": "хъу",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "male",
-        "examples": []
-      },
-      {
-        "meaning": "itch",
-        "examples": [
-          {
-            "sentence": "'''Хъум''' егъал1э",
-            "translation": "'''The itch''' is killing him."
-          }
-        ]
-      }
-    ],
-    "synonyms": [
-      "хъупц1",
-      "шъохъу-т1ыхъу"
-    ],
-    "type": "noun",
-    "ipa": "χʷə"
   },
   {
     "word": "изы",
@@ -42344,28 +43246,32 @@
         "meaning": "who",
 		"examples": [
           {
-            "sentence": "'''хэт''' о ар къыозы1уагъэр?",
-            "translation": "'''who''' said that to you?"
+            "sentence": "'''Хэт''' о ар къыозы1уагъэр?",
+            "translation": "'''Who''' said that to you?"
           },
           {
-            "sentence": "'''хэт''' а к1алэр?",
-            "translation": "'''who''' is that boy?"
+            "sentence": "'''Хэт''' а к1алэр?",
+            "translation": "'''Who''' is that boy?"
           },
           {
-            "sentence": "'''хэт''' чэщдэсым къыпдэк1ощтыр?",
-            "translation": "'''who''' came with you to the party?"
+            "sentence": "'''Хэт''' чэщдэсым къыпдэк1ощтыр?",
+            "translation": "'''Who''' came with you to the party?"
           },
           {
-            "sentence": "'''хэт''' къыдэк1ыщтыхр?",
-            "translation": "'''who''' will come out?"
+            "sentence": "'''Хэт''' къыдэк1ыщтыхр?",
+            "translation": "'''Who''' will come out?"
           },
           {
-            "sentence": "'''хэт''' о?",
-            "translation": "'''who''' are you?"
+            "sentence": "'''Хэт''' о?",
+            "translation": "'''Who''' are you?"
           },
           {
-            "sentence": "'''хэт''' ар?",
-            "translation": "'''who''' is (s)he?"
+            "sentence": "'''Хэт''' ар?",
+            "translation": "'''Who''' is (s)he?"
+          },
+		  {
+            "sentence": "'''Хэт''' апэрэ ц1ыфэу мазэм теуцуагъэр?",
+            "translation": "'''Who''' is the first human that stood on the moon?"
           }
         ]
       }
@@ -46576,7 +47482,7 @@
         "meaning": "to divide",
         "examples": [
           {
-            "sentence": "Л1ым ич1ыгу ибынхэмэ '''афиугощыгъ'''",
+            "sentence": "Л1ым ич1ыгу ыбынхэмэ '''афиугощыгъ'''",
             "translation": "The man '''divided''' his land to his children."
           },
           {
@@ -47681,7 +48587,7 @@
           },
 		  {
             "sentence": "К1алэр топым ешъутыри уашъом '''дифыягъ'''",
-            "translation": "The boy kicked the ball and '''launched it up''' to sky."
+            "translation": "The boy kicked the ball and '''launched it up''' to the sky."
           }
         ]
       },
@@ -49662,6 +50568,10 @@
             "sentence": "Сыхьатыр '''тхьапш''' хъугъэ, къысэп1ошъущта?",
             "translation": "Can you tell me what time is it?"
           },
+		  {
+            "sentence": "'''Тхьапш''' мафэу блэк1ыгъэ тиунэ укъэк1ожьыфэ?",
+            "translation": "'''How many''' days passed until you came back to our house?"
+          },
           {
             "sentence": "'''Тхьапш''' мыщ иуасэ?",
             "translation": "'''How much''' this cost?"
@@ -50221,7 +51131,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "sunny",
+        "meaning": "sunny; brightful day",
         "examples": [
           {
             "sentence": "Непэ '''тыгъэпсы'''",
@@ -53280,7 +54190,7 @@
             "translation": "'''Later''' we will come to the party."
           },
 		  {
-            "sentence": "Фылым апэрэм дэгъоу къежьагъ, ау '''ет1анэ''' дэеу хъужьыгъ",
+            "sentence": "Фылымыр апэрэм дэгъоу къежьагъ, ау '''ет1анэ''' дэеу хъужьыгъ",
             "translation": "The beginning of the film started good, but it became bad '''later'''."
           }
         ]
@@ -59613,6 +60523,10 @@
 		  {
             "sentence": "К1алэм '''мылъкоу''' и1эр еджэным тыригъэк1одагъ",
             "translation": "The young man wasted the '''money''' he has on studies."
+          },
+		  {
+            "sentence": "Л1ым '''имылъку''' пк1ант1эк1э къигъэхъагъ",
+            "translation": "The man earned '''his wealth''' with sweat."
           }
         ]
       }
@@ -62084,6 +62998,10 @@
 		  {
             "sentence": "Л1ыжъ  '''1ушым''' ыдэхь к1уи дэгущы1",
             "translation": "Go to the '''wise''' old-man and talk with him."
+          },
+		  {
+            "sentence": "Сэтэнае гуащэр бзылъфыгъэ '''1уш'''",
+            "translation": "Lady Sataney is a '''wise''' woman."
           }
         ]
       }
@@ -65266,6 +66184,14 @@
           {
             "sentence": "'''Неущы''' тиунэ къак1у",
             "translation": "Come to my house '''tomorrow'''."
+          },
+          {
+            "sentence": "Непэ фылымым тешъумыгъэплъ, '''неущы''' къыфэдэгъан",
+            "translation": "Let's not watch the movie today, we will leave it for '''tomorrow'''."
+          },
+          {
+            "sentence": "'''Неущы''' тыгъэплъыр щы1эщт",
+            "translation": "'''Tomorrow''' there will be a hot sun."
           }
         ]
       }
@@ -71440,6 +72366,10 @@
           {
             "sentence": "1оф '''къиным''' сыш1ок1ышъугъ",
             "translation": "I managed to avoid the '''hard''' work."
+          },
+		  {
+            "sentence": "Лимонпсыр хэфащэ, '''къинык1э''' сешъо",
+            "translation": "The limon juice is too sour, I drink it '''with difficulty'''."
           }
         ]
       }
@@ -73864,6 +74794,10 @@
 		  {
             "sentence": "Лъы с1э '''къек1ы'''",
             "translation": "Blood '''is coming out''' of my arm."
+          },
+		  {
+            "sentence": "1угъоу кумэ '''къарик1ырэм''' жьыр еуш1ои",
+            "translation": "The smoke '''that is coming from''' the cars contaminates the air."
           }
         ]
       },
@@ -73899,6 +74833,23 @@
           {
             "sentence": "Шхыныр 1эш1оу '''къек1ы'''",
             "translation": "The food '''turns out to be''' tasty."
+          }
+        ]
+      },
+	  {
+        "meaning": "to grow (plants, hair)",
+        "examples": [
+          {
+            "sentence": "Сжак1э псынкэу '''къек1ы'''",
+            "translation": "My beard '''grows''' fast."
+          },
+		  {
+            "sentence": "Къэгъагъэхэр '''къек1ых'''",
+            "translation": "The flowers '''grow'''."
+          },
+		  {
+            "sentence": "Л1ым ышъхьац к1ыхьэу '''къик1ыгъ'''",
+            "translation": "The man's hair '''grew''' long."
           }
         ]
       }
@@ -81914,6 +82865,10 @@
             "sentence": "Пхъэр '''зэпык1ыгъ'''",
             "translation": "The wood '''is snapped'''."
           },
+		  {
+            "sentence": "Л1ым ылъакъо ыкъупшъхьэ '''зэпык1ыгъ'''",
+            "translation": "The man's leg's bone '''fractured'''."
+          },
           {
             "sentence": "К1алэм пхъэр '''зэпик1ыгъ'''",
             "translation": "The boy '''snapped''' the wood."
@@ -82221,6 +83176,10 @@
           {
             "sentence": "К1элэ псынк1эм '''улъычъэми''', ук1эхьэщтэп",
             "translation": "'''Even if you run after''' the fast boy, you won't pass him."
+          },
+		  {
+            "sentence": "Хьэр '''лъычъагъ''' къупшъхьэм къыхьыжьынэу",
+            "translation": "The dog '''ran after''' the bone to bring it back."
           }
         ]
       },
@@ -84015,6 +84974,10 @@
 		  {
             "sentence": "Ц1ыфым ишэн ош1эмэ, '''узэрдэзек1ощтыр''' пш1эщт",
             "translation": "If you know the person's behavior, you will know '''how to deal with him'''."
+          },
+          {
+            "sentence": "Ныор хъупхъэу '''къыздэзек1уагъ'''",
+            "translation": "The old-woman '''acted toward me''' kindly."
           }
         ]
       }
@@ -87090,6 +88053,10 @@
           {
             "sentence": "К1алэм гонахь '''егъахъэ'''",
             "translation": "The boy '''is earning''' a sin."
+          },
+		  {
+            "sentence": "Л1ым имылъку пк1ант1эк1э '''къигъэхъагъ'''",
+            "translation": "The man '''earned''' his wealth with sweat."
           }
         ]
       },
@@ -89951,7 +90918,7 @@
         "examples": [
           {
             "sentence": "'''Мэзагъор''' мазэм нэфэу къегъэнэфырэр",
-            "translation": "'''The moonlight''' is the light that the moon shines."
+            "translation": "'''The moonlight''' is the light that the moon illuminates."
           }
         ]
       }
@@ -96578,12 +97545,38 @@
 		  {
             "sentence": "К1алэм '''курб''' ч1ыгум хит1ык1ыгъ",
             "translation": "The boy dug out '''a hole''' in the group."
+          },
+          {
+            "sentence": "к1алэр '''курбым''' ипк1эмэ зыгорэ зыриш1эжьыщт",
+            "translation": "If the boy jumps into '''the hole''' he will do something to himself."
           }
         ]
       }
     ],
     "type": "verb",
     "ipa": "kʷərbə"
+  },
+  {
+    "word": "ипк1эн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to jump inside",
+        "examples": [
+		  {
+            "sentence": "Чэтыур унэм '''къипк1агъ'''",
+            "translation": "The cat '''jumped inside''' the house."
+          },
+          {
+            "sentence": "К1алэр курбым '''ипк1эмэ''' зыгорэ зыриш1эжьыщт",
+            "translation": "If the boy '''jumps into''' the hole he will do something to himself."
+          }
+        ]
+      }
+    ],
+    "shapsug": "ипк1ьэн",
+    "type": "verb",
+    "ipa": "jəpt͡ʃʼan"
   },
   {
     "word": "зыгъэгусэн",
@@ -96694,6 +97687,10 @@
 		  {
             "sentence": "Кристианхэмэ '''мэфэк1''' я1 тхьачэтыл ашхэу",
             "translation": "The Christians have '''a holiday''' in which they eat turkey meat."
+          },
+		  {
+            "sentence": "Мэфит1ук1э '''мэфэк1''' щы1эщт",
+            "translation": "In two days there will be '''a holiday'''."
           }
         ]
       }
@@ -98924,6 +99921,18 @@
     "ipa": "nəbaːt͡ʂ"
   },
   {
+    "word": "къыпихын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"пихын\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "qəpjəxən"
+  },
+  {
     "word": "пихын",
     "lang": "Adyghe",
     "definitions": [
@@ -98941,6 +99950,10 @@
 		  {
             "sentence": "мыжъом радиация '''къыпехы'''",
             "translation": "The rock '''emits''' radiation."
+          },
+          {
+            "sentence": "Тыгъэм фабэ '''къыпехы'''",
+            "translation": "The sun '''emits''' heat."
           }
         ]
       }
@@ -101351,7 +102364,7 @@
           },
 		  {
             "sentence": "Л1ым картыхэр уашъом '''ритэкъухьагъэх'''",
-            "translation": "The man '''spread''' the cards '''into''' the air."
+            "translation": "The man '''scattered''' the cards '''into''' the air."
           }
         ]
       }
@@ -106401,6 +107414,10 @@
 		  {
             "sentence": "Мылым '''утехьани''' упхырызынк1э щынагъо",
             "translation": "'''Standing on''' the ice and falling through it is dangerous."
+          },
+		  {
+            "sentence": "Ошъуапщэхэр уашъом '''къытехьагъэх'''",
+            "translation": "Clouds '''came over''' the sky."
           }
         ]
       },
@@ -107028,7 +108045,7 @@
             "translation": "The boy '''sealed''' the hole."
           },
           {
-            "sentence": "Л1ыжъым илъынтфэхэр '''шъыбыгъэхэти''', лъы тэрэзэу арик1ожьырэп",
+            "sentence": "Л1ыжъым ылъынтфэхэр '''шъыбыгъэхэти''', лъы тэрэзэу арик1ожьырэп",
             "translation": "Because the old man's veins '''got sealed''', blood doesn't flow them right."
           },
           {
@@ -110155,31 +111172,6 @@
     ],
     "type": "verb",
     "ipa": "t͡ʃʼən"
-  },
-  {
-    "word": "къик1ын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to grow (plants, hair)",
-        "examples": [
-          {
-            "sentence": "Сжак1э псынкэу '''къек1ы'''",
-            "translation": "My beard '''grows''' fast."
-          },
-		  {
-            "sentence": "Къэгъагъэхэр '''къек1ых'''",
-            "translation": "The flowers '''grow'''."
-          },
-		  {
-            "sentence": "Л1ым ышъхьац к1ыхьэу '''къик1ыгъ'''",
-            "translation": "The man's hair '''grew''' long."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "qəjt͡ʃʼən"
   },
   {
     "word": "1орыш1эджэн",
@@ -114351,6 +115343,10 @@
 		  {
             "sentence": "Хабзэ щы1, зышъхьац зык1иупхъухьагъэм '''ыпшъэбы''' даохэу",
             "translation": "There is a tradition in which they slap '''the neck''' of a person that took a haircut."
+          },
+          {
+            "sentence": "Тыгъэ плъырым '''спшъэбы''' егъэсты",
+            "translation": "The hot sun burns '''the back of my neck'''."
           }
         ]
       }

@@ -1,6 +1,6 @@
 [
   {
-    "you": "о (singular); шъо (plural; you all)"
+    "you": "о (singular); шъо (plural, y'all, you guys, you all)"
   },
   {
     "you all": "шъо; шъо пстэумк1и"
@@ -843,7 +843,13 @@
     "beard": "жак1э"
   },
   {
-    "rheum": "нэк1эт1ыргъ / нэк1эт1эр; нэк1эбыдз"
+    "rheum": "нэк1эт1ыргъ / нэк1эт1эр (eye booger, sleepy dust); нэк1эбыдз"
+  },
+  {
+    "eye booger": "нэк1эт1ыргъ / нэк1эт1эр"
+  },
+  {
+    "sleepy dust": "нэк1эт1ыргъ / нэк1эт1эр"
   },
   {
     "stye": "нэк1эбыдз (eyes)"
@@ -891,9 +897,6 @@
     "they": "ахэр; ахэм"
   },
   {
-    "fist": "бжымы"
-  },
-  {
     "woman": "бзылъфыгъэ; шъуз"
   },
   {
@@ -912,7 +915,10 @@
     "cattle": "былым"
   },
   {
-    "fortune": "былым"
+    "fortune": "былым; мылъку"
+  },
+  {
+    "valuables": "былым; мылъку"
   },
   {
     "fortunate": "насып; хъяр; насып дэъу; насыпыш1у; насыпыш1уагъ; ш1угъо (fortunate time); бэрэ1умаф"
@@ -1017,7 +1023,7 @@
     "plowed": "жъуагъэ"
   },
   {
-    "oh my god": "апшъышъ"
+    "oh gosh": "апшъышъ"
   },
   {
     "oh my gosh": "апшъышъ"
@@ -1092,7 +1098,7 @@
     "heat": "фабэ"
   },
   {
-    "hot": "фабэ"
+    "hot": "фабэ (warm); стыр; плъыр (hot, hot-tempered)"
   },
   {
     "fever": "плъыр"
@@ -1395,7 +1401,7 @@
     "October": "чъэпыогъумаз"
   },
   {
-    "night": "чэщы"
+    "night": "чэщы; нычэпэ (tonight, this night)"
   },
   {
     "window": "шъхьангъупчъэ"
@@ -1428,7 +1434,7 @@
     "good": "ш1у"
   },
   {
-    "well": "ш1у"
+    "well": "ш1у; дэгъу (good, well)"
   },
   {
     "liver": "ш1у; тхьамш1ыгъу"
@@ -3171,16 +3177,10 @@
     "almond": "бадэ"
   },
   {
-    "fortune": "мылъку"
-  },
-  {
     "riches": "мылъку"
   },
   {
     "belongings": "мылъку"
-  },
-  {
-    "property": "мылъку"
   },
   {
     "full": "изы; изэу; шхэк1ын (having eaten to satisfaction); мыу / мы1у"
@@ -3925,6 +3925,12 @@
   },
   {
     "all right": "дэгъу (okay, sure, no problem, all right); зэк1эр дэгъу (everything is good)"
+  },
+  {
+    "sweetheart": "дэхэц1ык1у"
+  },
+  {
+    "sweetie": "дэхэц1ык1у"
   },
   {
     "squirrel": "цызэ"
@@ -5821,7 +5827,7 @@
     "to struggle": "бэнэн; ебэнын (to struggle with something); щэ1эн (to endure, to bear); фэщэ1эн (to manage to endure/bear something, to manage to struggle something)"
   },
   {
-    "to kiss": "бэон; ебэун; узэбэун (to kiss each other)"
+    "to kiss": "бэон; ебэун; узэбэун (to kiss each other); пыбэухьан (to continuously kiss someone)"
   },
   {
     "kiss": "бэу"
@@ -8260,6 +8266,9 @@
     "sweat": "пк1ант1э; пк1ат1э (Shapsug)"
   },
   {
+    "to sweat": "пк1ант1э къехын"
+  },
+  {
     "butt": "шъуты; пхэ; шъутыпашъо (butt skin)"
   },
   {
@@ -9008,6 +9017,9 @@
   },
   {
     "garden": "хатэ; чъыгхатэ (garden with trees and plants)"
+  },
+  {
+    "kitchen-garden": "хатэ; чъыгхатэ (garden with trees and plants)"
   },
   {
     "tree garden": "чъыгхатэ"
@@ -10120,7 +10132,7 @@
     "to get tired": "пшъын / къэпшъын; улэун"
   },
   {
-    "to settle": "щыпсэун (to live in); ит1ысхьан (to settle in); ч1эт1ысхьан (to settle under); тет1ысхьан (to settle on); хэт1ысхьан (to settle among other people)"
+    "to settle": "щыпсэун (to live in); ч1эт1ысхьан (to settle under); тет1ысхьан (to settle on); хэт1ысхьан (to settle among other people); дэт1ысхьан (to settle in a city, village, etc.); ит1ысхьан (to settle in a country)"
   },
   {
     "alcohol drink": "шъон к1уач1э"
@@ -10157,6 +10169,9 @@
   },
   {
     "sunny": "тыгъэпсы"
+  },
+  {
+    "brightful": "тыгъэпсы (bright of the sun)"
   },
   {
     "above": "ыпшъэ; ышъхьагъы; ык1ы1у (the surface of); ыпшъэк1э; ышъхьагък1э; ык1ы1ук1э"
@@ -11384,7 +11399,7 @@
   },
   {
     "to let time past": "блэгъэк1ын"
-  }
+  },
   {
     "to settle down": "зэгъэн (to settle down due to calmness)"
   },
@@ -13042,7 +13057,7 @@
     "to think full of oneself": "зыш1ош1ужьын"
   },
   {
-    "easy": "1эш1эх; къолай; -гъош1у (easy suffix)"
+    "easy": "1эш1эх; къолай; псынк1э; -гъош1у (easy suffix)"
   },
   {
     "hope": "гугъэ"
@@ -13103,6 +13118,12 @@
   },
   {
     "to pickle": "ш1о1ун; гъэш1о1ун (to pickle something)"
+  },
+  {
+    "pickle": "нэшэбэгу ш1о1угъ"
+  },
+  {
+    "brine": "щыгъу-щыпс"
   },
   {
     "to fountain": "ц1ырэн"
@@ -17068,7 +17089,7 @@
     "to walk": "к1он (to walk, to walk to somewhere); щык1он (to walk in a certain area); дэк1оен (to walk up); ехын (to walk down); къэк1ухьан (to walk around, to roam, to stroll, to ramble); зэк1эк1он (to walk backward); рик1он (to walk on something); к1ун (to walk a certain distance)"
   },
   {
-    "to go": "к1он (to walk, to go to somewhere); щык1он (to go in a certain area); дэк1оен (to go up); ехын (to go down); къэк1ухьан (to walk around, to roam, to stroll, to ramble); зэк1эк1он / къызэк1эк1он (to go backward); техьан (to go on); ч1эхьан (to go under); хэхьан (to go to an area with some liquid or gas); хэхьан (to go into a forest or field); хэхьан (to go through); хэхьан (to go among other people/objects); гохьан / бгъодэхьан (to go besides); ихьан (to go inside, to enter); дэхьан (to enter a defined area, such as a yard, village, area, etc.); дэхьан (to go between); к1оц1ыхьан (to go within inside something); къохьан (to go behind); шъхьадэхьан (to go over); шъхьапырык1ын (to go beyond); фэ1офытэн (to go for someone to bring something); ш1ок1он (to go to somewhere against someone's will or interest); гъэк1он (to make someone go to); рик1он (to go on something); к1ун (to walk a certain distance)"
+    "to go": "к1он (to walk, to go to somewhere); щык1он (to go in a certain area); дэк1оен (to go up); ехын (to go down); къэк1ухьан (to walk around, to roam, to stroll, to ramble); зэк1эк1он / къызэк1эк1он (to go backward); техьан (to go on); ч1эхьан (to go under); хэхьан (to go to an area with some liquid or gas); хэхьан (to go into a forest or field); хэхьан (to go through); хэхьан (to go among other people/objects); гохьан / бгъодэхьан (to go besides); ихьан (to go inside, to enter); дэхьан (to enter a defined area, such as a yard, village, area, etc.); дэхьан (to go between); к1оц1ыхьан (to go within inside something); къохьан (to go behind); шъхьадэхьан (to go over); шъхьапырык1ын (to go beyond); фэ1офытэн (to go for someone to bring something); ш1ок1он (to go to somewhere against someone's will or interest); гъэк1он (to make someone go to); рик1он (to go on something); к1ун (to walk a certain distance); дэт1ысхьан (to go to settle in a city, village, etc.); ит1ысхьан (to go to settle in a country)"
   },
   {
     "to come": "къэк1он; къылъык1отэн (to come near, to advance near); къыдэк1оен (to come up); къехын (to come down); къытехьан (to come on); къыч1эхьан (to come under); къыхэхьан (to come to an area with some liquid or gas); къыхэхьан (to come into a forest or field); хэхьан (to come through); къыхэхьан (to come among other people/objects); къыгохьан / къыбгъодэхьан (to come besides); къыихьан (to come inside); къыдэхьан (to enter a defined area, such as a yard, village, area, etc.); къыдэхьан (to come between); къык1оц1ыхьан (to come within inside something)"
@@ -19504,7 +19525,10 @@
     "to tarnish": "уш1оин; уц1эп1ын"
   },
   {
-    "to dirty": "уш1оин (to make it dirty); уц1эп1ын; зэхэуш1оен (to become dirty)"
+    "to dirty": "уш1оин (to make it dirty, to contaminate); уц1эп1ын; зэхэуш1оен (to become dirty)"
+  },
+  {
+    "to contaminate": "уш1оин"
   },
   {
     "to befoul": "уш1оин; зэхэуш1оен; упц1эп1ын; зэхэупц1эп1эн"
