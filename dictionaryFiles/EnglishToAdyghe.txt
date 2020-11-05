@@ -1146,7 +1146,7 @@
     "to drink from mouth": "хэшъон"
   },
   {
-    "silk": "данэ"
+    "silk": "данэ; щылэ"
   },
   {
     "hated fellow": "джэгъогъу"
@@ -4915,7 +4915,7 @@
     "to enslave": "пщыл1ы ш1ын; гъэпщылIын"
   },
   {
-    "to drink": "ешъон; егъэшъон (to make someone drink); хэшъон (to drink from a container directly or from a sea/river); ишъун (to drink up liquid from something); ишъук1ын (to completely drink up liquid from something); ешъук1ын (to be saturated after drinking); тешъун (to drink off something from the surface of)"
+    "to drink": "ешъон; егъэшъон (to make someone drink); хэшъон (to drink from a container directly or from the sea/river); ишъун (to drink up liquid from something); ишъук1ын (to completely drink up liquid from something); ешъук1ын (to be saturated after drinking); тешъун (to drink off something from the surface of)"
   },
   {
     "to gulp down": "псы ек1эхын (ащ псы рек1эхы - (s)he gulps down water)"
@@ -8429,6 +8429,21 @@
   },
   {
     "bright": "нэф; нэфын; джэфы (bright color)"
+  },
+  {
+    "progressive": "пэрыт"
+  },
+  {
+    "advanced": "пэрыт"
+  },
+  {
+    "leading": "пэрыт"
+  },
+  {
+    "headmost": "пэрыт"
+  },
+  {
+    "foremost": "пэрыт"
   },
   {
     "foreleg": "ш1уалъэ; лъэкъуипл1 зи1э псэушъхьэм ыпэрэ лъакъохэр ары"
@@ -16256,6 +16271,9 @@
   },
   {
     "until now": "джынэс; (dialecal) иджынэс"
+  },
+  {
+    "till": "нэс; хъуфэ (until it happens); -фэ / -нэс (until suffix)"
   },
   {
     "until": "нэс; хъуфэ (until it happens); -фэ / -нэс (until suffix)"

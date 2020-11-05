@@ -7515,6 +7515,10 @@
 		  {
             "sentence": "Мэламъом '''былымыхэр''' егъэхъух",
             "translation": "The shepherd herds '''the cattle'''."
+          },
+		  {
+            "sentence": "'''Былымхэр''' псыхъом хашъох",
+            "translation": "'''The livestock''' drinks from the river."
           }
         ]
       },
@@ -7648,6 +7652,10 @@
 		  {
             "sentence": "Тхьапш '''мафэу''' блэк1ыгъэ тиунэ укъэк1ожьыфэ?",
             "translation": "How many '''days''' passed until you came back to our house?"
+          },
+          {
+            "sentence": "'''Мафэ''' къэсы 1офым сэк1о пчэдыжьым",
+            "translation": "I go to work every '''day''' in the morning."
           }
         ]
       },
@@ -8309,6 +8317,10 @@
 		  {
             "sentence": "'''Пчэдыжьым''' нэс сэлэжьэ",
             "translation": "I work until '''the morning'''."
+          },
+          {
+            "sentence": "Мафэ къэсы 1офым сэк1о '''пчэдыжьым'''",
+            "translation": "I go to work every day '''in the morning'''."
           }
         ]
       }
@@ -9260,6 +9272,10 @@
           {
             "sentence": "Гъэрек1о Туркуям щыщэхэу '''хьак1эхэр''' ти1агъэх",
             "translation": "Last year we had '''guests''' from Turkey."
+          },
+          {
+            "sentence": "Бысымым '''хьак1эр''' ыгъэхьэк1агъ",
+            "translation": "The host hosted '''the guest'''."
           }
         ]
       }
@@ -9274,11 +9290,70 @@
     "definitions": [
       {
         "meaning": "to drink directly from a container (such as a bottle or gallon), rather than from a glass",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр колэм '''хашъо'''",
+            "translation": "The boy '''drinks''' the Coke '''from the bottle'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "to drink from the sea/river",
+        "examples": [
+          {
+            "sentence": "К1алэр хым '''хашъо'''",
+            "translation": "The boy '''drinks from''' the sea."
+          },
+		  {
+            "sentence": "Псэушъхьэхэр псыхъом '''хашъох'''",
+            "translation": "The animals '''drink from''' the river."
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "xaʂʷan"
+  },
+  {
+    "word": "нэс",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "until; till",
+        "examples": [
+		  {
+            "sentence": "Пчэдыжьым '''нэс''' сэлэжьэ",
+            "translation": "I work '''until''' the morning."
+          },
+		  {
+            "sentence": "Тахътэр дэпкъым '''нэс''' зэк1эгъахь",
+            "translation": "Push the cofa '''till''' the wall."
+          },
+          {
+            "sentence": "Неущы '''нэс''' мыжъом уеплъыгъэми мыхъыен",
+            "translation": "Even if you look at the rock '''till''' tomorrow it won't move."
+          },
+          {
+            "sentence": "Пш1ым '''нэс''' лъытэн",
+            "translation": "To count '''until''' ten."
+          },
+          {
+            "sentence": "К1элэц1ык1ум шъэ '''нэс''' къипчъышъущт.",
+            "translation": "The little boy can count '''to''' a hundred."
+          },
+		  {
+            "sentence": "Адэ сыд джы '''нэс''' шъуш1агъэр?",
+            "translation": "Then what you guys did '''until''' now?"
+          },
+		  {
+            "sentence": "Унэм чэщым '''нэс''' сыкъэк1ожьыщтэп",
+            "translation": "I won't come back to home '''till''' night."
+          }
+        ]
+      }
+    ],
+    "type": "adv",
+    "ipa": "nas"
   },
   {
     "word": "къэк1он",
@@ -9320,7 +9395,7 @@
             "translation": "Who are the ones that '''are coming'''?"
           },
 		  {
-            "sentence": "Унэм чэщы нэс '''сыкъэк1ожьыщтэп'''",
+            "sentence": "Унэм чэщым нэс '''сыкъэк1ожьыщтэп'''",
             "translation": "'''I won't come back''' to home till night."
           },
 		  {
@@ -9353,7 +9428,35 @@
             "translation": "The man '''went''' to the shop."
           },
           {
-            "sentence": "Европа '''сык1орагъу'''",
+            "sentence": "Тыдэ '''ук1уагъ'''?",
+            "translation": "Where did '''you go'''?"
+          },
+          {
+            "sentence": "Университетым '''сык1ощт''' седжэнэу",
+            "translation": "'''I will go to''' the university to study."
+          },
+          {
+            "sentence": "Непэ 1офым '''ук1уагъа'''?",
+            "translation": "'''Did you go to''' work today?"
+          }
+          {
+            "sentence": "Еджап1эм непэ '''сык1уагъэпи''', зырагъэджагъэхэр сыш1эрэп",
+            "translation": "'''Because I did not go to''' school today, I don't know what they taught."
+          },
+          {
+            "sentence": "Къалэм '''сык1огъагъ''' сыкъэщэфэнэу",
+            "translation": "'''I had gone to''' the city for shopping."
+          },
+          {
+            "sentence": "Аужым чэщдэсым '''сык1ожьыгъагъэп''', сыпшъыгъэщагъ",
+            "translation": "In the end '''I have not went to''' the party, I was too tired."
+          },
+          {
+            "sentence": "Мафэ къэсы 1офым '''сэк1о''' пчэдыжьым",
+            "translation": "'''I go to''' work every day in the morning."
+          },
+          {
+            "sentence": "Европа '''сык1онэу''' сыфай",
             "translation": "'''I want to go''' to Europa."
           },
           {
@@ -9416,12 +9519,34 @@
     "ipa": "naʁʷərɡʲa"
   },
   {
+    "word": "щылэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "silk",
+        "examples": [
+          {
+            "sentence": "'''Щылэ''' 1удан",
+            "translation": "''Silk''' thread."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ɕəɮa"
+  },
+  {
     "word": "данэ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "silk (thread)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Дэнэ''' джанэ",
+            "translation": "''Silk''' dress."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -9436,7 +9561,7 @@
         "examples": []
       }
     ],
-    "type": "noun",
+    "type": "adj",
     "ipa": "ʔʷʂaːb"
   },
   {
@@ -9444,8 +9569,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "hated fellow",
-        "examples": []
+        "meaning": "hated fellow (a person one hates)",
+        "examples": [
+          {
+            "sentence": "А к1алэр  '''сиджэгъогъу'''",
+            "translation": "That boy is '''my hated person''' (meaning: is a person I hate)."
+          }
+        ]
       },
       {
         "meaning": "evil wisher, illwisher, malevolent/spiteful person",
@@ -9472,7 +9602,7 @@
             "translation": "'''Gold''' watchchain."
           },
 		  {
-            "sentence": "Пшъашъэм ыпшъэ '''дышъэ''' блэрыпс илъилъ",
+            "sentence": "Пшъашъэм ыпшъэ '''дышъэ''' блэрыпс илъ",
             "translation": "The girl has a '''gold''' chainlet on her neck."
           }
         ]
@@ -10113,6 +10243,10 @@
 		  {
             "sentence": "Къушъхьит1ум '''псыхъо''' азыфаго дэт",
             "translation": "'''Between''' the two mountains there is a river."
+          },
+		  {
+            "sentence": "Псэушъхьэхэр '''псыхъом''' хашъох",
+            "translation": "The animals drink from '''the river'''."
           }
         ]
       }
@@ -10130,6 +10264,10 @@
           {
             "sentence": "Хьак1э-къуак1эхэмэ нэмык1 '''псэушъхьэхэр''' ашхых"
             "translation": "Predators eat other '''animals'''."
+          },
+		  {
+            "sentence": "'''Псэушъхьэхэр''' псыхъом хашъох",
+            "translation": "'''The animals''' drink from the river."
           }
         ]
       }
@@ -17744,6 +17882,10 @@
           {
             "sentence": "'''Аужырэм''' теплъыжьыгъэп фылымым",
             "translation": "'''In the end''' we didn't watch the film."
+          },
+          {
+            "sentence": "'''Аужым''' чэщдэсым сык1ожьыгъагъэп, сыпшъыгъэщагъ",
+            "translation": "'''In the end''' I have not went to the party, I was too tired."
           }
         ]
       }
@@ -38739,6 +38881,10 @@
 		  {
             "sentence": "Пасэу сыкъэтэджыгъ '''еджап1эм''' сык1он фаети",
             "translation": "I got off bed early because I need to go to '''school'''."
+          },
+          {
+            "sentence": "'''Еджап1эм''' непэ сык1уагъэпи, зырагъэджагъэхэр сыш1эрэп",
+            "translation": "Because I did not go to '''school''' today, I don't know what they taught."
           }
         ]
       }
@@ -41467,6 +41613,10 @@
 		  {
             "sentence": "К1алэр хьэм '''къеджи''' иунэ къыригъэк1ыгъ",
             "translation": "The boy '''called''' the dog and made him come out of its house."
+          },
+          {
+            "sentence": "Университетым сык1ощт '''седжэнэу'''",
+            "translation": "I will go to the university '''to study'''"
           }
         ]
       },
@@ -41651,6 +41801,10 @@
           {
             "sentence": "'''Непэ''' тыгъэплъыр щы1",
             "translation": "'''Today''' there is a hot sun."
+          },
+          {
+            "sentence": "Еджап1эм '''непэ''' сык1уагъэпи, зырагъэджагъэхэр сыш1эрэп",
+            "translation": "Because I did not go to school '''today''', I don't know what they taught."
           }
         ]
       }
@@ -50812,6 +50966,10 @@
           {
             "sentence": "'''Чэщдэсым''' шъук1онэу шъуфая?",
             "translation": "Do you want to go to the '''party'''?"
+          },
+          {
+            "sentence": "Аужым '''чэщдэсым''' сык1ожьыгъагъэп, сыпшъыгъэщагъ",
+            "translation": "In the end I have not went to '''the party''', I was too tired."
           }
         ]
       }
@@ -62266,7 +62424,7 @@
           },
           {
             "sentence": "Неущы нэс мыжъом уеплъыгъэми '''мыхъыен'''",
-            "translation": "Even if you look at the rock until tomorrow '''it won't move'''."
+            "translation": "Even if you look at the rock till tomorrow '''it won't move'''."
           }
         ]
       }
@@ -66192,6 +66350,10 @@
           {
             "sentence": "'''Неущы''' тыгъэплъыр щы1эщт",
             "translation": "'''Tomorrow''' there will be a hot sun."
+          },
+          {
+            "sentence": "'''Неущы''' нэс мыжъом уеплъыгъэми мыхъыен",
+            "translation": "Even if you look at the rock till '''tomorrow''' it won't move."
           }
         ]
       }
@@ -73605,6 +73767,10 @@
 		  {
             "sentence": "К1элэегъаджэм студентыхэр '''регъаджэх'''",
             "translation": "The teacher '''teaches''' the students."
+          },
+          {
+            "sentence": "Еджап1эм непэ сык1уагъэпи, '''зырагъэджагъэхэр''' сыш1эрэп",
+            "translation": "Because I did not go to school today, I don't know '''what they  taught'''."
           }
         ]
       }
@@ -78136,12 +78302,32 @@
 		  {
             "sentence": "Мафэ '''къэс''' сыдэк1ы",
             "translation": "I go out '''every''' day."
+          },
+		  {
+            "sentence": "Мафэ '''къэсы''' сэлажьэ шэмбэт хэмытэу",
+            "translation": "I work '''every''' day expect Saturday."
+          },
+          {
+            "sentence": "Мафэ '''къэсы''' 1офым сэк1о пчэдыжьым",
+            "translation": "I go to work '''every''' day in the morning."
           }
         ]
       }
     ],
-    "type": "noun",
+    "type": "det",
     "ipa": "qas"
+  },
+  {
+    "word": "къэсы",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"къэс\"",
+        "examples": []
+      }
+    ],
+    "type": "det",
+    "ipa": "qasə"
   },
   {
     "word": "т1урыт1у къашъо",
@@ -91100,7 +91286,7 @@
             "translation": ""
           },
 		  {
-            "sentence": "Софэр дэпкъым нэс '''зэк1эгъахь'''",
+            "sentence": "Тахътэр дэпкъым нэс '''зэк1эгъахь'''",
             "translation": "'''Push''' the cofa till the wall."
           }
         ]
@@ -98724,6 +98910,10 @@
 		  {
             "sentence": "Л1ыр унэм '''пшъыгъэу''' къихьэжьыгъ",
             "translation": "The man returned home '''exhausted'''."
+          },
+          {
+            "sentence": "Аужым чэщдэсым сык1ожьыгъагъэп, '''сыпшъыгъэщагъ'''",
+            "translation": "In the end I have not went to the party, '''I was too tired'''."
           }
         ]
       }
