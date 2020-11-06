@@ -8594,6 +8594,10 @@
             "translation": "I made the food '''well'''."
           },
 		  {
+            "sentence": "Мы ч1ып1эр '''дэгъу''' унэ ипш1ыхьанэу",
+            "translation": "This place is '''good''' to build a house in."
+          },
+		  {
             "sentence": "1офэу сыз1утыр '''дэгъоп'''",
             "translation": "The work I am working in '''is not good'''."
           },
@@ -9620,8 +9624,40 @@
         "meaning": "wind",
         "examples": [
           {
+            "sentence": "Непэ '''жьыбгъэ''' лъэш щы1",
+            "translation": "Today there is a strong '''wind'''."
+          },
+		  {
             "sentence": "'''Жьыбгъэр''' унэр къехьи къегъэучъы1ы",
             "translation": "'''The wind''' enters the house and makes it cold."
+          },
+		  {
+            "sentence": "'''Жьыбгъэм''' унашъхьэр тыритхъыгъ",
+            "translation": "'''The wind''' blown off the roof."
+          },
+		  {
+            "sentence": "К1алэм '''жьыбгъэ''' зы1уигъэунэу щагум ик1ыгъ",
+            "translation": "The boy went outside to get fresh '''air'''."
+          },
+		  {
+            "sentence": "'''Жьыбгъэ''' чъы1эм угъэсымэджэщт",
+            "translation": "The cold '''wind''' will make you sick."
+          },
+          {
+            "sentence": "'''Жьыбгъэр''' хы пак1эм къэк1ы",
+            "translation": "'''The wind''' is coming from the sea."
+          },
+		  {
+            "sentence": "'''Жьыбгъэр''' быяунэу ежьагъ",
+            "translation": "'''The wind''' started to calm down."
+          },
+		  {
+            "sentence": "'''Жьыбгъэр''' къепщэмэ чъыг тхьапэхэр сысынэу рагъажьэ",
+            "translation": "When '''the wind''' blows, the tree leaves start to shake."
+          },
+		  {
+            "sentence": "'''Жьыбгъэм''' чъыгыхэр ыупц1эныгъэх",
+            "translation": "'''The wind''' striped the trees."
           }
         ]
       }
@@ -9639,6 +9675,46 @@
           {
             "sentence": "Пый '''дзэмк1э''' тыкъэш1ыхьагъ",
             "translation": "We are surrounded with the enemy '''army'''."
+          },
+		  {
+            "sentence": "Урыс '''дзэр''' адыгэ '''дзэм''' къыфикъугъ",
+            "translation": "The Russian '''army''' overpowered the Circassian '''army'''."
+          },
+		  {
+            "sentence": "Жьыдзап1эм '''дзэм''' икъухьэлъатэхэр дэтых",
+            "translation": "The '''army's''' airplanes are in the air force base"
+          },
+		  {
+            "sentence": "'''Дзэр''' к1отэнэу ежьагъэ",
+            "translation": "'''The army''' started to advance."
+          },
+          {
+            "sentence": "'''Дзэр''' къылъык1уатэ",
+            "translation": "'''The army''' is advancing [here]."
+          },
+		  {
+            "sentence": "'''Дзэр''' шыуишъэу екъух",
+            "translation": "'''The army''' is consistent of hundred horsemen."
+          },
+		  {
+            "sentence": "'''Дзэр''' сатырэ к1ыхьэу уцугъэ",
+            "translation": "'''The army''' stood in a long line."
+          },
+          {
+            "sentence": "Сэ '''дзэм''' сыхэхьагъ",
+            "translation": "I joined '''the army'''."
+          },
+          {
+            "sentence": "Хэт '''дзэм''' хэхьащтыхэр?",
+            "translation": "Who are the ones that will join '''the army'''?"
+          },
+		  {
+            "sentence": "'''Дзэр''' у1эшын",
+            "translation": "To arm '''the army'''."
+          },
+          {
+            "sentence": "'''Дзэм''' мы ч1ып1э ыубытыгъ",
+            "translation": "'''The army''' took hold this area."
           }
         ]
       }
@@ -18208,11 +18284,29 @@
     "definitions": [
       {
         "meaning": "place",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Ч1ып1э''' щы1а тыщеджэшъунэу?",
+            "translation": "Is there '''a place''' we can study at?"
+          },
+		  {
+            "sentence": "'''Ч1ып1э''' щы1 шъулэжьэнэу шъуфаемэ",
+            "translation": "Is there '''a place''' if you guys want to work?"
+          },
+		  {
+            "sentence": "Мы '''ч1ып1эр''' дэгъу унэ ипш1ыхьанэу",
+            "translation": "This '''place''' is good to build a house in."
+          }
+        ]
       },
 	  {
         "meaning": "area",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Дзэм мы '''ч1ып1э''' ыубытыгъ",
+            "translation": "The army took hold this '''area'''."
+          }
+        ]
       },
 	  {
         "meaning": "spot; position",
@@ -23928,7 +24022,7 @@
             "translation": "'''Capture''' the flag."
           },
           {
-            "sentence": "Дзэм мы к1ыпэ ыубытыгъ",
+            "sentence": "Дзэм мы ч1ып1э ыубытыгъ",
             "translation": "The army '''took hold''' this area."
           },
           {
@@ -43420,6 +43514,10 @@
             "translation": "'''Who''' are you?"
           },
           {
+            "sentence": "'''Хэт''' дзэм хэхьащтыхэр?",
+            "translation": "'''Who''' are the ones that will join the army?"
+          },
+          {
             "sentence": "'''Хэт''' ар?",
             "translation": "'''Who''' is (s)he?"
           },
@@ -56099,6 +56197,10 @@
 		  {
             "sentence": "К1алэр отычк1э '''лъэшэу''' чъыгым еуагъ",
             "translation": "The boy struck the tree '''powerfully''' with the axe."
+          },
+		  {
+            "sentence": "Непэ жьыбгъэ '''лъэш''' щы1",
+            "translation": "Today there is a '''strong''' wind."
           }
         ]
       },
@@ -78632,7 +78734,7 @@
         "meaning": "to bare; to strip",
         "examples": [
           {
-            "sentence": "Жьыбгъэм чъыгыхэр '''ыуджэшъугъ'''",
+            "sentence": "Жьыбгъэм чъыгыхэр '''ыуджэшъугъэх'''",
             "translation": "The wind '''striped''' the trees."
           }
         ]
@@ -78653,7 +78755,7 @@
             "translation": "The person '''is striping'''."
           },
 		  {
-            "sentence": "Жьыбгъэм чъыгыхэр '''ыупц1эныгъ'''",
+            "sentence": "Жьыбгъэм чъыгыхэр '''ыупц1эныгъэх'''",
             "translation": "The wind '''striped''' the trees."
           },
 		  {
@@ -104602,6 +104704,24 @@
             "translation": "'''You cannot lock me in''' prison."
           }
         ]
+      },
+	  {
+        "meaning": "to make inside",
+        "examples": [
+		  {
+            "sentence": "К1алэм унэм шхын '''риш1ыхьагъ'''",
+            "translation": "The boy '''made''' food '''in''' the house."
+          }
+        ]
+      },
+	  {
+        "meaning": "to build inside",
+        "examples": [
+		  {
+            "sentence": "Мы ч1ып1эр дэгъу унэ '''ипш1ыхьанэу'''",
+            "translation": "This place is good '''to build''' a house '''in'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -110026,6 +110146,14 @@
           {
             "sentence": "К1алэр ц1ыфыхэр '''ахахьэ'''",
             "translation": "The boy '''joins''' the people."
+          },
+          {
+            "sentence": "Сэ дзэм '''сыхэхьагъ'''",
+            "translation": "'''I joined''' the army."
+          },
+          {
+            "sentence": "Хэт дзэм '''хэхьащтыхэр'''?",
+            "translation": "Who are '''the ones that will join''' the army?"
           },
 		  {
             "sentence": "Л1ыгъэ къыпхэлъын фай заом '''ухэхьан''' пае",
@@ -122372,7 +122500,7 @@
         "examples": [
           {
             "sentence": "Жьыбгъэр '''быяунэу''' ежьагъ",
-            "translation": "The wind started '''stopping'''."
+            "translation": "The wind started '''to calm down'''."
           }
         ]
       }
@@ -126264,7 +126392,7 @@
         "examples": [
           {
             "sentence": "К1алэм '''жьыбгъэ зы1уигъэунэу''' щагум ик1ыгъ",
-            "translation": "The boy '''to get fresh air''' went outside."
+            "translation": "The boy went outside '''to get fresh air'''."
           }
         ]
       }
@@ -126330,7 +126458,7 @@
         "examples": [
           {
             "sentence": "К1алэм '''жьы зы1уигъэунэу''' щагум ик1ыгъ",
-            "translation": "The boy '''to get fresh air''' went outside."
+            "translation": "The boy went outside '''to get fresh air'''."
           }
         ]
       }
