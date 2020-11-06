@@ -2625,6 +2625,10 @@
 		  {
             "sentence": "Адыгэхэмэ '''ябзэ''' къэсгуры1орэп?",
             "translation": "I cannot understand the Circassian's '''language'''."
+          },
+		  {
+            "sentence": "Тэдрэз лъэпкъым '''бзэ''' и1",
+            "translation": "Every nation has a '''language'''"
           }
         ]
       },
@@ -6972,6 +6976,10 @@
 		  {
             "sentence": "'''Пцэжъыяшэр''' хым хахьи пцэжъыехэр къеубытых",
             "translation": "'''The fisherman''' goes into the sea and catches fishes."
+          },
+		  {
+            "sentence": "'''Пцэжъыяшэхэмэ''' къошъобэщхэр къаштэхи хым хэхьагъэх",
+            "translation": "'''The fishermen''' grabbed the paddles and went to the sea."
           }
         ]
       }
@@ -7343,66 +7351,6 @@
     ],
     "type": "noun",
     "ipa": "bʒəm"
-  },
-  {
-    "word": "бзылъфыгъэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "woman",
-        "examples": [
-          {
-            "sentence": "Сэтэнае гуащэр '''бзылъфыгъэ''' 1уш",
-            "translation": "Lady Sataney is a wise '''woman'''."
-          },
-		  {
-            "sentence": "'''Бзылъфыгъэм''' джанэхэр егык1ых",
-            "translation": "The woman laundries the clothes."
-          },
-		  {
-            "sentence": "'''Бзылъфыгъэм''' лыр лы1у-лы1оу ыупк1этагъ",
-            "translation": "The woman '''cut''' the meat piece by piece."
-          }
-        ]
-      },
-      {
-        "meaning": "(uncommon) human female",
-        "examples": []
-      }
-    ],
-    "kabardian": "бзылъхугъэ",
-    "type": "noun",
-    "ipa": "bzəɬfəʁa"
-  },
-  {
-    "word": "хъулъфыгъэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "man",
-        "examples": [
-          {
-            "sentence": "Сэтэнае гуащэр '''бзылъфыгъэ''' 1уш",
-            "translation": "Lady Sataney is a wise '''woman'''."
-          },
-		  {
-            "sentence": "'''Хъулъфыгъэм''' к1алэхэр регъэджэх",
-            "translation": "'''The man''' teaches the kids."
-          },
-		  {
-            "sentence": "'''Хъулъфыгъэр''' 1офым к1уагъэ",
-            "translation": "'''The man''' went to work."
-          }
-        ]
-      },
-      {
-        "meaning": "(uncommon) human male",
-        "examples": []
-      }
-    ],
-    "kabardian": "хъулъхугъэ",
-    "type": "noun",
-    "ipa": "q͡χʷəɬfəʁa"
   },
   {
     "word": "хъу",
@@ -7797,7 +7745,16 @@
     "definitions": [
       {
         "meaning": "to sit inside",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Пцэжъыяшэхэр къуашъом '''ит1ысхьахи''' хым хэхьагъэх",
+            "translation": "The fishermen '''sat inside''' the boat and went to the sea."
+          },
+		  {
+            "sentence": "К1алэр унэм '''ит1ысхьагъ'''",
+            "translation": "The boy '''sat in''' the house."
+          }
+        ]
       },
 	  {
         "meaning": "to settle in a country",
@@ -9753,11 +9710,90 @@
       }
     ],
     "synonyms": [
-      "дзак1о",
       "дзэк1ол1ы"
     ],
     "type": "noun",
     "ipa": "d͡zaɬʼə"
+  },
+  {
+    "word": "бзылъфыгъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "woman",
+        "examples": [
+          {
+            "sentence": "Сэтэнае гуащэр '''бзылъфыгъэ''' 1уш",
+            "translation": "Lady Sataney is a wise '''woman'''."
+          },
+		  {
+            "sentence": "'''Бзылъфыгъэм''' джанэхэр егык1ых",
+            "translation": "The woman laundries the clothes."
+          },
+		  {
+            "sentence": "'''Бзылъфыгъэм''' лыр лы1у-лы1оу ыупк1этагъ",
+            "translation": "The woman '''cut''' the meat piece by piece."
+          },
+		  {
+			"sentence": "'''Бзылъфыгъэр''' ил1 къыдэк1уагъ",
+            "translation": "'''The woman''' came with her husband."
+          },
+		  {
+            "sentence": "'''Бзылъфыгъэм''' л1ы и1эп",
+            "translation": "'''The woman''' has no husband."
+          },
+		  {
+            "sentence": "'''Бзылъфыгъэу''' ил1 зыл1агъэм шъузабэ ра1о",
+            "translation": "'''A woman''' that lost her husband is called widow."
+          }
+        ]
+      },
+      {
+        "meaning": "(uncommon) human female",
+        "examples": []
+      }
+    ],
+    "kabardian": "бзылъхугъэ",
+    "type": "noun",
+    "ipa": "bzəɬfəʁa"
+  },
+  {
+    "word": "хъулъфыгъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "man",
+        "examples": [
+          {
+            "sentence": "Сэтэнае гуащэр '''бзылъфыгъэ''' 1уш",
+            "translation": "Lady Sataney is a wise '''woman'''."
+          },
+		  {
+            "sentence": "'''Хъулъфыгъэм''' к1алэхэр регъэджэх",
+            "translation": "'''The man''' teaches the kids."
+          },
+		  {
+            "sentence": "'''Хъулъфыгъэр''' 1офым к1уагъэ",
+            "translation": "'''The man''' went to work."
+          },
+		  {
+			"sentence": "'''Хъулъфыгъэр''' ишъуз къыдэк1уагъ",
+            "translation": "'''The man''' came with her wife."
+          },
+		  {
+            "sentence": "'''Хъулъфыгъэм''' шъуз и1эп",
+            "translation": "'''The man''' has no wife."
+          }
+        ]
+      },
+      {
+        "meaning": "(uncommon) human male",
+        "examples": []
+      }
+    ],
+    "kabardian": "хъулъхугъэ",
+    "type": "noun",
+    "ipa": "q͡χʷəɬfəʁa"
   },
   {
     "word": "л1ы",
@@ -9765,11 +9801,37 @@
     "definitions": [
       {
         "meaning": "husband",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Сил1''' 1офым щы1",
+            "translation": "'''My husband''' at work."
+          },
+		  {
+            "sentence": "Бзылъфыгъэр '''ил1''' къыдэк1уагъ",
+            "translation": "The woman came with '''her husband'''."
+          },
+		  {
+            "sentence": "Бзылъфыгъэм '''л1ы''' и1эп",
+            "translation": "The woman has no '''husband'''."
+          },
+		  {
+            "sentence": "Бзылъфыгъэу '''ил1''' зыл1агъэм шъузабэ ра1о",
+            "translation": "A woman that lost '''her husband''' is called widow."
+          }
+        ]
       },
       {
         "meaning": "man",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Л1ыр''' фабрикэм щылажьэ",
+            "translation": "'''The man''' is working in the factory."
+          },
+		  {
+            "sentence": "'''Л1ыр''' заом хэхьагъ",
+            "translation": "'''The man''' joined the war."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -9781,11 +9843,33 @@
     "definitions": [
       {
         "meaning": "wife",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Сишъуз''' 1офым щы1",
+            "translation": "'''My husband''' at work."
+          },
+		  {
+			"sentence": "Хъулъфыгъэр '''ишъуз''' къыдэк1уагъ",
+            "translation": "The man came with '''her wife'''."
+          },
+		  {
+            "sentence": "Хъулъфыгъэм '''шъуз''' и1эп",
+            "translation": "The man has no '''wife'''."
+          }
+        ]
       },
       {
         "meaning": "woman",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Шъузыр''' къэщафэ",
+            "translation": "'''The woman''' is doing shopping."
+          },
+		  {
+			"sentence": "'''Шъузым''' зэмыл1эужыгъо джанэхэр еуплъэк1ух",
+            "translation": "'''The woman''' tries various dresses."
+          }
+        ]
       }
     ],
     "kabardian": "фыз",
@@ -9798,10 +9882,27 @@
     "definitions": [
       {
         "meaning": "large, big",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Тамбыир унэ '''иным''' ис",
+            "translation": "Tambi lives in a '''large''' house."
+          },
+		  {
+			"sentence": "К1алэр '''инэу''' хъугъэ",
+            "translation": "The boy became '''big'''."
+          },
+		  {
+			"sentence": "Мэзыр '''ины'''",
+            "translation": "The forest '''is large'''."
+          },
+		  {
+			"sentence": "Л1ым 1офэу ыш1ырэр '''ины'''",
+            "translation": "The work the man is doing '''is large'''."
+          }
+        ]
       },
       {
-        "meaning": "giant (usually written as иныжъ)",
+        "meaning": "giant; alternative form of \"иныжъ\"",
         "examples": []
       }
     ],
@@ -9815,23 +9916,37 @@
       {
         "meaning": "girl",
         "examples": [
-          {
+		  {
             "sentence": "'''пшъашъэр''' мак1о",
             "translation": "'''The girl''' is going."
           },
           {
             "sentence": "'''пшъэшъэ''' дахэр",
             "translation": "The beautiful '''girl'''."
-          },
-          {
-            "sentence": "'''упшъашъэ''' дэк1ощт",
-            "translation": "'''Your girl''' is going to marry him."
           }
         ]
       },
       {
         "meaning": "young woman, young lady",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''пшъашъэр''' университет щеджэ",
+            "translation": "'''The young woman''' is studying in the university."
+          }
+        ]
+      },
+      {
+        "meaning": "daughter",
+        "examples": [
+          {
+            "sentence": "'''уипшъашъэ''' ащ дэк1ощт",
+            "translation": "'''Your daughter''' is going to marry him."
+          },
+		  {
+            "sentence": "ахэмэ '''апшъашъэ''' сыдеджэ",
+            "translation": "I am studying with '''their daughter'''."
+          }
+        ]
       }
     ],
     "kabardian": "пщащэ",
@@ -9850,18 +9965,40 @@
             "translation": "'''The boy''' is going."
           },
           {
-            "sentence": "'''К1элэ''' дахэ",
-            "translation": "The beautiful '''young man'''."
-          },
-          {
-            "sentence": "'''Ук1алэ''' къищэщт",
-            "translation": "'''Your young man''' is going to marry her."
+            "sentence": "'''К1алэм''' зегъасэ",
+            "translation": "The '''boy''' is doing exercise."
           }
         ]
       },
       {
         "meaning": "young man",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''К1алэхэр''' мэлажьэх",
+            "translation": "'''The young men''' are working."
+          },
+		  {
+            "sentence": "'''К1алэм''' мэлыхэр егъэхъух",
+            "translation": "'''The young man''' is herding the sheeps."
+          },
+		  {
+            "sentence": "'''К1элэ''' ныбжьык1эхэр къалэхэмэ адэт1ысхьажьых",
+            "translation": "The young '''men''' are settling in the cities."
+          }
+        ]
+      },
+      {
+        "meaning": "son",
+        "examples": [
+          {
+            "sentence": "'''Уик1алэ''' къищэщт",
+            "translation": "'''Your son''' is going to marry her."
+          }
+		  {
+            "sentence": "Ахэмэ '''ак1алэ''' сыдеджэ",
+            "translation": "I am studying with '''their son'''."
+          }
+        ]
       }
     ],
     "kabardian": "щ1алэ",
@@ -9886,22 +10023,20 @@
 		  {
             "sentence": "Къэк1орэ гъэм '''къалэм''' сыдэт1ысхьажьыщт",
             "translation": "Next year I will settle in '''the city'''."
+          },
+		  {
+            "sentence": "'''Къалэм''' сык1уагъ сыкъыщыщэфэнэу",
+            "translation": "I went to '''the city''' to do shopping."
           }
         ]
       },
       {
         "meaning": "(Shapsug dialect) wall",
-        "examples": [],
-        "tags": [
-          "Shapsug dialect"
-        ]
+        "examples": []
       },
       {
         "meaning": "(dialectal) yard",
-        "examples": [],
-        "tags": [
-          "Abzakh dialect"
-        ]
+        "examples": []
       }
     ],
     "type": "noun",
@@ -9913,11 +10048,41 @@
     "definitions": [
       {
         "meaning": "paddle, oar",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэхэмэ къуашъор афы '''къошъобэщк1э'''",
+            "translation": "The boys are pushing the boat '''with a paddle'''."
+          },
+		  {
+            "sentence": "Пцэжъыяшэхэмэ '''къошъобэщхэр''' къаштэхи хым хэхьагъэх",
+            "translation": "The fishermen grabbed '''the paddles''' and went to the sea."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "qʷaʂʷabaɕ"
+  },
+  {
+    "word": "къуашъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "boat",
+        "examples": [
+          {
+            "sentence": "К1алэхэмэ '''къуашъор''' афы къошъобэщк1э",
+            "translation": "The boys are pushing '''the boat''' with a paddle."
+          },
+		  {
+            "sentence": "Пцэжъыяшэхэр '''къуашъом''' ит1ысхьахи хым хэхьагъэх",
+            "translation": "The fishermen sat inside '''the boat''' and went to the sea."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "qʷaːʂʷa"
   },
   {
     "word": "бэщ",
@@ -9927,8 +10092,16 @@
         "meaning": "rod, staff, cane, stick",
         "examples": [
           {
-            "sentence": "'''Л1ыжъым''' бэщ ы1ыгъ",
-            "translation": "The old man carries a '''cane'''."
+            "sentence": "Сэ '''бэщ''' сы1ыгъ",
+            "translation": "I carry a '''cane'''."
+          },
+		  {
+            "sentence": "Л1ыжъыр '''бэщк1э''' мак1о",
+            "translation": "The old man is going with '''a cane'''."
+          },
+		  {
+            "sentence": "'''Бэщымк1э''' умыу, егъэузы",
+            "translation": "Do not strike '''with the stick''', it hurts."
           }
         ]
       }
@@ -9943,9 +10116,9 @@
       {
         "meaning": "rubber",
         "examples": [
-          {
-            "sentence": "Бэщ пак1эм '''хьашъо''' пылъ",
-            "translation": "On the tip of the stick is '''a rubber'''."
+		  {
+            "sentence": "'''Хьашъомк1э''' картыхэр сыпхыгъэх",
+            "translation": "I tied the cards '''with a rubber'''."
           }
         ]
       },
@@ -9954,7 +10127,7 @@
         "examples": []
       }
     ],
-    "kabardian": "техак1уэ",
+    "kabardian": "хьафэ",
     "type": "noun",
     "ipa": "ħaːʂʷa"
   },
@@ -9964,7 +10137,16 @@
     "definitions": [
       {
         "meaning": "bridge",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Лъэмыдж''' 1ут псыхъом уриблэк1ынэу",
+            "translation": "There is '''a bridge''' to pass the river with."
+          },
+		  {
+            "sentence": "'''Лъэмыджым''' кухэр рек1ох",
+            "translation": "Cars go through '''the bridge'''."
+          }
+        ]
       }
     ],
     "kabardian": "лъэмыж",
@@ -9977,7 +10159,12 @@
     "definitions": [
       {
         "meaning": "kin (race, kind)",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Тилъэпкъ''' Адыгэ '''лъэпкъыр'''",
+            "translation": "'''Our race''' is the Adyghe '''race'''."
+          }
+        ]
       },
       {
         "meaning": "ethnicity",
@@ -9989,7 +10176,12 @@
       },
       {
         "meaning": "ethnic group",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Тэдрэз '''лъэпкъым''' бзэ и1",
+            "translation": "Every '''ethnic group''' has a language"
+          }
+        ]
       },
       {
         "meaning": "tribe",
@@ -10041,6 +10233,7 @@
       "лъфащэ",
       "хъопсащэ"
     ],
+    "shapsug": "щык1ьэпс",
     "type": "noun",
     "ipa": "ɕəkʲʼaps"
   },
@@ -10049,11 +10242,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "rock",
-        "examples": []
-      },
-      {
-        "meaning": "stone",
+        "meaning": "rock; stone",
         "examples": []
       }
     ],
@@ -11235,6 +11424,10 @@
           {
             "sentence": "'''Л1ыжъэу''' ебэджыгъэр ц1ыфыхэмэ къагъэтэджэжьыгъ",
             "translation": "The people lifted '''the old-man''' that fell [on the ground]."
+          },
+		  {
+            "sentence": "'''Л1ыжъыр''' бэщк1э мак1о",
+            "translation": "'''The old man''' is going with '''a cane'''."
           }
         ]
       }
@@ -12294,6 +12487,10 @@
 		  {
             "sentence": "Пцэжъыяшэр '''хым''' хахьи пцэжъыехэр къеубытых",
             "translation": "The fisherman goes into '''the sea''' and catches fishes."
+          },
+		  {
+            "sentence": "Пцэжъыяшэхэмэ къошъобэщхэр къаштэхи '''хым''' хэхьагъэх",
+            "translation": "The fishermen grabbed the paddles and went to '''the sea'''."
           }
         ]
       },
@@ -18790,9 +18987,15 @@
     "definitions": [
       {
         "meaning": "giant (huge mythical creature)",
-        "examples": [],
-        "tags": [
-          "huge mythical creature"
+        "examples": [
+          {
+            "sentence": "Мэзым куоу '''иныжъхэр''' хэсых",
+            "translation": "Deep in the forest '''giants''' are settling."
+          },
+		  {
+            "sentence": "Саусырыкъо '''иныжъыр''' ыук1ыгъ",
+            "translation": "Sosruko killed '''the giant'''."
+          }
         ]
       }
     ],
@@ -20410,7 +20613,7 @@
             "translation": "We are surrounded with the '''enemy''' army."
           },
 		  {
-            "sentence": "'''Пыим''' идзак1охэр къэтыухъурэихьагъэх",
+            "sentence": "'''Пыим''' идзэк1ол1ыхэр къэтыухъурэихьагъэх",
             "translation": "We surrounded the '''enemy's''' soldiers."
           },
 		  {
@@ -26106,7 +26309,7 @@
             "translation": "'''release''' the cannon."
           },
           {
-            "sentence": "дзак1охэр '''ат1упщыгъэх'''",
+            "sentence": "дзэк1ол1ыхэр '''ат1упщыгъэх'''",
             "translation": "'''they released''' the soldiers."
           }
         ]
@@ -26759,6 +26962,10 @@
 		  {
             "sentence": "л1ым чатэр '''къештэ'''",
             "translation": "The man '''grabs''' the sword."
+          },
+		  {
+            "sentence": "пцэжъыяшэхэмэ къошъобэщхэр '''къаштэхи''' хым хэхьагъэх",
+            "translation": "The fishermen '''grabbed''' the paddles '''and''' went to the sea."
           },
 		  {
             "sentence": "мы 1офыр о '''штэ''', сэ адрэ 1офыхэр '''сыштэщтых'''",
@@ -27459,7 +27666,7 @@
             "translation": "When I entered the field of thorn, '''it injured''' my thigh."
           },
 		  {
-            "sentence": "Дзак1ор '''у1агъэ'''",
+            "sentence": "Дзэк1ол1ыр '''у1агъэ'''",
             "translation": "The soldier '''is injured'''."
           },
 		  {
@@ -27843,6 +28050,10 @@
 		  {
             "sentence": "Мэфэ заулэ '''блэк1ыгъ''' пшъашъэм джэуап зэрэкъысимытыжьыгъэр",
             "translation": "Several days '''has passed''' since the girl sent me a response."
+          },
+		  {
+            "sentence": "Лъэмыдж 1ут псыхъом '''уриблэк1ынэу'''",
+            "translation": "There is a bridge '''to pass''' the river '''with'''."
           }
         ]
       }
@@ -34142,7 +34353,7 @@
             "translation": "There is a little garden '''in front of''' the house."
           },
 		  {
-            "sentence": "Дзак1охэр зэтегъауцух, пыир '''тыпашъхьэ''' ит",
+            "sentence": "Дзэк1ол1ыхэр зэтегъауцух, пыир '''тыпашъхьэ''' ит",
             "translation": "Stop the soldiers, the enemy in '''front of us'''."
           }
         ]
@@ -34326,7 +34537,7 @@
             "translation": "The '''green''' grass is pretty."
           },
 		  {
-            "sentence": "Къэлъагъохэрэп дзак1охэр, щыгъын '''уцышъохэр''' ащыгъэх",
+            "sentence": "Къэлъагъохэрэп дзэк1ол1ыхэр, щыгъын '''уцышъохэр''' ащыгъэх",
             "translation": "The soldiers are not visible, they wear '''green''' clothes."
           }
         ]
@@ -42397,6 +42608,10 @@
         "meaning": "to drive; to move something (forcefully); to push",
         "examples": [
           {
+            "sentence": "К1алэхэмэ къуашъор '''афы''' къошъобэщк1э",
+            "translation": "The boys '''are pushing''' the boat with a paddle."
+          },
+		  {
             "sentence": "Сэры '''зифырэр'''.",
             "translation": "I am '''the one that is driving'''."
           },
@@ -44426,19 +44641,6 @@
     ],
     "type": "verb",
     "ipa": "ɡʷəɬətan"
-  },
-  {
-    "word": "хъулъфыгъэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "man",
-        "examples": []
-      }
-    ],
-    "kabardian": "хъулъхугъэ",
-    "type": "noun",
-    "ipa": "χʷəɬfəʁa"
   },
   {
     "word": "къулъфыгъэ",
@@ -50055,7 +50257,7 @@
         "meaning": "bayonet",
         "examples": [
           {
-            "sentence": "Дзак1ор '''пчыпыджынымк1э''' ипый епыджыгъ",
+            "sentence": "Дзэк1ол1ыр '''пчыпыджынымк1э''' ипый епыджыгъ",
             "translation": "The soldier stabbed his enemy '''with the bayonet'''."
           }
         ]
@@ -66639,7 +66841,7 @@
             "translation": "A bayonet is attached to the tip of the '''soldier's''' rifle."
           },
 		  {
-            "sentence": "'''Дзак1ол1ыр''' пчыпыджынымк1э ипый епыджыгъ",
+            "sentence": "'''Дзэк1ол1ыр''' пчыпыджынымк1э ипый епыджыгъ",
             "translation": "'''The soldier''' stabbed his enemy with the bayonet."
           },
 		  {
@@ -66654,7 +66856,6 @@
       }
     ],
     "synonyms": [
-      "дзак1о",
       "дзэл1ы"
     ],
     "type": "noun",
@@ -66665,14 +66866,14 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "soldier (conscript; draftee)",
+        "meaning": "conscript; draftee",
         "examples": [
           {
-            "sentence": "Заом '''дзэк1охэр''' ятхьэматэ лъэк1ох",
+            "sentence": "Заом '''дзак1охэр''' ятхьэматэ лъэк1ох",
             "translation": "In war '''the soldier''' are following their leader."
           },
 		  {
-            "sentence": "'''Дзэк1ом''' ишхончыпэ пчыпыджын пыт",
+            "sentence": "'''Дзак1ом''' ишхончыпэ пчыпыджын пыт",
             "translation": "A bayonet is attached to the tip of the '''soldier's''' rifle."
           },
 		  {
@@ -66680,7 +66881,7 @@
             "translation": "'''The soldier''' stabbed his enemy with the bayonet."
           },
 		  {
-            "sentence": "'''Дзэк1ор''' гъэсагъ",
+            "sentence": "'''Дзак1ор''' гъэсагъ",
             "translation": "'''The soldier''' is trained."
           },
 		  {
@@ -68098,6 +68299,10 @@
           {
             "sentence": "Кур дэгъумэ '''уплъэк1у'''",
             "translation": "'''Try''' the car if it is good."
+          },
+		  {
+			"sentence": "Шъузым зэмыл1эужыгъо джанэхэр '''еуплъэк1ух'''",
+            "translation": "The woman '''tries''' various dresses."
           }
         ]
       },
@@ -69656,7 +69861,7 @@
         "meaning": "to become petrified; to get immobilized with fright; to get frozen with terror",
         "examples": [
           {
-            "sentence": "Дзак1ом къумбылэр елъэгъум '''къыгъэ'''",
+            "sentence": "Дзэк1ол1ым къумбылэр елъэгъум '''къыгъэ'''",
             "translation": "When the soldier saw the bomb '''he got petrified'''."
           }
         ]
@@ -69706,7 +69911,7 @@
         "meaning": "to petrify; to immobilize with fright; to freeze with terror",
         "examples": [
           {
-            "sentence": "Дзак1ор къумбылэм '''ыгъэкъыгъ'''",
+            "sentence": "Дзэк1ол1ыр къумбылэм '''ыгъэкъыгъ'''",
             "translation": "The bomb '''petrified''' the soldier."
           }
         ]
@@ -72776,7 +72981,7 @@
             "translation": "The boy '''is striving''' to get a hundred in the exam."
           },
 		  {
-            "sentence": "К1алэр дзак1о хъуным '''ыуж ит'''",
+            "sentence": "К1алэр дзэк1ол1ы хъуным '''ыуж ит'''",
             "translation": "The boy '''is pursuing [the goal] of''' becoming a soldier."
           }
         ]
@@ -76343,7 +76548,7 @@
             "translation": "In class, my partner forgot what he was going to say and he made me embarrassed '''in front of''' everyone."
           },
 		  {
-            "sentence": "Дзак1охэр зэтегъауцух, пыир '''тыпашъхьэ''' ит",
+            "sentence": "Дзэк1ол1ыхэр зэтегъауцух, пыир '''тыпашъхьэ''' ит",
             "translation": "Stop the soldiers, the enemy in '''front of us'''."
           }
         ]
@@ -84068,7 +84273,7 @@
             "translation": "The wolf left the sheep '''halfdead'''."
           },
 		  {
-            "sentence": "'''Ныкъол1эу''' дзак1ор заом къыщрагъэнагъ",
+            "sentence": "'''Ныкъол1эу''' дзэк1ол1ыр заом къыщрагъэнагъ",
             "translation": "They left the soldier in the war '''halfdead'''."
           }
         ]
@@ -104876,7 +105081,7 @@
             "translation": "The trees '''surround''' with lake."
           },
 		  {
-            "sentence": "Пыим идзак1охэр '''къэтыухъурэихьагъэх'''",
+            "sentence": "Пыим идзэк1ол1ыхэр '''къэтыухъурэихьагъэх'''",
             "translation": "'''We surrounded''' the enemy's soldiers."
           }
         ]
@@ -105364,7 +105569,7 @@
         "meaning": "armless, one that has no arms / weapons.",
         "examples": [
           {
-            "sentence": "Дзак1охэр '''1ашэнчъэу''' зэуап1эм къыщаук1ыгъэх",
+            "sentence": "Дзэк1ол1ыхэр '''1ашэнчъэу''' зэуап1эм къыщаук1ыгъэх",
             "translation": "The soldiers '''armlessly''' were killed in the battle field."
           },
 		  {
@@ -105808,7 +106013,7 @@
         "meaning": "to be afraid that a certain thing will happen",
         "examples": [
           {
-            "sentence": "Дзак1ор къумбылыр къэоным '''тещыныхьэ'''",
+            "sentence": "Дзэк1ол1ыр къумбылыр къэоным '''тещыныхьэ'''",
             "translation": "The soldier '''is afraid of''' the bomb to explode."
           },
 		  {
@@ -106967,7 +107172,7 @@
             "translation": "The boy '''paused''' the film."
           },
 		  {
-            "sentence": "Дзак1охэр '''зэтегъауцух''', пыир тыпашъхьэ ит",
+            "sentence": "Дзэк1ол1ыхэр '''зэтегъауцух''', пыир тыпашъхьэ ит",
             "translation": "'''Stop''' the soldiers, the enemy in front of us."
           },
 		  {
@@ -107319,7 +107524,7 @@
         "meaning": "to train",
         "examples": [
           {
-            "sentence": "Тхьэматэм идзак1охэр '''егъасэх'''",
+            "sentence": "Тхьэматэм идзэк1ол1ыхэр '''егъасэх'''",
             "translation": "The caption is '''training''' his soldiers."
           },
           {
@@ -108172,7 +108377,7 @@
             "translation": "The girl '''ran toward''' the boy to hug him."
           },
 		  {
-            "sentence": "Дзак1охэр дзап1эм '''телъэдагъэх'''",
+            "sentence": "Дзэк1ол1ыхэр дзап1эм '''телъэдагъэх'''",
             "translation": "The soldiers '''rush into''' the base."
           },
 		  {
@@ -109095,7 +109300,7 @@
         "meaning": "to break/shatter an object in a certain area (like inside a battlefield)",
         "examples": [
           {
-            "sentence": "Дзак1ом ипчы зэуап1эм '''хикъутыхьагъ'''",
+            "sentence": "Дзэк1ол1ым ипчы зэуап1эм '''хикъутыхьагъ'''",
             "translation": "The soldier '''broke''' his spear in the battlefield."
           }
         ]
@@ -109175,7 +109380,12 @@
     "definitions": [
       {
         "meaning": "widow",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Бзылъфыгъэу ил1 зыл1агъэм '''шъузабэ''' ра1о",
+            "translation": "A woman that lost her husband is called '''widow'''."
+          }
+        ]
       }
     ],
     "kabardian": "фызабэ",
@@ -109559,6 +109769,10 @@
 		  {
             "sentence": "Къэгъэгъэ '''зэмыл1эужыгъоу''' зэхэт 1эрам",
             "translation": "Bouquet of '''different''' flowers."
+          },
+		  {
+			"sentence": "Шъузым '''зэмыл1эужыгъо''' джанэхэр еуплъэк1ух",
+            "translation": "The woman tries '''various''' dresses."
           }
         ]
       }
@@ -110187,7 +110401,7 @@
         ]
       },
       {
-        "meaning": "to go into; to enter an area of some mass (liquid, solid or gas), to go through, to go within",
+        "meaning": "to go into (forest, plants, objects, people); to enter an area of some mass (liquid, solid or gas), to go through, to go within",
         "examples": [
           {
             "sentence": "К1алэр мэзым '''хахьэ'''",
@@ -110196,6 +110410,10 @@
 		  {
             "sentence": "Пчэдыжьым шъофым '''тыхэхьани''' чэщым чылэм тыкъыдэхьажьыщт",
             "translation": "In the morning '''we will enter''' the fields '''and''' in the night we will return to the village."
+          },
+		  {
+            "sentence": "Пцэжъыяшэхэмэ къошъобэщхэр къаштэхи хым '''хэхьагъэх'''",
+            "translation": "The fishermen grabbed the paddles and '''went to''' the sea."
           },
           {
             "sentence": "К1алэр псым '''хэхьагъ'''",
@@ -110997,7 +111215,7 @@
             "translation": "The dog '''is trotting''' with the boy."
           },
 		  {
-            "sentence": "Дзак1охэр '''мэушъых'''",
+            "sentence": "Дзэк1ол1ыхэр '''мэушъых'''",
             "translation": "The soldiers '''are trotting'''."
           }
         ]
@@ -111065,7 +111283,7 @@
         "meaning": "to tear apart from something",
         "examples": [
           {
-            "sentence": "Дзак1ом ы1э топ тефэм ы1э '''гуиутыгъ'''",
+            "sentence": "Дзэк1ол1ым ы1э топ тефэм ы1э '''гуиутыгъ'''",
             "translation": "When a cannot hit the soldier's arm '''it torn it apart [from his body''']."
           },
           {
@@ -113298,7 +113516,7 @@
         "meaning": "musket, rifle",
         "examples": [
           {
-            "sentence": "Дзак1ом '''шхончыр''' ыузэндыгъ",
+            "sentence": "Дзэк1ол1ым '''шхончыр''' ыузэндыгъ",
             "translation": "The soldier loaded '''the rifle'''."
           },
           {
@@ -120494,7 +120712,7 @@
         "meaning": "to tie together",
         "examples": [
 		  {
-            "sentence": "Дзак1ом пыир к1апсэк1э '''зэк1оц1ипхагъ'''",
+            "sentence": "Дзэк1ол1ым пыир к1апсэк1э '''зэк1оц1ипхагъ'''",
             "translation": "The soldier '''tied up''' the enemy with a rope."
           }
         ]
@@ -123859,7 +124077,7 @@
             "translation": "'''They train''' the boy '''for''' the exam."
           },
           {
-            "sentence": "Дзак1охэр заом '''фагъэсэх'''",
+            "sentence": "Дзэк1ол1ыхэр заом '''фагъэсэх'''",
             "translation": "'''They train''' the soldiers '''for''' the war."
           }
         ]
@@ -127829,7 +128047,7 @@
             "translation": "Bareheaded is a person that has no '''headcover''' on his head."
           },
 		  {
-            "sentence": "Дзак1охэмэ '''шъхьэтелъхьэ''' ашъхьэ телъ",
+            "sentence": "Дзэк1ол1ыхэмэ '''шъхьэтелъхьэ''' ашъхьэ телъ",
             "translation": "The soldiers have a '''helmet''' on."
           }
         ]
@@ -131569,7 +131787,7 @@
             "translation": "When the burglar entered the light, '''he was seen'''."
           },
 		  {
-            "sentence": "'''Къэлъагъохэрэп''' дзак1охэр, щыгъын уцышъохэр ащыгъэх",
+            "sentence": "'''Къэлъагъохэрэп''' дзэк1ол1ыхэр, щыгъын уцышъохэр ащыгъэх",
             "translation": "The soldiers '''are not visible''', they wear green clothes."
           },
 		  {
@@ -131619,7 +131837,7 @@
             "translation": "When the burglar entered the light, '''he was seen'''."
           },
 		  {
-            "sentence": "'''Къэлъагъохэрэп''' дзак1охэр, щыгъын уцышъохэр ащыгъэх",
+            "sentence": "'''Къэлъагъохэрэп''' дзэк1ол1ыхэр, щыгъын уцышъохэр ащыгъэх",
             "translation": "The soldiers '''are not visible''', they wear green clothes."
           },
 		  {
@@ -132226,11 +132444,11 @@
             "translation": "'''I loaded''' the sack with apples."
           },
           {
-            "sentence": "Дзак1ом к1эрахъор '''еузэнды'''",
+            "sentence": "Дзэк1ол1ым к1эрахъор '''еузэнды'''",
             "translation": "The soldier '''loads''' the gun."
           },
 		  {
-            "sentence": "Дзак1ом шхончыр '''ыузэндыжьыгъ'''",
+            "sentence": "Дзэк1ол1ым шхончыр '''ыузэндыжьыгъ'''",
             "translation": "The soldier '''reloaded''' the rifle."
           },
 		  {
