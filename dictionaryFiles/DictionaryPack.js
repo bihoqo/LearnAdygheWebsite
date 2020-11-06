@@ -9727,7 +9727,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "soldier",
+        "meaning": "soldier, fighter",
         "examples": [
           {
             "sentence": "Заом '''дзэл1ыхэр''' ятхьэматэ лъэк1ох",
@@ -66665,11 +66665,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "soldier",
+        "meaning": "soldier (conscript; draftee)",
         "examples": [
           {
             "sentence": "Заом '''дзэк1охэр''' ятхьэматэ лъэк1ох",
-            "translation": "In war '''the soldiers''' are following their leader."
+            "translation": "In war '''the soldier''' are following their leader."
           },
 		  {
             "sentence": "'''Дзэк1ом''' ишхончыпэ пчыпыджын пыт",
@@ -74187,7 +74187,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "fighter",
+        "meaning": "fighter; warrior",
         "examples": [
           {
             "sentence": "Ар '''зэол1''' л1эбланэщтыгъ.",
@@ -104515,7 +104515,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "fighter",
+        "meaning": "fighter; warrior",
         "examples": [
           {
             "sentence": "'''Зэуак1охэр''' хьазырых зэзэоныхэу",
