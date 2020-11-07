@@ -5596,6 +5596,10 @@
 		  {
             "sentence": "'''Бзыур''' къет1ысыхыгъ",
             "translation": "'''The bird''' landed."
+          },
+		  {
+            "sentence": "'''Бзыур''' нэбгъэм ис",
+            "translation": "'''The bird '''sits in the nest."
           }
         ]
       }
@@ -9366,6 +9370,10 @@
           {
             "sentence": "Тхьэл1ык1ор лъэпкъэу '''къызфэк1уагъэм''' щыщэтыгъ.",
             "translation": "A prophet used to be a part of the people '''he came for'''."
+          },
+		  {
+            "sentence": "Шъугущы1энэу '''шъукъэк1уагъэмэ''' шъуи1ашэр' ч1ыгум тежъудзэх",
+            "translation": "'''If you guys came''' to talk throw your arms onto the ground."
           }
         ]
       }
@@ -10360,6 +10368,10 @@
 		  {
             "sentence": "'''Мэзым''' псэушъхьэ зэмыл1эужыгъо хэс",
             "translation": "Various animals live in '''the forest'''."
+          },
+		  {
+            "sentence": "'''Мэзыр''' чъыгык1э хъои",
+            "translation": "'''The forest''' is loaded with trees."
           }
         ]
       }
@@ -11428,7 +11440,16 @@
     "definitions": [
       {
         "meaning": "butterfly, moth",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Хьамп1ырашъур''' мэбыбы",
+            "translation": "'''Thje butterfly''' flies."
+          },
+		  {
+            "sentence": "'''Хьамп1ырашъур''' дахэ",
+            "translation": "'''Thje butterfly''' os beautiful."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -11444,7 +11465,16 @@
     "definitions": [
       {
         "meaning": "swan",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Хьарзэ''' фыжь",
+            "translation": "white '''swan'''."
+          },
+		  {
+            "sentence": "'''Хьарзэ''' псым есы",
+            "translation": "The '''swan''' swims in the water."
+          },
+        ]
       }
     ],
     "kabardian": "къыу",
@@ -11452,12 +11482,34 @@
     "ipa": "ħaːpza"
   },
   {
+    "word": "хэу1он",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to incise",
+        "examples": [
+          {
+            "sentence": "С1э '''сыхэу1ожьыгъ'''",
+            "translation": "'''I incised''' my hand."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "xawʔan"
+  },
+  {
     "word": "хэу1эн",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to incise",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "С1э '''сыхэу1эжьыгъ'''",
+            "translation": "'''I incised''' my hand."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -11473,6 +11525,22 @@
 		  {
             "sentence": "'''Ц1ыфыхэр''' щы1эх лы амышхэу",
             "translation": "There are '''people''' that do not eat meat."
+          },
+		  {
+            "sentence": "Ар '''ц1ыф''' дэгъу",
+            "translation": "(S)he is a good '''person'''."
+          },
+		  {
+            "sentence": "Тхьапш '''ц1ыфэу''' къэк1ощтыр чэщдэсым",
+            "translation": "How many '''people''' will come to the party?"
+          },
+		  {
+            "sentence": "Тхьапш '''ц1ыфэу''' дунаем тетыр?",
+            "translation": "How many '''people''' there are in the world?"
+          },
+		  {
+            "sentence": "Тиунэ '''ц1ыф''' бэ ис",
+            "translation": "There are a lot of '''people''' in our house."
           }
         ]
       }
@@ -11487,7 +11555,32 @@
     "definitions": [
       {
         "meaning": "name",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Сыд '''уц1э'''?",
+            "translation": "What is '''your name'''?"
+          },
+		  {
+            "sentence": "'''Сц1э''' сэ Адэм",
+            "translation": "'''My name''' is Adam."
+          },
+		  {
+            "sentence": "Сыд '''ц1э''' дах щы1эхыр?",
+            "translation": "What beautiful '''names''' there are?"
+          },
+		  {
+            "sentence": "'''Ц1э''' сабыим фэусын",
+            "translation": "To '''name''' a child."
+          },
+		  {
+            "sentence": "К1алэм  '''ыц1эк1э''' къедж",
+            "translation": "Call the boy '''with his name'''"
+          },
+		  {
+            "sentence": "К1алэм  '''ыц1э''' к1ыхьэ",
+            "translation": "The boy's '''name''' is long."
+          }
+        ]
       },
       {
         "meaning": "louse",
@@ -11509,6 +11602,10 @@
             "sentence": "'''Чъыгы''' иупк1ын",
             "translation": "To cut down '''a tree'''."
           },
+		  {
+            "sentence": "Лэжьак1охэмэ '''чъыгыхэр''' отычык1э раук1ых",
+            "translation": "The workers cut '''the trees''' with an ax"
+          },
           {
             "sentence": "Зы '''чъыгы''' исыупк1ыгъэ ны1эп",
             "translation": "I only cut down one '''tree'''."
@@ -11516,6 +11613,10 @@
 		  {
             "sentence": "Л1ым пхъэ-унэ '''чъыгым''' теш1ыхьан",
             "translation": "The man built a wooden house on '''the tree'''."
+          },
+		  {
+            "sentence": "Мэзыр '''чъыгык1э''' хъои",
+            "translation": "The forest is loaded '''with trees'''."
           }
         ]
       }
@@ -11523,6 +11624,23 @@
     "kabardian": "жыг",
     "type": "noun",
     "ipa": "t͡ɕəɣə"
+  },
+  {
+    "word": "мышк1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "acorn",
+        "examples": [
+          {
+            "sentence": "Чъыгаем '''мышк1у''' къыпэк1ы",
+            "translation": "'''Acorn''' comes from the oak tree."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "məʃkʷʼ"
   },
   {
     "word": "чъыгай",
@@ -11534,6 +11652,10 @@
           {
             "sentence": "'''Чъыгаер''' къобэбжъаб",
             "translation": "'''The oak''' is branchy."
+          },
+		  {
+            "sentence": "'''Чъыгаем''' унэхэр хаш1ык1ы",
+            "translation": "They build houses '''with oak trees'''."
           }
         ]
       }
@@ -11559,7 +11681,28 @@
     "definitions": [
       {
         "meaning": "night",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Чэщым''' тыгъэ щы1эрэп",
+            "translation": "'''In the night''' there is no sun."
+          },
+		  {
+            "sentence": "'''Чэщы''' къэсы чылэр къэсэк1ухьэ",
+            "translation": "Every '''night''' I go around the village."
+          },
+		  {
+            "sentence": "'''Чэщым''' унэм сыкъэк1ожьыщт",
+            "translation": "I will come back home '''in the night'''."
+          },
+		  {
+            "sentence": "'''Чэщы''' хъуфэ сылэжьагъ",
+            "translation": "I worked until '''night'''."
+          },
+		  {
+            "sentence": "'''Чэщым''' къэумэзэхы",
+            "translation": "It gets dark '''in the night'''."
+          }
+        ]
       }
     ],
     "kabardian": "жэщ",
@@ -11580,6 +11723,14 @@
 		  {
             "sentence": "'''Шъхьангъупчъэм''' бадзэр ибыбыгъ",
             "translation": "The housefly flew out '''the window'''."
+          },
+		  {
+            "sentence": "'''Шъхьангъупчъэм''' 1ух жьыбгъэр къихьанэу",
+            "translation": "Open '''the window''' so the wind will come in."
+          },
+		  {
+            "sentence": "'''Шъхьангъупчъэр''' чагъэ т1эк1у",
+            "translation": "'''The window''' cracked a bit."
           }
         ]
       }
@@ -11608,8 +11759,16 @@
         "meaning": "good",
         "examples": [
           {
-            "sentence": "Уатхъэ '''ш1оп''' иджы",
+            "sentence": "Уатхъэ '''ш1оп''' джы",
             "translation": "It is '''not a good''' time now."
+          },
+		  {
+            "sentence": "Ц1ыфы'''ш1у'''",
+            "translation": "'''Good''' person."
+          },
+		  {
+            "sentence": "Насыпы'''ш1у'''",
+            "translation": "'''Good''' luck."
           }
         ]
       },
@@ -11617,19 +11776,57 @@
         "meaning": "well",
         "examples": [
           {
-            "sentence": "Щаер '''ш1у''' сыш1ыгъа?",
+            "sentence": "Щаер '''ш1оу''' сыш1ыгъа?",
             "translation": "Did I made the tea '''well'''?"
+          },
+		  {
+            "sentence": "Ц1ыфымэ '''ш1оу''' уадэзек1он фай",
+            "translation": "You must treat people '''well'''."
+          },
+		  {
+            "sentence": "К1аэр '''ш1оу''' зек1уагъэп",
+            "translation": "The boy did not behave '''well'''."
+          },
+		  {
+            "sentence": "'''Ш1оу''' орэхъу",
+            "translation": "May you become '''well'''."
+          },
+		  {
+            "sentence": "Пшъашъэр '''щ1оу''' къэсдэгущы1агъ",
+            "translation": "The girl spoke to me '''well'''."
           }
         ]
       },
       {
         "meaning": "liver",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Cыш1у''' мэузы",
+            "translation": "'''My liver''' hurts."
+          }
+        ]
       }
     ],
     "kabardian": "ф1ы",
     "type": "adv",
     "ipa": "ʃʷʼə"
+  },
+  {
+    "word": "тхьамш1ыгъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "liver",
+        "examples": [
+          {
+            "sentence": "'''Cытхьамш1ыгъу''' мэузы",
+            "translation": "'''My liver''' hurts."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "tħaːmʃʼəʁʷ"
   },
   {
     "word": "щайуц",
@@ -11649,7 +11846,12 @@
     "definitions": [
       {
         "meaning": "steel",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Щылычыр пытэдэд",
+            "translation": "'''Steel''' is very hard."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -11699,8 +11901,12 @@
             "translation": "No '''arrow''' was left in the quiver."
           },
           {
-            "sentence": "Л1ым '''щэбзащэр''' мы1эрысэм '''фигъэпсыгъ'''",
+            "sentence": "Л1ым '''щэбзащэр''' мы1эрысэм фигъэпсыгъ",
             "translation": "The man pointed '''the arrow''' to the apple."
+          },
+          {
+            "sentence": "Л1ым '''щэбзащэр''' мы1эрысэм теутыгъ",
+            "translation": "The man stroke '''the arrow''' into the apple."
           }
         ]
       }
@@ -11713,8 +11919,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Nest",
-        "examples": []
+        "meaning": "nest",
+        "examples": [
+          {
+            "sentence": "Бзыур '''нэбгъэм''' ис",
+            "translation": "The bird sits in '''the nest'''."
+          },
+		  {
+            "sentence": "Бзыущырхэр '''нэбгъэм''' исых",
+            "translation": "The nestlings are sitting in '''the nest'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -11757,6 +11972,18 @@
 		  {
             "sentence": "Пыйхэр къак1ох '''1ашэхэр''' а1ыгъэхэу",
             "translation": "The foes are coming holding '''weapons'''."
+          },
+		  {
+            "sentence": "Дзэк1ол1 сэлъэгъу '''1ашэ''' ы1ыгъэу",
+            "translation": "I see a soldier holding '''a weapon'''."
+          },
+		  {
+            "sentence": "Шъугущы1энэу шъукъэк1уагъэмэ '''шъуи1ашэр''' ч1ыгум тежъудзэх",
+            "translation": "If you guys came to talk throw '''your arms''' onto the ground."
+          },
+		  {
+            "sentence": "Пацифистыр заом хэхьагъ '''1ашэнчъэу'''",
+            "translation": "The pacifist entered the war '''armlessly'''"
           }
         ]
       }
@@ -11765,19 +11992,73 @@
     "ipa": "ʔaːʃa"
   },
   {
+    "word": "хэк1отэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to proceed with time",
+        "examples": [
+          {
+            "sentence": "Ныбжьыр '''хэк1уатэ'''",
+            "translation": "The age '''proceeds''' (becomes old-age)."
+          },
+		  {
+            "sentence": "Чэщыр '''хэк1отагъ'''",
+            "translation": "The night '''proceeded''' (became late)."
+          },
+		  {
+            "sentence": "Л1ыжъыр л1эу ыныбжь '''зыхэк1отагъэр'''",
+            "translation": "An old man is man '''which had''' his age '''proceeded'''."
+          },
+		  {
+            "sentence": "Шъузым ыныбжь '''хэк1уатэзэ''' ныоу хъугъэ",
+            "translation": "The woman's age '''proceeded''' and she became an old-woman."
+          }
+        ]
+      },
+	  {
+        "meaning": "to proceed in",
+        "examples": [
+		  {
+            "sentence": "Фылымык1э чыжьэу '''тыхэк1отагъ'''",
+            "translation": "'''We proceeded''' far '''in''' the film."
+          },
+		  {
+            "sentence": "Шак1охэр мэзым '''хэк1уатэх'''",
+            "translation": "The hunters '''proceed in''' the forest."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "xakʷʼatan"
+  },
+  {
     "word": "л1ыжъы",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "old man; old-man",
         "examples": [
-          {
+		  {
+            "sentence": "'''Л1ыжъыр''' л1эу ыныбжь зыхэк1отагъэр",
+            "translation": "'''An old man''' is man which had his age proceeded."
+          },
+		  {
+            "sentence": "Л1ым ыныбжь хэк1уатэзэ '''л1ыжъэу''' хъугъэ",
+            "translation": "'The man's age proceeded and he became '''an old man'''."
+          },
+		  {
             "sentence": "'''Л1ыжъэу''' ебэджыгъэр ц1ыфыхэмэ къагъэтэджэжьыгъ",
             "translation": "The people lifted '''the old-man''' that fell [on the ground]."
           },
 		  {
             "sentence": "'''Л1ыжъыр''' бэщк1э мак1о",
-            "translation": "'''The old man''' is going with '''a cane'''."
+            "translation": "'''The old man''' is going with a cane."
+          },
+		  {
+            "sentence": "'''Л1ыжъым''' ытхьак1умэхэмэ ерагъэу я1у",
+            "translation": "'''The old man's''' ears barely hear."
           }
         ]
       }
@@ -11796,6 +12077,14 @@
           {
             "sentence": "'''Ныор''' хъупхъэу къыздэзек1уагъ",
             "translation": "'''The old-woman''' acted toward me kindly."
+          },
+		  {
+            "sentence": "Шъузым ыныбжь хэк1уатэзэ '''ныоу''' хъугъэ",
+            "translation": "The woman's age proceeded [with time] and she became '''an old-woman'''."
+          },
+		  {
+            "sentence": "'''Ныом''' ынэхэмэ ерагъэу алъэгъу",
+            "translation": "'''The old woman's''' eyes barely see."
           }
         ]
       }
@@ -11809,11 +12098,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Qama (Circassian short sword)",
-        "examples": []
-      },
-      {
-        "meaning": "dagger",
+        "meaning": "dagger; poniard",
         "examples": []
       }
     ],
@@ -32486,18 +32771,6 @@
     "ipa": "qʷəʐə"
   },
   {
-    "word": "мышк1у",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "acorn",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "məʃkʷˈ"
-  },
-  {
     "word": "цумпэ",
     "lang": "Adyghe",
     "definitions": [
@@ -40362,6 +40635,10 @@
 		  {
             "sentence": "К1алэм '''ч1ыгум''' машэ хит1ык1ыгъ",
             "translation": "The boy dug out a hole in '''the ground'''."
+          },
+		  {
+            "sentence": "Шъугущы1энэу шъукъэк1уагъэмэ шъуи1ашэр '''ч1ыгум''' тежъудзэх",
+            "translation": "If you guys came to talk throw your arms onto '''the ground'''."
           }
         ]
       },
@@ -42261,6 +42538,10 @@
             "sentence": "К1алэр пшъашъэм '''къеджэ'''",
             "translation": "The boy '''is calling''' the girl."
           },
+		  {
+            "sentence": "К1алэм  ыц1эк1э '''къедж'''",
+            "translation": "'''Call''' the boy with his name"
+          },
           {
             "sentence": "Пшъашъэр '''къыоджэ'''",
             "translation": "The girl '''is calling you'''."
@@ -43665,6 +43946,10 @@
 		  {
             "sentence": "Удэбзыкъухэр '''к1ыхьэу''' хъугъэх",
             "translation": "Your sideburns became '''long'''."
+          },
+		  {
+            "sentence": "К1алэм  ыц1э '''к1ыхьэ'''",
+            "translation": "The boy's name is '''long'''."
           }
         ]
       },
@@ -54822,6 +55107,10 @@
 		  {
             "sentence": "Телевидениер '''т1эк1у''' къэгъэхъый",
             "translation": "Move the television '''a bit''' [closer]."
+          },
+		  {
+            "sentence": "Шъхьангъупчъэр чагъэ '''т1эк1у'''",
+            "translation": "The window cracked '''a bit'''."
           },
           {
             "sentence": "К1алэм '''т1эк1у''' тхылъэу и1эр",
@@ -67079,6 +67368,10 @@
           {
             "sentence": "Шхыныр '''хъои'''.",
             "translation": "There is '''plenty''' of food."
+          },
+		  {
+            "sentence": "Мэзыр чъыгык1э '''хъои'''",
+            "translation": "The forest '''is loaded''' with trees."
           }
         ]
       }
@@ -76839,6 +77132,10 @@
 		  {
             "sentence": "К1алэр сыд бзэк1э '''гущы1э'''?",
             "translation": "In what language does the boy '''speak'''?"
+          },
+		  {
+            "sentence": "'''Шъугущы1энэу''' шъукъэк1уагъэмэ шъуи1ашэр ч1ыгум тежъудзэх",
+            "translation": "If you guys came '''to talk''' throw your arms onto the ground."
           }
         ]
       }
@@ -96475,6 +96772,10 @@
           {
             "sentence": "Мыжъор дзи, '''теутын''' 1о чъыгым",
             "translation": "Throw a rock, and try '''hitting''' the tree."
+          },
+          {
+            "sentence": "Л1ым щэбзащэр мы1эрысэм '''теутыгъ'''",
+            "translation": "The man '''stroke''' the arrow '''into''' the apple."
           }
         ]
       }

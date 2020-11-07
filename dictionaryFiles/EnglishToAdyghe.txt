@@ -576,7 +576,7 @@
     "pumpkin seed": "къэбк1э"
   },
   {
-    "bread": "хьэлэгъу"
+    "bread": "хьалыгъу"
   },
   {
     "cucumber": "нэшэбэгу"
@@ -1389,7 +1389,7 @@
     "swan": "хьарзэ"
   },
   {
-    "to incise": "хэу1эн"
+    "to incise": "хэу1он"
   },
   {
     "human": "ц1ыфы"
@@ -11482,7 +11482,7 @@
     "young chicken": "чэтжъые"
   },
   {
-    "nestling": "чэтжъые"
+    "nestling": "чэтжъые; бзыущыр (little birds)"
   },
   {
     "blade": "чаныц (blade of a sword); шъэжъыяц (blade of a knife); отычыцэ (blade of an axe)"
@@ -17944,7 +17944,7 @@
     "to go on": "техьан (to go on, to go above, to go on the surface of); телъэдэн (to run on); лъык1отэн (to advance, to progress, to proceed); лъыгъэк1отэн (to advance something, to progress something, to proceed something); (dialectal) игъэкъун"
   },
   {
-    "to proceed": "лъык1отэн (to advance, to progress, to proceed); лъыгъэк1отэн (to advance something, to progress something, to proceed something); (dialectal) игъэкъун"
+    "to proceed": "лъык1отэн (to advance, to progress, to proceed); лъыгъэк1отэн (to advance something, to progress something, to proceed something); (dialectal) игъэкъун; хэк1отэн (to proceed with time)"
   },
   {
     "to advance": "лъык1отэн (to advance, to progress, to proceed); лъыгъэк1отэн (to advance something, to progress something, to proceed something); (dialectal) игъэкъун"
