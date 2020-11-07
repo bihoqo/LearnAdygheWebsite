@@ -244,8 +244,8 @@
             "translation": "The boy's plan '''got ruined'''."
           },
           {
-            "sentence": "К1алэм унэ пшахъоу ыш1ыгъэ '''ощт''' къещхымэ",
-            "translation": "The boy's house sand '''will get ruined''' when it will rain."
+            "sentence": "К1алэм унэ-пшахъоу ыш1ыгъэ '''ощт''' къещхымэ",
+            "translation": "The boy's house-sand '''will get ruined''' when it will rain."
           }
         ]
       },
@@ -10243,7 +10243,16 @@
     "definitions": [
       {
         "meaning": "rock; stone",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''мыжъор''' хым хидзагъ",
+            "translation": "The boy throwed '''the rock''' into the sea."
+          },
+		  {
+            "sentence": "К1алэм '''мыжъо''' онтэгъур къыфаштэрэп",
+            "translation": "The boy cannot lift the heavy '''rock'''."
+          }
+        ]
       }
     ],
     "kabardian": "мывэ",
@@ -10266,9 +10275,17 @@
             "translation": "'''The ice''' melted."
           },
 		  {
+            "sentence": "'''Мылыр''' тк1угъэ",
+            "translation": "'''The ice''' melted."
+          },
+		  {
             "sentence": "'''Мылыр''' угъэфабэмэ псэу мэхъу, псыр угъэфабэмэ пахъэу мэхъу",
             "translation": "If you heat up '''ice''' it becomes water, if you heat up water it becomes steam"
-          }
+          },
+		  {
+            "sentence": "'''Мылыр''' тыгъэм хэбылъхьэмэ тк1ущт",
+            "translation": "If you put '''ice''' in the sun it will melt."
+          },
         ]
       }
     ],
@@ -10284,6 +10301,18 @@
         "meaning": "snow",
         "examples": [
           {
+            "sentence": "'''Осыр''' фыжьы",
+            "translation": "'''Snow''' is white."
+          },
+		  {
+            "sentence": "'''Ос''' къесы",
+            "translation": "'''Snow''' is snowing."
+          },
+		  {
+            "sentence": "'''Осым''' тыщэджэгу",
+            "translation": "We are playing in '''the snow'''."
+          },
+		  {
             "sentence": "К1элэц1ык1ум осыл1 '''осым''' хеш1ыхьэ",
             "translation": "The boy makes a snowman in '''the snow'''."
           },
@@ -10319,6 +10348,18 @@
 		  {
             "sentence": "'''Мэзым''' мышъэхэр хэсых",
             "translation": "There are bears in '''the forest'''."
+          },
+		  {
+            "sentence": "'''Мэзым''' шак1ор хэхьагъ",
+            "translation": "The hunter entered '''the forest'''."
+          },
+		  {
+            "sentence": "'''Мэзым''' чъыг бэ ит",
+            "translation": "There are a lot of trees in '''the forest'''."
+          },
+		  {
+            "sentence": "'''Мэзым''' псэушъхьэ зэмыл1эужыгъо хэс",
+            "translation": "Various animals live in '''the forest'''."
           }
         ]
       }
@@ -10357,10 +10398,17 @@
       {
         "meaning": "young",
         "examples": [
-          ,
 		  {
             "sentence": "К1элэ '''ныбжьык1эхэр''' къалэхэмэ адэт1ысхьажьых",
             "translation": "The '''young''' men are settling in the cities."
+          },
+		  {
+            "sentence": "'''Ныбжьык1эхэр''' джэгум щэджгух",
+            "translation": "'''The young ones''' are playing in the game."
+          },
+		  {
+            "sentence": "Спхъу пшъэшъэ '''ныбжьык1'''",
+            "translation": "My daughter is '''young'''."
           }
         ]
       }
@@ -10374,7 +10422,16 @@
     "definitions": [
       {
         "meaning": "page",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Тхылъым '''нэк1убгъо''' шъэ дэт",
+            "translation": "The book has hundred '''pages'''."
+          },
+		  {
+            "sentence": "Тхылъымк1э '''нэк1убгъуит1у''' сыджыгъ",
+            "translation": "I read '''two pages''' in the book."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -10386,7 +10443,28 @@
     "definitions": [
       {
         "meaning": "song",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Пшъашъэм '''орэд''' къе1о",
+            "translation": "The girl sings '''a song'''."
+          },
+		  {
+            "sentence": "Пшъашъэр '''орэдым''' едэ1у",
+            "translation": "The girl listens to '''the song'''."
+          },
+		  {
+            "sentence": "'''Орэд''' дахэ горэ си1",
+            "translation": "I have some good '''song'''."
+          },
+		  {
+            "sentence": "'''Уиорэдхэмэ''' сагъэдэ1у",
+            "translation": "Let me listen to '''your songs'''."
+          },
+		  {
+            "sentence": "К1алэм '''орэд''' еусы",
+            "translation": "The boy writes '''a song'''."
+          }
+        ]
       }
     ],
     "kabardian": "уэрэд",
@@ -10399,7 +10477,24 @@
     "definitions": [
       {
         "meaning": "ax",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "К1алэр '''отычк1э''' лъэшэу чъыгым еуагъ",
+            "translation": "The boy struck the tree powerfully '''with the axe'''."
+          },
+		  {
+            "sentence": "Л1ым '''отычым''' отычык1ыр пхэнджэу пилъхьагъ",
+            "translation": "The man put the axe-handle onto '''the axe''' wrongly."
+          },
+		  {
+            "sentence": "Л1ым чъыгыр '''отычк1э''' зэгуиутыгъ",
+            "translation": "The man cleaved the tree '''with an axe'''."
+          },
+          {
+            "sentence": "Л1ым к1алэр чъыгым регъао '''отычк1э'''",
+            "translation": "The man is lets the boy hit the tree '''with an axe'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -10412,17 +10507,36 @@
     "ipa": "watət͡ʃ"
   },
   {
+    "word": "мэфэш1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "fine day",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "mafaʃʷʼ"
+  },
+  {
     "word": "ош1у",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "good weather; calm weather",
-        "examples": []
+        "meaning": "fine weather; good weather; calm weather",
+        "examples": [
+          {
+            "sentence": "Мэфэ '''ош1у'''",
+            "translation": "'''Fine weathered''' day."
+          },
+		  {
+            "sentence": "Непэ '''ош1у''' щы1",
+            "translation": "Today there is a '''fine weather'''."
+          }
+        ]
       }
     ],
-    "synonyms": [
-      "уэф1"
-    ],
+    "kabardian": "уэф1",
     "type": "noun",
     "ipa": "waʃʷʼə"
   },
@@ -10444,6 +10558,10 @@
           {
             "sentence": "'''Ощхым''' ухэмыхь",
             "translation": "Don't enter '''the rain'''."
+          },
+          {
+            "sentence": "'''Ощхым''' сыгъэшъугъ",
+            "translation": "'''The rain''' made me wet."
           }
         ]
       }
@@ -10488,7 +10606,12 @@
     "definitions": [
       {
         "meaning": "island",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''псыгъэхъуным''' щэпсэу",
+            "translation": "The boy lives on an '''island'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -10502,7 +10625,15 @@
         "meaning": "river",
         "examples": [
 		  {
-            "sentence": "'''Псыхъомк1э''' к1алэр адрабгъум 1уи",
+            "sentence": "К1алэр '''псыхъом''' блэпк1ыгъ",
+            "translation": "The buy jumped over '''the river'''."
+          },
+		  {
+            "sentence": "Лъэмыдж 1ут '''псыхъом''' уриблэк1ынэу",
+            "translation": "There is a bridge to pass '''the river''' with."
+          },
+		  {
+            "sentence": "'''Псыхъомк1э''' к1алэр адрабгъум 1ут",
             "translation": "The boy is standing on the opposite side of '''the river'''"
           },
 		  {
@@ -10512,6 +10643,10 @@
 		  {
             "sentence": "Псэушъхьэхэр '''псыхъом''' хашъох",
             "translation": "The animals drink from '''the river'''."
+          },
+		  {
+            "sentence": "Тыгъэм '''псыхъор''' ыгъушъыгъ",
+            "translation": "The sun evaporated '''the river'''."
           }
         ]
       }
@@ -10526,7 +10661,11 @@
       {
         "meaning": "animal",
         "examples": [
-          {
+		  {
+            "sentence": "Мэзым '''псэушъхьэ''' зэмыл1эужыгъо хэс",
+            "translation": "Various '''animals''' live in the forest."
+          },
+		  {
             "sentence": "Хьак1э-къуак1эхэмэ нэмык1 '''псэушъхьэхэр''' ашхых"
             "translation": "Predators eat other '''animals'''."
           },
@@ -10564,12 +10703,45 @@
 		  {
             "sentence": "'''Пшахъом''' хьанцэр к1алэм хисагъ",
             "translation": "The boy shoved the shovel into '''the sand'''."
+          },
+		  {
+            "sentence": "Псыхъо ныджым '''пшахъо''' телъ",
+            "translation": "There is '''sand''' on the river's bank."
+          },
+		  {
+            "sentence": "Псэолъэш1ып1эхэмк1э '''пшахъом''' релажьэх",
+            "translation": "They work with '''sand''' in construction sites."
           }
         ]
       }
     ],
     "type": "noun",
     "ipa": "pʃaχʷa"
+  },
+  {
+    "word": "пшэхъуалъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "sandy area; area covered with sand",
+        "examples": [
+          {
+            "sentence": "'''Пшэхъуалъэм''' уцыр къыщык1ыгъуай",
+            "translation": "Plants hardly grow in a '''sandy area'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "sandstone, gritstone",
+        "examples": []
+      },
+	  {
+        "meaning": "desert",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "pʃaχʷaːɬ"
   },
   {
     "word": "пшъэ",
@@ -10581,6 +10753,10 @@
 		  {
             "sentence": "Пшъашъэм '''ыпшъэ''' дышъэ блэрыпс илъ",
             "translation": "The girl has a gold chainlet on '''her neck'''."
+          },
+		  {
+            "sentence": "'''Сыпшъэ''' мэузы",
+            "translation": "'''My neck''' hurts."
           }
         ]
       }
@@ -10598,6 +10774,10 @@
           {
             "sentence": "'''Тыжьын''' сыхьатыпс",
             "translation": "'''Silver''' watchchain."
+          },
+		  {
+            "sentence": "'''Тыжьын''' сыхьат",
+            "translation": "'''Silver''' watch."
           }
         ]
       }
@@ -10614,16 +10794,24 @@
         "meaning": "book",
         "examples": [
           {
-            "sentence": "'''тхылъым''' седжэ",
+            "sentence": "'''Тхылъым''' седжэ",
             "translation": "I am reading '''the book'''."
           },
+		  {
+            "sentence": "'''Тхылъыр''' сыджыгъ мафэк1э",
+            "translation": "I read '''the book''' in one day."
+          },
+		  {
+            "sentence": "Къэлэмыр '''тхылъым''' дэлъ",
+            "translation": "The pencil is in the '''book'''."
+          },
           {
-            "sentence": "'''тхылъ''' плъыжьыр къэсфэхь",
+            "sentence": "'''Тхылъ''' плъыжьыр къэсфэхь",
             "translation": "Bring me the red '''book'''."
           },
           {
-            "sentence": "зэ1ушъух Инджылыбзэ '''тхылъыхэр''' теджэнфэщк1э",
-            "translation": "Open your '''books''' that we could study."
+            "sentence": "Зэ1ух Инджылыбзэ '''тхылър''' теджэн фэш1к1э",
+            "translation": "Open the English '''book''' in order for us to read it."
           },
           {
             "sentence": "Тхылъ1ыгъып1эм сык1онышъ, '''тхылъ''' къисхынэу сыфай",
@@ -10644,8 +10832,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to repair by sewing; to seal by sewing; to sew up",
-        "examples": []
+        "meaning": "to re-sew; to repair by sewing; to seal by sewing; to sew up",
+        "examples": [
+		  {
+            "sentence": "Ныом джанэр '''едыжьын'''",
+            "translation": "The old-woman '''re-sews''' the shirt."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -10658,6 +10851,10 @@
       {
         "meaning": "paper",
         "examples": [
+		  {
+            "sentence": "К1алэр '''тхылъып1эм''' тетхэ",
+            "translation": "The boy writes on '''the paper'''."
+          },
 		  {
             "sentence": "К1алэм хъурай '''тхылъып1эм''' теш1ыхьагъ",
             "translation": "The boy made a circle on '''the paper'''."
@@ -10679,7 +10876,48 @@
     "definitions": [
       {
         "meaning": "sun",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Тыгъэм''' дунаер егъэфабэ",
+            "translation": "'''The sun''' warms the world."
+          },
+		  {
+            "sentence": "'''Тыгъэр''' фэбэдэд",
+            "translation": "'''The sun''' is very hot."
+          },
+		  {
+            "sentence": "Мылыр '''тыгъэм''' хэбылъхьэмэ тк1ущт",
+            "translation": "If you put ice in '''the sun''' it will melt."
+          },
+		  {
+            "sentence": "Къок1ып1эмк1э '''тыгъэр''' къыкъок1ы",
+            "translation": "'''The sun''' rises from the east."
+          },
+		  {
+            "sentence": "Къохьап1эмк1э '''тыгъэр''' къохьажьы",
+            "translation": "'''The sun''' sets in the west."
+          },
+		  {
+            "sentence": "'''Тыгъэм''' кур егъэц1ыу",
+            "translation": "'''The sun''' shines the car."
+          },
+		  {
+            "sentence": "'''Тыгъэ''' унэм къепсэ",
+            "translation": "'''The sun''' shines the house."
+          },
+		  {
+            "sentence": "'''Тыгъэм''' псыхъор ыгъушъыгъ",
+            "translation": "'''The sun''' evaporated the river."
+          },
+		  {
+            "sentence": "'''Тыгъэм''' тыхэт пк1ант1э къытэхэу",
+            "translation": "We are in '''the sun''' sweating."
+          },
+          {
+            "sentence": "'''Тыгъэ''' плъырым спшъэбы егъэсты",
+            "translation": "The hot '''sun''' burns the back of my neck."
+          }
+        ]
       }
     ],
     "kabardian": "дыгъэ",
@@ -10708,6 +10946,26 @@
 		  {
             "sentence": "Мы 1офым '''иуахътэк1э''' къэтфэухышъущтэп",
             "translation": "We cannot finish this work '''in time'''."
+          },
+		  {
+            "sentence": "Тхьапш '''уахътэр'''?",
+            "translation": "What '''time''' is it?"
+          },
+		  {
+            "sentence": "'''Уахътэ''' уи1а укъыздэ1эпы1энэу?",
+            "translation": "Do you have '''time''' to help me?"
+          },
+		  {
+            "sentence": "Непэ '''уахътэ''' си1эп",
+            "translation": "I do not have '''time''' today."
+          },
+		  {
+            "sentence": "Нахь бэ '''уахътэ''' сищык1агъ",
+            "translation": "I need more '''time'''."
+          },
+		  {
+            "sentence": "'''Уахътэ''' щы1эжьэп",
+            "translation": "There is no '''time''' left."
           }
         ]
       }
@@ -10762,7 +11020,24 @@
     "definitions": [
       {
         "meaning": "family (first-degree relatives: parents, siblings and children)",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Унагъор''' 1анэм 1ус",
+            "translation": "'''The family''' is sitting around the table."
+          },
+          {
+            "sentence": "Европэм '''уиунагъо''' удэк1ощта?",
+            "translation": "Will you go to Europe with '''your family'''?"
+          },
+		  {
+            "sentence": "Непэ '''сиунагъо''' сыдэшхагъ",
+            "translation": "Today I ate with '''my family'''."
+          },
+		  {
+            "sentence": "Л1ым '''иунагъо''' ыбгынагъ",
+            "translation": "The man abandoned '''his family'''."
+          }
+        ]
       }
     ],
     "kabardian": "унагъуэ",
@@ -10820,13 +11095,15 @@
           {
             "sentence": "К1элэегъаджэм бэрэ '''упч1э''' ешъота?",
             "translation": "Do you often ask the teacher '''questions'''?"
+          },
+		  {
+            "sentence": "'''Упч1э''' шъуи1а?",
+            "translation": "Do you have '''a question'''?"
           }
         ]
       }
     ],
-    "synonyms": [
-      "упщ1э"
-    ],
+    "kabardian": "упщ1э",
     "type": "noun",
     "ipa": "wəpt͡ʃʼa"
   },
@@ -10868,16 +11145,20 @@
         "meaning": "black",
         "examples": [
           {
-            "sentence": "хы '''ш1уц1эр'''",
+            "sentence": "Хы '''ш1уц1эр'''",
             "translation": "'''The black''' sea."
           },
           {
-            "sentence": "сиджанэ '''ш1уц1э'''",
+            "sentence": "Сиджанэ '''ш1уц1э'''",
             "translation": "my shirt is '''black'''."
           },
           {
-            "sentence": "'''ш1уц1эк1э''' дэпкъыр лэ",
+            "sentence": "'''Ш1уц1эк1э''' дэпкъыр лэ",
             "translation": "Color the wall '''with black color'''."
+          },
+          {
+            "sentence": "Хьалыгъур мэсти '''ш1уц1эу''' хъугъэ",
+            "translation": "The bread burned and got '''black'''."
           }
         ]
       }
@@ -10926,8 +11207,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "multi-coloured",
-        "examples": []
+        "meaning": "multicolored; having many colours; variegated",
+        "examples": [
+          {
+            "sentence": "К1алэм джэнэ '''къолэн''' щыгъ",
+            "translation": "The boy wears a '''multicolored''' shirt."
+          }
+        ]
       },
       {
         "meaning": "motley",
@@ -10942,7 +11228,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "very colorful",
+        "meaning": "very multicolored",
         "examples": []
       }
     ],
@@ -10997,7 +11283,20 @@
     "definitions": [
       {
         "meaning": "culture",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Адыгэ '''хабзэ'''",
+            "translation": "Circassian '''culture'''."
+          },
+		  {
+            "sentence": "'''Хабзэм''' щыщ угъэхьак1эныр",
+            "translation": "It is part of the '''culture''' to host people."
+          },
+		  {
+            "sentence": "'''Хабзэр''' гъэцэк1эн / '''Хабзэм''' рик1он",
+            "translation": "To follow the '''culture'''."
+          }
+        ]
       },
       {
         "meaning": "custom; tradition",
@@ -11010,7 +11309,16 @@
       },
       {
         "meaning": "habit",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''ихабз''' пасэу къэущыжьыныр",
+            "translation": "It is the boy's '''habit''' to wake up early."
+          },
+		  {
+            "sentence": "К1алэм '''ихабз''' мафэ къэсы чъэныр",
+            "translation": "It is the boy's '''habit''' to run every day."
+          }
+        ]
       },
       {
         "meaning": "the law (in the broadest sense), the culture's laws",
@@ -11026,7 +11334,12 @@
     "definitions": [
       {
         "meaning": "island",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''хыгъэхъуным''' щэпсэу",
+            "translation": "The boy lives on an '''island'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -11040,8 +11353,45 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"хьэлэгъу\"",
-        "examples": []
+        "meaning": "bread",
+        "examples": [
+          {
+            "sentence": "Пшъэшъэжъыем '''хьалыгъу''' ешхы шъоу дэлъэу",
+            "translation": "The little girl eats '''bread''' with honey in it."
+          },
+          {
+            "sentence": "'''Хьалыгъур''' зэхэтэкъоу ежьагъ",
+            "translation": "The '''bread''' started to crumble."
+          },
+          {
+            "sentence": "К1алэм '''ихьалыгъу''' дегъэт1ат1э кетчуп",
+            "translation": "The boy is drizzling ketchup into '''his bread'''."
+          },
+          {
+            "sentence": "'''Хьалыгъур''' нэк1ы",
+            "translation": "The '''bread''' is empty."
+          },
+          {
+            "sentence": "Коц1ык1э '''хьалыгъу''' аш1ы",
+            "translation": "They do '''bread''' with wheat."
+          },
+		  {
+            "sentence": "К1алэм '''хьалыгъур''' т1оу ыбзыгъ",
+            "translation": "The boy cut the '''bread''' to two."
+          },
+          {
+            "sentence": "Зы '''хьалыгъу''' парчэ сыфай",
+            "translation": "I want a slice of '''bread'''."
+          },
+          {
+            "sentence": "'''Хьалыгъу''' такъыр",
+            "translation": "Piece of '''bread'''."
+          },
+		  {
+            "sentence": "Сыфай бгъэлыб гъэжъагъэ '''хьалыгъум''' дэлъэу",
+            "translation": "I want cooked chicken breast in '''bread'''."
+          }
+        ]
       }
     ],
     "kabardian": "щ1акхъуэ",
@@ -40494,6 +40844,10 @@
             "sentence": "К1алэм къо1ус '''ешхы'''",
             "translation": "The boy '''is eating''' a banana."
           },
+		  {
+            "sentence": "Пшъэшъэжъыем хьалыгъу '''ешхы''' шъоу дэлъэу",
+            "translation": "The little girl '''eats''' bread with honey in it."
+          },
           {
             "sentence": "К1алэм лы '''фэшхырэп'''",
             "translation": "The boy '''can't eat''' meat."
@@ -41856,11 +42210,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to complete reading",
+        "meaning": "to complete reading; to complete reading a certian amount",
         "examples": [
           {
             "sentence": "К1алэм тхылъыр '''иджыгъ'''",
             "translation": "The boy '''read''' the book."
+          },
+		  {
+            "sentence": "Тхылъыр '''сыджыгъ''' мафэк1э",
+            "translation": "'''I read''' the book in one day."
+          },
+		  {
+            "sentence": "Тхылъымк1э нэк1убгъуит1у '''сыджыгъ'''",
+            "translation": "'''I read''' two pages in the book."
           }
         ]
       }
@@ -44084,6 +44446,10 @@
             "sentence": "К1алэм '''егъэцак1э''' къэс1орэ",
             "translation": "The boy '''is doing''' what I am saying."
           },
+		  {
+            "sentence": "Хабзэ '''гъэцэк1эн'''",
+            "translation": "'''To follow''' the culture'''."
+          },
           {
             "sentence": "Сымыджэгугъэу сиянэ 1офэу къыстелъхьагъэхэр '''сыгъэцэк1эн''' фаех",
             "translation": "Before I play, I must '''do''' the tasks my mother gave me."
@@ -45085,7 +45451,12 @@
     "definitions": [
       {
         "meaning": "early",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''жьэу''' къэтэджыныр ихабз",
+            "translation": "It is the boy's habit to get up '''early'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -48945,7 +49316,7 @@
           },
           {
             "sentence": "к1алэм ихьалыгъу '''дегъэт1ат1э''' кетчуп",
-            "translation": "The boy '''is drizzling''' ketchup onto his bread."
+            "translation": "The boy '''is drizzling''' ketchup into his bread."
           }
         ]
       }
@@ -60745,6 +61116,27 @@
     "ipa": "ʁaɮəd͡ʒən"
   },
   {
+    "word": "тетхэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to write on",
+        "examples": [
+		  {
+            "sentence": "К1алэр тхылъып1эм '''тетхэ'''",
+            "translation": "The boy '''writes on''' the paper."
+          },
+		  {
+            "sentence": "Дэпкъым '''утемытх'''",
+            "translation": "'''Do not write on''' the wall."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "tajtxan"
+  },
+  {
     "word": "тхэн",
     "lang": "Adyghe",
     "definitions": [
@@ -60763,8 +61155,12 @@
             "sentence": "Пшъашъэр дахэу '''матхэ'''",
             "translation": "The girl '''writes''' beautifully."
           },
+		  {
+            "sentence": "К1алэр тхылъып1эм '''тетхэ'''",
+            "translation": "The boy '''writes on''' the paper."
+          },
           {
-            "sentence": "Адыгабзэк1э '''утхэшъуа'''?",
+            "sentence": "Адыгабзэк1э '''отхэшъуа'''?",
             "translation": "'''Can you write''' in Adyghe language?"
           }
         ]
@@ -61670,11 +62066,11 @@
             "translation": "Does your mother '''permit you''' to go out?"
           },
           {
-            "sentence": "Тихатэ шъущыджэгоу '''къышъуфаздэрэп'''.",
+            "sentence": "Тихатэ шъущыджэгоу '''къышъуфаздэрэп'''",
             "translation": "'''I forbid''' you (pl.) to play in our garden."
           },
           {
-            "sentence": "Сидоктор '''къэсфидэрэп''' хьалыгъу сышхэу.",
+            "sentence": "Сидоктор '''къэсфидэрэп''' хьалыгъу сышхэу",
             "translation": "My doctor '''forbade''' me to eat a bread."
           },
           {
@@ -67199,7 +67595,7 @@
           },
           {
             "sentence": "Иунагъо дэуахьык1э '''фэлъа1о'''.",
-            "translation": "'''(S)he prays for''' his family."
+            "translation": "'''(S)he prays for''' his/her family."
           },
           {
             "sentence": "'''Къэсфэлъа1у'''",
@@ -67249,6 +67645,10 @@
           {
             "sentence": "Куджаныр Адыгэмэ '''ащыщ'''.",
             "translation": "'''Kujan is one of''' the Adyghe people."
+          },
+		  {
+            "sentence": "Хабзэм '''щыщ''' угъэхьак1эныр",
+            "translation": "'''It is part of''' the culture to host people."
           },
           {
             "sentence": "К1алэр къашъохэмэ '''ащыщагъэ'''.",
@@ -67503,7 +67903,7 @@
             "translation": "While the boy was eating, the honey '''dripped on''' his shirs."
           },
           {
-            "sentence": "К1элэц1ык1ур шъоу ихьалыгъу '''трегъэт1ат1э'''.",
+            "sentence": "К1элэц1ык1ум шъоу ихьалыгъу '''трегъэт1ат1э'''.",
             "translation": "The little boy '''drizzles''' honey on his bread."
           }
         ]
@@ -67524,8 +67924,8 @@
             "translation": "'''Don't drip''' the food."
           },
           {
-            "sentence": "К1элэц1ык1ур шъоу ихьалыгъу '''трегъэт1ат1э'''.",
-            "translation": "The little boy '''drizzles''' honey on his bread."
+            "sentence": "К1элэц1ык1ум шъоу ихьалыгъу '''дрегъэт1ат1э'''.",
+            "translation": "The little boy '''drizzles''' honey into his bread."
           }
         ]
       }
@@ -68592,6 +68992,10 @@
           {
             "sentence": "К1алэр л1ым '''едэ1у'''",
             "translation": "The boy '''listens to''' the man."
+          },
+		  {
+            "sentence": "Пшъашъэр орэдым '''едэ1у'''",
+            "translation": "The girl '''listens''' to the song."
           },
           {
             "sentence": "Пшъашъэр макъэм '''едэ1угъ'''",
@@ -70511,6 +70915,10 @@
           {
             "sentence": "'''Усищык1агъ''' себгъэджэнэу",
             "translation": "'''I need you''' to study me."
+          },
+		  {
+            "sentence": "Нахь бэ уахътэ '''сищык1агъ'''",
+            "translation": "'''I need''' more time."
           },
           {
             "sentence": "Ахэмэ ахъщэ '''ящык1агъэп'''",
@@ -75323,6 +75731,10 @@
 		  {
             "sentence": "Л1ым ышъхьац к1ыхьэу '''къик1ыгъ'''",
             "translation": "The man's hair '''grew''' long."
+          },
+		  {
+            "sentence": "Пшэхъуалъэм уцыр '''къыщык1ыгъуай'''",
+            "translation": "Plants '''hardly grow''' in a sandy area."
           }
         ]
       }
@@ -82648,6 +83060,10 @@
           {
             "sentence": "Уиныбджэгъумэ '''уа1эпы1эн'''",
             "translation": "'''To help''' your friends."
+          },
+		  {
+            "sentence": "Уахътэ уи1а '''укъыздэ1эпы1энэу'''?",
+            "translation": "Do you have time '''to help me'''?"
           }
         ]
       }
@@ -82692,6 +83108,10 @@
           {
             "sentence": "Непэ сятэ и1офк1э '''сыдэ1эпы1агъ'''",
             "translation": "Today '''I helped''' my father with his work."
+          },
+		  {
+            "sentence": "Уахътэ уи1а '''укъыздэ1эпы1энэу'''?",
+            "translation": "Do you have time '''to help me'''?"
           }
         ]
       }
@@ -94302,7 +94722,7 @@
           },
 		  {
             "sentence": "Л1ым отычым отычык1ыр '''пхэнджэу''' пилъхьагъ",
-            "translation": "The man put the axe-handle on the axe '''wrongly'''."
+            "translation": "The man put the axe-handle onto the axe '''wrongly'''."
           },
 		  {
             "sentence": "Тэ гъогу '''пхэндж''' тызытехьагъэр",
@@ -99522,6 +99942,10 @@
           {
             "sentence": "Хьамлашк1охэр хы '''ныджмэ''' а1олъых",
             "translation": "The shells are in the sea '''sandbars'''."
+          },
+		  {
+            "sentence": "Псыхъо '''ныджым''' пшахъо телъ",
+            "translation": "There is sand on the river's '''bank'''."
           }
         ]
       }
@@ -110360,6 +110784,10 @@
           {
             "sentence": "К1алэр ц1ыфыхэр '''ахахьэ'''",
             "translation": "The boy '''joins''' the people."
+          },
+		  {
+            "sentence": "'''Къэхахь''', тигруп '''къыхахь'''",
+            "translation": "'''Join us''', '''join''' our group."
           },
           {
             "sentence": "Сэ дзэм '''сыхэхьагъ'''",
@@ -124559,8 +124987,8 @@
             "translation": "The boy '''is spilling''' more color than he uses on the wall."
           },
           {
-            "sentence": "К1элэц1ык1ур шъоу ихьалыгъу '''трегъэт1ат1э'''.",
-            "translation": "The little boy '''drizzles''' honey onto his bread."
+            "sentence": "К1элэц1ык1ум шъоу ихьалыгъу '''дрегъэт1ат1э'''.",
+            "translation": "The little boy '''drizzles''' honey into his bread."
           }
         ]
       }
