@@ -726,6 +726,9 @@
     "bear": "мышъэ"
   },
   {
+    "bearskin": "мышъашъо (bearskin)"
+  },
+  {
     "snake": "блэ"
   },
   {
@@ -1323,7 +1326,7 @@
     "book": "тхылъ"
   },
   {
-    "paper": "тхьапэ; тхылъып1э"
+    "paper": "тхылъып1э; тхьапэ"
   },
   {
     "tissue": "тхылъып1э"
@@ -1602,7 +1605,7 @@
     "corpse": "хьадэ"
   },
   {
-    "body": "пкъы"
+    "body": "пкъы; пкъышъолы"
   },
   {
     "organ": "пкъы"
@@ -1684,6 +1687,9 @@
   },
   {
     "broom": "пхъэнк1ыпхъ"
+  },
+  {
+    "broomstick": "пхъэнк1ыпхъ"
   },
   {
     "iron": "гъуч1ы; уты (iron for pressing clothes)"
@@ -3537,7 +3543,13 @@
     "which": "тары"
   },
   {
-    "piece": "1эбгъу; такъыр; налъэ (single piece); парчъэ"
+    "piece": "1эбгъу; такъыр; налъэ (single piece); парчъэ; пкъырыпкъэу (in piecemeals); зырзырэу (one by one)"
+  },
+  {
+    "piecemeal": "къырыпкъэу (in piecemeals)"
+  },
+  {
+    "one by one": "зырзырэу"
   },
   {
     "loosed": "лалэ"
@@ -4756,7 +4768,7 @@
     "loose": "ланлэ"
   },
   {
-    "to loose": "гъэлэнлэн; т1упщын; ит1упщыхьан (to let loose inside something); хэт1упщыхьан (to let loose something into the water, sea, gas, fire, forest)"
+    "to loose": "гъэлэнлэн; т1упщын; ит1упщыхьан (to let loose inside something); хэт1упщыхьан (to let loose something into the water, sea, gas, fire, forest); къелэлэхын (to be hanged down loosely); къегъэлэлэхын (to hang down something loosely)"
   },
   {
     "to let loose": "гъэлэнлэн; т1упщын; итIупщыхьан; ит1упщыхьан (to let loose inside something); хэт1упщыхьан (to let loose something into the water, sea, gas, fire, forest)"
@@ -5020,7 +5032,7 @@
     "to sew up": "дыжьын (to seal by sewing)"
   },
   {
-    "to repair": "гъэтэрэзыжьын (recorrect); ш1ыжьын (to fix); дыжьын (to sew up), гъэцэк1эжьын (to mend)"
+    "to repair": "гъэтэрэзыжьын (recorrect); ш1ыжьын (to fix); дыжьын (to sew up), гъэцэк1эжьын (to mend); гъэк1эжьын (to repair by renewing)"
   },
   {
     "to fix": "гъэтэрэзыжьын (recorrect); ш1ыжьын (to repair); дыжьын (to sew up), гъэцэк1эжьын (to mend); пытэу ш1ын / гъэпытэн (to fix something on a certain place, to firm something); тегъэпытыхьан (to make something firm on, to fix something on)"
@@ -10024,7 +10036,7 @@
     "fig": "шхынцумпэ; 1ынджыр (Turkish)"
   },
   {
-    "to loosen": "лэлэн"
+    "to loosen": "гъэлэнлэн; т1упщын"
   },
   {
     "to enter": "ихьан; илъэдэн (to enter running)"
@@ -10042,7 +10054,7 @@
     "alone": "изакъу"
   },
   {
-    "to hang": "пылъын (to be hanging); пылъэн (to hang); пылъхьан (to put something to a hanging state); улэлэн (to hang loosed); теулэлэн (to hang loosed from)"
+    "to hang": "пылъын (to be hanging); пылъэн (to hang); пылъхьан (to put something to a hanging state); улэлэн (to hang loosed); теулэлэн (to hang loosed from); къелэлэхын (to be hanged down loosely); къегъэлэлэхын (to hang down something loosely)"
   },
   {
     "to attach": "пылъын (to be attached); пыхьан (to be attachable); пылъхьан (to attach something to); пыгъэнэн (to stick to attach)"
@@ -10171,7 +10183,7 @@
     "where": "тыдэ"
   },
   {
-    "to listen": "дэ1он; едэ1ун (to listen to)"
+    "to listen": "дэ1он; едэ1ун (to listen to); к1эдэ1ук1ын (to listen to someone very carefully)"
   },
   {
     "rice": "пындж; пыдж (Shapsug)"
@@ -12310,9 +12322,6 @@
     "mark": "плъышъо"
   },
   {
-    "body": "пкъышъолы"
-  },
-  {
     "soft": "шъабэ; гохьы (soft person)"
   },
   {
@@ -13804,6 +13813,9 @@
     "bedsheet": "п1этехъо; п1этедзэ"
   },
   {
+    "goblet": "бжъэ"
+  },
+  {
     "blanket": "чхы1ан / чых1эн"
   },
   {
@@ -15049,7 +15061,13 @@
     "to tuck": "дэкон"
   },
   {
-    "to squeeze": "фызын (to wring, to press tightly, to squeeze something (the effect of the squeezing is reversible)); ц1ыц1ын (to squeeze so as to alter the natural shape or integrity of it (the effect of the squeezing is irreversible), to compress, to squish, to squash, to crush); к1эфызык1ын / хэфызык1ын (to squeeze out); иц1ыц1эн (to squeeze inside); дэц1ыц1эн (to squeeze inside another object, between); тец1ыц1эн (to squeeze above); ч1эц1ыц1эн (to squeeze under); хэц1ыц1эн (to squeeze within); п1ырт1ын; зэхэфызэн (to squeeze in, to pack tightly together); дэгъэзыхьан (to forcefully squeeze something in between, to forcefully squeeze something inside another object); игъэзыхьан (to forcefully squeeze inside); чӏэгъэзыхьан (to forcefully squeeze something under something); хэгъэзыхьан (to forcefully squeeze something through something, to forcefully squeeze something within something); къогъэзыхьан (to forcefully squeeze behind something)"
+    "water-carrier": "псыщ"
+  },
+  {
+    "to extract": "къыхэхын (to extract something out of); к1эщын / къык1эщын (to squeeze from, to extract from)"
+  },
+  {
+    "to squeeze": "фызын (to wring, to press tightly, to squeeze something (the effect of the squeezing is reversible)); ц1ыц1ын (to squeeze so as to alter the natural shape or integrity of it (the effect of the squeezing is irreversible), to compress, to squish, to squash, to crush); к1эфызык1ын / хэфызык1ын (to squeeze out); иц1ыц1эн (to squeeze inside); дэц1ыц1эн (to squeeze inside another object, between); тец1ыц1эн (to squeeze above); ч1эц1ыц1эн (to squeeze under); хэц1ыц1эн (to squeeze within); п1ырт1ын; зэхэфызэн (to squeeze in, to pack tightly together); дэгъэзыхьан (to forcefully squeeze something in between, to forcefully squeeze something inside another object); игъэзыхьан (to forcefully squeeze inside); чӏэгъэзыхьан (to forcefully squeeze something under something); хэгъэзыхьан (to forcefully squeeze something through something, to forcefully squeeze something within something); къогъэзыхьан (to forcefully squeeze behind something); к1эщын / къык1эщын (to squeeze from, to extract from)"
   },
   {
     "to cram": "дэкон / дэкоцэн (to cram into something, to cram in between); хэкон / хэкоцэн (to cram through something); икон / икоцэн (to cram inside something); ч1экон / ч1экоцэн (to cram under something); текон / текоцэн (to cram above something); дэгъэзыхьан (to forcefully cram something in between, to forcefully cram something inside another object); игъэзыхьан (to forcefully cram inside); чӏэгъэзыхьан (to forcefully cram under something); хэгъэзыхьан (to forcefully cram through); къогъэзыхьан (to forcefully cram behind)"
@@ -15791,6 +15809,9 @@
   },
   {
     "to restore a friendly relationship": "зэгъэш1ужьын"
+  },
+  {
+    "to restore": "къегъэзэжьын; къегъэгъэзэжьын (to make someone restore)"
   },
   {
     "holiday": "мэфэк1"
