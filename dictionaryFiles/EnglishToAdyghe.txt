@@ -2535,7 +2535,7 @@
     "drug": "уцы; 1эзэгъу уц; уцы такъыр"
   },
   {
-    "zebra": "шыдкъолэн; шыкъолэн"
+    "zebra": "щыдыкъолэн; шыкъолэн"
   },
   {
     "hole": "курбы (hole in the ground); гъуанэ; машэ (hole in the ground); бы (burrow, hole for beasts like bears, foxes, etc.); гъо (hole for snakes, insects, arthropods and such species)"
@@ -2577,7 +2577,7 @@
     "close friend": "благъэ"
   },
   {
-    "friend": "ныбджэгъу; шъэогъу (boyfriend); пшъэшъэгъу (girlfriend); гъусэ (Kfar Kama dialect); гъусэк1алэ (Kfar Kama dialect, boyfriend); гъусэпшъагъэ (Kfar Kama dialect, girlfriend)"
+    "friend": "ныбджэгъу; шъэогъу (boyfriend); пшъэшъэгъу (girlfriend); гъусэ (Kfar Kama dialect); гъусэк1алэ (Kfar Kama dialect, boyfriend); гъусэпшъагъэ (Kfar Kama dialect, girlfriend); благъэ (close friend)"
   },
   {
     "associate": "гъусэ"
@@ -10330,7 +10330,10 @@
     "to put obstacles to": "гъэохъун"
   },
   {
-    "better": "нахьыш1у"
+    "sharp-nosed": "пэдыд; пэ папц1"
+  },
+  {
+    "better": "нахьыш1у; нахьыш1у1у (little better, slightly better)"
   },
   {
     "mostly": "нахь бэм; нахь бэрэм; нахьыбэрэм; нахьыбэрэмк1э"
@@ -16027,7 +16030,16 @@
     "skinny": "гъонлагъэ; (Shapsug) гъолагъэ"
   },
   {
-    "slim": "гъонлагъэ; (Shapsug) гъолагъэ"
+    "slim": "гъонлагъэ; (Shapsug) гъолагъэ; одыжъые"
+  },
+  {
+    "slender": "гъонлагъэ; (Shapsug) гъолагъэ; одыжъые"
+  },
+  {
+    "earlobe": "тхьак1умак1"
+  },
+  {
+    "ear lobe": "тхьак1умак1"
   },
   {
     "shell": "хьамлашк1о"
@@ -17140,7 +17152,7 @@
     "to enter": "ихьан (to go into a house, building, entrace, etc.); къихьан (to come into a house, building, entrace, etc.)"
   },
   {
-    "to insert": "игъэхьан (to insert inside)"
+    "to insert": "игъэхьан (to insert inside); хэгъэхьан (to insert into)"
   },
   {
     "to go in": "игъэхьан (to let someone go in); ихьан (to go in, to enter)"
@@ -18239,6 +18251,15 @@
   },
   {
     "piece of news": "къэбар"
+  },
+  {
+    "chatter": "къэбар"
+  },
+  {
+    "chat": "къэбар"
+  },
+  {
+    "talk": "къэбар"
   },
   {
     "tidings": "къэбар"

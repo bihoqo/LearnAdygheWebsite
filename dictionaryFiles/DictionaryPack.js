@@ -3183,6 +3183,10 @@
 		  {
             "sentence": "'''С1э''' уты ышхыгъэти плъыжьэу хъугъэ",
             "translation": "Because '''my arm''' ate a blow it became red."
+          },
+		  {
+            "sentence": "Пшъашъэм '''ы1э''' мастэ хагъахьи лъы хашъугъ",
+            "translation": "They inserted needle into the girl's '''arm''' and extracted blood."
           }
         ]
       },
@@ -6949,6 +6953,10 @@
           {
             "sentence": "Л1ыжъым ылъынтфэхэр шъыбыгъэхэти, '''лъы''' тэрэзэу арик1ожьырэп",
             "translation": "Because the old man's veins got sealed, '''blood''' doesn't flow them right."
+          },
+		  {
+            "sentence": "Пшъашъэм ы1э мастэ хагъахьи '''лъы''' хашъугъ",
+            "translation": "They inserted needle into the girl's arm and extracted '''blood'''."
           }
         ]
       }
@@ -11925,6 +11933,9 @@
           }
         ]
       }
+    ],
+    "synonyms": [
+      "шыр"
     ],
     "type": "noun",
     "ipa": "ɕələt͡ʃ"
@@ -17778,7 +17789,8 @@
         "examples": []
       }
     ],
-    "type": "noun"
+    "type": "noun",
+    "ipa": "t͡səpqa"
   },
   {
     "word": "мыдрэ",
@@ -17856,7 +17868,8 @@
         ]
       }
     ],
-    "type": "det"
+    "type": "det",
+    "ipa": "aːdra"
   },
   {
     "word": "лъэ1он",
@@ -17866,33 +17879,34 @@
         "meaning": "to pray, to beg",
         "examples": [
           {
-            "sentence": "л1ым '''мэлъа1о'''",
+            "sentence": "Л1ыр '''мэлъа1о'''",
             "translation": "The man is '''begging'''."
           },
 		  {
-            "sentence": "лъэ1уак1ор ахъщэм '''фэлъа1о'''",
+            "sentence": "Лъэ1уак1ор ахъщэм '''фэлъа1о'''",
             "translation": "The beggar is '''begging''' for money."
           },
 		  {
-            "sentence": "тхьэм '''елъэ1у''' нfхь 1эш1эхэу къыпфиш1нэу",
+            "sentence": "Тхьэм '''елъэ1у''' нахь 1эш1эхэу къыпфиш1ынэу",
             "translation": "'''Prey to''' god to make it easier for you."
           },
           {
-            "sentence": "к1алэр тхьэм '''елъэ1у''' псэонэу",
+            "sentence": "К1алэр тхьэм '''елъэ1у''' псэонэу",
             "translation": "The boy '''is praying to''' god to stay healthy."
           },
           {
-            "sentence": "к1алэр иятэ '''елъэ1у''' джэгуалъэ къыфищэфнэу",
+            "sentence": "К1алэр ыятэ '''елъэ1у''' джэгуалъэ къыфищэфнэу",
             "translation": "The boy '''is begging''' his father to buy him a toy."
           },
           {
-            "sentence": "'''усэлъэ1у''' ащтэу умыш1",
+            "sentence": "'''Усэлъэ1у''' ащтэу умыш1",
             "translation": "'''I am begging you''' not to do that."
           }
         ]
       }
     ],
-    "type": "verb"
+    "type": "verb",
+    "ipa": "ɬaʔʷan"
   },
   {
     "word": "елъэ1ун",
@@ -17902,25 +17916,26 @@
         "meaning": "to pray to, to beg someone",
         "examples": [
           {
-            "sentence": "тхьэм '''елъэ1у''' нахь 1эш1эхэу къыпфиш1нэу",
+            "sentence": "Тхьэм '''елъэ1у''' нахь 1эш1эхэу къыпфиш1нэу",
             "translation": "'''Prey to''' god to make it easier for you."
           },
           {
-            "sentence": "к1алэр тхьэм '''елъэ1у''' псэонэу",
+            "sentence": "К1алэр тхьэм '''елъэ1у''' псэонэу",
             "translation": "The boy '''is praying to''' god to stay healthy."
           },
           {
-            "sentence": "к1алэр иятэ '''елъэ1у''' джэгуалъэ къыфищэфнэу",
+            "sentence": "К1алэр ыятэ '''елъэ1у''' джэгуалъэ къыфищэфнэу",
             "translation": "The boy '''is begging''' his father to buy him a toy."
           },
           {
-            "sentence": "'''усэлъэ1у''' ащтэу умыш1",
+            "sentence": "'''Усэлъэ1у''' ащтэу умыш1",
             "translation": "'''I am begging you''' not to do that."
           }
         ]
       }
     ],
-    "type": "verb"
+    "type": "verb",
+    "ipa": "jaɬaʔʷən"
   },
   {
     "word": "цумпэ1эрыс",
@@ -17935,15 +17950,24 @@
     "ipa": "t͡ʃʷəmpaʔarəs"
   },
   {
+    "word": "куаш",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "bush (branches from one root)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "kʷaːʃ"
+  },
+  {
     "word": "цыулэ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "(childish) penis",
-        "examples": [],
-        "tags": [
-          "childish"
-        ]
+        "examples": []
       }
     ],
     "type": "noun",
@@ -17954,11 +17978,21 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "shit",
-        "examples": []
+        "meaning": "(vulgar) shit",
+        "examples": [
+          {
+            "sentence": "'''Хьай''' гъогум телъ",
+            "translation": "There is '''shit''' on the road."
+          },
+		  {
+            "sentence": "Уихьэ зыц1ык1э '''ихьай''' къэбыштэжьын фай гъогур угъэкъэбзэжьынэу",
+            "translation": "When your dog takes a shit, you need to lift '''its shit''' to clean up the road."
+          }
+        ]
       }
     ],
-    "type": "noun"
+    "type": "noun",
+    "ipa": "ħaːj"
   },
   {
     "word": "гъутхьапс",
@@ -17976,11 +18010,27 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "like that; that way; in that manner",
+        "meaning": "like that; that way; in that manner (invisible to the speaker and the listener)",
         "examples": [
 		  {
             "sentence": "Джы сшъхьэ тефагъ сыда пшъашъэр '''ащтэу''' мэзек1о",
             "translation": "Now I understood why the girl acts '''that way'''."
+          },
+		  {
+            "sentence": "'''Ащтэу''' сызек1орэп",
+            "translation": "I do not act '''that way'''."
+          },
+		  {
+            "sentence": "'''Ащтэу''' хъугъэ",
+            "translation": "It happened '''that way'''."
+          },
+		  {
+            "sentence": "Жъэжъащэу лэжьак1охэр мэлажьэх, '''ащтэу''' иуахътэк1э 1офыр аухыщтэп",
+            "translation": "The workers work slowly, they won't finish the job in time '''that way'''."
+          },
+		  {
+            "sentence": "К1алэм икъунэу иеджэн зыритырэп, '''ащтэу''' ригъэкъумэ университетым къыч1адзыщт",
+            "translation": "The boy does not dedicate himself enough to his studies, if he continues '''like that''' he will be thrown out of the university."
           }
         ]
       }
@@ -18018,8 +18068,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "like that",
-        "examples": []
+        "meaning": "like that; that way; in that manner (visible to the speaker and the listener)",
+        "examples": [
+          {
+            "sentence": "'''Мощтэу''' узек1он фай",
+            "translation": "You need to act '''like that'''."
+          },
+		  {
+            "sentence": "Джы сшъхьэ тефагъ сыда пшъашъэр '''мощтэу''' мэзек1о",
+            "translation": "Now I understood why the girl acts '''that way'''."
+          }
+        ]
       }
     ],
     "type": "adv",
@@ -18036,6 +18095,10 @@
             "sentence": "'''чэщныкъом''' тык1ощт къалэм",
             "translation": "'''In midnight''', we will go to the city."
           },
+		  {
+            "sentence": "'''чэщныкъом''' къухьэлъатэр быбыщт",
+            "translation": "'''In midnight''' the plane will fly off."
+          },
           {
             "sentence": "'''чэщныкъом''' Томэр къэк1уагъ",
             "translation": "'''In midnight''' Tom came."
@@ -18047,12 +18110,20 @@
     "ipa": "t͡ʃaɕənəqʷa"
   },
   {
-    "word": "чэщым еныу",
+    "word": "чэщым ренэу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "overnight, all night",
-        "examples": []
+        "meaning": "all night; the whole night",
+        "examples": [
+          {
+            "sentence": "'''чэщым ренэу''' къэбар ты1отагъ",
+            "translation": "''all night''' we were chatting."
+          },
+		  {
+            "sentence": "'''чэщым ренэу''' къещхыгъ",
+            "t
+        ]
       }
     ],
     "type": "adv",
@@ -18123,7 +18194,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "go to hell",
+        "meaning": "may God send you to Petersburg (It was used like the English phrase \"go to hell\"",
         "examples": []
       }
     ],
@@ -18255,6 +18326,10 @@
 		  {
             "sentence": "Тхьэм '''пегъэмбархэр''' къигъэк1ощтыгъэх",
             "translation": "God used to sent '''prophets''', "
+          },
+		  {
+            "sentence": "Тэдрэз лъэпкъым '''пегъэмбар''' къыфэк1уагъ.",
+            "translation": "'''A prophet''' was sent to every tribe."
           }
         ]
       }
@@ -18300,13 +18375,18 @@
     "definitions": [
       {
         "meaning": "orphan",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Ибэ''' тырэ нырэ зимы1эр",
+            "translation": "'''An orphan'''is who has no father and mother."
+          }
+        ]
       },
       {
         "meaning": "most",
         "examples": [
           {
-            "sentence": "'''ибэм''' ы1уэрэ джары",
+            "sentence": "'''ибэм''' ы1орэ джары",
             "translation": "That's what '''most people''' say."
           },
           {
@@ -18314,7 +18394,7 @@
             "translation": "'''Most people''' go to work."
           },
           {
-            "sentence": "к1алэ '''ибэ''' уиунэ къак1о",
+            "sentence": "к1элэ '''ибэ''' уиунэ къак1о",
             "translation": "'''Most of''' the boys are coming to your house."
           },
           {
@@ -18447,7 +18527,7 @@
         "examples": [
           {
             "sentence": "Л1ым '''ихьатырк1э''' къыгъэнагъ",
-            "translation": "(S)he left '''for the sake of''' the man."
+            "translation": "(S)he left it '''for the sake of''' the man."
           },
           {
             "sentence": "'''Уихьатырк1э''' сык1ощт",
@@ -18465,8 +18545,16 @@
     "definitions": [
       {
         "meaning": "steel",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Шыр''' улъыигъ",
+            "translation": "'''The steel''' rusted."
+          }
+        ]
       }
+    ],
+    "synonyms": [
+      "щылыч"
     ],
     "type": "noun",
     "ipa": "ʃər"
@@ -18477,7 +18565,20 @@
     "definitions": [
       {
         "meaning": "child",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Куджаным '''сабыищ''' и1",
+            "translation": "Kujan has '''three children'''."
+          },
+		  {
+            "sentence": "Тхьапш '''сабыеу''' и1эр?",
+            "translation": "How many '''children''' you have?"
+          },
+		  {
+            "sentence": "'''Сабыир''' кушъэм хэлъ чъыеу",
+            "translation": "'''The child''' is lying in the cradle while sleeping"
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -18489,7 +18590,20 @@
     "definitions": [
       {
         "meaning": "needle",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''мастэм''' щэщынэ",
+            "translation": "The boy is afraid of '''the needle'''."
+          },
+		  {
+            "sentence": "Пшъашъэм ы1э '''мастэ''' хагъахьи лъы хашъугъ",
+            "translation": "They inserted needle into the girl's arm and extracted blood."
+          },
+		  {
+            "sentence": "'''Сабыир''' кушъэм хэлъ чъыеу",
+            "translation": "'''The child''' is lying in the cradle while sleeping"
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -18500,7 +18614,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "pill, drug",
+        "meaning": "(from Arabic) pill, drug",
         "examples": []
       }
     ],
@@ -18524,7 +18638,7 @@
     "ipa": "ħabləw"
   },
   {
-    "word": "шыдкъолэн",
+    "word": "щыдыкъолэн",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -18536,7 +18650,22 @@
       "шыкъолэн"
     ],
     "type": "noun",
-    "ipa": "ʃədqʷalan"
+    "ipa": "ɕədqʷalan"
+  },
+  {
+    "word": "шыкъолэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "zebra",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "щыдыкъолэн"
+    ],
+    "type": "noun",
+    "ipa": "ʃəqʷalan"
   },
   {
     "word": "игъэхьан",
@@ -18590,6 +18719,18 @@
 		  {
             "sentence": "1унк1ыбзэр '''гъуанэм''' ихьарэп",
             "translation": "The key does not go inside '''the hole'''."
+          },
+		  {
+            "sentence": "Баджыр '''гъуанэм''' ихьажьыгъ",
+            "translation": "The fox re-entered '''the hole'''."
+          },
+		  {
+            "sentence": "Баджыр '''гъуанэм''' ихьажьыгъ",
+            "translation": "The fox entered back to '''the hole'''."
+          },
+		  {
+            "sentence": "Ч1ыгум '''гъуанэ''' хэт",
+            "translation": "There is '''a hole''' in the ground."
           }
         ]
       }
@@ -18617,14 +18758,19 @@
             "translation": "I am standing '''near'''."
           },
 		  {
-            "sentence": "Куджаным ичылэ '''благъэгъэп'''",
+            "sentence": "Куджаным ичылэ '''благъэп'''",
             "translation": "Kunan's village '''is not near'''."
           }
         ]
       },
       {
         "meaning": "close friend",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Куджаныр '''сиблагъ'''",
+            "translation": "Kujan '''is my close friend'''."
+          }
+        ]
       },
       {
         "meaning": "relative",
@@ -18636,7 +18782,7 @@
         ]
       },
       {
-        "meaning": "(Kfar Kama dialect slang) romantic partner (boyfriend or girlfriend)",
+        "meaning": "(Kfar Kama dialect, slang) romantic partner (boyfriend or girlfriend)",
         "examples": [
           {
             "sentence": "'''Благъэ''' уи1а?",
@@ -18652,23 +18798,6 @@
     "word": "гъусэ",
     "lang": "Adyghe",
     "definitions": [
-      {
-        "meaning": "(Kfar Kama dialect) friend",
-        "examples": [
-          {
-            "sentence": "'''Уигъусэ''' уиунэ къак1о",
-            "translation": "'''Your friend''' is coming to your house."
-          },
-          {
-            "sentence": "'''Сигъусэ''' горэ сэлъагъу",
-            "translation": "I am seeing some '''friend of mine'''."
-          },
-          {
-            "sentence": "К1алэмрэ пшъашъэмрэ '''зэгъусэх'''",
-            "translation": "The boy and the girl are '''friends'''."
-          }
-        ]
-      },
       {
         "meaning": "comrade",
         "examples": [
@@ -18711,6 +18840,23 @@
             "translation": "The man entered the forest without '''a companion'''."
           }
         ]
+      },
+      {
+        "meaning": "(Kfar Kama dialect) friend",
+        "examples": [
+          {
+            "sentence": "'''Уигъусэ''' уиунэ къак1о",
+            "translation": "'''Your friend''' is coming to your house."
+          },
+          {
+            "sentence": "'''Сигъусэ''' горэ сэлъагъу",
+            "translation": "I am seeing some '''friend of mine'''."
+          },
+          {
+            "sentence": "К1алэмрэ пшъашъэмрэ '''зэгъусэх'''",
+            "translation": "The boy and the girl are '''friends'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -18721,7 +18867,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "A peer, an age-mate: a person of approximately the same age as another.",
+        "meaning": "A peer, age-mate: a person of approximately the same age as another",
         "examples": [
           {
             "sentence": "'''Уиныбжьэгъухэр''' уиунэ къак1ох",
@@ -18738,6 +18884,10 @@
           {
             "sentence": "К1алэр '''синыбжьэгъу'''",
             "translation": "The boy '''is my peer'''."
+          },
+          {
+            "sentence": "О уятэ сэ '''синыбжьэгъу'''",
+            "translation": "Your father '''is my peer'''."
           }
         ]
       }
@@ -18749,6 +18899,42 @@
     "ipa": "nəbʑaʁʷ"
   },
   {
+    "word": "лэгъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "peer, age-mate: a person of approximately the same age as another",
+        "examples": [
+          {
+            "sentence": "'''Уилэгъухэр''' уиунэ къак1ох",
+            "translation": "'''Your peers''' are coming to your house."
+          },
+          {
+            "sentence": "'''Силэгъу''' горэ сэлъагъу",
+            "translation": "I am seeing a '''peer of mine'''."
+          },
+          {
+            "sentence": "К1алэмрэ пшъашъэмрэ '''зэлэгъух'''",
+            "translation": "The boy and the girl are '''peers'''."
+          },
+          {
+            "sentence": "Мы к1алэр '''силэгъу'''",
+            "translation": "This boy '''is my peer'''."
+          },
+          {
+            "sentence": "О уятэ сэ '''силэгъу'''",
+            "translation": "Your father '''is my peer'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "ныбжьэгъу"
+    ],
+    "type": "noun",
+    "ipa": "ɮaʁʷ"
+  },
+  {
     "word": "гъунэгъу",
     "lang": "Adyghe",
     "definitions": [
@@ -18756,19 +18942,19 @@
         "meaning": "neighbor",
         "examples": [
           {
-            "sentence": "'''уигъунэгъухэр''' уиунэ къак1ох",
+            "sentence": "'''Уигъунэгъухэр''' уиунэ къак1ох",
             "translation": "'''Your neighbors''' are coming to your house."
           },
 		  {
-            "sentence": "'''сигъунэгъу''' хьак1эу тиунэ къэк1ощт",
+            "sentence": "'''Сигъунэгъу''' хьак1эу тиунэ къэк1ощт",
             "translation": "'''My neighbor''' will come as a guest."
           },
           {
-            "sentence": "'''сигъунэгъу''' горэ сэлъагъу",
-            "translation": "I am seeing some '''neighbor of mine'''."
+            "sentence": "'''Тигъунэгъу''' яунэ к1уи къы1эх лимон",
+            "translation": "Go to '''our neighbor''' and take from him limon."
           },
           {
-            "sentence": "к1алэмрэ пшъашъэмрэ '''зэгъунэгъух'''",
+            "sentence": "К1алэмрэ пшъашъэмрэ '''зэгъунэгъух'''",
             "translation": "The boy and the girl are '''neighbors'''."
           }
         ]
@@ -19953,12 +20139,103 @@
     "ipa": "qawʃʼəħaːtən"
   },
   {
+    "word": "нахьыш1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "better",
+        "examples": [
+          {
+            "sentence": "Джы '''сынахьыш1у'''",
+            "translation": "'''I am better''' now."
+          },
+		  {
+            "sentence": "Сымаджэр '''нахьыш1оу''' хъугъэ",
+            "translation": "The sick became '''better'''."
+          },
+		  {
+            "sentence": "Уцым уешъомэ '''нахьыш1оу''' уш1ыщт",
+            "translation": "If you drink the medicine it will make you '''better'''."
+          },
+		  {
+            "sentence": "Уцым '''нахьыш1оу''' хэсигъэш1ык1ыгъ",
+            "translation": "The medicine made me feel '''better'''."
+          },
+		  {
+            "sentence": "'''Нахьыш1ущт''' нахь т1эк1у ушхымэ",
+            "translation": "'''It will be better''' if you eat less."
+          },
+          {
+            "sentence": "'''Нахьыш1у''' тызэдак1омэ",
+            "translation": "'''It is better''' if we go together."
+          },
+          {
+            "sentence": "Метромк1э ук1омэ '''нахьыш1у'''",
+            "translation": "'''It is better''' if you take the underground / subway."
+          },
+          {
+            "sentence": "'''Нахьыш1уа'''?",
+            "translation": "'''Is it better?'''"
+          },
+          {
+            "sentence": "Мыщыгъум тестэр '''нахьыш1оу''' уш1ыгъа?",
+            "translation": "Did you do the test '''better''' this time?"
+          },
+          {
+            "sentence": "Тыгъуасэ сысымэджэгъагъ, непэ '''сынахьыш1у'''",
+            "translation": "Yesterday I was sick, today '''I am better'''."
+          }
+        ]
+      }
+    ],
+    "type": "adv",
+    "ipa": "naːħəʃʷʼ"
+  },
+  {
+    "word": "нахьыш1у1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "little better; slightly better",
+        "examples": [
+          {
+            "sentence": "Джы '''сынахьыш1у1у'''",
+            "translation": "'''I am slightly better''' now."
+          },
+		  {
+            "sentence": "Сымаджэр '''нахьыш1у1оу''' хъугъэ",
+            "translation": "The sick became '''slightly better'''."
+          },
+		  {
+            "sentence": "Уцым уешъомэ '''нахьыш1у1оу''' уш1ыщт",
+            "translation": "If you drink the medicine it will make you '''slightly better'''."
+          },
+		  {
+            "sentence": "Уцым '''нахьыш1у1оу''' хэсигъэш1ык1ыгъ",
+            "translation": "The medicine made me feel '''slightly better'''."
+          }
+        ]
+      }
+    ],
+    "type": "adj",
+    "ipa": "naːħəʃʷʼəʔʷ"
+  },
+  {
     "word": "апшъэр",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "highest; supreme, high (dominant)",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Апшъэрэ''' еджап1",
+            "translation": "'''High''' education institution."
+          },
+		  {
+            "sentence": "'''Апшъэрэ''' суд",
+            "translation": "'''Supreme''' court."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -20122,12 +20399,58 @@
     "ipa": "xaʁaɡʷ"
   },
   {
+    "word": "тхьак1умак1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "earlobe; ear lobe",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "tħaːkʷʼəmaːt͡ʃʼ"
+  },
+  {
+    "word": "одыжъые",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "slender, slim",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "wadəʐəja"
+  },
+  {
+    "word": "пэдыд",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "sharp-nosed",
+        "examples": [
+		  {
+            "sentence": "К1элэ '''пэдыд'''",
+            "translation": "'''Sharp-nosed''' boy."
+          }
+        ]
+      }
+    ],
+    "type": "adj",
+    "ipa": "padəd"
+  },
+  {
     "word": "аргъой",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "mosquito",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Аргъоихэр''' къысаох",
+            "translation": "'''The mosquitos''' are stinging me."
+          }
+        ]
       }
     ],
     "kabardian": "аргъуей",
@@ -22637,18 +22960,6 @@
     ],
     "type": "noun",
     "ipa": "bʒaːma"
-  },
-  {
-    "word": "тхьак1умак1",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "earlobe",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "tħaːkʷʼəmaːt͡ʃʼ"
   },
   {
     "word": "к1эгъутхьан",
@@ -25814,7 +26125,12 @@
     "definitions": [
       {
         "meaning": "cradle",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Сабыир '''кушъэм''' хэлъ чъыеу",
+            "translation": "The child is lying in t'''he cradle''' while sleeping"
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -54904,47 +55220,6 @@
     "ipa": "ʁawaχʷ"
   },
   {
-    "word": "нахьыш1у",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "better",
-        "examples": [
-          {
-            "sentence": "Джы '''сынахьыш1у'''",
-            "translation": "'''I am better''' now."
-          },
-		  {
-            "sentence": "'''Нахьыш1ущт''' нахь т1эк1у ушхымэ",
-            "translation": "'''It will be better''' if you eat less."
-          },
-          {
-            "sentence": "'''Нахьыш1у''' тызэдак1омэ",
-            "translation": "'''It is better''' if we go together."
-          },
-          {
-            "sentence": "Метромк1э ук1омэ '''нахьыш1у'''",
-            "translation": "'''It is better''' if you take the underground / subway."
-          },
-          {
-            "sentence": "'''Нахьыш1уа'''?",
-            "translation": "'''Is it better?'''"
-          },
-          {
-            "sentence": "Мыщыгъум тестэр '''нахьыш1оу''' уш1ыгъа?",
-            "translation": "Did you do the test '''better''' this time?"
-          },
-          {
-            "sentence": "Тыгъуасэ сысымэджэгъагъ, непэ '''сынахьыш1у'''",
-            "translation": "Yesterday I was sick, today '''I am better'''."
-          }
-        ]
-      }
-    ],
-    "type": "adv",
-    "ipa": "naːħəʃʷʼ"
-  },
-  {
     "word": "нахьыбэрэм",
     "lang": "Adyghe",
     "definitions": [
@@ -55168,6 +55443,10 @@
           {
             "sentence": "К1алэр зэрэкъэк1орэр '''хэсэш1ык1ы'''",
             "translation": "'''I sense''' that the boy is coming."
+          },
+		  {
+            "sentence": "Уцым нахьыш1оу '''хэсигъэш1ык1ыгъ'''",
+            "translation": "The medicine '''made me feel''' better."
           }
         ]
       },
@@ -63164,38 +63443,6 @@
     ],
     "type": "noun",
     "ipa": "məɬəkʷ"
-  },
-  {
-    "word": "лэгъу",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "peer, contemporary, age-mate (one who is the same age as another)",
-        "examples": [
-          {
-            "sentence": "'''Уилэгъухэр''' уиунэ къак1ох",
-            "translation": "'''Your peers''' are coming to your house."
-          },
-          {
-            "sentence": "'''Силэгъу''' горэ сэлъагъу",
-            "translation": "I am seeing a '''peer of mine'''."
-          },
-          {
-            "sentence": "К1алэмрэ пшъашъэмрэ '''зэлэгъух'''",
-            "translation": "The boy and the girl are '''peers'''."
-          },
-          {
-            "sentence": "Мы к1алэр '''силэгъу'''",
-            "translation": "This boy '''is my peer'''."
-          }
-        ]
-      }
-    ],
-    "synonyms": [
-      "ныбжьэгъу"
-    ],
-    "type": "noun",
-    "ipa": "laʁʷ"
   },
   {
     "word": "гъэлэжьэн",
@@ -72451,18 +72698,6 @@
     ],
     "type": "noun",
     "ipa": "psəqajfax"
-  },
-  {
-    "word": "шыкъолэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "zebra",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ʃəqʷalan"
   },
   {
     "word": "цэхь Фэш1ын",
@@ -86012,6 +86247,10 @@
           {
             "sentence": "'''Укъэмыц1'''",
             "translation": "'''Don't shit'''."
+          },
+		  {
+            "sentence": "Уихьэ '''зыц1ык1э''' ихьай къэбыштэжьын фай гъогур угъэкъэбзэжьынэу",
+            "translation": "'''When''' your dog '''takes a shit''', you need to lift its shit to clean up the road."
           }
         ]
       }
@@ -118526,12 +118765,25 @@
             "translation": "I heard good '''news'''."
           },
 		  {
-            "sentence": "Л1ыхэмэ '''къэбар''' къа1уатэ",
-            "translation": "The men are telling '''news'''."
-          },
-		  {
             "sentence": "К1алэр '''тикъэбар''' к1эдэ1ук1ыгъ",
             "translation": "The boy listened to '''our conversation'''."
+          }
+        ]
+      },
+      {
+        "meaning": "chatter; chat (informal conversation)",
+        "examples": [
+		  {
+            "sentence": "Л1ыхэмэ '''къэбар''' къа1уатэ",
+            "translation": "The men are having a '''chatter'''."
+          },
+		  {
+            "sentence": "Л1ым хьак1эхэмэ '''къэбар''' къаде1уатэ",
+            "translation": "The man is having a '''chatter''' with the guests."
+          },
+		  {
+            "sentence": "Тучаным сы1ут Куджаным '''къэбар''' къыдэсэ1уатэу",
+            "translation": "I am near the shop having '''chatter''' with Kujan."
           }
         ]
       },
@@ -134687,6 +134939,10 @@
 		  {
             "sentence": "Джэгум Буг бащэ '''хагъэхьагъ'''",
             "translation": "'''They added''' too many bugs in the game."
+          },
+		  {
+            "sentence": "Уикод мы сатырыр '''хагъахь'''",
+            "translation": "'''Add''' this line into your code."
           }
         ]
       },
@@ -134709,6 +134965,15 @@
           {
             "sentence": "Хэгъэгур заом '''хэгъэхьан'''",
             "translation": "'''To involve''' a country '''into''' the war."
+          }
+        ]
+      },
+	  {
+        "meaning": "to insert into; to merge something into; to make something go into (forest, plants, objects, people); to make someone go into an area of some mass (liquid, solid or gas), to make someone go through, to make someone go within",
+        "examples": [
+		  {
+            "sentence": "Пшъашъэм ы1э мастэ '''хагъахьи''' лъы хашъугъ",
+            "translation": "'''They inserted''' needle into the girl's arm and extracted blood."
           }
         ]
       }
