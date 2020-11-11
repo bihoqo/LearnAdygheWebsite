@@ -143,7 +143,20 @@
     "definitions": [
       {
         "meaning": "eight",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Пицэр налъ'''иеу''' гошын",
+            "translation": "To split the pizza into '''eight''' pieces."
+          },
+		  {
+            "sentence": "Ц1ыфы '''и''' унэм ис",
+            "translation": "There are '''eight''' people in the house."
+          },
+		  {
+            "sentence": "Нэбгыр'''ий''' кум ифэщтэп",
+            "translation": "'''Eight''' people will not fit in the car."
+          }
+        ]
       }
     ],
     "type": "num",
@@ -4706,6 +4719,10 @@
 		  {
             "sentence": "Мэзым '''сыпхырык1ыгъ'''",
             "translation": "'''I passed through''' the forest."
+          },
+		  {
+            "sentence": "Щэбзащэр ашъом '''пхырык1ыгъ'''",
+            "translation": "The arrow '''passed through''' the chain mail."
           }
         ]
       }
@@ -11990,6 +12007,10 @@
           {
             "sentence": "Л1ым '''щэбзащэр''' мы1эрысэм теутыгъ",
             "translation": "The man stroke '''the arrow''' into the apple."
+          },
+		  {
+            "sentence": "'''Щэбзащэр''' ашъом пхырык1ыгъ",
+            "translation": "'''The arrow''' passed through the chain mail."
           }
         ]
       }
@@ -13591,7 +13612,16 @@
       },
       {
         "meaning": "six",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Налъ'''их''' пицэм хэсхыгъ",
+            "translation": "I took '''six''' pieces from the pizza."
+          },
+		  {
+            "sentence": "Нэбгыр'''их''' кум ифэщтэп",
+            "translation": "'''Six''' people won't fit in the car."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -20388,6 +20418,14 @@
 		  {
             "sentence": "Къэк1орэ мазэм '''хэгъэгум''' сик1ыщт",
             "translation": "Next month I will go out '''the country'''."
+          },
+		  {
+            "sentence": "Сыд '''хэгъэгу''' узщыщэр?",
+            "translation": "To what '''country''' you belong?"
+          },
+		  {
+            "sentence": "'''Хэгъэгуит1ур''' зэзаох",
+            "translation": "'''The two countries''' are fighting each other."
           }
         ]
       }
@@ -20447,8 +20485,8 @@
         "meaning": "mosquito",
         "examples": [
 		  {
-            "sentence": "'''Аргъоихэр''' къысаох",
-            "translation": "'''The mosquitos''' are stinging me."
+            "sentence": "'''Аргъоихэр''' къысэцакъэх",
+            "translation": "'''The mosquitos''' are biting me."
           }
         ]
       }
@@ -20523,6 +20561,10 @@
 		  {
             "sentence": "'''Армэур''' къэсфэгъэхъыерэп, сыгъэлэжьэшъурэп",
             "translation": "I can't make '''the lazy one''' move, I can't make him work."
+          },
+		  {
+            "sentence": "К1элэ '''армэу'''",
+            "translation": "'''Lazy''' boy."
           }
         ]
       }
@@ -20592,6 +20634,15 @@
           {
             "sentence": "К1алэр бэрэ еджагъ, '''арэущтэу''' экзамыныр дэгъу ыш1ыгъ",
             "translation": "The boy studied a lot, '''and so''' he did the exam well."
+          }
+        ]
+      },
+	  {
+        "meaning": "in that way",
+        "examples": [
+          {
+            "sentence": "'''Арэущтэу''' дэгъоу уеджэмэ, экзамыныр бэ къирхыщт",
+            "translation": "If you study good '''like that''', you will get a lot in the exam."
           }
         ]
       }
@@ -20783,7 +20834,7 @@
         "meaning": "to replace, to change something with something else",
         "examples": [
           {
-            "sentence": "Илъэс къэсы мэлажэхэрэ '''зэблэхъух'''",
+            "sentence": "Илъэс къэсы ц1ыфэу лажэхэрэр '''зэблэхъух'''",
             "translation": "Every year the people that are working '''are changing'''."
           },
           {
@@ -20893,6 +20944,49 @@
     "ipa": "pt͡ʃanəχʷ"
   },
   {
+    "word": "к1апсэрык1о",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"к1эпсэрык1о\"",
+        "examples": []
+      }
+    ],
+    "kabardian": "к1апсэрык1о",
+    "type": "noun",
+    "ipa": "t͡ʃʼaːpsarəkʷʼa"
+  },
+  {
+    "word": "к1эпсэрык1о",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "ropewalker; rope-walker; tightrope walker, funambulist",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "к1эпсэрышъу"
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃʼapsarəkʷʼa"
+  },
+  {
+    "word": "к1эпсэрышъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "rope-walker",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "к1эпсэрык1о"
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃʼapsarəʃʷ"
+  },
+  {
     "word": "ачъэгъашъу",
     "lang": "Adyghe",
     "definitions": [
@@ -20936,18 +21030,97 @@
         "examples": []
       }
     ],
-    "type": "adj"
+    "type": "adj",
+    "ipa": "aːʃʷaməʃʼ"
+  },
+  {
+    "word": "псэук1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "living style; way of living; manner of living",
+        "examples": [
+          {
+            "sentence": "Пасэм ц1ыфыхэмэ '''япсэук1э''' къиныгъ",
+            "translation": "In the past, the '''way''' people '''lived''' was hard."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "щы1ак1э"
+    ],
+    "type": "noun",
+    "ipa": "psawət͡ʃʼa"
+  },
+  {
+    "word": "щы1ак1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "living style; way of living; manner of living",
+        "examples": [
+          {
+            "sentence": "Пасэм ц1ыфыхэмэ '''ящы1ак1э''' къиныгъ",
+            "translation": "In the past, the '''way''' people '''lived''' was hard."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "псэук1э"
+    ],
+    "type": "noun",
+    "ipa": "ɕəʔaːt͡ʃʼa"
+  },
+  {
+    "word": "ижъырэм",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "in ancient times; in old times",
+        "examples": [
+          {
+            "sentence": "'''Ижъырэм''' ц1ыфыхэмэ ящы1ак1э къиныгъ",
+            "translation": "'''In the past''', the way people lived was hard."
+          }
+        ]
+      }
+    ],
+    "type": "adv",
+    "ipa": "paːsam"
+  },
+  {
+    "word": "пасэм",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "in ancient times; in old times",
+        "examples": [
+          {
+            "sentence": "'''Пасэм''' ц1ыфыхэмэ ящы1ак1э къиныгъ",
+            "translation": "'''In the past''', the way people lived was hard."
+          }
+        ]
+      }
+    ],
+    "type": "adv",
+    "ipa": "paːsam"
   },
   {
     "word": "ашъо",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "chain mail, hauberk",
+        "meaning": "chain mail; chain armor; hauberk",
         "examples": [
           {
             "sentence": "'''Ашъор''' щыгъ, мэ1ур ы1ыгъ",
             "translation": "He wears the '''chain mail''', he holds the shield."
+          },
+		  {
+            "sentence": "Щэбзащэр '''ашъом''' пхырык1ыгъ",
+            "translation": "The arrow passed through '''the chain mail'''."
           }
         ]
       }
@@ -20962,9 +21135,15 @@
     "definitions": [
       {
         "meaning": "tank (armored fighting vehicle)",
-        "examples": [],
-        "tags": [
-          "armoured fighting vehicle"
+        "examples": [
+          {
+            "sentence": "Дзэм '''ашъокухэр''' къегъэк1ох",
+            "translation": "The army sends the '''tanks'''."
+          },
+		  {
+            "sentence": "'''Ашъокур''' уагъэ",
+            "translation": "'''The tank''' shot."
+          }
         ]
       }
     ],
@@ -21035,13 +21214,39 @@
     "ipa": "t͡ʂʼəpʼa"
   },
   {
-    "word": "бгъодэт",
+    "word": "готын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "side",
+        "meaning": "to stand besides; to be stand on the side of",
+        "examples": []
+      },
+	  {
+        "meaning": "to be besides; to be on the side of",
         "examples": []
       }
+    ],
+    "synonyms": [
+      "бгъодэтын"
+    ],
+    "type": "noun",
+    "ipa": "gʷatən"
+  },
+  {
+    "word": "бгъодэтын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to stand besides; to be stand on the side of",
+        "examples": []
+      },
+	  {
+        "meaning": "to be besides; to be on the side of",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "готын"
     ],
     "type": "noun",
     "ipa": "bʁʷadad"
@@ -21059,15 +21264,60 @@
     "ipa": "məʐʷa-pʃaχʷa zaxaɬ"
   },
   {
+    "word": "дэгъуп1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "the best part",
+        "examples": [
+          {
+            "sentence": "Лым '''идэгъуп1э'''",
+            "translation": "'''The best part of''' the meat."
+          },
+		  {
+            "sentence": "Фылымым '''идэгъуп1э'''",
+            "translation": "'''The best part of''' the film."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "ш1уп1э"
+    ],
+    "type": "noun",
+    "ipa": "daʁʷəpʼa"
+  },
+  {
+    "word": "ш1уп1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "the best part",
+        "examples": [
+          {
+            "sentence": "Лым '''иш1уп1э'''",
+            "translation": "'''The best part of''' the meat."
+          },
+		  {
+            "sentence": "Фылымым '''иш1уп1э'''",
+            "translation": "'''The best part of''' the film."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "дэгъуп1э"
+    ],
+    "type": "noun",
+    "ipa": "ʃʷʼpʼa"
+  },
+  {
     "word": "купсэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "The soft internal portion of bread which is surrounded by crust; the crumb.",
-        "examples": [],
-        "tags": [
-          "Compare the German term Krume and the French term mie."
-        ]
+        "meaning": "The soft internal portion of bread which is surrounded by crust; the crumb",
+        "examples": []
       },
       {
         "meaning": "middle",
@@ -21083,23 +21333,20 @@
     "definitions": [
       {
         "meaning": "corner",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''къурнэм''' къоуцуагъ",
+            "translation": "The boy went and stood in '''the corner'''."
+          },
+		  {
+            "sentence": "Пхъэнк1ыпхъэр '''къурнэм''' къолъ",
+            "translation": "The broom is in '''the corner'''."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "qʷərna"
-  },
-  {
-    "word": "къуахъо",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "pitchfork",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "qʷaːχʷa"
   },
   {
     "word": "1эк1ап",
@@ -21140,7 +21387,41 @@
     "definitions": [
       {
         "meaning": "one",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Зы''' хьак1эу ти1эр",
+            "translation": "We have '''one''' guest."
+          },
+		  {
+            "sentence": "'''Зы''' налъэ пицэм хэсхыгъ",
+            "translation": "I took '''one''' piece from the pizza."
+          },
+		  {
+            "sentence": "Хьалыгъу '''зы''' къэнэжьыгъэр ны1эп",
+            "translation": "Only '''one''' bread left."
+          },
+		  {
+            "sentence": "'''Зы''' нэбгыр унэм ис",
+            "translation": "There is '''one''' individual in the house."
+          }
+        ]
+      },
+	  {
+        "meaning": "once; one time",
+        "examples": [
+		  {
+            "sentence": "Америкэм '''зы''' зэрэсык1уагъэр",
+            "translation": "I went to America '''one time'''."
+          },
+		  {
+            "sentence": "'''Зым''' нахь бэрэ фылымым сеплъыгъ",
+            "translation": "I watched the movie more than '''once'''."
+          },
+		  {
+            "sentence": "Пшъашъэр тхылъым '''зырэ''' еджагъ",
+            "translation": "The girl read the book '''one time'''."
+          }
+        ]
       }
     ],
     "type": "num",
@@ -21152,7 +21433,41 @@
     "definitions": [
       {
         "meaning": "two",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Т1у''' хьак1эхэу ти1эр",
+            "translation": "We have '''two''' guests."
+          },
+		  {
+            "sentence": "Налъ'''ит1у''' пицэм хэсхыгъ",
+            "translation": "I took '''two''' pieces from the pizza."
+          },
+		  {
+            "sentence": "Хьалыгъу '''т1у''' къэнэжьыгъэр ны1эп",
+            "translation": "Only '''two''' bread left."
+          },
+		  {
+            "sentence": "Нэбгыр'''ит1у''' щагум дэт",
+            "translation": "There are '''two''' people in the yard."
+          }
+        ]
+      },
+	  {
+        "meaning": "twice; two times",
+        "examples": [
+		  {
+            "sentence": "Туркуям '''т1у''' зэрэсык1уагъэр",
+            "translation": "I went to Turkey '''two times'''."
+          },
+		  {
+            "sentence": "'''Т1ум''' нахь бэрэ фылымым сеплъыгъ",
+            "translation": "I watched the movie more than '''twice'''."
+          },
+		  {
+            "sentence": "Пшъашъэр тхылъым '''т1урэ''' еджагъ",
+            "translation": "The girl read the book '''two times'''."
+          }
+        ]
       }
     ],
     "type": "num",
@@ -21164,7 +21479,41 @@
     "definitions": [
       {
         "meaning": "three",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Щы''' хьак1эхэу ти1эр",
+            "translation": "We have '''three''' guests."
+          },
+		  {
+            "sentence": "Налъ'''ищ''' пицэм хэсхыгъ",
+            "translation": "I took '''three''' pieces from the pizza."
+          },
+		  {
+            "sentence": "Хьалыгъу '''щы''' къэнэжьыгъэр ны1эп",
+            "translation": "Only '''three''' bread left."
+          },
+		  {
+            "sentence": "Нэбгыр'''ищ''' кум ис",
+            "translation": "There are '''three''' people in the car."
+          }
+        ]
+      },
+	  {
+        "meaning": "thrice; three times",
+        "examples": [
+		  {
+            "sentence": "Къэфкъазым '''щы''' зэрэсык1уагъэр",
+            "translation": "I went to Kafkaz '''three times'''."
+          },
+		  {
+            "sentence": "'''Щым''' нахь бэрэ фылымым сеплъыгъ",
+            "translation": "I watched the movie more than '''three times'''."
+          },
+		  {
+            "sentence": "Пшъашъэр тхылъым '''щырэ''' еджагъ",
+            "translation": "The girl read the book '''three times'''."
+          }
+        ]
       }
     ],
     "type": "num",
@@ -21176,7 +21525,24 @@
     "definitions": [
       {
         "meaning": "four",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "1оф'''ипл1''' тыш1эн фаеу ти1",
+            "translation": "We have '''four''' jobs to do."
+          },
+		  {
+            "sentence": "Налъ'''ипл1''' пицэм хэсхыгъ",
+            "translation": "I took '''four''' pieces from the pizza."
+          },
+		  {
+            "sentence": "Хьалыгъу '''пл1ы''' къэнэжьыгъэр ны1эп",
+            "translation": "Only '''four''' bread left."
+          },
+		  {
+            "sentence": "Нэбгыр'''ипл1''' кум ис",
+            "translation": "There are '''four''' people in the car."
+          }
+        ]
       }
     ],
     "type": "num",
@@ -21188,7 +21554,20 @@
     "definitions": [
       {
         "meaning": "five",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Налъ'''итф''' пицэм хэсхыгъ",
+            "translation": "I took '''five''' pieces from the pizza."
+          },
+		  {
+            "sentence": "Хьалыгъу '''тфы''' къэнэжьыгъэр ны1эп",
+            "translation": "Only '''five''' bread left."
+          },
+		  {
+            "sentence": "Нэбгыр'''итф''' кум ис",
+            "translation": "There are '''five''' people in the car."
+          }
+        ]
       }
     ],
     "kabardian": "тху",
@@ -21201,7 +21580,20 @@
     "definitions": [
       {
         "meaning": "seven",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Налъ'''ибл''' пицэм хэсхыгъ",
+            "translation": "I took '''seven''' pieces from the pizza."
+          },
+		  {
+            "sentence": "Ц1ыфы '''блэу''' унэм тис",
+            "translation": "We are '''seven''' people in the house."
+          },
+		  {
+            "sentence": "Нэбгыр'''ибл''' кум ифэщтэп",
+            "translation": "'''Seven''' people will not fit in the car."
+          }
+        ]
       }
     ],
     "type": "num",
@@ -21226,7 +21618,16 @@
       },
       {
         "meaning": "nine",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Ц1ыфы '''бгъу''' унэм ис",
+            "translation": "There are '''nine''' people in the house."
+          },
+		  {
+            "sentence": "Нэбгыр'''ибгъу''' кум ифэщтэп",
+            "translation": "'''Nine''' people will not fit in the car."
+          }
+        ]
       },
       {
         "meaning": "wide",
@@ -21242,7 +21643,16 @@
     "definitions": [
       {
         "meaning": "ten",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Ц1ыфы '''пш1ы''' унэм ис",
+            "translation": "There are '''ten''' people in the house."
+          },
+		  {
+            "sentence": "Нэбгыр'''ипш1''' кум ифэщтэп",
+            "translation": "'''Ten''' people will not fit in the car."
+          }
+        ]
       }
     ],
     "kabardian": "пщ1ы",
@@ -21425,7 +21835,16 @@
     "definitions": [
       {
         "meaning": "plague",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ыр '''емынэм''' ыхьыгъ",
+            "translation": "'''The plague''' took the man."
+          },
+          {
+            "sentence": "'''Емынэм''' уехь",
+            "translation": "May '''the plague''' take you."
+          }
+        ]
       },
       {
         "meaning": "(Kfar Kama dialect) (slang) a lot (of)",
@@ -21438,15 +21857,65 @@
             "sentence": "К1элэ '''емынэм''' е1о ар",
             "translation": "'''a lot''' of boys say that."
           }
-        ],
-        "tags": [
-          "Kfar Kama dialect",
-          "slang"
         ]
       }
     ],
-    "type": "adj",
+    "type": "noun",
     "ipa": "jaməna"
+  },
+  {
+    "word": "тэлау",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "plague",
+        "examples": [
+          {
+            "sentence": "Л1ыр '''тэлаум''' ыхьыгъ",
+            "translation": "'''The plague''' took the man."
+          },
+          {
+            "sentence": "'''Тэлаум''' уехь",
+            "translation": "May '''the plague''' take you."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "taɮaːw"
+  },
+  {
+    "word": "къелын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to remain, to be left",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "qajɮən"
+  },
+  {
+    "word": "пхъащэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "journey to bring wood from the forest or fields",
+        "examples": [
+          {
+            "sentence": "К1алэр '''пхъащэ''' к1уагъэ",
+            "translation": "The boy went '''to bring wood'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "a person that sells woods",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "pχaːɕa"
   },
   {
     "word": "цу",
@@ -21475,7 +21944,16 @@
     "definitions": [
       {
         "meaning": "booger",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм ыпэ '''пэцуйхэр''' илъых",
+            "translation": "The boy has '''boogers''' in his nose."
+          },
+		  {
+            "sentence": "К1алэм ыпэ '''пэцуйхэр''' къырехы",
+            "translation": "The boy takes out '''boogers''' from his nose."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -21508,11 +21986,16 @@
     "definitions": [
       {
         "meaning": "clothespin",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Джанэр к1апсым пылъ '''дэгъэналъэхэмк1э'''",
+            "translation": "The shirt is hanged on the rope '''with clothespins'''."
+          }
+        ]
       }
     ],
     "type": "noun",
-    "ipa": "daʁnaːɬa"
+    "ipa": "daʁanaːɬa"
   },
   {
     "word": "куу",
@@ -21528,6 +22011,10 @@
           {
             "sentence": "'''Куоу''' ухэмыхь",
             "translation": "Don't go '''deeply'''."
+          },
+          {
+            "sentence": "К1алэр мэзым '''куущэу''' хэхьагъ",
+            "translation": "The boy entered the forest '''too deeply'''."
           }
         ]
       }
@@ -21631,17 +22118,33 @@
     "ipa": "bʁaːɬa"
   },
   {
+    "word": "цунтхъак1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "predator (beast)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃʷəntχaːkʷʼ"
+  },
+  {
     "word": "бгъашхъо",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "hawk",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Бгъашхъор''' къебыбэхи чэтжъыер ехьыгъ",
+            "translation": "'''The hawk''' flew down and took the chick."
+          }
+        ]
       }
     ],
-    "synonyms": [
-      "бгъашъухъо"
-    ],
+    "shapsug": "бгъашъухъо",
+    "kabardian": "бгъашхъо",
     "type": "noun",
     "ipa": "bʁaːʃχʷa"
   },
@@ -21653,7 +22156,7 @@
         "meaning": "to go away from the side of something",
         "examples": [
           {
-            "sentence": "'''Къызбгъодэк1'''.",
+            "sentence": "'''Къэзбгъодэк1'''.",
             "translation": "'''Go away from me'''."
           },
           {
@@ -21768,7 +22271,12 @@
     "definitions": [
       {
         "meaning": "full; having eaten enough, having eaten to satisfaction",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''бакъмэрэу''' зиш1ыгъ",
+            "translation": "The boy made himself '''full'''."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -21804,8 +22312,16 @@
     "definitions": [
       {
         "meaning": "weak-sighted",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ы '''накъэм''' ерагъэу елъэгъу",
+            "translation": "The '''weak-sighted''' man barely sees."
+          }
+        ]
       }
+    ],
+    "synonyms": [
+      "набгъэ"
     ],
     "type": "adj",
     "ipa": "naːqa"
@@ -21816,6 +22332,19 @@
     "definitions": [
       {
         "meaning": "tick (an arachnid)",
+        "examples": [
+          {
+            "sentence": "К1алэм ышъхьац '''бамык1''' хэс",
+            "translation": "There is '''a tick''' on the boy's hair."
+          },
+		  {
+            "sentence": "'''Бамык1ым''' лъы к1ешъу",
+            "translation": "The '''tick''' sucks blood."
+          }
+        ]
+      },
+	  {
+        "meaning": "a person that clings to other people",
         "examples": []
       }
     ],
@@ -21827,8 +22356,34 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"бэнэн\"",
-        "examples": []
+        "meaning": "to fight against, to wrestle against, to brawl against, to tussle against",
+        "examples": [
+          {
+            "sentence": "К1алэм '''себэны'''",
+            "translation": "'''I am fighting''' with the boy."
+          },
+          {
+            "sentence": "К1алит1ур '''зэбэных'''",
+            "translation": "The two boys are '''fighting each other'''."
+          },
+          {
+            "sentence": "К1алэмрэ Куджанымрэ '''зэбэных'''",
+            "translation": "The boy and Kujan '''are brawling'''."
+          },
+          {
+            "sentence": "Уишъыпкъэу л1ыжъым '''уебэныщта?'''",
+            "translation": "Are you seriously '''gonna brawl''' an old-man?."
+          }
+        ]
+      },
+      {
+        "meaning": "to struggle against",
+        "examples": [
+          {
+            "sentence": "К1алэр узым '''ебэны'''",
+            "translation": "The boy '''is fighting (struggling)''' the disease."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -21839,7 +22394,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "a bang (the sound of a shot or impact)",
+        "meaning": "bang (the sound of a shot or impact)",
         "examples": []
       }
     ],
@@ -21943,30 +22498,30 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "too much, very much, too many",
+        "meaning": "too much, very much, too many, too often",
         "examples": [
           {
-            "sentence": "к1алэм ахъщэ '''бащэ''' и1",
+            "sentence": "К1алэм ахъщэ '''бащэ''' и1",
             "translation": "The boy has '''too much''' money."
           },
           {
-            "sentence": "'''бащэрэ''' уиунэ сыкъак1о",
+            "sentence": "'''Бащэрэ''' уиунэ сыкъак1о",
             "translation": "I am coming to your house '''too much'''."
           },
           {
-            "sentence": "к1элэ '''бащэм''' е1о ар",
-            "translation": "'''Too many''' of the boys say that."
+            "sentence": "Ц1ыф '''бащэ''' сымэджагъэ",
+            "translation": "'''Too many''' people got sick."
           },
           {
-            "sentence": "сабый '''бащэ''' уи1",
-            "translation": "You have '''too many''' children."
+            "sentence": "Гъэучъы1алъэ '''бащэ''' уи1",
+            "translation": "You have '''too many''' refrigerators."
           },
           {
-            "sentence": "'''бащэм''' е1о ар",
+            "sentence": "'''Бащэм''' е1о ар",
             "translation": "'''Too many people''' say that."
           },
 		  {
-            "sentence": "'''пк1ант1э''' '''бащэ''' къыохымэ угъушъыщт",
+            "sentence": "Пк1ант1э '''бащэ''' къыохымэ угъушъыщт",
             "translation": "If you sweat '''too much''' you will get dehydrated."
           }
         ]
@@ -21984,6 +22539,7 @@
         "examples": []
       }
     ],
+    "ipa": "bɣaːɮ",
     "type": "noun"
   },
   {
@@ -21992,9 +22548,15 @@
     "definitions": [
       {
         "meaning": "head-piece",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Зэол1ым '''тандж''' телъ",
+            "translation": "The warrior has a '''head-piece''' on."
+          }
+        ]
       }
     ],
+    "ipa": "taːnd͡ʒ",
     "type": "noun"
   },
   {
@@ -22076,7 +22638,20 @@
       },
       {
         "meaning": "root (plant's root)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Къэгъагъэм '''ылъапсэ''' ",
+            "translation": "The '''root''' of a flower."
+          },
+		  {
+            "sentence": "К1алэм уцым '''ылъапсэ''' ч1ыгум къыхитхъыгъ",
+            "translation": "The boy pulled the plant's '''root''' out of the ground."
+          },
+		  {
+            "sentence": "Уцыр '''ылъапсэк1э''' псы ешъо",
+            "translation": "A plant consumes water '''with its root'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -22087,7 +22662,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "truth",
+        "meaning": "truth; true",
         "examples": [
           {
             "sentence": "'''Шъыпкъэр''', къэсфэ1уат",
@@ -22096,6 +22671,18 @@
           {
             "sentence": "Мо к1алэр '''шъыпкъэ''' закъу къы1уатэрэр",
             "translation": "That boy only tells '''truth'''."
+          },
+          {
+            "sentence": "'''Шъыпкъэр''' зэзгъэш1эн фай",
+            "translation": "I need to learn the '''truth'''."
+          },
+          {
+            "sentence": "'''Шъыпкъэу''' хъугъэр сылъэгъугъ",
+            "translation": "I saw what '''truly''' happened."
+          },
+          {
+            "sentence": "К1алэм къи1уагъэр '''щъыпкъа'''?",
+            "translation": "Is what the boy said '''true'''?"
           }
         ]
       },
@@ -22123,6 +22710,14 @@
           {
             "sentence": "К1элэ пщэрэр пчъэ '''зэжъум''' блэк1ышъурэп",
             "translation": "The fat boy can't walk pass the '''narrow''' door."
+          },
+		  {
+            "sentence": "Л1ым джэнэ '''зэжъу''' щилъагъ",
+            "translation": "The boy wore a '''narrow''' shirt."
+          },
+		  {
+            "sentence": "Мы цуакъэр '''зэжъущэ'''",
+            "translation": "This shoe is '''too narrow'''."
           }
         ]
       }
@@ -34268,7 +34863,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "cruel",
+        "meaning": "savage",
         "examples": []
       }
     ],
@@ -40594,8 +41189,16 @@
     "definitions": [
       {
         "meaning": "weak-sighted; myopic; a person having bad eye-sight",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ы '''набгъэм''' ерагъэу елъэгъу",
+            "translation": "The '''weak-sighted''' man barely sees."
+          }
+        ]
       }
+    ],
+    "synonyms": [
+      "накъэ"
     ],
     "type": "adj",
     "ipa": "naːbʁa"
@@ -83772,19 +84375,6 @@
     ],
     "type": "noun",
     "ipa": "ħaʃʷətə wəbaːt"
-  },
-  {
-    "word": "к1апсэрык1о",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "tightrope walker, funambulist",
-        "examples": []
-      }
-    ],
-    "kabardian": "к1апсэрык1уэ",
-    "type": "noun",
-    "ipa": "t͡ʃʼaːpsarəkʷʼa"
   },
   {
     "word": "зэ1эхьэн",

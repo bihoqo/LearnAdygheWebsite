@@ -3015,7 +3015,13 @@
     "unrecognized": "аш1омыш1"
   },
   {
+    "best part": "ш1упӏэ; дэгъупӏэ"
+  },
+  {
     "chain mail": "ашъо"
+  },
+  {
+    "chain armor": "ашъо"
   },
   {
     "hauberk": "ашъо"
@@ -3042,19 +3048,34 @@
     "gravel": "мыжъо-пшэхъо зэхэлъ; мыжъок1ашъхъ"
   },
   {
-    "pitchfork": "къуахъо"
-  },
-  {
     "tip": "цыпэ; нэз; цак1э"
   },
   {
     "one": "зы; лъэныкъо (one of a pair)"
   },
   {
+    "once": "зы"
+  },
+  {
+    "one time": "зы"
+  },
+  {
     "two": "т1у"
   },
   {
+    "twice": "т1у"
+  },
+  {
+    "two times": "т1у"
+  },
+  {
     "three": "щы"
+  },
+  {
+    "thrice": "щы"
+  },
+  {
+    "three times": "щы"
   },
   {
     "four": "пл1ы"
@@ -3111,7 +3132,7 @@
     "two thousand": "минит1у"
   },
   {
-    "plague": "емынэ; былымыл1э (cattle plague)"
+    "plague": "емынэ; былымыл1э (cattle plague); тэлау"
   },
   {
     "ox": "цу; мэзыцу (wild ox); быгъу (breeding bull)"
@@ -7255,10 +7276,13 @@
     "to plant": "хэлъхьан; гъэт1ысын / хэгъэт1ысыхьан; т1эн (Shapsug); хэт1эн (Shapsug); ч1элъхьан (to plant under the ground)"
   },
   {
-    "predator": "хьак1э-къуак1э"
+    "predator": "хьак1э-къуак1э; цунтхъак1у"
   },
   {
-    "beast": "хьак1э-къуак1э"
+    "beast": "хьак1э-къуак1э; цунтхъак1у"
+  },
+  {
+    "savage": "жъалым"
   },
   {
     "argument": "дао (law)"
@@ -9497,9 +9521,6 @@
   },
   {
     "herald": "гъоу"
-  },
-  {
-    "hood": "шъхьарыхъон"
   },
   {
     "cowl": "шъхьарыхъон"
@@ -12895,7 +12916,22 @@
     "sometimes": "загъорэ"
   },
   {
+    "living style": "щы1ак1э; псэук1э"
+  },
+  {
+    "way of living": "щы1ак1э; псэук1э"
+  },
+  {
     "at times": "загъорэ; зыуахътэ (in some times)"
+  },
+  {
+    "in ancient times": "зэманым; пасэм; ижъырэм"
+  },
+  {
+    "in old times": "зэманым; пасэм; ижъырэм"
+  },
+  {
+    "in the past": "зэманым; пасэм; ижъырэм"
   },
   {
     "sometime": "зыуахътэ (at an indefinite but stated time in the past or future); загъорэ (sometimes)"
@@ -14200,10 +14236,13 @@
     "to sculpture based off": "теш1ык1ын"
   },
   {
-    "tightrope walker": "к1апсэрык1о"
+    "ropewalker": "к1апсэрык1о; к1эпсэрышъу"
   },
   {
-    "funambulist": "к1апсэрык1о"
+    "tightrope walker": "к1апсэрык1о; к1эпсэрышъу"
+  },
+  {
+    "funambulist": "к1апсэрык1о; к1эпсэрышъу"
   },
   {
     "to suck": "к1эшъун; уцолъын"
@@ -16034,12 +16073,6 @@
   },
   {
     "slender": "гъонлагъэ; (Shapsug) гъолагъэ; одыжъые"
-  },
-  {
-    "earlobe": "тхьак1умак1"
-  },
-  {
-    "ear lobe": "тхьак1умак1"
   },
   {
     "shell": "хьамлашк1о"
