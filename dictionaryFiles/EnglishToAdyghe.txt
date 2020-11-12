@@ -12,6 +12,12 @@
     "y'all": "шъо"
   },
   {
+    "double-edged": "бгъуит1уц"
+  },
+  {
+    "two-edged": "бгъуит1уц"
+  },
+  {
     "to err": "хэгъощэн"
   },
   {
@@ -2184,6 +2190,9 @@
     "newborn": "къэхъугъак1"
   },
   {
+    "new-born": "къэхъугъак1"
+  },
+  {
     "tongs": "1адэ"
   },
   {
@@ -3342,9 +3351,6 @@
     "chest pocket": "бгъэджыб"
   },
   {
-    "baby, infant, suckling": "бгъэк1эс"
-  },
-  {
     "breast meat": "бгъэлыбэ (chicken or bird)"
   },
   {
@@ -3354,7 +3360,10 @@
     "sedge": "бгъэны; псыуц"
   },
   {
-    "tuberculosis": "жъэгъэуз; бгъэузы"
+    "tuberculosis": "жъэгъэуз"
+  },
+  {
+    "mastitis": "бгъэузы"
   },
   {
     "decoration": "гъэдэхэныр, гъэкIэрэкIэныр"
@@ -3394,6 +3403,9 @@
   },
   {
     "tunnel": "бгыгъуанэ"
+  },
+  {
+    "clog": "пхъэцуакъэ"
   },
   {
     "girder": "бгыкъу"
@@ -3639,7 +3651,7 @@
     "horn": "бжъэ; бжъакъо"
   },
   {
-    "hornless": "бжъако"
+    "hornless": "бжъако; къуако"
   },
   {
     "claw": "бжъанэ; лъэбжъанэ (leg); 1эбжъанэ (hand)"
@@ -15436,7 +15448,10 @@
     "to dress": "фэпэн; щылъэн (to dress oneself or dress someone else)"
   },
   {
-    "to wear": "щыгъын (to be wearing); щылъэн (to dress someone else); зыщылъэн (to wear something, to dress oneself)"
+    "to clothe": "щылъэн (to to clothe someone; to dress someone else); зыщылъэн (to wear something, to clothe oneself, to dress oneself)"
+  },
+  {
+    "to wear": "щыгъын (to be wearing); щылъэн (to to clothe someone; to dress someone else); зыщылъэн (to wear something, to clothe oneself, to dress oneself)"
   },
   {
     "quickly": "псынк1эу; ш1эхэу; елбэтэу (in a blink of an eye)"
@@ -17938,13 +17953,13 @@
     "meaningfulness": "пк1э"
   },
   {
-    "in vain": "хьаулый; пк1э зимы1э; пк1э и1эп; хьаулыеу; пк1энчъэу"
+    "in vain": "хьаулый; пк1э зимы1э; пк1э и1эп; хьаулыеу; пк1энчъэу; бедэхьау"
   },
   {
-    "for nothing": "хьаулый; пк1э зимы1э; пк1э и1эп; хьаулыеу; пк1энчъэу"
+    "for nothing": "хьаулый; пк1э зимы1э; пк1э и1эп; хьаулыеу; пк1энчъэу; бедэхьау"
   },
   {
-    "to no avail": "хьаулый; пк1э зимы1э; пк1э и1эп; хьаулыеу; пк1энчъэу"
+    "to no avail": "хьаулый; пк1э зимы1э; пк1э и1эп; хьаулыеу; пк1энчъэу; бедэхьау"
   },
   {
     "rifle": "шхонч; к1эрахъо"

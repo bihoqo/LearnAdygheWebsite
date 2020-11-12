@@ -22832,7 +22832,12 @@
     "definitions": [
       {
         "meaning": "to mold (food)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Хьалыгъур '''бгъотэн'''",
+            "translation": "'''To mold''' bread."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -22894,6 +22899,10 @@
         "meaning": "narrow",
         "examples": [
           {
+            "sentence": "Гъогу '''бгъуз'''",
+            "translation": "'''Narrow''' road."
+          },
+		  {
             "sentence": "Мыр бгъо нахь, '''бгъузэп'''",
             "translation": "This is rather wide, not '''narrow'''."
           }
@@ -22905,6 +22914,18 @@
     ],
     "type": "adj",
     "ipa": "bʁʷəza"
+  },
+  {
+    "word": "бгъуит1уц",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "double-edged; two-edged",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "bʁatjətʷʼət͡s"
   },
   {
     "word": "бгъуит1у1у",
@@ -22923,8 +22944,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "crooked, inclined, leaning",
-        "examples": []
+        "meaning": "slantwise, obliquely, aslant, askew, asquint ",
+        "examples": [
+          {
+            "sentence": "Сурэтыр '''бгъунджэу''' дэпкъым пылъагъ",
+            "translation": "The picture is hanged on the wall '''slantwise'''."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -22955,12 +22981,29 @@
     "ipa": "məʔʷəʃ"
   },
   {
+    "word": "орзэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"уарзэ\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "warza"
+  },
+  {
     "word": "бгъушы",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "hay",
-        "examples": []
+        "meaning": "straw, chaff from millet threshing",
+        "examples": [
+          {
+            "sentence": "'''Бгъушыр''' былымым ешхы",
+            "translation": "The cattle eats the '''straw'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -22996,11 +23039,39 @@
     "definitions": [
       {
         "meaning": "new building",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Чылэм '''бгъэгъак1э''' к1эхэр дэш1ыхтагъэх",
+            "translation": "They build '''new buildings''' in the village."
+          }
+        ]
       }
+    ],
+	"synonyms": [
+      "псэолъак1"
     ],
     "type": "noun",
     "ipa": "bʁaʁaːt͡ʃ"
+  },
+  {
+    "word": "псэолъак1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "new building",
+        "examples": [
+          {
+            "sentence": "Чылэм '''псэолъак1''' к1эхэр дэш1ыхтагъэх",
+            "translation": "They build '''new buildings''' in the village."
+          }
+        ]
+      }
+    ],
+	"synonyms": [
+      "бгъэгъак1"
+    ],
+    "type": "noun",
+    "ipa": "psawaɬat͡ʃʼ"
   },
   {
     "word": "бгъэджыб",
@@ -23032,8 +23103,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "newborn",
-        "examples": []
+        "meaning": "newborn; new-born",
+        "examples": [
+          {
+            "sentence": "'''Къэхъугъак1''' сабый",
+            "translation": "'''A newborn''' child."
+          },
+		  {
+            "sentence": "Куджаным '''къэхъугъак1э''' и1",
+            "translation": "Kujan has '''a newborn'''"
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -23044,7 +23124,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "baby, infant, newborn",
+        "meaning": "baby, infant",
         "examples": []
       }
     ],
@@ -23077,7 +23157,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "sedge",
+        "meaning": "sedge; carex",
         "examples": []
       }
     ],
@@ -23089,7 +23169,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "sedge",
+        "meaning": "sedge, carex",
         "examples": []
       }
     ],
@@ -23101,7 +23181,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "tuberculosis (disease)",
+        "meaning": "mastitis",
         "examples": []
       }
     ],
@@ -23184,7 +23264,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "curse, defamatory poetry, lash at a person",
+        "meaning": "vulgar language",
+        "examples": []
+      },
+	  {
+        "meaning": "defamatory poetry",
         "examples": []
       }
     ],
@@ -23197,23 +23281,60 @@
     "definitions": [
       {
         "meaning": "tunnel",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Лэжьак1охэмэ '''бгыгъуанэр''' бгым хат1ык1ы",
+            "translation": "The workers are digging '''the tunnel''' out of the hill."
+          },
+		  {
+            "sentence": "Кухэр '''бгыгъуанэк1э''' блэк1ых",
+            "translation": "The cars are passing '''through the tunnel'''."
+          },
+		  {
+            "sentence": "Бгым '''бгыгъуанэ''' фаш1ыгъ",
+            "translation": "They did '''a tunnel''' to the hill."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "bɣəʁʷaːn"
   },
   {
+    "word": "унэпкъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "home structure",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "wnapq"
+  },
+  {
     "word": "бгыкъу",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "beam, girder, bar, baulk",
+        "meaning": "beam, girder (a beam of steel, wood, or reinforced concrete, used as a main horizontal support in a building or structure)",
         "examples": []
       }
     ],
     "type": "noun",
     "ipa": "bɣəqʷ"
+  },
+  {
+    "word": "пхъэцуакъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "clog (a type of shoe with an inflexible, often wooden sole sometimes with an open heel)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "pχat͡ʃʷaːq"
   },
   {
     "word": "пхъэцу",
@@ -23248,6 +23369,9 @@
         "examples": []
       }
     ],
+	"synonyms": [
+      "1ошъхьалъэ"
+    ],
     "type": "noun",
     "ipa": "bɣəɬa"
   },
@@ -23260,8 +23384,23 @@
         "examples": []
       }
     ],
+	"synonyms": [
+      "бгылъэ"
+    ],
     "type": "noun",
     "ipa": "ʔʷaʂħaːɬa"
+  },
+  {
+    "word": "ныбэ-т1ыб",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "full belly",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "nəba-tʼəb"
   },
   {
     "word": "т1ыбгы-сыбг",
@@ -23293,11 +23432,16 @@
     "definitions": [
       {
         "meaning": "beltless",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''бгынт1эу''' къыдэк1ыгъ",
+            "translation": "The boy went out '''beltlessly'''."
+          }
+        ]
       }
     ],
     "type": "adj",
-    "ipa": "bɣəntˤʼa"
+    "ipa": "bɣəntʼa"
   },
   {
     "word": "бгынэжьыгъэ",
@@ -23326,7 +23470,7 @@
             "translation": "The man '''abandoned''' his family."
           },
           {
-            "sentence": "Л1ым ичылэ '''ыбгыни''', къалэм к1уагъэ",
+            "sentence": "Л1ым ичылэ '''ыбгыни''' къалэм к1уагъэ",
             "translation": "The man '''left''' his village and moved to the city."
           }
         ]
@@ -23373,6 +23517,10 @@
 		  {
             "sentence": "Убг '''бгырыпх''' илъхь",
             "translation": "Put '''a belt''' on your waist."
+          },
+		  {
+            "sentence": "Л1ым '''бгырыпх''' ыбгы ш1уилъхьагъ",
+            "translation": "The man put '''belt''' on his waist."
           }
         ]
       }
@@ -23417,7 +23565,8 @@
         "examples": []
       }
     ],
-    "type": "noun"
+    "type": "noun",
+    "ipa": "bɣəwaːn"
   },
   {
     "word": "бгыч1э",
@@ -23475,7 +23624,7 @@
         "meaning": "for nothing, in vain (to no avail or benefit)",
         "examples": [
           {
-            "sentence": "'''бедэхьау''' уш1эрэ",
+            "sentence": "'''бедэхьау''' уш1эрэр",
             "translation": "What you are doing is '''for nothing'''."
           },
           {
@@ -23589,11 +23738,33 @@
     "definitions": [
       {
         "meaning": "hornless",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Чэм '''бжъако'''",
+            "translation": "'''Hornless''' cow."
+          }
+        ]
       }
     ],
     "type": "adj",
     "ipa": "bʐaːkʷa"
+  },
+  {
+    "word": "къуако",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "hornless",
+        "examples": [
+          {
+            "sentence": "Чэм '''къуако'''",
+            "translation": "'''Hornless''' cow."
+          }
+        ]
+      }
+    ],
+    "type": "adj",
+    "ipa": "qʷaːkʷa"
   },
   {
     "word": "бэкъылао",
@@ -23612,14 +23783,14 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to waste (kill) someone",
+        "meaning": "(slang) to waste someone (to kill someone)",
         "examples": [
           {
             "sentence": "К1алэм л1ыр '''ыгъэшъуягъ'''",
             "translation": "The boy '''wasted''' the man."
           },
           {
-            "sentence": "Нэбгит1у '''сыгъэшъуягъэх'''",
+            "sentence": "Нэбгырит1у '''сыгъэшъуягъэх'''",
             "translation": "'''I wasted''' two people."
           }
         ]
@@ -23652,12 +23823,24 @@
         "meaning": "luck",
         "examples": [
           {
-            "sentence": "'''насып''' си1",
-            "translation": "I have '''luck''' - I was '''lucky'''."
+            "sentence": "'''Насып''' экзаменымк1э уи1агъэп",
+            "translation": "You were not '''lucky''' in the exam."
+          },
+		  {
+            "sentence": "'''Насып''' си1",
+            "translation": "I have '''luck''' (I am '''lucky''')."
+          },
+		  {
+            "sentence": "'''Насып''' си1эп",
+            "translation": "I have no '''luck'''."
+          },
+		  {
+            "sentence": "'''Насыпк1э''' к1ако зыщыслъагъ, амырмэ чъы1э сыл1эщтыгъ",
+            "translation": "'''Luckily''' I wore a coat, otherwise I would be cold."
           },
           {
-            "sentence": "'''насыпк1э''' хьа1ур сышхыгъэп",
-            "translation": "'''Lucky''' I didn't eat the mushroom."
+            "sentence": "'''Насыпк1э''' хьа1ур сышхыгъэп",
+            "translation": "'''Luckily''' I didn't eat the mushroom."
           },
 		  {
             "sentence": "Л1ым '''насып''' ыгъотыгъ",
@@ -23680,11 +23863,11 @@
         "meaning": "enemy",
         "examples": [
           {
-            "sentence": "к1алэм л1ыр '''ипый'''",
-            "translation": "The man is the boy's enemy."
+            "sentence": "К1алэм л1ыр '''ипый'''",
+            "translation": "The man is the boy's '''enemy'''."
           },
           {
-            "sentence": "л1ымрэ к1алэмрэ '''зэпыих'''",
+            "sentence": "Л1ымрэ к1алэмрэ '''зэпыих'''",
             "translation": "The boy and the man are '''enemies'''."
           },
           {
@@ -23766,7 +23949,12 @@
     "definitions": [
       {
         "meaning": "halter",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Л1ым шым шхор тырихи '''нахъутэ''' тырилъхьагъ",
+            "translation": "The man put the bridle off the horse and put '''the halter''' on it."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -23780,15 +23968,15 @@
         "meaning": "saddle",
         "examples": [
           {
-            "sentence": "ишы '''уанэ''' трелхьэ",
-            "translation": "He put '''saddle''' on his horse."
+            "sentence": "Ишы '''уанэ''' трелхьэ",
+            "translation": "He puts '''saddle''' on his horse."
           },
           {
-            "sentence": "шым '''уанэ''' телъ",
+            "sentence": "Шым '''уанэ''' телъ",
             "translation": "There is a '''saddle''' on the horse."
           },
 		  {
-            "sentence": "щым '''уанэ''' л1ым трелъхьэ",
+            "sentence": "Шым '''уанэ''' л1ым трелъхьэ",
             "translation": "The man puts '''saddle''' on the horse."
           },
 		  {
@@ -23807,10 +23995,7 @@
     "definitions": [
       {
         "meaning": "Akhen (Circassian (pagan) god of cattle)",
-        "examples": [],
-        "tags": [
-          "Circassian (pagan) god of cattle"
-        ]
+        "examples": []
       }
     ],
     "type": "name",
@@ -23821,7 +24006,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to shake",
+        "meaning": "to shake; to tremble",
         "examples": [
           {
             "sentence": "К1алэр ешъуи '''зазэу''' ыублагъ",
@@ -23843,6 +24028,10 @@
 		  {
             "sentence": "Сиконтролер '''мэзазэ'''",
             "translation": "My controller '''vibrates'''."
+          },
+		  {
+            "sentence": "Сителефон къытеохэмэ '''мэзазэ'''",
+            "translation": "When they call my phone '''it vibrates'''."
           }
         ]
       }
@@ -23855,7 +24044,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to shake, to make someone or something to shake",
+        "meaning": "to shake; to tremble; to make someone or something to shake",
         "examples": [
           {
             "sentence": "К1алэм 1анэр '''егъэзазэ'''",
@@ -23896,6 +24085,37 @@
     ],
     "type": "verb",
     "ipa": "maqarqatan"
+  },
+  {
+    "word": "зэ1ук1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to become opened",
+        "examples": [
+          {
+            "sentence": "Пчъэр '''зэ1ук1ыгъ'''",
+            "translation": "The door '''opened'''."
+          },
+          {
+            "sentence": "Къэлэпчъэжъыер '''зэ1ук1ыгъ'''",
+            "translation": "The wicket gate '''opened'''."
+          }
+        ]
+      },
+      {
+        "meaning": "to lost one's mind, to get crazy",
+        "examples": [
+          {
+            "sentence": "К1алэр '''зэгок1ыгъ'''",
+            "translation": "The boy '''gone crazy'''."
+          }
+        ]
+      }
+    ],
+    "shapsug": "зэ1ук1ьын",
+    "type": "verb",
+    "ipa": "zaʔʷət͡ʃʼən"
   },
   {
     "word": "зэгок1ын",
@@ -23982,6 +24202,14 @@
           {
             "sentence": "Л1ым к1алит1у зэзаохэрэр '''зэпигъэк1ыжьыгъэх'''",
             "translation": "The man '''separated''' the two boy that were fighting."
+          },
+          {
+            "sentence": "Тигруп т1оу '''зэпагъэк1ыгъ'''",
+            "translation": "'''They separated''' our group into two."
+          },
+          {
+            "sentence": "Куджаным л1ымрэ шъузымрэ зыригъэнэкъокъохи '''зэпигъэк1ыжьыгъэх'''",
+            "translation": "Kujan made the husband and wife argue and '''made them separate'''."
           }
         ]
       }
@@ -23998,11 +24226,11 @@
         "meaning": "piece",
         "examples": [
           {
-            "sentence": "шъоущыгъу '''такъыр'''",
+            "sentence": "Шъоущыгъу '''такъыр'''",
             "translation": "'''lump of''' sugar."
           },
           {
-            "sentence": "хьалыгъу '''такъыр'''",
+            "sentence": "Хьалыгъу '''такъыр'''",
             "translation": "'''piece of''' bread."
           },
 		  {
@@ -24019,8 +24247,8 @@
         "meaning": "grown up",
         "examples": [
           {
-            "sentence": "К1алэр '''такъырэу хъугъ'''",
-            "translation": "The boy '''became grown up'''."
+            "sentence": "К1алэр '''такъырэу''' хъугъэ",
+            "translation": "The boy became '''grown up'''."
           },
 		  {
             "sentence": "К1алэр '''такъыр'''",
@@ -24038,7 +24266,12 @@
     "definitions": [
       {
         "meaning": "good morning",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Уипчэдыжь ш1у'''",
+            "translation": "'''Good morning to you'''."
+          }
+        ]
       }
     ],
     "type": "intj",
@@ -24050,7 +24283,12 @@
     "definitions": [
       {
         "meaning": "layer (stratum)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ч1ыгу ч1эгъым мыжъош1омык1ыр '''къат-къатэу''' ч1элъ",
+            "translation": "There are '''layers''' of briquette under the ground."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -24062,7 +24300,12 @@
     "definitions": [
       {
         "meaning": "layer (stratum)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ч1ыгу ч1эгъым мыжъош1омык1ыр '''къат-къатэу''' ч1элъ",
+            "translation": "There are '''layers''' of briquette under the ground."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -24074,7 +24317,12 @@
     "definitions": [
       {
         "meaning": "good evening",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Уипчыхьэ ш1у'''",
+            "translation": "'''Good evening to you'''."
+          }
+        ]
       }
     ],
     "type": "intj",
@@ -24100,11 +24348,11 @@
         "meaning": "village, settlement",
         "examples": [
           {
-            "sentence": "Сыд '''чылэ''' укъыздэк1ырэр?",
-            "translation": "What '''village''' you come from?"
+            "sentence": "Сыд '''чыл''' укъыздэк1ырэр?",
+            "translation": "From what '''village''' you come from?"
           },
           {
-            "sentence": "'''Чылэм''' къэп1орэ ебэгъа1у",
+            "sentence": "'''Чылэм''' къэп1орэр е1у",
             "translation": "'''The whole village''' hears what you are saying."
           },
           {
@@ -24113,7 +24361,7 @@
           },
 		  {
             "sentence": "К1элэ ныбжьык1эхэр '''чылэм''' дэк1ыжьых къалэхэмэ адэт1ысхьажьынхэу",
-            "translation": "The young men are leaving '''the village''' to settle in the cities.
+            "translation": "The young men are leaving '''the village''' to settle in the cities."
           },
 		  {
             "sentence": "'''Чылэм''' тыдэт1ысхьагъ",
@@ -24139,7 +24387,12 @@
       },
       {
         "meaning": "dance",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Къэшъо''' дах",
+            "translation": "A beautiful '''dance'''."
+          }
+        ]
       }
     ],
     "kabardian": "къафэ",
@@ -24180,7 +24433,7 @@
           },
           {
             "sentence": "'''Ашъыу!''', о тучаным ук1ошъущтыба уизакъоу?",
-            "translation": "'''Argh!''', Can't you go to the shop alone?"
+            "translation": "'''Argh!''', can't you go to the shop alone?"
           }
         ]
       }
@@ -24194,7 +24447,16 @@
     "definitions": [
       {
         "meaning": "rib",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Сцагэ''' мэузы",
+            "translation": "'''My rib''' hurts."
+          },
+		  {
+            "sentence": "К1алэм одышъыпкъэти ''ыцагэхэр''' къыхэщы",
+            "translation": "'''My rib''' hurts."
+          }
+        ]
       }
     ],
     "kabardian": "дзажэ",
@@ -47126,8 +47388,13 @@
         ]
       },
       {
-        "meaning": "jacket",
-        "examples": []
+        "meaning": "jacket; coat",
+        "examples": [
+		  {
+            "sentence": "Насыпк1э '''к1ако''' зыщыслъагъ, амырмэ чъы1э сыл1эщтыгъ",
+            "translation": "Luckily I wore '''a coat''', otherwise I would be cold."
+          }
+        ]
       }
     ],
     "shapsug": "к1ьако (short); сако (jacket)",
@@ -58507,11 +58774,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to wear a",
+        "meaning": "to clothe someone; to dress someone; to put clothes on",
         "examples": [
           {
             "sentence": "К1алэм джанэ '''щелъэ'''",
             "translation": "The boy '''is wearing''' a shirt."
+          },
+		  {
+            "sentence": "Насыпк1э к1ако '''зыщыслъагъ''', амырмэ чъы1э сыл1эщтыгъ",
+            "translation": "Luckily '''I wore''' a coat, otherwise I would be cold."
           },
           {
             "sentence": "Джанэ '''щэсэлъэ'''",
@@ -58529,10 +58800,6 @@
             "sentence": "Гъончэджэр '''щылъ'''",
             "translation": "'''Wear''' the pants."
           },
-          {
-            "sentence": "К1алэмэ яджанэ дахэхэр '''щалъэх'''",
-            "translation": "The boys '''are wearing''' their beautiful clothes."
-          },
 		  {
             "sentence": "К1алэм сызпигъэплъагъ щыгъын '''щилъэфэ'''",
             "translation": "The boy made me wait for himself '''until he wore''' clothes."
@@ -58546,6 +58813,51 @@
     ],
     "type": "verb",
     "ipa": "ɕəɬan"
+  },
+  {
+    "word": "зыщылъэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to wear something; to put clothes on (to clothe oneself; to dress oneself)",
+        "examples": [
+		  {
+            "sentence": "Насыпк1э к1ако '''зыщыслъагъ''', амырмэ чъы1э сыл1эщтыгъ",
+            "translation": "Luckily '''I wore''' a coat, otherwise I would be cold."
+          },
+          {
+            "sentence": "Джанэ '''зыщэсэлъэ'''",
+            "translation": "'''I am wearing''' a shirt."
+          },
+          {
+            "sentence": "К1алэм джанэ '''зыщилъагъ'''",
+            "translation": "The boy '''wore''' a shirt."
+          },
+          {
+            "sentence": "Джанэ ц1ык1ур '''зыщыслъэшъурэп'''",
+            "translation": "'''I can't wear''' the tiny shirt."
+          },
+          {
+            "sentence": "Гъончэджэр '''зыщылъ'''",
+            "translation": "'''Wear''' the pants."
+          },
+          {
+            "sentence": "К1алэмэ яджэнэ дахэхэр '''зыщалъэх'''",
+            "translation": "The boys '''are wearing''' their beautiful clothes."
+          },
+		  {
+            "sentence": "К1алэм сызпигъэплъагъ щыгъын '''зыщилъэфэ'''",
+            "translation": "The boy made me wait for himself '''until he wore''' clothes."
+          },
+		  {
+            "sentence": "К1алэм уахътэ бэ регъэжьы джанэ '''зыщилъэфэ'''",
+            "translation": "The boy is taking a lot of time '''until he wears''' clothes."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zəɕəɬan"
   },
   {
     "word": "ч1ырыгъыс",
@@ -58636,6 +58948,10 @@
 		  {
             "sentence": "Л1ыр '''чъы1э л1эшъ''' мэк1эзэзы",
             "translation": "'''Because''' the man '''feeling cold''', he shivers."
+          },
+		  {
+            "sentence": "Насыпк1э к1ако зыщыслъагъ, амырмэ '''чъы1э сыл1эщтыгъ'''",
+            "translation": "Luckily I wore a coat, otherwise '''I would be cold'''."
           }
         ]
       }
@@ -96365,6 +96681,10 @@
 		  {
             "sentence": "Унэм тихьан фай, '''амырмэ''' осым тыхэщтыхьащт",
             "translation": "We need to go inside the house, '''otherwise''' we will be frozen in the snow."
+          },
+		  {
+            "sentence": "Насыпк1э к1ако зыщыслъагъ, '''амырмэ''' чъы1э сыл1эщтыгъ",
+            "translation": "Luckily I wore a coat, '''otherwise''' I would be cold."
           }
         ]
       }
@@ -97811,6 +98131,10 @@
 		  {
             "sentence": "К1алэм ш1уанэмк1э ч1ыгур '''ет1ы'''",
             "translation": "The boy '''is digging up''' the ground with the hoe."
+          },
+		  {
+            "sentence": "Лэжьак1охэмэ бгыгъуанэр бгым '''хат1ык1ы'''",
+            "translation": "The workers '''are digging''' the tunnel '''out''' of the hill."
           }
         ]
       }
@@ -97831,6 +98155,10 @@
 		  {
             "sentence": "К1алэм машэ ч1ыгум '''хит1ык1ыгъ'''",
             "translation": "The boy '''dug out''' a hole in the group."
+          },
+		  {
+            "sentence": "Лэжьак1охэмэ бгыгъуанэр бгым '''хат1ык1ы'''",
+            "translation": "The workers '''are digging''' the tunnel '''out''' of the hill."
           }
         ]
       }
@@ -115311,6 +115639,10 @@
           {
             "sentence": "Л1ым шым шхо тырилъхьагъ",
             "translation": "The man put '''bridle''' onto the horse."
+          },
+		  {
+            "sentence": "Л1ым шым '''шхор''' тырихи нахъутэ тырилъхьагъ",
+            "translation": "The man put '''the bridle''' off the horse and put the halter on it."
           }
         ]
       }
