@@ -6244,6 +6244,10 @@
 		  {
             "sentence": "'''Бжьэхэм''' шъоу аш1ы",
             "translation": "'''The bees''' make honey."
+          },
+		  {
+            "sentence": "'''Бжьэр''' к1алэм зеом, ыбжьащэр шъом къыхэнагъ",
+            "translation": "When '''the bee''' sting the boy, its stringer got stuck in the skin."
           }
         ]
       }
@@ -24453,8 +24457,8 @@
             "translation": "'''My rib''' hurts."
           },
 		  {
-            "sentence": "К1алэм одышъыпкъэти ''ыцагэхэр''' къыхэщы",
-            "translation": "'''My rib''' hurts."
+            "sentence": "К1алэр одышъыпкъэти '''ыцагэхэр''' къыхэщы",
+            "translation": "Because the boy is really thin, '''his ribs''' are visible."
           }
         ]
       }
@@ -24483,15 +24487,15 @@
         "meaning": "which",
         "examples": [
           {
-            "sentence": "'''тары''' уиунэ?",
+            "sentence": "'''Тары''' уиунэ?",
             "translation": "'''which one''' is your house?"
           },
           {
-            "sentence": "'''тары ''' усфае?",
+            "sentence": "'''Тары ''' узфаер?",
             "translation": "'''which one''' do you want?"
           },
           {
-            "sentence": "'''тары ''' къы1эпхынэу узыфаер?",
+            "sentence": "'''Тары ''' къы1эпхынэу узыфаер?",
             "translation": "'''which one''' do you want to take from him?"
           }
         ]
@@ -24501,7 +24505,7 @@
     "ipa": "taːrə"
   },
   {
-    "word": "лъэкъуапц1",
+    "word": "лъэкъуапц1э",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -24509,6 +24513,7 @@
         "examples": []
       }
     ],
+    "shapsug": "лъэкъуапс1э",
     "type": "noun",
     "ipa": "ɬaqʷaːpt͡sʼ"
   },
@@ -24530,7 +24535,7 @@
 	"etymology": "From Turkey",
     "definitions": [
       {
-        "meaning": "piece",
+        "meaning": "piece; slice",
         "examples": [
           {
             "sentence": "Лы '''парчэ''' мэхь",
@@ -24563,7 +24568,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "meat",
+        "meaning": "meat; alternative form of \"лы\"",
         "examples": []
       }
     ],
@@ -24611,6 +24616,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "kasha (dish of cooked grain or groats)",
+        "examples": []
+      },
+	  {
         "meaning": "oatmeal",
         "examples": []
       },
@@ -24630,6 +24639,14 @@
         "meaning": "thick",
         "examples": [
 		  {
+            "sentence": "1энэ '''1ужъу'''",
+            "translation": "'''Thick''' table."
+          },
+		  {
+            "sentence": "Тхылъ '''1ужъу'''",
+            "translation": "'''Thick''' book."
+          },
+		  {
             "sentence": "Чэмым ыпшъашъо '''1ужъу'''",
             "translation": "The cow's neck skin '''is thick'''."
           }
@@ -24645,12 +24662,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "thin",
-        "examples": []
-      },
-	  {
-        "meaning": "slim",
-        "examples": []
+        "meaning": "thin; slim",
+        "examples": [
+		  {
+            "sentence": "К1элэ '''псыгъу'''",
+            "translation": "'''Slim''' boy."
+          },
+		  {
+            "sentence": "1удэнэ '''псыгъу'''",
+            "translation": "'''Thim''' thread."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -24741,23 +24763,23 @@
         "meaning": "to brush something",
         "examples": [
           {
-            "sentence": "Бзылъфыгъэр '''мэлъак1э'''",
-            "translation": "The woman '''is brushing'''."
+            "sentence": "К1алэм джэхашъор '''елъэк1ы'''",
+            "translation": "The boy '''is brushing''' the floor."
           },
           {
-            "sentence": "Бзылъфыгъэм '''елъэк1ы''' джэхашъо джанэк1э",
-            "translation": "The woman '''is brushing''' the floor with a shirt."
+            "sentence": "Бзылъфыгъэм '''елъэк1ы''' джэхашъо хъэдэнк1э",
+            "translation": "The woman '''is brushing''' the floor with a rag."
           },
           {
-            "sentence": "К1алэм ицэхэр '''елъэк1ых'''",
+            "sentence": "К1алэм ыцэхэр '''елъэк1ых'''",
             "translation": "The boy '''is brushing''' his teeth."
           },
           {
-            "sentence": "Уицэхэр '''лъэк1ых'''",
+            "sentence": "Уцэхэр '''лъэк1ых'''",
             "translation": "'''Brush''' your teeth."
           },
           {
-            "sentence": "Псым ухэк1ыжьмэ 1эплъэк1ык1э '''зылъэк1ыжь'''",
+            "sentence": "Псым ухэк1ыжьымэ 1эплъэк1ык1э '''зылъэк1ыжь'''",
             "translation": "When you will come out from the water '''brush yourself''' with a towel."
           },
 		  {
@@ -24795,7 +24817,7 @@
         "meaning": "to be able to, to manage to do, to be capable of doing",
         "examples": [
           {
-            "sentence": "Бзылъфыгъэр къеджэн '''ылъэк1ын'''",
+            "sentence": "Бзылъфыгъэр еджэн '''елъэк1ы'''",
             "translation": "The woman '''is able to ''' read."
           },
           {
@@ -24822,7 +24844,7 @@
         "examples": [
           {
             "sentence": "Ш1оир 1анэр к1алэм '''телъэк1ык1ы'''",
-            "translation": "The boy '''wipes''' the dirty stuff '''from''' the table"
+            "translation": "The boy '''wipes''' the dirty stuff '''off from''' the table"
           }
         ]
       }
@@ -24836,19 +24858,36 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "horn",
-        "examples": []
+        "meaning": "horn; antler",
+        "examples": [
+          {
+            "sentence": "Чэм '''бжъакъу'''",
+            "translation": "Cow '''horns'''."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "bʐaːqʷa"
   },
   {
+    "word": "къоехылъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "basket used to shape cheese",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "qʷajaxəɬ"
+  },
+  {
     "word": "бжъалъ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Circassian cheese, cheese mold",
+        "meaning": "basket used to mold cheese",
         "examples": []
       }
     ],
@@ -24865,7 +24904,16 @@
       },
       {
         "meaning": "nail (hand or foot)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''1эбжъанэ'''",
+            "translation": "'''Finger-nail'''."
+          },
+		  {
+            "sentence": "'''Лъэбжъанэ'''",
+            "translation": "'''Thumb-nail'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -24881,6 +24929,10 @@
           {
             "sentence": "К1алэр '''бжъапэм''' ехи, лъэгум ихьагъ",
             "translation": "The boy went down '''the knoll''' and entered the valley."
+          },
+		  {
+            "sentence": "Къуаджэр '''бжъапэм''' тес",
+            "translation": "The village is located on '''a hillock'''."
           }
         ]
       }
@@ -25000,12 +25052,12 @@
         "meaning": "price; cost",
         "examples": [
           {
-            "sentence": "Тхьэпш мыщ '''иуасэ'''",
-            "translation": "how much this '''cost?'''"
+            "sentence": "Тхьапш мыщ '''иуасэ'''",
+            "translation": "How much this '''cost?'''"
           },
           {
             "sentence": "Мы1эрысым '''иуасэ''' пл1ы долар",
-            "translation": "the apple's '''price''' is four dollars."
+            "translation": "The apple's '''price''' is four dollars."
           },
           {
             "sentence": "Мы кум '''уасэ''' и1эп",
@@ -25043,7 +25095,16 @@
       },
       {
         "meaning": "significance",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Мы 1офым '''пк1э''' и1эп",
+            "translation": "This job has no '''meaning'''"
+          },
+          {
+            "sentence": "'''Пк1э''' и1эжьэп мы 1офыр идгъэкъуныр",
+            "translation": "Continuing this job no longer has any '''meaning'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -25064,8 +25125,8 @@
             "translation": "The apple '''is expensive'''."
           },
           {
-            "sentence": "Мы1эрысыр '''лъап1э''' къэсщэфыгъ",
-            "translation": "I bought the '''expensive''' apple."
+            "sentence": "Ку '''лъап1э''' къэсщэфыгъ",
+            "translation": "I bought an '''expensive''' car."
           },
           {
             "sentence": "Сиунэ уиунэ нахь '''лъап1э'''",
@@ -25076,7 +25137,7 @@
             "translation": "The boy's table is '''expensive'''."
           },
           {
-            "sentence": "К1алэм иунэ '''лъап1эу''' ышэфыгъ",
+            "sentence": "К1алэм иунэ '''лъап1эу''' ыщэфыгъ",
             "translation": "The boy bought his house '''expensively'''."
           },
           {
@@ -25104,7 +25165,16 @@
     "definitions": [
       {
         "meaning": "handful; fistful",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Пынбдж '''бжыб''' хьын",
+            "translation": "To take a '''handful of''' rice."
+          },
+		  {
+            "sentence": "Псы '''бжыб''' къыхэхын",
+            "translation": "To take up '''a handful''' of water."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -25116,7 +25186,16 @@
     "definitions": [
       {
         "meaning": "handful; fistful",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Пынбдж '''1эбжыб''' хьын",
+            "translation": "To take a '''handful of''' rice."
+          },
+		  {
+            "sentence": "Псы '''1эбжыб''' къыхэхын",
+            "translation": "To take up '''a handful''' of water."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -25128,7 +25207,16 @@
     "definitions": [
       {
         "meaning": "flea (an insect)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Чэтыум '''бжыдзэхэр''' хэсых",
+            "translation": "There are '''fles''' in the cat."
+          },
+		  {
+            "sentence": "'''Бжыдзэхэмэ''' хьэм ягъэ рагъэхъу",
+            "translation": "'''The fleas''' are disturbing the dog."
+          }
+        ]
       }
     ],
     "kabardian": "бжьыдзэ",
@@ -25153,7 +25241,12 @@
     "definitions": [
       {
         "meaning": "fist",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''бжымык1э''' ащ еуагъ",
+            "translation": "The boy hit him '''with a fist''' (The buy punched him)."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -25165,7 +25258,12 @@
     "definitions": [
       {
         "meaning": "fist",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''1эбжымык1э''' ащ еуагъ",
+            "translation": "The boy hit him '''with a fist''' (The buy punched him)."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -25198,15 +25296,19 @@
             "translation": "the boy '''is fighting''' the man."
           },
           {
-            "sentence": "Мо хэр '''къысэзэотых'''",
-            "translation": "Those [people] '''will fight with me'''."
+            "sentence": "Мохэр '''къысэзэощтых'''",
+            "translation": "Those [people] '''will fight me'''."
           },
           {
-            "sentence": "К1алэм '''уезэошъущта'''",
-            "translation": "'''Can you fight''' the boy"
+            "sentence": "'''Укъысэзэонэу''' уфая?",
+            "translation": "'''Do you want to fight me?'''."
           },
           {
-            "sentence": "Дунай зао ят1унэмк1э Джармынрэ Урысыемрэ '''зэзэуагъэх'''",
+            "sentence": "К1алэм '''уезэошъущта'''?",
+            "translation": "'''Can you fight''' the boy?"
+          },
+          {
+            "sentence": "Дунай зао ят1унэрэмк1э Джармынрэ Урысыемрэ '''зэзэуагъэх'''",
             "translation": "In World War 2 Germany and Russian '''fought each other'''."
           },
           {
@@ -25267,7 +25369,7 @@
             "translation": "'''Do you want to fight me?'''."
           },
           {
-            "sentence": "Мо хэр '''къысэзэотых'''",
+            "sentence": "Мохэр '''къысэзэотых'''",
             "translation": "Those [people] '''will fight with me'''."
           },
           {
@@ -25287,7 +25389,7 @@
             "translation": "There two boys '''are fighting each other'''."
           },
           {
-            "sentence": "Дунай зао ят1унэмк1э Джармынрэ Урысыемрэ '''зэзэуагъэх'''",
+            "sentence": "Дунай зао ят1унэрэмк1э Джармынрэ Урысыемрэ '''зэзэуагъэх'''",
             "translation": "In World War 2 Germany and Russian '''fought each other'''."
           },
 		  {
@@ -25369,7 +25471,12 @@
     "definitions": [
       {
         "meaning": "autumn",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Бжыхьэм''' чъыгыхэмэ ятхьапэхэр къапэтэкъух",
+            "translation": "'''In the autumn''', the tree's leaves are falling."
+          }
+        ]
       }
     ],
     "kabardian": "бжьыхьэ",
@@ -25382,7 +25489,28 @@
     "definitions": [
       {
         "meaning": "summer",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Гъэмафэм''' къэфабэ",
+            "translation": "'''In summer''' it becomes hot."
+          },
+		  {
+            "sentence": "'''Гъэмафэм''' чъыгыхэмэ ятхьапэхэр мэгъух",
+            "translation": "'''In the summer''', the tree's leaves are drying."
+          },
+		  {
+            "sentence": "'''Гъэмафэм''' Туркуям тык1ощт",
+            "translation": "'''In summer''' we will go to Turkey."
+          },
+		  {
+            "sentence": "'''Гъэмафэм''' ц1ыфыхэр хыгъунэм мак1ох",
+            "translation": "'''In summer''' people go to the beach."
+          },
+          {
+            "sentence": "Гъопэк1ыхьэр '''гъэмафэм''' фэш1, гъопэк1ако к1ымафэм фэш1",
+            "translation": "long-sleeved shirt is for '''the summer''' and short-sleeved shirt is for winter."
+          }
+        ]
       }
     ],
     "kabardian": "гъэмахуэ",
@@ -25397,11 +25525,23 @@
         "meaning": "winter",
         "examples": [
           {
-            "sentence": "Унэм '''к1ымафэм''' фэдгъэхьазырын фай",
+            "sentence": "'''К1ымафэм''' къэучъы1ы",
+            "translation": "'''In winter''' it becomes cold."
+          },
+		  {
+            "sentence": "'''К1ымафэм''' чъыгыхэр пц1анэх",
+            "translation": "'''In winter''' the trees are naked."
+          },
+		  {
+            "sentence": "'''К1ымафэм''' Туркуям тык1ощт",
+            "translation": "'''In winter''' we will go to Turkey."
+          },
+		  {
+            "sentence": "Унэр '''к1ымафэм''' фэдгъэхьазырын фай",
             "translation": "We need to prepare the house for '''winter'''."
           },
           {
-            "sentence": "гъопэк1ыхьэр гъэмафэм фэш1, гъопэк1ако '''к1ымафэм''' фэш1",
+            "sentence": "Гъопэк1ыхьэр гъэмафэм фэш1, гъопэк1ако '''к1ымафэм''' фэш1",
             "translation": "long-sleeved shirt is for the summer and short-sleeved shirt is for '''winter'''."
           },
 		  {
@@ -25421,7 +25561,16 @@
     "definitions": [
       {
         "meaning": "spring",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Гъатхэм''' уцыхэр ч1ыгум къыхэк1ых",
+            "translation": "'''In spring''' plants are coming out from the ground."
+          },
+		  {
+            "sentence": "'''Гъатхэм''' чъыгыхэмэ ятхьапэхэр къыпэк1ых",
+            "translation": "'''In the spring''', the tree's leaves are growing."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -25459,11 +25608,11 @@
         "meaning": "apiary (a place where bees and hives are kept)",
         "examples": [
           {
-            "sentence": "'''бжьа1ом''' бжьэматэхэр дэтых",
+            "sentence": "'''Бжьа1ом''' бжьэматэхэр дэтых",
             "translation": "The beehives are in '''the apiary'''."
           },
           {
-            "sentence": "бжьахъор '''бжьа1ом''' дэт",
+            "sentence": "Бжьахъор '''бжьа1ом''' дэт",
             "translation": "The beekeeper is in '''the apiary'''."
           }
         ]
@@ -25480,7 +25629,7 @@
         "meaning": "beekeeper",
         "examples": [
           {
-            "sentence": "'''бжьахъор''' бжьа1ом дэт",
+            "sentence": "'''Бжьахъор''' бжьа1ом дэт",
             "translation": "'''The beekeeper''' is in the apiary."
           },
           {
@@ -25502,7 +25651,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "drone",
+        "meaning": "drone (A bee or wasp, which does not work but can fertilize the queen bee)",
         "examples": []
       }
     ],
@@ -25514,7 +25663,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "drone",
+        "meaning": "drone (A bee or wasp, which does not work but can fertilize the queen bee)",
         "examples": []
       }
     ],
@@ -25522,12 +25671,29 @@
     "ipa": "bʑaːʃʷʼa"
   },
   {
+    "word": "пкъынэлын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "part of the body",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "pqənaɮən"
+  },
+  {
     "word": "бжьащэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "bee sting",
-        "examples": []
+        "meaning": "bee sting (bee stinger)",
+        "examples": [
+          {
+            "sentence": "Бжьэр к1алэм зеом, '''ыбжьащэр''' шъом къыхэнагъ",
+            "translation": "When the bee sting the boy, its stringer got stuck in the skin."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -25546,7 +25712,7 @@
     "ipa": "bʑə"
   },
   {
-    "word": "бжьыко",
+    "word": "бжьыкобжьыко",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -25642,12 +25808,29 @@
     "ipa": "bʑənəfəts"
   },
   {
+    "word": "зэк1ужь",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "well-built, well-made, well-proportioned (of a person or object)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "zakʷʼəʑ"
+  },
+  {
     "word": "бжьыш1о",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "stately",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ы '''бжьыш1о'''",
+            "translation": "A '''stately''' man."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -25705,6 +25888,18 @@
     "ipa": "bʑapt͡ʃ"
   },
   {
+    "word": "къуанцэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "forked twig",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "qʷaːnt͡sa"
+  },
+  {
     "word": "бжьэцы",
     "lang": "Adyghe",
     "definitions": [
@@ -25727,7 +25922,7 @@
         "meaning": "to beekeep; to maintain hives and keep bees, especially for the production of honey",
         "examples": [
           {
-            "sentence": "Сиятэ '''мэбжьахъо'''",
+            "sentence": "Сятэ '''мэбжьахъо'''",
             "translation": "My father '''is beekeeping'''."
           },
           {
@@ -25758,7 +25953,12 @@
     "definitions": [
       {
         "meaning": "dress designer",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Бзак1ор''' щыгъын бзыныр зи1офыр",
+            "translation": "'''Dress designer''' is a one whose job is to cut dresses."
+          }
+        ]
       },
       {
         "meaning": "tailor's cutter",
@@ -25778,7 +25978,12 @@
     "definitions": [
       {
         "meaning": "dumb, mute (unable to speak)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Бзакор''' ц1ыфэу мыгущы1эшъурэр ары",
+            "translation": "'''A dumb''' is a person that cannot speak."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -25789,7 +25994,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "quiver (for arrows)",
+        "meaning": "bowstring quiver",
         "examples": []
       }
     ],
@@ -25804,12 +26009,12 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "quiver (for arrows)",
+        "meaning": "bowstring quiver",
         "examples": []
       }
     ],
     "synonyms": [
-      "бзалъ"
+      "бзалъэ"
     ],
     "type": "noun",
     "ipa": "bzaqʷəɬ"
@@ -25831,15 +26036,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "an expression of anger",
+        "meaning": "oi; hey (an expression of anger)",
         "examples": [
           {
             "sentence": "'''амэ!''', сыд шъуш1эра",
-            "translation": "'''Ama!''' what you (plural) are doing?"
+            "translation": "'''Oi!''' what you are doing?"
           },
           {
-            "sentence": "'''амэ!''', узэгок1гъа",
-            "translation": "'''Ama!''' have you gone mad?"
+            "sentence": "'''амэ!''', узэгок1ыгъа",
+            "translation": "'''Oi!''' have you gone mad?"
           }
         ]
       },
@@ -25902,6 +26107,18 @@
     "ipa": "bzaːʃʷʼ"
   },
   {
+    "word": "ц1ырау",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "wild grass (steppe); (tall) weeds",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡sʼəraːw"
+  },
+  {
     "word": "гудэ",
     "lang": "Adyghe",
     "definitions": [
@@ -25919,7 +26136,16 @@
     "definitions": [
       {
         "meaning": "huge",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Хьэ '''джадэ'''",
+            "translation": "Huge '''dog'''."
+          },
+          {
+            "sentence": "Ц1ыфы '''джадэ'''",
+            "translation": "The enormous '''man'''."
+          }
+        ]
       },
       {
         "meaning": "gigantic",
@@ -26009,7 +26235,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "food for animals; fodder",
+        "meaning": "alternative form of \"былым1ус\"",
         "examples": []
       }
     ],
@@ -31455,6 +31681,10 @@
 		  {
             "sentence": "Куджаныр к1алэхэмэ '''къахэк1ыгъ'''",
             "translation": "Kujan '''is getting out of''' the boys."
+          },
+		  {
+            "sentence": "Гъатхэм уцыхэр ч1ыгум '''къыхэк1ых'''",
+            "translation": "In spring plants '''are coming out''' from the ground."
           }
         ]
       },
@@ -54265,6 +54495,10 @@
           {
             "sentence": "Пшъашъэр к1алэм нахь '''оды'''",
             "translation": "The girl is more '''slim''' than the boy."
+          },
+		  {
+            "sentence": "К1алэр '''одышъыпкъэти''' ыцагэхэр къыхэщы",
+            "translation": "'''Because''' the boy '''is really thin''', his ribs are visible."
           }
         ]
       }
@@ -103484,6 +103718,10 @@
 		  {
             "sentence": "'''Сыгъутхьанэу''' сыфай, псыунэм сехьэ",
             "translation": "'''I''' want '''to pee''', I will enter the toilet."
+          },
+		  {
+            "sentence": "К1алэм ы1орэм '''сытэгъутхь'''",
+            "translation": "'''I piss''' on what the boy is saying."
           }
         ]
       }
@@ -118473,6 +118711,10 @@
 		  {
             "sentence": "к1алэм '''исэнэхьатк1э''' физика",
             "translation": "The young man's '''profession''' is physics."
+          },
+		  {
+            "sentence": "Бзак1ор щыгъын бзыныр '''зисэнэхьат'''",
+            "translation": "Dress designer is a one whose '''profession''' is to cut dresses."
           }
         ]
       },
