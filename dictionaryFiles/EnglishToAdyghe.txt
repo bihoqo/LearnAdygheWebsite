@@ -5182,7 +5182,7 @@
     "to break off": "1утэкъун; пыутын (to break off a part from; to rip off a part from; to tear off a part from); зэпыутын (to break off from itself)"
   },
   {
-    "to tear": "пычын (to pick); пыутын (to break off a part from; to rip off a part from; to tear off a part from); зэхэтхъын / цунтхъэн (to tear part); тетхъын (to peel off from, to tear off from); хэтхъын (to pull/tear a part/portion of something); пытхъын (to pull/tear off a part of something on the tip/edge, to pull/tear off something attached, to pull/tear a body part); зэхэтхъын / зэпытхъын (to tear off from itself); къыпышъунк1ык1ын; 1утхъын (to tear off); зэхэгъэтэкъун (to tear down and collapse)"
+    "to tear": "чэтхъэн (to tear a paper); пыутын (to break off a part from, to rip off a part from, to tear off a part from); цунтхъэн (to tear part); тетхъын (to peel off from, to tear off from); хэтхъын (to pull/tear a part/portion of something); пытхъын (to pull/tear off a part of something on the tip/edge, to pull/tear off something attached, to pull/tear a body part); зэхэтхъын (to tear apart); зэтетхъын (to tear from above each other) зэпытхъын (to tear off from itself); къыпышъунк1ык1ын; 1утхъын (to tear off); зэхэгъэтэкъун (to tear down and collapse)"
   },
   {
     "nothing but": "зак1"
@@ -5195,9 +5195,6 @@
   },
   {
     "to tear down": "зэхэгъэтэкъун (to tear down something and make it collapse)"
-  },
-  {
-    "to tear to shreds": "чэтхъэн"
   },
   {
     "death location": "л1ап1э"
@@ -14602,7 +14599,7 @@
     "heel palm": "1эдакъэ"
   },
   {
-    "to burn": "стын (to be burning); гъэстын (to burn something); естыл1эн (to stick to the hot surface as a result of burning); тегъэстыхьан (to burn onto something); тегъэстык1ын (to burn off something); хэгъэстык1ын (to burn into something); хэстыхьан (to burn in fire, to burn in an area with a hot mass); маш1о хэнэн / маш1о к1энэн (to catch fire; to combust; to get ignited; to begin to burn; to inflame; to go up in flames); маш1о хэгъэнэн / маш1о кӏэгъэнэн (to ignite, to cause to begin to burn, to set on fire); зэхэнэн / зэк1энэн (to catch fire by itself); пыстык1ын (to burn off the tip of)"
+    "to burn": "стын (to be burning); гъэстын (to burn something); плъын (to heat up to a very high temperature); естыл1эн (to stick to the hot surface as a result of burning); тегъэстыхьан (to burn onto something); тегъэстык1ын (to burn off something); хэгъэстык1ын (to burn into something); хэстыхьан (to burn in fire, to burn in an area with a hot mass); маш1о хэнэн / маш1о к1энэн (to catch fire; to combust; to get ignited; to begin to burn; to inflame; to go up in flames); маш1о хэгъэнэн / маш1о кӏэгъэнэн (to ignite, to cause to begin to burn, to set on fire); зэхэнэн / зэк1энэн (to catch fire by itself); пыстык1ын (to burn off the tip of)"
   },
   {
     "to ignite": "маш1о хэнэн / маш1о к1энэн (to get ignited); маш1о хэгъэнэн / маш1о кӏэгъэнэн (to ignite, to cause to begin to burn)"
@@ -18148,13 +18145,16 @@
     "debris": "хэк1ы"
   },
   {
-    "rubbish": "хэк1ы"
+    "rubbish": "хэк1ы; ш1ои"
   },
   {
-    "trash": "хэк1ы"
+    "trash": "хэк1ы; ш1ои"
   },
   {
-    "garbage": "хэк1ы"
+    "garbage": "хэк1ы; ш1ои"
+  },
+  {
+    "raw": "ц1ынэ"
   },
   {
     "to make out": "зэхэхын (to make out sound clearly); зэхэш1ык1ын (to make out, to make sense, to comprehend); къигъэк1ын (to make out something as); шъхьэм къиубытын"

@@ -2416,6 +2416,10 @@
 		  {
             "sentence": "Сицуакъэ '''псы''' итк1уагъ",
             "translation": "'''Water''' was dripped inside my shoe."
+          },
+          {
+            "sentence": "Къухьэр '''псы''' изэу хъугъэти ч1эбыгъ",
+            "translation": "Because the ship became full of '''water''', it sank."
           }
         ]
       }
@@ -5355,6 +5359,10 @@
 		  {
             "sentence": "'''Хьэр''' 1асэ, цакъэрэп",
             "translation": "'''The dog''' is tamed, it is not biting."
+          },
+          {
+            "sentence": "К1алэм '''хьэр''' ыт1упщызэ къыригъэчъыхьагъ",
+            "translation": "The boy released '''the dog''' and allowed it run around."
           }
         ]
       }
@@ -13241,6 +13249,10 @@
           {
             "sentence": "'''Дэпкъ''' ш1оим зытемыгъэк1, укъиуш1оищт",
             "translation": "Don't lean on the dirty '''wall''', it will make you dirty."
+          },
+		  {
+            "sentence": "Сурэтыр '''дэпкъым''' 1онтагъэу пылъэгъагъэти сыгъэузэнк1ыжьыгъ",
+            "translation": "Because the picture was hanging crookedly on '''the wall''', I straighten it."
           }
         ]
       }
@@ -13623,6 +13635,10 @@
 		  {
             "sentence": "'''Хым''' щыгъу къыхэхын",
             "translation": "To extract salt from '''the sea'''."
+          },
+		  {
+            "sentence": "Хым куущэу ухэмыхь, умыш1ахэу уч1эбыщт",
+            "translation": "Do not go too deeply inside the sea, you will drown by accident."
           }
         ]
       },
@@ -22043,6 +22059,10 @@
           {
             "sentence": "К1алэр мэзым '''куущэу''' хэхьагъ",
             "translation": "The boy entered the forest '''too deeply'''."
+          },
+		  {
+            "sentence": "Хым '''куущэу''' ухэмыхь, умыш1ахэу уч1эбыщт",
+            "translation": "Do not go '''too deeply''' inside the sea, you will drown by accident."
           }
         ]
       }
@@ -29431,6 +29451,10 @@
 		  {
             "sentence": "Мы пкъэур '''тыгъэузэнк1ын''' фай",
             "translation": "We need '''to straighten''' the pillar."
+          },
+		  {
+            "sentence": "Сурэтыр дэпкъым 1онтагъэу пылъэгъагъэти '''сыгъэузэнк1ыжьыгъ'''",
+            "translation": "Because the picture was hanging crookedly on the wall, '''I straighten it'''."
           }
         ]
       }
@@ -30555,12 +30579,20 @@
         "meaning": "to release",
         "examples": [
           {
-            "sentence": "топыр '''т1упщ'''",
-            "translation": "'''release''' the cannon."
+            "sentence": "Топыр '''т1упщ'''",
+            "translation": "'''Release''' the cannon."
           },
           {
-            "sentence": "дзэк1ол1ыхэр '''ат1упщыгъэх'''",
-            "translation": "'''they released''' the soldiers."
+            "sentence": "Дзэк1ол1ыхэр '''ат1упщыгъэх'''",
+            "translation": "'''They released''' the soldiers."
+          },
+          {
+            "sentence": "Дзэк1ол1ыхэр заом '''хат1упщыхьагъэх'''",
+            "translation": "'''They released''' the soldiers '''in''' the war."
+          },
+          {
+            "sentence": "К1алэм хьэр '''ыт1упщызэ''' къыригъэчъыхьагъ",
+            "translation": "The boy '''released''' the dog and allowed it run around."
           }
         ]
       },
@@ -30568,7 +30600,7 @@
         "meaning": "to launch",
         "examples": [
           {
-            "sentence": "торпеда '''т1упщын'''",
+            "sentence": "Торпеда '''т1упщын'''",
             "translation": "'''to launch''' a torpedo."
           }
         ]
@@ -30577,7 +30609,7 @@
         "meaning": "to set free; to let go; to let loose",
         "examples": [
           {
-            "sentence": "пщыл1ыхэр '''т1упщыных'''",
+            "sentence": "Пщыл1ыхэр '''т1упщыных'''",
             "translation": "'''to set free''' slaves."
           },
 		  {
@@ -30590,15 +30622,15 @@
         "meaning": "to leave someone from harm or annoyance",
         "examples": [
           {
-            "sentence": "к1алэр '''т1упщ'''",
+            "sentence": "К1алэр '''т1упщ'''",
             "translation": "'''Leave''' the boy '''alone'''."
           },
           {
-            "sentence": "к1алэм пшъашъэр ыт1упщырэп",
+            "sentence": "К1алэм пшъашъэр ыт1упщырэп",
             "translation": "The boy '''is not leaving''' the girl '''alone'''."
           },
           {
-            "sentence": "'''сыт1упщыба!'''",
+            "sentence": "'''Сыт1упщыба!'''",
             "translation": "'''Leave me alone already!'''"
           }
         ]
@@ -30615,7 +30647,7 @@
         "meaning": "to slip by; to pass without being noticed or intercepted",
         "examples": [
           {
-            "sentence": "Щэр '''къысблихыгъ'''",
+            "sentence": "Щэр '''къэсблихыгъ'''",
             "translation": "The bullet '''passed (missed)''' me."
           },
           {
@@ -30650,7 +30682,24 @@
     "definitions": [
       {
         "meaning": "clean",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Унэр '''къабзэ'''",
+            "translation": "The house '''is clean'''."
+          },
+		  {
+            "sentence": "Ренэу '''укъабзэн''' фай",
+            "translation": "You always need to be '''clean'''."
+          },
+		  {
+            "sentence": "Гъогур '''къабзэп''', ш1ой телъ",
+            "translation": "The road '''is not clean''', there is rubbish on it."
+          },
+		  {
+            "sentence": "Уцэхэр '''къабзэха'''?",
+            "translation": "Are your teeth '''clean'''?"
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -30676,8 +30725,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(Dialectal) slow",
-        "examples": []
+        "meaning": "(dialectal) slow",
+        "examples": [
+          {
+            "sentence": "Л1ыжъыр '''т1эт1эеу''' мак1о",
+            "translation": "The old man walks '''slowly'''."
+          },
+		  {
+            "sentence": "Сыдэу '''ут1эт1эй'''",
+            "translation": "You are so '''slow'''."
+          }
+        ]
       },
 	  {
         "meaning": "resin, tar",
@@ -30697,7 +30755,24 @@
     "definitions": [
       {
         "meaning": "strong",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''к1уач1э''', онтэгъухэр къештэшъу",
+            "translation": "The boy '''is strong''', he can lift heavy stuff."
+          },
+		  {
+            "sentence": "Онтэгъухэр къэбыштэхэу нахь '''к1уач1эу''' ухъущт",
+            "translation": "By lifting heavy stuff you will become '''stronger'''."
+          },
+		  {
+            "sentence": "Шъуащыщэу хэт анахь '''к1уач1эр'''?",
+            "translation": "Among you who is the ''strongest'''?"
+          },
+          {
+            "sentence": "К1алэр '''к1уач1эти''' 1офыр псынк1эу еш1э",
+            "translation": "'''Because''' the boy '''is strong, he does the work fast."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -30716,10 +30791,36 @@
 		  {
             "sentence": "Лъэоер '''ц1ынэ''', сыфэсакъ уемыц1эшъутэхынэу",
             "translation": "The staircase is '''wet''', be careful not to slip down."
+          },
+		  {
+            "sentence": "Джэхашъор '''ц1ынэ''', умыш1ахэу утец1эшъутыхьащт",
+            "translation": "The floor '''is wet''', you will slip by mistake."
+          },
+		  {
+            "sentence": "'''Сыц1ынэу''' схъугъ псы къэстехьэм",
+            "translation": "I became '''wet''' when water came on me."
+          },
+		  {
+            "sentence": "Сиджанэ '''ц1ынэ'''",
+            "translation": "My shirt is '''wet'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "raw (meat)",
+        "examples": [
+		  {
+            "sentence": "Лы '''ц1ынэр''' 1ае",
+            "translation": "'''Raw''' meat is nasty."
+          },
+		  {
+            "sentence": "К1алэм лы '''ц1ынэу''' ешхы",
+            "translation": "The boy eats '''raw''' meat."
           }
         ]
       }
     ],
+    "shapsug": "с1ынэ",
     "type": "adj",
     "ipa": "tsʼəna"
   },
@@ -30728,27 +30829,36 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to dry",
-        "examples": []
+        "meaning": "alternative form of \"гъушъын\"",
+        "examples": [
+          {
+            "sentence": "Джанэр '''гъушъыжьыгъ'''",
+            "translation": "The shirt '''dried up'''."
+          }
+        ]
       }
     ],
     "type": "verb",
-    "ipa": "maʁʷʂəʐən"
+    "ipa": "ʁʷʂəʑən"
   },
   {
     "word": "плъын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to heat up to a high temperature, to become very hot",
+        "meaning": "to heat up to a very high temperature; to be very hot (to the point a person can feel a burning sensation from it)",
         "examples": [
           {
             "sentence": "Гъуч1ыр '''мэплъы'''",
-            "translation": "The iron '''is heating up'''."
+            "translation": "The iron '''is burning'''."
           },
           {
             "sentence": "Шхыныр '''плъыгъа?'''",
             "translation": "'''Did''' the food '''heated up?'''"
+          },
+          {
+            "sentence": "Тыгъэр '''мэплъы'''",
+            "translation": "The sun '''is burning'''"
           },
 		  {
             "sentence": "Машинэр '''плъыгъащэти''', къызэтегъэуцогу къэучъы1ыжьынэу",
@@ -30765,7 +30875,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to heat up something to a high temperature",
+        "meaning": "to heat up something to a high temperature (to the point a person can feel a burning sensation from it)",
         "examples": [
           {
             "sentence": "К1алэм гъуч1эр '''егъэплъы''' маш1ок1э",
@@ -30780,7 +30890,7 @@
             "translation": "When you '''heat up''' water it start bubbling up."
           },
 		  {
-            "sentence": "Электрикэр гъуч1ычэу зырик1орэр '''егъплъы'''",
+            "sentence": "Электрикэр гъуч1ычэу зырик1орэр '''егъэплъы'''",
             "translation": "Electric '''heats''' the wire it goes through."
           }
         ]
@@ -30883,6 +30993,10 @@
 		  {
             "sentence": "Гык1ыгъэхэр '''матэм''' илъхьэх",
             "translation": "Put the laundries into '''the basket'''."
+          },
+		  {
+            "sentence": "'''Матэм''' мы1эрыс зы къих",
+            "translation": "Take one apple from '''the basket'''."
           }
         ]
       }
@@ -31009,27 +31123,27 @@
         "meaning": "to kill",
         "examples": [
           {
-            "sentence": "к1алэм '''еук1ы'''",
+            "sentence": "К1алэм '''еук1ы'''",
             "translation": "The boy '''is killing'''."
           },
           {
-            "sentence": "к1алэр '''еук1ы'''",
+            "sentence": "К1алэр '''еук1ы'''",
             "translation": "'''(S)he is killing''' the boy."
           },
           {
-            "sentence": "к1алэм л1ыр '''еук1ы'''",
+            "sentence": "К1алэм л1ыр '''еук1ы'''",
             "translation": "The boy '''is killing''' the man."
           },
           {
-            "sentence": "'''саук1ыщт'''",
+            "sentence": "'''Саук1ыщт'''",
             "translation": "'''They are going to kill me'''."
           },
           {
-            "sentence": "непэ сэ '''усыкк1ыщт''' о",
+            "sentence": "Непэ сэ '''усыук1ыщт''' о",
             "translation": "Today '''I am going to kill you'''."
           },
           {
-            "sentence": "заом ухахьэмэ '''уаук1ыщт'''",
+            "sentence": "Заом ухахьэмэ '''уаук1ыщт'''",
             "translation": "If you enter the war '''they will kill you'''."
           },
 		  {
@@ -31051,9 +31165,7 @@
         ]
       }
     ],
-    "synonyms": [
-      "ук1ьын"
-    ],
+    "shapsug": "ук1ьын",
     "type": "verb",
     "ipa": "wət͡ʃʼən"
   },
@@ -31071,6 +31183,10 @@
 		  {
             "sentence": "Л1ыр хым '''ч1эбыгъ'''",
             "translation": "The man '''drowned''' in the sea."
+          },
+		  {
+            "sentence": "Хым куущэу ухэмыхь, умыш1ахэу '''уч1эбыщт'''",
+            "translation": "Do not go too deeply inside the sea, '''you will drown''' by accident."
           }
         ]
       },
@@ -31082,8 +31198,8 @@
             "translation": "The ship '''is sinking'''."
           },
           {
-            "sentence": "Къухьэр псы изэу хъуи '''ч1эбыгъ'''",
-            "translation": "The ship became full of water and '''sank'''."
+            "sentence": "Къухьэр псы изэу хъугъэти '''ч1эбыгъ'''",
+            "translation": "Because the ship became full of water, it '''sank'''."
           }
         ]
       }
@@ -31099,7 +31215,7 @@
         "meaning": "to die (in a war, forest, accident)",
         "examples": [
           {
-            "sentence": "к1алэр заом '''хэук1эхьагъ'''",
+            "sentence": "К1алэр заом '''хэук1ыхьагъ'''",
             "translation": "The boy '''died''' in the fight (war)."
           }
         ]
@@ -31122,6 +31238,10 @@
           {
             "sentence": "Мы фылымымк1э '''сыраз'''",
             "translation": "'''I am satisfied''' with this film."
+          },
+          {
+            "sentence": "Шхынэу сышхыгъэм '''сыфэраз'''",
+            "translation": "'''I am satisfied with''' the food I ate."
           }
         ]
       }
@@ -31142,7 +31262,7 @@
           },
           {
             "sentence": "Сэ колэ '''сешъорэп'''",
-            "translation": "I '''do not drink''' Coke."
+            "translation": "'''I do not drink''' Coke."
           },
           {
             "sentence": "Сыда '''узэшъонэу''' уик1асэр?",
@@ -31206,41 +31326,49 @@
         "meaning": "to take something; to pick up something; to grab something and pick it up from the ground or from on something",
         "examples": [
           {
-            "sentence": "'''къашт''' уатэ",
+            "sentence": "'''Къашт''' уатэ",
             "translation": "'''Pick up''' the hammer."
           },
 		  {
-            "sentence": "л1ым чатэр '''къештэ'''",
+            "sentence": "Л1ым чатэр '''къештэ'''",
             "translation": "The man '''grabs''' the sword."
           },
 		  {
-            "sentence": "пцэжъыяшэхэмэ къошъобэщхэр '''къаштэхи''' хым хэхьагъэх",
+            "sentence": "Пцэжъыяшэхэмэ къошъобэщхэр '''къаштэхи''' хым хэхьагъэх",
             "translation": "The fishermen '''grabbed''' the paddles '''and''' went to the sea."
           },
 		  {
-            "sentence": "мы 1офыр о '''штэ''', сэ адрэ 1офыхэр '''сыштэщтых'''",
+            "sentence": "Мы 1офыр о '''штэ''', сэ адрэ 1офыхэр '''сыштэщтых'''",
             "translation": "'''Take''' this work, '''I will take''' the other works."
           },
           {
-            "sentence": "к1алэм мыер '''къештэ'''",
+            "sentence": "К1алэм мыер '''къештэ'''",
             "translation": "The boy '''is picking up''' the apple."
           },
           {
-            "sentence": "шхыныри '''къашт''', къэзщымыгъэгъупщ",
+            "sentence": "Шхыныри '''къашт''', къэзщымыгъэгъупщ",
             "translation": "'''Take''' the food as well, don't forget it."
           }
         ]
       },
 	  {
-        "meaning": "to lift, to raise (usaully from the ground or from on something)",
+        "meaning": "to lift, to raise (usaully from the ground or from above something)",
         "examples": [
           {
             "sentence": "1анэр '''къашт'''",
             "translation": "'''Lift''' the table."
           },
           {
-            "sentence": "к1алэм гъэучъы1ып1эр '''къештэ'''",
+            "sentence": "К1алэм гъэучъы1ып1эр '''къештэ'''",
             "translation": "The boy '''is lifting''' the fridge."
+          },
+          {
+            "sentence": "К1алэр к1уач1эти онтэгъухэр '''къештэшъух'''",
+            "translation": "Because the boy is strong, he can lift heavy stuff."
+          },
+          {
+            "sentence": "'''Сыкъашти''' дэпкъым сыблэгъэплъ",
+            "translation": "'''Lift me''' and allow me to look pass the wall."
           }
         ]
       },
@@ -31248,11 +31376,11 @@
         "meaning": "to get into one's possession or control, with or without force",
         "examples": [
           {
-            "sentence": "тич1ыгу '''аштагъ'''",
+            "sentence": "Тич1ыгу '''аштагъ'''",
             "translation": "'''They took''' our land."
           },
 		  {
-            "sentence": "сишхын к1алэм '''къэсш1уиштагъ'''",
+            "sentence": "Сишхын к1алэм '''къэсш1уиштагъ'''",
             "translation": "The boy '''took''' my food."
           }
         ]
@@ -31297,8 +31425,12 @@
         "meaning": "to smear; to rub in",
         "examples": [
           {
-            "sentence": "к1алэм псынжъ иджанэ '''тифэхьыгъ'''",
+            "sentence": "К1алэм псынжъ иджанэ '''тифэхьыгъ'''",
             "translation": "The child '''smeared''' mud on his shirt."
+          },
+		  {
+            "sentence": "Бзылъфыгъэм ыпкъы крем '''тефэхьы'''",
+            "translation": "The woman '''smears''' cream on her body."
           }
         ]
       }
@@ -31358,6 +31490,10 @@
             "translation": "'''I am regretting''' I betted with money."
           },
           {
+            "sentence": "'''Сык1эгъожьы''' икъунэу зэрэсемыджагъэр",
+            "translation": "'''I am regretting''' I did not study enough."
+          },
+          {
             "sentence": "'''Ук1эмыгъожь''' гъогоу уздэк1уагъэмк1э",
             "translation": "'''Don't regret''' the path you went with."
           }
@@ -31382,6 +31518,10 @@
 		  {
             "sentence": "Уиджэуап '''гъэтэрэз'''",
             "translation": "'''Correct''' your answer."
+          },
+		  {
+            "sentence": "Сурэтыр дэпкъым 1онтагъэу пылъэгъагъэти '''сыгъэтэрэзыжьыгъ'''",
+            "translation": "Because the picture was hanging on the wall crookedly, I corrected it."
           }
         ]
       },
@@ -31391,6 +31531,10 @@
           {
             "sentence": "К1алэм кур '''егъэтэрэзы'''",
             "translation": "The boy '''repairs''' the car."
+          },
+		  {
+            "sentence": "Уахътэ бащэ рагъэхьы гъогухэр '''агъэтэрэзыжьыфэ'''",
+            "translation": "They take too much time '''to repair''' the roads."
           }
         ]
       }
@@ -31432,7 +31576,7 @@
         "meaning": "to pat",
         "examples": [
           {
-            "sentence": "Сиянэ сишъхьэ '''къытео'''",
+            "sentence": "Сянэ сшъхьэ '''къытео'''",
             "translation": "My mother '''is patting''' my head."
           }
         ]
@@ -31441,11 +31585,11 @@
         "meaning": "to call (someone) using a phone; to phone someone",
         "examples": [
           {
-            "sentence": "к1алэр пшъашъэм '''фэтео''' тэлефонымк1э",
+            "sentence": "К1алэр пшъашъэм '''фэтео''' тэлефонымк1э",
             "translation": "the boy '''calling''' the girl with the telephone."
           },
           {
-            "sentence": "'''къэсфэтеу''' телефонк1э",
+            "sentence": "'''Къэсфэтеу''' телефонк1э",
             "translation": "'''Call me''' with (using) a phone."
           }
         ]
@@ -31466,11 +31610,11 @@
         "meaning": "to call (someone) using a phone; to phone someone",
         "examples": [
           {
-            "sentence": "к1алэр пшъашъэм '''фэтео''' тэлефонымк1э",
+            "sentence": "К1алэр пшъашъэм '''фэтео''' тэлефонымк1э",
             "translation": "the boy '''calling''' the girl with the telephone."
           },
           {
-            "sentence": "'''къэсфэтеу''' телефонк1э",
+            "sentence": "'''Къэсфэтеу''' телефонк1э",
             "translation": "'''Call me''' with (using) a phone."
           }
         ]
@@ -31487,7 +31631,7 @@
         "meaning": "to hit for someone",
         "examples": [
           {
-            "sentence": "к1алэр пшъашъэм '''феуагъ'''",
+            "sentence": "К1алэр пшъашъэм '''феуагъ'''",
             "translation": "the boy '''hit''' for the girl."
           }
         ]
@@ -31496,11 +31640,11 @@
         "meaning": "to call (someone) using a phone; to phone someone",
         "examples": [
           {
-            "sentence": "к1алэр пшъашъэм '''фео''' тэлефонымк1э",
+            "sentence": "К1алэр пшъашъэм '''фео''' тэлефонымк1э",
             "translation": "the boy '''calling''' the girl with the telephone."
           },
           {
-            "sentence": "'''къэсфеу''' телефонк1э",
+            "sentence": "'''Къэсфеу''' телефонк1э",
             "translation": "'''Call me''' with (using) a phone."
           }
         ]
@@ -31564,6 +31708,10 @@
           {
             "sentence": "Алкохолым '''угъэунэхъущт'''",
             "translation": "Alcohol '''will ruin you'''."
+          },
+          {
+            "sentence": "Бзаджэхэм к1алэр '''агъэунэхъу'''",
+            "translation": "The mischievous folks '''are ruining''' the boy."
           }
         ]
       }
@@ -31611,6 +31759,10 @@
             "sentence": "К1алэм джанэр '''зэхетхъы'''",
             "translation": "The boy '''is tearing apart''' the shirt."
           },
+          {
+            "sentence": "Хьэр джанэр ецакъэу '''зэхитхъыгъ'''",
+            "translation": "The dog biting the shirt '''tore it apart'''."
+          },
 		  {
             "sentence": "К1алэм тхылъыр '''зэхитхъыгъ'''",
             "translation": "The boy '''torn''' the paper '''apart'''."
@@ -31620,7 +31772,7 @@
             "translation": "The shirt '''is torn apart'''."
           },
 		  {
-            "sentence": "К1алэр тхылъыр еджи '''зэхитхъыгъ''' ",
+            "sentence": "К1алэр тхьапэм еджи '''зэхитхъыгъ''' ",
             "translation": "The boy read the paper and '''torn it apart'''."
           }
         ]
@@ -31630,11 +31782,28 @@
     "ipa": "zaxətχən"
   },
   {
+    "word": "зэтетхъын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to tear from above each other",
+        "examples": [
+          {
+            "sentence": "К1алэм пхъэ зэтелъхэр '''зэтетхъых'''",
+            "translation": "The boy is '''tearing''' the woods that are on each other."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "zatajtχən"
+  },
+  {
     "word": "чэтхъэн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to tear to shreds",
+        "meaning": "to rip; to tear (clothes, leaves and papers)",",
         "examples": [
           {
             "sentence": "Тхылъып1эр '''мэчатхъэ'''",
@@ -31643,18 +31812,17 @@
           {
             "sentence": "К1алэм тхьапэр '''ечатхъэ'''",
             "translation": "The boy '''is tearing''' the paper."
-          }
-        ]
-      },
-      {
-        "meaning": "to tear into pieces; to rip; to tear apart (said about clothes, leafs and papers)",
-        "examples": [
-          {
-            "sentence": "К1алэм иджынэ '''чэтхъагъ'''",
+          },
+		  {
+            "sentence": "К1алэм иджанэ '''чэтхъагъ'''",
             "translation": "The boy's shirt '''is ripped apart'''."
           },
+		  {
+            "sentence": "Сиджанэ т1эк1у '''чэтхъагъ'''",
+            "translation": "My shirt '''is torn''' a bit."
+          },
           {
-            "sentence": "К1элэц1ык1ум джанэхэр '''ычатхъэх'''",
+            "sentence": "К1элэц1ык1ум джанэхэр '''ечатхъэх'''",
             "translation": "The little boy '''is ripping''' the shirts '''apart'''."
           }
         ]
@@ -31692,8 +31860,12 @@
             "translation": "I became '''old'''."
           },
           {
-            "sentence": "Сику '''жъы''' асти к1э къа1ысхыгъ",
+            "sentence": "Сику '''жъы''' ясти к1э къа1ысхыгъ",
             "translation": "I gave them my '''old''' car and took a new one."
+          },
+          {
+            "sentence": "Мы фылымыр '''жъыщэ'''",
+            "translation": "This movie '''is too old'''."
           }
         ]
       }
@@ -31823,12 +31995,20 @@
         "meaning": "straight",
         "examples": [
           {
-            "sentence": "К1алэн '''занк1эу''' мак1о",
+            "sentence": "К1алэр '''занк1эу''' мак1о",
             "translation": "The boy is going '''straight'''."
           },
           {
             "sentence": "К1алэр '''занк1эу''' щыт",
             "translation": "The boy is standing '''straight'''."
+          },
+          {
+            "sentence": "Фылымым зэухым '''занк1эу''' унэм тык1ожьыгъ",
+            "translation": "When the movie ended we returned home '''straight away'''."
+          },
+          {
+            "sentence": "Сурэтым '''занк1эу''' дэпкъым пылъыгъэпи сыгъэузэнк1ыжьыгъ",
+            "translation": "Because the picture was not hanged '''straight''' on the wall, I straighten it back."
           }
         ]
       }
@@ -32579,6 +32759,10 @@
           {
             "sentence": "К1элэ к1акор дэпкъым '''блэплъышъурэп'''",
             "translation": "The short boy '''can't see over''' the wall."
+          },
+          {
+            "sentence": "Сыкъашти дэпкъым '''сыблэгъэплъ'''",
+            "translation": "Lift me and '''allow me to look pass''' the wall."
           }
         ]
       },
@@ -39334,6 +39518,10 @@
           {
             "sentence": "Пкъыгъо '''онтэгъу'''",
             "translation": "'''Heavy''' object."
+          },
+          {
+            "sentence": "К1алэр к1уач1эти '''онтэгъухэр''' къештэшъух",
+            "translation": "Because the boy is strong, he can lift '''heavy stuff'''."
           }
         ]
       }
@@ -40923,6 +41111,10 @@
 		  {
             "sentence": "'''Къухьэм''' сыкъизи хым сыхэфэгъагъ",
             "translation": "I dropped from '''the ship''' and fell into the sea."
+          },
+          {
+            "sentence": "'''Къухьэр''' псы изэу хъугъэти ч1эбыгъ",
+            "translation": "Because '''the ship''' became full of water, it sank."
           }
         ]
       }
@@ -45016,6 +45208,15 @@
       {
         "meaning": "crud",
         "examples": []
+      },
+	  {
+        "meaning": "rubbish; trash; garbage",
+        "examples": [
+		  {
+            "sentence": "Гъогур къабзэп, '''ш1ой''' телъ",
+            "translation": "The road is not clean, there is '''rubbish''' on it."
+          }
+        ]
       }
     ],
     "kabardian": "ф1ей",
@@ -54847,28 +55048,32 @@
         "meaning": "to be hanging",
         "examples": [
           {
-            "sentence": "гык1ыгъэхэр к1апсэм '''пылъых'''",
+            "sentence": "Гык1ыгъэхэр к1апсэм '''пылъых'''",
             "translation": "The laundry '''is hanging''' on the rope."
           },
 		  {
-            "sentence": "дэпкъым сурэтэр '''пылъ'''",
+            "sentence": "Дэпкъым сурэтэр '''пылъ'''",
             "translation": "The picture '''is hanging on''' the wall."
           },
 		  {
-            "sentence": "ламбэр к1апсэк1э '''пылъагъ'''",
+            "sentence": "Ламбэр к1апсэк1э '''пылъагъ'''",
             "translation": "The lamp '''is hanging on''' a rope."
           },
 		  {
-            "sentence": "бзаджэр '''пылъагъ'''",
+            "sentence": "Бзаджэр '''пылъагъ'''",
             "translation": "The wicked one '''is hanged'''."
           },
 		  {
-            "sentence": "щыгъын пылъап1эм '''пылъ''' джанэр",
+            "sentence": "Щыгъын пылъап1эм '''пылъ''' джанэр",
             "translation": "The shirt '''is hanging on''' the coat hanger."
           },
 		  {
             "sentence": "Сиджанэ пчъэм ык1ыб '''пылъагъ''', къэсфэхь",
             "translation": "My shirt '''is hanged''' behind the door, bring it to me."
+          },
+		  {
+            "sentence": "Сурэтыр дэпкъым 1онтагъэу '''пылъыгъэти''' сыгъэузэнк1ыжьыгъ",
+            "translation": "Because the picture '''was hanged''' crookedly on the wall, I straighten it."
           }
         ]
       },
@@ -56436,6 +56641,10 @@
 		  {
             "sentence": "Сурэтыр къуащэу '''пылъагъ'''",
             "translation": "The picture is '''hanged''' crookedly."
+          },
+		  {
+            "sentence": "Сурэтыр дэпкъым 1онтагъэу '''пылъэгъагъэти''' сыгъэузэнк1ыжьыгъ",
+            "translation": "Because the picture '''was hanging''' crookedly on the wall, I straighten it."
           }
         ]
       }
@@ -75643,6 +75852,10 @@
           {
             "sentence": "Чъыгыр '''1онтагъ'''",
             "translation": "The tree '''is crooked'''."
+          },
+		  {
+            "sentence": "Сурэтыр дэпкъым '''1онтагъэу''' пылъэгъагъэти сыгъэузэнк1ыжьыгъ",
+            "translation": "Because the picture was hanging '''crookedly''' on the wall, I straighten it."
           }
         ]
       },
@@ -83542,6 +83755,10 @@
           {
             "sentence": "Ар ащ гущы1эгъу '''фэхъугъэти''' гукъаоу и1эхэр къыри1уагъ.",
             "translation": "'''Because he became''' his talking buddy, he told him the misfortunes he have."
+          },
+          {
+            "sentence": "Къухьэр псы изэу '''хъугъэти''' ч1эбыгъ",
+            "translation": "Because the ship '''became''' full of water, it sank."
           }
         ]
       },
@@ -87508,7 +87725,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be stacked, to be piled up",
+        "meaning": "to be stacked, to be piled up, to be on each other",
         "examples": [
           {
             "sentence": "Тхылъыхэр '''зэтелъых'''",
@@ -87517,6 +87734,9 @@
           {
             "sentence": "Пхъэхэр '''зэтелъыхэу''' щагум дэтых",
             "translation": "The woods are in the yard '''stacked'''."
+          }{
+            "sentence": "К1алэм пхъэ '''зэтелъхэр''' зэтетхъых",
+            "translation": "The boy is tearing the woods that '''are on each other'''."
           }
         ]
       }
@@ -90678,6 +90898,10 @@
 		  {
             "sentence": "Апчыр '''изэу''' ш1ы",
             "translation": "'''Fill''' the glass."
+          },
+          {
+            "sentence": "Къухьэр псы '''изэу''' хъугъэти ч1эбыгъ",
+            "translation": "Because the ship became '''full of''' water, it sank."
           }
         ]
       }
@@ -114815,6 +115039,10 @@
 		  {
             "sentence": "Пцэжъыяшэр хым '''хахьи''' пцэжъыехэр къеубытых",
             "translation": "The fisherman '''goes into''' the sea and catches fishes."
+          },
+		  {
+            "sentence": "Хым куущэу '''ухэмыхь''', умыш1ахэу уч1эбыщт",
+            "translation": "'''Do not go''' too deeply '''inside''' the sea, you will drown by accident."
           }
         ]
       }
@@ -122863,6 +123091,10 @@
 		  {
             "sentence": "А л1ыжъыр '''къыпфэпазэу''' хъущтэп",
             "translation": "That old-man '''will not be satisfied with you'''."
+          },
+          {
+            "sentence": "Шхынэу сышхыгъэм '''сыфэраз'''",
+            "translation": "'''I am satisfied with''' the food I ate."
           }
         ]
       }
@@ -129501,6 +129733,10 @@
 		  {
             "sentence": "К1алэм '''уахътэ''' бэ '''регъэжьы''' джанэ зыщилъэфэ",
             "translation": "The boy '''is taking''' a lot of '''time''' until he wears clothes."
+          },
+		  {
+            "sentence": "'''Уахътэ''' бащэ '''рагъэхьы''' гъогухэр агъэтэрэзыжьыфэ",
+            "translation": "'''They take''' too much '''time''' to repair the roads."
           }
         ]
       }
@@ -137298,6 +137534,10 @@
 		  {
             "sentence": "К1элэц1ык1ухэр щагум дэтых '''къэчъэхьэу'''",
             "translation": "The boys are in the yard '''running around'''"
+          },
+          {
+            "sentence": "К1алэм хьэр ыт1упщызэ '''къыригъэчъыхьагъ'''",
+            "translation": "The boy released the dog and '''allowed it run around'''."
           }
         ]
       }
