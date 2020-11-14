@@ -35198,6 +35198,10 @@
           {
             "sentence": "С1э '''къебыу'''",
             "translation": "'''Kiss''' my hand."
+          },
+          {
+            "sentence": "К1алэр '''мэбао'''",
+            "translation": "The boy '''is kissing'''."
           }
         ]
       }
@@ -35235,7 +35239,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "wily",
+        "meaning": "wily; sly; cunning",
         "examples": []
       }
     ],
@@ -35247,7 +35251,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "blessed, fortunate, lucky,",
+        "meaning": "blessed, fortunate, lucky",
         "examples": []
       }
     ],
