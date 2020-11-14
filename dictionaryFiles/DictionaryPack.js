@@ -316,6 +316,10 @@
             "translation": "The boy '''is hitting''' the tree with an axe."
           },
 		  {
+            "sentence": "Снат1э зыгорэм '''еуи''' бэгыгъэ",
+            "translation": "My forehead '''hit''' something and it swelled."
+          },
+		  {
             "sentence": "Сэ к1алэм '''сео'''",
             "translation": "'''I am hitting''' the boy."
           },
@@ -2144,6 +2148,10 @@
 		  {
             "sentence": "'''Нат1эк1э''' сеуагъ",
             "translation": "I hit him '''with the forehead'''."
+          },
+		  {
+            "sentence": "'''Снат1э''' зыгорэм еуи бэгыгъэ",
+            "translation": "'''My forehead''' hit something and it swelled."
           }
         ]
       }
@@ -3262,6 +3270,10 @@
 		  {
             "sentence": "Пшъашъэм '''ыпшъэтыкъ''' дышъэ блэрыпс илъ",
             "translation": "The girl has a gold chainlet on '''her neck'''."
+          },
+		  {
+            "sentence": "Л1ым '''ыпшъэтыкъ''' сыгъэщи сыук1ыгъ",
+            "translation": "I twisted the man's '''neck''' and killed him."
           }
         ]
       }
@@ -6285,6 +6297,10 @@
 		  {
             "sentence": "'''Бжьэхэр''' къэгъагъэмэ атесых",
             "translation": "'''The bees''' are on the flowers."
+          },
+		  {
+            "sentence": "Снат1э '''бжьэр''' къеуи ыгъэбэгыгъ",
+            "translation": "'''The bee''' stinged my forehead and made it swell."
           }
         ]
       }
@@ -6525,6 +6541,10 @@
 		  {
             "sentence": "'''Бадзэ''' горэ унэм ибыбыхьэу ит",
             "translation": "There is '''a housefly''' flying around in the house."
+          },
+		  {
+            "sentence": "Бэджыхъым '''бадзэ''' хэпк1агъ",
+            "translation": "'''A fly''' stuck in the spiderweb."
           },
 		  {
             "sentence": "Шъхьангъупчъэр къы1ухи '''бадзэр''' унэм идгъэбыбын ты1ощт",
@@ -7602,21 +7622,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "family",
+        "meaning": "alternative form of \"быны\"",
         "examples": []
-      },
-      {
-        "meaning": "child",
-        "examples": [
-          {
-            "sentence": "Л1ым ич1ыгу '''ыбынхэмэ''' афиугощыгъ",
-            "translation": "The man divided his land to '''his children'''."
-          },
-		  {
-            "sentence": "Налбыим '''бын''' бэ и1",
-            "translation": "Nalby has a lot of '''children'''."
-          }
-        ]
       }
     ],
     "type": "noun",
@@ -13029,6 +13036,10 @@
 		  {
             "sentence": "'''Хьадэр''' ч1ыгу ч1эгъым ч1алъхьажьыгъ",
             "translation": "They buried '''the corpse''' under the ground."
+          },
+		  {
+            "sentence": "'''Хьадэр''' къэм ч1алъхьагъ",
+            "translation": "They lied '''the corpse''' in the grave."
           }
         ]
       }
@@ -20487,6 +20498,10 @@
 		  {
             "sentence": "'''Хэгъэгуит1ур''' зэзаох",
             "translation": "'''The two countries''' are fighting each other."
+          },
+		  {
+            "sentence": "'''Хэгъэгухэмэ''' сатыу зэдаш1ы",
+            "translation": "'''The countries''' are doing trades together."
           }
         ]
       }
@@ -33451,8 +33466,17 @@
         ]
       },
       {
-        "meaning": "sons and daughters of the family (children; kids)",
-        "examples": []
+        "meaning": "child; son or daughter",
+        "examples": [
+          {
+            "sentence": "Л1ым ич1ыгу '''ыбынхэмэ''' афиугощыгъ",
+            "translation": "The man divided his land to '''his children'''."
+          },
+		  {
+            "sentence": "Налбыим '''бын''' бэ и1",
+            "translation": "Nalby has a lot of '''children'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -33605,7 +33629,8 @@
       }
     ],
     "synonyms": [
-      "быт1ы"
+      "быт1ы",
+      "пщэры"
     ],
     "shapsug": "быт1ы",
     "type": "adj",
@@ -33616,7 +33641,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(dialectal) fat",
+        "meaning": "(dialectal) fat (overweight)",
         "examples": [
           {
             "sentence": "К1алэр '''быт1ы'''",
@@ -33630,11 +33655,40 @@
       }
     ],
     "synonyms": [
-      "бырат1"
+      "бырат1",
+      "пщэры"
     ],
-    "kabardian": "пщэры",
     "type": "adj",
     "ipa": "bətʼə"
+  },
+  {
+    "word": "быт1ыхъурай",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(dialectal) chubby",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "batʼəχʷəraːj"
+  },
+  {
+    "word": "бэт1ыбат1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(dialectal) fatty",
+        "examples": [
+          {
+            "sentence": "К1алэр '''бэт1ыбат1'''",
+            "translation": "The boy '''is fatty'''"
+          }
+        ]
+      }
+    ],
+    "type": "adj",
+    "ipa": "batʼəbaːtʼ"
   },
   {
     "word": "бырацэ",
@@ -33785,7 +33839,19 @@
           },
 		  {
             "sentence": "'''Бысымым''' пчъэр къы1уихи хьак1эхэр унэм ригъэхьагъэх",
-            "translation": "'''The host''' opened the door and let the guests into the house.."
+            "translation": "'''The host''' opened the door and let the guests into the house."
+          },
+		  {
+            "sentence": "'''Бысымым''' хьак1эхэр егъэхьак1эх",
+            "translation": "'''The host''' hosts guests"
+          },
+		  {
+            "sentence": "'''Бысымым''' ихьак1эхэр дэгъоу ыгъэшхагъэх",
+            "translation": "'''The host''' fed his guests well."
+          },
+		  {
+            "sentence": "Хьак1эр ежьэжьын ы1уагъ шъхьак1эм, '''бысымым''' ригъэжьэжьыгъэп",
+            "translation": "The guest tried to head back, however '''the host''' didn't let him to head back."
           }
         ]
       },
@@ -33802,8 +33868,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "humpy",
-        "examples": []
+        "meaning": "humpy; hunched; bent over",
+        "examples": [
+          {
+            "sentence": "Л1ы '''быты'''",
+            "translation": "A '''humpy''' man."
+          }
+        ]
       },
       {
         "meaning": "humpbacked; hunchbacked",
@@ -33847,6 +33918,10 @@
           {
             "sentence": "Гъуч1ыр '''щыгъэ'''",
             "translation": "The iron '''was twisted'''."
+          },
+		  {
+            "sentence": "Джэмышх '''щыгъэ''' къысатыгъ",
+            "translation": "They gave me a '''twisted''' spoon."
           }
         ]
       },
@@ -33864,18 +33939,6 @@
     "ipa": "ɕən"
   },
   {
-    "word": "уфэн",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to bend",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "wəfan"
-  },
-  {
     "word": "гъэщын",
     "lang": "Adyghe",
     "definitions": [
@@ -33887,8 +33950,20 @@
             "translation": "The man '''twisted''' the iron."
           },
 		  {
+            "sentence": "Джэмышыр '''гъэщыгъ'''",
+            "translation": "The spoon '''is twisted'''."
+          },
+		  {
+            "sentence": "Джэмышх '''гъэщыгъэ''' къысатыгъ",
+            "translation": "They gave me a '''twisted''' spoon."
+          },
+		  {
             "sentence": "С1э '''огъэщы'''",
             "translation": "'''You are twisting''' my arm."
+          },
+		  {
+            "sentence": "Л1ым ыпшъэтыкъ '''сыгъэщи''' сыук1ыгъ",
+            "translation": "'''I twisted''' the man's neck and killed him."
           }
         ]
       }
@@ -33901,8 +33976,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "too moo",
-        "examples": []
+        "meaning": "to moo",
+        "examples": [
+          {
+            "sentence": "Шк1эр '''мэбыу'''",
+            "translation": "The calf '''moos'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -33919,6 +33999,38 @@
     ],
     "type": "verb",
     "ipa": "bəjaːwʑən"
+  },
+  {
+    "word": "убак1о",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "slanderer, calumniator",
+        "examples": []
+      },
+	  {
+        "meaning": "gossiper",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "wbaːkʷʼa"
+  },
+  {
+    "word": "бэ1уал",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "gossiper",
+        "examples": []
+      },
+	  {
+        "meaning": "taleteller, tale-bearer",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "baʔʷəl"
   },
   {
     "word": "бэ1ул",
@@ -33993,7 +34105,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to reproduce, to breed, to spawn, to propagate",
+        "meaning": "to propagate, to breed, to spawn (to cause animals to continue or multiply by generations)",
         "examples": []
       },
       {
@@ -34006,6 +34118,10 @@
           {
             "sentence": "Ш1ухэр '''шъугъэбагъох''', дэихэр шъугъэмак1эх",
             "translation": "'''Multiply''' the goods and decrease the bad."
+          },
+		  {
+            "sentence": "Тхьак1умк1ыхьэхэр '''бэгъуагъэх'''",
+            "translation": "The rabbits '''multiplied'''."
           }
         ]
       }
@@ -34031,15 +34147,52 @@
     "definitions": [
       {
         "meaning": "swelled",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Снат1э '''бэгыгъэ'''",
+            "translation": "My forehead '''swelled'''."
+          }
+        ]
       },
       {
         "meaning": "inflated",
         "examples": []
       }
     ],
+    "synonyms": [
+      "пщыгъэ"
+    ],
     "type": "adj",
     "ipa": "baɣəʁa"
+  },
+  {
+    "word": "пщыгъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "swelled",
+        "examples": [
+          {
+            "sentence": "Снат1э '''пщыгъэ'''",
+            "translation": "My forehead '''swelled'''."
+          }
+        ]
+      },
+      {
+        "meaning": "inflated",
+        "examples": [
+          {
+            "sentence": "Щэрэбыр '''пщыгъэ'''",
+            "translation": "The balloon '''inflated'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "бэгыгъэ"
+    ],
+    "type": "adj",
+    "ipa": "pɕəʁa"
   },
   {
     "word": "бэгын",
@@ -34049,22 +34202,47 @@
         "meaning": "to swell",
         "examples": [
           {
-            "sentence": "Мыжъор инэу '''бэгыгъэ'''",
-            "translation": "The rock largely '''swell'''."
+            "sentence": "Мыжъор инэу '''мэбыгэ'''",
+            "translation": "The rock '''swells''' largely."
           },
           {
-            "sentence": "Мыжъор '''мэбэгы'''",
-            "translation": "The rock '''is swelling'''."
+            "sentence": "Пхъэм псы хахьи '''бэгыгъэ'''",
+            "translation": "Water got into the wood and '''it swelled'''."
           },
           {
             "sentence": "Слъакъо '''бэгыгъ'''",
             "translation": "My leg '''swell'''."
+          },
+		  {
+            "sentence": "Снат1э бжьэр къеуи '''ыгъэбэгыгъ'''",
+            "translation": "The bee stinged my forehead and '''made it swell'''."
           }
         ]
       }
     ],
     "type": "verb",
     "ipa": "baɣən"
+  },
+  {
+    "word": "гъэбэгын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to swell something",
+        "examples": [
+		  {
+            "sentence": "Снат1э бжьэр къеуи '''ыгъэбэгыгъ'''",
+            "translation": "The bee stinged my forehead and '''made it swell'''."
+          },
+		  {
+            "sentence": "Псы пхъэм зыхахьэк1э пхъэр '''егъэбэгы'''",
+            "translation": "When water gets into the wood, '''it swells''' the wood."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʁabaɣən"
   },
   {
     "word": "бэджак1э",
@@ -34091,7 +34269,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to adjust; to fine-tune",
+        "meaning": "to compress into a dense mass",
         "examples": [
           {
             "sentence": "Тутыныр ыгъэпл1агъ",
@@ -34115,14 +34293,6 @@
             "translation": "The who drank (alcohol) '''staggers'''."
           }
         ]
-      },
-      {
-        "meaning": "to oscillate",
-        "examples": []
-      },
-      {
-        "meaning": "to totter",
-        "examples": []
       }
     ],
     "type": "verb",
@@ -34146,8 +34316,21 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "spider's web; cobweb",
-        "examples": []
+        "meaning": "spiderweb; cobweb; cobweb",
+        "examples": [
+          {
+            "sentence": "Бэджым '''бэджыхъ''' к1ашъом теш1ыхьагъ",
+            "translation": "The spider made a '''spiderweb''' on the ceiling."
+          },
+		  {
+            "sentence": "Бэджым '''бэджыхъ''' ехъэ",
+            "translation": "The spider weaves '''a web'''."
+          },
+		  {
+            "sentence": "'''Бэджыхъым''' бадзэ хэпк1агъ",
+            "translation": "A fly stuck in the '''spiderweb'''."
+          }
+        ]
       }
     ],
     "shapsug": "бэгьэхъ",
@@ -34159,8 +34342,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "fox den",
-        "examples": []
+        "meaning": "fox burrow; foxhole",
+        "examples": [
+          {
+            "sentence": "Баджэр '''бэджэбым''' ихьажьыгъ",
+            "translation": "The fox went inside the '''burrow'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -34188,7 +34376,20 @@
       },
       {
         "meaning": "rent",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Бэджэндэу сыштагъ",
+            "translation": "I took '''a rent'''."
+          },
+		  {
+            "sentence": "Бэджэндэур сытыгъ",
+            "translation": "I paid '''the rent'''."
+          },
+		  {
+            "sentence": "Шы бэджэндэу cыштагъ",
+            "translation": "I took a '''rented''' horse."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -34223,7 +34424,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "baby fox",
+        "meaning": "baby fox; fox cub",
         "examples": []
       }
     ],
@@ -34308,7 +34509,12 @@
       },
       {
         "meaning": "trader",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Сатыуш1ыр''' ц1ыфэу и1оф сатыухэр зиш1ырэр",
+            "translation": "A '''trader''' is a person whose job is to do trades."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -34375,7 +34581,20 @@
     "definitions": [
       {
         "meaning": "trade",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Сатыуш1ыр ц1ыфэу и1оф '''сатыухэр''' зиш1ырэр",
+            "translation": "A trader is a person whose job is to do '''trades'''."
+          },
+		  {
+            "sentence": "Хэгъэгухэмэ '''сатыу''' зэдаш1ы",
+            "translation": "The countries are doing '''trades''' together."
+          },
+		  {
+            "sentence": "'''Сатыу''' сыш1ынэу сыкъэк1уагъ",
+            "translation": "I came to do a '''trade'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -34390,7 +34609,12 @@
     "definitions": [
       {
         "meaning": "trade",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Хэгъэгухэмэ '''щэн–щэфэн''' зэдаш1ы",
+            "translation": "The countries are doing '''trades''' together."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -34409,6 +34633,14 @@
           {
             "sentence": "'''Бэдзэрыр''' тыдэ щы1?",
             "translation": "Where is '''the marketplace'''?"
+          },
+		  {
+            "sentence": "'''Бэдзэрыр''' тыщы1",
+            "translation": "We are in '''the marketplace'''."
+          },
+		  {
+            "sentence": "'''Бэдзэрыр''' тык1уагъ",
+            "translation": "We went to '''the marketplace'''."
           }
         ]
       }
@@ -34421,15 +34653,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "dealer",
-        "examples": []
-      },
-      {
-        "meaning": "merchant",
-        "examples": []
-      },
-      {
-        "meaning": "trader",
+        "meaning": "a person going to the market/bazaar/souq",
         "examples": []
       }
     ],
@@ -34463,7 +34687,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Fly killing tool",
+        "meaning": "fly killing tool",
         "examples": []
       }
     ],
@@ -34475,7 +34699,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "chunky",
+        "meaning": "chunky; chubby",
         "examples": []
       },
       {
@@ -34491,7 +34715,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "chunky",
+        "meaning": "chunky; chubby",
         "examples": []
       },
       {
@@ -34507,19 +34731,20 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "comparatively much",
+        "meaning": "comparatively much; pretty a lot; quite a lot",
         "examples": [
           {
-            "sentence": "К1алэ '''бэк1ае''' сиунэ къэк1уагъ",
-            "translation": "'''A lot of''' boys came to my house."
+            "sentence": "Ахъщэ '''бэк1ае''' къэбгъэхъагъ",
+            "translation": "You earned '''quite a lot of''' money."
           },
           {
             "sentence": "Зэ1ук1эм ц1ыф '''бэк1ае''' къек1ол1агъ",
-            "translation": "'''A lot''' of people came to the meeting."
+            "translation": "'''Quite a lot''' of people came to the meeting."
           }
         ]
       }
     ],
+    "shapsug": "бэк1ьай",
     "type": "adv",
     "ipa": "bat͡ʃʼaːj"
   },
@@ -34552,16 +34777,26 @@
     "ipa": "bat͡ʃʼə"
   },
   {
-    "word": "нахь бэк1э",
+    "word": "бэк1э нахь",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "more than",
-        "examples": []
+        "meaning": "way more than",
+        "examples": [
+          {
+            "sentence": "Сику уику '''бэк1э нахь''' дэгъу",
+            "translation": "My car '''is way''' better '''than''' your car."
+          },
+		  {
+            "sentence": "Мы1эрыс '''бэк1э нахь''' 1эш1у къужъым",
+            "translation": "Apple '''is way more''' tastier than pear."
+          }
+        ]
       }
     ],
+    "shapsug": "бэгьэ нахь",
     "type": "adv",
-    "ipa": "naːħ bat͡ʃʼa"
+    "ipa": "bat͡ʃʼa naːħ"
   },
   {
     "word": "бэкъогъу",
@@ -34659,16 +34894,38 @@
     "ipa": "baləd͡ʒaːkʼa"
   },
   {
-    "word": "бэлыджэпс",
+    "word": "1уб",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "radish juice",
-        "examples": []
+        "meaning": "sip; gulp",
+        "examples": [
+          {
+            "sentence": "Псы '''1уб'''",
+            "translation": "A '''sip''' of water."
+          }
+        ]
       }
     ],
     "type": "noun",
-    "ipa": "baləd͡ʒaps"
+    "ipa": "ʔʷəb"
+  },
+  {
+    "word": "ехъумп1эгъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "sip; gulp",
+        "examples": [
+          {
+            "sentence": "'''Ехъумп1эгъуит1ук1э''' ипшъун",
+            "translation": "A drink up '''in two sips'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "jaχʷəmpaʁʷ"
   },
   {
     "word": "бэлэрыгъ",
@@ -34676,7 +34933,12 @@
     "definitions": [
       {
         "meaning": "careless, carefree, unconcerned",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ц1ыф '''бэлэрыгъ'''",
+            "translation": "A '''careless''' person."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -34699,8 +34961,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "fighter, champion",
-        "examples": []
+        "meaning": "fighter; wrestler; brawler",
+        "examples": [
+          {
+            "sentence": "'''бэнак1охэр''' зэзаох",
+            "translation": "'''The wrestlers''' are fighting."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -34717,6 +34984,18 @@
     ],
     "type": "noun",
     "ipa": "banʐəj"
+  },
+  {
+    "word": "бэнтехъуапхъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "material for burial cover",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "bantajχʷaːpχ"
   },
   {
     "word": "бэнтехъу",
@@ -34747,7 +35026,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "the man washing the bodies of the dead",
+        "meaning": "the person washing the bodies of the dead",
         "examples": []
       }
     ],
@@ -34760,28 +35039,76 @@
     "definitions": [
       {
         "meaning": "grave",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Хьадэр '''бэным''' ч1алъхьагъ",
+            "translation": "They lied the corpse in '''the grave'''."
+          },
+		  {
+            "sentence": "'''Бэным''' къэгъагъэхэр тыралъхьагъэх",
+            "translation": "They put flowers on the '''grave'''."
+          },
+		  {
+            "sentence": "Бэныт1ым '''бэны''' ыт1ыгъ",
+            "translation": "The gravedigger digged '''a grave'''."
+          }
+        ]
       }
     ],
     "synonyms": [
-      "къэ",
-      "(Shapsug) хъэ"
+      "къэ"
     ],
     "kabardian": "бэн",
     "type": "noun",
     "ipa": "banə"
   },
   {
-    "word": "бэныт1",
+    "word": "къэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "gravedigger",
-        "examples": []
+        "meaning": "grave",
+        "examples": [
+          {
+            "sentence": "Хьадэр '''къэм''' ч1алъхьагъ",
+            "translation": "They lied the corpse in '''the grave'''."
+          },
+		  {
+            "sentence": "Къэхалъэр ары '''къэхэр''' зыдэтыр",
+            "translation": "It is the graveyard that contains '''the graves'''."
+          },
+		  {
+            "sentence": "'''Къэм''' къэгъагъэхэр тыралъхьагъэх",
+            "translation": "They put flowers on the '''grave'''."
+          },
+		  {
+            "sentence": "Л1ым '''къэ''' ыт1ыгъ",
+            "translation": "The man digged '''a grave'''."
+          }
+        ]
+      }
+    ],
+    "shapsug": "хъэ",
+    "kabardian": "кхъэ",
+    "type": "noun",
+    "ipa": "qa"
+  },
+  {
+    "word": "бэныт1ы",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "gravedigger; grave-digger",
+        "examples": [
+		  {
+            "sentence": "'''Бэныт1ым''' бэны ыт1ыгъ",
+            "translation": "'''The gravedigger''' digged a grave."
+          }
+        ]
       }
     ],
     "type": "noun",
-    "ipa": "banətʼ"
+    "ipa": "banətʼə"
   },
   {
     "word": "бэнэк1ын",
@@ -37593,7 +37920,16 @@
     "definitions": [
       {
         "meaning": "spider",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Бэджым''' бэджыхъ к1ашъом теш1ыхьагъ",
+            "translation": "'''The spider''' made a spiderweb on the ceiling."
+          },
+		  {
+            "sentence": "'''бэджым''' бэджыхъ ехъэ",
+            "translation": "'''The spide''' weaves a web."
+          }
+        ]
       }
     ],
     "shapsug": "багьэ",
@@ -37757,7 +38093,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "fat (heavyweight)",
+        "meaning": "fat (overweight)",
         "examples": [
           {
             "sentence": "к1алэр '''пщэры'''",
@@ -45302,7 +45638,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to spill a liquid to another liquid.",
+        "meaning": "to spill a liquid to another liquid",
         "examples": [
           {
             "sentence": "Санэ псым '''хапк1эмэ''' ыгъэплъыжьыщт",
@@ -45315,6 +45651,15 @@
           {
             "sentence": "Псынжъ псым '''хапк1эмэ''' ыуш1оищт",
             "translation": "'''If you spill''' mud on water it will make it dirty."
+          }
+        ]
+      },
+	  {
+        "meaning": "to get stuck on a sticky substance",
+        "examples": [
+		  {
+            "sentence": "Бэджыхъым бадзэ '''хэпк1агъ'''",
+            "translation": "A fly '''stuck in''' the spiderweb."
           }
         ]
       }
@@ -48102,6 +48447,10 @@
 		  {
             "sentence": "Тыгъуак1ор тучаным ч1эк1ошъэн '''ы1озэ''' къаубытыгъ",
             "translation": "The thief '''tried''' to sneak into the store but he got caught."
+          },
+		  {
+            "sentence": "Хьак1эр ежьэжьын '''ы1уагъ''' шъхьак1эм, бысымым ригъэжьэжьыгъэп",
+            "translation": "The guest '''tried''' to head back, however the host didn't let him to head back."
           }
         ]
       },
@@ -57199,7 +57548,7 @@
         "examples": [
           {
             "sentence": "бысым '''нэш1о-гуш1у'''",
-            "translation": "'''affable''' host."
+            "translation": "'''Affable''' host."
           }
         ]
       }
@@ -59280,6 +59629,10 @@
           {
             "sentence": "К1алэм '''сеутык1эгъ'''",
             "translation": "'''I bumped into''' the boy."
+          },
+		  {
+            "sentence": "Снат1э зыгорэм '''еутэк1и''' бэгыгъэ",
+            "translation": "My forehead '''bumped into''' something and it swelled."
           },
           {
             "sentence": "псынк1эу учъэмэ чъыгым '''уеутэк1ыщт'''",
@@ -67968,6 +68321,19 @@
           {
             "sentence": "Улъакъо сыкъеони '''сыгъэпщыщт'''",
             "translation": "I will hit your leg '''and swell it'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "to swell",
+        "examples": [
+		  {
+            "sentence": "Снат1э бжьэр къеуи '''ыгъэпщыгъ'''",
+            "translation": "The bee stinged my forehead and '''made it swell'''."
+          },
+		  {
+            "sentence": "Псы пхъэм зыхахьэк1э пхъэр ''егъэпщы'''",
+            "translation": "When water gets into the wood, '''it swells''' the wood."
           }
         ]
       }
@@ -81102,6 +81468,10 @@
 		  {
             "sentence": "К1алэр пхъэк1э слъакъо къеом, слъакъо '''пщыгъэ'''",
             "translation": "When the boy struck my leg with a wood, my leg '''swelled'''."
+          },
+		  {
+            "sentence": "Снат1э зыгорэм еуи '''пщыгъэ'''",
+            "translation": "My forehead hit something and '''it swelled'''."
           }
         ]
       }
@@ -88892,29 +89262,6 @@
     "ipa": "ʁaɮaːkʷʼa"
   },
   {
-    "word": "къэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "grave",
-        "examples": [
-          {
-            "sentence": "Хьадэр '''къэ''' ч1алъхьагъ",
-            "translation": "They lied the corpse in '''the grave'''."
-          },
-		  {
-            "sentence": "Къэхалъэр ары '''къэхэр''' зыдэтыр",
-            "translation": "It is the graveyard that contains '''the graves'''."
-          }
-        ]
-      }
-    ],
-    "shapsug": "хъэ",
-    "kabardian": "кхъэ",
-    "type": "noun",
-    "ipa": "qa"
-  },
-  {
     "word": "къэхалъэ",
     "lang": "Adyghe",
     "definitions": [
@@ -93322,6 +93669,10 @@
           {
             "sentence": "Ахъщэ '''къэсгъэхъагъ'''",
             "translation": "'''I earned''' money."
+          },
+		  {
+            "sentence": "Ахъщэ бэк1ае '''къэбгъэхъагъ'''",
+            "translation": "'''You earned''' a quite a lot of money."
           },
           {
             "sentence": "Дышъэхэ '''къэсэгъахъэх'''",
@@ -98900,7 +99251,7 @@
         "meaning": "to head back",
         "examples": [
           {
-            "sentence": "Хьак1эр '''ежьэжьын''' ы1уи шъхьак1эм, бысымым '''ригъэжьэжьыгъэп'''",
+            "sentence": "Хьак1эр '''ежьэжьын''' ы1уагъ шъхьак1эм, бысымым '''ригъэжьэжьыгъэп'''",
             "translation": "The guest tried '''to head back''', however the owner '''didn't let him to head back'''."
           }
         ]
@@ -99535,6 +99886,10 @@
 		  {
             "sentence": "Лэжьак1охэмэ бгыгъуанэр бгым '''хат1ык1ы'''",
             "translation": "The workers '''are digging''' the tunnel '''out''' of the hill."
+          },
+		  {
+            "sentence": "Бэныт1ым бэны '''ыт1ыгъ'''",
+            "translation": "The gravedigger '''digged''' a grave."
           }
         ]
       }
@@ -106820,7 +107175,7 @@
             "translation": "The horseman with a horse ran after the car, '''however''' he did not reach it."
           },
           {
-            "sentence": "Хьак1эр ежьэжьын ы1уи '''шъхьак1эм''', бысымым ригъэжьэжьыгъэп",
+            "sentence": "Хьак1эр ежьэжьын ы1уагъ '''шъхьак1эм''', бысымым ригъэжьэжьыгъэп",
             "translation": "The guest tried to run away, '''however''' the owner didn't let him."
           },
 		  {
@@ -110580,7 +110935,7 @@
     "ipa": "wɮawən"
   },
   {
-    "word": "нэк1ап",
+    "word": "нэк1апэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -113684,7 +114039,7 @@
           },
 		  {
             "sentence": "Бысымым ихьак1эхэр дэгъоу '''ыгъэшхагъэх'''",
-            "translation": "The host '''fed''' his guests good."
+            "translation": "The host '''fed''' his guests well."
           },
 		  {
             "sentence": "Бысымым иунэк1э '''тыкъагъэшхэщт'''",
@@ -115291,6 +115646,10 @@
 		  {
             "sentence": "Хым куущэу '''ухэмыхь''', умыш1ахэу уч1эбыщт",
             "translation": "'''Do not go''' too deeply '''inside''' the sea, you will drown by accident."
+          },
+		  {
+            "sentence": "Псы пхъэм '''зыхахьэк1э''' пхъэр егъэбэгы",
+            "translation": "When water '''gets into''' the wood, it swells the wood."
           }
         ]
       }
