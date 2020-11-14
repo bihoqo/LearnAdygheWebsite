@@ -5518,7 +5518,7 @@
     "cattle theft": "былымтыгъу"
   },
   {
-    "to steal": "тыгъун; тыгъон (to steal something); ш1отыгъон (to steal from); къы1эпхъотэн / къыш1опхъотэн (to snatch from someone)"
+    "to steal": "тыгъун; тыгъон (to steal something); ш1отыгъон (to steal from); къы1эпхъотэн / къыш1опхъотэн (to snatch from someone); хэтыгъук1ын (to steal someting from among); к1этыгъук1ын (to steal from a shop); итыгъук1ын (to steal from inside)"
   },
   {
     "pestilence": "емынэ; былымыл1э (for animals)"
@@ -6796,7 +6796,7 @@
     "to plough": "жъон; гъэжъон"
   },
   {
-    "to boil": "жъон (to be boiled); гъэжъон (to boil something); пщтэн (to be boiled (milk)); гъэпщтэн (to boil milk)"
+    "to boil": "жъон (to be boiled); гъэжъон (to boil something); пщтэн (to be boiled (milk)); гъэпщтэн (to boil milk); быжъутэн (to boil up)"
   },
   {
     "to grind": "хьаджын; убын"

@@ -33149,7 +33149,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "herdsman (shepherd / cowherd); stockbreeder",
+        "meaning": "herdsman (shepherd / cowherd); stockbreeder; cattlebreeder",
         "examples": []
       }
     ],
@@ -33220,6 +33220,10 @@
 		  {
             "sentence": "К1алэр насыпынчъэу къаубытыгъ '''ытыгъоу'''",
             "translation": "The boy got caught '''stealing''' lucklessly."
+          },
+		  {
+            "sentence": "К1алэр тучаным '''к1этыгъук1эу''' къаубытыгъ",
+            "translation": "The boy was caught '''stealing''' from the shop."
           }
         ]
       }
@@ -33229,6 +33233,50 @@
     ],
     "type": "verb",
     "ipa": "təʁʷən"
+  },
+  {
+    "word": "итыгъук1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to steal something from inside something",
+        "examples": [
+          {
+            "sentence": "К1алэм дышъэхэр унэм '''ритыгъук1ыгъэх'''",
+            "translation": "The boy '''stole''' the golds '''from inside''' the house."
+          }
+        ]
+      }
+    ],
+    "shapsug": "итыгъук1ьын",
+    "type": "verb",
+    "ipa": "jətəʁʷət͡ʃʼən"
+  },
+  {
+    "word": "хэтыгъук1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to steal something from among objects",
+        "examples": []
+      }
+    ],
+    "shapsug": "хэтыгъук1ьын",
+    "type": "verb",
+    "ipa": "xatəʁʷət͡ʃʼən"
+  },
+  {
+    "word": "к1этыгъук1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to steal something from a shop",
+        "examples": []
+      }
+    ],
+    "shapsug": "к1этыгъук1ьын",
+    "type": "verb",
+    "ipa": "t͡ʃʼatəʁʷət͡ʃʼən"
   },
   {
     "word": "тыгъон",
