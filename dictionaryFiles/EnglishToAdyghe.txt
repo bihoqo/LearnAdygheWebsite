@@ -165,6 +165,15 @@
     "much": "бэрэ"
   },
   {
+    "to peck": "у1он; еу1ун"
+  },
+  {
+    "to hollow": "у1он; еу1ун"
+  },
+  {
+    "to gouge": "пцын; иу1уч1ык1ын; ипцык1ын"
+  },
+  {
     "tooth": "цэ"
   },
   {
@@ -252,7 +261,13 @@
     "dictionary": "гущы1алъэ"
   },
   {
+    "circumstances": "зэрэшыты"
+  },
+  {
     "place": "ч1ып1э; -п1э (suffix); еры"
+  },
+  {
+    "environment": "ч1ып1э"
   },
   {
     "there": "адэ; ак1э; адэк1э; ау (dialectal); (dialectal) аук1э (from there); (dialectal) а т1эк1ум; модэ; мок1э); модэк1э"
@@ -3036,7 +3051,7 @@
     "hauberk": "ашъо"
   },
   {
-    "to knead": "1отын; гъэшъэбэн / гъэушъэбын"
+    "to knead": "утэн; 1отын; гъэшъэбэн / гъэушъэбын"
   },
   {
     "armor": "ашъо (chain mail); мэ1у (shield); 1ашэ-шъуашэхэр"
@@ -4269,6 +4284,9 @@
     "pattern": "бзыпхъэ (template for making clothes)"
   },
   {
+    "model": "бзыпхъэ (template for making clothes)"
+  },
+  {
     "sample": "бзыпхъэ"
   },
   {
@@ -4491,7 +4509,7 @@
     "to arrive": "къэсын; нэгъэсын / къэгъэсын (to make someone arrive at)"
   },
   {
-    "to harm": "ягъэ егъэк1ын; гоон; егоон"
+    "to harm": "къин егъэхъун (to harm, to bother, to disturb); ягъэ егъэк1ын (to bother, to harm someone not physically); гоон; егоон"
   },
   {
     "to get in the way": "ягъэ егъэк1ын; гъэохъун; пэ1ууцон (to stand in front of someone)"
@@ -4564,10 +4582,16 @@
     "to account": "епэсын (to deem, to hold in belief or estimation, to regard as being); лъытэн / пчъын (to account, to consider, to take into consideration); дэхэпчъэн (to account something as well)"
   },
   {
-    "to adjust": "фэш1оу пш1ыныр (to adjust to one's needs)"
+    "to adapt": "егъэк1ун (to adapt to); фэш1оу ш1ын"
+  },
+  {
+    "to adjust": "егъэк1ун (to adjust to); фэш1оу пш1ын (to adjust to one's needs)"
   },
   {
     "to beautify": "зэгъэфэн"
+  },
+  {
+    "to unbend": "узэнк1ын; узэпкъын; зыузэнк1ын (to straighten oneself); узэфын"
   },
   {
     "to straighten": "узэнк1ын; узэпкъын; зыузэнк1ын (to straighten oneself); узэфын"
@@ -4744,13 +4768,13 @@
     "to go near": "еблэгъэн; 1ухьан; ыдэжь к1он"
   },
   {
-    "bold": "л1ыхъужъ; л1эблан; бланэ; гушхо; пхъашэ"
+    "bold": "л1ыхъужъ; л1ыблан; бланэ; гушхо; пхъашэ"
   },
   {
-    "brave": "л1ыхъужь; л1ыгъэ зыхэлъ; л1эблан; пхъашэ"
+    "brave": "л1ыхъужь; л1ыгъэ зыхэлъ; л1ыблан; пхъашэ"
   },
   {
-    "courageous": "л1ыхъужь; л1ыгъэ зыхэлъ; л1эблан; пхъашэ; гушхо"
+    "courageous": "л1ыхъужь; л1ыгъэ зыхэлъ; л1ыблан; бланэ; пхъашэ; гушхо"
   },
   {
     "one seventh": "бланэ"
@@ -6319,7 +6343,10 @@
     "parsley": "къоны"
   },
   {
-    "to trample": "хэубэн"
+    "to trample": "улъэгун"
+  },
+  {
+    "to tread": "улъэгун"
   },
   {
     "housewife": "бысымгуащ"
@@ -7318,7 +7345,7 @@
     "rainy": "ожъубан; оял; ощхыл"
   },
   {
-    "to arm": "зыу1эшын; 1ашэк1э зыузэндын"
+    "to arm": "у1эшын; зыу1эшын (to arm oneself); 1ашэк1э зыузэндын"
   },
   {
     "marsh": "орыжъ; темэн"
@@ -8362,7 +8389,7 @@
     "to not get along": "зэмызэгъын"
   },
   {
-    "to get along": "езэгъын (to get along with); зэзэгъын (to get along with each other)"
+    "to get along": "езэгъын (to get along with); зэзэгъын (to get along with each other); хэзэгъэн (to get along in a group or a specific environemnt); изэгъэн (to get along inside something)"
   },
   {
     "to demand": "к1эдэун"
@@ -9178,7 +9205,7 @@
     "bent": "1онт1агъ"
   },
   {
-    "to bend": "гъэ1онт1эн (to bend, to curve); уфэн; зыуфэн (to bend onself)"
+    "to bend": "гъэ1онт1эн (to bend, to curve); уфэн; зыуфэн (to bend onself); егъэун (to bend an object toward a source of heat); зегъэун (to bend oneself toward something that emits heat)"
   },
   {
     "to crook": "1онт1эн (to be crooked); гъэ1онт1эн (to crook something); гъэ1орт1эн (Shapsug)"
@@ -14044,7 +14071,7 @@
     "letter": "хьарыф"
   },
   {
-    "template": "тхыпкъэ"
+    "template": "тхыпкъэ; бзыпхъэ (template for making clothes)"
   },
   {
     "alphabet": "хьарыфылъ; тхыпкъылъэ; алфавит"
@@ -14062,7 +14089,16 @@
     "fairy tale": "пшысэ"
   },
   {
+    "fictional story": "пшысэ"
+  },
+  {
     "narrative": "пшысэ"
+  },
+  {
+    "made-up": "къэгупшысыгъэ"
+  },
+  {
+    "invented": "къэгупшысыгъэ"
   },
   {
     "tale": "пшысэ"
@@ -14152,7 +14188,10 @@
     "to fast": "нэк1ын"
   },
   {
-    "state": "зытет (a condition, a set of circumstances applying at any given time); къэрал (polity)"
+    "situation": "зэрэшыты"
+  },
+  {
+    "state": "зэрэшыты; зытет (a condition, a set of circumstances applying at any given time); къэрал (polity)"
   },
   {
     "last name": "лъэкъуац1э; унэгъуац1э"
@@ -17020,7 +17059,7 @@
     "to calm": "быяун / самбырын (to calm down); гъэбыяун / гъэсамбырын / гъэрэхьатын (to calm someone, to ease someone); зэгъэн (to settle down due to calmness)"
   },
   {
-    "to cope": "зэгъэн; езэгъын (to deal okayly with, to deal effectively, to cope with); хэзэгъэн (to cope in a group or a specific environemnt); ; изэгъэн (to cope inside something)"
+    "to cope": "зэгъэн; езэгъын (to deal okayly with, to deal effectively, to cope with); хэзэгъэн (to cope in a group or a specific environemnt); изэгъэн (to cope inside something)"
   },
   {
     "to tame": "гъэсэн; гъэ1эсэн"
@@ -19751,9 +19790,6 @@
   },
   {
     "to make enemy": "гъэпыин (to make someone an enemy)"
-  },
-  {
-    "to adapt": "егъэк1ун (to adapt to)"
   },
   {
     "mask": "нэпэтелъхьэ; нэ1урыхъу"
