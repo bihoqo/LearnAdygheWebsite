@@ -1531,6 +1531,10 @@
 		  {
             "sentence": "Маш1ор ''''мэсты''",
             "translation": "The fire '''is burning'''."
+          },
+          {
+            "sentence": "Маш1ом ухэк1ын п1омэ '''укъистыщт'''",
+            "translation": "If you try to go through the fire '''it will burn you'''."
           }
         ]
       }
@@ -2453,6 +2457,10 @@
 		  {
             "sentence": "Пхъэм '''маш1о''' пынагъ",
             "translation": "'''Fire''' stuck on the wood."
+          },
+          {
+            "sentence": "'''Маш1ом''' ухэк1ын п1омэ укъистыщт",
+            "translation": "If you try to go through '''the fire''' it will burn you."
           }
         ]
       }
@@ -32025,12 +32033,20 @@
         "meaning": "plate",
         "examples": [
           {
-            "sentence": "Here are the glasses, the '''plates''' and the napkins",
-            "translation": "Мары стаканхэр, '''лагъэхэр''' ык1и 1эплъэк1хэр."
+            "sentence": "Мары апчыхэр, '''лагъэхэр''' ык1и 1эплъэк1хэр",
+            "translation": "Here are the glasses, the '''plates''' and the napkins."
           },
 		  {
             "sentence": "'''Лагъэхэр''' 1анэм ык1ы1у тешъулъхьэх",
             "translation": "Put '''the plates''' on the surface of the table."
+          },
+		  {
+            "sentence": "'''Уилагъэ''' шхын къибгъэнагъ",
+            "translation": "You left food in '''your plate'''."
+          },
+		  {
+            "sentence": "Зыб '''лагъэм''' шхэу ибылъхьагъэр",
+            "translation": "You put so much food in '''the plate'''."
           }
         ]
       },
@@ -32069,6 +32085,10 @@
 		  {
             "sentence": "Чъыгы къутамэ '''зэш1ок1ы'''",
             "translation": "The tree branch '''is snapping'''."
+          },
+		  {
+            "sentence": "1анэм сызтеуцом '''зэш1ок1ыгъ'''",
+            "translation": "When I stepped on the table '''it snapped'''."
           }
         ]
       },
@@ -32087,13 +32107,9 @@
       {
         "meaning": "to wound; to injure",
         "examples": [
-          {
+          { 
             "sentence": "К1алэр '''у1агъэ'''",
             "translation": "The boy '''is wounded'''."
-          },
-		  {
-            "sentence": "Панэхэмэ сахахьэм сыку '''къиу1агъ'''",
-            "translation": "When I entered the field of thorn, '''it injured''' my thigh."
           },
 		  {
             "sentence": "Дзэк1ол1ыр '''у1агъэ'''",
@@ -32165,11 +32181,11 @@
         "meaning": "slow",
         "examples": [
           {
-            "sentence": "л1ыжъыр '''жъажъэ'''",
+            "sentence": "Л1ыжъыр '''жъажъэ'''",
             "translation": "The old-man '''is slow'''."
           },
           {
-            "sentence": "л1ыжъыр '''жъажъэу''' мак1о",
+            "sentence": "Л1ыжъыр '''жъажъэу''' мак1о",
             "translation": "The old-man is walking '''slowly'''."
           },
           {
@@ -32314,7 +32330,6 @@
       }
     ],
     "synonyms": [
-      "1элджанэ",
       "1элджанэ"
     ],
     "type": "noun",
@@ -32371,8 +32386,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "small, tiny",
-        "examples": []
+        "meaning": "small, tiny (used as a suffix)",
+        "examples": [
+          {
+            "sentence": "Чэты - '''чэтжъый'''",
+            "translation": "Chicken - chick."
+          },
+		  {
+            "sentence": "Пшъашъэ - '''пшъэшъэжъый'''",
+            "translation": "Young woman - girl."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -32514,19 +32538,23 @@
           {
             "sentence": "Мы ливылым '''ухэк1ышъурэба'''",
             "translation": "'''You can't pass through''' this level?"
+          },
+          {
+            "sentence": "Маш1ом '''ухэк1ын''' п1омэ укъистыщт",
+            "translation": "If you try to '''go through''' the fire it will burn you."
           }
         ]
       },
       {
-        "meaning": "to come out of a situation, group of people or objects, forest, plants, an area with gas or liquid",
+        "meaning": "to come out of a situation, group of people or objects, forest, plants, an area with some gas or liquid",
         "examples": [
           {
             "sentence": "К1алэр псым '''хэк1ыгъ'''",
             "translation": "The boy '''got out of''' the water."
           },
           {
-            "sentence": "К1алэр маш1ом '''хэк1ыгъ'''",
-            "translation": "The boy '''got out of''' the fire."
+            "sentence": "К1алэр гъэстыгъэу маш1ом '''хэк1ыгъ'''",
+            "translation": "The boy '''got out of''' the fire burned."
           },
 		  {
             "sentence": "Куджаныр к1алэхэмэ '''къахэк1ыгъ'''",
@@ -32552,6 +32580,10 @@
           {
             "sentence": "Къещхырэпи, хым и1этыгъак1э '''хэк1ы'''",
             "translation": "The sea's height '''is decreasing''' because it doesn't rain."
+          },
+          {
+            "sentence": "Сиахъщэ '''хэк1ыгъ'''",
+            "translation": "My money '''decreased'''."
           }
         ]
       },
@@ -32639,10 +32671,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to cross quickly, to pass quickly; to rush past",
+        "meaning": "to cross quickly; to pass quickly; to rush past",
         "examples": [
           {
-            "sentence": "шъэожъыер унэм '''блэлъэтыгъ'''",
+            "sentence": "Шъаор унэм '''блэлъэтыгъ'''",
             "translation": "The boy '''rushed past''' the house."
           }
         ]
@@ -32739,7 +32771,12 @@
     "definitions": [
       {
         "meaning": "pimple, spot, pustule",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм ынэк1ушъо фыкъуадэхэр къытек1ыгъэх",
+            "translation": "'''Pimples''' grew on the boy's cheek."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -32799,7 +32836,7 @@
         "meaning": "to miss a target (to fail to hit)",
         "examples": [
           {
-            "sentence": "К1алэр к1эрахъомк1э '''блэугъ''' тхьак1умэк1ыхьэм",
+            "sentence": "К1алэр к1эрахъомк1э '''блэугъ''' тхьак1умэк1ыхьым",
             "translation": "The boy '''missed''' the rabbit with the gun."
           },
           {
@@ -32845,7 +32882,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "stake, spicket, pale",
+        "meaning": "stake, spicket, pale, picket",
         "examples": []
       }
     ],
@@ -32856,10 +32893,6 @@
     "word": "нэмыплъ",
     "lang": "Adyghe",
     "definitions": [
-      {
-        "meaning": "inattention",
-        "examples": []
-      },
       {
         "meaning": "disregard, lack of attention, inattention",
         "examples": [
@@ -32885,8 +32918,8 @@
         "meaning": "to run past, to run through; to rush past",
         "examples": [
           {
-            "sentence": "Конторам '''блэхъушъутын'''",
-            "translation": "'''To run past''' the office."
+            "sentence": "Унэм '''блэхъушъутын'''",
+            "translation": "'''To run past''' the house."
           },
 		  {
             "sentence": "К1алэр гъогум '''блэхъушъуты'''",
@@ -33052,16 +33085,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "nursling",
-        "examples": []
-      },
-      {
-        "meaning": "suckling",
-        "examples": []
-      },
-      {
-        "meaning": "sucker",
-        "examples": []
+        "meaning": "nursling; suckling; An infant that is still being breastfed (being suckled) by its mother",
+        "examples": [
+          {
+            "sentence": "Бзылъфыгъэм ысабый '''быдзашъу''' ы1ыгъ",
+            "translation": "The woman holds her '''suckling''' child."
+          }
+        ]
       }
     ],
     "kabardian": "быдзафэ",
@@ -33074,7 +33104,12 @@
     "definitions": [
       {
         "meaning": "breastmilk",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Бзылъфыгъэм ысабый '''быдзыщэ''' регъашъо",
+            "translation": "The woman makes her child drink '''breastmilk''' (The woman breastfeeds her child)"
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -33086,7 +33121,12 @@
     "definitions": [
       {
         "meaning": "to seethe, to boil up",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Псыхъор '''мэбыжъутэ'''",
+            "translation": "The river '''boils'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -42329,7 +42369,12 @@
     "definitions": [
       {
         "meaning": "cheek",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''ынэк1ушъомэ''' фыкъуадэхэр къытек1ыгъэх",
+            "translation": "Pimples grew on the boy's '''cheek'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -42344,7 +42389,12 @@
     "definitions": [
       {
         "meaning": "cheek",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''ынэк1ушъхьэмэ''' фыкъуадэхэр къытек1ыгъэх",
+            "translation": "Pimples grew on the boy's '''cheek'''."
+          }
+        ]
       }
     ],
     "synonyms": [

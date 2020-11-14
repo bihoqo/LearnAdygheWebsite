@@ -5323,7 +5323,7 @@
     "to go through": "хэк1ын"
   },
   {
-    "to emerge": "хэк1ын"
+    "to emerge": "хэк1ын (to emerge from)"
   },
   {
     "to get decreased": "хэк1ын"
@@ -5437,6 +5437,9 @@
     "spicket": "чэгъу"
   },
   {
+    "picket": "чэгъу"
+  },
+  {
     "pale": "чэгъу"
   },
   {
@@ -5483,9 +5486,6 @@
   },
   {
     "to flutter": "быбэтэн"
-  },
-  {
-    "sucker": "быдзашъу"
   },
   {
     "nursling": "быдзашъу"
