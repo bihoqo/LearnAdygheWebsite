@@ -5921,7 +5921,16 @@
       },
 	  {
         "meaning": "hairy",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ы '''цырацэ'''",
+            "translation": "A '''hairy''' man."
+          },
+		  {
+            "sentence": "Ц1ыф '''цырацэм''' цы бэ тет",
+            "translation": "A '''hairy''' person has a lot of hair."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -33224,6 +33233,14 @@
 		  {
             "sentence": "К1алэр тучаным '''к1этыгъук1эу''' къаубытыгъ",
             "translation": "The boy was caught '''stealing''' from the shop."
+          },
+		  {
+            "sentence": "К1алэм дышъэхэр унэм '''ритыгъук1ыгъэх'''",
+            "translation": "The boy '''stole''' the golds '''from inside''' the house."
+          },
+		  {
+            "sentence": "К1алэм пцэжъыер псым '''хитыгъук1ыгъ'''",
+            "translation": "The boy '''stole''' the fish '''from''' the water."
           }
         ]
       }
@@ -33257,8 +33274,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to steal something from among objects",
+        "meaning": "to steal something from among",
         "examples": []
+      },
+	  {
+        "meaning": "to steal something from a liquid",
+        "examples": [
+          {
+            "sentence": "К1алэм пцэжъыер псым '''хитыгъук1ыгъ'''",
+            "translation": "The boy '''stole''' the fish '''from''' the water."
+          }
+        ]
       }
     ],
     "shapsug": "хэтыгъук1ьын",
@@ -33271,6 +33297,15 @@
     "definitions": [
       {
         "meaning": "to steal something from a shop",
+        "examples": [
+		  {
+            "sentence": "К1алэр тучаным '''к1этыгъук1эу''' къаубытыгъ",
+            "translation": "The boy was caught '''stealing from''' the shop."
+          }
+        ]
+      },
+	  {
+        "meaning": "to steal something from under something",
         "examples": []
       }
     ],
@@ -33286,15 +33321,15 @@
         "meaning": "to steal",
         "examples": [
           {
-            "sentence": "к1алэр '''мэтыгъо'''",
+            "sentence": "К1алэр '''мэтыгъо'''",
             "translation": "The boy '''is stealing'''."
           },
           {
-            "sentence": "'''умтыгъу'''",
+            "sentence": "'''Умтыгъу'''",
             "translation": "'''Don't steal'''."
           },
           {
-            "sentence": "аш1оптыгъумэ, къыпш1отыгъужьыщтых",
+            "sentence": "Аш1оптыгъумэ, къыпш1уатыгъужьыщт",
             "translation": "If you steal from them, they will steal back from you."
           }
         ]
@@ -33324,11 +33359,44 @@
     "definitions": [
       {
         "meaning": "greedy; avid; covetous",
+        "examples": [
+          {
+            "sentence": "ахъщэк1э '''нэйпсый'''",
+            "translation": "'''Greedy''' for money."
+          }
+        ]
+      }
+    ],
+    "type": "adj",
+    "ipa": "naj[səj"
+  },
+  {
+    "word": "нэй-псый",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"нэйпсый\"",
         "examples": []
       }
     ],
     "type": "adj",
     "ipa": "naj[səj"
+  },
+  {
+    "word": "хьарам",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "stingy, niggardly, miserly",
+        "examples": []
+      },
+	  {
+        "meaning": "sin (forbidden by religion)",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "haːraːm"
   },
   {
     "word": "былымыпс",
@@ -33358,15 +33426,32 @@
     "ipa": "bələχʷ"
   },
   {
+    "word": "бынунэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"быныун\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "bənwəna"
+  },
+  {
     "word": "быны",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "family",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Куджаныр '''тибын''' щыщ",
+            "translation": "Kujan is a member of our '''family'''."
+          }
+        ]
       },
       {
-        "meaning": "sons and daughters of the family",
+        "meaning": "sons and daughters of the family (children; kids)",
         "examples": []
       }
     ],
@@ -33390,16 +33475,16 @@
     "ipa": "bənənt͡ʃa"
   },
   {
-    "word": "быныун",
+    "word": "быныунэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "family",
+        "meaning": "family (with children)",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "bənəwən"
+    "ipa": "bənəwəna"
   },
   {
     "word": "шъхьагъусэ",
@@ -33418,7 +33503,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to have sex with; to engage in sexual intercourse.",
+        "meaning": "to have sex with; to engage in sexual intercourse",
         "examples": []
       }
     ],
@@ -33442,12 +33527,45 @@
     "ipa": "bəraːb"
   },
   {
+    "word": "быракъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "flag",
+        "examples": [
+		  {
+            "sentence": "К1алэм '''быракъыр''' егъэ1э",
+            "translation": "The boy raises '''the flag'''."
+          },
+		  {
+            "sentence": "Тэдрэз лъэпкъым '''быракъ''' и1",
+            "translation": "Each nation has '''a flag'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "нып"
+    ],
+    "type": "noun",
+    "ipa": "bəraːq"
+  },
+  {
     "word": "нып",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "flag",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "К1алэм '''ныпыр''' егъэ1э",
+            "translation": "The boy raises '''the flag'''."
+          },
+		  {
+            "sentence": "Тэдрэз лъэпкъым '''нып''' и1",
+            "translation": "Each nation has '''a flag'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -33474,12 +33592,22 @@
     "definitions": [
       {
         "meaning": "fat (overweight)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''бырат1'''",
+            "translation": "The boy '''is overweight'''"
+          },
+		  {
+            "sentence": "К1алэр '''бырат1эу''' хъугъэ",
+            "translation": "The boy became '''fat'''"
+          }
+        ]
       }
     ],
     "synonyms": [
       "быт1ы"
     ],
+    "shapsug": "быт1ы",
     "type": "adj",
     "ipa": "bəraːtʼ"
   },
@@ -33489,7 +33617,16 @@
     "definitions": [
       {
         "meaning": "(dialectal) fat",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''быт1ы'''",
+            "translation": "The boy '''is overweight'''"
+          },
+		  {
+            "sentence": "К1алэр '''быт1эу''' хъугъэ",
+            "translation": "The boy became '''fat'''"
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -33509,7 +33646,16 @@
       },
       {
         "meaning": "(Kfar Kama dialect) hairy",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ы '''бырацэ'''",
+            "translation": "A '''hairy''' man."
+          },
+		  {
+            "sentence": "Ц1ыф '''бырацэм''' цы бэ тет",
+            "translation": "A '''hairy''' person has a lot of hair."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -33520,7 +33666,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "rough road; not smooth; uneven",
+        "meaning": "bumpy; rough road; not smooth; uneven",
         "examples": []
       }
     ],
@@ -33557,6 +33703,10 @@
     "definitions": [
       {
         "meaning": "to make trouble",
+        "examples": []
+      },
+	  {
+        "meaning": "to make an uproar",
         "examples": []
       }
     ],
