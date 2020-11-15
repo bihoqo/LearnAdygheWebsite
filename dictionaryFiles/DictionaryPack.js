@@ -38362,7 +38362,7 @@
             "translation": "The boy by eating '''made himself fat'''."
           },
           {
-            "sentence": "Бэрэ шхи '''пщэрэу''' хъущт",
+            "sentence": "Бэрэ шхи '''пщэрэу''' ухъущт",
             "translation": "Eat a lot and you will become '''fat'''."
           },
           {
@@ -38391,6 +38391,7 @@
         "examples": []
       }
     ],
+    "kabardian": "дзэл",
     "type": "noun",
     "ipa": "t͡salə"
   },
@@ -38410,6 +38411,10 @@
             "translation": "He gave me '''few''' money."
           },
           {
+            "sentence": "Ахъщэ '''мак1''' къыситыгъэр",
+            "translation": "The amount of money he gave me is '''few'''."
+          },
+          {
             "sentence": "К1алэхэр '''мак1эу''' екъух",
             "translation": "The boys are '''few'''."
           },
@@ -38419,7 +38424,7 @@
           },
           {
             "sentence": "Л1ыжъым иныбжь '''мак1эп'''",
-            "translation": "The age of the old man '''is not little'''."
+            "translation": "The age of the old man '''is not small'''."
           }
         ]
       }
@@ -38447,7 +38452,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(dialectal) nest",
+        "meaning": "(dialectal) nest; alternative form of \"набгъу\"",
         "examples": []
       }
     ],
@@ -38566,12 +38571,37 @@
           {
             "sentence": "Адыгэхэмк1э, хьатыяк1ом и1оф '''джэгур''' ыгъэзке1онэу",
             "translation": "Among the Circassians, it is the festival manager's work to manage the '''dancing circle'''"
+          },
+		  {
+            "sentence": "К1алэр '''джэгум''' хэхьагъ",
+            "translation": "The boy joined the '''dancing circle'''."
           }
         ]
       },
       {
         "meaning": "game",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''джэгумк1э''' мэджэгу",
+            "translation": "The boy is playing '''with the game'''."
+          },
+		  {
+            "sentence": "К1алэр '''джэгум''' реджэгу",
+            "translation": "The boy is playing '''the game'''."
+          },
+		  {
+            "sentence": "'''Джэгумк1э''' укъысдэджэгунэу уфая?",
+            "translation": "Do you want to play with me '''in the game'''?"
+          },
+		  {
+            "sentence": "Мы '''джэгур''' тхъагъо",
+            "translation": "This '''game''' is fun."
+          },
+		  {
+            "sentence": "Мы '''джэгур''' сик1ас",
+            "translation": "I like this '''game'''."
+          }
+        ]
       }
     ],
     "shapsug": "гьэгу",
@@ -38586,6 +38616,18 @@
         "meaning": "toy",
         "examples": [
           {
+            "sentence": "К1алэр '''джэгуалъэмк1э''' мэджэгу",
+            "translation": "The boy is playing '''with the toy'''."
+          },
+		  {
+            "sentence": "К1алэр '''джэгуалъэм''' реджэгу",
+            "translation": "The boy is playing '''with the toy'''."
+          },
+		  {
+            "sentence": "К1алэм '''джэгуалъэ''' к1э къыфащэфыгъ",
+            "translation": "They bought a new '''toy''' for the boy."
+          },
+		  {
             "sentence": "К1алэм '''джэгуалъэр''' естыгъагъэпи зигъэгусагъ",
             "translation": "Because I haven't given '''the toy''' to the boy, he sulked."
           }
@@ -38614,7 +38656,12 @@
     "definitions": [
       {
         "meaning": "to become ripen",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Санэм '''игъо хъугъэп'''",
+            "translation": "The grape '''did not became ripen'''."
+          }
+        ]
       }
     ],
     "type": "verb",
