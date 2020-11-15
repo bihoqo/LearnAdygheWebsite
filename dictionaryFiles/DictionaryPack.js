@@ -17604,18 +17604,6 @@
     "ipa": "χʷaχʷ"
   },
   {
-    "word": "бэнанэ",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "banana",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "banaːna"
-  },
-  {
     "word": "тхьэматэ",
     "lang": "Adyghe",
     "definitions": [
@@ -17787,7 +17775,8 @@
         "examples": []
       }
     ],
-    "type": "adv"
+    "type": "adv",
+    "ipa": "aːɕʁʷəm"
   },
   {
     "word": "мэу",
@@ -30595,6 +30584,10 @@
 		  {
             "sentence": "Уатэр '''гъэфедэн'''",
             "translation": "'''To use''' the hammer."
+          },
+		  {
+            "sentence": "Кудэр гъэстыныпхъэу '''агъэфедэ'''",
+            "translation": "'''They make use of''' oil as a fuel."
           }
         ]
       }
@@ -36144,7 +36137,12 @@
     "definitions": [
       {
         "meaning": "oil, earth oil, petroleum",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Кудэр''' гъэстыныпхъэу агъэфедэ",
+            "translation": "They make use of '''oil''' as a fuel."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -36243,7 +36241,8 @@
         "examples": []
       }
     ],
-    "type": "noun"
+    "type": "noun",
+    "ipa": "t͡ʃʼəwaps t͡ʃʼəb"
   },
   {
     "word": "ч1ыплъ",
@@ -36288,7 +36287,8 @@
         "examples": []
       }
     ],
-    "type": "noun"
+    "type": "noun",
+    "ipa": "t͡ʂʼəpt͡ʂən ʃʼanəʁa"
   },
   {
     "word": "ч1ытхъыцэхэр",
@@ -36340,7 +36340,12 @@
       },
       {
         "meaning": "loop (length of thread, line or rope, a shape produced by a curve)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Чы1унэхэр''' пальтэум хэ1ул1ык1ын",
+            "translation": "To attach '''loops''' on a coat."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -36489,7 +36494,12 @@
     "definitions": [
       {
         "meaning": "house-top (sedge-covered)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Бгъэнышъхьэ''' ун",
+            "translation": "'''Thatched roof''' house."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -36508,7 +36518,7 @@
     "ipa": "t͡ʃal"
   },
   {
-    "word": "шъхьэегъэзып1a",
+    "word": "шъхьэегъэзып1э",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -36620,7 +36630,8 @@
         "examples": []
       }
     ],
-    "type": "noun"
+    "type": "noun",
+    "ipa": "t͡ʃat͡sʼəbʐ"
   },
   {
     "word": "чэщ щыгъын",
@@ -36768,7 +36779,7 @@
             "translation": "My house is '''three steps close''', go quickly."
           },
           {
-            "sentence": "Яунэ к1о псынк1эу. Яунэ '''хьалъэбэкъуищ''' ны1эп",
+            "sentence": "Яунэ к1о псынк1эу, яунэ '''хьалъэбэкъуищ''' ны1эп",
             "translation": "Go to their house quickly, their house is only '''three steps close'''."
           }
         ]
@@ -36785,7 +36796,7 @@
         "meaning": "cold (a common, usually harmless, viral illness, usually with congestion of the nasal passages and sometimes fever)",
         "examples": [
           {
-            "sentence": "'''спэпскъичъ'''",
+            "sentence": "'''Спэпскъичъ'''",
             "translation": "'''I have cold'''."
           }
         ]
@@ -36804,7 +36815,12 @@
       },
       {
         "meaning": "cold weather",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ныпчыхьэ '''чъы1этагъ'''",
+            "translation": "Tonight is '''cold'''."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -36843,18 +36859,12 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(Shapsug dialect) pig",
-        "examples": [],
-        "tags": [
-          "Shapsug dialect"
-        ]
+        "meaning": "(Shapsug dialect) pig; alternative form of \"къо\"",
+        "examples": []
       },
       {
         "meaning": "(very rare) herd",
-        "examples": [],
-        "tags": [
-          "very rare"
-        ]
+        "examples": []
       }
     ],
     "synonyms": [
@@ -36870,10 +36880,28 @@
     "definitions": [
       {
         "meaning": "son",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Куджаным '''ыкъо''' къэсдэлажьэ",
+            "translation": "Kujan's '''son''' is working with me."
+          },
+		  {
+            "sentence": "Мары '''сыкъо'''",
+            "translation": "This is '''my son'''"
+          }
+        ]
       },
       {
         "meaning": "pig",
+        "examples": [
+          {
+            "sentence": "Тищагу '''къохэр''' дэсых",
+            "translation": "There are '''pigs''' in our yard."
+          }
+        ]
+      },
+      {
+        "meaning": "valley; vale, dale",
         "examples": []
       }
     ],
@@ -36883,12 +36911,29 @@
     "ipa": "qʷa"
   },
   {
+    "word": "жъалымагъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "cruelty; brutality, severity; savageness",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "ʐaːləmaːʁ"
+  },
+  {
     "word": "жъалым",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "savage",
-        "examples": []
+        "meaning": "savage; brutal",
+        "examples": [
+          {
+            "sentence": "Ц1ыф '''жъалым'''",
+            "translation": "'''Brutal''' person."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -36899,7 +36944,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "monster",
+        "meaning": "ugliness",
+        "examples": []
+      },
+	  {
+        "meaning": "deformity; abnormality",
         "examples": []
       }
     ],
@@ -36985,8 +37034,8 @@
             "translation": "'''How''' did the house collapsed?"
           },
           {
-            "sentence": "'''Таущтэу''' ок1о?",
-            "translation": "'''How''' you walk?"
+            "sentence": "'''Таущтэу''' ау ок1о?",
+            "translation": "'''How''' do you go there?"
           },
 		  {
             "sentence": "'''Таущтэу''' 1офыр уухыщт умыублэу?",
@@ -37028,8 +37077,8 @@
             "translation": "'''How''' you do that?"
           },
           {
-            "sentence": "'''Сыдэущтэу''' ок1о?",
-            "translation": "'''How''' you walk?"
+            "sentence": "'''Сыдэущтэу''' ау ок1о?",
+            "translation": "'''How''' do you go there?"
           },
 		  {
             "sentence": "'''Сыдэущтэу''' укъэк1уагъ?",
@@ -37127,7 +37176,12 @@
     "definitions": [
       {
         "meaning": "to mash and pound in",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "бжьыныфыр щыгъум '''хэубэн'''",
+            "translation": "T'''o mash''' garlic into salt."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -37153,7 +37207,7 @@
         "meaning": "to rust in",
         "examples": [
           {
-            "sentence": "гъуч1ы1унэр пхъэмбгъум '''хэулъыихьагъ'''",
+            "sentence": "Гъуч1ы1унэр пхъэмбгъум '''хэулъыихьагъ'''",
             "translation": "The nail '''rusted in''' the board."
           }
         ]
@@ -37168,7 +37222,12 @@
     "definitions": [
       {
         "meaning": "to press (into)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "П1астэр щэм '''хэщыт1эн'''",
+            "translation": "'''To press''' porridge into milk."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -37252,7 +37311,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "pear",
+        "meaning": "(fruit) pear",
         "examples": []
       }
     ],
@@ -37330,7 +37389,12 @@
     "definitions": [
       {
         "meaning": "banana",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''къо1ус''' ешхы",
+            "translation": "The boy is eating '''a banana'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -37369,8 +37433,21 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "orange (Fruit)",
-        "examples": []
+        "meaning": "(fruit) orange",
+        "examples": [
+          {
+            "sentence": "'''Т1амы''' сэшхы",
+            "translation": "I am eating '''a orange'''."
+          },
+		  {
+            "sentence": "К1алэм '''Т1амы''' ешхы",
+            "translation": "The boy is eating '''a orange'''."
+          },
+		  {
+            "sentence": "'''Т1амы''' сик1ас",
+            "translation": "I like '''oranges'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -37382,7 +37459,20 @@
     "definitions": [
       {
         "meaning": "apple",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Мы1эрыс''' сэшхы",
+            "translation": "I am eating '''an apple'''."
+          },
+		  {
+            "sentence": "К1алэм '''мы1эрыс''' ешхы",
+            "translation": "The boy is eating '''an apple'''."
+          },
+		  {
+            "sentence": "'''Мы1эрыс''' сик1ас",
+            "translation": "I like '''apples'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -37445,7 +37535,16 @@
     "definitions": [
       {
         "meaning": "tiger",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''Къэплъаныр''' бланэхэмэ апэс",
+            "translation": "'''The tiger''' is lying in wait for the deers."
+          },
+		  {
+            "sentence": "'''Къэплъаныр''' псынк1э дэд",
+            "translation": "'''The tiger''' is very fast."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -37517,7 +37616,12 @@
     "definitions": [
       {
         "meaning": "monkey",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Маймун''' чъыгым пыс",
+            "translation": "'''The monkey''' is sitting on the tree."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -37589,7 +37693,12 @@
     "definitions": [
       {
         "meaning": "rat",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Унэм '''шъуае''' къихьагъ",
+            "translation": "A '''rat''' came into the house."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -37669,7 +37778,12 @@
     "definitions": [
       {
         "meaning": "turtle",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Хьадэпчэмы1ур''' жъажъэ мэхъые",
+            "translation": "'''The turtle''' moves slowly."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -37983,7 +38097,8 @@
         "examples": []
       }
     ],
-    "type": "noun"
+    "type": "noun",
+    "ipa": "t͡ʂəɣəʃʷa"
   },
   {
     "word": "мац1э",
@@ -38043,7 +38158,7 @@
             "translation": "'''The spider''' made a spiderweb on the ceiling."
           },
 		  {
-            "sentence": "'''бэджым''' бэджыхъ ехъэ",
+            "sentence": "'''Бэджым''' бэджыхъ ехъэ",
             "translation": "'''The spide''' weaves a web."
           }
         ]
@@ -38095,7 +38210,12 @@
     "definitions": [
       {
         "meaning": "frog",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм къо1ус '''ешхы'''",
+            "translation": "The boy '''is eating''' a banana."
+          }
+        ]
       }
     ],
     "shapsug": "хьантыкъуакъу",
@@ -38123,12 +38243,24 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"лэгъупэкъопс\"",
+        "meaning": "rainbow",
         "examples": []
       }
     ],
     "type": "noun",
-    "ipa": "laʁʷəpʕʷaps"
+    "ipa": "laʁʷəpqʷaps"
+  },
+  {
+    "word": "лэгъупэкъопс",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"лэгъупкъопс\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "laʁʷəpaqʷaps"
   },
   {
     "word": "щыуанкъопс",
@@ -38180,7 +38312,7 @@
         "examples": [
           {
             "sentence": "к1эрэхъо '''дакъ'''",
-            "translation": "revolver '''handle'''."
+            "translation": "Gun '''handle'''."
           }
         ]
       },
@@ -38198,7 +38330,16 @@
     "definitions": [
       {
         "meaning": "spade, shovel",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''къазгъырк1э''' мат1э",
+            "translation": "The boy is digging '''with a shovel'''."
+          },
+		  {
+            "sentence": "'''Къазгъырк1э''' курб сыт1ыгъ",
+            "translation": "I digged a hole '''with a shovel'''."
+          }
+        ]
       }
     ],
     "kabardian": "хьэнцэ",
@@ -38213,20 +38354,24 @@
         "meaning": "fat (overweight)",
         "examples": [
           {
-            "sentence": "к1алэр '''пщэры'''",
+            "sentence": "К1алэр '''пщэры'''",
             "translation": "The boy '''is fat'''."
           },
           {
-            "sentence": "'''зыгъэпщэры'''",
-            "translation": "'''Make yourself fat'''."
+            "sentence": "К1алэм шхэу '''зигъэпщэрыгъ'''",
+            "translation": "The boy by eating '''made himself fat'''."
           },
           {
-            "sentence": "бэрэ шхи '''пщэрэу''' хъущт",
+            "sentence": "Бэрэ шхи '''пщэрэу''' хъущт",
             "translation": "Eat a lot and you will become '''fat'''."
           },
           {
-            "sentence": "'''упщэрынэу''' уфая?",
+            "sentence": "'''Упщэрынэу''' уфая?",
             "translation": "Do you want to be '''fat'''?"
+          },
+          {
+            "sentence": "К1алэу шхэу '''пщэрэу''' хъугъэ",
+            "translation": "The boy by eating became '''fat'''"
           }
         ]
       }
@@ -70120,18 +70265,6 @@
     ],
     "type": "adj",
     "ipa": "ʂaːba"
-  },
-  {
-    "word": "лэгъупэкъопс",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "rainbow",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "laʁʷəpaʕʷaps"
   },
   {
     "word": "лэгъупышху",
@@ -124672,7 +124805,12 @@
     "definitions": [
       {
         "meaning": "fuel",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Кудэр '''гъэстыныпхъэу''' агъэфедэ",
+            "translation": "They make use of oil '''as a fuel'''."
+          }
+        ]
       }
     ],
     "type": "noun",
