@@ -14180,6 +14180,10 @@
           {
             "sentence": "К1алэр пшъашъэм дэк1уагъэу '''слъэгъугъ'''",
             "translation": "'''I saw''' that the boy went with the girl."
+          },
+		  {
+            "sentence": "Мэзэхащэти зи '''сылъэгъурэп'''",
+            "translation": "Because it is so dark '''I cannot see anything'''."
           }
         ]
       }
@@ -38677,7 +38681,32 @@
       },
 	  {
         "meaning": "dark",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Унэр '''мэзах'''",
+            "translation": "The house '''is dark'''."
+          },
+		  {
+            "sentence": "К1алэм '''мэзахэм''' изакъоу хэхьагъ",
+            "translation": "The boy entered '''the dark''' alone."
+          },
+		  {
+            "sentence": "Ламбэр угъэк1уасэмэ '''мэзахэу''' мэхъу",
+            "translation": "When you turn off the light it becomes '''dark'''."
+          },
+		  {
+            "sentence": "'''Мэзэхащэти''' зи сылъэгъурэп",
+            "translation": "'''Because it is so dark''' I cannot see anything."
+          },
+		  {
+            "sentence": "К1элэц1ык1ур '''мэзахэм''' к1эзэзэу хэт",
+            "translation": "The little boy is trembling in '''the dark'''."
+          },
+		  {
+            "sentence": "К1алэр мэз '''мэзахэм''' хэхьанэу мэщынэ",
+            "translation": "The boy is scared to enter the '''dark''' forest."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -38689,7 +38718,12 @@
     "definitions": [
       {
         "meaning": "infidel",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Джаурхэмэ''' шэн я1эп",
+            "translation": "'''The infidels''' have no manners."
+          }
+        ]
       }
     ],
     "shapsug": "гьаур",
@@ -38758,7 +38792,12 @@
     "definitions": [
       {
         "meaning": "ash",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Пхъэр зэстым, '''яжьэу''' хъугъэ",
+            "translation": "When the wood burned, it became '''ash'''."
+          }
+        ]
       }
     ],
     "synonyms": [
