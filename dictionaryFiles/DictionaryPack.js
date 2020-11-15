@@ -7980,6 +7980,13 @@
           {
             "sentence": "Сыд '''илъэс''' Туркуям укъызк1уагъэр?",
             "translation": "In what '''year''' you came to Turkey?."
+          },
+		  {
+            "sentence": "Мыгъэ '''илъэс''' гъэбэжъу",
+            "translation": "This year is a harvest '''year'''."
+          }
+            "sentence": "Мыгъэ '''силъэс''' аужыр университетк1э",
+            "translation": "This year is '''my''' last '''year''' in the university."
           }
         ]
       }
@@ -13568,6 +13575,10 @@
 		  {
             "sentence": "Л1ым '''пхъэхэр''' зэ1уигъак1и унэ ахэмк1э зэхиш1ыхьагъ",
             "translation": "The man collected '''woods''' and built up a house with them."
+          },
+		  {
+            "sentence": "'''Пхъэ''' п1уак1эм утеуцомэ зэпык1ыщт",
+            "translation": "If you step on the thin '''wood''' it will snap."
           }
         ]
       }
@@ -35259,6 +35270,23 @@
     "ipa": "baraʔʷəmaːf"
   },
   {
+    "word": "гъэбэжъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "harvest",
+        "examples": [
+          {
+            "sentence": "Мыгъэ илъэс '''гъэбэжъу'''",
+            "translation": "This year is a '''harvest''' year."
+          }
+        ]
+      }
+    ],
+    "type": "adj",
+    "ipa": "baraqaːɕ"
+  },
+  {
     "word": "бэрэкъащ",
     "lang": "Adyghe",
     "definitions": [
@@ -35276,6 +35304,10 @@
     "definitions": [
       {
         "meaning": "blessing, boon",
+        "examples": []
+      },
+	  {
+        "meaning": "good-natured",
         "examples": []
       }
     ],
@@ -35440,8 +35472,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "bottle (glass), pitcher",
-        "examples": []
+        "meaning": "bottle, pitcher",
+        "examples": [
+          {
+            "sentence": "Щэ '''бэшэрэб'''",
+            "translation": "'''Bottle''' of milk."
+          },
+		  {
+            "sentence": "'''Бэшэрэбым''' псы игъэхъон",
+            "translation": "To pour water into a bottle."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -35456,7 +35497,8 @@
         "examples": []
       }
     ],
-    "type": "noun"
+    "type": "noun",
+    "ipa": "baɕt͡ʃʼaraːw"
   },
   {
     "word": "бэщкъорэгъ",
@@ -35609,6 +35651,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "endurant",
+        "examples": [
+          {
+            "sentence": "Ц1фы '''бэщэч'''",
+            "translation": "An '''endurant''' person."
+          },
+		  {
+            "sentence": "Шы '''бэщэч'''",
+            "translation": "An '''endurant''' horse."
+          }
+        ]
+      },
+	  {
         "meaning": "heavyweight; heavily-loaded",
         "examples": []
       }
@@ -35623,7 +35678,12 @@
     "definitions": [
       {
         "meaning": "hardy, sturdy, endurant",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Шы '''лъэпшъэрыхь'''",
+            "translation": "An '''endurant''' horse."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -35675,7 +35735,12 @@
       },
 	  {
         "meaning": "to stumble into each other",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Тилъакъохэр '''зэпэш1оуагъэх'''",
+            "translation": "Our legs '''stumbled into each other'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -35703,8 +35768,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "beggar (A poor person who begs for money)",
-        "examples": []
+        "meaning": "beggar (a poor person who begs for money)",
+        "examples": [
+		  {
+            "sentence": "'''Лъэ1уак1ор''' ахъщэм фэлъа1о",
+            "translation": "'''The beggar''' is begging for money."
+          },
+		  {
+            "sentence": "'''Лъэ1уак1о''' ахъщэр къы1ихынэу лъы1эбагъ",
+            "translation": "'''The beggar''' reached out to take money from him/her."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -35716,7 +35790,20 @@
     "definitions": [
       {
         "meaning": "thin",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Пицэр '''п1уак1эу''' къэш1",
+            "translation": "Make the pizza '''thin'''."
+          },
+		  {
+            "sentence": "Чхы1ан '''п1уак1''' къэтелъыр",
+            "translation": "There is a '''thin''' blanked on me."
+          },
+		  {
+            "sentence": "Пхъэ '''п1уак1эм''' утеуцомэ зэпык1ыщт",
+            "translation": "If you step on the '''thin''' wood it will snap."
+          }
+        ]
       }
     ],
     "kabardian": "п1ащ1э",
@@ -35732,7 +35819,7 @@
         "meaning": "to raise, to adopt",
         "examples": [
           {
-            "sentence": "сэ мы к1алэ '''сып1ущт'''",
+            "sentence": "Сэ мы к1алэ '''сып1ущт'''",
             "translation": "'''I will adopt''' this boy."
           },
           {
@@ -35740,8 +35827,12 @@
             "translation": "Aslan '''raised''' Kujan."
           },
           {
-            "sentence": "мы к1алэр '''ап1угъ'''",
+            "sentence": "Мы к1алэр '''ап1угъ'''",
             "translation": "'''They adopted/raised''' this boy."
+          },
+          {
+            "sentence": "Мауглир шъао тыгъужъхэмэ '''ап1ужьыгъэу''' мэзым",
+            "translation": "Mowgli is a boy '''that was raised''' by the wolves in the forest."
           }
         ]
       }
@@ -35795,8 +35886,12 @@
         "meaning": "to scratch (with fingernails, foot-nails or claws)",
         "examples": [
           {
-            "sentence": "чэтыур '''мэп1астхъэ'''",
+            "sentence": "Чэтыур '''мэп1астхъэ'''",
             "translation": "The cat '''is scratching'''."
+          },
+		  {
+            "sentence": "Чэтыур к1алэм '''еп1эстхъыгъ'''",
+            "translation": "The cat '''scratched''' the boy."
           }
         ]
       }
@@ -35813,7 +35908,7 @@
         "meaning": "to scratch someone (with fingernails, foot-nails or claws)",
         "examples": [
           {
-            "sentence": "чэтыур к1алэм '''еп1эстхъыгъ'''",
+            "sentence": "Чэтыур к1алэм '''еп1эстхъыгъ'''",
             "translation": "The cat '''scratched''' the boy."
           },
 		  {
@@ -35845,7 +35940,12 @@
     "definitions": [
       {
         "meaning": "to become callous",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "С1э '''стхъагъэ'''",
+            "translation": "My hand '''became callous'''."
+          }
+        ]
       }
     ],
     "shapsug": "схъэн",
@@ -35872,11 +35972,11 @@
         "meaning": "to be trained",
         "examples": [
           {
-            "sentence": "к1алэр '''сагъэ'''",
+            "sentence": "К1алэр '''сагъэ'''",
             "translation": "The boy is '''trained'''."
           },
           {
-            "sentence": "к1алэр '''сагъэп'''",
+            "sentence": "К1алэр '''сагъэп'''",
             "translation": "The boy is '''is not trained'''."
           }
         ]
@@ -35885,18 +35985,23 @@
         "meaning": "to be taught how to behave well",
         "examples": [
           {
-            "sentence": "к1алэр '''сэнэу''' фаеп",
+            "sentence": "К1алэр '''сэнэу''' фаеп",
             "translation": "The boy '''does not want to learn how to behave-well'''."
           },
           {
-            "sentence": "к1алэр '''сагъ'''",
+            "sentence": "К1алэр '''сагъ'''",
             "translation": "The boy '''taught how to behave-well'''."
           }
         ]
       },
       {
         "meaning": "to be tamed",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Хьэр '''гъэсагъ'''",
+            "translation": "The dog '''is tamed'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -35925,6 +36030,10 @@
             "sentence": "'''Сэш1э''' ар",
             "translation": "'''I know''' that."
           },
+		  {
+            "sentence": "А к1алэм сыд ыц1э '''ош1а'''?",
+            "translation": "'''Do you know''' what is his name?"
+          },
           {
             "sentence": "Урысыбзэ '''сш1эрэп'''",
             "translation": "'''I don't know''' the Russian language."
@@ -35938,7 +36047,7 @@
             "translation": "'''I don't know''' the things that boy told you."
           },
           {
-            "sentence": "Сэ дзэмк1э сыш1ыхэрэр '''аш1эу''' хъутыхэп",
+            "sentence": "Сэ дзэмк1э сыш1ыхэрэр '''аш1эу''' хъущтыхэп",
             "translation": "'''They''' are not allowed '''to know''' what I am doing in the army."
           },
           {
@@ -36006,7 +36115,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "tiger",
+        "meaning": "alternative form of \"къэплъан\"",
         "examples": []
       }
     ],
@@ -36823,6 +36932,10 @@
 		  {
             "sentence": "У1э '''сыд''' ч1элъыр?",
             "translation": "'''What''' is in your hand?"
+          },
+		  {
+            "sentence": "А к1алэм '''сыд''' ыц1э ош1а?",
+            "translation": "Do you know '''what''' is his name?"
           }
         ]
       }
@@ -78794,11 +78907,37 @@
     "definitions": [
       {
         "meaning": "ill-tempered; bad-tempered",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''цыхэ''', зи щы1эныгъэ и1эп",
+            "translation": "The boy is '''ill-tempered''', he has no patience."
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "t͡səxa"
+  },
+  {
+    "word": "щы1эныгъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "patience",
+        "examples": [
+          {
+            "sentence": "К1алэр цыхэ, зи '''щы1эныгъэ''' и1эп",
+            "translation": "The boy is ill-tempered, he has no '''patience'''."
+          },
+		  {
+            "sentence": "'''Щы1эныгъэ''' зигъа1",
+            "translation": "Have some '''patience'''."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "ɕəʔanəʁa"
   },
   {
     "word": "еп1эстхъын",
@@ -83477,6 +83616,10 @@
 		  {
             "sentence": "Тхьапш '''чхы1анэу''' къыптелъыр?",
             "translation": "How many '''blankets''' on you?"
+          },
+		  {
+            "sentence": "'''Чхы1ан''' п1уак1 къэтелъыр",
+            "translation": "There is a thin '''blanked''' on me."
           }
         ]
       }
@@ -88523,6 +88666,10 @@
 		  {
             "sentence": "Дэпкъым сыжэхахьэм спэ '''зэпик1ыгъ'''",
             "translation": "When I collided against the wall, '''it broke''' my nose."
+          },
+		  {
+            "sentence": "Пхъэ п1уак1эм утеуцомэ '''зэпык1ыщт'''",
+            "translation": "If you step on the thin wood '''it will snap'''."
           }
         ]
       },
@@ -98289,6 +98436,13 @@
           {
             "sentence": "'''мыгъэм''' Куджаыр къэк1ощт",
             "translation": "'''This year''' Kujan will come."
+          },
+		  {
+            "sentence": "'''Мыгъэ''' илъэс гъэбэжъу",
+            "translation": "'''This year''' is a harvest year."
+          }
+            "sentence": "'''Мыгъэ''' силъэс аужыр университетк1э",
+            "translation": "'''This year''' is my last year in the university."
           }
         ]
       }
@@ -98301,7 +98455,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "if that is not it",
+        "meaning": "if that is not it; if that is not that case",
         "examples": [
           {
             "sentence": "'''Умыармэ''' л1ым ыш1агъэр, сыда хьапсым ч1агъэт1ысхьагъ?",
@@ -98334,7 +98488,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "if so, if that is the case",
+        "meaning": "if so, if that is the case, if that is it",
         "examples": [
           {
             "sentence": "'''Армэ''' л1ым ыш1агъэр, хьапсым ч1агъэт1ысхьан фай",
@@ -112448,6 +112602,10 @@
 		  {
             "sentence": "Сымыш1ахэу чэтыум ык1э '''сытеуцуагъ'''",
             "translation": "'''I stepped on''' the cat's tail by mistake."
+          },
+		  {
+            "sentence": "Пхъэ п1уак1эм '''утеуцомэ''' зэпык1ыщт",
+            "translation": "'''If you step''' on the thin wood it will snap."
           }
         ]
       },
@@ -126804,6 +126962,10 @@
           {
             "sentence": "Апчым '''игъахъу''' псы",
             "translation": "'''Fill''' the glass with water."
+          },
+		  {
+            "sentence": "Бэшэрэбым псы '''игъэхъон'''",
+            "translation": "'''To pour''' water into a bottle."
           }
         ]
       },

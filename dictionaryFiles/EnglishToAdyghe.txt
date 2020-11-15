@@ -5983,6 +5983,9 @@
     "long ago": "бэ хъугъи; бэ теш1агъэу; бэш1агъэу; 1аджиш1агъэу"
   },
   {
+    "patience": "щы1эныгъэ"
+  },
+  {
     "bottle": "бэшэрэб"
   },
   {
@@ -8794,7 +8797,7 @@
     "to copulate": "дэгъолъын; бгъодэхьан; ек1ол1эн; гогъолъхьан; бгъодэгъолъхьан"
   },
   {
-    "to have": "и1эн (to have, to possess, to have ownership of); хэлъын (to have a certain characteristic such as kindness, stingyness, meanness, mercy, etc.); 1ыгъэн (to have something, to hold something)"
+    "to have": "и1эн (to have, to possess, to have ownership of); хэлъын (to have a certain characteristic such as kindness, stingyness, meanness, mercy, etc.); 1ыгъэн (to have something, to hold something); зигъэ1эн (to make oneself have)"
   },
   {
     "to possess": "и1эн (to have, to possess, to have ownership of)"
