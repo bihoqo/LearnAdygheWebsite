@@ -38814,8 +38814,8 @@
         "meaning": "fast; quick",
         "examples": [
           {
-            "sentence": "Жьым фэдэу '''псынк1э'''",
-            "translation": "As '''fast''' as wind."
+            "sentence": "Тхьак1умк1ыхьым фэдэу '''псынк1э'''",
+            "translation": "As '''fast''' as a rabbit."
           },
 		  {
             "sentence": "К1алэр '''псынк1эу''' мачъэ",
@@ -38830,7 +38830,7 @@
             "translation": "Bring me the water '''fast'''."
           },
           {
-            "sentence": "к1элэегъаджэм '''псынк1ащэу''' етхи егъэуш1ои, иуахътэк1э тесытхык1ышъурэп",
+            "sentence": "К1элэегъаджэм '''псынк1ащэу''' етхи егъэуш1ои, иуахътэк1э тесытхык1ышъурэп",
             "translation": "The teacher writes and erases '''too fast''', I cannot copy him in time."
           },
 		  {
@@ -38857,6 +38857,10 @@
           {
             "sentence": "1анэр '''псынк1э'''",
             "translation": "The table '''is light'''."
+          },
+		  {
+            "sentence": "К1элэц1ык1ур '''псынк1эти''' 1эш1эхэу къэсыштэшъу",
+            "translation": "'''Because''' the boy '''is light''' I can lift him easily."
           }
         ]
       }
@@ -38865,6 +38869,23 @@
     "kabardian": "псынщ1э",
     "type": "adj",
     "ipa": "psənt͡ʃʼa"
+  },
+  {
+    "word": "плъырстыр",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "typhus",
+        "examples": [
+          {
+            "sentence": "К1алэм '''плъырстырк1э''' сымадж",
+            "translation": "The boy is sick '''with typhus'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "pɬərstər"
   },
   {
     "word": "жъоку",
@@ -38904,10 +38925,6 @@
           {
             "sentence": "Бзылъфыгъэм къэгъагъэхэр дахэу '''егъэхъух'''",
             "translation": "The woman '''is turning''' the flowers to beautiful [flowers]."
-          },
-          {
-            "sentence": "Гъожьырэ шхъуант1эрэ зэхэбгъахьэхэмэ уцышъоу '''хъущтых'''",
-            "translation": "If you mix yellow and blue, '''they will become''' green."
           }
         ]
       },
@@ -38938,6 +38955,10 @@
           {
             "sentence": "К1алэм къэгъагъэхэ '''къегъэхъух'''",
             "translation": "The boy '''is growing''' flowers."
+          },
+		  {
+            "sentence": "Псым уцыхэр '''къегъэхъух'''",
+            "translation": "The water '''causes''' flowers '''to glow'''."
           }
         ]
       },
@@ -38985,11 +39006,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "squeamish, fastidious",
-        "examples": []
-      },
-      {
-        "meaning": "scorn, disdain (feeling of contempt or scorn)",
+        "meaning": "neglect, disregard",
         "examples": []
       }
     ],
@@ -39013,7 +39030,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "lame",
+        "meaning": "lame; limping",
         "examples": [
           {
             "sentence": "Л1ыжъыр '''лъащэу''' мак1о",
@@ -39024,6 +39041,18 @@
     ],
     "type": "adj",
     "ipa": "ɬaːɕa"
+  },
+  {
+    "word": "гъоплъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"гъуаплъэ\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʁʷaːpɬa"
   },
   {
     "word": "гъуаплъэ",
@@ -39045,6 +39074,9 @@
         "meaning": "lung",
         "examples": []
       }
+    ],
+    "synonyms": [
+      "тхьабыл"
     ],
     "type": "noun",
     "ipa": "ʐaːʁ"
@@ -39121,7 +39153,7 @@
             "translation": "The boy breaks one dollar into '''coins'''."
           },
 		  {
-            "sentence": "ощх '''жъгъэй''' къыхидзыщтыгъэ",
+            "sentence": "Ощх '''жъгъэй''' къыхидзыщтыгъэ",
             "translation": "'''Small drops''' of rain used to drizzle."
           }
         ]
@@ -39330,8 +39362,20 @@
         "meaning": "to plow, to plough",
         "examples": [
           {
-            "sentence": "Ч1ыгур '''жъон'''",
-            "translation": "'''To plow''' the land."
+            "sentence": "К1алэр '''мажъо'''",
+            "translation": "The boy '''plows'''."
+          },
+		  {
+            "sentence": "К1алэр '''жъуагъэ'''",
+            "translation": "The boy '''plowed'''."
+          }
+		  {
+            "sentence": "Ч1ыгур '''жъугъэ'''",
+            "translation": "The land '''was plowed'''."
+          },
+		  {
+            "sentence": "К1алэм ч1ыгур '''егъажъо'''",
+            "translation": "The man '''plows''' the land."
           }
         ]
       },
@@ -39341,6 +39385,14 @@
           {
             "sentence": "Псыр '''мажъо'''",
             "translation": "'''To boil''' the water."
+          },
+		  {
+            "sentence": "Псыр '''жъуагъэ'''",
+            "translation": "The water '''boiled'''."
+          },
+		  {
+            "sentence": "К1алэм псы '''егъажъо'''",
+            "translation": "The boy '''boils''' the water."
           }
         ]
       },
@@ -39433,21 +39485,25 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "warm (weather)",
+        "meaning": "very hot and dry, sultry",
         "examples": [
           {
             "sentence": "Гъэмафэм '''жъоркъы'''",
-            "translation": "The summer is '''warm'''."
+            "translation": "In the summer it is '''sultry'''."
           },
           {
+            "sentence": "Мэфэ '''жъоркъ'''",
+            "translation": "A '''sultry''' day."
+          }
+          {
             "sentence": "Непэ '''жъоркъ'''",
-            "translation": "It is '''warm''' today."
+            "translation": "It is '''sultry''' today."
+          },
+          {
+            "sentence": "Унэ к1оц1ыр '''жъоркъы''', шъхьангъупчъэхэр 1ухых къэучъы1ынэу",
+            "translation": "Inside the house is '''very hot''', open the windows so it will become cold."
           }
         ]
-      },
-      {
-        "meaning": "hot air, hot weather",
-        "examples": []
       }
     ],
     "synonyms": [
@@ -39480,11 +39536,37 @@
       {
         "meaning": "by the way",
         "examples": []
+      },
+      {
+        "meaning": "also",
+        "examples": [
+          {
+            "sentence": "'''Ык1и''' колэ къэхь",
+            "translation": "'''Also''' bring Coke."
+          }
+        ]
       }
     ],
     "shapsug": "ыгьи",
     "type": "adv",
     "ipa": "ət͡ʃʼəj"
+  },
+  {
+    "word": "бжьыгъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "spot, blot, blemish, stain",
+        "examples": [
+          {
+            "sentence": "Дэгъэ '''бжьыгъ'''",
+            "translation": "Oil '''stain'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "bʑəʁ"
   },
   {
     "word": "цуакъэ",
@@ -39546,16 +39628,49 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be happy",
-        "examples": []
-      },
-      {
-        "meaning": "to have fun",
-        "examples": []
+        "meaning": "to be happy; to have fun",
+        "examples": [
+          {
+            "sentence": "'''Тыжъотэу''' хэтхэу гъэр агъэк1уагъ",
+            "translation": "The passed the year '''while having fun'''."
+          }
+        ]
       }
+    ],
+    "synonyms": [
+      "чэфын"
     ],
     "type": "verb",
     "ipa": "ʐʷatən"
+  },
+  {
+    "word": "чэфын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to be happy; to have fun",
+        "examples": [
+          {
+            "sentence": "'''Тычэфэу''' хэтхэу гъэр агъэк1уагъ",
+            "translation": "The passed the year '''while having fun'''."
+          }
+        ]
+      },
+	  {
+        "meaning": "shroud (dress for the dead)",
+        "examples": [
+          {
+            "sentence": "Хьадэм '''чэфын''' ращэк1ыгъ",
+            "translation": "They wrapped the corpse in a '''shroud'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "жъотын"
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃafən"
   },
   {
     "word": "жъуагъо",
@@ -39565,12 +39680,16 @@
         "meaning": "star",
         "examples": [
           {
-            "sentence": "уашъом '''жъуагъохэр''' тетых",
+            "sentence": "Уашъом '''жъуагъохэр''' тетых",
             "translation": "'''The stars''' are in the sky."
           },
+		  {
+            "sentence": "'''Жъуагъохэр''' мэлыдых",
+            "translation": "'''The stars''' are glittering."
+          },
           {
-            "sentence": "еплъ еплъ '''жъуагъор''' къефэхы",
-            "translation": "Look Look, '''the star''' is falling."
+            "sentence": "Еплъ еплъ '''жъуагъор''' къефэхы",
+            "translation": "Look look, '''the star''' is falling."
           }
         ]
       }
@@ -40435,7 +40554,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "heavy",
+        "meaning": "heavy; heavyweight",
         "examples": [
           {
             "sentence": "Пкъыгъо '''онтэгъу'''",
@@ -43293,6 +43412,9 @@
         "meaning": "lung",
         "examples": []
       }
+    ],
+    "synonyms": [
+      "жъагъ"
     ],
     "type": "noun",
     "ipa": "tħaːbəl"
@@ -78233,6 +78355,10 @@
           {
             "sentence": "К1алэм тестыр къиныщт ыш1ош1ыгъ, ау '''1эш1эхэу''' къыч1эк1ыжьыгъ",
             "translation": "The boy thought the test gonna be hard, but it was '''easy'''."
+          },
+		  {
+            "sentence": "К1элэц1ык1ур псынк1эти '''1эш1эхэу''' къэсыштэшъу",
+            "translation": "Because the boy is light I can lift him '''easily'''."
           }
         ]
       }
@@ -84688,31 +84814,31 @@
         "meaning": "to happen",
         "examples": [
           {
-            "sentence": "ары '''хъугъэ'''",
+            "sentence": "Ары '''хъугъэ'''",
             "translation": "That is what '''happened'''."
           },
           {
-            "sentence": "'''хъугъэр''' сыд ош1а?",
+            "sentence": "'''Хъугъэр''' сыд ош1а?",
             "translation": "'''Do''' you know what '''happened'''?"
           },
           {
-            "sentence": "сыд '''хъугъэр'''?",
+            "sentence": "Сыд '''хъугъэр'''?",
             "translation": "What '''happened'''?"
           },
           {
-            "sentence": "арэп '''хъугъэр'''",
+            "sentence": "Арэп '''хъугъэр'''",
             "translation": "That is '''not what happened.'''"
           },
           {
-            "sentence": "сыд мы унэм '''ихъухьагъэр'''?",
+            "sentence": "Сыд мы унэм '''ихъухьагъэр'''?",
             "translation": "What '''happened''' inside this house?"
           },
           {
-            "sentence": "хы ч1эгъым гъэш1эгъоныхэр '''ч1эхъухьэх'''",
+            "sentence": "Хы ч1эгъым гъэш1эгъоныхэр '''ч1эхъухьэх'''",
             "translation": "Odd stuff '''happen''' under the sea."
           },
 		  {
-            "sentence": "цыхьэ сыш1ыгъэп, зыгорэ '''зэрэхъущтыр''' сыш1агъ",
+            "sentence": "Цыхьэ сыш1ыгъэп, зыгорэ '''зэрэхъущтыр''' сыш1агъ",
             "translation": "I did not trust, I knew something '''was going to happened'''"
           },
 		  {
@@ -84725,16 +84851,12 @@
         "meaning": "to become; to turn to",
         "examples": [
           {
-            "sentence": "илъэсипл1ык1э докторэу '''сыхъущт'''",
+            "sentence": "Илъэсипл1ык1э докторэу '''сыхъущт'''",
             "translation": "In four years '''I will become''' a doctor."
           },
           {
             "sentence": "1азэу '''ухъунэу''' уфая?",
             "translation": "Do you want '''to become''' skilled?"
-          },
-          {
-            "sentence": "гъожьырэ шхъуант1эрэ зэхэбгъэхьэхэмэ уцышъоу '''хъущт'''",
-            "translation": "If you mix yellow and blue, '''I will become''' green."
           },
           {
             "sentence": "Ар ащ гущы1эгъу '''фэхъугъэти''' гукъаоу и1эхэр къыри1уагъ.",
@@ -84743,6 +84865,10 @@
           {
             "sentence": "Къухьэр псы изэу '''хъугъэти''' ч1эбыгъ",
             "translation": "Because the ship '''became''' full of water, it sank."
+          },
+          {
+            "sentence": "Гъожьырэ шхъуант1эрэ зэхэбгъахьэхэмэ уцышъоу '''хъущтых'''",
+            "translation": "If you mix yellow and blue, '''they will become''' green."
           }
         ]
       },
@@ -96941,8 +97067,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to shine",
-        "examples": []
+        "meaning": "to sparkle, to scintillate",
+        "examples": [
+		  {
+            "sentence": "Жъуагъохэр '''мэц1ышхъых'''",
+            "translation": "The stars '''are sparkling'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -103386,6 +103517,10 @@
 		  {
             "sentence": "Псыр '''учъы1ымэ''', мэщты",
             "translation": "'''When''' water '''cools down''', it freezes."
+          },
+          {
+            "sentence": "Унэ к1оц1ыр жъоркъы, шъхьангъупчъэхэр 1ухых '''къэучъы1ынэу'''",
+            "translation": "Inside the house is warm, open the windows '''so it will become cold'''."
           }
         ]
       }
@@ -117194,23 +117329,6 @@
     "ipa": "tajpsan"
   },
   {
-    "word": "чэфын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "shroud (dress for the dead)",
-        "examples": [
-          {
-            "sentence": "Хьадэм '''чэфын''' ращэк1ыгъ",
-            "translation": "They wrapped the corpse in a '''shroud'''."
-          }
-        ]
-      }
-    ],
-    "type": "noun",
-    "ipa": "t͡ʃafən"
-  },
-  {
     "word": "чэфэу щытын",
     "lang": "Adyghe",
     "definitions": [
@@ -127592,7 +127710,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "ignoring; disregarding",
+        "meaning": "neglect; ignoring; disregarding",
         "examples": []
       }
     ],
@@ -134420,6 +134538,18 @@
     ],
     "type": "noun",
     "ipa": "t͡ʃəɮapχajawət"
+  },
+  {
+    "word": "жъон-сэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "agricultural, farming",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʒʷan-san"
   },
   {
     "word": "мэкъу-мэщ",

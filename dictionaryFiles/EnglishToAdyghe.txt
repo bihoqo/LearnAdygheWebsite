@@ -6013,7 +6013,7 @@
     "endurant": "лъэпшъэрыхь; бэщэч; къинбэщэч"
   },
   {
-    "heavyweight": "бэщэч"
+    "heavyweight": "онтэгъу; бэщэч"
   },
   {
     "heavy weight": "бэщэч"
@@ -6724,6 +6724,9 @@
     "nimble": "псынк1э; псык1э (Shapsug)"
   },
   {
+    "typhus": "плъырстыр"
+  },
+  {
     "firebrand": "жъоку"
   },
   {
@@ -6745,10 +6748,10 @@
     "to create": "ш1ын (to create, to make); къигъэш1ын (to create from nothing); къэгъэхъун (to make something appear); хэш1ык1ын (to be created out of); хэгъэш1ык1ын (to create something out of)"
   },
   {
-    "squeamish": "1умпэм"
+    "squeamish": "мэхъэшал; зыгъэгусал"
   },
   {
-    "fastidious": "1умпэм"
+    "fastidious": "зыгъэгусал"
   },
   {
     "ice-covered": "1умыл"
@@ -6826,7 +6829,7 @@
     "plowman": "жъонак1о"
   },
   {
-    "warm": "фабэ; жъоркъ (warm weather)"
+    "warm": "фабэ"
   },
   {
     "and": "ык1и"
@@ -6859,13 +6862,16 @@
     "star": "жъуагъо"
   },
   {
-    "residue,": "жъуаф"
+    "residue": "жъуаф"
   },
   {
-    "pomace,": "жъуаф"
+    "pomace": "жъуаф"
   },
   {
-    "oil cake,": "жъуаф"
+    "oil cake": "жъуаф"
+  },
+  {
+    "oilcake": "жъуаф"
   },
   {
     "crowd": "жъугъ"
@@ -8495,9 +8501,6 @@
   },
   {
     "detestable": "гущык1ыгъо (loathsome); гуштэгъуадж; гохьыдж"
-  },
-  {
-    "squeamish": "мэхъэшал"
   },
   {
     "easily disgusted": "мэхъэшал"
@@ -18716,6 +18719,9 @@
   },
   {
     "to suspect": "гуцафэ ш1ын; гурышхъу ш1ын; енэгуен"
+  },
+  {
+    "sultry": "жъоркъ; фэбае"
   },
   {
     "hot air": "жъоркъ; фэбае"
