@@ -1734,7 +1734,13 @@
     "thread": "1удан"
   },
   {
-    "tough": "къэпы"
+    "tough": "пытэ; (dialectal) къэпы"
+  },
+  {
+    "firm": "пытэ; (dialectal) къэпы"
+  },
+  {
+    "solid": "пытэ; (dialectal) къэпы"
   },
   {
     "barrel": "шъондыр; пхъэчай; к1ад"
@@ -6934,6 +6940,9 @@
     "coal": "ш1омык1ы"
   },
   {
+    "charcoal": "пхъэш1омык1"
+  },
+  {
     "voice": "макъэ"
   },
   {
@@ -6967,10 +6976,25 @@
     "chairman": "тхьаматэ"
   },
   {
+    "to buckle up": "гъэупк1эпк1эн"
+  },
+  {
+    "to fasten": "гъэпсынк1эн (to make faster); гъэупк1эпк1эн (to buckle up, to zip up, to button up, to fasten)"
+  },
+  {
+    "to zip up": "гъэупк1эпк1эн"
+  },
+  {
+    "to button up": "гъэупк1эпк1эн"
+  },
+  {
+    "to button": "гъэупк1эпк1эн"
+  },
+  {
     "ant": "къамзэгу; хъанзэгу (Shapsug)"
   },
   {
-    "anthill": "къамзэгу"
+    "anthill": "къамзэгукъ"
   },
   {
     "shirt": "джанэ"
@@ -9160,7 +9184,7 @@
     "arboretum": "чъыгхатэ"
   },
   {
-    "kitchen": "пыт; пщэрыхьап1э; шхынш1эщ"
+    "kitchen": "пыты; пщэрыхьап1э; шхынш1эщ"
   },
   {
     "breeze": "жьышъаб"
@@ -10297,13 +10321,19 @@
     "to rain": "къещхын; къыхидзын (to drizzle, to rain lightly)"
   },
   {
+    "to persuade": "ушъыин"
+  },
+  {
     "sunny": "тыгъэпсы"
+  },
+  {
+    "to ignore": "ш1омы1офын; пхъэтэпэмыхь ш1ын (to make something unimportant/insignificant)"
   },
   {
     "brightful": "тыгъэпсы (bright of the sun)"
   },
   {
-    "above": "ыпшъэ; ышъхьагъы; ык1ы1у (the surface of); ыпшъэк1э; ышъхьагък1э; ык1ы1ук1э"
+    "above": "ыпшъэ; ышъхьагъы; ык1ы1у (the surface of); ышъхьэ (the surface of); ыпшъэк1э; ышъхьагък1э; ык1ы1ук1э"
   },
   {
     "below": "ыч1эгъы; ыч1эгъык1э"
@@ -10450,10 +10480,10 @@
     "shoemaker": "щазмаш1э"
   },
   {
-    "hard": "пытэ (firm); (dialectal) къэпы (firm); къин (difficult); хьылъэ (difficult); -гъуае (hard sufix)"
+    "hard": "пытэ (firm, though); (dialectal) къэпы (firm); къины (difficult); хьылъэ (difficult); -гъуае (difficult sufix)"
   },
   {
-    "difficult": "къин; хьылъэ; онтэгъу (heavy burden)"
+    "difficult": "къины; хьылъэ"
   },
   {
     "depression": "гугъу"

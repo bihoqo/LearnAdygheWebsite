@@ -829,6 +829,10 @@
 		  {
             "sentence": "'''Шъоущыгъу''' хэмылъэу сешъоу зезгъэсагъ",
             "translation": "I made myself get used to drinking without '''sugar'''"
+          },
+		  {
+            "sentence": "Къамзэгухэмэ '''шъоущыгъухэу''' джэхашъом телъыхэр къаштэжьых",
+            "translation": "The ants are picking up the '''sugars''' that are on the floor."
           }
         ]
       }
@@ -2091,6 +2095,19 @@
 		  {
             "sentence": "'''Шъхьэк1э''' сеуагъ",
             "translation": "I hit him '''with the head'''."
+          },
+		  {
+            "sentence": "Л1ыр къушъхьэм '''ышъхьэ''' щыусэу",
+            "translation": "The man lives on '''the head of''' the mountain."
+          }
+        ]
+      },
+	  {
+        "meaning": "above; the surface of",
+        "examples": [
+          {
+            "sentence": "Цацэр 1анэм '''ышъхьэ''' телъ",
+            "translation": "The fork is on '''the surface of''' the table."
           }
         ]
       }
@@ -31388,6 +31405,10 @@
           {
             "sentence": "Шхыныри '''къашт''', къэзщымыгъэгъупщ",
             "translation": "'''Take''' the food as well, don't forget it."
+          },
+		  {
+            "sentence": "Къамзэгухэмэ шъоущыгъухэу джэхашъом телъыхэр '''къаштэжьых'''",
+            "translation": "The ants are '''picking up''' the sugars that are on the floor."
           }
         ]
       },
@@ -31600,6 +31621,10 @@
 		  {
             "sentence": "К1алэр шъондырыпым '''тео'''",
             "translation": "The boy '''is beating''' the drum."
+          },
+		  {
+            "sentence": "Сыдж '''тео''' макъэр к1ыщым къыщэ1у",
+            "translation": "Anvil '''striking''' sound was heard from the smithy."
           }
         ]
       },
@@ -38531,9 +38556,23 @@
     "definitions": [
       {
         "meaning": "anvil",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Сыджым сытеуагъ",
+            "translation": "I hit '''the anvil'''."
+          },
+		  {
+            "sentence": "'''Сыдж''' тео макъэр к1ыщым къыщэ1у",
+            "translation": "'''Anvil''' striking sound was heard from the smithy."
+          },
+		  {
+            "sentence": "Гъук1эр '''сыджым''' тео",
+            "translation": "The blacksmith is striking '''the anvil'''."
+          }
+        ]
       }
     ],
+    "shapsug": "сыгь",
     "type": "noun",
     "ipa": "sənd͡ʒ"
   },
@@ -39707,7 +39746,7 @@
         "examples": []
       },
       {
-        "meaning": "oil cake",
+        "meaning": "oilcake",
         "examples": []
       }
     ],
@@ -39720,7 +39759,20 @@
     "definitions": [
       {
         "meaning": "crowd; mass",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ц1ыф '''жъугъэ'''",
+            "translation": "A '''crowd''' of people."
+          },
+		  {
+            "sentence": "Ц1ыфхэр жъугъэу къызэ1ук1агъэх",
+            "translation": "The people met '''as a crowd'''."
+          },
+		  {
+            "sentence": "Ц1ыф '''жъугъэмэ''' зэдаштагъ",
+            "translation": "A '''crowd''' of people agreed with each other."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -39845,7 +39897,7 @@
         "meaning": "to thaw; to melt",
         "examples": [
           {
-            "sentence": "Мыжъо '''жъун'''",
+            "sentence": "Осыр '''мэжъужьы'''",
             "translation": "The snow '''melts'''."
           }
         ]
@@ -39869,8 +39921,8 @@
             "translation": "'''Melt''' the iron."
           },
           {
-            "sentence": "Тыгъэм '''сегъэтк1у'''",
-            "translation": "The sun '''melts me'''"
+            "sentence": "Тыгъэм мылхэр '''егъэтк1ух'''",
+            "translation": "The sun '''melts''' the ices."
           },
           {
             "sentence": "Лавэм ухахьэмэ '''угъэтк1ущт'''",
@@ -39899,20 +39951,42 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "picture",
-        "examples": []
+        "meaning": "picture; photo",
+        "examples": [
+          {
+            "sentence": "К1алэм '''сурэт''' къэстехыгъ",
+            "translation": "The boy took '''a picture''' of me."
+          },
+		  {
+            "sentence": "'''Сурэт''' къыптесхыщт",
+            "translation": "I will take '''a picture''' of you."
+          },
+		  {
+            "sentence": "К1алэм '''сурэт''' пшъашъэм техы",
+            "translation": "The boy takes '''a picture''' of the girl."
+          },
+		  {
+            "sentence": "К1алэм чъыгым '''сурэт''' хиш1ыхьагъ",
+            "translation": "The boy made '''a picture''' on the tree."
+          },
+		  {
+            "sentence": "'''Сурэтыр''' къуащэу пылъагъ",
+            "translation": "'''The picture''' is hanged crookedly."
+          },
+		  {
+            "sentence": "Дэпкъым '''сурэтэр''' пылъ",
+            "translation": "'''The picture''' is hanging on the wall."
+          }
+        ]
       },
       {
-        "meaning": "photo",
-        "examples": []
-      },
-      {
-        "meaning": "drawing",
-        "examples": []
-      },
-      {
-        "meaning": "painting",
-        "examples": []
+        "meaning": "drawing; painting",
+        "examples": [
+          {
+            "sentence": "Пшъашъэм '''сурэтэу''' ыш1ыгъэхэр къегъэлъагъух",
+            "translation": "The girl exhibits '''the drawings''' she done."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -39973,7 +40047,20 @@
     "definitions": [
       {
         "meaning": "glass",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Апсыр''' мачэ",
+            "translation": "'''The glass''' cracls."
+          },
+		  {
+            "sentence": "'''Апсым''' мыжъор тефи ыубэтагъ",
+            "translation": "The rock hit '''the glass''' and broke it."
+          },
+		  {
+            "sentence": "'''Апсым''' ухэплъышъущт",
+            "translation": "You can see through '''a glass'''."
+          }
+        ]
       }
     ],
     "shapsug": "апкь",
@@ -40013,12 +40100,73 @@
     "definitions": [
       {
         "meaning": "coal",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Пхъэ '''ш1омык1'''",
+            "translation": "Wood '''charcoal'''."
+          },
+		  {
+            "sentence": "Мыжъо '''ш1омык1'''",
+            "translation": "'''Coal'''."
+          },
+		  {
+            "sentence": "Маш1о '''ш1омык1ык1э''' ш1ын",
+            "translation": "To make fire '''using coal'''."
+          }
+        ]
       }
     ],
     "kabardian": "ф1амыщ1",
     "type": "noun",
     "ipa": "ʃʷʼamət͡ʃʼ"
+  },
+  {
+    "word": "пхъэш1омык1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "charcoal",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "pχaʃʷʼamət͡ʃʼ"
+  },
+  {
+    "word": "ушъыин",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to persuade someone",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "wʂəjən"
+  },
+  {
+    "word": "пхъэтэпэмыхь ш1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to ignore something/soneone; to make something unimportant/insignificant",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "pχatapaməħ ʃʼən"
+  },
+  {
+    "word": "ш1омы1офын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to ignore something",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʃʷʼaməʔʷafən"
   },
   {
     "word": "макъэ",
@@ -40034,6 +40182,10 @@
           {
             "sentence": "'''Уимакъэ''' сэ1урэп",
             "translation": "I don't hear your '''voice'''."
+          },
+          {
+            "sentence": "'''Имакъэк1э''' къэбэш1эжьа?",
+            "translation": "Do you recognize him '''by his voice'''?"
           }
         ]
       },
@@ -40047,6 +40199,10 @@
           {
             "sentence": "Пшынэм '''имакъэ''' дахэ",
             "translation": "The '''sound''' of the accordion is beautiful."
+          },
+		  {
+            "sentence": "Сыдж тео '''макъэр''' к1ыщым къыщэ1у",
+            "translation": "Anvil striking '''sound''' was heard from the smithy."
           }
         ]
       },
@@ -40070,7 +40226,16 @@
     "definitions": [
       {
         "meaning": "cheese",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Къуае''' сик1ас",
+            "translation": "I like '''cheese'''."
+          },
+		  {
+            "sentence": "'''Къуаер''' т1оу сыбзыгъ",
+            "translation": "I cut '''the cheese''' into two."
+          }
+        ]
       }
     ],
     "shapsug": "хъуае",
@@ -40095,11 +40260,23 @@
     "ipa": "χʷaːja"
   },
   {
+    "word": "ныкъо-тыкъо",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"ныкъо-тыкъу\"",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "nəqʷa-təqʷa"
+  },
+  {
     "word": "пыт",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "kitchen",
+        "meaning": "alternative form of \"пыты\"",
         "examples": []
       }
     ],
@@ -40107,13 +40284,51 @@
     "ipa": "pət"
   },
   {
+    "word": "пыты",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "kitchen",
+        "examples": [
+          {
+            "sentence": "'''Пытым''' шхын щысыш1ыгъ",
+            "translation": "I made foood in '''the kitchen'''"
+          },
+		  {
+            "sentence": "'''Пытым''' сыщэпщэрыхьы",
+            "translation": "I am cooking in '''the kitchen'''"
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "шхынш1эщ",
+      "пщэрыхьап1э"
+    ],
+    "type": "noun",
+    "ipa": "pətə"
+  },
+  {
     "word": "шхынш1эщ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "kitchen",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Щхынш1эщым''' шхын щысыш1ыгъ",
+            "translation": "I made foood in '''the kitchen'''"
+          },
+		  {
+            "sentence": "'''Щхынш1эщым''' сыщэпщэрыхьы",
+            "translation": "I am cooking in '''the kitchen'''"
+          }
+        ]
       }
+    ],
+    "synonyms": [
+      "пыты",
+      "пщэрыхьап1э"
     ],
     "type": "noun",
     "ipa": "ʃxənʃʼaɕ"
@@ -40126,15 +40341,27 @@
         "meaning": "kitchen",
         "examples": [
           {
+            "sentence": "'''Пщэрыхьап1эм''' шхын щысыш1ыгъ",
+            "translation": "I made foood in '''the kitchen'''"
+          },
+		  {
             "sentence": "О '''пщэрыхьап1э''' к1эу уи1а?",
             "translation": "Do you have a new kitchen?"
           },
           {
             "sentence": "Мыщ дэжьым '''пщэрыхьап1эр''' ык1и гъэпск1ып1эр щы1эх",
             "translation": "The '''kitchen''' and bathroom are here."
+          },
+		  {
+            "sentence": "'''Пщэрыхьап1эм''' сыщэпщэрыхьы",
+            "translation": "I am cooking in '''the kitchen'''"
           }
         ]
       }
+    ],
+    "synonyms": [
+      "шхынш1эщ",
+      "пыты"
     ],
     "type": "noun",
     "ipa": "pɕarəħaːpʼa"
@@ -40144,7 +40371,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "tough",
+        "meaning": "tough; firm; hard; solid",
         "examples": [
           {
             "sentence": "Мыжъор '''пытэ'''",
@@ -40153,6 +40380,14 @@
           {
             "sentence": "У1эхэр '''пытэх'''",
             "translation": "You arms are '''tough'''."
+          },
+		  {
+            "sentence": "К1апсэр '''пытэу''' зэкъолъэдагъ",
+            "translation": "The rope is tangled '''firmly'''."
+          },
+		  {
+            "sentence": "Унэм иш1ык1э '''пытэу''' щыт",
+            "translation": "The way the house is structured '''is hard'''."
           }
         ]
       }
@@ -40169,6 +40404,14 @@
         "meaning": "mirror",
         "examples": [
           {
+            "sentence": "Пшъашъэр '''гъунджэмк1э''' зэплъыжьы",
+            "translation": "The girl is looking at herself '''in the mirror'''."
+          },
+		  {
+            "sentence": "'''Гъунджэм''' укъыредзэ",
+            "translation": "You are reflected '''in the mirror'''."
+          },
+		  {
             "sentence": "Кур дэпкъым жэхахьэм, '''игъунджэ''' пыутыгъ",
             "translation": "When the car collided against the wall, '''its mirror''' broke off."
           }
@@ -40192,7 +40435,7 @@
             "translation": "'''Yesterday''' we came to your house."
           },
 		  {
-            "sentence": "'''Тыгъосагъэп''' ар зыхъугъэ, тыгъоснахьыпыгъ",
+            "sentence": "'''Тыгъосагъэп''' ар зыхъугъэр, тыгъоснахьыпагъ",
             "translation": "'''It wasn't yesterday''' when that happened, it was two days ago."
           },
 		  {
@@ -40222,8 +40465,20 @@
         "meaning": "boss",
         "examples": [
 		  {
-            "sentence": "'''Тхьэматэр''' к1алэм фэраз нэутхэти",
-            "translation": "'''The boss''' is pleased with the boy because he is industrious'."
+            "sentence": "'''Тхьаматэр''' к1алэм фэраз нэутхэти",
+            "translation": "'''The boss''' is pleased with the boy because he is industrious."
+          },
+		  {
+            "sentence": "'''Ситхьаматэ''' сыдэгущы1эн фай",
+            "translation": "I need to speak with '''my boss'''."
+          },
+		  {
+            "sentence": "'''Тхьаматэм''' ы1уагъ 1офым пасэу тыкъэк1онэу",
+            "translation": "'''The boss''' said to come to work early."
+          },
+		  {
+            "sentence": "'''Тхьаматэм''' къэсфидагъ непэ 1офым сыкъэмык1онэу",
+            "translation": "'''The boss''' permitted me not to come to work today."
           }
         ]
       },
@@ -40237,18 +40492,11 @@
       },
       {
         "meaning": "(dated possibly archaic) religious leader",
-        "examples": [],
-        "tags": [
-          "archaic",
-          "possibly archaic"
-        ]
+        "examples": [
       },
       {
         "meaning": "(possibly dated) husband",
-        "examples": [],
-        "tags": [
-          "possibly dated"
-        ]
+        "examples": []
       }
     ],
     "type": "noun",
@@ -40271,16 +40519,33 @@
     "ipa": "χaːnzaɡʷ"
   },
   {
+    "word": "къамзэгукъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "anthill",
+        "examples": []
+      }
+    ],,
+    "type": "noun",
+    "ipa": "qaːmzaɡʷq"
+  },
+  {
     "word": "къамзэгу",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "ant",
-        "examples": []
-      },
-      {
-        "meaning": "anthill",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Къамзэгухэр''' тиунэ къихьагъэх",
+            "translation": "'''Ants''' came into our house."
+          },
+		  {
+            "sentence": "'''Къамзэгухэмэ''' шъоущыгъухэу джэхашъом телъыхэр къаштэжьых",
+            "translation": "'''The ants''' are picking up the sugars that are on the floor."
+          }
+        ]
       }
     ],
     "shapsug": "хъанзэгу",
@@ -40379,7 +40644,20 @@
     "definitions": [
       {
         "meaning": "button (clothes and pants)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Чы1у''' джанэм идэн",
+            "translation": "To sew '''a button''' to the shirt."
+          },
+		  {
+            "sentence": "К1алэм иджанэ '''ичы1ухэр''' ыгъэупк1эпк1агъэх",
+            "translation": "The boy buttons up his shirt's '''buttons'''."
+          },
+		  {
+            "sentence": "'''Уичы1ухэр''' ыгъэупк1эпк1агъэх",
+            "translation": "Button up '''your buttons'''."
+          }
+        ]
       }
     ],
     "kabardian": "щ1ы1у",
@@ -40413,7 +40691,16 @@
     "definitions": [
       {
         "meaning": "flour",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Коц '''хьаджыгъ'''",
+            "translation": "Wheat '''flour'''."
+          },
+		  {
+            "sentence": "'''Хьаджыгъэр''' 1анэм теутэн",
+            "translation": "To sprinkle '''flour'''	 on the table."
+          }
+        ]
       }
     ],
     "kabardian": "хьэжыгъэ",
@@ -40425,7 +40712,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "Hajgeps (A Circassian food made from flour)",
+        "meaning": "(dialectal) alternative form of \"щыпсы\"",
         "examples": []
       }
     ],
@@ -43657,6 +43944,10 @@
           {
             "sentence": "Уиянэ '''ебгъадэшъущта''' уиунэ тыкъэк1онэу.",
             "translation": "'''Can you get''' your mother '''to permit''' us to come to your house."
+          },
+		  {
+            "sentence": "Тхьаматэм '''къэсфидагъ''' непэ 1офым сыкъэмык1онэу",
+            "translation": "The boss '''permitted me''' not to come to work today."
           }
         ]
       },
@@ -53123,7 +53414,7 @@
         "meaning": "crippled, mutilated, maimed",
         "examples": [
           {
-            "sentence": "Машинэр '''ныкъо-тыкъо''' хъугъэ",
+            "sentence": "Кур '''ныкъо-тыкъо''' хъугъэ",
             "translation": "The car became '''mutilated''."
           }
         ]
@@ -54934,6 +55225,10 @@
           {
             "sentence": "'''Къыпдэсыштэнэу''' сыфаеп",
             "translation": "'''I don't want to agree with you'''."
+          },
+		  {
+            "sentence": "Ц1ыф жъугъэмэ '''зэдаштагъ'''",
+            "translation": "A crowd of people '''agreed with each other'''."
           }
         ]
       },
@@ -57741,6 +58036,10 @@
 		  {
             "sentence": "Алырэгъур '''джэхашъом''' телъ",
             "translation": "The carpet is on '''the floor'''."
+          },
+		  {
+            "sentence": "Къамзэгухэмэ шъоущыгъухэу '''джэхашъом''' телъыхэр къаштэжьых",
+            "translation": "The ants are picking up the sugars that are on '''the floor'''."
           }
         ]
       }
@@ -64642,9 +64941,19 @@
     "definitions": [
       {
         "meaning": "to buckle up, to zip up, to button up",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "К1алэм иджанэ ичы1ухэр '''ыгъэупк1эпк1агъэх'''",
+            "translation": "The boy '''buttons up''' his shirt's buttons."
+          },
+		  {
+            "sentence": "Уичы1ухэр '''ыгъэупк1эпк1агъэх'''",
+            "translation": "'''Button up''' your buttons."
+          }
+        ]
       }
     ],
+    "shapsug": "гъэупк1эпк1ьэн",
     "type": "adj",
     "ipa": "tʷʼəʔʷəʁa"
   },
@@ -65621,6 +65930,10 @@
 		  {
             "sentence": "Зи 1эмэкъэ-лъэмакъэ '''къэ1урэп'''",
             "translation": "No noise '''was heard'''."
+          },
+		  {
+            "sentence": "Сыдж тео макъэр к1ыщым '''къыщэ1у'''",
+            "translation": "Anvil striking sound '''was heard from''' the smithy."
           }
         ]
       }
@@ -67203,6 +67516,10 @@
           {
             "sentence": "Том, к1алэм '''фад''' 1аш1ухэр ышхышъунэу",
             "translation": "Tom, '''permit''' the boy to eat sweets."
+          },
+		  {
+            "sentence": "Тхьаматэм '''къэсфидагъ''' непэ 1офым сыкъэмык1онэу",
+            "translation": "The boss '''permitted me''' not to come to work today."
           }
         ]
       }
@@ -82894,6 +83211,10 @@
 		  {
             "sentence": "'''Гъук1эр''' гъук1энэу к1ыщым к1уагъэ",
             "translation": "'''The blacksmith''' went to the smithy to forge."
+          },
+		  {
+            "sentence": "'''Гъук1эр''' сыджым тео",
+            "translation": "'''The blacksmith''' is striking the anvil."
           }
         ]
       }
@@ -92828,6 +93149,10 @@
 		  {
             "sentence": "Гъук1эр гъук1энэу '''к1ыщым''' к1уагъэ",
             "translation": "The blacksmith went to '''the smithy''' to forge."
+          },
+		  {
+            "sentence": "Сыдж тео макъэр '''к1ыщым''' къыщэ1у",
+            "translation": "Anvil striking sound was heard from '''the smithy'''."
           }
         ]
       }
@@ -114002,6 +114327,10 @@
           {
             "sentence": "Слъакъохэр цуакъэм '''ихьахэрэп'''",
             "translation": "My legs '''don't go inside''' the shoes."
+          }
+		  {
+            "sentence": "Къамзэгухэр тиунэ '''къихьагъэх'''",
+            "translation": "Ants '''came into''' our house."
           }
         ]
       }
