@@ -2069,6 +2069,10 @@
 		  {
             "sentence": "Пцэжъыяшэр хым хахьи '''пцэжъыехэр''' къеубытых",
             "translation": "The fisherman goes into the sea and catches '''fishes'''."
+          },
+		  {
+            "sentence": "Псыхъураем тык1ощт '''пцэжъыехэр''' къэтыубытыныхэу",
+            "translation": "We will go to the lake to catch '''fishe'''."
           }
         ]
       }
@@ -12118,17 +12122,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "nest",
-        "examples": [
-          {
-            "sentence": "Бзыур '''нэбгъэм''' ис",
-            "translation": "The bird sits in '''the nest'''."
-          },
-		  {
-            "sentence": "Бзыущырхэр '''нэбгъэм''' исых",
-            "translation": "The nestlings are sitting in '''the nest'''."
-          }
-        ]
+        "meaning": "alternative form of \"набгъо\"",
+        "examples": []
       }
     ],
     "type": "noun",
@@ -26844,7 +26839,7 @@
             "translation": "The dog's cub '''is born'''."
           },
           {
-            "sentence": "Пц1эжъыер хы ч1эгъым '''къыч1ахъо'''",
+            "sentence": "Пцэжъыер хы ч1эгъым '''къыч1ахъо'''",
             "translation": "The fish '''is born''' under the sea."
           }
         ]
@@ -40103,6 +40098,10 @@
 		  {
             "sentence": "'''Чэтыр''' к1энк1эхэмэ атес",
             "translation": "'''The chicken''' is sitting on the eggs."
+          },
+		  {
+            "sentence": "К1алэм хьалыгъур '''чэтхэм''' афигъэушкъои",
+            "translation": "The boy crumbles the bread for '''the chickens'''."
           }
         ]
       }
@@ -42820,7 +42819,8 @@
         "examples": []
       }
     ],
-    "type": "noun"
+    "type": "noun",
+    "ipa": "kʷəʂħaːrəχʷ"
   },
   {
     "word": "щэрыхъ",
@@ -42846,7 +42846,8 @@
         "examples": []
       }
     ],
-    "type": "noun"
+    "type": "noun",
+    "ipa": "kʷəʂħafaːt͡ʂ"
   },
   {
     "word": "темыр",
@@ -42854,7 +42855,12 @@
     "definitions": [
       {
         "meaning": "north",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Жьыбгъэр '''темырымк1э''' къэк1ы",
+            "translation": "The wind comes from '''the north'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -42866,7 +42872,12 @@
     "definitions": [
       {
         "meaning": "south",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Жьыбгъэр '''къыблэмк1э''' къэк1ы",
+            "translation": "The wind comes from '''the south'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -42877,7 +42888,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "east",
+        "meaning": "east; alternative form of \"къок1ып1э\"",
         "examples": []
       }
     ],
@@ -42893,7 +42904,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "west",
+        "meaning": "west; alternative form of \"къохьап1э\"",
         "examples": []
       }
     ],
@@ -42920,7 +42931,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "medicine",
+        "meaning": "alternative form of \"уц 1эзэгъу\"",
         "examples": []
       }
     ],
@@ -42932,7 +42943,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "medicine",
+        "meaning": "alternative form of \"уц 1эзэгъу\"",
         "examples": []
       }
     ],
@@ -42953,6 +42964,22 @@
 		  {
             "sentence": "Щагум тыдэт '''уцыхэр''' ч1ыгум итчыхэу",
             "translation": "We are in the yard picking '''plants''' out of the ground."
+          },
+		  {
+            "sentence": "Гъатхэм '''уц''' бэ ч1ыгум къыхэк1ы",
+            "translation": "In the spring, a lot of '''plants''' come out from the ground."
+          },
+		  {
+            "sentence": "Мы '''уцым''' угъэхъужьыщт",
+            "translation": "'''This plant''' will cure you."
+          },
+		  {
+            "sentence": "'''Уцым''' къэцыхэр пытых",
+            "translation": "'''The plant''' has thorns on it."
+          },
+		  {
+            "sentence": "'''Уцым''' псы емытымэ гъущт",
+            "translation": "If you don't give water to '''the plant''', it will dry."
           }
         ]
       },
@@ -43036,14 +43063,14 @@
     "ipa": "xaɬħaːn"
   },
   {
-    "word": "хэгъэт1ысыхьан",
+    "word": "хэгъэт1ысхьан",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "to plant",
         "examples": [
           {
-            "sentence": "Къэгъагъэр ят1эм к1алэм '''хигъэт1ысыхьагъ'''",
+            "sentence": "Къэгъагъэр ят1эм к1алэм '''хигъэт1ысхьагъ'''",
             "translation": "The boy '''planted''' the flower in the dirt."
           }
         ]
@@ -43052,7 +43079,7 @@
         "meaning": "to implant",
         "examples": [
           {
-            "sentence": "Ным шэн дахэ ыкъо '''хигъэт1ысыхьагъ'''",
+            "sentence": "Ным шэн дахэ ыкъо '''хигъэт1ысхьагъ'''",
             "translation": "The mother '''implanted''' good behavior into her son."
           }
         ]
@@ -43065,7 +43092,7 @@
         "meaning": "to sit someone among other objects or people",
         "examples": [
           {
-            "sentence": "Ным ыкъо нэмык1 сабыймэ '''ахигъэт1ысыхьагъ'''",
+            "sentence": "Ным ыкъо нэмык1 сабыймэ '''ахигъэт1ысхьагъ'''",
             "translation": "The mother '''put''' her son among the other children."
           }
         ]
@@ -43095,7 +43122,7 @@
         "meaning": "smoke",
         "examples": [
           {
-            "sentence": "унэм ионджэкъ '''1угъо''' къек1ы",
+            "sentence": "Унэм ионджэкъ '''1угъо''' къек1ы",
             "translation": "'''Smoke''' is coming out from the house's chimney."
           },
 		  {
@@ -43114,7 +43141,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "lake",
+        "meaning": "alternative form of \"хыкъумэ\"",
         "examples": []
       }
     ],
@@ -43132,7 +43159,12 @@
     "definitions": [
       {
         "meaning": "lake",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Псыхъураем''' тык1ощт пцэжъыехэр къэтыубытыныхэу",
+            "translation": "We will go to '''the lake''' to catch fishes."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -43157,6 +43189,30 @@
     "ipa": "warəʐ"
   },
   {
+    "word": "орыжъыпс",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "swamp water",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "warəʐəps"
+  },
+  {
+    "word": "орыжъылъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "swampy",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "warəʐəɬ"
+  },
+  {
     "word": "темэн",
     "lang": "Adyghe",
     "definitions": [
@@ -43176,6 +43232,54 @@
     "ipa": "tajman"
   },
   {
+    "word": "псыубытыгъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "water reservoir",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "psəwəbətəʁ"
+  },
+  {
+    "word": "псыубытып1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "water reservoir",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "psəwəbətəpʼ"
+  },
+  {
+    "word": "псыитып1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "water reservoir",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "psəjətəpʼ"
+  },
+  {
+    "word": "псыуанэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "water reservoir",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "psəwaːna"
+  },
+  {
     "word": "псыуцуп1э",
     "lang": "Adyghe",
     "definitions": [
@@ -43192,7 +43296,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "grassland",
+        "meaning": "floodplain",
         "examples": []
       },
       {
@@ -43225,10 +43329,6 @@
     "definitions": [
       {
         "meaning": "wave",
-        "examples": []
-      },
-      {
-        "meaning": "stormy, turbulent, violent",
         "examples": []
       }
     ],
@@ -43299,13 +43399,65 @@
         "examples": [
           {
             "sentence": "К1алэм хьалыгъур '''ыгъэушкъоигъ'''",
-            "translation": "The boy '''chopped''' the bread.."
+            "translation": "The boy '''chopped''' the bread."
+          },
+		  {
+            "sentence": "К1алэм хьалыгъур чэтхэм '''афигъэушкъои'''",
+            "translation": "The boy '''crumbles''' the bread for the chickens."
           }
         ]
       }
     ],
-    "type": "noun",
+    "type": "verb",
     "ipa": "ʁawʃqʷajən"
+  },
+  {
+    "word": "хьарып1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "tortilla (corn)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ħaːrəpʼ"
+  },
+  {
+    "word": "щэламэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "oil-fried thin tortillas; oil-fried thin flatbread",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ɕaɮaːma"
+  },
+  {
+    "word": "чэмытхъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "butter",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃamətχʷ"
+  },
+  {
+    "word": "тхъужъожьыгъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "melted butter",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "tχʷəʒʷaʑəʁ"
   },
   {
     "word": "тхъу",
@@ -43461,10 +43613,7 @@
     "definitions": [
       {
         "meaning": "(anatomy) birthmark, mole, melanism, nevus (naevus) (dark spot on the skin)",
-        "examples": [],
-        "tags": [
-          "anatomy"
-        ]
+        "examples": []
       }
     ],
     "synonyms": [
@@ -43494,7 +43643,20 @@
     "definitions": [
       {
         "meaning": "nest",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Бзыур '''набгъом''' ис",
+            "translation": "The bird sits in '''the nest'''."
+          },
+		  {
+            "sentence": "Бзыущырхэр '''набгъом''' исых",
+            "translation": "The nestlings are sitting in '''the nest'''."
+          },
+		  {
+            "sentence": "Къэцыгъонэ '''набгъу'''",
+            "translation": "Vespiary."
+          }
+        ]
       },
       {
         "meaning": "quail",
@@ -43528,12 +43690,41 @@
     "ipa": "t͡sʷəndə"
   },
   {
+    "word": "гурымын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to moan",
+        "examples": []
+      },
+    ],
+    "type": "verb",
+    "ipa": "gʷərəməm"
+  },
+  {
+    "word": "тхьаркъожъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "burdock",
+        "examples": []
+      },
+    ],
+    "type": "noun",
+    "ipa": "tħaːrqʷaʐ"
+  },
+  {
     "word": "тхьаркъо",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "pigeon",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Л1ым '''тхьаркъохэр''' егъашхэх",
+            "translation": "The man feeds '''the pigeons'''."
+          }
+        ]
       },
       {
         "meaning": "dove",
@@ -43578,11 +43769,33 @@
     "definitions": [
       {
         "meaning": "campfire, bonfire, wood fire",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэхэмэ '''мэш1уашъхь''' аш1ыгъ",
+            "translation": "The boys made '''campfire'''."
+          }
+        ]
       }
     ],
     "type": "noun",
     "ipa": "maʃʷʼaːʂħa"
+  },
+  {
+    "word": "мэш1ош1ыгъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "campfire, bonfire, wood fire",
+        "examples": [
+          {
+            "sentence": "К1алэхэмэ '''мэш1ош1ыгъ''' аш1ыгъ",
+            "translation": "The boys made '''campfire'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "maʃʷʼaʃʼəʁ"
   },
   {
     "word": "нэпц1ыгъэк1э щытхъун",
@@ -43602,7 +43815,12 @@
     "definitions": [
       {
         "meaning": "caterpillar (larva of a butterfly)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм чъыгым '''пк1эшъэхъухэр''' теукъэбзык1ыгъ",
+            "translation": "The boy cleans off the tree from '''caterpillars'''"
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -43610,6 +43828,24 @@
     ],
     "type": "noun",
     "ipa": "pt͡ʃaʂaχʷ"
+  },
+  {
+    "word": "теукъэбзык1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to clean off",
+        "examples": [
+          {
+            "sentence": "К1алэм чъыгым пк1эшъэхъухэр '''теукъэбзык1ыгъ'''",
+            "translation": "The boy '''cleans off''' the tree from caterpillars"
+          }
+        ]
+      }
+    ],
+    "shapsug": "теукъэбзык1ьын",
+    "type": "verb",
+    "ipa": "tajqabzət͡ʃʼən"
   },
   {
     "word": "оял",
@@ -43621,6 +43857,10 @@
           {
             "sentence": "мэфэ '''оял'''",
             "translation": "A '''rainy''' day."
+          },
+		  {
+            "sentence": "мэзэ '''оял'''",
+            "translation": "A '''rainy''' month."
           }
         ]
       }
@@ -43638,6 +43878,10 @@
           {
             "sentence": "мэфэ '''ощхыл'''",
             "translation": "A '''rainy''' day."
+          },
+		  {
+            "sentence": "мэзэ '''ощхыл'''",
+            "translation": "A '''rainy''' month."
           }
         ]
       }
@@ -43661,6 +43905,18 @@
     ],
     "type": "adj",
     "ipa": "waʐʷbaːn"
+  },
+  {
+    "word": "къэбыжъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "boiled pumpkin",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "qabəʒʷ"
   },
   {
     "word": "оелэ-ощхыл",
@@ -43735,6 +43991,18 @@
       },
       {
         "meaning": "wasp",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "qat͡səʁʷaːn"
+  },
+  {
+    "word": "къэцгъонэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"къэцыгъуан\"",
         "examples": []
       }
     ],
@@ -54644,7 +54912,7 @@
         "meaning": "to cook; to make food by heat (for example: to bake, to grill, to fry)",
         "examples": [
           {
-            "sentence": "Сянэ пц1эжъыехэр '''къегъэжъэх'''",
+            "sentence": "Сянэ пцэжъыехэр '''къегъэжъэх'''",
             "translation": "My mother '''is frying''' fishes."
           },
           {
@@ -62172,6 +62440,10 @@
           {
             "sentence": "'''Уц 1эзэгъухэр''' тщэфы тш1оигъуагъ",
             "translation": "We want to buy '''medicine'''."
+          },
+		  {
+            "sentence": "К1элэ сымаджэр '''уц 1эзэгъу''' тк1опс ешъуагъ",
+            "translation": "The sick boy drank a drop of '''medicine'''."
           }
         ]
       }
@@ -91155,7 +91427,7 @@
         "meaning": "to (forcefully) stick something into",
         "examples": [
           {
-            "sentence": "Шъэжъыер пц1эжъыем '''хэмыс'''",
+            "sentence": "Шъэжъыер пцэжъыем '''хэмыс'''",
             "translation": "'''Don't stick''' the fish with the knife."
           },
 		  {
