@@ -21288,6 +21288,10 @@
 		  {
             "sentence": "'''Ашъокур''' уагъэ",
             "translation": "'''The tank''' shot."
+          },
+		  {
+            "sentence": "Дзэк1ол1ыхэр '''ашъокум''' исых",
+            "translation": "The soldiers are in '''the tank'''."
           }
         ]
       }
@@ -47874,6 +47878,10 @@
             "sentence": "Адэмыр тиунэ '''исэп'''",
             "translation": "Adam '''is not in''' my house."
           },
+		  {
+            "sentence": "Дзэк1ол1ыхэр ашъокум '''исых'''",
+            "translation": "The soldiers '''are in''' the tank."
+          },
           {
             "sentence": "Куджаныр шъуиунэ'''иса'''?",
             "translation": "'''Is''' Kujan '''in''' your house?"
@@ -47910,7 +47918,8 @@
         ]
       }
     ],
-    "type": "name"
+    "type": "name",
+    "ipa": "jəsən"
   },
   {
     "word": "кущэрэхъ",
@@ -47939,10 +47948,6 @@
             "translation": "'''I am stuck in''' the door."
           }
         ]
-      },
-      {
-        "meaning": "to become stuck in (unable to progress)",
-        "examples": []
       }
     ],
     "type": "verb",
@@ -47954,7 +47959,19 @@
     "definitions": [
       {
         "meaning": "ball (object, generally spherical, used for playing games)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''1эгуаум''' ешъутырыгъ",
+            "translation": "The boy kicked '''the ball'''."
+          },
+		  {
+            "sentence": "К1алэхэр '''1эгуаум''' реджэгух",
+            "translation": "The boy are playing with '''the ball'''."
+          },
+		  {
+            "sentence": "'''1эгуаур''' къыслъыгъак1у",
+            "translation": "Pass'''the ball''' to me."
+          }
       }
     ],
     "synonyms": [
@@ -47970,11 +47987,29 @@
     "definitions": [
       {
         "meaning": "ball (object, generally spherical, used for playing games)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''топым''' ешъутырыгъ",
+            "translation": "The boy kicked '''the ball'''."
+          },
+		  {
+            "sentence": "К1алэхэр '''топым''' реджэгух",
+            "translation": "The boy are playing with '''the ball'''."
+          },
+		  {
+            "sentence": "'''Топыр''' къыслъыгъак1у",
+            "translation": "Pass'''the ball''' to me."
+          }
+        ]
       },
       {
         "meaning": "cannonball",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Чылэм '''топк1э''' къыдаох",
+            "translation": "They are firing into the village '''with cannonballs'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -47990,7 +48025,20 @@
     "definitions": [
       {
         "meaning": "ball (object, generally spherical, used for playing games)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''п1ырагум''' ешъутырыгъ",
+            "translation": "The boy kicked '''the ball'''."
+          },
+		  {
+            "sentence": "К1алэхэр '''п1ырагум''' реджэгух",
+            "translation": "The boy are playing with '''the ball'''."
+          },
+		  {
+            "sentence": "'''П1ырагур''' къыслъыгъак1у",
+            "translation": "Pass'''the ball''' to me."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -48005,17 +48053,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to become stuck under (trapped and unable to move)",
+        "meaning": "to become stuck under (trapped and unable to move or progress)",
         "examples": [
           {
             "sentence": "1энэ ч1эгъым '''сыч1энагъ'''",
             "translation": "'''I am stuck under''' the table."
+          },
+		  {
+            "sentence": "Гъоч1эгъым '''тыч1энагъ'''",
+            "translation": "'''We are stuck under''' the cave."
           }
         ]
-      },
-      {
-        "meaning": "to become stuck under (unable to progress)",
-        "examples": []
       }
     ],
     "type": "verb",
@@ -48026,19 +48074,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to become stuck near (trapped and unable to move)",
+        "meaning": "to become stuck near (trapped and unable to move or progress)",
         "examples": []
       },
       {
-        "meaning": "to become stuck (unable to progress)",
-        "examples": []
-      },
-      {
-        "meaning": "to stay, remain (usaully has the prefix къы- /qə-/)",
+        "meaning": "to stay behind; to remain; to linger; to loiter; to remain at a certain place instead of moving on",
         "examples": [
           {
-            "sentence": "1энэ ч1эгъым '''сыч1энагъ'''",
-            "translation": "'''I am stuck under''' the table."
+            "sentence": "Тучаным '''сыкъы1унагъ''' къэбар къэс1уатэу",
+            "translation": "'''I remained''' near the shop chatting."
+          },
+		  {
+            "sentence": "Маш1ор '''къы1унагъ'''",
+            "translation": "The fire '''lingered'''."
           }
         ]
       }
@@ -48051,7 +48099,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to stay behind; to remain; to linger",
+        "meaning": "to stay behind; to remain; to linger; to loiter; to remain at a certain place instead of moving on",
         "examples": [
           {
             "sentence": "К1алэр '''къы1унагъ''' иныбжьэгъу''' паплъэу",
@@ -48064,6 +48112,10 @@
 		  {
             "sentence": "Маш1ор '''къы1унагъ'''",
             "translation": "The fire '''lingered'''."
+          },
+		  {
+            "sentence": "Тучаным '''сыкъы1унагъ''' къэбар къэс1уатэу",
+            "translation": "'''I remained''' near the shop chatting."
           }
         ]
       },
@@ -48127,11 +48179,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to leave behind for",
+        "meaning": "to leave behind something for; to remain something for",
         "examples": [
           {
             "sentence": "Ахъщэ т1эк1у '''къэтфэгъан'''",
             "translation": "'''Leave''' us some money."
+          },
+		  {
+            "sentence": "Кикс т1эк1у '''къэсфэгъан'''",
+            "translation": "'''Remain''' some cake '''for me'''."
           }
         ]
       }
@@ -48144,17 +48200,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to become stuck within an area with gas, liquid or solid (trapped and unable to move)",
+        "meaning": "to become stuck within an area with gas, liquid or solid (trapped and unable to move or progress)",
         "examples": [
           {
             "sentence": "Хым '''сыкъыхэнагъ'''",
             "translation": "'''I got stuck in''' the sea."
           }
         ]
-      },
-      {
-        "meaning": "to become stuck within an area with gas, liquid or solid (unable to progress)",
-        "examples": []
       },
       {
         "meaning": "to get ignited; alternative form of \"маш1о хэнэн\"",
@@ -48845,7 +48897,20 @@
     "definitions": [
       {
         "meaning": "dark",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Чэщ '''ш1унк1'''",
+            "translation": "'''Dark''' night."
+          },
+		  {
+            "sentence": "Унэр '''ш1унк1ы'''",
+            "translation": "The house '''is dark'''."
+          },
+		  {
+            "sentence": "'''Ш1унк1ы''' къэхъугъ",
+            "translation": "It became '''dark'''."
+          }
+        ]
       },
 	  {
         "meaning": "darkness",
@@ -90157,6 +90222,10 @@
 		  {
             "sentence": "'''Гъоч1эгъым''' чэщыбзыухэр ч1эсых",
             "translation": "The bats are in '''the cave'''"
+          },
+		  {
+            "sentence": "'''Гъоч1эгъым''' тыч1энагъ",
+            "translation": "We are stuck under '''the cave'''."
           }
         ]
       }

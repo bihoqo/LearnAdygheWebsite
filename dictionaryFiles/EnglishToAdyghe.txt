@@ -66,6 +66,9 @@
     "to shoot": "он; еон; к1эрахъок1э еон; дэоен (to shot upward); еохын (to shot downward); хэон (to shot amidst people); еутэхын / къеутэхын (to shoot something and bring it down, to cause to fall by shooting)"
   },
   {
+    "to fire": "маш1о хэгъэнэн / маш1о ч1эгъэнэн (to set on fire); к1эрахъок1э еон (to shoot, to fire); дэоен (to shoot upward); еохын (to shoot downward); хэон (to shoot amidst people); еутэхын / къеутэхын (to shoot something and bring it down, to cause to fall by shooting)"
+  },
+  {
     "to shoot upward": "дэоен (to shot upward)"
   },
   {
@@ -8408,6 +8411,12 @@
   },
   {
     "to remain": "къы1унэн (to remain behind); къэгъэнэн / къэгъэнэжьын (to remain something, to remain leftovers, to leave leftovers); къэнэн / къэнэжьын (something to remain as a leftover); къинэжьын (something to remain inside as a leftovers); къытенэжьын (to remain something above, to leave behind something above); къыч1энэжьын (to remain something under, to leave behind something under); хэнэн / къыхэнэн (to remain in a company, bushes, forest, liquid, gas or solid); тенэн / къытенэн (to remain on above something); инэн / къинэн (to remain inside something); ч1энэн / къыч1энэн (to remain under something); пынэн / къыпынэн (to remain attached)"
+  },
+  {
+    "to linger": "къы1унэн (to linger behind)"
+  },
+  {
+    "to loiter": "къы1унэн (to remain at a certain place instead of moving on)"
   },
   {
     "to leave": "ик1ын (to go out, to leave a room, building, house, etc.); ик1ыжьын (to leave the house); къэтэджыжьын (to stand and leave); къы1унэн (to remain behind, to leave behind); къинэн (to remian inside, to leave inside); къэгъэнэн / къэгъэнэжьын (to remain something, to remain leftovers, to leave leftovers); къэнэн / къэнэжьын (something to remain as a leftover); къинэжьын (something to remain inside as a leftovers); къытенэжьын (to remain something above, to leave behind something above); къыч1энэжьын (to remain something under, to leave behind something under); бгынэн (to abandon/desert); пык1ыжьын (to divorce); хэк1ын (to leave a company or group); тегъэнэн / къытегъэнэн (to leave something above something); ч1эгъэнэн / къыч1эгъэнэн (to leave something under something); хэгъэнэн / къыхэгъэнэн (to leave something in an area with liquid or gas, to leave something in the forest); дэгъэнэн / къыдэгъэнэн (to leave something in); 1угъэнэн / къы1угъэнэн (to leave something near); щынэжьын (to abandon, to leave)"
