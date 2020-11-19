@@ -3866,6 +3866,10 @@
 		  {
             "sentence": "Унашъхьэм укъемпк1эх, '''улъакъо''' зэпыпк1ыщт",
             "translation": "Don't jump down from the root, you will break '''your leg'''."
+          },
+          {
+            "sentence": "'''Лъакъок1э''' топым ешъутырын",
+            "translation": "To kick the ball '''with the leg'''."
           }
         ]
       },
@@ -7449,6 +7453,10 @@
 		  {
             "sentence": "Ощхыр '''ошъуапщэмэ''' къач1эк1ы",
             "translation": "Rain is coming out of '''the clouds'''."
+          },
+		  {
+            "sentence": "Непэ ошъогум '''ошъуапщэ''' бэ тетыгъ",
+            "translation": "Today there was a lot of '''clouds''' in the sky."
           }
         ]
       }
@@ -47009,7 +47017,16 @@
     "definitions": [
       {
         "meaning": "sky (more specifically: firmament)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Непэ '''ошъогум''' ошъуапщэ бэ тетыгъ",
+            "translation": "Today there was a lot of clouds in '''the sky'''."
+          },
+		  {
+            "sentence": "К1алэр '''ошъогум''' дэплъыягъ",
+            "translation": "The boy looked up into '''the sky'''."
+          }
+        ]
       },
       {
         "meaning": "zenith",
@@ -47049,7 +47066,12 @@
     "definitions": [
       {
         "meaning": "uncle (Father's brother)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Сятэш''' сыригъусэу шъофым тихьагъ",
+            "translation": "I went to the fields with '''my uncle'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -47064,11 +47086,139 @@
     "definitions": [
       {
         "meaning": "uncle (Mother's brother)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Сянэш''' сыригъусэу шъофым тихьагъ",
+            "translation": "I went to the fields with '''my uncle'''."
+          }
+        ]
       }
+    ],
+    "synonyms": [
+      "анэш"
     ],
     "type": "noun",
     "ipa": "jaːnaʃ"
+  },
+  {
+    "word": "атэш",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "uncle (Father's brother)",
+        "examples": [
+          {
+            "sentence": "'''Сыатэш''' сыригъусэу шъофым тихьагъ",
+            "translation": "I went to the fields with '''my uncle'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "ятэш"
+    ],
+    "type": "noun",
+    "ipa": "jaːtaʃ"
+  },
+  {
+    "word": "анэш",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "uncle (Mother's brother)",
+        "examples": [
+          {
+            "sentence": "'''Сыанэш''' сыригъусэу шъофым тихьагъ",
+            "translation": "I went to the fields with '''my uncle'''."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "янэш"
+    ],
+    "type": "noun",
+    "ipa": "jaːnaʃ"
+  },
+  {
+    "word": "ятэшыпхъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "aunt (Father's sister)",
+        "examples": [
+          {
+            "sentence": "'''Сятэшыпхъу''' яунэ сис",
+            "translation": "I am at '''my aunt's''' house."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "атэшыпхъу"
+    ],
+    "type": "noun",
+    "ipa": "ʔaːtaʃəpχʷ"
+  },
+  {
+    "word": "янэшыпхъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "aunt (Mother's sister)",
+        "examples": [
+          {
+            "sentence": "'''Сянэшыпхъу''' яунэ сис",
+            "translation": "I am at '''my aunt's''' house."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "анэшыпхъу"
+    ],
+    "type": "noun",
+    "ipa": "ʔaːnaʃəpχʷ"
+  },
+  {
+    "word": "атэшыпхъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "aunt (Father's sister)",
+        "examples": [
+          {
+            "sentence": "'''Сыатэшыпхъу''' яунэ сис",
+            "translation": "I am at '''my aunt's''' house."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "ятэшыпхъу"
+    ],
+    "type": "noun",
+    "ipa": "ʔaːtaʃəpχʷ"
+  },
+  {
+    "word": "анэшыпхъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "aunt (Mother's sister)",
+        "examples": [
+          {
+            "sentence": "'''Сыанэшыпхъу''' яунэ сис",
+            "translation": "I am at '''my aunt's''' house."
+          }
+        ]
+      }
+    ],
+    "synonyms": [
+      "янэшыпхъу"
+    ],
+    "type": "noun",
+    "ipa": "ʔaːnaʃəpχʷ"
   },
   {
     "word": "узыныгъэ",
@@ -47138,7 +47288,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to make someone feel pain or to hurt someone (in a specific part in his/her body)",
+        "meaning": "to make someone feel pain (in a specific part in his/her body)",
         "examples": [
           {
             "sentence": "Къэцым '''егъэузы''' унэсымэ",
@@ -47147,6 +47297,10 @@
           {
             "sentence": "К1алэм '''егъэузы''' с1э",
             "translation": "The boy '''hurts''' my arm."
+          },
+          {
+            "sentence": "К1алэр слъакъо къызешъутырым '''ыгъэузыгъ'''",
+            "translation": "When the boy kicked me leg, '''it made it hurt'''."
           },
           {
             "sentence": "Л1ы лъэшым ы1э '''сыгъэузышъурэп'''",
@@ -47163,7 +47317,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(dialectal) worm",
+        "meaning": "alternative form of \"хьап1ац1э\"",
         "examples": []
       }
     ],
@@ -47176,11 +47330,23 @@
     "ipa": "ħapʼaːt͡sʼa"
   },
   {
+    "word": "хьап1ац1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "insect",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ħapʼaːt͡sʼa"
+  },
+  {
     "word": "ц1ыфыбз",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(dialectal) woman",
+        "meaning": "(dialectal) woman; see \"бзылъфыгъэ\"",
         "examples": []
       }
     ],
@@ -47193,7 +47359,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(dialectal) man",
+        "meaning": "(dialectal) man; see \"хъулъфыгъэ\"",
         "examples": []
       }
     ],
@@ -47219,7 +47385,12 @@
     "definitions": [
       {
         "meaning": "angel of death",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Псэхэхы''' л1ыжъым къыфэк1уагъ",
+            "translation": "'''The angel of death''' came for the old-man."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -47242,12 +47413,22 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "intrigues, machinations",
-        "examples": []
+        "meaning": "machinations (a clever scheme or artful plot, usually crafted for evil purposes)",
+        "examples": [
+          {
+            "sentence": "Л1ым '''шхъухьэ''' 1офхэр зэхелъхьэ",
+            "translation": "The man is plotting '''machinations''' schemes."
+          }
+        ]
       },
       {
         "meaning": "sorcery, witchcraft",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Удым '''шхъухьэ''' 1оф еш1э",
+            "translation": "The witch does '''witchcraft'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -47259,7 +47440,12 @@
     "definitions": [
       {
         "meaning": "to cast a spell on someone; to bewitch",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Удым ц1ыфхэр '''ыушхъухьанэу''' елъэк1ы",
+            "translation": "A witch can '''bewitch''' people."
+          }
+        ]
       },
       {
         "meaning": "to conjure; to practise witchcraft",
@@ -47372,6 +47558,14 @@
           {
             "sentence": "'''Щэнаутэу''' къы1уихырэм шъхьэр егъэуназэ",
             "translation": "'''The poison''' that emits from the area makes the head dizzy."
+          },
+		  {
+            "sentence": "Мы уцым хэлъ '''щэнаут'''",
+            "translation": "This plant contains '''poison'''."
+          }
+		  {
+            "sentence": "Л1ым адрэм '''щэнаут''' 1уидзи ыгъэл1агъ",
+            "translation": "The man threw '''posion''' upon the other and killed him."
           }
         ]
       }
@@ -47402,7 +47596,16 @@
       },
       {
         "meaning": "hunting dog",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Шак1ом '''шэк1уахьэр''' ригъус",
+            "translation": "'''The hunting dog''' is with the hunter."
+          },
+		  {
+            "sentence": "Шак1омрэ '''ишэк1уахьэмрэ''' шъофым хэхьагъэх",
+            "translation": "The hunter and his '''hunting dog''' went to the fields."
+          }
+        ]
       },
       {
         "meaning": "halo, aureole",
@@ -47435,7 +47638,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to spill a liquid to another liquid",
+        "meaning": "to spill a liquid into a another liquid",
         "examples": [
           {
             "sentence": "Санэ псым '''хапк1эмэ''' ыгъэплъыжьыщт",
@@ -47457,6 +47660,28 @@
 		  {
             "sentence": "Бэджыхъым бадзэ '''хэпк1агъ'''",
             "translation": "A fly '''stuck in''' the spiderweb."
+          }
+        ]
+      },
+	  {
+        "meaning": "to jump into an area with water, gas, any liquid, fire, etc.",
+        "examples": [
+		  {
+            "sentence": "К1алэр псым '''хэпк1агъ'''",
+            "translation": "The boy '''jumped into''' the water."
+          },
+		  {
+            "sentence": "Л1ым хым '''хэпк1агъ'''",
+            "translation": "The man '''jumped into''' the sea."
+          }
+        ]
+      },
+	  {
+        "meaning": "to jump among people/objects",
+        "examples": [
+		  {
+            "sentence": "К1элэц1к1ур джэгуалъэмэ '''ахэпк1агъ'''",
+            "translation": "The boy '''jumped onto''' the toys."
           }
         ]
       }
@@ -47498,29 +47723,29 @@
         "meaning": "to become dirty",
         "examples": [
           {
-            "sentence": "сиджанэр '''мэуш1ои'''",
+            "sentence": "Сиджанэр '''мэуш1ои'''",
             "translation": "my shirt '''is becoming dirty'''."
           },
 		  {
-            "sentence": "псынжъым ухахьэмэ '''ууш1оищт'''",
+            "sentence": "Псынжъым ухахьэмэ '''ууш1оищт'''",
             "translation": "If you go into the mud, '''you will become dirty'''."
           },
           {
-            "sentence": "лъым джанэр '''еуш1ои'''",
+            "sentence": "Лъым джанэр '''еуш1ои'''",
             "translation": "The blood '''is making''' the shirt '''dirty'''."
           },
           {
-            "sentence": "псынжъым '''укъиуш1оищт'''",
+            "sentence": "Псынжъым '''укъиуш1оищт'''",
             "translation": "The mud '''will make you dirty'''."
           },
           {
-            "sentence": "псынжъ псым хапк1эмэ '''уш1оищт'''",
+            "sentence": "Псынжъ псым хапк1эмэ '''уш1оищт'''",
             "translation": "If you spill mud on water '''it will become dirty'''."
           }
         ]
       },
       {
-        "meaning": "to get deleted",
+        "meaning": "to get deleted; to get erased",
         "examples": [
           {
             "sentence": "Фаилэр '''уш1оигъ'''",
@@ -47573,15 +47798,15 @@
         "meaning": "dirty, unclean; covered with or containing unpleasant substances such as dirt or grime or mud.",
         "examples": [
           {
-            "sentence": "джэнэ '''ш1ои'''",
+            "sentence": "Джэнэ '''ш1ои'''",
             "translation": "'''Dirty''' shirt."
           },
           {
-            "sentence": "псыр '''ш1ои'''",
+            "sentence": "Псыр '''ш1ои'''",
             "translation": "The water is '''dirty'''."
           },
           {
-            "sentence": "к1алэм иджэнэ '''ш1ои'''",
+            "sentence": "К1алэм иджэнэ '''ш1ои'''",
             "translation": "The boy's shirt is '''dirty'''."
           }
         ]
@@ -47622,7 +47847,8 @@
         "examples": []
       }
     ],
-    "type": "name"
+    "type": "name",
+    "ipa": "wrəsəj"
   },
   {
     "word": "исын",
@@ -57621,57 +57847,6 @@
     ],
     "type": "verb",
     "ipa": "pəsən"
-  },
-  {
-    "word": "атэш",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "uncle (Father's brother)",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "ятэш"
-    ],
-    "type": "noun",
-    "ipa": "ʔaːtaʃ"
-  },
-  {
-    "word": "анэш",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "uncle (Mother's brother)",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ʔaːnaʃ"
-  },
-  {
-    "word": "атэшыпхъу",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "aunt (Father's sister)",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ʔaːtaʃəpχʷ"
-  },
-  {
-    "word": "анэшыпхъу",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "aunt (Mother's sister)",
-        "examples": []
-      }
-    ],
-    "type": "noun",
-    "ipa": "ʔaːnaʃəpχʷ"
   },
   {
     "word": "хьак1эщ",
@@ -88141,6 +88316,10 @@
           {
             "sentence": "К1алэм ышъуты '''ч1эшъутыр'''",
             "translation": "'''Kick''' the boy in the butt."
+          },
+          {
+            "sentence": "К1алэр слъакъо '''къызешъутырым''' ыгъэузыгъ",
+            "translation": "'''When''' the boy '''kicked''' my leg, it made it hurt."
           }
         ]
       }
@@ -88149,13 +88328,29 @@
     "ipa": "jaʃʷətəran"
   },
   {
+    "word": "зышъутырыхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"зешъутырыхьан\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʃʷətəraħən"
+  },
+  {
     "word": "зешъутырыхьан",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to kick around",
+        "meaning": "to kick around (to throw kicks in a seemingly random manner)",
         "examples": [
           {
+            "sentence": "К1алэм '''зешъутырыхьэ'''",
+            "translation": "The boy '''is throwing kicks'''."
+          },
+		  {
             "sentence": "К1алэм уемыблагъ, '''зешъутырsхьэжьы'''",
             "translation": "Don't get close to the boy, '''he is kicking around'''."
           },
@@ -91020,7 +91215,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to strike all over the place, in all directions",
+        "meaning": "to strike all over the place in all directions (in a seemingly random manner)",
         "examples": [
           {
             "sentence": "К1алэм к1эрахъок1э '''зеохьэ'''",
@@ -91038,23 +91233,6 @@
           {
             "sentence": "Цум утет1ысхьэмэ '''зеохьыжьы'''",
             "translation": "If you sit on an ox '''it will go berserk'''."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "zəwaħən"
-  },
-  {
-    "word": "зышъутырыхьан",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to kick all over the place, in all directions",
-        "examples": [
-          {
-            "sentence": "К1алэм '''зешъутырыхьэ'''",
-            "translation": "The boy '''is kicing [all over the place]'''."
           }
         ]
       }

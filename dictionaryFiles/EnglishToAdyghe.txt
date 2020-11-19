@@ -8263,10 +8263,16 @@
     "sky": "уашъо; ошъогу"
   },
   {
+    "angel of death": "псэхэхы"
+  },
+  {
     "zenith": "ошъогу"
   },
   {
-    "uncle": "ятэш (Father's brother); янэш (Mother's brother)"
+    "aunt": "атэшыпхъу / ятэшыпхъу (father's sister); анэшыпхъу / янэшыпхъу (mother's sister)"
+  },
+  {
+    "uncle": "атэш / ятэш (Father's brother); анэш / янэш (Mother's brother)"
   },
   {
     "pain": "узы; узыныгъэ (feeling of pain)"
@@ -10220,9 +10226,6 @@
   },
   {
     "helve": "ощыкI; отычык1; обзэгъук1"
-  },
-  {
-    "aunt": "атэшыпхъу (father's sister); анэшыпхъу (mother's sister)"
   },
   {
     "hotel": "хьак1эщ; хьэк1ап1э"
