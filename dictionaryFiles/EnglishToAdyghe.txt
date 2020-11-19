@@ -63,7 +63,7 @@
     "to play": "еон / къеон (to play an instrument); джэгун (to play a game); еш1эн / къеш1эн (to play a game)"
   },
   {
-    "to shoot": "он; еон; к1эрахъок1э еон; дэоен (to shot upward); еохын (to shot downward); хэон (to shot amidst people); еутэхын (to shoot something and bring it down, to cause to fall by shooting)"
+    "to shoot": "он; еон; к1эрахъок1э еон; дэоен (to shot upward); еохын (to shot downward); хэон (to shot amidst people); еутэхын / къеутэхын (to shoot something and bring it down, to cause to fall by shooting)"
   },
   {
     "to shoot upward": "дэоен (to shot upward)"
@@ -8113,7 +8113,7 @@
     "cold weather": "чъы1этагъ"
   },
   {
-    "cart": "ку; кухьэ"
+    "cart": "ку; кухьэ (cartload)"
   },
   {
     "cartload": "кухьэ"
@@ -8194,7 +8194,7 @@
     "honestly": "шъыпкъэу; шъхьаихыгъэу (frankly)"
   },
   {
-    "bench": "пхъэнтэк1у к1ыхь"
+    "bench": "пхъэнт1эк1у к1ыхь"
   },
   {
     "top of the saddle (where is the rider sits)": "онэгу"

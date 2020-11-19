@@ -833,6 +833,10 @@
 		  {
             "sentence": "Къамзэгухэмэ '''шъоущыгъухэу''' джэхашъом телъыхэр къаштэжьых",
             "translation": "The ants are picking up the '''sugars''' that are on the floor."
+          },
+		  {
+            "sentence": "Кекс 1эш1ущэ, '''шъоущыгъу''' бащэ хэлъ",
+            "translation": "The cake is too sweet, it has too much '''sugar'''."
           }
         ]
       }
@@ -5743,27 +5747,6 @@
     "kabardian": "бзу",
     "type": "noun",
     "ipa": "bzəw"
-  },
-  {
-    "word": "еутэхын",
-    "lang": "Adyghe",
-    "definitions": [
-      {
-        "meaning": "to shoot something and bring it down; to shoot down; to cause to fall by shooting",
-        "examples": [
-          {
-            "sentence": "Шак1ор шхончымк1э бзыур '''къыриутыхыгъ'''",
-            "translation": "The hunter '''shot down''' the bird with the rifle."
-          },
-		  {
-            "sentence": "Къухьэлъатэр '''къыраутыхыгъ'''",
-            "translation": "The plane '''was shot down'''."
-          }
-        ]
-      }
-    ],
-    "type": "verb",
-    "ipa": "jawtaxən"
   },
   {
     "word": "бгъэ",
@@ -30077,6 +30060,14 @@
           {
             "sentence": "'''Укъэжыщт''' мор ушхымэ",
             "translation": "'''You will puke''' if you eat that."
+          },
+          {
+            "sentence": "'''Укъэжынэу''' уфаемэ псыунэм ихь",
+            "translation": "'''If you want to throw up''', go to the toilet."
+          },
+          {
+            "sentence": "'''Къэжырэ''' псы бэ ешъон фай.",
+            "translation": "'''One who vomits''' must drink a lot."
           }
         ]
       }
@@ -33005,7 +32996,12 @@
     "definitions": [
       {
         "meaning": "stake, spicket, pale, picket",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Обзэгъумк1э '''пчэгъур''' ыупэпц1ыгъ",
+            "translation": "(S)he sharpened '''the stake''' with an axe."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -44807,7 +44803,7 @@
         "meaning": "to worship",
         "examples": [
           {
-            "sentence": "к1алэр тхьэм '''фэпщыл1ы'''",
+            "sentence": "К1алэр тхьэм '''фэпщыл1ы'''",
             "translation": "The boy '''is worshiping''' God."
           }
         ]
@@ -44925,7 +44921,12 @@
     "definitions": [
       {
         "meaning": "boaster, braggart",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ц1ыфы '''жьыгъэбыу'''",
+            "translation": "A '''braggart''' person."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -44944,9 +44945,15 @@
     "definitions": [
       {
         "meaning": "cheater, deceiver, fraud, faker",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ц1ыфы '''гъэпц1ак1о'''",
+            "translation": "A '''deceiver''' person."
+          }
+        ]
       }
     ],
+    "shapsug": "гъэпс1ак1о",
     "type": "noun",
     "ipa": "ʁapt͡sʼaːkʷʼa"
   },
@@ -45056,7 +45063,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "whirlwind",
+        "meaning": "alternative form of \"жьыхьарзэ\"",
         "examples": []
       }
     ],
@@ -45071,7 +45078,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "whirlwind",
+        "meaning": "alternative form of \"жьыкорен\"",
         "examples": []
       }
     ],
@@ -45159,7 +45166,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to exhale",
+        "meaning": "alternative form of \"жьы къыдэгъэк1ын\"",
         "examples": []
       }
     ],
@@ -45408,7 +45415,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "carpenter",
+        "meaning": "carpenter; woodworker",
         "examples": []
       }
     ],
@@ -45423,10 +45430,14 @@
         "meaning": "dear; beloved; darling",
         "examples": [
           {
-            "sentence": "сянэ гупс",
+            "sentence": "сянэ '''гупс'''",
             "translation": "my '''dear''' mother."
           }
         ]
+      },
+	  {
+        "meaning": "sympathetic",
+        "examples": []
       }
     ],
     "type": "noun",
@@ -45438,7 +45449,16 @@
     "definitions": [
       {
         "meaning": "fan",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''жьыфымк1э''' жьы зытегъэхьы",
+            "translation": "The boy is '''using the fan''' to move the air toward him."
+          },
+		  {
+            "sentence": "'''Жьыфым''' икъунэу сыкъегъэучъы1ы",
+            "translation": "'''The fan''' cooling me enough."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -45506,8 +45526,8 @@
             "translation": "The man '''is rich'''."
           },
           {
-            "sentence": "Л1ы '''баeр''' мак1о",
-            "translation": "'''the rich''' man is going."
+            "sentence": "'''Баeр''' ц1ыфэу мылъку бэ зи1эр",
+            "translation": "'''A rich''' person is a person that have a lot of fortune."
           },
           {
             "sentence": "Л1ыр нахь '''баеу''' хъугъэ",
@@ -45532,18 +45552,25 @@
         "examples": []
       }
     ],
-    "type": "verb"
+    "type": "verb",
+    "ipa": "tχərban"
   },
   {
     "word": "тхъурбэ",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "foam",
-        "examples": []
+        "meaning": "foam; lather",
+        "examples": [
+          {
+            "sentence": "К1алэм ишы пк1энт1э '''тхъурбэ''' тыриш1агъ",
+            "translation": "Tahe boy covered his horse with '''foam'''."
+          }
+        ]
       }
     ],
-    "type": "noun"
+    "type": "noun",
+    "ipa": "tχərba"
   },
   {
     "word": "налкъут",
@@ -45562,12 +45589,22 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "misfortune",
-        "examples": []
+        "meaning": "some kind of a misfortune",
+        "examples": [
+          {
+            "sentence": "Ащ '''бэлахь''' теф",
+            "translation": "May '''misfortune''' fall upon him/her."
+          }
+        ]
       },
       {
         "meaning": "exceptional (often: exceptionally good)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Ар ц1ыф '''бэлахь'''",
+            "translation": "(S)he is an '''exceptional''' person."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -45581,12 +45618,12 @@
         "meaning": "straight, just (good person)",
         "examples": [
           {
-            "sentence": "л1эр '''зафэ'''",
+            "sentence": "Л1ыр '''зафэ'''",
             "translation": "The man is '''straight'''."
           },
           {
-            "sentence": "л1ы '''зафэм''' ыдэжь шъук1у",
-            "translation": "Go to the '''straight''' man. (Said to plural)"
+            "sentence": "Л1ы '''зафэм''' ыдэжь шъук1у",
+            "translation": "Go to the '''straight''' man."
           }
         ]
       }
@@ -45606,6 +45643,10 @@
             "sentence": "К1алэр '''мэнэкъуакъо'''",
             "translation": "The boy is '''arguing'''."
           },
+		  {
+            "sentence": "К1алэр пшъашъэм '''енэкъокъу'''",
+            "translation": "The boy is '''arguing''' with the girl."
+          },
           {
             "sentence": "'''Умынэкъуакъу'''",
             "translation": "'''Don't argue'''."
@@ -45622,7 +45663,12 @@
       },
       {
         "meaning": "to compete (with in), to rival (in), to vie (with in)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''мэнэкъуакъо'''",
+            "translation": "The boy is '''competes'''."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -45644,6 +45690,18 @@
             "translation": "The boy is '''sitting down'''."
           },
           {
+            "sentence": "Сыпшъыгъ, т1эк1у '''сыт1ысын''' фай",
+            "translation": "I got tired, I need '''to sit down'''."
+          },
+          {
+            "sentence": "Къухьэлъатэр '''къет1ысэхыгъ'''",
+            "translation": "The airplane '''sat down'''."
+          },
+          {
+            "sentence": "Къак1о, садэжь '''къэт1ыс'''",
+            "translation": "Come, '''sit down''' next to me."
+          },
+          {
             "sentence": "'''Умыт1ыс'''",
             "translation": "'''Don't sit down'''."
           },
@@ -45652,8 +45710,20 @@
             "translation": "The boy '''sat on''' the horse."
           },
 		  {
+            "sentence": "К1алэр щагум '''дэт1ысхьагъ'''",
+            "translation": "The boy '''sat in''' the yard."
+          },
+		  {
+            "sentence": "К1алэр чъыгым '''пыт1ысхьагъ'''",
+            "translation": "The boy '''sat on''' the tree."
+          },
+		  {
             "sentence": "Пхъэнт1эк1ум '''сытет1ысхьагъ'''",
             "translation": "'''I sat on''' the chair."
+          },
+		  {
+            "sentence": "Псым '''ухэмыт1ысхь'''",
+            "translation": "'''Do not sit in''' the water."
           },
 		  {
             "sentence": "Зыфэсакъ, ц1ынэм '''ухэт1ысхьэ'''",
@@ -45712,14 +45782,44 @@
     "ipa": "qajtʼəsəxən"
   },
   {
+    "word": "хьэц1эп1ац1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"хьац1э-п1ац1э\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ħaːt͡sʼa-pʼaːt͡sʼa"
+  },
+  {
+    "word": "хьэц1э-п1ац1",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"хьац1э-п1ац1э\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ħaːt͡sʼa-pʼaːt͡sʼa"
+  },
+  {
     "word": "хьац1э-п1ац1э",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "insect",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Гъэмафэм тищагу хьэц1эп1ац1э бэ къыдахьэ",
+            "translation": "In the summer, a lot of '''insects''' come into our yard."
+          }
+        ]
       }
     ],
+    "kabardian": "гъудэбадзэ",
     "type": "noun",
     "ipa": "ħaːt͡sʼa-pʼaːt͡sʼa"
   },
@@ -45745,6 +45845,14 @@
           {
             "sentence": "К1алэр '''еджап1эм''' мак1о",
             "translation": "The boy is going '''to school'''."
+          },
+		  {
+            "sentence": "К1алэхэр '''еджап1эм''' щеджэх",
+            "translation": "Kids learn at '''school'''."
+          },
+		  {
+            "sentence": "Сыхьатыр им '''еджап1эр''' тэублэ",
+            "translation": "We start '''school''' in eight o'clock."
           },
 		  {
             "sentence": "К1элэц1ык1ум сымаджэу зеш1ы '''еджап1эм''' амыгъэк1он пае",
@@ -45818,11 +45926,11 @@
         "meaning": "to hit/strike someone directly in the face",
         "examples": [
           {
-            "sentence": "к1алэр л1ым '''жэхэуагъ'''",
+            "sentence": "К1алэр л1ым '''жэхэуагъ'''",
             "translation": "The boy '''hit''' the man's '''face'''."
           },
           {
-            "sentence": "'''усжэхэощт'''",
+            "sentence": "'''Усжэхэощт'''",
             "translation": "'''I will hit your face'''."
           }
         ]
@@ -45844,11 +45952,11 @@
         "meaning": "to hit someone's face",
         "examples": [
           {
-            "sentence": "к1алэр л1ым '''хэуагъ'''",
+            "sentence": "К1алэр л1ым '''хэуагъ'''",
             "translation": "The boy '''hit''' the man's '''face'''."
           },
           {
-            "sentence": "'''усхэот'''",
+            "sentence": "'''Усхэот'''",
             "translation": "'''I will hit your face'''."
           }
         ]
@@ -45856,6 +45964,19 @@
 	  {
         "meaning": "to hit/strike someone intensively",
         "examples": []
+      },
+	  {
+        "meaning": "to strike among people/objects",
+        "examples": []
+      },
+	  {
+        "meaning": "to shoot among people/objects",
+        "examples": [
+          {
+            "sentence": "Л1ыр бланэхэмэ к1эрахъок1э '''ахэуагъ'''",
+            "translation": "The man '''shot''' toward the deers with a gun."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -45933,7 +46054,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "manner of speech",
+        "meaning": "manner of speech; speech style; the way to say something",
         "examples": []
       }
     ],
@@ -45949,7 +46070,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "manner of speech",
+        "meaning": "manner of speech; speech style; the way to say something",
         "examples": []
       }
     ],
@@ -46142,21 +46263,8 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to disgorge, to vomit, to puke, to throw up",
-        "examples": [
-          {
-            "sentence": "К1алэр '''къэжы'''.",
-            "translation": "The boy '''is vomiting'''."
-          },
-          {
-            "sentence": "'''укъэжынэу''' уфаемэ псыунэм ихь",
-            "translation": "'''If you want to throw up''', go to the toilet."
-          },
-          {
-            "sentence": "'''Къэжырэ''' псы бэ ешъон фай.",
-            "translation": "'''One who vomits''' must drink a lot."
-          }
-        ]
+        "meaning": "alternative form of \"къэжын\"",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -46168,7 +46276,12 @@
     "definitions": [
       {
         "meaning": "lee; refuge (a place protected from wind or sun)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Жьаугъуаджэм''' шыхэр ч1эсых",
+            "translation": "The horses are in the '''refuge'''."
+          }
+        ]
       },
 	  {
         "meaning": "leeward",
@@ -46214,11 +46327,33 @@
     "definitions": [
       {
         "meaning": "sweet",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Шоколадыр '''1эш1у'''",
+            "translation": "Chocolate '''is sweet'''."
+          },
+		  {
+            "sentence": "Кекс '''1эш1ущэ''', шъоущыгъу бащэ хэлъ",
+            "translation": "The cake '''is too sweet''', it has too much sugar."
+          }
+        ]
       },
       {
         "meaning": "tasty",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Сянэ ишхын '''1эш1у'''",
+            "translation": "My mother's food '''is tasty'''."
+          },
+		  {
+            "sentence": "Къо1усыр сэрк1э '''1эш1у'''",
+            "translation": "Banana '''is tasty''' for me."
+          },
+		  {
+            "sentence": "Пшъашъэм шхыныр '''1эш1оу''' къиш1ыгъ",
+            "translation": "The girl made the food '''tasty'''."
+          }
+        ]
       },
       {
         "meaning": "something sweet (e.g. candy, cage)",
@@ -46227,7 +46362,6 @@
 	  {
         "meaning": "pleasant (smell)",
         "examples": [
-          ,
 		  {
             "sentence": "К1алэм мэ '''1эш1у''' унэм ригъэутысагъ",
             "translation": "The boy sprayed a '''pleasant''' smell in the house."
@@ -46249,7 +46383,12 @@
     "definitions": [
       {
         "meaning": "A pleasant breeze",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "'''жьы1эш1у''' къэс1ухьэ",
+            "translation": "I am getting '''a pleasant breeze'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -46345,7 +46484,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "spouses bedroom",
+        "meaning": "bedroom of the spouse",
         "examples": []
       }
     ],
@@ -46357,12 +46496,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "cart",
-        "examples": []
-      },
-      {
-        "meaning": "cartload",
-        "examples": []
+        "meaning": "cartload (the amount that a cart can carry)",
+        "examples": [
+          {
+            "sentence": "К1алэм пхъэ '''кухьэ''' къыщагъ",
+            "translation": "The boy brought a '''cartload''' of woods."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -46386,7 +46526,12 @@
     "definitions": [
       {
         "meaning": "mattress (stuffed with wool)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''ошэкум''' хэлъ",
+            "translation": "The boy is lying in '''the mattress'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -46401,11 +46546,21 @@
     "definitions": [
       {
         "meaning": "bed",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''гъолъып1эм''' хэлъ",
+            "translation": "The boy is lying in '''the bed'''."
+          }
+        ]
       },
       {
         "meaning": "bedroom",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''гъолъып1эм''' ихьажьыгъ",
+            "translation": "The boy went inside '''the bedroom'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -46421,11 +46576,16 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "clear",
-        "examples": []
+        "meaning": "distinct, clear",
+        "examples": [
+          {
+            "sentence": "Тыш1эн фэягъэр '''нафэу''' къэтфэхъугъ",
+            "translation": "What we had to do became '''clear''' to us'."
+          }
+        ]
       },
       {
-        "meaning": "clarity",
+        "meaning": "clear; evident; apparent",
         "examples": []
       }
     ],
@@ -46461,7 +46621,7 @@
     "ipa": "gʷərəʔʷaʁʷaʃʷʼ"
   },
   {
-    "word": "пхъэнтэк1у к1ыхь",
+    "word": "пхъэнт1эк1у к1ыхь",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -46473,11 +46633,11 @@
     "ipa": "pχantakʷʼ t͡ʃʼəħ"
   },
   {
-    "word": "пхъэнтэк1ук1ыхь",
+    "word": "пхъэнт1эк1ук1ыхь",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"пхъэнтэк1у к1ыхь\"",
+        "meaning": "alternative form of \"пхъэнт1эк1у к1ыхь\"",
         "examples": []
       }
     ],
@@ -46490,7 +46650,12 @@
     "definitions": [
       {
         "meaning": "land",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэр '''ч1ыналъэм''' тек1и хым техьагъ",
+            "translation": "The boy went off '''the land''' and went into the sea."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -46501,29 +46666,70 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "top of the saddle (where is the rider sits)",
-        "examples": [
-          {
-            "sentence": "'''Онэгум''' къиутын",
-            "translation": "To knock down him from the saddle."
-          }
-        ]
+        "meaning": "top of the saddle (where the rider sits)",
+        "examples": []
       }
     ],
     "type": "noun",
     "ipa": "wanaɡʷ"
   },
   {
+    "word": "еутэхын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"къеутэхын\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "jawtaxən"
+  },
+  {
+    "word": "къеутэхын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to hit something and cause it to fall down",
+        "examples": [
+          {
+            "sentence": "Шыум л1ыр шым '''къыриутэхыгъ'''",
+            "translation": "The horseman '''knocked''' the man '''down''' from the horse."
+          }
+        ]
+      },
+	  {
+        "meaning": "to shoot something and bring it down; to shoot down; to cause to fall by shooting",
+        "examples": [
+		  {
+            "sentence": "'''Бзыук1алъэк1э''' бзыу къеутэхын",
+            "translation": "To shot down a bird '''with a slingshot'''."
+          },
+		  {
+            "sentence": "Шак1ор шхончымк1э бзыур '''къыриутыхыгъ'''",
+            "translation": "The hunter '''shot down''' the bird with the rifle."
+          },
+		  {
+            "sentence": "Къухьэлъатэр '''къыраутыхыгъ'''",
+            "translation": "The plane '''was shot down'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "qajwaxən"
+  },
+  {
     "word": "бегъымбар",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "prophet",
+        "meaning": "prophet; see \"тхьэл1ык1о\"",
         "examples": []
       }
     ],
     "synonyms": [
-      "тхьэл1ык1у"
+      "тхьэл1ык1о"
     ],
     "type": "noun",
     "ipa": "beʁəmbaːr"
@@ -46533,7 +46739,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "money",
+        "meaning": "money; see \"ахъщэ\"",
         "examples": []
       }
     ],
@@ -46575,6 +46781,10 @@
 		  {
             "sentence": "Дзэм '''тич1ыгу''' ыштагъ",
             "translation": "The army took '''our land'''."
+          },
+		  {
+            "sentence": "'''Ч1ыгум''' уцыхэр къыхэк1ых",
+            "translation": "Plants are coming out from '''the land'''."
           }
         ]
       },
@@ -46621,6 +46831,18 @@
           {
             "sentence": "'''Шъэжъыем''' сыкъиу1агъ",
             "translation": "'''The knife''' injured me."
+          },
+		  {
+            "sentence": "Пшъашъэм къуаер '''шъэжъыемк1э''' ебзы",
+            "translation": "The girl slices the cheese '''with the knife'''."
+          },
+		  {
+            "sentence": "'''Шъэжъые''' лым хисагъ",
+            "translation": "(S)he thrusted '''a knife''' into the meat."
+          }
+		  {
+            "sentence": "'''Шъэжъыек1э''' зыгорэм ухэпыджэн",
+            "translation": "To stab someone '''with a knife'''."
           }
         ]
       }
@@ -46637,13 +46859,17 @@
         "meaning": "strip",
         "examples": [
           {
+            "sentence": "Мэз '''шъолъыр'''",
+            "translation": "Forest '''strip'''"
+          },
+		  {
             "sentence": "Тихэгъэгу огъум ебэны, мэз '''шъолъырхэр''' егъэгъух",
             "translation": "Our country is struggling against the drought, it dries forest '''strips'''."
           }
         ]
       },
       {
-        "meaning": "region",
+        "meaning": "zone",
         "examples": []
       }
     ],
@@ -46655,8 +46881,17 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "ax",
-        "examples": []
+        "meaning": "ax; axe",
+        "examples": [
+          {
+            "sentence": "'''Обзэгъу''' чан",
+            "translation": "Sharp '''axe'''."
+          },
+		  {
+            "sentence": "К1алэм '''обзэгъук1э''' чъыгым ео",
+            "translation": "The boy hits the tree '''with an axe'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -46674,7 +46909,16 @@
     "definitions": [
 	  {
         "meaning": "(large and heavy) axe (tool); froe",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Ощы''' чан",
+            "translation": "Sharp '''axe'''."
+          },
+		  {
+            "sentence": "К1алэм '''ощык1э''' чъыгым ео",
+            "translation": "The boy hits the tree '''with an axe'''."
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -46747,7 +46991,12 @@
     "definitions": [
       {
         "meaning": "prayer (the act of praying)",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''нэмазэ''' еш1ы",
+            "translation": "The boy is doing a '''prayer'''."
+          }
+        ]
       }
     ],
     "kabardian": "нэмэз",
@@ -82211,6 +82460,10 @@
 		  {
             "sentence": "'''Шыур''' къамыщымк1э шым еуагъ",
             "translation": "'''The horseman''' stroke the horse with a whip."
+          },
+		  {
+            "sentence": "'''Шыум''' л1ыр шым къыриутэхыгъ",
+            "translation": "'''The horseman''' knocked the man down from the horse."
           }
         ]
       }
@@ -96521,6 +96774,10 @@
 		  {
             "sentence": "Шхыным бжьыны '''хэлъа'''?",
             "translation": "'''Is there''' opoion '''in''' the food?"
+          },
+		  {
+            "sentence": "Кекс 1эш1ущэ, шъоущыгъу бащэ '''хэлъ'''",
+            "translation": "The cake is too sweet, '''it has''' too much sugar '''in it'''."
           }
         ]
       },
