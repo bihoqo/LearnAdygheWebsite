@@ -30728,7 +30728,7 @@
         "examples": [
           {
             "sentence": "Пщыл1ыхэр '''т1упщыных'''",
-            "translation": "'''to set free''' slaves."
+            "translation": "'''To set free''' slaves."
           },
 		  {
             "sentence": "Слъакъохэр зэтепхагъэх, с1эхэр '''т1упщыгъэх'''",
@@ -43970,6 +43970,30 @@
     "ipa": "kʷanə"
   },
   {
+    "word": "конышъхьэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "the lid of a grain storage",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "kʷanəʂħa"
+  },
+  {
+    "word": "коныч1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "the bottom of a grain storage",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "kʷanət͡ʂʼa"
+  },
+  {
     "word": "къакъырхьам",
     "lang": "Adyghe",
     "definitions": [
@@ -43986,14 +44010,16 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "hornet",
-        "examples": []
-      },
-      {
-        "meaning": "wasp",
-        "examples": []
+        "meaning": "wasp; hornet",
+        "examples": [
+          {
+            "sentence": "К1алэм '''къэцыгъуаныр''' къеуагъ",
+            "translation": "'''The wasp''' stinged the boy."
+          }
+        ]
       }
     ],
+    "kabardian": "хьэдзыгъуанэ",
     "type": "noun",
     "ipa": "qat͡səʁʷaːn"
   },
@@ -44014,7 +44040,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "shark",
+        "meaning": "shark (dogfish)",
         "examples": []
       }
     ],
@@ -44134,6 +44160,14 @@
         "meaning": "spoon",
         "examples": [
           {
+            "sentence": "К1алэм '''джэмышхык1э''' мащхэ",
+            "translation": "The boy eats with '''a spoon'''."
+          },
+		  {
+            "sentence": "'''Сиджэмышх''' гъэщыгъ",
+            "translation": "'''My spoon''' is bended."
+          },
+		  {
             "sentence": "Нэмк1ыр '''джэмышх''' къысэт",
             "translation": "Give me a '''different''' spoon."
           }
@@ -44176,7 +44210,25 @@
     "definitions": [
       {
         "meaning": "fork",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1алэм '''цацэк1э''' мащхэ",
+            "translation": "The boy eats with '''a fork'''."
+          },
+		  {
+            "sentence": "К1алэм '''цацэр''' лым пегъани ешхэ",
+            "translation": "The boy sticks '''the fork''' into the meat and he eats it."
+          }
+        ]
+      },
+	  {
+        "meaning": "spit (for roasting)",
+        "examples": [
+          {
+            "sentence": "К1алэм лыр '''цацэк1э''' егъажъэ",
+            "translation": "The boy roasts meat '''on a spit'''."
+          }
+        ]
       }
     ],
     "kabardian": "гуахъуэ",
@@ -44192,7 +44244,8 @@
         "examples": []
       }
     ],
-    "type": "noun"
+    "type": "noun",
+    "ipa": "qaːmɮəbʐ"
   },
   {
     "word": "пыут",
@@ -44206,6 +44259,23 @@
     "kabardian": "пуд",
     "type": "adj",
     "ipa": "pəwət"
+  },
+  {
+    "word": "псыщэрэб",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "blister; bump",
+        "examples": [
+          {
+            "sentence": "К1алэм ык1ышъо '''псыщэрэбхэр''' къытехъуагъэх",
+            "translation": "'''Blisters''' appeared on the skin of the boy."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "psəɕarab"
   },
   {
     "word": "к1ышъо",
@@ -44245,7 +44315,24 @@
     "definitions": [
       {
         "meaning": "hair",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "Лэныстэк1э '''шъхьацыр''' упхъун",
+            "translation": "To cut '''the hair''' with scissors."
+          },
+		  {
+            "sentence": "К1алэм '''ышъхьацы''' еупхъу",
+            "translation": "The boy cuts '''his hair'''."
+          },
+          {
+            "sentence": "К1алэм '''ышъхьацы''' к1акоу ыш1ыгъ",
+            "translation": "The boy made his '''hair''' short."
+          },
+          {
+            "sentence": "Пшъашъэм '''ышъхьацы''' ежьы",
+            "translation": "The girl hairbrushes '''her hair'''."
+          }
+        ]
       }
     ],
     "type": "noun",
@@ -44273,6 +44360,10 @@
           {
             "sentence": "К1алэм '''ынэк1ушъомэ''' фыкъуадэхэр къытек1ыгъэх",
             "translation": "Pimples grew on the boy's '''cheek'''."
+          },
+		  {
+            "sentence": "К1алэм '''ынэк1ушъо''' плъыжьэу хъугъэ",
+            "translation": "The boy's '''cheeks''' became red."
           }
         ]
       }
@@ -44293,6 +44384,10 @@
           {
             "sentence": "К1алэм '''ынэк1ушъхьэмэ''' фыкъуадэхэр къытек1ыгъэх",
             "translation": "Pimples grew on the boy's '''cheek'''."
+          },
+		  {
+            "sentence": "К1алэм '''ынэк1ушъхь''' плъыжьэу хъугъэ",
+            "translation": "The boy's '''cheeks''' became red."
           }
         ]
       }
@@ -44316,7 +44411,7 @@
       "жъагъ"
     ],
     "type": "noun",
-    "ipa": "tħaːbəl"
+    "ipa": "tħaːbəɮ"
   },
   {
     "word": "к1эт1эй",
@@ -44350,7 +44445,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to arm, to furnish (oneself) ",
+        "meaning": "to arm oneself (to supply weapons to oneself)",
         "examples": []
       }
     ],
@@ -44367,6 +44462,10 @@
 		  {
             "sentence": "Убзэгук1э '''у1энтэгъу''' унэсышъущта?",
             "translation": "Can you touch '''your elbow''' with your tongue?"
+          },
+		  {
+            "sentence": "К1алэр '''ы1энтэгъук1э''' къысэуагъ",
+            "translation": "The boy hit me '''with his elbow'''"
           }
         ]
       }
@@ -44383,7 +44482,7 @@
         "meaning": "wrist",
         "examples": [
           {
-            "sentence": "Пшъашъэм '''ы1апшъэ''' 1эпшъхьэхъу илъ",
+            "sentence": "Пшъашъэм '''ы1апшъэ''' 1эпшъэхъу илъ",
             "translation": "There is a bracelet in the girl's '''wrist'''."
           }
         ]
@@ -44417,6 +44516,23 @@
     "ipa": "ħaːmə"
   },
   {
+    "word": "1ожьын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to thresh",
+        "examples": [
+          {
+            "sentence": "Коцыр '''1ожьын'''",
+            "translation": "'''To thresh''' the wheat."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʔʷaʑən"
+  },
+  {
     "word": "хьамэ",
     "lang": "Adyghe",
     "definitions": [
@@ -44448,6 +44564,14 @@
         "meaning": "poor (a person with little/no money or possessions)",
         "examples": [
           {
+            "sentence": "'''Тхьамык1ыр''' ц1ыфэу ахъщэ мак1э зи1ыгъэр",
+            "translation": "'''Poor''' is a person that has few money."
+          },
+		  {
+            "sentence": "Ахъщэ си1эп, '''сытхьамыку'''",
+            "translation": "I have no money, '''I am poor'''."
+          },
+		  {
             "sentence": "Ахъщэ ч1этыфэу '''тхьамык1эу''' тыхъужьыщт",
             "translation": "By we are spending money, we will eventually become '''poor'''."
           },
@@ -44492,12 +44616,29 @@
     "ipa": "tħaməɕkʲʼ"
   },
   {
+    "word": "1упэф",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "white lips",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "ʔʷəpaf"
+  },
+  {
     "word": "фэмыф",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "lazybones, loafer, idler, slacker, sluggard",
-        "examples": []
+        "meaning": "lazy; lazybones, loafer, idler, slacker, sluggard",
+        "examples": [
+          {
+            "sentence": "Ц1ыф '''фэмыф'''",
+            "translation": "'''Lazy''' person."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -44556,22 +44697,22 @@
         "examples": [
           {
             "sentence": "Сыдэрэп мо к1алэм '''уригъусэу'''.",
-            "translation": "'''I forbid you''' to be with that boy."
+            "translation": "'''I do not permit you''' to be with that boy."
           },
           {
-            "sentence": "Уиянэ '''еда''' укъыдэк1ынэу?",
+            "sentence": "Уянэ '''еда''' укъыдэк1ынэу?",
             "translation": "Does your mother '''allow you''' to go out?"
           },
           {
             "sentence": "Тихатэ шъущыджэгоу '''сыдэрэп'''.",
-            "translation": "'''I forbid''' you (plural) to play in our garden."
+            "translation": "'''I forbid''' you all to play in our garden."
           },
           {
             "sentence": "Сидоктор '''ыдэрэп''' лы бэ сышхэу",
             "translation": "My doctor '''forbade''' me to eat a lot of meat."
           },
           {
-            "sentence": "Уиянэ '''ебгъадэшъущта''' уиунэ тыкъэк1онэу.",
+            "sentence": "Уянэ '''ебгъэдэшъущта''' уиунэ тыкъэк1онэу.",
             "translation": "'''Can you get''' your mother '''to permit''' us to come to your house."
           },
 		  {
@@ -44619,10 +44760,6 @@
       {
         "meaning": "ploughshare",
         "examples": []
-      },
-      {
-        "meaning": "share",
-        "examples": []
       }
     ],
     "kabardian": "вабдзэ",
@@ -44635,7 +44772,28 @@
     "definitions": [
       {
         "meaning": "slave",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Пщыл1ыхэр''' т1упщыных",
+            "translation": "To set free '''slaves'''."
+          },
+		  {
+            "sentence": "Пачъыхьэм '''пщыл1ыхэр''' и1эх",
+            "translation": "The king has '''slaves'''."
+          },
+		  {
+            "sentence": "Пщым '''пщыл1ыхэр''' егъэ1уарыш1эх",
+            "translation": "The prince rules over '''the slaves'''."
+          },
+		  {
+            "sentence": "Л1ыр '''пщыл1ым''' къамыщык1э ео",
+            "translation": "The man is striking '''the slave''' with a whip."
+          },
+		  {
+            "sentence": "Л1ым '''пщыл1ыр''' ыгъэлэнлагъ",
+            "translation": "The man freed '''the slave'''."
+          }
+        ]
       }
     ],
     "type": "noun",
