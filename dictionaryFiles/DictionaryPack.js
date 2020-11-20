@@ -2796,7 +2796,7 @@
   },
   {
     "word": "пыстык1ын",
-	"etymology": "From пы- (tip preposition prefix) + стын (to burn) + -к1ы (off/away suffix)",
+	"etymology": "From пы- (tip preposition prefix) + стын (to burn) + -к1ы (away movement suffix)",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -4268,7 +4268,7 @@
   {
     "word": "хэгъэжъыхьан",
     "lang": "Adyghe",
-	"etymology": "From хэ- (within/through preposition prefix) + гъэжъэн (to fry/to grill) + -хь (to/onto/into suffix)",
+	"etymology": "From хэ- (within/through preposition prefix) + гъэжъэн (to fry/to grill) + -хь (toward movement suffix)",
     "definitions": [
       {
         "meaning": "to fry within; to grill within",
@@ -4876,7 +4876,7 @@
   {
     "word": "пхырык1ын",
     "lang": "Adyghe",
-	"etymology": "From пхы- (through preposition prefix) + -к1ы (off/away suffix)",
+	"etymology": "From пхыры- (through preposition prefix) + -к1ы (away movement suffix)",
     "definitions": [
       {
         "meaning": "to get through; to pass through",
@@ -6634,7 +6634,7 @@
   {
     "word": "ибыбыхьан",
     "lang": "Adyghe",
-	"etymology": "From и- (inside preposition prefix) + быбын (to fly) + -хь (to/onto/into suffix)",
+	"etymology": "From и- (inside preposition prefix) + быбын (to fly) + -хь (toward movement suffix)",
     "definitions": [
       {
         "meaning": "to fly around inside something",
@@ -8066,7 +8066,7 @@
   {
     "word": "ит1ысхьан",
     "lang": "Adyghe",
-	"etymology": "From и- (inside preposition prefix) + т1ысхьан (to sit)",
+	"etymology": "From и- (inside preposition prefix) + т1ысын (to sit) + хь (toward movement suffix)",
     "definitions": [
       {
         "meaning": "to sit inside",
@@ -8101,7 +8101,7 @@
   {
     "word": "хэт1ысхьан",
     "lang": "Adyghe",
-	"etymology": "From хэ- (within/through preposition prefix) + т1ысхьан (to sit)",
+	"etymology": "From хэ- (within/through preposition prefix) + т1ысын (to sit) + хь (toward movement suffix)",
     "definitions": [
 	  {
         "meaning": "to sit among",
@@ -8137,7 +8137,7 @@
   {
     "word": "дэт1ысхьан",
     "lang": "Adyghe",
-	"etymology": "From дэ- (inside another object preposition prefix) + т1ысхьан (to sit)",
+	"etymology": "From дэ- (inside another object preposition prefix) + т1ысын (to sit) + хь (toward movement suffix)",
     "definitions": [
       {
         "meaning": "to sit between; to sit inside another object that can be opened",
@@ -11172,6 +11172,7 @@
   {
     "word": "тхылъ",
     "lang": "Adyghe",
+	"etymology": "From тхын (to write) + -лъ (tool/container suffix)",
     "definitions": [
       {
         "meaning": "book",
@@ -13038,7 +13039,7 @@
   {
     "word": "хэгъэш1ык1ын",
     "lang": "Adyghe",
-	"etymology": "From хэ- (within/through preposition prefix) + гъэ (causative) + ш1ын (to make) + к1ы (off/away suffix)",
+	"etymology": "From хэ- (within/through preposition prefix) + гъэ (causative) + ш1ын (to make) + к1ы (away movement suffix)",
     "definitions": [
       {
         "meaning": "to create something out of",
@@ -13585,7 +13586,7 @@
   {
     "word": "к1эдэ1ук1ын",
     "lang": "Adyghe",
-	"etymology": "From к1э- (under preposition prefix) + 1ун (to hear) + -к1ы (off/away suffix)",
+	"etymology": "From к1э- (under preposition prefix) + 1ун (to hear) + -к1ы (away movement suffix)",
     "definitions": [
       {
         "meaning": "to listen to someone very carefully (note: can also be used for listening to someone unnoticeably or secretly)",
@@ -13620,7 +13621,7 @@
   {
     "word": "шэчалъэ",
     "lang": "Adyghe",
-	"etymology": "From щэчын (under preposition prefix) + 1ун (to hear) + -к1ы (off/away suffix)",
+	"etymology": "From щэчын (under preposition prefix) + 1ун (to hear) + -к1ы (away movement suffix)",
     "definitions": [
       {
         "meaning": "balance (tool); alternative form of \"щэчалъэ\"",
@@ -15216,6 +15217,7 @@
   {
     "word": "чэмахъо",
     "lang": "Adyghe",
+	"etymology": "From чэмы (cow) + хъо (herd)",
     "definitions": [
       {
         "meaning": "cowherd, cow herdsman",
@@ -15237,6 +15239,7 @@
   {
     "word": "тыгъуак1о",
     "lang": "Adyghe",
+	"etymology": "From тыгъун (steal) + -к1о (doer suffix)",
     "definitions": [
       {
         "meaning": "thief, burglar, robber",
@@ -15434,6 +15437,7 @@
   {
     "word": "хьашъобыдз",
     "lang": "Adyghe",
+	"etymology": "From хьашъо (rubber) + быдзы (breast)",
     "definitions": [
       {
         "meaning": "pacifier",
@@ -15451,6 +15455,7 @@
   {
     "word": "гъопэк1ыхь",
     "lang": "Adyghe",
+	"etymology": "From гъуапэ (sleeve) + к1ыхьэ (long)",
     "definitions": [
       {
         "meaning": "long-sleeved shirt",
@@ -15553,6 +15558,7 @@
   {
     "word": "дышъэпс",
     "lang": "Adyghe",
+	"etymology": "From дышъэ (gold) + псы (water)",
     "definitions": [
       {
         "meaning": "liquid gold",
@@ -15618,6 +15624,7 @@
   {
     "word": "пэ1отелъхьэ",
     "lang": "Adyghe",
+	"etymology": "From па1о (hat) + телъхьан (to put)",
     "definitions": [
       {
         "meaning": "helmet",
@@ -15687,6 +15694,7 @@
   {
     "word": "1элъын",
     "lang": "Adyghe",
+	"etymology": "From 1э (hand) + илъын (to be in it)",
     "definitions": [
       {
         "meaning": "ring",
@@ -15728,6 +15736,7 @@
   {
     "word": "жэгъуч1элъ",
     "lang": "Adyghe",
+	"etymology": "From жэгъу (chin) + ч1элъын (to lie under)",
     "definitions": [
       {
         "meaning": "necklace",
@@ -15774,6 +15783,7 @@
   {
     "word": "гохьыдж",
     "lang": "Adyghe",
+	"etymology": "From гу (heart) + хьын (to carry) + -дж (bad suffix)",
     "definitions": [
       {
         "meaning": "unpleasant",
@@ -15790,6 +15800,7 @@
   {
     "word": "ышъуты къеон",
     "lang": "Adyghe",
+	"etymology": "Literary means: to hit his/her butt",
     "definitions": [
       {
         "meaning": "(slang) to get butthurt",
@@ -15835,6 +15846,7 @@
   {
     "word": "цокъэк1ыхь",
     "lang": "Adyghe",
+	"etymology": "From цуакъэ (shoes) + к1ыхьэ (long)",
     "definitions": [
       {
         "meaning": "boots",
@@ -15856,6 +15868,7 @@
   {
     "word": "пщагъо",
     "lang": "Adyghe",
+	"etymology": "From пщэ (cloud) + -гъо (time suffix)",
     "definitions": [
       {
         "meaning": "fog; mist",
@@ -15895,8 +15908,21 @@
     "ipa": "pɕas"
   },
   {
+    "word": "сэин",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to fill up with something",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "sajən"
+  },
+  {
     "word": "пщэсэй",
     "lang": "Adyghe",
+	"etymology": "From пщэ (cloud) + сэин (to fill)",
     "definitions": [
       {
         "meaning": "haze",
@@ -15922,6 +15948,7 @@
   {
     "word": "ахъщалъэ",
     "lang": "Adyghe",
+	"etymology": "From ахъщэ (money) + -лъ (tool/container suffix)",
     "definitions": [
       {
         "meaning": "wallet, purse",
@@ -15951,6 +15978,7 @@
   {
     "word": "тхылъылъ",
     "lang": "Adyghe",
+	"etymology": "From тхылъ (book) + -лъ (tool/container suffix)",
     "definitions": [
       {
         "meaning": "briefcase",
@@ -15968,6 +15996,7 @@
   {
     "word": "пшъэдэлъ",
     "lang": "Adyghe",
+	"etymology": "From пшъэ (neck) + дэлъын (to lie on the neck)",
     "definitions": [
       {
         "meaning": "scarf (neck)",
@@ -15994,6 +16023,7 @@
   {
     "word": "пшъэдадз",
     "lang": "Adyghe",
+	"etymology": "From пшъэ (neck) + дэдзэн (to throw on the neck)",
     "definitions": [
       {
         "meaning": "scarf (neck)",
@@ -16020,6 +16050,7 @@
   {
     "word": "пшъэбыдэлъ",
     "lang": "Adyghe",
+	"etymology": "From пшъэбы (back of the neck) + дэлъын (to lie on the neck)",
     "definitions": [
       {
         "meaning": "scarf (neck)",
@@ -16070,6 +16101,7 @@
   {
     "word": "пшъэдалъхь",
     "lang": "Adyghe",
+	"etymology": "From пшъэ (neck) + дэлъхьан (to lay on the neck)",
     "definitions": [
       {
         "meaning": "necktie",
@@ -16110,6 +16142,7 @@
   {
     "word": "тыгъэнэгъунджэ",
     "lang": "Adyghe",
+	"etymology": "From тыгъэ (sun) + нэгъунджэ (glasses)",
     "definitions": [
       {
         "meaning": "sunglasses",
@@ -16188,6 +16221,7 @@
   {
     "word": "къулыкъуш1",
     "lang": "Adyghe",
+	"etymology": "From къулыкъу (service) + ш1эн (to do)",
     "definitions": [
       {
         "meaning": "employee",
@@ -16200,6 +16234,7 @@
   {
     "word": "пшъэрылъ",
     "lang": "Adyghe",
+	"etymology": "From пшъэ (neck) + илъын (to be in)",
     "definitions": [
       {
         "meaning": "task, work to do",
@@ -16281,6 +16316,7 @@
   {
     "word": "быдзылъ",
     "lang": "Adyghe",
+	"etymology": "From быдзы (breast) + -лъ (tool/container suffix)",
     "definitions": [
       {
         "meaning": "bra; brassiere",
@@ -16320,6 +16356,7 @@
   {
     "word": "бгъэк1апх",
     "lang": "Adyghe",
+	"etymology": "From бгъэ (chest) + к1эпхэн (to tie under)",
     "definitions": [
       {
         "meaning": "bra; brassiere",
@@ -16342,6 +16379,7 @@
   {
     "word": "быдзытелъхьэ",
     "lang": "Adyghe",
+	"etymology": "From быдзы (breast) + телъхьан (to put on)",
     "definitions": [
       {
         "meaning": "bra; brassiere",
@@ -16364,6 +16402,7 @@
   {
     "word": "тхьак1умэпылъ",
     "lang": "Adyghe",
+	"etymology": "From тхьак1умэ (ear) + пылъын (to be hanging)",
     "definitions": [
       {
         "meaning": "earring",
@@ -16381,6 +16420,7 @@
   {
     "word": "тхьак1умпылъхь",
     "lang": "Adyghe",
+	"etymology": "From тхьак1умэ (ear) + пылъхьан (to hang)",
     "definitions": [
       {
         "meaning": "earring",
@@ -16396,11 +16436,23 @@
     "ipa": "tħakʷʼmapəɬħ"
   },
   {
+    "word": "дэ1ун",
+    "lang": "Adyghe",
+    "definitions": [
+	  {
+        "meaning": "to drive in",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "daʔʷən"
+  },
+  {
     "word": "пхыры1ун",
     "lang": "Adyghe",
     "definitions": [
 	  {
-        "meaning": "to push through",
+        "meaning": "to push through; to pass through",
         "examples": []
       }
     ],
@@ -16426,6 +16478,7 @@
   {
     "word": "пхырыфын",
     "lang": "Adyghe",
+	"etymology": "From пхыры- (through preposition prefix) + фын (to drive, to push)",
     "definitions": [
       {
         "meaning": "to drive something through",
@@ -16442,6 +16495,7 @@
   {
     "word": "пхырыгъэк1ын",
     "lang": "Adyghe",
+	"etymology": "From пхыры- (through preposition prefix) + гъэ- (causative) + -к1ы (away movement suffix)",
     "definitions": [
       {
         "meaning": "to pierce through",
@@ -16456,11 +16510,12 @@
     "ipa": "pxərəʁat͡ʃʼən"
   },
   {
-    "word": "screwdriver",
+    "word": "бырыугъаз",
     "lang": "Adyghe",
+	"etymology": "From бырыу (drill) + гъэзэн (to turn)",
     "definitions": [
       {
-        "meaning": "бырыугъаз",
+        "meaning": "screwdriver",
         "examples": []
       }
     ],
@@ -16470,6 +16525,7 @@
   {
     "word": "бырыугъэчэрэгъу",
     "lang": "Adyghe",
+	"etymology": "From бырыу (drill) + гъэчэрэгъу (to twist)",
     "definitions": [
       {
         "meaning": "drill",
@@ -16487,6 +16543,7 @@
   {
     "word": "джамбырыугъазэ",
     "lang": "Adyghe",
+	"etymology": "From джамбырыу (screw) + гъэзэн (to turn)",
     "definitions": [
       {
         "meaning": "screwdriver",
@@ -16804,6 +16861,7 @@
   {
     "word": "бзыуцыф",
     "lang": "Adyghe",
+	"etymology": "From бзыу (bird) + цы (wool) + ф (white)",
     "definitions": [
       {
         "meaning": "cotton",
@@ -16824,6 +16882,7 @@
   {
     "word": "бзыуцыфуц",
     "lang": "Adyghe",
+	"etymology": "From бзыу (bird) + цы (wool) + ф (white) + уцы (plant)",
     "definitions": [
       {
         "meaning": "Cotton (plant)",
@@ -16861,6 +16920,7 @@
   {
     "word": "дэгъук1ай",
     "lang": "Adyghe",
+	"etymology": "From дэгъу (good) + -к1ай (pretty/quite suffix)",
     "definitions": [
       {
         "meaning": "pretty well; quite well",
@@ -16877,6 +16937,7 @@
   {
     "word": "ш1ук1ай",
     "lang": "Adyghe",
+	"etymology": "From ш1у (well) + -к1ай (pretty/quite suffix)",
     "definitions": [
       {
         "meaning": "pretty well; quite well",
@@ -16917,6 +16978,7 @@
   {
     "word": "тхьапэ",
     "lang": "Adyghe",
+	"etymology": "From тхьэ (god) + пэ (nose)",
     "definitions": [
       {
         "meaning": "leaf",
@@ -17112,6 +17174,7 @@
   {
     "word": "хы гъунэ",
     "lang": "Adyghe",
+	"etymology": "From хы (sea) + гъунэ (edge)",
     "definitions": [
       {
         "meaning": "beach; shore",
@@ -17143,6 +17206,7 @@
   {
     "word": "хыгъунэ",
     "lang": "Adyghe",
+	"etymology": "From хы (sea) + гъунэ (edge)",
     "definitions": [
       {
         "meaning": "alternative form of \"хы гъунэ\"",
@@ -17600,6 +17664,7 @@
   {
     "word": "мэлак1э л1эн",
     "lang": "Adyghe",
+	"etymology": "From мэлак1э (hunger) + л1эн (to die)",
     "definitions": [
 	  {
         "meaning": "to be hungry (literally: to starve, to die from hunger)",
@@ -17621,6 +17686,7 @@
   {
     "word": "псыфал1э л1эн",
     "lang": "Adyghe",
+	"etymology": "From псы (water) + фэл1эн (to die for)",
     "definitions": [
       {
         "meaning": "to be thirsty (literally: to be dying of thirst)",
@@ -17645,6 +17711,7 @@
   {
     "word": "псыфал1",
     "lang": "Adyghe",
+	"etymology": "From псы (water) + фэл1эн (to die for)",
     "definitions": [
       {
         "meaning": "thirst",
@@ -17863,6 +17930,7 @@
   {
     "word": "псыунэ",
     "lang": "Adyghe",
+	"etymology": "From псы (water) + унэ (house)",
     "definitions": [
       {
         "meaning": "toilet",
@@ -18316,6 +18384,7 @@
   {
     "word": "лъэ1он",
     "lang": "Adyghe",
+	"etymology": "Possibly from лъэ- (toward preposition prefix) + 1он (to say)",
     "definitions": [
       {
         "meaning": "to pray, to beg",
@@ -18353,6 +18422,7 @@
   {
     "word": "елъэ1ун",
     "lang": "Adyghe",
+	"etymology": "Possibly from лъэ- (toward preposition prefix) + 1он (to say)",
     "definitions": [
       {
         "meaning": "to pray to, to beg someone",
@@ -18382,6 +18452,7 @@
   {
     "word": "цумпэ1эрыс",
     "lang": "Adyghe",
+	"etymology": "From цумпэ (strawberries) + мы1эпыс (apple)",
     "definitions": [
       {
         "meaning": "strawberry",
@@ -18529,6 +18600,7 @@
   {
     "word": "чэщныкъо",
     "lang": "Adyghe",
+	"etymology": "From чэщы (night) + ныкъо (half)",
     "definitions": [
       {
         "meaning": "midnight",
@@ -18599,6 +18671,7 @@
   {
     "word": "мыжъодз",
     "lang": "Adyghe",
+	"etymology": "From мыжъо (stone/rock) + дзын (to throw)",
     "definitions": [
       {
         "meaning": "sling (weapon)",
@@ -18729,6 +18802,7 @@
   {
     "word": "тхьэл1ык1о",
     "lang": "Adyghe",
+	"etymology": "From тхьэ (god) + л1ык1о (messenger)",
     "definitions": [
       {
         "meaning": "prophet",
@@ -19083,6 +19157,7 @@
   {
     "word": "щыдыкъолэн",
     "lang": "Adyghe",
+	"etymology": "From щыды (donkey) + къолэн (multicolored)",
     "definitions": [
       {
         "meaning": "zebra",
@@ -19098,6 +19173,7 @@
   {
     "word": "шыкъолэн",
     "lang": "Adyghe",
+	"etymology": "From шы (horse) + къолэн (multicolored)",
     "definitions": [
       {
         "meaning": "zebra",
@@ -19113,6 +19189,7 @@
   {
     "word": "игъэхьан",
     "lang": "Adyghe",
+	"etymology": "From и- (inside preposition prefix) + гъэ (causative prefix) + -хь (toward movement suffix)",
     "definitions": [
       {
         "meaning": "to put in; to insert in",
@@ -19308,6 +19385,7 @@
   {
     "word": "ныбжьэгъу",
     "lang": "Adyghe",
+	"etymology": "From ныбжьы (age) + -гъу (fellow suffix)",
     "definitions": [
       {
         "meaning": "A peer, age-mate: a person of approximately the same age as another",
@@ -19380,6 +19458,7 @@
   {
     "word": "гъунэгъу",
     "lang": "Adyghe",
+	"etymology": "From гъунэ (edge) + -гъу (fellow suffix)",
     "definitions": [
       {
         "meaning": "neighbor",
@@ -19483,6 +19562,7 @@
   {
     "word": "дэшхын",
     "lang": "Adyghe",
+	"etymology": "From дэ- (with) + шхын (to eat)",
     "definitions": [
       {
         "meaning": "everything that is eaten with bread (or its substitutes)",
@@ -19499,6 +19579,7 @@
   {
     "word": "унэч1эгъ",
     "lang": "Adyghe",
+	"etymology": "From унэ (house) + ч1эгъ (under)",
     "definitions": [
       {
         "meaning": "under the house, lower part of a house",
@@ -19540,6 +19621,7 @@
   {
     "word": "ащыгъум",
     "lang": "Adyghe",
+	"etymology": "From ащ (that) + гъу (time)",
     "definitions": [
       {
         "meaning": "that time",
@@ -19647,6 +19729,7 @@
   {
     "word": "теш1ыхьагъ",
     "lang": "Adyghe",
+	"etymology": "From те- (on preposition prefix) + ш1ын (to make) + -хь (toward movement suffix)",
     "definitions": [
       {
         "meaning": "to make on something; to make something above",
@@ -19874,6 +19957,7 @@
   {
     "word": "адрабгъу",
     "lang": "Adyghe",
+	"etymology": "From адрэ (other) + бгъу (side)",
     "definitions": [
       {
         "meaning": "opposite side, other side",
@@ -19922,6 +20006,7 @@
   {
     "word": "адыгэкъэб",
     "lang": "Adyghe",
+	"etymology": "From адыгэ (Circassian) + къэб (pumpkin)",
     "definitions": [
       {
         "meaning": "sweet pumpkin",
@@ -20141,6 +20226,7 @@
   {
     "word": "акъылыгъу",
     "lang": "Adyghe",
+	"etymology": "From акъыл (brain) + -гъу (time suffix)",
     "definitions": [
       {
         "meaning": "comprehension, understanding",
@@ -20275,6 +20361,7 @@
   {
     "word": "алырэгъуш1",
     "lang": "Adyghe",
+	"etymology": "From алырэгъу (carpet) + ш1эн (to do)",
     "definitions": [
       {
         "meaning": "carpet maker",
@@ -20364,6 +20451,7 @@
   {
     "word": "амыш1эр",
     "lang": "Adyghe",
+	"etymology": ":literary means: the thing they do not know",
     "definitions": [
       {
         "meaning": "unknown",
@@ -20412,6 +20500,7 @@
   {
     "word": "нэк1ымазэ",
     "lang": "Adyghe",
+	"etymology": "From нэк1ын (to fast) + мазэ (month)",
     "definitions": [
       {
         "meaning": "the month of ramadan; fasting month",
@@ -20429,6 +20518,7 @@
   {
     "word": "анэбзыу",
     "lang": "Adyghe",
+	"etymology": "From анэ (mother) + бзыу (bird)",
     "definitions": [
       {
         "meaning": "blackbird",
@@ -20471,6 +20561,7 @@
   {
     "word": "апскурб",
     "lang": "Adyghe",
+	"etymology": "From апс (bowl) + курб (hole in the ground, pit)",
     "definitions": [
       {
         "meaning": "bowl",
@@ -20488,6 +20579,7 @@
   {
     "word": "апчмыжъу",
     "lang": "Adyghe",
+	"etymology": "From апч (glass) + мыжъо (rock, stone)",
     "definitions": [
       {
         "meaning": "сrystalline rock",
@@ -20524,6 +20616,7 @@
   {
     "word": "апчшъхьэтет",
     "lang": "Adyghe",
+	"etymology": "From апч (glass) + шъхьэ (head) + тетын (to be above)",
     "definitions": [
       {
         "meaning": "lamp glass",
@@ -20539,6 +20632,7 @@
   {
     "word": "остыгъэшъхьэтет",
     "lang": "Adyghe",
+	"etymology": "From остыгъэ (lamp) + шъхьэ (head) + тетын (to be above)",
     "definitions": [
       {
         "meaning": "lamp glass",
@@ -20554,6 +20648,7 @@
   {
     "word": "остыгъашъхь",
     "lang": "Adyghe",
+	"etymology": "From остыгъэ (lamp) + шъхьэ (head)",
     "definitions": [
       {
         "meaning": "burner (of a gas range, heater or light using liquid or gas fuel); gas-stove burner",
@@ -20569,6 +20664,7 @@
   {
     "word": "къэушыхьатын",
     "lang": "Adyghe",
+	"etymology": "From the word шыхьан (witness)",
     "definitions": [
       {
         "meaning": "to testify, to witness, to be evidence (of)",
@@ -20584,6 +20680,7 @@
   {
     "word": "нахьыш1у",
     "lang": "Adyghe",
+	"etymology": "From нахь (more) + ш1у (well)",
     "definitions": [
       {
         "meaning": "better",
@@ -20637,6 +20734,7 @@
   {
     "word": "нахьыш1у1у",
     "lang": "Adyghe",
+	"etymology": "From нахь (more) + ш1у (well) + -1у (slightly too much suffix)",
     "definitions": [
       {
         "meaning": "little better; slightly better",
@@ -20666,6 +20764,7 @@
   {
     "word": "апшъэр",
     "lang": "Adyghe",
+	"etymology": "literally means their above",
     "definitions": [
       {
         "meaning": "highest; supreme, high (dominant)",
@@ -20698,6 +20797,7 @@
   {
     "word": "апэ",
     "lang": "Adyghe",
+	"etymology": "From а (their) + пэ (nose)",
     "definitions": [
       {
         "meaning": "at first",
@@ -20778,6 +20878,7 @@
   {
     "word": "апэрэ",
     "lang": "Adyghe",
+	"etymology": "From а (their) + пэ (nose)",
     "definitions": [
       {
         "meaning": "first",
@@ -20807,6 +20908,7 @@
   {
     "word": "апэрэу",
     "lang": "Adyghe",
+	"etymology": "From а (their) + пэ (nose)",
     "definitions": [
       {
         "meaning": "firstly, for the first time",
@@ -20856,6 +20958,7 @@
   {
     "word": "тхьак1умак1",
     "lang": "Adyghe",
+	"etymology": "From тхьак1умэ (eat) + к1э (tail)",
     "definitions": [
       {
         "meaning": "earlobe; ear lobe",
@@ -20868,6 +20971,7 @@
   {
     "word": "одыжъые",
     "lang": "Adyghe",
+	"etymology": "From оды (thin) + жъые (small)",
     "definitions": [
       {
         "meaning": "slender, slim",
@@ -20876,6 +20980,23 @@
     ],
     "type": "adj",
     "ipa": "wadəʐəja"
+  },
+  {
+    "word": "дыды",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "awl",
+        "examples": [
+          {
+            "sentence": "Шъуаш1эм дыдымк1э шъор еугъоны",
+            "translation": "The saddle-maker makes a hole in the leather '''with the awl'''."
+          }
+        ]
+      }
+    ],
+    "type": "adj",
+    "ipa": "dədə"
   },
   {
     "word": "пэдыд",
@@ -82329,7 +82450,12 @@
     "definitions": [
       {
         "meaning": "harness-maker; saddler, saddle-maker",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "'''Шъуаш1эм''' дыдымк1э шъор еугъоны",
+            "translation": "'''The saddle-maker''' makes a hole in the leather with the awl."
+          }
+        ]
       }
     ],
     "type": "noun",
