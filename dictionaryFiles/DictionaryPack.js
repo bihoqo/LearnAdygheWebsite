@@ -793,7 +793,6 @@
     "ipa": "waj"
   },
   {
-  {
     "word": "ай",
     "lang": "Adyghe",
     "definitions": [
@@ -2347,7 +2346,7 @@
         "examples": []
       }
     ],
-    "type": "noun"
+    "type": "noun",
     "ipa": "naːpʼa"
   },
   {
@@ -2379,7 +2378,7 @@
     "synonyms": [
       "гъуантк1у"
     ],
-    "type": "noun"
+    "type": "noun",
     "ipa": "tkʷʼaps"
   },
   {
@@ -2394,7 +2393,7 @@
     "synonyms": [
       "тк1опс"
     ],
-    "type": "noun"
+    "type": "noun",
     "ipa": "ʁʷaːntəkʷʼ"
   },
   {
@@ -2409,7 +2408,7 @@
     "synonyms": [
       "тк1опс"
     ],
-    "type": "noun"
+    "type": "noun",
     "ipa": "ʁʷaːtəkʷʼ"
   },
   {
@@ -8048,7 +8047,8 @@
 		  {
             "sentence": "Мыгъэ '''илъэс''' гъэбэжъу",
             "translation": "This year is a harvest '''year'''."
-          }
+          },
+          {
             "sentence": "Мыгъэ '''силъэс''' аужыр университетк1э",
             "translation": "This year is '''my''' last '''year''' in the university."
           }
@@ -8823,7 +8823,7 @@
           {
             "sentence": "1офыр нахь '''дэеу''' хъугъэ",
             "translation": "The job became '''worse'''."
-          }
+          },
           {
             "sentence": "К1алэм ыш1эхэрэр '''дэих'''",
             "translation": "The boy is doing '''bad''' things."
@@ -9599,7 +9599,7 @@
           {
             "sentence": "Непэ 1офым '''ук1уагъа'''?",
             "translation": "'''Did you go to''' work today?"
-          }
+          },
           {
             "sentence": "Еджап1эм непэ '''сык1уагъэпи''', зырагъэджагъэхэр сыш1эрэп",
             "translation": "'''Because I did not go to''' school today, I don't know what they taught."
@@ -10193,7 +10193,7 @@
           {
             "sentence": "'''Уик1алэ''' къищэщт",
             "translation": "'''Your son''' is going to marry her."
-          }
+          },
 		  {
             "sentence": "Ахэмэ '''ак1алэ''' сыдеджэ",
             "translation": "I am studying with '''their son'''."
@@ -10497,7 +10497,7 @@
 		  {
             "sentence": "'''Мылыр''' тыгъэм хэбылъхьэмэ тк1ущт",
             "translation": "If you put '''ice''' in the sun it will melt."
-          },
+          }
         ]
       }
     ],
@@ -10882,7 +10882,7 @@
             "translation": "Various '''animals''' live in the forest."
           },
 		  {
-            "sentence": "Хьак1э-къуак1эхэмэ нэмык1 '''псэушъхьэхэр''' ашхых"
+            "sentence": "Хьак1э-къуак1эхэмэ нэмык1 '''псэушъхьэхэр''' ашхых",
             "translation": "Predators eat other '''animals'''."
           },
 		  {
@@ -11689,7 +11689,7 @@
 		  {
             "sentence": "'''Хьарзэ''' псым есы",
             "translation": "The '''swan''' swims in the water."
-          },
+          }
         ]
       }
     ],
@@ -19565,7 +19565,7 @@
         "examples": []
       }
     ],
-    "ipa": "aːgʷaɕ"
+    "ipa": "aːgʷaɕ",
     "type": "noun"
   },
   {
@@ -27582,7 +27582,8 @@
           {
             "sentence": "А к1алэр '''сигуап'''",
             "translation": "That boy is '''my delight'''."
-          }{
+          },
+          {
             "sentence": "А к1алэм 1офэу ыш1агъэр '''сигуап'''",
             "translation": "The work that boy done is '''my delight'''."
           },
@@ -31995,7 +31996,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to rip; to tear (clothes, leaves and papers)",",
+        "meaning": "to rip; to tear (clothes, leaves and papers)",
         "examples": [
           {
             "sentence": "Тхылъып1эр '''мэчатхъэ'''",
@@ -39559,7 +39560,7 @@
 		  {
             "sentence": "К1алэр '''жъуагъэ'''",
             "translation": "The boy '''plowed'''."
-          }
+          },
 		  {
             "sentence": "Ч1ыгур '''жъугъэ'''",
             "translation": "The land '''was plowed'''."
@@ -39685,7 +39686,7 @@
           {
             "sentence": "Мэфэ '''жъоркъ'''",
             "translation": "A '''sultry''' day."
-          }
+          },
           {
             "sentence": "Непэ '''жъоркъ'''",
             "translation": "It is '''sultry''' today."
@@ -40648,7 +40649,7 @@
       },
       {
         "meaning": "(dated possibly archaic) religious leader",
-        "examples": [
+        "examples": []
       },
       {
         "meaning": "(possibly dated) husband",
@@ -40682,7 +40683,7 @@
         "meaning": "anthill",
         "examples": []
       }
-    ],,
+    ],
     "type": "noun",
     "ipa": "qaːmzaɡʷq"
   },
@@ -40854,7 +40855,7 @@
           },
 		  {
             "sentence": "'''Хьаджыгъэр''' 1анэм теутэн",
-            "translation": "To sprinkle '''flour'''	 on the table."
+            "translation": "To sprinkle '''flour'''	on the table."
           }
         ]
       }
