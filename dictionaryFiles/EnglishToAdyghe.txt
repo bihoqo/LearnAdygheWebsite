@@ -2364,7 +2364,7 @@
     "seize": "къытехыгъэ; убытыгъэ"
   },
   {
-    "to snatch": "пхъотэн; къы1эпхъотэн (to snatch from someone); къыш1опхъотэн (to snatch from someone)
+    "to snatch": "пхъотэн; къы1эпхъотэн (to snatch from someone); къыш1опхъотэн (to snatch from someone)"
   },
   {
     "to lead": "щэн (to lead/take someone to); пэщэн (to lead as a leader); тещэн (to take/lead someone to above something); хэщэн (to take/lead someone to among other people or objects); хэщэн (to take/lead someone to an area liquid, gas, plants or trees); дэщэн (to take/lead someone to a yard); ищэн (to take/lead someone to inside something); дэщэен (to lead/take someone up); ещэхын (to lead/take someone down); къещэк1ын (to take/lead someone around); щэжьын (to lead someone back to, to take someone back to, to return someone back to); ещэл1эн (to take someone to, to lead someone to); блэщын (to take/lead (someone) across, to take/lead (someone) past)"
@@ -3339,10 +3339,10 @@
     "strength": "к1уач1э; къарыу; лъэк1ы"
   },
   {
-    "diligent": "баш1э; нэутх""
+    "diligent": "баш1э; нэутх"
   },
   {
-    "hard-working": "баш1э; нэутх""
+    "hard-working": "баш1э; нэутх"
   },
   {
     "hood": "шъхьарыхъон; башлыкъ"
@@ -4212,7 +4212,7 @@
     "bush": "куандэ; шъхьанд; шъхьандалъ / кондалъ (thicket, a dense, but generally small, growth of shrubs, bushes or small trees)"
   },
   {
-    "thicket" "шъхьандалъ / кондалъ (thicket, a dense, but generally small, growth of shrubs, bushes or small trees)"
+    "thicket": "шъхьандалъ / кондалъ (thicket, a dense, but generally small, growth of shrubs, bushes or small trees)"
   },
   {
     "cradle": "кушъэ"
@@ -8059,7 +8059,7 @@
     "to argue": "нэкъокъон; зэнэкъокъун / зэдэон (to argue with each other); пэгущы1эжьын (to argue back); пэ1ууцожьын (to go against); енэкъокъун (to argue with someone)"
   },
   {
-    "to sit down": "т1ысын; тет1ысхьан (to sit on); 1ут1ысхьан (to sit near); гъэт1ысын (to make someone sit down); т1ысын / къэт1ысын (to land); къет1ысэхын (to land)""
+    "to sit down": "т1ысын; тет1ысхьан (to sit on); 1ут1ысхьан (to sit near); гъэт1ысын (to make someone sit down); т1ысын / къэт1ысын (to land); къет1ысэхын (to land)"
   },
   {
     "to land": "т1ысын / къэт1ысын; къет1ысэхын (to land)"
@@ -10366,7 +10366,7 @@
     "to attach": "пылъын (to be attached); пыхьан (to be attachable); пылъхьан (to attach something to); пыгъэнэн (to stick to attach)"
   },
   {
-    "to strive": ""ыуж итын; егугъун"
+    "to strive": "ыуж итын; егугъун"
   },
   {
     "spike heel": "пхъэ1ун"
@@ -10558,7 +10558,7 @@
     "dishes": "шыкъу; хьакъу-шыкъу"
   },
   {
-    "to cook": "пщэрыхьан; ш1ын (to make); гъэжъэн (to bake, to grill, to fry); гъэжъон (to boil); жъэн (cooked); хэгъэжъыхьан (to cook something in)""
+    "to cook": "пщэрыхьан; ш1ын (to make); гъэжъэн (to bake, to grill, to fry); гъэжъон (to boil); жъэн (cooked); хэгъэжъыхьан (to cook something in)"
   },
   {
     "cook": "пщэрыхьак1о"
@@ -14678,7 +14678,7 @@
   },
   {
     "to notify": "to address something to, to bring to attention); макъэ егъэ1ун (to notify someone); къэбар егъэш1эн (to notify someone)"
-  ,
+  },
   {
     "to address": "унашъо ш1ын (to address someone in order to bring to attention, to bring to attention); унашъо фэш1ын (to address something to someone in order to bring an attention to the subject)"
   },
@@ -14878,7 +14878,7 @@
     "closet": "дэлъхьап1э / дэлъып1э (an object or place in which stuff are stored)"
   },
   {
-    "locker": "дэлъхьап1э / дэлъып1э (an object or place in which stuff are stored)
+    "locker": "дэлъхьап1э / дэлъып1э (an object or place in which stuff are stored)"
   },
   {
     "trunk": "дэлъхьап1э / дэлъып1э (an object or place in which stuff are stored)"
