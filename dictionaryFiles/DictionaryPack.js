@@ -40848,14 +40848,14 @@
     "definitions": [
       {
         "meaning": "flour",
-        "examples": [
+		"examples": [
           {
             "sentence": "Коц '''хьаджыгъ'''",
             "translation": "Wheat '''flour'''."
           },
 		  {
             "sentence": "'''Хьаджыгъэр''' 1анэм теутэн",
-            "translation": "To sprinkle '''flour'''	on the table."
+            "translation": "To sprinkle '''flour''' onto the table."
           }
         ]
       }
@@ -42810,7 +42810,7 @@
 	  {
         "meaning": "to put something on the tip of",
         "examples": []
-      }
+      },
 	  {
         "meaning": "to attach something to",
         "examples": [
@@ -43784,7 +43784,7 @@
       {
         "meaning": "to moan",
         "examples": []
-      },
+      }
     ],
     "type": "verb",
     "ipa": "gʷərəməm"
@@ -43796,7 +43796,7 @@
       {
         "meaning": "burdock",
         "examples": []
-      },
+      }
     ],
     "type": "noun",
     "ipa": "tħaːrqʷaʐ"
@@ -46931,7 +46931,7 @@
 		  {
             "sentence": "'''Шъэжъые''' лым хисагъ",
             "translation": "(S)he thrusted '''a knife''' into the meat."
-          }
+          },
 		  {
             "sentence": "'''Шъэжъыек1э''' зыгорэм ухэпыджэн",
             "translation": "To stab someone '''with a knife'''."
@@ -47646,7 +47646,7 @@
 		  {
             "sentence": "Мы уцым хэлъ '''щэнаут'''",
             "translation": "This plant contains '''poison'''."
-          }
+          },
 		  {
             "sentence": "Л1ым адрэм '''щэнаут''' 1уидзи ыгъэл1агъ",
             "translation": "The man threw '''posion''' upon the other and killed him."
@@ -48052,6 +48052,7 @@
             "sentence": "'''1эгуаур''' къыслъыгъак1у",
             "translation": "Pass'''the ball''' to me."
           }
+        ]
       }
     ],
     "synonyms": [
@@ -49483,7 +49484,7 @@
             "translation": "'''Do you have''' a lighter?"
           }
         ]
-      }
+      },
       {
         "meaning": "to maintain",
         "examples": [
@@ -49878,7 +49879,7 @@
 		  {
             "sentence": "Пк1ант1э '''къысэхы'''",
             "translation": "'''I am sweating'''."
-          }
+          },
           {
             "sentence": "К1алэр лъэоим '''ехы'''",
             "translation": "The boy '''is going down''' the stairs."
@@ -74311,8 +74312,8 @@
           },
 		  {
             "sentence": "Пшъашъэм тхылъ дэгъу '''къыхихыгъ'''",
-            "translation": "The girl '''choose''' a great book.
-          }
+            "translation": "The girl '''choose''' a great book."
+          },
 		  {
             "sentence": "Л1ым коу зыфаер '''къыхихыгъ'''",
             "translation": "The man '''choose''' the car he wants."
@@ -90635,7 +90636,8 @@
           {
             "sentence": "Пхъэхэр '''зэтелъыхэу''' щагум дэтых",
             "translation": "The woods are in the yard '''stacked'''."
-          }{
+          },
+          {
             "sentence": "К1алэм пхъэ '''зэтелъхэр''' зэтетхъых",
             "translation": "The boy is tearing the woods that '''are on each other'''."
           }
@@ -100639,7 +100641,8 @@
 		  {
             "sentence": "'''Мыгъэ''' илъэс гъэбэжъу",
             "translation": "'''This year''' is a harvest year."
-          }
+          },
+          {
             "sentence": "'''Мыгъэ''' силъэс аужыр университетк1э",
             "translation": "'''This year''' is my last year in the university."
           }
@@ -115863,7 +115866,7 @@
           {
             "sentence": "Слъакъохэр цуакъэм '''ихьахэрэп'''",
             "translation": "My legs '''don't go inside''' the shoes."
-          }
+          },
 		  {
             "sentence": "Къамзэгухэр тиунэ '''къихьагъэх'''",
             "translation": "Ants '''came into''' our house."
@@ -138209,9 +138212,9 @@
             "translation": "A '''predator''' is an animal that eats other animals."
           },
 		  {
-            "sentence": "'''Хьак1э-къуак1эхэмэ''' нэмык1 псэушъхьэхэр ашхых"
+            "sentence": "'''Хьак1э-къуак1эхэмэ''' нэмык1 псэушъхьэхэр ашхых",
             "translation": "'''Predators''' eat other animals."
-          }
+          },
 		  {
             "sentence": "'''Хьак1э-къуак1эхэр''' мэзым хэсых",
             "translation": "The '''predators''' are in the forest."
