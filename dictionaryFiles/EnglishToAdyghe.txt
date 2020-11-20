@@ -5014,7 +5014,10 @@
     "soggy": "ц1ынэ"
   },
   {
-    "moist": "ц1ынэ (wet); псы1э-псыблэ (damp, moist, moderately wet)"
+    "moist": "ц1ынэ (wet); псы1э-псыблэ (damp, moist, moderately wet); лэбы; шынэ"
+  },
+  {
+    "humid": "лэбы; шынэ"
   },
   {
     "to dry": "гъушъын / гъэгъушъын (clothes, objects and body parts); гъун / гъэгъун (plants); гъонлэн"
@@ -5558,6 +5561,12 @@
   },
   {
     "spot": "бжьыгъ; фыкъуадэ (pimple)"
+  }
+  {
+    "point": "тк1оны"
+  },
+  {
+    "dot": "тк1оны"
   },
   {
     "to miss a target": "блэун"
@@ -10018,7 +10027,7 @@
     "to fly away": "1убыбын; 1убыбык1ын"
   },
   {
-    "to fly": "быбын / лъэтэн; дэбыбыен (to fly up); ебыбэхын (to fly down); гъэбыбын (to make something fly); лъыбыбын (to fly toward); дэгъэбыбэен (to make something fly up); 1убыбэн (to fly near something); 1убыбын (to fly away from something); тебыбэн (to fly above something); тебыбын / къытебыбын (to fly off from above something); ч1эбыбэн (to fly under something); ч1эбыбын / къыч1эбыбын (to fly from under something); ибыбэн (to fly inside something); ибыбын / къибыбын (to fly from under something); къобыбэн (to fly behind something); къобыбын / къыкъобыбын (to fly from under something); гобыбэн / бгъодэбыбэн (to fly besides something); гобыбын / бгъодэбыбын / къыгобыбын / къыбгъодэбыбын(to fly from besides something); хэбыбэн (to fly through, to fly to an area with gas or liquid, to fly into the forest); хэбыбын / къыхэбыбын (to fly from the forest, to fly from an area with gas or liquid); пыбыбэн (to fly on a branch); пыбыбэн / къыпыбыбын (to fly off from a branch); жэхэбыбэн (to fly into/against someone or something); зэк1эбыбэн (to fly backword); блэбыбын (to fly pass); ибыбык1ын / къибыбык1ын (to fly out from inside something); тебыбык1ын / къытебыбык1ын (to fly off from); ч1эбыбык1ын / къыч1эбыбык1ын (to fly away from under); хэбыбык1ын / къыхэбыбык1ын (to fly away from among); ибыбыхьан (to fly around inside something); ибыбыхьан (to fly around inside something); тебыбыхьан (to fly around above something)"
+    "to fly": "быбын / лъэтэн; дэбыбыен (to fly up); ебыбэхын (to fly down); гъэбыбын (to make something fly); лъыбыбын (to fly toward); дэгъэбыбэен (to make something fly up); 1убыбэн (to fly near something); 1убыбын (to fly away from something); тебыбэн (to fly above something); тебыбын / къытебыбын (to fly off from above something); ч1эбыбэн (to fly under something); ч1эбыбын / къыч1эбыбын (to fly from under something); ибыбэн (to fly inside something); ибыбын / къибыбын (to fly outside); къобыбэн (to fly behind something); къобыбын / къыкъобыбын (to fly from behind something); гобыбэн / бгъодэбыбэн (to fly besides something); гобыбын / бгъодэбыбын / къыгобыбын / къыбгъодэбыбын (to fly from besides something); хэбыбэн (to fly through, to fly to an area with gas or liquid, to fly into the forest); хэбыбын / къыхэбыбын (to fly from the forest, to fly from an area with gas or liquid); пыбыбэн (to fly on a branch); пыбыбэн / къыпыбыбын (to fly off from a branch); жэхэбыбэн (to fly into/against someone or something); зэк1эбыбэн (to fly backword); блэбыбын (to fly pass); ибыбык1ын / къибыбык1ын (to fly out from inside something); тебыбык1ын / къытебыбык1ын (to fly off from); ч1эбыбык1ын / къыч1эбыбык1ын (to fly away from under); хэбыбык1ын / къыхэбыбык1ын (to fly away from among); ибыбыхьан (to fly around inside something); ибыбыхьан (to fly around inside something); тебыбыхьан (to fly around above something)"
   },
   {
     "to fly up": "дэбыбэен (to fly up); дэгъэбыбэен (to make something fly up)"
@@ -20368,7 +20377,7 @@
     "drum": "шъондырып"
   },
   {
-    "drummer": "шъотырпао"
+    "drummer": "шъотырпао; шъондырбау"
   },
   {
     "soft-spoken": "шъоубзэгу"
