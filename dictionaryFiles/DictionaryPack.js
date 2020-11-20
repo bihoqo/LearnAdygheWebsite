@@ -448,6 +448,30 @@
     "ipa": "jawan"
   },
   {
+    "word": "уагъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "simple past tense of \"он\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "waːʁa"
+  },
+  {
+    "word": "еуагъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "simple past tense of \"еон\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "jawaːʁa"
+  },
+  {
     "word": "ко",
     "lang": "Adyghe",
     "definitions": [
@@ -642,7 +666,8 @@
         "examples": []
       }
     ],
-    "type": "noun"
+    "type": "noun",
+    "ipa": "aːnaːnaːs"
   },
   {
     "word": "сын",
@@ -6689,6 +6714,18 @@
     "ipa": "bʐaːbʁʷə"
   },
   {
+    "word": "шъон1аш1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "beverage",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷanʔaːʃʷʼ"
+  },
+  {
     "word": "шъыхьы",
     "lang": "Adyghe",
     "definitions": [
@@ -7469,7 +7506,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "died",
+        "meaning": "died; simple past tense of \"л1эн\"",
         "examples": []
       }
     ],
@@ -14218,6 +14255,18 @@
     "ipa": "ɬaʁʷən"
   },
   {
+    "word": "ылъэгъугъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "simple past tense of \"лъэгъун\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "əɬaʁʷənʁ"
+  },
+  {
     "word": "лъэгъу",
     "lang": "Adyghe",
     "definitions": [
@@ -14271,6 +14320,18 @@
     "kabardian": "жэн",
     "type": "verb",
     "ipa": "tʂan"
+  },
+  {
+    "word": "чъагъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "simple past tense of \"чъэн\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "tʂaːʁa"
   },
   {
     "word": "л1эн",
@@ -15689,6 +15750,7 @@
             "sentence": "Тхылъхэр '''тхылъылъым''' дэлъхьаных",
             "translation": "To put books into the '''briefcase'''."
           }
+        ]
       }
     ],
     "type": "noun",
@@ -18293,7 +18355,8 @@
           },
 		  {
             "sentence": "'''чэщым ренэу''' къещхыгъ",
-            "t
+            "translation": "It rain ''all night'''."
+          }
         ]
       }
     ],
@@ -32172,7 +32235,7 @@
         ]
       },
       {
-        "meaning": "colored",
+        "meaning": "colored; simple past tense of \"лэн\"",
         "examples": [
           {
             "sentence": "Кур фыжьэу '''лагъэ''",
@@ -32181,7 +32244,7 @@
         ]
       },
       {
-        "meaning": "painted",
+        "meaning": "painted; simple past tense of \"лэн\"",
         "examples": []
       }
     ],
@@ -32215,6 +32278,10 @@
       },
       {
         "meaning": "to shatter",
+        "examples": []
+      },
+      {
+        "meaning": "to be solved; to work out",
         "examples": []
       }
     ],
@@ -34234,6 +34301,18 @@
     ],
     "type": "verb",
     "ipa": "baʁʷan"
+  },
+  {
+    "word": "бэгъуагъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "multiplied; simple past tense of \"бэгъон\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "baʁʷaʁa"
   },
   {
     "word": "бэгъэгус",
@@ -53984,7 +54063,12 @@
     "definitions": [
       {
         "meaning": "freckled",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "К1элэ '''шъорыогу'''",
+            "translation": "A '''freckled''' boy."
+          }
+        ]
       }
     ],
     "type": "adj",
@@ -76631,6 +76715,66 @@
     "ipa": "ʃʷandərəp"
   },
   {
+    "word": "шъонтырып",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"шъондырып\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷantərəp"
+  },
+  {
+    "word": "шъотырп1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"шъондырып\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷantərpʼa"
+  },
+  {
+    "word": "шъогъэтэдж",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "tanner",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷaʁatad͡ʒ"
+  },
+  {
+    "word": "шъоубзэгу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "soft-spoken",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷawbzagʷ"
+  },
+  {
+    "word": "шъотырпао",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "drummer",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷatərpaːwa"
+  },
+  {
     "word": "шъонтрып",
     "lang": "Adyghe",
     "definitions": [
@@ -95555,6 +95699,73 @@
             "translation": "The little kids are around the man, '''telling them''' a story."
           }
         ]
+      },
+	  {
+        "meaning": "to explain",
+        "examples": [
+          {
+            "sentence": "К1элэегъаджэм '''къи1отагъ''' таущтэу уеджэщт",
+            "translation": "The teacher '''explained''' how to study."
+          },
+		  {
+            "sentence": "1офымк1э шъуш1эн фаер '''къэс1отэщт'''",
+            "translation": "'''I will explain''' what you must do in the work."
+          },
+		  {
+            "sentence": "К1алэм '''ес1отагъ''' шхын ш1ык1э",
+            "translation": "'''I explained to''' the boy how to make food."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "qaʔʷatan"
+  },
+  {
+    "word": "фэ1отэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to tell something for",
+        "examples": [
+          {
+            "sentence": "Л1ыжъым пшысэ '''къэтфи1отагъ'''",
+            "translation": "The old-man '''told us''' a tale."
+          },
+		  {
+            "sentence": "Сятэ сымычъыежьыгъэу тхыдэжъхэр '''къэсфи1отэщтыгъ'''",
+            "translation": "My father '''used to tell me''' stories before sleeping."
+          },
+		  {
+            "sentence": "Л1ым 1офымк1э ежь щыш1ыгъэр '''къэтфи1отагъ'''",
+            "translation": "The man '''told us''' what happened to him in work."
+          },
+		  {
+            "sentence": "Америкэ сыдэущтэу щыт '''къэтфэ1уат'''",
+            "translation": "'''Tell us''' how it is in America."
+          },
+		  {
+            "sentence": "К1элэц1ык1ухэр л1ым ыдэжь 1утых, тхыдэжъ '''къафе1уатэу'''",
+            "translation": "The little kids are around the man, '''telling them''' a story."
+          }
+        ]
+      },
+	  {
+        "meaning": "to explain something to",
+        "examples": [
+          {
+            "sentence": "К1элэегъаджэм '''къэсфи1отагъ''' таущтэу уеджэщт",
+            "translation": "The teacher '''explained to me''' how to study."
+          },
+		  {
+            "sentence": "1офымк1э шъуш1эн фаер '''къэшъуфэс1отэщт'''",
+            "translation": "'''I wille explain to you''' what you must do in the work."
+          },
+		  {
+            "sentence": "К1алэм '''фэс1отагъ''' шхын ш1ык1э",
+            "translation": "'''I explained to''' the boy how to make food."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -101509,6 +101720,18 @@
     ],
     "type": "verb",
     "ipa": "zəjfapaʑəʁ"
+  },
+  {
+    "word": "шъок1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"ешъок1ын\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʃʷat͡ʃʼən"
   },
   {
     "word": "шъойцый",
@@ -123265,6 +123488,10 @@
             "translation": "The man '''is stoned'''."
           }
         ]
+      },
+	  {
+        "meaning": "simple past tense of \"егъэон\"",
+        "examples": []
       }
     ],
     "type": "adj",
@@ -123393,6 +123620,18 @@
     ],
     "type": "verb",
     "ipa": "zəʁaʃxat͡ʃʼən"
+  },
+  {
+    "word": "ешъок1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"ешъук1ын\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʃʷat͡ʃʼən"
   },
   {
     "word": "ешъук1ын",
@@ -126002,6 +126241,136 @@
     "ipa": "ʃʷaːʃa"
   },
   {
+    "word": "шъобж",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "injury (any serious injury to the body, often resulting from violence or an accident)",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷabʒ"
+  },
+  {
+    "word": "шъобжь",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"шъобж\"",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷabʑ"
+  },
+  {
+    "word": "шъо1уац",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "tool to soften and scrub the skin",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷaʔʷaːt͡s"
+  },
+  {
+    "word": "шъоупс",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "honey to drink",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷawəps"
+  },
+  {
+    "word": "шъончъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "colorless",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷant͡ʂ"
+  },
+  {
+    "word": "шъолач",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "cartilage, gristle",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷaɮaːt͡ʃ"
+  },
+  {
+    "word": "шъогый",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "spotty, spotted, dappled",
+        "examples": [
+          {
+            "sentence": "Чэтыу '''шъогый'''",
+            "translation": "'''Spotted''' cat."
+          }
+        ]
+      }
+    ],
+    "type": "adj",
+    "ipa": "ʃʷaɣəj"
+  },
+  {
+    "word": "шъокъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "bald, bald-headed",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷaqʷ"
+  },
+  {
+    "word": "шъхьашъокъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "bald, bald-headed",
+        "examples": [
+          {
+            "sentence": "Л1ы '''шъхьашъокъу'''",
+            "translation": "'''Bald''' man."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʂħaːʃʷaqʷ"
+  },
+  {
+    "word": "шъогъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "something that haves the same color",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷaʁʷ"
+  },
+  {
     "word": "шъо1у",
     "lang": "Adyghe",
     "definitions": [
@@ -126012,6 +126381,71 @@
     ],
     "type": "adj",
     "ipa": "ʃʷaʔʷ"
+  },
+  {
+    "word": "шъобзый",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "optical spectrum; beam of light",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷabzən"
+  },
+  {
+    "word": "шъодэны",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "leather thread",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷadanə"
+  },
+  {
+    "word": "шъоблагъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "harness; breeching (tack)",
+        "examples": [
+          {
+            "sentence": "Шым '''шъоблагъ''' телъ",
+            "translation": "There is '''breeching''' on the horse."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷaːbɮəʁ"
+  },
+  {
+    "word": "шъоджанэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "leather clothing",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷaːd͡ʒaːna"
+  },
+  {
+    "word": "шъогъазэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "measles",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷaʁaːza"
   },
   {
     "word": "шъо1удж",
@@ -139531,6 +139965,18 @@
     "ipa": "pxərəbən"
   },
   {
+    "word": "гъэтэджын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"къэгъэтэджын\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "ʁatad͡ʒən"
+  },
+  {
     "word": "къэгъэтэджын",
     "lang": "Adyghe",
     "definitions": [
@@ -139563,6 +140009,19 @@
             "translation": "My mom '''made me get out of bed''' early because I need to go to school."
           }
         ]
+      },
+	  {
+        "meaning": "to tan (leather, hides)",
+        "examples": [
+		  {
+            "sentence": "Шъор '''гъэтэджын'''",
+            "translation": "'''To tan''' leather."
+          }
+        ]
+      },
+	  {
+        "meaning": "to ferment; to make sour",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -140497,5 +140956,197 @@
     ],
     "type": "verb",
     "ipa": "pəʁawən"
+  },
+  {
+    "word": "ти",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "our",
+        "examples": []
+      },
+	  {
+        "meaning": "and so; alternative form of \"арти\"",
+        "examples": []
+      }
+    ],
+    "type": "adv",
+    "ipa": "təj"
+  },
+  {
+    "word": "шъалъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "placenta",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʂaːɬa"
+  },
+  {
+    "word": "шъак1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "weaver",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʂaːkʷʼ"
+  },
+  {
+    "word": "шъондыр",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "barrel; cask",
+        "examples": [
+		  {
+            "sentence": "'''Шъондырым''' псы ит",
+            "translation": "There is water in '''the barrel'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷandər"
+  },
+  {
+    "word": "шъорэк1ы",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "smallpox, variola",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷarat͡ʃʼə"
+  },
+  {
+    "word": "шъогъуабз",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "very pale",
+        "examples": []
+      }
+    ],
+    "type": "adj",
+    "ipa": "ʃʷaʁʷaːbz"
+  },
+  {
+    "word": "шъоджакъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "unlucky",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷad͡ʒaːq"
+  },
+  {
+    "word": "шъок1ако",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "leather coat; leather jacket",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷat͡ʃʼaːkʷa"
+  },
+  {
+    "word": "фэигъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "well-nourished",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "fajəʁʷ"
+  },
+  {
+    "word": "зэок1ын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to change",
+        "examples": [
+          {
+            "sentence": "К1алэм ышъо '''къызэок1ыгъ'''",
+            "translation": "The boy '''changed''' his facial expression."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "zawat͡ʃʼən"
+  },
+  {
+    "word": "шъоныбжъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "bowl",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷanəbʐ"
+  },
+  {
+    "word": "шъоолэон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to change the facial expression; to change the countenance",
+        "examples": [
+          {
+            "sentence": "Бзылъфыгъэр '''шъоолэуагъэ''' къэбар 1ае зэхехым",
+            "translation": "The woman '''changed her facial expression''' when she heard a bad news."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷawaɮawan"
+  },
+  {
+    "word": "шъоджэжъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "ill-starred, ill-fated",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷad͡ʒaʐ"
+  },
+  {
+    "word": "шъоеубыт",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "rat-trap",
+        "examples": [
+          {
+            "sentence": "К1алэм шъуаер '''шъоеубытымк1э''' къыубытыгъ",
+            "translation": "The boy caught the rat '''with the rat-trap'''."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷajawbət"
   }
 ]
