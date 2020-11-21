@@ -129138,7 +129138,7 @@
 		  {
             "sentence": "Уцым ылъапсэ чӏыгу чӏэгъым '''ч1эт'''",
             "translation": "The plant's root '''is under''' the ground."
-          }
+          },
 		  {
             "sentence": "Къакъырым чэмхэр '''ч1этых'''",
             "translation": "The cows '''are under''' the shed."
