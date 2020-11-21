@@ -69,7 +69,7 @@
     "played": "еуагъэ / къеуагъэ (played an instrument); джэгугъэ (played a game); еш1агъэ / къеш1агъэ (to play a game)"
   },
   {
-    "to shoot": "он; еон; к1эрахъок1э еон; дэоен (to shot upward); еохын (to shot downward); хэон (to shot amidst people); еутэхын / къеутэхын (to shoot something and bring it down, to cause to fall by shooting)"
+    "to shoot": "он; еон; к1эрахъок1э еон; теутын (to hit a target); дэоен (to shot upward); еохын (to shot downward); хэон (to shot amidst people); еутэхын / къеутэхын (to shoot something and bring it down, to cause to fall by shooting)"
   },
   {
     "to fire": "маш1о хэгъэнэн / маш1о ч1эгъэнэн (to set on fire); к1эрахъок1э еон (to shoot, to fire); дэоен (to shoot upward); еохын (to shoot downward); хэон (to shoot amidst people); еутэхын / къеутэхын (to shoot something and bring it down, to cause to fall by shooting)"
@@ -78,7 +78,7 @@
     "to shoot upward": "дэоен (to shot upward)"
   },
   {
-    "to shoot down": "еохын (to shot downward); еутэхын (to shoot something and bring it down, to cause to fall by shooting)"
+    "to shoot down": "еохын (to shot downward); еутэхын / къеутэхын (to shoot something and bring it down, to cause to fall by shooting)"
   },
   {
     "to smoke": "ешъон / тутын ешъон (to smoke a cigarette); еон (to smoke weed)"
@@ -351,7 +351,7 @@
     "eyelid": "нап1э"
   },
   {
-    "to poke": "и1эбэн (to poke inside)"
+    "to poke": "и1эбэн (to poke inside); ч1э1эбэн (to poke under)"
   },
   {
     "tear": "нэпсы"
@@ -1101,7 +1101,7 @@
     "decade": "илъэсипш1"
   },
   {
-    "to jump": "пк1эн; дэпк1эен (to jump upward); епк1эхын (to jump down); лъэн; тепк1эн (to jump on something); тепк1ын / къытепк1ын (to jump off something); ч1эпк1эн (to jump under something); ч1эпк1ын / къыч1эпк1ын (to jump from under something); 1упк1эн (to jump near something); 1упк1ын / къы1ук1ын (to jump away from something); дэпк1эн (to jump into a yard); дэпк1ын / къыдэпк1ын (to jump from a yard); гопк1эн / бгъодэпк1эн (to jump besides something); гопк1ын / къыгопк1ын / бгъодэпк1ын / къыбгъодэпк1ын (to jump from besides something); ипк1эн (to jump inside something); ипк1ын / къыипк1ын (to jump from inside something); къопк1эн (to jump behind something); къопк1ын / къыкъопк1ын (to jump from behind something); жэхэпк1эн (to intensively jump on/against something); пыпк1эн (to jump on a tree or branch); пыпк1ын / къыпыпк1ын (to jump from a tree or branch); блэпк1ын (to jump pass something, to jump over something); шъхьадэпк1ын (to jump over something); шъхьапырыпк1ын (to jump pass something); зэк1эпк1эн (to jump backward); лъыпк1эн (to jump toward something); къызыщылъэтын (to unexpectedly jump up); пк1этэн (to jump rapidly, to hop around)"
+    "to jump": "пк1эн; дэпк1эен (to jump upward); епк1эхын (to jump down); лъэн; тепк1эн (to jump on something); тепк1ын / къытепк1ын (to jump off something); ч1эпк1эн (to jump under something); ч1эпк1ын / къыч1эпк1ын (to jump from under something); 1упк1эн (to jump near something); 1упк1ын / къы1ук1ын (to jump away from something); дэпк1эн (to jump into a yard, to jump between, to jump inside another object that can be opened and closed); дэпк1ын / къыдэпк1ын (to jump from a yard, to jump from inside another object that can be opened); гопк1эн / бгъодэпк1эн (to jump besides something); гопк1ын / къыгопк1ын / бгъодэпк1ын / къыбгъодэпк1ын (to jump from besides something); ипк1эн (to jump inside something); ипк1ын / къыипк1ын (to jump from inside something); къопк1эн (to jump behind something); къопк1ын / къыкъопк1ын (to jump from behind something); жэхэпк1эн (to intensively jump on/against something); пыпк1эн (to jump on a tree or branch, to jump on the tip of); пыпк1ын / къыпыпк1ын (to jump from a tree or branch, to jump from the tp of); блэпк1ын (to jump pass something, to jump over something); шъхьадэпк1ын (to jump over something); шъхьапырыпк1ын (to jump beyond something); зэк1эпк1эн (to jump backward); лъыпк1эн (to jump toward something); къызыщылъэтын (to unexpectedly jump up); пк1этэн (to jump rapidly, to hop around)"
   },
   {
     "jumped": "пк1агъэ"
@@ -1182,7 +1182,10 @@
     "council": "хасэ"
   },
   {
-    "guest, visitor": "хьак1э"
+    "guest": "хьак1э"
+  },
+  {
+    "visitor": "хьак1э"
   },
   {
     "to drink from mouth": "хэшъон"
@@ -1464,9 +1467,6 @@
     "calfflesh": "шк1эл"
   },
   {
-    "to flow": "рик1он"
-  },
-  {
     "to sync": "тефэн; зэтефэн (to sync with each other)"
   },
   {
@@ -1701,7 +1701,7 @@
     "carpet": "алырэгъу; нэмаздэкъ (carpet for prayers); чылмэ"
   },
   {
-    "balance (tool)": "шэчалъ"
+    "balance (tool)": "щэчалъэ"
   },
   {
     "garbage can": "ш1оилъ"
@@ -1824,16 +1824,13 @@
     "tray": "тэпсэ"
   },
   {
-    "to see": "лъэгъун; телъэгъон (to see on); дэлъэгъон (to see in, to see between); къолъэгъон (to see behind); хэлъэгъон (to see within a mass of gas, solid or liquid); ч1элъэгъон (to see under); илъэгъон (to see inside); хэплъэн (to see someone as); хэплъэн (to view certain parts of something); зыхэплъэжьын (to see oneself as)"
-  },
-  {
-    "saw": "ылъэгъугъ"
+    "to see": "лъэгъун; телъэгъон (to see on); дэлъэгъон (to see inside an object that can be opened, to see between, to see inside a yard); къолъэгъон (to see behind); хэлъэгъон (to see within, to see in an area with some mass of gas, solid or liquid, to see among people/objects); ч1элъэгъон (to see under); илъэгъон (to see inside); хэплъэн (to view certain parts of something); зыхэплъэжьын (to see oneself as)"
   },
   {
     "to flee": "ежьэжьын; к1э1эжьын / к1этхъун (to run off, to flee or depart quickly); ш1уежьэжьын (to flee from)"
   },
   {
-    "to depart": "ежьэн; 1ук1ыжьын; гъогум техьан; дэхьажьын (to head back); к1э1эн / к1этхъун (to run off, to depart quickly)"
+    "to depart": "ежьэн (to go off to a journey); 1ук1ыжьын (to go away from the place one is); гъогум техьан (to go on the road); дэхьажьын (to head back); к1э1эн / к1этхъун (to run off, to depart quickly)"
   },
   {
     "to run off": "к1э1эн; к1этхъун; блэчъын / блэхъушъутын (to run past); техъушъутын (to run off from on something); ч1эхъушъутын (to run from under, to run from a lying position); ихъушъутын (to run out from inside something); дэхъушъутын (to run out from a yard, area or settlement); хэхъушъутын (to run out of an area with liquid or gas, to run out from among people/objects, to run out of a forest); къохъушъутын (to run out from behind); къыгохъушъутын / къыбгъодэхъушъутын (to run out from besides)"
@@ -1878,7 +1875,7 @@
     "painted": "лагъэ; гъэлагъэ"
   },
   {
-    "to hit": "еон (to hit/strike someone/something); тефэн (to come into contact with something forcefully and suddenly); тегъэфэн (to hit a target/mark); дэоен (to hit upward); еохын (to hit downward); хэон / жэхэон (to hit someone intensively); пыохьан (to beat someone by hitting); теутын (to hit with a projectil such as an arrow, rock or bullet); лъыон (to strike toward); зэк1эон (to strike backward); теон (to hit the surface of); ч1эон (to hit under something); зыохьан (to strike in all directions, to go berserk)"
+    "to hit": "еон (to hit/strike someone/something); тефэн (to hit a target, to come into contact with something forcefully and cause an impact); тегъэфэн (to hit a target/mark); дэоен (to hit upward); еохын (to hit downward); хэон / жэхэон (to hit someone intensively); пыохьан (to beat someone by hitting); теутын (to hit with a projectil such as an arrow, rock or bullet); лъыон (to strike toward); зэк1эон (to strike backward); теон (to hit the surface of); ч1эон (to hit under something); зыохьан (to strike in all directions seemingly in a random manner, to go berserk)"
   },
   {
     "to strike": "еон (to strike someone/something); хэон / жэхэон (to strike someone intensively); пыохьан (to beat someone by hitting); лъыон (to strike toward); зэк1эон (to strike backward); теон (to strike the surface of); ч1эон (to strike under something); зыохьан (to strike in all directions, to go berserk)"
@@ -1890,22 +1887,22 @@
     "to fall on": "тефэн (the impact caused by hitting something from the fall); тебэджэн (to fall on by slipping); тет1эрэн (to drop on)"
   },
   {
-    "to fall": "ебэджын (to fall on the ground); тебэджэн (to fall on something by slipping); ефэхын / къефэхын (to fall downward); едзыхын / къедзыхын (to fall downward); ет1эрэхын / къет1эрэхын (to drop downward); зэтефэн (to drop on each other); зэхэфэн (to drop within each other, to drop into each other); ук1орэин; къегъэохын (to destroy something and make it fall down); пызын / къыпызын (to fall/drop off from a tree); изын / къизын (to fall/drop off from inside something); тезын / къытезын (to fall/drop off from above something); пхырыбын / пхырызын (to fall through); тет1эрын (to drop from)"
+    "to fall": "ебэджын (to fall on the ground); тебэджэн (to fall on something by slipping); ефэхын / къефэхын (to fall downward); едзыхын / къедзыхын (to fall downward); ет1эрэхын / къет1эрэхын (to drop downward); зэтефэн (to drop on each other); зэхэфэн (to drop within each other, to drop into each other); къегъэохын (to destroy something and make it fall down); пызын / къыпызын (to fall/drop off from a tree, to fall from the tip of); изын / къизын (to fall/drop off from inside something); тезын / къытезын (to fall/drop off from above something); пхырыбын / пхырызын (to fall through)"
   },
   {
-    "to drop": "1эпызын (to drop from the hand); къизын (to drop from inside something); къетк1ухын (to drip from, to drop down drops of liquid); 1эпызын (to drop unintentionally); 1эпыт1эрын (to let slip unintentionally); къытезын (to drop from); къыпызын (to drop off a tree); къыпытэкъун (to drop from the tree around it); зэтефэн (to drop on each other); зэхэфэн (to drop into each other); 1эк1эзын (to drop something unintentionally from the hand); пызын / къыпызын (to drop off from a tree); изын / къизын (to drop off from inside something); тезын / къытезын (to drop off from above something); ч1эзын / къыч1эзын (to drop off from under something); зэтетэкъун (to drop off from each other); тетк1он (to drip liquid on something one drop at a time); хэгъэтк1он (to drop liquid drops into another liquid, substance, food, fire, etc.)"
+    "to drop": "1эпызын / 1эк1эзын (to drop unintentionally from the hand); изын / къизын (to drop from inside something); къетк1ухын (to drip from, to drop down drops of liquid); 1эпыт1эрын (to let slip unintentionally); тезын / къытезын (to drop from above something); пызын / къыпызын (to drop off a tree, to drop from the tip of); къыпытэкъун (to drop from the tree around in pieces, to drop from the tip of something in pieces); зэтефэн (to drop on each other); зэхэфэн (to drop into each other); ч1эзын / къыч1эзын (to drop off from under something); зэтетэкъун (to drop off from each other); тетк1он (to drip liquid on something one drop at a time); хэгъэтк1он (to drop liquid drops into another liquid, substance, food, fire, etc.)"
   },
   {
-    "to meet": "тефэн (to come across, to encounter coincidentally); 1ук1эн (to meet); пэгъок1ын (to welcome, to approach, to encounter intentionally); зэ1ук1эн (to meet up); зэ1угъэк1эн (to make people meet at a certian place)"
+    "to meet": "тефэн (to come across coincidentally, to encounter coincidentally); 1ук1эн (to meet someone); пэгъок1ын (to welcome, to approach, to encounter intentionally); зэ1ук1эн (to meet up together); зэ1угъэк1эн (to make people meet)"
   },
   {
-    "to come across": "тефэн; зэтефэн (to come across each other); зэ1ууп1эн (to come across with each other)"
+    "to come across": "тефэн (to come across coincidentally, to encounter coincidentally); зэтефэн (to come across each other); зэ1ууп1эн (to come across with each other)"
   },
   {
-    "to encounter": "тефэн (coincidentally); пэгъок1ын (usaully intentionally)"
+    "to encounter": "тефэн (to come across coincidentally, to encounter coincidentally); зэтефэн (to encounter each other); пэгъок1ын (to encounter someone intentionally)"
   },
   {
-    "to receive": "пэгъок1ын (to welcome someone as a host); къы1ук1эхьан (to receive something)"
+    "to receive": "пэгъок1ын (to welcome someone as a host); 1ук1эхьан / къы1ук1эхьан (to receive something)"
   },
   {
     "received": "пэгъок1ыгъ (welcomed); къы1ук1эхьагъ (received)"
@@ -1929,7 +1926,7 @@
     "Adyghe": "адыгэ"
   },
   {
-    "Adyghe person": "адыгэл1"
+    "Adyghe man": "адыгэл1"
   },
   {
     "Shapsug dialect": "шапсыгъэбзэ"
@@ -2316,7 +2313,7 @@
     "to feel hot": "фабэ пэн"
   },
   {
-    "to die": "л1эн; ил1ык1ын (to die off something); хэл1эхьан (to die in a war/forest); тел1эхьан (to die above something); ч1эл1эхьан (to die under something); ил1эхьан (to die inside something); пыл1ык1ын (to die slowly, to die from bleeding); ш1ол1эн (to die on someone, to die against someone's will or interest)"
+    "to die": "л1эн; ил1ык1ын (to die off something); хэл1ыхьан (to die in a war/forest); тел1ыхьан (to die above something); ч1эл1ыхьан (to die under something); ил1ыхьан (to die inside something); пыл1ык1ын (to die slowly, to die from bleeding); ш1ол1эн (to die on someone, to die against someone's will or interest)"
   },
   {
     "wisp": "1оталъ"
@@ -2325,7 +2322,7 @@
     "to sell": "щэн; щыщэн (to sell in a certain place)"
   },
   {
-    "to take": "щэн (to take/lead someone to somewhere); хьын (to take/carry something to somewhere); штэн / къэштэн (to grab something to take); ш1охьын (to take something from someone against his interest or will); 1ыхын / къы1эхын (to take something from someone by hand); техын / къытехын (to take off something from above something); ч1эхын / къыч1эхын (to take something from under something); дэхын / къыдэхын (to take something from inside another object); ихын / къыихын (to take something from inside something); пыхын / къыпыхын (to take down from a hanging position, to unhang); хэхын / къыхэхын (to take something from through something or from an area with gas or liquid); къохын / къыкъохын (to take something from behind something); гохын / къыгохын / бгъодэхын / къыбгъодэхын (to take something from besides something); к1оц1ыхын / къык1оц1ыхын (to take something from inside something's body); тещэн (to take/lead someone to above something); хэщэн (to take/lead someone to among other people or objects); хэщэн (to take/lead someone to an area liquid, gas, plants or trees); дэщэн (to take/lead someone to a yard); ищэн (to take/lead someone to inside something); къощэн (to take/lead someone to behind something); пыхын (to take something like knowledge, behavior from someone); дэщэен (to lead/take someone up); ещэхын (to lead/take someone down); къещэк1ын (to take/lead someone around); ещэл1эн (to take someone to, to lead someone to); дэхьыен (to take upwards, to take up, to carry upwards, to carry up); блэщын (to take/lead (someone) across, to take/lead (someone) past); уахътэ егъэхьын (to take time); техык1ын (to take something off)"
+    "to take": "щэн (to take/lead someone to somewhere); хьын (to take/carry something to somewhere); штэн / къэштэн (to grab something to take); ш1охьын (to take something from someone against his interest or will); 1эхын / къы1эхын (to take something from someone by hand); техын / къытехын (to take something from above something); ч1эхын / къыч1эхын (to take something from under something); дэхын / къыдэхын (to take something from inside another object that can be opened); ихын / къыихын (to take something from inside something); пыхын / къыпыхын (to take down from a hanging position, to unhang, to take something from the tip of something); хэхын / къыхэхын (to take something from within something, to take something from an area with some gas or liquid such as water, fire, etc.); къохын / къыкъохын (to take something from behind something); гохын / къыгохын / бгъодэхын / къыбгъодэхын (to take something from besides something); к1оц1ыхын / къык1оц1ыхын (to take something from inside something's body); тещэн (to take/lead someone to above something); хэщэн (to take/lead someone to among other people or objects); хэщэн (to take/lead someone to an area with some mass of liquid or gas such as water, fire, etc); дэщэн (to take/lead someone to a yard or village); ищэн (to take/lead someone to inside something); къощэн (to take/lead someone to behind something); пыхын (to take something like knowledge, behavior from someone); дэщэен (to lead/take someone up); ещэхын (to lead/take someone down); къещэк1ын (to take/lead someone around); ещэл1эн (to take someone to, to lead someone to); дэхьыен (to take upwards, to take up, to carry upwards, to carry up); блэщын (to take/lead (someone) across, to take/lead (someone) past something); уахътэ егъэхьын (to take time); техык1ын (to take something off)"
   },
   {
     "taken": "штагъэ; ахьыгъэ"
@@ -2334,19 +2331,19 @@
     "to take time": "уахътэ егъэхьын"
   },
   {
-    "to grasp": "убытын / къэубытын (to take hold, to grib, to grasp, to catch and hold, to grab by catching); зы1эк1эубытэн; зэхэш1ык1ын (to comprehend; to understand or grasp fully and thoroughly); пытэу 1ыгъэн (to grip tightly)"
+    "to grasp": "убытын / къэубытын (to take hold, to grib, to grasp, to catch and hold, to grab by catching); зы1эк1эубытэн (to grab and hold in the hand); зэхэш1ык1ын (to comprehend; to understand or grasp fully and thoroughly); пытэу 1ыгъэн (to grip tightly)"
   },
   {
-    "to take hold": "убытын / къэубытын (to take hold, to grib, to grasp, to catch and hold, to grab by catching); зы1эк1эубытэн"
+    "to take hold": "убытын / къэубытын (to take hold, to grib, to grasp, to catch and hold, to grab by catching); зы1эк1эубытэн (to grab and hold in the hand)"
   },
   {
-    "to grip": "убытын / къэубытын (to take hold, to grib, to grasp, to catch and hold), to grab by catching; зы1эк1эубытэн; пытэу 1ыгъэн (to grip tightly)"
+    "to grip": "убытын / къэубытын (to take hold, to grib, to grasp, to catch and hold), to grab by catching; зы1эк1эубытэн (to grab and hold in the hand); пытэу 1ыгъэн (to grip tightly)"
   },
   {
-    "to grab": "штэн / къэштэн (to take and grab from something); къэубытын (to take hold, to grib, to grasp, to catch and hold, to grab by catching); зы1эк1эубытэн"
+    "to grab": "штэн / къэштэн (to take and grab something); убытын / къэубытын (to take hold, to grib, to grasp, to catch and hold, to grab by catching); зы1эк1эубытэн (to grab and hold in the hand)"
   },
   {
-    "to hold": "1ыгъэн; къэубытын (to take hold, to grib, to grasp, to catch and hold, to grab by catching)"
+    "to hold": "1ыгъэн; къэубытын (to take hold, to grib, to grasp, to catch and hold, to grab by catching); зы1эк1эубытэн (to grab and hold in the hand)"
   },
   {
     "to kidnap": "тыгъун"
@@ -2367,7 +2364,7 @@
     "to snatch": "пхъотэн; къы1эпхъотэн (to snatch from someone); къыш1опхъотэн (to snatch from someone)"
   },
   {
-    "to lead": "щэн (to lead/take someone to); пэщэн (to lead as a leader); тещэн (to take/lead someone to above something); хэщэн (to take/lead someone to among other people or objects); хэщэн (to take/lead someone to an area liquid, gas, plants or trees); дэщэн (to take/lead someone to a yard); ищэн (to take/lead someone to inside something); дэщэен (to lead/take someone up); ещэхын (to lead/take someone down); къещэк1ын (to take/lead someone around); щэжьын (to lead someone back to, to take someone back to, to return someone back to); ещэл1эн (to take someone to, to lead someone to); блэщын (to take/lead (someone) across, to take/lead (someone) past)"
+    "to lead": "щэн (to lead/take someone to); тещэн (to take/lead someone to above something); хэщэн (to take/lead someone to among other people or objects); хэщэн (to take/lead someone to an area with some liquid, gas, plants, forest, water or trees); дэщэн (to take/lead someone to a yard, city or village); ищэн (to take/lead someone to inside something); дэщэен (to lead/take someone up); ещэхын (to lead/take someone down); къещэк1ын (to take/lead someone around); щэжьын (to lead someone back to, to take someone back to, to return someone back to); ещэл1эн (to take someone to, to lead someone to); блэщын (to take/lead (someone) across, to take/lead (someone) past something); пэщэн (to lead as a leader)"
   },
   {
     "to escort": "щэн (to escort someone to); хэщэн (to escort someone to among other people or objects); хэщэн (to escort someone to an area liquid, gas, plants or trees); дэщэн (to escort someone to a yard); ищэн (to escort someone to inside something); дэщэен (to escort someone up); ещэхын (to escort someone down); къещэк1ын (to escort someone around); щэжьын (to escort someone back to, to take someone back to, to return someone back to)"
@@ -2607,13 +2604,10 @@
     "zebra": "щыдыкъолэн; шыкъолэн"
   },
   {
-    "hole": "курбы (hole in the ground); гъуанэ; машэ (hole in the ground); бы (burrow, hole for beasts like bears, foxes, etc.); гъо (hole for snakes, insects, arthropods and such species)"
+    "hole": "гъуанэ; курбы (hole in the ground); машэ (hole in the ground); бы (burrow, hole for beasts like bears, foxes, etc.); гъо (hole for snakes, insects, arthropods and such species)"
   },
   {
-    "close": "благъэ; пэблагъ (close to); пэгъунэгъу (close to)"
-  },
-  {
-    "not far": "пэчыжьэп"
+    "close": "благъэ; пэблагъ (close to); пэгъунэгъу (close to); 1утын (to be close in a standing position); 1улъын (to be close in a lying position)"
   },
   {
     "far": "чыжьэ; пэчыжь (far from)"
@@ -2626,9 +2620,6 @@
   },
   {
     "far away from": "пэчыжь"
-  },
-  {
-    "not far off": "пэблагъ"
   },
   {
     "nearby": "пэблагъ (close to)"
@@ -2994,13 +2985,13 @@
     "vortex": "жьы корен; жьы хьарз"
   },
   {
-    "therefor": "-эти / -эшъ (suffix that highlights the reason); арышъ / арти (because of that; because that is the case; so; therefore; for that reason; due to that); ащ пае / ащ фэш1к1э / джащ пае / джащ фэш1ык1э (for that reason or cause, because of that)"
+    "therefor": "-эти / -эшъ (suffix that highlights the reason); арышъ / арти (because of that, because that is the case, so, therefore; for that reason, due to that); ащ пае / ащ фэш1к1э / джащ пае / джащ фэш1ык1э (for that reason or cause, because of that)"
   },
   {
-    "because of that": "арышъ / арти (because of that; because that is the case; so; therefore; for that reason; due to that); ащ пае / ащ фэш1к1э / джащ пае / джащ фэш1ык1э (for that reason or cause, because of that)"
+    "because of that": "арышъ / арти (because of that, because that is the case, so, therefore, for that reason, due to that); ащ пае / ащ фэш1к1э / джащ пае / джащ фэш1ык1э (for that reason or cause, because of that)"
   },
   {
-    "due to that": "арышъ / арти (because of that; because that is the case; so; therefore; for that reason; due to that); ащ пае / ащ фэш1к1э / джащ пае / джащ фэш1ык1э (for that reason or cause, because of that)"
+    "due to that": "арышъ / арти (because of that, because that is the case, so, therefore, for that reason, due to that); ащ пае / ащ фэш1к1э / джащ пае / джащ фэш1ык1э (for that reason or cause, because of that)"
   },
   {
     "due to this": "мыщ пае / мыщ фэш1к1э (for this reason or cause, because of this)"
@@ -3129,7 +3120,7 @@
     "gravel": "мыжъо-пшэхъо зэхэлъ; мыжъок1ашъхъ"
   },
   {
-    "tip": "цыпэ; нэз; цак1э"
+    "tip": "цыпэ; нэз; цак1э; пытын (to be on the tip of); пылъын (to be on the tip of)"
   },
   {
     "one": "зы; лъэныкъо (one of a pair)"
@@ -10531,7 +10522,7 @@
     "brightful": "тыгъэпсы (bright of the sun)"
   },
   {
-    "above": "ыпшъэ; ышъхьагъы; ык1ы1у (the surface of); ышъхьэ (the surface of); ыпшъэк1э; ышъхьагък1э; ык1ы1ук1э"
+    "above": "тетын (to be above something in a standing position); телъын (to be above something in a lying position); ыпшъэ; ышъхьагъы; ык1ы1у (the surface of); ышъхьэ (the surface of); ыпшъэк1э; ышъхьагък1э; ык1ы1ук1э"
   },
   {
     "below": "ыч1эгъы; ыч1эгъык1э"
@@ -11935,7 +11926,7 @@
     "to watch": "еплъын; лъыплъэн (to watch over)"
   },
   {
-    "to look": "плъэн; еплъын (to look at); теплъэн (to look on); xэплъэн (to look among, to look inside an area with either gas, solid or liquid); дэплъэн (to look into); иплъэн (to look inside); пыплъэн (to look on clothes or tree); гоплъэн / бгъодэплъэн (to look besides); къоплъэн (to look behind); зэк1эплъэн / зэплъэк1ын (to look back); лъыплъэн (to look after); дэплъэен (to look up); еплъэхын (to look under); шъхьадэплъын (to look over);  хэплъыхьан (to take a good look into area with trees, plants, fire, liquid or gas, to take a good look among people or objects); теплъыхьан (to take a good look on something); ч1эплъыхьан (to take a good look under something); иплъыхьан (to take a good look inside something); дэплъыхьан (to take a good look in something, to take a good look between); пыплъыхьан (to take a good look on someone's clothes and examine it); къэплъыхьан (to look around in a certain area and examining it); зыплъыхьан (to look around oneself, to look around the area where oneself is standing); хэплъэн (to view certain parts of something)"
+    "to look": "плъэн; еплъын (to look at); теплъэн (to look on); xэплъэн (to look among, to look inside an area with either gas, solid or liquid); дэплъэн (to look into); иплъэн (to look inside); пыплъэн (to look on clothes or tree); гоплъэн / бгъодэплъэн (to look besides); къоплъэн (to look behind); зэк1эплъэн / зэплъэк1ын (to look back); лъыплъэн (to look after); дэплъэен (to look up); еплъэхын (to look under); шъхьадэплъын (to look over);  хэплъыхьан (to take a good look into area with trees, plants, fire, liquid or gas, to take a good look among people or objects); теплъыхьан (to take a good look on something); ч1эплъыхьан (to take a good look under something); иплъыхьан (to take a good look inside something); дэплъыхьан (to take a good look in something, to take a good look between); пыплъыхьан (to take a good look on someone's clothes and examine it); къэплъыхьан (to look around in a certain area and examining it); зыплъыхьан (to look around oneself, to look around the area where oneself is standing); хэплъэн (to view certain parts of something); теплъык1ын / къытеплъык1ын (to look from above something)"
   },
   {
     "to get drunk": "утэшъон; шъхьэ убытын; зешъок1ыжьын (to get drunk); иутышъухьан (to get drunk inside something)"
@@ -15718,7 +15709,7 @@
     "bull-calf": "шк1эхъужъ"
   },
   {
-    "to flow": "чъэн (псыр); течъын (to flow off something); ч1эчъын (to drip from under, to flow from beneath something, to leak from beneath something); псы тегъэчъын (to flow water on)"
+    "to flow": "рик1он; чъэн (псыр); течъын (to flow off something); ч1эчъын (to drip from under, to flow from beneath something, to leak from beneath something); псы тегъэчъын (to flow water on)"
   },
   {
     "to leak": "ч1эчъын (to leak from beneath something)"
@@ -17365,7 +17356,7 @@
     "to invade": "техьан; телъэдэн"
   },
   {
-    "on": "ыпшъэ; ышъхьагъы; ык1ы1у (the surface of); ыпшъэк1э; ышъхьагък1э; ык1ы1ук1э; те- (prepositional verval suffix)"
+    "on": "тетын (to be on in a standing position); телъын (to be on in a lying position); ыпшъэ; ышъхьагъы; ык1ы1у (the surface of); ыпшъэк1э; ышъхьагък1э; ык1ы1ук1э; те- (prepositional verval suffix)"
   },
   {
     "upon": "те- (prepositional verval suffix)"
@@ -17383,16 +17374,16 @@
     "down": "ыхэ"
   },
   {
-    "under": "ыч1эгъы; ыч1эгъык1э; ыхэ (down of); ч1э- / к1э- (prepositional verval suffix)"
+    "under": "ч1этын (to be under in a standing position); ч1элъын (to be under in a lying position); ыч1эгъы; ыч1эгъык1э; ыхэ (down of); ч1э- / к1э- (prepositional verval suffix)"
   },
   {
-    "in": "к1оц1ы (inside); ык1оц1ы (in something's inside); дэ- (prepositional verval suffix, in a defined area, such as a yard, area, settlement, etc.); дэ- (prepositional verval suffix, inside another object such as a book, fridge, drawer, closet, etc); и- (prepositional verval suffix, inside something such as a house, hole, bag, basket, etc.)"
+    "in": "итын (to be inside in a standing position); илъын (to be inside in a lying position); хэтын (to be standing in an area with some mass that is a liquid, gas or solid such as water, fire, sand); хэлъын (to be lying in an area with some mass that is a liquid, gas or solid such as water, fire, sand); дэтын (to be inside in object that can be opened and close in a standing position); дэлъын (to be inside in object that can be opened and close in a lying position); к1оц1ы (inside); ык1оц1ы (in something's inside); дэ- (prepositional verval suffix, in a defined area, such as a yard, area, settlement, etc.); дэ- (prepositional verval suffix, inside another object such as a book, fridge, drawer, closet, etc); и- (prepositional verval suffix, inside something such as a house, hole, bag, basket, etc.)"
   },
   {
-    "inside": "к1оц1ы; ык1оц1ы (in something's inside); дэ- (prepositional verval suffix, inside another object such as a book, fridge, drawer, closet, etc); и- (prepositional verval suffix, inside something such as a house, hole, bag, basket, etc.); к1оц1ы- (prepositional verval suffix, within inside)"
+    "inside": "итын (to be inside in a standing position); илъын (to be inside in a lying position); дэтын (to be inside in object that can be opened and close in a standing position); дэлъын (to be inside in object that can be opened and close in a lying position); к1оц1ы (inside); к1оц1ы; ык1оц1ы (in something's inside); дэ- (prepositional verval suffix, inside another object such as a book, fridge, drawer, closet, etc); и- (prepositional verval suffix, inside something such as a house, hole, bag, basket, etc.); к1оц1ы- (prepositional verval suffix, within inside)"
   },
   {
-    "between": "азыфагу; агузэгу; дэ- (prepositional verval suffix)"
+    "between": "азыфагу; агузэгу; дэ- (prepositional verval suffix); дэтын (to be in between in a standing position); дэлъын (to be in between in a lying position)"
   },
   {
     "attached": "пылъ; пы- (prepositional verval suffix)"
@@ -17407,7 +17398,13 @@
     "aside": "бгъодэ- / го- (prepositional verval suffix)"
   },
   {
-    "side": "бгъу; ыбгъу / ыбгъук1э (on the side of); лъэныкъо / к1элъэныкъо / зыбгъу (one side of, half of); адрабгъу (opposite side, other side); бгъодэ- / го- (prepositional verval suffix); сэмэгубгъу (left-hand side)"
+    "side": "бгъу; ыбгъу / ыбгъук1э (on the side of); лъэныкъо / к1элъэныкъо / зыбгъу (one side of, half of); адрабгъу (opposite side, other side); бгъодэ- / го- (prepositional verval suffix); сэмэгубгъу (left-hand side); готын / бгъодэтын (to be on the side of something in a standing position); голъын / бгъодэлъын (to be on the side of something in a lying position)"
+  },
+  {
+    "among": "хэтын (to be among people/objects in a standing position); хэлъын (to be among people/objects in a lying position)"
+  },
+  {
+    "with": "игъусэу; ригъусэу; дэ- (verbal prefix indicating with)"
   },
   {
     "within inside": "к1оц1ы- (prepositional verval suffix)"
@@ -17455,16 +17452,16 @@
     "by": "ыдэжь; 1у- (prepositional verval suffix)"
   },
   {
-    "near": "ыдэжь (near of); благъэ; пэблагъ (close to); пэгъунэгъу (close to); 1у- (prepositional verval suffix)"
+    "near": "1утын (to be near in a standing position); 1улъын (to be near in a lying position); ыдэжь (near of); благъэ (close); пэблагъ (close to); пэгъунэгъу (close to); 1у- (prepositional verval suffix)"
   },
   {
-    "around": "ыдэжь (around someone or something); благъэ; пэблагъ (close to); пэгъунэгъу (close to); 1у- (prepositional verval suffix)"
+    "around": "1утын (to be around in a standing position); 1улъын (to be around in a lying position); ыдэжь (around someone or something); благъэ (close); пэблагъ (close to); пэгъунэгъу (close to); 1у- (prepositional verval suffix)"
   },
   {
     "in front of": "пашъхьэ; ипашъхьэ; пэ1у- (prepositional verval suffix)"
   },
   {
-    "behind": "к1ыб; ык1ыбык1э; къо- (prepositional verval suffix)"
+    "behind": "к1ыб; ык1ыбык1э; къо- (prepositional verval suffix); къотын (to be behind something in a standing position); къолъын (to be behind something in a lying position)"
   },
   {
     "fortochka": "шъхьаныгъупчъэжъый"

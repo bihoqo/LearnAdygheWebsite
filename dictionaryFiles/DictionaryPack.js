@@ -17785,7 +17785,33 @@
       }
     ],
     "type": "verb",
-    "ipa": "ɬˤʼəkʲʼən"
+    "ipa": "ɬʼət͡ʃʼən"
+  },
+  {
+    "word": "хэл1ыхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to die in a war/forest",
+        "examples": [
+          {
+            "sentence": "К1алэр заум '''хэл1ыхьагъ'''",
+            "translation": "The boy '''died in''' war."
+          }
+        ]
+      },
+	  {
+        "meaning": "to die among people/objects, to die in any liquid, gas, fire, water, etc.",
+        "examples": [
+          {
+            "sentence": "К1алэр хым '''хэл1ыхьагъ'''",
+            "translation": "The boy '''died in''' the sea."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "xaɬʼəħaːn"
   },
   {
     "word": "1уагъэ",
@@ -21775,15 +21801,41 @@
     "ipa": "gʷatən"
   },
   {
+    "word": "госын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to sit besides; to be sitting on the side of",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "бгъодэсын"
+    ],
+    "type": "noun",
+    "ipa": "gʷasən"
+  },
+  {
+    "word": "голъын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to lie besides; to be lying on the side of",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "бгъодэлъын"
+    ],
+    "type": "noun",
+    "ipa": "gʷaɬən"
+  },
+  {
     "word": "бгъодэтын",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to stand besides; to be stand on the side of",
-        "examples": []
-      },
-	  {
-        "meaning": "to be besides; to be on the side of",
+        "meaning": "alternative form of \"готын\"",
         "examples": []
       }
     ],
@@ -21791,7 +21843,37 @@
       "готын"
     ],
     "type": "noun",
-    "ipa": "bʁʷadad"
+    "ipa": "bʁʷadatən"
+  },
+  {
+    "word": "бгъодэсын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"госын\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "госын"
+    ],
+    "type": "noun",
+    "ipa": "bʁʷadasən"
+  },
+  {
+    "word": "бгъодэлъын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"голъын\"",
+        "examples": []
+      }
+    ],
+    "synonyms": [
+      "голъын"
+    ],
+    "type": "noun",
+    "ipa": "bʁʷadaɬən"
   },
   {
     "word": "мыжъо-пшэхъо зэхэлъ",
@@ -54925,7 +55007,7 @@
             "translation": "'''Do you see''' a face '''in''' the cloud?"
           },
 		  {
-            "sentence": "хым пцэжъые '''хэсэлъэгъо'''",
+            "sentence": "хым пцэжъые '''хэсэлъагъо'''",
             "translation": "'''I see''' a fish '''inside''' the sea."
           },
 		  {
@@ -58138,7 +58220,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be attached; to be plugged",
+        "meaning": "to be attached; to be plugged; to be on the tip of something",
         "examples": [
           {
             "sentence": "USB-ыр сомпыютэрым '''пылъ'''",
@@ -58260,7 +58342,7 @@
         ]
       },
 	  {
-        "meaning": "to be attached (on the body)",
+        "meaning": "to be attached; to be on the tip of something",
         "examples": [
           {
             "sentence": "Уцым къэцыхэр '''пытых'''",
@@ -58322,7 +58404,7 @@
         ]
       },
 	  {
-        "meaning": "to sit at the end of",
+        "meaning": "to sit at the end of; to sit on the tip of something",
         "examples": []
       }
     ],
@@ -58839,13 +58921,21 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to sit (area, yard, between)",
+        "meaning": "to sit in a defined area (area, yard,)",
         "examples": [
           {
             "sentence": "К1алэр щагум '''дэс'''",
-            "translation": "The boy '''is sitting''' in the yard."
+            "translation": "The boy '''is sitting in''' the yard."
+          },
+		  {
+            "sentence": "Тэ паркым '''тыдэс'''",
+            "translation": "'''We are sitting in''' the park."
           }
         ]
+      },
+	  {
+        "meaning": "to sit in between",
+        "examples": []
       },
       {
         "meaning": "to settle (in some specific area)",
@@ -97581,11 +97671,15 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to lie/be somewhere within a mass (gas, solid or liquid)",
+        "meaning": "to lie within; to lie/be somewhere within a mass (gas, solid or liquid) such as water, fire, etc.",
         "examples": [
           {
-            "sentence": "П1эм '''хэлъын'''",
-            "translation": "'''to lie''' in bed."
+            "sentence": "П1эм '''сыхэлъ'''",
+            "translation": "'''I am lying in''' bed."
+          },
+		  {
+            "sentence": "Хьадэхэр хым '''хэлъых'''",
+            "translation": "'''There are''' corpses '''in''' the sea."
           },
 		  {
             "sentence": "Щае сешъо шъоущыгъу '''хэмылъэу'''",
@@ -97600,6 +97694,10 @@
             "translation": "The cake is too sweet, '''it has''' too much sugar '''in it'''."
           }
         ]
+      },
+	  {
+        "meaning": "to lie among people/objects",
+        "examples": []
       },
       {
         "meaning": "to have a certain characteristic (such as kindness, stingyness, meanness, mercy, etc.)",
@@ -97629,6 +97727,112 @@
     ],
     "type": "verb",
     "ipa": "xaɬən"
+  },
+  {
+    "word": "хэтын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to stand within; to stand somewhere within a mass (gas, solid or liquid) such as water, fire, etc.",
+        "examples": [
+          {
+            "sentence": "К1алэм псым '''хэт'''",
+            "translation": "The boy '''is standing in''' the water."
+          },
+		  {
+            "sentence": "Уцы горэхэр хым '''хэтых'''",
+            "translation": "'''There are''' some plants '''in''' the sea."
+          },
+		  {
+            "sentence": "Л1ыр пшахъом '''хэт'''",
+            "translation": "The man '''is standing in''' the sand."
+          }
+        ]
+      },
+	  {
+        "meaning": "to stand among people/objects",
+        "examples": [
+          {
+            "sentence": "Синыбджэгъухэмэ '''сахэт'''",
+            "translation": "'''I am among''' my friends."
+          }
+        ]
+      },
+      {
+        "meaning": "to be in a certain situation",
+        "examples": [
+          {
+            "sentence": "Л1ыр насыпым '''хэт'''",
+            "translation": "The man '''is in''' luck."
+          },
+		  {
+            "sentence": "Л1ыр къиным '''хэт'''",
+            "translation": "The man '''is in''' hardship."
+          },
+		  {
+            "sentence": "Л1ыр 1офым '''хэт'''",
+            "translation": "The man '''is in''' trouble."
+          }
+        ]
+      },
+      {
+        "meaning": "to stand in the forest",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "xatən"
+  },
+  {
+    "word": "хэсын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to lie within; to lie somewhere within a mass (gas, solid or liquid) such as water, fire, etc.",
+        "examples": [
+          {
+            "sentence": "К1алэм псым '''хэс'''",
+            "translation": "The boy '''is sitting in''' the water."
+          },
+		  {
+            "sentence": "Пцэжъыехэр хым '''хэсых'''",
+            "translation": "'''There are''' fishes '''in''' the sea."
+          },
+		  {
+            "sentence": "К1элэц1ык1ур пшахъом '''хэт'''",
+            "translation": "The little boy '''is sitting in''' the sand."
+          }
+        ]
+      },
+	  {
+        "meaning": "to sit among people/objects",
+        "examples": [
+          {
+            "sentence": "Синыбджэгъухэмэ '''сахэс'''",
+            "translation": "'''I am sitting among''' my friends."
+          },
+		  {
+            "sentence": "Шъузыхэр '''зэхэсых''' къэбар къа1уатэу",
+            "translation": "The women '''are sititng together''' chatting."
+          }
+        ]
+      },
+      {
+        "meaning": "to sit in the forest",
+        "examples": []
+      },
+      {
+        "meaning": "to live in the forest",
+        "examples": [
+		  {
+            "sentence": "Л1ы горэ мэзым изакъоу '''хэс'''",
+            "translation": "'''There is''' a man '''living''' in the forest alone."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "xatən"
   },
   {
     "word": "гъэкощын",
@@ -107888,9 +108092,13 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to lie inside another object (that can be opened); to lie between; to lie inside a defined area",
+        "meaning": "to lie inside another object (that can be opened)",
         "examples": [
-          {
+		  {
+            "sentence": "Къэлэмыр тхылъым телъ, тхылъып1эр тхылъым '''дэлъ'''",
+            "translation": "The pencil is on the book, the paper '''is in''' the book."
+          },
+		  {
             "sentence": "Къэлэмыр '''дэлъ''' тхылъым",
             "translation": "The pencil '''is inside''' the book."
           },
@@ -107907,14 +108115,27 @@
             "translation": "The key '''was inside''' the drawer."
           },
 		  {
-            "sentence": "Пхъэнт1эк1ур щагум '''дэлъ'''",
-            "translation": "The chair '''is in''' the yard."
-          },
-		  {
             "sentence": "К1эрахъом щэ '''дэлъа'''?",
             "translation": "'''Is there''' a bullet '''in''' the gun?"
           }
         ]
+      },
+	  {
+        "meaning": "to lie inside a defined area (yard, village, city, etc.)",
+        "examples": [
+		  {
+            "sentence": "Пхъэнт1эк1ур щагум '''дэлъ'''",
+            "translation": "The chair '''is in''' the yard."
+          },
+		  {
+            "sentence": "Чылэм '''сыдэлъ'''",
+            "translation": "'''I am lying''' in the village (means: I am staying in the village)."
+          }
+        ]
+      },
+	  {
+        "meaning": "to lie between",
+        "examples": []
       }
     ],
     "type": "verb",
@@ -116507,7 +116728,7 @@
             "translation": "The road '''is blocked'''."
           },
           {
-            "sentence": "Трубэу чӏыгу чӏэгъым ч1этыр '''шъыбыгъэ'''",
+            "sentence": "Трубэу чӏыгу чӏэгъым ч1элъыр '''шъыбыгъэ'''",
             "translation": "The pipe under the ground '''is sealed'''."
           }
         ]
@@ -117046,7 +117267,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to be on; to be above; to be on the surface of",
+        "meaning": "to be on; to be on something in a standing position; to be above; to be on the surface of",
         "examples": [
           {
             "sentence": "Шхыныр 1анэм '''тет'''",
@@ -117071,8 +117292,98 @@
         ]
       }
     ],
-    "type": "noun",
-    "ipa": "zaməɬʼawʒəʁʷa"
+    "type": "verb",
+    "ipa": "tajtən"
+  },
+  {
+    "word": "тесын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to be sititng on",
+        "examples": [
+          {
+            "sentence": "К1алэр пхъэнт1эк1ум '''тес'''",
+            "translation": "The boy '''is sitting on''' the chair."
+          },
+		  {
+            "sentence": "Л1ыр унашъхьэм '''тес'''",
+            "translation": "The man '''is sitting on''' the roof"
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "tajsən"
+  },
+  {
+    "word": "телъын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to be lying on; to be lying above something; to be lying on the surface of",
+        "examples": [
+          {
+            "sentence": "К1элэц1ык1ур 1анэм '''телъ'''",
+            "translation": "The little boy '''is lying on''' the table."
+          },
+		  {
+            "sentence": "Къэлэмыр тхылъым '''телъ''', тхылъып1эр тхылъым дэлъ",
+            "translation": "The pencil '''is on''' the book, the paper is in the book."
+          },
+		  {
+            "sentence": "Ч1ыфэ '''къэстелъ'''",
+            "translation": "I have a debt '''on me'''."
+          },
+		  {
+            "sentence": "Тыдэ щы1 па1оу '''къыптелъыгъагъэр'''?",
+            "translation": "Where is the hat '''that was on you'''?"
+          },
+		  {
+            "sentence": "Псыхъо ныджым пшахъо '''телъ'''",
+            "translation": "'''There is''' sand '''on''' the river's bank."
+          },
+		  {
+            "sentence": "Къушъхьэм ык1ы1у ос '''телъ'''",
+            "translation": "'''There is''' snow '''on''' the top of the mountain."
+          },
+		  {
+            "sentence": "Цацэхэр 1анэм ышъхьэ '''телъых'''",
+            "translation": "The fork '''is on''' the surface of the table."
+          },
+		  {
+            "sentence": "Къупшъхьэм лыр '''телъ'''",
+            "translation": "The flesh '''is on''' the bone."
+          },
+		  {
+            "sentence": "Дзэк1ол1ыхэмэ шъхьэтелъхьэ ашъхьэ '''телъ'''",
+            "translation": "The soldiers have a helmet '''on'''."
+          },
+		  {
+            "sentence": "К1алэм нэпэтелъхьэ '''телъ'''",
+            "translation": "The boy has a mask '''on'''."
+          },
+		  {
+            "sentence": "Хьакъулахьэу ц1ыфмэ '''ателъыр''' атыгъах",
+            "translation": "People already paid the tax '''that was on them'''."
+          },
+		  {
+            "sentence": "Бзылъфыгъэм шъхьэтехъу '''телъ'''",
+            "translation": "The woman has a veil '''on'''."
+          },
+		  {
+            "sentence": "Шым уанэ '''телъ'''",
+            "translation": "The saddle '''is on''' the horse."
+          },
+		  {
+            "sentence": "У1агъэм тепхэ '''телъ'''",
+            "translation": "There is a bandage '''on''' the wound."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "tajɬən"
   },
   {
     "word": "къыдэк1ухьан",
@@ -121057,6 +121368,35 @@
     ],
     "type": "verb",
     "ipa": "qəjɬən"
+  },
+  {
+    "word": "итын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to be inside; to be inside in a standing position; to be in",
+        "examples": [
+		  {
+            "sentence": "Къэкъакъэхэр унэм '''итх'''",
+            "translation": "'''There are''' flowers '''in''' the house."
+          },
+		  {
+            "sentence": "Сыд унэм '''итыхэр'''?",
+            "translation": "What stuff '''there are in''' the house?"
+          },
+		  {
+            "sentence": "К1алэр унэм '''ит''' гущы1эу",
+            "translation": "The boy '''is standing inside''' the house talking."
+          },
+		  {
+            "sentence": "А унагъом яунэ хъуанэ '''итыпи''', як1алэхэри хъуанэхэрэп",
+            "translation": "'''Because there is no''' swearings '''in''' that family's house, their children also don't swear."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "jətən"
   },
   {
     "word": "илъын",
@@ -128739,8 +129079,133 @@
         ]
       }
     ],
-    "type": "noun",
+    "type": "verb",
     "ipa": "qʷatən"
+  },
+  {
+    "word": "къосын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to sit behind; to be behind something in a sitting position",
+        "examples": [
+          {
+            "sentence": "К1алэм дэпкъым '''къос'''",
+            "translation": "The boy '''is sitting behind''' the wall."
+          }
+        ]
+      },
+	  {
+        "meaning": "to sit in the corner",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "qʷasən"
+  },
+  {
+    "word": "къолъын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to lie behind; to be behind something in a lying position",
+        "examples": [
+          {
+            "sentence": "Хьэр дэпкъым '''къолъ'''",
+            "translation": "The dog '''is lying behind''' the wall."
+          }
+        ]
+      },
+	  {
+        "meaning": "to lie in the corner",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "qʷaɬən"
+  },
+  {
+    "word": "ч1этын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to stand under; to be under something in a stand position",
+        "examples": [
+          {
+            "sentence": "К1алэр чъыгым '''ч1эт'''",
+            "translation": "The boy '''is standing under''' the tree."
+          },
+		  {
+            "sentence": "Уцым ылъапсэ чӏыгу чӏэгъым '''ч1эт'''",
+            "translation": "The plant's root '''is under''' the ground."
+          }
+		  {
+            "sentence": "Къакъырым чэмхэр '''ч1этых'''",
+            "translation": "The cows '''are under''' the shed."
+          },
+		  {
+            "sentence": "К1алэр ч1ыфэ '''ч1эт'''",
+            "translation": "The boy '''is in''' debt."
+          },
+		  {
+            "sentence": "Тракторыр бгъагъэм '''ч1эт'''",
+            "translation": "The tractor '''is under''' the shed."
+          },
+		  {
+            "sentence": "Кум щэрэхъхэр '''ч1этых'''",
+            "translation": "The carriage has wheels '''under it'''."
+          },
+		  {
+            "sentence": "Жьаум '''тыч1этэу''' тэлажьэ",
+            "translation": "We are working '''in''' the shadow"
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "t͡ʂatən"
+  },
+  {
+    "word": "ч1эсын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to sit under; to be under something in a sitting position",
+        "examples": [
+          {
+            "sentence": "К1алэр чъыгым '''ч1эс''' шхэу",
+            "translation": "The boy '''is sitting under''' the tree eating."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "t͡ʂasən"
+  },
+  {
+    "word": "ч1элъын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to lie under; to be under something in a lying position",
+        "examples": [
+          {
+            "sentence": "Хьэр 1анэм '''ч1элъ'''",
+            "translation": "The dog '''is lying under''' the table."
+          },
+		  {
+            "sentence": "Пхъэхэр унэм '''ч1элъых'''",
+            "translation": "The woods '''are under''' the house."
+          },
+		  {
+            "sentence": "Трубэу чӏыгу чӏэгъым '''ч1элъыр''' шъыбыгъэ",
+            "translation": "The pipe '''under''' the ground is sealed."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "t͡ʂaɬən"
   },
   {
     "word": "пщэ",
@@ -132586,6 +133051,31 @@
     ],
     "type": "verb",
     "ipa": "pəʁataqʷən"
+  },
+  {
+    "word": "илъхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to put inside something",
+        "examples": [
+          {
+            "sentence": "Къэкъакъэхэр унэм '''илъхьах'''",
+            "translation": "'''Put''' the flowers '''inside''' the house."
+          },
+		  {
+            "sentence": "К1алэм тхьапэхэр дзыом '''релъхьах'''",
+            "translation": "The boy '''is putting''' the leaves '''inside''' the sack."
+          },
+		  {
+            "sentence": "Мы1эрысхэр матэм '''есэлъхьах'''",
+            "translation": "'''I am putting''' the apples '''inside''' the basket."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "jəɬħaːn"
   },
   {
     "word": "телъхьан",
@@ -141149,6 +141639,10 @@
 		  {
             "sentence": "Парк къалэм '''дэт'''",
             "translation": "'''There is a''' park '''in''' the city."
+          },
+		  {
+            "sentence": "Паркым '''тыдэт'''",
+            "translation": "'''We are in''' the park."
           },
 		  {
             "sentence": "Тхьапш тучанэу чылэм '''дэтыр'''?",
