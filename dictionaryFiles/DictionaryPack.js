@@ -82436,6 +82436,10 @@
           {
             "sentence": "К1алэм иахъщэ кум '''тегъэк1одагъ'''",
             "translation": "The boy '''wasted''' his money '''on''' the car."
+          },
+		  {
+            "sentence": "Сыд уиахъщэ '''зытебгъэк1одагъэр'''?",
+            "translation": "'''On''' what '''you spent'' your money?"
           }
         ]
       }
