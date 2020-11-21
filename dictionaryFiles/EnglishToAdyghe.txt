@@ -3579,7 +3579,7 @@
     "baklava": "бэкъылао"
   },
   {
-    "to waste": "(slang) ахъщэ ч1эфын; ахъщэ гъэк1он (to waste money); гъэк1одын"
+    "to waste": "гъэк1он; гъэк1одын; тегъэк1одэн (to waste on); ахъщэ гъэк1он (to waste money); (slang) ахъщэ ч1эфын"
   },
   {
     "horse-cloth": "шытехъу"

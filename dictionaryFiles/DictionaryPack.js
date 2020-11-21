@@ -28798,6 +28798,19 @@
             "translation": "Tomorrow '''they will make us go''' to work early."
           }
         ]
+      },
+      {
+        "meaning": "to spend; to waste",
+        "examples": [
+          {
+            "sentence": "Уинасып '''угъэк1уагъ'''",
+            "translation": "'''You wasted''' your lucj."
+          },
+          {
+            "sentence": "К1алэм иахъщэ '''ыгъэк1уагъ'''",
+            "translation": "The boy '''wasted''' his money."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -82387,10 +82400,48 @@
             "translation": "'''I lost''' my hat."
           }
         ]
+      },
+      {
+        "meaning": "to spend; to waste",
+        "examples": [
+          {
+            "sentence": "Уинасып '''угъэк1одыгъ'''",
+            "translation": "'''You wasted''' your lucj."
+          },
+          {
+            "sentence": "К1алэм иахъщэ '''ыгъэк1одыгъ'''",
+            "translation": "The boy '''wasted''' his money."
+          }
+        ]
       }
     ],
     "type": "verb",
     "ipa": "ʁakʷʼadən"
+  },
+  {
+    "word": "тегъэк1одэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to make something disappear on",
+        "examples": []
+      },
+      {
+        "meaning": "to lose something on, to make something lost on",
+        "examples": []
+      },
+      {
+        "meaning": "to spend on something; to waste on something",
+        "examples": [
+          {
+            "sentence": "К1алэм иахъщэ кум '''тегъэк1одагъ'''",
+            "translation": "The boy '''wasted''' his money '''on''' the car."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "tajʁakʷʼadən"
   },
   {
     "word": "хьэшъуты убэтэн",
