@@ -18631,10 +18631,10 @@
     "talking partner": "гущы1эгъу"
   },
   {
-    "to book": "тхэхьын (police)"
+    "to book": "тхэхьын (to book by the police)"
   },
   {
-    "to fine": "тхэхьын (police)"
+    "to fine": "тхэхьын (to fine by the police)"
   },
   {
     "to go for someone to bring something": "фэ1офытэн"

@@ -51142,14 +51142,14 @@
     "ipa": "saχa"
   },
   {
-    "word": "cхъып",
+    "word": "схъып",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "rime; hoarfrost; frozen dew",
         "examples": [
           {
-            "sentence": "Чъыгмэ '''cхъыпхэр''' ателъ",
+            "sentence": "Чъыгмэ '''схъыпхэр''' ателъ",
             "translation": "The trees have '''rime''' on them."
           }
         ]
@@ -82643,7 +82643,7 @@
           },
 		  {
             "sentence": "Къэралыгъо '''шъхьа1'''",
-            "translation": "'''Independent''' free."
+            "translation": "'''Independent''' state."
           }
         ]
       },
@@ -82666,7 +82666,7 @@
       }
     ],
     "type": "noun",
-    "ipa": "ʂħaʔaːtənʁa"
+    "ipa": "ʂħaːʔa"
   },
   {
     "word": "щыпсэун",
@@ -124667,7 +124667,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to book; to fine (police)",
+        "meaning": "to book; to fine (police); to record the name and other details of a suspected offender and the offence for later judicial action",
         "examples": [
           {
             "sentence": "Хьэубытым '''утхэхьыщт''' ку псынк1эу уфымэ",
@@ -137195,7 +137195,7 @@
         ]
       }
     ],
-    "type": "к1ьэзэзын",
+    "shapsug": "к1ьэзэзын",
     "type": "verb",
     "ipa": "t͡ʃʼazazən"
   },
