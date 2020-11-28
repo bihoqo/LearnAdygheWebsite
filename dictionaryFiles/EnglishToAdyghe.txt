@@ -10142,7 +10142,6 @@
   },
   {
     "to pull": "къудыин / къэкъудыин (to pull, to apply a force to (an object) so that it comes toward the person or thing applying the force); дэтхъын (to pull out from inside another object that can be opened); итхъын (to pull out from the ground or from inside something); икъудыик1ын / къикъудыик1ын (to pull something from inside something); ч1экъудыик1ын / къыч1экъудыик1ын (to pull something from under something); къэлъэшъун (to pull something to oneself, to gravitate something to oneself); хэтхъын (to pull or tear a portion out of something); пытхъын (to pull or tear off a part of something on the tip, to pull or tear off something attached, to pull a body part off); пычын (to pick a fruit or flower); дэлъэшъоен (to pull up); елъэшъохын / къелъэшъохын (to pull down, to gravitate downward); дэтхъын (to pull out from inside another object like a book); хэщын (to pull someone out of a certain situation); к1ырыун (to tug, to pull hard); хэдзын / къыхэдзын (to pull something out of a mass of gas or liquid)"
-    "to pull": "къудыин / къэкъудыин (to pull, to apply a force to (an object) so that it comes toward the person or thing applying the force); дэтхъын (to pull out from inside another object that can be opened); итхъын (to pull out from the ground or from inside something); икъудыик1ын / къикъудыик1ын (to pull something from inside something); ч1экъудыик1ын / къыч1экъудыик1ын (to pull something from under something); къэлъэшъун (to pull something to oneself, to gravitate something to oneself); хэтхъын (to pull or tear a portion out of something); пытхъын (to pull or tear off a part of something on the tip, to pull or tear off something attached, to pull a body part off); пычын (to pick a fruit or flower); дэлъэшъоен (to pull up); елъэшъохын / къелъэшъохын (to pull down, to gravitate downward); дэтхъын (to pull out from inside another object like a book); хэщын (to pull someone out of a certain situation); к1ырыун (to tug, to pull hard); хэдзын / къыхэдзын (to pull something out of a mass of gas or liquid)"
   },
   {
     "to gravitate": "къэлъэшъун (to pull to oneself); елъэшъохын / къелъэшъохын (to pull down, to gravitate downward)"
@@ -14972,7 +14971,7 @@
     "slap": "нэпэшъоутын / нэпэшъофау (face slap); нэгушъоутын (cheek slap); нэк1ушъоутын нэгушъоутын (cheek slap); нэгушъофау нэгушъоутын (cheek slap); нэк1ушъофау (cheek slap); (Shapsug) дыйшъоутын (back of the neck slap)"
   },
   {
-    "to slap": "нэпэон (to slap someone's face); нэпэшъоон (to slap someone's face); нэпэшъоутын етын (to slap someone's face); нэгушъоон (to slap someone's cheek); нэк1ушъоон (to slap someone's cheek); нэгушъоутын етын (to slap someone's cheek); нэк1ушъоутын етын (to slap someone's cheek); (Shapsug) дыйшъоутын етын / дыйшъо дэон; пшъэбы дэон (to slap the back of the neck)"
+    "to slap": "нэпэон (to slap someone's face); нэпэшъоон (to slap someone's face); нэпэшъоутын етын (to slap someone's face); нэгушъоон (to slap someone's cheek); нэк1ушъоон (to slap someone's cheek); нэгушъоутын етын (to slap someone's cheek); нэк1ушъоутын етын (to slap someone's cheek); дыйшъоутын етын / дыйшъо дэон (Shapsug); пшъэбы дэон (to slap the back of the neck)"
   },
   {
     "to clap": "1эгу теон; 1эгу фытеон (to clap for)"
