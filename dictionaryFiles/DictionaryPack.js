@@ -54,7 +54,7 @@
         "meaning": "state (a condition; a set of circumstances applying at any given time)",
         "examples": [
           {
-            "sentence": "'Ом |изытет| 1ае",
+            "sentence": "Ом |изытет| 1ае",
             "translation": "The weather's |state| is bad."
           }
         ]
