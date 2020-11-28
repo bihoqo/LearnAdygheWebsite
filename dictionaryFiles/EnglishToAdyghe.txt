@@ -2445,7 +2445,7 @@
     "there (invisible)": "адэ, ак1э, ау, (dialectal) а т1эк1ум"
   },
   {
-    "there": "адэ, ак1э, ау, (dialectal) а т1эк1ум; модэ, мок1э, моу, (dialectal) мо т1эк1ум; щы1эн (there is/are, there was/were, there exist)"
+    "there": "адэ, ак1э, ау, (dialectal) а т1эк1ум; модэ, мок1э, моу, (dialectal) мо т1эк1ум; щы1эн (there is, there are, there was, there were, there exist)"
   },
   {
     "there is": "щы1 (there is, there exist)"
@@ -5278,7 +5278,7 @@
     "snapped": "зэпык1ыгъ; зэш1ок1ыгъ"
   },
   {
-    "to tear off": "тетхъын (to tear off from above something); хэтхъын (to pull/tear a part/portion of something); пытхъын (to pull/tear off a part of something on the tip/edge, to pull/tear off something attached, to pull/tear a body part); зэпытхъын (to tear off from itself); ч1этхъын (to tear off from under something); пыутын (to break off due to a strong impact)"
+    "to tear off": "тетхъын (to tear off from above something); хэтхъын (to pull or tear a portion out of something); пытхъын (to pull or tear off a part of something on the tip, to pull or tear off something attached, to pull or tear a body part); зэпытхъын (to tear off from itself); ч1этхъын (to tear off from under something); пыутын (to break off due to a strong impact)"
   },
   {
     "to tear apart": "зэхэтхъын; цунтхъэн"
@@ -5290,7 +5290,7 @@
     "skull": "шъхьэкъупшъхьэ"
   },
   {
-    "to rip away": "хэтхъын (to pull/tear a part/portion of something); пытхъын (to pull/tear off a part of something on the tip/edge, to pull/tear off something attached, to pull/tear a body part)"
+    "to rip away": "хэтхъын (to pull or tear a portion out of something); пытхъын (to pull or tear off a part of something on the tip, to pull or tear off something attached, to pull or tear a body part)"
   },
   {
     "ripped": "хэтхъыгъэ"
@@ -5317,7 +5317,7 @@
     "to break off": "1утэкъун; пыутын (to break off a part from; to rip off a part from; to tear off a part from); зэпыутын (to break off from itself)"
   },
   {
-    "to tear": "чэтхъэн (to tear a paper); пыутын (to break off a part from, to rip off a part from, to tear off a part from); цунтхъэн (to tear part); тетхъын (to peel off from, to tear off from); хэтхъын (to pull/tear a part/portion of something); пытхъын (to pull/tear off a part of something on the tip/edge, to pull/tear off something attached, to pull/tear a body part); зэхэтхъын (to tear apart); зэтетхъын (to tear from above each other) зэпытхъын (to tear off from itself); къыпышъунк1ык1ын; 1утхъын (to tear off); зэхэгъэтэкъун (to tear down and collapse)"
+    "to tear": "чэтхъэн (to tear a paper); пыутын (to break off a part from, to rip off a part from, to tear off a part from); цунтхъэн (to tear part); тетхъын (to peel off from, to tear off from); хэтхъын (to pull or tear a portion out of something); пытхъын (to pull or tear off a part of something on the tip to pull or tear off something attached, to pull or tear a body part); зэхэтхъын (to tear apart); зэтетхъын (to tear from above each other) зэпытхъын (to tear off from itself); къыпышъунк1ык1ын; 1утхъын (to tear off); зэхэгъэтэкъун (to tear down and collapse)"
   },
   {
     "nothing but": "зак1"
@@ -7867,19 +7867,19 @@
     "to dance": "къэшъон; къеш1эн; уджын"
   },
   {
-    "to tie": "пхын (to tie); пыпхэн (to tie something to); зэтепхэн (to tie up someone or something with a rope, wire, string, etc); егъэпхын (to tie something to something); зэк1оц1ыпхэн (to tie together, to tangle, to intertwine); зэкъодзэн (to tie up, to fasten); к1эпхэн (to tie under something); зэк1оц1ыпхагъ / зэкъолъэдагъ / зэкъодзагъ (ropes or shoe laces to be tied together, tangled or intertwined)"
+    "to tie": "пхын (to tie); пыпхэн (to tie something to); зэтепхэн (to tie up someone or something with a rope, wire, string, etc); егъэпхын (to tie something to something); зэкъодзэн (to tie up, to fasten); к1эпхэн (to tie under something); зэк1оц1ыпхэн (to tied within each other, to tangled or intertwined)"
   },
   {
-    "tangled": "зэк1оц1ыпхагъ / зэкъолъэдагъ / зэкъодзагъ (ropes or shoe laces to be tied together, tangled and intertwined)"
+    "tangled": "зэк1оц1ыпхагъ (tied within each other, tangled or intertwined); зэкъолъэдагъ (ropes or shoe laces to be tied together, tangled or intertwined); зэкъодзагъ (tangled or intertwined)"
   },
   {
-    "intertwined": "зэк1оц1ыпхагъ / зэкъолъэдагъ / зэкъодзагъ (ropes or shoe laces to be tied together, tangled and intertwined)"
+    "intertwined": "зэк1оц1ыпхагъ (tied within each other, tangled or intertwined); зэкъолъэдагъ (ropes or shoe laces to be tied together, tangled or intertwined); зэкъодзагъ (tangled or intertwined)"
   },
   {
-    "to tangle": "зэк1оц1ыпхэн / зэкъолъэдэн / зэкъодзэн (to make a rope/lace tangled, to tangle, to make a rope/lace mixed together or intertwined); зэкъогъэлъэдэн / зэхэлъэшъон / зэхэлъэхъыхьан (to entangl); зэрыгъэлъэдэн; зэхэнэн / зэш1онэн / зэк1оц1энэн (to get entangled, to get twisted or interweaved in such a manner as not to be easily separated); зэхэгъэнэн / зэш1огъэнэн / зэк1оц1эгъэнэн (to entangl, to twist or interweave in such a manner as not to be easily separated)"
+    "to tangle": "зэк1оц1ыпхэн (to tied within each other, to tangled or intertwined); зэкъолъэдэн (to tangled or intertwined); зэкъодзэн (to tangled or intertwined); зэкъогъэлъэдэн (to entangle); зэхэлъэшъон (to entangle); зэхэлъэхъыхьан (to entangle); зэрыгъэлъэдэн; зэш1онэн; зэхэнэн / зэк1оц1энэн (to get entangled, to get twisted or interweaved in such a manner as not to be easily separated); зэхэгъэнэн / зэк1оц1эгъэнэн (to make something stuck within each other); зэш1огъэнэн (to entangle, to twist or interweave in such a manner as not to be easily separated)"
   },
   {
-    "to intertwine": "зэк1оц1ыпхэн / зэкъолъэдэн / зэкъодзэн (to make a rope/lace tangled, to tangle, to make a rope/lace mixed together or intertwined); зэхэнэн / зэш1онэн / зэк1оц1энэн (to get entangled, to get twisted or interweaved in such a manner as not to be easily separated); зэхэгъэнэн / зэш1огъэнэн / зэк1оц1эгъэнэн (to entangl, to twist or interweave in such a manner as not to be easily separated)"
+    "to intertwine": "зэк1оц1ыпхэн (to tied within each other, to tangled or intertwined); зэкъолъэдэн (to tangled or intertwined); зэкъодзэн (to tangled or intertwined); зэш1онэн; зэхэнэн / зэк1оц1энэн (to get entangled, to get twisted or interweaved in such a manner as not to be easily separated); зэхэгъэнэн / зэк1оц1эгъэнэн (to make something stuck within each other); зэш1огъэнэн (to entangle, to twist or interweave in such a manner as not to be easily separated)"
   },
   {
     "to tan": "гъэтэджын (to tan (leather, hides))"
@@ -8536,7 +8536,7 @@
     "to get stuck": "дэнэн / къыдэнэн (to get stuck between); хэнэн / къыхэнэн (to get stuck in a company, bushes, forest, liquid, gas or solid); тенэн / къытенэн (to get stuck on above something); инэн / къинэн (to get stuck inside something); ч1энэн / къыч1энэн (to get stuck under something); пынэн / къыпынэн (to get stuck and undetachable); дэп1ыт1эн (to get stuck and squeezed in a narrow place or hole); ш1онэн"
   },
   {
-    "to stick": "дэгъэнэн (to stick between); хэгъэнэн (to make someone stuck in a company, bushes, forest, liquid, gas or solid); тегъэнэн (to stick on above something); игъэнэн (to stick inside something); ч1эгъэнэн (to stick under something); тепк1эн (to get stick/glued on); тегъэпк1эн (to stick/glue something on something); ч1эпк1эн (to get glued under); ч1эгъэпк1эн (to stick/glue something under something); ипк1эн (to get stick/glued inside); игъэпк1эн (to stick/glue something inside something); пыпк1эн (to get stick/glued on the surface of an object); пыгъэпк1эн (to stick/glue something on the surface of an object); дэпк1эн (to get stick/glued inside another object); дэгъэпк1эн (to stick/glue something inside another object); естыл1эн (to stick to the hot surface as a result of burning)"
+    "to stick": "дэгъэнэн (to stick between); хэгъэнэн (to make someone stuck in a company, bushes, forest, liquid, gas or solid); тегъэнэн (to stick on above something); игъэнэн (to stick inside something); ч1эгъэнэн (to stick under something); тепк1эн (to get stick or glued on); тегъэпк1эн (to stick or glue something on something); ч1эпк1эн (to get glued under); ч1эгъэпк1эн (to stick or glue something under something); ипк1эн (to get stick or glued inside); игъэпк1эн (to stick or glue something inside something); пыпк1эн (to get stick or glued on the surface of an object); пыгъэпк1эн (to stick or glue something on the surface of an object); дэпк1эн (to get stick or glued inside another object); дэгъэпк1эн (to stick or glue something inside another object); естыл1эн (to stick to the hot surface as a result of burning)"
   },
   {
     "to jam": "дэгъэнэн (to jam between); хэгъэнэн (to jam something in an area with liquid, gas or solid); тегъэнэн (to jam on above something); игъэнэн (to jam inside something); ч1эгъэнэн (to jam under something)"
@@ -9418,7 +9418,7 @@
     "to distort": "гъэ1онт1эн; уфэн; 1онт1агъэ ш1ын; тэрэзыджэу къэгъэлъэгъон"
   },
   {
-    "to twist": "щын (to be twisted); гъэщын (to twist something); гъэ1онт1эн (to bend, to curve, to crook); зэхэнэн / зэш1онэн / зэк1оц1энэн (to get twisted together into each other); зэхэгъэнэн / зэш1огъэнэн / зэк1оц1эгъэнэн (to twist together into each other)"
+    "to twist": "щын (to be twisted); гъэщын (to twist something); гъэ1онт1эн (to bend, to curve, to crook); зэхэнэн / зэк1оц1энэн (to get twisted together into each other); зэхэгъэнэн / зэк1оц1эгъэнэн (to make something stuck within each other); зэш1огъэнэн (to entangle, to twist or interweave in such a manner as not to be easily separated)"
   },
   {
     "bent": "1онт1агъ"
@@ -9640,7 +9640,7 @@
     "to lid": "теп1он (to close/cover a container)"
   },
   {
-    "to cover": "хъумэн (to cover for protection); бгъэн (to thatch); техъон (to lay to cover); теп1он (to close a container); ч1эухъумэн / ч1эухъубэн / ч1эгъэсэен (to cover something, to bury something); теухъумэн (to cover on something); иухъумэн (to cover inside something)"
+    "to cover": "хъумэн (to cover for protection); бгъэн (to thatch); техъон (to lay to cover); теп1он (to close a container); ч1эухъумэн (to cover something, to bury something); ч1эухъубэн (to cover something, to bury something); ч1эгъэсэен (to cover something, to bury something); теухъумэн (to cover on something); иухъумэн (to cover inside something)"
   },
   {
     "to pick": "хэхын / къыхэхын; ичын (to pick out a plant out of the ground); пычын (to pull off fruit or flower); хэдэн (to pick something out of); щыпын / къэщыпын (to pick up stuff/people usaully from the ground); тещыпык1ын (to pick up stuff from)"
@@ -10015,7 +10015,7 @@
     "to fly away": "1убыбын; 1убыбык1ын"
   },
   {
-    "to fly": "быбын / лъэтэн; дэбыбыен (to fly up); ебыбэхын (to fly down); гъэбыбын (to make something fly); лъыбыбын (to fly toward); дэгъэбыбэен (to make something fly up); 1убыбэн (to fly near something); 1убыбын (to fly away from something); тебыбэн (to fly above something); тебыбын / къытебыбын (to fly off from above something); ч1эбыбэн (to fly under something); ч1эбыбын / къыч1эбыбын (to fly from under something); ибыбэн (to fly inside something); ибыбын / къибыбын (to fly outside); къобыбэн (to fly behind something); къобыбын / къыкъобыбын (to fly from behind something); гобыбэн / бгъодэбыбэн (to fly besides something); гобыбын / бгъодэбыбын / къыгобыбын / къыбгъодэбыбын (to fly from besides something); хэбыбэн (to fly through, to fly to an area with gas or liquid, to fly into the forest); хэбыбын / къыхэбыбын (to fly from the forest, to fly from an area with gas or liquid); пыбыбэн (to fly on a branch); пыбыбэн / къыпыбыбын (to fly off from a branch); жэхэбыбэн (to fly into/against someone or something); зэк1эбыбэн (to fly backword); блэбыбын (to fly pass); ибыбык1ын / къибыбык1ын (to fly out from inside something); тебыбык1ын / къытебыбык1ын (to fly off from); ч1эбыбык1ын / къыч1эбыбык1ын (to fly away from under); хэбыбык1ын / къыхэбыбык1ын (to fly away from among); ибыбыхьан (to fly around inside something); ибыбыхьан (to fly around inside something); тебыбыхьан (to fly around above something)"
+    "to fly": "быбын / лъэтэн; дэбыбыен (to fly up); ебыбэхын (to fly down); гъэбыбын (to make something fly); лъыбыбын (to fly toward); дэгъэбыбэен (to make something fly up); 1убыбэн (to fly near something); 1убыбын (to fly away from something); тебыбэн (to fly above something); тебыбын / къытебыбын (to fly off from above something); ч1эбыбэн (to fly under something); ч1эбыбын / къыч1эбыбын (to fly from under something); ибыбэн (to fly inside something); ибыбын / къибыбын (to fly outside); къобыбэн (to fly behind something); къобыбын / къыкъобыбын (to fly from behind something); гобыбэн / бгъодэбыбэн (to fly besides something); бгъодэбыбын / къыбгъодэбыбын (to fly from besides something); гобыбын / къыгобыбын (to fly from besides something); хэбыбэн (to fly through, to fly to an area with gas or liquid, to fly into the forest); хэбыбын / къыхэбыбын (to fly from the forest, to fly from an area with gas or liquid); пыбыбэн (to fly on a branch); пыбыбэн / къыпыбыбын (to fly off from a branch); жэхэбыбэн (to fly into/against someone or something); зэк1эбыбэн (to fly backword); блэбыбын (to fly pass); ибыбык1ын / къибыбык1ын (to fly out from inside something); тебыбык1ын / къытебыбык1ын (to fly off from); ч1эбыбык1ын / къыч1эбыбык1ын (to fly away from under); хэбыбык1ын / къыхэбыбык1ын (to fly away from among); ибыбыхьан (to fly around inside something); ибыбыхьан (to fly around inside something); тебыбыхьан (to fly around above something)"
   },
   {
     "to fly up": "дэбыбэен (to fly up); дэгъэбыбэен (to make something fly up)"
@@ -10141,7 +10141,8 @@
     "pulled": "ичыгъэ; итхъыгъэ"
   },
   {
-    "to pull": "къудыин / къэкъудыин (to pull, to apply a force to (an object) so that it comes toward the person or thing applying the force); дэтхъын (to pull out from inside another object that can be opened); итхъын (to pull out from the ground or from inside something); икъудыик1ын / къикъудыик1ын (to pull something from inside something); ч1экъудыик1ын / къыч1экъудыик1ын (to pull something from under something); къэлъэшъун (to pull something to oneself, to gravitate something to oneself); хэтхъын (to pull/tear a part/portion of something); пытхъын (to pull/tear off a part of something on the tip/edge, to pull/tear off something attached, to pull a body part off); пычын (to pick a fruit or flower); дэлъэшъоен (to pull up); елъэшъохын / къелъэшъохын (to pull down, to gravitate downward); дэтхъын (to pull out from inside another object like a book); хэщын (to pull someone out of a certain situation); к1ырыун (to tug, to pull hard); хэдзын / къыхэдзын (to pull something out of a mass of gas or liquid)"
+    "to pull": "къудыин / къэкъудыин (to pull, to apply a force to (an object) so that it comes toward the person or thing applying the force); дэтхъын (to pull out from inside another object that can be opened); итхъын (to pull out from the ground or from inside something); икъудыик1ын / къикъудыик1ын (to pull something from inside something); ч1экъудыик1ын / къыч1экъудыик1ын (to pull something from under something); къэлъэшъун (to pull something to oneself, to gravitate something to oneself); хэтхъын (to pull or tear a portion out of something); пытхъын (to pull or tear off a part of something on the tip, to pull or tear off something attached, to pull a body part off); пычын (to pick a fruit or flower); дэлъэшъоен (to pull up); елъэшъохын / къелъэшъохын (to pull down, to gravitate downward); дэтхъын (to pull out from inside another object like a book); хэщын (to pull someone out of a certain situation); к1ырыун (to tug, to pull hard); хэдзын / къыхэдзын (to pull something out of a mass of gas or liquid)"
+    "to pull": "къудыин / къэкъудыин (to pull, to apply a force to (an object) so that it comes toward the person or thing applying the force); дэтхъын (to pull out from inside another object that can be opened); итхъын (to pull out from the ground or from inside something); икъудыик1ын / къикъудыик1ын (to pull something from inside something); ч1экъудыик1ын / къыч1экъудыик1ын (to pull something from under something); къэлъэшъун (to pull something to oneself, to gravitate something to oneself); хэтхъын (to pull or tear a portion out of something); пытхъын (to pull or tear off a part of something on the tip, to pull or tear off something attached, to pull a body part off); пычын (to pick a fruit or flower); дэлъэшъоен (to pull up); елъэшъохын / къелъэшъохын (to pull down, to gravitate downward); дэтхъын (to pull out from inside another object like a book); хэщын (to pull someone out of a certain situation); к1ырыун (to tug, to pull hard); хэдзын / къыхэдзын (to pull something out of a mass of gas or liquid)"
   },
   {
     "to gravitate": "къэлъэшъун (to pull to oneself); елъэшъохын / къелъэшъохын (to pull down, to gravitate downward)"
@@ -11608,7 +11609,7 @@
     "uneven": "пхъашэ"
   },
   {
-    "to entangle": "зэкъогъэлъэдэн; зэхэлъэшъон; зэхэлъэхъыхьан; зэрыгъэлъэдэн; зэхэнэн / зэш1онэн / зэк1оц1энэн (to get entangled, to get twisted or interweaved in such a manner as not to be easily separated); зэхэгъэнэн / зэш1огъэнэн / зэк1оц1эгъэнэн (to entangl, to twist or interweave in such a manner as not to be easily separated)"
+    "to entangle": "зэкъогъэлъэдэн; зэхэлъэшъон; зэхэлъэхъыхьан; зэрыгъэлъэдэн; зэхэнэн / зэк1оц1энэн; зэш1онэн (to get entangled, to get twisted or interweaved in such a manner as not to be easily separated); зэхэгъэнэн / зэк1оц1эгъэнэн (to make something stuck within each other); зэш1огъэнэн (to entangle, to twist or interweave in such a manner as not to be easily separated)"
   },
   {
     "to wake up": "къэущын; къэущыжьын; къэгъэущын (to awake someone up); къэгъэущыжьын (to awake someone up); къыхэущык1ын (to wake up from a dream)"
@@ -12001,7 +12002,7 @@
     "to decipher": "зэш1охын"
   },
   {
-    "to forgive": "фэгъэгъун; еш1ужьын (to make peace with someone); зэш1ужьын (to make peace with each other)"
+    "to forgive": "фэгъэгъун; еш1ужьын (to make peace with someone); зэш1ужьын (to make peace with each other); лъэхэнэн (to spare or forgive someone from a grudge, punishment or debt)"
   },
   {
     "to make peace": "еш1ужьын (to make peace with someone); зэш1ужьын (to make peace with each other)"
@@ -13519,16 +13520,16 @@
     "to sneeze": "псын / къэпсын; (Shapsug) ц1этхын; (Shapsug) тец1этхэн (to sneeze on)"
   },
   {
-    "to worry": "гумэк1ын (to feel worried / anxious / uneasy); фэгумэк1ын (to worry about someone or something); гъэгумэк1ын (to worry someone); (dialectal) фэгу1эн (to worry for someone); (dialectal) гу1эн; (dialectal) гъэгу1эн (to worry someone); (dialectal) тегу1эхьан (to worry about)"
+    "to worry": "гумэк1ын (to feel worried; to feel anxious; to feel uneasy); фэгумэк1ын (to worry about someone or something); гъэгумэк1ын (to worry someone); (dialectal) фэгу1эн (to worry for someone); (dialectal) гу1эн; (dialectal) гъэгу1эн (to worry someone); (dialectal) тегу1эхьан (to worry about)"
   },
   {
-    "to be anxious": "гумэк1ын (to feel worried / anxious / uneasy); фэгумэк1ын (to be anxious about someone or something); гъэгумэк1ын (to make someone anxious)"
+    "to be anxious": "гумэк1ын (to feel worried, to feel anxious, to feel uneasy); фэгумэк1ын (to be anxious about someone or something); гъэгумэк1ын (to make someone anxious)"
   },
   {
-    "to be uneasy": "гумэк1ын (to feel worried / anxious / uneasy); фэгумэк1ын (to be uneasy about someone or something); гъэгумэк1ын (to make someone uneasy)"
+    "to be uneasy": "гумэк1ын (to feel worried, to feel anxious, to feel uneasy); фэгумэк1ын (to be uneasy about someone or something); гъэгумэк1ын (to make someone uneasy)"
   },
   {
-    "to be worried": "гумэк1ын (to feel worried / anxious / uneasy); фэгумэк1ын (to be anxious about someone or something); гъэгумэк1ын (to make someone anxious)"
+    "to be worried": "гумэк1ын (to feel worried, to feel anxious, to feel uneasy); фэгумэк1ын (to be anxious about someone or something); гъэгумэк1ын (to make someone anxious)"
   },
   {
     "anxiety": "гумэк1ыгъу"
@@ -13900,7 +13901,7 @@
     "foxskin": "бэджэшъо"
   },
   {
-    "to talk": "гущы1эн (to be talking); (Kabardian) псэлъэн (to be talking); дэгущы1эн (to talk with someone); хэгущы1ыхьан (to interrupt or break into a conversation by speaking, to speak among other people); тегущы1эн (to talk about someone or something); тегущы1эхьан (to have a full conversation/discussion about something); къыхэгущы1эк1ын (to talk from among other people); къэбар къэ1отэн / къэбар къэпчъын (to have a casual conversation)"
+    "to talk": "гущы1эн (to be talking); (Kabardian) псэлъэн (to be talking); дэгущы1эн (to talk with someone); хэгущы1ыхьан (to interrupt or break into a conversation by speaking, to speak among other people); тегущы1эн (to talk about someone or something); тегущы1эхьан (to have a talk about something or someone); къыхэгущы1эк1ын (to talk from among other people); къэбар къэ1отэн / къэбар къэпчъын (to have a casual conversation)"
   },
   {
     "box": "къутэ; пхъуантэ; къэмлан; (Shapsug) сандыкъ"
@@ -14968,10 +14969,10 @@
     "to find a romantic partner.": "хэгъэщын"
   },
   {
-    "slap": "нэпэшъоутын / нэпэшъофау (face slap); нэгушъоутын / нэк1ушъоутын / нэгушъофау / нэк1ушъофау (cheek slap); (Shapsug) дыйшъоутын (back of the neck slap)"
+    "slap": "нэпэшъоутын / нэпэшъофау (face slap); нэгушъоутын (cheek slap); нэк1ушъоутын нэгушъоутын (cheek slap); нэгушъофау нэгушъоутын (cheek slap); нэк1ушъофау (cheek slap); (Shapsug) дыйшъоутын (back of the neck slap)"
   },
   {
-    "to slap": "нэпэон / нэпэшъоон / нэпэшъоутын етын (to slap someone's face); нэгушъоон / нэк1ушъоон / нэгушъоутын етын / нэк1ушъоутын етын (to slap someone's cheek); (Shapsug) дыйшъоутын етын / дыйшъо дэон; пшъэбы дэон (to slap the back of the neck)"
+    "to slap": "нэпэон (to slap someone's face); нэпэшъоон (to slap someone's face); нэпэшъоутын етын (to slap someone's face); нэгушъоон (to slap someone's cheek); нэк1ушъоон (to slap someone's cheek); нэгушъоутын етын (to slap someone's cheek); нэк1ушъоутын етын (to slap someone's cheek); (Shapsug) дыйшъоутын етын / дыйшъо дэон; пшъэбы дэон (to slap the back of the neck)"
   },
   {
     "to clap": "1эгу теон; 1эгу фытеон (to clap for)"
@@ -16666,7 +16667,7 @@
     "explosives": "лагъымэ"
   },
   {
-    "to bury": "(most common) ч1элъхьан (to bury under something, to put something under something);  ч1эухъумэн / ч1эухъубэн / ч1эгъэсэен (to cover something, to bury something); (offensive) ч1эт1эн (to bury, to plant under); (some dialects) гъэт1ылъын"
+    "to bury": "(most common) ч1элъхьан (to bury under something, to put something under something); ч1эухъумэн (to cover something, to bury something); ч1эухъубэн (to cover something, to bury something); ч1эгъэсэен (to cover something, to bury something); (offensive) ч1эт1эн (to bury, to plant under); (some dialects) гъэт1ылъын"
   },
   {
     "until now": "джынэс; (dialecal) иджынэс"
@@ -17110,7 +17111,7 @@
     "to distrust": "цыхьэ мыш1ын; цыхьэ фэмыш1ын (to distrust someone)"
   },
   {
-    "to spare": "шъхьасын (to have mercy for); гъэш1он (to spare for the future); лъэхэнэн (to spare/forgive someone from a grudge, punishment or debt); гук1эгъу фэлъэгъун (to show mercy for)"
+    "to spare": "шъхьасын (to have mercy for); гъэш1он (to spare for the future); лъэхэнэн (to spare or forgive someone from a grudge, punishment or debt); гук1эгъу фэлъэгъун (to show mercy for)"
   },
   {
     "to have mercy for": "шъхьасын; гук1эгъу фэлъэгъун (to show mercy for)"
@@ -17305,7 +17306,7 @@
     "to quiet": "ушъэфын (to silence, to make someone or something silent); зыушъэфын (to silence oneself, to keep silent, to be silent); гъэушъэфын (to make someone quiet)"
   },
   {
-    "to calm": "быяун / самбырын (to calm down); гъэбыяун / гъэсамбырын / гъэрэхьатын (to calm someone, to ease someone); зэгъэн (to settle down due to calmness)"
+    "to calm": "быяун / самбырын (to calm down); гъэбыяун (to calm someone, to ease someone); гъэсамбырын (to calm someone, to ease someone); гъэрэхьатын (to make someone relaxed); зэгъэн (to settle down due to calmness)"
   },
   {
     "to cope": "зэгъэн; езэгъын (to deal okayly with, to deal effectively, to cope with); хэзэгъэн (to cope in a group or a specific environemnt); изэгъэн (to cope inside something)"
@@ -19150,7 +19151,7 @@
     "cloud": "ошъуапщэ; пщэ (rain cloud, dark heavy cloud)"
   },
   {
-    "stuck": "зэхэгъэнагъ (stuck into each other); зэк1оц1ыпхагъ / зэкъолъэдагъ / зэкъодзагъ (ropes or shoe laces to be tied together, tangled)"
+    "stuck": "зэхэгъэнагъ (stuck into each other); зэк1оц1ыпхагъ (tied within each other, tangled); зэкъолъэдагъ (ropes or shoe laces to be tied together, tangled); зэкъодзагъ (ropes or shoe laces to be tied together, tangled)"
   },
   {
     "to produce": "ш1ын"
@@ -19390,7 +19391,7 @@
     "dictation": "1орытх (the process of speaking for someone else to write down the words)"
   },
   {
-    "to calm down": "быяун / самбырын; гъэбыяун / гъэсамбырын (to calm down someone)"
+    "to calm down": "быяун / самбырын; гъэбыяун (to calm someone, to ease someone); гъэсамбырын (to calm someone, to ease someone); гъэрэхьатын (to make someone relaxed)"
   },
   {
     "puddle": "лъэбанэ"
