@@ -4155,7 +4155,7 @@
   {
     "word": "к1э",
     "lang": "Adyghe",
-	"etymology": "From Proto-Circassian кӏьэ [kʲʼa] \"tail\" and from the Proto-Circassian кӏэ [t͡ʃʼa] \"new\".",
+	"etymology": "From Proto-Circassian к1ьэ [kʲʼa] \"tail\" and from the Proto-Circassian к1э [t͡ʃʼa] \"new\".",
     "definitions": [
       {
         "meaning": "tail",
@@ -4222,7 +4222,7 @@
       }
     ],
     "kabardian": "щ1э (new); к1э (tail)",
-    "shapsug": "кӏьэ (tail); кӏэ (new)",
+    "shapsug": "к1ьэ (tail); к1э (new)",
     "type": "noun",
     "ipa": "t͡ʃʼa"
   },
@@ -18175,7 +18175,7 @@
         "meaning": "smell",
         "examples": [
           {
-            "sentence": "Пшъашъэм къэгъагъэмэ '''ямэ''' шӏу елъэгъу",
+            "sentence": "Пшъашъэм къэгъагъэмэ '''ямэ''' ш1у елъэгъу",
             "translation": "The girl loves the flower's '''smell'''."
           },
 		  {
@@ -26704,11 +26704,11 @@
             "translation": "'''Oi!''' I got high [grade] on the exam."
           },
 		  {
-            "sentence": "'''Кӏэлэ!''', джы сыд уш1эжьыщтыр",
+            "sentence": "'''К1элэ!''', джы сыд уш1эжьыщтыр",
             "translation": "'''Oh man!''', now what are you gonna do?"
           },
           {
-            "sentence": "'''Кӏэлэ!''', к1алэр ук1ык1аеу уук1ыщт",
+            "sentence": "'''К1элэ!''', к1алэр ук1ык1аеу уук1ыщт",
             "translation": "'''Oh man!''', the boy is going to kill you [brutally]."
           }
         ]
@@ -49914,7 +49914,7 @@
         "meaning": "to maintain",
         "examples": [
           {
-            "sentence": "Л1ым фабрикэр изакъоу '''ыӏыгъ'''",
+            "sentence": "Л1ым фабрикэр изакъоу '''ы1ыгъ'''",
             "translation": "The man '''maintains''' the factory alone"
           }
         ]
@@ -86927,7 +86927,7 @@
             "translation": "'''They buried''' the corpse under the dirt."
           },
 		  {
-            "sentence": "Унэр къызэхафи ис цӏыфыхэр '''ч1игъэсэягъэх'''",
+            "sentence": "Унэр къызэхафи ис ц1ыфыхэр '''ч1игъэсэягъэх'''",
             "translation": "The house collapsed and '''buried''' the people in it."
           }
         ]
@@ -86981,7 +86981,7 @@
             "translation": "'''They buried''' the corpse under the dirt."
           },
 		  {
-            "sentence": "Унэр къызэхафи ис цӏыфыхэр '''ч1иухъумагъэх'''",
+            "sentence": "Унэр къызэхафи ис ц1ыфыхэр '''ч1иухъумагъэх'''",
             "translation": "The house collapsed and '''buried''' the people in it."
           }
         ]
@@ -89688,7 +89688,7 @@
             "translation": "The boy '''slides down''' the water from the road."
           },
           {
-            "sentence": "Кӏалэм мыжъор ӏуашъхьэм '''регъэчъэхы'''",
+            "sentence": "К1алэм мыжъор 1уашъхьэм '''регъэчъэхы'''",
             "translation": "The boy '''is sliding''' the rock off the hill"
           },
           {
@@ -91030,7 +91030,7 @@
             "translation": "The money (s)he earned '''is appropriate'''."
           },
 		  {
-            "sentence": "Ц1ыфыхэр зэрэкъыпдэзекӏохэрэр '''къыпфэшъуаш'''",
+            "sentence": "Ц1ыфыхэр зэрэкъыпдэзек1охэрэр '''къыпфэшъуаш'''",
             "translation": "How people behave with you '''is appropriate'''."
           }
         ]
@@ -116767,7 +116767,7 @@
         "meaning": "to block; to seal",
         "examples": [
           {
-            "sentence": "Гъогур '''шъыбыгъэшъ''', ӏофым кумк1э сык1ошъущтэп",
+            "sentence": "Гъогур '''шъыбыгъэшъ''', 1офым кумк1э сык1ошъущтэп",
             "translation": "'''Because''' the road '''is blocked''', I cannot go to work with the car."
           },
 		  {
@@ -116783,7 +116783,7 @@
             "translation": "The road '''is blocked'''."
           },
           {
-            "sentence": "Трубэу чӏыгу чӏэгъым ч1элъыр '''шъыбыгъэ'''",
+            "sentence": "Трубэу ч1ыгу ч1эгъым ч1элъыр '''шъыбыгъэ'''",
             "translation": "The pipe under the ground '''is sealed'''."
           }
         ]
@@ -129191,7 +129191,7 @@
             "translation": "The boy '''is standing under''' the tree."
           },
 		  {
-            "sentence": "Уцым ылъапсэ чӏыгу чӏэгъым '''ч1эт'''",
+            "sentence": "Уцым ылъапсэ ч1ыгу ч1эгъым '''ч1эт'''",
             "translation": "The plant's root '''is under''' the ground."
           },
 		  {
@@ -129253,7 +129253,7 @@
             "translation": "The woods '''are under''' the house."
           },
 		  {
-            "sentence": "Трубэу чӏыгу чӏэгъым '''ч1элъыр''' шъыбыгъэ",
+            "sentence": "Трубэу ч1ыгу ч1эгъым '''ч1элъыр''' шъыбыгъэ",
             "translation": "The pipe '''under''' the ground is sealed."
           }
         ]
