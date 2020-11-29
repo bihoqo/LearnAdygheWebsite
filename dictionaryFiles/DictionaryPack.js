@@ -31125,7 +31125,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to apply, to use",
+        "meaning": "to use; to utilize; to make good use of; to make the most of",
         "examples": []
       }
     ],
@@ -31145,7 +31145,7 @@
         "examples": []
       },
 	  {
-        "meaning": "to apply; to use; to make use of",
+        "meaning": "to apply; to use; to make use of; to utilize",
         "examples": [
           {
             "sentence": "Ш1эныгъэу и1эр |ыгъэфедэн|",
@@ -31162,6 +31162,10 @@
 		  {
             "sentence": "Кудэр гъэстыныпхъэу |агъэфедэ|",
             "translation": "|They make use of| oil as a fuel."
+          },
+		  {
+            "sentence": "1офш1эк1ак1эхэр |бгъэфедэн|",
+            "translation": "|To apply| new working methods."
           }
         ]
       }
@@ -110297,7 +110301,7 @@
             "translation": "It is not okay to |get envy|."
           },
           {
-            "sentence": "Л1ыр баий ц1ыфыхэр |къешхъуагъох|",
+            "sentence": "Л1ыр баети ц1ыфыхэр |къешхъуагъох|",
             "translation": "Because the man is rich, people |are envy of him|."
           },
           {
@@ -128415,6 +128419,10 @@
         "meaning": "to gather people/stuff together; to concentrate people/stuff together; to assemble",
         "examples": [
 		  {
+            "sentence": "Ц1ыфызэр |къызэхэугъуаех|, тыкъэшъощт",
+            "translation": "|Gather| the people, we will dance."
+          },
+		  {
             "sentence": "Пхъэнт1эк1ухэр |зэхэугъоежьых|",
             "translation": "|Gather| the chairs."
           },
@@ -128423,7 +128431,7 @@
             "translation": "|To gather| the hay."
           },
 		  {
-            "sentence": "Л1ым пхъэхэр |зэхэугъоий| унэ ахэмк1э зэхиш1ыхьагъ",
+            "sentence": "Л1ым пхъэхэр |зэхиугъуаехэзэ| унэ ахэмк1э зэхиш1ыхьагъ",
             "translation": "The man |collected| woods and built up a house with them."
           }
         ]
@@ -128453,7 +128461,7 @@
             "translation": "|To gather| the hay."
           },
 		  {
-            "sentence": "Л1ым пхъэхэр |зэк1эугъоий| унэ ахэмк1э зэхиш1ыхьагъ",
+            "sentence": "Л1ым пхъэхэр |зэк1иугъуаехэзэ| унэ ахэмк1э зэхиш1ыхьагъ",
             "translation": "The man |collected| woods and built up a house with them."
           }
         ]
