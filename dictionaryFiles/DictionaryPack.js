@@ -39010,6 +39010,14 @@
         "meaning": "few (in amount); small amount of",
         "examples": [
           {
+            "sentence": "К1алэм ахъщэ |мак1| ы1ыгъ",
+            "translation": "The boy has |few| money."
+          },
+		  {
+            "sentence": "К1алэм ахъщэу ы1ыгъыр ахъщэ |мак1|",
+            "translation": "The money the boy has is |few| money."
+          },
+		  {
             "sentence": "К1элэ |мак1| и1эр",
             "translation": "(S)he have |few| boys."
           },
@@ -49864,6 +49872,14 @@
         "meaning": "to hold; to keep",
         "examples": [
           {
+            "sentence": "К1алэм ахъщэ мак1 |ы1ыгъ|",
+            "translation": "The boy |has| few money."
+          },
+		  {
+            "sentence": "К1алэм ахъщэу |ы1ыгъыр| ахъщэ мак1",
+            "translation": "The money the boy |has| is few money."
+          },
+		  {
             "sentence": "1унк1ыбзэр |у1ыгъа|?",
             "translation": "|Do you hold| the key?"
           },
@@ -60049,8 +60065,20 @@
         "meaning": "to have",
         "examples": [
           {
-            "sentence": "Мые |уи1а?|",
-            "translation": "Do you |have| an apple."
+            "sentence": "К1алэм ахъщэ мак1 |и1эр|",
+            "translation": "The boy |has| few money."
+          },
+		  {
+            "sentence": "К1алэм ахъщэу |и1эр| ахъщэ мак1",
+            "translation": "The money the boy |has| is few money."
+          },
+		  {
+            "sentence": "1интернет |уи1а|?",
+            "translation": "Do you |have| internet?"
+          },
+		  {
+            "sentence": "Уатэ |шъуи1а|?",
+            "translation": "Do you |have| a hammer?"
           },
           {
             "sentence": "Сабыйхэр |уи1эха?|",
@@ -64533,8 +64561,12 @@
             "translation": "Bring something |different|."
           },
           {
-            "sentence": "Л1ым унэ шъхьаф |шъхьаф| и1",
+            "sentence": "Л1ым унэ |шъхьаф| и1",
             "translation": "The man has a |separate| house."
+          },
+          {
+            "sentence": "Л1ым унэу и1эр унэ |шъхьаф|",
+            "translation": "The house the man has is a |separate| house."
           },
           {
             "sentence": "Куджаныр унэ |шъхьафым| ис",
@@ -96136,7 +96168,7 @@
       }
     ],
     "type": "noun",
-    "ipa": "ʁʷama ʔaʃʷʼ"
+    "ipa": "ma ʔaʃʷʼ"
   },
   {
     "word": "1отэн",
@@ -101861,7 +101893,7 @@
       }
     ],
     "type": "verb",
-    "ipa": "ʃʷa hajt͡ʂən"
+    "ipa": "ʃʷa tajt͡ʂən"
   },
   {
     "word": "иупк1ын",
@@ -101891,7 +101923,7 @@
             "translation": "|Don't cut down| the big tree."
           },
           {
-            "sentence": "Зы чъыгы |исыупк1ыгъэ| ны1эп",
+            "sentence": "Зы чъыгы |исыупк1ыгъэр| ны1эп",
             "translation": "|I| only |cut down| one tree."
           }
         ]
@@ -116174,18 +116206,63 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "(added to verbs) on something",
-        "examples": [],
-        "tags": [
-          "added to verbs"
+        "meaning": "(added to verbs) on something; onto something",
+        "examples": [
+          {
+            "sentence": "Тхылъыр 1анэм |те|лъ",
+            "translation": "The book lying |on| the table."
+          },
+		  {
+            "sentence": "К1алэр тхылъып1эм |те|тхэ",
+            "translation": "The boy is writing |on| the paper."
+          },
+		  {
+            "sentence": "К1алэр 1анэм |те|пк1э",
+            "translation": "The boy is jumping |on| the table."
+          },
+		  {
+            "sentence": "К1алэм мыжъор унашъхьэм |те|дзагъ",
+            "translation": "The boy threw the rock |onto| the roof."
+          },
+		  {
+            "sentence": "К1алэр джэхашъом |те|ужъунтхэ",
+            "translation": "The boy is spitting |onto| the floor."
+          },
+		  {
+            "sentence": "Апсыр джэхашъом |те|фагъ",
+            "translation": "The glass fell |on| the floor."
+          }
+        ]
+      },
+	  {
+        "meaning": "(added to verbs) upon",
+        "examples": [
+          {
+            "sentence": "К1алэр ащ |те|ужъунтхэ",
+            "translation": "The boy is spitting |upon| him."
+          },
+		  {
+            "sentence": "К1алэм мыжъор чъыгым |те|дзагъ",
+            "translation": "The boy threw the rock |upon| the roof."
+          }
         ]
       },
       {
         "meaning": "(added to verbs) on the surface of something",
-        "examples": [],
-        "tags": [
-          "added to verbs"
+        "examples": [
+          {
+            "sentence": "Хым къухьэр |те|т",
+            "translation": "The ship is |on the surface of| the sea."
+          },
+		  {
+            "sentence": "К1алэр уатэк1э 1анэм |те|уагъ",
+            "translation": "The boy hit |the surface of| the table with a hammer."
+          }
         ]
+      },
+      {
+        "meaning": "(added to verbs) above something",
+        "examples": []
       }
     ],
     "type": "prefix",
@@ -116197,10 +116274,7 @@
     "definitions": [
       {
         "meaning": "(added to verbs) under something",
-        "examples": [],
-        "tags": [
-          "added to verbs"
-        ]
+        "examples": []
       }
     ],
     "type": "prefix",
@@ -116212,24 +116286,15 @@
     "definitions": [
       {
         "meaning": "(added to verbs) inside another object (that can be opened)",
-        "examples": [],
-        "tags": [
-          "added to verbs"
-        ]
+        "examples": []
       },
       {
         "meaning": "(added to verbs) on to a defined area",
-        "examples": [],
-        "tags": [
-          "added to verbs"
-        ]
+        "examples": []
       },
       {
         "meaning": "(added to verbs) between",
-        "examples": [],
-        "tags": [
-          "added to verbs"
-        ]
+        "examples": []
       }
     ],
     "type": "prefix",
@@ -116241,17 +116306,15 @@
     "definitions": [
       {
         "meaning": "(added to verbs) attached",
-        "examples": [],
-        "tags": [
-          "added to verbs"
-        ]
+        "examples": []
       },
       {
         "meaning": "(added to verbs) hanged",
-        "examples": [],
-        "tags": [
-          "added to verbs"
-        ]
+        "examples": []
+      },
+      {
+        "meaning": "(added to verbs) on the tip of something; onto the tip of something",
+        "examples": []
       }
     ],
     "type": "prefix",
@@ -116263,10 +116326,7 @@
     "definitions": [
       {
         "meaning": "(added to verbs) aside, besides",
-        "examples": [],
-        "tags": [
-          "added to verbs"
-        ]
+        "examples": []
       }
     ],
     "type": "prefix",
@@ -116278,10 +116338,7 @@
     "definitions": [
       {
         "meaning": "(added to verbs) aside, besides",
-        "examples": [],
-        "tags": [
-          "added to verbs"
-        ]
+        "examples": []
       }
     ],
     "type": "prefix",
@@ -116293,10 +116350,7 @@
     "definitions": [
       {
         "meaning": "(added to verbs) within inside",
-        "examples": [],
-        "tags": [
-          "added to verbs"
-        ]
+        "examples": []
       }
     ],
     "type": "prefix",
@@ -116308,14 +116362,63 @@
     "definitions": [
       {
         "meaning": "(added to verbs) above",
-        "examples": [],
-        "tags": [
-          "added to verbs"
-        ]
+        "examples": []
       }
     ],
     "type": "prefix",
     "ipa": "t͡ʂħaːda"
+  },
+  {
+    "word": "-жьы",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(added to verbs) a verbal suffix that designates recurrence/repetition of the verb. It can also be used to indicate an action that someone was doing before and now continuing it",
+        "examples": []
+      },
+	  {
+        "meaning": "(added to verbs) a verbal suffix that designates finishing/completing the verb.",
+        "examples": []
+      }
+    ],
+    "type": "prefix",
+    "ipa": "-ʑə"
+  },
+  {
+    "word": "-щэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "too much; (more common in adjectives) a suffix that designates excessiveness, meaning, the condition of going or being beyond what is needed, desired, or appropriate.",
+        "examples": []
+      }
+    ],
+    "type": "suffix",
+    "ipa": "-ɕa"
+  },
+  {
+    "word": "-1о",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "slightly too much; (more common in adjectives) a suffix that designates slight excessiveness, meaning, the condition of slightly going or slightly being beyond what is needed, desired, or appropriate.",
+        "examples": []
+      }
+    ],
+    "type": "suffix",
+    "ipa": "-ʔʷa"
+  },
+  {
+    "word": "-шъыпкъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "really; truly; a suffix which is added to adjectives that means very.",
+        "examples": []
+      }
+    ],
+    "type": "suffix",
+    "ipa": "-ʂəpq"
   },
   {
     "word": "шъхьап",
@@ -141341,8 +141444,12 @@
         "meaning": "very few; a very small amount of",
         "examples": [
           {
-            "sentence": "К1алэм ахъщэ |мэк1эжъый| ы1ыгъэр",
+            "sentence": "К1алэм ахъщэ |мэк1эжъый| ы1ыгъ",
             "translation": "The boy has |very few| money."
+          },
+		  {
+            "sentence": "К1алэм ахъщэу ы1ыгъыр ахъщэ |мэк1эжъый|",
+            "translation": "The money the boy has is |very few| money."
           },
 		  {
             "sentence": "Шъоущыгъу |мэк1эжъый| сищае къыхэлъхь",

@@ -3117,7 +3117,7 @@
     "gravel": "мыжъо-пшэхъо зэхэлъ; мыжъок1ашъхъ"
   },
   {
-    "tip": "цыпэ; нэз; цак1э; пытын (to be on the tip of); пылъын (to be on the tip of)"
+    "tip": "цыпэ; нэз; цак1э; пытын (to be on the tip of); пылъын (to be on the tip of); пы- (prepositional verbal prefix)"
   },
   {
     "one": "зы; лъэныкъо (one of a pair)"
@@ -3336,7 +3336,7 @@
     "hood": "шъхьарыхъон; башлыкъ"
   },
   {
-    "too much": "бащэ; бащэу; блифыгъэу / блифэу (excessively); илыягъэу (too much than what is needed); (Arabic) зыядэу (excessively)"
+    "too much": "-щэ (a suffix that designates excessiveness); -1о (a suffix that designates slight excessiveness); бащэ; бащэу; блифыгъэу / блифэу (excessively); илыягъэу (too much than what is needed); (Arabic) зыядэу (excessively)"
   },
   {
     "too many": "бащэ"
@@ -3721,6 +3721,9 @@
   },
   {
     "can": "лъэк1ын; -шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb)"
+  },
+  {
+    "able": "лъэк1ын (able to); -шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb)"
   },
   {
     "capable": "лъэк1ын; -шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb); 1эпэ1эс / фэкъулай / фэ1эз (capable, able, skilled)"
@@ -10936,10 +10939,10 @@
     "to run out": "ухын (to finish)"
   },
   {
-    "to finish": "ухын / къэухын"
+    "to finish": "ухын / къэухын; -жьы (verbal suffix that indicates finishing doing an action)"
   },
   {
-    "to complete": "ухын / къэухын"
+    "to complete": "ухын / къэухын; -жьы (verbal suffix that indicates completing doing an action)"
   },
   {
     "to end": "ухын / къэухын (to end something); къыухын"
@@ -11017,7 +11020,7 @@
     "restroom": "щагуик1ып1э"
   },
   {
-    "again": "джыри; джызэ; ик1эрык1эу (over again)"
+    "again": "-жьы (verbal suffix that designates recurrence/repetition of action); джыри; джызэ; ик1эрык1эу (over again)"
   },
   {
     "over again": "ик1эрык1эу"
@@ -11737,7 +11740,10 @@
     "very much": "лъэшэу; (Shapsug) зыш1оу"
   },
   {
-    "really": "шъыпкъэу"
+    "really": "шъыпкъэу; -шъыпкъ (really, truly, suffix which is added to adjectives that means very)"
+  },
+  {
+    "truly": "шъыпкъэу; -шъыпкъ (really, truly, suffix which is added to adjectives that means very)"
   },
   {
     "to move away": "1ухын (to put something away); щыгъэзыен (to move something to make way); щыдзыен (to move something to make way); зыщыгъэзыен (to move oneself away of); зыщыдзыен (to move oneself away from); кощын (to relocale); гъэкощын (to relocale something)"
@@ -12226,7 +12232,7 @@
     "fringe": "гъунэ"
   },
   {
-    "edge": "нэз; цак1э; гъунэ; цыпэ (tip); шъхьа1у (top edge)"
+    "edge": "нэз; цак1э; гъунэ; цыпэ (tip); шъхьа1у (top edge); пы- (prepositional verbal prefix)"
   },
   {
     "tip": "цыпэ; пак1э; к1э; к1эух; гъунэ"
@@ -17353,16 +17359,16 @@
     "to invade": "техьан; телъэдэн"
   },
   {
-    "on": "тетын (to be on in a standing position); телъын (to be on in a lying position); ыпшъэ; ышъхьагъы; ык1ы1у (the surface of); ыпшъэк1э; ышъхьагък1э; ык1ы1ук1э; те- (prepositional verval suffix)"
+    "on": "тетын (to be on in a standing position); телъын (to be on in a lying position); ыпшъэ; ышъхьагъы; ык1ы1у (the surface of); ыпшъэк1э; ышъхьагък1э; ык1ы1ук1э; те- (prepositional verbal suffix)"
   },
   {
-    "upon": "те- (prepositional verval suffix)"
+    "upon": "те- (prepositional verbal suffix)"
   },
   {
-    "onto": "те- (prepositional verval suffix)"
+    "onto": "те- (prepositional verbal suffix)"
   },
   {
-    "into": "дэ- (prepositional verval suffix); и- (prepositional suffix)"
+    "into": "дэ- (prepositional verbal suffix); и- (prepositional suffix)"
   },
   {
     "up": "ыпшъэ"
@@ -18334,7 +18340,7 @@
     "to discontinue": "зэпыгъэун"
   },
   {
-    "to continue": "егъэжьэжьын; ублэжьын; лъыгъэк1отэн (to advance something, to progress something, to proceed something); (dialectal) игъэкъун"
+    "to continue": "егъэжьэжьын; ублэжьын; лъыгъэк1отэн (to advance something, to progress something, to proceed something); (dialectal) игъэкъун; -жьы (verbal suffix that indicates the continuation of doing the action)"
   },
   {
     "to go on": "техьан (to go on, to go above, to go on the surface of); телъэдэн (to run on); лъык1отэн (to advance, to progress, to proceed); лъыгъэк1отэн (to advance something, to progress something, to proceed something); (dialectal) игъэкъун"
