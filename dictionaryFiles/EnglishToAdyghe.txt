@@ -3720,13 +3720,16 @@
     "to be capable": "лъэк1ын (to be capable of doing)"
   },
   {
-    "can": "лъэк1ын; -шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb)"
+    "can": "лъэк1ын; -шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb); фэ- (verbal suffix that indicates the capability of performing the action, only applies to transitive verbs)"
   },
   {
-    "able": "лъэк1ын (able to); -шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb)"
+    "able": "лъэк1ын (able to); -шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb); фэ- (verbal suffix that indicates the capability of performing the action, only applies to transitive verbs)"
   },
   {
-    "capable": "лъэк1ын; -шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb); 1эпэ1эс / фэкъулай / фэ1эз (capable, able, skilled)"
+    "able to": "лъэк1ын (able to); -шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb); фэ- (verbal suffix that indicates the capability of performing the action, only applies to transitive verbs)"
+  },
+  {
+    "capable": "лъэк1ын; -шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb); 1эпэ1эс / фэкъулай / фэ1эз (capable, able, skilled); фэ- (verbal suffix that indicates the capability of performing the action, only applies to transitive verbs)"
   },
   {
     "horn": "бжъэ; бжъакъо"
@@ -6460,7 +6463,7 @@
     "what": "сыд; шъыд (dialectal); лӏэу (Shapsug, archaic)"
   },
   {
-    "how": "таущтэу; тэщтэу; сыдэущтэу"
+    "how": "таущтэу; тэщтэу; сыдэущтэу; зэрэ- (verbal prefix that indicates the way the verb was done or how the verb was done)"
   },
   {
     "carrot": "пхъы"
@@ -6976,7 +6979,7 @@
     "warm": "фабэ"
   },
   {
-    "and": "ык1и"
+    "and": "ык1и (as well as, and also); -и (a verbal suffix that is used to introduce a clause or sentence which follows on in consequence from the first, meaning there is an emphasize that the second sentence happened because of the first and they are directly related); -зэ (a verbal suffix that is used to introduce a clause or sentence which follows on in time from the first, unlike the suffix -и there is no emphasize that the second sentence happened due to the first one, rather, the emphasize is more of the time sequence)"
   },
   {
     "by the way": "ык1и; зыгорэк1э"
@@ -9046,7 +9049,7 @@
     "tall": "к1ыхьэ; (dialectal) к1ахьы"
   },
   {
-    "to say": "1он; хэ1ухьан (to say in a group, to say among peopel); и1ухьан (to say inside)"
+    "to say": "1он; ри1он (to say something to someone); хэ1ухьан (to say in a group, to say among peopel); и1ухьан (to say inside)"
   },
   {
     "to attempt to": "1он"
@@ -10939,10 +10942,10 @@
     "to run out": "ухын (to finish)"
   },
   {
-    "to finish": "ухын / къэухын; -жьы (verbal suffix that indicates finishing doing an action)"
+    "to finish": "ухын / къэухын; -гъах (a verbal suffix that can be used to indicate that the verb  was done/complicated); -жьы (verbal suffix that indicates finishing doing an action)"
   },
   {
-    "to complete": "ухын / къэухын; -жьы (verbal suffix that indicates completing doing an action)"
+    "to complete": "ухын / къэухын; -гъах (a verbal suffix that can be used to indicate that the verb  was done/complicated); -жьы (verbal suffix that indicates completing doing an action)"
   },
   {
     "to end": "ухын / къэухын (to end something); къыухын"
@@ -11521,7 +11524,7 @@
     "to carry out": "гъэцэк1эн"
   },
   {
-    "to manage": "-шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb); е1эзэн (to handle something, to deal with, to manage something); гъэзек1он (to manage something or someone); лъэк1ын / фэлъэк1ын (to manage to do, to be able to do); зэпыгъэфэн (to arrange); гъэ1орыш1эн; фэш1эн (to be able to do, to manage to do); фэш1ын (to be able to make/build, to manage to make)"
+    "to manage": "-шъу (verbal suffix that can indicate capability, possibility or successfulness of a verb); фэ- (verbal suffix that indicates the capability of performing the action, only applies to transitive verbs); е1эзэн (to handle something, to deal with, to manage something); гъэзек1он (to manage something or someone); лъэк1ын / фэлъэк1ын (to manage to do, to be able to do); зэпыгъэфэн (to arrange); гъэ1орыш1эн; фэш1эн (to be able to do, to manage to do); фэш1ын (to be able to make/build, to manage to make)"
   },
   {
     "to administrate": "гъэзек1он"
@@ -13693,7 +13696,7 @@
     "rag": "хъэдэн; бзыхьаф (scrap); хъэдэн ц1ынэ"
   },
   {
-    "for": "пае; фэш1; фэш1к1э; (uncommon) папк1э"
+    "for":пае; фэш1; фэш1к1э; фэ- (verbal prefix that designates action performed for someone's sake or for some reason)"
   },
   {
     "in order to": "ащ пае / ащ фэш1к1э / джащ пае / джащ фэш1ык1э"
@@ -14134,7 +14137,7 @@
     "doormat": "джэхэшъотедз"
   },
   {
-    "way": "гъогу; лъагъо; амал (method, way, means)"
+    "way": "гъогу; лъагъо; амал (method, way, means); зэрэ- (verbal prefix that indicates the way the verb was done or how the verb was done)"
   },
   {
     "porridge": "п1астэ"
@@ -14431,7 +14434,13 @@
     "have a nice day": "гъогу маф"
   },
   {
-    "while": "пэтырэ"
+    "while": "пэтырэ; -эу (whilte, a verbal suffix that can be used to indicate the period in which the verb was being done)"
+  },
+  {
+    "already": "-гъах (a verbal suffix that can be used to indicate that the verb was done/complicated))"
+  },
+  {
+    "done": "-гъах (a verbal suffix that can be used to indicate that the verb was done/complicated)"
   },
   {
     "to fast": "нэк1ын"
@@ -15235,7 +15244,7 @@
     "to narrate": "къэ1отэн"
   },
   {
-    "to tell": "1отэн / къэ1отэн"
+    "to tell": "1отэн / къэ1отэн (to tell something); ри1отэн (to tell something to someone); ри1он (to say something to someone)"
   },
   {
     "to swear in god": "тхьэ 1он"
@@ -15421,7 +15430,13 @@
     "to repeat": "къытегъэзэн (to repeat something); къэ1ожьын (to repeat a saying); к1эрык1эу ш1ыжьын (to do something again from the start)"
   },
   {
-    "repeatedly": "къытэгъэзагъэу"
+    "repeatedly": "къытегъэзагъэу"
+  },
+  {
+    "awkwardly": "гъэш1эгъонэу"
+  },
+  {
+    "weirdly": "гъэш1эгъонэу"
   },
   {
     "to tuck": "дэкон"
@@ -17410,7 +17425,16 @@
     "among": "хэтын (to be among people/objects in a standing position); хэлъын (to be among people/objects in a lying position)"
   },
   {
-    "with": "игъусэу; ригъусэу; дэ- (verbal prefix indicating with)"
+    "with": "игъусэу; ригъусэу; дэ- (verbal prefix that designates action performed jointly with somebody); -к1э (the instrumental case, a noun case that indicates the tool or thing that was used to perform the action); ре- (a verbal prefix that designates the verb was done with a tool)"
+  },
+  {
+    "using": "-к1э (the instrumental case, a noun case that indicates the tool or thing that was used to perform the action)"
+  },
+  {
+    "via": "-к1э (the instrumental case, a noun case that indicates the tool or thing that was used to perform the action)"
+  },
+  {
+   "together": "зэгъусэхэу (while being together); зэдэ- (verbal prefix indicating together)"
   },
   {
     "within inside": "к1оц1ы- (prepositional verval suffix)"
@@ -17455,7 +17479,31 @@
     "backward": "зэк1э- (prepositional verval suffix)"
   },
   {
-    "by": "ыдэжь; 1у- (prepositional verval suffix)"
+    "self": "зэ- (verval prefix that indicates the reflexive case, a verb that was done to onself)"
+  },
+  {
+    "himself": "зэ- (verval prefix that indicates the reflexive case, a verb that was done to onself)"
+  },
+  {
+    "herself": "зэ- (verval prefix that indicates the reflexive case, a verb that was done to onself)"
+  },
+  {
+    "yourself": "зэ- (verval prefix that indicates the reflexive case, a verb that was done to onself)"
+  },
+  {
+    "itself": "зэ- (verval prefix that indicates the reflexive case, a verb that was done to onself)"
+  },
+  {
+    "themselves": "зэ- (verval prefix that indicates the reflexive case, a verb that was done to onself)"
+  },
+  {
+    "myself": "зэ- (verval prefix that indicates the reflexive case, a verb that was done to onself)"
+  },
+  {
+    "yourselves": "зэ- (verval prefix that indicates the reflexive case, a verb that was done to onself)"
+  },
+  {
+    "by": "ыдэжь; 1у- (prepositional verval suffix); -к1э (the instrumental case, a noun case that indicates the tool or thing that was used to perform the action)"
   },
   {
     "near": "1утын (to be near in a standing position); 1улъын (to be near in a lying position); ыдэжь (near of); благъэ (close); пэблагъ (close to); пэгъунэгъу (close to); 1у- (prepositional verval suffix)"
@@ -17483,6 +17531,9 @@
   },
   {
     "pass": "блэ- (prepositional verval suffix)"
+  },
+  {
+    "not": "-эп (a suffix meaning not); мы- (a prefix meaning not)"
   },
   {
     "cry-baby": "ныгъ-ныгъ"
@@ -18217,11 +18268,14 @@
     "horse chest": "шыбгъэ"
   },
   {
-    "by mistake": "ымыш1ахэу"
+    "by mistake": "ымыш1ахэу; 1эк1э- (verbal prefix that denotes unintentional actions or actions that occurred unexpectedly)"
   },
   {
-    "mistakenly": "ымыш1ахэу"
+    "mistakenly": "ымыш1ахэу; 1эк1э- (verbal prefix that denotes unintentional actions or actions that occurred unexpectedly)"
   },
+  {
+    "unintentionally": "ымыш1ахэу; 1эк1э- (verbal prefix that denotes unintentional actions or actions that occurred unexpectedly)"
+  }
   {
     "to decapitate": "шъхьэ ш1охын (to cut someone's head off)"
   },
@@ -19643,6 +19697,12 @@
   },
   {
     "bullet": "щэ; хьадэгъущэ (killing bullet); к1эрэхъуащэ (bullet of a gun)"
+  },
+  {
+    "if": "-мэ (conditional mood)"
+  },
+  {
+    "even if": "-ми (concessive mood)"
   },
   {
     "to shake out": "утхыпк1ын (to agitate a piece of cloth or other flexible material in order to remove dust, or to try to make it smooth and flat)"

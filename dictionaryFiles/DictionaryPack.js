@@ -315,6 +315,10 @@
             "sentence": "К1алэр чъыгым уатэк1э |ео|",
             "translation": "The boy |is hitting| the tree with an axe."
           },
+          {
+            "sentence": "К1алэм ымыш1ахэу уатэк1э ы1эхъуамбэ |еожьыгъ|",
+            "translation": "The boy |hit| his finger with a hammer by mistake."
+          },
 		  {
             "sentence": "Снат1э зыгорэм |еуи| бэгыгъэ",
             "translation": "My forehead |hit| something and it swelled."
@@ -17676,6 +17680,14 @@
 		  {
             "sentence": "|Мэлак1э сэл1э|",
             "translation": "|I am huntry|."
+          },
+		  {
+            "sentence": "|Мэлак1э сэл1э|, сышхэнэу сыфай",
+            "translation": "|I am hungry|, I want to eat."
+          },
+		  {
+            "sentence": "Сэ сышхэгъахэти |мэлак1э сыл1эжьырэп|",
+            "translation": "Because I ate already, |I am no longer hungry|."
           }
         ]
       }
@@ -31887,6 +31899,10 @@
             "translation": "|I drink| coffee without milk in it."
           },
 		  {
+            "sentence": "Сысымаджэу сышытым псы бэ |сешъощтыгъ|",
+            "translation": "While being sick |I used to drink| a lot of water."
+          },
+		  {
             "sentence": "К1алэр тасымк1э псы |ешъо|",
             "translation": "The boy |drinks| water from the mug."
           },
@@ -32728,6 +32744,10 @@
           { 
             "sentence": "К1алэр |у1агъэ|",
             "translation": "The boy |is wounded|."
+          },
+		  {
+            "sentence": "К1алэр ч1ыгум тефи ылъакъо |у1агъэ|",
+            "translation": "The boy fell on the ground and his leg |got wounded|."
           },
 		  {
             "sentence": "Дзэк1ол1ыр |у1агъэ|",
@@ -36706,6 +36726,18 @@
 		  {
             "sentence": "1офымк1э сэрэ сигъусэхэмрэ проджест |тэш1ы|",
             "translation": "In work, me and my associates |are doing| a project."
+          },
+		  {
+            "sentence": "Бэрэ уеджэмэ экзаменыр |къыпфэш1ыщт|",
+            "translation": "If you study a lot |you could do| the exam."
+          },
+		  {
+            "sentence": "Бэрэ уеджэми экзаменыр |къыпфэш1ыщтэп|",
+            "translation": "Even if you study a lot |you could not do| the exam."
+          },
+		  {
+            "sentence": "Бэрэ уемыджэми экзаменыр |къыпфэш1ыщт|",
+            "translation": "Even if you will not study a lot |you could do| the exam."
           }
         ]
       }
@@ -41716,6 +41748,10 @@
 		  {
             "sentence": "Мылым утехьани упхырызынк1э |щынагъо|",
             "translation": "Standing on the ice and falling through it |is dangerous|."
+          },
+		  {
+            "sentence": "К1алэм кур зэрифырэр |щынагъо|",
+            "translation": "The way the boy drives the car is |dangerous|."
           }
         ]
       },
@@ -47993,6 +48029,18 @@
             "translation": "|I ate|."
           },
 		  {
+            "sentence": "Сэ |сышхэгъах|",
+            "translation": "|I already ate|."
+          },
+		  {
+            "sentence": "Сэ |сышхэгъахэти| мэлак1э сыл1эжьырэп",
+            "translation": "|Because I ate already|, I am no longer hungry."
+          },
+		  {
+            "sentence": "Мэлак1э сэл1э, |сышхэнэу| сыфай",
+            "translation": "I am hungry, I want |to eat|."
+          },
+		  {
             "sentence": "Непэ сиунагъо |сыдэшхагъ|",
             "translation": "Today |I ate with| my family."
           },
@@ -49594,6 +49642,10 @@
           {
             "sentence": "Университетым сык1ощт |седжэнэу|",
             "translation": "I will go to the university |to study|"
+          },
+		  {
+            "sentence": "Седжэу сянэ |къысэджагъ|",
+            "translation": "While studying my mother |called me|."
           }
         ]
       },
@@ -49612,6 +49664,10 @@
           {
             "sentence": "Делэк1э |едж|",
             "translation": "|Call him| stupid."
+          },
+		  {
+            "sentence": "Сц1эк1э |къысэджагъ| ар",
+            "translation": "(S)he |called me| by my name."
           }
         ]
       },
@@ -49645,6 +49701,10 @@
           {
             "sentence": "Тхылъым |уеджэгъаха|?",
             "translation": "|Are you done reading| the book?"
+          },
+		  {
+            "sentence": "Сэ тхылъым |седжэгъахэп|",
+            "translation": "|I still have not done reading| the book."
           }
         ]
       },
@@ -49652,16 +49712,36 @@
         "meaning": "to study",
         "examples": [
           {
-            "sentence": "|едж|",
+            "sentence": "|Едж|",
             "translation": "|Study|."
           },
           {
-            "sentence": "|едж| дэгъу",
+            "sentence": "|Едж| дэгъу",
             "translation": "|Study| well."
           },
           {
-            "sentence": "к1алэр тхылъык1э |еджэ|",
+            "sentence": "К1алэр тхылъык1э |еджэ|",
             "translation": "The boy |is studying| with the book."
+          },
+		  {
+            "sentence": "|Седжэу| сянэ къысэджагъ",
+            "translation": "|While| studying my mother called me."
+          },
+		  {
+            "sentence": "Сэ математика |седжэгъахэп|",
+            "translation": "|I still have not done studying| math."
+          },
+		  {
+            "sentence": "Бэрэ |уеджэмэ| экзаменыр къыпфэш1ыщт",
+            "translation": "|If you study| a lot you could do the exam."
+          },
+		  {
+            "sentence": "Бэрэ |уеджэми| экзаменыр къыпфэш1ыщтэп",
+            "translation": "|Even if you study| a lot you could not do the exam."
+          },
+		  {
+            "sentence": "Бэрэ |уемыджэми| экзаменыр къыпфэш1ыщт",
+            "translation": "|Even if you will not study| a lot you could do the exam."
           }
         ]
       },
@@ -51019,19 +51099,10 @@
 		  {
             "sentence": "сыд |у1уагъэр|?",
             "translation": "what |you said|?"
-          }
-        ]
-      },
-      {
-        "meaning": "to say something to someone",
-        "examples": [
-          {
-            "sentence": "к1алэм гущы1эр пшъашъэм |ре1о|",
-            "translation": "The boy |is saying| the word to the girl."
           },
 		  {
-            "sentence": "|къыса1у| к1элэегъаджэм |къышъу1уагъэр|",
-            "translation": "|Tell me| what the teacher |said to you (pl.)|."
+            "sentence": "Сц1э |къап1омэ| уц1э |къэс1ожьыщт|",
+            "translation": "|If you say| my name, |I will say| yours."
           }
         ]
       },
@@ -51085,6 +51156,39 @@
     "kabardian": "жы1эн",
     "type": "verb",
     "ipa": "ʔʷan"
+  },
+  {
+    "word": "ри1он",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to say something to someone",
+        "examples": [
+          {
+            "sentence": "к1алэм гущы1эр пшъашъэм |ре1о|",
+            "translation": "The boy |is saying| the word to the girl."
+          },
+		  {
+            "sentence": "к1алэм тызрагъэджагъэр пшъашъэм |ре1ожьы|",
+            "translation": "The boy |is telling| what we studied to the girl."
+          },
+		  {
+            "sentence": "|къыса1у| к1элэегъаджэм |къышъу1уагъэр|",
+            "translation": "|Tell me| what the teacher |said to you (pl.)|."
+          },
+		  {
+            "sentence": "1оф дэгъу сыш1энэу |зэс1ожьыгъ|",
+            "translation": "|I told myself| to do good job."
+          },
+		  {
+            "sentence": "хэт о ар |къыозы1уагъэр|?",
+            "translation": "who |said| that to you?"
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "rəjʔʷan"
   },
   {
     "word": "къуащэ",
@@ -54985,7 +55089,7 @@
             "translation": "|I see| that tradition |as a good thing|."
           },
 		  {
-            "sentence": "А ц1ыфым гъэш1ыгъонэу |сыхаплъэ|",
+            "sentence": "А ц1ыфым гъэш1эгъонэу |сыхаплъэ|",
             "translation": "|I see| that person |as| weird."
           }
         ]
@@ -59580,23 +59684,23 @@
         "meaning": "to open",
         "examples": [
           {
-            "sentence": "пчъэр |1ух|",
+            "sentence": "Пчъэр |1ух|",
             "translation": "|Open| the door.."
           },
           {
-            "sentence": "пчъэр |1ухыгъ|",
+            "sentence": "Пчъэр |1ухыгъ|",
             "translation": "The door |is open|."
           },
           {
-            "sentence": "к1алэм пчъэр |1уехы|",
+            "sentence": "К1алэм пчъэр |1уехы|",
             "translation": "The boy is |opening| the door."
           },
           {
-            "sentence": "к1алэм пчъэр |1уихыгъ|",
+            "sentence": "К1алэм пчъэр |1уихыгъ|",
             "translation": "The boy is |opened| the door."
           },
           {
-            "sentence": "к1алэм пчъэр |къы1урегъэх|",
+            "sentence": "К1алэм пчъэр |къы1урегъэх|",
             "translation": "|Make| the boy |open| the door."
           },
 		  {
@@ -59606,6 +59710,18 @@
 		  {
             "sentence": "Пшъашъэм 1унк1ыбзэмк1э пчъэр |къы1уихыгъ|",
             "translation": "The girl |opened| the door with the key."
+          },
+		  {
+            "sentence": "Тиунэ укъак1омэ пчъэ |къыпфэ1усхыщт|",
+            "translation": "If you come to our house, |I will open| the door |for you|."
+          },
+		  {
+            "sentence": "Пчъэр хьак1эм |фэ1ух|",
+            "translation": "|Open| the door |for| the guest."
+          },
+		  {
+            "sentence": "Шъхьангъупчъэр |1усхыгъ|",
+            "translation": "|I opened| the window"
           }
         ]
       },
@@ -69944,6 +70060,10 @@
           {
             "sentence": "К1алэр экзамыным ехъурэм |егупшысэшъущтэп|",
             "translation": "The boy |couldn't think of| anything besides the exam."
+          },
+		  {
+            "sentence": "|Сызэгупшысэжьыгъ| сыд неущы сыш1эщтыр",
+            "translation": "|I thought about myself| what I am going to do tomorrow."
           },
           {
             "sentence": "К1алэр |егупшысэ| сыд ыш1эщтыр",
@@ -96187,6 +96307,30 @@
     "ipa": "ʔʷatan"
   },
   {
+    "word": "е1отэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"ри1отэн\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "jaʔʷatan"
+  },
+  {
+    "word": "е1он",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"ри1он\"",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "jaʔʷan"
+  },
+  {
     "word": "къэ1отэн",
     "lang": "Adyghe",
     "definitions": [
@@ -96200,6 +96344,10 @@
 		  {
             "sentence": "Л1ым хъугъэр |къи1отагъ|",
             "translation": "The man |told| what happened."
+          },
+		  {
+            "sentence": "Фылымымк1э хъурэр |къэмы1уат|",
+            "translation": "Don't tell what happens in the film."
           },
 		  {
             "sentence": "Сыд хъугъэр |къысэ1уат|",
@@ -96263,6 +96411,72 @@
     ],
     "type": "verb",
     "ipa": "qaʔʷatan"
+  },
+  {
+    "word": "ри1отэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to tell something to someone; to narrate something to someone",
+        "examples": [
+		  {
+            "sentence": "К1алэм тызеджагъэр пшъашъэм |ри1отагъ|",
+            "translation": "The boy |told| the girl what we studied."
+          },
+		  {
+            "sentence": "К1алэм хъугъэр |къыси1отагъ|",
+            "translation": "The boy |told me| what happened."
+          },
+		  {
+            "sentence": "К1алэм тыгъэпсыгъэр |ес1отэгъах|",
+            "translation": "|I already told| the boy what we planned."
+          },
+		  {
+            "sentence": "Сыд хъугъэр |къысэ1уат|",
+            "translation": "|Tell me| what happened."
+          },
+		  {
+            "sentence": "Сэ |къысэ1уат| хэт унэм къихьагъэхэр",
+            "translation": "|Tell me| who were the ones that entered the house."
+          },
+		  {
+            "sentence": "Хэт ар |къысэмы1уатэмэ| усэощт",
+            "translation": "I will hit you |if you don't tell me| who it is."
+          },
+		  {
+            "sentence": "Сятэ сымычъыежьыгъэу тхыдэжъхэр |къэсфи1отэщтыгъ|",
+            "translation": "My father |used to tell me| stories before sleeping."
+          },
+		  {
+            "sentence": "Л1ым 1офымк1э ежь щыш1ыгъэр |къэтфи1отагъ|",
+            "translation": "The man |told us| what happened to him in work."
+          },
+		  {
+            "sentence": "К1элэц1ык1ухэр л1ым ыдэжь 1утых, тхыдэжъ |къафе1уатэу|",
+            "translation": "The little kids are around the man, |telling them| a story."
+          }
+        ]
+      },
+	  {
+        "meaning": "to explain something to someone",
+        "examples": [
+          {
+            "sentence": "К1элэегъаджэм |къыси1отагъ| таущтэу уеджэщт",
+            "translation": "The teacher |explained to me| how to study."
+          },
+		  {
+            "sentence": "1офымк1э шъуш1эн фаер |къышъос1отэщт|",
+            "translation": "|I will explain to you all| what you must do in the work."
+          },
+		  {
+            "sentence": "К1алэм |ес1отагъ| шхын ш1ык1э",
+            "translation": "|I explained to| the boy how to make food."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "rəjʔʷatan"
   },
   {
     "word": "фэ1отэн",
@@ -114825,6 +115039,43 @@
     "ipa": "ʃant͡ʂa"
   },
   {
+    "word": "-зэпыт",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "always; all the time",
+        "examples": [
+          {
+            "sentence": "К1алэр губжы|зэпыт|",
+            "translation": "The boy |always| gets angry."
+          },
+		  {
+            "sentence": "Учъые|зэпытыщта|?",
+            "translation": "Will you |always| sleep?"
+          },
+		  {
+            "sentence": "Л1ыр лэжьэ|зэпыт|, зигъэпсэфырэп",
+            "translation": "The man |always| work, he doesn't rest."
+          },
+          {
+            "sentence": "Тылэжьэ|зэпыт|, нек1о зы тхьэмафэ горэм зыдгъэпсэфыщт",
+            "translation": "We |always| work, let's rest for some one week."
+          },
+		  {
+            "sentence": "1офымк1э машинэхэр лэжьэ|зэпыт|ых",
+            "translation": "In work, the machines are |always| working."
+          },
+		  {
+            "sentence": "Л1ым чэщым чылэр къек1ухьэ|зэпыт|",
+            "translation": "The man |always| goes around the village in the night."
+          }
+        ]
+      }
+    ],
+    "type": "adv",
+    "ipa": "zapət"
+  },
+  {
     "word": "зэпыт",
     "lang": "Adyghe",
     "definitions": [
@@ -116423,6 +116674,745 @@
     ],
     "type": "suffix",
     "ipa": "-ʂəpq"
+  },
+  {
+    "word": "фэ-",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(added to verbs) for (benefactive case), a verbal prefix that designates action performed for someone's sake or for some reason",
+        "examples": [
+          {
+            "sentence": "К1алэр тучаным ыянэ |фэ|к1уагъ",
+            "translation": "The boy went to the store |for| his mother."
+          },
+		  {
+            "sentence": "К1алэр ыянэ еджап1эм |фэ|к1орэп",
+            "translation": "The boy is not going to school |for| his mother."
+          },
+		  {
+            "sentence": "Сыятэ къэс|ф|идагъ сыджэгоу",
+            "translation": "My father permitted |for me| to play."
+          },
+		  {
+            "sentence": "Сэ экзаменым сы|ф|еджагъ",
+            "translation": "I studied |for| the exam."
+          },
+		  {
+            "sentence": "Шхын къып|фэ|схьыгъ",
+            "translation": "I brought food |for| you."
+          },
+		  {
+            "sentence": "К1элэегъаджэм ус|ф|еупч1ыщт",
+            "translation": "I will ask the teacher |for| you."
+          },
+		  {
+            "sentence": "Къашъом зы|фэ|бгъэухьазырыгъа?",
+            "translation": "Did you prepare |for| the dance?"
+          }
+		  {
+            "sentence": "Тхьэм къэс|ф|елъэ1у",
+            "translation": "Pray to God |for| me."
+          },
+		  {
+            "sentence": "Сыд ц1ыфыр зы|фэ|быук1ыгъэр?",
+            "translation": "|For| what you killed the person?"
+          }
+        ]
+      },
+	  {
+        "meaning": "(only applies to transitive verbs) can, able to, capable of",
+        "examples": [
+          {
+            "sentence": "К1алэм а фылымыр |фэ|лъэгъурэп",
+            "translation": "The boy |can't| stand that film."
+          },
+		  {
+            "sentence": "Гъуч1ы онтэгъур сы|фэштэщт|",
+            "translation": "I |can| lift the heavy iron."
+          },
+		  {
+            "sentence": "Л1ым унэ |фэ|ш1ырэп",
+            "translation": "The man |does not manage to| build a house."
+          },
+		  {
+            "sentence": "Л1ым унэ изакъоу |фэ|ш1ыгъ",
+            "translation": "The man |managed to| build a house alone."
+          },
+		  {
+            "sentence": "Л1ыр къэс|фэ|ук1ыгъэп",
+            "translation": "I |couldn't managed to| kill the man."
+          }
+        ]
+      }
+    ],
+    "type": "prefix",
+    "ipa": "-fa"
+  },
+  {
+    "word": "дэ-",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(added to verbs) with (comitative case), a verbal prefix that designates action performed jointly with somebody",
+        "examples": [
+          {
+            "sentence": "К1алэм сэ тучаным сы|дэ|к1уагъ",
+            "translation": "I went |with| the boy to the shop."
+          },
+		  {
+            "sentence": "К1алэм сэ тучаным къыс|дэ|к1уагъ",
+            "translation": "The boy |with| me to the shop."
+          },
+		  {
+            "sentence": "Куджаныр к1алэхэмэ а|дэ|к1уагъ чэщдэсым",
+            "translation": "Kujan went |with| the boys to the party."
+          },
+		  {
+            "sentence": "Пшъашъэм сы|д|еджагъ",
+            "translation": "I studied |with| the girl."
+          },
+		  {
+            "sentence": "К1алэмрэ пшъашъэм зэ|д|еджэх",
+            "translation": "The boy and the girl study |with each other|."
+          },
+		  {
+            "sentence": "Тызэ|дэ|лэжьагъ непэ",
+            "translation": "We worked |with each other| today."
+          },
+		  {
+            "sentence": "Л1ым сы|дэ|лэжьагъ",
+            "translation": "I worked |with| the man."
+          },
+		  {
+            "sentence": "Л1ымэ са|дэ|лэжьагъ непэ",
+            "translation": "I worked |with| the men today."
+          }
+        ]
+      }
+    ],
+    "type": "prefix",
+    "ipa": "-da"
+  },
+  {
+    "word": "зэдэ-",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(added to verbs) together (comitative case), a verbal prefix that designates action performed jointly together",
+        "examples": [
+          {
+            "sentence": "К1алэмрэ сэрэ тучаным ты|зэдэ|к1уагъ",
+            "translation": "The boy and me went |together| to the shop."
+          },
+		  {
+            "sentence": "Куджанымрэ к1алэхэмэр |зэдэ|к1уагъэх чэщдэсым",
+            "translation": "Kujan and the boys went |together| to the party."
+          },
+		  {
+            "sentence": "К1алэмрэ пшъашъэм |зэд|еджэх",
+            "translation": "The boy and the girl study |together|."
+          },
+		  {
+            "sentence": "Ты|зэдэ|лэжьагъ непэ",
+            "translation": "We worked |together| today."
+          }
+        ]
+      }
+    ],
+    "type": "prefix",
+    "ipa": "-zada"
+  },
+  {
+    "word": "1эк1э-",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(added to verbs) unintentional; a verbal prefix that denotes unintentional actions or actions that occurred unexpectedly",
+        "examples": [
+          {
+            "sentence": "Сикомпыютэр с|1эк1э|к1осагъ",
+            "translation": "My computer switched off |unexpectedly| to me."
+          },
+		  {
+            "sentence": "Пысмэ бэ с|1эк1э|тхагъ",
+            "translation": "I wrote a lot of letters |unintentionally|."
+          },
+		  {
+            "sentence": "Сихьак1эхэмэ зэк1э мы1эрысхэр с|1эк1|ашхыхьагъ",
+            "translation": "My guests ate all the apples |unexpectedly| to me."
+          },
+		  {
+            "sentence": "Сэ мы1эрысхэр с|1эк1э|шхыхьагъ",
+            "translation": "I ate the apples |unintentionally|."
+          },
+		  {
+            "sentence": "А ц1ыфыр сы|1эк1э|ук1ыхьащт",
+            "translation": "I will kill that person |unintentionally|."
+          }
+        ]
+      }
+    ],
+    "type": "prefix",
+    "ipa": "-zada"
+  },
+  {
+    "word": "-к1э",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(added to nouns) the instrumental case (a grammatical case used to indicate that a noun is the instrument or means by or with which the subject achieves or accomplishes an action)",
+        "examples": [
+          {
+            "sentence": "К1алэр къэлэм|к1э| матхэ",
+            "translation": "The boy is writing |with| a pencil"
+          },
+		  {
+            "sentence": "Л1ыр нэрыплъым|к1э| маплъэ",
+            "translation": "The man is looking |with| the binocular."
+          },
+		  {
+            "sentence": "Сц1э|к1э| къысэджагъ ар",
+            "translation": "(S)he called me |by| my name."
+          },
+		  {
+            "sentence": "Гъогум|к1э| сык1уагъ",
+            "translation": "I went |via| the road."
+          },
+		  {
+            "sentence": "Гъогум|к1э| сык1уагъ",
+            "translation": "I went |via| the road."
+          },
+		  {
+            "sentence": "К1эрахъо|к1э| бланэм сеуагъ",
+            "translation": "I shot the deer |with| a gun."
+          },
+		  {
+            "sentence": "Пшъашъэр гъунджэм|к1э| зэплъыжьыгъ",
+            "translation": "The girl looked at herself |with| the mirror"
+          },
+		  {
+            "sentence": "Л1ым уатэ|к1э| ымыш1ахэу зэожьыгъ",
+            "translation": "The man hit himself |with| a hammer by mistake."
+          }
+        ]
+      },
+	  {
+        "meaning": "(added to nouns) the directional case (a grammatical case used to indicate a direction)",
+        "examples": [
+          {
+            "sentence": "Жьыбгъэр хым|к1э| къак1о",
+            "translation": "The wind is coming |from| the sea"
+          },
+		  {
+            "sentence": "Мы|к1э| сыкъэк1уагъ",
+            "translation": "I came |from| here."
+          }
+        ]
+      }
+    ],
+    "shapsug": "-гьэ",
+    "type": "suffix",
+    "ipa": "-t͡ʃʼa"
+  },
+  {
+    "word": "зэ-",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(added to verbs) verval prefix that indicates the reflexive case, a verb that was done to onself",
+        "examples": [
+          {
+            "sentence": "1оф дэгъу сыш1энэу |зэ|с1ожьыгъ",
+            "translation": "I told |myself| to do good job."
+          },
+		  {
+            "sentence": "Пшъашъэр гъунджэмк1э |зэ|плъыжьыгъ",
+            "translation": "The girl looked at |herself| with the mirror"
+          },
+		  {
+            "sentence": "Л1ым уатэк1э ымыш1ахэу |зэ|ожьыгъ",
+            "translation": "The man hit |himself| with a hammer by mistake."
+          },
+		  {
+            "sentence": "Ц1ыфым |зы|ук1ыжьыгъ",
+            "translation": "The person killed |himself|."
+          },
+		  {
+            "sentence": "Пшъашъэр |зэ|упч1ыжьыгъ",
+            "translation": "The girl asked |herself|."
+          },
+		  {
+            "sentence": "О |зэ|плъыжь",
+            "translation": "Look at |yourself|."
+          },
+		  {
+            "sentence": "Сы|зэ|гупшысэжьыгъ сыд неущы сыш1эщтыр",
+            "translation": "I thought about |myself| what I am going to do tomorrow."
+          },
+		  {
+            "sentence": "Гъунджэмк1э у|зэ|плъыжьыгъа?",
+            "translation": "Did you look at |yourself| in the mirror?"
+          }
+        ]
+      }
+    ],
+    "type": "prefix",
+    "ipa": "za-"
+  },
+  {
+    "word": "зэрэ-",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(added to verbs) verbal prefix that indicates the way the verb was done; verbal prefix that indicates how the verb was done",
+        "examples": [
+          {
+            "sentence": "К1алэр |зэр|еджагъэр дэгъу",
+            "translation": "|The way| the boy studied is good."
+          },
+		  {
+            "sentence": "К1алэр ар |зэр|ес1уагъэр къыщыгъупшыгъ",
+            "translation": "The boy forgot |how| I told him that."
+          },
+		  {
+            "sentence": "Ащ |зэрэ|сыдэгущы1агъэр фэшъошагъ",
+            "translation": "|The way| I spoke to him was appropriate."
+          },
+		  {
+            "sentence": "Л1ыр |зэрэ|лажьэрэр псынк1э",
+            "translation": "|The way| the man works is fast."
+          },
+		  {
+            "sentence": "К1алэм кур |зэр|ифырэр щынагъо",
+            "translation": "|The way| the boy drives the car is dangerous."
+          }
+        ]
+      }
+    ],
+    "type": "prefix",
+    "ipa": "zara-"
+  },
+  {
+    "word": "-эу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(added to verbs) a verbal suffix that can be used to indicate an event that is happening while a certain verb is done",
+        "examples": [
+          {
+            "sentence": "К1алэр к1о|у| ебэджыгъ",
+            "translation": "The boy fell down |while| walking."
+          },
+		  {
+            "sentence": "Пшъашъэр щынэ|у| мэзым хэхьагъ",
+            "translation": "The girl went inside the forest |while| being scared."
+          },
+		  {
+            "sentence": "Седжэ|у| сянэ къысэджагъ",
+            "translation": "|While| studying my mother called me."
+          },
+		  {
+            "sentence": "Л1ым лажьэ|у| егупшысагъ лэжьэгъахэмэ сыд ыш1эщтыр",
+            "translation": "The man |while| working thought what he will do after he done working."
+          },
+		  {
+            "sentence": "Сысымаджэ|у| псы бэ сешъощтыгъ",
+            "translation": "|While| being sick I used to drink a lot of water."
+          }
+        ]
+      }
+    ],
+    "type": "suffix",
+    "ipa": "-aw"
+  },
+  {
+    "word": "-гъах",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(added to verbs) a verbal suffix that designates absolute accomplishment/realization of the action",
+        "examples": [
+		  {
+            "sentence": "Л1ым лажьэу егупшысагъ лэжьэ|гъахэ|мэ сыд ыш1эщтыр",
+            "translation": "The man while working thought what he will do after he |done| working."
+          },
+		  {
+            "sentence": "Л1ым лэжьэ|гъах|",
+            "translation": "The man |done| working."
+          },
+		  {
+            "sentence": "Седжэ|гъах|",
+            "translation": "I |done| studying."
+          },
+		  {
+            "sentence": "Экзаменым сыфеджэ|гъах|",
+            "translation": "I |done| studying for the exam."
+          },
+		  {
+            "sentence": "Сэ седжэ|гъах|эп",
+            "translation": "I still have not |done| studying."
+          }
+        ]
+      },
+	  {
+        "meaning": "(added to verbs) a verbal suffix that designates that the action was already done",
+        "examples": [
+		  {
+            "sentence": "Л1ым лэжьэ|гъах|",
+            "translation": "The man while working thought what he will do after he |done| working."
+          },
+		  {
+            "sentence": "К1алэм тызеджагъэр пшъашъэм ри1отэ|гъах|",
+            "translation": "The boy |already| told the girl what we studied."
+          },
+		  {
+            "sentence": "К1алэм хъугъэр ылъэгъу|гъах|",
+            "translation": "The boy |already| saw what happened."
+          },
+		  {
+            "sentence": "К1алэм тыгъэпсыгъэр ес1отэ|гъах|",
+            "translation": "I |already| told the boy what we planned."
+          },
+		  {
+            "sentence": "Сэ сышхэ|гъах|",
+            "translation": "I |already| ate."
+          },
+		  {
+            "sentence": "Сэ сышхэ|гъах|эти мэлак1э сыл1эжьырэп",
+            "translation": "Because I ate |already|, I am no longer hungry."
+          }
+        ]
+      }
+    ],
+    "type": "suffix",
+    "ipa": "-ʁaːx"
+  },
+  {
+    "word": "-эп",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(added to any word) not",
+        "examples": [
+		  {
+            "sentence": "Сэ сык1уагъэ|п|",
+            "translation": "I did |not| go."
+          },
+		  {
+            "sentence": "Сэ седжэгъахэ|п|",
+            "translation": "I still have |not| done studying."
+          },
+		  {
+            "sentence": "К1алэм ар ес1уагъэ|п|",
+            "translation": "I did |not| say that to the boy."
+          },
+		  {
+            "sentence": "Сэ ар сыш1эщтэ|п|",
+            "translation": "I will |not| do that."
+          },
+		  {
+            "sentence": "Сэ ащ сыфае|п|",
+            "translation": "I do |not| want that."
+          },
+		  {
+            "sentence": "Сылажьэрэ|п|",
+            "translation": "I am |not| working."
+          },
+		  {
+            "sentence": "Бэрэ седжэшъущт|эп",
+            "translation": "I can |not| study for a long time."
+          }
+        ]
+      }
+    ],
+    "type": "suffix",
+    "ipa": "-ap"
+  },
+  {
+    "word": "-мэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(added to any word) if (conditional mood)",
+        "examples": [
+		  {
+            "sentence": "Бэ ушхы|мэ| пщэрэу ухъущт",
+            "translation": "|If| you eat a lot you will get fat."
+          },
+		  {
+            "sentence": "Тиунэ укъак1о|мэ| пчъэ къыпфэ1усхыщт",
+            "translation": "|If| you come to our house, I will open the door for you."
+          },
+		  {
+            "sentence": "Сц1э къап1о|мэ| уц1э къэс1ожьыщт",
+            "translation": "|If| you say my name, I will say yours."
+          },
+		  {
+            "sentence": "Улажьэ|мэ| ахъщэ къыуатыщт",
+            "translation": "|If| you work you will get money."
+          },
+		  {
+            "sentence": "Бэрэ уеджэ|мэ| экзаменыр къыпфэш1ыщт",
+            "translation": "|If| you study a lot you could do the exam."
+          }
+        ]
+      }
+    ],
+    "type": "suffix",
+    "ipa": "-ma"
+  },
+  {
+    "word": "-ми",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(added to any word) if (conditional mood)",
+        "examples": [
+		  {
+            "sentence": "Бэ сышхы|ми| мэлак1э сэл1э",
+            "translation": "|Even if| I eat a lot, I am hungry."
+          },
+		  {
+            "sentence": "Тиунэ укъак1о|мм| пчъэ къыпфэ1усхыщтэп",
+            "translation": "|Even if| you come to our house, I will not open the door for you."
+          },
+		  {
+            "sentence": "Сц1э къап1о|ми| уц1э къэс1ожьыщтэп",
+            "translation": "|Even if| you say my name, I will not say yours."
+          },
+		  {
+            "sentence": "Бэрэ улажьэ|ми| ахъщэ бэ къыуатыщтэп",
+            "translation": "|Even if| you work a lot you will not get a lot of money."
+          },
+		  {
+            "sentence": "Бэрэ уеджэ|ми| экзаменыр къыпфэш1ыщтэп",
+            "translation": "|Even if| you study a lot you could not do the exam."
+          },
+		  {
+            "sentence": "Бэрэ уемыджэ|ми| экзаменыр къыпфэш1ыщт",
+            "translation": "|Even if| you will not study a lot you could do the exam."
+          }
+        ]
+      }
+    ],
+    "type": "suffix",
+    "ipa": "-ma"
+  },
+  {
+    "word": "-и",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(added to verbs) a verbal suffix that is used to introduce a clause or sentence which follows on in consequence from the first, meaning there is an emphasize that the second sentence happened because of the first and they are directly related",
+        "examples": [
+		  {
+            "sentence": "К1алэр ч1ыгум теф|и| ылъакъо у1агъэ",
+            "translation": "The boy fell on the ground |and| his leg got wounded."
+          },
+		  {
+            "sentence": "Л1ым к1орахъок1э сеу|и| сыук1ыгъ",
+            "translation": "I shot the man with a gun |and| killed him."
+          },
+		  {
+            "sentence": "Унэм маш1о хан|и| стэу ыблагъ",
+            "translation": "The house caught on fire |and| it started to burn."
+          },
+		  {
+            "sentence": "К1алэм зыгорэ ес1у|и| джэуап къыситыжьыгъ",
+            "translation": "I told someting to the boy |and| he gave me a response."
+          }
+        ]
+      }
+    ],
+    "type": "suffix",
+    "ipa": "-əj"
+  },
+  {
+    "word": "-зэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(added to verbs) a verbal suffix that is used to introduce a clause or sentence which follows on in time from the first, unlike the suffix -и there is no emphasize that the second sentence happened due to the first one, rather, the emphasize is more of the time sequence",
+        "examples": [
+		  {
+            "sentence": "К1алэр тучаным  к1о|зэ| щэ ыщэфыгъ",
+            "translation": "The boy went to the store |and| bought milk."
+          },
+		  {
+            "sentence": "Л1ым к1орахъок1э сео|зэ| л1эу ыблагъ",
+            "translation": "I shot the man with a gun |and| he started to die."
+          },
+		  {
+            "sentence": "Синыбджэгъухэмэ са1ук1э|зэ| къэбар къэт1уатэу тыублагъ",
+            "translation": "I met with my friends |and| we started to chat."
+          },
+		  {
+            "sentence": "Экзаменым сыфеджэ|зэ| экзаменыр дэгъоу сыш1ыгъ",
+            "translation": "I studied for the exam |and| I did it good."
+          },
+		  {
+            "sentence": "Бэрэ сылэжьэ|зэ| сышхэнэу сык1уагъ",
+            "translation": "I worked a lot |and| went to eat."
+          }
+        ]
+      }
+    ],
+    "type": "suffix",
+    "ipa": "-za"
+  },
+  {
+    "word": "-фэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(added to verbs) a verbal suffix that indicates an event that will happen until the verb is done",
+        "examples": [
+		  {
+            "sentence": "Сылажьэу сыухы|фэ| къэспаплъ",
+            "translation": "Wait |until| I am done working."
+          },
+		  {
+            "sentence": "Сышхэ|фэ| сыкъыдэк1ыщтэп",
+            "translation": "I will not go out |until| I eat."
+          },
+		  {
+            "sentence": "Фылымыр къиублэ|фэ|, зы видио горэм тегъэплъ",
+            "translation": "|Until| the film starts, let us watch some video."
+          },
+		  {
+            "sentence": "К1алэр къэк1о|фэ| къэбар тэ1уатэу унэм тисыгъ",
+            "translation": "|Until| the boy came, we were talking in the house."
+          },
+		  {
+            "sentence": "Еджэныр сыухы|фэ| сылэжьэщтэп",
+            "translation": "I will not work |until| I am done studying."
+          },
+		  {
+            "sentence": "Къалэм тынэсы|фэ| орэд горэм тегъэдэ1у",
+            "translation": "|Until| we reach he city let us hear some song."
+          }
+        ]
+      }
+    ],
+    "type": "suffix",
+    "ipa": "-fa"
+  },
+  {
+    "word": "-нэс",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(added to verbs) a verbal suffix that indicates an event that will happen until the verb is done",
+        "examples": [
+		  {
+            "sentence": "Сылажьэу сыухы|нэс| къэспаплъ",
+            "translation": "Wait |until| I am done working."
+          },
+		  {
+            "sentence": "Сышхэ|нэс| сыкъыдэк1ыщтэп",
+            "translation": "I will not go out |until| I eat."
+          },
+		  {
+            "sentence": "Фылымыр къиублэ|нэс|, зы видио горэм тегъэплъ",
+            "translation": "|Until| the film starts, let us watch some video."
+          },
+		  {
+            "sentence": "К1алэр къэк1о|нэс| къэбар тэ1уатэу унэм тисыгъ",
+            "translation": "|Until| the boy came, we were talking in the house."
+          },
+		  {
+            "sentence": "Еджэныр сыухы|нэс| сылэжьэщтэп",
+            "translation": "I will not work |until| I am done studying."
+          },
+		  {
+            "sentence": "Къалэм тынэсы|нэс| орэд горэм тегъэдэ1у",
+            "translation": "|Until| we reach he city let us hear some song."
+          }
+        ]
+      }
+    ],
+    "type": "suffix",
+    "ipa": "-nas"
+  },
+  {
+    "word": "-шъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(added to verbs) designates the ability to perform the indicated action.",
+        "examples": [
+		  {
+            "sentence": "Сэ псынк1эу сэчъэ|шъу|",
+            "translation": "I |can| run fast."
+          },
+		  {
+            "sentence": "Сэ зэманым псынк1эу сычъэ|шъу|щтыгъ",
+            "translation": "I used to be |able to| run fast in the past."
+          },
+		  {
+            "sentence": "Бэрэ седжэ|шъу|щтэп",
+            "translation": "I |can| not study for a long time."
+          },
+		  {
+            "sentence": "Сэ гъуч1ы онтэгъур къэсыштэ|шъу|гъ",
+            "translation": "I |managed| to lift the heavy iron."
+          },
+		  {
+            "sentence": "Л1ым унэ изакъоу ыш1ы|шъу|гъ",
+            "translation": "The man |managed| to build a house alone."
+          },
+		  {
+            "sentence": "Сэ сизакъоу седжэ|шъу|щтэп",
+            "translation": "I |can| not study alone."
+          }
+        ]
+      },
+	  {
+        "meaning": "(added to verbs) designates the possibility to perform the indicated action.",
+        "examples": [
+		  {
+            "sentence": "Непэ къещхы|шъу|щт",
+            "translation": "Today it |can| rain."
+          },
+		  {
+            "sentence": "А фылымым непэ теплъы|шъу|щт",
+            "translation": "We |can| watch that movie today."
+          },
+		  {
+            "sentence": "Уц1эшъутэ|шъу|щт",
+            "translation": "You |can| slip"
+          },
+		  {
+            "sentence": "Щэнаут уешъомэ ул1э|шъу|щт",
+            "translation": "If you drink poison you |can| die."
+          },
+		  {
+            "sentence": "Усымаджэм ул1э|шъу|щтыгъ",
+            "translation": "When you were sick you |could| have died."
+          }
+        ]
+      },
+	  {
+        "meaning": "(added to verbs) designates the successfulness of performing the indicated action.",
+        "examples": [
+		  {
+            "sentence": "Америкэм тынэсы|шъу|щт",
+            "translation": "We |can| reach America."
+          },
+		  {
+            "sentence": "Лъакъок1э Америкэм тынэсы|шъу|щтэп",
+            "translation": "We |can| not reach America by foot."
+          },
+		  {
+            "sentence": "Экзаменым шъэ къипхы|шъу|щт",
+            "translation": "You |can| score hundred in the exam."
+          }
+        ]
+      }
+    ],
+    "type": "suffix",
+    "ipa": "-ʃʷ"
   },
   {
     "word": "шъхьап",
@@ -121710,15 +122700,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "by mistake; mistakenly",
+        "meaning": "by mistake; mistakenly; unintentionally",
         "examples": [
           {
             "sentence": "|Ымыш1ахэу| пхъэр шъхьангъупчъэм ригъэуал1и апчыр хыригъэутыгъ",
             "translation": "He collided the wood into the window |by mistake| and broke the glass."
           },
           {
-            "sentence": "|Сымыш1ахэу| сыкъутагъ 1анэр.",
+            "sentence": "|Сымыш1ахэу| сыкъутагъ 1анэр",
             "translation": "I broke the table |by mistake|."
+          },
+          {
+            "sentence": "К1алэм |ымыш1ахэу| уатэк1э ы1эхъуамбэ еожьыгъ",
+            "translation": "The boy hit his finger with a hammer |by mistake|."
           }
         ]
       }
