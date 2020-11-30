@@ -13696,7 +13696,7 @@
     "rag": "хъэдэн; бзыхьаф (scrap); хъэдэн ц1ынэ"
   },
   {
-    "for":пае; фэш1; фэш1к1э; фэ- (verbal prefix that designates action performed for someone's sake or for some reason)"
+    "for": "пае; фэш1; фэш1к1э; фэ- (verbal prefix that designates action performed for someone's sake or for some reason)"
   },
   {
     "in order to": "ащ пае / ащ фэш1к1э / джащ пае / джащ фэш1ык1э"
@@ -18275,7 +18275,7 @@
   },
   {
     "unintentionally": "ымыш1ахэу; 1эк1э- (verbal prefix that denotes unintentional actions or actions that occurred unexpectedly)"
-  }
+  },
   {
     "to decapitate": "шъхьэ ш1охын (to cut someone's head off)"
   },
