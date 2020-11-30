@@ -14437,7 +14437,7 @@
     "while": "пэтырэ; -эу (whilte, a verbal suffix that can be used to indicate the period in which the verb was being done)"
   },
   {
-    "already": "-гъах (a verbal suffix that can be used to indicate that the verb was done/complicated))"
+    "already": "-гъах (a verbal suffix that can be used to indicate that the verb was done/complicated)"
   },
   {
     "done": "-гъах (a verbal suffix that can be used to indicate that the verb was done/complicated)"

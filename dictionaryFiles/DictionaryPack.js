@@ -116709,7 +116709,7 @@
 		  {
             "sentence": "Къашъом зы|фэ|бгъэухьазырыгъа?",
             "translation": "Did you prepare |for| the dance?"
-          }
+          },
 		  {
             "sentence": "Тхьэм къэс|ф|елъэ1у",
             "translation": "Pray to God |for| me."
@@ -117034,7 +117034,7 @@
         "meaning": "(added to verbs) a verbal suffix that designates absolute accomplishment/realization of the action",
         "examples": [
 		  {
-            "sentence": "Л1ым лажьэу егупшысагъ лэжьэ|гъахэ|мэ сыд ыш1эщтыр",
+            "sentence": "Л1ыр лажьэу егупшысагъ лэжьэ|гъахэ|мэ сыд ыш1эщтыр",
             "translation": "The man while working thought what he will do after he |done| working."
           },
 		  {
