@@ -1817,7 +1817,45 @@
     "ipa": "pəl"
   },
   {
-    "word": "гущы1алъ",
+    "word": "пыгъэчэрэзэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to screw on",
+        "examples": []
+      }
+    ],
+    "shapsug": "пыгъэкьэрэзэн",
+    "type": "verb",
+    "ipa": "pəʁat͡ʃarazan"
+  },
+  {
+    "word": "пыгъэчэрэгъон",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to screw on",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "pəʁat͡ʃaraʁʷan"
+  },
+  {
+    "word": "пыгъэчэрэзыхьан",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to screw on",
+        "examples": []
+      }
+    ],
+    "shapsug": "пыгъэкьэрэзэхьын",
+    "type": "verb",
+    "ipa": "pəʁat͡ʃarazəħaːn"
+  },
+  {
+    "word": "гущы1алъэ",
     "lang": "Adyghe",
 	"etymology": "From гущы1э (word) + -алъ (tool suffix)",
     "definitions": [
@@ -3406,7 +3444,7 @@
     "ipa": "pʂatəq"
   },
   {
-    "word": "1этыгъ",
+    "word": "1этыгъэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -10314,6 +10352,39 @@
     "ipa": "pʂaːʂa"
   },
   {
+    "word": "к1элэц1ык1у",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "little kid; young boy; little boy",
+        "examples": [
+          {
+            "sentence": "|К1элэц1ык1ур| джэгуалъэм реджэгу",
+            "translation": "|The little boy| is playing with the toy."
+          },
+          {
+            "sentence": "|К1элэц1ык1умэ| зачъэхьажьы",
+            "translation": "|The little boys| are running around."
+          },
+		  {
+            "sentence": "|К1элэц1ык1ухэр| ощэха паркым?",
+            "translation": "Are you taking |the little kids| to the park?"
+          },
+		  {
+            "sentence": "|К1элэц1ык1ум| осыл1 осым хеш1ыхьэ",
+            "translation": "|The boy| makes a snowman in the snow."
+          },
+		  {
+            "sentence": "|К1элэц1ык1ум| сымаджэу зеш1ы еджап1эм амыгъэк1он пае",
+            "translation": "|The little boy| pretends to be sick, so he won't be sent to school."
+          }
+        ]
+      }
+    ],
+    "type": "noun",
+    "ipa": "t͡ʃʼaːlat͡sʼəkʷʼ"
+  },
+  {
     "word": "к1алэ",
     "lang": "Adyghe",
     "definitions": [
@@ -13920,6 +13991,14 @@
         "meaning": "sea",
         "examples": [
 		  {
+            "sentence": "Сэ |хым| сыхэхьагъ",
+            "translation": "I entered |the sea|."
+          },
+		  {
+            "sentence": "К1алэм мыжъор |хым| хидзагъ",
+            "translation": "The boy threw the stone inside |the sea|."
+          },
+		  {
             "sentence": "Къухьэр |хым| ык1ы1у тетышъу",
             "translation": "The ship can float on the surface of |the sea|."
           },
@@ -14297,8 +14376,8 @@
             "translation": "The boy |is looking| at the tree."
           },
 		  {
-            "sentence": "Л1ыр |нэрыплъымк1э| маплъэ",
-            "translation": "The man is looking |with the binocular|."
+            "sentence": "Л1ыр нэрыплъымк1э |маплъэ|",
+            "translation": "The man |is looking| with the binocular."
           },
           {
             "sentence": "Унэ плъыжьым |еплъ|",
@@ -21964,18 +22043,18 @@
     "ipa": "kʷapsa"
   },
   {
-    "word": "къурнэ",
+    "word": "къогъонэ",
     "lang": "Adyghe",
     "definitions": [
       {
         "meaning": "corner",
         "examples": [
           {
-            "sentence": "К1алэр |къурнэм| къоуцуагъ",
+            "sentence": "К1алэр |къогъонэм| къоуцуагъ",
             "translation": "The boy went and stood in |the corner|."
           },
 		  {
-            "sentence": "Пхъэнк1ыпхъэр |къурнэм| къолъ",
+            "sentence": "Пхъэнк1ыпхъэр |къогъонэм| къолъ",
             "translation": "The broom is in |the corner|."
           }
         ]
@@ -97909,11 +97988,11 @@
         "meaning": "to handle something; to deal with; to manage something",
         "examples": [
           {
-            "sentence": "Мы 1офым |се1эщэщт| сэ",
+            "sentence": "Мы 1офым |се1эзэщт| сэ",
             "translation": "|I will deal with| this work."
           },
           {
-            "sentence": "1офым |се1эщэшъущтэп|",
+            "sentence": "1офым |се1эзэшъущтэп|",
             "translation": "|I cannot handle| the work."
           }
         ]

@@ -450,7 +450,7 @@
     "angle": "къуапэ; къогъу"
   },
   {
-    "corner": "къогъу; къуач1э; къуапэ; (dialectal) къурнэ"
+    "corner": "къогъу; къуач1э; къуапэ; къогъонэ"
   },
   {
     "solitude": "зэкъоныгъ"
@@ -14533,7 +14533,7 @@
     "to kick": "шъутырын; ешъутырын (to kick something or someone); хэшъутырэн / жэхэшъутырэн (to intensively kick someone or something); хэшъутырыхьан (to continuously kick someone, to beat someone by kicking them); ч1эшъутырэн (to kick under); ишъутырэн (to kick inside)"
   },
   {
-    "to screw": "(vulgar) п1ысын"
+    "to screw": "пыгъэчэрэзэн (to screw on); пыгъэчэрэгъон (to screw on); пыгъэчэрэзыхьан (to screw on)"
   },
   {
     "to stuck": "дэгъэнэн"
