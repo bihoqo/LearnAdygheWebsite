@@ -12033,12 +12033,12 @@
             "translation": "To |name| a child."
           },
 		  {
-            "sentence": "Кӏалэм  |ыцӏэкӏэ| къедж",
-            "translation": "Call the boy |with his name|"
+            "sentence": "Кӏалэм |ыцӏэкӏэ| къедж",
+            "translation": "Call the boy |by his name|"
           },
 		  {
-            "sentence": "Кӏалэм  |ыцӏэ| кӏыхьэ",
-            "translation": "The boy's |name| is long."
+            "sentence": "Кӏалэм |цӏэ| кӏыхь иӏ",
+            "translation": "The boy has a long |name|."
           }
         ]
       },
@@ -70143,7 +70143,7 @@
           },
           {
             "sentence": "Мэкъэшхом |сыригъэгупшысэрэп|",
-            "translation": "The huge noise |doesn't let me think|."
+            "translation": "The loud noise |doesn't let me think|."
           },
           {
             "sentence": "Матэматыкэмкӏэ дэгъоу |уегупшысэн| фай",
@@ -70151,7 +70151,7 @@
           },
           {
             "sentence": "О ехъурэм |сегупшысэрэп|",
-            "translation": "|I can't think of| anything expect you."
+            "translation": "|I don't think of| anything expect you."
           },
           {
             "sentence": "Кӏалэр экзамыным ехъурэм |егупшысэшъущтэп|",
@@ -70163,7 +70163,7 @@
           },
           {
             "sentence": "Кӏалэр |егупшысэ| сыд ышӏэщтыр",
-            "translation": "The boy |is thinking| what he going do."
+            "translation": "The boy |is thinking| what he will do."
           },
           {
             "sentence": "|Егупшыс|",
@@ -70174,7 +70174,7 @@
             "translation": "|I thought about| that."
           },
           {
-            "sentence": "Томым тӏурэ |емыгупшысэу| епӏорэрр ешӏэ",
+            "sentence": "Томым тӏурэ |емыгупшысэу| епӏорэр ешӏэ",
             "translation": "Tom does what you tell him |without thinking| twice."
           }
         ]
@@ -100738,7 +100738,7 @@
         "examples": [
           {
             "sentence": "Пшъашъэм |пцӏы еусы|",
-            "translation": "The boy |is lying|."
+            "translation": "The girl |is lying|."
           },
           {
             "sentence": "Кӏалэр ыянэ |пцӏы феусы|",
