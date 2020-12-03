@@ -117324,7 +117324,7 @@
             "translation": "I |made| my mother do food for me."
           },
 		  {
-            "sentence": "Сшынахьакӏ сыри|гъа|джэрэп",
+            "sentence": "Сшынахьыкӏ сыри|гъа|джэрэп",
             "translation": "My little brother does not |let| me to study."
           },
 		  {
