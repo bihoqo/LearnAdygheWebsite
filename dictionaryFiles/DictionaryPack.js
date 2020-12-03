@@ -11518,7 +11518,7 @@
         "examples": [
           {
             "sentence": "|Тиунэ| некӏо тыжъугъакӏу",
-            "translation": "Let's us go to |my house|."
+            "translation": "Let's go to |my house|."
           },
 		  {
             "sentence": "|Шъуиунэ| тыкъэкӏощт",
