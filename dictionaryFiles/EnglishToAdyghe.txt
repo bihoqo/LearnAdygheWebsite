@@ -7838,7 +7838,7 @@
   },
   {
     "to command": "унашъо шӏын; гъэӏорышӏэн; гъэ- (causative prefix, a verbal prefix that designates causation, meaning, it indicates that the subject forced, compelled, made, ordered, allowed, permitted, given the opportunity to, etc.)"
-  }
+  },
   {
     "to order": "унашъо шӏын; гъэӏорышӏэн; гъэ- (causative prefix, a verbal prefix that designates causation, meaning, it indicates that the subject forced, compelled, made, ordered, allowed, permitted, given the opportunity to, etc.)"
   },
