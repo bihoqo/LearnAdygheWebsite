@@ -117288,11 +117288,15 @@
             "translation": "To eat - to |feed|."
           },
 		  {
-            "sentence": "Кӏыхьэ - |гъэ|кӏыхьан",
+            "sentence": "Хьазыр - |гъэ|ухьазырын",
+            "translation": "Ready - to |prepare|."
+          },
+		  {
+            "sentence": "Кӏыхьэ - |гъэ|укӏыхьан",
             "translation": "Long - to |longen|."
           },
 		  {
-            "sentence": "Кӏако - |гъэ|кӏэкон",
+            "sentence": "Кӏако - |гъэ|укӏэкон",
             "translation": "Short - to |shorten|."
           },
 		  {
