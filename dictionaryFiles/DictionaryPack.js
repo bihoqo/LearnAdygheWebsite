@@ -117325,7 +117325,7 @@
           },
 		  {
             "sentence": "Сшынахьыкӏ сыри|гъа|джэрэп",
-            "translation": "My little brother does not |let| me to study."
+            "translation": "My little brother does not |let| me study."
           },
 		  {
             "sentence": "Скъо тутын есэ|гъа|шъо",
