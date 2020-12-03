@@ -117273,7 +117273,72 @@
     "definitions": [
       {
         "meaning": "causative prefix, a verbal prefix that designates causation, meaning, it indicates that the subject forced, compelled, caused something to, made, ordered, allowed, permitted, manipulated someone to, given the opportunity to, etc.",
-        "examples": []
+        "examples": [
+		  {
+            "sentence": "Къегурыӏо - къе|гъэ|гурыӏон",
+            "translation": "(S)he understands - to |make| him/her understand."
+          },
+		  {
+            "sentence": "Мэлажьэ - |гъэ|лэжьэн",
+            "translation": "(S)he works - to |make| him/her work."
+          },
+		  {
+            "sentence": "Шхэн - |гъэ|шхэн",
+            "translation": "To eat - to |feed|."
+          },
+		  {
+            "sentence": "Кӏыхьэ - |гъэ|кӏыхьан",
+            "translation": "Long - to |longen|."
+          },
+		  {
+            "sentence": "Кӏако - |гъэ|кӏэкон",
+            "translation": "Short - to |shorten|."
+          },
+		  {
+            "sentence": "Сымэджэн - |гъэ|сымэджэн",
+            "translation": "To get sick - to |sicken|."
+          },
+		  {
+            "sentence": "Дэ1он - |гъэ|дэ1он",
+            "translation": "To listen - to make someone |listen (and obey)|."
+          },
+		  {
+            "sentence": "Пытэ - |гъэ|пытэн",
+            "translation": "Hard - to |harden|."
+          },
+		  {
+            "sentence": "Лэнлагъ - |гъэ|лэнлэн",
+            "translation": "Loosed - to |loosen|."
+          },
+		  {
+            "sentence": "Кӏалэр еджапӏэм сы|гъэ|кӏуагъ",
+            "translation": "I |made| the boy go to school."
+          },
+		  {
+            "sentence": "Сянэ шхын сэщпае къез|гъэ|шӏыгъ",
+            "translation": "I |made| my mother do food for me."
+          },
+		  {
+            "sentence": "Сянэ шхын сэщпае къез|гъэ|шӏыгъ",
+            "translation": "I |made| my mother do food for me."
+          },
+		  {
+            "sentence": "Сшынахьакӏ сыри|гъа|джэрэп",
+            "translation": "My little brother does not |let| me to study."
+          },
+		  {
+            "sentence": "Скъо тутын есэ|гъа|шъо",
+            "translation": "I |let| my son smoke."
+          },
+		  {
+            "sentence": "Фылым тежъу|гъэ|плъ",
+            "translation": "|Let| us watch a movie."
+          },
+		  {
+            "sentence": "Чъыӏэм си|гъэ|сымэджагъ",
+            "translation": "The cold |made| me sick."
+          }
+        ]
       }
     ],
     "type": "prefix",
