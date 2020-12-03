@@ -70616,7 +70616,7 @@
         "examples": [
           {
             "sentence": "Кӏалэр |мэхъые|",
-            "translation": "The boy |is going|."
+            "translation": "The boy |is moving|."
           },
           {
             "sentence": "Кӏэлэцӏыкӏур |хъыешъуа?|",
