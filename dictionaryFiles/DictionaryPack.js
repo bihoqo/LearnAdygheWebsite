@@ -41001,7 +41001,7 @@
         "examples": [
           {
             "sentence": "|Пытым| шхын щысышӏыгъ",
-            "translation": "I made foood in |the kitchen|"
+            "translation": "I made food in |the kitchen|"
           },
 		  {
             "sentence": "|Пытым| сыщэпщэрыхьы",

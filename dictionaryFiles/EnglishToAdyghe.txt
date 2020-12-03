@@ -3264,19 +3264,19 @@
     "work": "ӏофы (work, job); лъэжьапӏэ (workplace, worksite); пшъэрылъ (task); ӏофшӏэн (work to do, tasks); хъызмэт (chores, housework)"
   },
   {
-    "to work": "ӏоф шӏэн (to do work); лъэжьэн / къэлэжьэн (to work); пылэжьэхьан (to work on something)"
+    "to work": "ӏоф шӏэн (to do work); лэжьэн / къэлэжьэн (to work); пылэжьэхьан (to work on something)"
   },
   {
     "to work on": "пылэжьэхьан"
   },
   {
-    "workplace": "лъэжьапӏэ"
+    "workplace": "лэжьапӏэ"
   },
   {
-    "worksite": "лъэжьапӏэ"
+    "worksite": "лэжьапӏэ"
   },
   {
-    "factory": "лъэжьапӏэ; фабрикэ"
+    "factory": "лэжьапӏэ; фабрикэ"
   },
   {
     "pasture": "хъупӏэ"
