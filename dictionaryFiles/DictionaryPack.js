@@ -117300,7 +117300,7 @@
             "translation": "To get sick - to |sicken|."
           },
 		  {
-            "sentence": "Дэ1он - |гъэ|дэ1он",
+            "sentence": "Дэӏон - |гъэ|дэӏон",
             "translation": "To listen - to make someone |listen (and obey)|."
           },
 		  {
