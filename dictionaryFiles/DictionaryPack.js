@@ -29465,7 +29465,7 @@
         ]
       },
       {
-        "meaning": "to look with a lot of desire",
+        "meaning": "(rare) to look with a lot of desire",
         "examples": [
           {
             "sentence": "К1элэц1ык1ур джэгуалъэхэмэ |анэц1ы|",
@@ -29478,11 +29478,15 @@
         "examples": []
       },
       {
-        "meaning": "to long for",
+        "meaning": "to desire something that one does not have; to long for",
         "examples": [
           {
+            "sentence": "Л1ыр мы кум |енэц1ы|",
+            "translation": "The man |badly desires| this car."
+          },
+		  {
             "sentence": "К1алэм иджанэхэм |санэц1ы|",
-            "translation": "|I am longing for| the boy's clothes."
+            "translation": "|I desire| the boy's clothes."
           },
           {
             "sentence": "Гунахьыхэм |уамынэц1|",
@@ -43695,6 +43699,10 @@
           {
             "sentence": "К1алэм |хилъхьагъ|",
             "translation": "The boy |is screwed|."
+          },
+		  {
+            "sentence": "1офымк1э |хэсылъхьагъ|",
+            "translation": "|I got screwed| in work."
           }
         ]
       }
@@ -50967,10 +50975,6 @@
             "translation": "Lay down the gun and |raise| your hands."
           }
         ]
-      },
-      {
-        "meaning": "(Kfar Kama dialect slang vulgar) to have sexual intercourse; to fuck",
-        "examples": []
       }
     ],
     "type": "verb",
@@ -56707,7 +56711,7 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to forgive",
+        "meaning": "to forgive someone; to excuse someone",
         "examples": [
           {
             "sentence": "|Къэсфэгъэгъу|",
@@ -60731,6 +60735,10 @@
           {
             "sentence": "Ахэр дэгъоу |къызгуры1ох|",
             "translation": "|I can understand| them well."
+          },
+		  {
+            "sentence": "Л1ым игущы1ак1э 1эш1эхэу |къыбгуры1онэу| щыт",
+            "translation": "The way the man speaks is easy |to understand|."
           },
           {
             "sentence": "Къэс1орэ о |къыбгуры1уа|?",
@@ -67340,6 +67348,15 @@
             "translation": "|Move| the table |away from| the door and let me pass."
           }
         ]
+      },
+	  {
+        "meaning": "to neglect",
+        "examples": [
+          {
+            "sentence": "Л1ым 1офэу телъыхэр |щегъэзыех|",
+            "translation": "The man |neglects| the tasks that are on him."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -73885,11 +73902,11 @@
           {
             "sentence": "К1элэ |цумэнэжъ|",
             "translation": "|An idiotic| boy."
+          },
+          {
+            "sentence": "|Цуманэхэмэ| афэдэу тагъэлэжьагъ",
+            "translation": "They made us work like |idiots|."
           }
-        ],
-        "tags": [
-          "vulgar"
-        ]
       }
     ],
     "type": "adj",
@@ -80795,6 +80812,10 @@
           {
             "sentence": "Тест |1эш1эх|",
             "translation": "|Easy| test."
+          },
+		  {
+            "sentence": "Л1ым игущы1ак1э |1эш1эхэу| къыбгуры1онэу щыт",
+            "translation": "The way the man speaks is |easy| to understand."
           },
           {
             "sentence": "К1алэм |1эш1эхэу| кур ыш1ыжьыгъ",
@@ -89394,15 +89415,10 @@
           {
             "sentence": "Пчъэм |сыдэбэгъанэ|",
             "translation": "|You are making me stuck| in the door."
-          }
-        ]
-      },
-      {
-        "meaning": "(vulgar, slang) to fuck",
-        "examples": [
-          {
-            "sentence": "|Удэзгъэнэщт| джы сыкъэпгъэгубжымэ",
-            "translation": "|I gonna fuck you| if you now gonna make me angry."
+          },
+		  {
+            "sentence": "Дэгъэчъым с1э |дэзгъэнэжьыгъ|",
+            "translation": "|I made my arm stuck| in the drawer."
           }
         ]
       }
@@ -90088,7 +90104,7 @@
         "meaning": "to successfully reach for something (usually with the hands)",
         "examples": [
           {
-            "sentence": "Л1ыжъым ибэщ ежь |нэ1эбэшъурэп|",
+            "sentence": "Л1ыжъым ибэщ ежь |нэ1эбэсышъурэп|",
             "translation": "The old man |can't reach| his stick."
           },
           {
@@ -90315,10 +90331,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to slip over a",
+        "meaning": "to slip over something",
         "examples": [
           {
-            "sentence": "К1алэр джэхашъо ц1ашъутэм |тэц1эшъутык1эгъ|",
+            "sentence": "К1алэр джэхашъо ц1ашъутэм |тец1эшъутык1ыгъ|",
             "translation": "The boy |slipped over| the slippery surface."
           },
           {
@@ -90328,6 +90344,15 @@
           {
             "sentence": "К1алэр къо1усым |тец1эшъутык1ыгъ|",
             "translation": "The boy |slipped over| the banana"
+          }
+        ]
+      },
+	  {
+        "meaning": "to bounce off something",
+        "examples": [
+          {
+            "sentence": "Рекетыр ашъокум |тец1эшъутык1ыгъ|",
+            "translation": "The rocket |bounced off| the tank."
           }
         ]
       }
@@ -96374,6 +96399,27 @@
     "ipa": "ma ʔaʃʷʼ"
   },
   {
+    "word": "фэшъошэн",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to deserve",
+        "examples": [
+          {
+            "sentence": "К1алэм ахъщэу къыратыгъэр |фэшъуаш|",
+            "translation": "The money the boy got |is deserving|."
+          },
+		  {
+            "sentence": "К1алэм щыш1ыгъэр |фэшъуаш|",
+            "translation": "The thing that happened to the boy |is deserving|."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "faʃʷaʃan"
+  },
+  {
     "word": "1отэн",
     "lang": "Adyghe",
     "definitions": [
@@ -96471,7 +96517,7 @@
         ]
       },
 	  {
-        "meaning": "to explain",
+        "meaning": "to describe; to explain",
         "examples": [
           {
             "sentence": "К1элэегъаджэм |къи1отагъ| таущтэу уеджэщт",
@@ -101941,7 +101987,7 @@
         ]
       },
 	  {
-        "meaning": "to make someone obey",
+        "meaning": "to make someone obey; to compel",
         "examples": [
 		  {
             "sentence": "Ным ыкъо |ыгъэ1орыш1эшъущтэп|",
@@ -106758,13 +106804,34 @@
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "to be",
+        "examples": [
+		  {
+            "sentence": "Л1ым игущы1ак1э 1эш1эхэу къыбгуры1онэу |щыт|",
+            "translation": "The way the man speaks |is| easy to understand."
+          },
+		  {
+            "sentence": "Лэжьэныр къинэу |щыт|",
+            "translation": "Working |is| hard."
+          },
+		  {
+            "sentence": "Дахэу |ущытын| фай",
+            "translation": "You must |be| organized."
+          },
+		  {
+            "sentence": "Улажьэу |ущытын| фай",
+            "translation": "You must |be| working."
+          }
+        ]
+      },
+	  {
         "meaning": "to stand",
         "examples": []
       },
       {
         "meaning": "probably",
         "examples": [
-          {
+		  {
             "sentence": "К1алэр тучаным к1уагъэу |щытын|",
             "translation": "The boy |probably| went to the shop."
           },
@@ -111680,23 +111747,19 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to pop, to burst (to break from internal pressure)",
-        "examples": []
-      },
-      {
-        "meaning": "to bubble up from heat",
+        "meaning": "to burst during boiling",
         "examples": [
           {
             "sentence": "Псыр угъэплъымэ |п1онк1эу| ежьэ",
-            "translation": "When you heat up water it start |bubbling up|."
+            "translation": "When you heat up water it start |to burst|."
           },
 		  {
             "sentence": "Псыр |мэп1онк1ы|",
-            "translation": "The water |is bubbling up|."
+            "translation": "The water |is bursting up|."
           },
 		  {
             "sentence": "Псыр |гъэп1онк1|",
-            "translation": "|Bubble up| the water."
+            "translation": "|Burst up| the water."
           }
         ]
       }
@@ -111743,11 +111806,11 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to cause to burst; to bubble up",
+        "meaning": "to boil liquid until it starts to burst",
         "examples": [
           {
             "sentence": "Псыр |гъэп1орк1|",
-            "translation": "|To burst| the water."
+            "translation": "|Boil| the water."
           }
         ]
       }
@@ -116988,6 +117051,43 @@
             "translation": "I came |from| here."
           }
         ]
+      },
+	  {
+        "meaning": "(added to verrbs) a verbal suffix which is appended to verbs to form nouns meaning: the manner in which someone did the action",
+        "examples": [
+          {
+            "sentence": "К1он - ик1уак1э",
+            "translation": "(S)he goes - the way (s)he goes."
+          },
+		  {
+            "sentence": "Тхэн - итхак1э",
+            "translation": "(S)he writes - the way (s)he writes."
+          },
+		  {
+            "sentence": "Угущы1а|к1э| сик1асэп, ухъонэзэпыт",
+            "translation": "I don't like |how| you speak, you always swear."
+          },
+		  {
+            "sentence": "Л1ым игущы1а|к1э| 1эш1эхэу къыбгуры1онэу щыт",
+            "translation": "The |way| the man speaks is easy to understand."
+          },
+		  {
+            "sentence": "Адыгабзэк1э еджа|к1э| сыш1эрэп",
+            "translation": "I do not know |how| to speak Circassian."
+          },
+		  {
+            "sentence": "Ку фы|к1э| сыш1эрэп",
+            "translation": "I do not know |how| to drive a car."
+          },
+		  {
+            "sentence": "Тха|к1э| сэш1ы",
+            "translation": "I know |how| to write."
+          },
+		  {
+            "sentence": "Уитха|к1э| дахэ",
+            "translation": "The |way| you write is beautiful."
+          }
+        ]
       }
     ],
     "shapsug": "-гьэ",
@@ -117168,6 +117268,137 @@
     "ipa": "-ʁaːx"
   },
   {
+    "word": "гъэ-",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "causative prefix, a verbal prefix that designates causation, meaning, it indicates that the subject forced, compelled, caused something to, made, ordered, allowed, permitted, manipulated someone to, given the opportunity to, etc.",
+        "examples": []
+      }
+    ],
+    "type": "prefix",
+    "ipa": "ʁa-"
+  },
+  {
+    "word": "-рагъу",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(Shapsug dialect) a verbal suffix that indicates the desirement to do that action",
+        "examples": [
+		  {
+            "sentence": "Тучаным сык1о|рагъу|",
+            "translation": "I |want| to go to the shop."
+          },
+		  {
+            "sentence": "Сылэжьэ|рагъо|п",
+            "translation": "I do not |want| to work."
+          },
+		  {
+            "sentence": "Ныпчыхьэ укъэшхэ|рагъу|а?",
+            "translation": "Do you |want| to eat tonight?"
+          },
+		  {
+            "sentence": "Седжэ|рэгъо|щтыгъэмэ седжэщтыгъэба?",
+            "translation": "If I |wanted| to study wouldn't I study?"
+          }
+        ]
+      }
+    ],
+    "type": "suffix",
+    "ipa": "-raːʁʷ"
+  },
+  {
+    "word": "-хы",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "a verbal suffix that indicates that the action is directed downward",
+        "examples": [
+		  {
+            "sentence": "Мао - ео|хы|",
+            "translation": "Shoots - shoots |downward|."
+          },
+		  {
+            "sentence": "Едзы - редзы|хы|",
+            "translation": "Throws - throws |downward|."
+          },
+		  {
+            "sentence": "Мапк1э - епк1э|хы|",
+            "translation": "Jumps - jumps |downward|."
+          },
+		  {
+            "sentence": "Мэджыдж - еджыджэ|хы|",
+            "translation": "Rolls - rolls |downward|."
+          },
+		  {
+            "sentence": "К1алэр унашъхьэм къеплъэ|хы|гъ",
+            "translation": "The boy looked |downward| from the roof."
+          },
+		  {
+            "sentence": "Л1ыр къушъхьэм къечъэ|хы|гъ",
+            "translation": "The man ran |down| from the mountain"
+          },
+		  {
+            "sentence": "Сшы тучаным есэ|щэ|хы",
+            "translation": "I am talking my brother |down| to the shop."
+          },
+		  {
+            "sentence": "К1ашъор къехьэ|х|",
+            "translation": "|Lower| the ceiling."
+          }
+        ]
+      }
+    ],
+    "type": "suffix",
+    "ipa": "-xə"
+  },
+  {
+    "word": "дэ-ен",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "a verbal affix that indicates that the action is directed upward",
+        "examples": [
+		  {
+            "sentence": "Мао - |дэ|уа|е|",
+            "translation": "Shoots - shoots |upward|."
+          },
+		  {
+            "sentence": "Едзы - |д|едзы|е|",
+            "translation": "Throws - throws |upward|."
+          },
+		  {
+            "sentence": "Мапк1э - |дэ|пк1а|е|",
+            "translation": "Jumps - jumps |upward|."
+          },
+		  {
+            "sentence": "Маллъэ - |дэ|плъа|е|",
+            "translation": "Looks - looks |upward|."
+          },
+		  {
+            "sentence": "К1алэр унашъхьэм |дэ|пк1ы|е|шъущтэп",
+            "translation": "The boy cannot jump |up| the roof."
+          },
+		  {
+            "sentence": "Л1ыр къушъхьэм |дэ|чъэ|я|гъ",
+            "translation": "The man ran |up| the mountain"
+          },
+		  {
+            "sentence": "Сшы тучаным |дэ|сэ|ща|е",
+            "translation": "I am talking my brother |up| to the shop."
+          },
+		  {
+            "sentence": "К1ашъор |дэ|хьы|й|",
+            "translation": "|Raise| the ceiling."
+          }
+        ]
+      }
+    ],
+    "type": "suffix",
+    "ipa": "da-jan"
+  },
+  {
     "word": "-эп",
     "lang": "Adyghe",
     "definitions": [
@@ -117234,6 +117465,10 @@
 		  {
             "sentence": "Бэрэ уеджэ|мэ| экзаменыр къыпфэш1ыщт",
             "translation": "|If| you study a lot you could do the exam."
+          },
+		  {
+            "sentence": "Седжэнэу сыфэещтыгъэ|мэ| седжэщтыгъэба?",
+            "translation": "|If| I wanted to study wouldn't I study?"
           }
         ]
       }
@@ -132496,11 +132731,28 @@
     "ipa": "jawt͡ʃʷaɬʼan"
   },
   {
+    "word": "пк1ыхь лъэгъун",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to dream; to see a dream",
+        "examples": [
+          {
+            "sentence": "|Пк1ыхь слъэгъугъ| сыбыбэу",
+            "translation": "|I saw a dream| of me flying."
+          }
+        ]
+      }
+    ],
+    "type": "verb",
+    "ipa": "pt͡ʃʼəħ ɬaʁʷən"
+  },
+  {
     "word": "тегущы1эн",
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "to talk about",
+        "meaning": "to talk about; to discuss on",
         "examples": [
           {
             "sentence": "Л1ыхэр 1офым |къытегущы1эхэу| зэхэсхыгъэх",
@@ -136645,6 +136897,18 @@
     ],
     "type": "verb",
     "ipa": "pxərəwʁʷanət͡ʃʼən"
+  },
+  {
+    "word": "пхырытхъын",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "to break through; to breach",
+        "examples": []
+      }
+    ],
+    "type": "verb",
+    "ipa": "pxərətχən"
   },
   {
     "word": "бзэгухь",

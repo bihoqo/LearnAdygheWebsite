@@ -3084,7 +3084,7 @@
     "unrecognized": "аш1омыш1"
   },
   {
-    "best part": "ш1упӏэ; дэгъупӏэ"
+    "best part": "ш1уп1э; дэгъуп1э"
   },
   {
     "chain mail": "ашъо"
@@ -4293,7 +4293,7 @@
     "troublesome": "ш1ык1ай"
   },
   {
-    "manner": "шэн"
+    "manner": "шэн; -к1э (a verbal suffix which is appended to verbs to form nouns meaning: the manner in which someone did the action, how someone did the action, the way someone did the action)"
   },
   {
     "good manner": "шэн дэгъу; шэн дах"
@@ -4711,34 +4711,40 @@
     "to come up to": "ек1ун"
   },
   {
-    "to come up with": "къэугупшысын / къэгупшысын / къыч1эхын (to invent something, to come up with, to make up something, to think out something, to devise, to contrive, to create in one's mind); зэхэлъхьан (to put together)"
+    "to screw over": "(vulgar) хэгъэц1эн; хэгъэумэнэн; хегъэлъхьан"
   },
   {
-    "to devise": "къэугупшысын / къэгупшысын / къыч1эхын (to invent something, to come up with, to make up something, to think out something, to devise, to contrive, to create in one's mind); зэхэлъхьан (to put together)"
+    "to get screwed over": "(vulgar) хэц1эн; хэумэнэн; хэлъхьан"
   },
   {
-    "to contrive": "къэугупшысын / къэгупшысын / къыч1эхын (to invent something, to come up with, to make up something, to think out something, to devise, to contrive, to create in one's mind); зэхэлъхьан (to put together)"
+    "to come up with": "къэугупшысын; къэгупшысын; къыч1эхын; зэхэлъхьан (to put together)"
   },
   {
-    "to invent": "къэугупшысын / къэгупшысын / къыч1эхын (to invent something, to come up with, to make up something, to think out something, to devise, to contrive, to create in one's mind); зэхэлъхьан (to put together)"
+    "to devise": "къэугупшысын; къэгупшысын; къыч1эхын; зэхэлъхьан (to put together)"
   },
   {
-    "invented": "къэугупшысыгъэ / къэгупшысыгъэ / къыч1эхыгъэ"
+    "to contrive": "къэугупшысын; къэгупшысын; къыч1эхын; зэхэлъхьан (to put together)"
   },
   {
-    "to make up": "къэугупшысын / къэгупшысын / къыч1эхын (to invent something, to come up with, to make up something, to think out something, to devise, to contrive, to create in one's mind); зэхэлъхьан (to put together)"
+    "to invent": "къэугупшысын; къэгупшысын; къыч1эхын; зэхэлъхьан (to put together)"
   },
   {
-    "made up": "къэугупшысыгъэ / къэгупшысыгъэ / къыч1эхыгъэ"
+    "invented": "къэугупшысыгъэ; къэгупшысыгъэ; къыч1эхыгъэ"
   },
   {
-    "to think out": "къэугупшысын / къэгупшысын / къыч1эхын (to invent something, to come up with, to make up something, to think out something, to devise, to contrive, to create in one's mind); зэхэлъхьан (to put together)"
+    "to make up": "къэугупшысын; къэгупшысын; къыч1эхын; зэхэлъхьан (to put together)"
+  },
+  {
+    "made up": "къэугупшысыгъэ; къэгупшысыгъэ; къыч1эхыгъэ"
+  },
+  {
+    "to think out": "къэугупшысыгъэ; къэгупшысыгъэ; къыч1эхыгъэ; зэхэлъхьан (to put together)"
   },
   {
     "to come towards": "ек1ун"
   },
   {
-    "to approach": "ек1ун / ек1ол1эн (to approach someone); еблэгъэн (to get closer); ыдэжь к1он (to go near someone); 1ухьан (to go near a certain place such as a shop); (slang) дэублэн (to approach and speak to someone, seeking romance, love, etc.); ыпхэк1ы ихьан (to approach something's back); (vulgar) ышъуты ихьан (to approach something's rear)"
+    "to approach": "ек1ун (to approach someone); ек1ол1эн (to approach someone); еблэгъэн (to get closer); ыдэжь к1он (to go near someone); 1ухьан (to go near a certain place such as a shop); (slang) дэублэн (to approach and speak to someone, seeking romance, love, etc.); ыпхэк1ы ихьан (to approach something's back); (vulgar) ышъуты ихьан (to approach something's rear)"
   },
   {
     "to be appropriate": "ек1ун"
@@ -4816,7 +4822,7 @@
     "to appear": "къэлъэгъон (to be visible; to start to appear); къыхэк1ын (to appear in); къы1ухъон (to appear from nowhere); щы1эу хъун (to start to exist)"
   },
   {
-    "to fade": "бзэхын; к1одын; гъонлэн / гъун (to fate, to dry out)"
+    "to fade": "бзэхын; к1одын; гъонлэн (to fate, to dry out); гъун (to fate, to dry out)"
   },
   {
     "to vanish": "бзэхын; к1одын; ш1ок1одын (to vanish for someone); хэк1одэн (to vanish among, to vanish in the forest, to vanish in an area with gas or liquid)"
@@ -5014,10 +5020,10 @@
     "humid": "лэбы; шынэ"
   },
   {
-    "to dry": "гъушъын / гъэгъушъын (clothes, objects and body parts); гъун / гъэгъун (plants); гъонлэн"
+    "to dry": "гъушъын (to get dried: clothes, objects and body parts); гъэгъушъын (to dry: clothes, objects and body parts); гъун (to get dried: plants); гъэгъун (to dry plants); гъонлэн"
   },
   {
-    "to evaporate": "гъушъын; гъэгъушъын"
+    "to evaporate": "гъушъын; гъэгъушъын (to make something evaporate)"
   },
   {
     "to be heated": "плъын"
@@ -5305,7 +5311,10 @@
     "rake": "пхъэ1эбжъан (garden tool)"
   },
   {
-    "to break": "зэпык1ын (to snap); убэтэн (to destroy); къутэн (to destroy); зэхэутын (to break down from inside); зэхэк1ын (to break and collapse); пыутын (to break the edge of something usaully due to a strong impact); хэутын (to break a part/portion of something); теутын (to break a part from above something); ч1эутын (to break a part from under something); гъэсэкъатын (to make something dysfunctional); зэш1ок1ын (to break something); 1утэкъун (to break off); зэпыутын (to break off from itself); ш1оубэтэн (to destroy/break someone's property); укъон (to change money for lesser units); сэкъатын / зэ1ыхьан / зэщыкъон (to become dysfunctional (device, machine, etc))"
+    "to break": "зэпык1ын (to snap); убэтэн (to destroy); къутэн (to destroy); зэхэутын (to break down from inside); зэхэк1ын (to break and collapse); пыутын (to break the edge of something usaully due to a strong impact); хэутын (to break a part/portion of something); теутын (to break a part from above something); ч1эутын (to break a part from under something); гъэсэкъатын (to make something dysfunctional); зэш1ок1ын (to break something); 1утэкъун (to break off); зэпыутын (to break off from itself); ш1оубэтэн (to destroy/break someone's property); укъон (to change money for lesser units); сэкъатын / зэ1ыхьан / зэщыкъон (to become dysfunctional (device, machine, etc)); пхырытхъын (to break through, to breach)"
+  },
+  {
+    "to breach": "пхырытхъын (to break through, to breach)"
   },
   {
     "broke": "зэпык1ыгъэ (snapped); убэтагъэ; къутагъэ"
@@ -5569,7 +5578,7 @@
     "to fail to hit": "блэун"
   },
   {
-    "to miss": "блэун (to miss a target); к1эхъосын (to long for); шӏок1он (to miss an opportunity); охъун (to miss one's aim, to miss the mark, to fail to hit, to miscue); плъэхъун (to fail to see, to overlook, to fail to notice)"
+    "to miss": "блэун (to miss a target); к1эхъосын (to long for); ш1ок1он (to miss an opportunity); охъун (to miss one's aim, to miss the mark, to fail to hit, to miscue); плъэхъун (to fail to see, to overlook, to fail to notice)"
   },
   {
     "hedge": "блэуц"
@@ -6040,7 +6049,7 @@
     "tomb": "къэун"
   },
   {
-    "gravedigger": "бэныт1ы; бэн зыт1ырэр; хьадэгъалӏ"
+    "gravedigger": "бэныт1ы; бэн зыт1ырэр; хьадэгъал1"
   },
   {
     "grave-digger": "бэныт1ы; бэн зыт1ырэр"
@@ -6250,7 +6259,7 @@
     "to adopt": "п1ун"
   },
   {
-    "to raise": "дэщэен; дэ1этэен; 1этын; (Shapsug) чӏыхын; (Shapsug) ч1ыгъэк1ын; дэгъэк1оен; те1этык1ын (to lift from above something); дэхьыен; гъэ1эн; п1ун (to adopt a child)"
+    "to raise": "дэщэен; дэ1этэен; 1этын; (Shapsug) ч1ыхын; (Shapsug) ч1ыгъэк1ын; дэгъэк1оен; те1этык1ын (to lift from above something); дэхьыен; гъэ1эн; п1ун (to adopt a child)"
   },
   {
     "mat": "п1уаблэ"
@@ -6460,10 +6469,10 @@
     "unjust": "мызафэ, зэфагъэ зыхэмылъ"
   },
   {
-    "what": "сыд; шъыд (dialectal); лӏэу (Shapsug, archaic)"
+    "what": "сыд; шъыд (dialectal); л1эу (Shapsug, archaic)"
   },
   {
-    "how": "таущтэу; тэщтэу; сыдэущтэу; зэрэ- (verbal prefix that indicates the way the verb was done or how the verb was done)"
+    "how": "таущтэу; тэщтэу; сыдэущтэу; зэрэ- (verbal prefix that indicates the way the verb was done or how the verb was done); -к1э (a verbal suffix which is appended to verbs to form nouns meaning: the manner in which someone did the action, how someone did the action, the way someone did the action)"
   },
   {
     "carrot": "пхъы"
@@ -6961,7 +6970,7 @@
     "to plough": "жъон; гъэжъон"
   },
   {
-    "to boil": "жъон (to be boiled); гъэжъон (to boil something); пщтэн (to be boiled (milk)); гъэпщтэн (to boil milk); быжъутэн (to boil up)"
+    "to boil": "жъон (to be boiled); гъэжъон (to boil something); пщтэн (to be boiled (milk)); гъэпщтэн (to boil milk); быжъутэн (to boil up); гъэп1онк1ын (to boil liquid until it starts to burst)"
   },
   {
     "to grind": "хьаджын; убын"
@@ -7171,7 +7180,7 @@
     "heavy": "онтэгъу; отэгъу (Shapsug)"
   },
   {
-    "naked": "пц1анэ; псӏанэ (Shapsug)"
+    "naked": "пц1анэ; пс1анэ (Shapsug)"
   },
   {
     "to grill": "жъэн (to be grilled); гъэжъэн (to grill); хэгъэжъыхьан (to grill something in)"
@@ -7828,7 +7837,19 @@
     "to hold a grudge": "губгъэн фэлъэгъун; губгъэн фэш1ын; гоон"
   },
   {
-    "to permit": "дэн; фэдэн (to permit to)"
+    "to command": "унашъо ш1ын; гъэ1орыш1эн; гъэ- (causative prefix, a verbal prefix that designates causation, meaning, it indicates that the subject forced, compelled, made, ordered, allowed, permitted, given the opportunity to, etc.)"
+  }
+  {
+    "to order": "унашъо ш1ын; гъэ1орыш1эн; гъэ- (causative prefix, a verbal prefix that designates causation, meaning, it indicates that the subject forced, compelled, made, ordered, allowed, permitted, given the opportunity to, etc.)"
+  },
+  {
+    "to compel": "гъэ1орыш1эн; гъэ- (causative prefix, a verbal prefix that designates causation, meaning, it indicates that the subject forced, compelled, made, ordered, allowed, permitted, given the opportunity to, etc.)"
+  },
+  {
+    "to allow": "дэн (to allow); фэдэн (to allow to); гъэ- (causative prefix, a verbal prefix that designates causation, meaning, it indicates that the subject forced, compelled, made, ordered, allowed, permitted, given the opportunity to, etc.)"
+  },
+  {
+    "to permit": "дэн; фэдэн (to permit to); гъэ- (causative prefix, a verbal prefix that designates causation, meaning, it indicates that the subject forced, compelled, made, ordered, allowed, permitted, given the opportunity to, etc.)"
   },
   {
     "permitted": "дагъэ"
@@ -8296,7 +8317,7 @@
     "simple-minded": "дела1о; акъыл ш1агъо зимы1э"
   },
   {
-    "clear": "нафэ; ӏэш1эхэу къыбгуры1он; гуры1огъош1у"
+    "clear": "нафэ; 1эш1эхэу къыбгуры1он; гуры1огъош1у"
   },
   {
     "understandable": "къыбгуры1ошъун; гуры1огъош1у"
@@ -8443,7 +8464,7 @@
     "to be in debt": "ч1ыфэ ч1этын"
   },
   {
-    "to eat": "шхэн; шхын (to eat something); гъэшхэн (to make someone eat, to feed); зыгъэшхэк1ын (to saturate oneself with food); шӏошхын (to consume someone else's food); зэхэшхэхьан (to eat around); шхэк1ын (to be saturated with food); пышхэхьан (to feast upon)"
+    "to eat": "шхэн; шхын (to eat something); гъэшхэн (to make someone eat, to feed); зыгъэшхэк1ын (to saturate oneself with food); ш1ошхын (to consume someone else's food); зэхэшхэхьан (to eat around); шхэк1ын (to be saturated with food); пышхэхьан (to feast upon)"
   },
   {
     "to become fat": "пщэрын"
@@ -8620,6 +8641,9 @@
     "to demand": "к1эдэун"
   },
   {
+    "to deny": "мыдэн (to not agree); дэмыштэн (to not agree with); емыуцол1эн (to not agree with)"
+  },
+  {
     "to disagree": "дэмыштэн (to disagree with); мыдэн (to refuse), емыуцол1эн; пэ1у1ожьын (to whine against someone disagreeably)"
   },
   {
@@ -8770,7 +8794,7 @@
     "sharp": "чан; чыян (Shapsug); папц1э (pointy)"
   },
   {
-    "fellow": "цӏыфы"
+    "fellow": "ц1ыфы"
   },
   {
     "nit": "ц1ак1э; с1ак1ьэ (Shapsug)"
@@ -8953,7 +8977,7 @@
     "to overpower": "тек1он; фикъун"
   },
   {
-    "to beat": "гъэмартын (to win); тек1он (to overcome); гъэпщэн (Shapsug); пызэохьан (to beat physically); фын; хэохьан (to beat with fists); хэшъутырэхьан (to beat with kicks); пэлъэшын (to overpower); (vulgar) шъутыкӏэ гъэк1он"
+    "to beat": "гъэмартын (to win); тек1он (to overcome); гъэпщэн (Shapsug); пызэохьан (to beat physically); фын; хэохьан (to beat with fists); хэшъутырэхьан (to beat with kicks); пэлъэшын (to overpower); (vulgar) шъутык1э гъэк1он"
   },
   {
     "to win": "хьын; гъэмартын (to win against); фын (to win against someone dominantly or overwhelmingly); тек1он (to overcome); гъэпщэн (Shapsug); къэхьын (to win a prize)"
@@ -9934,6 +9958,9 @@
     "clearly": "нафэу; зэхэугуфык1ыгъэу"
   },
   {
+    "to dream": "пк1ыхь лъэгъун (to see a dream)"
+  },
+  {
     "to distribute": "гощын; угощын; тегощэн (to distribute between)"
   },
   {
@@ -10621,7 +10648,19 @@
     "cigarette": "тутын; тутыныбжъ (rolled cigarrete)"
   },
   {
-    "to want": "фэен; ш1оигъон (very polite)"
+    "to excuse": "фэгъэгъун (to forgive someone)"
+  },
+  {
+    "to apologize": "къыфигъэгъунэу ри1он (to tell someone to excuse him/her); къыфигъэгъуным к1элъэ1ун (to beg someone to excuse him/her)"
+  },
+  {
+    "to want": "фэен; ш1оигъон (very polite); (Shapsug) -рагъу (a verbal suffix that indicates the desirement to do that action)"
+  },
+  {
+    "to discuss": "тегущы1эн / къытегущы1эн (to discuss on)"
+  },
+  {
+    "to desire": "фэен (to want); енэц1ын (to desire something that one does not have)"
   },
   {
     "must": "фае; ищык1агъ (need to)"
@@ -11059,7 +11098,7 @@
     "space": "огу"
   },
   {
-    "pants": "гъончэдж (pants, trousers); (dialectal) гъошэдж / гъочэдж; гъончэдж ч1эгъч1элъ / гъончэдж цӏыкӏу (underwear)"
+    "pants": "гъончэдж (pants, trousers); (dialectal) гъошэдж / гъочэдж; гъончэдж ч1эгъч1элъ / гъончэдж ц1ык1у (underwear)"
   },
   {
     "trousers": "гъончэдж; (dialectal) гъочэдж; (dialectal) гъошэдж"
@@ -11509,7 +11548,7 @@
     "to commit": "зехьан / зэрихьан"
   },
   {
-    "to perform": "шӏэн (to do); зехьан / зэрихьан"
+    "to perform": "ш1эн (to do); зехьан / зэрихьан"
   },
   {
     "to accomplish": "гъэцэк1эн; къыфигъэк1ын (to accomplish something successfully)"
@@ -11537,6 +11576,9 @@
   },
   {
     "alleviation": "нэплъэгъу"
+  },
+  {
+    "to bounce": "дэпк1эен; дэлъэтэен; дэгъэпк1эен (to cause something to bounce); дэгъэлъэтэен (to cause something to bounce); тец1эшъутык1ын (to bounce off)"
   },
   {
     "to bear": "зыщэ1эн (to bear); щэ1эн (to endure, to bear); фэщэ1эн (to manage to endure/bear something)"
@@ -11647,7 +11689,7 @@
     "to foreknow": "къэхъущт-къэш1эщтыр къэш1эн"
   },
   {
-    "to guess": "къэш1эн ӏон (to try to guess right); къэш1эн (to guess right); къэмыш1эн (to guess wrong)"
+    "to guess": "къэш1эн 1он (to try to guess right); къэш1эн (to guess right); къэмыш1эн (to guess wrong)"
   },
   {
     "to guess right": "къэш1эн"
@@ -12415,7 +12457,7 @@
     "I don't give a shit": "(slightly vulgar) сытец1;"
   },
   {
-    "shit": "хьай; (vulgar) цӏы; (slightly vulgar) сытец1 (expression of anger or displeasure); (vulgar) хьэе ригъаф (expresses displeasure)"
+    "shit": "хьай; (vulgar) ц1ы; (slightly vulgar) сытец1 (expression of anger or displeasure); (vulgar) хьэе ригъаф (expresses displeasure)"
   },
   {
     "displeasure": "рэзэджагъ; мырэзэныгъ"
@@ -12460,7 +12502,7 @@
     "to be besides": "голъын / бгъодэлъын"
   },
   {
-    "to be": "щытын / щылъын (to be a, to be the); тетын / телъын (to be on); ч1этын / ч1элъын (to be unber, to be beneath); итын / илъын (to be in); дэлъын (to be in); хэтын / хэлъын (to be within, to be among, to be within an area of liquid, solid or gas, to be in the forest or plants, to be in a list, to be in a company or group); къотын / къолъын (to be behind); пытын / пылъын (to be attached on, to be on a tree, to be connected to); готын / бгъодэтын / голъын / бгъодэлъын (to be besides)"
+    "to be": "щытын; тетын / телъын (to be on); ч1этын / ч1элъын (to be unber, to be beneath); итын / илъын (to be in); дэлъын (to be in); хэтын / хэлъын (to be within, to be among, to be within an area of liquid, solid or gas, to be in the forest or plants, to be in a list, to be in a company or group); къотын / къолъын (to be behind); пытын / пылъын (to be attached on, to be on a tree, to be connected to); готын / бгъодэтын / голъын / бгъодэлъын (to be besides)"
   },
   {
     "to lie": "пц1ын (to speak falsehood); пц1ы усын (to speak falsehood); пс1ын (Shapsug, to speak falsehood); фэп1ын (to lie to someone); пц1ы фэусын (to lie to someone); щылъын (to be lying); телъын (to be lying on); ч1элъын (to be lying under); хэлъын (to be lying within some area with liquid, gas or solid); дэлъын (to be lying in); илъын (to be lying inside); къолъын (to be lying behind); голъын / бгъодэлъын (to be lying under); гъолъын (to lie down); тегъолъхьан (to lie down on something); ч1эгъолъхьан (to lie down under something); хэгъолъхьан (to lie down within an area with liquid, solid or gas); дэгъолъхьан (to lie down in); игъолъхьан (to lie down inside); гогъолъхьан / бгъодэгъолъхьан (to lie down besides); къогъолъхьан (to lie down behind)"
@@ -12517,7 +12559,7 @@
     "lately": "бэ мыш1эу; бэ темыш1эу; джырэблагъэ"
   },
   {
-    "recently": "к1эу; бэ блэмык1эу; бэ мыш1эу; джырэблагъэ"
+    "recently": "к1эу; бэ блэмык1эу; бэ мыш1эу; джырэблагъэ; -гъак1 (verbal suffix that means that the action was done just recently)"
   },
   {
     "soon": "бэ мыш1эу; бэ темыш1эу; джырэблагъэ"
@@ -12853,7 +12895,7 @@
     "identical": "фэд; фэдэкъабз (very identical, exactly the same)"
   },
   {
-    "to force": "егъэзын; егъэзыгъэк1э егъэш1эн (to forcefully make someone do something)"
+    "to force": "егъэзын; егъэзыгъэк1э егъэш1эн (to forcefully make someone do something); гъэ- (causative prefix, a verbal prefix that designates causation, meaning, it indicates that the subject forced, compelled, made, ordered, allowed, permitted, given the opportunity to, etc.)"
   },
   {
     "forcefully": "егъэзыгъэу; егъэзыгъэк1э; л1ыгъэк1э"
@@ -12892,7 +12934,7 @@
     "to initiate": "къегъэжьэн; ублэн"
   },
   {
-    "to avoid": "ш1ок1ын (to successfully avoid); емыблэгъэн (to not get close to); зыщыдзыен (to avoid)"
+    "to avoid": "ш1ок1ын (to successfully avoid); емыблэгъэн (to not get close to); зыщыдзыен (to avoid); щыгъэзыен (to neglect, to move something aside and avoiding it)"
   },
   {
     "to try to forget": "зыщыгъэгъупшын"
@@ -13261,7 +13303,13 @@
     "to grant approval": "дэн; къаблэу ш1ын"
   },
   {
-    "to make": "ш1ын; фэш1ын (to make for); зэхэш1ыхьан (to make something using, to make something from); к1эш1ыхьан (to make under something); теш1ыхьан (to make on something); хэш1ыхьан (to make in the water, sea, fire, gas, forest, field); дэш1ыхьан (to make between, to make inside another object, to make inside a yard, village, area, etc.); иш1ыхьан (to make inside); пыш1ыхьан (to make on a tree, to make on the surface of a device or tool); къош1ыхьан (to make behind something); гош1ыхьан / бгъодэш1ыхьан (to make besides something); зэтеш1ыхьан (to make on each other); зэч1эш1ыхьан (to make under each other); зэриш1ыхьан (to make inside each other)"
+    "no longer": "-жьырэп (a verbal suffix that convey the meaning of: no longer)"
+  },
+  {
+    "to manipulate": "гъэ- (causative prefix, a verbal prefix that designates causation, meaning, it indicates that the subject forced, compelled, made, ordered, allowed, permitted, manipulated to do, given the opportunity to, etc.)"
+  },
+  {
+    "to make": "ш1ын; фэш1ын (to make for); гъэ- (causative prefix, a verbal prefix that designates causation, meaning, it indicates that the subject forced, compelled, made, ordered, allowed, permitted, given the opportunity to, etc.); зэхэш1ыхьан (to make something using, to make something from); к1эш1ыхьан (to make under something); теш1ыхьан (to make on something); хэш1ыхьан (to make in the water, sea, fire, gas, forest, field); дэш1ыхьан (to make between, to make inside another object, to make inside a yard, village, area, etc.); иш1ыхьан (to make inside); пыш1ыхьан (to make on a tree, to make on the surface of a device or tool); къош1ыхьан (to make behind something); гош1ыхьан / бгъодэш1ыхьан (to make besides something); зэтеш1ыхьан (to make on each other); зэч1эш1ыхьан (to make under each other); зэриш1ыхьан (to make inside each other)"
   },
   {
     "oven": "хьаку"
@@ -13807,40 +13855,40 @@
     "underpants": "гъончэдж ч1эгъч1элъ"
   },
   {
-    "boxers": "гъончэдж ч1эгъч1элъ; гъончэдж цӏыкӏу"
+    "boxers": "гъончэдж ч1эгъч1элъ; гъончэдж ц1ык1у"
   },
   {
-    "briefs": "гъончэдж ч1эгъч1элъ; гъончэдж цӏыкӏу"
+    "briefs": "гъончэдж ч1эгъч1элъ; гъончэдж ц1ык1у"
   },
   {
-    "bloomers": "гъончэдж ч1эгъч1элъ; гъончэдж цӏыкӏу"
+    "bloomers": "гъончэдж ч1эгъч1элъ; гъончэдж ц1ык1у"
   },
   {
-    "panties": "гъончэдж ч1эгъч1элъ; гъончэдж цӏыкӏу"
+    "panties": "гъончэдж ч1эгъч1элъ; гъончэдж ц1ык1у"
   },
   {
-    "butt-huggers": "гъончэдж ч1эгъч1элъ; гъончэдж цӏыкӏу"
+    "butt-huggers": "гъончэдж ч1эгъч1элъ; гъончэдж ц1ык1у"
   },
   {
-    "undies": "гъончэдж ч1эгъч1элъ; гъончэдж цӏыкӏу"
+    "undies": "гъончэдж ч1эгъч1элъ; гъончэдж ц1ык1у"
   },
   {
-    "tighty whities": "гъончэдж ч1эгъч1элъ; гъончэдж цӏыкӏу"
+    "tighty whities": "гъончэдж ч1эгъч1элъ; гъончэдж ц1ык1у"
   },
   {
-    "knickers": "гъончэдж ч1эгъч1элъ; гъончэдж цӏыкӏу"
+    "knickers": "гъончэдж ч1эгъч1элъ; гъончэдж ц1ык1у"
   },
   {
-    "drawers": "гъончэдж ч1эгъч1элъ; гъончэдж цӏыкӏу"
+    "drawers": "гъончэдж ч1эгъч1элъ; гъончэдж ц1ык1у"
   },
   {
-    "shreddies": "гъончэдж ч1эгъч1элъ; гъончэдж цӏыкӏу"
+    "shreddies": "гъончэдж ч1эгъч1элъ; гъончэдж ц1ык1у"
   },
   {
-    "longjohns": "гъончэдж ч1эгъч1элъ; гъончэдж цӏыкӏу"
+    "longjohns": "гъончэдж ч1эгъч1элъ; гъончэдж ц1ык1у"
   },
   {
-    "thong": "гъончэдж ч1эгъч1элъ; гъончэдж цӏыкӏу"
+    "thong": "гъончэдж ч1эгъч1элъ; гъончэдж ц1ык1у"
   },
   {
     "to shower": "зыгъэпск1ын (to take a shower); зыгъэпк1ын (to take a shower); гъэпск1ын (to shower someone); гъэпк1ын (to shower someone)"
@@ -14137,7 +14185,7 @@
     "doormat": "джэхэшъотедз"
   },
   {
-    "way": "гъогу; лъагъо; амал (method, way, means); зэрэ- (verbal prefix that indicates the way the verb was done or how the verb was done)"
+    "way": "гъогу; лъагъо; амал (method, way, means); зэрэ- (verbal prefix that indicates the way the verb was done or how the verb was done); -к1э (a verbal suffix which is appended to verbs to form nouns meaning: the manner in which someone did the action, how someone did the action, the way someone did the action)"
   },
   {
     "porridge": "п1астэ"
@@ -14623,7 +14671,7 @@
     "one of them": "язырэ"
   },
   {
-    "to cause": "къэгъэфын"
+    "to cause": "къэгъэфын (to make something happen); гъэ- (causative prefix, a verbal prefix that designates causation, meaning, it indicates that the subject forced, compelled, made, ordered, allowed, permitted, given the opportunity to, etc.)"
   },
   {
     "to occur": "къэфын; къэхъун; щыш1ын / къыщыш1ын (something to happen to someone); къехъул1эн (an incident to happen to someone); тефэн (to occur at a certain time); зэтефэн (to occur at the same time or with coordinated timing)"
@@ -14860,13 +14908,13 @@
     "heel palm": "1эдакъэ"
   },
   {
-    "to burn": "стын (to be burning); гъэстын (to burn something); плъын (to heat up to a very high temperature); естыл1эн (to stick to the hot surface as a result of burning); тегъэстыхьан (to burn onto something); тегъэстык1ын (to burn off something); хэгъэстык1ын (to burn into something); хэстыхьан (to burn in fire, to burn in an area with a hot mass); маш1о хэнэн / маш1о к1энэн (to catch fire; to combust; to get ignited; to begin to burn; to inflame; to go up in flames); маш1о хэгъэнэн / маш1о кӏэгъэнэн (to ignite, to cause to begin to burn, to set on fire); зэхэнэн / зэк1энэн (to catch fire by itself); пыстык1ын (to burn off the tip of)"
+    "to burn": "стын (to be burning); гъэстын (to burn something); плъын (to heat up to a very high temperature); естыл1эн (to stick to the hot surface as a result of burning); тегъэстыхьан (to burn onto something); тегъэстык1ын (to burn off something); хэгъэстык1ын (to burn into something); хэстыхьан (to burn in fire, to burn in an area with a hot mass); маш1о хэнэн / маш1о к1энэн (to catch fire; to combust; to get ignited; to begin to burn; to inflame; to go up in flames); маш1о хэгъэнэн / маш1о к1эгъэнэн (to ignite, to cause to begin to burn, to set on fire); зэхэнэн / зэк1энэн (to catch fire by itself); пыстык1ын (to burn off the tip of)"
   },
   {
-    "to ignite": "маш1о хэнэн / маш1о к1энэн (to get ignited); маш1о хэгъэнэн / маш1о кӏэгъэнэн (to ignite, to cause to begin to burn)"
+    "to ignite": "маш1о хэнэн / маш1о к1энэн (to get ignited); маш1о хэгъэнэн / маш1о к1эгъэнэн (to ignite, to cause to begin to burn)"
   },
   {
-    "to set on fire": "маш1о хэгъэнэн / маш1о кӏэгъэнэн (to ignite, to cause to begin to burn)"
+    "to set on fire": "маш1о хэгъэнэн / маш1о к1эгъэнэн (to ignite, to cause to begin to burn)"
   },
   {
     "to catch fire": "маш1о хэнэн / маш1о к1энэн; зэхэнэн / зэк1энэн (to catch fire by itself); зэхэнэн / зэк1энэн (to catch fire by itself)"
@@ -14875,10 +14923,10 @@
     "to combust": "зэхэнэн / зэк1энэн (to catch fire by itself)"
   },
   {
-    "to inflame": "маш1о хэгъэнэн / маш1о кӏэгъэнэн (to cause to begin to burn)"
+    "to inflame": "маш1о хэгъэнэн / маш1о к1эгъэнэн (to cause to begin to burn)"
   },
   {
-    "to kindle": "маш1о хэгъэнэн / маш1о кӏэгъэнэн (to kindle, to start fire); зэхэнэн / зэк1энэн (to catch fire by itself)"
+    "to kindle": "маш1о хэгъэнэн / маш1о к1эгъэнэн (to kindle, to start fire); зэхэнэн / зэк1энэн (to catch fire by itself)"
   },
   {
     "to go up in flames": "маш1о хэнэн / маш1о к1энэн (to catch fire; to combust; to get ignited; to begin to burn; to inflame; to go up in flames)"
@@ -15256,6 +15304,12 @@
     "to depends on": "егъэпхын"
   },
   {
+    "to describe": "къэ1отэн; фэкъэ1отэн (to describe to)"
+  },
+  {
+    "to deserve": "фэшъошэн"
+  },
+  {
     "nightmare": "пк1ыхьэп1э 1ай"
   },
   {
@@ -15448,19 +15502,19 @@
     "to extract": "къыхэхын (to extract something out of); к1эщын / къык1эщын (to squeeze from, to extract from)"
   },
   {
-    "to squeeze": "фызын (to wring, to press tightly, to squeeze something (the effect of the squeezing is reversible)); ц1ыц1ын (to squeeze so as to alter the natural shape or integrity of it (the effect of the squeezing is irreversible), to compress, to squish, to squash, to crush); к1эфызык1ын / хэфызык1ын (to squeeze out); иц1ыц1эн (to squeeze inside); дэц1ыц1эн (to squeeze inside another object, between); тец1ыц1эн (to squeeze above); ч1эц1ыц1эн (to squeeze under); хэц1ыц1эн (to squeeze within); п1ырт1ын; зэхэфызэн (to squeeze in, to pack tightly together); дэгъэзыхьан (to forcefully squeeze something in between, to forcefully squeeze something inside another object); игъэзыхьан (to forcefully squeeze inside); чӏэгъэзыхьан (to forcefully squeeze something under something); хэгъэзыхьан (to forcefully squeeze something through something, to forcefully squeeze something within something); къогъэзыхьан (to forcefully squeeze behind something); к1эщын / къык1эщын (to squeeze from, to extract from)"
+    "to squeeze": "фызын (to wring, to press tightly, to squeeze something (the effect of the squeezing is reversible)); ц1ыц1ын (to squeeze so as to alter the natural shape or integrity of it (the effect of the squeezing is irreversible), to compress, to squish, to squash, to crush); к1эфызык1ын / хэфызык1ын (to squeeze out); иц1ыц1эн (to squeeze inside); дэц1ыц1эн (to squeeze inside another object, between); тец1ыц1эн (to squeeze above); ч1эц1ыц1эн (to squeeze under); хэц1ыц1эн (to squeeze within); п1ырт1ын; зэхэфызэн (to squeeze in, to pack tightly together); дэгъэзыхьан (to forcefully squeeze something in between, to forcefully squeeze something inside another object); игъэзыхьан (to forcefully squeeze inside); ч1эгъэзыхьан (to forcefully squeeze something under something); хэгъэзыхьан (to forcefully squeeze something through something, to forcefully squeeze something within something); къогъэзыхьан (to forcefully squeeze behind something); к1эщын / къык1эщын (to squeeze from, to extract from)"
   },
   {
-    "to cram": "дэкон / дэкоцэн (to cram into something, to cram in between); хэкон / хэкоцэн (to cram through something); икон / икоцэн (to cram inside something); ч1экон / ч1экоцэн (to cram under something); текон / текоцэн (to cram above something); дэгъэзыхьан (to forcefully cram something in between, to forcefully cram something inside another object); игъэзыхьан (to forcefully cram inside); чӏэгъэзыхьан (to forcefully cram under something); хэгъэзыхьан (to forcefully cram through); къогъэзыхьан (to forcefully cram behind)"
+    "to cram": "дэкон / дэкоцэн (to cram into something, to cram in between); хэкон / хэкоцэн (to cram through something); икон / икоцэн (to cram inside something); ч1экон / ч1экоцэн (to cram under something); текон / текоцэн (to cram above something); дэгъэзыхьан (to forcefully cram something in between, to forcefully cram something inside another object); игъэзыхьан (to forcefully cram inside); ч1эгъэзыхьан (to forcefully cram under something); хэгъэзыхьан (to forcefully cram through); къогъэзыхьан (to forcefully cram behind)"
   },
   {
-    "to shove": "хэсэн (to thrust into, to shove into); исэн (to thrust inside, to shove inside); дэкон / дэкоцэн (to shove into something, to shove in between); хэкон / хэкоцэн (to shove through something); икон / икоцэн (to shove inside something); ч1экон / ч1экоцэн (to shove under something); текон / текоцэн (to shove above something); дэгъэзыхьан (to forcefully shove something in between, to forcefully shove something inside another object); игъэзыхьан (to forcefully shove inside); чӏэгъэзыхьан (to forcefully shove under something); хэгъэзыхьан (to forcefully shove through); къогъэзыхьан (to forcefully shove behind); т1ыргун (to shove, to push)"
+    "to shove": "хэсэн (to thrust into, to shove into); исэн (to thrust inside, to shove inside); дэкон / дэкоцэн (to shove into something, to shove in between); хэкон / хэкоцэн (to shove through something); икон / икоцэн (to shove inside something); ч1экон / ч1экоцэн (to shove under something); текон / текоцэн (to shove above something); дэгъэзыхьан (to forcefully shove something in between, to forcefully shove something inside another object); игъэзыхьан (to forcefully shove inside); ч1эгъэзыхьан (to forcefully shove under something); хэгъэзыхьан (to forcefully shove through); къогъэзыхьан (to forcefully shove behind); т1ыргун (to shove, to push)"
   },
   {
     "to stuff": "дэкон / дэкоцэн (to stuff into something, to stuff in between); хэкон / хэкоцэн (to stuff through something); икон / икоцэн (to stuff inside something); ч1экон / ч1экоцэн (to stuff under something); текон / текоцэн (to stuff above something)"
   },
   {
-    "to ram": "дэгъэзыхьан (to forcefully ram something in between, to forcefully ram something inside another object); игъэзыхьан (to forcefully ram inside); чӏэгъэзыхьан (to forcefully ram under something); хэгъэзыхьан (to forcefully ram through); къогъэзыхьан (to forcefully ram behind)"
+    "to ram": "дэгъэзыхьан (to forcefully ram something in between, to forcefully ram something inside another object); игъэзыхьан (to forcefully ram inside); ч1эгъэзыхьан (to forcefully ram under something); хэгъэзыхьан (to forcefully ram through); къогъэзыхьан (to forcefully ram behind)"
   },
   {
     "when": "сыдигъо; (dialectal) тэщгъум; (dialectal) шъыдигъо / шъыдгъо; зэхъум (when it happened); зыхъурэм / зыхъук1э (when it happens)"
@@ -15850,7 +15904,7 @@
     "to suppose": "ш1ош1ын (to think that, to suppose, to reckon, to have the opinion of); енэгуен (to think but not be absolutely sure)"
   },
   {
-    "to assume": "енэгуен (to think but not be absolutely sure); гущы1эм фэ1он (to presume, to assume or suggest to be true (without proof))"
+    "to assume": "ш1ош1ын; енэгуен (to think but not be absolutely sure); гущы1эм фэ1он (to presume, to assume or suggest to be true (without proof))"
   },
   {
     "to presume": "гущы1эм фэ1он; енэгуен (to think but not be absolutely sure)"
@@ -16777,7 +16831,7 @@
     "to bubble up": "п1онк1ын (to bubble up from heat); (Shapsug) п1эрк1ын"
   },
   {
-    "to burst": "п1онк1ын (to bubble up from heat); гъэп1онк1ын (to cause to burst); (Shapsug) гъэп1эрк1ын"
+    "to burst": "п1онк1ын (to burst during boiling); гъэп1онк1ын (to cause to burst during boiling); (Shapsug) гъэп1эрк1ын; пхырытхъын (to burst open)"
   },
   {
     "blow": "уты"
@@ -17389,10 +17443,16 @@
     "into": "дэ- (prepositional verbal suffix); и- (prepositional suffix)"
   },
   {
-    "up": "ыпшъэ"
+    "up": "ыпшъэ; ыпшъэк1э (upward); дэ-ен (a verbal affix that means upward)"
   },
   {
-    "down": "ыхэ"
+    "upward": "ыпшъэк1э; дэ-ен (a verbal affix that means upward)"
+  },
+  {
+    "down": "ыхэ; ыхэк1э (downward); -хы (a verbal suffix that means downward)"
+  },
+  {
+    "downward": "ыхэк1э; -хы (a verbal suffix that means downward)"
   },
   {
     "under": "ч1этын (to be under in a standing position); ч1элъын (to be under in a lying position); ыч1эгъы; ыч1эгъык1э; ыхэ (down of); ч1э- / к1э- (prepositional verval suffix)"
@@ -17623,7 +17683,7 @@
     "to grow pale": "к1ыфы хъун; ышъо пычъын; ышъо течъын"
   },
   {
-    "to neglect": "пхъатэ пэмыхьын / пхъатэ емытын (to deliberately pay no attention to); нэмыплъ ехын"
+    "to neglect": "щыгъэзыен; пхъатэ пэмыхьын / пхъатэ емытын (to deliberately pay no attention to); нэмыплъ ехын"
   },
   {
     "to disregard": "пхъатэ пэмыхьын / пхъатэ емытын (to deliberately pay no attention to); нэмыплъ ехын"
@@ -18583,10 +18643,10 @@
     "firstling": "апхъурэлъф; (dialectal) япхъурэлъф; щыпэлъф"
   },
   {
-    "shit": "хьай; (vulgar) цӏы;"
+    "shit": "хьай; (vulgar) ц1ы;"
   },
   {
-    "crap": "хьай; (vulgar) цӏы;"
+    "crap": "хьай; (vulgar) ц1ы;"
   },
   {
     "malaria": "техьагъу"
@@ -19309,10 +19369,10 @@
     "to be able of": "лъэк1ын; фэлъэк1ын; ипш1э къик1ын"
   },
   {
-    "for example": "гущы1эм пае; тэгъаӏу (let's say)"
+    "for example": "гущы1эм пае; тэгъа1у (let's say)"
   },
   {
-    "let's say": "тэгъаӏу"
+    "let's say": "тэгъа1у"
   },
   {
     "to whinge": "гъынэнэн"
