@@ -73907,6 +73907,7 @@
             "sentence": "|Цуманэхэмэ| афэдэу тагъэлэжьагъ",
             "translation": "They made us work like |idiots|."
           }
+        ]
       }
     ],
     "type": "adj",
