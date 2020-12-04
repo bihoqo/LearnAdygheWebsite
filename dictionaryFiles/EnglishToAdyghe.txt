@@ -4864,7 +4864,10 @@
     "linguist": "бзэшӏэныгъэлӏ"
   },
   {
-    "Linotype, literature": "бзэшэн; литератур"
+    "linotype": "бзэшэн; литератур"
+  },
+  {
+    "literature": "бзэшэн; литератур"
   },
   {
     "scale": "блабжъ (fish and snakes)"

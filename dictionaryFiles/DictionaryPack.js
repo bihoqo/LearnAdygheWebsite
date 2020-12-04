@@ -18862,7 +18862,7 @@
         "meaning": "crowded",
         "examples": [
           {
-            "sentence": "гъогуэр |бырсыр| нэпэ",
+            "sentence": "гъогуэр |бырсыр| непэ",
             "translation": "Today, the road is |crowded|."
           }
         ]
@@ -46093,7 +46093,7 @@
       }
     ],
     "type": "noun",
-    "ipa": "pχaːʃʼa"
+    "ipa": "gʷəpsa"
   },
   {
     "word": "жьыф",
