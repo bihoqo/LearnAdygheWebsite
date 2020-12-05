@@ -12706,9 +12706,6 @@
     "hypothesis": "шӏошӏ"
   },
   {
-    "to believe": "шӏошӏу мэхъун"
-  },
-  {
     "to shout": "куон; текуон (to shout at); цӏэцӏэн (to scold); тецӏэцӏэн / тецӏэцӏэхьан (to scold someone)"
   },
   {
@@ -15070,7 +15067,7 @@
     "gathering place": "кӏуапӏэ"
   },
   {
-    "because": "-эти / -эшъ (reason suffix); сыда пӏомэ (that is because, the reason for that is); (dialectal) шъыда пӏомэ; (dialectal) зары; ащ фэшӏкӏэ / ащ пае / джащ пае / джащ фэшӏыкӏэ (for that reason or cause, because of that)"
+    "because": "-эти / -эшъ (reason suffix); сыда пӏомэ (that is because, the reason for that is); (dialectal) шъыда пӏомэ; (dialectal) зары; ащ фэшӏкӏэ / джащ фэшӏыкӏэ (for that reason or cause, because of that); ащ пае / джащ пае (for that reason or cause, because of that)"
   },
   {
     "whore": "(vulgar) къэхьыпэ"

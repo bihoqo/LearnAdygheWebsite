@@ -89095,22 +89095,6 @@
     "lang": "Adyghe",
     "definitions": [
       {
-        "meaning": "alternative form of \"шӏошӏ хъун\"",
-        "examples": []
-      }
-    ],
-    "synonyms": [
-      "шӏошӏу хъун",
-      "шӏошъыхъун"
-    ],
-    "type": "verb",
-    "ipa": "ʃʷaʂ χʷən"
-  },
-  {
-    "word": "шӏошъ хъун",
-    "lang": "Adyghe",
-    "definitions": [
-      {
         "meaning": "to believe",
         "examples": [
           {
@@ -117267,6 +117251,96 @@
     ],
     "type": "suffix",
     "ipa": "-ʁaːx"
+  },
+  {
+    "word": "-эти",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "a suffix that can be added to any noun, adjective or verb. It highlights the reason why the primary event in the sentence happen",
+        "examples": [
+		  {
+            "sentence": "Сэ сымымаджэ|ти| пӏэкӏорым сыхэлъ",
+            "translation": "|Because| I am sick, I am lying in bed."
+          },
+		  {
+            "sentence": "Бэ сышхыгъэ|ти| сышхэк1ыгъ",
+            "translation": "|Because| I ate a lot, I am full."
+          },
+		  {
+            "sentence": "Неущы тыдэк1ыщты|ти| непэ сыдгъэухьазырын фай",
+            "translation": "|Because| we are going to go out tomorrow, we need to get ready today."
+          },
+		  {
+            "sentence": "Бэ сышхыгъэ|пи| джыри мэлак1э сэл1э",
+            "translation": "|Because| I did |not| ate a lot, I am still hungry."
+          },
+		  {
+            "sentence": "Седжагъэ|ти| экзаменыр дэгъоу сыш1ыгъ",
+            "translation": "|Because| I studied, I did the exam good."
+          },
+		  {
+            "sentence": "Уеджагъэ|пи| экзаменыр дэгъоу пш1ыгъэп",
+            "translation": "|Because| you did |not| study, you did not do the exam good."
+          },
+		  {
+            "sentence": "Седжагъэ|ти| экзаменыр дэгъоу сыш1ыгъ",
+            "translation": "|Because| I studied, I did the exam good."
+          },
+		  {
+            "sentence": "Уеджагъэ|пи| экзаменыр дэгъоу пш1ыгъэп",
+            "translation": "|Because| you did |not| study, you did not do the exam good."
+          }
+        ]
+      }
+    ],
+    "type": "suffix",
+    "ipa": "-atəj"
+  },
+  {
+    "word": "-эшъ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "a suffix that can be added to any noun, adjective or verb. It highlights the reason why the primary event in the sentence happen",
+        "examples": [
+		  {
+            "sentence": "Сэ сымымаджэ|шъ| пӏэкӏорым сыхэлъ",
+            "translation": "|Because| I am sick, I am lying in bed."
+          },
+		  {
+            "sentence": "Бэ сышхыгъэ|шъ| сышхэк1ыгъ",
+            "translation": "|Because| I ate a lot, I am full."
+          },
+		  {
+            "sentence": "Неущы тыдэк1ыщты|шъ| непэ сыдгъэухьазырын фай",
+            "translation": "|Because| we are going to go out tomorrow, we need to get ready today."
+          },
+		  {
+            "sentence": "Бэ сышхыгъэ|пышъ| джыри мэлак1э сэл1э",
+            "translation": "|Because| I did |not| ate a lot, I am still hungry."
+          },
+		  {
+            "sentence": "Седжагъэ|шъ| экзаменыр дэгъоу сыш1ыгъ",
+            "translation": "|Because| I studied, I did the exam good."
+          },
+		  {
+            "sentence": "Уеджагъэ|пышъ| экзаменыр дэгъоу пш1ыгъэп",
+            "translation": "|Because| you did |not| study, you did not do the exam good."
+          },
+		  {
+            "sentence": "Седжагъэ|шъ| экзаменыр дэгъоу сыш1ыгъ",
+            "translation": "|Because| I studied, I did the exam good."
+          },
+		  {
+            "sentence": "Уеджагъэ|пышъ| экзаменыр дэгъоу пш1ыгъэп",
+            "translation": "|Because| you did |not| study, you did not do the exam good."
+          }
+        ]
+      }
+    ],
+    "type": "suffix",
+    "ipa": "-aʂ"
   },
   {
     "word": "гъэ-",
