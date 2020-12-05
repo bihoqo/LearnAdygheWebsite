@@ -117260,7 +117260,7 @@
         "meaning": "a suffix that can be added to any noun, adjective or verb. It highlights the reason why the primary event in the sentence happens",
         "examples": [
 		  {
-            "sentence": "Сэ сымымаджэ|ти| пӏэкӏорым сыхэлъ",
+            "sentence": "Сэ сысымаджэ|ти| пӏэкӏорым сыхэлъ",
             "translation": "|Because| I am sick, I am lying in bed."
           },
 		  {
@@ -117305,7 +117305,7 @@
         "meaning": "a suffix that can be added to any noun, adjective or verb. It highlights the reason why the primary event in the sentence happens",
         "examples": [
 		  {
-            "sentence": "Сэ сымымаджэ|шъ| пӏэкӏорым сыхэлъ",
+            "sentence": "Сэ сысымаджэ|шъ| пӏэкӏорым сыхэлъ",
             "translation": "|Because| I am sick, I am lying in bed."
           },
 		  {
