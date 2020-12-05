@@ -117268,7 +117268,7 @@
             "translation": "|Because| I ate a lot, I am full."
           },
 		  {
-            "sentence": "Неущы тыдэкӏыщты|ти| непэ сыдгъэухьазырын фай",
+            "sentence": "Неущы тыдэкӏыщты|ти| непэ зыдгъэухьазырын фай",
             "translation": "|Because| we are going to go out tomorrow, we need to get ready today."
           },
 		  {
@@ -117313,20 +117313,12 @@
             "translation": "|Because| I ate a lot, I am full."
           },
 		  {
-            "sentence": "Неущы тыдэкӏыщты|шъ| непэ сыдгъэухьазырын фай",
+            "sentence": "Неущы тыдэкӏыщты|шъ| непэ зыдгъэухьазырын фай",
             "translation": "|Because| we are going to go out tomorrow, we need to get ready today."
           },
 		  {
             "sentence": "Бэ сышхыгъэ|пышъ| джыри мэлакӏэ сэлӏэ",
             "translation": "|Because| I did |not| ate a lot, I am still hungry."
-          },
-		  {
-            "sentence": "Седжагъэ|шъ| экзаменыр дэгъоу сышӏыгъ",
-            "translation": "|Because| I studied, I did the exam good."
-          },
-		  {
-            "sentence": "Уеджагъэ|пышъ| экзаменыр дэгъоу пшӏыгъэп",
-            "translation": "|Because| you did |not| study, you did not do the exam good."
           },
 		  {
             "sentence": "Седжагъэ|шъ| экзаменыр дэгъоу сышӏыгъ",
