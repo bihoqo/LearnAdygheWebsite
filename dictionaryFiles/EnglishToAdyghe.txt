@@ -1545,7 +1545,7 @@
     "slice": "налъэ (units of, slices of, pieces of)"
   },
   {
-    "king": "пачъыхь"
+    "king": "пачъыхь; пщыпащ"
   },
   {
     "lady": "бзылъфыгъэ"
@@ -3441,7 +3441,7 @@
     "medal": "бгъэхалъхь"
   },
   {
-    "pin ": "бгъэхэӏу"
+    "pin": "бгъэхэӏу"
   },
   {
     "pinhead": "бгъэхэӏушъхь"
@@ -6460,7 +6460,7 @@
     "fever cold": "чъыӏалӏэ"
   },
   {
-    "coolness ": "чъыӏэтагъ"
+    "coolness": "чъыӏэтагъ"
   },
   {
     "pig": "къо; хъо (Shapsug)"
@@ -6622,7 +6622,7 @@
     "musk-melon": "къаунэ; нэшэгъожь"
   },
   {
-    "leopard ": "махъушэчэтыу; махъшэчэтыу"
+    "leopard": "махъушэчэтыу; махъшэчэтыу"
   },
   {
     "jackal": "бэджэшъ"
@@ -7165,10 +7165,13 @@
     "dress": "джанэ"
   },
   {
-    "king": "пщыпащ"
+    "emperor": "пщыпащ"
   },
   {
-    "king, emperor, caesar, sultan": "пщыпащ"
+    "sultan": "пщыпащ"
+  },
+  {
+    "caesar": "пщыпащ"
   },
   {
     "button": "чыӏу"
@@ -9868,7 +9871,7 @@
     "wild tea": "дадыу"
   },
   {
-    "Marjoram ": "дадыу"
+    "Marjoram": "дадыу"
   },
   {
     "deficiency": "щыкӏагъэ; дагъо; дефект; нэцӏэкӏ"
@@ -10963,16 +10966,16 @@
     "to be anxious": "гумэкӏын; гузэжъон; гу къеон"
   },
   {
-    "to be uneasy ": "гумэкӏын; гузэжъон"
+    "to be uneasy": "гумэкӏын; гузэжъон"
   },
   {
     "to unease": "гъэгумэкӏын"
   },
   {
-    "a bit ": "тӏэкӏу; макӏэ"
+    "a bit": "тӏэкӏу; макӏэ"
   },
   {
-    "little bit ": "тӏэкӏу; макӏэ"
+    "little bit": "тӏэкӏу; макӏэ"
   },
   {
     "few": "тӏэкӏу; макӏэ"
@@ -18013,9 +18016,6 @@
     "deathtime": "хьадэгъу"
   },
   {
-    "time of death": "хьадэгъу"
-  },
-  {
     "haystack": "мэкъу хьандзу"
   },
   {
@@ -19102,7 +19102,7 @@
     "briquet": "мыжъошӏомыкӏ"
   },
   {
-    "debris": "къутаф (scattered remains of something destroyed)"
+    "debris": "хэкӏы; къутаф (scattered remains of something destroyed)"
   },
   {
     "wreckage": "къутаф (scattered remains of something destroyed)"
@@ -19432,28 +19432,20 @@
     "to run the wrong way": "чъэхъун"
   },
   {
-    "to make a slip in speaking; to say something mistakenly": "ӏохъун"
-  },
-  {
     "unemployed, jobless": "ӏофынчъэ"
-  },
-  {
-    "to whine; to complain": "ӏоен"
   },
   {
     "fart": "къушъу"
   },
   {
-    "far be it, it would be a desecration": "марджэ хъужьын"
+    "death time": "хьадэгъу; лӏэгъу"
   },
   {
-    "death time, time of death": "лӏэгъу"
+    "time of death": "хьадэгъу; лӏэгъу"
   },
   {
     "to be melted": "ткӏун"
   },
-  {
-    "garbage; debris": "хэкӏ"
   },
   {
     "to sweep": "пхъэнкӏэн; пхъэнкӏын (to sweep something)"

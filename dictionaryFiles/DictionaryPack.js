@@ -129131,7 +129131,7 @@
             "translation": "|I have doubt|, will (s)he write to me?"
           },
           {
-            "sentence": "|Сехъырэхъышэ|, сикъыщэна шъуӏуа?",
+            "sentence": "|Сехъырэхъышэ|, сыкъищэна шъуӏуа?",
             "translation": "|I have doubt|, will (s)he marry me?"
           }
         ]
