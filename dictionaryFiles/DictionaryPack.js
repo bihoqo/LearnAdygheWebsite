@@ -49223,6 +49223,18 @@
     "ipa": "ʃʷətə"
   },
   {
+    "word": "шъутыгъуанэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "(vulgar) asshole; arsehole",
+        "examples": []
+      }
+    ],
+    "type": "noun",
+    "ipa": "ʃʷətəʁʷaːna"
+  },
+  {
     "word": "пӏалъэ",
     "lang": "Adyghe",
     "definitions": [
@@ -51487,7 +51499,7 @@
         "meaning": "owl",
         "examples": [
           {
-            "sentence": "|тыгъурыгъур| чэщым бэбыбы",
+            "sentence": "|тыгъурыгъур| чэщым мэбыбы",
             "translation": "|The owl| flies in the night."
           }
         ]
@@ -55249,7 +55261,7 @@
           },
 		  {
             "sentence": "А пшъашъэм сыд афэдизэу |хэплъагъорэ|?",
-            "translation": "What |you see in| that girl?"
+            "translation": "What |do you see in| that girl that much?"
           }
         ]
       }
