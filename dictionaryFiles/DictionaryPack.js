@@ -66104,7 +66104,7 @@
             "translation": "Eat the |food|."
           },
 		  {
-            "sentence": "Пачъыхьым |ишхын| иуахътэ къыӏэгъэхьагъ",
+            "sentence": "Пачъыхьым |ишхын| иуахътэ къыӏэгъэкӏахь",
             "translation": "Provide the king |his meal| in time."
           },
 		  {
@@ -71134,6 +71134,19 @@
   },
   {
     "word": "гъомылапхъэ",
+    "lang": "Adyghe",
+    "definitions": [
+      {
+        "meaning": "alternative form of \"гъомлапхъэ\"",
+        "examples": []
+      }
+    ],
+    "kabardian": "гъуэмылапхъэ",
+    "type": "noun",
+    "ipa": "ʁʷaməlaːpχa"
+  },
+  {
+    "word": "гъомлапхъэ",
     "lang": "Adyghe",
     "definitions": [
       {
@@ -97394,6 +97407,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "to order; to command",
+        "examples": []
+      },
+	  {
         "meaning": "to address/mention someone in order to bring to attention; to bring to attention",
         "examples": [
           {
@@ -97415,6 +97432,7 @@
         ]
       }
     ],
+    "kabardian": "унафэ шӏын",
     "type": "verb",
     "ipa": "wənaːʃʷa faʃʼən"
   },
@@ -120910,6 +120928,10 @@
     "lang": "Adyghe",
     "definitions": [
       {
+        "meaning": "order; command",
+        "examples": []
+      },
+	  {
         "meaning": "attention",
         "examples": []
       }

@@ -11533,7 +11533,7 @@
     "sister-in-law": "нысэ (one's brother's wife); пщыпхъу (one's husband's sister); шӏупщыпхъу (one's wife's sister)"
   },
   {
-    "food": "шхыны, гъомыл, гъомлапхъэ (foodstuff); пчэдыжьышхэ (breakfast); щэджэгъуашхэ (launch); пчыхьэшъхьашхэ (supper, dinner for evening); чэщӏус (food for the night)"
+    "food": "шхыны; гъомыл; гъомлапхъэ (foodstuff); пчэдыжьышхэ (breakfast); щэджэгъуашхэ (launch); пчыхьэшъхьашхэ (supper, dinner for evening); чэщӏус (food for the night)"
   },
   {
     "meal": "шхыны, гъомыл, гъомлапхъэ (foodstuff)"
@@ -19814,7 +19814,10 @@
     "vat": "пхъэчай"
   },
   {
-    "command": "тхьэмэтагъэ; пэщагъ"
+    "command": "унашъо (order); тхьэмэтагъэ; пэщагъ"
+  },
+  {
+    "order": "унашъо"
   },
   {
     "leadership": "тхьэмэтагъэ; пэщагъ"
