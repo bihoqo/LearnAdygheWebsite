@@ -14046,7 +14046,7 @@
     "ipa": "xə"
   },
   {
-    "word": "ӏудан",
+    "word": "ӏуданэ",
     "lang": "Circassian",
     "adyDefinitions": [
       {
@@ -14064,7 +14064,7 @@
       }
     ],
     "type": "noun",
-    "ipa": "ʔʷədaːn"
+    "ipa": "ʔʷədaːna"
   },
   {
     "word": "къэпы",
@@ -14091,6 +14091,28 @@
     ],
     "type": "adj",
     "ipa": "qapə"
+  },
+  {
+    "word": "ӏошъхьэлъэ",
+    "lang": "Circassian",
+    "adyDefinitions": [
+      {
+        "meaning": "alternative form of \"ӏошъхьалъэ\"",
+        "examples": [
+          {
+            "sentence": "|ӏошъхьэлъэ| чӏыпӏ",
+            "translation": "|Hilly| area."
+          }
+        ]
+      },
+      {
+        "meaning": "hill",
+        "examples": []
+      }
+    ],
+    "kabardian": "ӏуащхьэ",
+    "type": "adj",
+    "ipa": "ʔʷaʂħaɬa"
   },
   {
     "word": "ӏуашъхьэ",
@@ -24100,7 +24122,12 @@
     "adyDefinitions": [
       {
         "meaning": "hilly",
-        "examples": []
+        "examples": [
+          {
+            "sentence": "|ӏошъхьэлъэ| чӏыпӏ",
+            "translation": "|Hilly| area."
+          }
+        ]
       }
     ],
 	"synonyms": [
