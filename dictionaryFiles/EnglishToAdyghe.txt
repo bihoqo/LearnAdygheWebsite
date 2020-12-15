@@ -18895,6 +18895,9 @@
     "to lose hope": "ыгу кӏодын / гукӏодын"
   },
   {
+    "to take to heart": "гу ихьан"
+  },
+  {
     "to become frustrated": "ыгу кӏодын / гукӏодын"
   },
   {
