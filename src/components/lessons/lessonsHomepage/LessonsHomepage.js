@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { exercises_1, exercises_2 } from '../../../consts/QuestionPack.js';
+import { exercises_1, exercises_2 } from '../../../questions/QuestionPack.js';
 import { Link } from 'react-router-dom';
 
 const LessonsHomepage = () => (

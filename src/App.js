@@ -3,6 +3,8 @@ import ExercisePage from './components/lessons/exercisePage/ExercisePage.js';
 import LessonPage from './components/lessons/lessonPage/LessonPage.js';
 import LessonsHomepage from './components/lessons/lessonsHomepage/LessonsHomepage.js';
 import DictionaryPage from './components/dictionary/dictionaryPage/DictionaryPage.js';
+import StoriesHomepage from './components/stories/storiesHomepage/StoriesHomepage.js';
+import StoryPage from './components/stories/storyPage/StoryPage.js';
 import { BrowserRouter, Route } from 'react-router-dom';
 import { Navbar, Nav, Button } from 'react-bootstrap';
 import './App.css';
@@ -17,6 +19,8 @@ function App() {
         <Route path='/exercise' component={ExercisePage} />
         <Route path='/lesson' component={LessonPage} />
         <Route path='/dictionary' component={DictionaryPage} />
+        <Route path='/stories' component={StoriesHomepage} />
+        <Route path='/story' component={StoryPage} />
       </div>
     </BrowserRouter>
   );
@@ -30,6 +34,7 @@ const TopNavBar = () => {
         <Nav.Link href="/">Home</Nav.Link>
         <Nav.Link href="/lessonsHome">Lessons</Nav.Link>
         <Nav.Link href="/dictionary">Dictionary</Nav.Link>
+        <Nav.Link href="/stories">Stories</Nav.Link>
       </Nav>
     </Navbar>
   )
