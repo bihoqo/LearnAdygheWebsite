@@ -1827,7 +1827,7 @@
     "to flee": "ежьэжьын; кӏэӏэжьын / кӏэтхъун (to run off, to flee or depart quickly); шӏуежьэжьын (to flee from)"
   },
   {
-    "to depart": "ежьэн (to go off to a journey); ӏукӏыжьын (to go away from the place one is); гъогум техьан (to go on the road); дэхьажьын (to head back); кӏэӏэн / кӏэтхъун (to run off, to depart quickly)"
+    "to depart": "ежьэн (to go off to a journey); ӏукӏыжьын (to go away from the place one is); гъогум техьан (to go on the road); дэхьажьын (to head back); кӏэтхъун (to run off, to depart quickly); кӏэӏэн (to run off, to depart quickly)"
   },
   {
     "to run off": "кӏэӏэн; кӏэтхъун; блэчъын / блэхъушъутын (to run past); техъушъутын (to run off from on something); чӏэхъушъутын (to run from under, to run from a lying position); ихъушъутын (to run out from inside something); дэхъушъутын (to run out from a yard, area or settlement); хэхъушъутын (to run out of an area with liquid or gas, to run out from among people/objects, to run out of a forest); къохъушъутын (to run out from behind); къыгохъушъутын / къыбгъодэхъушъутын (to run out from besides)"

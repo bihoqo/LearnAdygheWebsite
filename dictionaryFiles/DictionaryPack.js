@@ -122919,13 +122919,8 @@
     "lang": "Circassian",
     "adyDefinitions": [
       {
-        "meaning": "to run away, to make off, to flee",
-        "examples": [
-          {
-            "sentence": "Шым |кӏеӏэжьы|.",
-            "translation": "The horse |runs away|."
-          }
-        ]
+        "meaning": "alternative form of \"кӏэӏэн\"",
+        "examples": []
       }
     ],
     "synonyms": [
@@ -123328,6 +123323,19 @@
 	  {
         "meaning": "to scoop out; to dig out; to shovel out, to rake out, to remove by shoveling or raking",
         "examples": []
+      },
+	  {
+        "meaning": "to scram; to leave in a hurry",
+        "examples": []
+      },
+	  {
+        "meaning": "to run off (to flee or depart quickly), to make off",
+        "examples": [
+          {
+            "sentence": "Шым |кӏитхъугъ|.",
+            "translation": "The horse |ran off|."
+          }
+        ]
       }
     ],
     "type": "verb",
@@ -128507,7 +128515,7 @@
         ]
       },
       {
-        "meaning": "to run away, to flee",
+        "meaning": "to run off (to flee or depart quickly), to make off,
         "examples": [
           {
             "sentence": "Шым |кӏиӏагъ|.",
@@ -128518,6 +128526,10 @@
             "translation": "When the boy saw the dog, |he fled|."
           }
         ]
+      },
+	  {
+        "meaning": "to scram; to leave in a hurry",
+        "examples": []
       }
     ],
     "synonyms": [
