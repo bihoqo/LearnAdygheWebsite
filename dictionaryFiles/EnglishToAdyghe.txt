@@ -14908,7 +14908,7 @@
     "heel palm": "ӏэдакъэ"
   },
   {
-    "to burn": "стын (to be burning); гъэстын (to burn something); плъын (to heat up to a very high temperature); естылӏэн (to stick to the hot surface as a result of burning); тегъэстыхьан (to burn onto something); тегъэстыкӏын (to burn off something); хэгъэстыкӏын (to burn into something); хэстыхьан (to burn in fire, to burn in an area with a hot mass); машӏо хэнэн / машӏо кӏэнэн (to catch fire; to combust; to get ignited; to begin to burn; to inflame; to go up in flames); машӏо хэгъэнэн / машӏо кӏэгъэнэн (to ignite, to cause to begin to burn, to set on fire); зэхэнэн / зэкӏэнэн (to catch fire by itself); пыстыкӏын (to burn off the tip of)"
+    "to burn": "стын (to be burning); гъэстын (to burn something); плъын (to heat up to a very high temperature); естылӏэн (to stick to the hot surface as a result of burning); тегъэстыхьан (to burn onto something); тегъэстыкӏын (to burn off something); хэгъэстыкӏын (to burn into something); хэстыхьан (to burn in fire, to burn in an area with a hot mass); машӏо хэнэн / машӏо кӏэнэн (to catch fire, to combust, to get ignited, to begin to burn, to inflame, to go up in flames); машӏо хэгъэнэн / машӏо кӏэгъэнэн (to ignite, to cause to begin to burn, to set on fire); зэхэнэн / зэкӏэнэн (to catch fire by itself); пыстыкӏын (to burn off the tip of)"
   },
   {
     "to ignite": "машӏо хэнэн / машӏо кӏэнэн (to get ignited); машӏо хэгъэнэн / машӏо кӏэгъэнэн (to ignite, to cause to begin to burn)"

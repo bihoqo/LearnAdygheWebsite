@@ -2849,10 +2849,6 @@
             "translation": "The iron's tip |is burning|."
           },
 		  {
-            "sentence": "Тутыны |пыстыкӏэу|",
-            "translation": "The ."
-          },
-		  {
             "sentence": "Зыфэсакъ, уигъончэдж ыцыпэ |пыстыкӏы|, псынкӏэу гъэкӏуас",
             "translation": "Careful, the tip if your trousers |is burning off|, extinguish it quickly."
           },
@@ -6195,8 +6191,8 @@
             "translation": "The young man is shooting |the lion| with the gun."
           },
 		  {
-            "sentence": "Шакӏом |аслъаныр| тефагъ",
-            "translation": "The hunter |came across| them lion."
+            "sentence": "Шакӏор |аслъаным| тефагъ",
+            "translation": "The hunter came across |the lion|."
           },
 		  {
             "sentence": "Бланэр |аслъаным| шӏуежьэжьы",
@@ -6228,8 +6224,8 @@
         "meaning": "bear",
         "examples": [
 		  {
-            "sentence": "Шакӏом |мышъэм| тефагъ",
-            "translation": "The hunter |came across| them bear."
+            "sentence": "Шакӏор |мышъэм| тефагъ",
+            "translation": "The hunter |came across| the bear."
           },
 		  {
             "sentence": "Мэзым |мышъэхэр| хэсых",
@@ -14410,7 +14406,7 @@
             "translation": "Turn yourself and |look at me|."
           },
           {
-            "sentence": "Ныор къэгъагъэхэм |аплъынэ| икӏас",
+            "sentence": "Ныор къэгъагъэхэм |аплъынэу| икӏас",
             "translation": "The old-woman likes |to look at| the flowers."
           },
           {
@@ -64104,6 +64100,22 @@
         "meaning": "to be bored",
         "examples": [
           {
+            "sentence": "Лӏыжъыр |мэзэщы|",
+            "translation": "The old-man |is bored|."
+          },
+          {
+            "sentence": "Сэ |сэзэщы|",
+            "translation": "|I am bored|."
+          },
+          {
+            "sentence": "|Сызэщыгъ|",
+            "translation": "|I got bored|."
+          },
+          {
+            "sentence": "|Шъузэщырэба|?",
+            "translation": "|Don't you guys get bored|?"
+          },
+		  {
             "sentence": "Ар |мэзэщы|",
             "translation": "He is |bored|."
           },
@@ -64112,7 +64124,7 @@
             "translation": "The boy is |not bored|."
           },
           {
-            "sentence": "|Себыгъэзэщы|",
+            "sentence": "|Сэбыгъэзэщы|",
             "translation": "|You are boring me|."
           },
           {
@@ -67555,7 +67567,7 @@
           },
 		  {
             "sentence": "Кӏалэр кӏымафэм |хэзагъэ|",
-            "translation": "The boy |coping| in winter."
+            "translation": "The boy |is coping| with the winter."
           },
           {
             "sentence": "Кӏалэр унэм |изагъэрэп|",
@@ -111321,8 +111333,8 @@
             "translation": "The boy |is bored|."
           },
           {
-            "sentence": "Сэ |сэзэщы|",
-            "translation": "|I am bored|."
+            "sentence": "Сэ ащ |сезэщыгъ|",
+            "translation": "|I got bored of| that."
           },
           {
             "sentence": "Кӏалэр |зэщырэп|",
@@ -111345,8 +111357,16 @@
             "translation": "A good book |will not bore you|."
           },
           {
-            "sentence": "Кӏалэр ренэу джагуным |езэщы|",
-            "translation": "The boy |is bored| from always playing."
+            "sentence": "Мы джэгум |сезэщыгъ|",
+            "translation": "|I am bored of| this game."
+          },
+          {
+            "sentence": "А фылымым уеплъэу |уезэщыгъэба|?",
+            "translation": "|Didn't you got bored of| watching that film?"
+          },
+          {
+            "sentence": "Мы ӏофым |сезэщыгъ|, нэмыкӏ ӏофыкӏэ сылэжьэнэу сыфай",
+            "translation": "|I got bored of| this job, I want to work in a different job."
           },
           {
             "sentence": "Кӏалэм ныбджэгъу иӏэпышъ, |езэщы|",
@@ -119737,7 +119757,7 @@
         "examples": [
           {
             "sentence": "Цӏыф |зэфэшъхьаф| куп",
-            "translation": "Is there something |different| besides this shovel?"
+            "translation": "A group of |different} people."
           },
 		  {
             "sentence": "Ахэр унэ |зэфэшъхьафхэм| арысых",
@@ -128515,7 +128535,7 @@
         ]
       },
       {
-        "meaning": "to run off (to flee or depart quickly), to make off,
+        "meaning": "to run off (to flee or depart quickly), to make off",
         "examples": [
           {
             "sentence": "Шым |кӏиӏагъ|.",
