@@ -9748,7 +9748,7 @@
             "translation": "|I won't come back| to home till night."
           },
 		  {
-            "sentence": "Саусырыр |къэкӏощтыпи|, мы фылымым непэ тешъумыгъэплъ",
+            "sentence": "Саусырыр |къэкӏощтыпти|, мы фылымым непэ тешъумыгъэплъ",
             "translation": "|Because| Sawser |will not come|, let's not watch this film today."
           },
           {
@@ -9793,7 +9793,7 @@
             "translation": "|Did you go to| work today?"
           },
           {
-            "sentence": "Еджапӏэм непэ |сыкӏуагъэпи|, зырагъэджагъэхэр сышӏэрэп",
+            "sentence": "Еджапӏэм непэ |сыкӏуагъэпти|, зырагъэджагъэхэр сышӏэрэп",
             "translation": "|Because I did not go to| school today, I don't know what they taught."
           },
           {
@@ -9842,7 +9842,7 @@
             "translation": "The boy |is walking| to your house."
           },
           {
-            "sentence": "Лӏыжъыр |кӏошъурэпи|, пӏэм къыхэкӏырэп",
+            "sentence": "Лӏыжъыр |кӏошъурэпти|, пӏэм къыхэкӏырэп",
             "translation": "|Because| the old man |can't walk|, he does not get off the bed."
           },
           {
@@ -18195,7 +18195,7 @@
             "translation": "|Actually|, I was told that the new movie is not that good."
           },
           {
-            "sentence": "|ежь| теджагъа темыджагъа, экзамыным тыблэкӏыщтыпи тыблэкӏыщтэп",
+            "sentence": "|ежь| теджагъа темыджагъа, экзамыным тыблэкӏыщтыпти тыблэкӏыщтэп",
             "translation": "|In truth|, either we study or not, we won't pass the exam."
           }
         ]
@@ -27915,7 +27915,7 @@
             "translation": "Do you want |to sleep| here?"
           },
           {
-            "sentence": "Икъунэу |учъыягъэпи| чъые къыокӏу",
+            "sentence": "Икъунэу |учъыягъэпти| чъые къыокӏу",
             "translation": "|Because you did not slept| enough, you are sleepy."
           },
           {
@@ -31800,7 +31800,7 @@
             "translation": "Now I saw why the fridge |does not work|."
           },
 		  {
-            "sentence": "Кӏалэр |лажьэрэпи| сытебэнагъ",
+            "sentence": "Кӏалэр |лажьэрэпти| сытебэнагъ",
             "translation": "I harassed the boy |because he is not working|."
           }
         ]
@@ -32751,7 +32751,7 @@
             "translation": "When the movie ended we returned home |straight away|."
           },
           {
-            "sentence": "Сурэтым |занкӏэу| дэпкъым пылъыгъэпи сыгъэузэнкӏыжьыгъ",
+            "sentence": "Сурэтым |занкӏэу| дэпкъым пылъыгъэпти сыгъэузэнкӏыжьыгъ",
             "translation": "Because the picture was not hanged |straight| on the wall, I straighten it back."
           }
         ]
@@ -33242,7 +33242,7 @@
             "translation": "|Until| the enemy |passes|, be silent."
           },
 		  {
-            "sentence": "Cгу мэузы экзаменым |сыблэкӏышъугъэпи|",
+            "sentence": "Cгу мэузы экзаменым |сыблэкӏышъугъэпти|",
             "translation": "I feel bad |because I couldn't pass| the exam"
           },
 		  {
@@ -39399,7 +39399,7 @@
             "translation": "They bought a new |toy| for the boy."
           },
 		  {
-            "sentence": "Кӏалэм |джэгуалъэр| естыгъагъэпи зигъэгусагъ",
+            "sentence": "Кӏалэм |джэгуалъэр| естыгъагъэпти зигъэгусагъ",
             "translation": "Because I haven't given |the toy| to the boy, he sulked."
           }
         ]
@@ -45884,7 +45884,7 @@
             "translation": "The money I have |will be enough|"
           },
           {
-            "sentence": "|Икъунэу| учъыягъэпи чъые къыокӏу",
+            "sentence": "|Икъунэу| учъыягъэпти чъые къыокӏу",
             "translation": "Because you did not slept |enough|, you are sleepy."
           },
           {
@@ -48159,7 +48159,7 @@
             "translation": "|I will not eat with you| this evening, |I already ate|."
           },
 		  {
-            "sentence": "Тхьамыкӏэр |шхагъэпи| мэлакӏэ малӏэ",
+            "sentence": "Тхьамыкӏэр |шхагъэпти| мэлакӏэ малӏэ",
             "translation": "|Because| the poor |did not ate|, (s)he is starving."
           },
           {
@@ -65629,7 +65629,7 @@
             "translation": "The worker is afraid of |not to finish| his work in time."
           },
 		  {
-            "sentence": "Тхьэматэм лажьэ тралъхьажьыгъ ӏофыр иуахътэ |ухыгъэпи|",
+            "sentence": "Тхьэматэм лажьэ тралъхьажьыгъ ӏофыр иуахътэ |ухыгъэпти|",
             "translation": "They blamed the boss |because| the job |was not finished| in time."
           }
         ]
@@ -69294,7 +69294,7 @@
             "translation": "|Don't give| the boys our apples."
           },
           {
-            "sentence": "Кӏалэм джэгуалъэр |естыгъагъэпи| зигъэгусагъ",
+            "sentence": "Кӏалэм джэгуалъэр |естыгъагъэпти| зигъэгусагъ",
             "translation": "|Because I haven't given| the toy to the boy, he sulked."
           },
 		  {
@@ -73478,7 +73478,7 @@
             "translation": "The old-man |cursed you|."
           },
           {
-            "sentence": "Лӏыр кӏалэм ыгъэчъыерэпи |ебгыгъ|",
+            "sentence": "Лӏыр кӏалэм ыгъэчъыерэпти |ебгыгъ|",
             "translation": "The man |damned| the boy because he does not let him sleep."
           }
         ]
@@ -95211,7 +95211,7 @@
             "translation": "The boy |defeated them| in the race."
           },
 		  {
-            "sentence": "Кӏалэр пшъашъэм джэгумкӏэ |текӏошъугъэпи|, ыӏэ къиӏэтыгъ",
+            "sentence": "Кӏалэр пшъашъэм джэгумкӏэ |текӏошъугъэпти|, ыӏэ къиӏэтыгъ",
             "translation": "|Because| the boy |couldn't defeat| the girl in the game, he gave up."
           }
         ]
@@ -96857,7 +96857,7 @@
             "translation": "|I tie| the man's sadness |to| what happens in his house."
           },
           {
-            "sentence": "Ушъхьэузы |емыгъэпх| уцэу ушыхырэм, ар учъыерэпи ары.",
+            "sentence": "Ушъхьэузы |емыгъэпх| уцэу ушыхырэм, ар учъыерэпти ары.",
             "translation": "|Don't tie| your headache to the pills you're eating, it is because you aren't sleeping."
           }
         ]
@@ -97135,7 +97135,7 @@
             "translation": "There are flowers |in front of| the house."
           },
           {
-            "sentence": "Унэм |ыгупи| ыкӏыби фыжьыбзэу гъэлагъэ",
+            "sentence": "Унэм |ыгупти| ыкӏыби фыжьыбзэу гъэлагъэ",
             "translation": "The house's |front| and back are colored in white."
           }
         ]
@@ -99868,7 +99868,7 @@
             "translation": "|Actually|, I was told that the new movie is not that good."
           },
           {
-            "sentence": "|Шъыпкъэмкӏэ|, теджагъа темыджагъа, экзамыным тыблэкӏыщтыпи тыблэкӏыщтэп",
+            "sentence": "|Шъыпкъэмкӏэ|, теджагъа темыджагъа, экзамыным тыблэкӏыщтыпти тыблэкӏыщтэп",
             "translation": "|In truth|, either we study or not, we won't pass the exam."
           },
 		  {
@@ -105888,7 +105888,7 @@
             "translation": "Physics |is tied to| mathematics."
           },
           {
-            "sentence": "Ушъхьэузы |егъэпхыгъэп| уцэу ушхырым, ар учъыерэпи ары.",
+            "sentence": "Ушъхьэузы |егъэпхыгъэп| уцэу ушхырым, ар учъыерэпти ары.",
             "translation": "Your headache |is not tied to| the pills you're eating, it is because you aren't sleeping."
           }
         ]
@@ -106713,7 +106713,7 @@
         "meaning": "to sulk; to pout; to express offence by remaining sullenly silent or withdrawn",
         "examples": [
           {
-            "sentence": "Кӏэлэцӏыкӏум |зегъэгусэ| ыянэ ӏэшӏухэр къыритхэрэпи ары",
+            "sentence": "Кӏэлэцӏыкӏум |зегъэгусэ| ыянэ ӏэшӏухэр къыритхэрэпти ары",
             "translation": "The little boy |sulks| because his mother doesn't give him sweets."
           },
           {
@@ -106721,7 +106721,7 @@
             "translation": "The boy |sulked| when I cursed him."
           },
           {
-            "sentence": "Кӏалэм джэгуалъэр естыгъагъэпи |зигъэгусагъ|",
+            "sentence": "Кӏалэм джэгуалъэр естыгъагъэпти |зигъэгусагъ|",
             "translation": "Because I haven't given the toy to the boy, |he sulked|."
           },
           {
@@ -107674,7 +107674,7 @@
             "translation": "|I did not receive| my food in time."
           },
 		  {
-            "sentence": "Кӏалэм губжьыгъэ ӏофыр |къыӏэкӏэхьагъэпи|",
+            "sentence": "Кӏалэм губжьыгъэ ӏофыр |къыӏэкӏэхьагъэпти|",
             "translation": "The young man got angry |becase he did not get| the job."
           }
         ]
@@ -117388,7 +117388,7 @@
             "translation": "|Because| we are going to go out tomorrow, we need to get ready today."
           },
 		  {
-            "sentence": "Бэ сышхыгъэ|пи| джыри мэлакӏэ сэлӏэ",
+            "sentence": "Бэ сышхыгъэ|пти| джыри мэлакӏэ сэлӏэ",
             "translation": "|Because| I did |not| ate a lot, I am still hungry."
           },
 		  {
@@ -117396,7 +117396,7 @@
             "translation": "|Because| I studied, I did the exam good."
           },
 		  {
-            "sentence": "Уеджагъэ|пи| экзаменыр дэгъоу пшӏыгъэп",
+            "sentence": "Уеджагъэ|пти| экзаменыр дэгъоу пшӏыгъэп",
             "translation": "|Because| you did |not| study, you did not do the exam good."
           },
 		  {
@@ -117404,7 +117404,7 @@
             "translation": "|Because| I studied, I did the exam good."
           },
 		  {
-            "sentence": "Уеджагъэ|пи| экзаменыр дэгъоу пшӏыгъэп",
+            "sentence": "Уеджагъэ|пти| экзаменыр дэгъоу пшӏыгъэп",
             "translation": "|Because| you did |not| study, you did not do the exam good."
           }
         ]
@@ -122793,7 +122793,7 @@
         "meaning": "mercy; pity",
         "examples": [
           {
-            "sentence": "Пыим |шъхьас| фэмышӏ, сыда пӏомэ, ежь къыпфишӏыщтыпи ары",
+            "sentence": "Пыим |шъхьас| фэмышӏ, сыда пӏомэ, ежь къыпфишӏыщтыпти ары",
             "translation": "Don't have |mercy| for the enemy, because, he will not have it for you."
           }
         ]
@@ -123106,7 +123106,7 @@
             "translation": "The boy |is standing inside| the house talking."
           },
 		  {
-            "sentence": "А унагъом яунэ хъуанэ |итыпи|, якӏалэхэри хъуанэхэрэп",
+            "sentence": "А унагъом яунэ хъуанэ |итыпти|, якӏалэхэри хъуанэхэрэп",
             "translation": "|Because there is no| swearings |in| that family's house, their children also don't swear."
           }
         ]
@@ -130534,7 +130534,7 @@
             "translation": "Today |I will not go out with you guys|, I will be with my girlfriend."
           },
 		  {
-            "sentence": "Кӏалэр ыянэ зыфигъэгусагъ |дигъэкӏыгъэпи|",
+            "sentence": "Кӏалэр ыянэ зыфигъэгусагъ |дигъэкӏыгъэпти|",
             "translation": "The boy sulked for his mother |because she did not let him go out|."
           },
 		  {
@@ -134606,7 +134606,7 @@
         "meaning": "to harass",
         "examples": [
           {
-            "sentence": "Кӏалэр лажьэрэпи |сытебэнагъ|",
+            "sentence": "Кӏалэр лажьэрэпти |сытебэнагъ|",
             "translation": "|I harassed| the boy because he is not working."
           }
         ]
@@ -138429,7 +138429,7 @@
             "translation": "The boy |brings| the woods |to| the family."
           },
 		  {
-            "sentence": "Пшъашъэр кӏалэм зыфигъэгусагъ шӏухьафтын |къыфихьыгъэпи|",
+            "sentence": "Пшъашъэр кӏалэм зыфигъэгусагъ шӏухьафтын |къыфихьыгъэпти|",
             "translation": "The girl sulked for the boy |because he did not brought| a gift |for her|."
           }
         ]
@@ -139665,7 +139665,7 @@
             "translation": "|Because the boy felt sleepy|, he returned home to sleep."
           },
           {
-            "sentence": "Икъунэу учъыягъэпи |чъые къыокӏу|",
+            "sentence": "Икъунэу учъыягъэпти |чъые къыокӏу|",
             "translation": "Because you did not slept enough, |you are sleepy|."
           }
         ]
